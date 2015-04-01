@@ -1,0 +1,227 @@
+<article id="enc_info_way100a" name="Агропром - Кордон" group="enc_ways">
+	<text>enc_enc_info_way100a_text</text>
+</article>
+<article id="enc_strelok_pda" name="Портал Саркофаг - ЧАЕС-1" group="enc_ways">
+	<text>enc_strelok_pda_text</text>
+</article>
+<article id="enc_info_way101a" name="Кордон - Агропром" group="enc_ways">
+	<text>enc_enc_info_way101a_text</text>
+</article>
+<article id="enc_info_way102a" name="Агропром - Янтар" group="enc_ways">
+	<text>enc_enc_info_way102a_text</text>
+</article>
+<article id="enc_info_way103a" name="Янтар - Агропром" group="enc_ways">
+	<text>enc_enc_info_way103a_text</text>
+</article>
+<article id="enc_info_way104a" name="Дика Територія - Склади" group="enc_ways">
+	<text>enc_enc_info_way104a_text</text>
+</article>
+<article id="enc_info_way105a" name="Склади - Дика Територія" group="enc_ways">
+	<text>enc_enc_info_way105a_text</text>
+</article>
+<article id="enc_info_way106a" name="Янтар - Радар" group="enc_ways">
+	<text>enc_enc_info_way106a_text</text>
+</article>
+<article id="enc_info_way107a" name="Радар - Темна Долина" group="enc_ways">
+	<text>enc_enc_info_way107a_text</text>
+</article>
+<article id="enc_info_way108a" name="Радар - Янтар" group="enc_ways">
+	<text>enc_enc_info_way108a_text</text>
+</article>
+<article id="enc_info_way109a" name="Темна Долина - Радар" group="enc_ways">
+	<text>enc_enc_info_way109a_text</text>
+</article>
+<article id="enc_info_way110a" name="Темна Долина - Склади" group="enc_ways">
+	<text>enc_enc_info_way110a_text</text>
+</article>
+<article id="enc_info_way111a" name="Склади - Темна Долина" group="enc_ways">
+	<text>enc_enc_info_way111a_text</text>
+</article>
+<article id="enc_info_way112a" name="Бар - Армійські Склади" group="enc_ways">
+	<text>enc_enc_info_way112a_text</text>
+</article>
+<article id="enc_info_way113a" name="Бар - Дика Територія" group="enc_ways">
+	<text>enc_enc_info_way114a_text</text>
+</article>
+<article id="enc_info_way114a" name="Болота - Старе Село" group="enc_ways">
+	<text>enc_enc_info_way112b_text</text>
+</article>
+<article id="enc_info_way_false" name="Портал Армійські Склади - ЧАЕС-1" group="enc_ways">
+	<text>enc_enc_info_way_false_text</text>
+</article>
+
+<!-- AR -->
+  <article id="enc_life_heart" name="af_life_heart" group="enc_recipts">
+    <ltx>af_life_heart</ltx>
+    <text>enc_artmod_life_heart_ice_zone_text</text>
+  </article>
+  <article id="enc_info_red_battery" name="af_dummy_battery" group="enc_recipts">
+    <ltx>af_dummy_battery_red</ltx>
+    <text>enc_info_red_battery_text</text>
+  </article>
+  <article id="enc_info_red_spring" name="af_dummy_spring" group="enc_recipts">
+    <ltx>af_dummy_spring_red</ltx>
+    <text>enc_info_red_spring_text</text>
+  </article>
+  <article id="enc_info_red_pellicle" name="af_pellicle" group="enc_recipts">
+    <ltx>af_dummy_pellicle_red</ltx>
+    <text>enc_info_red_pellicle_text</text>
+  </article>
+<!-- Akill begin -->
+  <article id="enc_artmod_blood_mincer" name="Кров каменю з Каруселі" group="enc_artmod">
+	<texture x="0" y="950" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_blood_text</text>
+  </article>
+<!-- Akill end -->
+<article id="enc_artmod_mincer_meat_mosquito_bald" name="Шмат м'яса з Трампліна" group="enc_artmod">
+	<texture x="0" y="250" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_mincer_meat_mosquito_bald_text</text>
+</article>
+<article id="enc_artmod_electra_sparkler_mosquito_bald" name="Бенгальський вогонь з Трампліна" group="enc_artmod">
+	<texture x="0" y="600" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_electra_sparkler_mosquito_bald_text</text>
+</article>
+<article id="enc_artmod_ameba_slug_mosquito_bald" name="Слимак з Трампліна" group="enc_artmod">
+	<texture x="350" y="300" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_ameba_slug_mosquito_bald_text</text>
+</article>
+<article id="enc_artmod_cristall_mosquito_bald" name="Кристал з Трампліна" group="enc_artmod">
+	<texture x="350" y="600" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_cristall_mosquito_bald_text</text>
+</article>
+<article id="enc_artmod_rusty_sea-urchin_mosquito_bald" name="Морський їжак з Трампліна" group="enc_artmod">
+	<texture x="700" y="250" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_rusty_sea-urchin_mosquito_bald_text</text>
+</article>
+<article id="enc_artmod_dummy_dummy_mosquito_bald" name="Пустушка з Трампліна" group="enc_artmod">
+	<texture x="700" y="600" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_dummy_dummy_mosquito_bald_text</text>
+</article>
+<article id="enc_artmod_ameba_slug_gravi_zone" name="Слимак з Воронки" group="enc_artmod">
+	<texture x="0" y="300" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_ameba_slug_gravi_zone_text</text>
+</article>
+<article id="enc_artmod_ameba_slime_gravi_zone" name="Слиз з Воронки" group="enc_artmod">
+	<texture x="0" y="650" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_ameba_slime_gravi_zone_text</text>
+</article>
+<article id="enc_artmod_electra_flash_gravi_zone" name="Спалах з Воронки" group="enc_artmod">
+	<texture x="350" y="250" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_electra_flash_gravi_zone_text</text>
+</article>
+<article id="enc_artmod_night_star_gravi_zone" name="Нічна зірка з Воронки" group="enc_artmod">
+	<texture x="350" y="650" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_night_star_gravi_zone_text</text>
+</article>
+<article id="enc_artmod_soul_gravi_zone" name="Душа з Воронки" group="enc_artmod">
+	<texture x="700" y="300" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_soul_gravi_zone_text</text>
+</article>
+<article id="enc_artmod_dummy_pellicle_gravi_zone" name="Плівка з Воронки" group="enc_artmod">
+	<texture x="700" y="650" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_dummy_pellicle_gravi_zone_text</text>
+</article>
+<article id="enc_artmod_cristall_flower_mincer" name="Кам'яна квітка з Каруселі" group="enc_artmod">
+	<texture x="0" y="350" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_cristall_flower_mincer_text</text>
+</article>
+<article id="enc_artmod_drops_mincer" name="Крапля з Каруселі" group="enc_artmod">
+	<texture x="0" y="700" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_drops_mincer_text</text>
+</article>
+<article id="enc_artmod_rusty_kristall_mincer" name="Кристальна колючка з Каруселі" group="enc_artmod">
+	<texture x="350" y="350" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_rusty_kristall_mincer_text</text>
+</article>
+<article id="enc_artmod_electra_moonlight_mincer" name="Місячне світло з Каруселі" group="enc_artmod">
+	<texture x="350" y="700" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_electra_moonlight_mincer_text</text>
+</article>
+<article id="enc_artmod_ameba_slug_mincer" name="Слюда з Каруселі" group="enc_artmod">
+	<texture x="700" y="350" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_ameba_slug_mincer_text</text>
+</article>
+<article id="enc_artmod_dummy_glassbeads_mincer" name="Мамине намисто з Каруселі" group="enc_artmod">
+	<texture x="700" y="700" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_dummy_glassbeads_mincer_text</text>
+</article>
+<article id="enc_artmod_rusty_kristall_buzz" name="Кристальна колючка з Холодця" group="enc_artmod">
+	<texture x="0" y="400" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_rusty_kristall_buzz_text</text>
+</article>
+<article id="enc_artmod_rusty_thorn_buzz" name="Колючка з Холодця" group="enc_artmod">
+	<texture x="0" y="750" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_rusty_thorn_buzz_text</text>
+</article>
+<article id="enc_artmod_fireball_buzz" name="Вогняна куля з Холодця" group="enc_artmod">
+	<texture x="350" y="400" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_fireball_buzz_text</text>
+</article>
+<article id="enc_artmod_cristall_buzz" name="Кристал з Фонтану" group="enc_artmod">
+	<texture x="350" y="750" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_cristall_buzz_text</text>
+</article>
+<article id="enc_artmod_night_star_buzz" name="Золота рибка з Холодця" group="enc_artmod">
+	<texture x="700" y="400" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_night_star_buzz_text</text>
+</article>
+<article id="enc_artmod_fuzz_kolobok_buzz" name="Колобок з Холодця" group="enc_artmod">
+	<texture x="700" y="750" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_fuzz_kolobok_buzz_text</text>
+</article>
+<article id="enc_artmod_electra_flash_zharka" name="Спалах з Жарки" group="enc_artmod">
+	<texture x="0" y="450" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_electra_flash_zharka_text</text>
+</article>
+<article id="enc_artmod_ameba_slime_zharka" name="Слиз з Жарки" group="enc_artmod">
+	<texture x="0" y="800" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_ameba_slime_zharka_text</text>
+</article>
+<article id="enc_artmod_gravi_zharka" name="Граві з Жарки" group="enc_artmod">
+	<texture x="350" y="450" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_gravi_zharka_text</text>
+</article>
+<article id="enc_artmod_night_star_zharka" name="Нічна зірка з Жарки" group="enc_artmod">
+	<texture x="350" y="800" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_night_star_zharka_text</text>
+</article>
+<article id="enc_artmod_electra_moonlight_zharka" name="Місячне світло з Жарки" group="enc_artmod">
+	<texture x="700" y="450" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_electra_moonlight_zharka_text</text>
+</article>
+<article id="enc_artmod_dummy_battery_zharka" name="Батарейка з Жарки" group="enc_artmod">
+	<texture x="700" y="800" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_dummy_battery_zharka_text</text>
+</article>
+<article id="enc_artmod_fireball_galant" name="Вогняна куля з Електри" group="enc_artmod">
+	<texture x="0" y="500" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_fireball_galant_text</text>
+</article>
+<article id="enc_artmod_cristall_flower_galant" name="Кам'яна квітка з Електри" group="enc_artmod">
+	<texture x="0" y="850" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_cristall_flower_galant_text</text>
+</article>
+<article id="enc_artmod_ameba_mica_galant" name="Слюда з Електри" group="enc_artmod">
+	<texture x="350" y="500" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_ameba_mica_galant_text</text>
+</article>
+<article id="enc_artmod_electra_moonlight_galant" name="Душа з Електри" group="enc_artmod">
+	<texture x="350" y="850" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_electra_moonlight_galant_text</text>
+</article>
+<article id="enc_artmod_gold_fish_galant" name="Золота рибка з Електри" group="enc_artmod">
+	<texture x="700" y="500" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_gold_fish_galant_text</text>
+</article>
+<article id="enc_artmod_medusa_galant" name="Медуза з Електри" group="enc_artmod">
+	<texture x="350" y="550" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_medusa_galant_text</text>
+</article>
+<article id="enc_info_artmod_vyvert_buzz" name="Виверт з Холодця" group="enc_artmod">
+	<texture x="0" y="550" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_info_artmod_vyvert_buzz_text</text>
+</article>
+<article id="enc_artmod_dummy_spring_galant" name="Пружина з Електри" group="enc_artmod">
+	<texture x="700" y="850" width="300" height="50">ui\ui_sak</texture>
+	<text>enc_artmod_dummy_spring_galant_text</text>
+</article>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="list_trader_repair_0">
+		<text>Вартість ремонту зброї в першому слоті:</text>
+	</string>
+	<string id="list_trader_repair_1">
+		<text>Вартість ремонту зброї в другому слоті:</text>
+	</string>
+	<string id="list_trader_repair_2">
+		<text>Вартість ремонту броні:</text>
+	</string>
+
+<!---------- Долговязый с апгрейдом стволов--------->
+<string id="final_repair_weap_0">
+		<text>Отримав СМС. Ремонт закінчений? Щось ти довгенько порався.</text>
+</string>
+<string id="final_repair_weap_1">
+		<text>Ну, робота з такими речами - справа точна і не швидка. Все готово. Забирай.</text>
+</string>
+
+<string id="dlinnuy_upgrade_0">
+		<text>Здорово майстер, апгрейдом зброї займаєшся?</text>
+</string>
+<string id="dlinnuy_upgrade_1">
+		<text>Так, роблю помаленьку... Зайва халтурка не ушкодить. Попереджаю: це недешева робота - крім мене цим у Зоні ніхто не займається. Крім того переробляю не всю зброю, за пістолети наприклад не беруся, подивися в КПК - я туди тобі скинув список можливих модифікацій. Туди ж і схему апгрейда закинув. Почитай, щоб не ставити зайвих питань і потім мене не згадувати російським тихим сленгом. Так, і врахуй - на апгрейд треба час - на все йде десь години три. Та й ще - зброя, яку я модифікував, в ремонті обходиться набагато дорожче звичайної та й чекати доведеться довше.</text>
+</string>
+<string id="dlinnuy_upgrade_2">
+		<text>Давай модернізуємо перший ствол.</text>
+</string>
+<string id="dlinnuy_upgrade_21">
+		<text>Добро, але який варіант апгрейда ти вибираєш?</text>
+</string>
+<string id="dlinnuy_upgrade_211">
+		<text>Міняй калібр - так буде простіше патрони шукати - вони більш поширені.</text>
+</string>
+<string id="dlinnuy_upgrade_212">
+		<text>Зроби збільшення купчастості стрільби - це дуже важливий параметр. Іноді через промах на декілька сантиметрів можна життя позбутися.</text>
+</string>
+<string id="dlinnuy_upgrade_213">
+		<text>Давай знижуй вагу у зброї - все ж таки буде легше його носити, та й рука під вагою при прицілюванні не здригнеться. Можна буде ще й зайвих пару магазинів взяти.</text>
+</string>
+<string id="dlinnuy_upgrade_214">
+		<text>Поки напевно нічого робити не будемо.</text>
+</string>
+<string id="dlinnuy_upgrade_3">
+		<text>Давай проапгрейдимо другий ствол.</text>
+</string>
+<string id="dlinnuy_upgrade_31">
+		<text>Добро, але який варіант модернізації ти вибираєш?</text>
+</string>
+<string id="dlinnuy_upgrade_311">
+		<text>Міняй калібр - так буде простіше патрони шукати - вони більш поширені.</text>
+</string>
+<string id="dlinnuy_upgrade_312">
+		<text>Зроби збільшення купчастості стрільби - це саме те для мене. Іноді через промах на декілька сантиметрів можна життя позбутися.</text>
+</string>
+<string id="dlinnuy_upgrade_313">
+		<text>Давай знижуй вагу у зброї - все ж буде легше її носити, а то не Шварценегер я.</text>
+</string>
+<string id="dlinnuy_upgrade_314">
+		<text>Поки напевно нічого робити не будемо.</text>
+</string>
+<string id="dlinnuy_upgrade_5">
+		<text>Гаразд, зайду пізніше.</text>
+</string>
+<string id="dlinnuy_upgrade_6">
+		<text>Коли апгрейд закінчу - відправлю тобі СМС на КПК.\nЗроблю все за три години. Сходи пивка попий - бармен, начебто сьогодні добрий.</text>
+</string>
+<string id="dlinnuy_upgrade_8">
+		<text>Ну, Довгий, я дивлюся, ти нехило влаштувався: ствол віддай, дерев'яних накинь, а потім ще й чекай...</text>
+</string>
+<string id="dlinnuy_upgrade_9">
+		<text>Майстерна робота. Ти випадково не брат конструктора Калашникова?</text>
+</string>
+<string id="dlinnuy_upgrade_10">
+		<text>Можеш ще дещо проапгрейдити?</text>
+</string>
+<string id="dlinnuy_upgrade_11">
+		<text>Ну давай, зроблю. Готуй бабло.</text>
+</string>
+<string id="dlinnuy_upgrade_12">
+		<text>Гаразд, спасибі тобі. Будуть проблеми зі зброєю - зайду ще раз.</text>
+</string>
+<string id="dlinnuy_upgrade_13">
+		<text>Ну і добре... Все ж краще ніж нічого, правда? Ось, тримай.</text>
+</string>
+<string id="dlinnuy_upgrade_14">
+		<text>Ось, тримай. Що, мало? Тримай хоч це, а то передумаю.</text>
+</string>
+
+<!-- Реализация апгрейда  -->
+<string id="upgrade_tabl_stvol">
+<text>Варіанти апгрейда і обмеження:\n
+1. Після зниження ваги всі подальші апгрейди неможливі.\n\n
+2. Зброя, якій можна змінити калібр (тільки для базових моделей):\n
+   * АК-74М, AKC-74 "Кобра", АКС-74У, АН-94 "Абакан" - з 5.45х39 на 5.56x45\n
+   * ПК-19 "Бізон", Scorpion SA Vz 82 - з 9х18 на 9х19\n
+   * HK MP5A3, HK MP-5K-PDW, HK MP-7A1, IMI UZI - з 9х19 на 9х18\n
+   * FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG552 Commando, Enfield L85A2, FA MAS G2, Colt M16A4, M4A1 SOPMOD, Tavor CTAR 21 - з 5.56x45 на 5.45х39\n\n
+3. Зброя, якій можна знизити віддачу і збільшити кучність (тільки для базових моделей):\n
+АК-74М, AKC-74 "Кобра", АКС-74У, АН-94 "Абакан", АК, ПК-19 "Бізон", ScorpionVz.61, HK MP5A3, HK MP-5K-PDW, HK MP-7A1, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG552 Commando, Enfield L85A2, FA MAS G2, Colt M16A4, M4A1 SOPMOD, Tavor CTAR 21, HK 417 Sniper, Knights SR25 Mk.11\n\n
+4. Зброя, якій можна знизити вагу (доступно для всіх модифікацій):\n
+АК-74М, AKC-74 "Кобра", АКС-74У, АН-94 "Абакан", АК, ПК-19 "Бізон", ScorpionVz.61, OЦ-14-4 "Гроза", АС "Вал", ВСС "Гвинторіз", СВД, СВУ-А, гвинтівка Мосіна, В-94, «Ігломет», HK MP5A3, HK MP-5K-PDW, HK MP-7A1, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG552 Commando, Enfield L85A2, FA MAS G2, Colt M16A4, M4A1 SOPMOD, Tavor CTAR 21, HK 417 Sniper, Knights SR25 Mk.11, Сайга-12К, Winchester 1300, Franchi SPAS-12, Обріз БМ16, ТОЗ-34, M4 SUPER 90, Протекта, ППШ-41, Kriss super V, FN P90, ПКМ, Рушниця-гранатомет M79\n \n \n \n \n</text>
+</string>
+
+</string_table>

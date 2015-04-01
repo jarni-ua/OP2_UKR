@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<? Правлено Vergas ?>
+
+
+<cheat>
+#include "ui\ui_cheat_flash_0.xml"
+#include "ui\ui_cheat_flash_1.xml"
+#include "ui\ui_cheat_flash_2.xml"
+#include "ui\ui_cheat_flash_3.xml"
+#include "ui\ui_cheat_flash_4.xml"
+#include "ui\ui_cheat_flash_5.xml"
+#include "ui\ui_cheat_flash_6.xml"
+#include "ui\ui_cheat_flash_7.xml"
+#include "ui\ui_cheat_flash_8.xml"
+#include "ui\ui_cheat_flash_9.xml"
+#include "ui\ui_cheat_flash_10.xml"
+#include "ui\ui_cheat_flash_11.xml"
+#include "ui\ui_cheat_flash_12.xml"
+#include "ui\ui_cheat_flash_13.xml"
+#include "ui\ui_cheat_flash_14.xml"
+#include "ui\ui_cheat_flash_15.xml"
+#include "ui\ui_cheat_flash_16.xml"
+#include "ui\ui_cheat_radio.xml"
+
+	<back_video x="67" y="53" width="519" height="359" stretch="1">
+		<texture>ui\credits_back_512_v10</texture>
+	</back_video>
+
+	<background x="0" y="0" width="740" height="740" stretch="1">
+		<texture>ui\vr_player</texture>
+	</background>
+	
+	<background_r1 x="69" y="55" width="80" height="360" stretch="1">
+		<texture>ui\vr_ramka1</texture>
+	</background_r1>
+	
+	<background_r2 x="149" y="150" width="300" height="260" stretch="1">
+		<texture>ui\vr_ramka2</texture>
+	</background_r2>
+	
+	<background_r3 x="448" y="150" width="150" height="150" stretch="1">
+		<texture>ui\vr_ramka3</texture>
+	</background_r3>
+	
+	<background_2 x="482" y="63" width="60" height="60" stretch="1">
+		<texture>ui\vr_skull</texture>
+	</background_2>
+	
+	<background_3 x="147" y="69" width="300" height="60" stretch="1">
+		<texture>ui\vr_ns</texture>
+	</background_3>
+	
+	<background_4 x="154" y="60" width="50" height="35">
+		<text font="letterica16" r="137" g="137" b="137" a="255" align="l">OGG-player:by Ferrari314 and (Vergas + Zayaz) v.2.1</text>
+	</background_4>
+	
+	<background_5 x="447" y="286" width="140" height="92" stretch="1">
+		<texture>ui\vr_flash</texture>
+	</background_5>
+	
+	<background_5_2 x="447" y="384" width="68" height="22" stretch="1">
+		<texture>ui\vr_btn</texture>
+	</background_5_2>
+	
+	<background_5_2_1 x="451" y="386" width="16" height="16" stretch="1">
+		<texture>ui\vr_stop</texture>
+	</background_5_2_1>
+	
+	<background_5_2_2 x="474" y="386" width="25" height="25" stretch="1">
+		<text font="letterica16" r="180" g="0" b="0">Стоп</text>
+	</background_5_2_2>
+	
+	<background_5_3 x="516" y="384" width="68" height="22" stretch="1">
+		<texture>ui\vr_btn</texture>
+	</background_5_3>
+	
+	<background_5_3_1 x="564" y="386" width="16" height="16" stretch="1">
+		<texture>ui\vr_exit</texture>
+	</background_5_3_1>
+	
+	<background_5_3_2 x="532" y="386" width="25" height="25" stretch="1">
+		<text font="letterica16" r="0" g="191" b="255">Вихід</text>
+	</background_5_3_2>
+
+	<background_6 x="155" y="128" width="100" height="35">
+		<text font="letterica18"  r="207" g="207" b="207" a="255" align="l">Музика</text>
+	</background_6>
+	
+
+	<background_7 x="455" y="128" width="65" height="63">
+		<text font="letterica18"  r="207" g="207" b="207" a="255" align="l">Сталкерське радіо</text>
+	</background_7>
+	
+	<background_8 x="453" y="303" width="100" height="35">
+		<text font="letterica18"  r="238" g="154" b="0" a="255" align="l">Флешка</text>
+	</background_8>
+	
+
+	<background_9 x="220" y="100" width="100" height="35">
+		<text font="letterica18"  r="238" g="154" b="0" a="255" align="l">Файли</text>
+	</background_9>
+	
+	<background_10 x="453" y="308" width="50" height="35">
+		<text font="letterica18"  r="238" g="154" b="0" a="255" align="l">Card reader:</text>
+	</background_10>
+
+	<background_18 x="522" y="289" width="28" height="28" stretch="1">
+		<texture>ui\vr_empty</texture>
+	</background_18>
+	
+	<background_19 x="76" y="70" width="28" height="28" stretch="1">
+		<texture>ui\vr_kosti_3</texture>
+	</background_19>
+	
+	<background_20 x="76" y="112" width="28" height="28" stretch="1">
+		<texture>ui\vr_kosti_3</texture>
+	</background_20>
+	
+	<background_21 x="76" y="154" width="28" height="28" stretch="1">
+		<texture>ui\vr_kosti_3</texture>
+	</background_21>
+	
+	<background_22 x="76" y="196" width="28" height="28" stretch="1">
+		<texture>ui\vr_kosti_3</texture>
+	</background_22>
+	
+	<background_23 x="76" y="238" width="28" height="28" stretch="1">
+		<texture>ui\vr_kosti_3</texture>
+	</background_23>
+	
+	<background_24 x="76" y="280" width="28" height="28" stretch="1">
+		<texture>ui\vr_kosti_3</texture>
+	</background_24>
+	
+	<background_25 x="76" y="322" width="28" height="28" stretch="1">
+		<texture>ui\vr_kosti_3</texture>
+	</background_25>
+	
+	<background_26 x="110" y="70" width="28" height="28" stretch="1">
+		<texture>ui\vr_kosti_3</texture>
+	</background_26>
+	
+	<background_27 x="110" y="112" width="28" height="28" stretch="1">
+		<texture>ui\vr_kosti_3</texture>
+	</background_27>
+	
+	<background_28 x="110" y="154" width="28" height="28" stretch="1">
+		<texture>ui\vr_kosti_3</texture>
+	</background_28>
+	
+	<background_29 x="110" y="196" width="28" height="28" stretch="1">
+		<texture>ui\vr_kosti_3</texture>
+	</background_29>
+	
+	<background_30 x="110" y="238" width="28" height="28" stretch="1">
+		<texture>ui\vr_kosti_3</texture>
+	</background_30>
+	
+	<background_31 x="110" y="280" width="28" height="28" stretch="1">
+		<texture>ui\vr_kosti_3</texture>
+	</background_31>
+	
+	<background_32 x="110" y="322" width="28" height="28" stretch="1">
+		<texture>ui\vr_kosti_3</texture>
+	</background_32>
+
+	<background_41 x="76" y="364" width="28" height="28" stretch="1">
+		<texture>ui\vr_kosti_3</texture>
+	</background_41>
+	
+	<background_42 x="110" y="364" width="28" height="28" stretch="1">
+		<texture>ui\vr_kosti_3</texture>
+	</background_42>
+	
+	<btn_quit x="516" y="384" width="68" height="22">
+		<texture_e>ui\vr_blank</texture_e>
+	</btn_quit>
+
+	<btn_stop x="447" y="384" width="68" height="22">
+		<texture_e>ui\vr_blank</texture_e>
+	</btn_stop>
+	
+	<?-- Vergas кнопки выбора музыкального файла--?>
+	<background_001 x="155" y="158" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_001>
+	<btn_001 x="153" y="156" width="20" height="20">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_001>
+	
+	<background_002 x="155" y="179" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_002>
+	<btn_002 x="153" y="177" width="20" height="20">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_002>
+	
+	<background_003 x="155" y="200" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_003>
+	<btn_003 x="153" y="198" width="20" height="20">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_003>
+	
+	<background_004 x="155" y="221" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_004>
+	<btn_004 x="153" y="219" width="20" height="20">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_004>
+	
+	<background_005 x="155" y="242" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_005>
+	<btn_005 x="153" y="240" width="20" height="20">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_005>
+	
+	<background_006 x="155" y="263" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_006>
+	<btn_006 x="153" y="261" width="20" height="20">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_006>
+	
+	<background_007 x="155" y="284" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_007>
+	<btn_007 x="153" y="282" width="20" height="20">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_007>
+	
+	<background_008 x="155" y="305" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_008>
+	<btn_008 x="153" y="303" width="20" height="20">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_008>
+	
+	<background_009 x="155" y="326" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_009>
+	<btn_009 x="153" y="324" width="20" height="20">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_009>
+	
+	<background_010 x="155" y="347" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_010>
+	<btn_010 x="153" y="345" width="20" height="20">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_010>
+	
+	<background_011 x="155" y="368" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_011>
+	<btn_011 x="153" y="366" width="20" height="20">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_011>
+	
+	<background_012 x="155" y="389" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_012>
+	<btn_012 x="153" y="387" width="20" height="20">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_012>
+	
+	<background_radio_1 x="454" y="155" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_radio_1>
+	<btn_1 x="452" y="153" width="10" height="10">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_1>
+
+	<background_radio_2 x="454" y="169" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_radio_2>
+	<btn_2 x="452" y="167" width="10" height="10">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+		
+	</btn_2>
+	
+	<background_radio_3 x="454" y="183" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_radio_3>
+	<btn_3 x="452" y="181" width="10" height="10">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_3>
+
+	<background_radio_4 x="454" y="197" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_radio_4>
+	<btn_4 x="452" y="195" width="10" height="10">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_4>
+	
+
+	<background_radio_5 x="454" y="211" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_radio_5>
+	<btn_5 x="452" y="209" width="10" height="10">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_5>
+	
+	<background_radio_6 x="454" y="225" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_radio_6>
+	<btn_6 x="452" y="223" width="10" height="10">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_6>
+	
+	<background_radio_7 x="454" y="239" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_radio_7>
+	<btn_7 x="452" y="237" width="10" height="10">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_7>
+	
+	<background_radio_8 x="454" y="253" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_radio_8>
+	<btn_8 x="452" y="251" width="10" height="10">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_8>
+	
+	<background_radio_9 x="454" y="267" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_radio_9>
+	<btn_9 x="452" y="265" width="10" height="10">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_9>
+
+	<btn_flash_1 x="76" y="70" width="28" height="28">
+		<texture_e>ui\vr_blank</texture_e>
+	</btn_flash_1>
+	
+	<background_f1 x="76" y="70" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_1</texture>
+	</background_f1>
+	
+	<background_f1_slot x="522" y="289" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_1</texture>
+	</background_f1_slot>
+	
+	<btn_flash_2 x="76" y="112" width="28" height="28">
+		<texture_e>ui\vr_blank</texture_e>
+	</btn_flash_2>
+	
+	<background_f2 x="76" y="112" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_3</texture>
+	</background_f2>
+	
+	<background_f2_slot x="522" y="289" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_3</texture>
+	</background_f2_slot>
+
+	<btn_flash_3 x="76" y="154" width="28" height="28">
+		<texture_e>ui\vr_blank</texture_e>
+	</btn_flash_3>
+	
+	<background_f3 x="76" y="154" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_5</texture>
+	</background_f3>
+	
+	<background_f3_slot x="522" y="289" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_5</texture>
+	</background_f3_slot>
+
+	<btn_flash_4 x="76" y="196" width="28" height="28">
+		<texture_e>ui\vr_blank</texture_e>
+	</btn_flash_4>
+	
+	<background_f4 x="76" y="196" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_7</texture>
+	</background_f4>
+	
+	<background_f4_slot x="522" y="289" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_7</texture>
+	</background_f4_slot>
+	
+	<btn_flash_5 x="76" y="238" width="28" height="28">
+		<texture_e>ui\vr_blank</texture_e>
+	</btn_flash_5>
+	
+	<background_f5 x="76" y="238" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_9</texture>
+	</background_f5>
+	
+	<background_f5_slot x="522" y="289" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_9</texture>
+	</background_f5_slot>
+	
+	<btn_flash_6 x="76" y="280" width="28" height="28">
+		<texture_e>ui\vr_blank</texture_e>
+	</btn_flash_6>
+	
+	<background_f6 x="76" y="280" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_11</texture>
+	</background_f6>
+	
+	<background_f6_slot x="522" y="289" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_11</texture>
+	</background_f6_slot>
+	
+	<btn_flash_7 x="76" y="322" width="28" height="28">
+		<texture_e>ui\vr_blank</texture_e>
+	</btn_flash_7>
+	
+	<background_f7 x="76" y="322" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_13</texture>
+	</background_f7>
+	
+	<background_f7_slot x="522" y="289" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_13</texture>
+	</background_f7_slot>
+	
+	<btn_flash_8 x="110" y="70" width="28" height="28">
+		<texture_e>ui\vr_blank</texture_e>
+	</btn_flash_8>
+	
+	<background_f8 x="110" y="70" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_2</texture>
+	</background_f8>
+	
+	<background_f8_slot x="522" y="289" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_2</texture>
+	</background_f8_slot>
+	
+	<btn_flash_9 x="110" y="112" width="28" height="28">
+		<texture_e>ui\vr_blank</texture_e>
+	</btn_flash_9>
+	
+	<background_f9 x="110" y="112" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_4</texture>
+	</background_f9>
+	
+	<background_f9_slot x="522" y="289" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_4</texture>
+	</background_f9_slot>
+	
+	<btn_flash_10 x="110" y="154" width="28" height="28">
+		<texture_e>ui\vr_blank</texture_e>
+	</btn_flash_10>
+	
+	<background_f10 x="110" y="154" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_6</texture>
+	</background_f10>
+	
+	<background_f10_slot x="522" y="289" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_6</texture>
+	</background_f10_slot>
+	
+	<btn_flash_11 x="110" y="196" width="28" height="28">
+		<texture_e>ui\vr_blank</texture_e>
+	</btn_flash_11>
+	
+	<background_f11 x="110" y="196" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_8</texture>
+	</background_f11>
+	
+	<background_f11_slot x="522" y="289" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_8</texture>
+	</background_f11_slot>
+	
+	<btn_flash_12 x="110" y="238" width="28" height="28">
+		<texture_e>ui\vr_blank</texture_e>
+	</btn_flash_12>
+	
+	<background_f12 x="110" y="238" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_10</texture>
+	</background_f12>
+	
+	<background_f12_slot x="522" y="289" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_10</texture>
+	</background_f12_slot>
+	
+	<btn_flash_13 x="110" y="280" width="28" height="28">
+		<texture_e>ui\vr_blank</texture_e>
+	</btn_flash_13>
+	
+	<background_f13 x="110" y="280" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_12</texture>
+	</background_f13>
+	
+	<background_f13_slot x="522" y="289" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_12</texture>
+	</background_f13_slot>
+	
+	<btn_flash_14 x="110" y="322" width="28" height="28">
+		<texture_e>ui\vr_blank</texture_e>
+	</btn_flash_14>
+	
+	<background_f14 x="110" y="322" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_14</texture>
+	</background_f14>
+	
+	<background_f14_slot x="522" y="289" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_14</texture>
+	</background_f14_slot>
+	
+	<btn_flash_15 x="76" y="364" width="28" height="28">
+		<texture_e>ui\vr_blank</texture_e>
+	</btn_flash_15>
+	
+	<background_f15 x="76" y="364" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_15</texture>
+	</background_f15>
+	
+	<background_f15_slot x="522" y="289" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_15</texture>
+	</background_f15_slot>
+	
+	<btn_flash_16 x="110" y="364" width="28" height="28">
+		<texture_e>ui\vr_blank</texture_e>
+	</btn_flash_16>
+	
+	<background_f16 x="110" y="364" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_16</texture>
+	</background_f16>
+	
+	<background_f16_slot x="522" y="289" width="28" height="28" stretch="1">
+		<texture>ui\vr_player_flash_16</texture>
+	</background_f16_slot>
+	
+	<background_vol_1 x="450" y="362" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_vol_1>
+	
+	<background_vol_2 x="468" y="362" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_vol_2>
+	
+	<background_vol_3 x="486" y="362" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_vol_3>
+	
+	<background_vol_4 x="504" y="362" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_vol_4>
+	
+	<background_vol_5 x="522" y="362" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_1</texture>
+	</background_vol_5>
+	
+	<background_vol_11 x="450" y="362" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_2</texture>
+	</background_vol_11>
+	
+	<background_vol_21 x="468" y="362" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_2</texture>
+	</background_vol_21>
+	
+	<background_vol_31 x="486" y="362" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_2</texture>
+	</background_vol_31>
+	
+	<background_vol_41 x="504" y="362" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_2</texture>
+	</background_vol_41>
+	
+	<background_vol_51 x="522" y="362" width="12" height="12" stretch="1">
+		<texture>ui\vr_knopka_2</texture>
+	</background_vol_51>
+	
+	<btn_vol_1 x="448" y="360" width="12" height="12">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_vol_1>
+	
+	<btn_vol_2 x="466"y="360" width="12" height="12">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_vol_2>
+	
+	<btn_vol_3 x="484"y="360" width="12" height="12">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_vol_3>
+	
+	<btn_vol_4 x="502"y="360" width="12" height="12">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_vol_4>
+	
+	<btn_vol_5 x="520"y="360" width="12" height="12">
+		<texture_e>ui\vr_blank</texture_e>
+		<texture_t>ui\vr_knopka_2</texture_t>
+		<texture_h>ui\vr_knopka_2</texture_h>
+	</btn_vol_5>
+	
+	<background_ring_off x="538" y="350" width="48" height="28" stretch="1">
+		<texture>ui\vr_repeat_off</texture>
+	</background_ring_off>
+	
+	<background_ring_on x="538" y="350" width="48" height="28" stretch="1">
+		<texture>ui\vr_repeat_on</texture>
+	</background_ring_on>
+	
+	<btn_ring x="538" y="350" width="48" height="28" stretch="1">
+		<texture_e>ui\vr_blank</texture_e>
+	</btn_ring>
+
+</cheat>
+

@@ -1,0 +1,517 @@
+-- Достижения
+
+function acv_halavshic()
+	send_archievement("Халявщик")
+end
+
+function acv_homak()
+	send_archievement("Хом'як")
+end
+
+function acv_lekar()
+	send_archievement("Лікар Айболить")
+end
+
+function acv_tereza()
+	send_archievement("Мати Тереза")
+end
+
+function acv_rank1()
+	send_archievement("Чемпіон")
+end
+
+function acv_rank2()
+	send_archievement("Герой Зони")
+end
+
+function acv_farm()
+	acv_count_event("acv_farm", 30, "Фармацевт")
+end
+
+function acv_coll()
+	send_archievement("Колекціонер")
+end
+
+function acv_profi()
+	send_archievement("Професіонал")
+end
+
+function acv_volna()
+	send_archievement("Захисник Зони")
+end
+
+function acv_shax()
+	send_archievement("Шахіст")
+end
+
+function acv_sos()
+	if has_alife_info("acv_sos") then return end
+	
+	if has_alife_info("squad_is_alive") and has_alife_info("psih_is_alive") then 
+		db.actor:give_info_portion("acv_sos")
+		send_archievement("Служба Порятунку")
+	end
+end
+
+function acv_snp()
+	if has_alife_info("acv_snp") then return end
+	
+	if  has_alife_info("upiter_sdelka_have") and 
+		has_alife_info("fli_chaes_have") and 
+		has_alife_info("borov_bottle_done") and
+		has_alife_info("viking_proverka_have")
+	then 
+		db.actor:give_info_portion("acv_snp")
+		send_archievement("Снайпер")
+	end
+end
+
+function acv_docs()
+	if not has_alife_info("acv_docs_fail") then
+		db.actor:give_info_portion("acv_docs")
+		send_archievement("Бібліотекар")
+	end
+end
+
+function acv_aem()
+	if not has_alife_info("acv_aem") then
+		db.actor:give_info_portion("acv_aem")
+		send_archievement("Гладіатор")
+	end
+end
+
+function acv_cognized_zone()
+	if has_alife_info("acv_cognized_zone") then return end
+
+	for i=1,36 do
+		if not has_alife_info("arhara_obman"..tostring(i)) then return end
+	end
+
+	db.actor:give_info_portion("acv_cognized_zone")
+	send_archievement("Той що пізнав Зону")
+end
+
+function acv_sishik()
+	if has_alife_info("acv_sishik") then return end
+	
+	if has_alife_info("acv_sishik1") and has_alife_info("acv_sishik2") and has_alife_info("acv_sishik3") and has_alife_info("acv_sishik4") then 
+		db.actor:give_info_portion("acv_sishik")
+		send_archievement("Слідчий")
+	end
+end
+
+function acv_task()
+	if has_alife_info("acv_task_fail") then return end
+
+	if has_alife_info("info_chess_dictofon_done") and has_alife_info("snp_video_arhiv_done") then 	
+		db.actor:give_info_portion("acv_task")
+	send_archievement("Виконавець Завдань")
+		amk.start_timer("run5", 3, "archievements.acv_stalker()")
+	end
+end
+
+function acv_real()
+	if has_alife_info("acv_real_fail") then return end
+
+	db.actor:give_info_portion("acv_real")
+	send_archievement("Реаліст")
+end
+
+function acv_vzn()
+	if has_alife_info("acv_vzn3") then return end
+
+	if     not has_alife_info("acv_vzn1") then
+		db.actor:give_info_portion("acv_vzn1")
+		send_archievement("Спонсор")
+	elseif not has_alife_info("acv_vzn2") then
+		db.actor:give_info_portion("acv_vzn2")
+	elseif not has_alife_info("acv_vzn3") then
+		db.actor:give_info_portion("acv_vzn3")
+		send_archievement("Меценат")
+	end
+end
+
+function acv_life()
+	if sak.all_questmen_alive() then
+		if has_alife_info("acv_umer") then
+			db.actor:give_info_portion("acv_resur")
+			send_archievement("Воскрешатель Мертвих")
+		else
+			db.actor:give_info_portion("acv_alive")
+			send_archievement("Хранитель Життя")
+		end
+	end
+end
+
+function acv_money()
+	if db.actor:money() > 90000000 then return end
+	
+	if not has_alife_info("acv_money1") and db.actor:money() >= 5000000 then
+		db.actor:give_info_portion("acv_money1")
+		send_archievement("Нумізмат")
+	end
+	if not has_alife_info("acv_money2") and db.actor:money() >= 15000000 then
+		db.actor:give_info_portion("acv_money2")
+		send_archievement("Рокфеллер")
+	end
+	if not has_alife_info("acv_money3") and db.actor:money() >= 30000000 then
+		db.actor:give_info_portion("acv_money3")
+		send_archievement("Жлоб")
+	end
+end
+
+function has_cheated_jump()
+	if has_alife_info("acv_has_cheated") then return end
+
+	news_manager.send_tip(db.actor, "ac".."v_".."ju".."mp_".."text", nil, "nano", 30000)
+	db.actor:give_info_portion("acv_has_cheated")
+	send_archievement("Ч".."іт".."ер")
+end
+
+function has_cheated_money()
+	if has_alife_info("acv_has_cheated") then return end
+	
+	news_manager.send_tip(db.actor, "ac".."v_".."mo".."ne".."y_".."text", nil, "nano", 30000)
+	db.actor:give_info_portion("acv_has_cheated")
+	send_archievement("Ч".."іт".."ер")
+end
+
+function has_cheated_item()
+	if has_alife_info("acv_has_cheated") or has_alife_info("mm_opt") then return end
+
+	news_manager.send_tip(db.actor, "ac".."v_".."it".."em_".."text", nil, "nano", 30000)
+	db.actor:give_info_portion("acv_has_cheated")
+	send_archievement("Ч".."іт".."ер")
+end
+
+function has_cheated_zone()
+	if has_alife_info("acv_has_cheated") then return end
+	
+	news_manager.send_tip(db.actor, "ac".."v_".."zo".."ne_".."text", nil, "nano", 30000)
+	db.actor:give_info_portion("acv_has_cheated")
+	send_archievement("Ч".."ит".."ер")
+end
+
+function acv_stalker()
+	if  has_alife_info("acv_sishik") and 
+		has_alife_info("acv_sos") and 
+		has_alife_info("acv_docs") and 
+		has_alife_info("acv_cognized_zone") and 
+		has_alife_info("acv_lekar") and 
+		has_alife_info("acv_tereza") and 
+		has_alife_info("acv_farm") and 
+		has_alife_info("acv_rank2") and 
+		has_alife_info("acv_emb") and 
+		has_alife_info("acv_hell") and 
+		has_alife_info("acv_snp") and 
+		has_alife_info("acv_ct") and 
+		has_alife_info("acv_kill") and 
+		has_alife_info("acv_mons") and 
+		has_alife_info("acv_zoms") and 
+		has_alife_info("acv_task") and 
+		has_alife_info("acv_vzn1") and 
+		has_alife_info("acv_alive") and 
+		has_alife_info("acv_wpn") and 
+		has_alife_info("volna_day4_done") and 
+		has_alife_info("info_chess_dictofon_done") and 
+		not has_alife_info("acv_has_cheated") and
+		not has_alife_info("acv_halavshic3") and
+		not has_alife_info("acv_bridge") and
+		not has_alife_info("acv_docs_fail") and
+		not has_alife_info("acv_money3") and
+		not has_alife_info("acv_alk") and
+		not has_alife_info("acv_slp") and
+		not has_alife_info("acv_task_fail") and
+		not has_alife_info("acv_vzn3") and
+		not has_alife_info("acv_umer")
+	then
+		db.actor:give_info_portion("acv_stalker")
+		send_archievement("S.T.A.L.K.E.R.")
+	end
+end
+
+-- единая функция обработки и выдачи подсчитываемых достижений
+function acv_count_event(acv, count, name, qty)
+	if has_alife_info(acv) then return end
+	
+	if not qty then
+		qty = 1
+	end
+	
+	local value = amk.load_variable(acv, 0)+qty
+	
+	if value >= count then
+		amk.del_variable(acv)
+		db.actor:give_info_portion(acv)
+		send_archievement(name)
+		return
+	end
+
+	amk.save_variable(acv, value) 
+end
+
+-- счетчик смертей гг
+function on_actor_death(who)
+	if has_alife_info("peshera_go") then return end	-- сон в Пещере не считаем
+
+	set_death_count("death", get_death_count("death")+1)
+	
+	if who and amk_anoms.is_anomaly(who:clsid()) then
+		set_death_count("anoms", get_death_count("anoms")+1)
+	end
+end
+function acv_death()
+	if not has_alife_info("acv_death") and get_death_count("death") >= 500 then
+		db.actor:give_info_portion("acv_death")
+		send_archievement("Юрій Семецький")
+	end
+	
+	if not has_alife_info("acv_anoms") and get_death_count("anoms") >= 20 then
+		db.actor:give_info_portion("acv_anoms")
+		send_archievement("Підкорювач Аномалій")
+	end
+end
+
+-- универсальный независимый от сейвов счетчик, реализованный на файлах - считает количество смертей гг а также время прохождения
+function get_death_count(what)
+	local f = getFS()
+	local flist = f:file_list_open_ex("$game_saves$", bit_or(FS.FS_ListFiles, FS.FS_RootOnly), "*."..what)
+
+	if flist:Size() > 0 then
+		return tonumber(string.match(flist:GetAt(0):NameFull(),"(.+)[.]"))
+	else
+		local f1 = f:update_path("$game_saves$", "game_setup.ltx")
+		local f2 = f:update_path("$game_saves$", "0."..what)
+		f:file_copy(f1, f2)
+		return 0
+	end
+end
+function set_death_count(what, value)
+	local f = getFS()
+	local fileName = f:file_list_open_ex("$game_saves$", bit_or(FS.FS_ListFiles, FS.FS_RootOnly), "*."..what):GetAt(0):NameFull()
+	local fileNameNew = tostring(value).."."..what
+	if fileNameNew ~= fileName then
+		local f1 = f:update_path("$game_saves$", fileName)
+		local f2 = f:update_path("$game_saves$", fileNameNew)
+		f:file_rename(f1, f2, true)
+	end
+end
+
+function on_new_game()
+	get_death_count("game")
+	set_death_count("game", 0)
+	get_death_count("death")
+	set_death_count("death", 0)
+	get_death_count("anoms")
+	set_death_count("anoms", 0)
+end
+
+function save_gametime()
+	if alife() then
+		set_death_count("game", get_death_count("game")+math.floor(time_global()/60000+0.5))
+	end
+end
+
+-- взятие тайника без уникальных предметов
+function check_treasure(box)
+	local se_obj
+	local section = box:section()
+	if     section == "m_inventory_box13" then
+		db.actor:give_info_portion("acv_sishik1")
+		acv_sishik()
+	elseif section == "x_inventory_box3" then
+		db.actor:give_info_portion("acv_sishik2")
+		acv_sishik()
+	elseif section == "y_inventory_box1" then
+		db.actor:give_info_portion("acv_sishik3")
+		acv_sishik()
+	elseif section == "z_inventory_box15" then
+		db.actor:give_info_portion("acv_sishik4")
+		acv_sishik()
+	end
+end
+
+-- подъем предмета
+function on_item_take(obj)
+	local se_obj
+	local section = obj:section()
+	if     section == "mutant_wolf_cocoon" then
+		if not has_alife_info("acv_emb") then
+			db.actor:give_info_portion("acv_emb")
+			send_archievement("Шеф-кухар")
+		end
+	end
+	
+	if not has_alife_info("acv_wpn") and has_all_wpns(section) then
+		db.actor:give_info_portion("acv_wpn")
+		send_archievement("Збройний Барон")
+	end
+
+	if has_alife_info("mm_opt") and section ~= "separator" then
+		has_cheated_item()
+	end
+end
+
+local wpns = {
+"wpn_akms_m1",
+"wpn_kord_m1",
+"wpn_fn2000_sniper",
+"wpn_vepr12_20",
+"wpn_m500_custom",
+"wpn_akm_ves_otdaca",
+"wpn_akms_m2",
+"wpn_aug_a2",
+"wpn_fn2000_paratrooper",
+"wpn_gauss2b",
+"wpn_groza_sn",
+"wpn_oicw",
+"wpn_sks_cust",
+"wpn_val_voron",
+"wpn_ks23",
+"wpn_sayga12k",
+"wpn_ak74u_svd",
+"wpn_awp_m1",
+"wpn_sg550_sr",
+"wpn_vihlop_m1",
+"wpn_zastava_m77",
+"wpn_20w_vintorez",
+"wpn_ak74_m3",
+"wpn_ak74_m1",
+"wpn_ak104t",
+"wpn_aks74_m1",
+"wpn_g36_m1",
+"wpn_hostel",
+"wpn_m4_m1",
+"wpn_ognemet",
+"wpn_svd_m1",
+"wpn_svd_m2",
+"wpn_svd_m3",
+"wpn_b94_sil",
+"wpn_protecta_col",
+"wpn_vintorez_m1",
+"wpn_walther_wa2000",
+"wpn_spas12_m1",
+"wpn_groza_m1",
+"wpn_dark_gauss",
+"wpn_benelli_m3_short",
+"wpn_rpkcustom",
+"wpn_sw",
+"wpn_rpk47_sk1",
+"wpn_vepr12_m1",
+"wpn_sayga_un",
+"wpn_mauser",
+}
+
+function has_all_wpns(section)
+	for i, s in ipairs(wpns) do
+		if s == section and not has_alife_info("acv_wpn"..i) then
+			db.actor:give_info_portion("acv_wpn"..i)
+			return has_all_wpns_info()
+		end
+	end
+	return false
+end
+function has_all_wpns_info()
+	for i=1, #wpns do
+		if not has_alife_info("acv_wpn"..i) then
+			return false
+		end
+	end
+	return true
+end
+
+local foods = {
+	["kolbasa"] = true,
+	["conserva"] = true,
+	["bread"] = true,
+	["sandwich"] = true,
+	["sweetness"] = true
+}
+local params = {}
+
+-- получение подсчитываемого предмета
+function on_receive_count_item(obj)
+	local section = obj:section()
+
+	if (not foods[section] and
+		section ~= "vodka" and
+		section ~= "af_buliz" and
+		not isMagazinedWeapon(obj))
+		or 
+		(has_alife_info("acv_food") and
+		has_alife_info("acv_vodka") and
+		has_alife_info("acv_buliz") and
+		has_alife_info("acv_weapon"))
+	then return end
+	
+	params.food = 0
+	params.vodka = 0
+	params.buliz = 0
+	params.wpn = 0
+	
+	db.actor:inventory_for_each(count_objects)
+	
+	if not has_alife_info("acv_food") and params.food >= 200 then
+		db.actor:give_info_portion("acv_food")
+		send_archievement("Хліборізка")
+	elseif not has_alife_info("acv_vodka") and params.vodka >= 300 then
+		db.actor:give_info_portion("acv_vodka")
+		send_archievement("Закодований")
+	elseif not has_alife_info("acv_buliz") and params.buliz >= 40 then
+		db.actor:give_info_portion("acv_buliz")
+		send_archievement("Каменщик")
+	elseif not has_alife_info("acv_weapon") and params.wpn >= 100 then
+		db.actor:give_info_portion("acv_weapon")
+		send_archievement("Термінатор")
+	end
+	
+	params = {}
+end
+function count_objects(item)
+	params.sect = item:section()
+	
+	if foods[params.sect] then
+		params.food = params.food+1
+	elseif params.sect == "vodka" then
+		params.vodka = params.vodka+1
+	elseif params.sect == "af_buliz" then
+		params.buliz = params.buliz+1
+	elseif isMagazinedWeapon(item) then
+		params.wpn = params.wpn+1
+	end
+end
+
+function send_archievement(text)
+	amk.start_timer("send_archievement", 2.5, text)
+end
+function send_archievement_chunk(text)
+	local acv_text = "%c[255,255,255,0]Нове досягнення\\n%c[255,255,185,0]"..text
+	db.actor:give_game_news(acv_text, "ui\\ui_iconsTotal", Frect():set(747,517,83,47), 0, 20000)
+	xr_sound.get_safe_sound_object([[device\pda\pda_objective]]):play(db.actor, 0, sound_object.s2d)
+	
+	local hud = get_hud():AddCustomStatic("main_task", true)
+	hud:wnd():SetTextST(acv_text)
+	hud.m_endTime = time_global()/1000+10
+end
+
+function send_umer_info(obj)
+	local npc_name = get_npc_name(obj)
+
+	amk.send_tip("%c[255,255,0,0]Зафіксована смерть сталкера на прізвисько "..npc_name.."%c[default]", "ЛОКАЛЬНА МЕРЕЖА", 0, 15, "questman_death", "questman_death")
+	local hud = get_hud():AddCustomStatic("main_task", true)
+	hud:wnd():SetTextST("%c[255,255,0,0]Загинув сталкер:\\n"..npc_name)
+	hud.m_endTime = time_global()/1000+10
+
+	db.actor:give_info_portion("acv_umer")
+end
+function get_npc_name(obj)
+	local tbl = amk.read_stalker_params(obj)
+	return tbl.charname
+end
+
+function mm_opt()
+	if level.present() and (db.actor ~= nil) and db.actor:alive() then
+		db.actor:give_info_portion("mm_opt")
+	end
+	amk.start_timer("mm_opt", 0.2)
+end

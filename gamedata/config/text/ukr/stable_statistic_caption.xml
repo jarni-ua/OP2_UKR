@@ -1,0 +1,699 @@
+<!-- Неписи -->
+	<string id="neutral_novice">
+		<text>Сталкер, новачок</text>
+	</string>
+	<string id="neutral_experienced">
+		<text>Сталкер, досвідчений</text>
+	</string>
+	<string id="neutral_veteran">
+		<text>Сталкер, ветеран</text>
+	</string>
+	<string id="neutral_master">
+		<text>Сталкер, майстер</text>
+	</string>
+	<string id="monolith_novice">
+		<text>Моноліт, новачок</text>
+	</string>
+	<string id="monolith_experienced">
+		<text>Моноліт, досвідчений</text>
+	</string>
+	<string id="monolith_veteran">
+		<text>Моноліт, ветеран</text>
+	</string>
+	<string id="monolith_master">
+		<text>Моноліт, майстер</text>
+	</string>
+	<string id="military_novice">
+		<text>Військовий, новачок</text>
+	</string>
+	<string id="military_experienced">
+		<text>Військовий, досвідчений</text>
+	</string>
+	<string id="military_veteran">
+		<text>Військовий, ветеран</text>
+	</string>
+	<string id="military_master">
+		<text>Військовий, майстер</text>
+	</string>
+	<string id="killer_novice">
+		<text>Найманець, новачок</text>
+	</string>
+	<string id="killer_experienced">
+		<text>Найманець, досвідчений</text>
+	</string>
+	<string id="killer_veteran">
+		<text>Найманець, ветеран</text>
+	</string>
+	<string id="killer_master">
+		<text>Найманець, майстер</text>
+	</string>
+	<string id="ecolog_novice">
+		<text>Вчений, новачок</text>
+	</string>
+	<string id="ecolog_experienced">
+		<text>Вчений, досвідчений</text>
+	</string>
+	<string id="ecolog_veteran">
+		<text>Вчений, ветеран</text>
+	</string>
+	<string id="ecolog_master">
+		<text>Вчений, майстер</text>
+	</string>
+	<string id="dolg_novice">
+		<text>Долг, новачок</text>
+	</string>
+	<string id="dolg_experienced">
+		<text>Долг, досвідчений</text>
+	</string>
+	<string id="dolg_veteran">
+		<text>Долг, ветеран</text>
+	</string>
+	<string id="dolg_master">
+		<text>Долг, майстер</text>
+	</string>
+	<string id="freedom_novice">
+		<text>Воля, новачок</text>
+	</string>
+	<string id="freedom_experienced">
+		<text>Воля, досвідчений</text>
+	</string>
+	<string id="freedom_veteran">
+		<text>Воля, ветеран</text>
+	</string>
+	<string id="freedom_master">
+		<text>Воля, майстер</text>
+	</string>
+	<string id="bandit_novice">
+		<text>Бандит, новачок</text>
+	</string>
+	<string id="bandit_experienced">
+		<text>Бандит, досвідчений</text>
+	</string>
+	<string id="bandit_veteran">
+		<text>Бандит, ветеран</text>
+	</string>
+	<string id="bandit_master">
+		<text>Бандит, майстер</text>
+	</string>
+	<string id="zombied_novice">
+		<text>Зомбований, новачок</text>
+	</string>
+	<string id="zombied_experienced">
+		<text>Зомбований, досвідчений</text>
+	</string>
+	<string id="zombied_veteran">
+		<text>Зомбований, ветеран</text>
+	</string>
+	<string id="zombied_master">
+		<text>Зомбований, майстер</text>
+	</string>
+	<string id="trader_novice">
+		<text>Торговець, новачок</text>
+	</string>
+	<string id="trader_experienced">
+		<text>Торговець, досвідчений</text>
+	</string>
+	<string id="trader_veteran">
+		<text>Торговець, ветеран</text>
+	</string>
+	<string id="trader_master">
+		<text>Торговець, майстер</text>
+	</string>
+	<string id="arena_enemy_novice">
+		<text>Арена, новачок</text>
+	</string>
+	<string id="arena_enemy_experienced">
+		<text>Арена, досвідчений</text>
+	</string>
+	<string id="arena_enemy_veteran">
+		<text>Арена, ветеран</text>
+	</string>
+	<string id="arena_enemy_master">
+		<text>Арена, майстер</text>
+	</string>
+	<string id="sniper_novice">
+		<text>Месник, новачок</text>
+	</string>
+	<string id="sniper_experienced">
+		<text>Месник, досвідчений</text>
+	</string>
+	<string id="sniper_veteran">
+		<text>Месник, ветеран</text>
+	</string>
+	<string id="sniper_master">
+		<text>Месник, майстер</text>
+	</string>
+	<string id="green_novice">
+		<text>Мисливець, новачок</text>
+	</string>
+	<string id="green_experienced">
+		<text>Мисливець, досвідчений</text>
+	</string>
+	<string id="green_veteran">
+		<text>Мисливець, ветеран</text>
+	</string>
+	<string id="green_master">
+		<text>Мисливець, майстер</text>
+	</string>
+	<string id="nebo_novice">
+		<text>Чисте Небо, новачок</text>
+	</string>
+	<string id="nebo_experienced">
+		<text>Чисте Небо, досвідчений</text>
+	</string>
+	<string id="nebo_veteran">
+		<text>Чисте Небо, ветеран</text>
+	</string>
+	<string id="nebo_master">
+		<text>Чисте Небо, майстер</text>
+	</string>
+	<string id="lastday_novice">
+		<text>Останній День, новачок</text>
+	</string>
+	<string id="lastday_experienced">
+		<text>Останній День, досвідчений</text>
+	</string>
+	<string id="lastday_veteran">
+		<text>Останній День, ветеран</text>
+	</string>
+	<string id="lastday_master">
+		<text>Останній День, майстер</text>
+	</string>
+	<string id="vermaht_novice">
+		<text>Вермахт, новачок</text>
+	</string>
+	<string id="vermaht_experienced">
+		<text>Вермахт, досвідчений</text>
+	</string>
+	<string id="vermaht_veteran">
+		<text>Вермахт, ветеран</text>
+	</string>
+	<string id="vermaht_master">
+		<text>Вермахт, майстер</text>
+	</string>
+
+<!-- Монстры -->
+	<string id="helicopter">
+		<text>Вертоліт</text>
+	</string>
+	<string id="vehicle_btr">
+		<text>БТР</text>
+	</string>
+	<string id="wolf">
+		<text>Вульф</text>
+	</string>
+	<string id="carlic">
+		<text>Карлик</text>
+	</string>
+	<string id="vypolzen">
+		<text>Виповзень</text>
+	</string>
+	<string id="psy_dog">
+		<text>Псі-собака</text>
+	</string>
+	<string id="pseudodog">
+		<text>Псевдособака</text>
+	</string>
+	<string id="tushkano">
+		<text>Тушкан</text>
+	</string>
+	<string id="rotan">
+		<text>Ротан</text>
+	</string>
+	<string id="bloodsucker">
+		<text>Кровосос</text>
+	</string>
+	<string id="oboroten">
+		<text>Перевертень</text>
+	</string>
+	<string id="controller">
+		<text>Контролер</text>
+	</string>
+	<string id="gigant">
+		<text>Псевдогігант</text>
+	</string>
+	<string id="burer">
+		<text>Бюрер</text>
+	</string>
+	<string id="chimera">
+		<text>Химера</text>
+	</string>
+	<string id="tarakan">
+		<text>Тарган</text>
+	</string>
+	<string id="fracture">
+		<text>Злам</text>
+	</string>
+	<string id="poltergeist">
+		<text>Полтергейст</text>
+	</string>
+	<string id="bibliotekar">
+		<text>Бібліотекар</text>
+	</string>
+	<string id="deathclaw">
+		<text>Кіготь Смерті</text>
+	</string>
+	<string id="new_hell">
+		<text>Веном</text>
+	</string>
+	<string id="flesh">
+		<text>Плоть</text>
+	</string>
+	<string id="zanoza">
+		<text>Заноза</text>
+	</string>
+	<string id="boar">
+		<text>Кабан</text>
+	</string>
+	<string id="spider">
+		<text>Павук</text>
+	</string>
+	<string id="snork">
+		<text>Снорк</text>
+	</string>
+	<string id="rat">
+		<text>Щур</text>
+	</string>
+	<string id="cat">
+		<text>Кішка</text>
+	</string>
+	<string id="dog">
+		<text>Собака</text>
+	</string>
+	<string id="zombie">
+		<text>Зомбі</text>
+	</string>
+	<string id="scelet">
+		<text>Скелет</text>
+	</string>
+	<string id="ghoul">
+		<text>Гуль</text>
+	</string>
+	<string id="vodjanoj">
+		<text>Водяний</text>
+	</string>
+	<string id="fracture_weak">
+		<text>Молодий злам</text>
+	</string>
+	<string id="fracture_normal">
+		<text>Досвідчений злам</text>
+	</string>
+	<string id="fracture_strong">
+		<text>Злам-мисливець</text>
+	</string>
+	<string id="fracture_master">
+		<text>Запеклий злам</text>
+	</string>
+	<string id="fracture_karlik">
+		<text>Карликовий злам</text>
+	</string>
+	<string id="carlic_weak">
+		<text>Молодий карлик</text>
+	</string>
+	<string id="carlic1">
+		<text>Карлик</text>
+	</string>
+	<string id="carlic_strong">
+		<text>Запеклий карлик</text>
+	</string>
+	<string id="karlito">
+		<text>Псевдокарлик</text>
+	</string>
+	<string id="vypolzen1">
+		<text>Болотний виповзень</text>
+	</string>
+	<string id="vypolzen_red">
+		<text>Печерний виповзень</text>
+	</string>
+	<string id="pseudodog_weak">
+		<text>Молода коричнева псевдособака</text>
+	</string>
+	<string id="pseudodog_normal">
+		<text>Матёрая коричнева псевдособака</text>
+	</string>
+	<string id="pseudodog_strong">
+		<text>Запекла сіра псевдособака</text>
+	</string>
+	<string id="pseudodog_big">
+		<text>Вольфхонд</text>
+	</string>
+	<string id="volkodav">
+		<text>Щурововк</text>
+	</string>
+	<string id="tushkano_normal">
+		<text>Молодий тушкан</text>
+	</string>
+	<string id="tushkano_strong">
+		<text>Чорний тушкан</text>
+	</string>
+	<string id="bloodsucker_weak">
+		<text>Молодий кровосос</text>
+	</string>
+	<string id="bloodsucker_normal">
+		<text>Темний кровосос</text>
+	</string>
+	<string id="bloodsucker_strong">
+		<text>Запеклий кровосос</text>
+	</string>
+	<string id="bloodsucker_mil">
+		<text>Кровосос-альбінос</text>
+	</string>
+	<string id="bloodsucker_effector">
+		<text>Болотна тварь</text>
+	</string>
+	<string id="bloodsucker_hell">
+		<text>Пекельний кровосос</text>
+	</string>
+	<string id="zombie_hell15">
+		<text>Зомбі-кровосос</text>
+	</string>
+	<string id="bloodsucker_child">
+		<text>Пекельний кровососик</text>
+	</string>
+	<string id="m_controller_normal">
+		<text>Молодий контролер</text>
+	</string>
+	<string id="m_controller_normal_fat">
+		<text>Контролер-товстун</text>
+	</string>
+	<string id="m_controller_old">
+		<text>Запеклий контролер</text>
+	</string>
+	<string id="m_controller_old_fat">
+		<text>Запеклий контролер-товстун</text>
+	</string>
+	<string id="controller_tubeman">
+		<text>Підземний контролер</text>
+	</string>
+	<string id="controller_senator">
+		<text>Контролер-мисливець</text>
+	</string>
+	<string id="controller_babka">
+		<text>Бабка-контролер</text>
+	</string>
+	<string id="m_controller_act">
+		<text>Швидкий контролер</text>
+	</string>
+	<string id="controller_flame">
+		<text>Вогняний контролер</text>
+	</string>
+	<string id="gigant_weak">
+		<text>Молодий псевдогігант</text>
+	</string>
+	<string id="gigant_normal">
+		<text>Досвідчений псевдогігант</text>
+	</string>
+	<string id="gigant_strong">
+		<text>Запеклий псевдогігант</text>
+	</string>
+	<string id="gigant_red_strong">
+		<text>Червоний псевдогігант</text>
+	</string>
+	<string id="gigant_big_strong">
+		<text>Гігантський псевдогігант</text>
+	</string>
+	<string id="gigant_virus_strong">
+		<text>Мегапсевдогігант</text>
+	</string>
+	<string id="gigant_jumper_normal">
+		<text>Псевдогігант-стрибун</text>
+	</string>
+	<string id="gigant_jumper_strong">
+		<text>Запеклий псевдогігант-стрибун</text>
+	</string>
+	<string id="gigant_super_jumper">
+		<text>Гігантський псевдогігант-стрибун</text>
+	</string>
+	<string id="burer_weak">
+		<text>Молодий бюрер</text>
+	</string>
+	<string id="burer_normal">
+		<text>Досвідчений бюрер</text>
+	</string>
+	<string id="burer_strong">
+		<text>Запеклий бюрер</text>
+	</string>
+	<string id="burer_electro">
+		<text>Електробюрер</text>
+	</string>
+	<string id="burer_build">
+		<text>Псевдобюрер</text>
+	</string>
+	<string id="chimera_weak">
+		<text>Молода химера</text>
+	</string>
+	<string id="chimera_normal">
+		<text>Лавова химера</text>
+	</string>
+	<string id="chimera_strong">
+		<text>Химера-альбінос</text>
+	</string>
+	<string id="chimera_x_ray">
+		<text>Примарна химера</text>
+	</string>
+	<string id="chimera_black">
+		<text>Чорна химера</text>
+	</string>
+	<string id="fire_chimera">
+		<text>Вогняна примарна химера</text>
+	</string>
+	<string id="electro_chimera">
+		<text>Електрохимера</text>
+	</string>
+	<string id="new_electro_chimera">
+		<text>Примарна електрохимера</text>
+	</string>
+	<string id="bear">
+		<text>Ведмідь</text>
+	</string>
+	<string id="tarakan_normal">
+		<text>Молодий тарган</text>
+	</string>
+	<string id="tarakan_strong">
+		<text>Запеклий тарган</text>
+	</string>
+	<string id="m_poltergeist_normal_tele">
+		<text>Псі-полтергейст</text>
+	</string>
+	<string id="m_poltergeist_tele_outdoor">
+		<text>Псі-полтергейст - мисливець</text>
+	</string>
+	<string id="m_poltergeist_normal_flame">
+		<text>Вогняний полтергейст</text>
+	</string>
+	<string id="m_poltergeist_strong_flame">
+		<text>Запеклий вогняний полтергейст</text>
+	</string>
+	<string id="poltergeist_build">
+		<text>Повзучий полтергейст</text>
+	</string>
+	<string id="m_poltergeist_dd">
+		<text>Запеклий полтергейст</text>
+	</string>
+	<string id="electro_polter">
+		<text>Електро-полтергейст</text>
+	</string>
+	<string id="polter_xray">
+		<text>Примарний полтергейст</text>
+	</string>
+	<string id="bibliotekar1">
+		<text>Бібліотекар</text>
+	</string>
+	<string id="bibliotekar_black">
+		<text>Чорний бібліотекар</text>
+	</string>
+	<string id="deathclaw_weak">
+		<text>Молодий Кіготь Смерті</text>
+	</string>
+	<string id="deathclaw_normal">
+		<text>Досвідчений Кіготь Смерті</text>
+	</string>
+	<string id="deathclaw_strong">
+		<text>Запеклий Кіготь Смерті</text>
+	</string>
+	<string id="flesh_weak">
+		<text>Молода плоть</text>
+	</string>
+	<string id="flesh_normal">
+		<text>Досвідчена плоть</text>
+	</string>
+	<string id="flesh_strong">
+		<text>Запекла плоть</text>
+	</string>
+	<string id="flesh_swamp">
+		<text>Болотна плоть</text>
+	</string>
+	<string id="boar_weak">
+		<text>Молодий кабан</text>
+	</string>
+	<string id="boar_mini">
+		<text>Поросятко</text>
+	</string>
+	<string id="boar_normal">
+		<text>Досвідчений кабан</text>
+	</string>
+	<string id="boar_strong">
+		<text>Запеклий кабан</text>
+	</string>
+	<string id="molerat">
+		<text>Кротощур</text>
+	</string>
+	<string id="boar_kachok">
+		<text>Гігантський кабан</text>
+	</string>
+	<string id="kikimora">
+		<text>Кікімора</text>
+	</string>
+	<string id="snork_weak">
+		<text>Молодий снорк</text>
+	</string>
+	<string id="snork_normal">
+		<text>Досвідчений снорк</text>
+	</string>
+	<string id="snork_strong">
+		<text>Запеклий снорк</text>
+	</string>
+	<string id="snork_stronger">
+		<text>Зелений снорк</text>
+	</string>
+	<string id="snork_outdoor">
+		<text>Снорк-мисливець</text>
+	</string>
+	<string id="snork_indoor">
+		<text>Підземний снорк</text>
+	</string>
+	<string id="aes_snork">
+		<text>Чорнобильський снорк</text>
+	</string>
+	<string id="snork_jumper">
+		<text>Крилатый снорк</text>
+	</string>
+	<string id="rat_weak">
+		<text>Молодий щур</text>
+	</string>
+	<string id="rat_normal">
+		<text>Досвідчений щур</text>
+	</string>
+	<string id="rat_strong">
+		<text>Запеклий щур</text>
+	</string>
+	<string id="cat_weak">
+		<text>Молодий кіт-баюн</text>
+	</string>
+	<string id="cat_normal">
+		<text>Досвідчений кіт-баюн</text>
+	</string>
+	<string id="cat_strong">
+		<text>Запеклий кіт-баюн</text>
+	</string>
+	<string id="dog_weak">
+		<text>Темно-коричнева собака</text>
+	</string>
+	<string id="dog_normal">
+		<text>Червоно-коричнева собака</text>
+	</string>
+	<string id="dog_strong">
+		<text>Біла собака</text>
+	</string>
+	<string id="dog_skeleton">
+		<text>Руда примарна собака</text>
+	</string>
+	<string id="dog_green">
+		<text>Зелена примарна собака</text>
+	</string>
+	<string id="dog_sil_hill">
+		<text>Нічний мисливець</text>
+	</string>
+	<string id="dog_zombie">
+		<text>Доберман</text>
+	</string>
+	<string id="dog_habaruch">
+		<text>Чорна собака</text>
+	</string>
+	<string id="zombie_weak">
+		<text>Свіжий зомбі</text>
+	</string>
+	<string id="zombie_normal">
+		<text>Досвідчений зомбі</text>
+	</string>
+	<string id="zombie_strong">
+		<text>Запеклий зомбі</text>
+	</string>
+	<string id="zombie_trup">
+		<text>Зомбі-труп</text>
+	</string>
+	<string id="zombie_trup2">
+		<text>Напіврозкладений зомбі</text>
+	</string>
+	<string id="zombie_blow">
+		<text>Зомбі-камікадзе</text>
+	</string>
+	<string id="zombie_beee">
+		<text>Бомба-зомбі</text>
+	</string>
+	<string id="zombie_ghost">
+		<text>Зомбі-привид</text>
+	</string>
+	<string id="zombie_hell">
+		<text>Пекельний зомбі</text>
+	</string>	
+	<string id="zombie_hell1">
+		<text>Зомбі-мандрівник</text>
+	</string>
+	<string id="zombie_hell2">
+		<text>Зомбі-мумія</text>
+	</string>
+	<string id="zombie_hell3">
+		<text>Зомбі-зек</text>
+	</string>
+	<string id="zombie_hell4">
+		<text>Зомбі-піддослідний</text>
+	</string>
+	<string id="zombie_hell5">
+		<text>Зомбі-робочий</text>
+	</string>
+	<string id="zombie_hell6">
+		<text>Смажений зомбі</text>
+	</string>
+	<string id="zombie_hell7">
+		<text>Зомбі-бомж</text>
+	</string>
+	<string id="zombie_hell8">
+		<text>Зомбі-алкаш</text>
+	</string>
+	<string id="zombie_hell9">
+		<text>Зомбі-шахтар</text>
+	</string>
+	<string id="zombie_hell10">
+		<text>Зомбі-лікар</text>
+	</string>
+	<string id="zombie_hell11">
+		<text>Зомбі-інвалід</text>
+	</string>
+	<string id="zombie_hell12">
+		<text>Зомбі-лаборант</text>
+	</string>
+	<string id="zombie_hell13">
+		<text>Товстий зомбі</text>
+	</string>
+	<string id="zombie_hell14">
+		<text>Заражений зомбі</text>
+	</string>		
+	<string id="zombie_plague">
+		<text>Чумний зомбі</text>
+	</string>
+	<string id="zombie_plague_komar">
+		<text>Комариний зомбі</text>
+	</string>	
+	<string id="zombie_babka_weak">
+		<text>Свіжа зомбі-бабка</text>
+	</string>
+	<string id="zombie_babka_normal">
+		<text>Досвідчена зомбі-бабка</text>
+	</string>
+	<string id="zombie_babka_strong">
+		<text>Запекла зомбі-бабка</text>
+	</string>
+	<string id="zombie_immortal">
+		<text>Зомбі-відьма</text>
+	</string>

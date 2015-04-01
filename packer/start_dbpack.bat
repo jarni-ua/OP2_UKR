@@ -1,0 +1,1 @@
+dbpack.exe c:\gamedata

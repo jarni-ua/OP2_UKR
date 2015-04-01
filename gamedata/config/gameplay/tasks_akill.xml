@@ -1,0 +1,4373 @@
+<!-- ОХОТА НА КОНТРОЛЕРОВ -->
+<game_task id="akill_kontr_svalka" prio="0">
+	<title>Оглянути Звалище</title>
+	<objective>
+		<text>Оглянути Звалище</text>
+		<icon>ui_iconsTotal_kontrik</icon>
+		<infoportion_complete>akill_give_kulinar</infoportion_complete>
+		<article>akill_kontr_svalka</article>
+	</objective>
+	<objective>
+		<text>Розпитати сталкерів на Звалищі</text>
+		<infoportion_complete>akill_kulinar</infoportion_complete>
+	</objective>
+	<objective>
+		<text>Очистити Звалище від контролерів</text>
+		<function_complete>akill.ohota_svalka_done</function_complete>
+        <infoportion_set_complete>ohota_svalka_done</infoportion_set_complete>
+	</objective>
+	<objective>
+		<text>Віднести руку контролера Кулінару</text>
+		<map_location_type hint="Кулінар">blue_location</map_location_type>
+        <object_story_id>amk_artem_kulinar</object_story_id>
+		<infoportion_complete>akill_give_kulinar</infoportion_complete>
+	</objective>
+</game_task>
+
+<game_task id="akill_kontr_forest" prio="0">
+	<title>Полювання починається</title>
+	<objective>
+		<text>Полювання починається</text>
+		<icon>ui_iconsTotal_kontrik</icon>
+		<infoportion_complete>ohota_forest_done</infoportion_complete>
+		<article>akill_kontr_forest</article>
+	</objective>
+	<objective>
+		<text>Поговорити з Хрестом</text>
+		<map_location_type hint="Хрест">blue_location</map_location_type>
+		<object_story_id>puzir_crest</object_story_id>
+		<infoportion_complete>akill_krest</infoportion_complete>
+	</objective>
+	<objective>
+		<text>Очистити Забутий ліс</text>
+		<function_complete>akill.ohota_forest_done</function_complete>
+		<infoportion_set_complete>ohota_forest_done</infoportion_set_complete>
+	</objective>
+</game_task>
+
+<game_task id="akill_kontr_dolina" prio="0">
+	<title>Оглянути Темну Долину</title>
+	<objective>
+		<text>Оглянути Темну Долину</text>
+		<icon>ui_iconsTotal_kontrik</icon>
+		<infoportion_complete>ohota_dolina_done</infoportion_complete>
+		<article>akill_kontr_dolina</article>
+	</objective>
+	<objective>
+		<text>Поговорити з бандитами</text>
+		<map_location_type hint="Кабан">blue_location</map_location_type>
+		<object_story_id>val_borov</object_story_id>
+		<infoportion_complete>akill_borov</infoportion_complete>
+	</objective>
+	<objective>
+		<text>Очистити Долину від контролерів</text>
+		<function_complete>akill.ohota_dolina_done</function_complete>
+		<infoportion_set_complete>ohota_dolina_done</infoportion_set_complete>
+	</objective>
+</game_task>
+
+<game_task id="akill_kontr_radar" prio="0">
+	<title>Полювання у Іржавому лісі</title>
+	<objective>
+		<text>Полювання у Іржавому лісі</text>
+		<icon>ui_iconsTotal_kontrik</icon>
+		<infoportion_complete>ohota_radar_done</infoportion_complete>
+		<article>akill_kontr_radar</article>
+	</objective>
+	<objective>
+		<text>Обстежити стежинку Радар-Долина</text>
+		<infoportion_complete>ohota_radar_have</infoportion_complete>
+	</objective>
+	<objective>
+		<text>Знищити контролерів у Іржавому лісі</text>
+		<function_complete>akill.ohota_radar_done</function_complete>
+		<infoportion_set_complete>ohota_radar_done</infoportion_set_complete>
+	</objective>
+</game_task>
+
+<game_task id="akill_kontr_yantar" prio="0">
+	<title>Полювання на контролерів</title>
+	<objective>
+		<text>Полювання на контролерів</text>
+		<icon>ui_iconsTotal_kontrik</icon>
+		<infoportion_complete>ohota_yantar_done</infoportion_complete>
+		<article>akill_kontr_yantar</article>
+	</objective>
+	<objective>
+		<text>Очистити Янтар від контролерів</text>
+		<function_complete>akill.ohota_yantar_done</function_complete>
+		<infoportion_set_complete>ohota_yantar_done</infoportion_set_complete>
+	</objective>
+</game_task>
+	
+<game_task id="akill_kontr_labx16" prio="0">
+	<title>Божевільний доктор</title>
+	<objective>
+		<text>Божевільний доктор</text>
+		<icon>ui_iconsTotal_yan_scientist_job</icon>
+		<infoportion_complete>akill_zahar_done</infoportion_complete>
+		<article>akill_kontr_labx16</article>
+	</objective>
+	<objective>
+		<text>Знайти доктора у Х-16</text>
+		<infoportion_complete>crazy_doktor</infoportion_complete>
+	</objective>
+	<objective>
+		<text>Перевірити лабораторію і підземелля Х-16</text>
+		<function_complete>akill.ohota_labx16_done</function_complete>
+		<infoportion_set_complete>ohota_labx16_done</infoportion_set_complete>
+	</objective>
+	<objective>
+		<text>Розповісти про все Захару</text>
+		<map_location_type hint="Захар">blue_location</map_location_type>
+		<object_story_id>stalker_green_zahar</object_story_id>
+		<infoportion_complete>akill_zahar_done</infoportion_complete>
+	</objective>
+</game_task>
+
+<!-- ПЛОВ ДЛЯ КУЛИНАРА -->
+<game_task id="plov_to_kulinar" prio="0">
+	<title>Плов для Кулінара</title>
+	<objective>
+		<text>Плов для Кулінара</text>
+		<icon>ui_iconsTotal_food</icon>
+		<infoportion_complete>plov_kulinar_done</infoportion_complete>
+		<article>plov_to_kulinar</article>
+	</objective>
+	<objective>
+		<text>Знайти інгредієнти для плову</text>
+		<function_complete>akill.plov_kulinar_have</function_complete>
+		<infoportion_set_complete>plov_kulinar_have</infoportion_set_complete>
+	</objective>
+	<objective>
+		<text>Принести інгредієнти Кулінару</text>
+		<map_location_type hint="Кулінар">blue_location</map_location_type>
+        <object_story_id>amk_artem_kulinar</object_story_id>
+		<infoportion_complete>plov_kulinar_done</infoportion_complete>
+	</objective>
+</game_task>
+
+<!-- ОХОТА НА ПСЕВДОСОБАК -->
+<game_task id="ohota_psevdodogs" prio="0">
+	<title>Скажені собаки</title>
+	<objective>
+		<text>Скажені собаки</text>
+		<icon>ui_iconsTotal_psydog</icon>
+		<infoportion_complete>ohota_psevdodogs_done</infoportion_complete>
+		<article>ohota_psevdodogs</article>
+	</objective>
+	<objective>
+		<text>Знищити зграю псевдособак</text>
+		<function_complete>akill.voron_dogs_have</function_complete>
+        <infoportion_set_complete>voron_dogs_have</infoportion_set_complete>
+	</objective>
+	<objective>
+		<text>Відзвітувати Ворону</text>
+		<map_location_type hint="Ворон">blue_location</map_location_type> 
+        <object_story_id>amk_vitek_voron</object_story_id> 
+		<infoportion_complete>ohota_psevdodogs_done</infoportion_complete>
+	</objective>
+</game_task>
+
+	<!-- КОЛОДА КУЗНЕЦОВА -->
+	<game_task id="koloda_kuznec">
+        <title>Колода Кузнєцова</title>
+        <objective>
+            <text>Колода Кузнєцова</text>
+            <icon>ui_iconsNpc_soldier_beret_1</icon>
+            <infoportion_complete>koloda_kuznec_done</infoportion_complete>
+			<article>koloda_kuznec</article>
+        </objective>
+		<objective>
+            <text>Знайти всі карти колоди і записку-шифр</text>
+            <function_complete>akill.koloda_kuznec_have_koloda</function_complete>
+            <infoportion_set_complete>koloda_kuznec_find</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Знайти схованку з фотоальбомом</text>
+            <function_complete>akill.koloda_kuznec_have_albom</function_complete>
+            <infoportion_set_complete>koloda_kuznec_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести фотоальбом Кузнєцову</text>
+			<map_location_type hint="Кузнєцов">blue_location</map_location_type>
+            <object_story_id>esc_kuznetsov</object_story_id>
+            <infoportion_complete>koloda_kuznec_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- УРОК ВЫЖИВАНИЯ -->
+	<game_task id="koloda_den" prio="0">
+        <title>Урок виживання</title>
+        <objective>
+            <text>Урок виживання</text>
+            <icon>ui_iconsTotal_gar_kill_boars</icon>
+            <infoportion_complete>koloda_den_done</infoportion_complete>
+			<article>koloda_den</article>
+        </objective>
+        <objective>
+            <text>Вбити величезного кабана з пістолета</text>
+            <function_complete>akill.koloda_den_have</function_complete>
+            <infoportion_set_complete>koloda_den_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Поговорити з Деном</text>
+			<map_location_type hint="Ден">blue_location</map_location_type>
+            <object_story_id>marsh_dan</object_story_id>
+            <infoportion_complete>koloda_den_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ХОМЯЧЕСТВО У КУЗНЕЦОВА -->
+	<game_task id="hamster_kuznec1" prio="0">
+        <title>Пропавший сержант</title>
+        <objective>
+            <text>Пропавший сержант</text>
+            <icon>ui_iconsTotal_stalker5</icon>
+            <infoportion_complete>taynik2_kuznec</infoportion_complete>
+			<infoportion_fail>hamster_kuznec1_fail</infoportion_fail>
+			<article>hamster_kuznec1</article>
+        </objective>
+        <objective>
+            <text>З'ясувати долю сержанта</text>
+            <function_complete>akill.hamster_kuznec1_have</function_complete>
+            <infoportion_set_complete>hamster_kuznec1_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Повернутися до Кузнєцова</text>
+			<map_location_type hint="Кузнєцов">blue_location</map_location_type>
+            <object_story_id>esc_kuznetsov</object_story_id>
+            <infoportion_complete>taynik2_kuznec</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<game_task id="hamster_kuznec2" prio="0">
+        <title>Тепловізор</title>
+        <objective>
+            <text>Тепловізор</text>
+            <icon>ui_iconsTotal_stalker1</icon>
+            <infoportion_complete>hamster_kuznec2_done</infoportion_complete>
+			<article>hamster_kuznec2</article>
+        </objective>
+        <objective>
+            <text>Знайти шолом з тепловізором</text>
+            <function_complete>akill.hamster_kuznec2_have</function_complete>
+            <infoportion_set_complete>hamster_kuznec2_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Віднести шолом Кузнєцову</text>
+			<map_location_type hint="Кузнєцов">blue_location</map_location_type>
+            <object_story_id>esc_kuznetsov</object_story_id>
+            <infoportion_complete>hamster_kuznec2_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<game_task id="hamster_kuznec3" prio="0">
+        <title>Гвинтівка для снайпера</title>
+        <objective>
+            <text>Гвинтівка для снайпера</text>
+            <icon>ui_iconsTotal_vintovka</icon>
+            <infoportion_complete>taynik4_kuznec</infoportion_complete>
+			<article>hamster_kuznec3</article>
+        </objective>
+        <objective>
+            <text>Знайти Knights SR25 і патроны до неї</text>
+            <function_complete>akill.hamster_kuznec3_have</function_complete>
+            <infoportion_set_complete>hamster_kuznec3_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести гвинтівку Кузнєцову</text>
+			<map_location_type hint="Кузнєцов">blue_location</map_location_type>
+            <object_story_id>esc_kuznetsov</object_story_id>
+            <infoportion_complete>taynik4_kuznec</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<game_task id="hamster_kuznec4" prio="0">
+        <title>Радіомаяк</title>
+        <objective>
+            <text>Радіомаяк</text>
+            <icon>ui_iconsTotal_radio</icon>
+            <infoportion_complete>taynik3_kuznec</infoportion_complete>
+			<article>hamster_kuznec4</article>
+        </objective>
+        <objective>
+            <text>Знайти рюкзак з радіомаячком</text>
+            <infoportion_complete>hamster_kuznec4_have</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Принести знайдене Кузнєцову</text>
+			<map_location_type hint="Кузнєцов">blue_location</map_location_type>
+            <object_story_id>esc_kuznetsov</object_story_id>
+            <infoportion_complete>taynik3_kuznec</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<game_task id="hamster_kuznec5" prio="0">
+        <title>Втікачі</title>
+        <objective>
+            <text>Втікачі</text>
+            <icon>ui_iconsTotal_gar_help_dymon</icon>
+            <infoportion_complete>hamster_kuznec5_done</infoportion_complete>
+			<article>hamster_kuznec5</article>
+        </objective>
+		<objective>
+            <text>Знайти в'язня Тхора</text>
+            <infoportion_complete>hor_npc_dead</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Знайти в'язня Койота</text>
+            <infoportion_complete>koiot_npc_dead</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Повернутися до майора</text>
+			<map_location_type hint="Кузнєцов">blue_location</map_location_type>
+            <object_story_id>esc_kuznetsov</object_story_id>
+            <infoportion_complete>hamster_kuznec5_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<game_task id="hamster_kuznec6">
+        <title>Плейбой-майор</title>
+        <objective>
+            <text>Плейбой-майор</text>
+            <icon>ui_iconsTotal_playboy</icon>
+            <infoportion_complete>taynik6_kuznec</infoportion_complete>
+			<article>hamster_kuznec6</article>
+        </objective>
+        <objective>
+            <text>Знайти 12 випусків журналу "Плейбой"</text>
+            <function_complete>akill.hamster_kuznec6_have</function_complete>
+            <infoportion_set_complete>hamster_kuznec6_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести журнали Кузнєцову</text>
+			<map_location_type hint="Кузнєцов">blue_location</map_location_type>
+            <object_story_id>esc_kuznetsov</object_story_id>
+            <infoportion_complete>taynik6_kuznec</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<game_task id="hamster_kuznec7" prio="0">
+        <title>Майстер-клас</title>
+        <objective>
+            <text>Майстер-клас</text>
+            <icon>ui_iconsTotal_mil_kill_controller</icon>
+            <infoportion_complete>hamster_kuznec1_done</infoportion_complete>
+			<article>hamster_kuznec7</article>
+        </objective>
+        <objective>
+            <text>Вбити ножом запеклого кровососа</text>
+            <infoportion_complete>kuznec_sucker_dead</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Доповісти Кузнєцову про виконання</text>
+			<map_location_type hint="Кузнєцов">blue_location</map_location_type>
+            <object_story_id>esc_kuznetsov</object_story_id>
+            <infoportion_complete>hamster_kuznec1_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<game_task id="hamster_kuznec8">
+        <title>"Бейліз"</title>
+        <objective>
+            <text>"Бейліз"</text>
+            <icon>ui_iconsTotal_liker</icon>
+            <infoportion_complete>taynik10_kuznec</infoportion_complete>
+			<article>hamster_kuznec8</article>
+        </objective>
+        <objective>
+            <text>Знайти 10 пляшок лікеру "Бейліз"</text>
+            <function_complete>akill.hamster_kuznec8_have</function_complete>
+            <infoportion_set_complete>hamster_kuznec8_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести лікер Кузнєцову</text>
+			<map_location_type hint="Кузнєцов">blue_location</map_location_type>
+            <object_story_id>esc_kuznetsov</object_story_id>
+            <infoportion_complete>taynik10_kuznec</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ТАЙНИКИ КУЗНЕЦОВА -->
+	<game_task id="taynik_kuznec1_1" prio="0">
+        <title>Схованка Кузнєцова</title>
+        <objective>
+            <text>Схованка Кузнєцова</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_kuznec1_have</infoportion_complete>
+			<article>taynik_kuznec1_1</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку на Кордоні</text>
+            <function_complete>akill.taynik_kuznec1_have</function_complete>
+            <infoportion_set_complete>taynik_kuznec1_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<game_task id="taynik_kuznec1_2" prio="0">
+        <title>Схованка Кузнєцова</title>
+        <objective>
+            <text>Схованка Кузнєцова</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_kuznec1_have</infoportion_complete>
+			<article>taynik_kuznec1_2</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку на Кордоні</text>
+            <function_complete>akill.taynik_kuznec1_have</function_complete>
+            <infoportion_set_complete>taynik_kuznec1_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<game_task id="taynik_kuznec2" prio="0">
+        <title>Схованка Кузнєцова</title>
+        <objective>
+            <text>Схованка Кузнєцова</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_kuznec2_have</infoportion_complete>
+			<article>taynik_kuznec2</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку на Кордоні</text>
+            <function_complete>akill.taynik_kuznec2_have</function_complete>
+            <infoportion_set_complete>taynik_kuznec2_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<game_task id="taynik_kuznec3" prio="0">
+        <title>Схованка Кузнєцова</title>
+        <objective>
+            <text>Схованка Кузнєцова</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_kuznec3_have</infoportion_complete>
+			<article>taynik_kuznec3</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку у Темній Долині</text>
+            <function_complete>akill.taynik_kuznec3_have</function_complete>
+            <infoportion_set_complete>taynik_kuznec3_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<game_task id="taynik_kuznec4" prio="0">
+        <title>Схованка Кузнєцова</title>
+        <objective>
+            <text>Схованка Кузнєцова</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_kuznec4_have</infoportion_complete>
+			<article>taynik_kuznec4</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку на Агропромі</text>
+            <function_complete>akill.taynik_kuznec4_have</function_complete>
+            <infoportion_set_complete>taynik_kuznec4_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<game_task id="taynik_kuznec5_1" prio="0">
+        <title>Схованка Кузнєцова</title>
+        <objective>
+            <text>Схованка Кузнєцова</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_kuznec5_have</infoportion_complete>
+			<article>taynik_kuznec5_1</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку на Агропромі</text>
+            <function_complete>akill.taynik_kuznec5_have</function_complete>
+            <infoportion_set_complete>taynik_kuznec5_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<game_task id="taynik_kuznec5_2" prio="0">
+        <title>Схованка Кузнєцова</title>
+        <objective>
+            <text>Схованка Кузнєцова</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_kuznec5_have</infoportion_complete>
+			<article>taynik_kuznec5_2</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку на Агропромі</text>
+            <function_complete>akill.taynik_kuznec5_have</function_complete>
+            <infoportion_set_complete>taynik_kuznec5_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<game_task id="taynik_kuznec6" prio="0">
+        <title>Схованка Кузнєцова</title>
+        <objective>
+            <text>Схованка Кузнєцова</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_kuznec6_have</infoportion_complete>
+			<article>taynik_kuznec6</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку на Радарі</text>
+            <function_complete>akill.taynik_kuznec6_have</function_complete>
+            <infoportion_set_complete>taynik_kuznec6_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<game_task id="taynik_kuznec7_1" prio="0">
+        <title>Схованка Кузнєцова</title>
+        <objective>
+            <text>Схованка Кузнєцова</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_kuznec7_have</infoportion_complete>
+			<article>taynik_kuznec7_1</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку на Агропромі</text>
+            <function_complete>akill.taynik_kuznec7_have</function_complete>
+            <infoportion_set_complete>taynik_kuznec7_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<game_task id="taynik_kuznec7_2" prio="0">
+        <title>Схованка Кузнєцова</title>
+        <objective>
+            <text>Схованка Кузнєцова</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_kuznec7_have</infoportion_complete>
+			<article>taynik_kuznec7_2</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку на Агропромі</text>
+            <function_complete>akill.taynik_kuznec7_have</function_complete>
+            <infoportion_set_complete>taynik_kuznec7_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<game_task id="taynik_kuznec8" prio="0">
+        <title>Схованка Кузнєцова</title>
+        <objective>
+            <text>Схованка Кузнєцова</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_kuznec8_have</infoportion_complete>
+			<article>taynik_kuznec8</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку на Радарі</text>
+            <function_complete>akill.taynik_kuznec8_have</function_complete>
+            <infoportion_set_complete>taynik_kuznec8_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<game_task id="taynik_kuznec9" prio="0">
+        <title>Схованка Кузнєцова</title>
+        <objective>
+            <text>Схованка Кузнєцова</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_kuznec9_have</infoportion_complete>
+			<article>taynik_kuznec9</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку на ЧАЕС-1</text>
+            <function_complete>akill.taynik_kuznec9_have</function_complete>
+            <infoportion_set_complete>taynik_kuznec9_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<game_task id="taynik_kuznec10" prio="0">
+        <title>Схованка Кузнєцова</title>
+        <objective>
+            <text>Схованка Кузнєцова</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_kuznec10_have</infoportion_complete>
+			<article>taynik_kuznec10</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку у Червоному лісі</text>
+            <function_complete>akill.taynik_kuznec10_have</function_complete>
+            <infoportion_set_complete>taynik_kuznec10_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- ИНСТРУМЕНТЫ ДЛЯ ДОЛГОВЯЗОГО -->
+	<game_task id="dolgovazyi_toolkit" prio="0">
+        <title>Інструменти для Довгов'язого</title>
+        <objective>
+            <text>Інструменти для Довгов'язого</text>
+            <icon>ui_iconsTotal_toolkit</icon>
+            <infoportion_complete>dolgovazyi_toolkit_done</infoportion_complete>
+			<article>dolgovazyi_toolkit</article>
+        </objective>
+        <objective>
+            <text>Знайти інструменти для ремонту</text>
+            <function_complete>akill.dolgovazyi_toolkit_have</function_complete>
+            <infoportion_set_complete>dolgovazyi_toolkit_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести інструменти Довгов'язому</text>
+			<map_location_type hint="Довгов'язий">blue_location</map_location_type>
+            <object_story_id>dolgovazyi</object_story_id>
+            <infoportion_complete>dolgovazyi_toolkit_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- АРМЕЙСКИЕ ИНСТРУМЕНТЫ ДЛЯ ДОЛГОВЯЗОГО -->
+	<game_task id="dolgovazyi_voen2" prio="0">
+        <title>Армійські інструменти</title>
+        <objective>
+            <text>Армійські інструменти</text>
+            <icon>ui_iconsTotal_toolkit</icon>
+            <infoportion_complete>dolgovazyi_voen2_done</infoportion_complete>
+			<article>dolgovazyi_voen2</article>
+        </objective>
+		<objective>
+            <text>Поговорити з Пличко</text>
+			<map_location_type hint="Пличко">blue_location</map_location_type>
+			<object_story_id>bar_dolg_guard_commander</object_story_id>
+            <infoportion_complete>plichko_toolkit</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Знайти інструменти РКБ-86у</text>
+            <function_complete>akill.dolgovazyi_voen2_have</function_complete>
+            <infoportion_set_complete>dolgovazyi_voen2_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести інструменти Довгов'язому</text>
+			<map_location_type hint="Довгов'язий">blue_location</map_location_type>
+            <object_story_id>dolgovazyi</object_story_id>
+            <infoportion_complete>dolgovazyi_voen2_done</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- ЗАКАЗ ОТ ВОРОНА -->
+	<game_task id="dolgovazyi_anomal">
+        <title>Замовлення від Ворона</title>
+        <objective>
+            <text>Замовлення від Ворона</text>
+            <icon>ui_iconsTotal_weapons</icon>
+            <infoportion_complete>dolgovazyi_anomal_done</infoportion_complete>
+			<article>dolgovazyi_anomal</article>
+        </objective>
+        <objective>
+            <text>Знайти потрібні зразки зброї</text>
+            <function_complete>akill.dolgovazyi_anomal_have</function_complete>
+            <infoportion_set_complete>dolgovazyi_anomal_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Віднести зброю Ворону</text>
+			<map_location_type hint="Ворон">blue_location</map_location_type> 
+            <object_story_id>amk_vitek_voron</object_story_id> 
+            <infoportion_complete>dolgovazyi_anomal_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ЧЕРТЕЖИ ОРУЖЕЙНИКА -->
+	<game_task id="vasily_chertez">
+        <title>Креслення Зброяра</title>
+        <objective>
+            <text>Креслення Зброяра</text>
+            <icon>ui_iconsTotal_papka</icon>
+            <infoportion_complete>vasily_chertez_done</infoportion_complete>
+			<article>vasily_chertez</article>
+        </objective>
+        <objective>
+            <text>Знайти будь-які креслення Зброяра</text>
+            <function_complete>akill.vasily_chertez_have</function_complete>
+            <infoportion_complete>vasily_chertez_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- АДРЕС ОРУЖЕЙНИКА -->
+	<game_task id="adres_chertez" prio="0">
+        <title>Адреса Зброяра</title>
+        <objective>
+            <text>Адреса Зброяра</text>
+            <icon>ui_iconsTotal_biblik</icon>
+            <infoportion_complete>adres_chertez_done</infoportion_complete>
+			<article>adres_chertez</article>
+        </objective>
+        <objective>
+            <text>Роздобути кисть чорного бібліотекаря</text>
+            <function_complete>akill.adres_chertez_have</function_complete>
+            <infoportion_set_complete>adres_chertez_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести трофей Інформатору</text>
+			<map_location_type hint="Інформатор">blue_location</map_location_type>
+            <object_story_id>bar_bar_osvedomitel</object_story_id>
+            <infoportion_complete>adres_chertez_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- МИНЫ ДЛЯ ДЬЯКА -->
+	<game_task id="mines_dyak" prio="0">
+        <title>Мінне поле</title>
+        <objective>
+            <text>Мінне поле</text>
+            <icon>ui_iconsTotal_found_thing</icon>
+            <infoportion_complete>mines_dyak_done</infoportion_complete>
+			<article>mines_dyak</article>
+        </objective>
+        <objective>
+            <text>Знайти протипіхотні міни</text>
+            <function_complete>akill.mines_dyak_have</function_complete>
+            <infoportion_set_complete>mines_dyak_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Віднести міни Дяку</text>
+			<map_location_type hint="Дяк">blue_location</map_location_type>
+            <object_story_id>dyak</object_story_id>
+            <infoportion_complete>mines_dyak_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ОСИНОЕ ГНЕЗДО -->
+	<game_task id="ammo_sidor" prio="0">
+        <title>Осине гніздо</title>
+        <objective>
+            <text>Осине гніздо</text>
+            <icon>ui_iconsTotal_agroprom</icon>
+            <infoportion_complete>ammo_sidor_done</infoportion_complete>
+			<article>ammo_sidor</article>
+        </objective>
+        <objective>
+            <text>Викрасти детонатори з військової бази</text>
+            <function_complete>akill.ammo_sidor_have</function_complete>
+            <infoportion_set_complete>ammo_sidor_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Віднести детонатори Сидоровичу</text>
+			<map_location_type hint="Сидорович">blue_location</map_location_type>
+			<object_story_id>Escape_Trader</object_story_id>
+            <infoportion_complete>ammo_sidor_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ИНСТРУМЕНТЫ ДЛЯ ВАСИЛИЯ -->
+	<game_task id="vasily_toolkit" prio="0">
+        <title>Інструменти для Василя</title>
+        <objective>
+            <text>Інструменти для Василя</text>
+            <icon>ui_iconsTotal_toolkit</icon>
+            <infoportion_complete>vasily_toolkit_done</infoportion_complete>
+			<article>vasily_toolkit</article>
+        </objective>
+        <objective>
+            <text>Знайти необхідні інструменти</text>
+            <function_complete>akill.vasily_toolkit_have</function_complete>
+            <infoportion_set_complete>vasily_toolkit_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести інструменти Василю</text>
+			<map_location_type hint="Василь">blue_location</map_location_type>
+			<object_story_id>marsh_remont</object_story_id>
+            <infoportion_complete>vasily_toolkit_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- НОЧНАЯ ОХОТА -->
+	<game_task id="night_ohota" prio="0">
+        <title>Нічне полювання</title>
+        <objective>
+            <text>Нічне полювання</text>
+            <icon>ui_iconsTotal_abstract4</icon>
+            <infoportion_complete>night_ohota_done</infoportion_complete>
+			<article>night_ohota</article>
+        </objective>
+        <objective>
+            <text>Роздобути ПНБ "Цифровий" для полювання</text>
+            <function_complete>akill.night_ohota_have</function_complete>
+            <infoportion_set_complete>night_ohota_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Зустрітися вночі з Деном</text>
+			<map_location_type hint="Ден">blue_location</map_location_type>
+            <object_story_id>marsh_dan</object_story_id>
+            <infoportion_complete>night_ohota_give</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Вбити контролера-мисливця</text>
+            <function_complete>akill.night_ohota_end</function_complete>
+            <infoportion_set_complete>night_ohota_end</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Повернутися до Дена</text>
+			<map_location_type hint="Ден">blue_location</map_location_type>
+            <object_story_id>marsh_dan</object_story_id>
+            <infoportion_complete>night_ohota_done</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- РАДИОДЕТАЛИ ДЛЯ ДОЦЕНТА -->
+	<game_task id="docent_detail" prio="0">
+        <title>Радіодеталі</title>
+        <objective>
+            <text>Радіодеталі</text>
+            <icon>ui_iconsTotal_pirog</icon>
+            <infoportion_complete>docent_detail_done</infoportion_complete>
+			<article>docent_detail</article>
+        </objective>
+        <objective>
+            <text>Знайти радіодеталі у Зоні</text>
+            <function_complete>akill.docent_detail_have</function_complete>
+            <infoportion_set_complete>docent_detail_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести радіодеталі Доценту</text>
+			<map_location_type hint="Доцент">blue_location</map_location_type>
+			<object_story_id>bar_docent</object_story_id>
+            <infoportion_complete>docent_detail_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ОБРАЗЦЫ ДЛЯ НАУКИ -->
+	<game_task id="saharov_obrazec" prio="0">
+        <title>Наукові зразки</title>
+        <objective>
+            <text>Наукові зразки</text>
+            <icon>ui_iconsTotal_yan_scientist_return_task</icon>
+            <infoportion_complete>saharov_obrazec_done</infoportion_complete>
+			<article>saharov_obrazec</article>
+        </objective>
+        <objective>
+            <text>Роздобути зразки тканини карлика</text>
+            <function_complete>akill.saharov_obrazec_have</function_complete>
+            <infoportion_set_complete>saharov_obrazec_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Знайти мікроскоп у Х-10</text>
+            <function_complete>akill.saharov_microscope_have</function_complete>
+            <infoportion_set_complete>saharov_microscope_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Віднести зразки Сахарову</text>
+			<map_location_type hint="Сахаров">blue_location</map_location_type>
+			<object_story_id>yan_general_ecolog</object_story_id>
+            <infoportion_complete>saharov_obrazec_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ВОЕННАЯ УГРОЗА -->
+	<game_task id="sviblov_ugroza" prio="0">
+        <title>Військова загроза</title>
+        <objective>
+            <text>Військова загроза</text>
+            <icon>ui_iconsTotal_bar_darklab_documents2</icon>
+            <infoportion_complete>sviblov_ugroza_done</infoportion_complete>
+			<article>sviblov_ugroza</article>
+        </objective>
+        <objective>
+            <text>Дізнатися про плани військових</text>
+            <function_complete>akill.sviblov_ugroza_have</function_complete>
+            <infoportion_set_complete>sviblov_ugroza_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Повернутися до Свиблова</text>
+			<map_location_type hint="Свиблов">blue_location</map_location_type>
+			<object_story_id>clear_scy_leader</object_story_id>
+            <infoportion_complete>sviblov_ugroza_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ПОИСКИ ПРОТОТИПА БРОНЕКОСТЮМА -->
+	<game_task id="new_prototip" prio="0">
+        <title>Прототип армійського бронекостюма</title>
+        <objective>
+            <text>Прототип армійського бронекостюма</text>
+            <icon>ui_iconsTotal_gravik</icon>
+            <infoportion_complete>new_prototip_done</infoportion_complete>
+			<article>new_prototip</article>
+        </objective>
+        <objective>
+            <text>Знайти прототип армійського бронекостюма</text>
+            <function_complete>akill.new_prototip_have</function_complete>
+            <infoportion_set_complete>new_prototip_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести прототип Василю</text>
+			<map_location_type hint="Василь">blue_location</map_location_type>
+			<object_story_id>marsh_remont</object_story_id>
+            <infoportion_complete>new_prototip_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ОБОРОНА КОМПЛЕКСА -->
+	<game_task id="adrenalin_oborona" prio="0">
+        <title>Оборона комплексу</title>
+        <objective>
+            <text>Оборона комплексу</text>
+            <icon>ui_iconsTotal_oborona</icon>
+            <infoportion_complete>adrenalin_oborona_done</infoportion_complete>
+			<article>adrenalin_oborona</article>
+        </objective>
+        <objective>
+            <text>Допомогти сталкерам утримати комплекс</text>
+            <function_complete>akill.adrenalin_oborona_have</function_complete>
+            <infoportion_set_complete>adrenalin_oborona_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Поговорити з Адреналіном</text>
+			<map_location_type hint="Адреналін">blue_location</map_location_type>
+			<object_story_id>agro_adrenalin</object_story_id>
+            <infoportion_complete>adrenalin_oborona_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- БЛОКПОСТ НА БОЛОТАХ -->
+	<game_task id="marsh_blokpost" prio="0">
+        <title>Блокпост на Болотах</title>
+        <objective>
+            <text>Блокпост на Болотах</text>
+            <icon>ui_iconsTotal_eliminate_lager</icon>
+            <infoportion_complete>marsh_blokpost_have</infoportion_complete>
+			<article>marsh_blokpost</article>
+        </objective>
+        <objective>
+            <text>Знищити військовий блокпост на Болотах</text>
+            <function_complete>akill.marsh_blokpost_have</function_complete>
+            <infoportion_set_complete>marsh_blokpost_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- В ТЫЛУ ВРАГА -->
+	<game_task id="marsh_razvedchik" prio="0">
+        <title>В тилу ворога</title>
+        <objective>
+            <text>В тилу ворога</text>
+            <icon>ui_iconsTotal_mil_kill_sniper</icon>
+            <infoportion_complete>marsh_razvedchik_done</infoportion_complete>
+			<article>marsh_razvedchik</article>
+        </objective>
+        <objective>
+            <text>Знайти і зліквідувати розвідника</text>
+            <infoportion_complete>marsh_razvedchik_dead</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Повернутися до Свиблова</text>
+			<map_location_type hint="Свиблов">blue_location</map_location_type>
+			<object_story_id>clear_scy_leader</object_story_id>
+            <infoportion_complete>marsh_razvedchik_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- НОВЫЙ ГРАВИКОСТЮМ -->
+	<game_task id="new_gravikostum">
+        <title>Апгрейд гравікостюма</title>
+        <objective>
+            <text>Апгрейд гравікостюма</text>
+            <icon>ui_iconsTotal_gravik</icon>
+            <infoportion_complete>new_gravikostum_est</infoportion_complete>
+			<article>new_gravikostum</article>
+        </objective>
+        <objective>
+            <text>Знайти шість артефактів "Перо"</text>
+            <function_complete>akill.new_gravikostum_have</function_complete>
+            <infoportion_set_complete>new_gravikostum_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Принести гравік і арти Василю</text>
+			<map_location_type hint="Василь">blue_location</map_location_type>
+			<object_story_id>marsh_remont</object_story_id>
+            <infoportion_complete>new_gravikostum_est</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- РАЦИИ ДЛЯ ДОЛГА -->
+	<game_task id="new_radios" prio="0">
+        <title>Рації для Долгу</title>
+        <objective>
+            <text>Рації для Долгу</text>
+            <icon>ui_iconsTotal_radio</icon>
+            <infoportion_complete>new_radios_done</infoportion_complete>
+			<article>new_radios</article>
+        </objective>
+        <objective>
+            <text>Роздобути нові рації</text>
+            <function_complete>akill.new_radios_have</function_complete>
+            <infoportion_set_complete>new_radios_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Принести рації Вороніну</text>
+			<map_location_type hint="Воронін">blue_location</map_location_type>
+			<object_story_id>bar_dolg_general_voronin</object_story_id>
+            <infoportion_complete>new_radios_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ОРУЖИЕ ДЛЯ ГРУППЫ КАЛИНИНА -->
+	<game_task id="weapons_kalinin">
+        <title>Замовлення від Калиніна</title>
+        <objective>
+            <text>Замовлення від Калиніна</text>
+            <icon>ui_iconsTotal_weapons</icon>
+            <infoportion_complete>weapons_kalinin_done</infoportion_complete>
+			<article>weapons_kalinin</article>
+        </objective>
+        <objective>
+            <text>Зібрати зброю і обвіси</text>
+            <function_complete>akill.weapons_kalinin_have</function_complete>
+            <infoportion_set_complete>weapons_kalinin_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Віднести зброю і обвіси Калиніну</text>
+			<map_location_type hint="Калинін">blue_location</map_location_type>
+			<object_story_id>atp_kalinin</object_story_id>
+            <infoportion_complete>weapons_kalinin_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ПНВ ДЛЯ КАЛИНИНА -->
+	<game_task id="kalinin_voen1" prio="0">
+        <title>Нічні рейди</title>
+        <objective>
+            <text>Нічні рейди</text>
+            <icon>ui_iconsTotal_pnv</icon>
+            <infoportion_complete>kalinin_voen1_done</infoportion_complete>
+			<article>kalinin_voen1</article>
+        </objective>
+        <objective>
+            <text>Знайти прилади нічного бачення</text>
+            <function_complete>akill.kalinin_voen1_have</function_complete>
+            <infoportion_set_complete>kalinin_voen1_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Принести ПНБ Калиніну</text>
+			<map_location_type hint="Калинін">blue_location</map_location_type>
+			<object_story_id>atp_kalinin</object_story_id>
+            <infoportion_complete>kalinin_voen1_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- УСЛУГА ЗА УСЛУГУ -->
+	<game_task id="sherstuk_ammo" prio="0">
+        <title>Послуга за послугу</title>
+        <objective>
+            <text>Послуга за послугу</text>
+            <icon>ui_iconsNpc_soldier_beret_3</icon>
+            <infoportion_complete>sherstuk_ammo_done</infoportion_complete>
+			<article>sherstuk_ammo</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку на Дикій Території</text>
+            <infoportion_complete>sherstuk_ammo_have</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Віднести артефакт Шерстюку</text>
+			<map_location_type hint="Шерстюк">blue_location</map_location_type>
+			<object_story_id>Sherstuk</object_story_id>
+            <infoportion_complete>sherstuk_ammo_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ТАЙНИК БАНДИТА -->
+	<game_task id="taynik_bandit_td" prio="0">
+        <title>Схованка бандита</title>
+        <objective>
+            <text>Схованка бандита</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_bandit_td_have</infoportion_complete>
+			<article>taynik_bandit_td</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку бандита</text>
+            <function_complete>akill.taynik_bandit_td_have</function_complete>
+            <infoportion_set_complete>taynik_bandit_td_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- ОХОТА НА ПСЕВДОГИГАНТОВ -->
+	<game_task id="ohota_gigant" prio="0">
+        <title>Полювання на гігантів</title>
+        <objective>
+            <text>Полювання на гігантів</text>
+            <icon>ui_iconsTotal_gigant</icon>
+            <infoportion_complete>ohota_gigant_done</infoportion_complete>
+			<article>ohota_gigant</article>
+        </objective>
+        <objective>
+            <text>Очистити місцевість від псевдогігантів</text>
+            <function_complete>akill.ohota_gigant_have</function_complete>
+            <infoportion_set_complete>ohota_gigant_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Повернутися до Калиніна</text>
+			<map_location_type hint="Калинін">blue_location</map_location_type>
+			<object_story_id>atp_kalinin</object_story_id>
+            <infoportion_complete>ohota_gigant_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ДОМ ДУХОВ -->
+	<game_task id="souls_house" prio="0">
+        <title>Будинок духів</title>
+        <objective>
+            <text>Будинок духів</text>
+            <icon>ui_iconsTotal_map2</icon>
+            <infoportion_complete>souls_house_done</infoportion_complete>
+			<article>souls_house</article>
+        </objective>
+		<objective>
+            <text>Дочекатися ночі у селі кровососів</text>
+            <infoportion_complete>ohota_polter_spawn</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Знищити сімейку полтергейстів</text>
+            <function_complete>akill.souls_house_have</function_complete>
+            <infoportion_set_complete>souls_house_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Поговорити зі Скнарою</text>
+			<map_location_type hint="Скнара">blue_location</map_location_type>
+			<object_story_id>Mil_Miser</object_story_id>
+            <infoportion_complete>souls_house_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ПОДАРОК ОТ ДРУГА -->
+	<game_task id="krest_zapas" prio="0">
+        <title>Подарунок від друга</title>
+        <objective>
+            <text>Подарунок від друга</text>
+            <icon>ui_iconsTotal_eye</icon>
+            <infoportion_complete>krest_zapas_done</infoportion_complete>
+			<article>krest_zapas</article>
+        </objective>
+        <objective>
+            <text>Знайти плоть, яка з'їла запальничку</text>
+            <function_complete>akill.krest_zapas_have</function_complete>
+            <infoportion_set_complete>krest_zapas_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Принести запальничку Гінекологу</text>
+			<map_location_type hint="Сашко Гінеколог">blue_location</map_location_type>
+			<object_story_id>land_medik</object_story_id>
+            <infoportion_complete>krest_zapas_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- КОЛЛЕКЦИЯ НОЖЕЙ -->
+	<game_task id="zahar_knifes">
+        <title>Колекція ножів</title>
+        <objective>
+            <text>Колекція ножів</text>
+            <icon>ui_iconsTotal_found_thing</icon>
+            <infoportion_complete>zahar_knifes_done</infoportion_complete>
+			<article>zahar_knifes</article>
+        </objective>
+        <objective>
+            <text>Зібрати ножі для колекції</text>
+            <function_complete>akill.zahar_knifes_have</function_complete>
+            <infoportion_set_complete>zahar_knifes_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Принести ножі Захару</text>
+			<map_location_type hint="Захар">blue_location</map_location_type>
+			<object_story_id>stalker_green_zahar</object_story_id>
+            <infoportion_complete>zahar_knifes_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ТАЙНИК ЗАХАРА -->
+	<game_task id="taynik_zahar_zb" prio="0">
+        <title>Схованка Захара</title>
+        <objective>
+            <text>Схованка Захара</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_zahar_zb_have</infoportion_complete>
+			<article>taynik_zahar_zb</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку Захара</text>
+            <function_complete>akill.taynik_zahar_zb_have</function_complete>
+            <infoportion_set_complete>taynik_zahar_zb_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- ОХОТА НА БЮРЕРОВ -->
+	<game_task id="ohota_burer" prio="0">
+        <title>Полювання на бюрерів</title>
+        <objective>
+            <text>Полювання на бюрерів</text>
+            <icon>ui_iconsTotal_bunker</icon>
+            <infoportion_complete>ohota_burer_done</infoportion_complete>
+			<article>ohota_burer</article>
+        </objective>
+        <objective>
+            <text>Знищити бюрерів у Х-10</text>
+            <function_complete>akill.ohota_burer2_have</function_complete>
+			<infoportion_set_complete>ohota_burer2_have</infoportion_set_complete>
+        </objective>
+		 <objective>
+            <text>Знайти схованку Привида</text>
+            <function_complete>akill.ohota_burer_have</function_complete>
+            <infoportion_set_complete>ohota_burer_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Повернути КПК Привиду</text>
+			<map_location_type hint="Привид">blue_location</map_location_type>
+			<object_story_id>new_prizrak</object_story_id>
+            <infoportion_complete>ohota_burer_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ДОБЫТЫЙ ТРОФЕЙ -->
+	<game_task id="lukash_counter">
+        <title>Здобутий трофей</title>
+        <objective>
+            <text>Здобутий трофей</text>
+            <icon>ui_iconsTotal_mil_blockpost_job</icon>
+            <infoportion_complete>lukash_counter_done</infoportion_complete>
+			<article>lukash_counter</article>
+        </objective>
+        <objective>
+            <text>Зібрати жетони монолітівців</text>
+            <function_complete>akill.lukash_counter_have</function_complete>
+            <infoportion_set_complete>lukash_counter_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Принести жетони Лукашу</text>
+			<map_location_type hint="Лукаш">blue_location</map_location_type>
+			<object_story_id>Mil_Lukash</object_story_id>
+            <infoportion_complete>lukash_counter_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ОХОТА ЗА РЕДКИМИ АРТЕФАКТАМИ -->
+	<game_task id="dragunov_ohota">
+        <title>Полювання за рідкісними артефактами</title>
+        <objective>
+            <text>Полювання за рідкісними артефактами</text>
+            <icon>ui_iconsTotal_arts</icon>
+            <infoportion_complete>tm_find_info_done</infoportion_complete>
+			<article>dragunov_ohota</article>
+        </objective>
+        <objective>
+            <text>Знайти артефакти зі списку</text>
+            <function_complete>akill.dragunov_ohota_have</function_complete>
+            <infoportion_set_complete>dragunov_ohota_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Принести артефакти Драгунову</text>
+			<map_location_type hint="Драгунов">blue_location</map_location_type>
+			<object_story_id>dragunof_npc</object_story_id>
+            <infoportion_complete>tm_find_info_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ИМЕННОЙ АВТОМАТ -->
+	<game_task id="dragunov_aks" prio="0">
+        <title>Іменний автомат</title>
+        <objective>
+            <text>Іменний автомат</text>
+            <icon>ui_iconsTotal_ak</icon>
+            <infoportion_complete>dragunov_aks_done</infoportion_complete>
+			<article>dragunov_aks</article>
+        </objective>
+        <objective>
+            <text>Знайти іменний АКС-74 "Кобра"</text>
+            <function_complete>akill.dragunov_aks_have</function_complete>
+            <infoportion_set_complete>dragunov_aks_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Принести автомат Драгунову</text>
+			<map_location_type hint="Драгунов">blue_location</map_location_type>
+			<object_story_id>dragunof_npc</object_story_id>
+            <infoportion_complete>dragunov_aks_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ПОБЕГ ИЗ ЗОНЫ -->
+	<game_task id="fotograf_pobeg" prio="0">
+        <title>Втеча з Зони</title>
+        <objective>
+            <text>Втеча з Зони</text>
+            <icon>ui_iconsTotal_badge</icon>
+            <infoportion_complete>fotograf_pobeg_done</infoportion_complete>
+			<article>fotograf_pobeg</article>
+        </objective>
+        <objective>
+            <text>Зібрати гроші і артефакти</text>
+            <function_complete>akill.fotograf_pobeg_have</function_complete>
+            <infoportion_set_complete>fotograf_pobeg_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Віддати гроші і артефакти Фотографу</text>
+			<map_location_type hint="Фотограф">blue_location</map_location_type>
+			<object_story_id>fotograf_npc</object_story_id>
+            <infoportion_complete>fotograf_pobeg_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ТАЙНИК ФОТОГРАФА -->
+	<game_task id="taynik_fotograf_as" prio="0">
+        <title>Схованка Фотографа</title>
+        <objective>
+            <text>Схованка Фотографа</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_fotograf_as_have</infoportion_complete>
+			<article>taynik_fotograf_as</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку Фотографа</text>
+            <function_complete>akill.taynik_fotograf_as_have</function_complete>
+            <infoportion_set_complete>taynik_fotograf_as_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- ДОГОВОР С ВОЕННЫМИ -->
+	<game_task id="kuznec_dogovor">
+        <title>Договір з військовими</title>
+        <objective>
+            <text>Договір з військовими</text>
+            <icon>ui_iconsTotal_sdelka</icon>
+            <infoportion_complete>kuznec_dogovor_done</infoportion_complete>
+			<article>kuznec_dogovor</article>
+        </objective>
+        <objective>
+            <text>Знайти зброю часів ВВВ</text>
+            <function_complete>akill.kuznec_dogovor_have</function_complete>
+            <infoportion_set_complete>kuznec_dogovor_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Принести гроші і зброю Кузнєцову</text>
+			<map_location_type hint="Кузнєцов">blue_location</map_location_type>
+            <object_story_id>esc_kuznetsov</object_story_id>
+            <infoportion_complete>kuznec_dogovor_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ЗАПАСНОЙ ФОТОАППАРАТ -->
+	<game_task id="fotograf_fotik" prio="0">
+        <title>Запасний фотоапарат</title>
+        <objective>
+            <text>Запасний фотоапарат</text>
+            <icon>ui_iconsTotal_fotik</icon>
+            <infoportion_complete>fotograf_fotik_done</infoportion_complete>
+			<article>fotograf_fotik</article>
+        </objective>
+        <objective>
+            <text>Знайти рюкзак з фотіком</text>
+            <function_complete>akill.fotograf_fotik_have</function_complete>
+            <infoportion_set_complete>fotograf_fotik_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Принести фотік Фотографу</text>
+			<map_location_type hint="Фотограф">blue_location</map_location_type>
+			<object_story_id>fotograf_npc</object_story_id>
+            <infoportion_complete>fotograf_fotik_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ДЕТЕКТОР АРТЕФАКТОВ -->
+	<game_task id="fotograf_detector" prio="0">
+        <title>Детектор артефактів</title>
+        <objective>
+            <text>Детектор артефактів</text>
+            <icon>ui_iconsTotal_detector</icon>
+            <infoportion_complete>fotograf_detector_done</infoportion_complete>
+			<article>fotograf_detector</article>
+        </objective>
+        <objective>
+            <text>Знайти детектор і дозиметр</text>
+            <function_complete>akill.fotograf_detector_have</function_complete>
+            <infoportion_set_complete>fotograf_detector_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Принести прилади Фотографу</text>
+			<map_location_type hint="Фотограф">blue_location</map_location_type>
+			<object_story_id>fotograf_npc</object_story_id>
+            <infoportion_complete>fotograf_detector_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ЗАКАЗ ОТ ОТШЕЛЬНИКА -->
+	<game_task id="otshelnik_prosba" prio="0">
+        <title>Замовлення від Самітника</title>
+        <objective>
+            <text>Замовлення від Самітника</text>
+            <icon>ui_iconsTotal_find_item</icon>
+            <infoportion_complete>otshelnik_prosba_done</infoportion_complete>
+			<article>otshelnik_prosba</article>
+        </objective>
+        <objective>
+            <text>Зібрати ремнабори</text>
+            <function_complete>akill.otshelnik_prosba_have</function_complete>
+            <infoportion_set_complete>otshelnik_prosba_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Принести ремнабори Самітнику</text>
+			<map_location_type hint="Самітник">blue_location</map_location_type>
+            <object_story_id>otshelnik</object_story_id>
+            <infoportion_complete>otshelnik_prosba_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ПОИСКИ КЛАДА -->
+	<game_task id="klad_labirint" prio="0">
+        <title>Пошуки скарбу</title>
+        <objective>
+            <text>Пошуки скарбу</text>
+            <icon>ui_iconsTotal_klad</icon>
+            <infoportion_complete>klad_labirint_done</infoportion_complete>
+			<article>klad_labirint</article>
+        </objective>
+        <objective>
+            <text>Знайти скарб у Лабіринті</text>
+            <function_complete>akill.klad_labirint_have</function_complete>
+            <infoportion_set_complete>klad_labirint_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести все знайдене Лисому</text>
+			<map_location_type hint="Лисий">blue_location</map_location_type>
+			<object_story_id>bar_lisiy</object_story_id>
+            <infoportion_complete>klad_labirint_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ПОИСКИ КЛАДА В ОП -->
+	<game_task id="klad_op" prio="0">
+        <title>Пошуки скарбу</title>
+        <objective>
+            <text>Пошуки скарбу</text>
+            <icon>ui_iconsTotal_klad</icon>
+            <infoportion_complete>klad_op_done</infoportion_complete>
+			<article>klad_op</article>
+        </objective>
+        <objective>
+            <text>Знайти скарб у Вогняній печері</text>
+            <function_complete>akill.klad_op_have</function_complete>
+            <infoportion_set_complete>klad_op_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести все знайдене Лисому</text>
+			<map_location_type hint="Лисий">blue_location</map_location_type>
+			<object_story_id>bar_lisiy</object_story_id>
+            <infoportion_complete>klad_op_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- "ПРИВЕТ" ОТ СИДОРОВИЧА -->
+	<game_task id="privet_leshyi" prio="0">
+        <title>"Привіт" від Сидоровича</title>
+        <objective>
+            <text>"Привіт" від Сидоровича</text>
+            <icon>ui_iconsTotal_bar_crazy_veterans_quest</icon>
+            <infoportion_complete>privet_leshyi_done</infoportion_complete>
+			<article>privet_leshyi</article>
+        </objective>
+        <objective>
+            <text>Дізнатися місцезнаходження Лісовика</text>
+			<function_complete>akill.privet_leshyi_have_all</function_complete>
+            <infoportion_set_complete>privet_leshyi_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Вбити Лісовика</text>
+            <infoportion_complete>leshyi_npc_dead</infoportion_complete> 
+        </objective>
+        <objective>
+            <text>Повернутися до замовника</text>
+			<map_location_type hint="Сидорович">blue_location</map_location_type>
+			<object_story_id>Escape_Trader</object_story_id>
+            <infoportion_complete>privet_leshyi_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ДЕШИФРОВКА ПДА -->
+	<game_task id="docent_art" prio="0">
+        <title>Дешифрування КПК</title>
+        <objective>
+            <text>Дешифрування КПК</text>
+            <icon>ui_iconsTotal_pda3</icon>
+            <infoportion_complete>docent_art_done</infoportion_complete>
+			<article>docent_art</article>
+        </objective>
+        <objective>
+            <text>Роздобути модуль-дешифратор і КПК</text>
+            <function_complete>akill.docent_art_have</function_complete>
+            <infoportion_set_complete>docent_art_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести дешифратор Доценту</text>
+			<map_location_type hint="Доцент">blue_location</map_location_type>
+			<object_story_id>bar_docent</object_story_id>
+            <infoportion_complete>docent_art_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- РЕЙД БАНДИТОВ -->
+	<game_task id="borov_reid" prio="0">
+        <title>Рейд бандитів</title>
+        <objective>
+            <text>Рейд бандитів</text>
+            <icon>ui_iconsTotal_stalker2</icon>
+            <infoportion_complete>borov_reid_done</infoportion_complete>
+			<article>borov_reid</article>
+        </objective>
+        <objective>
+            <text>Відбити атаку бандитів і вбити Барона</text>
+            <infoportion_complete>baron_npc_dead</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Повернутися до Кабана</text>
+			<map_location_type hint="Кабан">blue_location</map_location_type>
+			<object_story_id>val_borov</object_story_id>
+            <infoportion_complete>borov_reid_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ОБОРОНА АНГАРА -->
+	<game_task id="angar_oborona" prio="0">
+        <title>Плечем до плеча</title>
+        <objective>
+            <text>Плечем до плеча</text>
+            <icon>ui_iconsTotal_oborona2</icon>
+            <infoportion_complete>angar_kulinar_have</infoportion_complete>
+			<article>angar_oborona</article>
+        </objective>
+        <objective>
+            <text>Попросити допомоги у Долгу</text>
+			<map_location_type hint="Прапор">blue_location</map_location_type>
+			<object_story_id>gar_spot_dolg_blokpost</object_story_id>
+            <infoportion_complete>angar_prapor_have</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Попросити допомоги у сталкерів</text>
+			<map_location_type hint="Фанат">blue_location</map_location_type>
+			<object_story_id>esc_lager_leader</object_story_id>
+            <infoportion_complete>angar_fanat_have</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Повернутися до Кулінара</text>
+			<map_location_type hint="Кулінар">blue_location</map_location_type>
+			<object_story_id>amk_artem_kulinar</object_story_id>
+            <infoportion_complete>angar_kulinar</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Поговорити з Кулінаром після атаки</text>
+			<map_location_type hint="Кулінар">blue_location</map_location_type>
+			<object_story_id>amk_artem_kulinar</object_story_id>
+            <infoportion_complete>angar_kulinar_have</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ОСТАТЬСЯ В ЖИВЫХ -->
+	<game_task id="survival_quest" prio="0">
+        <title>Залишитися в живих</title>
+        <objective>
+            <text>Залишитися в живих</text>
+            <icon>ui_iconsTotal_dead</icon>
+            <infoportion_complete>survival_quest_done</infoportion_complete>
+			<article>survival_quest</article>
+        </objective>
+        <objective>
+            <text>Вижити будь-якою ціною</text>
+            <infoportion_complete>survival_quest_done</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Не отримати серйозних пошкоджень</text>
+            <infoportion_fail>survival_quest_fail</infoportion_fail>
+        </objective>
+    </game_task>
+
+	<!-- ТАЙНИК ЛЕШЕГО -->
+	<game_task id="taynik_leshyi" prio="0">
+        <title>Схованка Лісовика</title>
+        <objective>
+            <text>Схованка Лісовика</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_leshyi_have</infoportion_complete>
+			<article>taynik_leshyi</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку Лісовика</text>
+            <function_complete>akill.taynik_leshyi_have</function_complete>
+            <infoportion_set_complete>taynik_leshyi_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- ЕДА ДЛЯ ДРУЖКА -->
+	<game_task id="drug_food" prio="0">
+        <title>Гостинці для Дружка</title>
+        <objective>
+            <text>Гостинці для Дружка</text>
+            <icon>ui_iconsTotal_monster_part</icon>
+            <infoportion_complete>drug_food_done</infoportion_complete>
+			<article>drug_food</article>
+        </objective>
+        <objective>
+            <text>Завалити жирну плоть</text>
+            <infoportion_complete>drug_food_have</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Віднести тушу Максу Люберу</text>
+			<map_location_type hint="Макс Любер">blue_location</map_location_type>
+			<object_story_id>val_escort_captive</object_story_id>
+            <infoportion_complete>drug_food_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ИЗДЕЛИЕ №58 -->
+	<game_task id="izdelie_gp" prio="0">
+        <title>Виріб №58</title>
+        <objective>
+            <text>Виріб №58</text>
+            <icon>ui_iconsTotal_tutorial_help_wounded</icon>
+            <infoportion_complete>izdelie_gp_done</infoportion_complete>
+			<article>izdelie_gp</article>
+        </objective>
+        <objective>
+            <text>Знайти іншу інформацію про прототип</text>
+            <function_complete>akill.izdelie_gp_have</function_complete>
+            <infoportion_set_complete>izdelie_gp_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Показати знайдену інформацію Доценту</text>
+			<map_location_type hint="Доцент">blue_location</map_location_type>
+			<object_story_id>bar_docent</object_story_id>
+            <infoportion_complete>izdelie_gp_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ПОИСК КОМПЛЕКТУЮЩИХ -->
+	<game_task id="new_gp" prio="0">
+        <title>Пошук комплектуючих</title>
+        <objective>
+            <text>Пошук комплектуючих</text>
+            <icon>ui_iconsTotal_found_thing</icon>
+            <infoportion_complete>new_gp_done</infoportion_complete>
+			<article>new_gp</article>
+        </objective>
+        <objective>
+            <text>Знайти необхідні комплектуючі</text>
+            <function_complete>akill.new_gp_have</function_complete>
+            <infoportion_set_complete>new_gp_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести комплектуючі Доценту</text>
+			<map_location_type hint="Доцент">blue_location</map_location_type>
+			<object_story_id>bar_docent</object_story_id>
+            <infoportion_complete>new_gp_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- НЕИЗВЕСТНЫЙ ПРОТОТИП -->
+	<game_task id="unknown_gp" prio="0">
+        <title>Секретний прототип</title>
+        <objective>
+            <text>Секретний прототип</text>
+            <icon>ui_iconsTotal_weapons</icon>
+            <infoportion_complete>unknown_gp_have</infoportion_complete>
+			<article>unknown_gp</article>
+        </objective>
+        <objective>
+            <text>Знайти новий прототип Гаусс-пістолета</text>
+            <function_complete>akill.unknown_gp_have</function_complete>
+            <infoportion_set_complete>unknown_gp_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- ТАЙНИК ДИМАКА -->
+	<game_task id="taynik_dimak" prio="0">
+        <title>Схованка Дімака</title>
+        <objective>
+            <text>Схованка Дімака</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_dimak_have</infoportion_complete>
+			<article>taynik_dimak</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку Дімака</text>
+            <infoportion_complete>taynik_dimak_have</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- ТАЙНИК ВИРУСА -->
+	<game_task id="taynik_virus" prio="0">
+        <title>Схованка Віруса</title>
+        <objective>
+            <text>Схованка Віруса</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_virus_have</infoportion_complete>
+			<article>taynik_virus</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку Віруса</text>
+            <function_complete>akill.taynik_virus_have</function_complete>
+            <infoportion_set_complete>taynik_virus_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- ХАКЕРСКИЙ СОФТ -->
+	<game_task id="haker_soft" prio="0">
+        <title>Хакерський софт</title>
+        <objective>
+            <text>Хакерський софт</text>
+            <icon>ui_iconsTotal_disk</icon>
+            <infoportion_complete>haker_soft_done</infoportion_complete>
+			<article>haker_soft</article>
+        </objective>
+        <objective>
+            <text>Знайти будь-який хакерський софт</text>
+            <function_complete>akill.haker_soft_have</function_complete>
+            <infoportion_set_complete>haker_soft_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести софт Доценту</text>
+			<map_location_type hint="Доцент">blue_location</map_location_type>
+			<object_story_id>bar_docent</object_story_id>
+            <infoportion_complete>haker_soft_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ТАЙНИК ФАНТОМА -->
+	<game_task id="taynik_phantom" prio="0">
+        <title>Схованка Фантома</title>
+        <objective>
+            <text>Схованка Фантома</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_phantom_have</infoportion_complete>
+			<article>taynik_phantom</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку Фантома</text>
+            <function_complete>akill.taynik_phantom_have</function_complete>
+            <infoportion_set_complete>taynik_phantom_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- ПО СЛЕДАМ СЛЕДОПЫТА -->
+	<game_task id="sledopyt_sled" prio="0">
+        <title>По слідам Слідопита</title>
+        <objective>
+            <text>По слідам Слідопита</text>
+            <icon>ui_iconsTotal_agr_meet_krot_band</icon>
+            <infoportion_complete>sledopyt_sled_have</infoportion_complete>
+			<article>sledopyt_sled</article>
+        </objective>
+        <objective>
+            <text>Знайти Слідопита</text>
+            <function_complete>akill.sledopyt_sled_have</function_complete>
+            <infoportion_set_complete>sledopyt_sled_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- ВСТРЕЧА СО СМЕРТЬЮ -->
+	<game_task id="poisk_partizan" prio="0">
+        <title>Зустріч зі смертю</title>
+        <objective>
+            <text>Зустріч зі смертю</text>
+            <icon>ui_iconsTotal_val_sos_help</icon>
+            <infoportion_complete>poisk_partizan_have</infoportion_complete>
+			<article>poisk_partizan</article>
+        </objective>
+        <objective>
+            <text>Знайти Партизана у Х-18</text>
+            <function_complete>akill.poisk_partizan_have</function_complete>
+            <infoportion_set_complete>poisk_partizan_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- ИЗУМРУДНАЯ ВСПЫШКА -->
+	<game_task id="izumrud_electra" prio="0">
+        <title>"Смарагдовий спалах"</title>
+        <objective>
+            <text>"Смарагдовий спалах"</text>
+            <icon>ui_iconsTotal_arts</icon>
+            <infoportion_complete>izumrud_electra_done</infoportion_complete>
+			<article>izumrud_electra</article>
+        </objective>
+        <objective>
+            <text>Знайти "Смарагдовий спалах"</text>
+            <function_complete>akill.izumrud_electra_have</function_complete>
+            <infoportion_set_complete>izumrud_electra_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести артефакт Акіллу</text>
+			<map_location_type hint="Акілл">blue_location</map_location_type>
+			<object_story_id>akill_npc</object_story_id>
+            <infoportion_complete>izumrud_electra_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ТАЙНИК АКИЛЛА -->
+	<game_task id="taynik_akill" prio="0">
+        <title>Схованка Акілла</title>
+        <objective>
+            <text>Схованка Акілла</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_akill_done</infoportion_complete>
+			<article>taynik_akill</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку Акілла</text>
+            <function_complete>akill.taynik_akill_have</function_complete>
+            <infoportion_set_complete>taynik_akill_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести "Вихлоп" Акіллу</text>
+			<map_location_type hint="Акілл">blue_location</map_location_type>
+			<object_story_id>akill_npc</object_story_id>
+            <infoportion_complete>taynik_akill_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- НОВЫЙ РЕЦЕПТ -->
+	<game_task id="izumrud_recept" prio="0">
+        <title>Новий рецепт</title>
+        <objective>
+            <text>Новий рецепт</text>
+            <icon>ui_iconsTotal_artefacts</icon>
+            <infoportion_complete>izumrud_recept_done</infoportion_complete>
+			<article>izumrud_recept</article>
+        </objective>
+        <objective>
+            <text>Спробувати зварити "Смарагдовий спалах"</text>
+            <function_complete>akill.izumrud_recept_have</function_complete>
+            <infoportion_set_complete>izumrud_recept_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Поділитися рецептом із Сяком</text>
+			<map_location_type hint="Сяк">blue_location</map_location_type>
+            <object_story_id>Sak</object_story_id>
+            <infoportion_complete>izumrud_recept_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ПОД ПРИЦЕЛОМ -->
+	<game_task id="akill_vision" prio="0">
+        <title>Під прицілом</title>
+        <objective>
+            <text>Під прицілом</text>
+            <icon>ui_iconsTotal_sniper1</icon>
+            <infoportion_complete>akill_vision_done</infoportion_complete>
+			<article>akill_vision</article>
+        </objective>
+        <objective>
+            <text>Роздобути приціл ПОСП 3-9х42В</text>
+            <function_complete>akill.akill_vision_have</function_complete>
+            <infoportion_set_complete>akill_vision_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Віддати приціл Акіллу</text>
+			<map_location_type hint="Акілл">blue_location</map_location_type>
+			<object_story_id>akill_npc</object_story_id>
+            <infoportion_complete>akill_vision_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- СДЕЛКА С НАЁМНИКАМИ -->
+	<game_task id="mercenary_dogovor" prio="0">
+        <title>Угода з найманцями</title>
+        <objective>
+            <text>Угода з найманцями</text>
+            <icon>ui_iconsTotal_val_captive_help</icon>
+            <infoportion_complete>mercenary_dogovor_find</infoportion_complete>
+			<article>mercenary_dogovor</article>
+        </objective>
+        <objective>
+            <text>Зустрітися з командиром найманців</text>
+            <infoportion_complete>mercenary_dogovor_have</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Знайти Фантома на території заводу</text>
+            <infoportion_complete>mercenary_dogovor_find</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- В ЗАПАДНЕ -->
+	<game_task id="mercenary_zapadny" prio="0">
+        <title>У пастці</title>
+        <objective>
+            <text>У пастці</text>
+            <icon>ui_iconsTotal_oborona</icon>
+            <infoportion_complete>mercenary_zapadny_done</infoportion_complete>
+			<infoportion_fail>akill_npc_dead</infoportion_fail>
+			<article>mercenary_zapadny</article>
+        </objective>
+        <objective>
+            <text>Знищити загін найманців</text>
+            <infoportion_complete>bw_killers6_dead</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Не дати загинути Акіллу і Дімаку</text>
+			<map_location_type hint="Акілл">blue_location</map_location_type>
+			<object_story_id>akill_npc</object_story_id>
+            <infoportion_complete>mercenary_zapadny_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- НОЖ АКИЛЛА -->
+	<game_task id="knife_akill" prio="0">
+        <title>Ніж Акілла</title>
+        <objective>
+            <text>Ніж Акілла</text>
+            <icon>ui_iconsTotal_akill</icon>
+            <infoportion_complete>knife_akill_done</infoportion_complete>
+			<article>knife_akill</article>
+        </objective>
+        <objective>
+            <text>Знайти ніж Акілла</text>
+			<function_complete>akill.knife_akill_have</function_complete>
+            <infoportion_set_complete>knife_akill_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Повернути ніж власнику</text>
+			<map_location_type hint="Акілл">blue_location</map_location_type>
+			<object_story_id>akill_npc</object_story_id>
+            <infoportion_complete>knife_akill_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ОХОТА НА СНАЙПЕРА -->
+	<game_task id="ohota_sniper" prio="0">
+        <title>Полювання на снайпера</title>
+        <objective>
+            <text>Полювання на снайпера</text>
+            <icon>ui_iconsTotal_bar_dolg_svoboda_ambush_quest</icon>
+            <infoportion_complete>ohota_sniper_done</infoportion_complete>
+			<article>ohota_sniper</article>
+        </objective>
+        <objective>
+            <text>Знайти і вбити снайпера найманців</text>
+			<function_complete>akill.ohota_sniper_have</function_complete>
+            <infoportion_set_complete>ohota_sniper_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести гвинтівку снайпера Акіллу</text>
+			<map_location_type hint="Акілл">blue_location</map_location_type>
+			<object_story_id>akill_npc</object_story_id>
+            <infoportion_complete>ohota_sniper_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- КЕЙС ОРУЖЕЙНИКА -->
+	<game_task id="keis_oruzeinik" prio="0">
+        <title>Кейс Зброяра</title>
+        <objective>
+            <text>Кейс Зброяра</text>
+            <icon>ui_iconsTotal_weapon_keis</icon>
+            <infoportion_complete>keis_oruzeinik_have</infoportion_complete>
+			<article>keis_oruzeinik</article>
+        </objective>
+        <objective>
+            <text>Знайти кейс зі зброєю і ключі</text>
+			<function_complete>akill.keis_oruzeinik_have</function_complete>
+            <infoportion_set_complete>keis_oruzeinik_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- ОХОТА НА ОБОРОТНЕЙ -->
+	<game_task id="ohota_wolf" prio="0">
+        <title>Вовче лігво</title>
+        <objective>
+            <text>Вовче лігво</text>
+            <icon>ui_iconsTotal_oboroten</icon>
+            <infoportion_complete>ohota_wolf_done</infoportion_complete>
+			<infoportion_fail>ohota_wolf_fail</infoportion_fail>
+			<article>ohota_wolf</article>
+        </objective>
+        <objective>
+            <text>Знищити лігво химер-вульф</text>
+			<function_complete>akill.ohota_wolf_have</function_complete>
+            <infoportion_set_complete>ohota_wolf_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Зробити фото ватажка зграї</text>
+            <infoportion_complete>foto_ohota_white_wolf</infoportion_complete> 
+        </objective>
+        <objective>
+            <text>Повернутися до Ааза</text>
+            <infoportion_complete>ohota_wolf_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ТАЙНИК ОРУЖЕЙНИКА -->
+	<game_task id="taynik_oruzeinik" prio="0">
+        <title>Схованка Зброяра</title>
+        <objective>
+            <text>Схованка Зброяра</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_oruzeinik_have</infoportion_complete>
+			<article>taynik_oruzeinik</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку Зброяра</text>
+			<function_complete>akill.taynik_oruzeinik_have</function_complete>
+            <infoportion_set_complete>taynik_oruzeinik_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- КОРОТКОЕ ПЕРЕМИРИЕ -->
+	<game_task id="dolg_peremirie" prio="0">
+        <title>Коротке перемир'я</title>
+        <objective>
+            <text>Коротке перемир'я</text>
+            <icon>ui_iconsTotal_sdelka</icon>
+            <infoportion_complete>dolg_peremirie_done</infoportion_complete>
+			<article>dolg_peremirie</article>
+        </objective>
+        <objective>
+            <text>Домовитися з Лукашом</text>
+			<map_location_type hint="Лукаш">blue_location</map_location_type>
+			<object_story_id>Mil_Lukash</object_story_id>
+            <infoportion_complete>dolg_peremirie_have</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Доповісти про виконання Вороніну</text>
+			<map_location_type hint="Воронін">blue_location</map_location_type>
+			<object_story_id>bar_dolg_general_voronin</object_story_id>
+            <infoportion_complete>dolg_peremirie_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ЧУЖОЙ СРЕДИ СВОИХ -->
+	<game_task id="svoboda_peremirie" prio="0">
+        <title>Чужий серед своїх</title>
+        <objective>
+            <text>Чужий серед своїх</text>
+            <icon>ui_iconsTotal_vintovka</icon>
+            <infoportion_complete>dolg_peremirie_have</infoportion_complete>
+			<article>svoboda_peremirie</article>
+        </objective>
+        <objective>
+            <text>Знайти злодія і вкрадену гвинтівку</text>
+            <function_complete>akill.svoboda_peremirie_have</function_complete>
+            <infoportion_set_complete>svoboda_peremirie_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Принести гвинтівку Лукашу</text>
+			<map_location_type hint="Лукаш">blue_location</map_location_type>
+			<object_story_id>Mil_Lukash</object_story_id>
+            <infoportion_complete>dolg_peremirie_have</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ТАЙНА СОСНОДУБА -->
+	<game_task id="taynik_sosnodub" prio="0">
+        <title>Таємниця "Соснодуба"</title>
+        <objective>
+            <text>Таємниця "Соснодуба"</text>
+            <icon>ui_iconsTotal_stalker6</icon>
+            <infoportion_complete>taynik_sosnodub_have</infoportion_complete>
+			<article>taynik_sosnodub</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку на Затоні</text>
+			<function_complete>akill.taynik_sosnodub_have</function_complete>
+            <infoportion_set_complete>taynik_sosnodub_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- ОХОТА НА ХИМЕР -->
+	<game_task id="ohota_himera" prio="0">
+        <title>Полювання на химер</title>
+        <objective>
+            <text>Полювання на химер</text>
+            <icon>ui_iconsTotal_chimera</icon>
+            <infoportion_complete>ohota_himera_done</infoportion_complete>
+			<article>ohota_himera</article>
+        </objective>
+        <objective>
+            <text>Очистити стадіон від химер</text>
+			<function_complete>akill.ohota_himera_have</function_complete>
+            <infoportion_set_complete>ohota_himera_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Поговорити з Болотним Доктором</text>
+			<map_location_type hint="Болотний Доктор">blue_location</map_location_type>
+			<object_story_id>Doktor</object_story_id>
+            <infoportion_complete>ohota_himera_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- РАРИТЕТНОЕ ОРУЖИЕ -->
+	<game_task id="taynik_gila" prio="0">
+        <title>Раритетна зброя</title>
+        <objective>
+            <text>Раритетна зброя</text>
+            <icon>ui_iconsTotal_gila</icon>
+            <infoportion_complete>taynik_gila_done</infoportion_complete>
+			<article>taynik_gila</article>
+        </objective>
+        <objective>
+            <text>Принести Жилі приціл, плеєр і арт</text>
+            <infoportion_complete>taynik_gila_have</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Знайти схованку Жили</text>
+			<function_complete>akill.taynik_gila_done</function_complete>
+            <infoportion_set_complete>taynik_gila_done</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- ТАЙНИК БАНДИТА В Х-18 -->
+ 	<game_task id="taynik_bandit_x18" prio="0">
+        <title>Схованка бандита</title>
+        <objective>
+            <text>Схованка бандита</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_bandit_x18_have</infoportion_complete>
+			<article>taynik_bandit_x18</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку бандита у Х-18</text>
+			<function_complete>akill.taynik_bandit_x18_have</function_complete>
+            <infoportion_set_complete>taynik_bandit_x18_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- ПРОТИВОЯДИЕ ДЛЯ ГРОМА -->
+	<game_task id="grom_poison" prio="0">
+        <title>Протиотрута</title>
+        <objective>
+            <text>Протиотрута</text>
+            <icon>ui_iconsTotal_flower</icon>
+            <infoportion_complete>taynik_bandit_x18_start</infoportion_complete>
+			<article>grom_poison</article>
+        </objective>
+        <objective>
+            <text>Знайти необхідні інгредієнти</text>
+			<function_complete>akill.grom_poison_have</function_complete>
+            <infoportion_set_complete>grom_poison_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Віддати інгредієнти Доку</text>
+			<map_location_type hint="Болотний Доктор">blue_location</map_location_type>
+			<object_story_id>Doktor</object_story_id>
+            <infoportion_complete>grom_poison_done</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Віднести протиотруту Грому</text>
+			<map_location_type hint="Гром">blue_location</map_location_type>
+			<object_story_id>grom_npc</object_story_id>
+            <infoportion_complete>taynik_bandit_x18_start</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ЗАГАДКА ОРУЖЕЙНИКА -->
+	<game_task id="chertez_zagadka" prio="0">
+        <title>Загадка Зброяра</title>
+        <objective>
+            <text>Загадка Зброяра</text>
+            <icon>ui_iconsTotal_agroprom_get_military_documents</icon>
+            <infoportion_complete>chertez_zagadka_have</infoportion_complete>
+			<article>chertez_zagadka</article>
+        </objective>
+        <objective>
+            <text>Розгадати загадку</text>
+			<function_complete>akill.chertez_zagadka_have</function_complete>
+            <infoportion_set_complete>chertez_zagadka_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- СТРАННЫЕ ЦИФРЫ -->
+	<game_task id="pda_zagadka" prio="0">
+        <title>Дивні цифри</title>
+        <objective>
+            <text>Дивні цифри</text>
+            <icon>ui_iconsTotal_locations</icon>
+            <infoportion_complete>pda_zagadka_done</infoportion_complete>
+			<article>pda_zagadka</article>
+        </objective>
+        <objective>
+            <text>Дізнатися, что позначають цифри</text>
+            <infoportion_complete>pda_zagadka_have</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Знайти глушник для "Хостела"</text>
+            <infoportion_complete>pda_zagadka_done</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- СКАНЕРЫ АНОМАЛИЙ -->
+	<game_task id="sviblov_hostel" prio="0">
+        <title>Сканери аномалій</title>
+        <objective>
+            <text>Сканери аномалій</text>
+            <icon>ui_iconsTotal_detonate</icon>
+            <infoportion_complete>pda_zagadka_have</infoportion_complete>
+			<article>sviblov_hostel</article>
+        </objective>
+        <objective>
+            <text>Забрати всі сканери аномалій</text>
+            <function_complete>akill.sviblov_hostel_have</function_complete>
+            <infoportion_set_complete>sviblov_hostel_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Віднести сканери Свиблову</text>
+			<map_location_type hint="Свиблов">blue_location</map_location_type>
+			<object_story_id>clear_scy_leader</object_story_id>
+            <infoportion_complete>pda_zagadka_have</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ГЛАЗА ВОРОНА -->
+	<game_task id="voron_eyes" prio="0">
+        <title>"Очі ворона"</title>
+        <objective>
+            <text>"Очі ворона"</text>
+            <icon>ui_iconsTotal_find_art</icon>
+            <infoportion_complete>voron_kostya_done</infoportion_complete>
+			<article>voron_eyes</article>
+        </objective>
+        <objective>
+            <text>Знайти 6 артефактів "Око ворона"</text>
+            <function_complete>akill.voron_eyes_have</function_complete>
+            <infoportion_set_complete>voron_eyes_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Віднести артефакти Акиму</text>
+			<map_location_type hint="Аким">blue_location</map_location_type>
+			<object_story_id>esc_akim</object_story_id>
+            <infoportion_complete>voron_eyes_done</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Віддати гвинтівку М95 Кості</text>
+			<map_location_type hint="Костя">blue_location</map_location_type>
+            <object_story_id>esc_kostya</object_story_id>
+            <infoportion_complete>voron_kostya_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- БИНОКЛЬ КЭПА -->
+	<game_task id="binocle_kep" prio="0">
+        <title>Бінокль Кепа</title>
+        <objective>
+            <text>Бінокль Кепа</text>
+            <icon>ui_iconsTotal_binocular</icon>
+            <infoportion_complete>binocle_kep_done</infoportion_complete>
+			<article>binocle_kep</article>
+        </objective>
+        <objective>
+            <text>Знайти бінокль Кепа</text>
+            <function_complete>akill.binocle_kep_have</function_complete>
+            <infoportion_set_complete>binocle_kep_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Повернути бінокль власнику</text>
+			<map_location_type hint="Кеп">blue_location</map_location_type>
+			<object_story_id>Mil_Kap</object_story_id>
+            <infoportion_complete>binocle_kep_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- НЕИЗВЕСТНЫЕ ЧИПЫ -->
+	<game_task id="find_chip">
+        <title>Невідомі чіпи</title>
+        <objective>
+            <text>Невідомі чіпи</text>
+            <icon>ui_iconsTotal_tutorial_help_wounded</icon>
+            <infoportion_complete>find_chip_have</infoportion_complete>
+			<article>find_chip</article>
+        </objective>
+        <objective>
+            <text>Знайти всі дивні чіпи</text>
+            <function_complete>akill.find_chip_have</function_complete>
+            <infoportion_set_complete>find_chip_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- ВОССТАНОВЛЕНИЕ ДАННЫХ -->
+	<game_task id="fantoms_pda" prio="0">
+        <title>Відновлення даних</title>
+        <objective>
+            <text>Відновлення даних</text>
+            <icon>ui_iconsTotal_pda2</icon>
+            <infoportion_complete>fantoms_pda_done</infoportion_complete>
+			<article>fantoms_pda</article>
+        </objective>
+        <objective>
+            <text>Відновити дані на КПК</text>
+            <infoportion_complete>fantoms_pda_have</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Повернутися до Акілла</text>
+			<map_location_type hint="Акілл">blue_location</map_location_type>
+			<object_story_id>akill_npc</object_story_id>
+            <infoportion_complete>fantoms_pda_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- СТАРЫЙ ДРУГ -->
+	<game_task id="arny_kogot" prio="0">
+        <title>Старий друг</title>
+        <objective>
+            <text>Старий друг</text>
+            <icon>ui_iconsTotal_stalker11</icon>
+            <infoportion_complete>arny_kogot_have</infoportion_complete>
+			<article>arny_kogot</article>
+        </objective>
+        <objective>
+            <text>З'ясувати долю Кігтя</text>
+            <infoportion_complete>arny_kogot_have</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- ВЫНУЖДЕННАЯ МЕРА -->
+	<game_task id="mera_kogot" prio="0">
+        <title>Вимушена міра</title>
+        <objective>
+            <text>Вимушена міра</text>
+            <icon>ui_iconsTotal_esc_dinamit_to_volk</icon>
+            <infoportion_complete>mera_kogot_done</infoportion_complete>
+			<article>mera_kogot</article>
+        </objective>
+		<objective>
+            <text>Поговорити з Акіллом</text>
+			<map_location_type hint="Акілл">blue_location</map_location_type>
+			<object_story_id>akill_npc</object_story_id>
+            <infoportion_complete>mera_kogot_have</infoportion_complete> 
+        </objective>
+        <objective>
+            <text>Вбити зомбованого Батога</text>
+            <infoportion_complete>hlist_zombied_dead</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Забрати КПК у Арні</text>
+            <infoportion_complete>mera_kogot_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ТАЙНИКИ ДРАГУНОВА -->
+	<game_task id="taynik_dragunov" prio="0">
+        <title>Схованки Драгунова</title>
+        <objective>
+            <text>Схованки Драгунова</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_dragunov_have3</infoportion_complete>
+			<article>taynik_dragunov</article>
+        </objective>
+        <objective>
+            <text>Знайти ретранслятор</text>
+            <function_complete>akill.find_retrans_have1</function_complete>
+            <infoportion_set_complete>taynik_dragunov_have1</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Знайти першу схованку Драгунова</text>
+            <function_complete>akill.find_retrans_have2</function_complete>
+            <infoportion_set_complete>taynik_dragunov_have2</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Знайти другу схованку Драгунова</text>
+            <function_complete>akill.find_retrans_have3</function_complete>
+            <infoportion_set_complete>taynik_dragunov_have3</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- ОРУЖИЕ МОНОЛИТА -->
+	<game_task id="taynik_cube" prio="0">
+        <title>Зброя Моноліту</title>
+        <objective>
+            <text>Зброя Моноліту</text>
+            <icon>ui_iconsTotal_radioactive2</icon>
+            <infoportion_complete>taynik_cube_have</infoportion_complete>
+			<article>taynik_cube</article>
+        </objective>
+        <objective>
+            <text>Знайти приймач</text>
+            <infoportion_complete>taynik_cube_have</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- ОХОТА НА ЧУДОВИЩ -->
+	<game_task id="ohota_biblik" prio="0">
+        <title>Полювання на чудовиськ</title>
+        <objective>
+            <text>Полювання на чудовиськ</text>
+            <icon>ui_iconsTotal_biblik</icon>
+            <infoportion_complete>ohota_biblik_done</infoportion_complete>
+			<article>ohota_biblik</article>
+        </objective>
+        <objective>
+            <text>Очистити місцевість від бібліотекарів</text>
+            <function_complete>akill.ohota_biblik_have</function_complete>
+            <infoportion_set_complete>ohota_biblik_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Повернутися до Дяка</text>
+			<map_location_type hint="Дяк">blue_location</map_location_type>
+            <object_story_id>dyak</object_story_id>
+            <infoportion_complete>ohota_biblik_done</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- СКЛАД ГОРЮЧЕГО -->
+	<game_task id="sklad_barrel" prio="0">
+        <title>Склад пального</title>
+        <objective>
+            <text>Склад пального</text>
+            <icon>ui_iconsTotal_explose</icon>
+            <infoportion_complete>sklad_barrel_done</infoportion_complete>
+			<article>sklad_barrel</article>
+        </objective>
+		<objective>
+            <text>Знищити військовий конвой</text>
+            <function_complete>akill.sklad_convoi_have</function_complete>
+            <infoportion_set_complete>sklad_convoi_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Взірвати склад з пальним</text>
+            <infoportion_complete>sklad_barrel_have</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Повернутися до Ааза</text>
+            <infoportion_complete>sklad_barrel_done</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- ДОВОДЫ НОЯ -->
+	<game_task id="noi_dovod" prio="0">
+        <title>Доводи Ноя</title>
+        <objective>
+            <text>Доводи Ноя</text>
+            <icon>ui_iconsTotal_skadovsk</icon>
+            <infoportion_complete>noi_dovod_done</infoportion_complete>
+			<article>noi_dovod</article>
+        </objective>
+        <objective>
+            <text>Перевірити Лісопилку</text>
+			<function_complete>akill.ohota_mutant_have</function_complete>
+            <infoportion_set_complete>ohota_mutant_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Повернутися до Ноя</text>
+			<map_location_type hint="Ной">blue_location</map_location_type>
+            <object_story_id>noi_npc</object_story_id>
+            <infoportion_complete>noi_dovod_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ПОДГОТОВКА К ВОЛНЕ -->
+	<game_task id="noi_pripas" prio="0">
+        <title>Підготовка до хвилі</title>
+        <objective>
+            <text>Підготовка до хвилі</text>
+            <icon>ui_iconsTotal_skadovsk</icon>
+            <infoportion_complete>noi_pripas_done</infoportion_complete>
+			<article>noi_pripas</article>
+        </objective>
+        <objective>
+            <text>Зібрати необхідні речі</text>
+			<function_complete>akill.noi_pripas_have</function_complete>
+            <infoportion_set_complete>noi_pripas_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Віднести все Ною</text>
+			<map_location_type hint="Ной">blue_location</map_location_type>
+            <object_story_id>noi_npc</object_story_id>
+            <infoportion_complete>noi_pripas_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ХРУПКИЙ СОЮЗ -->
+	<game_task id="volna_union" prio="0">
+        <title>Крихкий союз</title>
+        <objective>
+            <text>Крихкий союз</text>
+            <icon>ui_iconsTotal_sdelka</icon>
+            <infoportion_complete>volna_union_done</infoportion_complete>
+			<article>volna_union</article>
+        </objective>
+        <objective>
+            <text>Заручитися підтримкою Чистого Неба</text>
+			<map_location_type hint="Свиблов">blue_location</map_location_type>
+			<object_story_id>clear_scy_leader</object_story_id>
+			<infoportion_complete>volna_reid_done</infoportion_complete> 
+        </objective>
+        <objective>
+            <text>Заручитися підтримкою Долгу</text>
+			<map_location_type hint="Воронін">blue_location</map_location_type>
+			<object_story_id>bar_dolg_general_voronin</object_story_id>
+            <infoportion_complete>volna_diversya_done</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Заручитися підтримкою Волі</text>
+			<map_location_type hint="Лукаш">blue_location</map_location_type>
+			<object_story_id>Mil_Lukash</object_story_id>
+            <infoportion_complete>volna_darkness_done</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Заручитися підтримкою сталкерів</text>
+			<map_location_type hint="Волк">blue_location</map_location_type>
+			<object_story_id>Escape_novice_lager_volk</object_story_id>
+            <infoportion_complete>living_dead_done</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Заручитися підтримкою мисливців</text>
+			<map_location_type hint="Захар">blue_location</map_location_type>
+			<object_story_id>stalker_green_zahar</object_story_id>
+            <infoportion_complete>volna_zahar_done</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Заручитися підтримкою військових</text>
+			<map_location_type hint="Кузнєцов">blue_location</map_location_type>
+            <object_story_id>esc_kuznetsov</object_story_id>
+            <infoportion_complete>find_mina_have</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Поговорити з Дімаком</text>
+            <infoportion_complete>volna_dimak</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Поговорити зі Скнарою</text>
+			<map_location_type hint="Скнара">blue_location</map_location_type>
+			<object_story_id>Mil_Miser</object_story_id>
+            <infoportion_complete>skryga_taina_done</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Поговорити з Петренко</text>
+			<map_location_type hint="Петренко">blue_location</map_location_type>
+			<object_story_id>bar_dolg_polkovnik_petrenko</object_story_id>
+            <infoportion_complete>volna_petrenko</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Поговорити з Сидоровичем</text>
+			<map_location_type hint="Сидорович">blue_location</map_location_type>
+			<object_story_id>Escape_Trader</object_story_id>
+            <infoportion_complete>volna_bpla_done</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Поговорити з Барменом</text>
+			<map_location_type hint="Бармен">blue_location</map_location_type>
+			<object_story_id>bar_Barman</object_story_id>
+            <infoportion_complete>volna_barmen_done</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Поговорити з Адреналіном</text>
+			<map_location_type hint="Адреналін">blue_location</map_location_type>
+			<object_story_id>agro_adrenalin</object_story_id>
+            <infoportion_complete>anomaly_grenade_done</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Домовитися з Шулікою</text>
+            <infoportion_complete>volna_kogot_done</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Поговорити з Сяком</text>
+			<map_location_type hint="Сяк">blue_location</map_location_type>
+            <object_story_id>Sak</object_story_id>
+            <infoportion_complete>volna_sak_done</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Повернутися до Ноя</text>
+			<map_location_type hint="Ной">blue_location</map_location_type>
+            <object_story_id>noi_npc</object_story_id>
+            <infoportion_complete>volna_union_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ОХОТА НА КРОВОСОСОВ -->
+	<game_task id="ohota_suker" prio="0">
+        <title>Полювання на кровососів</title>
+        <objective>
+            <text>Полювання на кровососів</text>
+            <icon>ui_iconsTotal_val_sos_help</icon>
+            <infoportion_complete>ohota_suker_done</infoportion_complete>
+			<article>ohota_suker</article>
+        </objective>
+		<objective>
+            <text>Знайти балони з отруйним газом</text>
+			<function_complete>akill.ohota_suker_have</function_complete>
+            <infoportion_set_complete>ohota_suker_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Встановити перший балон</text>
+			<infoportion_complete>ohota_suker_have1</infoportion_complete> 
+        </objective>
+        <objective>
+            <text>Встановити другий балон</text>
+            <infoportion_complete>ohota_suker_have2</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Встановити третій балон</text>
+            <infoportion_complete>ohota_suker_have3</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Поговорити з Сахаровим</text>
+			<map_location_type hint="Сахаров">blue_location</map_location_type>
+			<object_story_id>yan_general_ecolog</object_story_id>
+            <infoportion_complete>ohota_suker_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ДЕТЕКТОР ДВИЖЕНИЯ -->
+	<game_task id="moving_detector" prio="0">
+        <title>Детектор руху</title>
+        <objective>
+            <text>Детектор руху</text>
+            <icon>ui_iconsTotal_detonate</icon>
+            <infoportion_complete>moving_detector_spawn</infoportion_complete>
+			<article>move_detector</article>
+        </objective>
+        <objective>
+            <text>Встановити детектор руху</text>
+            <infoportion_complete>moving_detector_spawn</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- ИНСТРУМЕНТЫ ДЛЯ ДИМАКА -->
+	<game_task id="dimak_toolkit" prio="0">
+        <title>Інструменти для Дімака</title>
+        <objective>
+            <text>Інструменти для Дімака</text>
+            <icon>ui_iconsTotal_toolkit</icon>
+            <infoportion_complete>dimak_toolkit_done</infoportion_complete>
+			<article>dimak_toolkit</article>
+        </objective>
+        <objective>
+            <text>Знайти армійські інструменти ОРК-42</text>
+            <function_complete>akill.dimak_toolkit_have</function_complete>
+            <infoportion_set_complete>dimak_toolkit_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести інструменти Дімаку</text>
+            <infoportion_complete>dimak_toolkit_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ЖИВЫЕ МЕРТВЕЦЫ -->
+	<game_task id="living_dead" prio="0">
+        <title>Живі мертвяки</title>
+        <objective>
+            <text>Живі мертвяки</text>
+            <icon>ui_iconsTotal_oborona2</icon>
+            <infoportion_complete>living_dead_done</infoportion_complete>
+			<article>living_dead</article>
+        </objective>
+        <objective>
+            <text>Допомогти групі Назара відбитися від зомбі</text>
+            <function_complete>akill.ohota_zombi_have</function_complete>
+            <infoportion_set_complete>ohota_zombi_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Поговорити з Назаром</text>
+			<map_location_type hint="Назар">blue_location</map_location_type>
+			<object_story_id>nazar_npc</object_story_id>
+            <infoportion_complete>living_dead_have</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Поговорити з Аазом</text>
+            <infoportion_complete>living_dead_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- АНОМАЛЬНЫЕ ГРАНАТЫ -->
+	<game_task id="anomaly_grenade" prio="0">
+        <title>Аномальні гранати</title>
+        <objective>
+            <text>Аномальні гранати</text>
+            <icon>ui_iconsTotal_bomb</icon>
+            <infoportion_complete>anomaly_grenade_done</infoportion_complete>
+			<article>anomaly_grenade</article>
+        </objective>
+        <objective>
+            <text>Знайти схему створення аномальних гранат</text>
+            <function_complete>akill.anomaly_grenade_have</function_complete>
+            <infoportion_set_complete>anomaly_grenade_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести схему Адреналіну</text>
+			<map_location_type hint="Адреналін">blue_location</map_location_type>
+			<object_story_id>agro_adrenalin</object_story_id>
+            <infoportion_complete>anomaly_grenade_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- С НЕБЕС НА ЗЕМЛЮ -->
+	<game_task id="volna_bpla" prio="0">
+        <title>З небес на землю</title>
+        <objective>
+            <text>З небес на землю</text>
+            <icon>ui_iconsTotal_esc_trader_job</icon>
+            <infoportion_complete>volna_bpla_done</infoportion_complete>
+			<article>volna_bpla</article>
+        </objective>
+        <objective>
+            <text>Забрати жорсткий диск з безпілотника</text>
+            <function_complete>akill.volna_bpla_have</function_complete>
+            <infoportion_set_complete>volna_bpla_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести жорсткий диск Сидоровичу</text>
+			<map_location_type hint="Сидорович">blue_location</map_location_type>
+			<object_story_id>Escape_Trader</object_story_id>
+            <infoportion_complete>volna_bpla_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ЛОВЕЦ МУТАНТОВ -->
+	<game_task id="volna_kogot" prio="0">
+        <title>Ловець мутантів</title>
+        <objective>
+            <text>Ловець мутантів</text>
+            <icon>ui_iconsTotal_dar_codedoor_2</icon>
+            <infoportion_complete>volna_kogot_done</infoportion_complete>
+			<article>volna_kogot</article>
+        </objective>
+        <objective>
+            <text>Знайти пляшечки зі снодійним у Х-8</text>
+            <function_complete>akill.volna_kogot_have</function_complete>
+            <infoportion_set_complete>volna_kogot_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Забрати ігломет у Холода</text>
+            <infoportion_complete>volna_holod</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Віднести необхідні речі Арні</text>
+            <infoportion_complete>volna_kogot_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ОДИН В ТЕМНОТЕ -->
+	<game_task id="volna_darkness" prio="0">
+        <title>Один у темряві</title>
+        <objective>
+            <text>Один у темряві</text>
+            <icon>ui_iconsTotal_yan_kill_brain_task_2</icon>
+            <infoportion_complete>volna_darkness_done</infoportion_complete>
+			<article>volna_darkness</article>
+        </objective>
+        <objective>
+            <text>Знайти кейси найманців у Шляхопровіді</text>
+            <function_complete>akill.volna_darkness_have</function_complete>
+            <infoportion_set_complete>volna_darkness_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Віднести кейси Лукашу</text>
+			<map_location_type hint="Лукаш">blue_location</map_location_type>
+			<object_story_id>Mil_Lukash</object_story_id>
+            <infoportion_complete>volna_darkness_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- НЕЗВАНЫЕ ГОСТИ -->
+	<game_task id="volna_reid" prio="0">
+        <title>Незвані гості</title>
+        <objective>
+            <text>Незвані гості</text>
+            <icon>ui_iconsTotal_helicopter</icon>
+            <infoportion_complete>volna_reid_done</infoportion_complete>
+			<article>volna_reid</article>
+        </objective>
+        <objective>
+            <text>Відбити атаку десанту на базу Чистого Неба</text>
+            <function_complete>akill.volna_reid_have</function_complete>
+            <infoportion_set_complete>volna_reid_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Збити ударні вертольоти</text>
+            <function_complete>akill.volna_reid_vert</function_complete>
+            <infoportion_set_complete>volna_reid_vert</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Поговорити зі Свибловим</text>
+			<map_location_type hint="Свиблов">blue_location</map_location_type>
+			<object_story_id>clear_scy_leader</object_story_id>
+            <infoportion_complete>volna_reid_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ВНЕЗАПНОЕ НАПАДЕНИЕ -->
+	<game_task id="volna_voronin" prio="0">
+        <title>Несподіваний напад</title>
+        <objective>
+            <text>Несподіваний напад</text>
+            <icon>ui_iconsNpc_stalker_do_komandir</icon>
+            <infoportion_complete>volna_diversya_start</infoportion_complete>
+			<article>volna_voronin</article>
+        </objective>
+        <objective>
+            <text>Догнати напавших на Долг сталкерів</text>
+            <function_complete>akill.volna_voronin_have</function_complete>
+            <infoportion_set_complete>volna_voronin_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Повернутися до Вороніна</text>
+			<map_location_type hint="Воронін">blue_location</map_location_type>
+			<object_story_id>bar_dolg_general_voronin</object_story_id>
+            <infoportion_complete>volna_diversya_start</infoportion_complete> 
+        </objective>
+	</game_task>
+
+	<!-- ПОРОХОВАЯ БОЧКА -->
+	<game_task id="volna_diversya" prio="0">
+        <title>Порохова бочка</title>
+        <objective>
+            <text>Порохова бочка</text>
+            <icon>ui_iconsNpc_stalker_do_komandir</icon>
+            <infoportion_complete>volna_diversya_done</infoportion_complete>
+			<article>volna_diversya</article>
+        </objective>
+        <objective>
+            <text>Знайти всі місця із закладеною вибухівкою</text>
+            <function_complete>akill.volna_diversya_have</function_complete>
+            <infoportion_set_complete>volna_diversya_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Віддати всю вибухівку Вороніну</text>
+			<map_location_type hint="Воронін">blue_location</map_location_type>
+			<object_story_id>bar_dolg_general_voronin</object_story_id>
+            <infoportion_complete>volna_diversya_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ТАЙНА СКРЯГИ -->
+	<game_task id="skryga_taina" prio="0">
+        <title>Таємниця Скнари</title>
+        <objective>
+            <text>Таємниця Скнари</text>
+            <icon>ui_iconsNpc_stalker_sv_balon_1</icon>
+            <infoportion_complete>skryga_taina_done</infoportion_complete>
+			<article>skryga_taina</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку Новікова у Х-8</text>
+            <function_complete>akill.skryga_taina_have</function_complete>
+            <infoportion_set_complete>skryga_taina_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Застосувати "Психоделін" на Славку</text>
+            <infoportion_complete>skryga_slavka</infoportion_complete> 
+        </objective>
+        <objective>
+            <text>Поговорити зі Скнарою</text>
+			<map_location_type hint="Скнара">blue_location</map_location_type>
+			<object_story_id>Mil_Miser</object_story_id>
+            <infoportion_complete>skryga_taina_done</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- В ПЛЕНУ -->
+	<game_task id="volna_plen" prio="0">
+        <title>У полоні</title>
+        <objective>
+            <text>У полоні</text>
+            <icon>ui_iconsTotal_plen</icon>
+            <infoportion_complete>novikov_stop</infoportion_complete>
+			<article>volna_plen</article>
+        </objective>
+        <objective>
+            <text>Знайти доктора Новікова на Затоні</text>
+            <infoportion_complete>volna_plen_start</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Супроводити доктора у безпечне місце</text>
+            <infoportion_complete>novikov_stop</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- СЕКУНДЫ ДО СМЕРТИ -->
+	<game_task id="saper_code" prio="0">
+        <title>Секунди до смерті</title>
+        <objective>
+            <text>Секунди до смерті</text>
+            <icon>ui_iconsTotal_bunker</icon>
+            <infoportion_complete>saper_code_done</infoportion_complete>
+			<infoportion_fail>saper_code_fail</infoportion_fail>
+			<article>saper_code</article>
+        </objective>
+        <objective>
+            <text>Знешкодити міну за декілька хвилин</text>
+            <infoportion_complete>saper_code_have</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Дізнатися код у Сапера</text>
+            <infoportion_complete>saper_code_done</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- РАССЛЕДОВАНИЕ УБИЙСТВА -->
+	<game_task id="volna_barmen" prio="0">
+        <title>Розслідування вбивства</title>
+        <objective>
+            <text>Розслідування вбивства</text>
+            <icon>ui_iconsNpc_barman</icon>
+            <infoportion_complete>volna_barmen_done</infoportion_complete>
+			<article>volna_barmen</article>
+        </objective>
+		<objective>
+            <text>Розпитати сталкерів у Барі</text>
+            <infoportion_complete>svidetel_dopros</infoportion_complete> 
+        </objective>
+        <objective>
+            <text>Знайти вбивцю Костоправа</text>
+            <infoportion_complete>volna_barmen_have</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Повернутися до Бармена</text>
+			<map_location_type hint="Бармен">blue_location</map_location_type>
+			<object_story_id>bar_Barman</object_story_id>
+            <infoportion_complete>volna_barmen_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ГАУСС-УСТАНОВКА -->
+	<game_task id="volna_foto" prio="0">
+        <title>Гаусс-установка</title>
+        <objective>
+            <text>Гаусс-установка</text>
+            <icon>ui_iconsTotal_gauss</icon>
+            <infoportion_complete>volna_foto_done</infoportion_complete>
+			<article>volna_foto</article>
+        </objective>
+        <objective>
+            <text>Зробити знімки Гаусс-установки</text>
+            <function_complete>akill.volna_foto_have</function_complete>
+            <infoportion_set_complete>volna_foto_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Віддати фото Довгов'язому</text>
+			<map_location_type hint="Довгов'язий">blue_location</map_location_type>
+            <object_story_id>dolgovazyi</object_story_id>
+            <infoportion_complete>volna_foto_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ТРУДНАЯ МИШЕНЬ -->
+	<game_task id="volna_zahar" prio="0">
+        <title>Важка мішень</title>
+        <objective>
+            <text>Важка мішень</text>
+            <icon>ui_iconsTotal_stalker6</icon>
+            <infoportion_complete>volna_zahar_done</infoportion_complete>
+			<article>volna_zahar</article>
+        </objective>
+		<objective>
+            <text>Добратися до Червоного лісу</text>
+            <infoportion_complete>volna_zahar_spawn</infoportion_complete> 
+        </objective>
+        <objective>
+            <text>Вбити заражених снорків з арбалета</text>
+			<function_complete>akill.volna_zahar_have</function_complete>
+            <infoportion_set_complete>volna_zahar_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Поговорити з Захаром</text>
+			<map_location_type hint="Захар">blue_location</map_location_type>
+			<object_story_id>stalker_green_zahar</object_story_id>
+            <infoportion_complete>volna_zahar_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- КРОТОВАЯ НОРА -->
+	<game_task id="volna_sak" prio="0">
+        <title>Нора крота</title>
+        <objective>
+            <text>Нора крота</text>
+            <icon>ui_iconsTotal_find_art</icon>
+            <infoportion_complete>volna_sak_done</infoportion_complete>
+			<article>volna_sak</article>
+        </objective>
+        <objective>
+            <text>Знайти артефакт "Чернобильський їжак"</text>
+            <infoportion_complete>volna_sak_have</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Принести артефакт Сяку</text>
+			<map_location_type hint="Сяк">blue_location</map_location_type>
+            <object_story_id>Sak</object_story_id>
+            <infoportion_complete>volna_sak_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ЛЦУ ДЛЯ МАКСА -->
+	<game_task id="max_gunsight" prio="0">
+        <title>ЛЦВ для Макса</title>
+        <objective>
+            <text>ЛЦВ для Макса</text>
+            <icon>ui_iconsTotal_pnv</icon>
+            <infoportion_complete>max_gunsight_done</infoportion_complete>
+			<article>max_gunsight</article>
+        </objective>
+        <objective>
+            <text>Знайти два ЛЦВ у Саркофагу</text>
+            <function_complete>akill.max_gunsight_have</function_complete>
+            <infoportion_set_complete>max_gunsight_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Принести ЛЦВ Максу</text>
+			<map_location_type hint="Макс">blue_location</map_location_type>
+			<object_story_id>Mil_Master_Max</object_story_id>
+            <infoportion_complete>max_gunsight_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ПРОВЕРКА НА ПРОЧНОСТЬ -->
+	<game_task id="viking_proverka" prio="0">
+        <title>Перевірка на міцність</title>
+        <objective>
+            <text>Перевірка на міцність</text>
+            <icon>ui_iconsTotal_help</icon>
+            <infoportion_complete>viking_proverka_done</infoportion_complete>
+			<infoportion_fail>viking_proverka_fail</infoportion_fail>
+			<article>viking_proverka</article>
+        </objective>
+        <objective>
+            <text>Допомогти Вікінгу пройти випробування</text>
+            <function_complete>akill.viking_proverka_have</function_complete>
+            <infoportion_set_complete>viking_proverka_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Поговорити з Іванцовим</text>
+			<map_location_type hint="Іванцов">blue_location</map_location_type>
+			<object_story_id>bar_dolg_captain_ivancov</object_story_id>
+            <infoportion_complete>ivancov_proverka_done</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Отримати нагороду у Вікінга</text>
+            <infoportion_complete>viking_proverka_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- РЕЗЕРВНЫЙ СХРОН -->
+	<game_task id="shurup_shron" prio="0">
+        <title>Резервний схрон</title>
+        <objective>
+            <text>Резервний схрон</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>shurup_shron_done</infoportion_complete>
+			<article>shurup_shron</article>
+        </objective>
+        <objective>
+            <text>Знайти схрон Волі і наповнити його припасами</text>
+            <infoportion_complete>shurup_shron_have</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Повернутися до Шурупа</text>
+            <infoportion_complete>shurup_shron_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ТАЙНИК ГОЛЕМА -->
+ 	<game_task id="taynik_golem" prio="0">
+        <title>Схованка Голема</title>
+        <objective>
+            <text>Схованка Голема</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_golem_have</infoportion_complete>
+			<article>taynik_golem</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку Голема на бойовій арені</text>
+			<function_complete>akill.taynik_golem_have</function_complete>
+            <infoportion_set_complete>taynik_golem_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- МЕТКИЙ СТРЕЛОК -->
+	<game_task id="borov_bottle" prio="0">
+        <title>Влучний стрілець</title>
+        <objective>
+            <text>Влучний стрілець</text>
+            <icon>ui_iconsTotal_vintovka</icon>
+            <infoportion_complete>borov_bottle_done</infoportion_complete>
+			<infoportion_fail>borov_bottle_fail</infoportion_fail>
+			<article>borov_bottle</article>
+        </objective>
+        <objective>
+            <text>Зайняти позицію на цистернах</text>
+            <infoportion_complete>borov_bottle_spawn</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Попасти у 130 пляшок</text>
+            <infoportion_complete>sklad_barrel_have</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Отримати нагороду у Кабана</text>
+			<map_location_type hint="Кабан">blue_location</map_location_type>
+			<object_story_id>val_borov</object_story_id>
+            <infoportion_complete>borov_bottle_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- МАЛЕНЬКАЯ ДИВЕРСИЯ -->
+	<game_task id="kalinin_diversya" prio="0">
+        <title>Маленька диверсія</title>
+        <objective>
+            <text>Маленька диверсія</text>
+            <icon>ui_iconsTotal_vodka</icon>
+            <infoportion_complete>kalinin_diversya_done</infoportion_complete>
+			<article>kalinin_diversya</article>
+        </objective>
+        <objective>
+            <text>Роздобути у Кулінара палену горілку</text>
+			<map_location_type hint="Кулінар">blue_location</map_location_type>
+			<object_story_id>amk_artem_kulinar</object_story_id>
+            <infoportion_complete>ohota_tushkan_done</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Знайти схрон бандитів і покласти у нього паленку</text>
+            <infoportion_complete>kalinin_diversya_have</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Повернутися до Калиніна</text>
+			<map_location_type hint="Калинін">blue_location</map_location_type>
+			<object_story_id>atp_kalinin</object_story_id>
+            <infoportion_complete>kalinin_diversya_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ОХОТА НА ГРЫЗУНОВ -->
+	<game_task id="ohota_tushkan" prio="0">
+        <title>Полювання на гризунів</title>
+        <objective>
+            <text>Полювання на гризунів</text>
+            <icon>ui_iconsTotal_grenade</icon>
+            <infoportion_complete>ohota_tushkan_done</infoportion_complete>
+			<article>ohota_tushkan</article>
+        </objective>
+		<objective>
+            <text>Прибути опівночі на Агропром</text>
+            <infoportion_complete>ohota_tushkan_spawn</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Знищити тушканів за допомогою гранат</text>
+			<function_complete>akill.ohota_tushkan_have</function_complete>
+            <infoportion_set_complete>ohota_tushkan_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Віднести Кулінару голови тушканів</text>
+			<map_location_type hint="Кулінар">blue_location</map_location_type>
+			<object_story_id>amk_artem_kulinar</object_story_id>
+            <infoportion_complete>ohota_tushkan_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ОПАСНАЯ РАБОТА -->
+	<game_task id="find_mina" prio="0">
+        <title>Небезпечна робота</title>
+        <objective>
+            <text>Небезпечна робота</text>
+            <icon>ui_iconsTotal_stalker1</icon>
+            <infoportion_complete>find_mina_have</infoportion_complete>
+			<article>find_mina</article>
+        </objective>
+		<objective>
+            <text>Розмінувати територію на ЧАЕС-1</text>
+			<function_complete>akill.find_mina_have</function_complete>
+            <infoportion_set_complete>find_mina_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- ВОЛНА: ДЕНЬ ПЕРВЫЙ -->
+	<game_task id="volna_day1" prio="0">
+        <title>Хвиля: День перший</title>
+        <objective>
+            <text>Хвиля: День перший</text>
+            <icon>ui_iconsTotal_volna</icon>
+            <infoportion_complete>volna_day1_done</infoportion_complete>
+			<article>volna_day1</article>
+        </objective>
+        <objective>
+            <text>Відбити першу хвилю мутантів</text>
+            <function_complete>akill.volna_day1_have</function_complete>
+            <infoportion_set_complete>volna_day1_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Поговорити з Ноєм</text>
+			<map_location_type hint="Ной">blue_location</map_location_type>
+            <object_story_id>noi_npc</object_story_id>
+            <infoportion_complete>volna_day1_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ВОЛНА: ДЕНЬ ВТОРОЙ -->
+	<game_task id="volna_day2" prio="0">
+        <title>Хвиля: День другий</title>
+        <objective>
+            <text>Хвиля: День другий</text>
+            <icon>ui_iconsTotal_volna</icon>
+            <infoportion_complete>volna_day2_done</infoportion_complete>
+			<article>volna_day2</article>
+        </objective>
+        <objective>
+            <text>Відбити другу хвилю мутантів</text>
+            <function_complete>akill.volna_day2_have</function_complete>
+            <infoportion_set_complete>volna_day2_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Поговорити з Шулікою</text>
+			<map_location_type hint="Шуліка">blue_location</map_location_type>
+			<object_story_id>kogot_volna</object_story_id>
+            <infoportion_complete>volna_day2_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ШТУРМ СТАНЦИИ -->
+	<game_task id="shturm_station" prio="0">
+        <title>Штурм станції</title>
+        <objective>
+            <text>Штурм станції</text>
+            <icon>ui_iconsTotal_shadows</icon>
+            <infoportion_complete>shturm_station_done</infoportion_complete>
+			<article>shturm_station</article>
+        </objective>
+        <objective>
+            <text>Зустрітися з загоном Фенікса</text>
+            <infoportion_complete>shturm_station_start</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Взяти штурмом станцію переробки відходів</text>
+            <infoportion_complete>shturm_station_have</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Поговорити з Феніксом</text>
+			<map_location_type hint="Фенікс">blue_location</map_location_type>
+			<object_story_id>fenix_volna</object_story_id>
+            <infoportion_complete>shturm_station_done</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- ВОЛНА: ДЕНЬ ТРЕТИЙ -->
+	<game_task id="volna_day3" prio="0">
+        <title>Хвиля: День третій</title>
+        <objective>
+            <text>Хвиля: День третій</text>
+            <icon>ui_iconsTotal_volna</icon>
+            <infoportion_complete>volna_day3_done</infoportion_complete>
+			<article>volna_day3</article>
+        </objective>
+        <objective>
+            <text>Відбити третю хвилю мутантів</text>
+            <function_complete>akill.volna_day3_have</function_complete>
+            <infoportion_set_complete>volna_day3_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Поговорити з Феніксом</text>
+			<map_location_type hint="Фенікс">blue_location</map_location_type>
+			<object_story_id>fenix_volna</object_story_id>
+            <infoportion_complete>volna_day3_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ВОЛНА: ПОСЛЕДНЯЯ БИТВА -->
+	<game_task id="volna_day4" prio="0">
+        <title>Хвиля: Остання битва</title>
+        <objective>
+            <text>Хвиля: Остання битва</text>
+            <icon>ui_iconsTotal_volna</icon>
+            <infoportion_complete>volna_day4_done</infoportion_complete>
+			<article>volna_day4</article>
+        </objective>
+        <objective>
+            <text>Обороняти позицію біля портових кранів</text>
+            <infoportion_complete>ohota_mutant1_dead</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Обороняти позицію біля табору "Смарагдове"</text>
+            <infoportion_complete>ohota_mutant2_dead</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Обороняти позицію біля заправки</text>
+            <function_complete>akill.volna_day4_have</function_complete>
+            <infoportion_set_complete>volna_day4_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Поговорити з капитаном Филатівым</text>
+            <infoportion_complete>volna_day4_filatov</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Повернутися до Ноя</text>
+			<map_location_type hint="Ной">blue_location</map_location_type>
+            <object_story_id>noi_npc</object_story_id>
+            <infoportion_complete>volna_day4_done</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- ТАЙНИК НОЯ -->
+ 	<game_task id="taynik_noi" prio="0">
+        <title>Схованка Ноя</title>
+        <objective>
+            <text>Схованка Ноя</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>taynik_noi_have</infoportion_complete>
+			<article>taynik_noi</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку Ноя</text>
+			<function_complete>akill.taynik_noi_take</function_complete>
+            <infoportion_set_complete>taynik_noi_take</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- УДАЧНАЯ ШУТКА -->
+	<game_task id="tolik_robbed" prio="0">
+        <title>Вдалий жарт</title>
+        <objective>
+            <text>Вдалий жарт</text>
+            <icon>ui_iconsTotal_tolik</icon>
+            <infoportion_complete>tolik_robbed_done</infoportion_complete>
+			<article>tolik_robbed</article>
+        </objective>
+        <objective>
+            <text>Знайти штани на елеваторі</text>
+            <function_complete>akill.tolik_robbed_have</function_complete>
+            <infoportion_set_complete>tolik_robbed_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Повернути штани власнику</text>
+			<map_location_type hint="Толік">blue_location</map_location_type>
+			<object_story_id>Escape_dinamite</object_story_id>
+            <infoportion_complete>tolik_robbed_done</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- ОТВЕТНЫЙ УДАР -->
+	<game_task id="strike_back" prio="0">
+        <title>Удар у відповідь</title>
+        <objective>
+            <text>Удар у відповідь</text>
+            <icon>ui_iconsNpc_stalker_do_komandir</icon>
+            <infoportion_complete>strike_back_done</infoportion_complete>
+			<infoportion_fail>strike_back_fail</infoportion_fail>
+			<article>strike_back</article>
+        </objective>
+        <objective>
+            <text>Прибути в умовлене місце і зайняти позицію</text>
+            <infoportion_complete>strike_back_have</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Вбити Цербера з ігломета</text>
+            <infoportion_complete>cerber_npc_dead</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Вибратися з території ЧАЕС-1</text>
+            <infoportion_complete>strike_back_end</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Доповісти про виконання Вороніну</text>
+			<map_location_type hint="Воронін">blue_location</map_location_type>
+			<object_story_id>bar_dolg_general_voronin</object_story_id>
+            <infoportion_complete>strike_back_done</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- ФОТООХОТА -->
+	<game_task id="foto_ohota">
+        <title>Фотополювання</title>
+        <objective>
+            <text>Фотополювання</text>
+            <icon>ui_iconsTotal_foto</icon>
+            <infoportion_complete>foto_ohota_done</infoportion_complete>
+			<article>foto_ohota</article>
+        </objective>
+        <objective>
+            <text>Темно-коричнева собака</text>
+			<infoportion_complete>foto_ohota_dog_brown</infoportion_complete> 
+        </objective>
+        <objective>
+            <text>Червоно-коричнева собака</text>
+            <infoportion_complete>foto_ohota_dog_red</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Біла собака</text>
+            <infoportion_complete>foto_ohota_dog_white</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Руда примарна собака</text>
+            <infoportion_complete>foto_ohota_dog_orange</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Зелена примарна собака</text>
+            <infoportion_complete>foto_ohota_dog_green</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Червона собака без шкіри</text>
+            <infoportion_complete>foto_ohota_dog_shill</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Доберман</text>
+            <infoportion_complete>foto_ohota_dog_doberman</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Чорна собака</text>
+            <infoportion_complete>foto_ohota_dog_black</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Коричнева псевдособака</text>
+            <infoportion_complete>foto_ohota_psydog_brown</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Сіра псевдособака</text>
+            <infoportion_complete>foto_ohota_psydog_grey</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Плоть</text>
+            <infoportion_complete>foto_ohota_flesh</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Болотна плоть</text>
+            <infoportion_complete>foto_ohota_flesh_swamp</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Заноза</text>
+            <infoportion_complete>foto_ohota_zanoza</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Павук</text>
+            <infoportion_complete>foto_ohota_spider</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Кабан</text>
+            <infoportion_complete>foto_ohota_boar</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Снорк</text>
+			<infoportion_complete>foto_ohota_snork</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Крилатий снорк</text>
+			<infoportion_complete>foto_ohota_snork_jumper</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Болотний виповзень</text>
+			<infoportion_complete>foto_ohota_vypolzen</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Печерний виповзень</text>
+			<infoportion_complete>foto_ohota_vypolzen_red</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Тушкан</text>
+            <infoportion_complete>foto_ohota_tushkan</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Чорний тушкан</text>
+            <infoportion_complete>foto_ohota_tushkan_strong</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Псі-полтергейст</text>
+            <infoportion_complete>foto_ohota_polter_tele</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Вогняний полтергейст</text>
+            <infoportion_complete>foto_ohota_polter_flame</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Повзучий полтергейст</text>
+            <infoportion_complete>foto_ohota_polter</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Запеклий полтергейст</text>
+            <infoportion_complete>foto_ohota_poltergeist_dd</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Електро-полтергейст</text>
+            <infoportion_complete>foto_ohota_electro_polter</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Примарний полтергейст</text>
+            <infoportion_complete>foto_ohota_polter_xray</infoportion_complete> 
+        </objective>
+        <objective>
+            <text>Кровосос</text>
+            <infoportion_complete>foto_ohota_sucker</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Темний кровосос</text>
+            <infoportion_complete>foto_ohota_sucker_normal</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Болотна тварь</text>
+            <infoportion_complete>foto_ohota_sucker_boloto</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Кровосос-альбінос</text>
+            <infoportion_complete>foto_ohota_sucker_albinos</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Пекельний кровосос</text>
+            <infoportion_complete>foto_ohota_sucker_hell</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Перевертень</text>
+            <infoportion_complete>foto_ohota_oboroten</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Контролер</text>
+            <infoportion_complete>foto_ohota_controler</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Контролер-мисливець</text>
+            <infoportion_complete>foto_ohota_controler_senator</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Бабка-контролер</text>
+            <infoportion_complete>foto_ohota_controler_babka</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Швидкий контролер</text>
+            <infoportion_complete>foto_ohota_kontroler_act</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Вогняний контролер</text>
+            <infoportion_complete>foto_ohota_controler_flame</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Псевдогігант</text>
+            <infoportion_complete>foto_ohota_gigant</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Червоний псевдогігант</text>
+            <infoportion_complete>foto_ohota_gigant_red</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Стрибаючий псевдогігант</text>
+            <infoportion_complete>foto_ohota_gigant_jumper</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Бюрер</text>
+            <infoportion_complete>foto_ohota_burer</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Запеклий бюрер</text>
+            <infoportion_complete>foto_ohota_burer_strong</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Псевдобюрер</text>
+            <infoportion_complete>foto_ohota_burer_build</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Карлик</text>
+            <infoportion_complete>foto_ohota_carlic</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Псевдокарлик</text>
+            <infoportion_complete>foto_ohota_karlito</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Химера</text>
+            <infoportion_complete>foto_ohota_chimera</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Лавова химера</text>
+            <infoportion_complete>foto_ohota_chimera_red</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Електрохимера</text>
+            <infoportion_complete>foto_ohota_chimera_electro</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Примарна химера</text>
+            <infoportion_complete>foto_ohota_chimera_prizrak</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Примарна електрохимера</text>
+            <infoportion_complete>foto_ohota_new_electro</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Химера-альбінос</text>
+            <infoportion_complete>foto_ohota_chimera_white</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Чорна химера</text>
+            <infoportion_complete>foto_ohota_chimera_black</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Вогняна химера</text>
+            <infoportion_complete>foto_ohota_fire_chimera</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Химера-вульф</text>
+            <infoportion_complete>foto_ohota_chimera_wolf</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Тарган</text>
+            <infoportion_complete>foto_ohota_tarakan</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Щур</text>
+            <infoportion_complete>foto_ohota_rat</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Кіт-баюн</text>
+            <infoportion_complete>foto_ohota_cat</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Ротан</text>
+            <infoportion_complete>foto_ohota_rotan</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Злам</text>
+            <infoportion_complete>foto_ohota_izlom</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Запеклий злам</text>
+            <infoportion_complete>foto_ohota_izlom_master</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Карликовий злам</text>
+            <infoportion_complete>foto_ohota_izlom_karlik</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Бібліотекар</text>
+            <infoportion_complete>foto_ohota_biblik</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Чорний бібліотекар</text>
+            <infoportion_complete>foto_ohota_biblik_black</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Кіготь смерті</text>
+            <infoportion_complete>foto_ohota_kogot</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Веном</text>
+            <infoportion_complete>foto_ohota_new_hell</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Віднести фото Сидоровичу</text>
+			<map_location_type hint="Сидорович">blue_location</map_location_type>
+			<object_story_id>Escape_Trader</object_story_id>
+            <infoportion_complete>foto_ohota_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ФОТО АНОМАЛИЙ -->
+	<game_task id="foto_anomaly">
+        <title>Фото аномалій</title>
+        <objective>
+            <text>Фото аномалій</text>
+            <icon>ui_iconsTotal_anomaly1</icon>
+            <infoportion_complete>foto_anomaly_done</infoportion_complete>
+			<article>foto_anomaly</article>
+        </objective>
+        <objective>
+            <text>Жарка</text>
+			<infoportion_complete>foto_anomaly_zharka</infoportion_complete> 
+        </objective>
+        <objective>
+            <text>Електра</text>
+            <infoportion_complete>foto_anomaly_electra</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Холодець</text>
+            <infoportion_complete>foto_anomaly_holodec</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Фонтан</text>
+            <infoportion_complete>foto_anomaly_fontan</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Карусель</text>
+            <infoportion_complete>foto_anomaly_karusel</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Трамплін</text>
+            <infoportion_complete>foto_anomaly_tramplin</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Воронка</text>
+            <infoportion_complete>foto_anomaly_voronka</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Снігова</text>
+            <infoportion_complete>foto_anomaly_snow</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Бульбашка</text>
+            <infoportion_complete>foto_anomaly_puzyr</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Торнадо</text>
+            <infoportion_complete>foto_anomaly_tornado</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Осередковий туман</text>
+            <infoportion_complete>foto_anomaly_tuman</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Радонова хмара</text>
+            <infoportion_complete>foto_anomaly_oblako</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Віднести фото Сидоровичу</text>
+			<map_location_type hint="Сидорович">blue_location</map_location_type>
+			<object_story_id>Escape_Trader</object_story_id>
+            <infoportion_complete>foto_anomaly_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- СМЕРТЬ ВО ПЛОТИ -->
+	<game_task id="ohota_kogot" prio="0">
+		<title>Смерть у плоті</title>
+		<objective>
+			<text>Смерть у плоті</text>
+			<icon>ui_iconsTotal_abstract4</icon>
+			<infoportion_complete>ohota_kogot_done</infoportion_complete>
+			<article>ohota_kogot</article>
+		</objective>
+		<objective>
+			<text>Знищити туманних кігтів</text>
+			<function_complete>akill.ohota_kogot_have</function_complete>
+			<infoportion_set_complete>ohota_kogot_have</infoportion_set_complete>
+		</objective>
+		<objective>
+            <text>Повернутися до Ноя</text>
+			<map_location_type hint="Ной">blue_location</map_location_type>
+            <object_story_id>noi_npc</object_story_id>
+            <infoportion_complete>ohota_kogot_done</infoportion_complete>
+        </objective>
+	</game_task>
+
+	<!-- ПЕРЕГОН БАГГИ -->
+	<game_task id="ugon_baggi" prio="0">
+		<title>Перегін</title>
+		<objective>
+			<text>Перегін</text>
+			<icon>ui_iconsTotal_technique</icon>
+			<infoportion_complete>ugon_baggi_done</infoportion_complete>
+			<article>ugon_baggi</article>
+		</objective>
+		<objective>
+			<text>Перегнати баггі з Боліт на Кордон</text>
+			<infoportion_complete>ugon_baggi_have</infoportion_complete>
+		</objective>
+		<objective>
+            <text>Поговорити з Сидоровичем</text>
+			<map_location_type hint="Сидорович">blue_location</map_location_type>
+			<object_story_id>Escape_Trader</object_story_id>
+            <infoportion_complete>ugon_baggi_done</infoportion_complete>
+        </objective>
+	</game_task>
+
+	<!-- СЕЗОН ОХОТЫ -->
+	<game_task id="povar_crows" prio="0">
+		<title>Сезон полювання</title>
+		<objective>
+			<text>Сезон полювання</text>
+			<icon>ui_iconsTotal_map3</icon>
+			<infoportion_complete>povar_crows_done</infoportion_complete>
+			<article>povar_crows</article>
+		</objective>
+		<objective>
+			<text>Добути 20 тушок ворон</text>
+			<function_complete>akill.povar_crows_have</function_complete>
+			<infoportion_set_complete>povar_crows_have</infoportion_set_complete>
+		</objective>
+		<objective>
+            <text>Віднести тушки Кухарю</text>
+			<map_location_type hint="Кухар">blue_location</map_location_type>
+			<object_story_id>Mil_Cook</object_story_id>
+            <infoportion_complete>povar_crows_done</infoportion_complete>
+        </objective>
+	</game_task>
+
+	<!-- ТИХАЯ ОХОТА -->
+	<game_task id="silent_hunt">
+        <title>Тихе полювання</title>
+        <objective>
+            <text>Тихе полювання</text>
+            <icon>ui_iconsTotal_eye</icon>
+            <infoportion_complete>silent_hunt_done</infoportion_complete>
+			<article>silent_hunt</article>
+        </objective>
+        <objective>
+            <text>Кабан</text>
+			<infoportion_complete>monster_stealth_boar_s</infoportion_complete> 
+        </objective>
+        <objective>
+            <text>Кровосос</text>
+            <infoportion_complete>monster_stealth_bloodsucker_s</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Собака</text>
+            <infoportion_complete>monster_stealth_dog_s</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Плоть</text>
+            <infoportion_complete>monster_stealth_flesh_s</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Псевдособака</text>
+            <infoportion_complete>monster_stealth_pseudodog_s</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Бюрер</text>
+            <infoportion_complete>monster_stealth_burer_s</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Кіт</text>
+            <infoportion_complete>monster_stealth_cat_s</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Химера</text>
+            <infoportion_complete>monster_stealth_chimera_s</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Контролер</text>
+            <infoportion_complete>monster_stealth_controller_s</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Злам</text>
+            <infoportion_complete>monster_stealth_fracture_s</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Псевдогігант</text>
+            <infoportion_complete>monster_stealth_gigant_s</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Тушкан</text>
+            <infoportion_complete>monster_stealth_tushkano_s</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Снорк</text>
+            <infoportion_complete>monster_stealth_snork_s</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- СТАРАЯ ИКОНА -->
+	<game_task id="volna_petrenko" prio="0">
+		<title>Стара ікона</title>
+		<objective>
+			<text>Стара ікона</text>
+			<icon>ui_iconsTotal_pripyt1</icon>
+			<infoportion_complete>volna_petrenko</infoportion_complete>
+			<article>volna_petrenko</article>
+		</objective>
+		<objective>
+			<text>Знайти стару ікону</text>
+			<infoportion_complete>volna_petrenko_have</infoportion_complete>
+		</objective>
+		<objective>
+            <text>Віднести ікону Петренко</text>
+			<map_location_type hint="Петренко">blue_location</map_location_type>
+			<object_story_id>bar_dolg_polkovnik_petrenko</object_story_id>
+            <infoportion_complete>volna_petrenko</infoportion_complete>
+        </objective>
+	</game_task>
+
+	<!-- "ПОДАРОК" ОРУЖЕЙНИКА -->
+ 	<game_task id="chertez_podarok" prio="0">
+        <title>"Подарунок" Зброяра</title>
+        <objective>
+            <text>"Подарунок" Зброяра</text>
+            <icon>ui_iconsTotal_taynik</icon>
+            <infoportion_complete>chertez_podarok_have</infoportion_complete>
+			<article>chertez_podarok</article>
+        </objective>
+        <objective>
+            <text>Знайти схованку на Затоні</text>
+			<function_complete>akill.chertez_podarok_have</function_complete>
+            <infoportion_set_complete>chertez_podarok_have</infoportion_set_complete>
+        </objective>
+    </game_task>
+
+	<!-- ПЕЧАТНАЯ МАШИНКА -->
+	<game_task id="ziklop_mashinka" prio="0">
+		<title>Друкарська машинка</title>
+		<objective>
+			<text>Друкарська машинка</text>
+			<icon>ui_iconsTotal_map5</icon>
+			<infoportion_complete>ziklop_mashinka_done</infoportion_complete>
+			<article>ziklop_mashinka</article>
+		</objective>
+		<objective>
+			<text>Знайти друкарську машинку</text>
+			<function_complete>akill.ziklop_mashinka_have</function_complete>
+            <infoportion_set_complete>ziklop_mashinka_have</infoportion_set_complete>
+		</objective>
+		<objective>
+            <text>Віднести машинку Циклопу</text>
+            <infoportion_complete>ziklop_mashinka_done</infoportion_complete>
+        </objective>
+	</game_task>
+
+	<!-- ВИДЕОМАГНИТОФОН -->
+	<game_task id="dimak_video" prio="0">
+		<title>Відеомагнітофон</title>
+		<objective>
+			<text>Відеомагнітофон</text>
+			<icon>ui_iconsTotal_televizor</icon>
+			<infoportion_complete>dimak_video_done</infoportion_complete>
+			<article>dimak_video</article>
+		</objective>
+		<objective>
+			<text>Знайти відеомагнітофон у Лиманську</text>
+			<function_complete>akill.dimak_video_have</function_complete>
+            <infoportion_set_complete>dimak_video_have</infoportion_set_complete>
+		</objective>
+		<objective>
+            <text>Віднести відік Дімаку</text>
+            <infoportion_complete>dimak_video_done</infoportion_complete>
+        </objective>
+	</game_task>
+
+	<!-- ОПАСНЫЕ СВЯЗИ -->
+ 	<game_task id="kontrik_vodka" prio="0">
+        <title>Небезпечні зв'язки</title>
+        <objective>
+            <text>Небезпечні зв'язки</text>
+            <icon>ui_iconsTotal_kontrik</icon>
+            <infoportion_complete>kontrik_vodka_have</infoportion_complete>
+			<article>kontrik_vodka</article>
+        </objective>
+        <objective>
+            <text>Зібрати горілку і покласти її у схованку контролера</text>
+            <infoportion_complete>kontrik_vodka_have</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- ОХОТНИК И ДОБЫЧА -->
+	<game_task id="kill_predator" prio="0">
+		<title>Мисливець і здобич</title>
+		<objective>
+			<text>Мисливець і здобич</text>
+			<icon>ui_iconsTotal_mil_kill_controller</icon>
+			<infoportion_complete>kill_predator_done</infoportion_complete>
+			<article>kill_predator</article>
+		</objective>
+		<objective>
+			<text>Знайти і вбити невідому тварь</text>
+			<infoportion_complete>predator_npc_dead</infoportion_complete>
+		</objective>
+		<objective>
+            <text>Повернутися до Захара</text>
+			<map_location_type hint="Захар">blue_location</map_location_type>
+			<object_story_id>stalker_green_zahar</object_story_id>
+            <infoportion_complete>kill_predator_done</infoportion_complete>
+        </objective>
+	</game_task>
+
+	<!-- ЖУРНАЛ ПОЛЁТОВ -->
+	<game_task id="akim_journal" prio="0">
+        <title>Журнал польотів</title>
+        <objective>
+            <text>Журнал польотів</text>
+            <icon>ui_iconsTotal_helicopter</icon>
+            <infoportion_complete>kostya_journal_done</infoportion_complete>
+			<article>akim_journal</article>
+        </objective>
+        <objective>
+            <text>Поцупити журнал з військової бази</text>
+            <function_complete>akill.akim_journal_have</function_complete>
+            <infoportion_set_complete>akim_journal_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Віднести журнал Акиму</text>
+			<map_location_type hint="Аким">blue_location</map_location_type>
+			<object_story_id>esc_akim</object_story_id>
+            <infoportion_complete>akim_journal_done</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Віддати гвинтівку М95 Кості</text>
+			<map_location_type hint="Костя">blue_location</map_location_type>
+            <object_story_id>esc_kostya</object_story_id>
+            <infoportion_complete>kostya_journal_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ПАУЧЬЯ СЕТЬ -->
+	<game_task id="nazar_spider" prio="0">
+        <title>Павучина сітка</title>
+        <objective>
+            <text>Павучина сітка</text>
+            <icon>ui_iconsTotal_abstract5</icon>
+            <infoportion_complete>nazar_spider_done</infoportion_complete>
+			<article>nazar_spider</article>
+        </objective>
+        <objective>
+            <text>Знищити лігво павуків</text>
+            <function_complete>akill.ohota_spider_have</function_complete>
+            <infoportion_set_complete>ohota_spider_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Закласти вибухівку у печерах</text>
+            <infoportion_complete>nazar_spider_have</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Вибратися на поверхню і активувати детонатор</text>
+            <infoportion_complete>nazar_spider_end</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Повернутися до Назара</text>
+			<map_location_type hint="Назар">blue_location</map_location_type>
+            <object_story_id>nazar_volna</object_story_id>
+            <infoportion_complete>nazar_spider_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ОХОТА НА ВЫПОЛЗНЕЙ -->
+	<game_task id="ohota_vypolzen" prio="0">
+        <title>Полювання на виповзнів</title>
+        <objective>
+            <text>Полювання на виповзнів</text>
+            <icon>ui_iconsTotal_shaxta</icon>
+            <infoportion_complete>ohota_vypolzen_done</infoportion_complete>
+			<article>ohota_vypolzen</article>
+        </objective>
+		<objective>
+            <text>Добратися до шахти</text>
+            <infoportion_complete>ohota_vypolzen_spawn</infoportion_complete> 
+        </objective>
+        <objective>
+            <text>Знищити виповзнів у шахті</text>
+            <function_complete>akill.ohota_vypolzen_have</function_complete>
+            <infoportion_set_complete>ohota_vypolzen_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Повернутися до Лісника</text>
+            <infoportion_complete>ohota_vypolzen_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ПЕРЕВЁРТЫШИ -->
+	<game_task id="adrenalin_obves" prio="0">
+		<title>Перевертні</title>
+		<objective>
+			<text>Перевертні</text>
+			<icon>ui_iconsTotal_to_nowhere</icon>
+			<infoportion_complete>adrenalin_obves_done</infoportion_complete>
+			<article>adrenalin_obves</article>
+		</objective>
+		<objective>
+			<text>Знайти кур'єрів торговця</text>
+			<function_complete>akill.adrenalin_obves_have</function_complete>
+            <infoportion_set_complete>adrenalin_obves_have</infoportion_set_complete>
+		</objective>
+		<objective>
+			<text>Знайти рюкзак у аномалії</text>
+			<function_complete>akill.adrenalin_xrail_have</function_complete>
+            <infoportion_set_complete>adrenalin_xrail_have</infoportion_set_complete>
+		</objective>
+		<objective>
+            <text>Віднести обвіси Адреналіну</text>
+			<map_location_type hint="Адреналін">blue_location</map_location_type>
+			<object_story_id>agro_adrenalin</object_story_id>
+            <infoportion_complete>adrenalin_obves_done</infoportion_complete>
+        </objective>
+	</game_task>
+
+	<!-- НЕМЕЦКИЙ ОРДЕН -->
+	<game_task id="nazar_orden" prio="0">
+		<title>Німецький орден</title>
+		<objective>
+			<text>Німецький орден</text>
+			<icon>ui_iconsTotal_verdict</icon>
+			<infoportion_complete>nazar_orden_done</infoportion_complete>
+			<article>nazar_orden</article>
+		</objective>
+		<objective>
+			<text>Вбити фашистського генерала і забрати у нього орден</text>
+			<function_complete>akill.nazar_orden_have</function_complete>
+            <infoportion_set_complete>nazar_orden_have</infoportion_set_complete>
+		</objective>
+		<objective>
+            <text>Віддати орден Назару</text>
+			<map_location_type hint="Назар">blue_location</map_location_type>
+            <object_story_id>nazar_volna</object_story_id>
+            <infoportion_complete>nazar_orden_done</infoportion_complete>
+        </objective>
+	</game_task>
+
+	<!-- КОШКИ-МЫШКИ -->
+	<game_task id="cat_kulon" prio="0">
+		<title>Кішки-мишки</title>
+		<objective>
+			<text>Кішки-мишки</text>
+			<icon>ui_iconsTotal_psydog</icon>
+			<infoportion_complete>cat_kulon_done</infoportion_complete>
+			<infoportion_fail>cat_kulon_fail</infoportion_fail>
+			<article>cat_kulon</article>
+		</objective>
+		<objective>
+			<text>Знайти і впіймати кішку, яка поцупила кулон</text>
+			<function_complete>akill.cat_kulon_have</function_complete>
+            <infoportion_set_complete>cat_kulon_have</infoportion_set_complete>
+		</objective>
+		<objective>
+            <text>Віднести кулон Адреналіну</text>
+			<map_location_type hint="Адреналін">blue_location</map_location_type>
+			<object_story_id>agro_adrenalin</object_story_id>
+            <infoportion_complete>cat_kulon_done</infoportion_complete>
+        </objective>
+	</game_task>
+
+	<!-- МИГРАЦИЯ -->
+	<game_task id="kontrik_electro" prio="0">
+        <title>Міграція</title>
+        <objective>
+            <text>Міграція</text>
+            <icon>ui_iconsTotal_electro</icon>
+            <infoportion_complete>kontrik_electro_done</infoportion_complete>
+			<infoportion_fail>kontrik_electro_fail</infoportion_fail>
+			<article>kontrik_electro</article>
+        </objective>
+		<objective>
+            <text>Причепити маячок на електро-контролера №1</text>
+            <infoportion_complete>kontrik_electro_have1</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Причепити маячок на електро-контролера №2</text>
+            <infoportion_complete>kontrik_electro_have2</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Причепити маячок на електро-контролера №3</text>
+            <infoportion_complete>kontrik_electro_have3</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Зробити фото нового мутанта</text>
+            <infoportion_complete>foto_ohota_kontrik_electro</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Повернутися до Сахаров</text>
+			<map_location_type hint="Сахаров">blue_location</map_location_type>
+			<object_story_id>yan_general_ecolog</object_story_id>
+            <infoportion_complete>kontrik_electro_done</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- ДРУГ ЧЕЛОВЕКА -->
+	<game_task id="kalinin_dog" prio="0">
+        <title>Друг людини</title>
+        <objective>
+            <text>Друг людини</text>
+            <icon>ui_iconsTotal_psydog</icon>
+            <infoportion_complete>kalinin_dog_done</infoportion_complete>
+			<infoportion_fail>kalinin_dog_fail</infoportion_fail>
+			<article>kalinin_dog</article>
+        </objective>
+		<objective>
+            <text>Знайти і погодувати собаку</text>
+            <infoportion_complete>kalinin_dog_have</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Погуляти з собакою</text>
+			<function_complete>akill.kalinin_dog_taynik</function_complete>
+            <infoportion_set_complete>kalinin_dog_taynik</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Повернутися з собакою до Калиніна</text>
+			<map_location_type hint="Калинін">blue_location</map_location_type>
+			<object_story_id>atp_kalinin</object_story_id>
+            <infoportion_complete>kalinin_dog_done</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- "СТРАШНАЯ" МЕСТЬ -->
+	<game_task id="messer_kaban" prio="0">
+        <title>"Страшна" помста</title>
+        <objective>
+            <text>"Страшна" помста</text>
+            <icon>ui_iconsTotal_gar_kill_boars</icon>
+            <infoportion_complete>messer_kaban_done</infoportion_complete>
+			<infoportion_fail>messer_kaban_fail</infoportion_fail>
+			<article>messer_kaban</article>
+        </objective>
+		<objective>
+            <text>Знайти кривдника Мессера і надавати йому пендалів</text>
+            <infoportion_complete>messer_kaban_have</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Повернутися до Мессера</text>
+			<map_location_type hint="Мессер">blue_location</map_location_type>
+			<object_story_id>val_sos_stalker</object_story_id>
+            <infoportion_complete>messer_kaban_done</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- ПОДЗАРЯДКА -->
+	<game_task id="docent_chimera" prio="0">
+        <title>Підзарядка</title>
+        <objective>
+            <text>Підзарядка</text>
+            <icon>ui_iconsTotal_chimera</icon>
+            <infoportion_complete>docent_chimera_done</infoportion_complete>
+			<infoportion_fail>docent_chimera_fail</infoportion_fail>
+			<article>docent_chimera</article>
+        </objective>
+		<objective>
+            <text>Зарядити акумулятори за допомогою електрохимери</text>
+            <function_complete>akill.docent_chimera_have</function_complete>
+            <infoportion_set_complete>docent_chimera_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Віддати акумулятори Доценту</text>
+			<map_location_type hint="Доцент">blue_location</map_location_type>
+			<object_story_id>bar_docent</object_story_id>
+            <infoportion_complete>docent_chimera_done</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- НОЧНОЙ ДОЗОР -->
+	<game_task id="night_watch" prio="0">
+        <title>Нічна варта</title>
+        <objective>
+            <text>Нічна варта</text>
+            <icon>ui_iconsTotal_stalker10</icon>
+            <infoportion_complete>night_watch_done</infoportion_complete>
+			<article>night_watch</article>
+        </objective>
+		<objective>
+            <text>Перевірити комплекс із лабораторією</text>
+            <infoportion_complete>borov_polter1_dead</infoportion_complete>
+        </objective>
+        <objective>
+            <text>Перевірити заправку</text>
+            <infoportion_complete>borov_polter2_dead</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Зайняти позицію на вишці</text>
+            <infoportion_complete>night_watch_have</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Відбитися від полтергейстів і вбити ватажка</text>
+            <infoportion_complete>borov_polter3_dead</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Поговорити з Кабаном</text>
+			<map_location_type hint="Кабан">blue_location</map_location_type>
+			<object_story_id>val_borov</object_story_id>
+            <infoportion_complete>night_watch_done</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- ЗАЩИТА ГОСПИТАЛЯ -->
+	<game_task id="defend_hospital" prio="0">
+        <title>Захист шпиталю</title>
+        <objective>
+            <text>Захист шпиталю</text>
+            <icon>ui_iconsTotal_oborona</icon>
+            <infoportion_complete>defend_hospital_done</infoportion_complete>
+			<infoportion_fail>defend_hospital_fail</infoportion_fail>
+			<article>defend_hospital</article>
+        </objective>
+		<objective>
+            <text>Зайняти позицію на вишці баржі</text>
+            <infoportion_complete>defend_hospital_spawn</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Захистити шпиталь від вибухових зомбі</text>
+			<function_complete>akill.defend_hospital_have</function_complete>
+            <infoportion_set_complete>defend_hospital_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Повернутися до Ноя</text>
+			<map_location_type hint="Ной">blue_location</map_location_type>
+            <object_story_id>noi_npc</object_story_id>
+            <infoportion_complete>defend_hospital_done</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- МАСКИРОВКА -->
+	<game_task id="max_camouflage" prio="0">
+        <title>Маскування</title>
+        <objective>
+            <text>Маскування</text>
+            <icon>ui_iconsTotal_gravik</icon>
+            <infoportion_complete>max_camouflage_done</infoportion_complete>
+			<article>max_camouflage</article>
+        </objective>
+        <objective>
+            <text>Роздобути вісім маскхалатів</text>
+            <function_complete>akill.max_camouflage_have</function_complete>
+            <infoportion_set_complete>max_camouflage_have</infoportion_set_complete>
+        </objective>
+        <objective>
+            <text>Віднести маскхалати Максу</text>
+			<map_location_type hint="Макс">blue_location</map_location_type>
+			<object_story_id>Mil_Master_Max</object_story_id>
+            <infoportion_complete>max_camouflage_done</infoportion_complete> 
+        </objective>
+    </game_task>
+
+	<!-- ПОТЕРЯВШИЙСЯ -->
+	<game_task id="krest_boar" prio="0">
+        <title>Загубився</title>
+        <objective>
+            <text>Загубився</text>
+            <icon>ui_iconsTotal_gar_kill_boars</icon>
+            <infoportion_complete>krest_boar_done</infoportion_complete>
+			<infoportion_fail>krest_boar_fail</infoportion_fail>
+			<article>krest_boar</article>
+        </objective>
+		<objective>
+            <text>Відшукати поросятко яке загубилось</text>
+            <infoportion_complete>krest_boar_find</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Довести поросятко до мамаші</text>
+            <infoportion_complete>krest_boar_have</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Розповісти про все Хресту</text>
+			<map_location_type hint="Хрест">blue_location</map_location_type>
+			<object_story_id>puzir_crest</object_story_id>
+            <infoportion_complete>krest_boar_done</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- ИЛЛЮЗИЯ -->
+	<game_task id="electro_burer" prio="0">
+        <title>Ілюзія</title>
+        <objective>
+            <text>Ілюзія</text>
+            <icon>ui_iconsTotal_electro</icon>
+            <infoportion_complete>angar_prapor_have</infoportion_complete>
+			<article>electro_burer</article>
+        </objective>
+		<objective>
+            <text>Знищити фантомів</text>
+            <function_complete>akill.burer_phantom_have</function_complete>
+            <infoportion_set_complete>burer_phantom_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Вбити електробюрера</text>
+            <infoportion_complete>burer_electro_dead</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Повернутися до Прапора</text>
+			<map_location_type hint="Прапор">blue_location</map_location_type>
+			<object_story_id>gar_spot_dolg_blokpost</object_story_id>
+            <infoportion_complete>angar_prapor_have</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- ПОДРЫВ -->
+	<game_task id="buusty_gigant" prio="0">
+        <title>Підрив</title>
+        <objective>
+            <text>Підрив</text>
+            <icon>ui_iconsTotal_gigant</icon>
+            <infoportion_complete>buusty_gigant_done</infoportion_complete>
+			<article>buusty_gigant</article>
+        </objective>
+		<objective>
+            <text>Знайти псевдогіганта і прикріпити до нього вибухівку</text>
+            <infoportion_complete>buusty_gigant_find</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Взірвати псевдогіганта</text>
+            <infoportion_complete>buusty_gigant_have</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Повернутися до Басті</text>
+			<map_location_type hint="Басті">blue_location</map_location_type>
+			<object_story_id>buusty_zaton</object_story_id>
+            <infoportion_complete>buusty_gigant_done</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- ПЕРЕВОЗЧИК -->
+	<game_task id="kalinin_box" prio="0">
+        <title>Перевізник</title>
+        <objective>
+            <text>Перевізник</text>
+            <icon>ui_iconsTotal_technique</icon>
+            <infoportion_complete>kalinin_box_done</infoportion_complete>
+			<article>kalinin_box</article>
+        </objective>
+		<objective>
+            <text>Зібрати всі ящики з боєприпасами</text>
+            <function_complete>akill.kalinin_box_have</function_complete>
+            <infoportion_set_complete>kalinin_box_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Встигнути доставити патрони до нападу</text>
+            <infoportion_complete>kalinin_box_end</infoportion_complete>
+			<infoportion_fail>kalinin_box_fail</infoportion_fail>
+        </objective>
+		<objective>
+            <text>Відвезти ящики Калиніну</text>
+			<map_location_type hint="Калинін">blue_location</map_location_type>
+			<object_story_id>atp_kalinin</object_story_id>
+            <infoportion_complete>kalinin_box_done</infoportion_complete>
+        </objective>
+    </game_task>

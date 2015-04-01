@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<game_dialogs>
+
+    <dialog id="amk_recipt_osvedomitel">
+        <phrase_list>
+
+            <phrase id="0">
+                <text>Хотів от запитати...</text>
+                <next>1</next>
+            </phrase>
+
+            <phrase id="2">
+                <dont_has_info>info_amk_recipt_dikoobraz</dont_has_info>
+                <text>Рецепти трансмутацій є?</text>
+                <next>3</next>
+            </phrase>
+
+            <phrase id="3">
+                <text>Є звичайно. Точно потрібні? Це доволі цінна інформація...</text>
+                <next>41</next>
+                <next>42</next>
+            </phrase>
+
+            <phrase id="41">
+                <text>Напевно що ні.</text>
+                <action>dialogs.break_dialog</action>
+            </phrase>
+
+            <phrase id="42">
+                <text>І скільки це буде коштувати?</text>
+                <next>5</next>
+            </phrase>
+
+            <phrase id="5">
+                <text>Я думаю, що 100 000 це не надто багато для такої цінної інформації. Ну що, береш?</text>
+                <next>61</next>
+                <next>62</next>
+            </phrase>
+
+            <phrase id="61">
+                <text>Ну ні, я як-небудь і без нього обійдусь.</text>
+                <action>dialogs.break_dialog</action>
+            </phrase>
+
+            <phrase id="62">
+    <precondition>amk_dialogs.actor_has_money_100000</precondition>
+                <text>informer_recipt1</text>
+    <give_info>info_amk_recipt_dikoobraz</give_info>
+                <action>amk_dialogs.give_money_100000</action>
+                <next>7</next>
+            </phrase>
+
+            <phrase id="7">
+                <text>Правильний вибір.</text>
+                <next>8</next>
+            </phrase>
+
+
+            <phrase id="8">
+                <text>Надіюсь.</text>
+                <next>1</next>
+            </phrase>
+
+            <phrase id="1">
+                <text>Що цікавить?</text>
+                <next>2</next>
+                <next>10</next>
+                <next>17</next>
+                <next>19</next>
+                <next>12</next>
+            </phrase>
+
+            <phrase id="10">
+    <dont_has_info>info_amk_recipt_fake</dont_has_info>
+                <text>Інші рецепти є?</text>
+                <next>11</next>
+            </phrase>
+
+            <phrase id="12">
+                <text>Ні, нічого не потрібно.</text>
+                <action>dialogs.break_dialog</action>
+            </phrase>
+
+            <phrase id="11">
+                <text>Знайдеться. Ціна питання - 500 000. Згоден?</text>
+                <next>141</next>
+                <next>142</next>
+            </phrase>
+
+            <phrase id="141">
+    <precondition>amk_dialogs.actor_has_money_500000</precondition>
+                <text>informer_recipt2</text>
+    <give_info>info_amk_recipt_fake</give_info>
+                <action>amk_dialogs.give_money_500000</action>
+                <next>15</next>
+            </phrase>
+
+            <phrase id="142">
+                <text>Дорого.</text>
+                <next>1</next>
+            </phrase>
+
+            <phrase id="15">
+                <text>Скинув дані на PDA.</text>
+                <next>16</next>
+            </phrase>
+
+            <phrase id="16">
+                <text>Чудово.</text>
+                <next>1</next>
+            </phrase>
+
+            <phrase id="17">
+    <dont_has_info>info_amk_recipt_electra_dikoobraz</dont_has_info>
+                <text>Ще які-небудь рецепти є???</text>
+                <next>18</next>
+            </phrase>
+
+            <phrase id="18">
+                <text>Я знаю, що ти шукаєш. Такса - 150 000. Качати будеш?</text>
+                <next>181</next>
+                <next>142</next>
+            </phrase>
+
+            <phrase id="181">
+    <precondition>amk_dialogs.actor_has_money_150000</precondition>
+                <text>Буду.</text>
+    <give_info>info_amk_recipt_electra_dikoobraz</give_info>
+                <action>amk_dialogs.give_money_150000</action>
+                <next>15</next>
+            </phrase>
+
+            <phrase id="19">
+    <dont_has_info>info_amk_recipt_giant_small_brother</dont_has_info> 
+                <text>Ще б один рецептик, будь добрий...</text>
+                <next>20</next>
+            </phrase>
+
+            <phrase id="20">
+                <text>Знайдеться, зараз глянемо у твоїх кишенях. Ціна звичайна - 200 000. Потрібен рецепт?</text>
+                <next>201</next>
+                <next>142</next>
+            </phrase>
+
+            <phrase id="201">
+    <precondition>amk_dialogs.actor_has_money_200000</precondition>
+                <text>Потрібен.</text>
+    <give_info>info_amk_recipt_giant_small_brother</give_info>
+                <action>amk_dialogs.give_money_200000</action>
+                <next>15</next>
+            </phrase>
+
+        </phrase_list>
+    </dialog>
+
+    <dialog id="amk_recipts_ratcatcher">
+    <phrase_list>
+            <phrase id="0">
+                <text>amk_rkd0</text>
+                <next>1</next>
+                <action>amk_dialogs.act_rnd_init</action>
+            </phrase>
+
+            <phrase id="1">
+                <text>amk_rkd1</text>
+                <next>2</next>
+                <next>4</next>
+            </phrase>
+                 
+            <phrase id="2">
+              <precondition>amk_dialogs.pre_rnd_30_100</precondition>
+              <text>amk_rkd2</text>
+              <next>3</next>
+            </phrase>
+
+            <phrase id="3">
+            <text>amk_rkd3</text>
+                <next>5</next>
+            </phrase>
+
+            <phrase id="4">
+                <precondition>amk_dialogs.pre_rnd_0_30</precondition>
+                <text>amk_rkd4</text>
+                <action>amk_dialogs.frenzy_humanoid</action>
+                <action>dialogs.break_dialog</action>
+            </phrase>
+
+            <phrase id="5">
+                <text>amk_rkd5</text>
+                <next>6</next>
+            </phrase>
+
+             <phrase id="6">
+                <text>amk_rkd6</text>
+                <next>7</next>
+            </phrase>
+
+            <phrase id="7">
+                <text>alenka_info</text>
+                <give_info>info_amk_recipt_burer_grandmother_glassbeards</give_info>
+                <give_info>info_amk_ratcatcher_story</give_info>
+                <action>amk_dialogs.make_kill_task_failed</action>
+                <next>8</next>
+            </phrase>
+
+            <phrase id="8">
+                <text>amk_rkd8</text>
+                <action>dialogs.break_dialog</action>
+            </phrase>
+
+        </phrase_list>
+    </dialog>
+
+</game_dialogs>

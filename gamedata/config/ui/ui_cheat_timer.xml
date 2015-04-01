@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<cheat>
+    <background x="0" y="0" width="327" height="456">
+       	<texture >ui_timer_back</texture>
+    </background>
+
+    <background_2 x="-355" y="305" width="347" height="206">
+       	<texture >ui_timer_back2</texture>
+    </background_2>
+	
+    <static_1 x="70" y="15" width="50" height="20">
+       	<text align="c" complex_mode="0" font="graffiti22" r="255" g="165" b="0" a="255">Установка таймера</text>
+    </static_1>
+	
+    <static_2 x="-220" y="338" width="50" height="20">
+       	<text align="c" complex_mode="0" font="graffiti22" r="255" g="165" b="0" a="255">Інструкція по користуванню</text>
+    </static_2>
+    <static_3 x="-260" y="370" width="300" height="10">
+       	<text align="c" complex_mode="0" font="arial_14" r="255" g="255" b="255" a="255">Кнопка СКМ:ТМР - зміна режиму (таймер-секундомір)</text>
+    </static_3>
+	
+    <static_4 x="-260" y="380" width="300" height="10">
+       	<text align="c" complex_mode="0" font="arial_14" r="255" g="255" b="255" a="255">Кнопка ОК - запуск вибраного режиму</text>
+    </static_4>
+	
+	<btn_sbros x="98" y="294" width="25" height="25">
+		<texture_е>ui_timer_btn_e</texture_е>
+		<texture_t>ui_timer_btn_h</texture_t>
+		<texture_h>ui_timer_btn_t</texture_h>
+	</btn_sbros>
+	
+	<btn_ok x="158" y="294" width="25" height="25">
+		<texture_е>ui_timer_btn_e</texture_е>
+		<texture_t>ui_timer_btn_h</texture_t>
+		<texture_h>ui_timer_btn_t</texture_h>
+	</btn_ok>
+	
+	<btn_quit x="218" y="294" width="25" height="25">
+		<texture_е>ui_timer_btn_e</texture_е>
+		<texture_t>ui_timer_btn_h</texture_t>
+		<texture_h>ui_timer_btn_t</texture_h>
+	</btn_quit>
+
+	<btn_hh x="124" y="179" width="17" height="17">
+		<texture_е>ui_timer_btn2_e</texture_е>
+		<texture_t>ui_timer_btn2_h</texture_t>
+		<texture_h>ui_timer_btn2_t</texture_h>
+	</btn_hh>
+
+	<btn_mm x="149" y="179" width="17" height="17">
+		<texture_е>ui_timer_btn2_e</texture_е>
+		<texture_t>ui_timer_btn2_h</texture_t>
+		<texture_h>ui_timer_btn2_t</texture_h>
+	</btn_mm>
+	
+	<btn_change x="175" y="179" width="40" height="17">
+		<texture_е>ui_timer_btn3_e</texture_е>
+		<texture_t>ui_timer_btn3_h</texture_t>
+		<texture_h>ui_timer_btn3_t</texture_h>
+	</btn_change>
+	
+</cheat>

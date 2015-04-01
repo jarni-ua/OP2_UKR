@@ -1,0 +1,458 @@
+<article article_type="journal" group="kodes" id="ways_info_door_sak" name="Код від дверей на Радарі">
+	<text>ways_info_door_sak_text</text>
+</article> 
+<article article_type="journal" group="enc_ways" id="strelok_pda_info<" name="Портал Саркофаг - ЧАЕС-1">
+	<text>strelok_pda_info_text</text>
+</article> 
+<article article_type="journal" group="enc_ways" id="ways_info_way100a" name="Агропром - Кордон">
+	<text>ways_info_way100a_text</text>
+</article> 
+<article article_type="journal" group="enc_ways" id="ways_info_way101a" name="Кордон - Агропром">
+	<text>ways_info_way101a_text</text>
+</article>
+<article article_type="journal" group="enc_ways" id="ways_info_way102a" name="Агропром - Янтар">
+	<text>ways_info_way102a_text</text>
+</article>
+<article article_type="journal" group="enc_ways" id="ways_info_way103a" name="Янтар - Агропром">
+	<text>ways_info_way103a_text</text>
+</article>
+<article article_type="journal" group="enc_ways" id="ways_info_way104a" name="Дика Територія - Армійські Склади">
+	<text>ways_info_way104a_text</text> 
+</article>
+<article article_type="journal" group="enc_ways" id="ways_info_way105a" name="Армійські Склади - Дика Територія">
+	<text>ways_info_way105a_text</text>
+</article>
+<article article_type="journal" group="enc_ways" id="ways_info_way106a" name="Янтар - Радар">
+	<text>ways_info_way106a_text</text>
+</article>
+<article article_type="journal" group="enc_ways" id="ways_info_way107a" name="Радар - Темна Долина">
+	<text>ways_info_way107a_text</text>
+</article>
+<article article_type="journal" group="enc_ways" id="ways_info_way108a" name="Радар - Янтар">
+	<text>ways_info_way108a_text</text>
+</article>
+<article article_type="journal" group="enc_ways" id="ways_info_way109a" name="Темна Долина - Радар">
+	<text>ways_info_way109a_text</text>
+</article>
+<article article_type="journal" group="enc_ways" id="ways_info_way110a" name="Темна Долина - Армійські Склади">
+	<text>ways_info_way110a_text</text>
+</article>
+<article article_type="journal" group="enc_ways" id="ways_info_way111a" name="Армійські Склад - Темна Долина">
+	<text>ways_info_way111a_text</text>
+</article>
+<article article_type="journal" group="enc_ways" id="ways_info_way112a" name="Радар - Армійські Склади">
+	<text>ways_info_way112a_text</text>
+</article>
+<article article_type="journal" group="enc_ways" id="ways_info_way113a" name="Бар - Армійські Склади">
+	<text>ways_info_way113a_text</text>
+</article>
+<article article_type="journal" group="enc_ways" id="ways_info_way114a" name="Бар - Дика Територія">
+	<text>ways_info_way114a_text</text>
+</article>
+<article article_type="journal" group="enc_ways" id="ways_info_way_false" name="Портал Армійські Склади - ЧАЕС-1">
+	<text>ways_info_way_false_text</text>
+</article>
+<article article_type="journal" group="enc_ways" id="strelok_pda_info" name="Портал Саркофаг - ЧАЕС-1">
+	<text>strelok_pda_info_text</text>
+</article>
+<article id="tex_borov_11" name="Перевірити місце падіння вертольота" article_type="task">
+	<text>tex_borov_11</text>
+</article>
+<article id="tex_bandit_krisyk" name="Повернути КПК Щуряка" article_type="task">
+	<texture x="600" y="2000" width="100" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_bandit_krisyk</text>
+</article>
+<article id="tex_agroprom_vodka" name="Обміняти горілку на документи" article_type="task">
+	<texture x="250" y="100" width="50" height="100">ui\ui_icon_equipment</texture>
+	<text>tex_agroprom_vodka</text>
+</article>
+<article id="tex_about_life_heart" name="Дізнатися компоненти рецепта артефакта 'Живе Серце'" article_type="task">
+	<texture x="600" y="450" width="50" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_about_life_heart</text>
+</article>
+<article id="tex_life_heart_sahar" name="Встановити прилад біля ЧАЕС" article_type="task">
+	<texture x="800" y="1650" width="100" height="100">ui\ui_icon_equipment</texture>
+	<text>tex_life_heart_sahar</text>
+</article>
+<article id="tex_life_heart_sidor" name="Здобути контейнер з артефактом" article_type="task">
+	<texture x="1900" y="300" width="150" height="100">ui\ui_icon_equipment</texture>
+	<text>tex_life_heart_sidor</text>
+</article>
+<article id="tex_life_heart_barman" name="Знайти КПК в Прип'яті" article_type="task">
+	<texture x="150" y="950" width="50" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_life_heart_barman</text>
+</article>
+<article id="tex_strelok_pda" name="Знайти КПК Cтрільця" article_type="task">
+	<texture x="300" y="650" width="100" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_strelok_pda</text>
+</article>
+<article id="tex_strelok_pda2" name="Знайти Смарагдову Медузу" article_type="task">
+	<texture x="250" y="1750" width="50" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_strelok_pda2</text>
+</article>
+<article id="tex_doctor_drug" name="Знайти Дружка Доктора" article_type="task">
+	<texture x="660" y="0" width="165" height="107">ui\ui_npc_monster</texture>
+	<text>tex_doctor_drug</text>
+</article>
+<article id="tex_yan_scientist_teleport_01" name="Встановити прилад" article_type="task">
+	<texture x="800" y="1650" width="100" height="100">ui\ui_icon_equipment</texture>
+	<text>tex_yan_scientist_teleport_01</text>
+</article>
+<article id="tex_yan_scientist_teleport_02" name="Встановити прилад" article_type="task">
+	<texture x="800" y="1650" width="100" height="100">ui\ui_icon_equipment</texture>
+	<text>tex_yan_scientist_teleport_02</text>
+</article>
+<article id="tex_yan_scientist_teleport_03" name="Встановити прилад" article_type="task">
+	<texture x="800" y="1650" width="100" height="100">ui\ui_icon_equipment</texture>
+	<text>tex_yan_scientist_teleport_03</text>
+</article>
+<article id="tex_fanat_teleport_04" name="Знайти ноутбук" article_type="task">
+	<texture x="900" y="1650" width="100" height="100">ui\ui_icon_equipment</texture>
+	<text>tex_fanat_teleport_04</text>
+</article>
+<article id="tex_fanat_teleport_05" name="Знайти дипломат з картами" article_type="task">
+	<texture x="900" y="1750" width="100" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_fanat_teleport_05</text>
+</article>
+<article id="tex_fanat_teleport_06" name="Знайти комп'ютер" article_type="task">
+	<texture x="900" y="1800" width="100" height="100">ui\ui_icon_equipment</texture>
+	<text>tex_fanat_teleport_06</text>
+</article>
+<article id="tex_mil_trader_teleport_07" name="Зібрати 7 пазурів химери" article_type="task">
+	<texture x="1100" y="350" width="50" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_mil_trader_teleport_07</text>
+</article>
+<article id="tex_mil_max_teleport_08" name="Принести журнали Плейбой" article_type="task">
+	<texture x="900" y="1900" width="100" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_mil_max_teleport_08</text>
+</article>
+<article id="tex_mil_cook_teleport_09" name="Зібрати закуску Кухарю" article_type="task">
+	<texture x="1050" y="250" width="50" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_mil_cook_teleport_09</text>
+</article>
+<article id="tex_doktor_teleport_12" name="Принести артефакт" article_type="task">
+	<texture x="250" y="1700" width="50" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_doktor_teleport_12</text>
+</article>
+<article id="tex_doktor_teleport_10" name="Принести артефакт" article_type="task">
+	<texture x="300" y="1700" width="50" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_doktor_teleport_10</text>
+</article>
+<article id="tex_doktor_teleport_11" name="Принести артефакт" article_type="task">
+	<texture x="350" y="1700" width="50" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_doktor_teleport_11</text>
+</article>
+<article id="tex_esc_provodnik_groza" name="Знайти АС «Вал» і коліматор" article_type="task">
+	<texture x="1300" y="500" width="250" height="100">ui\ui_icon_equipment</texture>
+	<text>tex_esc_provodnik_groza</text>
+</article>
+<article id="tex_esc_bridge_vodka" name="Принести ящик горілки" article_type="task">
+	<texture x="250" y="100" width="50" height="100">ui\ui_icon_equipment</texture>
+	<text>tex_esc_bridge_vodka</text>
+</article>
+<article id="tex_escape_lager_volk_document" name="Знайти втрачений документ" article_type="task">
+	<texture x="300" y="900" width="100" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_escape_lager_volk_document</text>
+</article>
+<article id="tex_bar_ivancov_playboy" name="Знайти Плейбой" article_type="task">
+	<texture x="900" y="1900" width="100" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_bar_ivancov_playboy</text>
+</article>
+<article id="tex_mil_volk_resiver" name="Знайти Радіостанцію" article_type="task">
+	<texture x="800" y="1650" width="100" height="100">ui\ui_icon_equipment</texture>
+	<text>tex_mil_volk_resiver</text>
+</article>
+<article id="tex_gar_dram_novice_mp5_m1" name="Здобути модифікований МР5" article_type="task">
+	<texture x="1450" y="3400" width="150" height="100">ui\ui_icon_equipment</texture>
+	<text>tex_gar_dram_novice_mp5_m1</text>
+</article>
+<article id="tex_gar_dram_novice_burer_hand" name="Здобути Лапу Бюрера" article_type="task">
+	<texture x="650" y="600" width="50" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_gar_dram_novice_burer_hand</text>
+</article>
+<article id="tex_bar_dolg_base_guard_art" name="Знайти незвичайний артефакт" article_type="task">
+	<texture x="300" y="1750" width="50" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_bar_dolg_base_guard_art</text>
+</article>
+<article id="tex_gar_hellcar_outfit" name="Принести хороший броник Бісу" article_type="task">
+	<texture x="1600" y="1600" width="100" height="150">ui\ui_icon_equipment</texture>
+	<text>tex_gar_hellcar_outfit</text>
+</article>
+<article id="tex_ratcatcher_order" name="Принести незаконний наказ" article_type="task">
+	<texture x="300" y="950" width="100" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_ratcatcher_order</text>
+</article>
+<article id="tex_gar_dolg_flesh_eye" name="Здобути очі Плоті" article_type="task">
+	<texture x="400" y="950" width="50" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_gar_dolg_flesh_eye</text>
+</article>
+<article id="tex_val_pula_boar_leg" name="Здобути копита кабанів" article_type="task">
+	<texture x="550" y="050" width="50" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_val_pula_boar_leg</text>
+</article>
+<article id="tex_gar_dolg_krovosos_jaw" name="Здобути щупальця Кровососа" article_type="task">
+	<texture x="900" y="350" width="50" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_gar_dolg_krovosos_jaw</text>
+</article>
+<article id="tex_gar_dolg_psevdodog_tail" name="Здобути хвости псевдопса" article_type="task">
+	<texture x="450" y="950" width="50" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_gar_dolg_psevdodog_tail</text>
+</article>
+<article id="tex_esc_fox_medkit" name="Принести 10 аптечок Лису" article_type="task">
+	<texture x="300" y="700" width="100" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_esc_fox_medkit</text>
+</article>
+<article id="tex_esc_petruha_toz" name="Знайти зброю Петрусі" article_type="task">
+	<texture x="600" y="100" width="300" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_esc_petruha_toz</text>
+</article>
+<article id="tex_esc_shustryi_medusa" name="Здобути Спритному Медузу" article_type="task">
+	<texture x="450" y="200" width="50" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_esc_shustryi_medusa</text>
+</article>
+<article id="tex_yan_kruglov_green_art" name="Здобути Круглову Смарагдову кров каменя" article_type="task">
+	<texture x="350" y="1750" width="50" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_yan_kruglov_green_art</text>
+</article>
+<article id="tex_esc_tolik_five_teily" name="Знайти Толіку п'ять хвостів" article_type="task">
+	<texture x="450" y="50" width="50" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_esc_tolik_five_teily</text>
+</article>
+<article id="tex_mil_Svoboda_trader_outfit" name="Викрасти унікальні костюми" article_type="task">
+	<texture x="300" y="0" width="280" height="200">ui\ui_sak</texture>
+	<text>tex_mil_Svoboda_trader_outfit</text>
+</article>
+<!-- Akill begin -->
+<article id="tex_mil_Svoboda_trader_ammo" name="Знайти карту пам'яті для КПК" article_type="task">
+	<text>tex_mil_Svoboda_trader_ammo</text>
+</article>
+<!-- Akill end -->
+<article id="tex_mil_Svoboda_trader_plan" name="Попрацювати наркокур'єром" article_type="task">
+	<texture x="800" y="1550" width="100" height="100">ui\ui_icon_equipment</texture>
+	<text>tex_mil_Svoboda_trader_plan</text>
+</article>
+<article id="tex_agr_krot_PDA" name="Знайти КПК Крота" article_type="task">
+	<texture x="300" y="650" width="100" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_agr_krot_PDA</text>
+</article>
+<article id="tex_val_pula_ammo" name="Доставити боєприпаси" article_type="task">
+	<texture x="500" y="1300" width="100" height="100">ui\ui_icon_equipment</texture>
+	<text>tex_val_pula_ammo</text>
+</article>
+<article id="tex_val_escort_PDA" name="Повернути КПК" article_type="task">
+	<texture x="300" y="650" width="100" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_val_escort_PDA</text>
+</article>	
+<article id="tex_bar_dolg_petrenko_gaussgan" name="Знайти Гаусс-пістолет" article_type="task">
+	<texture x="0" y="0" width="280" height="200">ui\ui_sak</texture>
+	<text>tex_bar_dolg_petrenko_gaussgan</text>
+</article>
+<!-- Akill begin -->
+<article id="tex_bar_dolg_petrenko_electra_flash" name="Зробити знімки ембріона у Х-18" article_type="task">
+	<text>tex_bar_dolg_petrenko_electra_flash</text>
+</article>
+<!-- Akill end -->
+<article id="tex_bar_dolg_petrenko_exo" name="Обміняти артефакт на екзоскелет" article_type="task">
+	<texture x="1900" y="600" width="150" height="100">ui\ui_icon_equipment</texture>
+	<text>tex_bar_dolg_petrenko_exo</text>
+</article>
+<article id="tex_sak_repair_box" name="Доставити інструменти" article_type="task">
+	<texture x="500" y="1400" width="100" height="100">ui\ui_icon_equipment</texture>
+	<text>tex_sak_repair_box</text>
+</article>
+<!-- Akill begin -->
+<article id="tex_sak_gold_fish" name="Винести мізки монолітівцю за допомогою кувалди" article_type="task">
+	<texture x="0" y="0" width="384" height="504">snp\mono_kuvalda</texture>
+	<text>tex_sak_gold_fish</text>
+</article>
+<!-- Akill end -->
+<article id="tex_sak_find_seif" name="Притягнути Сейф" article_type="task">
+	<texture x="450" y="1650" width="150" height="150">ui\ui_icon_equipment</texture>
+	<text>tex_sak_find_seif</text>
+</article>
+<!-- Akill begin -->
+<article id="tex_sak_reward_outfit" name="Знайти в Барі диск з даними" article_type="task">
+	<text>tex_sak_reward_outfit</text>
+</article>
+<!-- Akill end -->
+<article id="tex_yan_kruglov_decoder" name="Знайти втрачений декодер" article_type="task">
+	<texture x="550" y="150" width="50" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_yan_kruglov_decoder</text>
+</article>
+<!-- Akill begin -->
+<article id="tex_yan_kruglov_art" name="Знайти дані про ін'єктор Гідра" article_type="task">
+	<text>tex_yan_kruglov_art</text>
+</article>
+<!-- Akill end -->
+<article id="tex_yan_scientist_books" name="Зібрати документи" article_type="task">
+	<texture x="650" y="1150" width="100" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_yan_scientist_books</text>
+</article>	
+<!-- Akill begin -->
+<article id="tex_bar_ivancov_rg6" name="Знайти дані про систему Скіф" article_type="task">
+	<text>tex_bar_ivancov_rg6</text>
+</article>
+<!-- Akill end -->
+<article id="tex_yan_scientist_find_af_dummy_glassbeads" name="Знайти Атрефакт" article_type="task">
+	<texture x="300" y="1950" width="50" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_yan_scientist_find_af_dummy_glassbeads</text>
+</article>
+<article id="tex_yan_scientist_find_case" name="Знайти документи" article_type="task">
+	<texture x="400" y="900" width="100" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_yan_scientist_find_case</text>
+</article>
+<article id="tex_bar_dolg_leader_find_case" name="Знайти кейс з документами" article_type="task">
+	<texture x="400" y="900" width="100" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_bar_dolg_leader_find_case</text>
+</article>
+<article id="tex_mil_lukash_find_dinamit" name="Знайти Динаміт" article_type="task">
+	<texture x="200" y="900" width="100" height="100">ui\ui_icon_equipment</texture>
+	<text>tex_mil_lukash_find_dinamit</text>
+</article>
+<article id="tex_esc_reward_case" name="Передати кейс" article_type="task">
+	<texture x="400" y="900" width="100" height="50">ui\ui_icon_equipment</texture>
+	<text>tex_esc_reward_case</text>
+</article>
+<article article_type="journal" id="price_sidor" name="Сидорович пропонує" group="enc_price">
+	<text>price_sidor_text</text>
+</article>
+<article article_type="journal" id="price_barman" name="Бармен пропонує" group="enc_price">
+	<text>price_barman_text</text>
+</article>
+<article article_type="journal" id="price_petrenko" name="Петренко пропонує" group="enc_price">
+	<text>price_petrenko_text</text>
+</article>
+<article article_type="journal" id="price_scraga" name="Скнара пропонує" group="enc_price">
+	<text>price_scraga_text</text>
+</article>
+<article article_type="journal" id="price_sak" name="Сяк пропонує" group="enc_price">
+	<text>price_sak_text</text>
+</article>
+<article article_type="journal" id="price_doktor" name="Доктор пропонує" group="enc_price">
+	<text>price_doktor_text</text>
+</article>
+<article article_type="journal" id="price_jila" name="Жила пропонує" group="enc_price">
+	<text>price_jila_text</text>
+</article>
+<article article_type="journal" id="price_kuznezov" name="Кузнєцов пропонує" group="enc_price">
+	<text>price_kuznezov_text</text>
+</article>
+<article article_type="journal" id="price_sherstuk" name="Шерстюк пропонує" group="enc_price">
+	<text>price_sherstuk_text</text>
+</article>
+<article article_type="journal" id="price_sakharov" name="Сахаров пропонує" group="enc_price">
+	<text>price_sakharov_text</text>
+</article>
+<article article_type="journal" id="price_dimak" name="Дімак пропонує" group="enc_price">
+	<text>price_dimak_text</text>
+</article>
+<article article_type="journal" id="artmod_mincer_meat_mosquito_bald" name="Шмат м'яса з Трампліна" group="enc_artmod">
+	<texture x="900" y="800" width="50" height="50">ui\ui_icon_equipment</texture>
+	<text>artmod_mincer_meat_mosquito_bald_text</text>
+</article>
+<article article_type="journal" id="artmod_electra_sparkler_mosquito_bald" name="Бенгальский вогонь з Трампліна" group="enc_artmod">
+	<text>artmod_electra_sparkler_mosquito_bald_text</text>
+</article>
+<article article_type="journal" id="artmod_ameba_slug_mosquito_bald" name="Слимак з Трампліна" group="enc_artmod">
+	<text>artmod_ameba_slug_mosquito_bald_text</text>
+</article>
+<article article_type="journal" id="artmod_cristall_mosquito_bald" name="Кристалл з Трампліна" group="enc_artmod">
+	<text>artmod_cristall_mosquito_bald_text</text>
+</article>
+<article article_type="journal" id="artmod_rusty_sea-urchin_mosquito_bald" name="Морский їжак з Трампліна" group="enc_artmod">
+	<text>artmod_rusty_sea-urchin_mosquito_bald_text</text>
+</article>
+<article article_type="journal" id="artmod_dummy_dummy_mosquito_bald" name="Пустушка з Трампліна" group="enc_artmod">
+	<text>artmod_dummy_dummy_mosquito_bald_text</text>
+</article>
+<article article_type="journal" id="artmod_ameba_slug_gravi_zone" name="Слимак з Воронки" group="enc_artmod">
+	<text>artmod_ameba_slug_gravi_zone_text</text>
+</article>
+<article article_type="journal" id="artmod_ameba_slime_gravi_zone" name="Слиз з Воронки" group="enc_artmod">
+	<text>artmod_ameba_slime_gravi_zone_text</text>
+</article>
+<article article_type="journal" id="artmod_electra_flash_gravi_zone" name="Спалах з Воронки" group="enc_artmod">
+	<text>artmod_electra_flash_gravi_zone_text</text>
+</article>
+<article article_type="journal" id="artmod_night_star_gravi_zone" name="Нічна зірка з Воронки" group="enc_artmod">
+	<text>artmod_night_star_gravi_zone_text</text>
+</article>
+<article article_type="journal" id="artmod_soul_gravi_zone" name="Душа з Воронки" group="enc_artmod">
+	<text>artmod_soul_gravi_zone_text</text>
+</article>
+<article article_type="journal" id="artmod_dummy_pellicle_gravi_zone" name="Плівка з Воронки" group="enc_artmod">
+	<text>artmod_dummy_pellicle_gravi_zone_text</text>
+</article>
+<article article_type="journal" id="artmod_cristall_flower_mincer" name="Кам'яна квітка з Каруселі" group="enc_artmod">
+	<text>artmod_cristall_flower_mincer_text</text>
+</article>
+<article article_type="journal" id="artmod_drops_mincer" name="Крапля з Каруселі" group="enc_artmod">
+	<text>artmod_drops_mincer_text</text>
+</article>
+<article article_type="journal" id="artmod_rusty_kristall_mincer" name="Кристал з Каруселі" group="enc_artmod">
+	<texture x="450" y="500" width="50" height="50">ui\ui_icon_equipment</texture>
+	<text>artmod_rusty_kristall_mincer_text</text>
+</article>
+<article article_type="journal" id="artmod_electra_moonlight_mincer" name="Місячне світло з Каруселі" group="enc_artmod">
+	<text>artmod_electra_moonlight_mincer_text</text>
+</article>
+<article article_type="journal" id="artmod_ameba_slug_mincer" name="Слюда з Каруселі" group="enc_artmod">
+	<text>artmod_ameba_slug_mincer_text</text>
+</article>
+<article article_type="journal" id="artmod_dummy_glassbeads_mincer" name="Мамине намисто з Каруселі" group="enc_artmod">
+	<text>artmod_dummy_glassbeads_mincer_text</text>
+</article>
+<article article_type="journal" id="artmod_rusty_kristall_buzz" name="Кристальна колючка з Холодця" group="enc_artmod">
+	<text>artmod_rusty_kristall_buzz_text</text>
+</article>
+<article article_type="journal" id="artmod_rusty_thorn_buzz" name="Колючка з Холодця" group="enc_artmod">
+	<text>artmod_rusty_thorn_buzz_text</text>
+</article>
+<article article_type="journal" id="artmod_fireball_buzz" name="Вогняна куля з Холодця" group="enc_artmod">
+	<text>artmod_fireball_buzz_text</text>
+</article>
+<article article_type="journal" id="artmod_cristall_buzz" name="Кристал з Холодця" group="enc_artmod">
+	<text>artmod_cristall_buzz_text</text>
+</article>
+<article article_type="journal" id="artmod_night_star_buzz" name="Золота рибка з Холодця" group="enc_artmod">
+	<text>artmod_night_star_buzz_text</text>
+</article>
+<article article_type="journal" id="artmod_fuzz_kolobok_buzz" name="Колобок з Холодця" group="enc_artmod">
+	<text>artmod_fuzz_kolobok_buzz_text</text>
+</article>
+<article article_type="journal" id="artmod_electra_flash_zharka" name="Спалах з Жарки" group="enc_artmod">
+	<text>artmod_electra_flash_zharka_text</text>
+</article>
+<article article_type="journal" id="artmod_ameba_slime_zharka" name="Слиз з Жарки" group="enc_artmod">
+	<text>artmod_ameba_slime_zharka_text</text>
+</article>
+<article article_type="journal" id="artmod_gravi_zharka" name="Граві з Жарки" group="enc_artmod">
+	<text>artmod_gravi_zharka_text</text>
+</article>
+<article article_type="journal" id="artmod_night_star_zharka" name="Нічна зірка з Жарки" group="enc_artmod">
+	<text>artmod_night_star_zharka_text</text>
+</article>
+<article article_type="journal" id="artmod_electra_moonlight_zharka" name="Місячне світло з Жарки" group="enc_artmod">
+	<text>artmod_electra_moonlight_zharka_text</text>
+</article>
+<article article_type="journal" id="artmod_dummy_battery_zharka" name="Батарейка з Жарки" group="enc_artmod">
+	<text>artmod_dummy_battery_zharka_text</text>
+</article>
+<article article_type="journal" id="artmod_fireball_galant" name="Вогняна куля з Електри" group="enc_artmod">
+	<text>artmod_fireball_galant_text</text>
+</article>
+<article article_type="journal" id="artmod_cristall_flower_galant" name="Кам'яна квітка з Електри" group="enc_artmod">
+	<text>artmod_cristall_flower_galant_text</text>
+</article>
+<article article_type="journal" id="artmod_ameba_mica_galant" name="Слюда з Електри" group="enc_artmod">
+	<text>artmod_ameba_mica_galant_text</text>
+</article>
+<article article_type="journal" id="artmod_electra_moonlight_galant" name="Душа з Електри" group="enc_artmod">
+	<text>artmod_electra_moonlight_galant_text</text>
+</article>
+<article article_type="journal" id="artmod_gold_fish_galant" name="Золота рибка з Електри" group="enc_artmod">
+	<text>artmod_gold_fish_galant_text</text>
+</article>
+<article article_type="journal" id="artmod_dummy_spring_galant" name="Пружина з Електри" group="enc_artmod">
+	<text>artmod_dummy_spring_galant_text</text>
+</article>

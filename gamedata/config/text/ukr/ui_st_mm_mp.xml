@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="game type">
+		<text>ТИП ГРИ</text>
+	</string>
+	<string id="icon">
+		<text>ЗНАЧКИ</text>
+	</string>
+	<string id="map">
+		<text>КАРТА</text>
+	</string>
+	<string id="mm_mp_allowvoting">
+		<text>Дозволити голосування</text>
+	</string>
+	<string id="mm_mp_anomalytime">
+		<text>Час аномалії (хв.)</text>
+	</string>
+	<string id="mm_mp_artefactcapture">
+		<text>Захоплення артефакту</text>
+	</string>
+	<string id="mm_mp_artefdelay">
+		<text>Затримка артефакту</text>
+	</string>
+	<string id="mm_mp_artefnum">
+		<text>Кількість артефактів</text>
+	</string>
+	<string id="mm_mp_artefstay">
+		<text>Час артефакту</text>
+	</string>
+	<string id="mm_mp_autoteambalance">
+		<text>Автобаланс команд</text>
+	</string>
+	<string id="mm_mp_autoteamswap">
+		<text>Автозміна команд</text>
+	</string>
+	<string id="mm_mp_avail_maps">
+		<text>ДОСТУПНІ КАРТИ</text>
+	</string>
+	<string id="mm_mp_cancel">
+		<text>Відмінити</text>
+	</string>
+	<string id="mm_mp_cd_key">
+		<text>CD-Key</text>
+	</string>
+	<string id="mm_mp_client">
+		<text>Клієнт</text>
+	</string>
+	<string id="mm_mp_create">
+		<text>Створити</text>
+	</string>
+	<string id="mm_mp_damageblock">
+		<text>Невразливість (сек.)</text>
+	</string>
+	<string id="mm_mp_damageblockindicator">
+		<text>Індикатор невразливості</text>
+	</string>
+	<string id="mm_mp_deaths">
+		<text>Смерті</text>
+	</string>
+	<string id="mm_mp_dedicated">
+		<text>Виділений</text>
+	</string>
+	<string id="mm_mp_empty">
+		<text>Порожні</text>
+	</string>
+	<string id="mm_mp_filters">
+		<text>Фільтри</text>
+	</string>
+	<string id="mm_mp_forcerespawn">
+		<text>Народження (с.)</text>
+	</string>
+	<string id="mm_mp_fraglimit">
+		<text>Ліміт фрагів</text>
+	</string>
+	<string id="mm_mp_frags">
+		<text>Фраги</text>
+	</string>
+	<string id="mm_mp_freezetime">
+		<text>Час затримки</text>
+	</string>
+	<string id="mm_mp_friendlyfire">
+		<text>Вогонь по своїх</text>
+	</string>
+	<string id="mm_mp_friendlyindicators">
+		<text>Індикатори союзників</text>
+	</string>
+	<string id="mm_mp_friendlynames">
+		<text>Імена друзів</text>
+	</string>
+	<string id="mm_mp_full">
+		<text>Повні</text>
+	</string>
+	<string id="mm_mp_gamemode">
+		<text>Режим</text>
+	</string>
+	<string id="mm_mp_host_port">
+		<text>IP/хост: порт</text>
+	</string>
+	<string id="mm_mp_internet">
+		<text>Інтернет</text>
+	</string>
+	<string id="mm_mp_join">
+		<text>Приєднатися</text>
+	</string>
+	<string id="mm_mp_lan">
+		<text>Локальна мережа</text>
+	</string>
+	<string id="mm_mp_listenservers">
+		<text>Не виділені</text>
+	</string>
+	<string id="mm_mp_mapratation">
+		<text>Список карт</text>
+	</string>
+	<string id="mm_mp_maxplayers">
+		<text>Макс. гравців</text>
+	</string>
+	<string id="mm_mp_network_connection">
+		<text>Мережеве з'єднання</text>
+	</string>
+	<string id="mm_mp_noanomalies">
+		<text>Без аномалій</text>
+	</string>
+	<string id="mm_mp_options">
+		<text>Опції</text>
+	</string>
+	<string id="mm_mp_password">
+		<text>Пароль</text>
+	</string>
+	<string id="mm_mp_player_name">
+		<text>Ім'я гравця:</text>
+	</string>
+	<string id="mm_mp_players">
+		<text>Гравці</text>
+	</string>
+	<string id="mm_mp_publicserver">
+		<text>Інтернет-сервер</text>
+	</string>
+	<string id="mm_mp_quickrefresh">
+		<text>Оновити один</text>
+	</string>
+	<string id="mm_mp_rateofchange">
+		<text>Коеф. зміни</text>
+	</string>
+	<string id="mm_mp_refresh">
+		<text>Оновити всі</text>
+	</string>
+	<string id="mm_mp_reinforcement">
+		<text>Підкріплення (с.)</text>
+	</string>
+	<string id="mm_mp_respawnoptions">
+		<text>Опції народження</text>
+	</string>
+	<string id="mm_mp_sel_maps">
+		<text>ОБРАНІ КАРТИ</text>
+	</string>
+	<string id="mm_mp_server">
+		<text>Сервер</text>
+	</string>
+	<string id="mm_mp_server_list">
+		<text>Список серверів</text>
+	</string>
+	<string id="mm_mp_server_prop">
+		<text>Властивості сервера</text>
+	</string>
+	<string id="mm_mp_serverinfo">
+		<text>Інфо сервера</text>
+	</string>
+	<string id="mm_mp_serverlist">
+		<text>Сервер</text>
+	</string>
+	<string id="mm_mp_servername">
+		<text>Ім'я сервера</text>
+	</string>
+	<string id="mm_mp_serversettings">
+		<text>Налаштування сервера</text>
+	</string>
+	<string id="mm_mp_spectator">
+		<text>Спостерігач</text>
+	</string>
+	<string id="mm_mp_spectator_firsteye">
+		<text>Від першої особи</text>
+	</string>
+	<string id="mm_mp_spectator_freefly">
+		<text>Вільний політ</text>
+	</string>
+	<string id="mm_mp_spectator_freelook">
+		<text>Вільно-прив'язаний</text>
+	</string>
+	<string id="mm_mp_spectator_lookat">
+		<text>Від третьої особи</text>
+	</string>
+	<string id="mm_mp_spectator_options">
+		<text>Налаштування спостерігача</text>
+	</string>
+	<string id="mm_mp_spectator_teamonly">
+		<text>Лише для команди</text>
+	</string>
+	<string id="mm_mp_startweather">
+		<text>Погода</text>
+	</string>
+	<string id="mm_mp_timelimit">
+		<text>Ліміт часу (хв.)</text>
+	</string>
+	<string id="mm_mp_warmuptime">
+		<text>Розігрів (сек.)</text>
+	</string>
+	<string id="mm_mp_weatheroptions">
+		<text>Опції погоди</text>
+	</string>
+	<string id="mm_mp_withoutfriendlyfire">
+		<text>Без вогню союзн.</text>
+	</string>
+	<string id="mm_mp_withoutpassword">
+		<text>Без пароля</text>
+	</string>
+	<string id="mm_mp_withoutpunkbuster">
+		<text>Без Punk Buster</text>
+	</string>
+	<string id="mm_mp_withpassword">
+		<text>Із паролем</text>
+	</string>
+	<string id="mp_vote_hint">
+		<text>Голосувати ЗА-[$$ACTION_VOTE_YES$$]\nГолосувати ПРОТИ-[$$ACTION_VOTE_NO$$]\nРезультати-[$$ACTION_VOTE$$]</text>
+	</string>
+	<string id="ping">
+		<text>РИНГ</text>
+	</string>
+	<string id="players">
+		<text>ГРАВЦІ</text>
+	</string>
+	<string id="server name">
+		<text>ІМ'Я СЕРВЕРА</text>
+	</string>
+	<string id="version">
+		<text>Версія</text>
+	</string>
+	<string id="st_mp_gsfilter">
+		<text>Фільтр:</text>
+	</string>
+</string_table>

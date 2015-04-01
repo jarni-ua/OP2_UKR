@@ -1,0 +1,391 @@
+           <game_task id="black_angel_quest_task" prio="0">
+	<title>"Чорний ангел"</title>
+	<objective>
+                <text>"Чорный ангел"</text>
+                <icon>ui_iconsTotal_find_art</icon>
+                <infoportion_complete>info_angel_done</infoportion_complete>
+                <article>tex_black_angel_quest_task</article>
+         </objective>
+         <objective>
+                 <text>Знайти "Чорний ангел"</text>
+                 <function_complete>buusty_dialog.black_angel_have</function_complete>
+                 <infoportion_set_complete>info_angel_have</infoportion_set_complete>
+          </objective>
+          <objective>
+                 <text>Віддати артефакт Вовку</text>
+                 <map_location_type hint="volk">blue_location</map_location_type>
+                 <object_story_id>Escape_novice_lager_volk</object_story_id>
+                 <infoportion_complete>info_angel_done</infoportion_complete>
+          </objective>
+</game_task>
+          <game_task id="fanat_bronik_quest_task" prio="0">
+	<title>Відстріл гігантів</title>
+	<objective>
+            		<text>Відстріл гігантів</text>
+            		<icon>ui_iconsTotal_gigant</icon>
+            		<infoportion_complete>info_hands_done</infoportion_complete>
+                    <article>tex_fanat_bronik_quest_task</article>
+        	</objective>
+                <objective>
+            		<text>Роздобути 15 лап псевдиша</text> 
+                    <function_complete>buusty_dialog.psevdo_hands_have</function_complete>
+            		<infoportion_set_complete>info_hands_have</infoportion_set_complete>            		
+        	</objective>
+                <objective>
+            		<text>Віддати Фанату лапи і отримати за них гроші</text>
+            		<map_location_type hint="Фанат">blue_location</map_location_type>
+            		<object_story_id>esc_fanat</object_story_id>                        
+            		<infoportion_complete>info_hands_done</infoportion_complete>
+        	</objective>
+</game_task>
+          <game_task id="krest_stvol_quest_task" prio="0">
+	<title>Рушниця для Хреста</title>
+	<objective>
+            		<text>Рушниця для Хреста</text>
+            		<icon>ui_iconsTotal_vintovka</icon>
+            		<infoportion_complete>krest_stvol_done</infoportion_complete>
+                    <article>tex_krest_stvol_quest_task</article>
+        	</objective>
+                <objective>
+            		<text>Знайти на Радарі АА-12</text>
+                    <function_complete>buusty_dialog.stvol_krest_have</function_complete>
+            		<infoportion_set_complete>krest_stvol_have</infoportion_set_complete>            		
+        	</objective>
+                <objective>
+            		<text>Віддати Хресту рушницю</text>
+            		<map_location_type hint="Хрест">blue_location</map_location_type>
+            		<object_story_id>puzir_crest</object_story_id>                        
+            		<infoportion_complete>krest_stvol_done</infoportion_complete>
+        	</objective>
+</game_task>
+
+        <game_task id="nayti_nychku_v_labe_task" prio="0">
+	<title>Схованка Хреста</title>
+	<objective>
+            		<text>Схованка Хреста</text>
+            		<icon>ui_iconsTotal_taynik</icon>
+            		<infoportion_complete>taynik_laba_done</infoportion_complete>
+                    <article>tex_nayti_nychku_v_labe_task</article> 
+        	</objective>
+                <objective>
+            		<text>Знайти схованку Хреста в Х-16</text> 
+            		<function_complete>buusty_dialog.zapiska_razvedka_have</function_complete>
+            		<infoportion_set_complete>taynik_laba_have</infoportion_set_complete>            		
+        	</objective>
+                <objective>
+            		<text>Знайти новий шлях на Болота</text> 
+            		<map_location_type hint="Аріадна">green_location</map_location_type> 
+            		<object_story_id>marsh_ariadna</object_story_id>                        
+                    <infoportion_complete>taynik_laba_done</infoportion_complete>            		
+        	</objective>
+  </game_task>
+         <game_task id="ari_lek_naity_task" prio="0">
+	<title>Ліки для батька Аріадни</title>
+	<objective>
+            		<text>Ліки для батька Аріадни</text>
+            		<icon>ui_iconsTotal_lekarstvo</icon>
+            		<infoportion_complete>ari_lek_done</infoportion_complete>
+                    <article>tex_ari_lek_naity_task</article>
+        	</objective>
+                <objective>
+            		<text>Отримати у Калмика ліки</text> 
+            		<function_complete>buusty_dialog.ari_lek_have</function_complete>
+            		<infoportion_set_complete>ari_lek_have</infoportion_set_complete>            		
+        	</objective>
+                <objective>
+            		<text>Принести ліки Аріадні</text> 
+            		<map_location_type hint="Аріадна">green_location</map_location_type> 
+            		<object_story_id>marsh_ariadna</object_story_id>                        
+                    <infoportion_complete>ari_lek_done</infoportion_complete>            		
+        	</objective>
+  </game_task>
+         <game_task id="kalmyak_ingr_naity_task" prio="0">
+	<title>Виготовлення мазі</title>
+	<objective>
+            		<text>Виготовлення мазі</text>
+            		<icon>ui_iconsTotal_lekarstvo</icon>
+            		<infoportion_complete>kalmyak_ingr_done</infoportion_complete>
+                    <article>tex_kalmyak_ingr_naity_task</article>
+        	</objective>
+                <objective>
+            		<text>Знайти бракуючі інгредієнти</text> 
+            		<function_complete>buusty_dialog.kalmyak_ingr_have</function_complete>
+            		<infoportion_set_complete>kalmyak_ingr_have</infoportion_set_complete>            		
+        	</objective>
+                <objective>
+            		<text>Принести інгредієнти Калмику</text> 
+            		<map_location_type hint="Калмик">green_location</map_location_type> 
+            		<object_story_id>kalmyak</object_story_id>                        
+                    <infoportion_complete>kalmyak_ingr_done</infoportion_complete>            		
+        	</objective>
+  </game_task>
+         <game_task id="dimak_bloknot_naity_task" prio="0">
+	<title>Блокнот Дімака</title>
+	<objective>
+            		<text>Блокнот Дімака</text>
+            		<icon>ui_iconsTotal_kniga</icon>
+            		<infoportion_complete>dimak_bloknot_done</infoportion_complete>
+                    <article>tex_dimak_bloknot_naity_task</article>
+        	</objective>
+                <objective>
+            		<text>Знайти блокнот Дімака</text> 
+            		<function_complete>buusty_dialog.dimak_bloknot_have</function_complete>
+            		<infoportion_set_complete>dimak_bloknot_have</infoportion_set_complete>            		
+        	</objective>
+                <objective>
+            		<text>Принести Дімаку блокнот</text> 
+            		<map_location_type hint="Дімак">green_location</map_location_type> 
+            		<object_story_id>pri_dimak</object_story_id>                        
+                    <infoportion_complete>dimak_bloknot_done</infoportion_complete>            		
+        	</objective>
+      </game_task>  
+         <game_task id="dimak_tele_naity_task" prio="0">
+	<title>Телевізор для Дімака</title>
+	<objective>
+            		<text>Телевізор для Дімака</text>
+            		<icon>ui_iconsTotal_televizor</icon>
+            		<infoportion_complete>dimak_tele_done</infoportion_complete>
+                    <article>tex_dimak_tele_naity_task</article>
+        	</objective>
+                <objective>
+            		<text>Знайти телевізор у "Ювілейному"</text> 
+            		<function_complete>buusty_dialog.dimak_televizor_have</function_complete>
+            		<infoportion_set_complete>dimak_tele_have</infoportion_set_complete>            		
+        	</objective>
+                <objective>
+            		<text>Принести Дімаку телевізор</text> 
+            		<map_location_type hint="Дімак">green_location</map_location_type> 
+            		<object_story_id>pri_dimak</object_story_id>                        
+                    <infoportion_complete>dimak_tele_done</infoportion_complete>            		
+        	</objective>
+  </game_task>
+
+    <game_task id="dimak_pda_naity_task" prio="0">
+	<title>КПК Дімака</title>
+	<objective>
+            		<text>КПК Дімака</text>
+            		<icon>ui_iconsTotal_pda2</icon>
+            		<infoportion_complete>pda_dimak_done</infoportion_complete>
+                    <article>tex_dimak_pda_naity_task</article>
+        	</objective>
+                <objective>
+            		<text>Знайти місце, де Дімак загубив КПК</text> 
+            		<function_complete>buusty_dialog.pda_dimak_have</function_complete>
+            		<infoportion_set_complete>pda_dimak_have</infoportion_set_complete>            		
+        	</objective>
+                <objective>
+            		<text>Принести Дімаку КПК</text> 
+            		<map_location_type hint="Дімак">green_location</map_location_type> 
+            		<object_story_id>pri_dimak</object_story_id>                        
+                    <infoportion_complete>pda_dimak_done</infoportion_complete>            		
+        	</objective>
+  </game_task>
+
+      <game_task id="aaz_note_naity_task" prio="0">
+	<title>Ноутбук для Ааза</title>
+	<objective>
+            		<text>Ноутбук для Ааза</text>
+            		<icon>ui_iconsTotal_notebook</icon>
+            		<infoportion_complete>aaz_note_done</infoportion_complete>
+                    <article>tex_aaz_note_naity_task</article>
+        	</objective>
+                <objective>
+            		<text>Знайти ноутбук Asus на "Юпітері"</text> 
+            		<function_complete>buusty_dialog.aaz_note_have</function_complete>
+            		<infoportion_set_complete>aaz_note_have</infoportion_set_complete>            		
+        	</objective>
+                <objective>
+            		<text>Принести ноутбук Аазу</text> 
+            		<map_location_type hint="Ааз">green_location</map_location_type> 
+            		<object_story_id>aaz_upi</object_story_id>                        
+                    <infoportion_complete>aaz_note_done</infoportion_complete>            		
+        	</objective>
+  </game_task>
+
+ <game_task id="dimak_doki_naity_task" prio="0">
+	<title>Архівні документи</title>
+	<objective>
+            		<text>Архівні документи</text>
+            		<icon>ui_iconsTotal_docs</icon>
+            		<infoportion_complete>doki_dimak_done</infoportion_complete>
+                    <article>tex_dimak_doki_naity_task</article>
+        	</objective>
+                <objective>
+            		<text>Знайти 3 частини архіва на Затоні</text> 
+            		<function_complete>buusty_dialog.doki_dimak_have</function_complete>
+            		<infoportion_set_complete>doki_dimak_have</infoportion_set_complete>            		
+        	</objective>
+                <objective>
+            		<text>Принести архіви Дімаку</text> 
+            		<map_location_type hint="Дімак">blue_location</map_location_type> 
+            		<object_story_id>pri_dimak</object_story_id>                        
+                    <infoportion_complete>doki_dimak_done</infoportion_complete>            		
+        	</objective>
+  </game_task>
+
+ <game_task id="buusty_kvest_task" prio="0">
+	<title>Тряхнути найманців на Юпітері</title>
+	<objective>
+            		<text>Тряхнути найманців на Юпітері</text>
+            		<icon>ui_iconsTotal_keis2</icon>
+            		<infoportion_complete>buusty_kvest_done</infoportion_complete>
+                    <article>tex_buusty_kvest_task</article>
+        	</objective>
+                <objective>
+            		<text>Викрасти кейс з грошима з КПП</text> 
+            		<function_complete>buusty_dialog.buusty_case_have</function_complete>
+            		<infoportion_set_complete>buusty_kvest_have</infoportion_set_complete>            		
+        	</objective>
+                <objective>
+            		<text>Принести Басті кейс з грошима</text> 
+            		<map_location_type hint="Басті">blue_location</map_location_type> 
+            		<object_story_id>esc_buusty</object_story_id>                        
+                    <infoportion_complete>buusty_kvest_done</infoportion_complete>            		
+        	</objective>
+  </game_task>
+
+ <game_task id="voron_new_kvest_task" prio="0">
+	<title>Частини монстрів</title>
+	<objective>
+            		<text>Частини монстрів</text>
+            		<icon>ui_iconsTotal_mutant</icon>
+            		<infoportion_complete>voron_new_kvest_done</infoportion_complete>
+                    <article>tex_voron_new_kvest_task</article>
+        	</objective>
+                <objective>
+            		<text>Зібрати необхідні частини монстрів</text> 
+            		<function_complete>buusty_dialog.voron_prichindaly_have</function_complete>
+            		<infoportion_set_complete>voron_prichindaly_have</infoportion_set_complete>            		
+        	</objective>
+                <objective>
+            		<text>Принести обіцяне Ворону</text> 
+            		<map_location_type hint="Ворон">blue_location</map_location_type> 
+            		<object_story_id>amk_vitek_voron</object_story_id>                        
+                    <infoportion_complete>voron_new_kvest_done</infoportion_complete>            		
+        	</objective>
+  </game_task> 
+
+
+<!--- Квесты ОП-2 ---> 
+
+ <game_task id="sidor_new_kvest_task" prio="0">
+	<title>"Інферно"</title>
+	<objective>
+            		<text>"Інферно"</text>
+            		<icon>ui_iconsTotal_anomaly3</icon>
+            		<infoportion_complete>sidor_stvol_done</infoportion_complete>
+                    <article>tex_sidor_new_kvest_task</article>
+        	</objective>
+                <objective>
+            		<text>Відшукати у Забутому лісі новий артефакт</text> 
+            		<function_complete>buusty_dialog.sidor_inferno_have</function_complete>
+            		<infoportion_set_complete>sidor_stvol_have</infoportion_set_complete>            		
+        	</objective>
+                <objective>
+            		<text>Принести артефакт Сидоровичу</text> 
+            		<map_location_type hint="escape_trader">blue_location</map_location_type> 
+            		<object_story_id>Escape_Trader</object_story_id>                        
+                    <infoportion_complete>sidor_stvol_done</infoportion_complete>            		
+        	</objective>
+  </game_task>
+
+<!--<Найти Александрыча>-->
+<game_task id="alexandrych_find" prio="0">
+<title>Пошук Александрича</title>
+<objective>
+<text>Пошук Александрича</text>
+<icon>ui_iconsTotal_stalker7</icon>
+<infoportion_complete>alexandrych_box_start</infoportion_complete>
+</objective>
+<objective>
+<text>Знайти Александрича і поговорити з ним</text>
+<infoportion_complete>alexandrych_box_start</infoportion_complete> 
+</objective>
+</game_task>
+
+ <game_task id="alexandrych_new_kvest_task" prio="0">
+	<title>Дізнатися, що сталося з групою Александрича</title>
+	<objective>
+            		<text>Дізнатися, що сталося з групою Александрича</text>
+            		<icon>ui_iconsTotal_troika</icon>
+            		<infoportion_complete>alexandrych_box_done</infoportion_complete>
+                    <article>tex_alexandrych_new_kvest</article>
+        	</objective>
+                <objective>
+            		<text>Знайти три ящика з провізією</text> 
+            		<function_complete>buusty_dialog.box_alexandrych_have</function_complete>
+            		<infoportion_set_complete>alexandrych_box_have</infoportion_set_complete>            		
+        	</objective>
+                <objective>
+            		<text>Принести ящики Александричу</text> 
+            		<map_location_type hint="alexandrych_marsh">blue_location</map_location_type> 
+            		<object_story_id>alexandrych_marsh</object_story_id>                        
+                    <infoportion_complete>alexandrych_box_done</infoportion_complete>            		
+        	</objective>        		
+  </game_task>
+
+
+<!--<Найти лекарство Кузькина Мать>-->
+ <game_task id="kuzmat_new_kvest_task" prio="0">
+	<title>Ліки для Кузькіної Матері</title>
+	<objective>
+            		<text>Ліки для Кузькіної Матері</text>
+            		<icon>ui_iconsTotal_lekarstvo</icon>
+                    <infoportion_fail>upiter_baty_proval</infoportion_fail>
+            		<infoportion_complete>kuzmat_lek_done</infoportion_complete>
+                    <article>tex_kuzmat_new_kvest</article>
+        	</objective>
+                <objective>
+            		<text>Відшукати ліки на Болотах і на Юпитері</text> 
+            		<function_complete>buusty_dialog.kuzmat_lek_have</function_complete>
+            		<infoportion_set_complete>kuzmat_lek_have</infoportion_set_complete>            		
+        	</objective>
+                <objective>
+            		<text>Принести пілоту гроші і ліки</text> 
+            		<!---map_location_type hint="Батя">blue_location</map_location_type---> 
+            		<!---object_story_id>upiter_baty</object_story_id--->                        
+                    <infoportion_complete>kuzmat_lek_done</infoportion_complete>            		
+        	</objective>        		
+  </game_task>
+
+<!--<Сорвать сделку>-->
+  <game_task id="upiter_sdelka_task" prio="0">
+         <title>Зірвати угоду</title>
+         <objective>
+                      <text>Зірвати угоду</text>
+                      <icon>ui_iconsTotal_sniper1</icon>
+                      <infoportion_complete>upiter_sdelka_done</infoportion_complete>
+                      <infoportion_fail>upiter_sdelka_proval</infoportion_fail>
+                      <article>tex_upiter_sdelka</article>
+         </objective>
+         <objective>
+                      <text>Ліквідувати всіх учасників угоди</text>
+                      <function_complete>buusty_dialog.upiter_sdelka_have</function_complete>
+                      <infoportion_set_complete>upiter_sdelka_have</infoportion_set_complete>
+                      <infoportion_fail>upiter_sdelka_proval</infoportion_fail>
+         </objective>
+         <objective>
+                      <text>Знайти і повернути документи Сахарову</text>
+                      <map_location_type hint="Сахаров">blue_location</map_location_type>
+                      <object_story_id>yan_general_ecolog</object_story_id>
+                      <infoportion_fail>upiter_sdelka_proval</infoportion_fail>
+                      <infoportion_complete>upiter_sdelka_done</infoportion_complete> 
+         </objective>
+  </game_task>
+
+<!--<Сопроводить Морозко до безопасного места>-->
+<game_task id="morozko_kvest_task" prio="0">
+<title>Вивести лейтенанта</title>
+<objective>
+<text>Супроводити Морозко до стежки у Східну Прип'ять</text>
+<icon>ui_iconsTotal_map4</icon>
+<infoportion_complete>morozko_done</infoportion_complete>
+  <infoportion_fail>morozko_proval</infoportion_fail>
+</objective>
+<objective>
+<text>Сопроводити Морозко до стежки у Східну Прип'ять</text>
+  <infoportion_fail>morozko_proval</infoportion_fail>
+<infoportion_complete>morozko_done</infoportion_complete> 
+</objective>
+</game_task>
+

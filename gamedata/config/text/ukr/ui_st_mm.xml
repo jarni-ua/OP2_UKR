@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="Clear">
+		<text>ясна</text>
+	</string>
+	<string id="Cloudy">
+		<text>хмарна</text>
+	</string>
+	<string id="Default">
+		<text>середні</text>
+	</string>
+	<string id="Extreme">
+		<text>максимальні</text>
+	</string>
+	<string id="gd_novice">
+		<text>розминка</text>
+	</string>
+	<string id="gd_stalker">
+		<text>екстрім</text>
+	</string>
+	<string id="gd_veteran">
+		<text>виживання</text>
+	</string>
+	<string id="gd_master">
+		<text>реалізм</text>
+	</string>
+	<string id="High">
+		<text>високі</text>
+	</string>
+	<string id="Low">
+		<text>низькі</text>
+	</string>
+	<string id="Minimum">
+		<text>мінімальні</text>
+	</string>
+	<string id="mm_mp_check_cdkey">
+		<text>перевіряти CD-Key</text>
+	</string>
+	<string id="Nigth">
+		<text>Ніч</text>
+	</string>
+	<string id="Rain">
+		<text>дощ</text>
+	</string>
+	<string id="renderer_r1">
+		<text>Статичне освітлення</text>
+	</string>
+	<string id="renderer_r2">
+		<text>Повне динамічне освітлення</text>
+	</string>
+	<string id="renderer_r2a">
+		<text>Динамічне освітлення об'єктів</text>
+	</string>
+	<string id="st_artefacthunt">
+		<text>Полювання за артефактом</text>
+	</string>
+	<string id="st_deathmatch">
+		<text>Усі проти всіх</text>
+	</string>
+	<string id="st_rank_experienced">
+		<text>досвідчений</text>
+	</string>
+	<string id="st_rank_legend">
+		<text>легендарний сталкер</text>
+	</string>
+	<string id="st_rank_novice">
+		<text>новачок</text>
+	</string>
+	<string id="st_rank_professional">
+		<text>професіонал</text>
+	</string>
+	<string id="st_rank_veteran">
+		<text>ветеран</text>
+	</string>
+	<string id="st_team_deathmatch">
+		<text>Команда проти команди</text>
+	</string>
+	<string id="testers_mp_agroprom">
+		<text>Агропром</text>
+	</string>
+	<string id="testers_mp_atp">
+		<text>АТП</text>
+	</string>
+	<string id="testers_mp_darkvalley">
+		<text>Темна Долина</text>
+	</string>
+	<string id="testers_mp_factory">
+		<text>Завод «Янтар»</text>
+	</string>
+	<string id="testers_mp_lost_village">
+		<text>Покинуте селище</text>
+	</string>
+	<string id="testers_mp_military_1">
+		<text>Військові склади</text>
+	</string>
+	<string id="testers_mp_pool">
+		<text>Басейн</text>
+	</string>
+	<string id="testers_mp_railroad">
+		<text>Залізнична станція</text>
+	</string>
+	<string id="testers_mp_rostok">
+		<text>Завод «Росток»</text>
+	</string>
+	<string id="testers_mp_workshop">
+		<text>Кинута фабрика</text>
+	</string>
+	<string id="ui_mm_60_hz">
+		<text>Частота 60Гц</text>
+	</string>
+	<string id="ui_mm_action">
+		<text>Дія</text>
+	</string>
+	<string id="ui_mm_advanced">
+		<text>Розширені</text>
+	</string>
+	<string id="ui_mm_anisotropic">
+		<text>Фільтрація текстур</text>
+	</string>
+	<string id="ui_mm_apply">
+		<text>Застосувати</text>
+	</string>
+	<string id="ui_mm_back">
+		<text>Назад</text>
+	</string>
+	<string id="ui_mm_blood">
+		<text>Кров</text>
+	</string>
+	<string id="ui_mm_brightness">
+		<text>Яскравість</text>
+	</string>
+	<string id="ui_mm_cancel">
+		<text>Скасувати</text>
+	</string>
+	<string id="ui_mm_cam_inert">
+		<text>Розгойдування камери</text>
+	</string>
+	<string id="ui_mm_contrast">
+		<text>Контраст</text>
+	</string>
+	<string id="ui_mm_controls">
+		<text>Керування</text>
+	</string>
+	<string id="ui_mm_credits">
+		<text>Титри</text>
+	</string>
+	<string id="ui_mm_crosshair_distance">
+		<text>Дистанція до цілі</text>
+	</string>
+	<string id="ui_mm_bioradar">
+		<text>Динамічний біорадар</text>
+	</string>
+	<string id="ui_mm_autosave">
+		<text>Автозбереження</text>
+	</string>
+	<string id="ui_mm_autopause">
+		<text>Пауза після завантаження</text>
+	</string>
+	<string id="ui_mm_animations">
+		<text>Розширені анімації</text>
+	</string>
+	<string id="ui_mm_autograb">
+		<text>Автообшук трупа</text>
+	</string>
+	<string id="ui_mm_sms">
+		<text>"Неатмосферні" СМС</text>
+	</string>
+	<string id="ui_mm_autochange_difficulty">
+		<text>Автозміна складності в залежності від частоти смерті гравця</text>
+	</string>
+	<string id="ui_mm_buy">
+		<text>Купити квестовий предмет за 200000:</text>
+	</string>
+	<string id="ui_mm_del">
+		<text>Видалити проблемні об'єкти:</text>
+	</string>
+	<string id="ui_mm_hardcore">
+		<text>Додаткові ускладення:</text>
+	</string>
+	<string id="ui_mm_fast_respawn">
+		<text>Частий респаун</text>
+	</string>
+	<string id="ui_mm_transparent_treasure">
+		<text>Малопомітні схованки</text>
+	</string>
+	<string id="ui_mm_delete">
+		<text>Видалити</text>
+	</string>
+	<string id="ui_mm_difficulty">
+		<text>Складність:</text>
+	</string>
+	<string id="ui_mm_disconnect">
+		<text>Від'єднатися</text>
+	</string>
+	<string id="ui_mm_disconnect_message">
+		<text> Чи справді ви бажаєте від'єднатися?</text>
+	</string>
+	<string id="ui_mm_dyn_crosshair">
+		<text>Динамічний приціл</text>
+	</string>
+	<string id="ui_mm_eax">
+		<text>EAX</text>
+	</string>
+	<string id="ui_mm_fullscreen">
+		<text>Повний екран</text>
+	</string>
+	<string id="ui_mm_gameplay">
+		<text>Гра</text>
+	</string>
+	<string id="ui_mm_gamma">
+		<text>Гама</text>
+	</string>
+	<string id="ui_mm_geometry_lod">
+		<text>Деталізація об'єктів</text>
+	</string>
+	<string id="ui_mm_invert_mouse">
+		<text>Інвертувати мишу</text>
+	</string>
+	<string id="ui_mm_key">
+		<text>Кнопка</text>
+	</string>
+	<string id="ui_mm_keyboard_setup">
+		<text>Налаштування клавіатури</text>
+	</string>
+	<string id="ui_mm_last_save">
+		<text>Останнє збереження</text>
+	</string>
+	<string id="ui_mm_light_distance">
+		<text>Дальність освітлення</text>
+	</string>
+	<string id="ui_mm_load">
+		<text>Завантажити</text>
+	</string>
+	<string id="ui_mm_load_game">
+		<text>Завантажити гру</text>
+	</string>
+	<string id="ui_mm_master">
+		<text>Реалізм</text>
+	</string>
+	<string id="ui_mm_master_volume">
+		<text>Гучність</text>
+	</string>
+	<string id="ui_mm_mouse_sense">
+		<text>Чутливість миші</text>
+	</string>
+	<string id="ui_mm_multiplayer">
+		<text>ГРА В МЕРЕЖІ</text>
+	</string>
+	<string id="ui_mm_multiplayer_n">
+		<text>Гра в мережі</text>
+	</string>
+	<string id="ui_mm_music_volume">
+		<text>Гучність музики</text>
+	</string>
+	<string id="ui_mm_need_restart">
+		<text>Зміни набудуть чинності лише після перезавантаження гри</text>
+	</string>
+	<string id="ui_mm_newgame">
+		<text>Нова гра</text>
+	</string>
+	<string id="ui_mm_novice">
+		<text>Розминка</text>
+	</string>
+	<string id="ui_mm_npc_torch">
+		<text>Світло ліхтариків НПС</text>
+	</string>
+	<string id="ui_mm_options">
+		<text>Опції</text>
+	</string>
+	<string id="ui_mm_options_n">
+		<text>Опції</text>
+	</string>
+	<string id="ui_mm_particles_distance">
+		<text>Дальність партиклів</text>
+	</string>
+	<string id="ui_mm_quality_presets">
+		<text>Установки якості</text>
+	</string>
+	<string id="ui_mm_quit_game">
+		<text>Завершити гру</text>
+	</string>
+	<string id="ui_mm_quit_game_message">
+		<text>Ви справді бажаєте залишити гру?</text>
+	</string>
+	<string id="ui_mm_quit_windows_message">
+		<text>Ви справді хочете вийти до Windows?</text>
+	</string>
+	<string id="ui_mm_quit2windows">
+		<text>Вийти у Windows</text>
+	</string>
+	<string id="ui_mm_renderer">
+		<text>Тип рендера</text>
+	</string>
+	<string id="ui_mm_resolution">
+		<text>Роздільна здатність</text>
+	</string>
+	<string id="ui_mm_return_game">
+		<text>Назад у гру</text>
+	</string>
+	<string id="ui_mm_save">
+		<text>Зберегти</text>
+	</string>
+	<string id="ui_mm_save_game">
+		<text>Зберегти гру</text>
+	</string>
+	<string id="ui_mm_show_crosshair">
+		<text>Показувати приціл</text>
+	</string>
+	<string id="ui_mm_show_weapon">
+		<text>Показувати зброю</text>
+	</string>
+	<string id="ui_mm_simply">
+		<text>Базові</text>
+	</string>
+	<string id="ui_mm_sound">
+		<text>Звук</text>
+	</string>
+	<string id="ui_mm_sound_quality">
+		<text>Якість звуку</text>
+	</string>
+	<string id="ui_mm_stalker">
+		<text>Екстрім</text>
+	</string>
+	<string id="ui_mm_sun_quality">
+		<text>Якість тіней</text>
+	</string>
+	<string id="ui_mm_supersample">
+		<text>Згладжування</text>
+	</string>
+	<string id="ui_mm_switch_torch">
+		<text>Використання ліхтариків НПС</text>
+	</string>
+	<string id="ui_mm_texture_quality">
+		<text>Якість текстур</text>
+	</string>
+	<string id="ui_mm_tips">
+		<text>Розпізнавання НПС</text>
+	</string>
+	<string id="ui_mm_veteran">
+		<text>Виживання</text>
+	</string>
+	<string id="ui_mm_video">
+		<text>Відео</text>
+	</string>
+	<string id="ui_mm_vis_distance">
+		<text>Дальність видимості</text>
+	</string>
+	<string id="ui_mm_vsync">
+		<text>Верт. синхронізація</text>
+	</string>
+	<string id="ui_st_last_set">
+		<text>Попер. набір</text>
+	</string>
+	<string id="ui_st_preset1">
+		<text>Набір 1</text>
+	</string>
+	<string id="ui_st_preset2">
+		<text>Набір 2</text>
+	</string>
+	<string id="ui_st_preset3">
+		<text>Набір 3</text>
+	</string>
+	<string id="ui_st_reset">
+		<text>Очистити</text>
+	</string>
+	<string id="ui_st_sell_all">
+		<text>Продати все</text>
+	</string>
+	<string id="ui_mm_save_level_game"> 
+		<text>Зберегти на рівні</text> 
+    </string>
+
+</string_table>

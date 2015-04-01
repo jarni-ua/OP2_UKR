@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="mp_art_destroyed">
+		<text>Артефакт було знищено</text>
+	</string>
+	<string id="mp_art_spowned">
+		<text>Артефакт породжено. Принесіть його на базу, щоб заробити очко.</text>
+	</string>
+	<string id="mp_artefacts">
+		<text>артефакти</text>
+	</string>
+	<string id="mp_artefacts_upcase">
+		<text>Артефактів</text>
+	</string>
+	<string id="mp_auto_select">
+		<text>Автовибір</text>
+	</string>
+	<string id="mp_back">
+		<text>Назад</text>
+	</string>
+	<string id="mp_ban">
+		<text>Заблокувати</text>
+	</string>
+	<string id="mp_by_anomaly">
+		<text>аномалією</text>
+	</string>
+	<string id="mp_cancel">
+		<text>Відмінити</text>
+	</string>
+	<string id="mp_change_map">
+		<text>Змінити карту</text>
+	</string>
+	<string id="mp_change_weather">
+		<text>Змінити погоду</text>
+	</string>
+	<string id="mp_chat">
+		<text>Чат</text>
+	</string>
+	<string id="mp_connected">
+		<text>приєднався</text>
+	</string>
+	<string id="mp_deaths">
+		<text>смерті</text>
+	</string>
+	<string id="mp_description">
+		<text>Опис</text>
+	</string>
+	<string id="mp_disconnected">
+		<text>Від'єднатися</text>
+	</string>
+	<string id="mp_enter_text">
+		<text>Уведіть текст для голосування</text>
+	</string>
+	<string id="mp_entered_game">
+		<text>увійшов до гри</text>
+	</string>
+	<string id="mp_first_eye">
+		<text>(Від першої особи)</text>
+	</string>
+	<string id="mp_frags">
+		<text>фраги</text>
+	</string>
+	<string id="mp_frags_upcase">
+		<text>Фрагів</text>
+	</string>
+	<string id="mp_free_fly">
+		<text>(Вільний політ)</text>
+	</string>
+	<string id="mp_free_look">
+		<text>(Від третьої особи)</text>
+	</string>
+	<string id="mp_from">
+		<text>від</text>
+	</string>
+	<string id="mp_go">
+		<text>ВПЕРЕД!</text>
+	</string>
+	<string id="mp_has_drop_art">
+		<text>втратив%s артефакт</text>
+	</string>
+	<string id="mp_has_tak_art">
+		<text>узяв%s артефакт</text>
+	</string>
+	<string id="mp_headhuntrs">
+		<text>Найманці</text>
+	</string>
+	<string id="mp_is_now">
+		<text>тепер</text>
+	</string>
+	<string id="mp_joined">
+		<text>приєднався до</text>
+	</string>
+	<string id="mp_kick">
+		<text>Викинути</text>
+	</string>
+	<string id="mp_look_at">
+		<text>(Вільно-прив'язаний)</text>
+	</string>
+	<string id="mp_map_desc">
+		<text>Опис карти</text>
+	</string>
+	<string id="mp_match_started">
+		<text>Розпочався бій!</text>
+	</string>
+	<string id="mp_modes">
+		<text>Режими</text>
+	</string>
+	<string id="mp_name">
+		<text>ім'я</text>
+	</string>
+	<string id="mp_next">
+		<text>Далі</text>
+	</string>
+	<string id="mp_no_voted">
+		<text>Не проголосували</text>
+	</string>
+	<string id="mp_ping">
+		<text>ринг</text>
+	</string>
+	<string id="mp_player_wins">
+		<text>Гравець %s виграв бій!</text>
+	</string>
+	<string id="mp_players">
+		<text>Гравців</text>
+	</string>
+	<string id="mp_press_fire2spectator">
+		<text>Натисніть «Вогонь», щоб перейти до режиму спостереження</text>
+	</string>
+	<string id="mp_press_jump2pay_spaw">
+		<text>Натисніть «Стрибок», щоб купити моментальне народження</text>
+	</string>
+	<string id="mp_press_jump2select_skin">
+		<text>Натисніть «Стрибок», щоб обрати форму</text>
+	</string>
+	<string id="mp_press_jump2select_team">
+		<text>Натисніть «Стрибок», щоб обрати команду</text>
+	</string>
+	<string id="mp_press_jump2spawn">
+		<text>Натисніть «Стрибок», щоб народитися</text>
+	</string>
+	<string id="mp_press_jump2start">
+		<text>Натисніть «Стрибок», щоб стартувати</text>
+	</string>
+	<string id="mp_press_to_buy">
+		<text>Натисніть ($$ACTION_BUY_MENU$$) для доступу до меню покупки</text>
+	</string>
+	<string id="mp_press_yes2pay">
+		<text>Ви маєте %d$. Ви можете купити народження за %d$. Натисніть «Так», щоб заплатити.</text>
+	</string>
+	<string id="mp_ready">
+		<text>Увага...</text>
+	</string>
+	<string id="mp_restart">
+		<text>Рестарт</text>
+	</string>
+	<string id="mp_restart_fast">
+		<text>Швидкий рестарт</text>
+	</string>
+	<string id="mp_scores">
+		<text>заробляють очко</text>
+	</string>
+	<string id="mp_select_ban">
+		<text>Оберіть гравця, для блокування якого призначається голосування</text>
+	</string>
+	<string id="mp_select_category">
+		<text>Оберіть категорію голосування</text>
+	</string>
+	<string id="mp_select_kick">
+		<text>Оберіть гравця, для викидання якого із гри призначається голосування</text>
+	</string>
+	<string id="mp_select_kick_player">
+		<text>Оберіть гравця, для викидання якого із гри призначається голосування</text>
+	</string>
+	<string id="mp_select_map">
+		<text>Оберіть карту для голосування</text>
+	</string>
+	<string id="mp_skin_selection">
+		<text>Обирання форми</text>
+	</string>
+	<string id="mp_spectator">
+		<text>Спостерігач</text>
+	</string>
+	<string id="mp_spectators">
+		<text>СПОСТЕРІГАЧІ</text>
+	</string>
+	<string id="mp_status">
+		<text>статус</text>
+	</string>
+	<string id="mp_switched_to">
+		<text>перейшов до</text>
+	</string>
+	<string id="mp_team_free_stalkers">
+		<text>«Воля»</text>
+	</string>
+	<string id="mp_team_selection">
+		<text>Вибір команди</text>
+	</string>
+	<string id="mp_team_wins">
+		<text>Команда %s ВИГРАЄ!</text>
+	</string>
+	<string id="mp_text">
+		<text>Текст</text>
+	</string>
+	<string id="mp_time2respawn">
+		<text>Час до народження</text>
+	</string>
+	<string id="mp_time2start">
+		<text>Час до старту:</text>
+	</string>
+	<string id="mp_timeleft">
+		<text>Залишилося : %d:%d; «За» : %.2f</text>
+	</string>
+	<string id="mp_vote_no">
+		<text>Проти</text>
+	</string>
+	<string id="mp_vote_yes">
+		<text>За</text>
+	</string>
+	<string id="mp_voted">
+		<text>проголосував</text>
+	</string>
+	<string id="mp_voted_no">
+		<text>«Проти»</text>
+	</string>
+	<string id="mp_voted_yes">
+		<text>«За»</text>
+	</string>
+	<string id="mp_voting_broken">
+		<text>Голосування анульоване сервером!</text>
+	</string>
+	<string id="mp_voting_started">
+		<text>Голосування '%s' було розпочато %s.</text>
+	</string>
+	<string id="mp_voting_started_msg">
+		<text>Голосування розпочато!</text>
+	</string>
+	<string id="mp_weather_clear">
+		<text>Чиста</text>
+	</string>
+	<string id="mp_weather_cloudy">
+		<text>Хмарна</text>
+	</string>
+	<string id="mp_weather_night">
+		<text>Ніч</text>
+	</string>
+	<string id="mp_weather_rain">
+		<text>Дощ</text>
+	</string>
+	<string id="mp_with_backstab">
+		<text>зарізаний!!!</text>
+	</string>
+	<string id="mp_with_headshot">
+		<text>у голову!!!</text>
+	</string>
+	<string id="mp_your_rank">
+		<text>Ваш ранг тепер</text>
+	</string>
+	<string id="ui_st_description">
+		<text>Опис</text>
+	</string>
+	<string id="ui_st_team1_name">
+		<text>«Воля»</text>
+	</string>
+	<string id="ui_st_team2_name">
+		<text>Найманці</text>
+	</string>
+	<string id="af_neutral">
+		<text>Артефакт</text>
+	</string>
+	<string id="self">
+		<text>Мічений</text>
+	</string>
+	<string id="friend">
+		<text>Союзник</text>
+	</string>
+	<string id="team_base_1">
+		<text>База «Волі»</text>
+	</string>
+	<string id="team_base_2">
+		<text>База найманців</text>
+	</string>
+	<string id="mp_si_no">
+		<text>Ні</text>
+	</string>
+	<string id="mp_si_yes">
+		<text>Так</text>
+	</string>
+	<string id="mp_si_min">
+		<text>хв.</text>
+	</string>
+	<string id="mp_si_sec">
+		<text>сек.</text>
+	</string>
+	<string id="mp_si_maprotation">
+		<text>Обертання карти</text>
+	</string>
+	<string id="mp_si_voting">
+		<text>Голосування</text>
+	</string>
+	<string id="mp_si_enabled">
+		<text>Увімк.</text>
+	</string>
+	<string id="mp_si_disabled">
+		<text>Вимк.</text>
+	</string>
+	<string id="mp_si_spectatormodes">
+		<text>Режими спостереження:</text>
+	</string>
+	<string id="mp_si_servername">
+		<text>Ім'я сервера:</text>
+	</string>
+	<string id="mp_si_version">
+		<text>Версія:</text>
+	</string>
+	<string id="mp_si_free_fly">
+		<text>- Вільний політ</text>
+	</string>
+	<string id="mp_si_first_eye">
+		<text>- Від першої особи</text>
+	</string>
+	<string id="mp_si_look_at">
+		<text>- Від третьої особи</text>
+	</string>
+	<string id="mp_si_free_look">
+		<text>- Вільний огляд</text>
+	</string>
+	<string id="mp_si_team_only">
+		<text>- Лише команда</text>
+	</string>
+	<string id="mp_si_fraglimit">
+		<text>Ліміт фрагів</text>
+	</string>
+	<string id="mp_si_time_limit">
+		<text>Ліміт часу</text>
+	</string>
+	<string id="mp_si_invinsibility_indicators">
+		<text>- Індикатори</text>
+	</string>
+	<string id="mp_si_invinsibility_time">
+		<text>- Час</text>
+	</string>
+	<string id="mp_si_invinsibility">
+		<text>Невидимість:</text>
+	</string>
+	<string id="mp_si_anomalies">
+		<text>Аномалії</text>
+	</string>
+	<string id="mp_si_anomalies_period">
+		<text>Період аномалій</text>
+	</string>
+	<string id="mp_si_infinite">
+		<text>Нескінченний</text>
+	</string>
+	<string id="mp_si_forcerespawn">
+		<text>Примусове народ.</text>
+	</string>
+	<string id="mp_si_warmuptime">
+		<text>Розминка</text>
+	</string>
+	<string id="mp_si_autoteam_balance">
+		<text>Авто-баланс команд</text>
+	</string>
+	<string id="mp_si_autoteam_swap">
+		<text>Авто-зміна команд</text>
+	</string>
+	<string id="mp_si_friendly_indicators">
+		<text>Індикатори союзників</text>
+	</string>
+	<string id="mp_si_friendly_names">
+		<text>Імена союзників</text>
+	</string>
+	<string id="mp_si_friendly_fire">
+		<text>Вогонь по союзниках</text>
+	</string>
+	<string id="mp_si_artefacts">
+		<text>Артефакти:</text>
+	</string>
+	<string id="mp_si_afcount">
+		<text>- Кількість</text>
+	</string>
+	<string id="mp_si_afstaytime">
+		<text>- Час</text>
+	</string>
+	<string id="mp_si_afrespawntime">
+		<text>- Поява</text>
+	</string>
+	<string id="mp_si_players_respawn">
+		<text>Народження гравців</text>
+	</string>
+	<string id="mp_si_artefact_captured">
+		<text>Артефакт захоплено</text>
+	</string>
+	<string id="mp_si_any_time">
+		<text>Будь-який час</text>
+	</string>
+	<string id="mp_si_shielded_bases">
+		<text>Захищено бази</text>
+	</string>
+	<string id="mp_si_return_players">
+		<text>Повернення на бази</text>
+	</string>
+	<string id="mp_si_afbearer_cant_sprint">
+		<text>Не бігати з артефактом</text>
+	</string>
+	<string id="mm_mp_battleeye">
+		<text>Battle Eye</text>
+	</string>
+	<string id="mm_si_battleeye">
+		<text>Battle Eye</text>
+	</string>
+	<string id="ui_st_kicked_by_server">
+		<text>Клієнта відключено:</text>
+	</string>
+	<string id="st_mp_only_one_voting">
+		<text>Дозволено лише одне активне голосування</text>
+	</string>
+	<string id="mm_mp_max_ping">
+		<text>Макс. пінг</text>
+	</string>
+	<string id="mp_si_max_ping">
+		<text>Макс. пінг</text>
+	</string>
+</string_table>

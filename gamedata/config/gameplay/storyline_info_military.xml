@@ -1,0 +1,1633 @@
+<article id="mil_actor_main_quest" name = "Military main task" group="Diary">
+	<texture x="50" y="150" width="50" height="50">ui\ui_icons_task</texture>
+    <text>mil_actor_main_quest</text>
+</article>
+
+<article id="mil_crazy_flash_info" name="Crazy stalker flash" group="Diary" article_type="info">
+	<texture x="500" y="150" width="100" height="100">ui\ui_icon_photo</texture>
+    <text>mil_crazy_flash_info</text>
+</article>
+
+<article id="mil_flash_ugrumy" name="Ugrumy flash" group="Diary" article_type="info">
+	<texture x="500" y="150" width="100" height="100">ui\ui_icon_photo</texture>
+    <text>mil_flash_ugrumy_descr</text>
+</article>
+    
+<article id="mil_courier_doc" name="Courier document" group="Diary" article_type="info">
+	<texture x="500" y="150" width="100" height="100">ui\ui_icon_photo</texture>
+    <text>mil_courier_doc_descr</text>
+</article>
+
+<article id="mil_flash_bandit" name="Bandit flash" group="Diary" article_type="info">
+	<texture x="500" y="150" width="100" height="100">ui\ui_icon_photo</texture>
+    <text>mil_flash_bandit_descr</text>
+</article>
+
+<article id="mil_flash_max" name="Max flash" group="Diary" article_type="info">
+	<texture x="500" y="150" width="100" height="100">ui\ui_icon_photo</texture>
+    <text>mil_flash_max_descr</text>
+</article>
+
+<article id="mil_dolg_kill_sniper" name="dolg_kill_sniper" group="Diary" article_type="info">
+	<texture x="500" y="150" width="100" height="100">ui\ui_icon_photo</texture>
+    <text>mil_dolg_kill_sniper_descr</text>
+</article>
+
+<article id="mil_dolg_kill_lukash" name="mil_dolg_kill_lukash" group="Diary" article_type="info">
+	<texture x="500" y="150" width="100" height="100">ui\ui_icon_photo</texture>
+    <text>mil_dolg_kill_lukash_descr</text>
+</article>
+
+<article id="mil_mad_flash_job" name="mil_mad_flash_job" group="Diary" article_type="info">
+	<texture x="500" y="150" width="100" height="100">ui\ui_icon_photo</texture>
+    <text>mil_mad_flash_job_descr</text>
+</article>
+
+<article id="mil_lukash_job_descr" name="mil_lukash_job_descr" group="mil_lukash_job/0" article_type="task">	
+    <text>mil_lukash_job_descr</text>
+</article>
+
+<article id="mil_courier_job_descr" name="mil_courier_job_descr" group="mil_courier_job/0" article_type="task">
+    <text>mil_courier_job_descr</text>
+</article>
+
+<article id="mil_blockpost_job_descr" name="mil_blockpost_job" group="mil_blockpost_job/0" article_type="task">
+    <text>mil_blockpost_job_descr</text>
+</article>
+
+<article id="mil_freedom_rg6_task_descr" name="mil_freedom_rg6_task" group="mil_freedom_rg6_task/0" article_type="task">
+    <text>mil_freedom_rg6_task_descr</text>
+</article>
+
+
+<article id="mil_hunters_task_descr" name="mil_hunters_task_descr" group="Diary" article_type="info">
+	<texture x="500" y="150" width="100" height="100">ui\ui_icon_photo</texture>
+    <text>mil_hunters_task_descr</text>
+</article>
+
+<article id="mil_go_to_miser_descr" name="mil_go_to_miser_descr" group="Diary" article_type="info">
+	<texture x="500" y="150" width="100" height="100">ui\ui_icon_photo</texture>
+    <text>mil_go_to_miser_descr</text>
+</article>
+
+
+<article id="mil_hunters_task_descr2" name="mil_hunters_task_descr" group="Diary" article_type="info">
+	<texture x="500" y="150" width="100" height="100">ui\ui_icon_photo</texture>
+    <text>mil_hunters_task_descr</text>
+</article>
+
+<article id="mil_screw_flamethrower_descr" name = "mil_screw_flamethrower_descr" article_type="task">
+    <text>mil_screw_flamethrower_text</text>
+</article>
+
+<!-- AKILL begin -->
+<article id="povar_crows" name="Добути 20 тушок ворон" article_type="task">
+        <text>povar_crows</text>
+</article>
+<article id="akill_kontr_svalka" name="Розпитати сталкерів на Звалищі" article_type="task">
+        <text>akill_kontr_svalka</text>
+</article>
+<article id="akill_kontr_forest" name="Поговорити з Хрестом" article_type="task">
+        <text>akill_kontr_forest</text>
+</article>
+<article id="akill_kontr_dolina" name="Поговорити з бандитами" article_type="task">
+        <text>akill_kontr_dolina</text>
+</article>
+<article id="akill_kontr_radar" name="Обстежити стежку Радар-Долина" article_type="task">
+        <text>akill_kontr_radar</text>
+</article>
+<article id="akill_kontr_yantar" name="Очистити Янтар від контролерів" article_type="task">
+        <text>akill_kontr_yantar</text>
+</article>
+<article id="akill_kontr_labx16" name="Знайти доктора у Х-16" article_type="task">
+        <text>akill_kontr_labx16</text>
+</article>
+<article id="koloda_kuznec" name="Знайти всі карти колоди і записку-шифр" article_type="task">
+        <text>koloda_kuznec</text>
+</article>
+<article id="koloda_den" name="Вбити величезного кабана з пістолета" article_type="task">
+        <text>koloda_den</text>
+</article>
+<article id="hamster_kuznec1" name="З'ясувати долю сержанта" article_type="task">
+        <text>hamster_kuznec1</text>
+</article>
+<article id="hamster_kuznec2" name="Знайти шолом з тепловізором" article_type="task">
+        <text>hamster_kuznec2</text>
+</article>
+<article id="hamster_kuznec3" name="Знайти Knights SR25 і патрони до неї" article_type="task">
+        <text>hamster_kuznec3</text>
+</article>
+<article id="hamster_kuznec4" name="Знайти рюкзак з радіомаячком" article_type="task">
+        <text>hamster_kuznec4</text>
+</article>
+<article id="hamster_kuznec5" name="Зібрати артефакти для майора" article_type="task">
+        <text>hamster_kuznec5</text>
+</article>
+<article id="hamster_kuznec6" name="Знайти 12 випусків журналу Плейбой" article_type="task">
+        <text>hamster_kuznec6</text>
+</article>
+<article id="hamster_kuznec7" name="Вбити ножем запеклого кровососа" article_type="task">
+        <text>hamster_kuznec7</text>
+</article>
+<article id="hamster_kuznec8" name="Знайти 10 пляшок лікеру Бейліз" article_type="task">
+        <text>hamster_kuznec8</text>
+</article>
+<article id="taynik_kuznec1_1" name="Знайти схованку на Кордоні" article_type="task">
+        <text>taynik_kuznec1_1</text>
+</article>
+<article id="taynik_kuznec1_2" name="Знайти схованку на Кордоні" article_type="task">
+        <text>taynik_kuznec1_2</text>
+</article>
+<article id="taynik_kuznec2" name="Знайти схованку на Кордоні" article_type="task">
+        <text>taynik_kuznec2</text>
+</article>
+<article id="taynik_kuznec3" name="Знайти схованку у Темній Долині" article_type="task">
+        <text>taynik_kuznec3</text>
+</article>
+<article id="taynik_kuznec4" name="Знайти схованку на Агропромі" article_type="task">
+        <text>taynik_kuznec4</text>
+</article>
+<article id="taynik_kuznec5_1" name="Знайти схованку на Агропромі" article_type="task">
+        <text>taynik_kuznec5_1</text>
+</article>
+<article id="taynik_kuznec5_2" name="Знайти схованку на Агропромі" article_type="task">
+        <text>taynik_kuznec5_2</text>
+</article>
+<article id="taynik_kuznec6" name="Знайти схованку на Радарі" article_type="task">
+        <text>taynik_kuznec6</text>
+</article>
+<article id="taynik_kuznec7_1" name="Знайти схованку на Агропромі" article_type="task">
+        <text>taynik_kuznec7_1</text>
+</article>
+<article id="taynik_kuznec7_2" name="Знайти схованку на Агропромі" article_type="task">
+        <text>taynik_kuznec7_2</text>
+</article>
+<article id="taynik_kuznec8" name="Знайти схованку на Радарі" article_type="task">
+        <text>taynik_kuznec8</text>
+</article>
+<article id="taynik_kuznec9" name="Знайти схованку на ЧАЕС-1" article_type="task">
+        <text>taynik_kuznec9</text>
+</article>
+<article id="taynik_kuznec10" name="Знайти схованку у Червоному лісі" article_type="task">
+        <text>taynik_kuznec10</text>
+</article>
+<article id="dolgovazyi_toolkit" name="Знайти інструменти для ремонту" article_type="task">
+        <text>dolgovazyi_toolkit</text>
+</article>
+<article id="plov_to_kulinar" name="Знайти інгредієнти для плову" article_type="task">
+        <text>plov_to_kulinar</text>
+</article>
+<article id="dolgovazyi_voen2" name="Поговорити з Пличко" article_type="task">
+        <text>dolgovazyi_voen2</text>
+</article>
+<article id="dolgovazyi_anomal" name="Знайти необхідні зразки зброї" article_type="task">
+        <text>dolgovazyi_anomal</text>
+</article>
+<article id="ohota_psevdodogs" name="Знищити зграю псевдособак" article_type="task">
+        <text>ohota_psevdodogs</text>
+</article>
+<article id="vasily_chertez" name="Знайти будь-які креслення Зброяра" article_type="task">
+        <text>vasily_chertez</text>
+</article>
+<article id="adres_chertez" name="Роздобути кисть чорного Бібліотекаря" article_type="task">
+        <text>adres_chertez</text>
+</article>
+<article id="mines_dyak" name="Знайти протипіхотні міни" article_type="task">
+        <text>mines_dyak</text>
+</article>
+<article id="ammo_sidor" name="Викрасти детонатори з військової бази" article_type="task">
+        <text>ammo_sidor</text>
+</article>
+<article id="vasily_toolkit" name="Знайти необхідні інструменти" article_type="task">
+        <text>vasily_toolkit</text>
+</article>
+<article id="night_ohota" name="Роздобути ПНБ Цифровий для полювання" article_type="task">
+        <text>night_ohota</text>
+</article>
+<article id="docent_detail" name="Знайти радіодеталі у Зоні" article_type="task">
+        <text>docent_detail</text>
+</article>
+<article id="saharov_obrazec" name="Роздобути зразки тканини Карлика" article_type="task">
+        <text>saharov_obrazec</text>
+</article>
+<article id="sviblov_ugroza" name="Дізнатися про плани військових" article_type="task">
+        <text>sviblov_ugroza</text>
+</article>
+<article id="new_prototip" name="Знайти прототип армійського бронекостюма" article_type="task">
+        <text>new_prototip</text>
+</article>
+<article id="adrenalin_oborona" name="Допомогти сталкерам утримати комплекс" article_type="task">
+        <text>adrenalin_oborona</text>
+</article>
+<article id="marsh_blokpost" name="Знищити військовий блокпост на Болотах" article_type="task">
+        <text>marsh_blokpost</text>
+</article>
+<article id="marsh_razvedchik" name="Знайти і ліквідувати розвідника" article_type="task">
+		<texture x="0" y="0" width="512" height="386">snp\marsh_razvedchik</texture>
+        <text>marsh_razvedchik</text>
+</article>
+<article id="new_gravikostum" name="Знайти шість артефактів Перо" article_type="task">
+        <text>new_gravikostum</text>
+</article>
+<article id="new_radios" name="Роздобути нові рації" article_type="task">
+        <text>new_radios</text>
+</article>
+<article id="weapons_kalinin" name="Зібрати зброю, обвіси і патрони" article_type="task">
+        <text>weapons_kalinin</text>
+</article>
+<article id="kalinin_voen1" name="НЗнайти прилади нічного бачення" article_type="task">
+        <text>kalinin_voen1</text>
+</article>
+<article id="sherstuk_ammo" name="Знайти схованку на Дикій Території" article_type="task">
+        <text>sherstuk_ammo</text>
+</article>
+<article id="taynik_bandit_td" name="Знайти схованку бандита" article_type="task">
+        <text>taynik_bandit_td</text>
+</article>
+<article id="ohota_gigant" name="Очистити місцевість від псевдогігантів" article_type="task">
+        <text>ohota_gigant</text>
+</article>
+<article id="souls_house" name="Дочекатися ночі у селі кровососів" article_type="task">
+        <text>souls_house</text>
+</article>
+<article id="krest_zapas" name="Знайти Плоть, котра з'їла запальничку" article_type="task">
+        <text>krest_zapas</text>
+</article>
+<article id="zahar_knifes" name="Зібрати ножі для колекції" article_type="task">
+        <text>zahar_knifes</text>
+</article>
+<article id="taynik_zahar_zb" name="Знайти схованку Захара" article_type="task">
+        <text>taynik_zahar_zb</text>
+</article>
+<article id="ohota_burer" name="Знищити бюрерів у Х-10" article_type="task">
+        <text>ohota_burer</text>
+</article>
+<article id="lukash_counter" name="Зібрати жетони монолитовцев" article_type="task">
+        <text>lukash_counter</text>
+</article>
+<article id="dragunov_ohota" name="Знайти рідкісні артефакти зі списку" article_type="task">
+        <text>dragunov_ohota</text>
+</article>
+<article id="dragunov_aks" name="Знайти іменний АКС-74 Кобра" article_type="task">
+        <text>dragunov_aks</text>
+</article>
+<article id="fotograf_pobeg" name="Зібрати гроші і артефакти" article_type="task">
+        <text>fotograf_pobeg</text>
+</article>
+<article id="taynik_fotograf_as" name="Знайти схованку Фотографа" article_type="task">
+        <text>taynik_fotograf_as</text>
+</article>
+<article id="kuznec_dogovor" name="Знайти зброю часів ВВВ" article_type="task">
+        <text>kuznec_dogovor</text>
+</article>
+<article id="fotograf_fotik" name="Знайти рюкзак з фотіком" article_type="task">
+        <text>fotograf_fotik</text>
+</article>
+<article id="fotograf_detector" name="Знайти детектор і дозиметр" article_type="task">
+        <text>fotograf_detector</text>
+</article>
+<article id="otshelnik_prosba" name="Зібрати необхідні ремнабори" article_type="task">
+        <text>otshelnik_prosba</text>
+</article>
+<article id="klad_labirint" name="Знайти скарб у Лабіринті" article_type="task">
+        <text>klad_labirint</text>
+</article>
+<article id="klad_op" name="Знайти скарб у Вогняній печері" article_type="task">
+        <text>klad_op</text>
+</article>
+<article id="privet_leshyi" name="Дізнатися місцезнаходження Лісовика" article_type="task">
+        <text>privet_leshyi</text>
+</article>
+<article id="docent_art" name="Знайти модуль-дешифратор" article_type="task">
+        <text>docent_art</text>
+</article>
+<article id="survival_quest" name="Вижити за всяку ціну" article_type="task">
+        <text>survival_quest</text>
+</article>
+<article id="taynik_leshyi" name="Знайти схованку Лісовика" article_type="task">
+        <text>taynik_leshyi</text>
+</article>
+<article id="drug_food" name="Завалити жирну Плоть" article_type="task">
+        <text>drug_food</text>
+</article>
+<article id="izdelie_gp" name="Знайти іншу інформацію про прототип" article_type="task">
+        <text>izdelie_gp</text>
+</article>
+<article id="new_gp" name="Знайти необхідні комплектуючі" article_type="task">
+        <text>new_gp</text>
+</article>
+<article id="unknown_gp" name="Знайти прототип Гаусс-пістолета" article_type="task">
+        <text>unknown_gp</text>
+</article>
+<article id="taynik_dimak" name="Знайти схованку Дімака" article_type="task">
+        <text>taynik_dimak</text>
+</article>
+<article id="taynik_virus" name="Знайти схованку Віруса" article_type="task">
+        <text>taynik_virus</text>
+</article>
+<article id="haker_soft" name="Знайти будь-який хакерський софт" article_type="task">
+        <text>haker_soft</text>
+</article>
+<article id="taynik_phantom" name="Знайти схованку Фантома" article_type="task">
+        <text>taynik_phantom</text>
+</article>
+<article id="sledopyt_sled" name="Знайти Слідопита" article_type="task">
+        <text>sledopyt_sled</text>
+</article>
+<article id="poisk_partizan" name="Знайти Партизана у Х-18" article_type="task">
+        <text>poisk_partizan</text>
+</article>
+<article id="izumrud_electra" name="Знайти Смарагдовий Спалах" article_type="task">
+        <text>izumrud_electra</text>
+</article>
+<article id="taynik_akill" name="Знайти схованку Акілла" article_type="task">
+        <text>taynik_akill</text>
+</article>
+<article id="izumrud_recept" name="Знайти артефакти для варіння" article_type="task">
+        <text>izumrud_recept</text>
+</article>
+<article id="akill_vision" name="Роздобути нічний приціл ПОСП 3-9х42В" article_type="task">
+        <text>akill_vision</text>
+</article>
+<article id="mercenary_dogovor" name="Зустрітися з командиром найманців" article_type="task">
+        <text>mercenary_dogovor</text>
+</article>
+<article id="mercenary_zapadny" name="Знищити загін найманців" article_type="task">
+        <text>mercenary_zapadny</text>
+</article>
+<article id="knife_akill" name="Знайти ніж Акілла" article_type="task">
+        <text>knife_akill</text>
+</article>
+<article id="ohota_sniper" name="Знайти і вбити снайпера найманців" article_type="task">
+        <text>ohota_sniper</text>
+</article>
+<article id="keis_oruzeinik" name="Знайти кейс зі зброєю і ключі" article_type="task">
+        <text>keis_oruzeinik</text>
+</article>
+<article id="ohota_wolf" name="Знищити лігво перевертнів" article_type="task">
+        <text>ohota_wolf</text>
+</article>
+<article id="taynik_oruzeinik" name="Знайти схованку Зброяра" article_type="task">
+        <text>taynik_oruzeinik</text>
+</article>
+<article id="dolg_peremirie" name="Домовитися з Лукашом" article_type="task">
+        <text>dolg_peremirie</text>
+</article>
+<article id="svoboda_peremirie" name="Знайти злодія і вкрадену гвинтівку" article_type="task">
+        <text>svoboda_peremirie</text>
+</article>
+<article id="taynik_sosnodub" name="Знайти схованку на Затоні" article_type="task">
+        <text>taynik_sosnodub</text>
+</article>
+<article id="ohota_himera" name="Очистити стадіон від химер" article_type="task">
+        <text>ohota_himera</text>
+</article>
+<article id="taynik_gila" name="Принести Жилі приціл ПУ і артефакт" article_type="task">
+        <text>taynik_gila</text>
+</article>
+<article id="taynik_bandit_x18" name="Знайти схованку бандита у Х-18" article_type="task">
+        <text>taynik_bandit_x18</text>
+</article>
+<article id="grom_poison" name="Знайти необхідні інгредієнти" article_type="task">
+        <text>grom_poison</text>
+</article>
+<article id="chertez_zagadka" name="Розгадати загадку" article_type="task">
+        <text>chertez_zagadka</text>
+</article>
+<article id="pda_zagadka" name="Дізнатися, що означають цифри" article_type="task">
+        <text>pda_zagadka</text>
+</article>
+<article id="sviblov_hostel" name="Забрати всі сканери аномалій" article_type="task">
+        <text>sviblov_hostel</text>
+</article>
+<article id="voron_eyes" name="Знайти 6 артефактів Око ворона" article_type="task">
+        <text>voron_eyes</text>
+</article>
+<article id="borov_reid" name="Відбити атаку бандитів і вбити Барона" article_type="task">
+        <text>borov_reid</text>
+</article>
+<article id="angar_oborona" name="Попросити допомоги у Долгу" article_type="task">
+        <text>angar_oborona</text>
+</article>
+<article id="binocle_kep" name="Знайти бінокль Кепа" article_type="task">
+        <text>binocle_kep</text>
+</article>
+<article id="find_chip" name="Знайти всі дивні чіпи" article_type="task">
+        <text>find_chip</text>
+</article>
+<article id="fantoms_pda" name="Відновити дані на КПК" article_type="task">
+        <text>fantoms_pda</text>
+</article>
+<article id="arny_kogot" name="З'ясувати долю Кігтя" article_type="task">
+        <text>arny_kogot</text>
+</article>
+<article id="mera_kogot" name="Поговорити з Акіллом" article_type="task">
+        <text>mera_kogot</text>
+</article>
+<article id="taynik_dragunov" name="Знайти ретранслятор" article_type="task">
+        <text>taynik_dragunov</text>
+</article>
+<article article_type="journal" group="Found_PDA" id="pda_drag" name="pda_dragunov">
+    <text>pda_dragunov_descr</text>
+</article>
+<article id="taynik_cube" name="Знайти приймальний пристрій" article_type="task">
+        <text>taynik_cube</text>
+</article>
+<article id="ohota_biblik" name="Очистити місцевість від Бібліотекарів" article_type="task">
+        <text>ohota_biblik</text>
+</article>
+<article id="sklad_barrel" name="Знищити військовий конвой" article_type="task">
+		<texture x="0" y="0" width="512" height="350">snp\bochki</texture>
+        <text>sklad_barrel</text>
+</article>
+<article id="noi_dovod" name="Перевірити Лісопилку" article_type="task">
+        <text>noi_dovod</text>
+</article>
+<article id="noi_pripas" name="Зібрати необхідні речі" article_type="task">
+        <text>noi_pripas</text>
+</article>
+<article id="volna_union" name="Заручитися підтримкою Чистого Неба" article_type="task">
+        <text>volna_union</text>
+</article>
+<article id="ohota_suker" name="Знайти балони з отруйним газом" article_type="task">
+        <text>ohota_suker</text>
+</article>
+<article id="move_detector" name="Встановити детектор руху" article_type="task">
+        <text>move_detector</text>
+</article>
+<article id="dimak_toolkit" name="Знайти армійські інструменти ОРК-42" article_type="task">
+        <text>dimak_toolkit</text>
+</article>
+<article id="living_dead" name="Допомогти групі Назара відбитися від зомбі" article_type="task">
+        <text>living_dead</text>
+</article>
+<article id="anomaly_grenade" name="Знайти схему створення аномальних гранат" article_type="task">
+        <text>anomaly_grenade</text>
+</article>
+<article id="volna_bpla" name="Забрати жорсткий диск з безпілотника" article_type="task">
+        <text>volna_bpla</text>
+</article>
+<article id="volna_kogot" name="Знайти пляшечки зі снодійним у Х-8" article_type="task">
+        <text>volna_kogot</text>
+</article>
+<article id="volna_darkness" name="Знайти кейси найманців у Шляхопроводі" article_type="task">
+        <text>volna_darkness</text>
+</article>
+<article id="volna_reid" name="Відбити атаку десанту на базу Чистого Неба" article_type="task">
+        <text>volna_reid</text>
+</article>
+<article id="volna_voronin" name="Наздогнати сталкерів які напали на Долг" article_type="task">
+        <text>volna_voronin</text>
+</article>
+<article id="volna_diversya" name="Знайти всі місця з закладеною вибухівкоюй" article_type="task">
+        <text>volna_diversya</text>
+</article>
+<article id="skryga_taina" name="Знайти схованку Новікова у Х-8" article_type="task">
+        <text>skryga_taina</text>
+</article>
+<article id="volna_plen" name="Знайти доктора Новікова на Затоні" article_type="task">
+        <text>volna_plen</text>
+</article>
+<article id="saper_code" name="Знешкодити міну за кілька хвилин" article_type="task">
+        <text>saper_code</text>
+</article>
+<article id="volna_barmen" name="Розпитати сталкерів у Барі" article_type="task">
+        <text>volna_barmen</text>
+</article>
+<article id="volna_foto" name="Зробити знімки Гаусс-установки" article_type="task">
+        <text>volna_foto</text>
+</article>
+<article id="volna_zahar" name="Дістатися до Червоного лісу" article_type="task">
+        <text>volna_zahar</text>
+</article>
+<article id="volna_sak" name="Знайти артефакт Чорнобильський Їжак" article_type="task">
+        <text>volna_sak</text>
+</article>
+<article id="max_gunsight" name="Знайти два ЛЦВ у Саркофагу" article_type="task">
+        <text>max_gunsight</text>
+</article>
+<article id="viking_proverka" name="Допомогти Вікінгу пройти випробування" article_type="task">
+        <text>viking_proverka</text>
+</article>
+<article id="shurup_shron" name="Знайти схрон Волі і наповнити його припасами" article_type="task">
+        <text>shurup_shron</text>
+</article>
+<article id="taynik_golem" name="Знайти схованку Голема на бойовій арені" article_type="task">
+        <text>taynik_golem</text>
+</article>
+<article id="borov_bottle" name="Зайняти позицію на цистернах" article_type="task">
+        <text>borov_bottle</text>
+</article>
+<article id="kalinin_diversya" name="Дістати у Кулінара палену горілку" article_type="task">
+        <text>kalinin_diversya</text>
+</article>
+<article id="ohota_tushkan" name="Прибути опівночі на Агропром" article_type="task">
+        <text>ohota_tushkan</text>
+</article>
+<article id="find_mina" name="Розміновувати територію на ЧАЕС-1" article_type="task">
+        <text>find_mina</text>
+</article>
+<article id="volna_day1" name="Відобразити першу хвилю мутантів" article_type="task">
+        <text>volna_day1</text>
+</article>
+<article id="volna_day2" name="Відобразити другу хвилю мутантів" article_type="task">
+        <text>volna_day2</text>
+</article>
+<article id="shturm_station" name="Зустрітися із загоном Фенікса" article_type="task">
+        <text>shturm_station</text>
+</article>
+<article id="volna_day3" name="Відбити третю хвилю мутантів" article_type="task">
+        <text>volna_day3</text>
+</article>
+<article id="volna_day4" name="Обороняти позицію біля портових кранів" article_type="task">
+        <text>volna_day4</text>
+</article>
+<article id="taynik_noi" name="Знайти схованку Ноя" article_type="task">
+        <text>taynik_noi</text>
+</article>
+<article id="tolik_robbed" name="Знайти штани на елеваторі" article_type="task">
+        <text>tolik_robbed</text>
+</article>
+<article id="strike_back" name="Прибути в умовлене місце і зайняти позицію" article_type="task">
+        <text>strike_back</text>
+</article>
+<article id="foto_ohota" name="Зробити знімки мутантів" article_type="task">
+		<texture x="0" y="0" width="495" height="2376">ui\ui_foto_mutant</texture>
+        <text>foto_ohota</text>
+</article>
+<article id="foto_anomaly" name="Зробити знімки аномалій" article_type="task">
+        <text>foto_anomaly</text>
+</article>
+<article id="ohota_kogot" name="Знищити Туманних Кігтів" article_type="task">
+        <text>ohota_kogot</text>
+</article>
+<article id="ugon_baggi" name="Перегнати баггі з Боліт на Кордон" article_type="task">
+        <text>ugon_baggi</text>
+</article>
+<article id="kalmyak_lekar_text" name="Знайти потрібні інгредієнти" article_type="task">
+        <text>kalmyak_lekar_text</text>
+</article>
+<article id="silent_hunt" name="Зробити знімки мутантів" article_type="task">
+        <text>silent_hunt</text>
+</article>
+<article id="volna_petrenko" name="Знайти стару ікону" article_type="task">
+        <text>volna_petrenko</text>
+</article>
+<article id="chertez_podarok" name="Знайти схованку на Затоні" article_type="task">
+        <text>chertez_podarok</text>
+</article>
+<article id="ziklop_mashinka" name="Знайти друкарську машинку" article_type="task">
+        <text>ziklop_mashinka</text>
+</article>
+<article id="dimak_video" name="Знайти відеомагнітофон у Лиманську" article_type="task">
+        <text>dimak_video</text>
+</article>
+<article id="kontrik_vodka" name="Зібрати горілку і покласти її у схованку контролера" article_type="task">
+        <text>kontrik_vodka</text>
+</article>
+<article id="kill_predator" name="Знайти і вбити невідому тварь" article_type="task">
+        <text>kill_predator</text>
+</article>
+<article id="akim_journal" name="Поцупити журнал з військової бази" article_type="task">
+        <text>akim_journal</text>
+</article>
+<article id="nazar_spider" name="Знищити лігвище павуків" article_type="task">
+        <text>nazar_spider</text>
+</article>
+<article id="ohota_vypolzen" name="Добратися до шахти" article_type="task">
+        <text>ohota_vypolzen</text>
+</article>
+<article id="adrenalin_obves" name="Знайти кур'єрів і схованку" article_type="task">
+        <text>adrenalin_obves</text>
+</article>
+<article id="prapor_jaw" name="Роздобути багнет до MKb.42Н" article_type="task">
+		<texture x="2400" y="1600" width="100" height="50">ui\ui_icon_equipment</texture>
+        <text>prapor_jaw</text>
+</article>
+<article id="nazar_orden" name="Вбити фашистського генерала і забрати у нього орден" article_type="task">
+        <text>nazar_orden</text>
+</article>
+<article id="cat_kulon" name="Знайти і впіймати кішку, яка поцупила кулон" article_type="task">
+        <text>cat_kulon</text>
+</article>
+<article id="kontrik_electro" name="Причепити маячки на електро-контролерів" article_type="task">
+        <text>kontrik_electro</text>
+</article>
+<article id="kalinin_dog" name="Знайти і погодувати собаку" article_type="task">
+        <text>kalinin_dog</text>
+</article>
+<article id="messer_kaban" name="Знайти кривдник Мессера і надавати йому пендалів" article_type="task">
+        <text>messer_kaban</text>
+</article>
+<article id="docent_chimera" name="Зарядити акумулятори за допомогою електрохимери" article_type="task">
+        <text>docent_chimera</text>
+</article>
+<article id="night_watch" name="Перевірити комплекс із лабораторією" article_type="task">
+        <text>night_watch</text>
+</article>
+<article id="defend_hospital" name="Зайняти позицію на вишці баржи" article_type="task">
+        <text>defend_hospital</text>
+</article>
+<article id="max_camouflage" name="Роздобути вісім маскхалатів" article_type="task">
+		<texture x="3550" y="350" width="100" height="150">ui\ui_icon_equipment</texture>
+        <text>max_camouflage</text>
+</article>
+<article id="krest_boar" name="Відшукати поросятко яке загубилося" article_type="task">
+        <text>krest_boar</text>
+</article>
+<article id="electro_burer" name="Знищити фантомів" article_type="task">
+        <text>electro_burer</text>
+</article>
+<article id="buusty_gigant" name="Знайти псевдогіганта і прикріпити до нього вибухівку" article_type="task">
+        <text>buusty_gigant</text>
+</article>
+<article id="kalinin_box" name="Зібрати всі ящики з боєприпасами" article_type="task">
+        <text>kalinin_box</text>
+</article>
+<!-- AKILL end -->
+
+<article id="zonedocs" name="Принести всі частини документів Вороніну" article_type="task">
+        <text>zonedocs_desc</text>
+</article>
+<article id="voronin_docs1_end" name="Поговорити з Вороніним" article_type="task">
+        <text>voronin_docs1_end_desc</text>
+</article>
+
+<article id="kostya_biznes1" name="Принести булижники Кості" article_type="task">
+        <text>kostya_biznes_1</text>
+</article>
+<article id="sidor_biznes1" name="Принести всі частини монстрів Сидоровичу" article_type="task">
+        <text>sidor_biznes_1</text>
+</article>
+<article id="sidor_biznes2" name="Принести замовлення колекціонеру" article_type="task">
+        <text>sidor_biznes_2</text>
+</article>
+<article id="sidor_biznes3" name="Принести артефакти для вчених" article_type="task">
+        <text>sidor_biznes_3</text>
+</article>
+<article id="sidor_biznes4" name="Принести зброю Сидоровичу" article_type="task">
+        <text>sidor_biznes_4</text>
+</article>
+<article id="sidor_biznes5" name="Принести екзоскелети Сидоровичу" article_type="task">
+        <text>sidor_biznes_5</text>
+</article>
+<article id="sidor_biznes6" name="Зібрати замовлення від арбалетного клубу" article_type="task">
+        <text>sidor_biznes_6</text>
+</article>
+<article id="sidor_biznes7" name="Принести замовлення для ресторану" article_type="task">
+        <text>sidor_biznes_7</text>
+</article>
+<article id="kuznetsov_biznes1" name="Принести зброю Кузнєцову" article_type="task">
+        <text>kuznetsov_biznes_1</text>
+</article>
+<article id="adrenalin_biznes1" name="Принести зброю, патрони і рюкзаки з замками Адреналіну" article_type="task">
+        <text>adrenalin_biznes_1</text>
+</article>
+<article id="zahar_biznes1" name="Принести зброю і патрони Захару" article_type="task">
+        <text>zahar_biznes_1</text>
+</article>
+<article id="barman_biznes1" name="Принести горілку і сигарети Бармену" article_type="task">
+        <text>barman_biznes_1</text>
+</article>
+<article id="kruglov_biznes1" name="Виручити Круглова" article_type="task">
+        <text>kruglov_biznes_1</text>
+</article>
+<article id="yakut_biznes1" name="Допомогти Якуту" article_type="task">
+        <text>yakut_biznes_1</text>
+</article>
+<article id="voron_biznes1" name="Екіпірувати загін Кулінара" article_type="task">
+        <text>voron_biznes_1</text>
+</article>
+<article id="lukash_biznes1" name="Принести замовлення Лукашу" article_type="task">
+        <text>lukash_biznes_1</text>
+</article>
+<article id="sakharov_biznes1" name="Принести замовлення Сахарову" article_type="task">
+        <text>sakharov_biznes_1</text>
+</article>
+<article id="sak_biznes1" name="Принести артефакти Сяку" article_type="task">
+        <text>sak_biznes_1</text>
+</article>
+<article id="skraga_biznes1" name="Зібрати гроші для Скнари" article_type="task">
+        <text>skraga_biznes_1</text>
+</article>
+<article id="doktor_biznes1" name="Принести медикаменти Доктору" article_type="task">
+        <text>doktor_biznes_1</text>
+</article>
+<article id="borov_biznes1" name="Принести замовлення Кабану" article_type="task">
+        <text>borov_biznes_1</text>
+</article>
+
+<article id="doktor_lekar1" name="Вилікувати багато людей" article_type="task">
+        <text>doktor_lekar_1</text>
+</article>
+
+<article id="strelok_taynik_pda0" name="Знайти артефакти Стрільця" article_type="task">
+        <text>strelok_taynik_pda0</text>
+</article>
+<article id="strelok_taynik_pda1" name="Знайти схованку Стрільця" article_type="task">
+        <text>strelok_taynik_pda1</text>
+</article>
+<article id="strelok_taynik_pda2" name="Знайти схованкуи Стрільця" article_type="task">
+        <text>strelok_taynik_pda2</text>
+</article>
+<article id="strelok_taynik_pda30" name="Знайти схованку Стрільця" article_type="task">
+        <text>strelok_taynik_pda30</text>
+</article>
+<article id="strelok_taynik_pda3" name="Знайти схованку Стрільця" article_type="task">
+        <text>strelok_taynik_pda3</text>
+</article>
+<article id="strelok_taynik_pda4" name="Знайти схованку Стрільця" article_type="task">
+        <text>strelok_taynik_pda4</text>
+</article>
+<article id="strelok_taynik_pda5" name="Знайти схованку Стрільця" article_type="task">
+        <text>strelok_taynik_pda5</text>
+</article>
+<article id="strelok_taynik_pda6" name="Знайти схованку Стрільця" article_type="task">
+        <text>strelok_taynik_pda6</text>
+</article>
+<article id="strelok_taynik_pda7" name="Знайти останню схованку Стрільця" article_type="task">
+        <text>strelok_taynik_pda7</text>
+</article>
+<article article_type="journal" group="Found_PDA" id="stdt1" name="stdtname1">
+    <text>
+        stdttext1
+    </text>
+</article>
+
+<article id="kostya_taynik_pda1" name="Знайти записи Альпініста" article_type="task">
+        <text>kostya_taynik_pda1</text>
+</article>
+<article id="kostya_taynik_pda2_1" name="Знайти схованку Старого Жила" article_type="task">
+        <text>kostya_taynik_pda2__1</text>
+</article>
+<article id="kostya_taynik_pda2_2" name="Знайти схованку Старого Жила" article_type="task">
+        <text>kostya_taynik_pda2__2</text>
+</article>
+<article id="kostya_taynik_pda2_3" name="Знайти схованку Старого Жила" article_type="task">
+        <text>kostya_taynik_pda2__3</text>
+</article>
+<article id="kostya_taynik_pda21" name="Знайти всі частини карти" article_type="task">
+        <text>kostya_taynik_pda21</text>
+</article>
+<article id="kostya_taynik_pda3_1" name="Знайти схованки Старого Жила" article_type="task">
+        <text>kostya_taynik_pda3__1</text>
+</article>
+<article id="kostya_taynik_pda3_2" name="Знайти схованки Старого Жила" article_type="task">
+        <text>kostya_taynik_pda3__2</text>
+</article>
+<article id="kostya_taynik_pda3_3" name="Знайти схованки Старого Жила" article_type="task">
+        <text>kostya_taynik_pda3__3</text>
+</article>
+<article id="kostya_taynik_pda4" name="Знайти схованку Старого Жила" article_type="task">
+        <text>kostya_taynik_pda4</text>
+</article>
+<article id="kostya_taynik_pda5" name="Знайти схованку Старого Жила" article_type="task">
+        <text>kostya_taynik_pda5</text>
+</article>
+<article id="kostya_taynik_pda6_1" name="Знайти схованки Старого Жила" article_type="task">
+        <text>kostya_taynik_pda6__1</text>
+</article>
+<article id="kostya_taynik_pda6_2" name="Знайти схованки Старого Жила" article_type="task">
+        <text>kostya_taynik_pda6__2</text>
+</article>
+<article id="kostya_taynik_pda6_3" name="Знайти схованки Старого Жила" article_type="task">
+        <text>kostya_taynik_pda6__3</text>
+</article>
+<article id="kostya_taynik_pda6_4" name="Знайти схованки Старого Жила" article_type="task">
+        <text>kostya_taynik_pda6__4</text>
+</article>
+<article id="kostya_taynik_pda7" name="Знайти схованку Старого Жила" article_type="task">
+        <text>kostya_taynik_pda7</text>
+</article>
+<article id="kostya_taynik_pda8" name="Знайти схованку Старого Жила" article_type="task">
+        <text>kostya_taynik_pda8</text>
+</article>
+<article id="kostya_taynik_pda9" name="Знайти 3 схованки Старого Жила" article_type="task">
+        <text>kostya_taynik_pda9</text>
+</article>
+<article id="kostya_taynik_pda10" name="Знайти 4 схованки Старого Жила" article_type="task">
+        <text>kostya_taynik_pda10</text>
+</article>
+<article id="kostya_taynik_pda11" name="Знайти 3 схованки Старого Жила у Прип'яті" article_type="task">
+        <text>kostya_taynik_pda11</text>
+</article>
+<article article_type="journal" group="Found_PDA" id="ktdt1" name="ktdtname1">
+    <text>
+        ktdttext1
+    </text>
+</article>
+<article article_type="journal" group="Found_PDA" id="ktdt2" name="ktdtname2">
+    <text>
+        ktdttext2
+    </text>
+</article>
+<article article_type="journal" group="Found_PDA" id="ktdt3" name="ktdtname3">
+    <text>
+        ktdttext3
+    </text>
+</article>
+
+<article id="esc_kostya_taynik1" name="Знайти схованку" article_type="task">
+        <text>esc_kostya_taynik1</text>
+</article>
+
+<article id="esc_kostya_taynik2" name="Знайти схованку" article_type="task">
+        <text>esc_kostya_taynik2</text>
+</article>
+
+<article id="esc_kostya_taynik3" name="Знайти схованку" article_type="task">
+        <text>esc_kostya_taynik3</text>
+</article>
+
+<article id="kostya_kordon_art" name="Знайти артефакт золота рибка" article_type="task">
+        <text>kostya_kordon_art</text>		
+</article>		
+		
+<article id="kostya_svalka_taynik1" name="Знайти схованку на Звалищі" article_type="task">
+        <text>kostya_svalka_taynik1</text>		
+</article>
+
+<article id="kostya_svalka_taynik2" name="Знайти схованку на Звалищі" article_type="task">
+        <text>kostya_svalka_taynik2</text>		
+</article>
+
+<article id="kostya_svalka_taynik3" name="Знайти схованку на Звалищі" article_type="task">
+        <text>kostya_svalka_taynik3</text>		
+</article>
+
+<article id="kostya_svalka_taynik4" name="Знайти схованку на Звалищі" article_type="task">
+        <text>kostya_svalka_taynik4</text>		
+</article>
+
+<article id="kostya_svalka_taynik5" name="Знайти схованку на Звалищі" article_type="task">
+        <text>kostya_svalka_taynik5</text>		
+</article>
+
+<article id="kostya_x18_taynik1" name="Знайти схованку в лабораторії Х-18" article_type="task">
+        <text>kostya_x18_taynik1</text>		
+</article>
+
+<article id="kostya_x18_taynik2" name="Знайти схованку в лабораторії Х-18" article_type="task">
+        <text>kostya_x18_taynik2</text>		
+</article>
+
+<article id="kostya_x18_taynik3" name="Знайти схованку в лабораторії Х-18" article_type="task">
+        <text>kostya_x18_taynik3</text>		
+</article>
+
+<article id="kostya_agroprom_taynik1" name="Знайти схованку на Агропромі" article_type="task">
+        <text>kostya_agroprom_taynik1</text>		
+</article>
+
+<article id="kostya_agroprom_taynik2" name="Знайти схованку на Агропромі" article_type="task">
+        <text>kostya_agroprom_taynik2</text>		
+</article>
+
+<article id="kostya_agroprom_taynik3" name="Знайти схованку на Агропромі" article_type="task">
+        <text>kostya_agroprom_taynik3</text>		
+</article>
+
+<article id="kostya_agroprom_taynik4" name="Знайти схованку на Агропромі" article_type="task">
+        <text>kostya_agroprom_taynik4</text>		
+</article>
+
+<article id="kostya_agroprom_taynik5" name="Знайти схованку на Агропромі" article_type="task">
+        <text>kostya_agroprom_taynik5</text>		
+</article>
+
+<article id="kostya_agroprom_taynik6" name="Знайти схованку на Агропромі" article_type="task">
+        <text>kostya_agroprom_taynik6</text>		
+</article>
+
+<article id="kostya_yantar_taynik1" name="Знайти схованку на Янтарі" article_type="task">
+        <text>kostya_yantar_taynik1</text>		
+</article>
+
+<article id="kostya_yantar_taynik2" name="Знайти схованку на Янтарі" article_type="task">
+        <text>kostya_yantar_taynik2</text>		
+</article>
+
+<article id="kostya_yantar_taynik3" name="Знайти схованку на Янтарі" article_type="task">
+        <text>kostya_yantar_taynik3</text>		
+</article>
+
+<article id="kostya_yantar_taynik4" name="Знайти схованку на Янтарі" article_type="task">
+        <text>kostya_yantar_taynik4</text>		
+</article>
+
+<article id="kostya_yantar_taynik5" name="Знайти схованку на Янтарі" article_type="task">
+        <text>kostya_yantar_taynik5</text>		
+</article>
+
+<article id="kostya_yantar_taynik6" name="Знайти схованку на Янтарі" article_type="task">
+        <text>kostya_yantar_taynik6</text>		
+</article>
+
+<article id="kostya_as_taynik1" name="Знайти схованку Армійських Складах" article_type="task">
+        <text>kostya_as_taynik1</text>		
+</article>
+
+<article id="kostya_as_taynik2" name="Знайти схованку Армійських Складах" article_type="task">
+        <text>kostya_as_taynik2</text>		
+</article>
+
+<article id="kostya_as_taynik3" name="Знайти схованку Армійських Складах" article_type="task">
+        <text>kostya_as_taynik3</text>		
+</article>
+
+<article id="kostya_as_taynik4" name="Знайти схованку Армійських Складах" article_type="task">
+        <text>kostya_as_taynik4</text>		
+</article>
+
+<article id="kostya_as_taynik5" name="Знайти схованку Армійських Складах" article_type="task">
+        <text>kostya_as_taynik5</text>		
+</article>
+
+<article id="kostya_as_taynik6" name="Знайти схованку Армійських Складах" article_type="task">
+        <text>kostya_as_taynik6</text>		
+</article>
+
+<article id="kostya_radar_taynik1" name="Знайти схованку на Радарі" article_type="task">
+        <text>kostya_radar_taynik1</text>		
+</article>
+
+<article id="kostya_radar_taynik2" name="Знайти схованку на Радарі" article_type="task">
+        <text>kostya_radar_taynik2</text>		
+</article>
+
+<article id="kostya_radar_taynik3" name="Знайти схованку на Радарі" article_type="task">
+        <text>kostya_radar_taynik3</text>		
+</article>
+
+<article id="kostya_radar_taynik4" name="Знайти схованку на Радарі" article_type="task">
+        <text>kostya_radar_taynik4</text>		
+</article>
+
+<article id="kostya_x10_taynik" name="Знайти схованку в лабораторії Х-10" article_type="task">
+        <text>kostya_x10_taynik</text>		
+</article>
+
+<article id="pripyat_taynik1" name="Знайти схованку в Прип'яті" article_type="task">
+        <text>kostya_pripyat_taynik1</text>		
+</article>
+
+<article id="pripyat_taynik2" name="Знайти схованку в Прип'яті" article_type="task">
+        <text>kostya_pripyat_taynik2</text>		
+</article>
+
+<article id="pripyat_taynik3" name="Знайти схованку в Прип'яті" article_type="task">
+        <text>kostya_pripyat_taynik3</text>		
+</article>
+
+<article article_type="journal" group="documents" id="kostya_documents" name="Опис роботи ручного телепорта">
+ <text>teleport_document</text>
+</article>
+
+<article id="kostya_sacharov" name="Поговорити з Сахаровим" article_type="task">
+        <text>kostya_sacharov</text>		
+</article>
+
+<article id="kostya_meet" name="Поговорити з Костьою" article_type="task">
+        <text>kostya_meet</text>		
+</article>
+
+<article id="sacharov_pda" name="Знайти КПК Васильєва" article_type="task">
+        <text>sacharov_pda</text>		
+</article>
+
+<article id="sacharov_teleport" name="Знайти артефакт Батарейка" article_type="task">
+        <text>sacharov_teleport</text>		
+</article>
+
+<article article_type="journal" group="documents" id="kostya_information" name="Інгредієнти для ручного телепорта">
+ <text>information</text>
+</article>
+
+<article article_type="journal" group="documents" id="info1" name="Шлях до схованки Cтрільця">
+ <text>info1</text>
+</article>
+
+<article id="tm_find_info" name="Довідатися про схованку Моноліта" article_type="task">
+	<text>tm_find_info_desc</text>
+</article>
+<article id="tm_find" name="Знайти схованку Моноліта" article_type="task">
+	<text>tm_find_desc</text>
+</article>
+<article article_type="journal" group="Found_PDA" id="tm_tdt1" name="tm_tdtname1">
+    <text>tm_tdttext1</text>
+</article>
+
+<!-- stealth -->
+<article id="stealth_find_tm_brother" name="Знайти брата Тіні Моноліту" article_type="task">
+	<text>Цей ідіот відібрав у мене сейф і сказав, що за те, що я його обдурив, я повинен відпрацювати для його братика, і тоді він поверне мені сейф назад. Мабуть, його братик такий же ідіот, як і він - адже сейф я все одно отримаю, а, значить, все одно обману і Тінь Моноліту, і його братика, хе-хе. Брата потрібно шукати на ЧАЕС-2.</text>
+</article>
+<article id="stealth_find_pda" name="Зібрати КПК стукача Моноліта" article_type="task">
+	<text>Кощей №2 попросив мене зібрати у Зоні і принести йому КПК сталкера-стукача, який зливає Моноліту інфу. Потрібно виконати це завдання, обов'язково красуючись з амулетом на все пузо. І при цьому ще й не вбивши нікого з людей. Так, і маскхалат одягати теж не можна. Загалом, завдання за своїм ідіотизмом чисто у дусі Моноліту. А хто б сумнівався?</text>
+</article>
+<article id="stealth_blow_sidor" name="Взірвати Сидоровича" article_type="task">
+	<texture x="3" y="0" width="508" height="418">snp\orientirovka</texture>
+	<text>Із зібраних мною КПК стало ясно, що змову проти Моноліту мутить Сидор. І правильно робить. Щоб хоч якось виправдатися у власних очах, Брат Тіні Моноліту попросив мене підірвати його "дублікат", його друге "Я", яке мешкає на ЧАЕС-2. Але це його все одно не врятує. Кощей №2 сказав, що потрібно використовувати телепорт з ЧАЕС-2 у комірчину до Сидора. Щоб підірвати його, достатньо однієї гранати Ф1. Телепорт затримає мене у Сидора ненадовго, але я повинен встигнути.\n\n\n\n\n</text>
+</article>
+
+<article id="krest_topor" name="Лісник" article_type="task">
+	<text>Хрест попросив мене знайти і заспокоїти якогось "лісника", який стукає сокирою по ночах і не дає йому спати. Я вирішив йому допомогти, щоб він не дай бог не схуд на нервовому грунті від безсонних ночей.</text>
+</article>
+
+<!-- snp -->
+<article id="snp_find_sniper1" name="Знайти снайпера" article_type="task">
+	<text>На Кордоні я мало не отримав кулю від якогось крутого стрільця з військових, причому абсолютно ні за що. Щоб розібратися у цій справі, мені потрібно знайти снайпера на прізвисько Фенрір. Про нього згадується у КПК, який я зняв зі стрільця. Де шукати його, я не знаю, думаю, потрібно розпитати у народу, може, хто що підкаже.</text>
+</article>
+<article id="snp_find_name1" name="Дізнатися ім'я сталкера" article_type="task">
+	<texture x="0" y="0" width="256" height="256">ui\snp_kamaz</texture>
+	<text>Кабан дав мені наводку, де шукати того снайпера, через якого я мало не дістав кулю на Кордоні. Він сказав, що є якийсь сталкер в Барі, який може мені допомогти. Також цей сталкер володіє якоюсь дуже цінною науковою інформацією, яка може бути мені корисна. Імені його Кабан не знає, сказав тільки, що його люди скинули "курсівку" на нього в районі КамАЗа на заводі "Росток".</text>
+</article>
+<article id="snpt_dt1" name="Знайти схованку Котобегемота" article_type="task">
+	<text>Котобегемот в якості перевірки попросив мене знайти його схованку на Дикій Території за розбитими воротами.</text>
+</article>
+<article id="snp_bioradar_parts" name="Зібрати універсальний біорадар" article_type="task">
+	<text>Котобегемот запропонував мені зібрати для себе, а заодно і для нього, універсальний біорадар. Для цього мені потрібно зібрати всі частини відомих монстрів, знайти два прототипи біорадара, чотири схеми, креслення, опис пристрою та інструкцію по збірці. Потім все це принести Доценту, і він збере два екземпляри універсального біорадара.</text>
+</article>
+<article id="snpt_kordon1" name="Знайти КПК Фенріра" article_type="task">
+	<text>Фенрір попросив принести йому КПК з його лежанки на Кордоні. Лежанка знаходиться за межами території, на дереві, недалеко від бункера Сидоровича, поруч з аномальною зоною. Місце зазначено на карті. Фенрір попередив, що мене там будуть чекати.</text>
+</article>
+<article id="snpt_kordon2" name="Знайти схованку Старого Студента" article_type="task">
+	<text>Схованка знаходиться на Кордоні за межами території, в районі мінного поля. Вихід за межі території найкраще шукати у районі блокпоста, де торгує Аким.</text>
+</article>
+<article id="snpt_vp1" name="Знайти лежанку Фенріра" article_type="task">
+	<text>Фенрір попросив мене знайти його лежанку у Східній Прип'яті там, де лоза обвиває будинок. Фенрір попередив, що мене там також будуть чекати, і мені потрібно буде ліквідувати всіх ворогів.</text>
+</article>
+<article id="snpt_vp2" name="Знайти бонусну схованку Фенріра" article_type="task">
+	<text>В якості нагороди за розправу з вертольотами контр-снайперської групи Фенрір дав мені наводку на свою бонусну схованку у Східній Прип'яті. Він сказав, що шукати її потрібно на кінотеатрі "Прометей".</text>
+</article>
+<article id="snpt_vp3" name="Знайти схованку Людмили" article_type="task">
+	<text>Людмила дала мені наводку на її схованку у дитячому садку у Східній Прип'яті. Там лежить остання, четверта схема для біорадара, розробкою якого також займався її загиблий чоловік.</text>
+</article>
+<article id="snpt_limansk1" name="Знайти лежанку Фенріра" article_type="task">
+	<text>Мені потрібно знайти лежанку Фенріра в Лиманську на крані. Думаю, там проблем бути не повинно, так як кран у Лиманську всього один.</text>
+</article>
+<article id="snpt_limansk2" name="Знайти лежанку Фенріра" article_type="task">
+	<text>Фенрір дав мені наводку на його резервну лежанку у Лиманську. Починати пошук потрібно з обстеження тунелю.</text>
+</article>
+<article id="snpt_limansk3" name="Знайти схованку Фенріра" article_type="task">
+	<text>У своєму прощальному СМС Фенрір повідав мені про схованку, яку він залишив у Лиманську. Ось цитата з його повідомлення: "У дворі, де фонтан, за парканом є двоповерхова будівля, у цій будівлі на другому поверсі схованка. Вона твоя."</text>
+</article>
+<article id="snpt_limansk4" name="Знайти дешифратор" article_type="task">
+	<text>Сталкер Бубулюка повідав мені про те, де я можу знайти дешифратор, щоб розгадати дивний рецепт. Він лежить у гастрономі у Лиманську. Це дуже дивно. Гастроном забитий з усіх боків, і всередину нього ніяк не потрапити. Але, раз там хтось залишив схованку, значить, він зміг туди потрапити. А раз зміг він, значить, зможу і я.</text>
+</article>
+<article id="snp_almaz" name="Активувати Алмазні черепи" article_type="task">
+	<texture x="0" y="0" width="512" height="262">snp\pripyt</texture>
+	<text>Котобегемот пояснив, що якийсь вчений-фізик з Великої Землі був завзятим колекціонером стародавніх артефактів. Він був одержимий ідеєю зібрати разом якісь 13 Алмазних черепів стародавньої цивілізації Майя, які нібито володіють магічними властивостями. І що, згідно з переказами, ці черепи, зібрані в одному місці, активуються, і їхній володар отримає неймовірну силу, загалом, стане мало не надлюдиною. Коротше, потрібно знайти всі ці 13 черепів і треба буде якось поговорити з їхнім ймовірним власником - Тінню Моноліту і дізнатися у нього про місце, де активуються ці черепи. Для цього йому потрібно принести якісь обладунки. Поняття не маю, де їх брати, ці обладунки, і як вони виглядають, але це потім, а зараз потрібно рушити на базу Чистого Неба і поговорити з їхнім торговцем Сусловим. Потрібно обов'язково, у що б то не стало, знайти цього торговця, хоч з-під землі його дістати, але обов'язково знайти.\n\n\n\n\n</text>
+</article>
+<article id="snpt_x101" name="Знайти схованку Сталкера Бубулюки" article_type="task">
+	<text>Сталкер Бубулюка в обмін на план попросив мене принести йому збірник анекдотів зі схованки якогось сталкера біля великої зав'язаної у вузол труби в одній з лабораторій. В якій саме лабораторії він знаходиться - Сталкер Бубулюка не знає, але він упевнений, що інформації для пошуку мені достатньо, і я зможу знайти цю схованку.</text>
+</article>
+<article id="snpt_x81" name="Знайти схованку Анни" article_type="task">
+	<text>Анна на знак подяки за те, що я допомагаю Фенріру, поділилася зі мною інформацією про схованку одного сталкера, який зібрався покинути Зону. Сталкер сказав їй, що місце це дуже хитре, і шукати його потрібно починати з обстеження району Випалювача мізків, який знаходиться в лабораторії X-8.</text>
+</article>
+<article id="snpt_x82" name="Знайти схованку Валерича" article_type="task">
+	<text>Схованка знаходиться у приміщенні над трьома вентиляторами в лабораторії Х-8. Це ж треба було так помучитися з місцем для схованки!</text>
+</article>
+<article id="snpt_sd1" name="Знайти схованку Сталкера Бубулюки з планом" article_type="task">
+	<text>Фенрір попросив мене роздобути для нього мішок плану. План є у схованці Сталкера Бубулюки у Старому Селі у будиночку на узліссі. Потрібно знайти його і принести Фенріру.</text>
+</article>
+<article id="snpt_sd2" name="Знайти лежанку Фенріра" article_type="task">
+	<text>Потрібно знайти лежанку Фенріра у Старому Селі на дереві за магазином. Думаю, мене там будуть чекати.</text>
+</article>
+<article id="snpt_sd4" name="Знайти другого снайпера" article_type="task">
+	<text>Коли Фенрір виконував замовлення у Старому Селі, крім нього на військових полював ще хтось. Він так вважає, тому що там був ще один постріл зі снайперської зброї. Схоже, був ще один снайпер. І цього снайпера, очевидно, вбили військові. Мені потрібно розібратися у цій ситуації. Потрібно знайти цього снайпера, з'ясувати, хто він і відзвітувати Фенріру. Снайпера потрібно шукати десь у глибині села, тому що, за словами Фенріра, саме туди пішли військові після того, як він виконав замовлення.</text>
+</article>
+<article id="snpt_cp1" name="Знайти лежанку Фенріра" article_type="task">
+	<text>Наступна лежанку Фенріра знаходиться на колесі огляду у Центральній Прип'яті.</text>
+</article>
+<article id="snpt_cp2" name="Знайти другу частину рецепта" article_type="task">
+	<text>Друга частина рецепта на цей чудодійний артефакт записана в КПК вченого Кленова. Він залишив свій КПК у готелі у Центральній Прип'яті. Номер він не пам'ятає, але пам'ятає, що жив він не високо. Вчених зазвичай селили на нижніх поверхах.</text>
+</article>
+<article id="snpt_pp1" name="Добути КПК Монолітівця" article_type="task">
+	<text>Фенрір попросив знайти його лежанку у Шляхопроводі, а потім ліквідувати сходку монолітівців, яка буде там проходити. Там буде присутній Монолітівець, який дав наказ на ліквідацію Фенріра у Старому Селі. Потрібно добути цей КПК і принести його Фенріру.</text>
+</article>
+<article id="snp_bibliofrend_black1" name="Вилікувати Прайма" article_type="task">
+	<text>Прайм сильно обгорів, рятуючи Скадовськ від пожежі. Потрібно принести йому мазь проти опіків і таблетки, щоб він міг одужати.</text>
+</article>
+<article id="snpt_dt2" name="Знайти схованку монолітівця" article_type="task">
+	<text>Щоб до кінця розібратися з Монолітівцями, мені потрібно знайти схованку монолітівця на Дикій Території. Починати пошук потрібно з самої верхньої точки даху одного з ангарів.</text>
+</article>
+<article id="snpt_td1" name="Знайти схованку на базі бандитів" article_type="task">
+	<text>Прайм у подяку за лікування розповів мені про сталкера, який, напившись, базікав про свої нички з крутим хабаром під носом у бандитів у Темній Долині. Прямо на їхній недобудованій базі. Він говорив, що там лежить серйозне обладнання, яке у вільному продажу не знайти. Де він там примудрився заховати дві схованки - розуму не прикладу. Начебто я, та й бандити там переорали вже все вздовж і впоперек... Але Прайм запевняє, що інформація достовірна і схованки там. Більше того, у мене дефіцит часу на пошуки: так як той сталкер базікав на весь Скадовськ, то його розповідь чув багато хто, і, думаю, не я один буду шукати ці схованки. Тому мені потрібно поквапитися і, залишивши всі справи, терміново зайнятися цим питанням.</text>
+</article>
+<article id="snpt_garbage1" name="Знайти лежанку Фенріра на Звалищі" article_type="task">
+	<text>Наступні дві лежанки Фенрір зробив на оглядових вежах на Звалищі. Як він туди виліз - поняття не маю. Але, раз він зміг туди вилізти - значить, зможу і я. А контр-снайпери приготували мені круту зустріч...</text>
+</article>
+<article id="snpt_2chaes1" name="Знайти Фенріра" article_type="task">
+	<text>Обитель Зла сказав, що Фенрір пішов на ЧАЕС-2 перевірити свою лежанку. Він також попередив, що з Фенріром щось дивне відбувалося останнім часом. Тому мені, схоже, потрібно бути обережним. Загалом, знайду лежанку - знайду Фенріра. А далі буде видно. Лежанка, за словами Обителі Зла, знаходиться на козловому кран.</text>
+</article>
+<article id="snpt_2chaes2" name="Обстежити шляхопровід" article_type="task">
+	<text>За словами Сахарова, до роботи над артефактом "Зірка Пророка" мав відношення один зі вчених, який проводив експерименти на ЧАЕС. Він не так давно перестав виходити на зв'язок. Останнє повідомлення від нього було отримано з шляхопроводу.</text>
+</article>
+<article id="snpt_2chaes3" name="Знайти третю частину рецепта" article_type="task">
+	<text>Пропер Сімдесятий не знає, де шукати третю частину рецепта "Зірки Пророка". Він попросив мене попитати на Скадовську, може, хто що підкаже...</text>
+</article>
+<article id="snpt_2chaes4" name="Знайти інформацію про чоловіка Людмили" article_type="task">
+	<text>Людмила попросила знайти будь-яку інформацію про її зниклого чоловіка. Він працював вченим на ЧАЕС. За останньою наявною інформацією, його евакуювали з одного з дахів ЧАЕС-2. Після цього зв'язок з ним перервався.</text>
+</article>
+<article id="snpt_jupiter2" name="Дістати тренувальний рюкзак" article_type="task">
+	<text>Обитель Зла пообіцяв дати мені наводку на свій бонусний схрон, якщо я доведу, що здатний його знайти. Для цього мені потрібно принести йому записку з його тренувального рюкзака. Можливо, тут мені доведеться використовувати нові, невідомі мені покищо навички лазіння по будівлям. Що за навички - не можу зрозуміти, начебто я вже всьому навчився у Зоні... Тренувальний рюкзак знаходиться на Юпітері у районі щогли з чотирма тросами біля полігону за старим мінним полем, там, де стоїть вертоліт.</text>
+</article>
+<article id="snpt_jupiter3" name="Добути інформацію про Зірку Пророка" article_type="task">
+	<text>Пропер Сімдесятий сказав, що інформацією про "Зірку Пророка" володіє Сахаров. Щоб він поділився нею зі мною, потрібно віднести йому документи зі схованки Фенріра на одному з дахів на Янові.</text>
+</article>
+<article id="snpt_jupiter4" name="Знайти Бороду" article_type="task">
+	<text>У моїх пошуках артефакту "Фобос" Волоцюга відправив мене до сталкера на прізвисько Борода. У нього є цей артефакт. Бороду взяли у полон монолітівці і тримають у ямі на покинутій будівельній базі, яка будувала трубопровід на Юпітері. Потрібно його знайти.</text>
+</article>
+<article id="snpt_jupiter5" name="Знайти рюкзак Бороди" article_type="task">
+	<text>Артефакт "Фобос" Борода залишив у рюкзаку, який він скинув у Адміністративному будинку заводу "Юпітер", коли йшов від Моноліту. Де він його скинув, Борода у метушні не запам'ятав, але це було десь на сходовій клітці. І чомусь треба йти тільки вперед, не повертаючись назад. Ну що ж, підемо шукати рюкзак...</text>
+</article>
+<article id="snpt_jupiter6" name="Залізти на дах" article_type="task">
+	<texture x="0" y="0" width="512" height="340">snp\jupiter</texture>
+	<text>Все-таки сталося найгірше. Борода закинув рюкзак аж на дах Адміністративної будівлі заводу Юпітер. І, щоб дістати "Фобос", мені потрібно туди залізти. Видно, не дарма монолітівці Бороду по голові били. Може, вправили йому мізків трохи, щоб більше так не ховав рюкзаки. Адже лізти то за ним мені...\n \n \n \n \n</text>
+</article>
+<article id="snpt_mg1" name="Знайти Волоцюгу" article_type="task">
+	<text>Мені потрібно знайти сталкера на прізвисько Волоцюга, який відправився виконувати снайперське замовлення у Мертвому Місті. Шукати його потрібно на найвищих будівлях, адже снайпери люблять місця повище.</text>
+</article>
+<article id="snpt_mg2" name="Знайти лежанку Фенріра" article_type="task">
+	<text>Мені потрібно знайти лежанку Фенріра, яку не встиг знайти Волоцюга. Потім потрібно виконати замовлення і добути доказ, що "клієнт" усунутий. Після цього зустрітися з Волоцюгою на Скадовську. Лежанку Волоцюга не встиг знайти через Викид і залишив мені наводку на неї. Він сказав, що потрібно з даху стрибнути на дерево, і ще сказав, що поруч баскетбольний майданчик.</text>
+</article>
+<article id="snpt_bar1" name="Знайти схованку Волоцюги" article_type="task">
+	<text>Артефакт "Геліон", який мені дуже потрібен, Волоцюга сховав у своїй схованці у Барі. Пошук потрібно починати з балкончика на каркасній конструкції, що над старою аномальною зоною.</text>
+</article>
+<article id="snpt_bar2" name="Знайти схованку альпініста Тревіля" article_type="task">
+	<text>Схованка знаходиться на Арені у Барі.</text>
+</article>
+<article id="snpt_kl1" name="Знайти блокноти Доцента" article_type="task">
+	<text>Ось що Доцент сказав мені дослівно:\n\n"Коли я прямував сюди, я втратив свої два рюкзака. Діставався я сюди на пароплаві. Плив у Східну Прип'ять по річці через Червоний Ліс.\nПерщий рюкзак я втратив у Червоному Лісі, коли пропливав під мостом у Лиманськ. Пароплав хитнуло, і я упустив рюкзак на берег річки.\nА другий рюкзак я втратив, коли пароплав заходив у порт Східної Прип'яті. Тоді йшов дощ і сильно штормило. Я послизнувся на палубі, і рюкзак випав за борт, а пропливали ми якраз повз протилежний від порту берег затоки. Після того, як причалили, я хотів знайти свої рюкзаки, але не зміг дістатися ні до берега річки у Червоному Лісі, ні до протилежного берега затоки у Східній Прип'яті. Якісь невидимі стіни не пустили мене.\nСтрілець, піди, дістань мої рюкзаки. Вибач мені мою неуважність, але вони мені дуже потрібні. В них залишилися мої блокноти, у яких важливі для мене відомості стосовно наукових дослідів, а я якраз хотів зайнятися їхнім продовженням. Може, ти знайдеш спосіб дістатися до них? Я чув, що у Східній Прип'яті на протилежний берег можна потрапити прямо від причалу, думаю, тобі це завдання цілком під силу."</text>
+</article>
+<article id="snpt_warlab1" name="Знайти схованку Хантера 121" article_type="task">
+	<text>Схованка знаходиться у Варлабе, де аномалія "Фонтан". Щоб знайти її, потрібно підслухати кровососів. Більше ніякої інформації немає.</text>
+</article>
+<article id="snpt_zaton1" name="Знайти схованку Супутника 94" article_type="task">
+	<text>Схованка знаходиться на Затоні, на станції переробки відходів, за парканом.</text>
+</article>
+<article id="snpt_zaton3" name="Знайти схованку Сліпкнота" article_type="task">
+	<text>Схованка знаходиться на Затоні за Залізним лісом, поруч з трансформаторною підстанцією №1758, яка на даху заводу.</text>
+</article>
+<article id="snpt_zaton4" name="Знайти схованку Акви" article_type="task">
+	<text>Схованка знаходиться на території лісництва на Затоні, на одному з козирків.</text>
+</article>
+<article id="snpt_hospital1" name="Знайти схованку Амби" article_type="task">
+	<text>Схованка знаходиться у Шпиталі за межами території.</text>
+</article>
+<article id="snpt_x181" name="Знайти схованку доктора Алекса Фрімена" article_type="task">
+	<text>Схованка знаходиться у лабораторії X-18, у вентиляційній шахті в одному з коридорів.</text>
+</article>
+<article id="snpt_x161" name="Знайти схованку Архари" article_type="task">
+	<text>Схованка знаходиться у лабораторії X-16 на вході. З собою потрібно взяти каністру.</text>
+</article>
+
+<article id="snp_receipt_parts1" name="Знайти 1 частину рецепта" article_type="task">
+	<text>Обитель Зла розповів мені про дивний рецепт, частини якого заховані по Зоні. Потрібно зібрати всі ці частини і розшифрувати рецепт. Перша частина лежить у ничці Обителі Зла у Центральній Прип'яті на балконі 5-го поверху будинку зі зруйнованим кутом за межами території.</text>
+</article>
+<article id="snp_receipt_parts2" name="Знайти 2 частину рецепта" article_type="task">
+	<text>Обитель Зла вказав мені на карті місце, де потрібно шукати другу частину дивного рецепта.</text>
+</article>
+<article id="snp_receipt_parts3" name="Знайти 3 частину рецепта" article_type="task">
+	<text>Ось що дослівно сказав мені Обитель Зла про цю схованку: "Є місце у Х-16, я точно не знаю де, але, кажуть, рюкзак не високо захований. Ось там третя частину рецепта і лежить."</text>
+</article>
+<article id="snp_receipt_parts4" name="Знайти 4 частину рецепта" article_type="task">
+	<text>Лобсанг дав мені інформацію, де потрібно шукати 4 частину дивного рецепта. Потрібно шукати в Універмазі у Східній Прип'яті, там, де можна сходити по великій нужді. Вибачте за таку не дуже, м'яко кажучи, приємну наводку, але це все, що мені сказав Лобсанг - іншої інформації у мене немає.</text>
+</article>
+<article id="snp_receipt_parts5" name="Знайти 5 частину рецепта" article_type="task">
+	<texture x="0" y="0" width="365" height="512">snp\rotary</texture>
+	<text>Сталкер Бубулюка дав мені наводку на схованку з п'ятою, останньою частиною дивного рецепта. Його наводка звучить дослівно так: "Шукай на Юпітері у кар'єрі в...". Звичайно, інформації не густо, але, мені здається, я знаю, де потрібно її шукати...\n \n \n \n \n</text>
+</article>
+<article id="snp_receipt_parts6" name="Розшифрувати рецепт" article_type="task">
+	<text>Щоб розшифрувати дивний рецепт, мені потрібно знайти сталкера на прізвисько Пропер Сімдесятий. Він повинен допомогти мені у цій справі.</text>
+</article>
+<article id="snp_make_four_kolba" name="Зробити колби" article_type="task">
+	<text>Для подальшої підтримки Фенріра потрібно зробити чотири колби згідно розшифрованого рецепта і принести їх Проперу Сімдесятому.</text>
+</article>
+<article id="snp_zvezda_parts1" name="Знайти компоненти" article_type="task">
+	<text>По першій частині рецепта артефакту "Зірка Пророка" Проперу Сімдесятому потрібно принести артефакти "Геліон", "Електричний мікроб" та "Спіраль".</text>
+</article>
+<article id="snp_zvezda_parts2" name="Знайти компоненти" article_type="task">
+	<text>По другій частині рецепта артефакту "Зірка Пророка" Проперу Сімдесятому потрібно принести артефакти "Фобос", 7 "Золотих шматів" і "Серце полтергейста". Про "Фобос" потрібно запитати у Волоцюги.</text>
+</article>
+<article id="snp_zvezda_parts3" name="Знайти компоненти" article_type="task">
+	<text>По третій частині рецепта артефакту "Зірка Пророка" Проперу Сімдесятому потрібно принести артефакти "Енцелад", 5 "Живих Сердець", 30 "Булижників", а також 50 штук "Чорної енергії". "Енцелад" лежить у схованці Фенріра на вежі у Лиманську. Вхід туди повинен бути з внутрішнього двору, повністю оточеного парканом.</text>
+</article>
+<article id="snp_kamen_udachy" name="Знайти Камінь Удачі" article_type="task">
+	<text>Для повного відновлення після воскресіння Фенріру потрібен артефакт "Камінь Удачі".</text>
+</article>
+<article id="snp_find_vogak" name="Знайти Ватажка" article_type="task">
+	<text>Ручний вульф Фенріра по кличці Ватажок допоможе мені розкрити таємницю "Зірки Пророка" і роздобути собі цей артефакт. Шукати його потрібно на плато на Затоні, біля засохлого дерева.</text>
+</article>
+<article id="snp_embrion_vogak" name="Принести ембріон" article_type="task">
+	<text>Щоб Ватажок розкрив таємницю "Зірки Пророка", потрібно принести йому ембріон вульфа.</text>
+</article>
+<article id="snp_video_arhiv" name="Зібрати відеоархів" article_type="task">
+	<text>Залишився останній ривок. Потрібно зібрати десять дисків з фільмом, у якому, за словами Пропера Сімдесятого, міститься істина. Щоб побачити цей фільм - потрібно зібрати всі диски. Коли я зберу дев'ять дисків, за десятим потрібно підійти до Пропера Сімдесятого.</text>
+</article>
+<article id="snp_rings" name="Зробити пропозицію" article_type="task">
+	<text>Перед тим, як збирати відеоархів, нам з Аріадною потрібно сказати один одному ті слова, які ми давно хочемо сказати. Потрібно зробити обручки і поговорити з нею. З кільцями може допомогти Доцент.</text>
+</article>
+<article id="snp_video_ariadna" name="Віддати диски Аріадні" article_type="task">
+	<text>Потрібно швидше передати диски з відеоархівом Аріадні як доказ щирості моїх намірів віддати їй руку і серце.</text>
+</article>
+
+<article article_type="journal" group="Found_PDA" id="snpt_uagro1" name="Дані від Котобегемота">
+	<text>Шукай "Схованку у схованці". Там для тебе досить корисний хабар є. Вона не дуже складна, ти її легко знайдеш.</text>
+</article>
+<article article_type="journal" group="Found_PDA" id="snpt_sarcofag1" name="Схованка Кабачка">
+	<text>Ось повідомлення від Обителі Зла:\n\n"Тримай наводку на схованку сталкера на прізвисько Кабачок. Там повинен бути корисний девайс. Шукай її у Саркофагу у районі Виконавця Бажань. Для пошуку цієї схованки тобі потрібно застосувати нестандартне мислення і обжитися у Саркофазі, інакше ти її ніколи не знайдеш. Раджу спочатку розібратися з набагато простішою схованкою Моноліту, якщо ти цього ще не зробив."\n\nЩо він мав на увазі під нестандартним мисленням - не маю поняття, але схованку все одно доведеться шукати.</text>
+</article>
+<article article_type="journal" group="Found_PDA" id="snpt_as1" name="Дані від Обителі Зла">
+	<text>"Красуня у Клітці"\n\n
+Лише дим від сигарет розвієш ти руками,\n
+І вийдеш прямо із ворот -\n
+Швидше рухайся вперед, подібно вовку,\n
+Але не побачиш там чесной народ.\n
+Там бабку мутанти стережуть,\n
+І сталкерам проходу не дають.\n
+Ліворуч тьма найманців гуляє,\n
+А праворуч пост солдати охороняють.\n
+Серед них між стін красуня стоїть,\n
+А у світ людей увійти перешкода не велить.</text>
+</article>
+<article article_type="journal" group="Found_PDA" id="snpt_zaton2" name="Дані від Пропера Сімдесятого">
+	<texture x="0" y="0" width="310" height="382">snp\kran</texture>
+	<text>У нагороду за виконану роботу з воскресіння Фенріра дарую тобі подарунок від мене особисто. Подарунок знаходиться у районі портових кранів на Затоні.\n\n\n\n\n</text>
+</article>
+<article article_type="journal" group="Found_PDA" id="snp_shadow1" name="Запис розмови з Ватажком">
+	<text>"Я бачу, ти - людина слова, як і Фенрір. Слухай. У Мертвому Місті у 18:00 твій ватажок вкаже тобі початок твоїх пошуків. І візьми з собою артефакт "Ідол Моноліту".</text>
+</article>
+<article article_type="journal" group="Found_PDA" id="snp_profi_info" name="Дані від Вескера">
+    <text>Ось що Вескер сказав мені:\n \n"Я скину тобі координати відразу всіх місць і поставлю на кожне мітку на карті. Ці схованки шукати не потрібно. Їх потрібно тільки зібрати. Але: всі ці схованки можна зібрати, тільки використовуючи різні, швидше за все, ще не відомі тобі трюки і фокуси, засновані на деяких особливостях двигуна гри, знаючи які, можна забиратися в ще набагато більш недоступні місця. В ігровому світі це називається Cheats and Tricks, або трюки і фокуси. Без них ти жодної з цих схованок не візьмеш. Тобі треба відкрити для себе ці трюки і фокуси і навчитися користуватися ними, якщо ти цього ще не зробив. Інакше у тебе нічого не вийде. Деякі з цих трюків і фокусів ти вже використовував у спрощеному варіанті. Тепер прийшла пора навчитися користуватися ними по дорослому.\nВсі ці трюки і фокуси абсолютно нестандартні. Вони не мають логічного пояснення. Знайти їх можна або випадково, або думаючи нестандартно і пробуючи найнеймовірніші і незвичайні поєднання клавіш переміщення і використовуючи їх в самі різні, часто дуже точні моменти часу. Це завдання неймовірно складне. Найскладніше з того, що є в Зоні. Тому воно зроблено, як бонусне, в самому кінці, і ні на що не впливає. Бо впоратися з ним зможуть тільки справжні профі, яких одиниці. Але у тебе є шанс стати одним з них.\nХочу сказати ще ось що: коли ти побачиш ці місця, у тебе відразу з'явиться бажання залізти туди нечесним шляхом: використовуючи гравіпушку або підкладаючи під ноги різні предмети. Тому гравіпушка на час виконання цього завдання працювати не буде. Що стосується предметів, то в пару місць вони тобі, може, і допоможуть залізти, але тоді ти не навчишся тим трюкам і фокусам, про які ми зараз говоримо. А без них всі схованки ти не збереш. Також, щоб не псувати твою статистику, ніякого завдання в КПК не буде, тому, якщо ти не впораєшся з цими схованками, то на твою статистику це ніяк не вплине і ніяк не позначиться на твої Досягненнях.\nЩоб трохи урізноманітнити завдання, на ЧАЕС-2 буде п'ять міток на схованки, але одна з них відноситься до ЧАЕС-1, не забудь. Коли збереш всі схованки, в останній відкриєш для себе дещо цікаве.\nІ останнє: якщо у тебе не вийде зібрати всі схованки - не переймайся. Це по справжньому складні і незвичайні переміщення. У тебе вони дуже довго не будуть виходити навіть тоді, коли ти уважно вивчиш у ГІДі відео з узяття кожної з них. Тому не сумуй. Вже одне те, що ти не кинув на півдорозі сюжет "Снайпер" і дістався до самого кінця, говорить про те, що ти - справжній S.T.A.L.K.E.R., здатний виявляти незвичайне терпіння, завзятість, наполегливість і величезне прагнення досягати поставленої мети, якою б складною вона не була!".\n \n \n \n \n</text>
+</article>
+<article article_type="journal" group="Found_PDA" id="snp_profi1" name="Історія однієї людини">
+	<texture x="0" y="0" width="472" height="336">snp\strelok</texture>
+	<text>Громов Сергій Якович разом зі своєю сім'єю проживав у невеликому містечку Каменськ-Шахтинський Ростовської області. Одружений був на Громовій Валерії Олександрівні, яка працювала медсестрою у лікарні. Був 10 річний син Громов Марк Сергійович. Життя ніяк не складалося. Сергій мав вищу технічну освіту, і, після довгого і безрезультатного пошуку роботи за своєю спеціальністю у рідному місті, перебиваючись випадковими заробітками, вже подумував про отримання іншої спеціальності. Поки чоловік шукав собі роботу, дружина Валерія працювала у міській лікарні медсестрою на півтори ставки. Зарплати ледь вистачало на утримання двох чоловік, а з народженням дитини положення сильно погіршилось, і вона стала залишатися працювати у нічну зміну, за що нараховувалася надбавка до зарплати.\n
+Через рік Сергію прийшов лист про те, що на Чорнобильську АЕС потрібен працівник якраз по його спеціальності. Якщо він прийме пропозицію, то він буде отримувати непогану заробітну плату, його сім'ї буде виділена окрема квартира для проживання у робочому місті Прип'ять, а також його дружині нададуть роботу за фахом.\n
+Сергій не роздумуючи погодився і сім'я переїхала на Україну у Прип'ять. Як і говорилося у листі, їм дали двокімнатну квартиру, Сергія влаштували на роботу на ЧАЕС, а Валерію на перший час у магазин "Світлячок". Сергій працював у підреакторному приміщенні четвертого енергоблоку. Раз на рік Сергій брав собі відпустку і зі своїми колегами по роботі і друзями їздив на полювання. Його син Марк просив батька взяти його з собою, але батько був категорично проти. Замість того, щоб його син стріляв зі справжньої рушниці у справжню тварину, він відвів Марка у тир. "Це все ж краще, ніж нічого. Сину, повір мені." - Говорив йому батько, і Марк незабаром змирився.\n
+Марк був постійним відвідувачем у тирі. Він ходив туди мало не щотижня. За таку часту відвідуваність йому навіть зробили знижку. Він проявляв незвичайну точність стрільби по мішенях для свого віку. Одного разу він навіть посів перше місце на змаганнях у стрільбі по мішенях у тому ж самому тирі, у результаті чого його прозвали Стрільцем. Після того, як Марк на зекономлені гроші придбав кілька журналів про зброю, батько зрозумів, що його син демонструє явний інтерес до цього питання. Сергій пишався своїм сином і знав, що вони разом з Лерою виховують його правильно, незважаючи на те, що він проявляє інтерес до речей, які не характерні для його віку. Він не помічав у синові агресії, неповаги або зневаги до людей - скоріше навпаки, Марк виявляв турботу, ввічливість і увагу до старших і до своїх однолітків. У душі Марк був все тою ж дитиною, якою і мав бути, незважаючи на "не дитячий" інтерес.\n
+Коли Марк у школі перейшов у старші класи, він став приділяти багато часу фізиці, у той час як інші учні відмовлялися розуміти і терпіти не могли цей предмет. Він із задоволенням вирішував завдання на швидкість і час, силу та енергію. Особливо він любив вирішувати завдання, пов'язані з польотом кулі, випущеної з будь-якої зброї. Іноді докладно розпитував вчителя про ті чи інші питання які цікавили його. До інших предметів такого інтересу, як до фізики, не було. Виконував завдання, роблячи те, що від нього вимагається, і не більше того.\n
+На Новий Рік батько подарував синові унти з вовни ведмедя, якого він сам підстрелив на полюванні. Але Марк подарував їх своїй мамі за непотрібністю, йому така розкіш була ні до чого. А от для любимої мами такий подарунок від сина став несподіванкою. Валерія навіть не знала, що подарувати синові у відповідь, і вирішила, що найкращий подарунок буде той, який він вибере собі сам. Вона дала деяку суму грошей, і на ці гроші він купив дорогий конструктор і зібрав свій перший у житті іграшковий пістолет.\n
+Але незабаром трапилася трагедія. У ніч з 25 на 26 квітня 1986 року відбувся вибух четвертого реактора Чорнобильської АЕС. Внаслідок руйнування залишки радіоактивної маси розплавилися і суміш з розпеченого металу, піску, бетону і фрагментів палива розтеклася по підреакторних приміщеннях, де у цей час на своїй зміні перебував батько Марка.\n
+Після оцінки масштабів аварії стало зрозуміло, що потрібна евакуація міста Прип'ять, яку було проведено 27 квітня 1986 року. Валерія зі своїм сином Марком зібрала найнеобхідніші речі і документи і вийшла до точки евакуації. Під час посадки у автобус Валерія втратила свого сина з уваги у натовпі людей. На її крики про допомогу ніхто не звернув уваги, тільки чоловік у формі попросив її сісти у автобус. Жінка ніяк не реагувала на його прохання, і тоді чоловік мовчки взяв її на руки і заніс у автобус. Після того, як Марк усвідомив, що загубився у натовпі і шукати матір безглуздо, він прийняв рішення їхати на іншому автобусі.\n
+Автобус, у якому їхав Марк, був замикаючим у ланцюзі. У процесі руху трапилася аварія. На повороті водій автобуса не впорався з керуванням, вилетів з дороги і врізався у бетонний стовп.\n
+Марк опритомнів вже у лікарні. Він пролежав у лікарні півроку, так як у нього були численні переломи по всьому тілу і він отримав велику дозу радіації. Крім цього, у нього ще діагностували глибоку амнезію. Лікарі не вірили, що хлопчик виживе. Але всіляко робили вигляд, що все під контролем. У процесі лікування Марк познайомився з чоловіком, який лежав разом з ним у палаті. Хлопчик так сподобався йому, що він сказав, що після виписки з лікарні забере його до себе. Чоловік знав, що у хлопчика амнезія, і своїх батьків він не пам'ятає. Після виписки чоловік, його звали Олександр Юрійович, дійсно усиновив хлопчика і він став жити у його будинку. Марк знову пішов до школи, де продовжував навчатися науці. Через 5 років Марк закінчив школу з відзнакою і вступив до університету. Після закінчення університету він пішов у армію. Коли він повернувся зі служби, він дізнався, що його опікун загинув у результаті пожежі. Чоловік у алкогольному сп'янінні заснув з цигаркою, у результаті чого виникло загоряння. Все те, що залишилося від будинку після пожежі - дісталося йому у спадок. Марк переїхав жити у однокімнатну квартирку на околиці міста.\n
+У частині, де служив Марк, всім солдатам після завершення служби, перед відправкою додому, пропонували підписати контракт на продовження служби у Зоні Відчуження. Тоді Марк не знав, що собою представляє Зона Відчуження та не погодився. Кілька солдатів тоді прийняли пропозицію.\n
+Одного разу, сидячи у кафе, він зустрів свого товариша по службі, який був його тодішнім кращим другом, і який погодився виконати умови контракту. Вони випили за зустріч, зав'язалася розмова. Марк запитав його про Зону. Зі слів його співрозмовника він зрозумів, що Зона - це закрита територія і інформація про реальну картину всього, що відбувається всередині неї секретна. Він сказав, що на її території працюють вчені і щось там вивчають. Також на території Зони Відчуження були помічені непізнані і вкрай агресивні і небезпечні тварини і аномальні місця. Крім того, вчені повідомили їм про якісь незвичайні предмети, які вони стали знаходити. Вони назвали їх артефакти, тому що ці предмети володіли незвичайними та дивовижними властивостями, які необхідно було вивчити. Загалом, вони попросили всіх при знаходженні таких предметів передавати їх їм за хорошу плату. Крім цього, на території Зони почали з'являтися люди, які називають себе Сталкерами. Їхня мета перебування на закритій території і призначення покищо не відомі, але найімовірніше, що це звичайні шукачі, зайняті пошуком артефактів, які вони згодом продають ученим. Проводилися затримання таких особистостей. Як правило, при собі у них не було документів, але практично всі вони мали при собі холодну або вогнепальну зброю. В основному це були злочинці, на яких значилися грабежі, вбивства, втечі з місць ув'язнення, і які переховувалися від правосуддя. Вони розповідали вкрай цікаві та незвичайні історії і легенди про те, що відбувається у глибині Зони Відчуження. Найчастішою і самою загадковою історією всіх спійманих Сталкерів була легенда про Виконавець Бажань, або Моноліт.\n
+Після тієї розмови Марк довго думав і а результаті вирішив відправитися у Зону і спробувати самому розгадати загадку Виконавця Бажань. Він продав все, що у нього було, купив все необхідне обмундирування і дізнався більш докладно про Зону і про те, як туди проникнути. Благополучно минувши блокпост військових і пробравшись через Периметр, він прийшов у Село Новачків, де зустрів Доктора. Так як у Селі Новачків ніхто не називався своїм справжнім ім'ям, то Марк представився Доктору Стрільцем і попросив його, щоб він детальніше розповів про Моноліт і те, як туди можна проникнути. Доктор поділився з ним тим, що знав сам. Незабаром Доктор познайомив його з хорошими людьми: Кликом і Привидом. Вони теж зацікавилися пропозицією Стрільця. Група Стрільця почала збирати всю необхідну інформацію, яка могла б допомогти їм у їхній справі.\n
+Коли вони вирушили у дорогу і були вже на півдорозі до Моноліту, раптом все пішло шкереберть. З Привидом зник зв'язок, прийшла інформація, що вбили Клика. Стрільцю нічого не залишалося, як йти одному. По нікому не відомій стежці він наполегливо йшов на північ і дістався до Саркофагу. Стрілець спустився усередину, і перед самим Монолітом сталося те, від чого він знепритомнів. Ні, це було не випромінювання, це було щось інше, незрозуміле... Після того, як Стрілець знепритомнів, його доставили у Бункер Управління Монолітом і там вирішувалася його доля. Як і у всіх подібних випадках, було прийнято рішення запрограмувати Стрільця на служіння Моноліту та виконання завдань Усвідомлення. Вони "позначили" Стрільця і відправили його на Вантажівці смерті назад у Зону. Усвідомлення сподівалося, що він виведе їх на слід його друзів, які теж були необхідні їм для подальшого контролю та розширення Зони. Але навіть якщо все піде не так, як замислювалося, то є ще один, стовідсотково вірний варіант. Вони занесли у його КПК завдання: "Вбити Стрільця".\n\n\n\n\n</text>
+</article>
+
+<!-- Эмбрионы -->
+<article id="emb0" name="Ембріон вульфа" group="emb_mods">
+	<texture x="350" y="300" width="150" height="50">ui\ui_emb</texture>
+	<text>Ембріон примарної химери кидається у аномалію "Фонтан".\n\n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]8 годин Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]100 %%c[default]</text>
+</article>
+<article id="emb1" name="Ембріон щура" group="emb_mods">
+	<texture x="0" y="0" width="300" height="50">ui\ui_emb</texture>
+	<text>Ембріон щура виходить шляхом спільної трансмутації у аномалії "Воронка" відразу чотирьох інгредієнтів:\n\n
+		Черево таргана\n
+		Хліб\n
+		Хвіст кішки\n
+		Селезінка щура\n\n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]5 хвилин Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]100 %%c[default]</text>
+</article>
+<article id="emb2" name="Ембріон таргана" group="emb_mods">
+	<texture x="0" y="50" width="300" height="50">ui\ui_emb</texture>
+	<text>Ембріон таргана виходить шляхом спільної трансмутації у аномалії "Холодець" відразу чотирьох інгредієнтів:\n\n
+		Ембріон щура\n
+		Черево запеклого таргана\n
+		Солодощі\n
+		Тушонка\n\n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]5 хвилин Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]100 %%c[default]</text>
+</article>
+<article id="emb3" name="Ембріон запеклого таргана" group="emb_mods">
+	<texture x="300" y="0" width="200" height="50">ui\ui_emb</texture>
+	<text>Ембріон таргана і черево звичайного таргана кидаються у аномалію "Трамплін".\n\n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]5 хвилин Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]100 %%c[default]</text>
+</article>
+<article id="emb4" name="Ембріон аномального кровососа" group="emb_mods">
+	<texture x="0" y="100" width="300" height="50">ui\ui_emb</texture>
+	<text>Ембріон аномального кровососа виходить шляхом спільної трансмутації у аномалії "Бульбашка" відразу чотирьох інгредієнтів:\n\n
+		Ембріон полтергейста\n
+		Ембріон запеклого таргана\n
+		Червоне щупальце кровососа\n
+		Червона рука бюрера\n\n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]5 хвилин Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]100 %%c[default]</text>
+</article>
+<article id="emb5" name="Ембріон мармурового кровососа" group="emb_mods">
+	<texture x="0" y="150" width="300" height="50">ui\ui_emb</texture>
+	<text>Ембріон мармурового кровососа виходить шляхом спільної трансмутації у аномалії "Жарка" відразу чотирьох інгредієнтів:\n\n
+		Ембріон кровососа\n
+		Ембріон бюрера\n
+		Ембріон аномального кровососа\n
+		Ріг кігтя смерті\n\n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]5 хвилин Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]100 %%c[default]</text>
+</article>
+<article id="emb6" name="Ембріон кігтя смерті" group="emb_mods">
+	<texture x="350" y="50" width="150" height="50">ui\ui_emb</texture>
+	<text>Ембріон мармурового кровососа кидається у аномалію "Воронка".\n\n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]3 години Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]100 %%c[default]</text>
+</article>
+<article id="emb7" name="Ембріон зламу" group="emb_mods">
+	<texture x="0" y="200" width="300" height="50">ui\ui_emb</texture>
+	<text>Ембріон зламу виходить шляхом спільної трансмутації у аномалії "Карусель" відразу чотирьох інгредієнтів:\n\n
+		Ембріон зомбі\n
+		Горілка\n
+		Рука зламу\n
+		Кисть бібліотекаря\n\n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]30 хвилин Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]100 %%c[default]</text>
+</article>
+<article id="emb8" name="Ембріон бібліотекаря" group="emb_mods">
+	<texture x="350" y="100" width="150" height="50">ui\ui_emb</texture>
+	<text>Ембріон зламу кидається у аномалію "Бульбашка".\n\n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]2 години Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]100 %%c[default]</text>
+</article>
+<article id="emb9" name="Ембріон Монолітівця" group="emb_mods">
+	<texture x="0" y="250" width="350" height="50">ui\ui_emb</texture>
+	<text>Ембріон Монолітівця виходить шляхом спільної трансмутації у аномалії "Електра" відразу чотирьох інгредієнтів:\n\n
+		Ембріон кігтя смерті\n
+		Ембріон бібліотекаря\n
+		Червоний мозок контролера\n
+		Живе серце\n\n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]1 година Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]100 %%c[default]</text>
+</article>
+<article id="emb10" name="Ембріон Тіні Моноліту" group="emb_mods">
+	<texture x="350" y="150" width="150" height="50">ui\ui_emb</texture>
+	<text>Ембріон Монолітівця кидається у аномалію "Осередковий туман".\n\n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]7 годин Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]100 %%c[default]</text>
+</article>
+<article id="emb11" name="Ембріон жіночої особини зомбі" group="emb_mods">
+	<texture x="0" y="300" width="300" height="50">ui\ui_emb</texture>
+	<text>Ембріон жіночої особини зомбі виходить шляхом спільної трансмутації у аномалії "Холодець" відразу чотирьох інгредієнтів:\n\n
+		Ембріон зомбі\n
+		Безоар\n
+		Мутований рудимент грудини\n
+		Рука зомбі\n\n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]5 хвилин Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]100 %%c[default]</text>
+</article>
+<article id="emb12" name="Ембріон примарного зомбі" group="emb_mods">
+	<texture x="350" y="200" width="150" height="50">ui\ui_emb</texture>
+	<text>Ембріон жіночої особини зомбі кидається у аномалію "Снігова".\n\n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]6 годин Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255, 1]100 %%c[default]</text>
+</article>
+<article id="emb13" name="Ембріон гігантського кабана" group="emb_mods">
+	<texture x="0" y="350" width="300" height="50">ui\ui_emb</texture>
+	<text>Ембріон гігантського кабана виходить шляхом спільної трансмутації у аномалії "Жарка" відразу чотирьох інгредієнтів:\n\n
+		Ембріон кабана\n
+		Ембріон плоті\n
+		Ембріон чорнобильського псевдопса\n
+		Копито кабана\n\n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]5 хвилин Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]100 %%c[default]</text>
+</article>
+<article id="emb14" name="Ембріон гігантського псевдогіганта" group="emb_mods">
+	<texture x="0" y="400" width="300" height="50">ui\ui_emb</texture>
+	<text>Ембріон гігантського псевдогіганта виходить шляхом спільної трансмутації у аномалії "Трамплін" відразу чотирьох інгредієнтів:\n\n
+		Ембріон псевдогіганта\n
+		Ембріон снорка\n
+		Ембріон гігантського кабана\n
+		Рука псевдогіганта\n\n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]5 хвилин Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]100 %%c[default]</text>
+</article>
+<article id="emb15" name="Ембріон стрибаючого псевдогіганта" group="emb_mods">
+	<texture x="350" y="250" width="150" height="50">ui\ui_emb</texture>
+	<text>Ембріон гігантського псевдогіганта кидається у аномалію "Карусель".\n\n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]4 години Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]100 %%c[default]</text>
+</article>
+<article id="emb16" name="Ембріон електрохимери" group="emb_mods">
+	<texture x="0" y="450" width="300" height="50">ui\ui_emb</texture>
+	<text>Ембріон електрохимери виходить шляхом спільної трансмутації у аномалії "Електра" відразу чотирьох інгредієнтів:\n\n
+		Ембріон дикого кота\n
+		Кіготь химери\n
+		Ембріон стрибаючого псевдогіганта\n
+		Ембріон псі-собаки\n\n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]5 хвилин Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]100 %%c[default]</text>
+</article>
+<article id="emb17" name="Ембріон примарною хімери" group="emb_mods">
+	<texture x="0" y="500" width="300" height="50">ui\ui_emb</texture>
+	<text>Ембріон примарної химери виходить шляхом спільної трансмутації у аномалії "Торнадо" відразу чотирьох інгредієнтів:\n\n
+		Ембріон химери\n
+		Ембріон електрохимери\n
+		Ембріон гігантського кабана\n
+		Ембріон примарного зомбі\n\n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]2 години Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]100 %%c[default]</text>
+</article>
+
+<article id="emb_kill_tm" name="Вбити Тінь Моноліту" article_type="task">
+	<text>Шахтар попросив мене вбити Тінь Моноліту. Та я й сам не проти від нього позбавитися. Він безсмертний, але, здається, Захар знає, як вирішити це питання. Потрібно у нього довідатися.</text>
+</article>
+<article id="embt_vp1" name="Знайти схованку Мисливця" article_type="task">
+	<text>Захар сказав, що можна зробити ембріон Тіні Моноліту і таким чином вбити його. Додаткова інформація з цього питання знаходиться у схованці Мисливця у магазині "Книги" у Східній Прип'яті.</text>
+</article>
+<article id="emb_container" name="Знайти контейнер для ембріонів" article_type="task">
+	<text>Сахарову для експериментів потрібен контейнер для ембріонів. Він може бути у одній з невидимих схованок.</text>
+</article>
+<article id="embt_td1" name="Знайти невидиму схованку" article_type="task">
+	<text>Скнара сказав, що у Зоні з'явилися невидимі схованки. Нібито їх практично не видно, але вони "музичні". Що Скнара мав на увазі - я не зрозумів, але він сказав, що потрібно "тримати вушка на маківці". Одна така схованка повинна бути у районі бази бандитів у Темній Долині. Покищо нічого незрозуміло, потрібно йти у Темну Долину і розбиратися з цим.</text>
+</article>
+<article id="emb" name="Знайти всі невидимі схованки" article_type="task">
+	<text>Судячи по записці, знайденій у першій невидимій схованці, всі ці невидимі "музичні" схованки якийсь таємничий сталкер вибудував у один ланцюжок. Мені потрібно знайти їх усі, пройшовши по цьому ланцюжку до кінця.</text>
+</article>
+<article id="embt_sak1" name="Розібратися зі співом горобців" article_type="task">
+	<text>Сяк розповів, що якийсь сталкер у білому одязі, який заходив до нього, чув цвірінькання горобців на Радарі у районі переходу на Армійські Склади. І що там може бути такого особливого?</text>
+</article>
+
+<!-- Острова -->
+<article id="fli" name="Розкрити таємницю островів" article_type="task">
+	<texture x="0" y="0" width="256" height="256">snp\fly_island</texture>
+    <text>\nПрайм сказав, що декодери з частинами коду до ЗРК розкидані по Зоні по недавно утвореним аномальним літаючим островам. Мені потрібно зібрати всі частини коду, розшифрувати його і потрапити всередину ЗРК. Скільки їх і де вони - невідомо, але Прайм буде мені допомагати по ходу пошуків, повідомляючи всю наявну у нього інформацію.</text>
+</article>
+<article id="fli_bar2" name="Забрати хабар Бариги" article_type="task">
+    <text>Бармен сказав, що якийсь сталкер на прізвисько Барига перед відходом за Периметр залишив у Зоні свій хабар. У декодері, який Бармен віддав мені, говориться, що починати пошук потрібно з бази військових на Агропромі.</text>
+</article>
+<article id="fli_snegir" name="Знайти хлопця Марії" article_type="task">
+    <text>Марія прийшла у Зону, щоб знайти свого хлопця, з яким вони заручені. Його звуть Славко Снігур. Я був зворушений її історією і вирішив їй допомогти.</text>
+</article>
+<article id="fli_chaes" name="Звільнити групу Снігура" article_type="task">
+    <text>Як Калинін і припускав, група Снігура потрапила у полон до монолітівців. Потрібно звільнити їх і зберегти їх усіх у живих. Ця робота вимагає терпіння і холоднокровності. Потрібно акуратно, з хорошої снайперки ліквідувати увесь Моноліт, намагаючись зовсім не попадатися їм на очі. Маскхалатом користуватися не можна. Тому мені потрібно діяти спокійно і розважливо. Не можна йти з тієї частини даху четвертого реактора, де я зараз перебуваю, інакше вони виявлять мене і вб'ють бранців.</text>
+</article>
+<article article_type="journal" group="fli_data" id="fli_have36" name="Декодер з Юпітера">
+    <text>Залишено резервну схованку у цеху, де транспортний шлюз заводу Юпітер.</text>
+</article>
+<article article_type="journal" group="fli_data" id="fli_have29" name="Декодер з Генераторів">
+    <text>Інформація зашифрована.</text>
+</article>
+<article article_type="journal" group="fli_data" id="fli_have29_decoded" name="Запис декодера з Генераторів">
+    <text>Залишено резервну схованку на одному з дахів ЧАЕС-2. Щоб дістатися до неї, потрібно пройти ланцюжок схованок. Починати слід з невеликої прибудови до основного корпусу ЧАЕС, поряд з вагоном.</text>
+</article>
+<article article_type="journal" group="fli_data" id="fli_have37" name="Декодер зі Східної Прип'яті">
+    <text>Для того, хто знайде цей декодер, залишено резервну схованку. Шукати треба на одному з дахів Зони. Щоб дізнатися, де цей дах, потрібно розгадати словосполучення. Словосполучення пишу дослівно: "Попереду варта (Впереди стража)".</text>
+</article>
+<article article_type="journal" group="fli_data" id="fli_have33" name="Декодер з Боліт">
+    <text>Залишено резервну схованку на блокпосту на Кордоні.</text>
+</article>
+<article article_type="journal" group="fli_data" id="fli_have35" name="Декодер із Затона">
+    <text>Залишено резервну схованку на Затоні за велосипедистом.</text>
+</article>
+<article article_type="journal" group="fli_data" id="fli_have31" name="Декодер з Червоного лісу">
+    <text>Залишено резервну схованку у Червоному лісі у вбиральні.</text>
+</article>
+<article article_type="journal" group="fli_data" id="fli_have9" name="Декодер з Янтаря">
+    <text>Залишено резервну схованку у Мертвому Місті у одному з будинків по вулиці Рябко.</text>
+</article>
+<article article_type="journal" group="fli_data" id="fli_have1" name="Декодер з Кордону">
+    <text>Залишено резервну схованку на базі військових на Агропромі.</text>
+</article>
+<article article_type="journal" group="fli_data" id="fli_have_code" name="Код до дверей на ЗРК «Волхов»">
+    <text>Прайм вичислив код: 141592653.</text>
+</article>
+
+<!-- достижения -->
+<article article_type="journal" group="archievements" id="acv_has_cheated" name="Чітер">
+    <text>Ви зробили щось, що не можна зробити стандартними засобами гри, про що прийшло відповідне повідомлення. Якщо Ви не хочете мати це досягнення, то необхідно переграти з моменту, коли Ви його отримали і більше так не робити. Інакше це досягнення так і залишиться за Вами до кінця гри. При наявності цього досягнення будуть автоматично провалюватися ключові завдання основних сюжетів. Але при цьому ніякі сюжети зупинятися не будуть - Ви можете продовжувати грати і продовжувати чітерити і Ви обов'язково дійдете до кінця і пройдете всі сюжети. Просто деякі завдання будуть значитися у провалених, а не у виконаних, у нагадування Вам, що Ви порушили правила гри.</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_halavshic" name="Халявщик">
+    <text>Це досягнення видається, коли Ви прописуєте собі третій квестовий предмет через меню опцій гри. Справа у тому, що ніякі квестові предмети втратити не можливо. Їх можна тільки або не знайти, або пропустити і не виконати якесь завдання, у якому вони видаються. Звичайно, у силу різних причин втрати все ж можуть бути. Але втрата або незнаходження трьох і більше квестових предметів свідчить вже про недостатньо уважне проходження гри. Або про те, що Ви вирішили полегшити собі життя у Зоні і свідомо не стали виконувати деякі завдання. Іншими словами - зхалявити. Це досягнення на проходження не впливає, просто залишається Вам як нагадування про те, що Ви не змогли пройти 100% всіх квестів гри.</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_homak" name="Хом'як">
+    <text>Ви виконали сюжет на хом'яцтво. Роботи було багато, але Ви не полінувалися. За що і отримали це досягнення!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_lekar" name="Доктор Айболить">
+    <text>Ви дуже добре засвоїли урок Доктора і продовжуєте далі допомагати людям. Дуже приємно бачити у Зоні когось, хто думає не тільки про себе і власну вигоду. Такі люди дуже рідкісні, тому Ви і отримуєте це досягнення!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_tereza" name="Мати Тереза">
+    <text>Ви неймовірно добрі. Ви готові допомогати навіть тим, хто Вам зовсім не потрібний і від кого Вам не буде ніякої користі. Ця видатна поведінка однозначно достойна окремого досягнення!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_farm" name="Фармацевт">
+    <text>Гарик отримав від Вас вже понад 30 антирадів і аптечок. Ви прямо ходяча аптека якась! Зараз Гарик, напевно, самий здоровий сталкер у Зоні. Давайте побажаємо йому і далі залишатися таким же здоровим і прожити багато-багато років!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_mar" name="Мародер">
+    <text>Ви назбирали з трупів більше 50000 гривень. Що робити, це Зона, кожен виживає як може. Доводиться трупи обшукувати ретельно самому, інакше це зробить хтось інший.</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_rank1" name="Чемпіон">
+    <text>Ваш ранг перевалив рубіж у 10000 пунктів. Дуже серйозна заявка на лідерство серед інших досвідчених сталкерів Зони.</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_rank2" name="Герой Зони">
+    <text>Ваш ранг перевищив 30000. Це дуже круто!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_emb" name="Шеф-кухар">
+    <text>Ви нарешті зварили всі ембріони, які тільки можна зварити у грі. Тому Ви стали справжнім шеф-кухарем, який вміє готувати навіть дуже рідкісні і складні страви. Такі, наприклад, як ембріон вульфа!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_coll" name="Колекціонер">
+    <text>Ви знайшли всі схованки Колекціонера. Робота була дуже складна, але Ви впоралися, за що і отримуєте це досягнення!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_food" name="Хліборізка">
+    <text>Ви зібрали 200 їстівних предметів. Цілком очевидно, що Ви дуже любите їсти, інакше навіщо Вам одразу стільки?</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_vodka" name="Закодований">
+    <text>Ви зібрали 300 пляшок горілки. Мати таку кількість цього всіма улюбленого напою і не випити його - під силу тільки дуже міцно закодованому сталкеру!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_buliz" name="Каменщик">
+    <text>Ви зібрали 40 "Булижників". Враховуючи гострий дефіцит і практично повну відсутність користі з даних предметів у Зоні - це досить неординарний вчинок, що заслуговує на особливу увагу.</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_weapon" name="Термінатор">
+    <text>Ви назбирали аж 100 стволів! Дозвольте поцікавитися, а куди Вам стільки? Ви, напевно, на війну зібралися?</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_docs" name="Бібліотекар">
+    <text>Ви зібрали всі документи для генерала Вороніна. Вельми непроста була робітка!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_cognized_zone" name="То що пізнав Зону">
+    <text>Ви знайшли всі ручні телепорти на всі території Зони. Щоб виконати цю найскладнішу у всій грі задачу, Вам довелося проявити незвичайну старанність і вкрай уважно і ретельно досліджувати кожен куточок Зони. Після виконання цієї роботи Вас можна сміливо назвати Тим що пізнав Зону, бо не залишилося у Зоні місць, куди б не заглянув Ваш уважний і скрупульозний погляд!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_sishik" name="Слідчий">
+    <text>Ви знайшли всі важкодоступні схованки Кості, Старого Жила, Стрільця та Моноліту. Молодець.</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_money1" name="Нумізмат">
+    <text>Ви робите успіхи. Вам вдалося зібрати пристойний капітал - аж цілих 5 мільйонів. Вельми непоганий результат!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_money2" name="Рокфеллер">
+    <text>Ого! Незважаючи на всі труднощі, які Вам доводиться долати у Зоні, Ви стрімко багатієте! Ваш капітал перевалив за 15 мільйонів. Дуже хороший результат!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_money3" name="Жлоб">
+    <text>Усі люблять гроші. Але така сума - це вже перебір. Навіщо Вам стільки грошей у Зоні?</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_hell" name="Безстрашний">
+    <text>Ви пережили більше 10 Часів Жаху. Це говорить про те, що Ви не тільки не боїтеся Часів Жаху, більше того, вони Вам у деякій мірі навіть подобаються. І після такого гартування у Зоні вже не залишилося нічого, що може Вас налякати.</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_bribe" name="Чесний платник податків">
+    <text>Ви справно платите податки. Це видно по тому, що Ви віддали майору Кузнєцову за прохід вже більше ящика горілки, хоча є достатньо способів цього уникнути. Така поведінка однозначно повинна бути відзначена особливо.</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_alk" name="Алкоголік">
+    <text>Ви випили понад 50 пляшок горілки за три неповних ігрових місяці. Це означає, що Ви випивали не менше однієї пляшки через день. Погодьтеся, що, якби це відбувалося у реальному житті, то Вас вистачило б максимум на два тижні такого розпусного життя. І наслідки такого вживання могли б бути досить сумні. Кожна пляшка містить 200 грам чистого спирту. Множимо на 50 і отримуємо цілих 10 літрів! Для порівняння: всього крові у організмі людини близько 5 літрів. Але, тут у нас гра, і те, що Ви, незважаючи на таку кількість прийнятого на груди алкоголю, все ще перебуваєте у здоровому розумі й твердій пам'яті, і навіть продовжуєте відстрілювати монстрів і збирати артефакти, говорить про те, що у Ваших жилах вже давно замість крові тече чистий спирт! І залежність від нього у Вас вже давно сама справжня алкогольна. За що Ви і отримуєте це найпопулярніше серед сталкерської братії досягнення! Як не дивно, але набутий алко-досвід зміцнив Вас, і тепер Ви можете випивати в добу на одну пляшку більше.</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_kuv" name="Молотобоєць">
+    <text>Навіть не віриться. Семикілограмовою кувалдою Ви забили насмерть більше 100 монстрів, кожний з яких небезпечніший за іншого. Після такого тренування плечі у Вас вже давно повинні бути як у будівельника, і зараз якраз час спробувати себе на найближчому чемпіонаті світу з легкої атлетики в дисципліні метання молота. Що думаєте? Можливо, варто ризикнути?</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_top" name="Раскольніков">
+	<texture x="0" y="0" width="199" height="286">ui\acv_top</texture>
+    <text>Ви зарубали сокирою більше 100 монстрів. Особливо Ви полюбляли застосовувати цей інструмент до зомбованих ворогів, і, зокрема, до беззахисних бабусь. Хочеш, не хочеш, але все одно мимоволі згадується Раскольніков. Не шкода було стареньких то?\n \n \n \n \n</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_mach" name="Хірург">
+    <text>М'ясники на всіх м'ясних ринках мовчки заздрять Вам. Ваше мистецтво оброблення туш за допомогою мачете досягло хірургічної майстерності. Може, подумаєте про зміну професії? Хороші хірурги завжди дуже затребувані. І їм завжди добре платять. Набагато більше, ніж Ви зможете нарубати тут, у Зоні...</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_slp" name="Сонько">
+    <text>З неповних чотирьох місяців перебування у Зоні Ви проспали більше місяця. Враховуючи, що Зона - вкрай небезпечне місце, проспати в ній стільки часу і не бути з'їденим або вбитим уві сні - велика вдача. Вам позаздрить будь-який ховрашок. Звичайно, в реальному житті ми спимо набагато більше, але ж це Зона, тут повно справ. Виникає резонне питання: навіщо стільки спати, коли навколо так багато роботи?</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_tp" name="Льотчик">
+    <text>МОЗ Зони попереджає нас: ходити пішки корисно для здоров'я. Але всупереч своєму здоров'ю і незважаючи на досить високу вартість Ви скористалися різними ручними телепортами більше 50 разів, витративши на це досить пристойні гроші. Якби по Зоні можна було літати на літаку, Ви б напевно не випускали штурвал з рук, правда?</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_art" name="Зварювальник">
+    <text>Вітаємо! Ви змогли успішно зварити більше 100 артефактів! Щоб знайти таку їх кількість у Зоні, може знадобитися не один тиждень. У Вас явний талант зварювальника, не заривайте його у аномалію!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_snp" name="Снайпер">
+    <text>Ви неодноразово довели, що відмінно вмієте поводитися зі снайперською зброєю. Потрапити вогняному полтергейсту в око з 1000 метрів - для Вас пара дрібниць. Тепер всі живі істоти Зони, углядівши Вас, відразу згадують відомий афоризм: "Не бігай від снайпера - помреш втомленим!"</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_ct" name="Найманець">
+    <text>Ви неймовірно працьовиті. Ви успішно виконали вже понад 500 циклічних завдань. Така старанність однозначно гідна окремого досягнення!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_run" name="Електровіник">
+    <text>За допомогою Прискорювача Ви намотали по Зоні більше 30 км! Скажіть, Вас не укачало? Не нудить? Голова не паморочиться? Судячи з того, що Ви все ще тут, значить все в порядку!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_aem" name="Герой Арени">
+    <text>Ви успішно пройшли всю Арену. Тепер Вас там всі бояться.</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_kill" name="Кілер">
+    <text>Ви вбили вже більше 4000 мешканців Зони, багато з яких були озброєні і захищені набагато краще Вас. Але при цьому Ви самі продовжуєте залишатися цілком собі живим і здоровим. Цілком очевидно, що крутіше Вас кілера у Зоні немає!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_mons" name="Браконьєр">
+	<texture x="0" y="0" width="383" height="512">ui\acv_mons</texture>
+    <text>Ви очистили Зону вже більше ніж від 7000 монстрів. Це дуже багато. Звичайно, всі вони дуже небезпечні, тому їх доводиться відстрілювати. Ви внесли у цю справу дуже великий внесок, за що і отримуєте це досягнення у хорошому сенсі цього слова! Цікаво як ці монстри примудряються так швидко розмножуватися?\n\n\n\n\n</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_zoms" name="Могильник">
+    <text>Відразу видно, що Ви любите зомбі! Ви їх настріляли вже більше 1000 штук. Цікаво, з яких могил вони вилазять у такій кількості? Адже у Зоні практично немає кладовищ...</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_death" name="Юрій Семецький">
+    <text>За час перебування у Зоні Ви загинули вже більше 500 разів, і при цьому все ще живі і відносно здорові. Вам дико заздрить навіть Юрій Семецький, не кажучи вже про всіх інших сталкерів Зони, яким вдається померти не більше одного разу. Скажіть, тільки між нами: у чому секрет Вашої такої незвичайної живучості?</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_anoms" name="Підкорювач Аномалій">
+	<texture x="0" y="0" width="383" height="512">ui\acv_anoms</texture>
+    <text>Отримання цього досягнення означає, що Ви загинули у аномаліях вже більше 20 разів. Враховуючи, що аномалій у Зоні стало набагато менше, всі вони дуже добре видні здалеку, і далеко не всі при контакті викликають летальний результат, можна сміливо стверджувати, що Вам подобається гинути саме у аномаліях, і з усіх способів покінчити з собою у Зоні Ви чомусь вибрали саме цей! Вам, напевно, подобається споглядати ту красу, яка з'являється перед Вашим поглядом, коли Ви робите крок у аномалію, так?\n\n\n\n\n</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_real" name="Реаліст">
+    <text>Ви отримали це досягнення за те, що до цього моменту в підкоренні Зони жодного разу не скористалися найлегшим і місцями навіть чітерним рівнем складності "Розминка". Відмова від легких шляхів і прагнення до подолання складнощів реальними методами, безумовно, гідні окремого досягнення! Сподіваємося, що обраним шляхом Ви будете продовжувати слідувати і далі, до самого його завершення!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_neud" name="Невдаха">
+    <text>Вам довелося видалити через меню гри більш 20 проблемних об'єктів. Це дуже малоймовірно, так як була виконана вся необхідна робота з мінімізації виникнення подібних проблем. Але, мабуть, Вам якось особливо щастить на них, тому цей факт відзначений окремим досягненням. Дуже сподіваємося, що по життю Ви все-таки везунчик, бо, як кажуть: не щастить у картах - пощастить у коханні!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_task" name="Виконавець Завдань">
+    <text>Це досить рідкісне досягнення Ви отримали за те, що протягом всього перебування у зоні не провалили жодного завдання. Невідомо, чи брали Ви всі завдання, які є у Зоні, але ті завдання, за які Ви взялися - Ви виконали. Найчастіше це було складно. Часом навіть дуже. Але Ви впоралися, з чим Вас і вітаємо!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_vzn1" name="Спонсор">
+    <text>У суворих умовах Зони, коли кожен думає виключно тільки про себе, Ви проявили дивовижні і вкрай рідкісні у таких умовах якості: щедрість і безкорисливість! Ви погодилися допомогти тим багатьом нещасним, які, як і Ви, постраждали від Зони та її шкідливого впливу, і яких при цьому Ви абсолютно не знаєте! За що у результаті отримали більш ніж гідну нагороду, а також це досягнення!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_vzn3" name="Меценат">
+    <text>Виявляється, Ви не такий вже й щедрий і безкорисливий, як здалося спочатку. Прикинувши і порахувавши, що за підсумками першого кола внесків Ви отримали більше, ніж витратили, Ви вирішили використовувати їх для власної наживи, і вже зробили всі внески по третьому колу. Але це, у принципі, легко пояснити: тут Зона, і кожен виживає, як може...</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_resur" name="Воскрешатель Мертвих">
+    <text>Ви уважно стежили за всіма квестовиками, щоб вони були живі. Звичайно, деякі з них гинули, але Ви їх своєчасно воскрешали "Живим Серцем", і на даний момент, практично самий кінець гри, вони всі живі! Це дуже здорово!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_alive" name="Хранитель Життя">
+    <text>Протягом всієї гри Ви настільки ретельно піклувалися про всіх квестових персонажів, що Вам вдалося зробити неймовірне: на даний момент, практично самий кінець гри, вони всі живі! Більше того - за весь час їх перебування у Зоні ніхто з них ні разу не загинув! Це вкрай рідкісне і складне по виконанню досягнення вдається отримати дуже небагатьом сталкерам, з чим Вас і вітаємо!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_wpn" name="Збройний Барон">
+    <text>Вам вдалося зібрати повну колекцію всіх найрідкісніших стволів Зони. Ви знайшли всі стволи, які зустрічаються в одиничних екземплярах. Ви виконали всі квести, за які видавалася ця зброя і знайшли всі схованки, де вона була захована. Ви відбили в бою всі унікальні трофейні зразки. Ця воістину титанічна робота однозначно гідна окремого досягнення!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_volna" name="Захисник Зони">
+	<texture x="0" y="0" width="383" height="512">ui\acv_volna</texture>
+    <text>Ви зробили велику справу. Завдяки Вашій допомозі вдалося відбити небачену досі за своєю потужністю і небезпекою хвилю монстрів, яка загрожувала не тільки знищити Зону і все живе у ній, а й вирватися за Периметр. І тоді наслідки були б непередбачувані. Зона Вам вдячна. І за це вона нагороджує Вас цим досягненням!\n\n\n\n\n</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_shax" name="Шахіст">
+    <text>Те, що у Зоні гинуть люди, зовсім не означає, що злочинці, ховаючись тут від правосуддя, можуть відчувати себе у безпеці. І ви їм це добре показали. Хоча Шахіст і не пійманий, але Ви доклали всіх зусиль, щоб позбавити Зону від нього. За що і отримуєте це досягнення!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_sos" name="Служба Порятунку">
+    <text>Вам вдалося врятувати від вірної смерті тих, кого врятувати вже не було практично ніякої можливості. Вам вдалося повністю зберегти у живих квад Долгу, який потрапив у полон до бандитів у Темній Долині, а також відбити з лап монстрів божевільного сталкера на болоті біля бази Волі. Звичайно, цей сталкер все одно загинув, але Ви принаймні спробували його врятувати і зробили для цього все можливе. Це говорить про те, що Ваша любов до людей не знає меж. Ця якість настільки рідко зустрічається у Зоні, що вона гідна окремого досягнення!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_profi" name="Професіонал">
+    <text>Ви зробили неймовірне. Те, що зробити вдається рідкісним одиницям. Ви освоїли всі відомі на сьогодні фокуси і трюки, які дозволяє робити двигун гри і успішно ними скористалися! Тому Ви - справжній Професіонал Зони, що досяг не просто максимуму - досконалості у своїх ігрових навичках, за що і отримуєте це вкрай рідкісне і важке досягнення!</text>
+</article>
+<article article_type="journal" group="archievements" id="acv_stalker" name="S.T.A.L.K.E.R.">
+	<texture x="0" y="0" width="512" height="383">ui\acv_stalker</texture>
+    <text>Це найскладніше і рідкісне досягнення, яке є у Зоні. Його удостоюються отримати лише лічені одиниці. Отримання цього досягнення говорить про те, що Ви:\n\n
+- Успішно виконали не менше 99% всіх завдань, які є у грі.\n
+- Виконували кожне завдання з належною відповідальністю і ретельністю.\n
+- Уважно вивчали всі діалоги і всю інформацію, яка надавалася по ходу проходження.\n
+- Знайшли всі важкодоступні і бонусні схованки, а також всі основні схованки, на які немає наводок, так звані Easter Eggs, або Великодні Яйця.\n
+- За час перебування у Зоні Ви не втрачали можливості допомогти іншим, були достатньою мірою добрі, шляхетні, були уважні до дружніх НПСів і не були надмірно жадібним.\n
+- При цьому Ви ніде не чітерили явним чином. Принаймні, тими способами чітерства, які відстежувалися за час проходження, Ви жодного разу не скористалися.\n\nІншими словами, це рідкісне досягнення говорить про те, що Ви досягли вищої майстерності у Зоні і пізнали практично всі її таємниці. Тому можна з упевненістю сказати, що Ви - справжній S.T.A.L.K.E.R.!!!\n\n\n\n\n</text>
+</article>
+
+

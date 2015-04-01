@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="id_mp_money">
+		<text>Гроші</text>
+	</string>
+	<string id="mm_mp_pda_hunt">
+		<text>Бонус за КПК</text>
+	</string>
+	<string id="st_drink">
+		<text>випити</text>
+	</string>
+	<string id="st_mp_direct_ip">
+		<text>Прямий IP</text>
+	</string>
+	<string id="ui_mm_default">
+		<text>За замовч.</text>
+	</string>
+	<string id="ui_mm_detail_density">
+		<text>Щільність трави</text>
+	</string>
+	<string id="ui_mm_r2_sun">
+		<text>Тінь від сонця</text>
+	</string>
+	<string id="ui_mm_r2_sun_details">
+		<text>Тінь трави</text>
+	</string>
+	<string id="ui_mm_render_2">
+		<text>Рендер-2</text>
+	</string>
+	<string id="ui_pda_details">
+		<text># /деталі</text>
+	</string>
+	<string id="ui_st_btn_cancel">
+		<text>Відмінити</text>
+	</string>
+	<string id="ui_st_btn_no">
+		<text>Ні</text>
+	</string>
+	<string id="ui_st_btn_ok">
+		<text>ОК</text>
+	</string>
+	<string id="ui_st_btn_yes">
+		<text>Так</text>
+	</string>
+	<string id="ui_st_cant_run_r2">
+		<text>Ви не можете запустити другий рендер на цьому комп'ютері</text>
+	</string>
+	<string id="ui_st_conn_invalid_host">
+		<text>Помилка з'єднання: невірний хост</text>
+	</string>
+	<string id="ui_st_conn_invalid_pass">
+		<text>Помилка з'єднання: невірний пароль</text>
+	</string>
+	<string id="ui_st_conn_rejected_server">
+		<text>Помилка з'єднання: з'єднання перерване сервером</text>
+	</string>
+	<string id="ui_st_conn_sess_full">
+		<text>Помилка з'єднання: сервер заповнений</text>
+	</string>
+	<string id="ui_st_days">
+		<text>дн.</text>
+	</string>
+	<string id="ui_st_error">
+		<text>Помилка</text>
+	</string>
+	<string id="ui_st_file_exist_owerwrite_q">
+		<text>Файл із таким ім'ям вже існує. Перезаписати?</text>
+	</string>
+	<string id="ui_st_file_name_is_empty">
+		<text>Ім'я файлу порожнє</text>
+	</string>
+	<string id="ui_st_hours">
+		<text>год.</text>
+	</string>
+	<string id="ui_st_leave">
+		<text>Піти</text>
+	</string>
+	<string id="ui_st_mins">
+		<text>хв.</text>
+	</string>
+	<string id="ui_st_months">
+		<text>міс.</text>
+	</string>
+	<string id="ui_st_params">
+		<text>Параметри</text>
+	</string>
+	<string id="ui_st_secs">
+		<text>сек.</text>
+	</string>
+	<string id="ui_st_select_one_map">
+		<text>Будь ласка, оберіть хоча б одну карту</text>
+	</string>
+	<string id="ui_st_take_all">
+		<text>Узяти все</text>
+	</string>
+	<string id="ui_st_time_remains">
+		<text>Залишилося</text>
+	</string>
+	<string id="ui_st_trade">
+		<text>Торгувати</text>
+	</string>
+	<string id="ui_st_voting_disabled">
+		<text>Голосування відключене</text>
+	</string>
+	<string id="ui_st_want_to_leave_game_q">
+		<text>Ви справді хочете залишити Зону?</text>
+	</string>
+	<string id="ui_st_your_items">
+		<text>Речі Міченого</text>
+	</string>
+	<string id="st_game_over_press_jump">
+		<text>Натисніть ($$ACTION_JUMP$$) для виходу до головного меню</text>
+	</string>
+	<string id="st_level">
+		<text>Рівень</text>
+	</string>
+	<string id="st_opening_stream">
+		<text>Прощаюсь з усіма</text>
+	</string>
+	<string id="st_loading_cform">
+		<text>Прощаюсь з усіма</text>
+	</string>
+	<string id="st_prefetching_objects">
+		<text>Збираюсь в дорогу</text>
+	</string>
+	<string id="st_creating_new_game">
+		<text>Збираюсь в дорогу</text>
+	</string>
+	<string id="st_loading_alife_simulator">
+		<text>Збираюсь в дорогу</text>
+	</string>
+	<string id="st_server_connecting">
+		<text>Прощаюсь з усіма</text>
+	</string>
+	<string id="st_loading_saved_game">
+		<text>Забираю все з</text>
+	</string>
+	<string id="st_validating_cdkey">
+		<text>Перевірка ключа</text>
+	</string>
+	<string id="st_loading_ai_objects">
+		<text>Прощаюсь з усіма</text>
+	</string>
+	<string id="st_client_connecting_to">
+		<text>Прощаюсь з усіма</text>
+	</string>
+	<string id="st_client_spawning">
+		<text>Прощаюсь з усіма</text>
+	</string>
+	<string id="st_loading_textures">
+		<text>Прощаюсь з усіма</text>
+	</string>
+	<string id="st_client_synchronising">
+		<text>Відправляюсь у Зону</text>
+	</string>
+	<string id="st_server_starting">
+		<text>Збираюсь у дорогу</text>
+	</string>
+	<string id="st_loading_shaders">
+		<text>Прощаюсь з усіма</text>
+	</string>
+	<string id="st_loading_geometry">
+		<text>Прощаюсь з усіма</text>
+	</string>
+	<string id="st_loading_spatial_db">
+		<text>Прощаюсь з усіма</text>
+	</string>
+	<string id="st_loading_details">
+		<text>Прощаюсь з усіма</text>
+	</string>
+	<string id="st_loading_sectors_portals">
+		<text>Прощаюсь з усіма</text>
+	</string>
+	<string id="ui_st_conn_version_differs">
+		<text>Помилка з'єднання: Відрізняються версії</text>
+	</string>
+	<string id="ui_st_conn_cdkey_invalid">
+		<text>Помилка з'єднання: Невірний CD-Key</text>
+	</string>
+	<string id="ui_st_conn_cdkey_in_use">
+		<text>Помилка з'єднання: Такий CD-Key уже використовується</text>
+	</string>
+	<string id="ui_st_conn_cdkey_disabled">
+		<text>Помилка з'єднання: Ваш CD-Key заблоковано. Зв'яжіться зі службою підтримки</text>
+	</string>
+	<string id="ui_st_conn_new_patch">
+		<text>Доступний новий патч. \n Версія: %s\n %s\n Хочете завантажити його зараз?</text>
+	</string>
+	<string id="ui_st_conn_no_new_patch">
+		<text>Немає нових патчів</text>
+	</string>
+	<string id="ui_mm_delete_existing_file_q">
+		<text>Ви справді хочете видалити файл?</text>
+	</string>
+	<string id="st_game_paused">
+		<text>Пауза</text>
+	</string>
+	<string id="st_bolt">
+		<text>Болт</text>
+	</string>
+	<string id="st_items">
+		<text>Предмети</text>
+	</string>
+	<string id="st_video">
+		<text>Відео</text>
+	</string>
+	<string id="st_audio">
+		<text>Звук</text>
+	</string>
+	<string id="st_game">
+		<text>Гра</text>
+	</string>
+	<string id="st_controll">
+		<text>Управління</text>
+	</string>
+	<string id="ui_st_connecting_to_masterserver">
+		<text>Прощаюсь з качками</text>
+	</string>
+	<string id="mp_only_one_voting">
+		<text>Дозволене лише одне активне голосування</text>
+	</string>
+	<string id="ui_st_patch_download_success">
+		<text>Патч успішно завантажений. Встановити?</text>
+	</string>
+	<string id="ui_st_patch_download_error">
+		<text>Неможливо завантажити патч</text>
+	</string>
+	<string id="ui_st_load_game_confirm">
+		<text>Завантаження гри призведе до втрати незбережених даних. Бажаєте продовжити?</text>
+	</string>
+	<string id="ui_st_invalid_saved_game">
+		<text>Не співпадає версія збереженої гри або збережена гра пошкоджена.</text>
+	</string>
+</string_table>

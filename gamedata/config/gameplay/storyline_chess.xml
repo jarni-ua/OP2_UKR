@@ -1,0 +1,163 @@
+
+<article id="storyline_chess_player" name="Звукова Епопея" article_type="task">
+	<text>storyline_chess_player</text>
+</article>
+
+<article id="storyline_chess_notes" name="Кримінальне Чтиво" article_type="task">
+	<text>storyline_chess_notes</text>
+</article>
+
+<article id="storyline_af_kamen_udachy" name="Кам'яний Невдаха" article_type="task">
+	<text>storyline_af_kamen_udachy</text>
+</article>
+
+<article id="storyline_dock_correspondence" name="Поштовий Роман" article_type="task">
+	<text>storyline_dock_correspondence</text>
+</article>
+
+<article id="storyline_repairman_health" name="Здоров'я Василя" article_type="task">
+	<text>storyline_repairman_health</text>
+</article>
+
+<article id="storyline_dialogue_cold" name="Інфаркт Міокарду" article_type="task">
+	<text>storyline_dialogue_cold</text>
+</article>
+
+<article id="storyline_dialogue_dead_cold" name="Ці Очі Напроти" article_type="task">
+	<text>storyline_dialogue_dead_cold</text>
+</article>
+
+<article id="storyline_set_apocalypse_two" name="Набір Для Апокаліпсису" article_type="task">
+	<text>storyline_set_apocalypse_two</text>
+</article>
+
+<article id="storyline_narration_oldman_be" name="Чорна Мітка" article_type="task">
+	<text>storyline_narration_oldman_be</text>
+</article>
+
+<article id="storyline_misunder_countryman_bad" name="Істина Десь Поряд" article_type="task">
+	<text>storyline_misunder_countryman_bad</text>
+</article>
+
+<article id="storyline_sugar_poll_gon" name="Навколо Одна Вода" article_type="task">
+	<text>storyline_sugar_poll_gon</text>
+</article>
+
+<article id="storyline_request_idler_helped" name="Мавпа З Гранатою" article_type="task">
+	<text>storyline_request_idler_helped</text>
+</article>
+
+<article id="storyline_maple_rustles_off" name="Нескінченність Всесвіту" article_type="task">
+	<text>storyline_maple_rustles_off</text>
+</article>
+
+<article id="storyline_cunning_forester_off" name="Грибна Солянка" article_type="task">
+	<text>storyline_cunning_forester_off</text>
+</article>
+
+<article id="storyline_lonely_monolith" name="Голубий Еліпс" article_type="task">
+	<text>storyline_lonely_monolith</text>
+</article>
+
+<article id="storyline_shadow_kill" name="Тінь На Тин" article_type="task">
+	<text>storyline_shadow_kill</text>
+</article>
+
+<article id="storyline_glitch_object_on" name="Глючний Об'єкт" article_type="task">
+	<text>storyline_glitch_object_on</text>
+</article>
+
+<article id="storyline_sugar_contract_on" name="Опричник Царя Небесного" article_type="task">
+	<text>storyline_sugar_contract_on</text>
+</article>
+
+<article id="storyline_document_chimera_on" name="Народні Месники" article_type="task">
+	<text>storyline_document_chimera_on</text>
+</article>
+
+<!--- Журнал --->
+
+<article article_type="journal" group="chess" id="jour_course_1" name="Перший хід">
+ <texture x="0" y="0" width="400" height="368">chessplayer\1</texture>
+ <text>str_jour_course_1</text>
+</article>
+
+<article article_type="journal" group="chess" id="jour_course_2" name="Другий хід">
+ <texture x="0" y="0" width="400" height="368">chessplayer\2</texture>
+ <text>str_jour_course_2</text>
+</article>
+
+<article article_type="journal" group="chess" id="jour_course_3" name="Третій хід">
+ <texture x="0" y="0" width="400" height="368">chessplayer\3</texture>
+ <text>str_jour_course_3</text>
+</article>
+
+<article article_type="journal" group="chess" id="jour_course_4" name="Четвертий хід">
+ <texture x="0" y="0" width="400" height="368">chessplayer\4</texture>
+ <text>str_jour_course_4</text>
+</article>
+
+<article article_type="journal" group="chess" id="jour_course_5" name="Пятий хід">
+ <texture x="0" y="0" width="400" height="368">chessplayer\5</texture>
+ <text>str_jour_course_5</text>
+</article>
+
+<article article_type="journal" group="chess" id="jour_course_6" name="Шостий хід">
+ <texture x="0" y="0" width="400" height="368">chessplayer\6</texture>
+ <text>str_jour_course_6</text>
+</article>
+
+<article article_type="journal" group="chess" id="jour_course_7" name="Сьомий хід">
+ <texture x="0" y="0" width="400" height="368">chessplayer\7</texture>
+ <text>str_jour_course_7</text>
+</article>
+
+<article article_type="journal" group="chess" id="jour_course_8" name="Восьмий хід">
+ <texture x="0" y="0" width="400" height="368">chessplayer\8</texture>
+ <text>str_jour_course_8</text>
+</article>
+
+<article article_type="journal" group="chess" id="jour_course_9" name="Дев'ятий хід">
+ <texture x="0" y="0" width="400" height="368">chessplayer\9</texture>
+ <text>str_jour_course_9</text>
+</article>
+
+<article article_type="journal" group="chess" id="jour_course_10" name="Десятий хід">
+ <texture x="0" y="0" width="400" height="368">chessplayer\10</texture>
+ <text>str_jour_course_10</text>
+</article>
+
+<article article_type="journal" group="chess" id="jour_course_11" name="Одинадцятий хід">
+ <texture x="0" y="0" width="400" height="368">chessplayer\11</texture>
+ <text>str_jour_course_11</text>
+</article>
+
+<article article_type="journal" group="chess" id="jour_course_12" name="Дванадцятий хід">
+ <texture x="0" y="0" width="400" height="368">chessplayer\12</texture>
+ <text>str_jour_course_12</text>
+</article>
+
+<article article_type="journal" group="chess" id="jour_course_13" name="Тринадцятий хід">
+ <texture x="0" y="0" width="400" height="368">chessplayer\13</texture>
+ <text>str_jour_course_13</text>
+</article>
+
+<article article_type="journal" group="chess" id="jour_course_14" name="Чотирнадцятий хід">
+ <texture x="0" y="0" width="400" height="368">chessplayer\14</texture>
+ <text>str_jour_course_14</text>
+</article>
+
+<article article_type="journal" group="chess" id="jour_course_15" name="П'ятнадцятий хід">
+ <texture x="0" y="0" width="400" height="368">chessplayer\15</texture>
+ <text>str_jour_course_15</text>
+</article>
+
+<article article_type="journal" group="chess" id="jour_course_16" name="Шістнадцятий хід">
+ <texture x="0" y="0" width="400" height="368">chessplayer\16</texture>
+ <text>str_jour_course_16</text>
+</article>
+
+<article article_type="journal" group="chess" id="jour_course_17" name="Сімнадцятий хід">
+ <texture x="0" y="0" width="400" height="368">chessplayer\17</texture>
+ <text>str_jour_course_17</text>
+</article>
