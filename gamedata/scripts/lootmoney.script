@@ -37,9 +37,10 @@ end
 -- автообыск трупа. список переносимых предметов. поиск по частичному совпадению.
 local favorites = {
 	"ammo",
+	"money_loot",
 	"grenade",
 	"medkit",
---	"bandage",
+	"bandage",
 	"antirad",
 	"suvorotka",
 	"vodka"
@@ -68,7 +69,7 @@ end
 
 function transfer_favorite(item)
 	for k,v in pairs(favorites) do
-		if string.find(item:section(), v) then
+		if string.find(item:section(), v) and out_object:object(item:section()) then
 			out_object:transfer_item(item, db.actor)
 		end
 	end
