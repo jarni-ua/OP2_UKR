@@ -293,7 +293,8 @@ visual                   	= weapons\spas12\wpn_spas12h.ogf
 
 snd_shoot					= weapons\spas12\spas12h_shot      
 snd_open_weapon				= weapons\spas12\spas12h_open		
-snd_add_cartridge				= weapons\spas12\load        
+snd_add_cartridge				= weapons\spas12\load 
+snd_close_weapon			      = weapons\spas12\spas12_close, 1.0, 0.25	       
 
 [wpn_spas12_m1_hud]:wpn_spas12_hud
 fire_point      			= 0.010000,0.140000,0.068500
@@ -392,34 +393,87 @@ zoom_offset				= -0.108000,0.025000,-0.113000
 zoom_rotate_x			= 0.012000
 zoom_rotate_y			= 0.017500
 
-;--------------------------------------------------------------
-;;;;;;;;;;;;;;;;;;;;;; Снайперская LR300 ;;;;;;;;;;;;;;;;;;;;;;
-;--------------------------------------------------------------
-[wpn_lr300_m1]:wpn_lr300	
-$spawn             				= "weapons\uniq\wpn_lr300_m1"	
+;-----------------------------------------------------------------------------------------------
+;;;;;;;;;;;;;;;;;;;;;; Снайперская LR300 /новая моделька от Александрыча/ ;;;;;;;;;;;;;;;;;;;;;;
+;-----------------------------------------------------------------------------------------------
+[wpn_lr300_m1]:wpn_lr300
 description						= enc_weapons1_wpn-lr300_m1
 inv_name						= wpn-lr300_m1
 inv_name_short					= wpn-lr300_m1
-rpm							= 300
-fire_dispersion_base			= 0.025
-fire_modes				      = 1
-scope_status				= 1
-scope_zoom_factor				= 12
-scope_texture					= Arsenal_Mod\crosshairs\pk_a_scope ;wpn\HAKKO-15CH-b-AMK-N	
-silencer_status					= 1
-condition_shot_dec 				= 0.000005
-inv_grid_x						= 0
-inv_grid_y						= 26
+cost					= 11500
+inv_weight				= 3.5
+fire_modes				= 1, 2, 3
 
-smoke_particles 				= weapons\generic_shoot_00
-flame_particles					= 
-light_disabled					= true
-inv_weight				            = 4.2
-;------------ S.T.A.L.K.E.R`s sound remake --------------
+inv_grid_x				= 0
+inv_grid_y				= 26
+
+fire_dispersion_base		= 0.025
+control_inertion_factor		= 1.05f
+cam_relax_speed        		= 18.5
+cam_dispersion         		= 0.15
+cam_dispersion_inc		= 0.15
+cam_dispertion_frac		= 0.25
+cam_max_angle			= 4
+cam_max_angle_horz		= 3.0
+cam_step_angle_horz		= 0.25
+
+condition_shot_dec 		= 0.000025
+
+fire_point             	= 0,0.210,0.60
+flame_particles		= weapons\generic_shoot_00 
+shell_point		 	= 0,0.210,0.089 
+PDM_disp_base 			= 1.2
+
+visual                  = weapons\lr300\wpn_lr300snip.ogf
+hud                     = wpn_lr300snip_hud
+
+hit_power        	  = 0.8
+fire_distance       = 600
+bullet_speed	  = 980
+rpm                 = 950 
+
+silencer_hit_power       	= 0.8
+silencer_fire_distance   	= 480
+silencer_bullet_speed	 	= 910
+
+scope_status			= 1
+silencer_status			= 1
+grenade_launcher_status	      = 0
+scope_zoom_factor			= 12
+scope_texture			= Arsenal_Mod\crosshairs\scope2
+
+snd_draw			= weapons\bull\sw_draw, 1.0, 0.15
+snd_holster			= weapons\bull\sw_host, 1.0, 0.22  
 snd_shoot			= weapons\lr300\lr300_m1_shot
 snd_shoot1			= weapons\lr300\lr300_m1_shot
 snd_shoot2			= weapons\lr300\lr300_m1_shot
 snd_shoot3			= weapons\lr300\lr300_m1_shot
+snd_reload			= weapons\sbr\sbr_reload, 1.0, 0.15
+snd_silncer_shot		= weapons\lr300\lr300_m1_shot
+
+[wpn_lr300snip_hud]
+shell_point          		= 0.05, -0.031, -0.1535
+shell_dir		 		= 0.0, 1.0, 0.0
+
+fire_point       	        = 0.0005,-0.0138,0.010
+fire_bone        	        = wpn_body
+orientation      	        = 2, 2, 0
+position         	        = 0.12,-0.036,0.14
+visual           	        = weapons\lr300\wpn_lr300snip_hud.ogf
+
+anim_idle			= idle
+anim_idle_aim		= idle_aim
+anim_reload			= reload
+anim_draw			= draw
+anim_holster		= holster
+anim_shoot			= shoot_1
+anim_idle_sprint		= idle_sprint
+
+;смещения HUD для режима приближения
+;режим обычной стрельбы
+zoom_offset			= -0.1206,0.02105,-0.16
+zoom_rotate_x		= -0.0142
+zoom_rotate_y		= -0.002
 
 ;------------------------------------------------------------
 ;;;;;;;;;;;;;;;;;;;;;; Гаусс Призрака ;;;;;;;;;;;;;;;;;;;;;;;

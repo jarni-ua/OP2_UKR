@@ -525,7 +525,7 @@ function collectExplosivesAll()
 	local levelName
 	local correct
 	local parent_id
-	local obj
+	local obj, se_obj, p_obj
 	local explTmp
 	local t
 	local sect
@@ -680,7 +680,7 @@ function explode_r(ob)
 			else -- для тайников и трупов
 				if db.actor then
 					local packet
-					local sect
+					local sect, se_obj
 					local items = {}
 					local inv_obj
 					for i = 1, 65534 do
@@ -882,10 +882,10 @@ function hitExplosive(ob)
 		--amk.send_tip("Наносим повреждение взрывчатке: id "..ob:id()..", name "..ob:name())
 	local h = hit()
 	h.power = 2000
-	h.impulse = 0
+	h.impulse = 100
 	h.draftsman = ob
 	h.direction = vector():set(0,0,0)
-	h.type = hit.fire_wound
+	h.type = hit.explosion
 	ob:hit(h)
 end
 end

@@ -10,7 +10,6 @@
 
 		<class>val_bandit_borov</class>
 		<community>bandit</community> <terrain_sect>stalker_bandit_terrain</terrain_sect>
-		
 		<rank>621</rank>
 		<hit_probability_factor>1.5</hit_probability_factor>
 		<reputation>-147</reputation>
@@ -24,11 +23,9 @@
 			ammo_9x19_pbp = 2 \n
 			wpn_mp5sd \n
 			ogg_flash_15 \n
-			device_torch \n
-			
-		</supplies>
-				
-#include "gameplay\character_criticals_4.xml"
+			device_torch
+		</supplies>	
+	#include "gameplay\character_criticals_4.xml"
 	#include "gameplay\character_dialogs.xml"				
 		<start_dialog>borov_start_dialog</start_dialog>
 		<actor_dialog>borov_11_dialog</actor_dialog>
@@ -46,6 +43,8 @@
 		<actor_dialog>borov_bottle_done</actor_dialog>
 		<actor_dialog>night_watch_start</actor_dialog>
 		<actor_dialog>night_watch_done</actor_dialog>
+		<!--<actor_dialog>trofim_joke_borov</actor_dialog>
+		<actor_dialog>trofim_joke_borov_done</actor_dialog>
 		<!-- Akill end -->
 		<actor_dialog>krysyk_pomer_start_dialog</actor_dialog>
 		<actor_dialog>krysyk_pomer_finish_dialog</actor_dialog>

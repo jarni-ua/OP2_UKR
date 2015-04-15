@@ -3445,7 +3445,7 @@
             <infoportion_complete>foto_ohota_polter</infoportion_complete> 
         </objective>
 		<objective>
-            <text>Запеклий полтергейст</text>
+            <text>Піро-полтергейст</text>
             <infoportion_complete>foto_ohota_poltergeist_dd</infoportion_complete> 
         </objective>
 		<objective>
@@ -4369,5 +4369,31 @@
 			<map_location_type hint="Калинін">blue_location</map_location_type>
 			<object_story_id>atp_kalinin</object_story_id>
             <infoportion_complete>kalinin_box_done</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- ТЕЛОХРАНИТЕЛЬ -->
+	<game_task id="trofim_joke" prio="0">
+        <title>Тілоохоронець</title>
+        <objective>
+            <text>Тілоохоронець</text>
+            <icon>ui_iconsNpc_soldier_bandana_6</icon>
+            <infoportion_complete>trofim_joke_borov_done</infoportion_complete>
+			<infoportion_fail>trofim_npc_dead</infoportion_fail>
+			<article>trofim_joke</article>
+        </objective>
+		<objective>
+            <text>Супроводити п'яного Трофима до бази</text>
+            <infoportion_complete>trofim_joke_have</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Поговорити з Трофимом</text>
+            <infoportion_complete>trofim_joke_done</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Розповісти про все Кабану</text>
+			<map_location_type hint="Кабан">blue_location</map_location_type>
+			<object_story_id>val_borov</object_story_id>
+            <infoportion_complete>trofim_joke_borov_done</infoportion_complete>
         </objective>
     </game_task>

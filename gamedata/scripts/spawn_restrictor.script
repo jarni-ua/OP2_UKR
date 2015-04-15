@@ -990,6 +990,15 @@ local custom = "[logic]\n"..
 rewrite_restrictor(se_obj, custom, 15.0)
 level.map_add_object_spot_ser(se_obj.id, "crlc_big", "Ящик з патронами №5")
 end
+function trofim_joke_sr1()
+local se_obj = alife():create("space_restrictor",vector():set(96.73291015625,2.346161365509,-506.64483642578),291167,949)
+local custom = "[logic]\n"..
+"active = sr_idle\n"..
+"[sr_idle]\n"..
+"on_actor_inside = nil %=akill.trofim_npc_spawn%"
+rewrite_restrictor(se_obj, custom, 65.0)
+level.map_add_object_spot_ser(se_obj.id, "crlc_big", "Рашукати бандита")
+end
 -- Akill end
 
 ------------

@@ -214,7 +214,7 @@ function returner_allowed()
 	elseif returner_pos:distance_to_xz(db.actor:position()) > 30 then 
 		news_manager.send_tip(db.actor, "Повернення неможливо через занадто велику відстань. Для зміни позиції натисніть двічі клавішу Повертальника.", nil, "nano", 20000)
 		return false
-	elseif returner_pos:distance_to_xz(db.actor:position()) < 1 then 
+	elseif returner_pos:distance_to(db.actor:position()) < 1 then 
 		news_manager.send_tip(db.actor, "Занадто мала відстань між поточною і заданої позицією. Для виконання повернення потрібно відійти подалі.", nil, "nano", 20000)
 		return false
 	end

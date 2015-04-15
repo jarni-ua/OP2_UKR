@@ -291,15 +291,7 @@ end
 function sms_ot_strelka()
 	if db.actor:has_info("crazy_doktor_dead") then return end
 	news_manager.send_tip(db.actor, "%c[255,160,160,160]".."МІЧЕНИЙ:".."\\n".."%c[255,255,128,128]Захар, я вийшов на одного зхибленого доктора, у хлопця вежу знесло геть. При собі у нього важливі документи, потрібно за будь-яку ціну дістати їх, інакше результати експериментів потраплять не в ті руки!".."".."\n", nil, nil, 20000)
-	amk.start_timer("run", 25.0, "akill.sms_ot_zahara()")
-end
-
--- Если доктор все еще жив, то через 25 секунд от Захара приходит смс
-function sms_ot_zahara()
-	if db.actor:has_info("crazy_doktor_dead") then return end
-	news_manager.send_tip(db.actor, "%c[255,160,160,160]".."ЗАХАР:".."\\n".."%c[255,255,128,128]Мічений, вали цього доктора і забери документи!".."".."\n", nil, nil, 15000)
-	local snd_obj = xr_sound.get_safe_sound_object ([[characters_voice\human_01\ecolog\fight\attack\attack_one_4]])                                                                     
-	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+	news_manager.send_tip(db.actor, "%c[255,160,160,160]".."ЗАХАР:".."\\n".."%c[255,255,128,128]Мічений, вали цього доктора і забери документи!".."".."\n", 20, nil, 15000)
 end
 
 function ohota_labx16_done(task, info)
@@ -3579,9 +3571,7 @@ function checking_taken_item77(obj)
 end
 function ohota_wolf_done()
     sak.create_items_actor("keis_key",1)
-    sak.create_items_actor("ammo_12x70_kart",5)
-    sak.create_items_actor("af_armor_3",1)
-    sak.create_items_actor("af_kol_3",1)
+    sak.create_items_actor("ammo_23x76_shrap",3)
 	local obj
     for a=1,65535,1 do
     obj=alife():object(a)
@@ -4287,7 +4277,7 @@ function clear_saharov_soft(first_speaker, second_speaker)
 end
 function fantoms_pda_done()
 	sak.out_item_namber("spekulyant_pda",1)
-	news_manager.send_tip(db.actor, "%c[255,160,160,160]".."КОМАНДИР ГРУПИ МОНОЛІТУ:".."\\n".."%c[255,255,128,128]КБО зачищений від мутантів. 1 взвод залишається у КБО для охорони периметра, 2 взвод зачищає Х-8, 3 взвод забезпечує прикриття вчених. Наукова група може висунутися у лабораторію після підтвердження зачистки.".."".."\n", nil, "monolith", 30000)
+	news_manager.send_tip(db.actor, "%c[255,160,160,160]".."КОМАНДИР ГРУПИ МОНОЛІТУ:".."\\n".."%c[255,255,128,128]КБО зачищений від мутантів. 1 взвод залишається у КБО для охорони периметра, 2 взвод зачищає Х-8, 3 взвод забезпечує прикриття вчених. Наукова група може висунутися у лабораторію після підтвердження зачистки.".."".."\n", 4, "monolith", 25000)
 	alife():create("monolith_x8_veteran",vector():set(24.868602752686,4.6726241111755,288.27783203125),231198,3760)
 	alife():create("monolith_x8_regular",vector():set(9.2240390777588,4.4947457313538,288.05264282227),209471,3760)
 	alife():create("monolith_x8_master",vector():set(18.446840286255,4.4951233863831,259.21157836914),221429,3760)
@@ -4324,6 +4314,19 @@ function fantoms_pda_done()
 	alife():create("monolith_x8_regular",vector():set(-59.06640625,-20.104423522949,78.587173461914),6210,3840)
 	alife():create("monolith_x8_veteran",vector():set(-56.917633056641,-22.014318466187,94.011215209961),6316,3840)
 	alife():create("monolith_x8_white",vector():set(-62.355743408203,-17.559904098511,102.41075134277),5991,3840)
+	local obj
+	for a=1,65534,1 do
+        obj=level.object_by_id(a)
+	if obj and (string.find(obj:name(),"monolith_x8_regular") or string.find(obj:name(),"monolith_x8_veteran") or string.find(obj:name(),"monolith_x8_master")) then
+            local h = hit()
+            h.power = 0.3
+            h.direction = vector():set(0, 0, 0)
+            h.impulse = 0
+            h.draftsman = db.actor
+            h.type = hit.explosion
+            obj:hit (h)
+	end
+	end
 end
 function kogot_npc_spawn()
 	alife():create("monolith_x8_regular",vector():set(-47.491939544678,8.1116828918457,410.00741577148),1093,3773)
@@ -6725,9 +6728,9 @@ end
 -- МЕТКИЙ СТРЕЛОК
 function borov_bottle_start()
 	alife():create("bloodsucker_strong",vector():set(104.6078338623,0.70235359668732,-13.035484313965),300911,982)
-	alife():create("snork_jumper",vector():set(105.28910827637,0.046858131885529,-75.867889404297),300821,978)
-	alife():create("snork_jumper",vector():set(130.40686035156,0.17437443137169,-25.982902526855),327649,980)
-	alife():create("snork_jumper",vector():set(121.72108459473,0.12089124321938,-18.893835067749),318902,980)
+	alife():create("volkodav",vector():set(105.28910827637,0.046858131885529,-75.867889404297),300821,978)
+	alife():create("volkodav",vector():set(130.40686035156,0.17437443137169,-25.982902526855),327649,980)
+	alife():create("volkodav",vector():set(121.72108459473,0.12089124321938,-18.893835067749),318902,980)
 	spawn_restrictor.borov_bottle_sr1()
 end
 function borov_bottle_spawn()
@@ -8092,6 +8095,19 @@ function strike_back_end()
 	alife():create("monolith_x8_regular",vector():set(933.66162109375,-0.042613565921783,-223.75979614258),414360,2273)
 	alife():create("monolith_x8_veteran",vector():set(907.99499511719,-0.00074759125709534,-315.14434814453),398983,2401)
 	spawn_restrictor.strike_end_sr1()
+	local obj
+	for a=1,65534,1 do
+        obj=level.object_by_id(a)
+if obj and (string.find(obj:name(),"monolith_x8_regular") or string.find(obj:name(),"monolith_x8_veteran") or string.find(obj:name(),"tank_spawn_zasada7")) then
+            local h = hit()
+            h.power = 0.3
+            h.direction = vector():set(0, 0, 0)
+            h.impulse = 0
+            h.draftsman = db.actor
+            h.type = hit.explosion
+            obj:hit (h)
+	end
+	end
 end
 function strike_back_done()
 	kostya_dialog.give_ammo(7)
@@ -8791,6 +8807,35 @@ function life_heart_sidor_spawn()
 	alife():create("volkodav",vector():set(432.96884155273,-50.335838317871,-321.1637878418),140463,2064)
 	alife():create("volkodav",vector():set(503.08432006836,-50.691356658936,-291.5475769043),167305,2062)
 	alife():create("volkodav",vector():set(501.14248657227,-53.482055664063,-278.32000732422),166694,2060)
+end
+
+-- СЕЙСМОКАРТЫ СКЛАДОВ
+function fanat_teleport_spawn()
+	add_earthquake()
+	news_manager.send_tip(db.actor, "%c[255,160,160,160]".."МІЧЕНИЙ:".."\\n".."%c[255,255,128,128]Це ще що за фігня?!".."".."\n", 7, nil, 10000)
+     	alife():create("bloodsucker_mil",vector():set(0.5571653842926,-10.817099571228,-7.2836208343506),2870,1134)
+	alife():create("m_poltergeist_dd",vector():set(-1.9402735233307,-10.814374923706,20.65043258667),2453,1144)
+     	alife():create("polter_xray",vector():set(-27.815765380859,-10.817368507385,-7.0142779350281),624,1149)
+	alife():create("electro_polter",vector():set(1.3619726896286,4.1897988319397,-0.82146149873734),2996,1124)
+end
+
+-- НОУТБУК АРХАРЫ
+function yakut_treasure_spawn()
+	news_manager.send_tip(db.actor, "%c[255,160,160,160]".."АДРЕНАЛІН:".."\\n".."%c[255,255,128,128]Спостерігаю хвилю мутантів, рухається у сторону залізничного тунеля. Будьте обережні!".."".."\n", nil, nil, 10000)
+     	alife():create("molerat",vector():set(227.00466918945,-0.20112097263336,54.384010314941),419093,498)
+	alife():create("molerat",vector():set(227.00466918945,-0.20112097263336,54.384010314941),419093,498)
+     	alife():create("molerat",vector():set(185.34367370605,-0.20275470614433,49.586303710938),400769,497)
+	alife():create("molerat",vector():set(185.34367370605,-0.20275470614433,49.586303710938),400769,497)
+     	alife():create("molerat",vector():set(191.17387390137,-0.20521274209023,40.643802642822),403533,498)
+     	alife():create("molerat",vector():set(191.17387390137,-0.20521274209023,40.643802642822),403533,498)
+	alife():create("molerat",vector():set(162.728515625,-0.20157723128796,44.84358215332),387880,496)
+     	alife():create("molerat",vector():set(162.728515625,-0.20157723128796,44.84358215332),387880,496)
+	alife():create("molerat",vector():set(164.08518981934,-0.083278387784958,50.235931396484),388698,497)
+	alife():create("molerat",vector():set(164.08518981934,-0.083278387784958,50.235931396484),388698,497)
+	alife():create("kikimora",vector():set(120.86385345459,-0.072768360376358,50.32137298584),354811,495)
+     	alife():create("kikimora",vector():set(112.12621307373,0.011883020401001,37.305614471436),346056,422)
+	alife():create("kikimora",vector():set(99.147605895996,0.21667113900185,53.360198974609),334027,494)
+	alife():create("kikimora",vector():set(99.147605895996,0.21667113900185,53.360198974609),334027,494)
 end
 
 -- ЖУРНАЛ ПОЛЁТОВ
@@ -10470,6 +10515,121 @@ function kalinin_box_ataka()
 	alife():create("leshyi_bandit4",vector():set(-47.863845825195,-2.6112012863159,200.74417114258),309644,2806)
 end
 
+-- ТЕЛОХРАНИТЕЛЬ
+function trofim_npc_spawn()
+	alife():create("trofim_npc",vector():set(96.73291015625,2.346161365509,-506.64483642578),291167,949)
+	alife():create("leshyi_bandit2",vector():set(-160.55000305176,-3.4775972366333,312.51837158203),145260,2799)
+	alife():create("leshyi_bandit3",vector():set(-108.249168396,-0.028654873371124,256.1318359375),221093,2799)
+	alife():create("leshyi_bandit4",vector():set(-110.46208953857,0.59746932983398,211.64241027832),217927,2806)
+	alife():create("leshyi_bandit5",vector():set(-82.301078796387,-0.060442000627518,274.66247558594),258821,2806)
+	alife():create("leshyi_bandit1",vector():set(-75.671722412109,-2.0000610351563,227.33840942383),268997,2806)
+	alife():create("leshyi_bandit2",vector():set(-61.700698852539,-2.9823472499847,202.20967102051),289346,2806)
+	alife():create("leshyi_bandit3",vector():set(-91.740608215332,0.42640373110771,189.0511932373),245563,2806)
+	alife():create("leshyi_bandit4",vector():set(-114.11822509766,-2.8668568134308,164.73486328125),212752,2806)
+	alife():create("leshyi_bandit5",vector():set(-122.80048370361,-3.2347028255463,152.00108337402),200445,2806)
+	alife():create("leshyi_bandit1",vector():set(-153.07293701172,-2.4832644462585,167.13415527344),155285,2806)
+	alife():create("leshyi_bandit5",vector():set(-183.10018920898,-2.263133764267,133.13632202148),111395,2794)
+end
+function trofim_meet()
+	local snd_obj = xr_sound.get_safe_sound_object([[characters_voice\human_02\bandit\fight\search_enemy\search_6]])
+	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+end
+function trofim_joke_start()
+	local snd_obj = xr_sound.get_safe_sound_object([[characters_voice\human_02\bandit\fight\attack\attack_3]])
+	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+	alife():create("molerat",vector():set(9.3441610336304,2.6803503036499,-499.29342651367),184204,954)
+	alife():create("molerat",vector():set(21.510765075684,2.0192861557007,-471.38638305664),200154,950)
+	alife():create("boar_strong",vector():set(57.877830505371,0.25681272149086,-490.51281738281),246378,951)
+	alife():create("molerat",vector():set(90.119934082031,1.3922127485275,-460.69140625),284207,949)
+	alife():create("flesh_swamp",vector():set(41.045330047607,-4.4618158340454,-407.22317504883),225805,945)
+	alife():create("molerat",vector():set(98.812866210938,0.94500005245209,-406.29730224609),293624,942)
+	alife():create("boar_strong",vector():set(77.908279418945,-4.2043061256409,-353.53277587891),269341,935)
+	alife():create("flesh_swamp",vector():set(42.419521331787,-4.7068128585815,-404.75048828125),227651,945)
+	alife():create("boar_kachok",vector():set(37.857406616211,-0.24936509132385,-275.32028198242),221230,842)
+	alife():create("boar_strong",vector():set(76.21076965332,-2.9433832168579,-290.02459716797),267724,931)
+	alife():create("molerat",vector():set(77.390815734863,0.56624186038971,-244.71508789063),269484,855)
+	alife():create("boar_strong",vector():set(29.847358703613,0.046927779912949,-229.26214599609),210953,857)
+	amk.start_timer("run", 15.0, "akill.trofim_song()")
+end
+function trofim_song()
+	local snd_obj = xr_sound.get_safe_sound_object([[characters_voice\human_02\bandit\states\idle\idle_18]])
+	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+end
+function trofim_sms()
+	news_manager.send_tip(db.actor, "%c[255,160,160,160]".."ТРОФИМ:".."\\n".."%c[255,255,128,128]Стривай но, братан, далі не можу йти. У глотці пожежа, загасити б її пивком хоробрості.".."".."\n", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,160,160,160]".."МІЧЕНИЙ:".."\\n".."%c[255,255,128,128]Ти очманів?! Яке на хрін пиво?! Нас тільки що мутанти мало не зжерли.".."".."\n", 9, nil, 9000)
+	news_manager.send_tip(db.actor, "%c[255,160,160,160]".."ТРОФИМ:".."\\n".."%c[255,255,128,128]Та не сси! Схавай краще бутербродик щастя! Пивасик повинен бути в фургончику біля зупинки. Пацани часто там квасять, спецом далеко від Борова. Надибай пару банок, та пошвидше...".."".."\n", 19, nil, 10000)
+	alife():create("beer_a",vector():set(39.089721679688,1.9261418581009,-221.65966796875),223041,856)
+	alife():create("beer_a",vector():set(38.914208221436,1.9253247976303,-221.73779907227),223041,856)
+	alife():create("conserva",vector():set(39.054050750732,1.9182668924332,-221.81936401367),223041,856)
+	amk.start_timer("run", 19.0, "akill.trofim_bear()")
+end
+function trofim_bear()
+	local snd_obj = xr_sound.get_safe_sound_object([[characters_voice\human_02\bandit\fight\enemy\enemy_7]])
+	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+	alife():create("bear",vector():set(26.4905834198,-0.659632563591,-251.50050354004),206665,854)
+	amk.start_timer("run", 5.0, "akill.trofim_talk_about_rat()")
+end
+function trofim_talk_about_rat()
+	local snd_obj = xr_sound.get_safe_sound_object([[characters_voice\human_02\bandit\fight\attack\attack_one_5]])
+	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+	db.actor:give_info_portion("trofim_joke_pivo")
+end
+function trofim_joke_pivo_have()
+	return
+		new_dialog.item_much("beer_a",2)
+end
+function trofim_joke_pivo_done(first_speaker, second_speaker)
+	amk.spawn_item_in_inv("beer_a", second_speaker)
+	sak.out_item_namber("beer_a",2)
+	sak.create_items_actor("grenade_rgd5",1)
+	snp.drink_vodka()
+	amk.start_timer("run", 20.0, "akill.trofim_song2()")
+end
+function trofim_song2()
+	local snd_obj = xr_sound.get_safe_sound_object([[characters_voice\human_02\bandit\states\idle\idle_19]])
+	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+	alife():create("kikimora",vector():set(87.666122436523,5.9942712783813,-178.70297241211),281411,925)
+	alife():create("kikimora",vector():set(95.875442504883,1.273441195488,-124.08764648438),290841,868)
+	alife():create("kikimora",vector():set(91.467765808105,0.072718799114227,-86.40747833252),286220,977)
+	alife():create("kikimora",vector():set(54.322330474854,0.069435328245163,-66.443023681641),242885,991)
+	alife():create("kikimora",vector():set(39.144905090332,-0.85306203365326,-117.03329467773),223185,869)
+	alife():create("kikimora",vector():set(50.270656585693,0.029121279716492,-156.04035949707),238014,867)
+	alife():create("volkodav",vector():set(112.32607269287,0.03941684961319,-35.488677978516),308690,981)
+	alife():create("volkodav",vector():set(90.595970153809,0.12372520565987,-10.487855911255),284761,989)
+end
+function trofim_sms2()
+	news_manager.send_tip(db.actor, "%c[255,160,160,160]".."ТРОФИМ:".."\\n".."%c[255,255,128,128]А-а-а-а-а!!! Башка зара розколеться як горіх! Це контросос! Завали цю падлу!".."".."\n", nil, nil, 10000)
+	alife():create("controller_senator",vector():set(115.89627838135,0.032972544431686,-5.6989407539368),313235,914)
+	alife():create("zombie_hell",vector():set(104.54155731201,0.70238077640533,-5.7821664810181),300119,984)
+	alife():create("zombie_beee",vector():set(112.1509552002,-0.50022196769714,20.647993087769),308747,909)
+	alife():create("zombie_blow",vector():set(83.873504638672,-2.7877779006958,51.198585510254),277674,906)
+	amk.start_timer("run", 4.0, "akill.trofim_kontrik()")
+end
+function trofim_kontrik()
+	local snd_obj = xr_sound.get_safe_sound_object([[characters_voice\human_02\bandit\states\panic_monster\panic_monster_2]])
+	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+	amk.start_timer("run", 15.0, "akill.trofim_kontrik2()")
+end
+function trofim_kontrik2()
+	local snd_obj = xr_sound.get_safe_sound_object([[characters_voice\human_02\bandit\states\panic_monster\panic_monster_3]])
+	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+end
+function trofim_joke_done()
+	sak.create_items_actor("device_pda_npc",1)
+	sak.create_items_actor("medkit",3)
+	local snd_obj = xr_sound.get_safe_sound_object([[characters_voice\human_02\bandit\states\idle\idle_9]])
+	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+end
+function trofim_joke_borov_have()
+	return
+		new_dialog.item_much("device_pda_npc",1)
+end
+function trofim_joke_borov_done()
+	sak.out_item_namber("device_pda_npc",1)
+	sak.create_items_actor("wpn_sl8",1)
+	sak.create_items_actor("ammo_5.56x45_gd",3)
+end
 
 -- ХИЖИНА НЕИЗВЕСТНОГО
 function unknown_home_spawn()

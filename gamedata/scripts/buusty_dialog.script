@@ -3500,6 +3500,7 @@ function yakut_agro_delete()
 local se_obj = alife():object("yakut_agro")
   if se_obj then
     alife():release(se_obj, true)
+	news_manager.send_tip(db.actor, "%c[255,160,160,160]".."АРХАРА:".."\\n".."%c[255,255,128,128]У мене з'явилися невідкладні справи. Кому треба - шукайте мене на Затоні.".."".."\n", 3, nil, 30000)
   end
 end
 
@@ -3510,6 +3511,11 @@ function use_money(obj)
     aem_manager.manage_money(loot_money, "in")
 	archievements.acv_count_event("acv_mar", 50000, "Мародер", loot_money)
   end
+end
+
+--проверка ноутбука для Якута (а то можно было отдать ноут, не имея его в рюкзаке)
+function yakut_treasure_have()
+return buusty_dialog.item_much("notebook_new",1) ~= false 
 end
 
 --' проверим наличие финансов

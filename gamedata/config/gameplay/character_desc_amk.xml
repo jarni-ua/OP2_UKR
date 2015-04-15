@@ -623,7 +623,7 @@
         <reputation>-950</reputation>
 		<money min="700" max="2000" infinitive="0"/>
 
-        <visual>actors\killer\ct_sas</visual>
+        <visual>actors\killer\ct_ranger</visual>
         <snd_config>characters_voice\human_03\killer\</snd_config>
 	  	<crouch_type>0</crouch_type>
         <supplies>
@@ -666,6 +666,34 @@
 		#include "gameplay\character_criticals_1.xml"
     </specific_character>
 	
+	<specific_character id="bw_killers1_default2" team_default = "1">
+        <name>Найманець з Блеквотер</name>
+        <icon>ui_npc_blackwater</icon>
+        <map_icon x="3" y="0"></map_icon>
+        <bio>mil_Killer_specnaz_bio</bio>
+
+        <class>bw_killers1</class>
+        <community>killer</community>
+        <rank>800</rank>
+        <reputation>-950</reputation>
+		<money min="700" max="2000" infinitive="0"/>
+
+        <visual>actors\killer\ct_gign</visual>
+        <snd_config>characters_voice\human_03\killer\</snd_config>
+	  	<crouch_type>0</crouch_type>
+        <supplies>
+        [spawn] \n
+        wpn_scar_mk17 = 1, wpn_addon_grenade_launcher_m203 \n
+        ammo_5.56x45_gd \n
+		ammo_m209 \n
+        grenade_flash \n
+		device_torch \n
+		#include "gameplay\character_drugs.xml" \n
+		#include "gameplay\character_food.xml"
+        </supplies>
+		#include "gameplay\character_criticals_1.xml"
+    </specific_character>
+	
 	<specific_character id="bw_killers2" team_default = "1">
         <name>Найманець з Блеквотер</name>
         <icon>ui_npc_blackwater</icon>
@@ -678,7 +706,7 @@
         <reputation>-950</reputation>
 		<money min="700" max="2000" infinitive="0"/>
 
-        <visual>actors\killer\ct_gsg9</visual>
+        <visual>actors\killer\ct_delta</visual>
         <snd_config>characters_voice\human_03\killer\</snd_config>
 	  	<crouch_type>0</crouch_type>
         <supplies>
@@ -714,6 +742,33 @@
         wpn_hk416 = 1, scope \n
         ammo_5.56x45_gd \n
         grenade_flash \n
+		device_torch \n
+		#include "gameplay\character_drugs.xml" \n
+		#include "gameplay\character_food.xml"
+        </supplies>
+		#include "gameplay\character_criticals_1.xml"
+    </specific_character>
+	
+	<specific_character id="bw_killers2_default2" team_default = "1">
+        <name>Найманець з Блеквотер</name>
+        <icon>ui_npc_blackwater</icon>
+        <map_icon x="3" y="0"></map_icon>
+        <bio>mil_Killer_specnaz_bio</bio>
+
+        <class>bw_killers2</class>
+        <community>killer</community>
+        <rank>750</rank>
+        <reputation>-950</reputation>
+		<money min="700" max="2000" infinitive="0"/>
+
+        <visual>actors\killer\ct_seal</visual>
+        <snd_config>characters_voice\human_03\killer\</snd_config>
+	  	<crouch_type>0</crouch_type>
+        <supplies>
+        [spawn] \n
+        wpn_lr300_m1 \n
+        ammo_5.56x45_gd \n
+        grenade_f1 \n
 		device_torch \n
 		#include "gameplay\character_drugs.xml" \n
 		#include "gameplay\character_food.xml"
@@ -2091,7 +2146,7 @@
 		<money min="700" max="1000" infinitive="0"/>
 
 		<visual>actors\bandit\stalker_bandit_master</visual>
-		<snd_config>characters_voice\human_02\bandit\</snd_config>
+		<snd_config>characters_voice\human_03\bandit\</snd_config>
 		<crouch_type>1</crouch_type>
 		<supplies>
 		[spawn] \n
@@ -2235,7 +2290,7 @@
 		<money min="600" max="1000" infinitive="0"/>
 
 		<visual>actors\bandit\stalker_bandit_master</visual>
-		<snd_config>characters_voice\human_02\bandit\</snd_config>
+		<snd_config>characters_voice\human_01\bandit\</snd_config>
 		<crouch_type>1</crouch_type>
 		<supplies>
 		[spawn] \n
@@ -2542,6 +2597,37 @@
         </supplies>
 		#include "gameplay\character_criticals_1.xml"
     </specific_character>
+
+	<!------------------ Пьяный Трофимыч в ТД ----------------------->
+	<specific_character id="trofim_npc" team_default = "1">		
+        <name>Трофимич</name>
+        <icon>ui_npc_u_soldier_bandana_6</icon>
+		<bio>sim_bandit_master_bio</bio>
+
+		<class>trofim_npc</class>
+		<community>bandit</community>
+		<terrain_sect>stalker_bandit_terrain</terrain_sect>
+		<rank>458</rank>
+		<reputation>29</reputation>
+
+		<visual>new\soldier_band_zel_piyan</visual>
+		<snd_config>characters_voice\human_02\bandit\</snd_config>
+		<crouch_type>0</crouch_type>	
+		<supplies>
+		[spawn] \n
+		wpn_vepr545 \n
+		ammo_5.45x39_fmj \n
+		vodka \n
+		#include "gameplay\character_food.xml" \n
+		#include "gameplay\character_drugs.xml"
+		</supplies>
+		<start_dialog>crazy_doktor_dialog</start_dialog>
+		<actor_dialog>trofim_joke_start</actor_dialog>
+		<actor_dialog>trofim_joke_pivo_done</actor_dialog>
+		<actor_dialog>trofim_joke_done</actor_dialog>
+        <actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+		#include "gameplay\character_criticals_5.xml"
+	</specific_character>
 	
 	<!-- Akill end -->
 </xml>

@@ -1170,17 +1170,17 @@ local battles = {
 -- ќхота на оборотней
 		[30] = {
 			[1]	= {
-				timeout = 140
+				timeout = 100
 			},
 			[2]	= {
-				timeout = 180,
-				dist = 120,
+				timeout = 140,
+				dist = 70,
 				enemy = {
-					["chimera_wolf"] = 6
+					["chimera_wolf"] = 10
 		 		}
 			},
 			[3]	= {
-				dist = 130,
+				dist = 70,
 				enemy = {
 					["ohota_wolf1"] = 1,
 					["ohota_wolf2"] = 1
@@ -5180,9 +5180,10 @@ function reinforcement(params_string)
 		return
 	end
 	
-	-- рюкзак спавним не далее 4 м от гг, чтобы нашел
-	pos, lv = get_pos(math.random(2,4))
+	-- рюкзак спавним с меткой и не далее 10 м от гг, чтобы нашел
+	pos, lv = get_pos(math.random(3,10))
 	local ruk = alife():create("m_inventory_box", pos, lv, db.actor:game_vertex_id())
+	level.map_add_object_spot_ser(ruk.id, "treasure", "–юкзак з припасами")
 	--get_console():execute("load ~~~ ruk.id: "..tostring(ruk.id))
 
 	-- аптечки
