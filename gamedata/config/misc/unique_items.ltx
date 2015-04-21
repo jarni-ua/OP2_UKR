@@ -457,6 +457,7 @@ shell_dir		 		= 0.0, 1.0, 0.0
 
 fire_point       	        = 0.0005,-0.0138,0.010
 fire_bone        	        = wpn_body
+grenade_bone 		  = wpn_grenade
 orientation      	        = 2, 2, 0
 position         	        = 0.12,-0.036,0.14
 visual           	        = weapons\lr300\wpn_lr300snip_hud.ogf
@@ -469,11 +470,35 @@ anim_holster		= holster
 anim_shoot			= shoot_1
 anim_idle_sprint		= idle_sprint
 
+anim_idle_g					= idle
+anim_idle_g_aim				= idle_aim
+anim_reload_g				= reload
+anim_shoot_g				= shoot
+anim_switch_grenade_on		= holster
+anim_switch_grenade_off		= draw
+anim_draw_g					= shoot_1
+anim_holster_g				= holster
+
+anim_idle_gl 		= idle
+anim_idle_gl_aim 	      = idle_aim
+anim_reload_gl 		= reload
+anim_draw_gl 		= draw
+anim_holster_gl 	      = holster
+anim_shoot_gl 		= shoot_1
+
 ;смещения HUD для режима приближения
 ;режим обычной стрельбы
 zoom_offset			= -0.1206,0.02105,-0.16
 zoom_rotate_x		= -0.0142
 zoom_rotate_y		= -0.002
+
+grenade_normal_zoom_offset		= -0.1206,0.02105,-0.16
+grenade_normal_zoom_rotate_x		= -0.0142
+grenade_normal_zoom_rotate_y		= -0.002
+
+grenade_zoom_offset		= -0.1206,0.02105,-0.16
+grenade_zoom_rotate_x		= -0.0142
+grenade_zoom_rotate_y		= -0.002
 
 ;------------------------------------------------------------
 ;;;;;;;;;;;;;;;;;;;;;; Гаусс Призрака ;;;;;;;;;;;;;;;;;;;;;;;

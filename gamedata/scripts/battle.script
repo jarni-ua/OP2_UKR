@@ -265,11 +265,11 @@ local battles = {
 				timeout = 10
 			},
 			[2]	= {
-				timeout = 100,
+				timeout = 80,
 				tip = "%c[255,160,160,160]".."СВИБЛОВ:".."\\n".."%c[255,255,128,128]Мічений, допоможи хлопцям відбити атаку на наш будинок. Потім висувайтеся у сторону хутора, постарайтеся утримати його.".."".."\n"
 			},
 			[3]	= {
-				timeout = 350,
+				timeout = 200,
 				func = "akill.volna_reid_spawn()"
 			},
 			[4]	= {
@@ -362,7 +362,7 @@ local battles = {
 			},
 			[2]	= {
 				dist = 60,
-				timeout = 140,
+				timeout = 130,
 				enemy = {
 					["chimera_x_ray"] = 3,
 					["electro_chimera"] = 2,
@@ -756,6 +756,57 @@ local battles = {
 			},
 			[4]	= {
 				func = "akill.night_watch_borov_polter3()"
+			}
+		},
+-- Телохранитель
+		[35] = {
+			[1]	= {
+				timeout = 15
+			},
+			[2]	= {
+				timeout = 15,
+				func = "akill.trofim_song()"
+			},
+			[3]	= {
+				timeout = 30,
+				dist = 41,
+				enemy = {
+					["molerat"] = 2
+				}
+			},
+			[4]	= {
+				timeout = 35,
+				dist = 41,
+				enemy = {
+					["molerat"] = 2
+				}
+			},
+			[5]	= {
+				timeout = 35,
+				dist = 41,
+				enemy = {
+					["boar_strong"] = 3
+				}
+			},
+			[6]	= {
+				timeout = 35,
+				dist = 41,
+				enemy = {
+					["pseudodog_strong"] = 3
+				}
+			},
+			[7]	= {
+				timeout = 40,
+				dist = 41,
+				enemy = {
+					["boar_kachok"] = 1
+				}
+			},
+			[8]	= {
+				dist = 41,
+				enemy = {
+					["volkodav"] = 2
+				}
 			}
 		}
 	},

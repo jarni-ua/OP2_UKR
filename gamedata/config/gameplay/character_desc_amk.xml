@@ -656,8 +656,8 @@
 	  	<crouch_type>0</crouch_type>
         <supplies>
         [spawn] \n
-        wpn_acr = 1, scope \n
-        ammo_5.56x45_gd \n
+        wpn_vint14 = 1, scope \n
+        ammo_7.62x51_ap \n
         grenade_f1 \n
 		device_torch \n
 		#include "gameplay\character_drugs.xml" \n
@@ -687,6 +687,33 @@
         ammo_5.56x45_gd \n
 		ammo_m209 \n
         grenade_flash \n
+		device_torch \n
+		#include "gameplay\character_drugs.xml" \n
+		#include "gameplay\character_food.xml"
+        </supplies>
+		#include "gameplay\character_criticals_1.xml"
+    </specific_character>
+	
+	<specific_character id="bw_killers1_default3" team_default = "1">
+        <name>Найманець з Блеквотер</name>
+        <icon>ui_npc_blackwater</icon>
+        <map_icon x="3" y="0"></map_icon>
+        <bio>mil_Killer_specnaz_bio</bio>
+
+        <class>bw_killers1</class>
+        <community>killer</community>
+        <rank>800</rank>
+        <reputation>-950</reputation>
+		<money min="700" max="2000" infinitive="0"/>
+
+        <visual>actors\killer\ct_desert</visual>
+        <snd_config>characters_voice\human_03\killer\</snd_config>
+	  	<crouch_type>0</crouch_type>
+        <supplies>
+        [spawn] \n
+        wpn_sbr = 1, scope \n
+        ammo_5.56x45_gd \n
+        grenade_f1 \n
 		device_torch \n
 		#include "gameplay\character_drugs.xml" \n
 		#include "gameplay\character_food.xml"
@@ -739,7 +766,7 @@
 	  	<crouch_type>0</crouch_type>
         <supplies>
         [spawn] \n
-        wpn_hk416 = 1, scope \n
+        wpn_hk416 \n
         ammo_5.56x45_gd \n
         grenade_flash \n
 		device_torch \n
@@ -766,7 +793,34 @@
 	  	<crouch_type>0</crouch_type>
         <supplies>
         [spawn] \n
-        wpn_lr300_m1 \n
+        wpn_m4a1 \n
+        ammo_5.56x45_gd \n
+        grenade_f1 \n
+		device_torch \n
+		#include "gameplay\character_drugs.xml" \n
+		#include "gameplay\character_food.xml"
+        </supplies>
+		#include "gameplay\character_criticals_1.xml"
+    </specific_character>
+	
+	<specific_character id="bw_killers2_default3" team_default = "1">
+        <name>Найманець з Блеквотер</name>
+        <icon>ui_npc_blackwater</icon>
+        <map_icon x="3" y="0"></map_icon>
+        <bio>mil_Killer_specnaz_bio</bio>
+
+        <class>bw_killers2</class>
+        <community>killer</community>
+        <rank>750</rank>
+        <reputation>-950</reputation>
+		<money min="700" max="2000" infinitive="0"/>
+
+        <visual>actors\killer\ct_urban</visual>
+        <snd_config>characters_voice\human_03\killer\</snd_config>
+	  	<crouch_type>0</crouch_type>
+        <supplies>
+        [spawn] \n
+        wpn_acr = 1, scope \n
         ammo_5.56x45_gd \n
         grenade_f1 \n
 		device_torch \n
@@ -2324,7 +2378,7 @@
         <supplies>
         [spawn] \n
         wpn_lr300_m1 \n
-        ammo_5.56x45_gd = 1 \n
+        ammo_5.56x45_gd \n
 		army_counter = 1 \n
 		#include "gameplay\character_food.xml" \n
 		#include "gameplay\character_items.xml"
@@ -2598,9 +2652,9 @@
 		#include "gameplay\character_criticals_1.xml"
     </specific_character>
 
-	<!------------------ Пьяный Трофимыч в ТД ----------------------->
+	<!------------------ Пьяный Трофим в ТД ----------------------->
 	<specific_character id="trofim_npc" team_default = "1">		
-        <name>Трофимич</name>
+        <name>Трохим</name>
         <icon>ui_npc_u_soldier_bandana_6</icon>
 		<bio>sim_bandit_master_bio</bio>
 
@@ -2615,8 +2669,6 @@
 		<crouch_type>0</crouch_type>	
 		<supplies>
 		[spawn] \n
-		wpn_vepr545 \n
-		ammo_5.45x39_fmj \n
 		vodka \n
 		#include "gameplay\character_food.xml" \n
 		#include "gameplay\character_drugs.xml"

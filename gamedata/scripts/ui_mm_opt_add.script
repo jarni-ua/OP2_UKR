@@ -81,7 +81,7 @@ function is_excluded_item(item)
 		end
 	end
 	
-	local excluded_items = {"amk_transmutator", "teleportator", "anom_egg", "arhara_obman", "bioradar", "amulet", "detector_", "af_", "wpn_", "ammo_", "grenade_", "_tele", "zone_", "zone_docs", "zonedocs"}
+	local excluded_items = {"amk_transmutator", "teleportator", "anom_egg", "arhara_obman", "bioradar", "amulet", "detector_", "^nv_", "af_", "wpn_", "ammo_", "grenade_", "_tele", "zone_", "zone_docs", "zonedocs"}
 
 	for i, se_name in ipairs(excluded_items) do
 		if string.find(item, se_name) then

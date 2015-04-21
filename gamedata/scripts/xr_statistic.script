@@ -213,15 +213,15 @@ function getNpcType(npc)
 			community = "neutral"
 		end
 		local rank = ranks.get_obj_rank_name(npc)
-		archievements.acv_count_event("acv_kill", 4000, "Кілер")
+		archievements.acv_count_event("acv_kill", 3000, "Кілер")
 		return "stalkerkills", community.."_"..rank
 	
 	elseif string.find(section, "helicopter") then
-		archievements.acv_count_event("acv_mons", 7000, "Браконьєр")
+		archievements.acv_count_event("acv_mons", 6000, "Браконьєр")
 		return "monsterkills", "helicopter"
 	
 	elseif string.find(section, "vehicle_btr") then
-		archievements.acv_count_event("acv_mons", 7000, "Браконьєр")
+		archievements.acv_count_event("acv_mons", 6000, "Браконьєр")
 		return "monsterkills", "vehicle_btr"
 	
 	else
@@ -240,7 +240,7 @@ function getNpcType(npc)
 		if npc:clsid() == clsid.zombie_s then
 			archievements.acv_count_event("acv_zoms", 1000, "Могильник")
 		end
-		archievements.acv_count_event("acv_mons", 7000, "Браконьер")
+		archievements.acv_count_event("acv_mons", 6000, "Браконьєр")
 
 		return "monsterkills", community
 	end	

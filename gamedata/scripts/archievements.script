@@ -1,4 +1,65 @@
 -- Достижения
+local medicals = {
+"suvorotka",
+"vodka",
+"antirad",
+"medkit",
+"medkit_army",
+"medkit_scientic",
+"energy_drink",
+"bandage",
+"antizombie",
+}
+
+local wpns = {
+"wpn_akms_m1",
+"wpn_kord_m1",
+"wpn_fn2000_sniper",
+"wpn_vepr12_20",
+"wpn_m500_custom",
+"wpn_akm_ves_otdaca",
+"wpn_akms_m2",
+"wpn_aug_a2",
+"wpn_fn2000_paratrooper",
+"wpn_gauss2b",
+"wpn_groza_sn",
+"wpn_oicw",
+"wpn_sks_cust",
+"wpn_val_voron",
+"wpn_ks23",
+"wpn_sayga12k",
+"wpn_ak74u_svd",
+"wpn_awp_m1",
+"wpn_sg550_sr",
+"wpn_vihlop_m1",
+"wpn_zastava_m77",
+"wpn_20w_vintorez",
+"wpn_ak74_m3",
+"wpn_ak74_m1",
+"wpn_ak104t",
+"wpn_aks74_m1",
+"wpn_g36_m1",
+"wpn_hostel",
+"wpn_m4_m1",
+"wpn_ognemet",
+"wpn_svd_m1",
+"wpn_svd_m2",
+"wpn_svd_m3",
+"wpn_b94_sil",
+"wpn_protecta_col",
+"wpn_vintorez_m1",
+"wpn_walther_wa2000",
+"wpn_spas12_m1",
+"wpn_groza_m1",
+"wpn_dark_gauss",
+"wpn_benelli_m3_short",
+"wpn_rpkcustom",
+"wpn_sw",
+"wpn_rpk47_sk1",
+"wpn_vepr12_m1",
+"wpn_sayga_un",
+"wpn_mauser",
+}
 
 function acv_halavshic()
 	send_archievement("Халявщик")
@@ -230,7 +291,7 @@ function acv_stalker()
 	end
 end
 
--- единая функция обработки и выдачи подсчитываемых достижений
+-- единая функция обработки и выдачи подсчитываемого достижения
 function acv_count_event(acv, count, name, qty)
 	if has_alife_info(acv) then return end
 	
@@ -244,6 +305,31 @@ function acv_count_event(acv, count, name, qty)
 		amk.del_variable(acv)
 		db.actor:give_info_portion(acv)
 		send_archievement(name)
+		return
+	end
+
+	amk.save_variable(acv, value) 
+end
+
+-- единая функция обработки и выдачи 2-х последовательно подсчитываемых достижений
+function acv_count_2event(acv, count, name, acv2, count2, name2, qty)
+	if has_alife_info(acv) and has_alife_info(acv2) then return end
+	
+	if not qty then
+		qty = 1
+	end
+	
+	local value = amk.load_variable(acv, 0)+qty
+	
+	if not has_alife_info(acv) and value >= count then
+		db.actor:give_info_portion(acv)
+		send_archievement(name)
+	end
+
+	if value >= count2 then
+		amk.del_variable(acv)
+		db.actor:give_info_portion(acv2)
+		send_archievement(name2)
 		return
 	end
 
@@ -312,9 +398,27 @@ function save_gametime()
 	end
 end
 
+-- универсальный механизм проверки, что обработан каждый объект из списка
+function has_all(tbl, info, section)
+	for i, s in ipairs(tbl) do
+		if s == section and not has_alife_info(info..i) then
+			db.actor:give_info_portion(info..i)
+			return has_all_info(tbl, info)
+		end
+	end
+	return false
+end
+function has_all_info(tbl, info)
+	for i=1, #tbl do
+		if not has_alife_info(info..i) then
+			return false
+		end
+	end
+	return true
+end
+
 -- взятие тайника без уникальных предметов
 function check_treasure(box)
-	local se_obj
 	local section = box:section()
 	if     section == "m_inventory_box13" then
 		db.actor:give_info_portion("acv_sishik1")
@@ -333,7 +437,6 @@ end
 
 -- подъем предмета
 function on_item_take(obj)
-	local se_obj
 	local section = obj:section()
 	if     section == "mutant_wolf_cocoon" then
 		if not has_alife_info("acv_emb") then
@@ -342,7 +445,7 @@ function on_item_take(obj)
 		end
 	end
 	
-	if not has_alife_info("acv_wpn") and has_all_wpns(section) then
+	if not has_alife_info("acv_wpn") and has_all(wpns, "acv_wpn", section) then
 		db.actor:give_info_portion("acv_wpn")
 		send_archievement("Збройний Барон")
 	end
@@ -352,72 +455,19 @@ function on_item_take(obj)
 	end
 end
 
-local wpns = {
-"wpn_akms_m1",
-"wpn_kord_m1",
-"wpn_fn2000_sniper",
-"wpn_vepr12_20",
-"wpn_m500_custom",
-"wpn_akm_ves_otdaca",
-"wpn_akms_m2",
-"wpn_aug_a2",
-"wpn_fn2000_paratrooper",
-"wpn_gauss2b",
-"wpn_groza_sn",
-"wpn_oicw",
-"wpn_sks_cust",
-"wpn_val_voron",
-"wpn_ks23",
-"wpn_sayga12k",
-"wpn_ak74u_svd",
-"wpn_awp_m1",
-"wpn_sg550_sr",
-"wpn_vihlop_m1",
-"wpn_zastava_m77",
-"wpn_20w_vintorez",
-"wpn_ak74_m3",
-"wpn_ak74_m1",
-"wpn_ak104t",
-"wpn_aks74_m1",
-"wpn_g36_m1",
-"wpn_hostel",
-"wpn_m4_m1",
-"wpn_ognemet",
-"wpn_svd_m1",
-"wpn_svd_m2",
-"wpn_svd_m3",
-"wpn_b94_sil",
-"wpn_protecta_col",
-"wpn_vintorez_m1",
-"wpn_walther_wa2000",
-"wpn_spas12_m1",
-"wpn_groza_m1",
-"wpn_dark_gauss",
-"wpn_benelli_m3_short",
-"wpn_rpkcustom",
-"wpn_sw",
-"wpn_rpk47_sk1",
-"wpn_vepr12_m1",
-"wpn_sayga_un",
-"wpn_mauser",
-}
-
-function has_all_wpns(section)
-	for i, s in ipairs(wpns) do
-		if s == section and not has_alife_info("acv_wpn"..i) then
-			db.actor:give_info_portion("acv_wpn"..i)
-			return has_all_wpns_info()
-		end
+-- использование предмета
+function on_use_item(obj)
+	local section = obj:section()
+	if not has_alife_info("acv_tera") and has_all(medicals, "acv_tera", section) then
+		db.actor:give_info_portion("acv_tera")
+		send_archievement("Терапевт")
 	end
-	return false
 end
-function has_all_wpns_info()
-	for i=1, #wpns do
-		if not has_alife_info("acv_wpn"..i) then
-			return false
-		end
-	end
-	return true
+
+-- получение поршня
+function on_info(info_id)
+--	if has_alife_info("mm_opt") then
+--	end
 end
 
 local foods = {

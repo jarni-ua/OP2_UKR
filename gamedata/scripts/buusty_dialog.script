@@ -2745,7 +2745,6 @@ function upiter_afterparty3()
 	alife():create("zasada_afterparty_1",vector():set(-222.76995849609,-3.2000136375427,55.442012786865),339633,3708)
 	alife():create("zasada_afterparty_3",vector():set(34.448236519775,23.98766708374,-202.6337890625),771816,3727)
 	alife():create("zasada_afterparty_5",vector():set(140.59014892578,1.1844078302383,216.39047241211),956720,3732)
-		db.actor:disable_info_portion("no_teleport_near_heli_btr")
 end
 
 
@@ -3394,7 +3393,6 @@ news_manager.send_tip(db.actor, "%c[255,160,160,160]".."МАЙОР БРАЖНІКОВ:".."\\n"
 local snd_obj = xr_sound.get_safe_sound_object ([[characters_voice\human_01\military\fight\searching_enemy\search_3]])                                                                     
  snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 amk.start_timer("vyhodi_podliy_trus", 14.0, "")
-db.actor:give_info_portion("no_teleport_near_heli_btr")
 end
 
 function vyhodi_podliy_trus()
@@ -3416,7 +3414,6 @@ end
 function otday_brazhniku_pda(first_speaker, second_speaker)
 buusty_dialog.out_item_much("agroprom_pda",1)
 amk.start_timer("vrag_voyk", 35.0, "")
-db.actor:disable_info_portion("no_teleport_near_heli_btr")
 end
 
 -- Удаляем 7 спецназовцев у тоннеля по квесту Крота

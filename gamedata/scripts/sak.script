@@ -1407,6 +1407,7 @@ function zombie_checkup()
 			end
 			snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 		end
+		archievements.acv_count_event("acv_fzom", 100, "Друг зомбі")
 	end
 end
 function add_spot_of_docent(a)
