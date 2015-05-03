@@ -19,7 +19,7 @@ function drink_vodka_chunk()
 	end
 	
 	amk.save_variable("alc",amk.pack_array_to_string(alc))
-	archievements.acv_count_event("acv_alk", 50, "Алкоголік")
+	archievements.acv_count_event("acv_alk", 70, "Алкоголік")
 end
 
 function update()

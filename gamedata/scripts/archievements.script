@@ -73,8 +73,44 @@ function acv_lekar()
 	send_archievement("Лікар Айболить")
 end
 
+function acv_lekar2()
+	send_archievement("Рятівник")
+end
+
 function acv_tereza()
 	send_archievement("Мати Тереза")
+end
+
+function acv_vandal()
+	send_archievement("Вандал")
+end
+
+function acv_giv()
+	send_archievement("Живчик")
+end
+
+function acv_found_myself()
+	send_archievement("Той, що знайшов себе")
+end
+
+function acv_sol()
+	send_archievement("Солянщик")
+end
+
+function acv_kart()
+	send_archievement("Картограф")
+end
+
+function acv_gromov()
+	send_archievement("Громов")
+end
+
+function acv_stay1()
+	send_archievement("Довгожитель")
+end
+
+function acv_stay2()
+	send_archievement("Аксакал")
 end
 
 function acv_rank1()
@@ -83,6 +119,10 @@ end
 
 function acv_rank2()
 	send_archievement("Герой Зони")
+end
+
+function acv_rank3()
+	send_archievement("Легендарний сталкер")
 end
 
 function acv_farm()
@@ -253,8 +293,75 @@ function has_cheated_zone()
 	send_archievement("Ч".."ит".."ер")
 end
 
+function acv_angel()
+	if all_ecologs_alive() then
+		sak.create_items_actor("af_hl",1)
+		db.actor:give_info_portion("acv_angel")
+		send_archievement("Ангел-хранитель")
+	end
+end
+function all_ecologs_alive()
+	local ecologs = {
+		"bar_ecolog_professor",
+		"bar_ecolog_crush_1",
+		"bar_ecolog_crush_2",
+		"bar_ecolog_crush_3",
+		"bar_ecolog_crush_4",
+	}
+	local se_obj, obj
+	
+	for _, name in ipairs(ecologs) do
+		se_obj = alife():object(name)
+		if not se_obj then return false end
+		
+		obj = level.object_by_id(se_obj.id)
+		if not obj or not obj:alive() then return false end
+	end
+	
+	return true
+end
+
+function acv_kill()
+	local value = amk.load_variable("acv_kill", 0)+1
+	amk.save_variable("acv_kill", value)
+	
+	if not has_alife_info("acv_kill") and value >= 3000 then
+		db.actor:give_info_portion("acv_kill")
+		send_archievement("Кілер")
+	end
+	if not has_alife_info("acv_kill2") and value >= 6000 then
+		db.actor:give_info_portion("acv_kill2")
+		send_archievement("Чорний сталкер")
+	end
+	acv_unstoppable()
+end
+
+function acv_mons()
+	local value = amk.load_variable("acv_mons", 0)+1
+	amk.save_variable("acv_mons", value)
+	
+	if not has_alife_info("acv_mons") and value >= 6000 then
+		db.actor:give_info_portion("acv_mons")
+		send_archievement("Браконьєр")
+	end
+	if not has_alife_info("acv_mons2") and value >= 10000 then
+		db.actor:give_info_portion("acv_mons2")
+		send_archievement("Санітар Зони")
+	end
+	acv_unstoppable()
+end
+
+function acv_unstoppable()
+	if not has_alife_info("acv_unstoppable") and amk.load_variable("acv_kill", 0)+amk.load_variable("acv_mons", 0) >= 20000 then
+		db.actor:give_info_portion("acv_unstoppable")
+		send_archievement("Нестримний")
+	end
+end
+
 function acv_stalker()
 	if  has_alife_info("acv_sishik") and 
+		has_alife_info("acv_angel") and 
+		has_alife_info("acv_vandal") and 
 		has_alife_info("acv_sos") and 
 		has_alife_info("acv_docs") and 
 		has_alife_info("acv_cognized_zone") and 
@@ -272,7 +379,11 @@ function acv_stalker()
 		has_alife_info("acv_task") and 
 		has_alife_info("acv_vzn1") and 
 		has_alife_info("acv_alive") and 
+		has_alife_info("acv_rem") and 
+		has_alife_info("acv_paparacci") and 
 		has_alife_info("acv_wpn") and 
+		has_alife_info("fli_done") and 
+		has_alife_info("taynik_nayti_oz_10_done") and 
 		has_alife_info("volna_day4_done") and 
 		has_alife_info("info_chess_dictofon_done") and 
 		not has_alife_info("acv_has_cheated") and
@@ -282,6 +393,7 @@ function acv_stalker()
 		not has_alife_info("acv_money3") and
 		not has_alife_info("acv_alk") and
 		not has_alife_info("acv_slp") and
+		not has_alife_info("acv_xam") and
 		not has_alife_info("acv_task_fail") and
 		not has_alife_info("acv_vzn3") and
 		not has_alife_info("acv_umer")
@@ -330,6 +442,36 @@ function acv_count_2event(acv, count, name, acv2, count2, name2, qty)
 		amk.del_variable(acv)
 		db.actor:give_info_portion(acv2)
 		send_archievement(name2)
+		return
+	end
+
+	amk.save_variable(acv, value) 
+end
+
+-- единая функция обработки и выдачи 3-х последовательно подсчитываемых достижений
+function acv_count_3event(acv, count, name, acv2, count2, name2, acv3, count3, name3, qty)
+	if has_alife_info(acv) and has_alife_info(acv2) and has_alife_info(acv3) then return end
+	
+	if not qty then
+		qty = 1
+	end
+	
+	local value = amk.load_variable(acv, 0)+qty
+	
+	if not has_alife_info(acv) and value >= count then
+		db.actor:give_info_portion(acv)
+		send_archievement(name)
+	end
+
+	if not has_alife_info(acv2) and value >= count2 then
+		db.actor:give_info_portion(acv2)
+		send_archievement(name2)
+	end
+
+	if value >= count3 then
+		amk.del_variable(acv)
+		db.actor:give_info_portion(acv3)
+		send_archievement(name3)
 		return
 	end
 
@@ -462,12 +604,60 @@ function on_use_item(obj)
 		db.actor:give_info_portion("acv_tera")
 		send_archievement("Терапевт")
 	end
+	
+	if not has_alife_info("acv_gurman") and (section == "vorona_egg" or section == "mozg" or section == "bezoar" or section == "mushroom") then
+		db.actor:give_info_portion("acv_gurman")
+		send_archievement("Гурман")
+	end
 end
 
 -- получение поршня
 function on_info(info_id)
---	if has_alife_info("mm_opt") then
---	end
+	if not has_alife_info("acv_rem") and
+		has_alife_info("dolgovazyi_toolkit_done") and
+		has_alife_info("dolgovazyi_voen2_done") and
+		has_alife_info("vasily_toolkit_done") and
+		has_alife_info("dimak_toolkit_done") and
+		has_alife_info("atp_propusk_shurup_done") and
+		has_alife_info("petr_sidor_vzyt_done") and
+		has_alife_info("sidor_amulet_vzyt_done") and
+		has_alife_info("sak_repair_box_done")
+	then
+		db.actor:give_info_portion("acv_rem")
+		send_archievement("Ремонтник")
+	end
+
+	if not has_alife_info("acv_paparacci") and
+		not has_alife_info("foto_ohota_fail") and
+		has_alife_info("odnonogiy_foto_done") and
+		has_alife_info("izomorf_dialog_have") and
+		has_alife_info("izomorf_dialog_done") and
+		has_alife_info("foto_ohota_done") and
+		has_alife_info("foto_anomaly_done") and
+		has_alife_info("silent_hunt_done") and
+		has_alife_info("kontrik_electro_done") and
+		has_alife_info("ohota_wolf_done") and
+		has_alife_info("volna_foto_done") and
+		has_alife_info("bar_dolg_petrenko_electra_flash_done") and
+		has_alife_info("foto_strelok_done")
+	then
+		db.actor:give_info_portion("acv_paparacci")
+		send_archievement("Папарацці")
+	end
+
+	if not has_alife_info("acv_etolog") and
+		not has_alife_info("foto_ohota_fail") and
+		has_alife_info("izomorf_dialog_have") and
+		has_alife_info("izomorf_dialog_done") and
+		has_alife_info("foto_ohota_done") and
+		has_alife_info("silent_hunt_done") and
+		has_alife_info("kontrik_electro_done") and
+		has_alife_info("ohota_wolf_done") and
+		has_alife_info("bar_dolg_petrenko_electra_flash_done")
+	then
+		db.actor:give_info_portion("acv_etolog")
+		send_archievement("Етолог")
+	end
 end
 
 local foods = {

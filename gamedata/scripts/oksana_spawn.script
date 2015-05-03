@@ -1518,5 +1518,5 @@ if shax_start() then
 end
 end
 function shax_start()
-	return (has_alife_info("dok_u_parfumera_one_start") or has_alife_info("dok_u_parfumera_two_start")) and has_alife_info("volna_day4_done")
+	return has_alife_info("tel_dcity_kanaliy") and has_alife_info("volna_day4_done")
 end

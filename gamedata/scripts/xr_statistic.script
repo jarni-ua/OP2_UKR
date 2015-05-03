@@ -199,11 +199,15 @@ function getNpcType(npc)
 	if db.actor:active_item() then
 		local wpn = db.actor:active_item()
 		if wpn:section() == "wpn_kuvalda" then
-			archievements.acv_count_event("acv_kuv", 100, "Ìîëîòîáîºöü")
+			archievements.acv_count_2event("acv_kuv", 100, "Ìîëîòîáîºöü", "acv_kuv2", 300, "Êîâàëü")
 		elseif wpn:section() == "wpn_topor" then
-			archievements.acv_count_event("acv_top", 100, "Ğàñêîëüí³êîâ")
+			archievements.acv_count_2event("acv_top", 100, "Ğàñêîëüí³êîâ", "acv_top2", 300, "Äğîâîğóá")
+		elseif wpn:section() == "wpn_crowbar" then
+			archievements.acv_count_2event("acv_crow", 100, "Äàëåêîá³éíèê", "acv_crow2", 300, "Ãîğäîí Ôğ³ìåí")
 		elseif wpn:section() == "wpn_machete" then
-			archievements.acv_count_event("acv_mach", 100, "Õ³ğóğã")
+			archievements.acv_count_2event("acv_mach", 100, "Õ³ğóğã", "acv_mach2", 300, "Ïàòîëîãîàíàòîì")
+		elseif wpn:section() == "wpn_kukri" then
+			archievements.acv_count_2event("acv_kuk", 100, "Ãóğêõ", "acv_kuk2", 300, "Ñàìóğàé")
 		end
 	end
 
@@ -213,15 +217,15 @@ function getNpcType(npc)
 			community = "neutral"
 		end
 		local rank = ranks.get_obj_rank_name(npc)
-		archievements.acv_count_event("acv_kill", 3000, "Ê³ëåğ")
+		archievements.acv_kill()
 		return "stalkerkills", community.."_"..rank
 	
 	elseif string.find(section, "helicopter") then
-		archievements.acv_count_event("acv_mons", 6000, "Áğàêîíüºğ")
+		archievements.acv_mons()
 		return "monsterkills", "helicopter"
 	
 	elseif string.find(section, "vehicle_btr") then
-		archievements.acv_count_event("acv_mons", 6000, "Áğàêîíüºğ")
+		archievements.acv_mons()
 		return "monsterkills", "vehicle_btr"
 	
 	else
@@ -240,7 +244,7 @@ function getNpcType(npc)
 		if npc:clsid() == clsid.zombie_s then
 			archievements.acv_count_event("acv_zoms", 1000, "Ìîãèëüíèê")
 		end
-		archievements.acv_count_event("acv_mons", 6000, "Áğàêîíüºğ")
+		archievements.acv_mons()
 
 		return "monsterkills", community
 	end	
@@ -473,5 +477,7 @@ function add_actor_rank(value)
 		db.actor:give_info_portion("acv_rank1")
 	elseif rank >= 30000 and rank < 30100 then
 		db.actor:give_info_portion("acv_rank2")
+	elseif rank >= 50000 and rank < 50100 then
+		db.actor:give_info_portion("acv_rank3")
 	end
 end

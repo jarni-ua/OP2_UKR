@@ -616,6 +616,7 @@ function factions_repair_setstalker_r(trader, actor)
 			xr_gulag.setGulagRelation ("esc_lager", game_object.neutral, db.actor)	
 			relation_registry.set_community_goodwill ("stalker", db.actor:id(), 120)	
 			dialogs.relocate_money(actor, howmuch, "out")
+			archievements.acv_count_event("acv_xam", 3, "Хамелеон")
 		end
 	end
 end
@@ -669,6 +670,7 @@ function factions_repair_setduty_r(trader, actor)
 		if chkgoodwill < -1000 and  db.actor:money() >= 350000 then howmuch = 350000 end
 		dialogs.relocate_money(actor, howmuch, "out")
 		relation_registry.set_community_goodwill ("dolg", db.actor:id(), 500)
+		archievements.acv_count_event("acv_xam", 3, "Хамелеон")
 	end
 end
 
@@ -683,6 +685,7 @@ function factions_repair_setduty_j(trader, actor)
 		else
 			relation_registry.set_community_goodwill ("dolg", db.actor:id (), 200)
 		end
+		archievements.acv_count_event("acv_xam", 3, "Хамелеон")
 	end
 end
 
@@ -695,6 +698,7 @@ function factions_repair_setfree_r(trader, actor)
 		if chkgoodwill < -1000 and  db.actor:money() >= 350000 then howmuch = 350000 end
 		dialogs.relocate_money(actor, howmuch, "out")
 		relation_registry.set_community_goodwill ("freedom", db.actor:id(), 1000)
+		archievements.acv_count_event("acv_xam", 3, "Хамелеон")
 	end
 end
 
@@ -709,6 +713,7 @@ function factions_repair_setfree_j(trader, actor)
 		else
 			relation_registry.set_community_goodwill ("freedom", db.actor:id(), 250)
 		end
+		archievements.acv_count_event("acv_xam", 3, "Хамелеон")
 	end
 end
 
@@ -741,6 +746,7 @@ function factions_repair_setmon_j(trader, actor)
 		else
 			relation_registry.set_community_goodwill ("monolith", db.actor:id(), 200)
 		end
+		archievements.acv_count_event("acv_xam", 3, "Хамелеон")
 	end
 end
 
@@ -773,6 +779,7 @@ function factions_repair_setbandit_j(trader, actor)
 		else
 			relation_registry.set_community_goodwill ("bandit", db.actor:id(), 200)
 		end
+		archievements.acv_count_event("acv_xam", 3, "Хамелеон")
 	end
 end
 
@@ -806,6 +813,7 @@ function factions_repair_setmil_j(trader, actor)
 		else
 			relation_registry.set_community_goodwill ("military", db.actor:id(), 200)
 		end
+		archievements.acv_count_event("acv_xam", 3, "Хамелеон")
 	end
 end
 
@@ -839,6 +847,7 @@ function factions_repair_setkill_j(trader, actor)
 		else
 			relation_registry.set_community_goodwill ("killer", db.actor:id(), 200)
 		end
+		archievements.acv_count_event("acv_xam", 3, "Хамелеон")
 	end
 end
 
@@ -871,6 +880,7 @@ function factions_repair_seteco_j(trader, actor)
 		else
 			relation_registry.set_community_goodwill ("ecolog", db.actor:id(), 200)
 		end
+		archievements.acv_count_event("acv_xam", 3, "Хамелеон")
 	end
 end
 

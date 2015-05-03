@@ -3900,6 +3900,11 @@ news_manager.send_tip(db.actor, "%c[255,160,160,160]".."СТРІЛЕЦЬ:".."\\n".."%c[2
 end
 function otkr_perex_zaton_sms2()
 news_manager.send_tip(db.actor, "%c[255,160,160,160]".."НОРМАН:".."\\n".."%c[255,255,128,128]Ей, мужики! Я з вами! Нічого мені тут більше робити.".."".."\n", nil, nil, 15000)
+amk.start_timer("run", 7, "arhara_dialog.acv_sol()")
+amk.start_timer("run2", 7, "oksana_spawn.akim_panic()")
+end
+function acv_sol()
+db.actor:give_info_portion("acv_sol")
 end
 function nashel_listok_sms1()
 news_manager.send_tip(db.actor, "%c[255,160,160,160]".."СТРІЛЕЦЬ:".."\\n".."%c[255,255,128,128]Схоже, я знайшов записку... Володимир Ілліч вміє зберігати таємниці...".."".."\n", nil, nil, 20000, nil, [[characters_voice\ozvuchka\strelok_dcity2]])

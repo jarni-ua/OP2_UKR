@@ -9699,7 +9699,6 @@ end
 function achieve_taynik_spawn()
 	local obj = achieve_taynik()
 	level.map_add_object_spot_ser(obj.id, "treasure", "Нагорода за досягнення")
-	news_manager.send_tip(db.actor, "Видано схованку", nil, nil, 10000) -- !!!! убрать
 	achieve_fill_taynik(obj)
 end
 function achieve_all_taynik_spawn()

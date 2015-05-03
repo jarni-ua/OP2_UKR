@@ -1855,7 +1855,7 @@ function borov_biznes1_done()
 end
 
 function doktor_lekar1_have()
-	if not has_alife_info("doktor_lekar1_start") or has_alife_info("acv_lekar") then return end
+	if not has_alife_info("doktor_lekar1_start") or has_alife_info("acv_lekar2") then return end
 
 	local cnt = amk.load_variable("lekar",0)
 	cnt = cnt+1
@@ -1883,11 +1883,19 @@ function doktor_lekar1_have()
 		db.actor:give_info_portion("doktor_lekar1_have")
 	elseif cnt == 20 then
 		db.actor:give_info_portion("acv_lekar")
+	elseif cnt == 30 then
+		db.actor:give_info_portion("acv_lekar2")
 		amk.del_variable("lekar")
 		return
 	end
 	
 	amk.save_variable("lekar",cnt)
+end
+
+function doktor_lekar1_money()
+	if has_alife_info("acv_lekar2") then
+		aem_manager.manage_money(math.random(100,200), "in")
+	end
 end
 
 -- Убийство контролеров в онлайне, чтобы не было зацикливания пения

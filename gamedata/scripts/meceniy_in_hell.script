@@ -289,7 +289,7 @@ function horortime()
 				level.remove_pp_effector(77777776)
 				level.remove_cam_effector(77777775)
 				remove_horror_mutant()
-				archievements.acv_count_event("acv_hell", 15, "Безстрашний")
+				archievements.acv_count_2event("acv_hell", 15, "Безстрашний", "acv_hell2", 50, "Стівен Кінг")
 			end
 		end
 	end

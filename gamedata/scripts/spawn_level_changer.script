@@ -604,7 +604,7 @@ function remove_old_teleport()
 	local se_obj = alife():story_object(9799)
 	if se_obj then
 		alife():release(se_obj, true)
-		archievements.acv_count_event("acv_tp", 50, "Льотчик")
+		archievements.acv_count_2event("acv_tp", 50, "Льотчик", "acv_tp2", 100, "Аномальний мандрівник")
 	end
 	
 	db.actor:disable_info_portion("teleport_started")

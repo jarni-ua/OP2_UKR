@@ -181,7 +181,7 @@ function returner_clear_pos(obj)
 end
 
 function set_pos_allowed()
-	if has_alife_info("no_teleport_near_heli_btr") then 
+	if has_alife_info("no_teleport_near_heli_btr") and not (has_alife_info("snpt_jupiter5_have3") and not has_alife_info("snpt_jupiter6_done")) then 
 		news_manager.send_tip(db.actor, "Повернення з району скупчення ворожих сил неможлива з технічних причин. Для відновлення функціональності усуньте загрозу.", nil, "nano", 20000)
 		return false
 	elseif actor_is_in_danger() then
@@ -203,7 +203,7 @@ function do_returner()
 end
 
 function returner_allowed()
-	if has_alife_info("no_teleport_near_heli_btr") then 
+	if has_alife_info("no_teleport_near_heli_btr") and not (has_alife_info("snpt_jupiter5_have3") and not has_alife_info("snpt_jupiter6_done")) then 
 		news_manager.send_tip(db.actor, "Повернення з району скупчення ворожих сил неможливо з технічних причин. Для відновлення функціональності усуньте загрозу.", nil, "nano", 20000)
 		return false
 	elseif actor_is_in_danger() then
