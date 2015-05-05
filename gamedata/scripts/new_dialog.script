@@ -1401,7 +1401,9 @@ function francuz_have()
 end
 
 function francuz_done()
-new_dialog.out_item_much("pda_francuz",1)
+	new_dialog.out_item_much("pda_francuz",1)
+	sak.create_items_actor("wpn_glock21",1)
+	sak.create_items_actor("ammo_357_hp_mag",2)
 end
 
 function actor_have_tri_vo()

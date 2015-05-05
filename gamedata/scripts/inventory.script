@@ -164,7 +164,7 @@ end
 function check_blood()
 --   if belt_status == true then
       if belt["af_blood"]~=nil and belt["af_blood"]>0 then -- то есть когда параметр пояса[af_blood] равен 1, 2, 3.. Сколько навесишь Камней.
-             amk.send_tip("Кров Каменя на поясі")
+             amk.send_tip("Кровь Камня на поясе")
           end
 --   end
 end
@@ -205,7 +205,7 @@ function remove_duplicate()
 			--if is_unique(sect) and t[sect] ~= nil  and t[sect] > 0 then
 			if unique_sect[sect] and t[sect] ~= nil and t[sect] > 0 then
 				alife():release(sobj, true)
-				local text="Прибрані лишні артефакти "..game.translate_string(amk.get_inv_name(sect)).." з пояса"
+				local text="Убраны лишние артефакты "..game.translate_string(amk.get_inv_name(sect)).." с пояса"
 				news_manager.send_tip(db.actor, text, nil, nil, nil)
 				amk.spawn_item_in_inv(sect, db.actor)
 				t[sect] = t[sect] - 1
@@ -363,7 +363,7 @@ end
 
 -- Идол Монолита на поясе
 function check_idol_monolita()
-	if not has_alife_info("snp_shadows_start") or has_alife_info("snp_shadows_done") then return end
+	if not has_alife_info("snp_shadows_start") then return end
 
 	if belt["af_idol_monolita"] then
 		if not af_idol_monolita_on_belt then

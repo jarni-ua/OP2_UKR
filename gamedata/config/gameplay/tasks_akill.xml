@@ -3437,7 +3437,7 @@
             <infoportion_complete>foto_ohota_polter_tele</infoportion_complete> 
         </objective>
 		<objective>
-            <text>Вогняний полтергейст</text>
+            <text>Піро-полтергейст</text>
             <infoportion_complete>foto_ohota_polter_flame</infoportion_complete> 
         </objective>
 		<objective>
@@ -3445,7 +3445,7 @@
             <infoportion_complete>foto_ohota_polter</infoportion_complete> 
         </objective>
 		<objective>
-            <text>Піро-полтергейст</text>
+            <text>Повзучий піро-полтергейст</text>
             <infoportion_complete>foto_ohota_poltergeist_dd</infoportion_complete> 
         </objective>
 		<objective>
@@ -4397,3 +4397,83 @@
             <infoportion_complete>trofim_joke_borov_done</infoportion_complete>
         </objective>
     </game_task>
+
+	<!-- ЛИЧНОЕ ОРУЖИЕ -->
+	<!-- <game_task id="arny_pistol">
+        <title>Личное оружие</title>
+        <objective>
+            <text>Личное оружие</text>
+            <icon>ui_iconsTotal_pistolet</icon>
+            <infoportion_complete>arny_pistol_done</infoportion_complete>
+			<article>arny_pistol</article>
+        </objective>
+		<objective>
+            <text>Собрать нужные пистолеты</text>
+            <function_complete>akill.arny_pistol_have</function_complete>
+            <infoportion_set_complete>arny_pistol_have</infoportion_set_complete>
+        </objective>
+		<objective>
+            <text>Отнести пушки Арни</text>
+            <infoportion_complete>arny_pistol_done</infoportion_complete>
+        </objective>
+    </game_task>
+
+	<!-- ПРАКТИЧЕСКАЯ СТРЕЛЬБА -->
+	<!-- <game_task id="arny_test" prio="0">
+        <title>Практическая стрельба</title>
+        <objective>
+            <text>Практическая стрельба</text>
+            <icon>ui_iconsTotal_pistolet</icon>
+            <infoportion_complete>arny_test_done</infoportion_complete>
+			<infoportion_fail>arny_test_fail</infoportion_fail>
+			<article>arny_test</article>
+        </objective>
+        <objective>
+            <text>Протестировать ТТ-33</text>
+			<infoportion_complete>arny_test_tt</infoportion_complete> 
+        </objective>
+        <objective>
+            <text>Протестировать ПМм</text>
+            <infoportion_complete>arny_test_pmm</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Протестировать MP-444 «Багира»</text>
+            <infoportion_complete>arny_test_mp444</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Протестировать Beretta 92FS</text>
+            <infoportion_complete>arny_test_beretta</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Протестировать FN Browning HP-SA</text>
+            <infoportion_complete>arny_test_hpsa</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Протестировать Walther P99</text>
+            <infoportion_complete>arny_test_walther</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Протестировать Colt M1911</text>
+            <infoportion_complete>arny_test_colt</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Протестировать SIG-Sauer P220</text>
+            <infoportion_complete>arny_test_sig</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Протестировать USP-45 «Expert»</text>
+            <infoportion_complete>arny_test_usp</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Протестировать FN FNP-45</text>
+            <infoportion_complete>arny_test_fnp</infoportion_complete> 
+        </objective>
+		<objective>
+            <text>Отчитаться Арни о тесте</text>
+            <infoportion_complete>arny_test_have</infoportion_complete>
+        </objective>
+		<objective>
+            <text>Отдать Арни выбранный им пистолет</text>
+            <infoportion_complete>arny_test_done</infoportion_complete>
+        </objective>
+    </game_task-->

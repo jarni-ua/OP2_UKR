@@ -673,6 +673,7 @@ local custom = "[logic]\n"..
 "[sr_idle]\n"..
 "on_actor_inside = nil %=volna_btr1_spawn%"
 rewrite_restrictor(se_obj, custom, 30.0)
+level.map_add_object_spot_ser(se_obj.id, "crlc_big", "Обороняти позицію біля портових кранів")
 end
 function volna_btr2_sr1()
 local se_obj = alife():create("space_restrictor",vector():set(-161.06631469727,6.9040660858154,114.68376159668),619679,3670)
@@ -681,6 +682,7 @@ local custom = "[logic]\n"..
 "[sr_idle]\n"..
 "on_actor_inside = nil %=volna_btr2_spawn%"
 rewrite_restrictor(se_obj, custom, 30.0)
+level.map_add_object_spot_ser(se_obj.id, "crlc_big", "Обороняти позицію біля табору Смарагдове")
 end
 function volna_btr3_sr1()
 local se_obj = alife():create("space_restrictor",vector():set(-160.43884277344,14.935227394104,-244.57804870605),620772,3673)
@@ -689,6 +691,7 @@ local custom = "[logic]\n"..
 "[sr_idle]\n"..
 "on_actor_inside = nil %=volna_btr3_spawn%"
 rewrite_restrictor(se_obj, custom, 30.0)
+level.map_add_object_spot_ser(se_obj.id, "crlc_big", "Обороняти позицію біля заправки")
 end
 function strike_back_sr1()
 local se_obj = alife():create("space_restrictor",vector():set(439.83786010742,4.9460988044739,-90.410919189453),192777,2332)
@@ -798,6 +801,7 @@ local custom = "[logic]\n"..
 "[sr_idle]\n"..
 "on_actor_inside = nil %=akill.nazar_spider_have%"
 rewrite_restrictor(se_obj, custom, 9.0)
+level.map_add_object_spot_ser(se_obj.id, "crlc_big", "Вибратися на поверхню")
 end
 function ohota_vypolzen_sr1()
 local se_obj = alife():create("space_restrictor",vector():set(-73.502990722656,2.0208749771118,-55.059719085693),17184,3250)

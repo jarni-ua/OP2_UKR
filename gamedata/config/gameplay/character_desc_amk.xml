@@ -656,7 +656,7 @@
 	  	<crouch_type>0</crouch_type>
         <supplies>
         [spawn] \n
-        wpn_vint14 = 1, scope \n
+        wpn_hk417_camo \n
         ammo_7.62x51_ap \n
         grenade_f1 \n
 		device_torch \n
@@ -2318,7 +2318,7 @@
 	<visual>actors\hunters\hunter2</visual>
 	<supplies>
 	[spawn] \n
-	wpn_sayga12k \n
+	wpn_saiga12c \n
 	ammo_12x70_kart \n
 	device_torch \n
 	#include "gameplay\character_food.xml" \n

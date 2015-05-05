@@ -103,6 +103,9 @@ function run_allowed()
 	elseif has_alife_info("snp_proper7014_done") and not has_alife_info("snp_video_arhiv_done") then
 		news_manager.send_tip(db.actor, "Телепортація неможлива. Немає зв'язку з центром управління.", nil, "nano", 20000)
 		return false
+	elseif db.actor:active_item() then
+		news_manager.send_tip(db.actor, "Прискорювач не працює при наявності у руках будь-якого предмета або зброї. Для відновлення функціональності виправте ситуацію.", nil, "nano", 20000)
+		return false
 	elseif actor_is_in_danger() then
 		return false
 	elseif db.actor:money() < 1000 then
@@ -165,6 +168,10 @@ function returner_update()
 			double_click = nil
 		end
 	end
+	
+	if returner_pos and db.actor:active_item() then
+		returner_pos = nil
+	end
 end
 
 function returner_set_pos()
@@ -183,6 +190,9 @@ end
 function set_pos_allowed()
 	if has_alife_info("no_teleport_near_heli_btr") and not (has_alife_info("snpt_jupiter5_have3") and not has_alife_info("snpt_jupiter6_done")) then 
 		news_manager.send_tip(db.actor, "Повернення з району скупчення ворожих сил неможлива з технічних причин. Для відновлення функціональності усуньте загрозу.", nil, "nano", 20000)
+		return false
+	elseif db.actor:active_item() then
+		news_manager.send_tip(db.actor, "Повернення не працює при наявності у руках будь-якого предмета або зброї. Для відновлення функціональності виправте ситуацію.", nil, "nano", 20000)
 		return false
 	elseif actor_is_in_danger() then
 		return false
@@ -205,6 +215,9 @@ end
 function returner_allowed()
 	if has_alife_info("no_teleport_near_heli_btr") and not (has_alife_info("snpt_jupiter5_have3") and not has_alife_info("snpt_jupiter6_done")) then 
 		news_manager.send_tip(db.actor, "Повернення з району скупчення ворожих сил неможливо з технічних причин. Для відновлення функціональності усуньте загрозу.", nil, "nano", 20000)
+		return false
+	elseif db.actor:active_item() then
+		news_manager.send_tip(db.actor, "Повернення не працює при наявності у руках будь-якого предмета або зброї. Для відновлення функціональності виправте ситуацію.", nil, "nano", 20000)
 		return false
 	elseif actor_is_in_danger() then
 		return false

@@ -1052,22 +1052,18 @@
 		<class>aem_admin</class>
 		<community>stalker</community> <terrain_sect>stalker_terrain</terrain_sect>
 		<money min="600" max="2000" infinitive="0"></money>
-		
 		<rank>531</rank>
 		<reputation>90</reputation>
 
 		<visual>actors\neytral\stalker_neytral_hood_1</visual>
 		<snd_config>characters_voice\human_01\stalker\</snd_config>
 		<crouch_type>-1</crouch_type>
-
 		<supplies>
 			[spawn] \n
 			wpn_val_arena = 1 \n
 			ammo_9x39_sp5 = 1 \n
-#include "gameplay\character_food.xml"
 #include "gameplay\character_drugs.xml"
 		</supplies>
-
 #include "gameplay\character_criticals_4.xml"
 		<start_dialog>bar_arena_man_start</start_dialog>
 		<actor_dialog>bar_arena_man_job</actor_dialog>
@@ -1080,6 +1076,11 @@
 	<actor_dialog>volna_arny</actor_dialog>
 	<actor_dialog>volna_kogot_done</actor_dialog>
 	<actor_dialog>arny_dopros</actor_dialog>
+	<!--actor_dialog>arny_pistol_start</actor_dialog>
+	<actor_dialog>arny_pistol_done</actor_dialog>
+	<actor_dialog>arny_test_begin</actor_dialog>
+	<actor_dialog>arny_test_have</actor_dialog>
+	<actor_dialog>arny_test_done</actor_dialog-->
 	<!-- Akill end -->
 	</specific_character>
 
@@ -1093,22 +1094,18 @@
 		<class>aem_admin</class>
 		<community>stalker</community> <terrain_sect>stalker_terrain</terrain_sect>
 		<money min="600" max="2000" infinitive="0"></money>
-		
 		<rank>531</rank>
 		<reputation>90</reputation>
 
 		<visual>actors\neytral\stalker_neytral_hood_6</visual>
 		<snd_config>characters_voice\human_01\stalker\</snd_config>
 		<crouch_type>-1</crouch_type>
-
 		<supplies>
 			[spawn] \n
 			wpn_groza = 1 \n
 			ammo_9x39_sp5 = 1 \n
-#include "gameplay\character_food.xml"
 #include "gameplay\character_drugs.xml"
 		</supplies>
-
 #include "gameplay\character_criticals_4.xml"
 		<start_dialog>bar_arena_man_start</start_dialog>
 		<actor_dialog>bar_arena_man_job</actor_dialog>
@@ -1121,6 +1118,11 @@
 	<actor_dialog>volna_arny</actor_dialog>
 	<actor_dialog>volna_kogot_done</actor_dialog>
 	<actor_dialog>arny_dopros</actor_dialog>
+	<!--actor_dialog>arny_pistol_start</actor_dialog>
+	<actor_dialog>arny_pistol_done</actor_dialog>
+	<actor_dialog>arny_test_begin</actor_dialog>
+	<actor_dialog>arny_test_have</actor_dialog>
+	<actor_dialog>arny_test_done</actor_dialog-->
 	<!-- Akill end -->
 	</specific_character>
 
@@ -1134,22 +1136,18 @@
 		<class>aem_admin</class>
 		<community>stalker</community> <terrain_sect>stalker_terrain</terrain_sect>
 		<money min="600" max="2000" infinitive="0"></money>
-		
 		<rank>531</rank>
 		<reputation>90</reputation>
 
 		<visual>actors\neytral\stalker_neytral_rukzak_6</visual>
 		<snd_config>characters_voice\human_01\stalker\</snd_config>
 		<crouch_type>-1</crouch_type>
-
 		<supplies>
 			[spawn] \n
 			wpn_abakan = 1 \n
 			ammo_5.45x39_fmj = 1 \n
-#include "gameplay\character_food.xml"
 #include "gameplay\character_drugs.xml"
 		</supplies>
-				
 #include "gameplay\character_criticals_4.xml"
 		<start_dialog>bar_arena_man_start</start_dialog>
 		<actor_dialog>bar_arena_man_job</actor_dialog>
@@ -1162,6 +1160,11 @@
 	<actor_dialog>volna_arny</actor_dialog>
 	<actor_dialog>volna_kogot_done</actor_dialog>
 	<actor_dialog>arny_dopros</actor_dialog>
+	<!--actor_dialog>arny_pistol_start</actor_dialog>
+	<actor_dialog>arny_pistol_done</actor_dialog>
+	<actor_dialog>arny_test_begin</actor_dialog>
+	<actor_dialog>arny_test_have</actor_dialog>
+	<actor_dialog>arny_test_done</actor_dialog-->
 	<!-- Akill end -->
 	</specific_character>
 
@@ -1175,22 +1178,18 @@
 		<class>aem_admin</class>
 		<community>stalker</community> <terrain_sect>stalker_terrain</terrain_sect>
 		<money min="600" max="2000" infinitive="0"></money>
-		
 		<rank>531</rank>
 		<reputation>90</reputation>
 
 		<visual>actors\neytral\stalker_neytral_balon_3</visual>
 		<snd_config>characters_voice\human_01\stalker\</snd_config>
 		<crouch_type>-1</crouch_type>
-
 		<supplies>
 			[spawn] \n
 			wpn_ak74 = 1 \n
 			ammo_5.45x39_fmj = 1 \n
-#include "gameplay\character_food.xml"
 #include "gameplay\character_drugs.xml"
 		</supplies>
-				
 #include "gameplay\character_criticals_4.xml"
 		<start_dialog>bar_arena_man_start</start_dialog>
 		<actor_dialog>bar_arena_man_job</actor_dialog>
@@ -1203,6 +1202,11 @@
 	<actor_dialog>volna_arny</actor_dialog>
 	<actor_dialog>volna_kogot_done</actor_dialog>
 	<actor_dialog>arny_dopros</actor_dialog>
+	<!--actor_dialog>arny_pistol_start</actor_dialog>
+	<actor_dialog>arny_pistol_done</actor_dialog>
+	<actor_dialog>arny_test_begin</actor_dialog>
+	<actor_dialog>arny_test_have</actor_dialog>
+	<actor_dialog>arny_test_done</actor_dialog-->
 	<!-- Akill end -->
 	</specific_character>
 
@@ -1216,22 +1220,18 @@
 		<class>aem_admin</class>
 		<community>stalker</community> <terrain_sect>stalker_terrain</terrain_sect>
 		<money min="600" max="2000" infinitive="0"></money>
-		
 		<rank>531</rank>
 		<reputation>90</reputation>
 
 		<visual>actors\neytral\stalker_neytral_balon_2</visual>
 		<snd_config>characters_voice\human_01\stalker\</snd_config>
 		<crouch_type>-1</crouch_type>
-
 		<supplies>
 			[spawn] \n
 			wpn_ak74u = 1 \n
 			ammo_5.45x39_fmj = 1 \n
-#include "gameplay\character_food.xml"
 #include "gameplay\character_drugs.xml"
 		</supplies>
-				
 #include "gameplay\character_criticals_4.xml"
 		<start_dialog>bar_arena_man_start</start_dialog>
 		<actor_dialog>bar_arena_man_job</actor_dialog>
@@ -1244,6 +1244,11 @@
 	<actor_dialog>volna_arny</actor_dialog>
 	<actor_dialog>volna_kogot_done</actor_dialog>
 	<actor_dialog>arny_dopros</actor_dialog>
+	<!--actor_dialog>arny_pistol_start</actor_dialog>
+	<actor_dialog>arny_pistol_done</actor_dialog>
+	<actor_dialog>arny_test_begin</actor_dialog>
+	<actor_dialog>arny_test_have</actor_dialog>
+	<actor_dialog>arny_test_done</actor_dialog-->
 	<!-- Akill end -->
 	</specific_character>
 
@@ -1257,22 +1262,18 @@
 		<class>aem_arny</class>
 		<community>stalker</community> <terrain_sect>stalker_terrain</terrain_sect>
 		<money min="600" max="2000" infinitive="0"></money>
-		
 		<rank>531</rank>
 		<reputation>90</reputation>
 
 		<visual>actors\neytral\stalker_neytral_balon_6</visual>
 		<snd_config>characters_voice\human_01\stalker\</snd_config>
 		<crouch_type>-1</crouch_type>
-
 		<supplies>
 			[spawn] \n
 			wpn_lr300 = 1 \n
 			ammo_5.56x45_ap = 1 \n
-#include "gameplay\character_food.xml"
 #include "gameplay\character_drugs.xml"
 		</supplies>
-				
 #include "gameplay\character_criticals_4.xml"
 		<start_dialog>bar_arena_man_start</start_dialog>
 		<actor_dialog>bar_arena_man_job</actor_dialog>
@@ -1285,6 +1286,11 @@
 	<actor_dialog>volna_arny</actor_dialog>
 	<actor_dialog>volna_kogot_done</actor_dialog>
 	<actor_dialog>arny_dopros</actor_dialog>
+	<!--actor_dialog>arny_pistol_start</actor_dialog>
+	<actor_dialog>arny_pistol_done</actor_dialog>
+	<actor_dialog>arny_test_begin</actor_dialog>
+	<actor_dialog>arny_test_have</actor_dialog>
+	<actor_dialog>arny_test_done</actor_dialog-->
 	<!-- Akill end -->
 	</specific_character>
 </xml>

@@ -142,8 +142,7 @@ local battles = {
 			},
 			[2]	= {
 				timeout = 200,
-				tip = 
-					"%c[255,160,160,160]".."СВИБЛОВ:".."\\n".."%c[255,255,128,128]Мічений, вибач, але підмоги не буде. На нашу заставу хлинули мутанти, всі сили я направив туди. Тобі доведеться діяти самостійно.".."".."\n"
+				tip = "%c[255,160,160,160]".."СВИБЛОВ:".."\\n".."%c[255,255,128,128]Мічений, вибач, але підмоги не буде. На нашу заставу хлинули мутанти, всі сили я направив туди. Тобі доведеться діяти самостійно.".."".."\n"
 			},
 			[3]	= {
 				dist = 90,
@@ -209,6 +208,7 @@ local battles = {
 					["spider"] = 2,
 					["tushkano_normal"] = 1,
 					["tushkano_strong"] = 2,
+					["nosales"] = 1,
 					["vypolzen"] = 1,
 					["rotan"] = 1,
 					["flesh_swamp"] = 1
@@ -401,11 +401,11 @@ local battles = {
 				timeout = 5
 			},
 			[2]	= {
-				timeout = 120,
-				tip = "%c[255,255,128,128]Знову ця чортівня!".."".."\n"
+				timeout = 110,
+				tip = "%c[255,160,160,160]".."МІЧЕНИЙ:".."\\n".."%c[255,255,128,128]Знову ця чортівня!".."".."\n"
 			},
 			[3]	= {
-				timeout = 110,
+				timeout = 100,
 				func = "akill.noi_teleport2_tp()"
 			},
 			[4]	= {
@@ -427,7 +427,7 @@ local battles = {
 			},
 			[8]	= {
 				timeout = 5,
-				tip = "%c[255,255,128,128]І цього разу пронесло!".."".."\n"
+				tip = "%c[255,160,160,160]".."МІЧЕНИЙ:".."\\n".."%c[255,255,128,128]І цього разу пронесло!".."".."\n"
 			},
 			[9]	= {
 				timeout = 25,
@@ -706,7 +706,7 @@ local battles = {
 			},
 			[4]	= {
 				func = "akill.kontrik_zasada_zombied()",
-				tip = "%c[255,255,128,128]А-а-а-а-а!!! Йди з моєї голови!!! Я більше не витримаю!!!".."".."\n"
+				tip = "%c[255,160,160,160]".."МІЧЕНИЙ:".."\\n".."%c[255,255,128,128]А-а-а-а-а!!! Йди з моєї голови!!! Я більше не витримаю!!!".."".."\n"
 			}
 		},
 -- Ночной дозор, комплекс
@@ -818,7 +818,7 @@ local battles = {
 			},
 			[2]	= {
 				timeout = 10,
-				tip = "%c[255,255,128,128]Схоже, втікачі вибралися з підземки через інший вихід. Потрібно слідувати за ними.".."".."\n"
+				tip = "%c[255,160,160,160]".."МІЧЕНИЙ:".."\\n".."%c[255,255,128,128]Схоже, втікачі вибралися з підземки через інший вихід. Потрібно слідувати за ними.".."".."\n"
 			},
 			[3]	= {
 				timeout = 10,
@@ -994,7 +994,7 @@ local battles = {
 			[2]	= {
 				timeout = 1,
 				func = "akill.strike_back_bum1()",
-				tip = "%c[255,255,128,128]Що за..."
+				tip = "%c[255,160,160,160]".."МІЧЕНИЙ:".."\\n".."%c[255,255,128,128]Що за...".."".."\n"
 			},
 			[3]	= {
 				timeout = 1,
@@ -1196,6 +1196,7 @@ local battles = {
 					["snork_stronger"] = 1,
 					["snork_strong"] = 2,
 					["snork_jumper"] = 1,
+					["snork_nosach"] = 2,
 					["vypolzen"] = 2,
  					["vypolzen_red"] = 2,
  					["gigant_virus_strong"] = 1,
@@ -1573,7 +1574,7 @@ local battles = {
 				timeout = 90
 			},
 			[2]	= {
-				timeout = 120,
+				timeout = 100,
 				func = "akill.sak_tunnels_tp()"
 			},
 			[3]	= {
@@ -1583,7 +1584,7 @@ local battles = {
 			[4]	= {
 				timeout = 80,
 				func = "akill.sak_zvuk()",
-				tip = "%c[255,255,128,128]Що відбувається? Що зі мною?".."".."\n"
+				tip = "%c[255,160,160,160]".."МІЧЕНИЙ:".."\\n".."%c[255,255,128,128]Що відбувається? Що зі мною?".."".."\n"
 			},
 			[5]	= {
 				timeout = 60,
@@ -1625,7 +1626,7 @@ local battles = {
 			[14]	= {
 				timeout = 4,
 				func = "akill.sak_polet_tp()",
-				tip = "%c[255,255,128,128]А-а-а-а-а-а-а-а-а-а-а!".."".."\n"
+				tip = "%c[255,160,160,160]".."МІЧЕНИЙ:".."\\n".."%c[255,255,128,128]А-а-а-а-а-а-а-а-а-а-а!".."".."\n"
 			},
 			[15]	= {
 				timeout = 2,
@@ -1637,7 +1638,7 @@ local battles = {
 			},
 			[17]	= {
 				timeout = 15,
-				tip = "%c[255,255,128,128]Ух! Мабуть, енергія у артефакту вичерпалася.".."".."\n"
+				tip = "%c[255,160,160,160]".."МІЧЕНИЙ:".."\\n".."%c[255,255,128,128]Ух! Мабуть, енергія у артефакту вичерпалася.".."".."\n"
 			},
 			[18]	= {
 				func = "akill.volna_sak_have()"
@@ -1647,15 +1648,15 @@ local battles = {
 		[37] = {
 			[1]	= {
 				timeout = 5,
-				tip = "%c[255,255,128,128]Щось аномалії ніякої не видно...".."".."\n"
+				tip = "%c[255,160,160,160]".."МІЧЕНИЙ:".."\\n".."%c[255,255,128,128]Щось аномалії ніякої не видно...".."".."\n"
 			},
 			[2]	= {
 				timeout = 7,
-				tip = "%c[255,255,128,128]Не можу зрушити з місця... Очманіти! Вляпався як який-небудь недосвідчений новачок.".."".."\n"
+				tip = "%c[255,160,160,160]".."МІЧЕНИЙ:".."\\n".."%c[255,255,128,128]Не можу зрушити з місця... Очманіти! Вляпався як який-небудь недосвідчений новачок.".."".."\n"
 			},
 			[3]	= {
 				timeout = 7,
-				tip = "%c[255,255,128,128]Пипець! Тільки риб-мутантів і не вистачало для повного щастя...".."".."\n",
+				tip = "%c[255,160,160,160]".."МІЧЕНИЙ:".."\\n".."%c[255,255,128,128]Пипець! Тільки риб-мутантів і не вистачало для повного щастя...".."".."\n",
 				func = "akill.rotan_spawn()"
 			},
 			[4]	= {
@@ -1709,29 +1710,29 @@ local battles = {
 	atp_for_test22 = {
 		[30] = {
 			[1]	= {
-				timeout = 240
+				timeout = 100
 			},
 			[2]	= {
-				dist = 110,
-				timeout = 240,
+				dist = 90,
+				timeout = 140,
 				enemy = {
 					["gigant_big_strong"] = 5,
-					["gigant_strong"] = 6,
+					["gigant_strong"] = 7,
 					["gigant_jumper_normal"] = 2
 		 		}
 			},
 			[3]	= {
-				dist = 110,
-				timeout = 250,
+				dist = 100,
+				timeout = 160,
 				enemy = {
-					["gigant_big_strong"] = 4,
+					["gigant_big_strong"] = 5,
 					["gigant_strong"] = 7,
-					["gigant_red_strong"] = 1,
-					["gigant_jumper_strong"] = 1
+					["gigant_red_strong"] = 2,
+					["gigant_jumper_strong"] = 2
 		 		}
 			},
 			[4]	= {
-				dist = 130,
+				dist = 100,
 				enemy = {
 					["ohota_gigant1"] = 1,
 					["ohota_gigant2"] = 1
@@ -1741,7 +1742,7 @@ local battles = {
 -- Перевозчик
 		[31] = {
 			[1]	= {
-				timeout = 190
+				timeout = 180
 			},
 			[2]	= {
 				timeout = 180,
@@ -2197,6 +2198,7 @@ local battles = {
 					["polter_xray"] = 2,
 					["poltergeist_build"] = 2,
 					["karlito"] = 1,
+					["psyonik"] = 1,
 					["zombie_strong"] = 4
 		 		}
 			},
@@ -2226,6 +2228,7 @@ local battles = {
 					["polter_xray"] = 2,
 					["poltergeist_build"] = 2,
 					["karlito"] = 1,
+					["psyonik"] = 1,
 					["zombie_hell12"] = 2
 				}
 			},
@@ -2255,6 +2258,7 @@ local battles = {
 					["polter_xray"] = 2,
 					["poltergeist_build"] = 2,
 					["karlito"] = 1,
+					["psyonik"] = 1,
 					["zombie_hell13"] = 2
 				}
 			}
@@ -2273,8 +2277,9 @@ local battles = {
 					["kikimora"] = 3,
 					["molerat"] = 3,
 					["spider"] = 5,
-					["tushkano_normal"] = 5,
-					["tushkano_strong"] = 5,
+					["tushkano_normal"] = 4,
+					["tushkano_strong"] = 4,
+					["nosales"] = 4,
 					["flesh_weak"] = 1,
 					["flesh_normal"] = 1,
 					["flesh_swamp"] = 2,
@@ -2305,6 +2310,7 @@ local battles = {
 					["cat_weak"] = 1,
 					["psy_dog"] = 1,
 					["snork_stronger"] = 1,
+					["snork_nosach"] = 2,
 					["vypolzen"] = 4,
 					["vypolzen_red"] = 3,
 					["fracture_master"] = 2,
@@ -2327,6 +2333,7 @@ local battles = {
 					["polter_xray"] = 2,
 					["m_controller_act"] = 1,
 					["controller_flame"] = 1,
+					["psyonik"] = 1,
 					["gigant_virus_strong"] = 1
 				}
 			}
@@ -2337,8 +2344,8 @@ local battles = {
 				timeout = 30
 			},
 			[2]	= {
-				dist = 80,
-				timeout = 100,
+				dist = 70,
+				timeout = 90,
 				enemy = {
 					["boar_strong"] = 2,
 					["boar_kachok"] = 2,
@@ -2347,6 +2354,7 @@ local battles = {
 					["molerat"] = 3,
 					["tushkano_normal"] = 4,
 					["tushkano_strong"] = 4,
+					["nosales"] = 4,
 					["zanoza"] = 1,
 					["flesh_weak"] = 2,
 					["flesh_normal"] = 2,
@@ -2355,8 +2363,8 @@ local battles = {
 		 		}
 			},
 			[3]	= {
-				dist = 80,
-				timeout = 100,
+				dist = 70,
+				timeout = 90,
 				enemy = {
 					["dog_habaruch"] = 3,
 					["dog_sil_hill"] = 3,
@@ -2366,18 +2374,19 @@ local battles = {
 					["dog_zombie"] = 3,
 					["volkodav"] = 2,
 					["pseudodog_big"] = 2,
-					["pseudodog_strong"] = 2
+					["pseudodog_strong"] = 3
 				}
 			},
 			[4]	= {
-				dist = 80,
-				timeout = 100,
+				dist = 70,
+				timeout = 90,
 				enemy = {
 					["cat_strong"] = 2,
-					["cat_normal"] = 1,
-					["cat_weak"] = 1,
+					["cat_normal"] = 2,
+					["cat_weak"] = 2,
 					["psy_dog"] = 1,
 					["snork_jumper"] = 2,
+					["snork_nosach"] = 2,
 					["vypolzen_red"] = 2,
 					["vypolzen"] = 2,
 					["fracture_master"] = 2,
@@ -2388,7 +2397,7 @@ local battles = {
 				}
 			},
 			[5]	= {
-				dist = 80,
+				dist = 70,
 				timeout = 80,
 				enemy = {
 					["bloodsucker_effector"] = 1,
@@ -2410,7 +2419,7 @@ local battles = {
 			},
 			[7]	= {
 				dist = 70,
-				timeout = 100,
+				timeout = 90,
 				enemy = {
 					["electro_chimera"] = 1,
 					["chimera_x_ray"] = 1,
@@ -2423,10 +2432,11 @@ local battles = {
 			},
 			[8]	= {
 				dist = 70,
-				timeout = 100,
+				timeout = 90,
 				enemy = {
 					["fracture_normal"] = 3,
 					["karlito"] = 2,
+					["psyonik"] = 1,
 					["bibliotekar"] = 2,
 					["bibliotekar_black"] = 2,
 					["snork_stronger"] = 2
@@ -2582,8 +2592,9 @@ local battles = {
 					["rotan"] = 4,
 					["kikimora"] = 3,
 					["molerat"] = 3,
-					["tushkano_normal"] = 8,
-					["tushkano_strong"] = 8,
+					["tushkano_normal"] = 4,
+					["tushkano_strong"] = 4,
+					["nosales"] = 4,
 					["zanoza"] = 2,
 					["flesh_weak"] = 2,
 					["flesh_normal"] = 2,
@@ -2601,8 +2612,9 @@ local battles = {
 					["rotan"] = 4,
 					["kikimora"] = 4,
 					["molerat"] = 4,
-					["tushkano_normal"] = 8,
-					["tushkano_strong"] = 8,
+					["tushkano_normal"] = 4,
+					["tushkano_strong"] = 4,
+					["nosales"] = 4,
 					["zanoza"] = 2,
 					["flesh_weak"] = 2,
 					["flesh_normal"] = 2,
@@ -2666,6 +2678,7 @@ local battles = {
 					["snork_strong"] = 4,
 					["snork_stronger"] = 1,
 					["snork_jumper"] = 3,
+					["snork_nosach"] = 3,
 					["vypolzen"] = 3,
 					["vypolzen_red"] = 3,
 					["fracture_strong"] = 5,
@@ -2708,6 +2721,7 @@ local battles = {
 					["fracture_karlik"] = 5,
 					["snork_stronger"] = 2,
 					["snork_jumper"] = 2,
+					["snork_nosach"] = 2,
 					["poltergeist_build"] = 2,
 					["karlito"] = 2,
 					["m_poltergeist_dd"] = 2,
@@ -2726,6 +2740,7 @@ local battles = {
 					["snork_strong"] = 3,
 					["snork_stronger"] = 2,
 					["snork_jumper"] = 2,
+					["snork_nosach"] = 2,
 					["vypolzen"] = 4,
 					["vypolzen_red"] = 4,
 					["fracture_strong"] = 5,
@@ -2754,6 +2769,7 @@ local battles = {
 					["oboroten"] = 1,
  					["bear"] = 2,
 					["controller_electro"] = 1,
+					["psyonik"] = 1,
 					["gigant_jumper_normal"] = 1,
 					["gigant_big_strong"] = 1
 				}
@@ -2774,7 +2790,7 @@ local battles = {
 					["oboroten"] = 1,
  					["bear"] = 2,
 					["bloodsucker_strong"] = 3,
-					["bloodsucker_child"] = 1
+					["bloodsucker_child"] = 2
 				}
 			},
 			[24]	= {
@@ -2790,6 +2806,7 @@ local battles = {
 					["chimera_normal"] = 4,
  					["bear"] = 2,
 					["controller_electro"] = 1,
+					["psyonik"] = 1,
 					["chimera_strong"] = 4
 				}
 			},
@@ -2867,7 +2884,7 @@ local battles = {
 					["burer_strong"] = 1,
 					["burer_build"] = 1,
 					["burer_electro"] = 1,
-					["bloodsucker_child"] = 1
+					["bloodsucker_child"] = 2
 				}
 			},
 			[31]	= {
@@ -2884,7 +2901,8 @@ local battles = {
 					["chimera_strong"] = 3,
  					["bear"] = 2,
 					["controller_electro"] = 1,
-					["bloodsucker_hell"] = 1
+					["psyonik"] = 1,
+					["bloodsucker_hell"] = 2
 				}
 			},
 			[32]	= {
@@ -2898,7 +2916,7 @@ local battles = {
 					["burer_strong"] = 1,
 					["burer_build"] = 1,
 					["burer_electro"] = 1,
-					["deathclaw_normal"] = 1
+					["deathclaw_normal"] = 4
 				}
 			},
 			[33]	= {
@@ -2915,7 +2933,7 @@ local battles = {
 					["m_poltergeist_dd"] = 2,
 					["electro_polter"] = 2,
 					["polter_xray"] = 2,
-					["deathclaw_strong"] = 1
+					["deathclaw_strong"] = 2
 				}
 			},
 			[34]	= {
@@ -2963,8 +2981,9 @@ local battles = {
 					["new_hell"] = 3,
 					["vypolzen"] = 2,
 					["vypolzen_red"] = 2,
-					["snork_stronger"] = 1,
+					["snork_stronger"] = 2,
 					["snork_jumper"] = 2,
+					["snork_nosach"] = 2,
 					["snork_strong"] = 3
 				}
 			},
@@ -2990,6 +3009,7 @@ local battles = {
 					["vypolzen_red"] = 3,
 					["snork_stronger"] = 2,
 					["snork_jumper"] = 3,
+					["snork_nosach"] = 3,
 					["snork_strong"] = 3
 				}
 			},
@@ -3007,6 +3027,7 @@ local battles = {
 					["vypolzen_red"] = 2,
 					["snork_stronger"] = 2,
 					["snork_jumper"] = 2,
+					["snork_nosach"] = 2,
 					["snork_strong"] = 2
 				}
 			},
@@ -3014,14 +3035,15 @@ local battles = {
 				dist = 90,
 				timeout = 180,
 				enemy = {
-					["deathclaw_strong"] = 1,
-					["deathclaw_normal"] = 1,
-					["new_hell"] = 1,
-					["vypolzen"] = 10,
-					["vypolzen_red"] = 10,
-					["snork_stronger"] = 3,
+					["deathclaw_strong"] = 2,
+					["deathclaw_normal"] = 2,
+					["new_hell"] = 2,
+					["vypolzen"] = 8,
+					["vypolzen_red"] = 8,
+					["snork_stronger"] = 4,
 					["snork_jumper"] = 5,
-					["snork_strong"] = 9
+					["snork_nosach"] = 4,
+					["snork_strong"] = 5
 				}
 			},
 			[41]	= {
@@ -3074,6 +3096,7 @@ local battles = {
  					["bear"] = 1,
 					["snork_stronger"] = 2,
 					["snork_jumper"] = 2,
+					["snork_nosach"] = 2,
 					["snork_strong"] = 2
 				}
 			},
@@ -3114,10 +3137,7 @@ local battles = {
 					["volkodav"] = 2,
  					["bear"] = 2,
 					["vypolzen"] = 2,
-					["vypolzen_red"] = 2,
-					["snork_stronger"] = 2,
-					["snork_jumper"] = 2,
-					["snork_strong"] = 2
+					["vypolzen_red"] = 2
 				}
 			},
 			[45]	= {
@@ -3132,6 +3152,7 @@ local battles = {
 					["m_controller_act"] = 1,
 					["controller_flame"] = 1,
 					["controller_electro"] = 1,
+					["psyonik"] = 1,
 					["gigant_jumper_normal"] = 2,
 					["gigant_big_strong"] = 1,
 					["fracture_master"] = 4,
@@ -3142,7 +3163,8 @@ local battles = {
 					["vypolzen_red"] = 5,
 					["snork_stronger"] = 2,
 					["snork_jumper"] = 2,
-					["snork_strong"] = 4
+					["snork_nosach"] = 2,
+					["snork_strong"] = 2
 				}
 			},
 			[46]	= {
@@ -3234,8 +3256,9 @@ local battles = {
 					["cat_weak"] = 4,
 					["vypolzen"] = 3,
 					["vypolzen_red"] = 3,
-					["snork_strong"] = 4,
+					["snork_strong"] = 3,
 					["snork_jumper"] = 2,
+					["snork_nosach"] = 3,
 					["snork_stronger"] = 1,
 					["fracture_strong"] = 6,
 					["fracture_master"] = 6,
@@ -3247,7 +3270,7 @@ local battles = {
 				timeout = 150,
 				enemy = {
 					["bloodsucker_effector"] = 1,
-					["oboroten"] = 1,
+					["oboroten"] = 2,
 					["electro_chimera"] = 4,
 					["chimera_x_ray"] = 5,
 					["chimera_wolf"] = 5,
@@ -3257,6 +3280,7 @@ local battles = {
 					["chimera_normal"] = 4,
  					["bear"] = 2,
 					["controller_electro"] = 1,
+					["psyonik"] = 1,
 					["chimera_strong"] = 3
 				}
 			},
@@ -3270,11 +3294,12 @@ local battles = {
 					["burer_strong"] = 1,
 					["burer_build"] = 1,
 					["burer_electro"] = 1,
-					["vypolzen"] = 9,
-					["vypolzen_red"] = 9,
+					["vypolzen"] = 8,
+					["vypolzen_red"] = 8,
 					["snork_stronger"] = 3,
 					["snork_jumper"] = 5,
-					["snork_strong"] = 9
+					["snork_nosach"] = 3,
+					["snork_strong"] = 8
 				}
 			},
 			[13]	= {
@@ -3318,8 +3343,9 @@ local battles = {
 					["spider"] = 5,
 					["kikimora"] = 3,
 					["molerat"] = 3,
-					["tushkano_normal"] = 8,
-					["tushkano_strong"] = 8,
+					["tushkano_normal"] = 4,
+					["tushkano_strong"] = 4,
+					["nosales"] = 4,
 					["zanoza"] = 2,
 					["flesh_weak"] = 2,
 					["flesh_normal"] = 2,
@@ -3352,8 +3378,9 @@ local battles = {
 					["spider"] = 5,
 					["kikimora"] = 4,
 					["molerat"] = 4,
-					["tushkano_normal"] = 7,
-					["tushkano_strong"] = 7,
+					["tushkano_normal"] = 4,
+					["tushkano_strong"] = 4,
+					["nosales"] = 4,
 					["zanoza"] = 2,
 					["flesh_weak"] = 2,
 					["flesh_normal"] = 2,
@@ -3397,6 +3424,7 @@ local battles = {
 					["polter_xray"] = 2,
 					["snork_stronger"] = 2,
 					["snork_jumper"] = 2,
+					["snork_nosach"] = 2,
 					["gigant_strong"] = 2
 				}
 			},
@@ -3433,6 +3461,7 @@ local battles = {
 					["oboroten"] = 1,
  					["bear"] = 2,
 					["controller_electro"] = 1,
+					["psyonik"] = 1,
 					["bloodsucker_hell"] = 1
 				}
 			},
@@ -3485,6 +3514,7 @@ local battles = {
 					["oboroten"] = 1,
  					["bear"] = 2,
 					["controller_electro"] = 1,
+					["psyonik"] = 1,
 					["bloodsucker_strong"] = 4,
 					["bloodsucker_child"] = 1
 				}
@@ -3562,6 +3592,7 @@ local battles = {
 					["chimera_strong"] = 3,
  					["bear"] = 2,
 					["controller_electro"] = 1,
+					["psyonik"] = 1,
 					["bloodsucker_hell"] = 1
 				}
 			},
@@ -3647,6 +3678,7 @@ local battles = {
 					["vypolzen_red"] = 3,
 					["snork_stronger"] = 2,
 					["snork_jumper"] = 3,
+					["snork_nosach"] = 3,
 					["snork_strong"] = 4
 				}
 			},
@@ -3676,6 +3708,7 @@ local battles = {
 					["vypolzen_red"] = 3,
 					["snork_stronger"] = 3,
 					["snork_jumper"] = 3,
+					["snork_nosach"] = 3,
 					["snork_strong"] = 3
 				}
 			},
@@ -3693,6 +3726,7 @@ local battles = {
 					["vypolzen_red"] = 3,
 					["snork_stronger"] = 3,
 					["snork_jumper"] = 3,
+					["snork_nosach"] = 3,
 					["snork_strong"] = 3
 				}
 			},
@@ -3746,6 +3780,7 @@ local battles = {
  					["bear"] = 2,
 					["snork_stronger"] = 2,
 					["snork_jumper"] = 2,
+					["snork_nosach"] = 2,
 					["snork_strong"] = 2
 				}
 			},
@@ -3779,10 +3814,7 @@ local battles = {
 					["volkodav"] = 2,
  					["bear"] = 2,
 					["vypolzen"] = 2,
-					["vypolzen_red"] = 2,
-					["snork_stronger"] = 2,
-					["snork_jumper"] = 2,
-					["snork_strong"] = 2
+					["vypolzen_red"] = 2
 				}
 			},
 			[42]	= {
@@ -3797,6 +3829,7 @@ local battles = {
 					["m_controller_act"] = 1,
 					["controller_flame"] = 1,
 					["controller_electro"] = 1,
+					["psyonik"] = 1,
 					["gigant_jumper_normal"] = 2,
 					["gigant_big_strong"] = 1,
 					["fracture_master"] = 4,
@@ -3807,7 +3840,8 @@ local battles = {
 					["vypolzen_red"] = 5,
 					["snork_stronger"] = 2,
 					["snork_jumper"] = 3,
-					["snork_strong"] = 4
+					["snork_nosach"] = 3,
+					["snork_strong"] = 3
 				}
 			},
 			[43]	= {
@@ -3866,8 +3900,9 @@ local battles = {
 					["spider"] = 5,
 					["kikimora"] = 4,
 					["molerat"] = 4,
-					["tushkano_normal"] = 8,
-					["tushkano_strong"] = 8,
+					["tushkano_normal"] = 4,
+					["tushkano_strong"] = 4,
+					["nosales"] = 4,
 					["zanoza"] = 2,
 					["flesh_weak"] = 2,
 					["flesh_normal"] = 2,
@@ -3901,9 +3936,10 @@ local battles = {
 					["cat_weak"] = 4,
 					["vypolzen"] = 3,
 					["vypolzen_red"] = 3,
-					["snork_strong"] = 4,
+					["snork_strong"] = 3,
 					["snork_stronger"] = 2,
 					["snork_jumper"] = 3,
+					["snork_nosach"] = 3,
 					["fracture_strong"] = 6,
 					["fracture_master"] = 6,
 					["fracture_karlik"] = 6
@@ -3919,11 +3955,12 @@ local battles = {
 					["burer_strong"] = 1,
 					["burer_build"] = 1,
 					["burer_electro"] = 1,
-					["vypolzen"] = 10,
-					["vypolzen_red"] = 10,
+					["vypolzen"] = 9,
+					["vypolzen_red"] = 9,
 					["snork_stronger"] = 4,
 					["snork_jumper"] = 5,
-					["snork_strong"] = 9
+					["snork_nosach"] = 3,
+					["snork_strong"] = 8
 				}
 			},
 			[11]	= {
@@ -3941,6 +3978,7 @@ local battles = {
 					["chimera_normal"] = 4,
  					["bear"] = 2,
 					["controller_electro"] = 1,
+					["psyonik"] = 1,
 					["chimera_strong"] = 3
 				}
 			},
@@ -4002,8 +4040,9 @@ local battles = {
 					["spider"] = 5,
 					["kikimora"] = 4,
 					["molerat"] = 4,
-					["tushkano_normal"] = 8,
-					["tushkano_strong"] = 8,
+					["tushkano_normal"] = 4,
+					["tushkano_strong"] = 4,
+					["nosales"] = 4,
 					["zanoza"] = 2,
 					["flesh_weak"] = 2,
 					["flesh_normal"] = 2,
@@ -4057,6 +4096,7 @@ local battles = {
 					["polter_xray"] = 2,
 					["snork_stronger"] = 2,
 					["snork_jumper"] = 2,
+					["snork_nosach"] = 2,
 					["gigant_strong"] = 2
 				}
 			},
@@ -4091,8 +4131,9 @@ local battles = {
 					["chimera_strong"] = 2,
  					["bear"] = 2,
 					["controller_electro"] = 1,
+					["psyonik"] = 1,
 					["bloodsucker_mil"] = 1,
-					["bloodsucker_hell"] = 1
+					["bloodsucker_hell"] = 2
 				}
 			},
 			[21]	= {
@@ -4104,8 +4145,9 @@ local battles = {
 					["spider"] = 5,
 					["kikimora"] = 3,
 					["molerat"] = 3,
-					["tushkano_normal"] = 8,
-					["tushkano_strong"] = 8,
+					["tushkano_normal"] = 4,
+					["tushkano_strong"] = 4,
+					["nosales"] = 4,
 					["zanoza"] = 2,
 					["flesh_weak"] = 2,
 					["flesh_normal"] = 2,
@@ -4171,9 +4213,10 @@ local battles = {
 					["cat_weak"] = 4,
 					["vypolzen"] = 3,
 					["vypolzen_red"] = 3,
-					["snork_strong"] = 4,
+					["snork_strong"] = 3,
 					["snork_stronger"] = 2,
 					["snork_jumper"] = 3,
+					["snork_nosach"] = 3,
 					["fracture_strong"] = 5,
 					["fracture_master"] = 5,
 					["poltergeist_build"] = 2,
@@ -4222,8 +4265,9 @@ local battles = {
 					["fire_chimera"] = 3,
 					["chimera_black"] = 2,
 					["chimera_normal"] = 4,
- 					["bear"] = 2,
+ 					["bear"] = 3,
 					["controller_electro"] = 1,
+					["psyonik"] = 1,
 					["chimera_strong"] = 4
 				}
 			},
@@ -4343,6 +4387,7 @@ local battles = {
 					["vypolzen_red"] = 3,
 					["snork_stronger"] = 3,
 					["snork_jumper"] = 3,
+					["snork_nosach"] = 3,
 					["snork_strong"] = 4
 				}
 			},
@@ -4373,6 +4418,7 @@ local battles = {
 					["vypolzen_red"] = 3,
 					["snork_stronger"] = 2,
 					["snork_jumper"] = 3,
+					["snork_nosach"] = 3,
 					["snork_strong"] = 4
 				}
 			},
@@ -4390,6 +4436,7 @@ local battles = {
 					["vypolzen_red"] =3,
 					["snork_stronger"] = 3,
 					["snork_jumper"] = 3,
+					["snork_nosach"] = 3,
 					["snork_strong"] = 3
 				}
 			},
@@ -4443,6 +4490,7 @@ local battles = {
  					["bear"] = 2,
 					["snork_stronger"] = 2,
 					["snork_jumper"] = 2,
+					["snork_nosach"] = 2,
 					["snork_strong"] = 2
 				}
 			},
@@ -4476,10 +4524,7 @@ local battles = {
 					["volkodav"] = 2,
  					["bear"] = 2,
 					["vypolzen"] = 2,
-					["vypolzen_red"] = 2,
-					["snork_stronger"] = 2,
-					["snork_jumper"] = 2,
-					["snork_strong"] = 2
+					["vypolzen_red"] = 2
 				}
 			},
 			[42]	= {
@@ -4494,6 +4539,7 @@ local battles = {
 					["m_controller_act"] = 1,
 					["controller_flame"] = 1,
 					["controller_electro"] = 1,
+					["psyonik"] = 1,
 					["gigant_jumper_normal"] = 2,
 					["gigant_big_strong"] = 1,
 					["fracture_master"] = 4,
@@ -4504,7 +4550,8 @@ local battles = {
 					["vypolzen_red"] = 5,
 					["snork_stronger"] = 2,
 					["snork_jumper"] = 3,
-					["snork_strong"] = 4
+					["snork_nosach"] = 3,
+					["snork_strong"] = 3
 				}
 			},
 			[43]	= {
@@ -5071,7 +5118,7 @@ local battles = {
 			},
 			[3]	= {
 				timeout = 3,
-				tip = "%c[255,255,128,128]Це ще що таке?".."".."\n"
+				tip = "%c[255,160,160,160]".."МІЧЕНИЙ:".."\\n".."%c[255,255,128,128]Це ще що таке?".."".."\n"
 			},
 			[4]	= {
 				func = "akill.zasada_vermaht_spawn()"
@@ -5130,10 +5177,11 @@ local battles = {
 			},
 			[6]	= {
 				dist = 65,
-				tip = "%c[255,160,160,160]".."МІЧЕНИЙ:".."\\n".."%c[255,255,128,128]От, блін! На гуркіт кротощури збіглись...".."".."\n",
+				tip = "%c[255,160,160,160]".."МІЧЕНИЙ:".."\\n".."%c[255,255,128,128]От, блін! На гуркіт інщі мутанти збіглись...".."".."\n",
 				enemy = {
-					["molerat"] = 8,
-					["kikimora"] = 6
+					["molerat"] = 5,
+					["nosales"] = 4,
+					["kikimora"] = 5
 				}
 			}
 		}

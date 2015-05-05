@@ -1,7 +1,7 @@
 --схема удаления трупов сталкеров
 local show_detailed_logs = false --отображать подробную статистику в ПДА-Журнал-История
 local summ_corpses = 0 --общее допустимое число трупов на всех территориях (не включая СИД)
-local dist_to_corpses = 50 --расстояние от ГГ, свыше которого считаются трупы.
+local dist_to_corpses = 0 --50 --расстояние от ГГ, свыше которого считаются трупы.
 local tabl_corpses={}
 local tabl_corpses_9510={}
 local tabl_stalkers = {}
@@ -15,7 +15,7 @@ local outfit_additional_max = 1 -- количество бронежилетов, которые сталкеры ост
 local tabl_outfits_all = {}
 
 --схема удаления трупов монстров
-local dist_to_corpses_motstr = 20 --расстояние от ГГ, свыше которого считаются трупы.
+local dist_to_corpses_motstr = 0 --20 --расстояние от ГГ, свыше которого считаются трупы.
 local tabl_monsters_dead={} --все мёртвые монстры
 local tabl_monsters_live_to_remove = {} --список монстров живых на удаление
 local tabl_monsters_dead_with_parts_to_remove = {} --список монстров мёртвых на удаление

@@ -825,7 +825,6 @@ end
 function give_agr_krot_PDA(first_speaker, second_speaker)
 	sak.out_item_namber("agroprom_pda", 1)
 	second_speaker:set_relation(game_object.friend, first_speaker)
-	db.actor:disable_info_portion("no_teleport_near_heli_btr")
 end
 
 function gar_dolg_flesh_eye_have()

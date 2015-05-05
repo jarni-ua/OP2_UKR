@@ -314,8 +314,8 @@ function ohota_kontriki_done()
 	sak.out_item_namber("akill_mono_note",1)
 	sak.out_item_namber("doktor_diktofon",1)
 	sak.out_item_namber("docs_from_x10",1)
-	sak.create_items_actor("ammo_12x70_buck",3)
-	sak.create_items_actor("ammo_12x70_kart",3)
+	sak.create_items_actor("ammo_12x70_buck",2)
+	sak.create_items_actor("ammo_12x70_kart",2)
 	sak.create_items_actor("voshod_outfit",1)
 	table_treasure_l.treasure()
 	spawn_restrictor.zasada_puzir_sr1()
@@ -477,7 +477,7 @@ function koloda_den_have()
 end
 function koloda_den_give()
 	sak.create_items_actor("karta_7piki",1)
-	sak.create_items_actor("ammo_11.43x23_fmj",2)
+	sak.create_items_actor("ammo_11.43x23_fmj",1)
 end
 function boar_metka_delete()
 	local obj
@@ -1001,9 +1001,9 @@ function dolgovazyi_voen2_have()
 end
 function dolgovazyi_voen2_done()
 	sak.out_item_namber("voen2_toolkit",1)
-	sak.create_items_actor("ammo_5.45x39_fmj",2)
-	sak.create_items_actor("ammo_5.56x45_ss190",2)
-	sak.create_items_actor("ammo_12x70_buck",2)
+	sak.create_items_actor("ammo_5.45x39_fmj",1)
+	sak.create_items_actor("ammo_5.56x45_ss190",1)
+	sak.create_items_actor("ammo_12x70_buck",1)
 end
 function zasada_voen2_spawn()
 	alife():create("zasada_tonnel_agro_3",vector():set(-107.86102294922,7.3839535713196,-136.98213195801),132140,696)
@@ -1471,7 +1471,7 @@ function ammo_sidor_done()
 	sak.out_item_namber("detonator_2",5)
 	db.actor:disable_info_portion("biznes_remove_special_item")
 	sak.create_items_actor("wpn_acr",1)
-	sak.create_items_actor("ammo_5.56x45_gd",3)
+	sak.create_items_actor("ammo_5.56x45_gd",2)
 	sak.create_items_actor("grenade_fb",3)
 	local obj
     for a=1,65535,1 do
@@ -1501,8 +1501,7 @@ function vasily_toolkit_done()
 	sak.out_item_namber("tonk_toolkit",1)
 	sak.out_item_namber("akill_toolkit",1)
 	sak.create_items_actor("wpn_m4",1)
-	sak.create_items_actor("ammo_5.56x45_ss190",3)
-	table_treasure_l.treasure()
+	sak.create_items_actor("ammo_5.56x45_ss190",1)
 end
 
 -- ÍÎ×ÍÀß ÎÕÎÒÀ
@@ -1573,7 +1572,6 @@ end
 function night_ohota_done()
 	alife():create("akill_toolkit",vector():set(-148.59489440918,5.1987357139587,180.3150177002),38958,1329)
 	sak.create_items_actor("wpn_rpk74_sk1",1)
-	sak.create_items_actor("wpn_kollim",1)
 	table_treasure_l.treasure()
 end
 
@@ -1637,6 +1635,7 @@ function saharov_obrazec_start()
 			se_obj = alife():create("electro_polter",vector():set(a.position.x,a.position.y,a.position.z), a.lv, a.gv)
 			se_obj = alife():create("polter_xray",vector():set(a.position.x,a.position.y,a.position.z), a.lv, a.gv)
 			se_obj = alife():create("tushkano_strong",vector():set(a.position.x,a.position.y,a.position.z), a.lv, a.gv)
+			se_obj = alife():create("nosales",vector():set(a.position.x,a.position.y,a.position.z), a.lv, a.gv)
 		end
  	end
 end
@@ -1904,7 +1903,7 @@ function new_radios_done()
 	sak.out_item_namber("akill_radio",8)
 	sak.create_items_actor("af_kvazar",1)
 	sak.create_items_actor("wpn_scar_snip",1)
-	kostya_dialog.give_ammo(5)
+	kostya_dialog.give_ammo(3)
 end
 function new_radios_sms()
 	news_manager.send_tip(db.actor, "%c[255,160,160,160]".."Ì²×ÅÍÈÉ:".."\\n".."%c[255,255,128,128]Àäðåíàë³í, ìåí³ ïîòð³áí³ íàä³éí³ ðàö³¿, 8 øòóê. Ó òåáå º òàê³?".."".."\n", nil, nil, 15000)
@@ -1971,7 +1970,7 @@ function weapons_kalinin_done()
 	sak.out_item_namber("wpn_addon_acog",4)
 	sak.create_items_actor("af_propeller",1)
 	sak.create_items_actor("grenade_m61",5)
-	kostya_dialog.give_ammo(8)
+	kostya_dialog.give_ammo(6)
 end
 
 -- ÏÍÂ ÄËß ÊÀËÈÍÈÍÀ
@@ -1992,8 +1991,8 @@ function kalinin_voen1_done()
 	sak.out_item_namber("nv_bad",8)
 	db.actor:disable_info_portion("biznes_remove_special_item")
 	sak.create_items_actor("wpn_sks_s",1)
-	sak.create_items_actor("ammo_7.62x39_ap",2)
-	sak.create_items_actor("ammo_7.62x39_fmj",2)
+	sak.create_items_actor("ammo_7.62x39_ap",1)
+	sak.create_items_actor("ammo_7.62x39_fmj",1)
 	sak.create_items_actor("grenade_m61",5)
 	alife():create("a_inventory_box14",vector():set(11.591503143311,9.1839332580566,-40.820812225342),189889,1053)
 end
@@ -2010,9 +2009,9 @@ end
 function sherstuk_mayak_spawn()
 	local obj = alife():create("a_inventory_box40",vector():set(-181.14698791504,7.2314772605896,86.747451782227),30672,1322)
 	alife():create("snork_jumper",vector():set(-206.22518920898,0.79953229427338,93.175064086914),25413,1373)
-	alife():create("snork_jumper",vector():set(-209.70092773438,1.3991112709045,119.49594116211),24633,1369)
+	alife():create("snork_nosach",vector():set(-209.70092773438,1.3991112709045,119.49594116211),24633,1369)
 	alife():create("snork_jumper",vector():set(-184.12603759766,0.015335232019424,104.41861724854),29886,1324)
-	alife():create("snork_jumper",vector():set(-182.34576416016,-0.039156407117844,120.99468994141),30304,1324)
+	alife():create("snork_nosach",vector():set(-182.34576416016,-0.039156407117844,120.99468994141),30304,1324)
 	alife():create("zombie_hell",vector():set(-182.34576416016,-0.039156407117844,120.99468994141),30304,1324)
 	alife():create("zombie_blow",vector():set(-182.34576416016,-0.039156407117844,120.99468994141),30304,1324)
 	alife():create("voen_zombied1",vector():set(-182.34576416016,-0.039156407117844,120.99468994141),30304,1324)
@@ -2318,10 +2317,8 @@ function dragunov_ohota_done()
 	sak.create_items_actor("cube_chip",1)
 	sak.create_items_actor("wpn_gauss_ves",1)
 	sak.create_items_actor("ammo_super_gauss",2)
-	sak.create_items_actor("ammo_gauss",3)
+	sak.create_items_actor("ammo_gauss",2)
 	sak.create_items_actor("grenade_he",2)
-	sak.create_items_actor("grenade_m61",3)
-	table_treasure_l.treasure()
 end
 function fotograf_npc_spawn()
 	local obj = alife():create("fotograf_npc",vector():set(-407.95184326172,0.62288904190063,69.41822052002),166298,2889)
@@ -2414,6 +2411,7 @@ function fotograf_pobeg_done()
 	sak.out_item_namber("af_serafim",1)
 	sak.out_item_namber("af_kol_4",1)
 	sak.create_items_actor("af_fontan",1)
+	sak.create_items_actor("wpn_sayga_al",1)
 	alife():create("a_inventory_box17",vector():set(-136.82847900391,-1.4783505344391,-58.367412567139),183239,1621)
 end
 function taynik_fotograf_as_have()
@@ -2465,7 +2463,7 @@ function kuznec_dogovor_done()
 	sak.out_item_namber("wpn_svt40",1)
 	sak.out_item_namber("wpn_mauser_red9",1)
 	sak.create_items_actor("militaryspec_outfit",1)
-	kostya_dialog.give_ammo(7)
+	kostya_dialog.give_ammo(6)
 end
 
 -- ÇÀÏÀÑÍÎÉ ÔÎÒÎÀÏÏÀÐÀÒ
@@ -2567,9 +2565,8 @@ function otshelnik_prosba_done()
 	sak.create_items_actor("mutant_zombie_cocoon",1)
 	sak.create_items_actor("mutant_psydog_cocoon",1)
 	sak.create_items_actor("mutant_cat_cocoon",1)
-	kostya_dialog.give_ammo(8)
+	kostya_dialog.give_ammo(7)
 	sak.create_items_actor("cube_chip",1)
-	table_treasure_l.treasure()
 end
 
 -- ÏÎÈÑÊÈ ÊËÀÄÀ
@@ -2594,7 +2591,7 @@ function klad_labirint_done()
 	sak.out_item_namber("money2",7)
 	sak.out_item_namber("money3",7)
 	sak.create_items_actor("det_artefact_indy",1)
-	sak.create_items_actor("ammo_357_ap_mag",5)
+	sak.create_items_actor("ammo_357_ap_mag",3)
 	aem_manager.manage_money(15000, "in")
 end
 function klad_labirint_spawn()
@@ -2645,7 +2642,7 @@ function klad_op_done()
 	sak.out_item_namber("money2",10)
 	sak.out_item_namber("money3",10)
 	sak.out_item_namber("vodka",1)
-	sak.create_items_actor("ammo_kumul_82",6)
+	sak.create_items_actor("ammo_kumul_82",5)
 	sak.create_items_actor("wpn_ak109",1)
 	aem_manager.manage_money(30000, "in")
 	alife():create("a_inventory_box21",vector():set(-310.78189086914,35.633766174316,-155.2646484375),342190,3672)
@@ -2713,8 +2710,7 @@ function privet_leshyi_done()
 	sak.create_items_actor("af_kletka",1)
 	sak.create_items_actor("wpn_val_m1",1)
 	sak.create_items_actor("grenade_he",2)
-	sak.create_items_actor("ammo_7.92x33_ap",3)
-	table_treasure_l.treasure()
+	sak.create_items_actor("ammo_7.92x33_ap",2)
 end
 
 -- ÄÅØÈÔÐÎÂÊÀ ÏÄÀ
@@ -2883,9 +2879,9 @@ end
 -- ÒÀÉÍÈÊ ËÅØÅÃÎ
 function checking_taken_item75(obj)
  	if not has_alife_info("taynik_leshyi_start") and obj:section()=="docs_x7" then 
-	local se_obj = alife():create("a_inventory_box23",vector():set(106.04250335693,1.45752228307724,-5.2345976829529),530926,2826)
-		   se_obj = alife():create("taynik_liker_pusto",vector():set(106.04250335693,0.73452228307724,-5.2345976829529),530926,2826)
-		   se_obj = alife():create("taynik_liker_pusto",vector():set(106.04250335693,1.06452228307724,-5.2345976829529),530926,2826)
+		alife():create("a_inventory_box23",vector():set(106.04250335693,1.45752228307724,-5.2345976829529),530926,2826)
+		alife():create("taynik_liker_pusto",vector():set(106.04250335693,0.73452228307724,-5.2345976829529),530926,2826)
+		alife():create("taynik_liker_pusto",vector():set(106.04250335693,1.06452228307724,-5.2345976829529),530926,2826)
 		db.actor:give_info_portion("taynik_leshyi_start")
 	end
 end
@@ -2937,7 +2933,6 @@ function drug_food_done()
 	sak.out_item_namber("druzok_flesh",1)
 	sak.create_items_actor("wpn_fnp45tcl",1)
 	sak.create_items_actor("ammo_11.43x23_fmj",2)
-	sak.create_items_actor("ammo_11.43x23_hydro",1)
 	sak.create_items_actor("grenade_fb",2)
 end
 
@@ -3212,7 +3207,7 @@ function izumrud_electra_done()
 	sak.create_items_actor("ammo_7.62x54_7h1",1)
 	sak.create_items_actor("ammo_7.62x54_7h14",1)
 	sak.create_items_actor("ammo_7.62x54_ap",1)
-	sak.create_items_actor("grenade_m61",5)
+	sak.create_items_actor("grenade_m61",3)
 	local obj = alife():create("a_inventory_box28",vector():set(433.66345214844,42.448131561279,1.3459589481354),1643588,3693)
 	level.map_add_object_spot_ser(obj.id, "crlc_big", "Ñõîâàíêà Àê³ëëà")
 	alife():create("vypolzen",vector():set(380.93081665039,34.312866210938,-25.52170753479),1594410,3691)
@@ -3289,7 +3284,7 @@ function izumrud_recept_have()
 	end
 end
 function izumrud_recept_done()
-	sak.create_items_actor("ammo_gauss",3)
+	sak.create_items_actor("ammo_gauss",2)
 end
 
 -- ÏÎÄ ÏÐÈÖÅËÎÌ
@@ -3311,7 +3306,7 @@ function akill_vision_have()
 end
 function akill_vision_done()
 	sak.out_item_namber("wpn_addon_scope_m1",1)
-	sak.create_items_actor("ammo_5.56x45_gd",4)
+	sak.create_items_actor("ammo_5.56x45_gd",3)
 end
 
 -- ÑÄÅËÊÀ Ñ ÍÀ¨ÌÍÈÊÀÌÈ
@@ -3432,7 +3427,7 @@ function mercenary_zapadny_spawn()
 end
 function mercenary_zapadny_done()
 	sak.create_items_actor("wpn_20w_vintorez",1)
-	sak.create_items_actor("ammo_9x39_sp5",3)
+	sak.create_items_actor("ammo_9x39_sp5",2)
 	sak.create_items_actor("grenade_f1_double",3)
 	sak.create_items_actor("grenade_fb",3)
 	spawn_restrictor.zasada_bw_sr1()
@@ -3461,8 +3456,9 @@ function knife_akill_start()
 	alife():create("voen_zombied2",vector():set(-123.09496307373,9.1040058135986,101.61030578613),90668,2881)
 	alife():create("voen_zombied1",vector():set(-123.09496307373,9.1040058135986,101.61030578613),90668,2881)
 	alife():create("voen_zombied2",vector():set(-123.09496307373,9.1040058135986,101.61030578613),90668,2881)
-	alife():create("controller_senator",vector():set(-123.09496307373,9.1040058135986,101.61030578613),90668,2881)
-	alife():create("controller_babka",vector():set(-123.09496307373,9.1040058135986,101.61030578613),90668,2881)
+	alife():create("psyonik",vector():set(-123.09496307373,9.1040058135986,101.61030578613),90668,2881)
+	alife():create("psyonik",vector():set(-123.09496307373,9.1040058135986,101.61030578613),90668,2881)
+	alife():create("psyonik",vector():set(-123.09496307373,9.1040058135986,101.61030578613),90668,2881)
 	alife():create("zombie_hell15",vector():set(-218.55897521973,-0.00085055828094482,40.292552947998),15261,2881)
 	alife():create("zombie_hell15",vector():set(-123.09496307373,9.1040058135986,101.61030578613),90668,2881)
 end
@@ -3483,7 +3479,7 @@ function knife_akill_done(first_speaker, second_speaker)
 	dialogs.relocate_item_section(second_speaker, "fake_wpn_knif4","out")
 	sak.create_items_actor("medkit_army",2)
 	sak.create_items_actor("grenade_gd-05",3)
-	sak.create_items_actor("ammo_12.7x108",5)
+	sak.create_items_actor("ammo_12.7x108",2)
 	sak.create_items_actor("grenade_f1_double",2)
 	alife():create("bw_killers4",vector():set(203.16683959961,18.064163208008,-10.036685943604),431615,3768)
 	alife():create("bw_killers5",vector():set(186.52844238281,12.247560501099,46.502082824707),416432,3770)
@@ -3542,8 +3538,8 @@ function keis_oruzeinik_done()
 	sak.out_item_namber("keis_key",2)
 	sak.out_item_namber("chertez_keis",1)
 	sak.create_items_actor("device_pda_npc",1)
-	sak.create_items_actor("wpn_hk416",1)
-	sak.create_items_actor("ammo_5.56x45_gd",5)
+	sak.create_items_actor("wpn_hk417_camo",1)
+	sak.create_items_actor("ammo_7.62x51_ap",2)
 	db.actor:give_info_portion("keis_oruzeinik_have")
 end
 
@@ -3604,9 +3600,9 @@ end
 -- ×ÓÆÎÉ ÑÐÅÄÈ ÑÂÎÈÕ
 function dolg_peremirie_done()
 	sak.create_items_actor("wpn_sv98",1)
-	sak.create_items_actor("ammo_7.62x54_ap",2)
-	sak.create_items_actor("ammo_7.62x54_7h14",2)
-	sak.create_items_actor("ammo_7.62x54_7h1",2)
+	sak.create_items_actor("ammo_7.62x54_ap",1)
+	sak.create_items_actor("ammo_7.62x54_7h14",1)
+	sak.create_items_actor("ammo_7.62x54_7h1",1)
 end
 function svoboda_peremirie_have_all()
 	return
@@ -3722,8 +3718,7 @@ function ohota_himera_spawn()
 end
 function ohota_himera_done()
 	sak.create_items_actor("wpn_val_m2",1)
-	sak.create_items_actor("ammo_9x39_sp5",3)
-	table_treasure_l.treasure()
+	sak.create_items_actor("ammo_9x39_sp5",1)
 end
 function ohota_himera_have(task, info)
      if db.actor:has_info("ohota_himera1_dead") and db.actor:has_info("ohota_himera2_dead") then 
@@ -4073,8 +4068,8 @@ function sviblov_hostel()
 	alife():create("gigant_big_strong",vector():set(-348.22875976563,6.2014136314392,107.48751068115),259605,3666)
 	alife():create("bibliotekar_black",vector():set(-302.64886474609,23.639047622681,-198.69206237793),342134,3671)
 	alife():create("bibliotekar",vector():set(-302.64886474609,23.639047622681,-198.69206237793),342134,3671)
-	alife():create("controller_senator",vector():set(-302.64886474609,23.639047622681,-198.69206237793),342134,3671)
-	alife():create("controller_babka",vector():set(-302.64886474609,23.639047622681,-198.69206237793),342134,3671)
+	alife():create("psyonik",vector():set(-302.64886474609,23.639047622681,-198.69206237793),342134,3671)
+	alife():create("psyonik",vector():set(-302.64886474609,23.639047622681,-198.69206237793),342134,3671)
 	alife():create("bear",vector():set(223.24566650391,1.4627097845078,-55.380416870117),1098457,3736)
 	alife():create("chimera_wolf",vector():set(223.24566650391,1.4627097845078,-55.380416870117),1098457,3736)
 	alife():create("chimera_black",vector():set(223.24566650391,1.4627097845078,-55.380416870117),1098457,3736)
@@ -4146,8 +4141,8 @@ function voron_kostya_done()
 	aem_manager.manage_money(15000, "in")
 	sak.create_items_actor("wpn_kedr",1)
 	sak.create_items_actor("ammo_9x18_pmm",10)
-	sak.create_items_actor("grenade_m61",10)
-	sak.create_items_actor("grenade_fb",5)
+	sak.create_items_actor("grenade_m61",7)
+	sak.create_items_actor("grenade_fb",2)
 end
 
 -- ÎÁÐÅÇ ÄËß ÄÝÍÀ
@@ -4177,7 +4172,7 @@ local kep_binocle={
     {position={x=-68.89567565918,y=9.1423673629761,z=-32.032817840576},gv=1605,lv=243071},
     {position={x=-19.919086456299,y=9.673511505127,z=73.526695251465},gv=1620,lv=287585},
     {position={x=6.0913596153259,y=-6.2954802513123,z=11.201170921326},gv=1582,lv=316464}, -- â êàçàðìå
-    {position={x=-50.242462158203,y=-9.7819690704346,z=30.894626617432},gv=1608,lv=257901}, -- ðÿäîì ñ Ìàêñîì
+    {position={x=-50.131267547607,y=-9.394757270813,z=30.944446563721},gv=1607,lv=258510}, -- ðÿäîì ñ Ìàêñîì
     {position={x=-38.825351715088,y=-6.330904006958,z=-18.877733230591},gv=1605,lv=267662} -- ðÿäîì ñ Øóðóïîì
 }
 function binocle_kep_spawn(actor,npc,p1,p2)
@@ -4404,6 +4399,7 @@ function hlist_spawn()
 	alife():create("zombie_blow",vector():set(92.600540161133,0.052252888679504,378.31802368164),315522,3760)
 	alife():create("kontrik_labx16",vector():set(88.607299804688,1.3091744184494,366.12350463867),311426,3760)
 	alife():create("m_controller_act",vector():set(88.607299804688,1.3091744184494,366.12350463867),311426,3760)
+	alife():create("psyonik",vector():set(88.607299804688,1.3091744184494,366.12350463867),311426,3760)
 	alife():create("zombie_beee",vector():set(88.607299804688,1.3091744184494,366.12350463867),311426,3760)
 	alife():create("zombie_plague_komar",vector():set(88.607299804688,1.3091744184494,366.12350463867),311426,3760)
 	alife():create("controller_babka",vector():set(32.61563873291,-0.39268606901169,357.27484130859),241796,3760)
@@ -4567,7 +4563,7 @@ function haker_soft_give()
 	sak.create_items_actor("ammo_7.62x39_k",2)
 	sak.create_items_actor("ammo_5.56x45_gd",2)
 	sak.create_items_actor("ammo_357_ap_mag",2)
-	sak.create_items_actor("ammo_12.7x108",2)
+	sak.create_items_actor("ammo_12.7x108",1)
 end
 
 -- ÎÁÌÅÍ ÐÞÊÇÀÊÎÂ Ó ÄÈÌÀÊÀ
@@ -4705,9 +4701,9 @@ amk_mod.spawn_military_tech_pack(alife():create("vehicle_btr",vector():set(-365.
 end
 function sklad_barrel_done()
 	sak.create_items_actor("chertez_mossberg",1)
-	sak.create_items_actor("ammo_kumul_82",15)
-	sak.create_items_actor("ammo_20x85",10)
-	sak.create_items_actor("ammo_357_ap_mag",5)
+	sak.create_items_actor("ammo_kumul_82",10)
+	sak.create_items_actor("ammo_20x85",7)
+	sak.create_items_actor("ammo_357_ap_mag",3)
 	local obj
 	for a=1,65535,1 do
 	obj=alife():object(a)
@@ -5028,7 +5024,7 @@ function living_dead_spawn()
 		amk.start_timer("battle", 0, {"jupiter", 33, 1})
 end
 function nazar_group_delete()
-	sak.create_items_actor("ammo_23x76_shrap",7)
+	sak.create_items_actor("ammo_23x76_shrap",6)
 	alife():create("amk_ballon",vector():set(-397.88116455078,11.417510032654,-12.839150428772),49652,3708)
 	alife():create("amk_ballon",vector():set(-397.38241577148,11.417458534241,-12.85968208313),49652,3708)
 	alife():create("amk_ballon",vector():set(-396.8805847168,11.414491653442,-12.869218826294),49652,3708)
@@ -5088,6 +5084,7 @@ function anomaly_grenade_start()
 			se_obj = alife():create("spider",vector():set(a.position.x,a.position.y,a.position.z), a.lv, a.gv)
 			se_obj = alife():create("spider",vector():set(a.position.x,a.position.y,a.position.z), a.lv, a.gv)
 			se_obj = alife():create("tushkano_strong",vector():set(a.position.x,a.position.y,a.position.z), a.lv, a.gv)
+			se_obj = alife():create("nosales",vector():set(a.position.x,a.position.y,a.position.z), a.lv, a.gv)
 			se_obj = alife():create("molerat",vector():set(a.position.x,a.position.y,a.position.z), a.lv, a.gv)
 			se_obj = alife():create("kikimora",vector():set(a.position.x,a.position.y,a.position.z), a.lv, a.gv)
 			se_obj = alife():create("volkodav",vector():set(a.position.x,a.position.y,a.position.z), a.lv, a.gv)
@@ -5180,6 +5177,7 @@ end
 function volna_petrenko_spawn()
 	local snd_obj = xr_sound.get_safe_sound_object([[zwuk\controller_evil]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+	alife():create("psyonik",vector():set(-121.19214630127,-0.60100048780441,-69.578247070313),74930,3749)
 	alife():create("m_controller_old_fat",vector():set(-72.846611022949,-0.38325318694115,-48.99397277832),116607,3749)
 	alife():create("m_controller_normal",vector():set(-59.607189178467,4.2090620994568,-94.676498413086),130100,3759)
 	alife():create("m_poltergeist_dd",vector():set(-45.168685913086,-0.39581114053726,-48.207420349121),143463,3759)
@@ -5354,7 +5352,7 @@ function volna_darkness_start()
 	alife():create("leshyi_bandit5",vector():set(101.94415283203,-0.49409809708595,156.67599487305),326332,3764)
 	alife():create("m_poltergeist_tele_outdoor",vector():set(-113.11763763428,-28.484573364258,93.889068603516),153,3832)
 	alife():create("m_poltergeist_strong_flame",vector():set(-113.11763763428,-28.484573364258,93.889068603516),153,3832)
-	alife():create("controller_babka",vector():set(-57.560775756836,-22.015823364258,94.446029663086),6283,3840)
+	alife():create("psyonik",vector():set(-57.560775756836,-22.015823364258,94.446029663086),6283,3840)
 		spawn_restrictor.volna_darkness_sr1()
 end
 local volna_darkness={
@@ -5411,7 +5409,7 @@ function volna_darkness_bitva()
 end
 function volna_darkness_done()
 	sak.out_item_namber("volna_keis",4)
-	sak.create_items_actor("ammo_7.62x51_fmj",3)
+	sak.create_items_actor("ammo_7.62x51_fmj",2)
 	sak.create_items_actor("ammo_7.62x51_ap",2)
 end
 function fonarik_dimak_give()
@@ -5563,8 +5561,9 @@ function volna_diversya_start()
 	db.actor:give_info_portion("biznes_remove_special_item")
 	sak.out_item_namber("detonator_2",5)
 	db.actor:disable_info_portion("biznes_remove_special_item")
+	sak.out_item_namber("diversya_pda",1)
 	alife():create("a_inventory_box46",vector():set(79.511016845703,0.0825085490942,150.30401611328),29990,1221)
-	alife():create("a_inventory_box46",vector():set(139.86407470703,-2.5501291751862,26.251499176025),36995,1237)
+	alife():create("a_inventory_box46",vector():set(123.98241424561,-4.6939389705658,21.045143127441),35381,1238)
 	alife():create("a_inventory_box46",vector():set(236.07781982422,5.1635003089905,-3.928117275238),60459,1266)
 	alife():create("a_inventory_box46",vector():set(153.87519836426,8.4856491088867,75.010551452637),39679,1184)
 	alife():create("a_inventory_box46",vector():set(129.47862243652,2.7607295513153,66.569801330566),36097,1252)
@@ -5573,7 +5572,6 @@ end
 -- ÏÎÐÎÕÎÂÀß ÁÎ×ÊÀ
 function volna_diversya_have_all()
 	return
-		new_dialog.item_much("diversya_pda",1) and
 		new_dialog.item_much("treasure_item",5) and
 		new_dialog.item_much("bomba_small",100) and
 		new_dialog.item_much("bomba_big",20)
@@ -5587,7 +5585,6 @@ function volna_diversya_have()
 	end
 end
 function volna_diversya_done()
-	sak.out_item_namber("diversya_pda",1)
 	db.actor:give_info_portion("biznes_remove_special_item")
 	sak.out_item_namber("treasure_item",3)
 	sak.out_item_namber("bomba_small",75)
@@ -5626,6 +5623,7 @@ function skryga_taina_start()
 			se_obj = alife():create("spider",vector():set(a.position.x,a.position.y,a.position.z), a.lv, a.gv)
 			se_obj = alife():create("spider",vector():set(a.position.x,a.position.y,a.position.z), a.lv, a.gv)
 			se_obj = alife():create("tushkano_strong",vector():set(a.position.x,a.position.y,a.position.z), a.lv, a.gv)
+			se_obj = alife():create("nosales",vector():set(a.position.x,a.position.y,a.position.z), a.lv, a.gv)
 			se_obj = alife():create("volkodav",vector():set(a.position.x,a.position.y,a.position.z), a.lv, a.gv)
 			se_obj = alife():create("kikimora",vector():set(a.position.x,a.position.y,a.position.z), a.lv, a.gv)
 			se_obj = alife():create("molerat",vector():set(a.position.x,a.position.y,a.position.z), a.lv, a.gv)
@@ -5639,15 +5637,12 @@ function volna_plen_done()
 	alife():create("m_poltergeist_normal_tele",vector():set(-113.11763763428,-28.484573364258,93.889068603516),153,3832)
 	alife():create("m_poltergeist_strong_flame",vector():set(-113.11763763428,-28.484573364258,93.889068603516),153,3832)
 	alife():create("m_poltergeist_dd",vector():set(-84.893417358398,-32.360542297363,93.660995483398),2555,3844)
-	alife():create("burer_build",vector():set(-84.893417358398,-32.360542297363,93.660995483398),2555,3844)
 	alife():create("controller_flame",vector():set(-84.893417358398,-32.360542297363,93.660995483398),2555,3844)
 	alife():create("kontrik_labx16",vector():set(-45.292686462402,-20.556245803833,65.68293762207),6751,3850)
-	alife():create("controller_babka",vector():set(-88.816520690918,-15.940329551697,105.54244232178),1880,3837)
 	alife():create("m_controller_act",vector():set(-63.153469085693,-24.199377059937,73.659301757813),5890,3840)
 	alife():create("carlic",vector():set(-106.68594360352,-32.402889251709,87.162796020508),432,3832)
 	alife():create("carlic_strong",vector():set(-84.48161315918,-15.943572998047,113.50270080566),2585,3837)
 	alife():create("carlic_weak",vector():set(-52.705959320068,-22.034772872925,92.51042175293),6509,3840)
-	alife():create("karlito",vector():set(-52.705959320068,-22.034772872925,92.51042175293),6509,3840)
 	alife():create("electro_polter",vector():set(-84.48161315918,-15.943572998047,113.50270080566),2585,3837)
 	alife():create("polter_xray",vector():set(-84.48161315918,-15.943572998047,113.50270080566),2585,3837)
 	alife():create("monolith_x8_regular",vector():set(-140.4810333252,20.591642379761,-361.81442260742),661147,3678)
@@ -6419,7 +6414,6 @@ function max_gunsight_done()
 	sak.create_items_actor("grenade_m61",5)
 	sak.create_items_actor("af_pero",1)
 	sak.create_items_actor("army_counter",23)
-	table_treasure_l.treasure()
 end
 
 -- ÏÐÎÂÅÐÊÀ ÍÀ ÏÐÎ×ÍÎÑÒÜ
@@ -6473,13 +6467,12 @@ end
 function viking_proverka_have(task, info)
      if db.actor:has_info("ohota_zombi3_dead") then
 		return db.actor:give_info_portion("viking_proverka_have") and 
-		news_manager.send_tip(db.actor, "%c[255,160,160,160]".."Ì²×ÅÍÈÉ:".."\\n".."%c[255,255,128,128]Âñ³õ ïîð³øèëè, ïîáëèçó í³êîãî íå áà÷ó. Ï³äó ñêàæó êàï³òàíîâ³, ùî òè âïîðàâñÿ ³ç çàâäàííÿì.".."".."\n", nil, nil, 30000)
+		news_manager.send_tip(db.actor, "%c[255,160,160,160]".."Ì²×ÅÍÈÉ:".."\\n".."%c[255,255,128,128]Âñ³õ ïîð³øèëè, ïîáëèçó í³êîãî íå áà÷ó. Ï³äó ñêàæó êàï³òàíîâ³, ùî òè âïîðàâñÿ ³ç çàâäàííÿì.".."".."\n", nil, nil, 20000)
      end
 		return false
 end
 function viking_proverka_done()
 	sak.create_items_actor("af_parazit",1)
-	table_treasure_l.treasure()
 	news_manager.send_tip(db.actor, "%c[255,160,160,160]".."ØÓÐÓÏ:".."\\n".."%c[255,255,128,128]Ì³÷åíèé, çàãëÿíü äî ìåíå íà äîçâ³ëë³. Òðåáà äåùî îáãîâîðèòè.".."".."\n", nil, nil, 30000)
 end
 
@@ -6674,9 +6667,8 @@ function shurup_shron_done(first_speaker, second_speaker)
 	local gtime = amk.game_minutes()
 	amk.save_variable("chertez_dimak", gtime + math.random(3, 3) * 60)
 	sak.create_items_actor("wpn_fn57",1)
-	sak.create_items_actor("ammo_5.7x28_ap",3)
-	sak.create_items_actor("ammo_5.7x28_ss190",3)
-	sak.create_items_actor("bomba_mina_b",5)
+	sak.create_items_actor("ammo_5.7x28_ap",2)
+	sak.create_items_actor("ammo_5.7x28_ss190",2)
 	news_manager.send_tip(db.actor, "%c[255,160,160,160]".."ÇÀÃÀËÜÍÀ ÌÅÐÅÆÀ:".."\\n".."%c[255,255,128,128]Öå Ä³ìàê. Õòî áàæàº êóïèòè ÊÏÊ ç äàíèìè ïðî ñõîâàíêó ç êðåñëåííÿìè Steyr AUG, ÷åêàþ âàøèõ ïðîïîçèö³é. Ïî÷àòêîâà ö³íà - 5 òèñÿ÷.".."".."\n", nil, nil, 30000)
 		amk.start_timer("battle", 0, {"l07_military", 33, 1})
 	local obj
@@ -6894,8 +6886,7 @@ function kalinin_diversya_done()
 	end
 	sak.create_items_actor("wpn_fnp45",1)
 	sak.create_items_actor("wpn_addon_sil_1143_p",1)
-	sak.create_items_actor("ammo_5.45x39_izomorf",2)
-	sak.create_items_actor("ammo_11.43x23_hydro",4)
+	sak.create_items_actor("ammo_11.43x23_hydro",2)
 	table_treasure_l.treasure()
 end
 
@@ -6937,7 +6928,6 @@ function ohota_tushkan_done()
 	sak.out_item_namber("wpn_p18",1)
 	sak.create_items_actor("vodka_a",30)
 	sak.create_items_actor("wpn_bizon1",1)
-	table_treasure_l.treasure()
 	local obj = alife():create("a_inventory_box53",vector():set(66.562271118164,-7.2045879364014,-94.185256958008),472661,2818)
 	level.map_add_object_spot_ser(obj.id, "crlc_big", "Ñõðîí ç ãîð³ëêîþ")
 	alife():create("leshyi_bandit1",vector():set(71.055374145508,-6.9605917930603,-89.201988220215),481718,2819)
@@ -7283,7 +7273,7 @@ function volna_day1_boars()
 	alife():create("boar_strong",vector():set(-69.075485229492,-0.88383972644806,85.79744720459),804553,3677)
 	alife():create("tushkano_strong",vector():set(-69.888031005859,-0.24583508074284,92.363372802734),803131,3677)
 	alife():create("rotan",vector():set(-61.698448181152,-1.6389778852463,89.297607421875),820801,3677)
-	alife():create("flesh_normal",vector():set(-60.058227539063,-1.2498625516891,98.569747924805),823908,3677)
+	alife():create("nosales",vector():set(-60.058227539063,-1.2498625516891,98.569747924805),823908,3677)
 	alife():create("kikimora",vector():set(-52.946338653564,-1.9391529560089,101.74831390381),839100,3677)
 	alife():create("boar_kachok",vector():set(-51.159690856934,-1.4142837524414,109.20529174805),843387,3677)
 	alife():create("flesh_swamp",vector():set(-41.410259246826,-3.1216237545013,105.88146209717),863456,3677)
@@ -7467,13 +7457,13 @@ function volna_day2_boars()
 	alife():create("tushkano_strong",vector():set(345.91009521484,32.121341705322,11.485078811646),1542301,3691)
 	alife():create("boar_kachok",vector():set(344.37634277344,31.290285110474,-2.4194169044495),1539999,3691)
 	alife():create("flesh_swamp",vector():set(347.83801269531,31.327533721924,-13.479951858521),1545635,3691)
-	alife():create("boar_strong",vector():set(344.42181396484,30.493913650513,-22.528221130371),1539973,3691)
+	alife():create("nosales",vector():set(344.42181396484,30.493913650513,-22.528221130371),1539973,3691)
 	alife():create("tushkano_normal",vector():set(351.51388549805,31.869897842407,-28.622831344604),1551007,3691)
 	alife():create("kikimora",vector():set(340.95559692383,30.582748413086,-5.2828598022461),1534388,3691)
 	alife():create("flesh_normal",vector():set(344.93508911133,30.275327682495,-40.148693084717),1541107,3691)
 	alife():create("tushkano_strong",vector():set(343.90524291992,29.445793151855,-47.734336853027),1538775,3691)
 	alife():create("boar_kachok",vector():set(346.82260131836,29.363090515137,-56.736465454102),1543350,3691)
-	alife():create("flesh_weak",vector():set(352.28610229492,31.632326126099,-50.286640167236),1552029,3691)
+	alife():create("nosales",vector():set(352.28610229492,31.632326126099,-50.286640167236),1552029,3691)
 	alife():create("boar_strong",vector():set(350.09356689453,30.238317489624,-61.559707641602),1548804,3691)
 	alife():create("tushkano_normal",vector():set(353.61279296875,30.66833114624,-70.689781188965),1554173,3691)
 	alife():create("molerat",vector():set(356.73318481445,30.966421127319,-81.739379882813),1559676,3693)
@@ -7857,6 +7847,7 @@ end
 function noi_teleport3()
 	alife():create("controller_babka",vector():set(-111.18870544434,-2.2211673259735,-70.236824035645),10461,2256)
 	alife():create("controller_senator",vector():set(-108.42320251465,-2.2480440139771,-13.770338058472),12090,2256)
+	alife():create("psyonik",vector():set(-108.42320251465,-2.2480440139771,-13.770338058472),12090,2256)
 	db.actor:give_info_portion("teleport_started")
 	level.add_pp_effector("teleport.ppe", 2000, false)
 	local snd_obj = xr_sound.get_safe_sound_object([[anomaly\teleport_work_1]])
@@ -8302,6 +8293,7 @@ function ohota_kogot_start()
 	alife():create("molerat",vector():set(-37.533004760742,3.4937467575073,128.46008300781),655246,3724)
 	alife():create("controller_senator",vector():set(-302.10339355469,4.2315311431885,390.42922973633),204122,3703)
 	alife():create("controller_babka",vector():set(-302.10339355469,4.2315311431885,390.42922973633),204122,3703)
+	alife():create("psyonik",vector():set(-302.10339355469,4.2315311431885,390.42922973633),204122,3703)
 	alife():create("m_controller_act",vector():set(-302.10339355469,4.2315311431885,390.42922973633),204122,3703)
 	alife():create("controller_flame",vector():set(-302.10339355469,4.2315311431885,390.42922973633),204122,3703)
 end
@@ -8356,9 +8348,8 @@ function povar_crows_done()
 	db.actor:give_info_portion("biznes_remove_special_item")
 	sak.out_item_namber("treasure_item",1)
 	db.actor:disable_info_portion("biznes_remove_special_item")
-	kostya_dialog.give_ammo(3)
+	kostya_dialog.give_ammo(4)
 	sak.create_items_actor("wpn_ak109",1)
-	table_treasure_l.treasure()
 end
 
 -- "ÏÎÄÀÐÎÊ" ÎÐÓÆÅÉÍÈÊÀ
@@ -8446,6 +8437,7 @@ function taynik_podarok_mutant()
 	alife():create("m_controller_normal_fat",vector():set(238.11721801758,7.5900750160217,-12.05835723877),1371926,3688)
 	alife():create("controller_senator",vector():set(240.00218200684,7.7064108848572,13.092669487),1375760,3684)
 	alife():create("controller_babka",vector():set(245.43664550781,7.5034689903259,76.39582824707),1385885,3684)
+	alife():create("psyonik",vector():set(245.43664550781,7.5034689903259,76.39582824707),1385885,3684)
 	alife():create("zombie_blow",vector():set(247.26376342773,6.3214392662048,57.360969543457),1388321,3684)
 	alife():create("zombie_beee",vector():set(230.06173706055,7.6052613258362,94.956871032715),1358098,3684)
 	alife():create("zombie_hell",vector():set(254.3902130127,5.3470420837402,29.120939254761),1400695,3684)
@@ -8560,9 +8552,9 @@ function dimak_video_mutant()
 	alife():create("m_controller_act",vector():set(59.969833374023,-6.0038905143738,49.75562286377),55080,3015)
 	alife():create("m_controller_old_fat",vector():set(-22.056789398193,-5.0673732757568,-157.05195617676),13909,2995)
 	alife():create("controller_flame",vector():set(-22.056789398193,-5.0673732757568,-157.05195617676),13909,2995)
-	alife():create("controller_babka",vector():set(-34.040790557861,-4.9912877082825,-134.07286071777),8531,2993)
-	alife():create("m_controller_normal_fat",vector():set(1.829642534256,-3.0027103424072,-238.73297119141),22658,3001)
-	alife():create("controller_senator",vector():set(7.9214038848877,-3.0594987869263,-267.87005615234),29178,3004)
+	alife():create("psyonik",vector():set(-34.040790557861,-4.9912877082825,-134.07286071777),8531,2993)
+	alife():create("psyonik",vector():set(1.829642534256,-3.0027103424072,-238.73297119141),22658,3001)
+	alife():create("psyonik",vector():set(7.9214038848877,-3.0594987869263,-267.87005615234),29178,3004)
 	alife():create("molerat",vector():set(60.596321105957,-7.0000772476196,-7.2541556358337),55296,3013)
 	alife():create("molerat",vector():set(48.05052947998,-7.0006666183472,-2.1701283454895),50945,3013)
 	alife():create("molerat",vector():set(35.743534088135,-7.0003170967102,1.4489914178848),45514,3013)
@@ -8712,7 +8704,7 @@ function predator_npc_delete()
 end
 function kill_predator_done()
 	sak.create_items_actor("wpn_ak107_m1",1)
-	kostya_dialog.give_ammo(5)
+	kostya_dialog.give_ammo(4)
 end
 
 -- ÑÞÐÏÐÈÇ ÎÒ ÒÎËÈÊÀ
@@ -8738,7 +8730,7 @@ end
 
 -- ÀÐÒ ÄËß ÊÐÓÃËÎÂÀ
 function mutant_kruglov_spawn()
-     	alife():create("controller_babka",vector():set(71.789047241211,0.10867658257484,-63.254905700684),77591,1516)
+     	alife():create("psyonik",vector():set(71.789047241211,0.10867658257484,-63.254905700684),77591,1516)
 	alife():create("esc_arhara_stalker_zombied",vector():set(54.317993164063,0.048126637935638,-74.755340576172),67537,1517)
 	alife():create("esc_arhara_stalker_zombied1",vector():set(27.038423538208,0.066197693347931,-40.705513000488),52578,1506)
 	alife():create("girl_zombied",vector():set(92.137710571289,0.026715368032455,-31.190315246582),87822,1515)
@@ -8817,6 +8809,7 @@ function fanat_teleport_spawn()
 	alife():create("m_poltergeist_dd",vector():set(-1.9402735233307,-10.814374923706,20.65043258667),2453,1144)
      	alife():create("polter_xray",vector():set(-27.815765380859,-10.817368507385,-7.0142779350281),624,1149)
 	alife():create("electro_polter",vector():set(1.3619726896286,4.1897988319397,-0.82146149873734),2996,1124)
+	alife():create("psyonik",vector():set(1.3619726896286,4.1897988319397,-0.82146149873734),2996,1124)
 end
 
 -- ÍÎÓÒÁÓÊ ÀÐÕÀÐÛ
@@ -8825,13 +8818,13 @@ function yakut_treasure_spawn()
      	alife():create("molerat",vector():set(227.00466918945,-0.20112097263336,54.384010314941),419093,498)
 	alife():create("molerat",vector():set(227.00466918945,-0.20112097263336,54.384010314941),419093,498)
      	alife():create("molerat",vector():set(185.34367370605,-0.20275470614433,49.586303710938),400769,497)
-	alife():create("molerat",vector():set(185.34367370605,-0.20275470614433,49.586303710938),400769,497)
+	alife():create("nosales",vector():set(185.34367370605,-0.20275470614433,49.586303710938),400769,497)
      	alife():create("molerat",vector():set(191.17387390137,-0.20521274209023,40.643802642822),403533,498)
-     	alife():create("molerat",vector():set(191.17387390137,-0.20521274209023,40.643802642822),403533,498)
+     	alife():create("nosales",vector():set(191.17387390137,-0.20521274209023,40.643802642822),403533,498)
 	alife():create("molerat",vector():set(162.728515625,-0.20157723128796,44.84358215332),387880,496)
-     	alife():create("molerat",vector():set(162.728515625,-0.20157723128796,44.84358215332),387880,496)
+     	alife():create("nosales",vector():set(162.728515625,-0.20157723128796,44.84358215332),387880,496)
 	alife():create("molerat",vector():set(164.08518981934,-0.083278387784958,50.235931396484),388698,497)
-	alife():create("molerat",vector():set(164.08518981934,-0.083278387784958,50.235931396484),388698,497)
+	alife():create("nosales",vector():set(164.08518981934,-0.083278387784958,50.235931396484),388698,497)
 	alife():create("kikimora",vector():set(120.86385345459,-0.072768360376358,50.32137298584),354811,495)
      	alife():create("kikimora",vector():set(112.12621307373,0.011883020401001,37.305614471436),346056,422)
 	alife():create("kikimora",vector():set(99.147605895996,0.21667113900185,53.360198974609),334027,494)
@@ -9047,10 +9040,9 @@ function add_earthquake()
 end
 function ohota_vypolzen_done()
 	sak.create_items_actor("ammo_357_ap_mag",2)
-	sak.create_items_actor("ammo_357_hp_mag",3)
+	sak.create_items_actor("ammo_357_hp_mag",2)
 	sak.create_items_actor("ammo_23x76_shrap",2)
 	sak.create_items_actor("wpn_shmel",1)
-	table_treasure_l.treasure()
 end
 
 -- ÏÅÐÅÂ¨ÐÒÛØÈ
@@ -9179,14 +9171,13 @@ function perevert3_spawn()
 		alife():release(obj,true)
 		alife():create("controller_senator",vector():set(pos.x+math.random(0.3,0.3), pos.y, pos.z+math.random(0.3,0.3)), lv, gv)
 		alife():create("wpn_mossberg590",vector():set(pos.x+math.random(0.1,0.3), pos.y+math.random(1.1,1.1), pos.z+math.random(0.1,0.3)), lv, gv)
-		alife():create("bandit_veteran_outfit",vector():set(pos.x+math.random(0.1,0.3), pos.y+math.random(1.2,1.2), pos.z+math.random(0.1,0.3)), lv, gv)
 		alife():create("ammo_12x76_dart",vector():set(pos.x+math.random(0.1,0.3), pos.y+math.random(1.1,1.1), pos.z+math.random(0.1,0.3)), lv, gv)
 		alife():create("ammo_12x76_dart",vector():set(pos.x+math.random(0.1,0.3), pos.y+math.random(1.1,1.1), pos.z+math.random(0.1,0.3)), lv, gv)
 		alife():create("sigaret",vector():set(pos.x+math.random(0.1,0.3), pos.y+math.random(1.1,1.1), pos.z+math.random(0.1,0.3)), lv, gv)
 		alife():create("grenade_rgd5",vector():set(pos.x+math.random(0.1,0.3), pos.y+math.random(1.1,1.1), pos.z+math.random(0.1,0.3)), lv, gv)
 	alife():create("m_controller_act",vector():set(-352.10037231445,4.2327280044556,382.78076171875),121415,3703)
 	alife():create("controller_flame",vector():set(-369.57913208008,3.5686473846436,410.13238525391),91191,3703)
-	alife():create("controller_flame",vector():set(-313.55151367188,4.2329039573669,398.15231323242),185316,3703)
+	alife():create("psyonik",vector():set(-313.55151367188,4.2329039573669,398.15231323242),185316,3703)
 	alife():create("controller_babka",vector():set(-271.88604736328,3.6826982498169,408.18563842773),256348,3703)
 	alife():create("zombie_plague",vector():set(-297.85772705078,4.2309103012085,388.36566162109),211271,3703)
 	alife():create("zombie_plague_komar",vector():set(-297.85772705078,4.2309103012085,388.36566162109),211271,3703)
@@ -9279,8 +9270,8 @@ function nazar_orden_done()
 	sak.out_item_namber("spain_krest",1)
 	sak.create_items_actor("ammo_23x76_shrap",2)
 	sak.create_items_actor("ammo_12.7x108r",1)
-	sak.create_items_actor("ammo_20x85",3)
-	sak.create_items_actor("ammo_kumul_82",3)
+	sak.create_items_actor("ammo_20x85",2)
+	sak.create_items_actor("ammo_kumul_82",2)
 	amk.start_timer("battle", 0, {"zaton", 51, 1})
 end
 function nazar_orden_bitva()
@@ -9456,7 +9447,7 @@ function cat_kulon_done()
 	sak.out_item_namber("kulon",1)
 	sak.create_items_actor("wpn_addon_kobra",1)
 	sak.create_items_actor("ammo_357_ap_mag",1)
-	sak.create_items_actor("ammo_357_hp_mag",2)
+	sak.create_items_actor("ammo_357_hp_mag",1)
 	sak.create_items_actor("ammo_7.62x39_k",2)
 	sak.create_items_actor("grenade_7643b",2)
 	sak.create_items_actor("grenade_he",2)
@@ -9610,9 +9601,9 @@ function kontrik_zasada_zombied()
 	alife():create("voen_zombied1",vector():set(82.879531860352,2.8074843883514,-229.38101196289),275641,929)
 	alife():create("voen_zombied2",vector():set(98.169250488281,0.089456170797348,-233.5472869873),293031,930)
 	alife():create("voen_zombied1",vector():set(72.742073059082,-1.5111576318741,-289.58551025391),263524,931)
-	alife():create("m_controller_normal",vector():set(117.40942382813,0.13101994991302,-253.17802429199),314402,955)
-	alife():create("controller_babka",vector():set(43.243675231934,0.053585678339005,-215.46960449219),228798,856)
-	alife():create("controller_senator",vector():set(26.795875549316,1.7272661924362,-315.10641479492),206576,842)
+	alife():create("psyonik",vector():set(117.40942382813,0.13101994991302,-253.17802429199),314402,955)
+	alife():create("psyonik",vector():set(43.243675231934,0.053585678339005,-215.46960449219),228798,856)
+	alife():create("psyonik",vector():set(26.795875549316,1.7272661924362,-315.10641479492),206576,842)
 	amk.remove_item_from_inventory_by_name("ballast",db.actor)
 	db.actor.psy_health = -0.45
 	local obj
@@ -9639,6 +9630,12 @@ function kuznec_fosfor_rank()
 end
 function kuznec_fosfor()
 	sak.create_items_actor("af_fosfor",15)
+end
+function kuznec_fosfor_has_10000()
+	return db.actor:money()>=10000
+end
+function kuznec_fosfor_dont_has_10000()
+	return db.actor:money()<10000
 end
 
 -- ÍÀÃÐÀÄÀ ÇÀ ÄÎÑÒÈÆÅÍÈß
@@ -9719,7 +9716,7 @@ function kontrik_electro_start()
 end
 function kontrik_electro_done()
 	sak.create_items_actor("wpn_scar_mk17",1)
-	sak.create_items_actor("ammo_7.62x51_fmj",2)
+	sak.create_items_actor("ammo_7.62x51_fmj",1)
 	sak.create_items_actor("ammo_m209",5)
 	local obj
 	for a=1,65534,1 do
@@ -9742,7 +9739,7 @@ function kalinin_dog_start()
 	alife():create("dog_habaruch",vector():set(363.36624145508,-3.9174456596375,-268.61254882813),896634,2847)
 	alife():create("dog_green",vector():set(341.4375,-4.9119324684143,-266.57424926758),865460,2847)
 	alife():create("dog_sil_hill",vector():set(317.72833251953,-5.2592396736145,-245.11389160156),831331,2847)
-	alife():create("m_controller_normal_fat",vector():set(32.336547851563,-5.1835975646973,56.709350585938),425556,2811)
+	alife():create("psyonik",vector():set(32.336547851563,-5.1835975646973,56.709350585938),425556,2811)
 	alife():create("girl_zombied",vector():set(21.818037033081,-5.6197214126587,81.366477966309),410425,2811)
 	alife():create("voen_zombied1",vector():set(33.547897338867,-4.8294944763184,65.214889526367),427600,2811)
 	alife():create("esc_arhara_stalker_zombied",vector():set(12.081005096436,-5.2198958396912,45.686374664307),396215,2811)
@@ -9750,6 +9747,7 @@ function kalinin_dog_start()
 	alife():create("yan_zombied_respawn_3",vector():set(60.159851074219,-3.8895299434662,84.28150177002),465888,2811)
 	alife():create("girl_zombied2",vector():set(100.26614379883,-5.4513049125671,97.624641418457),522251,2829)
 	alife():create("voen_zombied2",vector():set(-12.132638931274,-5.8700127601624,24.875675201416),361431,2811)
+	alife():create("psyonik",vector():set(-12.132638931274,-5.8700127601624,24.875675201416),361431,2811)
 	alife():create("esc_arhara_stalker_zombied1",vector():set(-47.246391296387,-6.1158480644226,25.785842895508),310418,2809)
 	alife():create("girl_zombied3",vector():set(-96.711776733398,-6.1150856018066,33.775817871094),238241,2802)
 end
@@ -9804,7 +9802,7 @@ function messer_kaban_start()
 end
 function messer_kaban_done()
 	sak.create_items_actor("wpn_hpsa",1)
-	sak.create_items_actor("ammo_9x19_fmj",3)
+	sak.create_items_actor("ammo_9x19_fmj",2)
 	sak.create_items_actor("ammo_12x70_buck",2)
 	sak.create_items_actor("grenade_rgd5",2)
 	local obj
@@ -9876,7 +9874,7 @@ end
 function docent_chimera_done()
 	sak.out_item_namber("docent_acumm",26)
 	sak.create_items_actor("wpn_akms_otdaca_ves",1)
-	sak.create_items_actor("ammo_7.62x39_fmj",3)
+	sak.create_items_actor("ammo_7.62x39_fmj",1)
 	local obj
 	for a=1,65534,1 do
 	obj=alife():object(a)
@@ -10008,9 +10006,7 @@ function night_watch_borov_polter3()
 end
 function night_watch_done()
 	sak.create_items_actor("wpn_aek973_otdaca_ves",1)
-	sak.create_items_actor("ammo_7.62x39_k",5)
-	kostya_dialog.give_ammo(3)
-	table_treasure_l.treasure()
+	sak.create_items_actor("ammo_7.62x39_k",3)
 end
 
 -- ÇÀÙÈÒÀ ÃÎÑÏÈÒÀËß
@@ -10190,6 +10186,8 @@ end
 -- ÌÀÑÊÈÐÎÂÊÀ
 function max_camouflage_start()
 	alife():create("a_inventory_box70",vector():set(-59.461566925049,4.3548192977905,214.82347106934),622759,3719)
+	alife():create("tactic_fonar",vector():set(-44.752843322754,4.4319157600403,176.49935913086),644283,3724)
+	alife():create("gunsight",vector():set(-44.61914932251,4.4467802619934,176.24812695313),643148,3724)
 	alife():create("bw_sniper",vector():set(-49.114120483398,28.061214447021,-443.38159179688),847047,3680) -- çàòîí
 	alife():create("bw_killers1",vector():set(-12.29253578186,32.962867736816,-444.58862304688),918547,3680)
 	alife():create("bw_sniper",vector():set(-272.5751953125,38.069561004639,-474.49462890625),398646,3669)
@@ -10242,8 +10240,8 @@ end
 function max_camouflage_done()
 	sak.out_item_namber("camouflage",8)
 	sak.create_items_actor("ammo_7.62x54_ap",2)
-	sak.create_items_actor("ammo_7.62x54_7h1",3)
-	sak.create_items_actor("ammo_12.7x108",2)
+	sak.create_items_actor("ammo_7.62x54_7h1",2)
+	sak.create_items_actor("ammo_12.7x108",1)
 end
 
 -- ÏÎÒÅÐßÂØÈÉÑß
@@ -10270,6 +10268,8 @@ function krest_boar_find()
 	db.actor:give_info_portion("krest_boar_find")
 	local obj = alife():create("borov_bandit2",vector():set(-163.66125488281,-1.5435123443604,-124.55099487305),57553,2882)
 		obj:on_death()
+	alife():create("volkodav",vector():set(-164.40446472168,-1.9184938669205,-119.4002532959),57021,2882)
+	alife():create("volkodav",vector():set(-169.24867248535,-3.0532274246216,-100.63996124268),53390,2882)
 	alife():create("volkodav",vector():set(-164.40446472168,-1.9184938669205,-119.4002532959),57021,2882)
 	alife():create("volkodav",vector():set(-169.24867248535,-3.0532274246216,-100.63996124268),53390,2882)
 end
@@ -10444,7 +10444,7 @@ function kalinin_box_done()
 	sak.out_item_namber("inventory_sakbox_01",5)
 	sak.create_items_actor("wpn_scar_mk16",1)
 	sak.create_items_actor("wpn_addon_optik",1)
-	sak.create_items_actor("ammo_5.56x45_gd",3)
+	sak.create_items_actor("ammo_5.56x45_gd",2)
 end
 function kalinin_box2_spawn()
 	alife():create("inventory_sakbox_01",vector():set(-16.562753677368,-9.1712999343872,-268.09954833984),353917,2813)
@@ -10616,10 +10616,6 @@ function trofim_joke_done()
 	sak.create_items_actor("medkit",3)
 	local snd_obj = xr_sound.get_safe_sound_object([[characters_voice\human_02\bandit\states\idle\idle_9]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
-	alife():create("tushkano_strong",vector():set(8.6532039642334,0.085962533950806,35.794662475586),184058,1004)
-	alife():create("tushkano_strong",vector():set(8.6532039642334,0.085962533950806,35.794662475586),184058,1004)
-	alife():create("tushkano_strong",vector():set(8.6532039642334,0.085962533950806,35.794662475586),184058,1004)
-	alife():create("tushkano_strong",vector():set(8.6532039642334,0.085962533950806,35.794662475586),184058,1004)
 end
 function trofim_joke_borov_have()
 	return
@@ -10628,8 +10624,124 @@ end
 function trofim_joke_borov_done()
 	sak.out_item_namber("device_pda_npc",1)
 	sak.create_items_actor("wpn_sl8",1)
-	sak.create_items_actor("ammo_5.56x45_gd",3)
+	sak.create_items_actor("ammo_5.56x45_gd",1)
+	local obj
+	for a=1,65534,1 do
+	obj=alife():object(a)
+	if obj and string.find(obj:name(),"trofim_npc") then
+	alife():release(obj,true)
+	break
+	end
+	end
 end
+
+-- ËÈ×ÍÎÅ ÎÐÓÆÈÅ
+--[=[function arny_pistol_have_all()
+	return
+		wawka_dialog.good_item_have_number("wpn_tt33",1) and
+		wawka_dialog.good_item_have_number("wpn_pmm",1) and
+		wawka_dialog.good_item_have_number("wpn_mp444",1) and
+		wawka_dialog.good_item_have_number("wpn_beretta",1) and
+		wawka_dialog.good_item_have_number("wpn_hpsa",1) and
+		wawka_dialog.good_item_have_number("wpn_walther",1) and
+		wawka_dialog.good_item_have_number("wpn_colt1911",1) and
+		wawka_dialog.good_item_have_number("wpn_sig220",1) and
+		wawka_dialog.good_item_have_number("wpn_usp",1) and
+		wawka_dialog.good_item_have_number("wpn_fnp45",1)
+end
+function arny_pistol_have()
+	if arny_pistol_have_all() then
+		db.actor:give_info_portion("arny_pistol_have")
+		return true
+	else
+		return false
+	end
+end
+function arny_pistol_done()
+	sak.create_items_actor("ammo_7.62x25_p",2)
+	sak.create_items_actor("ammo_9x18_fmj",6)
+	sak.create_items_actor("ammo_9x19_fmj",9)
+	sak.create_items_actor("ammo_11.43x23_fmj",12)
+end
+
+-- ÏÐÀÊÒÈ×ÅÑÊÀß ÑÒÐÅËÜÁÀ
+function arny_test_begin()
+	db.actor:give_info_portion("teleport_started")
+	level.add_pp_effector("teleport.ppe", 2000, false)
+	local snd_obj = xr_sound.get_safe_sound_object([[anomaly\teleport_work_1]])
+	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+    	local a = vector()
+        a.x = 152.1220703125
+      	a.y = -21.058921813965
+	a.z = 76.204795837402
+	db.actor:set_actor_position(a)
+	db.actor:give_info_portion("teleport_finished")
+	db.actor:set_actor_direction(0)
+	alife():create("burer_pistol",vector():set(151.97061157227,-21.028505325317,130.08079528809),40519,1291)
+end
+function arny_test_disable()
+	db.actor:disable_info_portion("arny_test_tt")
+	db.actor:disable_info_portion("arny_test_pmm")
+	db.actor:disable_info_portion("arny_test_beretta")
+	db.actor:disable_info_portion("arny_test_hpsa")
+	db.actor:disable_info_portion("arny_test_walther")
+	db.actor:disable_info_portion("arny_test_mp444")
+	db.actor:disable_info_portion("arny_test_colt")
+	db.actor:disable_info_portion("arny_test_sig")
+	db.actor:disable_info_portion("arny_test_usp")
+	db.actor:disable_info_portion("arny_test_fnp")
+end
+function arny_test_have()
+    local arny_test = {
+	"arny_test_tt",
+	"arny_test_pmm",
+	"arny_test_beretta",
+	"arny_test_hpsa",
+	"arny_test_walther",
+	"arny_test_mp444",
+	"arny_test_colt",
+	"arny_test_sig",
+	"arny_test_usp",
+	"arny_test_fnp"
+		}
+	db.actor:give_info_portion(arny_test[math.random(#arny_test)])
+end
+function arny_test_wpn_tt()
+	sak.out_item_namber("wpn_tt33",1)
+end
+function arny_test_wpn_pmm()
+	sak.out_item_namber("wpn_pmm",1)
+end
+function arny_test_wpn_mp()
+	sak.out_item_namber("wpn_mp444",1)
+end
+function arny_test_wpn_beretta()
+	sak.out_item_namber("wpn_beretta",1)
+end
+function arny_test_wpn_hpsa()
+	sak.out_item_namber("wpn_hpsa",1)
+end
+function arny_test_wpn_walther()
+	sak.out_item_namber("wpn_walther",1)
+end
+function arny_test_wpn_colt()
+	sak.out_item_namber("wpn_colt1911",1)
+end
+function arny_test_wpn_sig()
+	sak.out_item_namber("wpn_sig220",1)
+end
+function arny_test_wpn_usp()
+	sak.out_item_namber("wpn_usp",1)
+end
+function arny_test_wpn_fnp()
+	sak.out_item_namber("wpn_fnp45",1)
+end
+function arny_test_done()
+	sak.create_items_actor("wpn_scar_792",1)
+	sak.create_items_actor("ammo_7.92x33_fmj",2)
+	sak.create_items_actor("ammo_20x85",1)
+	sak.create_items_actor("ammo_kumul_82",2)
+end]=]
 
 -- ÕÈÆÈÍÀ ÍÅÈÇÂÅÑÒÍÎÃÎ
 function unknown_home_spawn()
