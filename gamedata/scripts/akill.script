@@ -2260,6 +2260,7 @@ function lukash_counter_have()
 end
 function lukash_counter_done()
 	sak.out_item_namber("army_counter",100)
+	archievements.acv_count_event("acv_inkv", 200, "Інквізитор", 100) 
 	sak.create_items_actor("wpn_awp_m1",1)
 	sak.create_items_actor("ammo_7.62x51_fmj",2)
 	sak.create_items_actor("ammo_7.62x51_ap",2)
@@ -2270,6 +2271,7 @@ function lukash_counter_new_all()
 end
 function lukash_counter_new()
 	sak.out_item_namber("army_counter",10)
+	archievements.acv_count_event("acv_inkv", 200, "Інквізитор", 10) 
 	kostya_dialog.give_ammo(2)
 end
 

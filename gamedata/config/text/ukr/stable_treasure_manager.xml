@@ -1,157 +1,162 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 
-
-	<string id="dead_city_secret_1_name">
+<string id="dead_city_secret_1_name">
 		<text>Заначка втікача</text>
 	</string>
-	<string id="dead_city_secret_1_descr">
+<string id="dead_city_secret_1_descr">
 		<text>Пора линяти з цього Останнього дня... Отморозки... Зроблю заначку, буду забиратися - знадобиться - речі вкрай потрібні...</text>
-	</string>
-	<string id="dead_city_secret_2_name">
+</string>  
+<string id="dead_city_secret_2_name">
 		<text>Речі зомбованого</text>
 	</string>
-	<string id="dead_city_secret_2_descr">
+<string id="dead_city_secret_2_descr">
 		<text>Щось після вчорашнього рандеву з контролером якось не по собі... Думки дурні і голова як цегла... Заховаю шмотки свої поки тут - як би з ними дурниці не накоїти, поки хворію...</text>
-	</string>
-	<string id="dead_city_secret_3_name">
+</string>
+<string id="dead_city_secret_3_name">
 		<text>Ничка Непритомності</text>
 	</string>
-	<string id="dead_city_secret_3_descr">
+<string id="dead_city_secret_3_descr">
 		<text>Ничка - не хованка, але поки свої ж шакали не прибили і не обчистили - приховаю... На цій території навіть з авторитетами мало рахуються.</text>
-	</string>
-	<string id="dead_city_secret_4_name">
+</string>
+<string id="dead_city_secret_4_name">
 		<text>Схрон старожила</text>
 	</string>
-	<string id="dead_city_secret_4_descr">
+<string id="dead_city_secret_4_descr">
 		<text>Назбирав небагато. Та куди все це? Тут ні торговців, ні виходів на інші території... Нехай барахло краще буде тут лежати - може будуть часи трохи кращі, тоді й заберу.</text>
-	</string>
-	<string id="dead_city_secret_5_name">
+</string>
+<string id="dead_city_secret_5_name">
 		<text>Речі дідка</text>
 	</string>
-	<string id="dead_city_secret_5_descr">
+<string id="dead_city_secret_5_descr">
 		<text>Я старий... Рюкзак тягати вже в тягар - не те що ці молоді чітери... невідома їм СІЛЬ перемоги і смак адреналіну, коли йдеш на завдання з одним обрізом... Але ничку залишу - може хто і за мій упокій потім вип'є, коли знайде...</text>
-	</string>
-	<string id="atp_arhara_secret_1_name">
+</string>
+
+<string id="atp_arhara_secret_1_name">
 		<text>Схованка запеклого розвідника</text>
 	</string>
-	<string id="atp_arhara_secret_1_descr">
+<string id="atp_arhara_secret_1_descr">
 		<text>Сховав карту з координатами переходу. Мені вона вже ні до чого - цю стежинку я і так напам'ять знаю...</text>
-	</string>
-	<string id="atp_arhara_secret_2_name">
+</string>
+<string id="atp_arhara_secret_2_name">
 		<text>Заначка Шнири</text>
 	</string>
-	<string id="atp_arhara_secret_2_descr">
+<string id="atp_arhara_secret_2_descr">
 		<text>Ну блін, злодюги!. Свої у своїх тирять! Де совість злодійська? Хабар невеликий, я б навіть не зазіхнув, але сховаю. Якщо буде ще щось цінне - буду в нього додавати. Сподіваюся, так високо шпана не полізе.</text>
-	</string>
-	<string id="atp_arhara_secret_3_name">
+</string>
+<string id="atp_arhara_secret_3_name">
 		<text>Хабар Кита</text>
 	</string>
-	<string id="atp_arhara_secret_3_descr">
+<string id="atp_arhara_secret_3_descr">
 		<text>Калинін - Калиніним, а хабарок я краще від його допитливих оченят приховаю. Стволи нині в дефіциті. Розживусь грошима - пушки за периметр прихоплю. Кажуть, там зараз бєспрєдєл твориться.</text>
-	</string>
-	<string id="generators_arhara_secret_1_name">
+</string>
+
+<string id="generators_arhara_secret_1_name">
 		<text>Рюкзак монолітівця</text>
 	</string>
-	<string id="generators_arhara_secret_1_descr">
+<string id="generators_arhara_secret_1_descr">
 		<text>Чорт мене смикнув податися до цих фанатиків. Поцупив у них хабарок - вони типу кажуть - гріх такий зберігати... Ноги буду робити звідси - прихоплю.</text>
-	</string>
-	<string id="generators_arhara_secret_2_name">
+</string>  
+<string id="generators_arhara_secret_2_name">
 		<text>Схованка Земляка</text>
 	</string>
-	<string id="generators_arhara_secret_2_descr">
+<string id="generators_arhara_secret_2_descr">
 		<text>Сховав від поганих і заздрісних очей хабарок свій. Нехай тут побуде, місце безлюдне - ніхто не добереться.</text>
-	</string>
-	<string id="generators_arhara_secret_3_name">
+</string>
+<string id="generators_arhara_secret_3_name">
 		<text>Хабар охоронця</text>
 	</string>
-	<string id="generators_arhara_secret_3_descr">
+<string id="generators_arhara_secret_3_descr">
 		<text>Приховав шмотки деякі. Все одно їх колишнім власникам вони вже не будуть потрібні, а мені - може і згодяться.</text>
-	</string>
-	<string id="generators_arhara_secret_4_name">
+</string>
+<string id="generators_arhara_secret_4_name">
 		<text>Схованка Фріца</text>
 	</string>
-	<string id="generators_arhara_secret_4_descr">
+<string id="generators_arhara_secret_4_descr">
 		<text>Хабар не такий вже й поганий. У рюкзаку його постійно тягати - не діло. Приховаю на майбутнє - не на вік же я в Зоні застряг...</text>
-	</string>
-	<string id="generators_arhara_secret_5_name">
+</string>
+<string id="generators_arhara_secret_5_name">
 		<text>Невідома схованка</text>
 	</string>
-	<string id="generators_arhara_secret_5_descr">
+<string id="generators_arhara_secret_5_descr">
 		<text>Власник цієї схованки невідомий. Можливо він вже давно згинув в суворому вирі життя Зони, залишивши свій хабар для сталкера який випадково на нього натрапить.</text>
-	</string>
-	<string id="aver_arhara_secret_1_name">
+</string>
+
+<string id="aver_arhara_secret_1_name">
 		<text>Схованка Архари</text>
 	</string>
-	<string id="aver_arhara_secret_1_descr">
+<string id="aver_arhara_secret_1_descr">
 		<text>Заховав барахло, сподіваюся, не знайдуть - народу тут мало шариться. З собою тягнути в облом...</text>
-	</string>
-	<string id="aver_arhara_secret_2_name">
+</string>  
+<string id="aver_arhara_secret_2_name">
 		<text>Схованка Пілігрима</text>
 	</string>
-	<string id="aver_arhara_secret_2_descr">
+<string id="aver_arhara_secret_2_descr">
 		<text>Лока для мене нова. Нехай хабарок поки полежить, освоюсь - заберу.</text>
-	</string>
-	<string id="aver_arhara_secret_3_name">
+</string>
+<string id="aver_arhara_secret_3_name">
 		<text>Схованка Самітника</text>
 	</string>
-	<string id="aver_arhara_secret_3_descr">
+<string id="aver_arhara_secret_3_descr">
 		<text>Замочили вчора кілька месників... Забрали тільки зброю - та й то - незвичну, тому приховав до кращих днів.</text>
-	</string>
-	<string id="aver_arhara_secret_4_name">
+</string>
+<string id="aver_arhara_secret_4_name">
 		<text>Схованка Звіздаря</text>
 	</string>
-	<string id="aver_arhara_secret_4_descr">
+<string id="aver_arhara_secret_4_descr">
 		<text>Зроблю і в цьому лісі схованку корисну - все одно часто тут буваю... Згодиться у важку хвилинку - хабарок же ж непоганий...</text>
-	</string>
-	<string id="aver_arhara_secret_5_name">
+</string>
+<string id="aver_arhara_secret_5_name">
 		<text>Схованка Старого</text>
 	</string>
-	<string id="aver_arhara_secret_5_descr">
+<string id="aver_arhara_secret_5_descr">
 		<text>Залишу тут рюкзачок з артами, поки у медика лікуюся. Поправлю здоров'я - заберу.</text>
-	</string>
-	<string id="warlab_arhara_secret_1_name">
+</string>
+
+<string id="warlab_arhara_secret_1_name">
 		<text>Схованка Пантери</text>
 	</string>
-	<string id="warlab_arhara_secret_1_descr">
+<string id="warlab_arhara_secret_1_descr">
 		<text>Приховала трохи хабара і запасний улюблений ствол. Ці мужики - таке злодюги, все потягнуть, а схованку можуть і не знайти.</text>
-	</string>
-	<string id="warlab_arhara_secret_2_name">
+</string>  
+<string id="warlab_arhara_secret_2_name">
 		<text>Схованка Вітаміна</text>
 	</string>
-	<string id="warlab_arhara_secret_2_descr">
+<string id="warlab_arhara_secret_2_descr">
 		<text>Прийшли. Собак постріляли. База наша. Приховав я трохи хабара - щоб у рюкзаку зайвого поки не тягати. На завдання піду - заберу.</text>
-	</string>
-	<string id="warlab_arhara_secret_3_name">
+</string>
+<string id="warlab_arhara_secret_3_name">
 		<text>Схованка Костолома</text>
 	</string>
-	<string id="warlab_arhara_secret_3_descr">
+<string id="warlab_arhara_secret_3_descr">
 		<text>Заховав в шахті ліфта рюкзачок. Нехай своєї години чекає - може і стане в нагоді. Життя найманця не варто й гроша - невідомо, що буде завтра.</text>
-	</string>
-	<string id="village_arhara_secret_1_name">
+</string>
+
+<string id="village_arhara_secret_1_name">
 		<text>Схованка Міхи</text>
 	</string>
-	<string id="village_arhara_secret_1_descr">
+<string id="village_arhara_secret_1_descr">
 		<text>Фіг знає, як мене сюди занесло, але назад все барахло, що тут назбирав, потягти не зможу. Саме непотрібне заничкую, пропаде, так не шкода.</text>
-	</string>
-	<string id="village_arhara_secret_2_name">
+</string>  
+<string id="village_arhara_secret_2_name">
 		<text>Схованка місцевого</text>
 	</string>
-	<string id="village_arhara_secret_2_descr">
+<string id="village_arhara_secret_2_descr">
 		<text>Село вимерло... Всі непомітно розійшлися, хто-куди... Тиша якась мертва встановилася, аж мурашки бігають... Не до добра це. Що є - приховаю, а поки що треба звідси робити ноги.</text>
-	</string>
-	<string id="village_arhara_secret_3_name">
+</string>
+<string id="village_arhara_secret_3_name">
 		<text>Рюкзак капітана</text>
 	</string>
-	<string id="village_arhara_secret_3_descr">
+<string id="village_arhara_secret_3_descr">
 		<text>Зачистили вчора вибраний квадрат. Трупи обшманали. Добро злили перекупникам. Що залишилося - приховаю - раптом в карти програюсь - буде, чим борг віддати.</text>
-	</string>
-	<string id="village_arhara_secret_4_name">
+</string>
+<string id="village_arhara_secret_4_name">
 		<text>Схованка лейтенанта</text>
 	</string>
-	<string id="village_arhara_secret_4_descr">
+<string id="village_arhara_secret_4_descr">
 		<text>Зробив схованку. Містечко затишне, іноді можна втиху перекусити і журнальчик... погортати. Треба ж тонус підтримувати. І який ідіот сказав, що Зона не для баб? Імпотент він, це точно.</text>
-	</string>
+</string>
+
 	<string id="agr_secret_0000_descr">
 		<text>Схованка наша поки в тунелі; усе добро лежить у трубі. Там добре, мало хто про місце знає, та й аномалії відіб'ють бажання лізти.</text>
 	</string>
@@ -348,8 +353,9 @@
 		<text>Я тут нарив трохи цінного і гарненьке місце підібрав для схованки. На жовтій бочці, чужому - дулю, не знайде!</text>
 	</string>
 	<string id="agr_u_secret_0004_name">
-		<text>Нора Крота</text>
+		<text>Нора крота</text>
 	</string>
+	
 	<string id="bar_secret_0000_description">
 		<text>Сховав рюкзак біля бази «Долгу». Потім заберу.</text>
 	</string>
@@ -470,6 +476,7 @@
 	<string id="bar_secret_0019_name">
 		<text>Схованка</text>
 	</string>
+	
 	<string id="esc_secret_0000_descr">
 		<text>Під час перегрупування сховав боєприпаси у вагоні. Не забути.</text>
 	</string>
@@ -590,6 +597,7 @@
 	<string id="esc_secret_0019_name">
 		<text>Вишка на КПП</text>
 	</string>
+	
 	<string id="gar_secret_0000_descr">
 		<text>Бачив, як бандит ховав своє добро в ящику в ангарі. Як би то тихо вкрасти?</text>
 	</string>
@@ -740,6 +748,7 @@
 	<string id="gar_secret_0024_name">
 		<text>Заначка під бетонними блоками</text>
 	</string>
+	
 	<string id="mil_secret_0000_description">
 		<text>Сунув добро в колоду. Думаю, не знайдуть.</text>
 	</string>
@@ -914,6 +923,7 @@
 	<string id="mil_secret_0028_name">
 		<text>Схованка у машині</text>
 	</string>
+	
 	<string id="pri_secret_0000_description">
 		<text>Кажуть, загинув тут якийсь сталкер відомий, а добро його і досі ніхто не підібрав.</text>
 	</string>
@@ -944,6 +954,7 @@
 	<string id="pri_secret_0004_name">
 		<text>Запаси лідера «Волі»</text>
 	</string>
+	
 	<string id="rad_secret_0000_description">
 		<text>Хрест по дорозі до Випалювача. Далі не пішов, сховав усе під ним.</text>
 	</string>
@@ -980,6 +991,7 @@
 	<string id="rad_secret_0005_name">
 		<text>Хабар лідера угруповання</text>
 	</string>
+	
 	<string id="ros_secret_0000_description">
 		<text>Приховав рюкзак за залізним листом.</text>
 	</string>
@@ -1136,6 +1148,7 @@
 	<string id="ros_secret_0025_name">
 		<text>Рюкзак</text>
 	</string>
+	
 	<string id="val_secret_0000_description">
 		<text>Під хрестом, біля гори, закопав трошки хабара.</text>
 	</string>
@@ -1334,6 +1347,7 @@
 	<string id="val_secret_0032_name">
 		<text>Схованка у машині</text>
 	</string>
+	
 	<string id="x16_secret_0000_description">
 		<text>Ходять чутки, що був такий сталкер, який до цієї лабораторії проліз і приховав свій хабар до електрощитку в шахті ліфта. Але забрати його вже не зміг.</text>
 	</string>
@@ -1346,6 +1360,7 @@
 	<string id="x16_secret_0001_name">
 		<text>Рюкзак розвідника</text>
 	</string>
+	
 	<string id="x18_secret_0000_description">
 		<text>У підземній лабораторії Копчений усе склав у сейфі. Місце непогане: ні в кого ключів від тієї лабораторії немає. Одна біда, що каміння самі по собі раптом починають у повітрі літати - казали навіть, що прибили були когось</text>
 	</string>
@@ -1358,6 +1373,7 @@
 	<string id="x18_secret_0001_name">
 		<text>Кинутий рюкзак</text>
 	</string>
+	
 	<string id="yan_secret_0000_description">
 		<text>Хрест на пагорбі, а під ним схованка.</text>
 	</string>
@@ -1442,283 +1458,1638 @@
 	<string id="yan_secret_0013_name">
 		<text>Скриня із добром</text>
 	</string>
+	
 	<string id="st_found_new_treasure">
 		<text>Інформація про схрон</text>
 	</string>
+	
 	<string id="marsh_secret_0000_name">
 		<text>Схованка на болотах</text>
 	</string>
-	<string id="marsh_secret_0000_description">
+<string id="marsh_secret_0000_description">
 		<text>Заховав барахло, сподіваюся, не знайдуть - народу тут мало шастає. З собою тягнути в облом...</text>
-	</string>
-	<string id="marsh_secret_0001_name">
+</string>
+<string id="marsh_secret_0001_name">
 		<text>Схованка сталкера</text>
 	</string>
-	<string id="marsh_secret_0001_description">
+<string id="marsh_secret_0001_description">
 		<text>Заникав тут дещо, вкрадуть - не шкода.</text>
-	</string>
-	<string id="marsh_secret_0002_name">
+</string> 
+<string id="marsh_secret_0002_name">
 		<text>Рюкзак мертвого сталкера</text>
 	</string>
-	<string id="marsh_secret_0002_description">
+<string id="marsh_secret_0002_description">
 		<text>Кажуть, згинув сталкер один, ну і барахло деяке після себе залишив.</text>
-	</string>
-	<string id="marsh_secret_0003_name">
+</string> 
+<string id="marsh_secret_0003_name">
 		<text>Схованка месника</text>
 	</string>
-	<string id="marsh_secret_0003_description">
+<string id="marsh_secret_0003_description">
 		<text>Бачив, як один з месників ховав щось на болотах.</text>
+</string>
+<string id="marsh_secret_0004_name">
+		<text>Схрон на Болотах</text>
 	</string>
-	<string id="marsh_secret_0004_name">
-		<text>Схрон на болотах</text>
-	</string>
-	<string id="marsh_secret_0004_description">
+<string id="marsh_secret_0004_description">
 		<text>Є тут сталкер один, по п'яні розповів про схрон свій. Збрехав, ні треба б перевірити.</text>
-	</string>
-	<string id="marsh_secret_0005_name">
+</string>
+<string id="marsh_secret_0005_name">
 		<text>Непримітна схованка.</text>
 	</string>
-	<string id="marsh_secret_0005_description">
+<string id="marsh_secret_0005_description">
 		<text>Перед рейдом дещо заникав, тут не далеко, місце не надійне, боюся зіпруть.</text>
-	</string>
-	<string id="marsh_secret_0006_name">
+</string>
+<string id="marsh_secret_0006_name">
 		<text>Схованочка</text>
 	</string>
-	<string id="marsh_secret_0006_description">
+<string id="marsh_secret_0006_description">
 		<text>Ох, ну і дісталося ж мені тоді, довелося від двох псевдособак тікати, довелося хабарок скинути. Треба б перевірити.</text>
-	</string>
-	<string id="marsh_secret_0007_name">
+</string>
+<string id="marsh_secret_0007_name">
 		<text>Цінна схованка</text>
 	</string>
-	<string id="marsh_secret_0007_description">
+<string id="marsh_secret_0007_description">
 		<text>Ми тоді з Жорою багато всього набрали, так багато, що довелося частину прямо на болотах залишити.</text>
-	</string>
-	<string id="marsh_secret_0008_name">
+</string>
+<string id="marsh_secret_0008_name">
 		<text>Цінна схованка на болотах</text>
 	</string>
-	<string id="marsh_secret_0008_description">
+<string id="marsh_secret_0008_description">
 		<text>Йо-майо, де ж я свій рюкзак посіяв? От блін, напилися тоді! А, все, все згадав, треба забрати добро, поки не пізно.</text>
-	</string>
-	<string id="marsh_secret_0009_name">
+</string>
+<string id="marsh_secret_0009_name">
 		<text>Хабар сталкера</text>
 	</string>
-	<string id="marsh_secret_0009_description">
+<string id="marsh_secret_0009_description">
 		<text>Тут один сталкер скинув інформацію про ничку. Цікаво, брехав, ні?</text>
-	</string>
-	<string id="marsh_secret_0010_name">
+</string>
+<string id="marsh_secret_0010_name">
 		<text>Схованка Чистонебівця</text>
 	</string>
-	<string id="marsh_secret_0010_description">
+<string id="marsh_secret_0010_description">
 		<text>Бачив, як один з цих, ну чистонебівців ховав щось на болотах. Цікаво що там?</text>
-	</string>
-	<string id="marsh_secret_0011_name">
+</string>
+<string id="marsh_secret_0011_name">
 		<text>Скритне місце</text>
 	</string>
-	<string id="marsh_secret_0011_description">
+<string id="marsh_secret_0011_description">
 		<text>Тут з мужиком одним випили, а він такий базіка, давай про хованки свої базікати. Брехав напевно, хвалився, хоча...</text>
-	</string>
-	<string id="marsh_secret_0012_name">
+</string>
+<string id="marsh_secret_0012_name">
 		<text>Схованка мисливця</text>
 	</string>
-	<string id="marsh_secret_0012_description">
+<string id="marsh_secret_0012_description">
 		<text>Сховав дещо, тут не далеко, почекаю поки вигідний клієнт знайдеться.</text>
-	</string>
-	<string id="marsh_secret_0013_name">
+</string>
+<string id="marsh_secret_0013_name">
 		<text>Цінні речі</text>
 	</string>
-	<string id="marsh_secret_0013_description">
+<string id="marsh_secret_0013_description">
 		<text>Ех, добре тоді фраєрка одного взули. Ну і частину сховали, тут не далеко.</text>
-	</string>
-	<string id="marsh_secret_0014_name">
+</string>
+<string id="marsh_secret_0014_name">
 		<text>Речі в схроні</text>
 	</string>
-	<string id="marsh_secret_0014_description">
+<string id="marsh_secret_0014_description">
 		<text>Тут від брата залишилося дещо, схохваю до часу, шкода брата.</text>
-	</string>
-	<string id="marsh_secret_0015_name">
+</string>
+<string id="marsh_secret_0015_name">
 		<text>Схованка з речами</text>
 	</string>
-	<string id="marsh_secret_0015_description">
+<string id="marsh_secret_0015_description">
 		<text>Ось нагромаджу ще грошенят, візьму речі, ті що тоді поховав, і прощавай зона.</text>
-	</string>
-	<string id="marsh_secret_0016_name">
+</string>
+<string id="marsh_secret_0016_name">
 		<text>Цінності на болотах</text>
 	</string>
-	<string id="marsh_secret_0016_description">
+<string id="marsh_secret_0016_description">
 		<text>Ми тоді в заварушку потрапили, довелося хабарок в ненадійному місці переховати. Треба час знайти переховати.</text>
-	</string>
-	<string id="marsh_secret_0017_name">
+</string>
+<string id="marsh_secret_0017_name">
 		<text>Рюкзак з речами</text>
 	</string>
-	<string id="marsh_secret_0017_description">
+<string id="marsh_secret_0017_description">
 		<text>Завантажилися ми тоді з Коляном. Довелося на болотах частину залишити.</text>
-	</string>
-	<string id="marsh_secret_0018_name">
+</string>
+<string id="marsh_secret_0018_name">
 		<text>Ничка з речами</text>
 	</string>
-	<string id="marsh_secret_0018_description">
+<string id="marsh_secret_0018_description">
 		<text>Ох ну я і вляпався! Пішов один на болота, а там монстрів-шмонстрів - ледве ноги забрав. Добре що хабарок заникав у надійному місці.</text>
-	</string>
-	<string id="marsh_secret_0019_name">
+</string>
+<string id="marsh_secret_0019_name">
 		<text>Непримітна хованка</text>
 	</string>
-	<string id="marsh_secret_0019_description">
+<string id="marsh_secret_0019_description">
 		<text>Шкода тоді один був, знайшов сталкера мертвого, а у нього з собою стільки всього було. Найцінніше з собою взяв, але дещо приховати довелося.</text>
-	</string>
-	<string id="limansk_secret_0000_name">
+</string>
+<string id="marsh_secret_0020_name">
+    <text>Лежанка пораненого</text>
+</string>
+<string id="marsh_secret_0020_descr">
+    <text>Відлежався в затишному місці, зализав рани. Поки що ще слабкий, тому залишу частину хабара. Заберу пізніше.</text>
+</string>
+<string id="marsh_secret_0021_name">
+    <text>Запаси Дяка</text>
+</string>
+<string id="marsh_secret_0021_descr">
+    <text>Монстри не дрімають. Нехай буде запас. Своя ноша кишеню не тягне.</text>
+</string>
+<string id="marsh_secret_0022_name">
+    <text>Схованка новачка</text>
+</string>
+<string id="marsh_secret_0022_descr">
+    <text>Ех, занесла мене нелегка на Болота! І якого хріна я поперся туди? Чим на Кордоні було погано? Коротше, скидаю зайвий хабар і звалюю. Буде можливість - заберу.</text>
+</string>
+<string id="marsh_secret_0023_name">
+    <text>Затишне місце</text>
+</string>
+<string id="marsh_secret_0023_descr">
+    <text>Ні, я, звичайно, знав, що тут є бандити. Але щоб стільки, та ще й з базою своєю! Називається, зрізати вирішив, та ще й з вантажем. Ні, ну його нафіг - сховаю хабар, і назад. Лише б не помітили!</text>
+</string>
+<string id="marsh_secret_0024_name">
+    <text>Втрачені запаси</text>
+</string>
+<string id="marsh_secret_0024_descr">
+    <text>Коли доставляли амуніцію на базу, на нас напали монстри. Довелося кинути припаси, і відступати. Як зберемо підкріплення, повернемося. А щоб не забути - десь ось тут все лежить.</text>
+</string>
+<string id="marsh_secret_0025_name">
+    <text>Тимчасова схованка</text>
+</string>
+<string id="marsh_secret_0025_descr">
+    <text>При захисті вишки виникли ускладнення. Чисельність супротивника виявилася більшою, ніж ми розраховували. Доведеться скинути зайве і відступати. Повернемося - заберемо.</text>
+</string>
+<string id="marsh_secret_0026_name">
+    <text>Запасний пень</text>
+</string>
+<string id="marsh_secret_0026_descr">
+    <text>Війна - війною, а про себе теж подумати треба. Хоч Командир наш і хоробрий, і братів чимало, але завдаток на майбутнє все-таки потрібен. Створю схованку, та й буду потихеньку речі туди тягати. Добре, що тут монстрів неміряно, можна пропажу на них звалити!</text>
+</string>
+<string id="marsh_secret_0027_name">
+    <text>Ничка невідомого</text>
+</string>
+<string id="marsh_secret_0027_descr">
+    <text>А нічого, нормально так сходив! І хто сказав, що на Болотах одні монстри, а цінного нічого нема? Я поки лазив - нікого не бачив, а назбирав пристойно. Боюся, з таким перевантаженням я звідси не виберуся. Що вдієш - доведеться частину здобичі тут залишити. Потім повернуся і заберу.</text>
+</string>
+<string id="marsh_secret_0028_name">
+    <text>Схрон у кущах</text>
+</string>
+<string id="marsh_secret_0028_descr">
+    <text>Поки рятувався від монстрів, наткнувся на гарне місце для схованки. Скину сюди все зайве, тут ніхто не знайде.</text>
+</string>
+<string id="marsh_secret_0029_name">
+    <text>Забутий ящик</text>
+</string>
+<string id="marsh_secret_0029_descr">
+    <text>Випадково натрапив на ящик з хабаром. Судячи з вигляду - господар про нього забув, так що наступного разу треба буде все забрати.</text>
+</string>
+<string id="marsh_secret_0030_name">
+    <text>Болотний секрет</text>
+</string>
+<string id="marsh_secret_0030_descr">
+    <text>У цих болотах тільки схованки й закладати! Будеш шукати спеціально - не знайдеш. Самому б не забути, де хабар лежить.</text>
+</string>
+<string id="marsh_secret_0031_name">
+    <text>Схованка Фіми Вугілля</text>
+</string>
+<string id="marsh_secret_0031_descr">
+    <text>Неспокійно нині в Печері, раз у раз хтось набіжить. То монстри, то сталкери мутні. Хоч до мене через аномалії випадковий відвідувач і не пройде, але від гріха подалі основні запаси у схрон сховаю.</text>
+</string>
+<string id="marsh_secret_0032_name">
+    <text>Склад у очереті</text>
+</string>
+<string id="marsh_secret_0032_descr">
+    <text>Коли евакуювалися, всі речі з собою забрати не змогли. Особливо багато боєприпасів залишили. За порадою Ковальського, влаштували склад у очереті, не на виду ж залишати.</text>
+</string>
+<string id="marsh_secret_0033_name">
+    <text>Схрон Калмика</text>
+</string>
+<string id="marsh_secret_0033_descr">
+    <text>Я турбуюся, що пограбувати нас можуть. Насосна станція хоч і захист, але мало нас тут, і у разі чого - захистити нікому. Так що схованку неподалік я заклав, частину речей туди заховав.</text>
+</string>
+<string id="marsh_secret_0034_name">
+    <text>Запаси Моноліту</text>
+</string>
+<string id="marsh_secret_0034_descr">
+    <text>Повідав нам Моноліт, що треба схрони з припасами по всій Зоні закладати, щоб брати могли у разі чого екіпіруватися. Один з них прямо тут влаштуємо, про всяк випадок.</text>
+</string>
+<string id="marsh_secret_0035_name">
+    <text>Склад медикаментів</text>
+</string>
+<string id="marsh_secret_0035_descr">
+    <text>Залишив запас медикаментів у затишному місці. Доктора на Болотах немає, а допомога може терміново знадобитися.</text>
+</string>
+<string id="marsh_secret_0036_name">
+    <text>Схованка сталкера</text>
+</string>
+<string id="marsh_secret_0036_descr">
+    <text>Коли я сюди потрапив, думав що тут нічого немає. А потім походив - і назбирав стільки всього! Відмінне місце. Зроблю схрон зі снарягою, для наступного рейду.</text>
+</string>
+<string id="marsh_secret_0037_name">
+    <text>Цікавий схрон</text>
+</string>
+<string id="marsh_secret_0037_descr">
+    <text>Сахаров відправив нашу групу для розвідки нових територій. Спочатку здавалося, що тут нічого немає, але потім ми знайшли стільки всього цікавого! Одні аномальні поля чого варті, таких параметрів ми ще не бачили! Потрібно зробити на цьому місці невеликий схрон з припасами, ми сюди ще повернемося.</text>
+</string>
+<string id="marsh_secret_0038_name">
+    <text>Медичний склад</text>
+</string>
+<string id="marsh_secret_0038_descr">
+    <text>Схоже, мене вже підозрюють. Від гріха подалі, зроблю склад за межами бази, а піддослідних буду тепер водити туди ж.</text>
+</string>
+<string id="marsh_secret_0039_name">
+    <text>Заначка під вагоном</text>
+</string>
+<string id="marsh_secret_0039_descr">
+    <text>Капець, коли воював з бібліотекарями, скинув з плечей рюкзак, щоб не заважав. І так не фортануло, що він прямо в Трамплін полетів. А аномалія закинула його кудись під залізничний вагон. Шукати часу не було - монстри не давали продихнути. А більше я у це місце - ні ногою! Може комусь іншому згодиться.</text>
+</string>
+<string id="marsh_secret_0040_name">
+    <text>Діра в даху</text>
+</string>
+<string id="marsh_secret_0040_descr">
+    <text>Сховався від бандитів у церкві. Влаштувався на даху, рюкзак закинув у дірку, щоб не демаскував мене завчасно. Але щось пішло не так і гопники мене запалили, довелося з даху звалювати по-швидкому. А рюкзак, як на зло, зачепився лямкою за якийсь штир. Ще б секунду забарився - і застрелили б мене на місці. Тому оплату торгаша за артефакт, який він просив, довелося залишити.</text>
+</string>
+<string id="marsh_secret_0041_name">
+    <text>Схрон під мостом</text>
+</string>
+<string id="marsh_secret_0041_descr">
+    <text>Дістали ці бариги! "Найбезпечніше місце", ну да, як же! Прямо з-під носа ствол сперли, а вони навіть не чешуться! Доведеться самому про себе подбати, раз так. Перенесу все цінне сюди, під захист радіації. Так надійніше буде!</text>
+</string>
+<string id="marsh_secret_0042_name">
+    <text>Неподалік від аномалії</text>
+</string>
+<string id="marsh_secret_0042_descr">
+    <text>Недалеко від мехдвора є відмінна аномалія - там часто бувають унікальні арти. Увесь прикол у тому, що з'являється вона непередбачувано, і арти зникають відразу, як зникне аномалія. Тому про це місце мало хто знає, але ніхто сюди не ходить, вважають, що марно. Але я обчислив розклад її появи! Буду приходити сюди, і арти збирати. Бабла зрубаю, і звалю з цієї Зони! Неподалік схрон замутив, щоб було чим конкурентів зустріти, раптом з'являться?</text>
+</string>
+<string id="marsh_secret_0043_name">
+    <text>Ничка у дереві</text>
+</string>
+<string id="marsh_secret_0043_descr">
+    <text>Зазвичай хованки роблять на землі, і шукають їх там же. А я невеликий запас заникав на дереві - там не здогадаються шукати. Місце затишне, навіть коли полізеш туди - з землі не видно, що хтось тут шариться. Та й цінного тут немає нічого, звичайний НЗ, на всякий випадок. А якщо знайдуть - і не шкода.</text>
+</string>
+<string id="marsh_secret_0044_name">
+    <text>Чийсь труп</text>
+</string>
+<string id="marsh_secret_0044_descr">
+    <text>Знайшов старий труп. Склав у нього хабар. Кому він потрібен?</text>
+</string>
+<string id="marsh_secret_0045_name">
+    <text>Рюкзак на спині</text>
+</string>
+<string id="marsh_secret_0045_descr">
+    <text>З трупа ніхто не зняв рюкзак. Значить, його ніхто не знайшов і я перший? Відмінно! Тоді залишу тут собі заначку.</text>
+</string>
+<string id="marsh_secret_0046_name">
+    <text>Тіло з рюкзаком</text>
+</string>
+<string id="marsh_secret_0046_descr">
+    <text>Дивно. Є труп, і біля нього рюкзак. Невже він нікому не потрібен? Запам'ятаю це місце.</text>
+</string>
+<string id="marsh_secret_0047_name">
+    <text>Хабар біля трупа</text>
+</string>
+<string id="marsh_secret_0047_descr">
+    <text>Знайшов тухлий труп з необшуканим хабаром. Зроблю тут схрон, раз тут ніхто не ходить.</text>
+</string>
+<string id="marsh_secret_0048_name">
+    <text>Труп військового</text>
+</string>
+<string id="marsh_secret_0048_descr">
+    <text>Вояка загинув, а хабар залишився. Буду сюди поповнення приносити, для себе.</text>
+</string>
+<string id="marsh_secret_0049_name">
+    <text>Мертвий солдат</text>
+</string>
+<string id="marsh_secret_0049_descr">
+    <text>Шкода солдатика. Молодий зовсім. Але нічого. Його рюкзак мені тепер для схрону послужить.</text>
+</string>
+<string id="marsh_secret_0050_name">
+    <text>Загиблий сталкер</text>
+</string>
+<string id="marsh_secret_0050_descr">
+    <text>Знайшов труп сталкера, але його хабар не зміг винести. Повернуся пізніше.</text>
+</string>
+<string id="marsh_secret_0051_name">
+    <text>Чийсь рюкзак</text>
+</string>
+<string id="marsh_secret_0051_descr">
+    <text>Скинув у кущах рюкзак із зайвим хабаром. Потім повернуся.</text>
+</string>
+<string id="marsh_secret_0052_name">
+    <text>Хабар на острові</text>
+</string>
+<string id="marsh_secret_0052_descr">
+    <text>Пахан знову лютує, та ще найманці ці приперлися! Не подобається мені все це, і дивляться вони якось не так ... Від гріха подалі сховаю нажите на острові. Якщо я правий, то порожняком ноги буде забирати легше. І хабар залишиться цілим.</text>
+</string>
+<string id="marsh_secret_0053_name">
+    <text>Запас у каменях</text>
+</string>
+<string id="marsh_secret_0053_descr">
+    <text>Кину запас тут. Бо повернутися з будь-якому випадку доведеться.</text>
+</string>
+<string id="marsh_secret_0054_name">
+    <text>Резервний арсенал</text>
+</string>
+<string id="marsh_secret_0054_descr">
+    <text>Дістали ці монстри вже! І прут і пруть. Якщо хтось і хоче гинути, то я - ні. Залишу тут запас набоїв, на чорний день.</text>
+</string>
+<string id="marsh_secret_0055_name">
+    <text>Холодильник Калмика</text>
+</string>
+<string id="marsh_secret_0055_descr">
+    <text>Покладу мазь на свіжому повітрі. Щоб не зіпсувалася.</text>
+</string>
+<string id="marsh_secret_0056_name">
+    <text>Сейф у очереті</text>
+</string>
+<string id="marsh_secret_0056_descr">
+    <text>Хоч Калмик і хороший мужик, але сильно жадібний. Сховаю від нього хабар, мені він потрібніший.</text>
+</string>
+<string id="marsh_secret_0057_name">
+    <text>Інструменти у трубі</text>
+</string>
+<string id="marsh_secret_0057_descr">
+    <text>Залишу потрібне у інструментальному ящику. Згодиться.</text>
+</string>
+<string id="marsh_secret_0058_name">
+    <text>Запас за смітником</text>
+</string>
+<string id="marsh_secret_0058_descr">
+    <text>Поклав за сміттєвим ящиком хабар. Сюди ніхто не полізе.</text>
+</string>
+<string id="marsh_secret_0059_name">
+    <text>Військові запаси</text>
+</string>
+<string id="marsh_secret_0059_descr">
+    <text>Після спалаху було прийнято рішення евакуюватися. Коли колона йшла по мосту, біля його кінця раптово виникло щось незрозуміле. Таке враження, що невидима м'ясорубка - миттєво перемолола частина мосту, дозорну машину і чотирьох солдатів. Далі було не пройти, і розвернутися ніяк. Довелося залишити частину припасів під мостом, потім вивеземо на вертушці.</text>
+</string>
+
+<string id="limansk_secret_0000_name">
 		<text>Схованка в Лиманську</text>
 	</string>
-	<string id="limansk_secret_0000_description">
+<string id="limansk_secret_0000_description">
 		<text>Тоді з Коляном у вдалий рейд сходили, частина там же в Лиманську залишили.</text>
-	</string>
-	<string id="limansk_secret_0001_name">
+</string>
+<string id="limansk_secret_0001_name">
 		<text>Схрон в Лиманську</text>
 	</string>
-	<string id="limansk_secret_0001_description">
+<string id="limansk_secret_0001_description">
 		<text>Пощастило мені тоді, багато хабара набрав, так багато, що частину в схрон поклав.</text>
-	</string>
-	<string id="limansk_secret_0002_name">
+</string>
+<string id="limansk_secret_0002_name">
 		<text>Схрон монолітівця</text>
 	</string>
-	<string id="limansk_secret_0002_description">
+<string id="limansk_secret_0002_description">
 		<text>Спіймали з Сергієм одного "одержимого", а у нього з собою чого тільки не було. От зараза, і звідки тільки беруть. Частину в схрон там же ж поклали. Треба б забрати.</text>
-	</string>
-	<string id="limansk_secret_0003_name">
+</string>
+<string id="limansk_secret_0003_name">
 		<text>Схрон волівця</text>
 	</string>
-	<string id="limansk_secret_0003_description">
+<string id="limansk_secret_0003_description">
 		<text>Другана мого у воронці "укатало", ми тоді з рейду йшли. У мене рюкзак під зав'язку, довелося його рюкзак заникати.</text>
-	</string>
-	<string id="limansk_secret_0004_name">
+</string>
+<string id="limansk_secret_0004_name">
 		<text>Схрон сталкера</text>
 	</string>
-	<string id="limansk_secret_0004_description">
+<string id="limansk_secret_0004_description">
 		<text>Та вже, от страху то натерпівся. Зграя псів - це щось! Ледве втік, правда, хабарок довелося скинути.</text>
-	</string>
-	<string id="limansk_secret_0005_name">
+</string>
+<string id="limansk_secret_0005_name">
 		<text>Ничка сталкера в Лиманську</text>
 	</string>
-	<string id="limansk_secret_0005_description">
+<string id="limansk_secret_0005_description">
 		<text>Ні вже, більше мене в Лиманськ не затягнеш. Так нас райдужно зустріли, довелося все кинути і втекти.</text>
-	</string>
-	<string id="limansk_secret_0006_name">
+</string>
+<string id="limansk_secret_0006_name">
 		<text>Схрон сталкера в Лиманську</text>
 	</string>
-	<string id="limansk_secret_0006_description">
+<string id="limansk_secret_0006_description">
 		<text>Грали з мужиком в карти, ну, я як завжди виграв, а він на кон свій хабар поставив, який у Лиманську сховав. Ну і програв, природно. Якщо опинюся там, треба б перевірити.</text>
-	</string>
-	<string id="limansk_secret_0007_name">
+</string>
+<string id="limansk_secret_0007_name">
 		<text>Ничка в Лиманську</text>
 	</string>
-	<string id="limansk_secret_0007_description">
+<string id="limansk_secret_0007_description">
 		<text>Були з Петром недавно в Лиманську, знайшли дещо цінне. Щоб не нести з собою, довелося хабарок там і залишити. Буде час, треба змотатися забрати.</text>
-	</string>
-	<string id="limansk_secret_0008_name">
+</string>
+<string id="limansk_secret_0008_name">
 		<text>Ничка мертвого сталкера в Лиманську</text>
 	</string>
-	<string id="limansk_secret_0008_description">
+<string id="limansk_secret_0008_description">
 		<text>Ми тоді бачили, як один сталкер приховав хабарок, тільки от нещастя з ним сталося, поруч кровосос був, мабуть почуяв нас. Самі ледве ноги винесли, а мужику не пощастило.</text>
-	</string>
-	<string id="limansk_secret_0009_name">
+</string>
+<string id="limansk_secret_0009_name">
 		<text>Схованка сталкера в Лиманську</text>
 	</string>
-	<string id="limansk_secret_0009_description">
+<string id="limansk_secret_0009_description">
 		<text>От блін, не пощастило тоді. Такий хабарок знайшов, заховав в затишне місце. А потім викид почався і в тому місці аномалія "Трамплін" утворилася. Три дні прочекав, так і довелося з нічим.</text>
-	</string>
-	<string id="red_forest_secret_0000_name">
+</string>
+<string id="limansk_secret_0010_name">
+    <text>Схованка Привида</text>
+</string>
+<string id="limansk_secret_0010_descr">
+    <text>Не думав я, що так вийде. А тепер довелося одному тягнутися на ЧАЕС, і Стрілок кудись пропав ... Ну та гаразд, схованку для наступного походу я все одно організую. Думаю, ось тут відмінне місце.</text>
+</string>
+<string id="limansk_secret_0011_name">
+    <text>Речі капітана</text>
+</string>
+<string id="limansk_secret_0011_descr">
+    <text>Чорт! Як я міг погодитися на це! А ще говорили, мовляв, нікчемна справа, випромінювання знято, захопити місто як нєфіг робити! А тут цих фанатиків більше ніж у Прип'яті! Вертушку збили з якоїсь хрені, я такої у житті не бачив! Скину зайве - і ходу звідси. Ну його нафіг.</text>
+</string>
+<string id="limansk_secret_0012_name">
+    <text>Схованка Семецького</text>
+</string>
+<string id="limansk_secret_0012_descr">
+    <text>Дістали вже ці контролери та полтергейсти разом з Монолітівцями. Кінця їм немає. Покладу запас на випадок оточення.</text>
+</string>
+
+<string id="red_forest_secret_0000_name">
 		<text>Схованка сталкера в Червоному лісі</text>
 	</string>
-	<string id="red_forest_secret_0000_description">
+<string id="red_forest_secret_0000_description">
 		<text>Хабарок в лісі заникав. Буде час - заберу.</text>
-	</string>
-	<string id="red_forest_secret_0001_name">
+</string>
+<string id="red_forest_secret_0001_name">
 		<text>Схованка мисливця</text>
 	</string>
-	<string id="red_forest_secret_0001_description">
+<string id="red_forest_secret_0001_description">
 		<text>Був тут мисливець один. І його зона не пошкодувала, зігнула, а перед смертю він про схованку свою розповів.</text>
-	</string>
-	<string id="red_forest_secret_0002_name">
+</string>
+<string id="red_forest_secret_0002_name">
 		<text>Схованка найманця</text>
 	</string>
-	<string id="red_forest_secret_0002_description">
+<string id="red_forest_secret_0002_description">
 		<text>Попався якось одного разу нам в руки найманець. Підранений був. Ну так він нам про схованку свою розповів, та тільки ми його все одно шльопнули.</text>
-	</string>
-	<string id="red_forest_secret_0002_name">
+</string>
+<string id="red_forest_secret_0002_name">
 		<text>Рюкзак в лісі</text>
 	</string>
-	<string id="red_forest_secret_0002_description">
+<string id="red_forest_secret_0002_description">
 		<text>Йшли в Лиманськ. Пройти тоді не змогли, але зате дещо по дорозі знайшли, сховали там же, в червоному лісі.</text>
-	</string>
-	<string id="red_forest_secret_0003_name">
+</string>
+<string id="red_forest_secret_0003_name">
 		<text>Рюкзак в Червоному лісі</text>
 	</string>
-	<string id="red_forest_secret_0003_description">
+<string id="red_forest_secret_0003_description">
 		<text>Неповезло мені. Такий хабар довелося в лісі залишити. Місце не надійне. Того і дивися зіпруть.</text>
-	</string>
-	<string id="red_forest_secret_0004_name">
+</string>
+<string id="red_forest_secret_0004_name">
 		<text>Схованка в Червоному лісі</text>
 	</string>
-	<string id="red_forest_secret_0004_description">
+<string id="red_forest_secret_0004_description">
 		<text>Місце одне знайшов дуже хороше. Заховав у такому місці. Хрін хто знайде.</text>
-	</string>
-	<string id="red_forest_secret_0005_name">
+</string>
+<string id="red_forest_secret_0005_name">
 		<text>Хабар в Червоному лісі</text>
 	</string>
-	<string id="red_forest_secret_0005_description">
+<string id="red_forest_secret_0005_description">
 		<text>У червоному лісі сховав дещо цінне. Настане час рвати із зони. Не забути б забрати.</text>
-	</string>
-	<string id="red_forest_secret_0006_name">
+</string>
+<string id="red_forest_secret_0006_name">
 		<text>Хабар на узліссі</text>
 	</string>
-	<string id="red_forest_secret_0006_description">
+<string id="red_forest_secret_0006_description">
 		<text>Знайшли мертвого сталкера. У рюкзаку у нього було багато цінного. Все не забрали, частину в схроні залишили.</text>
-	</string>
-	<string id="red_forest_secret_0007_name">
+</string>
+<string id="red_forest_secret_0007_name">
 		<text>Хабар мисливця</text>
 	</string>
-	<string id="red_forest_secret_0007_description">
+<string id="red_forest_secret_0007_description">
 		<text>Знаю одне місце, кажуть, там багато всього хорошого сховано. Треба б навідатися.</text>
-	</string>
-	<string id="red_forest_secret_0008_name">
+</string>
+<string id="red_forest_secret_0008_name">
 		<text>Схрон мисливця</text>
 	</string>
-	<string id="red_forest_secret_0008_description">
+<string id="red_forest_secret_0008_description">
 		<text>Мені мисливець один перед смертю про свій хабарок в червоному лісі розповів. Треба б це місце знайти.</text>
-	</string>
-	<string id="red_forest_secret_0009_name">
+</string>
+<string id="red_forest_secret_0009_name">
 		<text>Схрон в лісі</text>
 	</string>
-	<string id="red_forest_secret_0009_description">
+<string id="red_forest_secret_0009_description">
 		<text>От же тоді пощастило, стільки хабара набрали, що все не забрали навіть. Там же і залишили в лісі.</text>
-	</string>
-	<string id="red_forest_secret_0010_name">
+</string>
+<string id="red_forest_secret_0010_name">
 		<text>Схованка у лісі</text>
 	</string>
-	<string id="red_forest_secret_0010_description">
+<string id="red_forest_secret_0010_description">
 		<text>Добре ми тоді одного сталкера потрясли. Хабарок у нього був що треба.</text>
-	</string>
-	<string id="red_forest_secret_0011_name">
+</string>
+<string id="red_forest_secret_0011_name">
 		<text>Укромне місце в лісі</text>
 	</string>
-	<string id="red_forest_secret_0011_description">
+<string id="red_forest_secret_0011_description">
 		<text>Загинув Васька. Ну вип'ємо за нього, за дружбана мого. Я з нього все цінне зняв, та там же в лісі і залишив. Не зміг...</text>
-	</string>
-	<string id="red_forest_secret_0012_name">
+</string>
+<string id="red_forest_secret_0012_name">
 		<text>Скритне місце в лісі</text>
 	</string>
-	<string id="red_forest_secret_0012_description">
+<string id="red_forest_secret_0012_description">
 		<text>Буває і на нашій вулиці свято. Зірвали хороший куш. Хабарок поки приховали. Не забути б де.</text>
-	</string>
-	<string id="red_forest_secret_0013_name">
+</string>
+<string id="red_forest_secret_0013_name">
 		<text>Скритне місце в червоному лісі</text>
 	</string>
-	<string id="red_forest_secret_0013_description">
+<string id="red_forest_secret_0013_description">
 		<text>Ну от що робити? Хабар свій в червоному лісі заховав. А тепер другий місяць забрати не можу. То хвороба, то справи.</text>
-	</string>
-	<string id="red_forest_secret_0014_name">
+</string>
+<string id="red_forest_secret_0014_name">
 		<text>Схованка майстра</text>
 	</string>
-	<string id="red_forest_secret_0014_description">
+<string id="red_forest_secret_0014_description">
 		<text>Так, скинув у схованку дещо. Не дуже цінне, але все ж.</text>
-	</string>
+</string>
+<string id="red_forest_secret_0015_name">
+    <text>Проклятий хабар</text>
+</string>
+<string id="red_forest_secret_0015_descr">
+    <text>Ціла історія з цим рюкзаком: усі, чий він був, загинули. Я його і кинув від гріха подалі, щоб очі мої його не бачили.</text>
+</string>
+<string id="red_forest_secret_0016_name">
+    <text>Рюкзак під обвалом</text>
+</string>
+<string id="red_forest_secret_0016_descr">
+    <text>На виході з Червоного лісу валуни з яру зірвалися, і на мене! А за ними щось темне до мене потягнулося. Ледве ноги забрав, але рюкзак свій втратив там десь.</text>
+</string>
+<string id="red_forest_secret_0017_name">
+    <text>Схованка у пеньку</text>
+</string>
+<string id="red_forest_secret_0017_descr">
+    <text>Сховали з Жекою всяку дрібноту в пеньку у Червоному лісі.</text>
+</string>
+<string id="red_forest_secret_0018_name">
+    <text>Пень біля яру</text>
+</string>
+<string id="red_forest_secret_0018_descr">
+    <text>Падав з обриву, вдарився об цей пень. Він великий, так я у нього хабар заникав.</text>
+</string>
+<string id="red_forest_secret_0019_name">
+    <text>Рюкзак під валунами</text>
+</string>
+<string id="red_forest_secret_0019_descr">
+    <text>Перед виходом до мосту на Лиманськ під валунами кинув рюкзак Миколи, він зайвий був. Це щоб, значить, йти далі легше було.</text>
+</string>
+<string id="red_forest_secret_0020_name">
+    <text>Пень у глушині</text>
+</string>
+<string id="red_forest_secret_0020_descr">
+    <text>Заблукав у Червоному лісі і скинув все своє барахло у дупло пня на цій точці.</text>
+</string>
+<string id="red_forest_secret_0021_name">
+    <text>Рюкзак на гілці</text>
+</string>
+<string id="red_forest_secret_0021_descr">
+    <text>Сховався від якоїсь тварюки на дереві. Саму монстрятину не бачив, тільки чув у тумані. Скинув там рюкзак на гілці, а сам стрибнув - і бігом звідтіля!</text>
+</string>
+<string id="red_forest_secret_0022_name">
+    <text>Пень у кущах</text>
+</string>
+<string id="red_forest_secret_0022_descr">
+    <text>Недалечко від офігенної аномалії у пеньку затихарив барахло. Самі зара поліземо цю хрінь ближче досліджувати: біля такої по-любасу цінні арти повинні лежати.</text>
+</string>
+<string id="red_forest_secret_0023_name">
+    <text>Ничка Сяка</text>
+</string>
+<string id="red_forest_secret_0023_descr">
+    <text>Небезпечно на Радарі останнім часом, то і діло хтось норовить чесного торговця пограбувати. А тому, найцінніше зберігати буду у цьому танку, який у Червоному лісі, короткий шлях то я знаю. Хрін хто тут шукати здогадається!</text>
+</string>
+<string id="red_forest_secret_0024_name">
+    <text>Ящик на горищі</text>
+</string>
+<string id="red_forest_secret_0024_descr">
+    <text>На другому поверсі будівлі біля капера є синій ящик з хабаром.</text>
+</string>
+<string id="red_forest_secret_0025_name">
+    <text>Рюкзак біля трупа</text>
+</string>
+<string id="red_forest_secret_0025_descr">
+    <text>З КПК загиблого сталкера дізнався про те, що в його рюкзаку було дещо цікаве. Координати в наявності.</text>
+</string>
+<string id="red_forest_secret_0026_name">
+    <text>Втрачений ящик</text>
+</string>
+<string id="red_forest_secret_0026_descr">
+    <text>Вже давав одному кадру інфу про цю схованку, але точно знаю, що цей лопух так її і не забрав - в аномалії поблизу загнувся.</text>
+</string>
+<string id="red_forest_secret_0027_name">
+    <text>Хабар у засувці</text>
+</string>
+<string id="red_forest_secret_0027_descr">
+    <text>Схованка захована за червоним вентилем трубопроводу у шахті. Що там - фіг знає, мені не цікаво.</text>
+</string>
+<string id="red_forest_secret_0028_name">
+    <text>Під сидінням</text>
+</string>
+<string id="red_forest_secret_0028_descr">
+    <text>Під заднім сидінням автобуса один знайомий зробив схованку. Знайомого цього у живих вже немає, так що він не образиться.</text>
+</string>
+<string id="red_forest_secret_0029_name">
+    <text>Труба у підземці</text>
+</string>
+<string id="red_forest_secret_0029_descr">
+    <text>Дізнався про цю ничку від полоненого. Загалом, вона у завалі за БТРом у сегменті труби.</text>
+</string>
+<string id="red_forest_secret_0030_name">
+    <text>Труп біля каменів</text>
+</string>
+<string id="red_forest_secret_0030_descr">
+    <text>Один бідолаха мені рюкзак ніс, тільки через Червоний ліс так і не пройшов. Загалом, якщо знайдеш, все твоїм буде.</text>
+</string>
+<string id="red_forest_secret_0031_name">
+    <text>Схованка у шахті</text>
+</string>
+<string id="red_forest_secret_0031_descr">
+    <text>Без балди, у сейфі біля перевернутої вагонетки заховав один волоцюга щось цінне!</text>
+</string>
+<string id="red_forest_secret_0032_name">
+    <text>Речі за парканом</text>
+</string>
+<string id="red_forest_secret_0032_descr">
+    <text>Є схованка у трухлявому пні. Місце непримітне - без координат фіг знайдеш. Ось зараз я їх тобі і зіллю...</text>
+</string>
+<string id="red_forest_secret_0033_name">
+    <text>Заначка у трубі</text>
+</string>
+<string id="red_forest_secret_0033_descr">
+    <text>Прихований під камінням у лісі рюкзак. Лови координати... у хороші руки чого ж не віддати?</text>
+</string>
+<string id="red_forest_secret_0034_name">
+    <text>Запас у кузові</text>
+</string>
+<string id="red_forest_secret_0034_descr">
+    <text>Заникав у кузові дрібнички деякі.</text>
+</string>
+<string id="red_forest_secret_0035_name">
+    <text>Речі Шерстюка</text>
+</string>
+<string id="red_forest_secret_0035_descr">
+    <text>Та пішло воно все! Мало того, що не платять, так їм тепер ще й служи на свої! А ось хрін вам, раз ви такі щури, цінності буду никати тут. А ви переб'єтесь, жиробасти штабні!</text>
+</string>
+
+<string id="hos_secret_0000_name">
+    <text>Ничка у сейфі</text>
+</string>
+<string id="hos_secret_0000_descr">
+    <text>Скинув зайве в сейф, щоб назад йти легше було. А раз він на виду, то і хабар не особливо цінний.</text>
+</string>
+<string id="hos_secret_0001_name">
+    <text>Рюкзак під сходами</text>
+</string>
+<string id="hos_secret_0001_descr">
+    <text>У цьому мотлоху сам чорт ногу зломить, так що, думаю, рюкзачок з хабаром тут ніхто й не помітить, навіть якщо шукати буде.</text>
+</string>
+<string id="hos_secret_0002_name">
+    <text>Електричний схрон</text>
+</string>
+<string id="hos_secret_0002_descr">
+    <text>Монолітівці хоч і відморожені на всю вежу, але навіть вони не полізуть у електрощит. А раз так, можна тут дещо приникати.</text>
+</string>
+
+<string id="jund_secret_0000_name">
+    <text>Схованка Харона</text>
+</string>
+<string id="jund_secret_0000_descr">
+    <text>О, Моноліт, ти великий! Я, твій слуга, виконав веління Твоє! Створено схрон у підземеллі глибокому, для братів наших! Тільки позначений Монолітом зможе побачити і відкрити його! Слава Моноліту!</text>
+</string>
+<string id="jund_secret_0001_name">
+    <text>Ничка Фрімена</text>
+</string>
+<string id="jund_secret_0001_descr">
+    <text>І навіщо я поліз у ці тунелі! Адже говорили ж мені - не лізь туди, пропаще це місце, а я не послухав. Вже майже тиждень блукаю тут, а виходу все ніяк не знайду. І ще монстри ці! Мабуть, скину тут все зайве, щоб сили не витрачати. Дасть Зона - повернуся і заберу.</text>
+</string>
+<string id="jund_secret_0002_name">
+    <text>Схрон Дімака</text>
+</string>
+<string id="jund_secret_0002_descr">
+    <text>Підземелля - місце небезпечне, без хороших боєприпасів і снаряги туди й потикатися нічого. Зробив схрон з боєприпасами у шляхопроводі, щоб до Ааза у гості зручніше ходити було.</text>
+</string>
+
+<string id="labx8_secret_0000_name">
+    <text>Речі Волазара</text>
+</string>
+<string id="labx8_secret_0000_descr">
+    <text>Проводив експерименти, але не закінчив. Залишу все тут, щоб не тягати зайвий раз.</text>
+</string>
+<string id="labx8_secret_0001_name">
+    <text>Ничка Фенріра</text>
+</string>
+<string id="labx8_secret_0001_descr">
+    <text>Повертався з роботи через підземелля, по дорозі дещо знайшов. Зроблю тут схрон, про всяк випадок.</text>
+</string>
+
+<string id="bum_secret_00_name">
+    <text>Схованка адепта</text>
+</string>
+<string id="bum_secret_00_descr">
+    <text>Сьогодні вночі я бачив Моноліт! Він говорив зі мною, і звелів влаштувати схрон зі спорядженням у обителі його! Я зробив його тут, бо служити Моноліту повинен я!</text>
+</string>
+<string id="bum_secret_01_name">
+    <text>Речі капітана</text>
+</string>
+<string id="bum_secret_01_descr">
+    <text>Чорт! Як я міг погодитися на це! А ще говорили, мовляв, нікчемна справа, випромінювання знято, захопити як нєфіг робити! А тут цих фанатиків хоч ложкою жери! Вертушку збили з якоїсь хрені, я такої у житті не бачив! Скину зайве - і ходу звідси. Ну його нафіг.</text>
+</string>
+<string id="bum_secret_02_name">
+    <text>Тимчасова схованка</text>
+</string>
+<string id="bum_secret_02_descr">
+    <text>При штурмі станції виникли ускладнення. Чисельність супротивника виявилася більшою, ніж ми розраховували. Доведеться скинути зайве і відступати. Повернемося - заберемо.</text>
+</string>
+
+<string id="zl_secret_00_name">
+    <text>Схрон Хіміка</text>
+</string>
+<string id="zl_secret_00_descr">
+    <text>Поки рятувався від монстрів, наткнувся на гарне місце для схованки. Скину сюди все зайве, тут ніхто не знайде.</text>
+</string>
+<string id="zl_secret_01_name">
+    <text>Забутий рюкзак</text>
+</string>
+<string id="zl_secret_01_descr">
+    <text>Випадково натрапив на ящик з хабаром. Судячи з вигляду - господар про нього забув, так що наступного разу треба буде все забрати.</text>
+</string>
+<string id="zl_secret_02_name">
+    <text>Лісовий секрет</text>
+</string>
+<string id="zl_secret_02_descr">
+    <text>У цьому лісі тільки схованки і створювати! Будеш шукати спеціально - не знайдеш. Самому б не забути, де хабар лежить.</text>
+</string>
+
+<string id="lab_secret_00_name">
+    <text>За контейнерами</text>
+</string>
+<string id="lab_secret_00_descr">
+    <text>Служити Моноліту - це, звичайно, добре, але і розслабитися іноді теж хочеться. А на виду це ніяк не зробиш, брати відразу розкажуть Наставнику. Так що я тут у затишному куточку дещо приберіг, тут точно шукати не будуть.</text>
+</string>
+<string id="lab_secret_01_name">
+    <text>Ничка невідомого</text>
+</string>
+<string id="lab_secret_01_descr">
+    <text>А нічого, нормально так злазив! І хто сказав, що у Лабіринті одні монстри, а цінного нічого нема? Я поки лазив - нікого не бачив, а назбирав пристойно. Боюся, з таким перевантаженням я і до поверхні не доберуся. Що вдієш - доведеться частину здобичі тут залишити. Потім повернуся і заберу.</text>
+</string>
+<string id="lab_secret_02_name">
+    <text>Втрачені запаси</text>
+</string>
+<string id="lab_secret_02_descr">
+    <text>Коли брати доставляли амуніцію на базу, на них напали монстри. Довелося кинути припаси, і відступати. Як зберемо підкріплення, повернемося. А щоб не забути - десь ось тут все лежить.</text>
+</string>
+<string id="lab_secret_03_name">
+    <text>Підземний схрон</text>
+</string>
+<string id="lab_secret_03_descr">
+    <text>Моноліт - монолітом, а про себе теж подумати треба. Хоч Наставник наш безсмертний тут, і братів чимало, але завдаток на майбутнє все-таки потрібен. Створю схованку, та й буду потихеньку речі туди тягати. Добре що тут монстрів неміряно, можна пропажу на них звалити!</text>
+</string>
+<string id="lab_secret_04_name">
+    <text>Затишне місце</text>
+</string>
+<string id="lab_secret_04_descr">
+    <text>Ні, я, звичайно, знав, що тут є печери. Але щоб такі, та ще й з базою фанатиків на додачу! А монстрів то скільки! Називається, зрізати вирішив, та ще й з вантажем. Ні, ну його нафіг - сховаю хабар, і назад. Лише б не помітили!</text>
+</string>
+<string id="lab_secret_05_name">
+    <text>Схрон в пралці</text>
+</string>
+<string id="lab_secret_05_descr">
+    <text>Служити Моноліту - це, звичайно, добре, але і розслабитися іноді теж хочеться. А на виду це ніяк не зробиш, брати відразу розкажуть Наставнику. Так що я тут у затишному куточку дещо приберіг, тут точно шукати не будуть.</text>
+</string>
+
+<string id="pesh_secret_00_name">
+    <text>Схованка Шахтаря</text>
+</string>
+<string id="pesh_secret_00_descr">
+    <text>Неспокійно нині в Печері, раз у раз хтось набіжить. То монстри, то сталкери мутні. Хоч до мене через аномалії випадковий відвідувач і не пройде, але від гріха подалі цінні запаси в схрон сховаю.</text>
+</string>
+<string id="pesh_secret_01_name">
+    <text>Схрон Фіми</text>
+</string>
+<string id="pesh_secret_01_descr">
+    <text>Шахтар турбується, що пограбувати нас можуть. Мовляв, аномалії хоч і захист, але мало нас тут, і в разі чого - захистити нікому. Так що схованку неподалік я створив, частину речей туди заховав.</text>
+</string>
+<string id="pesh_secret_02_name">
+    <text>Небезпечне місце</text>
+</string>
+<string id="pesh_secret_02_descr">
+    <text>Є тут закуток один, фонить там знатно. Але якщо знати прохід, то можна пройти у п'ятачок, де радіації немає. Тут схрон і зроблю, навряд чи хтось у такий осередок полізе.</text>
+</string>
+
+<string id="sar_secret_00_name">
+    <text>Запаси моноліту</text>
+</string>
+<string id="sar_secret_00_descr">
+    <text>Розповів нам Моноліт, що треба схрони з припасами по всій Зоні закладати, щоб брати могли у разі чого екіпіруватися. Один з них прямо тут влаштували, на всякий випадок.</text>
+</string>
+<string id="sar_secret_01_name">
+    <text>Втрачені речі</text>
+</string>
+<string id="sar_secret_01_descr">
+    <text>Висадка на станції пройшла без проблем, хтось пройшов тут до нас, і завалив всіх фанатиків. Наш загін відправили у підвали, щоб перевірити тут обстановку. Пройшли досить далеко, а потім поперли фанатики! Ледве ноги забрали, але не всі - Єременко там залишився... Рюкзак зі снарягою довелося скинути, так би не відірвався.</text>
+</string>
+<string id="sar_secret_02_name">
+    <text>Ничка Брата Тіні Моноліту</text>
+</string>
+<string id="sar_secret_02_descr">
+    <text>Мій Брат зробив тут схрон і показав його мені. Сказав, що це запас для мене, про всяк випадок. Набір останнього шансу. Ніколи не забуду це місце!</text>
+</string>
+
+<string id="x10_secret_00_name">
+    <text>Схованка сталкера</text>
+</string>
+<string id="x10_secret_00_descr">
+    <text>Ех, занесла мене нелегка у бункер під Випалювачем. І якого хріна я поліз у підземелля? Добре ще, що не на поверхню виліз, а то мізки б швидко спеклися. Хоча тут не краще - монолітівці скрізь. Коротше, скидаю зайвий хабар, і звалюю. Буде можливість - заберу.</text>
+</string>
+<string id="x10_secret_01_name">
+    <text>Запаси монолітівця</text>
+</string>
+<string id="x10_secret_01_descr">
+    <text>Моноліт велів, щоб загін братів відправився у підземелля для закладки схронів. Один з них я заклав тут, зайвим не буде.</text>
+</string>
+<string id="x10_secret_02_name">
+    <text>Рюкзак зомбованого</text>
+</string>
+<string id="x10_secret_02_descr">
+    <text>Твою ж мать! Бродив по Прип'яті, і нарвався на контролерів! І звідки їх тут стільки, навіть і сам не знаю, як пішов... Чорт, щщоо-сссь хріново мені... Потрібно пппосппатти... Сссолддаттт...</text>
+</string>
+
+<string id="vp_secret_01_name">
+    <text>Схрон за шафою</text>
+</string>
+<string id="vp_secret_01_descr">
+    <text>Ось тобі і легендарний центр Зони, одні фанатики і мутанти, а артефакти ті ж, що і на Звалищі! Хоч один плюс - поки ходив, знайшов дохлого фанатика з крутою снарягою, судячи з вигляду - попався Кігтю Смерті. Шкода снаряга важка, у своєму комбезі до торговця не дотягнути. Доведеться залишити її тут, потім повернуся.</text>
+</string>
+<string id="vp_secret_02_name">
+    <text>У машинці</text>
+</string>
+<string id="vp_secret_02_descr">
+    <text>У цьому мотлоху сам чорт ногу зломить, так що, думаю, рюкзачок з хабаром тут ніхто й не помітить, навіть якщо шукати буде.</text>
+</string>
+<string id="vp_secret_03_name">
+    <text>Будівельна ничка</text>
+</string>
+<string id="vp_secret_03_descr">
+    <text>Скинув зайве під будівельним вагончиком, щоб назад йти легше було. А раз він на виду, то і хабар не особливо цінний.</text>
+</string>
+<string id="vp_secret_04_name">
+    <text>Схованка на вікні</text>
+</string>
+<string id="vp_secret_04_descr">
+    <text>Монолітівці хоч і відморожені на всю вежу, але навіть вони не полізуть у вікно. А раз так, можна тут дещо заникати.</text>
+</string>
+<string id="vp_secret_05_name">
+    <text>Підвальна схованка</text>
+</string>
+<string id="vp_secret_05_descr">
+    <text>Заліз у якийсь підвал, знайшов якийсь непотріб. Заховаю його тут, а з собою візьму тільки зразки, знаючим людям покажу. Якщо виявиться, що сміття - то і повертатися не буду.</text>
+</string>
+<string id="vp_secret_06_name">
+    <text>Ничка сантехніка</text>
+</string>
+<string id="vp_secret_06_descr">
+    <text>У цю діру навіть проктолог, який і гірші речі бачив, побоїться сунутися. А я не дарма на Великій Землі сантехніком п'ять років горбатився. Куди що можна заховати - добре знаю.</text>
+</string>
+<string id="vp_secret_07_name">
+    <text>Ничка найманця</text>
+</string>
+<string id="vp_secret_07_descr">
+    <text>Повертався з роботи через підземелля, по дорозі дещо знайшов. Зроблю тут схрон, про всяк випадок.</text>
+</string>
+<string id="vp_secret_08_name">
+    <text>Монолітівський склад</text>
+</string>
+<string id="vp_secret_08_descr">
+    <text>До нас приходив Старший Брат і наказав готуватися до оборони. Невірні знову намагалися пробитися до нашого пристановища. Але тут зосереджений вузол сили Великого Моноліту, і я не можу дозволити жалюгідним черв'якам зазіхати на міць Його! Наші брати приносили припаси, необхідні для відбиття атаки невірних. Слава Братам! Слава Моноліту!</text>
+</string>
+<string id="vp_secret_09_name">
+    <text>Схрон Акілла</text>
+</string>
+<string id="vp_secret_09_descr">
+    <text>Вирішив пошукати артефакти у аномалії Вулкан. Костюм, у разі чого, витримає, а от решта може згоріти. Скину речі неподалік. Чорт, якось занадто тихо навколо...</text>
+</string>
+<string id="vp_secret_10_name">
+    <text>У підвалі висотки</text>
+</string>
+<string id="vp_secret_10_descr">
+    <text>У підвалі ховалися з напарником від Викиду. Потім вирішили пройтися по Прип'яті, взявши з собою тільки зброю - все інше залишили в схроні, щоб можна було побільше артефактів зібрати і не маятися з величезними рюкзаками. А на зворотному шляху я помітив біля входу у схрон сліди химери. Припасів було шкода, але життя все-таки дорожче. Треба буде потім як-небудь зазирнути в Прип'ять і перевірити, як там наш схрон.</text>
+</string>
+<string id="vp_secret_11_name">
+    <text>Склад на колесах</text>
+</string>
+<string id="vp_secret_11_descr">
+    <text>Великі сищики говорили так: "Хочеш заховати річ - поклади на саме видне місце!". В автомобіль, що стоїть посеред дороги точно ніхто не поткнеться. Тим більше, аномалії навколо будуть його охороняти.</text>
+</string>
+<string id="vp_secret_12_name">
+    <text>Цікавий УАЗ</text>
+</string>
+<string id="vp_secret_12_descr">
+    <text>Бройлер стверджував, що цей УАЗ - аномальний. Мовляв, якщо засунути у нього якусь річ, то після викиду зможеш знайти в ньому точно таку ж. Тобто і оригінал, і копію. Бройлер мужик досвідчений, але по п'яні у нього язик розв'язується - мама не журися! Закинув у цей автомобіль деякі штучки - після Викиду перевірю.</text>
+</string>
+<string id="vp_secret_13_name">
+    <text>У магазині</text>
+</string>
+<string id="vp_secret_13_descr">
+    <text>Нарешті вдалося запеленгувати сигнал нашого розвідквада! Вони будуть чекати близько річкового порту. Лейтенант зовсім поганий, цілий тиждень тягну його на собі, від самого Затону. Майже всю воду віддав йому, артефакти використовував, але літун так і не прийшов до тями. Ну нічого, дотягну до наших - там є досвідчений медик, він допоможе. Візьму з собою тільки ствол і патрони. Решта залишу тут, бо сам вже три дні не пив і не їв, сил майже не залишилося. Тільки б дійти...</text>
+</string>
+<string id="vp_secret_14_name">
+    <text>Світова схованка</text>
+</string>
+<string id="vp_secret_14_descr">
+    <text>Стрьомне містечко. Операційні столи, крісла-каталки, сліди крові на стінах і підлозі. Артефактів тут зроду не знаходили, а ось остраху госпіталь наганяє порядно. У здоровому глузді ніхто сюди не поткнеться. Крім мене, адже тут я свою схованочку облаштував.</text>
+</string>
+<string id="vp_secret_15_name">
+    <text>Хабар невідомого</text>
+</string>
+<string id="vp_secret_15_descr">
+    <text>У госпіталі наткнувся на неопізнаний труп, пошматований чимось тонким і гострим. Рюкзак, хоч і кровищею заляпаний, був пристойних розмірів. Як аномалії розійдуться і відкриють прохід - загляну обов'язково.</text>
+</string>
+<string id="vp_secret_16_name">
+    <text>За тумбою</text>
+</string>
+<string id="vp_secret_16_descr">
+    <text>Старший Брат наказав влаштувати схованку, якою можна буде користуватися у разі непередбачених обставин. Невірні спробують захопити зброю, яку віддав нам Великий Моноліт. Я і мої брати не допустимо цього! Старший буде підбадьорювати наш бойовий дух, передаючи голос Його і знищуючи ворогів знаряддям Його. Слава Моноліту!</text>
+</string>
+<string id="vp_secret_17_name">
+    <text>Склад у палаті</text>
+</string>
+<string id="vp_secret_17_descr">
+    <text>М-да, такого тихого шпиталю я не бачив з часів вибуху. Тільки вітер виє та щури по кутах ховаються. Прекрасне місце, щоб зробити тут свій схрон.</text>
+</string>
+<string id="vp_secret_18_name">
+    <text>Підвальне вікно</text>
+</string>
+<string id="vp_secret_18_descr">
+    <text>Третій день повзу з перебитими ногами... Вода вийшла вся... Уже немає сил тягти рюкзак. Кинув його у перше-ліпше підвальне вікно. Ех, тільки б дотягнути до пральні...</text>
+</string>
+<string id="vp_secret_19_name">
+    <text>Військовий хабар</text>
+</string>
+<string id="vp_secret_19_descr">
+    <text>Господи, тільки не це! Здається, я примудрився заблукати у цьому страшному місті! КПК вирубався, капітан не відповідає на запити. Куди йти - незрозуміло. Кругом мутанти, з кожного вікна визирають зомбі. Ні, якщо буду просто так бродити по Прип'яті, не знаючи дороги, то точно влечу у аномалію або на мінне поле. Краще окопаюсь тут і буду тримати оборону до прильоту вертольотів евакуації. Полковник обіцяв, що у разі чого вони нас заберуть. Хочеться вірити його словам...</text>
+</string>
+<string id="vp_secret_20_name">
+    <text>Схрон у КБО</text>
+</string>
+<string id="vp_secret_20_descr">
+    <text>У КБО "Ювілейний" зробив схрон із запасним комплектом спорядження. Хрін його знає, що чекає мене в цій чортовій лабораторії - може назад буду виходити мало не без штанів і без патронів.</text>
+</string>
+<string id="vp_secret_21_name">
+    <text>Заначка втікача</text>
+</string>
+<string id="vp_secret_21_descr">
+    <text>Як все ж пощастило, що я зміг втекти від цих психів до того, як вони хотіли почати обробляти мене якимись стрьомними речовинами! Позаплановий Викид! Ніколи не думав, що буду йому дякувати! Все, що видавали мені фанатики - скину у схрон всередині школи, оскільки не знаю, куди вони могли свої датчики напхати, які дозволяють стежити за переміщеннями бійців Моноліту.</text>
+</string>
+<string id="vp_secret_22_name">
+    <text>У роздягальні</text>
+</string>
+<string id="vp_secret_22_descr">
+    <text>У роздягальні сховав товар для Сані, як домовлялися. Він явно хоче найближчим часом до центру Зони рушити, от і знадобилася ничка на шляху прямування.</text>
+</string>
+<string id="vp_secret_23_name">
+    <text>Класна схованка</text>
+</string>
+<string id="vp_secret_23_descr">
+    <text>У школі знайшов труп зомбаря. Не знаю, хто його завалив і чому не обібрав, але артефактів при ньому було більше двадцяти штук. Я і так був навантажений по саме не хочу, тому частину снаряги мерця приховав неподалік.</text>
+</string>
+<string id="vp_secret_24_name">
+    <text>Схованка Міші Кулемета</text>
+</string>
+<string id="vp_secret_24_descr">
+    <text>Віджав хороший ствол у найманців. Шкода, патронів до нього майже немає, а по Затону планую тягатися ще досить довго. Зайва вага ні до чого, тому сховаю у схованочку тут. Якщо Кримець, який зупинився біля лісопилки, не покличе з собою у рейд, то повернуся на зворотному шляху.</text>
+</string>
+<string id="vp_secret_25_name">
+    <text>Рюкзак під землею</text>
+</string>
+<string id="vp_secret_25_descr">
+    <text>Йшов по Прип'яті і наткнувся на цікавий підвал. Помітити його можна, тільки якщо підійти впритул, інакше - здається, що нічого тут немає. Гріх таке місце не використати для схрону. Залишу тут трохи корисних дрібниць, по місту-то ще не раз бродити буду.</text>
+</string>
+<string id="vp_secret_26_name">
+    <text>Хабар під сходами</text>
+</string>
+<string id="vp_secret_26_descr">
+    <text>Тільки зібрався перекусити, як з усіх боків зомбарі полізли. З боями відступив до краю міста, але рюкзак довелося залишити у лапах монстрів. Сподіваюся, хоч що-небудь вдасться зібрати.</text>
+</string>
+<string id="vp_secret_27_name">
+    <text>Висотна схованка</text>
+</string>
+<string id="vp_secret_27_descr">
+    <text>Як і навіщо я забрався по цьому дереву на саму верхотуру - інша історія. Зате в цій квартирі у мене є тепер прекрасний схрон, в якому можна будь-яку атаку монстрів або підлих людців відбити. Тільки от, щоб від Викиду сховатися, доводиться у підвал спускатися ... Іноді здається, що можна не встигнути.</text>
+</string>
+<string id="vp_secret_28_name">
+    <text>Стара ничка</text>
+</string>
+<string id="vp_secret_28_descr">
+    <text>Прогулюючись по Прип'яті у пошуках артефактів, знайшов невідомий рюкзак. Але детектор аномалій показував щось неймовірне. Загалом, побоявся я туди поткнутися, а даремно. Коли до техніка прийшов, з'ясувалося, що в детекторі була системна несправність. Виходить, що містечко це абсолютно чисте. Якщо ніхто інший не забере цей рюкзак раніше за мене, то можна буде поживитися. Не забути!</text>
+</string>
+<string id="vp_secret_29_name">
+    <text>Запаси на даху</text>
+</string>
+<string id="vp_secret_29_descr">
+    <text>Хвала Моноліту і Силі Його! Вчора Він врятував мене від загибелі! Я і мої брати були підняті по тривозі: до нас рухалася велика група невірних. Я зайняв позицію снайпера на даху будівлі Річкового порту, щоб відчистити священну землю Моноліту від ворогів Його! Бій був страшний, багато братів були переможені і перебувають тепер у раю Великого Кристала. Невірні зайняли оборону біля пам'ятника невідомої людини, що тримає факел у своїй руці. Вони вже були готові прийняти свою жалюгідну долю, але в останній момент прилетіли прокляті вертольоти невірних. Я збирався віддати своє життя за Моноліт, але голос Його сказав мені: "Ні, ти потрібен мені живий! Іди!". Я послухався волі Його і покинув свою позицію. Через секунду її прошила черга великокаліберного кулемета невірних. Ворог ганебно втік з поля бою, але лише одна думка не дає мені спокою: всю амуніцію, яку дав мені Моноліт, я залишив на даху, а мене і моїх братів перекинули в район ЧАЕС.</text>
+</string>
+<string id="vp_secret_30_name">
+    <text>Хабар Лісника</text>
+</string>
+<string id="vp_secret_30_descr">
+    <text>Буду сьогодні замість Діда Мороза. От тільки подарунок під ялинкою не дітворі залишу, а собі - про всяк випадок. Раптом ще раз занесе нелегка в ці краї.</text>
+</string>
+<string id="vp_secret_31_name">
+    <text>Ничка спостерігача</text>
+</string>
+<string id="vp_secret_31_descr">
+    <text>Великий Моноліт поклав на мене важливе завдання: оглядати околиці зверху і видивлятися невірних, піднімаючи тривогу в разі небезпеки. Ніхто з невірних не сховається від мого погляду! Я не покину свого поста, поки Він не дасть мені на це дозволу. Все, що потрібно для спостерігача Моноліту у мене з собою. Невірні будуть знищені! Слава Моноліту!</text>
+</string>
+<string id="vp_secret_32_name">
+    <text>Схованка в кінозалі</text>
+</string>
+<string id="vp_secret_32_descr">
+    <text>Зробив заначку в кінотеатрі "Прометей". Все одно, кіноманів в Зоні немає, а по своїй волі, крім фанатиків, ніхто сюди не поткнеться.</text>
+</string>
+<string id="vp_secret_33_name">
+    <text>Речі того хто сумнівається</text>
+</string>
+<string id="vp_secret_33_descr">
+    <text>Харон занадто багато про себе думає! Він впевнений, що може посилати мою групу в будь-який час доби у будь-який район Зони! Спочатку наказав висуватися у стандартний патруль, а потім терміново сказав рухати на Радар. Навіть не дозволив забрати свої речі! Я ж для простого патрулювання все з собою не тягаю. Тепер невідомо, скільки мене тут протримають, і скільки пролежать мої речі в цілості. Чорт забирай, я ж теж не проходив обряд ініціації, так чому ж його ставлять вище мене? Нехай найцінніше тоді залишається тут. Мало чого.</text>
+</string>
+
+<string id="zat_secret_01_name">
+    <text>Схованка сталкера</text>
+</string>
+<string id="zat_secret_01_descr">
+    <text>Коли я сюди потрапив, думав що тут нічого немає. А потім походив - і назбирав стільки всього! Відмінне місце. Зроблю схрон зі снарягою, для наступного рейду.</text>
+</string>
+<string id="zat_secret_02_name">
+    <text>Наукові запаси</text>
+</string>
+<string id="zat_secret_02_descr">
+    <text>Сахаров відправив нашу групу для розвідки нових територій. Спочатку здавалося, що тут нічого немає, але потім ми знайшли стільки всього цікавого! Одні аномальні поля чого варті, таких параметрів ми ще не бачили! Потрібно зробити на цьому місці невеликий схрон з припасами, ми сюди ще повернемося.</text>
+</string>
+<string id="zat_secret_03_name">
+    <text>Таємний схрон</text>
+</string>
+<string id="zat_secret_03_descr">
+    <text>Воронін, блін! Ну обов'язково треба цілий квад у цю діру відправляти було? Майже місяць сюди добиралися - а сенс? Одні монстри, он, Васильєва згризли! Доведеться його екіпіровку тут заховати, щоб назад не тягнути.</text>
+</string>
+<string id="zat_secret_04_name">
+    <text>Запаси під мостом</text>
+</string>
+<string id="zat_secret_04_descr">
+    <text>Йшов по стежці, наткнувся на купу мотлоху, яка колись була сталкером. Все знайдене приховав в одну купу. Шкода не було часу розбиратися, що там є цінного - собаки по сліду йшли.</text>
+</string>
+<string id="zat_secret_05_name">
+    <text>Запаси у кущах</text>
+</string>
+<string id="zat_secret_05_descr">
+    <text>Пахан наказав замутити ничку для братви. Частину хабара відразу собі заберу. Збрешу, ніби використав по дорозі.</text>
+</string>
+<string id="zat_secret_06_name">
+    <text>Схрон у каменях</text>
+</string>
+<string id="zat_secret_06_descr">
+    <text>М-да, розвідквад Долгу - це не жарт! Кожен день можуть вежу відірвати. Цей вихід був вкрай невдалим: Рубанка і Баклажана мутанти доїдають біля аномалії "Котел". Я тягну на собі лейтенанта, ну і важкий же він, гад! Якщо втомлюся, буду потихеньку речі скидати. Першу схованку зробив тут, а далі подивимось.</text>
+</string>
+<string id="zat_secret_07_name">
+    <text>Під камінням</text>
+</string>
+<string id="zat_secret_07_descr">
+    <text>Здається, хтось загинається у Котлі, я чую жалібні стогони. Щоб не здетонував від спеки, скину речі під каміння.</text>
+</string>
+<string id="zat_secret_08_name">
+    <text>Ничка на дереві</text>
+</string>
+<string id="zat_secret_08_descr">
+    <text>Знайшов уривок якогось паперу з текстом: "... капітан благав гарненько приховати його особисті речі. Знав, що Дереволазу можна довірити передсмертне прохання. Сховаю на зручному дереві." Координати додаються.</text>
+</string>
+<string id="zat_secret_09_name">
+    <text>Гарне місце</text>
+</string>
+<string id="zat_secret_09_descr">
+    <text>Торгаш явно перебільшував, коли казав, ніби на Земснаряді буде сильно фонити. Що не знадобилося - повісив на дерево. Дереволаз же я, чи хто?</text>
+</string>
+<string id="zat_secret_10_name">
+    <text>Запаси бандита</text>
+</string>
+<string id="zat_secret_10_descr">
+    <text>Коротше, стояли з братвою на стрьомі біля Земснаряду, пасли одного лоха, що несе з аномалії Котел пристойні приблуди. Так цей фраєр Жорку Хавальника запалив і гримнув! Я пацанів у атаку підняв, а цей дрищ задню дав. Поки наздогнали його і прижучили - вже темрява наступила. Так що за хабаром Жорки повернуся пізніше. Якось один доберуся, щоб ділитися не довелося.</text>
+</string>
+<string id="zat_secret_11_name">
+    <text>Біля понтона</text>
+</string>
+<string id="zat_secret_11_descr">
+    <text>Цей фраєр таки заліз у радіоактивний смітник під назвою "Земснаряд"! Правий був Вобла, коли запропонував не смажити свої яйця на рентгенах, а запустити всередину за цим дивним артефактом якогось лоха. Якщо Вобла не зможе мирно домовитися з цим глистом, то доведеться глиста загасити. На випадок активного опору заникав патрони туди, куди планую відпригувати, якщо доведеться, щоб вийшло швидше перезарядитися.</text>
+</string>
+<string id="zat_secret_12_name">
+    <text>Речі в очереті</text>
+</string>
+<string id="zat_secret_12_descr">
+    <text>Ех, шкода все-таки діда! Світовий був мужик, багато чому мене навчив, хоч і не рідний я йому був. Не гідний я поки що користуватися його речами, так що нехай полежать вони у затишному місці. Як піднімуся, завоюю авторитет - обов'язково повернуся.</text>
+</string>
+<string id="zat_secret_13_name">
+    <text>Рюкзак на схилі</text>
+</string>
+<string id="zat_secret_13_descr">
+    <text>Вистежував групу бандитів, які пограбували мого напарника. Все чекав зручного моменту, щоб напасти, але не встиг: мутанти мене випередили. Два псевдогіганта напали на цих виродків і по-швидкому їх заламали. Один бандос спробував втекти, але його підловив сосич, що з'явився наче з-під землі. Коли монстри відвалять - гляну, що у цього покидька було у рюкзаку. А речі тих, над ким погралася пара гігантів, відновленню вже не підлягають.</text>
+</string>
+<string id="zat_secret_14_name">
+    <text>Горищний схрон</text>
+</string>
+<string id="zat_secret_14_descr">
+    <text>На горищі згорілого хутора сховав хорошу штучку, відбиту у зомбі-найманця. Але мій девайс все-таки покруче буде, а у цих краях такі штуки ніхто не купує. Краще артефактів наберу, а ця річ полежить на крайній випадок у схованці.</text>
+</string>
+<string id="zat_secret_15_name">
+    <text>Рюкзак у каменях</text>
+</string>
+<string id="zat_secret_15_descr">
+    <text>Щоб потрапити під землю і дістати цей чортовий артефакт, треба все зайве залишити тут, інакше не зможу протиснутися повз аномалії на вході.</text>
+</string>
+<string id="zat_secret_16_name">
+    <text>Заначка на опорі</text>
+</string>
+<string id="zat_secret_16_descr">
+    <text>Ох і набухались же ми вчора на Скадовську! До поросячого вереску! Тільки от якимось дивовижним чином мій рюкзак опинився на опорі газопроводу... або трубопроводу - не суть. І головне - зовсім не пам'ятаю, як він там опинився! Можливо, по п'яні закинув наверх... Гаразд, якщо знайду приставні сходи, то зніму обов'язково. Начебто на лісництві я бачив щось схоже.</text>
+</string>
+<string id="zat_secret_17_name">
+    <text>Запаси найманця</text>
+</string>
+<string id="zat_secret_17_descr">
+    <text>Все, блін, досить з мене цього! Думав, що зможу спокійно переживати вбивства людей, а вони до мене тепер щоночі приходять! Подамся-но у сталкери, може тоді відпустить. Викуплю, так би мовити, свою провину ділом. Все, що пов'язувало мене з угрупованням - сховав у схованку.</text>
+</string>
+<string id="zat_secret_18_name">
+    <text>Покинута схованка</text>
+</string>
+<string id="zat_secret_18_descr">
+    <text>Знайшов чиюсь схованочку, зарослу мохом, господаря явно вже немає в живих. Доклав туди дещо зі свого скарбу. Ні, ну а що? Місце тихе, спокійне. Якщо добре замаскувати, то ніхто мою ничку і не знайде.</text>
+</string>
+<string id="zat_secret_19_name">
+    <text>Лежанка Фенріра</text>
+</string>
+<string id="zat_secret_19_descr">
+    <text>Спалили мене найми, коли у Східній Прип'яті працював. Відсиджусь тут, поки все затихне. І хабар залишу про запас.</text>
+</string>
+<string id="zat_secret_20_name">
+    <text>Хабар за трубою</text>
+</string>
+<string id="zat_secret_20_descr">
+    <text>Випадково натрапив на чиюсь схованку. Шкода, її вміст мені зовсім не потрібний. Переховав на території ВНЗ.</text>
+</string>
+<string id="zat_secret_21_name">
+    <text>Монолітівські запаси</text>
+</string>
+<string id="zat_secret_21_descr">
+    <text>Монолітівець-одинак зайшов на територію ВНЗ з рюкзаком, а виходив без нього. Треба б глянути, що він там приховав.</text>
+</string>
+<string id="zat_secret_22_name">
+    <text>Схрон під сходами</text>
+</string>
+<string id="zat_secret_22_descr">
+    <text>У темному затишному місці влаштував я свій схрон. І Викид перечекати можна, і поповнити запаси.</text>
+</string>
+<string id="zat_secret_24_name">
+    <text>Під будиночком</text>
+</string>
+<string id="zat_secret_24_descr">
+    <text>У "Смарагдовому" нарвалися на контролера, хай йому грець! Командира довелося пристрелити - контра йому мізки геть спалив. А я і так хабаром навантажений під зав'язку був, так ще й з кепа артефакти зняти довелося. Те, що не зміг понести - сховав під будиночком. Повертатися не планую, так як видобутого хабара мені вистачить, щоб нарешті звалити з цієї грьобаної Зони.</text>
+</string>
+<string id="zat_secret_25_name">
+    <text>Ничка сталкера</text>
+</string>
+<string id="zat_secret_25_descr">
+    <text>Якийсь серйозний монстр тут мешкає, нутром чую! Тому припаси мої будуть тут у цілості. Головне не забувати залишати хоч що-небудь у схованці.</text>
+</string>
+<string id="zat_secret_26_name">
+    <text>Медичний склад</text>
+</string>
+<string id="zat_secret_26_descr">
+    <text>Схоже, на Скадовську мене вже підозрюють. Від гріха подалі, зроблю склад за межами судна, а піддослідних буду тепер водити туди ж.</text>
+</string>
+<string id="zat_secret_28_name">
+    <text>Зручне місце</text>
+</string>
+<string id="zat_secret_28_descr">
+    <text>Тоха Рожевий вчора шльопнув одного фраєра-шамана, а речі його приховав у вантажівці біля портових кранів. Тільки от стало зле Тосі на наступний же день, та й скопитився він у корчах. Я тепер у цю схованку стремаєюся заглядати, мало чого.</text>
+</string>
+<string id="zat_secret_29_name">
+    <text>Старий катер</text>
+</string>
+<string id="zat_secret_29_descr">
+    <text>Чортів Викид, як недоречно! З усім хабаром до Скадовська не дотягну! Скину зайве в катер, потім повернуся, якщо встигну до укриття добратися. Ще мутанти ці...</text>
+</string>
+<string id="zat_secret_30_name">
+    <text>Покинуті припаси</text>
+</string>
+<string id="zat_secret_30_descr">
+    <text>Контролер, гад... Довбонув по мізках так, що я втратив всяку орієнтацію у просторі. Якісь будови, труби... Господи, важко щось як! Немає більше сил тягти рюкзак - скину по дорозі. Блін, а макітра-то тріщить, як з перепою!</text>
+</string>
+<string id="zat_secret_31_name">
+    <text>Таємне горище</text>
+</string>
+<string id="zat_secret_31_descr">
+    <text>Внизу зомбарі ходять, виють, мене шукають. Патронів на всіх не вистачить, але прориватися треба. Скину зайве, щоб напевно від цих виродків умотати. Я ж не супермен, і в мене ядерного реактора у дуплі немає! Щоб не забути - поставив мітку.</text>
+</string>
+<string id="zat_secret_32_name">
+    <text>За стіною</text>
+</string>
+<string id="zat_secret_32_descr">
+    <text>Якщо ти читаєш це повідомлення, значить я вже помер. Бо живим я цей схрон нікому не віддам. Якщо зняв ти мітку з мого трупа, вбитого не тобою, або твоїми подільниками, або тобі хтось віддав цю схованку - то користуйся на здоров'я! В іншому випадку - щоб ти подавився, гівнюк!</text>
+</string>
+<string id="zat_secret_33_name">
+    <text>Схрон Басті</text>
+</string>
+<string id="zat_secret_33_descr">
+    <text>В одному з верстатів на лісництві сховав хабар покійного наставника. Обов'язково треба повернутися і забрати його речі, як тільки вояк з хвоста скину.</text>
+</string>
+<string id="zat_secret_34_name">
+    <text>Кам'яний схрон</text>
+</string>
+<string id="zat_secret_34_descr">
+    <text>Не знаю, що на Затоні робив квад найманців, але щось вони явно вирішили залишити на місці своєї стоянки. Шкода, через аномальне загородження неможливо підібратися ближче. І як же найми змогли знайти прохід?</text>
+</string>
+<string id="zat_secret_36_name">
+    <text>Тимчасовий схрон</text>
+</string>
+<string id="zat_secret_36_descr">
+    <text>Сидимо на цій станції вже два тижні, чекаємо незрозуміло чого. Бос сказав, що у майбутньому тут буде наш аванпост, так що пора обживатися. Почну з закладки cхованки, з усякими корисними дрібницями.</text>
+</string>
+<string id="zat_secret_37_name">
+    <text>На трубі</text>
+</string>
+<string id="zat_secret_37_descr">
+    <text>Гак, зараза, не відпускає з бази ні на крок! Дисципліна дисципліною, але все-таки це перебір! І схованку довелося зробити не в хорошому затишному місці, а прямо на базі. Якщо хто-небудь знайде, то буде прикро.</text>
+</string>
+<string id="zat_secret_38_name">
+    <text>Болотна схованка</text>
+</string>
+<string id="zat_secret_38_descr">
+    <text>В очереті добре приховав свої запаси. Якщо не знати, де саме лежить, або випадково не спіткнутися об нього - знайти неможливо!</text>
+</string>
+<string id="zat_secret_39_name">
+    <text>Притулок під камінням</text>
+</string>
+<string id="zat_secret_39_descr">
+    <text>Знатний притулок я знайшов! Від негоди можна сховатися, та й лопатою я його трохи поліпшив. З минулого разу залишив у ньому невеликий НЗ на чорний день.</text>
+</string>
+<string id="zat_secret_40_name">
+    <text>Затишна опора</text>
+</string>
+<string id="zat_secret_40_descr">
+    <text>Чортів генерал, цілу роту на забій послав! Вертушка в аномалію потрапила, а монстри, що збіглися на гуркіт з усього Затону, нас через п'ять хвилин після висадки порвали, як кошенят! Легеня прострелена, тягти речмішок не можу. Якщо виберуся - заберу, або товаришам скину мітку.</text>
+</string>
+<string id="zat_secret_41_name">
+    <text>Камені біля дороги</text>
+</string>
+<string id="zat_secret_41_descr">
+    <text>Відібрав у вояк деякі припаси. Шукати між аномалією Кіготь і дорогою, у каменях. На крайній випадок - завжди знадобиться.</text>
+</string>
+<string id="zat_secret_42_name">
+    <text>Зручне дерево</text>
+</string>
+<string id="zat_secret_42_descr">
+    <text>Треба позбутися цих речей якнайскоріше, поки все не вщухне. Ніхто не повинен знати, що це я завалив Султана. Сховаю на одному з дерев Затону. Дереволаз.</text>
+</string>
+<string id="zat_secret_43_name">
+    <text>Дерево на розвилці</text>
+</string>
+<string id="zat_secret_43_descr">
+    <text>Знайшов КПК, розбитий кулею. Вдалося розшифрувати лише один запис: "Відпочивав біля аномалії Цирк, милувався вогнями. Раптом з кущів виповз поранений Монолітівець. Ці фанатики, вийшовши з-під дії Радару, майже завжди стають неосудними. По суті, я тільки кількох правильних монолітівців знав - Брода і його групу. А цей почав на мене кидатися і намагатися пістолет з кобури дістати. Я, певна річ, завалив його. Ствол забрав із собою, а все інше сховав на дереві неподалік. Навряд чи знадобиться, але, може бути, продам кому-небудь. Дереволаз". До речі, власник явно живий залишився - неподалік знайшов випотрошену аптечку, бинти та пару використаних артефактів "Душа".</text>
+</string>
+<string id="zat_secret_44_name">
+    <text>Розбитий УАЗ</text>
+</string>
+<string id="zat_secret_44_descr">
+    <text>Був звичайний УАЗ, а тепер - з секретом. Головне, щоб секрет залишався секретом до запитання.</text>
+</string>
+<string id="zat_secret_45_name">
+    <text>Склад найманця</text>
+</string>
+<string id="zat_secret_45_descr">
+    <text>Командир наказав знову терміново на справу йти, а я не встиг хабар, зібраний з минулої ходки, як слід розсортувати. Довелося все скинути в одну купу. Ну нічого, серед наших щурів ще не було, так що ніхто моїх речей не торкнеться.</text>
+</string>
+<string id="zat_secret_46_name">
+    <text>Дерев'яна схованка</text>
+</string>
+<string id="zat_secret_46_descr">
+    <text>Менш цінні речі убитих мерків заникав на дереві, недалеко від їхньої бази. Майже напевно не знадобляться, але мітку все ж поставив. Дереволаз.</text>
+</string>
+<string id="zat_secret_47_name">
+    <text>Речі невідомого</text>
+</string>
+<string id="zat_secret_47_descr">
+    <text>Завалили якогось фраєра. Тільки почали шмонати - мутанти приспіли. Кровососи, єти їх в бюрера! Шпану порвали на шматки, а от я зумів звалити. Думаю, щось на цьому місці повинно було залишитися цінного.</text>
+</string>
+<string id="zat_secret_48_name">
+    <text>Хабар у столі</text>
+</string>
+<string id="zat_secret_48_descr">
+    <text>Хотів сунутися у лабораторію під Залізним лісом. Кажуть, там дещо цікаве можна знайти. Але коли звідти ці виючі звуки долинули - ледве серце не зупинилося. Драпав я з цього місця, виблискуючи п'ятами, як заєць. Чому живий залишився, у аномальний не влетів, або на монстрів не нарвався - загадка. Отямився лише біля ВНЗ і згадав, що перед спуском у лабу вирішив відпочити і приховав деякі дрібнички в стіл. Повертатися туди самостійно не збираюся.</text>
+</string>
+<string id="zat_secret_49_name">
+    <text>Речі в ЗІЛі</text>
+</string>
+<string id="zat_secret_49_descr">
+    <text>Нові території - це добре. А коли ти на них один з перших - ще краще! Скільки ж ми з мужиками тут набрали, ось де насправді клондайк! Монстрів, правда, теж багато, але це не проблема з такою командою. Влаштуємо схрон з припасами у ЗІЛі, щоб наступного разу все з собою не тягнути.</text>
+</string>
+<string id="zat_secret_50_name">
+    <text>Ничка Вескера</text>
+</string>
+<string id="zat_secret_50_descr">
+    <text>У тихому містечку сховав свій хабар. Аномалій майже немає, артефактів, відповідно, теж - значить ніхто там шаритись не буде.</text>
+</string>
+<string id="zat_secret_51_name">
+    <text>Схованка Тіні Моноліту</text>
+</string>
+<string id="zat_secret_51_descr">
+    <text>І прийшло до мене бачення, і говорив зі мною Великий. І наказав Він зробити схрон, щоб братам моїм було легше відбиватися від невірних. Слава Моноліту!</text>
+</string>
+<string id="zat_secret_52_name">
+    <text>Бетонний ковпак</text>
+</string>
+<string id="zat_secret_52_descr">
+    <text>Там, де труби йдуть під землю, у темряві і вогкості, зробив схованку, як Слава Гарлем попросив. Якщо хтось речі собі прибере - Славка такого не пробачить, з під землі дістане падлу!</text>
+</string>
+
+<string id="jup_secret_0000_name">
+    <text>Таємна ничка</text>
+</string>
+<string id="jup_secret_0000_descr">
+    <text>Відмінне місце для ще одного схрону. Моноліт буде задоволений.</text>
+</string>
+<string id="jup_secret_0001_name">
+    <text>Секрет монолітівця</text>
+</string>
+<string id="jup_secret_0001_descr">
+    <text>Завжди потрібно мати резерви - мало що. Влаштую тут ничку, місце зручне і потайливе.</text>
+</string>
+<string id="jup_secret_0002_name">
+    <text>Бандитський схрон</text>
+</string>
+<string id="jup_secret_0002_descr">
+    <text>Коротше, пахан велів тягнутися на нові території, і робити там базу. Це по будь-якому фартово, фраєра-то сюди точно набіжать. Общак потрібно влаштувати так, щоб ні щур не допер де він. Тут відмінне місце.</text>
+</string>
+<string id="jup_secret_0003_name">
+    <text>Речі зомбованого</text>
+</string>
+<string id="jup_secret_0003_descr">
+    <text>Наша група потрапила під сплеск псі-випромінювання. Треба було передбачити, що на нових територіях можуть бути такі зони! Терміново повертаємося у табір, необхідне лікування. Чорт... щось погано мені... Піду присяду он туди, потрібно відпочити...</text>
+</string>
+<string id="jup_secret_01_name">
+    <text>Речі зомбованого</text>
+</string>
+<string id="jup_secret_01_descr">
+    <text>аша група потрапила під сплеск псі-випромінювання. Треба було передбачити, що на нових територіях можуть бути такі зони! Терміново повертаємося у табір, необхідне лікування. Чорт... щось погано мені... Піду присяду он туди, потрібно відпочити...</text>
+</string>
+<string id="jup_secret_02_name">
+    <text>Бандитський схрон</text>
+</string>
+<string id="jup_secret_02_descr">
+    <text>Коротше, пахан велів тягнутися на нові території, і робити там базу. Це по будь-якому фартово, фраєра-то сюди точно набіжать. Общак потрібно влаштувати так, щоб ні щур не допер де він. Тут відмінне місце.</text>
+</string>
+<string id="jup_secret_03_name">
+    <text>Секрет монолітівця</text>
+</string>
+<string id="jup_secret_03_descr">
+    <text>Завжди потрібно мати резерви - мало що. Влаштую тут ничку, місце зручне і потайливе.</text>
+</string>
+<string id="jup_secret_05_name">
+    <text>Запаси у виярку</text>
+</string>
+<string id="jup_secret_05_descr">
+    <text>Недалеко від Янова напоровся на зграю псевдособак. Патронів майже не залишилося, тому довелося скинути рюкзак під кущем, щоб ноги забрати. Треба буде не забути підібрати.</text>
+</string>
+<string id="jup_secret_07_name">
+    <text>Схрон у каменях</text>
+</string>
+<string id="jup_secret_07_descr">
+    <text>Знайшов відмінне містечко для схрону, у середині болота. Хоч тут і сиро, але хабар я заховав надійно, навряд чи зіпсується. А шукати схрони у болоті ніхто не буде, так що шанс виявити все на місці наступного разу досить великий.</text>
+</string>
+<string id="jup_secret_08_name">
+    <text>Під місточками</text>
+</string>
+<string id="jup_secret_08_descr">
+    <text>По приколу зробив схрон під місточками біля болота. І як не дивно - місце виявилося досить вдалим. А раз так - нехай все тут і далі лежить.</text>
+</string>
+<string id="jup_secret_09_name">
+    <text>Речі мисливця</text>
+</string>
+<string id="jup_secret_09_descr">
+    <text>Вирушив на полювання у лігво бібліотекарів. Візьму тільки найнеобхідніше, а все інше скину під мостом. Буду повертатися - заберу, а у лігві біблів зайва вага мені не потрібна.</text>
+</string>
+<string id="jup_secret_10_name">
+    <text>На заводі</text>
+</string>
+<string id="jup_secret_10_descr">
+    <text>От нахріна йому здалися ці радіодеталі? Тепер доведеться лізти на цей завод, в якому хрін знає що завестися могло. Мабуть, частину речей залишу тут, все-таки без нічого простіше буде, якщо що.</text>
+</string>
+<string id="jup_secret_11_name">
+    <text>Підземна схованка</text>
+</string>
+<string id="jup_secret_11_descr">
+    <text>Великий сказав мені, що належить схрон для братів зробити тут. Воля Моноліту виконана буде, бо не збагнути нам задумів його, наскільки незрозумілими б його веління були мені.</text>
+</string>
+<string id="jup_secret_12_name">
+    <text>Склад у кабіні</text>
+</string>
+<string id="jup_secret_12_descr">
+    <text>Кажуть, у цьому кар'єрі часто трапляються рідкісні артефакти. Треба б перевірити, але у бінокль я побачив купу снорков і ще якихось незрозумілих тварюк. Спробую обстежити кар'єр по-тихому, а щоб не гримнути чимось - залізо тут заникаю. Все одно, якщо такий натовп монстрів мене помітить, воно мені не допоможе.</text>
+</string>
+<string id="jup_secret_13_name">
+    <text>Пересувний схрон</text>
+</string>
+<string id="jup_secret_13_descr">
+    <text>Тут недалеко є відмінне місце, де хабара неміряно. Та тільки монстрів там купа, та таких, яких я у житті не бачив - роги і кігтищі - огого. Поки одного такого завалив - три стрічки до кулемета витратив, ледве встиг у нього з голови ріг відчикрижити, як штук 5 таких же звідкись вискочило! Мабуть, зроблю тут схрон зі снарягою, щоб наступного разу цих страхолюдин всіх завалити. Заманю їх до тепловоза, та й розстріляю з даху. Тут вони мене не дістануть, сподіваюся.</text>
+</string>
+<string id="jup_secret_14_name">
+    <text>Під зламаним кузовом</text>
+</string>
+<string id="jup_secret_14_descr">
+    <text>Поки оглядав у бінокль кар'єр, помітив кілька незвичайних артефактів, і край рюкзака в залишках ЗІЛа. Спуститися не наважився - тварі ці по всьому кар'єру скачуть, і дохріна їх там. Помітять - не втекти. Поки поставлю позначку, щоб не забути, спробую вночі по-тихому пробратися до рюкзака. Чую я, щось цінне там є. Тільки б ці не помітили...</text>
+</string>
+<string id="jup_secret_15_name">
+    <text>Заначка у заростях</text>
+</string>
+<string id="jup_secret_15_descr">
+    <text>Ці зарості сам Чорний послав, щоб хованки у них робити. Мало того, що якщо не знати де, рюкзак хрін помітиш, так і монстри тут поруч тусуються. Думаю, сюди не сунуться.</text>
+</string>
+<string id="jup_secret_16_name">
+    <text>Склад у собачій будці</text>
+</string>
+<string id="jup_secret_16_descr">
+    <text>Нещодавно на Янові завівся якийсь щур, постійно речі у сталкерів тирить. А вже якщо у ящику що залишити - відразу ноги приростуть. І знайти цю падлу ніяк не можуть. Ну його, від гріха подалі - перетягну вночі свій хабар на вулицю, примітив я там одну затишну собачу будку. Сподіваюся, ніякий ідіот туди не полізе, хоча вибору особливого і немає - все ж надійніше, ніж усередині залишати. А потім, як знайдуть цю тварюку, назад перетягну.</text>
+</string>
+<string id="jup_secret_18_name">
+    <text>У кабіні екскаватора</text>
+</string>
+<string id="jup_secret_18_descr">
+    <text>Так, Копачі - просто відмінне місце для схронів! Без серйозного захисту сюди краще навіть не потикатися - фонить так, що яйця закиплять. Плюс зомбарям це село чимось подобається - постійно тут тусять. Якщо їх не чіпати - їм на тебе пофіг, так що влаштую тут невеликий склад у кабіні. У ній не фонить чомусь, зате навколо - ще й як. От і добре, менше потім доведеться радіацію виводити.</text>
+</string>
+<string id="jup_secret_20_name">
+    <text>Схованка у руїнах</text>
+</string>
+<string id="jup_secret_20_descr">
+    <text>У цих фонятчих руїнах тільки ідіот буде щось шукати. Але я-то знаю, що є тут місця, де фону чомусь немає. Відмінні місця для схронів, так що один з них зроблю ось тут.</text>
+</string>
+<string id="jup_secret_21_name">
+    <text>Горищна схованка</text>
+</string>
+<string id="jup_secret_21_descr">
+    <text>Нещодавно бродив по Копачах, і наткнувся на одне цікаве горище. Прикол у тому, що з боку здається, ніби його немає, але якщо правильно підійти... І фону там немає, походу аномалія якась. Ну і пофіг, тим цілішими мої речі тут будуть.</text>
+</string>
+<string id="jup_secret_22_name">
+    <text>Ничка Пропера Сімдесятого</text>
+</string>
+<string id="jup_secret_22_descr">
+    <text>Залишу про запас. Нехай буде.</text>
+</string>
+<string id="jup_secret_23_name">
+    <text>Солдатська заначка</text>
+</string>
+<string id="jup_secret_23_descr">
+    <text>Перед евакуацією досліджував місцевість, і наткнувся на чийсь схрон. Чого там тільки не було! І арти, і стволи круті, і броники - це я вдало зайшов! Явно общак якоїсь крутої групи. Завтра ми йдемо у Прип'ять, командир сказав, вертушка прилетить туди. Заберу все найцінніше, а решту переховаю тут - раптом вдасться потім забрати.</text>
+</string>
+<string id="jup_secret_24_name">
+    <text>Ничка у машині</text>
+</string>
+<string id="jup_secret_24_descr">
+    <text>Після того, як пішли солдати, вирішив обстежити ЗРК. І треба ж - наткнувся на заначку, мабуть якийсь злодюга за звичкою заникав. Ну і нахріна це йому? Все одно ж не повернеться. Та й пофіг - мені зате знадобиться. Тільки переховати треба, раптом все-таки повернеться, а тут ніхто шукати не буде.</text>
+</string>
+<string id="jup_secret_25_name">
+    <text>Під мостом</text>
+</string>
+<string id="jup_secret_25_descr">
+    <text>Поки ходив-бродив по Юпітеру, знайшов багато цікавого. Тому вирішив, що треба буде сюди ще повернутися, місця тут багаті. Шкода тільки, що монстрів забагато, але на цей випадок я зроблю тут невеликий схрон зі снарягою. Зайвим не буде.</text>
+</string>
+<string id="jup_secret_26_name">
+    <text>Заначка в москвичі</text>
+</string>
+<string id="jup_secret_26_descr">
+    <text>Ось тобі і сходив у Оазис! Навіть і сам не зрозумію, як ноги-то забрав! Що там було! Та я таких тварюк і у кошмарах-то не бачив! Коротше, скину зайве в москвич, і ходу звідси! Тепер тижнів два тільки здоров'я відновлювати у Барі буду...</text>
+</string>
+<string id="jup_secret_27_name">
+    <text>Електросхованка</text>
+</string>
+<string id="jup_secret_27_descr">
+    <text>О, великий Моноліт, твоє бажання виконано! Закладено схрон зі спорядженням для братів, і радіє моє серце, що був я корисний Великому! Слався, Моноліт!</text>
+</string>
+<string id="jup_secret_29_name">
+    <text>Покинутий рюкзак</text>
+</string>
+<string id="jup_secret_29_descr">
+    <text>І смикнув мене Чорний полізти перевіряти ці зарості! Не встиг зайти, як звідти поперли якісь тварюки, і кулі їм хоч би хни! Таке враження, що самі кущі на мене полізли! Довелося валити звідти по-доброму, і рюкзак скинути ... Потім треба буде повернутися і забрати.</text>
+</string>
+<string id="jup_secret_30_name">
+    <text>Схованка у каналі</text>
+</string>
+<string id="jup_secret_30_descr">
+    <text>Вирішив дослідити підземелля Юпітера. Почну з каналу, незрозуміло звідки він іде - у цьому місці він йде під землю. Перед відходом скину тут деякі речі - стануть в нагоді, коли повернуся.</text>
+</string>
+<string id="jup_secret_31_name">
+    <text>Заначка у трубі</text>
+</string>
+<string id="jup_secret_31_descr">
+    <text>Поки блукав по території, наткнувся на чиюсь стару ничку. Нічого цінного, крім ствола - але він важкий, а я вже під зав'язку, так що просто переховаю все тут. Візьму тільки патронів малість, а інше нехай на чорний день зберігається.</text>
+</string>
+<string id="jup_secret_32_name">
+    <text>Сходовий схрон</text>
+</string>
+<string id="jup_secret_32_descr">
+    <text>Мало хто ходить на завод. Тут і монстрів дофіга, і фанатики шарятся. Саме місце для хованки з цінних хабаром. Для початку скину тут не особливо цінні речі, подивлюся, чи не знайдуть. Буде все в порядку - подумаю про поповнення.</text>
+</string>
+<string id="jup_secret_33_name">
+    <text>Запаси у столі</text>
+</string>
+<string id="jup_secret_33_descr">
+    <text>Шорсткий мені по секрету сказав, що на Юпітері є місце, де артів цінних видимо-невидимо. Вже не знаю, правда це, чи бреше - але перевірити не завадить. На всякий випадок зроблю тут невеликий склад зі стволом, а зі стоянки порожнім вийду - нехай думають, що недалеко відлучився. Якщо там і справді є цінний хабар, це допоможе заплутати сліди. Ну а ні - буде просто склад на чорний день.</text>
+</string>
+<string id="jup_secret_34_name">
+    <text>Речі біля стіни</text>
+</string>
+<string id="jup_secret_34_descr">
+    <text>Вибрався з підземель, потрапив на якийсь завод. Тиждень блукав у темноті, коли вхід у тунель обрушився. Їжа та вода давно закінчилися, вже думав, назавжди там залишуся. Мабуть, залишки речей скину тут, після такого голодування навіть автомат тягти важко. Виживу - повернуся і заберу.</text>
+</string>
+<string id="jup_secret_35_name">
+    <text>Під кущем</text>
+</string>
+<string id="jup_secret_35_descr">
+    <text>Валет зовсім оборзів, вже вимагає братві стволи на ніч здавати! Ага, щас! Тут же одні щури, тільки без ствола залишишся - поминай як звали! Коротше, буду тепер ствол свій залишати тут, а не на базі здавати. Нехай утруться! Хєр їм, а не волину!</text>
+</string>
+<string id="jup_secret_36_name">
+    <text>Схованка у металобрухті</text>
+</string>
+<string id="jup_secret_36_descr">
+    <text>Коли йшов по каналу, натрапив на пристойний склад у металобрухті. Брати щось побоявся, судячи з кількості хабара - склад серйозних людей тут. Та й зроблений грамотно - наткнувся випадково, спеціально будеш шукати - не знайдеш. Але місце я собі позначив, раптом знадобиться?</text>
+</string>
+<string id="jup_secret_37_name">
+    <text>Труба у венткомплексі</text>
+</string>
+<string id="jup_secret_37_descr">
+    <text>Кажуть, у цьому комплексі знаходиться легендарний Оазис. Звичайно, це чутки - але перевірити не завадить. Якщо він і правда внизу - це пояснює, чому ніхто з тих хто шукали Оазис тут, не повернувся. Судячи за моїми спостереженнями, саме з цих катакомб лізуть ці страхолюдні тварі з рогами і кігтищами у півруки, я і так ледве прошмигнув повз них сюди. Залишу тут ствол серйозніший, візьму його з собою, коли полізу. Сподіваюся, не помітять. Кажуть, що ці тварюки невбивні, так що, якщо попадусь - навряд чи ствол мене врятує.</text>
+</string>
+<string id="jup_secret_38_name">
+    <text>Компресор на острові</text>
+</string>
+<string id="jup_secret_38_descr">
+    <text>Біля венткомплекса наткнувся на купу якихось тварюк. Вже як і куди втік, та як пішов - не пам'ятаю. У себе прийшов тільки у фонячому селі, рюкзака немає. Тільки потім дійшло, що я його скинув, поки від тварюк драпав. Де - не пам'ятаю, єдина наводка - іржавий компресор на якомусь острові. Блін, скільки ж цінного там було...</text>
+</string>
+<string id="jup_secret_39_name">
+    <text>Ничка у ЗІЛі</text>
+</string>
+<string id="jup_secret_39_descr">
+    <text>Пахан відправив нашу бригаду хєр знає куди, на якийсь Юпітер. Ні, ну нафіга мені це? Що, у пацанів запитати, чи хочуть вони кудись шкондибати - слабо було? Ну, Тухлий, я тобі це пригадаю! Приперлися на точку, першим ділом зробив собі ничку. А то щурів всюди вистачає, не тільки речі зіпруть, так ще й перо під ребра уві сні увігнати можуть, якщо цінне щось знайдуть. Краще нехай так, більше шансів.</text>
+</string>
+<string id="jup_secret_40_name">
+    <text>Схрон недалеко</text>
+</string>
+<string id="jup_secret_40_descr">
+    <text>От же щурів розвелося - хрін щось без нагляду залишиш! Тільки поссяти відійшов - а ствола як не бувало! Ну, знайду суку - на хутра поріжу! Добре, хоч запасний був, а то хоч з малини не вилазь... Зробив тепер схрон недалеко, буду все цінне туди скидати.</text>
+</string>
+<string id="jup_secret_41_name">
+    <text>Таємне місце</text>
+</string>
+<string id="jup_secret_41_descr">
+    <text>Нещодавно бачив, як з вертолітного майданчика йшла купа військових. Походу, це ті, що з вертухи збитої врятувалися. Вирішив полазити там, раптом щось цінне знайду - і адже знайшов! Навіть і не очікував, що вони стільки всього кинуть! Хоча, з іншого боку - поранений у них був, як мінімум один. Тут не до барахла. Гаразд, найцінніше з собою візьму, а решту сховаю в тунелі - заберу пізніше.</text>
+</string>
+<string id="jup_secret_42_name">
+    <text>У купі труб</text>
+</string>
+<string id="jup_secret_42_descr">
+    <text>Та що ж таке - знову на тому ж місці на монстрів напоровся! Довелося тікати, поки цілий. Рюкзак кинути довелося ... Добре, що там тільки патрони були, та дрібниці всілякі, а то я тепер туди ні ногою.</text>
+</string>
+<string id="jup_secret_43_name">
+    <text>Під землею</text>
+</string>
+<string id="jup_secret_43_descr">
+    <text>Зробив склад з неврахованими речами недалеко від бази. Тепер буде куди скидати хабар, який з роботи приношу. Місце приховане, ніхто туди не полізе.</text>
+</string>
+<string id="jup_secret_44_name">
+    <text>Заначка за гаражами</text>
+</string>
+<string id="jup_secret_44_descr">
+    <text>За гаражами влаштував схованку. У нас хоч і взаємодопомога у загоні, але хто знає - як воно все далі повернеться? Резервний запас повинен бути завжди, так надійніше. Думаю, не знайдуть - просто так за територію бази ніхто не ходить.</text>
+</string>
+<string id="jup_secret_45_name">
+    <text>У машині</text>
+</string>
+<string id="jup_secret_45_descr">
+    <text>От блін! Нещодавно зробив схрон в одному затишному місці, хотів забрати - а там найманці базу влаштували! Що ж робити? Речі там цінні, потрібні мені терміново... Доведеться чекати тепер, поки підуть... але коли це відбудеться?</text>
+</string>
+<string id="jup_secret_46_name">
+    <text>Під верстатом</text>
+</string>
+<string id="jup_secret_46_descr">
+    <text>Якось лазив по підземеллях, і наткнувся на невідоме відгалуження. Виявилося - це вихід до головного цех заводу "Юпітер". Вихід на карту наніс, і зробив невеликий схрон зі снарягою у надійному місці. Буде тепер ще одна точка.</text>
+</string>
+<string id="jup_secret_47_name">
+    <text>Схованка біля бульдозера</text>
+</string>
+<string id="jup_secret_47_descr">
+    <text>От хто мене змушував лізти на цей завод? Адже говорили мені - нема там ніхріна, одна звірина, а я не вірив! Ось тобі і результат - ледве ноги забрав, рюкзак втратив... ніби десь біля бульдозера це було, треба буде перевірити, як можливість випаде.</text>
+</string>
+<string id="jup_secret_48_name">
+    <text>Схрон за трубою</text>
+</string>
+<string id="jup_secret_48_descr">
+    <text>Черговий схрон закладений тут, для братів наших, за велінням Моноліту! Не зрозуміти нам задуму Його, повинні тільки слідувати і виконувати!</text>
+</string>
+<string id="jup_secret_49_name">
+    <text>Схованка В92</text>
+</string>
+<string id="jup_secret_49_descr">
+    <text>Поки гуляв по Юпітеру, назбирав чимало цінного. Та стільки всього, що ледве пересувався. До інших територій з таким перевантаженням точно не добратися, а здавати зібране тут, по копійчаних цінам... Коротше, частину хабара залишу тут, потім повернуся.</text>
+</string>
+
 </string_table>

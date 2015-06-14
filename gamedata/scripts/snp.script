@@ -184,6 +184,7 @@ function checking_taken_item_snp(obj)
 
 	elseif section == "letter" then
 		alife():release(alife():object(obj:id()))
+		archievements.acv_count_event("acv_ptln", 30, "Листоноша") 
 
 	elseif string.find(section,"fli_code") then
 		if not has_alife_info("teleport_started") then

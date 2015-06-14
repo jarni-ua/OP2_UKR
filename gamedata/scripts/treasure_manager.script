@@ -441,14 +441,10 @@ function CTreasure:__init()
 		self.treasure_info[id].target		= utils.cfg_get_number(self.ini, id, "target", nil, true)
 		self.treasure_info[id].named		= utils.cfg_get_bool(self.ini, id, "named", nil, false)
 		self.treasure_info[id].name			= utils.cfg_get_string(self.ini, id, "name", nil, true, "")
-		self.treasure_info[id].description	= utils.cfg_get_string(self.ini, id, "description", nil, true, "")
-		self.treasure_info[id].items		= parse_spawns(utils.cfg_get_string(self.ini, id, "items", nil, true, ""))
-
-		if self.treasure_info[id].items == nil then
-			abort("cant find 'items' in %s", id)
-		end
-
-		self.treasure_info[id].condlist		= xr_logic.parse_condlist(db.actor, "treasure_manager", "condlist", utils.cfg_get_string(self.ini, id, "condlist", nil, true, ""))
+		-- следующее не храним постоянно в памяти, а вычитываем из конфига при необходимости
+		--self.treasure_info[id].description	= utils.cfg_get_string(self.ini, id, "description", nil, true, "")
+		--self.treasure_info[id].items		= parse_spawns(utils.cfg_get_string(self.ini, id, "items", nil, true, ""))
+		--self.treasure_info[id].condlist		= xr_logic.parse_condlist(db.actor, "treasure_manager", "condlist", utils.cfg_get_string(self.ini, id, "condlist", nil, true, ""))
 		
 		--' Отметим тайник как новый
 		self.treasure_info[id].active = false
@@ -496,18 +492,18 @@ function CTreasure:use(npc)
 	--' Нужно рандомно выбрать один из тайников.
 	local avail = {}
 	local tr_sum = 0
+	local treasure_prob
 
 	for k,v in pairs(self.treasure_info) do
 		if v.done == false and v.active == false then
-			local treasure_prob = xr_logic.pick_section_from_condlist(db.actor, npc, v.condlist)
+			--local treasure_prob = xr_logic.pick_section_from_condlist(db.actor, npc, v.condlist)
+			treasure_prob = xr_logic.pick_section_from_condlist(db.actor, npc, xr_logic.parse_condlist(db.actor, "treasure_manager", "condlist", utils.cfg_get_string(self.ini, k, "condlist", nil, true, "")))
 
 			if treasure_prob == "" or treasure_prob == nil then
 				treasure_prob = 0
 			end
 
-			if tonumber(treasure_prob) >= 0 and
-				v.active == false
-			then
+			if tonumber(treasure_prob) >= 0 and v.active == false then
 				if tonumber(treasure_prob) == 100 then
 					self:give_treasure(k)
 				else
@@ -533,7 +529,6 @@ function CTreasure:use(npc)
 			break
 		end
 	end
- 
 end
 --' Сохранение
 function CTreasure:check()
@@ -569,10 +564,14 @@ function CTreasure:give_treasure(k)
 	local v = self.treasure_info[k]
 	local obj = alife():story_object(v.target)
 	if obj ~= nil then
+		if obj:clsid() ~= clsid.inventory_box then
+			abort("Story object [%s] is not an inventory box", v.target)
+		end
+		
 		news_manager.send_treasure(v.name)
 
 		--' Пометить на карте		
-		local text = "%c[255,238,155,23]"..game.translate_string(v.name).."\\n".."%c[default]"..game.translate_string(v.description)
+		local text = "%c[255,238,155,23]"..game.translate_string(v.name).."\\n".."%c[default]"..game.translate_string(utils.cfg_get_string(self.ini, k, "description", nil, true, ""))
 --    if not level.map_has_object_spot(obj.id,"treasure") then
       level.map_add_object_spot_ser(obj.id, "treasure", text)
 --    else
@@ -583,6 +582,8 @@ function CTreasure:give_treasure(k)
 		-- если тайник не классический и не именной, то заменим содержимое
 		if amk.load_variable("option_treasure", 0) ~= 0 and v.named == false then
 		   v.items = self:give_item_list()
+		else
+			v.items = parse_spawns(utils.cfg_get_string(self.ini, k, "items", nil, true, ""))
 		end  
 		
 		--' Сгенерить вещи
@@ -635,13 +636,18 @@ function CTreasure:save(p)
 	--' Сохраняем размер таблицы
 	local size = 0
 	for k,v in pairs(self.treasure_info) do
-		size = size + 1
+		-- пишем состояние только активных тайников
+		if v.active or v.done then
+			size = size + 1
+		end
 	end
 	p:w_u16(size)
 	for k,v in pairs(self.treasure_info) do
-		p:w_u16(v.target)
-		p:w_bool(v.active)
-		p:w_bool(v.done)
+		if v.active or v.done then
+			p:w_u16(v.target)
+			p:w_bool(v.active)
+			p:w_bool(v.done)
+		end
 	end
 end
 --' Загрузка
@@ -763,15 +769,16 @@ function CTreasure:dialog(npc)
 	end
 	local avail = {}
 	local tr_sum = 0
+	local treasure_prob
+	
 	for k,v in pairs(self.treasure_info) do
 		if v.done == false and v.active == false then
-			local treasure_prob = xr_logic.pick_section_from_condlist(db.actor, npc, v.condlist)
+			--local treasure_prob = xr_logic.pick_section_from_condlist(db.actor, npc, v.condlist)
+			treasure_prob = xr_logic.pick_section_from_condlist(db.actor, npc, xr_logic.parse_condlist(db.actor, "treasure_manager", "condlist", utils.cfg_get_string(self.ini, k, "condlist", nil, true, "")))
 			if treasure_prob == "" or treasure_prob == nil then
 				treasure_prob = 0
 			end
-			if tonumber(treasure_prob) >= 0 and
-			v.active == false
-			then
+			if tonumber(treasure_prob) >= 0 and v.active == false then
 				if tonumber(treasure_prob) == 100 then
 					self:give_treasure(k)
 				else

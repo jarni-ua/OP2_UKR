@@ -199,14 +199,14 @@
 	<string id="vehicle_btr">
 		<text>БТР</text>
 	</string>
+	<string id="dog_wolf">
+		<text>Вовк</text>
+	</string>
 	<string id="wolf">
 		<text>Вульф</text>
 	</string>
 	<string id="carlic">
 		<text>Карлик</text>
-	</string>
-	<string id="vypolzen">
-		<text>Виповзень</text>
 	</string>
 	<string id="psy_dog">
 		<text>Псі-собака</text>
@@ -216,6 +216,9 @@
 	</string>
 	<string id="tushkano">
 		<text>Тушкан</text>
+	</string>
+	<string id="nosales">
+		<text>Упир</text>
 	</string>
 	<string id="rotan">
 		<text>Ротан</text>
@@ -228,6 +231,9 @@
 	</string>
 	<string id="controller">
 		<text>Контролер</text>
+	</string>
+	<string id="psyonik">
+		<text>Псіонік</text>
 	</string>
 	<string id="gigant">
 		<text>Псевдогігант</text>
@@ -246,9 +252,6 @@
 	</string>
 	<string id="poltergeist">
 		<text>Полтергейст</text>
-	</string>
-	<string id="bibliotekar">
-		<text>Бібліотекар</text>
 	</string>
 	<string id="deathclaw">
 		<text>Кіготь Смерті</text>
@@ -310,16 +313,13 @@
 	<string id="carlic_weak">
 		<text>Молодий карлик</text>
 	</string>
-	<string id="carlic1">
-		<text>Карлик</text>
-	</string>
 	<string id="carlic_strong">
 		<text>Запеклий карлик</text>
 	</string>
 	<string id="karlito">
 		<text>Псевдокарлик</text>
 	</string>
-	<string id="vypolzen1">
+	<string id="vypolzen">
 		<text>Болотний виповзень</text>
 	</string>
 	<string id="vypolzen_red">
@@ -496,7 +496,7 @@
 	<string id="polter_xray">
 		<text>Примарний полтергейст</text>
 	</string>
-	<string id="bibliotekar1">
+	<string id="bibliotekar">
 		<text>Бібліотекар</text>
 	</string>
 	<string id="bibliotekar_black">

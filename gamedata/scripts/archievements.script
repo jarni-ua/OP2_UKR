@@ -93,12 +93,24 @@ function acv_found_myself()
 	send_archievement("Той, що знайшов себе")
 end
 
+function acv_mtv()
+	send_archievement("Монтажник-висотник")
+end
+
 function acv_sol()
 	send_archievement("Солянщик")
 end
 
 function acv_kart()
 	send_archievement("Картограф")
+end
+
+function acv_kro()
+	send_archievement("Покрівельник")
+end
+
+function acv_ele()
+	send_archievement("Електрик")
 end
 
 function acv_gromov()
@@ -592,6 +604,40 @@ function on_item_take(obj)
 		send_archievement("Збройний Барон")
 	end
 
+	if not has_alife_info("acv_ynat") and 
+		db.actor:object("mutant_spider_gland") and
+		db.actor:object("mutant_rotan_heart") and
+		db.actor:object("mutant_plague_hand") and
+		db.actor:object("mutant_carlic_hand") and
+		db.actor:object("mutant_raptor_kogot") and
+		db.actor:object("mutant_zanoza_leg") and
+		db.actor:object("mutant_flesh_eye") and
+		db.actor:object("mutant_boar_leg") and
+		db.actor:object("mutant_dog_tail") and
+		db.actor:object("mutant_psevdodog_tail") and
+		db.actor:object("mutant_krovosos_jaw") and
+		db.actor:object("mutant_burer_hand") and
+		db.actor:object("mutant_zombie_hand") and
+		db.actor:object("mutant_snork_leg") and
+		db.actor:object("mutant_face_tushkano") and
+		db.actor:object("mutant_hand_kontroler") and
+		db.actor:object("mutant_poltergeist_glas") and
+		db.actor:object("mutant_psevdogigant_hand") and
+		db.actor:object("mutant_tail_cat") and
+		db.actor:object("mutant_chimera_kogot") and
+		db.actor:object("mutant_fracture_hand") and
+		db.actor:object("mutant_deathclaw_antler") and
+		db.actor:object("part_digitis_biblio") and
+		db.actor:object("mutant_vypolzen_hrebet") and
+		db.actor:object("part_tarakan") and
+		db.actor:object("part_tarakan_strong") and
+		db.actor:object("mutant_zombie_teeth") and
+		db.actor:object("mutant_spleen_rat")
+	then
+		db.actor:give_info_portion("acv_ynat")
+		send_archievement("Юний натураліст")
+	end
+
 	if has_alife_info("mm_opt") and section ~= "separator" then
 		has_cheated_item()
 	end
@@ -612,6 +658,14 @@ function on_use_item(obj)
 
 	if section == "sweetness" then
 		acv_count_event("acv_mars", 20, "Марсіанин")
+	elseif section == "suvorotka" then
+		acv_count_event("acv_nar", 20, "Наркоман")
+	elseif section == "conserva" then
+		acv_count_event("acv_kons", 40, "Консерватор")
+	elseif section == "kolbasa" then
+		acv_count_event("acv_klb", 40, "Ковбасник")
+	elseif section == "bread" then
+		acv_count_event("acv_bul", 40, "Булочник")
 	end
 end
 
