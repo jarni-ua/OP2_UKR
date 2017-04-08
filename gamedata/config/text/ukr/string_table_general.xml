@@ -1,465 +1,798 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="informer_recipt1">
-    <text>От загнув... Ти з кількістю нулів нічого не переплутав? Гаразд, ось тобі гроші, сподіваюся, що рецепт вартий того. Давай, закачуй інфу.</text>
-  </string>
-  <string id="informer_recipt2">
-    <text>Згоден.</text>
-  </string>
-  <string id="alenka_info">
-    <text>Не вбивай! Мене там Оленка чекає... Є у мене для тебе інформація. Знаєш, я там, на базі нашій, писарем служив: сидів за комп'ютером, з документами і звітами возився. А потім, коли вашого брата сталкера кожен день стали наші перці гробити, несила стало! Гидко... Ну, гаразд, не про це зараз. Я там один файл прочитав випадково... Ну, як випадково... Загалом, повозитися з кодом довелося, поки хакнув... Копіювати не став, але запам'ятав дуже добре. Там був звіт яйцеголових про зміну артефактів в аномаліях! Прикидаєш! Так в цьому файлі говорилося, що якщо взяти якийсь ме... мезо чогось там... під назвою "Намисто прабабці" - дебільна назва, відразу запам'яталося, тільки не питай що це, навіть не уявляю - і покласти в "Карусель", то через десять, по-моєму, хвилин вийде інший артефакт! Ну, як інший... Той же самий, тільки у нього властивості поміняються. Він якесь поле випромінює, все що швидко летить потрапляючи в нього, гальмує відчутно. Я подумав: "Це значить і кулі!" Ще він кров, типу, зупиняє, здоров'я покращує, тільки фонить. Ось. Сподіваюся, тобі ця інформація допоможе більше, ніж мені... І вона вартує мого житті... Не вбивай, Мічений, а?</text>
-  </string>
-  <string id="new_prizrak_document1_name">
-    <text>Книга з Саркофагу №1.</text>
-  </string>
-  <string id="new_prizrak_document1_desc">
-    <text>Книга з Саркофагу №1. Записки монолітівця том перший.</text>
-  </string>
-  <string id="new_prizrak_document2_name">
-    <text>Книга з Саркофагу №2.</text>
-  </string>
-  <string id="new_prizrak_document2_desc">
-    <text>Книга з Саркофагу №2. Записки монолітівця том другий.</text>
-  </string>
-  <string id="new_prizrak_document3_name">
-    <text>Книга з Саркофагу №3.</text>
-  </string>
-  <string id="new_prizrak_document3_desc">
-    <text>Книга з Саркофагу №3. Записки монолітівця том третій.</text>
-  </string>
-  <string id="plan_document_name">
-    <text>Детальний план бункера на Радарі.</text>
-  </string>
-  <string id="plan_document_desc">
-    <text>Детальний план бункера на Радарі. На ньому відзначений старий прохід до Саркофагу.</text>
-  </string>
-  <string id="gold_art_name">
-    <text>Золотий Шмат.</text>
-  </string>
-  <string id="gold_art_desc">
-    <text>Особливий різновид "Шмата М'яса". Можна зустріти тільки поблизу ЧАЕС. Крім достоїнств і недоліків "Шмата м'яса", має ряд своїх позитивних властивостей. Зокрема, захищає від хімічних опіків і додає невеликий телепатичний захист.</text>
-  </string>
-  <string id="voen_pda_name">
-    <text>КПК спецназівця Андрія.</text>
-  </string>
-  <string id="voen_pda_desc">
-    <text>КПК спецназівця Андрія, що вимагає серйозного ремонту.</text>
-  </string>
-  <string id="siv_pda_name">
-    <text>КПК найманця Сивого.</text>
-  </string>
-  <string id="siv_pda_desc">
-    <text>КПК найманця Сивого, в ньому його особистий щоденник.</text>
-  </string>
-  <string id="ara_flash_name">
-    <text>Флешка найманця Ари.</text>
-  </string>
-  <string id="ara_flash_desc">
-    <text>Флешка найманця Ари, на ній його особистий щоденник.</text>
-  </string>
-  <string id="fraer_pda_name">
-    <text>КПК Фраєра.</text>
-  </string>
-  <string id="fraer_pda_desc">
-    <text>КПК Фраєра, в ньому його особистий щоденник.</text>
-  </string>
-  <string id="bandranen_pda_name">
-    <text>КПК пораненого бандита.</text>
-  </string>
-  <string id="bandranen_pda_desc">
-    <text>КПК пораненого бандита зі Звалища.</text>
-  </string>
-  <string id="voen_document_name">
-    <text>Записка військового.</text>
-  </string>
-  <string id="voen_document_desc">
-    <text>Записка військового, вся в крові, місцями від води і крові потекло чорнило.</text>
-  </string>
-  <string id="sysh_document_name">
-    <text>Записка Сича.</text>
-  </string>
-  <string id="sysh_document_desc">
-    <text>Записка Сича, адресована Привидові.</text>
-  </string>
-  <string id="sysh_flash_name">
-    <text>Флешка Сича.</text>
-  </string>
-  <string id="sysh_flash_desc">
-    <text>Флешка Сича, на ній інфа про схрон в Х-10.</text>
-  </string>
-  <string id="inventory_new_box_name">
-    <text>Металевий ящик з замком.</text>
-  </string>
-  <string id="inventory_new_box_desc">
-    <text>Металевий ящик з кодовим замком. Доведеться помучитися.</text>
-  </string>
-  <string id="item_sniper_flash_name">
-    <text>Флешка Звіра.</text>
-  </string>
-  <string id="item_sniper_flash_desc">
-    <text>Флешка Звіра. Список людей, яких замовили. Стрілець - перший у списку.</text>
-  </string>
-  <string id="new_document_sniper_name">
-    <text>Документи Звіра</text>
-  </string>
-  <string id="new_document_sniper_desc">
-    <text>Документи Звіра. Список людей, з якими спілкувався Звір. Правда, все зашифровано, так що Привидові доведеться попітніти, перш ніж він зможе його прочитати.</text>
-  </string>
-  <string id="item_computer_new_name">
-    <text>Комп'ютер з Х-18</text>
-  </string>
-  <string id="item_computer_new_desc">
-    <text>Комп'ютер з Х-18. Застарий, звичайно, але зате працює.</text>
-  </string>
-  <string id="item_nauch_flash_name">
-    <text>Флешка вчених</text>
-  </string>
-  <string id="item_nauch_flash_desc">
-    <text>Флешка вчених. Графіки, цифри, діаграми. Ні... одному мені цього не зрозуміти.</text>
-  </string>
-  <string id="item_notebook_new_name">
-    <text>Ноутбук Архари</text>
-  </string>
-  <string id="item_notebook_new_desc">
-    <text>Ноутбук Архари. У хорошому стані, ні єдиної подряпини. Вхід запаролено.</text>
-  </string>
-  <string id="pda_priz_name">
-    <text>КПК Привида</text>
-  </string>
-  <string id="pda_priz_desc">
-    <text>КПК Привида. У ньому різні дані по артефактах та місцях їх появи. Також, згадується розгром угрупування "Останній день" і вбивство її лідера. Є трохи інформації про Клика і Cтрільця. Дані зашифровані.</text>
-  </string>
-  <string id="new_book_prizrak_name">
-    <text>Щоденник Привида</text>
-  </string>
-  <string id="new_book_prizrak_desc">
-    <text>Щоденник Привида. Сильно потертий, майже на всіх сторінках потекли чорнила.</text>
-  </string>
-  <string id="new_book_name">
-    <text>Нотатки Архари</text>
-  </string>
-  <string id="new_book_desc">
-    <text>Нотатки Архари. Цифри, цифри... Нічого не розумію... Везе ж знаючим матан..</text>
-  </string>
-  <string id="item_pda_tiran_name">
-    <text>КПК Тирана</text>
-  </string>
-  <string id="item_pda_tiran_desc">
-    <text>У КПК ньому різні суми, рахунки, записи, згадуються якісь клички, імена.</text>
-  </string>
-  <string id="item_pda_lucky_name">
-    <text>КПК Болта</text>
-  </string>
-  <string id="item_pda_lucky_desc">
-    <text>У КПК ньому зберігається листування Болта і його спільників.</text>
-  </string>
-  <string id="item_case_freeman_name">
-    <text>Кейс Фрімена</text>
-  </string>
-  <string id="item_case_freeman_desc">
-    <text>У кейсі зберігаються документи Фрімена, якісь фотографії, все англійською мовою.</text>
-  </string>
-  <string id="item_lab_x10_documents_name">
-    <text>Документи з лабораторії Х-10</text>
-  </string>
-  <string id="item_lab_x10_documents_desc">
-    <text>Різні дані про угруповання "Моноліт", і, що особливо важливо, є карта, де відзначені можливі шляхи проходу до самого Моноліту. Приблизна кількість охорони в самому саркофазі, вказується час зміни варти, можливі перешкоди на шляху до Моноліту і т.д.</text>
-  </string>
-  <string id="item_bland_flash_name">
-    <text>Флешка Бленда</text>
-  </string>
-  <string id="item_bland_flash_desc">
-    <text>На цій флешці - ретельно підготовлений план захоплення ЧАЕС і вивіз Моноліту.</text>
-  </string>
-  <string id="enc_recipts">
-    <text>Рецепти</text>
-  </string>
-  <string id="esc_dan_name">
-    <text>Ден</text>
-  </string>
-  <string id="actor">
-    <text>Одинак</text>
-  </string>
-  <string id="actor_dolg">
-    <text>«Долг»</text>
-  </string>
-  <string id="actor_freedom">
-    <text>«Воля»</text>
-  </string>
-  <string id="arena_enemy">
-    <text>Найманець</text>
-  </string>
-  <string id="lastday">
-    <text>Останній день</text>
-  </string>
-  <string id="fotoman">
-    <text>Матриця активована</text>
-  </string>
-  <string id="bad">
-    <text>погано</text>
-  </string>
-  <string id="sniper">
-    <text>Месник</text>
-  </string>
-  <string id="green">
-    <text>Мисливець</text>
-  </string>
-  <string id="bandit">
-    <text>Бандит</text>
-  </string>
-  <string id="dolg">
-    <text>«Долг»</text>
-  </string>
-  <string id="ecolog">
-    <text>Еколог</text>
-  </string>
-  <string id="enemy">
-    <text>ворог</text>
-  </string>
-  <string id="excellent">
-    <text>відмінно</text>
-  </string>
-  <string id="exo_outfit_name_m1">
-    <text>Екзоскелет ПНБ-4УЗ</text>
-  </string>
-  <string id="experienced">
-    <text>досвідчений</text>
-  </string>
-  <string id="Found_PDA">
-    <text>Знайдені КПК</text>
-  </string>
-  <string id="freedom">
-    <text>«Воля»</text>
-  </string>
-  <string id="friendly">
-    <text>друг</text>
-  </string>
-  <string id="good">
-    <text>добре</text>
-  </string>
-  <string id="indifferent">
-    <text>нейтрал</text>
-  </string>
-  <string id="killer">
-    <text>Найманець</text>
-  </string>
-  <string id="l01_escape">
-    <text>Кордон</text>
-  </string>
-  <string id="l02_garbage">
-    <text>Звалище</text>
-  </string>
-  <string id="l03_agroprom">
-    <text>НДІ «Агропром»</text>
-  </string>
-  <string id="l04_darkvalley">
-    <text>Темна долина</text>
-  </string>
-  <string id="l05_bar">
-    <text>Бар</text>
-  </string>
-  <string id="l06_rostok">
-    <text>Дика територія</text>
-  </string>
-  <string id="l07_military">
-    <text>Армійські склади</text>
-  </string>
-  <string id="l08_yantar">
-    <text>Янтар</text>
-  </string>
-  <string id="l10_radar">
-    <text>Радар</text>
-  </string>
-  <string id="l11_pripyat">
-    <text>Центральна Прип'ять</text>
-  </string>
-  <string id="l12_stancia">
-    <text>ЧАЕС-1</text>
-  </string>
-  <string id="l12_stancia_2">
-    <text>ЧАЕС-2</text>
-  </string>
-  <string id="master">
-    <text>майстер</text>
-  </string>
-  <string id="military">
-    <text>Військовий</text>
-  </string>
-  <string id="monolith">
-    <text>«Моноліт»</text>
-  </string>
-  <string id="neutral">
-    <text>нейтрал</text>
-  </string>
-  <string id="novice">
-    <text>новачок</text>
-  </string>
-  <string id="st_no_active_task">
-    <text>Немає активного завдання</text>
-  </string>
-  <string id="st_time_till_surge">
-    <text>Час до викиду</text>
-  </string>
-<string id="st_time_kvest_proval">
-    <text>Час до провалення завдання</text>
-  </string>
-<string id="st_time_smert">
-    <text>Час до загибелі</text>
-  </string>
-<string id="st_time_kvest_done">
-    <text>Таймер скинуто. Рація знайдена.</text>
-  </string>
-  <string id="stalker">
-    <text>Одинак</text>
-  </string>
-  <string id="terrible">
-    <text>жахливо</text>
-  </string>
-  <string id="trader">
-    <text>Крамар</text>
-  </string>
-  <string id="ui_st_community">
-    <text>група</text>
-  </string>
-  <string id="ui_st_price">
-    <text>ціна</text>
-  </string>
-  <string id="ui_st_rank">
-    <text>ранг</text>
-  </string>
-  <string id="ui_st_relation">
-    <text>ставлення</text>
-  </string>
-  <string id="ui_st_reputation">
-    <text>репутація</text>
-  </string>
-  <string id="very_bad">
-    <text>дуже погано</text>
-  </string>
-  <string id="very_good">
-    <text>дуже добре</text>
-  </string>
-  <string id="veteran">
-    <text>ветеран</text>
-  </string>
-  <string id="zombied">
-    <text>Зомбі</text>
-  </string>
-  <string id="Btn_Cancel">
-    <text>Відмінити</text>
-  </string>
-  <string id="Btn_No">
-    <text>Ні</text>
-  </string>
-  <string id="Btn_OK">
-    <text>OK</text>
-  </string>
-  <string id="Btn_Yes">
-    <text>Так</text>
-  </string>
-  <string id="global_map">
-    <text>Карта Зони</text>
-  </string>
-  <string id="st_autosave">
-    <text>Автозбереження...</text>
-  </string>
-  <string id="st_game_over">
-    <text>Ви загинули</text>
-  </string>
-  <string id="st_item_used">
-    <text>Використано</text>
-  </string>
-  <string id="st_not_enough_money">
-    <text>Не вистачає грошей</text>
-  </string>
-  <string id="st_not_enough_money_npc">
-    <text>у НПС недостатньо грошей</text>
-  </string>
-  <string id="ui_st_opponent_items">
-    <text>Рюкзак</text>
-  </string>
-  <string id="st_search_treasure">
-    <text>Обшукати</text>
-  </string>
-  <string id="inventory_item_use">
-    <text>Підняти</text>
-  </string>
-  <string id="ui_mm_check_updates">
-    <text>Оновити</text>
-  </string>
-  <string id="ui_mm_alternative">
-    <text>Альтернатива</text>
-  </string>
-  <string id="ui_inv_health">
-    <text>Здоров'я</text>
-  </string>
-  <string id="ui_inv_radiation">
-    <text>Радіація</text>
-  </string>
-  <string id="ui_inv_satiety">
-    <text>Ситість</text>
-  </string>
-  <string id="ui_inv_power">
-    <text>Витривалість</text>
-  </string>
-  <string id="ui_inv_bleeding">
-    <text>Кровотеча</text>
-  </string>
-  <string id="st_mp_say_to_all">
-    <text>Усім</text>
-  </string>
-  <string id="st_mp_say_to_team">
-    <text>Команді</text>
-  </string>
-  <string id="st_knife">
-    <text>Ніж</text>
-  </string>
-  <string id="st_mp_disabled_voting">
-    <text>Голосування недоступне на цьому сервері</text>
-  </string>
-  <string id="st_mp_no_current_voting">
-    <text>Зараз немає активних голосувань</text>
-  </string>
-  <string id="st_mp_ready">
-    <text>Готовий</text>
-  </string>
-  <string id="st_mp_voting_succeed">
-    <text>Голосування успішне!</text>
-  </string>
-  <string id="st_mp_voting_failed">
-    <text>Голосування провалене!</text>
-  </string>
-  <string id="l03u_agr_underground">
-    <text>Підземелля Агропрома</text>
-  </string>
-  <string id="l04u_labx18">
-    <text>Лабораторія X-18</text>
-  </string>
-  <string id="l08u_brainlab">
-    <text>Лабораторія X-16</text>
-  </string>
-  <string id="l10u_bunker">
-    <text>Лабораторія X-10</text>
-  </string>
-  <string id="l12u_sarcofag">
-    <text>Саркофаг</text>
-  </string>
-  <string id="l12u_control_monolith">
-    <text>Управління Монолітом</text>
-  </string>
-  <string id="enc_saharov_about_klik_text">
-		<text>Сахаров мало що знає про смерть Клика і рекомендує поговорити з Вороніним.</text>
-     </string>
-     <string id="saharov_begin">
-		<text>Сахаров: Початок розслідування</text>
-     </string>
-     <string id="poisk">
-		<text>Розслідування</text>
-     </string>
-      <string id="enc_voronin_about_klik_text">
-		<text>По словам Вороніна, Клик якось перетинався з найманцями. Рекомендує завітати до інформатора. У того мають бути зв'язки з найманцями. Можливо від нього я зможу дізнатись більше.</text>
-     </string>
-     <string id="voronin_begin">
-		<text>Воронін: Розслідування продовжується</text>
-     </string>
+	<string id="informer_recipt1">
+		<text>Эк загнул! Ты с количеством нулей ничего не перепутал? Ладно, вот тебе деньги, надеюсь, что рецепт стоит того. Давай, закачивай инфу.</text>
+		<eng>Эк загнул! Ты с количеством нулей ничего не перепутал? Ладно, вот тебе деньги, надеюсь, что рецепт стоит того. Давай, закачивай инфу.</eng>
+		<ukr>От загнув... Ти з кількістю нулів нічого не переплутав? Гаразд, ось тобі гроші, сподіваюся, що рецепт вартий того. Давай, закачуй інфу.</ukr>
+	</string>
+	<string id="informer_recipt2">
+		<text>Согласен.</text>
+		<eng>Согласен.</eng>
+		<ukr>Згоден.</ukr>
+	</string>
+	<string id="alenka_info">
+		<text>Не убивай! Меня там Алёнка ждёт... Есть у меня для тебя информация. Знаешь, я там, на базе нашей, писарем служил: сидел за компьютером, с документами и отчётами возился. А потом, когда вашего брата сталкера каждый день стали наши перцы гробить, невмоготу стало! Противно... Ну, ладно, не об этом сейчас. Я там один файл прочитал случайно. Ну, как случайно... В общем, повозиться с кодом пришлось, пока хакнул... Копировать не стал, но запомнил накрепко. Там был отчёт яйцеголовых об изменении артефактов в аномалиях! Прикидываешь! Так в этом файле говорилось, что если взять какой-то ме... мезо чего-то там... под названием "Бусы прабабки" - дебильное название, сразу запомнилось, только не спрашивай что это, даже не представляю - и положить в "Карусель", то через десять, по-моему, минут получится другой артефакт! Ну, как другой... Тот же самый, только у него свойства поменяются. Он какое-то поле излучает, всё быстро летящее, что попадает в него, тормозит ощутимо. Я подумал: "Это значит и пули!" Ещё он кровь, типа, останавливает, здоровье улучшает, только лучится. Вот. Надеюсь, тебе эта информация поможет больше, чем мне... И она стоит моей жизни... Не убивай, Меченый, а?</text>
+		<eng>Не убивай! Меня там Алёнка ждёт... Есть у меня для тебя информация. Знаешь, я там, на базе нашей, писарем служил: сидел за компьютером, с документами и отчётами возился. А потом, когда вашего брата сталкера каждый день стали наши перцы гробить, невмоготу стало! Противно... Ну, ладно, не об этом сейчас. Я там один файл прочитал случайно. Ну, как случайно... В общем, повозиться с кодом пришлось, пока хакнул... Копировать не стал, но запомнил накрепко. Там был отчёт яйцеголовых об изменении артефактов в аномалиях! Прикидываешь! Так в этом файле говорилось, что если взять какой-то ме... мезо чего-то там... под названием "Бусы прабабки" - дебильное название, сразу запомнилось, только не спрашивай что это, даже не представляю - и положить в "Карусель", то через десять, по-моему, минут получится другой артефакт! Ну, как другой... Тот же самый, только у него свойства поменяются. Он какое-то поле излучает, всё быстро летящее, что попадает в него, тормозит ощутимо. Я подумал: "Это значит и пули!" Ещё он кровь, типа, останавливает, здоровье улучшает, только лучится. Вот. Надеюсь, тебе эта информация поможет больше, чем мне... И она стоит моей жизни... Не убивай, Меченый, а?</eng>
+		<ukr>Не вбивай! Мене там Оленка чекає... Є у мене для тебе інформація. Знаєш, я там, на базі нашій, писарем служив: сидів за комп'ютером, з документами і звітами возився. А потім, коли вашого брата сталкера кожен день стали наші перці гробити, несила стало! Гидко... Ну, гаразд, не про це зараз. Я там один файл прочитав випадково... Ну, як випадково... Загалом, повозитися з кодом довелося, поки хакнув... Копіювати не став, але запам'ятав дуже добре. Там був звіт яйцеголових про зміну артефактів в аномаліях! Прикидаєш! Так в цьому файлі говорилося, що якщо взяти якийсь ме... мезо чогось там... під назвою "Намисто прабабці" - дебільна назва, відразу запам'яталося, тільки не питай що це, навіть не уявляю - і покласти в "Карусель", то через десять, по-моєму, хвилин вийде інший артефакт! Ну, як інший... Той же самий, тільки у нього властивості поміняються. Він якесь поле випромінює, все що швидко летить потрапляючи в нього, гальмує відчутно. Я подумав: "Це значить і кулі!" Ще він кров, типу, зупиняє, здоров'я покращує, тільки фонить. Ось. Сподіваюся, тобі ця інформація допоможе більше, ніж мені... І вона вартує мого житті... Не вбивай, Мічений, а?</ukr>
+	</string>
+	<string id="new_prizrak_document1_name">
+		<text>Книга из Саркофага №1</text>
+		<eng>Книга из Саркофага №1</eng>
+		<ukr>Книга з Саркофагу №1.</ukr>
+	</string>
+	<string id="new_prizrak_document1_desc">
+		<text>Книга из Саркофага №1. Записки монолитовца, том первый.</text>
+		<eng>Книга из Саркофага №1. Записки монолитовца, том первый.</eng>
+		<ukr>Книга з Саркофагу №1. Записки монолітівця том перший.</ukr>
+	</string>
+	<string id="new_prizrak_document2_name">
+		<text>Книга из Саркофага №2</text>
+		<eng>Книга из Саркофага №2</eng>
+		<ukr>Книга з Саркофагу №2.</ukr>
+	</string>
+	<string id="new_prizrak_document2_desc">
+		<text>Книга из Саркофага №2. Записки монолитовца, том второй.</text>
+		<eng>Книга из Саркофага №2. Записки монолитовца, том второй.</eng>
+		<ukr>Книга з Саркофагу №2. Записки монолітівця том другий.</ukr>
+	</string>
+	<string id="new_prizrak_document3_name">
+		<text>Книга из Саркофага №3</text>
+		<eng>Книга из Саркофага №3</eng>
+		<ukr>Книга з Саркофагу №3.</ukr>
+	</string>
+	<string id="new_prizrak_document3_desc">
+		<text>Книга из Саркофага №3. Записки монолитовца, том третий.</text>
+		<eng>Книга из Саркофага №3. Записки монолитовца, том третий.</eng>
+		<ukr>Книга з Саркофагу №3. Записки монолітівця том третій.</ukr>
+	</string>
+	<string id="plan_document_name">
+		<text>Детальный план бункера на Радаре</text>
+		<eng>Детальный план бункера на Радаре</eng>
+		<ukr>Детальний план бункера на Радарі.</ukr>
+	</string>
+	<string id="plan_document_desc">
+		<text>Детальный план бункера на Радаре. На нём отмечен старый проход к Саркофагу.</text>
+		<eng>Детальный план бункера на Радаре. На нём отмечен старый проход к Саркофагу.</eng>
+		<ukr>Детальний план бункера на Радарі. На ньому відзначений старий прохід до Саркофагу.</ukr>
+	</string>
+	<string id="gold_art_name">
+		<text>"Золотой ломоть"</text>
+		<eng>"Золотой ломоть"</eng>
+		<ukr>Золотий Шмат.</ukr>
+	</string>
+	<string id="gold_art_desc">
+		<text>Особая разновидность "Ломтя мяса". Можно встретить только вблизи ЧАЭС. Кроме достоинств и недостатков "Ломтя мяса", имеет ряд своих положительных свойств. В частности, защищает от химических ожогов и добавляет небольшую телепатическую защиту.</text>
+		<eng>Особая разновидность "Ломтя мяса". Можно встретить только вблизи ЧАЭС. Кроме достоинств и недостатков "Ломтя мяса", имеет ряд своих положительных свойств. В частности, защищает от химических ожогов и добавляет небольшую телепатическую защиту.</eng>
+		<ukr>Особливий різновид "Шмата М'яса". Можна зустріти тільки поблизу ЧАЕС. Крім достоїнств і недоліків "Шмата м'яса", має ряд своїх позитивних властивостей. Зокрема, захищає від хімічних опіків і додає невеликий телепатичний захист.</ukr>
+	</string>
+	<string id="voen_pda_name">
+		<text>ПДА спецназовца Андрея</text>
+		<eng>ПДА спецназовца Андрея</eng>
+		<ukr>КПК спецназівця Андрія.</ukr>
+	</string>
+	<string id="voen_pda_desc">
+		<text>ПДА спецназовца Андрея, требующий серьёзного ремонта.</text>
+		<eng>ПДА спецназовца Андрея, требующий серьёзного ремонта.</eng>
+		<ukr>КПК спецназівця Андрія, що вимагає серйозного ремонту.</ukr>
+	</string>
+	<string id="siv_pda_name">
+		<text>ПДА наёмника Сивого</text>
+		<eng>ПДА наёмника Сивого</eng>
+		<ukr>КПК найманця Сивого.</ukr>
+	</string>
+	<string id="siv_pda_desc">
+		<text>ПДА наёмника Сивого, в нём его личный дневник.</text>
+		<eng>ПДА наёмника Сивого, в нём его личный дневник.</eng>
+		<ukr>КПК найманця Сивого, в ньому його особистий щоденник.</ukr>
+	</string>
+	<string id="ara_flash_name">
+		<text>Флешка наёмника Ары</text>
+		<eng>Флешка наёмника Ары</eng>
+		<ukr>Флешка найманця Ари.</ukr>
+	</string>
+	<string id="ara_flash_desc">
+		<text>Флешка наёмника Ары, на ней его личный дневник.</text>
+		<eng>Флешка наёмника Ары, на ней его личный дневник.</eng>
+		<ukr>Флешка найманця Ари, на ній його особистий щоденник.</ukr>
+	</string>
+	<string id="fraer_pda_name">
+		<text>ПДА Фраера</text>
+		<eng>ПДА Фраера</eng>
+		<ukr>КПК Фраєра.</ukr>
+	</string>
+	<string id="fraer_pda_desc">
+		<text>ПДА Фраера, в нём его личный дневник.</text>
+		<eng>ПДА Фраера, в нём его личный дневник.</eng>
+		<ukr>КПК Фраєра, в ньому його особистий щоденник.</ukr>
+	</string>
+	<string id="bandranen_pda_name">
+		<text>ПДА раненого бандита</text>
+		<eng>ПДА раненого бандита</eng>
+		<ukr>КПК пораненого бандита.</ukr>
+	</string>
+	<string id="bandranen_pda_desc">
+		<text>ПДА раненого бандита со Свалки.</text>
+		<eng>ПДА раненого бандита со Свалки.</eng>
+		<ukr>КПК пораненого бандита зі Звалища.</ukr>
+	</string>
+	<string id="voen_document_name">
+		<text>Записка военного</text>
+		<eng>Записка военного</eng>
+		<ukr>Записка військового.</ukr>
+	</string>
+	<string id="voen_document_desc">
+		<text>Записка военного, вся в крови, местами от воды и крови потекли чернила.</text>
+		<eng>Записка военного, вся в крови, местами от воды и крови потекли чернила.</eng>
+		<ukr>Записка військового, вся в крові, місцями від води і крові потекло чорнило.</ukr>
+	</string>
+	<string id="sysh_document_name">
+		<text>Записка Сыча</text>
+		<eng>Записка Сыча</eng>
+		<ukr>Записка Сича.</ukr>
+	</string>
+	<string id="sysh_document_desc">
+		<text>Записка Сыча, адресованная Призраку.</text>
+		<eng>Записка Сыча, адресованная Призраку.</eng>
+		<ukr>Записка Сича, адресована Привидові.</ukr>
+	</string>
+	<string id="sysh_flash_name">
+		<text>Флешка Сыча</text>
+		<eng>Флешка Сыча</eng>
+		<ukr>Флешка Сича.</ukr>
+	</string>
+	<string id="sysh_flash_desc">
+		<text>Флешка Сыча, на ней инфа о схроне в Х-10.</text>
+		<eng>Флешка Сыча, на ней инфа о схроне в Х-10.</eng>
+		<ukr>Флешка Сича, на ній інфа про схрон в Х-10.</ukr>
+	</string>
+	<string id="inventory_new_box_name">
+		<text>Металлический ящик с замком</text>
+		<eng>Металлический ящик с замком</eng>
+		<ukr>Металевий ящик з замком.</ukr>
+	</string>
+	<string id="inventory_new_box_desc">
+		<text>Металлический ящик с кодовым замком. Придётся помучиться.</text>
+		<eng>Металлический ящик с кодовым замком. Придётся помучиться.</eng>
+		<ukr>Металевий ящик з кодовим замком. Доведеться помучитися.</ukr>
+	</string>
+	<string id="item_sniper_flash_name">
+		<text>Флешка Зверя</text>
+		<eng>Флешка Зверя</eng>
+		<ukr>Флешка Звіра.</ukr>
+	</string>
+	<string id="item_sniper_flash_desc">
+		<text>На флешке список людей, которых заказали. Стрелок - первый в списке.</text>
+		<eng>На флешке список людей, которых заказали. Стрелок - первый в списке.</eng>
+		<ukr>Флешка Звіра. Список людей, яких замовили. Стрілець - перший у списку.</ukr>
+	</string>
+	<string id="new_document_sniper_name">
+		<text>Документы Зверя</text>
+		<eng>Документы Зверя</eng>
+		<ukr>Документи Звіра</ukr>
+	</string>
+	<string id="new_document_sniper_desc">
+		<text>В документах список людей, с которыми общался Зверь. Правда, всё зашифровано, так что Призраку придётся попотеть, прежде чем он сможет его прочесть.</text>
+		<eng>В документах список людей, с которыми общался Зверь. Правда, всё зашифровано, так что Призраку придётся попотеть, прежде чем он сможет его прочесть.</eng>
+		<ukr>Документи Звіра. Список людей, з якими спілкувався Звір. Правда, все зашифровано, так що Привидові доведеться попітніти, перш ніж він зможе його прочитати.</ukr>
+	</string>
+	<string id="item_computer_new_name">
+		<text>Компьютер из Х-18</text>
+		<eng>Компьютер из Х-18</eng>
+		<ukr>Комп'ютер з Х-18</ukr>
+	</string>
+	<string id="item_computer_new_desc">
+		<text>Компьютер из Х-18. Староват, конечно, но зато работает.</text>
+		<eng>Компьютер из Х-18. Староват, конечно, но зато работает.</eng>
+		<ukr>Комп'ютер з Х-18. Застарий, звичайно, але зате працює.</ukr>
+	</string>
+	<string id="item_nauch_flash_name">
+		<text>Флешка учёных</text>
+		<eng>Флешка учёных</eng>
+		<ukr>Флешка вчених</ukr>
+	</string>
+	<string id="item_nauch_flash_desc">
+		<text>На флешке графики, цифры, диаграммы. Нет... одному мне этого не понять.</text>
+		<eng>На флешке графики, цифры, диаграммы. Нет... одному мне этого не понять.</eng>
+		<ukr>Флешка вчених. Графіки, цифри, діаграми. Ні... одному мені цього не зрозуміти.</ukr>
+	</string>
+	<string id="item_notebook_new_name">
+		<text>Ноутбук Архары</text>
+		<eng>Ноутбук Архары</eng>
+		<ukr>Ноутбук Архари</ukr>
+	</string>
+	<string id="item_notebook_new_desc">
+		<text>Ноутбук в хорошем состоянии, ни единой царапины. Вход запаролен.</text>
+		<eng>Ноутбук в хорошем состоянии, ни единой царапины. Вход запаролен.</eng>
+		<ukr>Ноутбук Архари. У хорошому стані, ні єдиної подряпини. Вхід запаролено.</ukr>
+	</string>
+	<string id="pda_priz_name">
+		<text>ПДА Призрака</text>
+		<eng>ПДА Призрака</eng>
+		<ukr>КПК Привида</ukr>
+	</string>
+	<string id="pda_priz_desc">
+		<text>В ПДА различные данные по артефактам и местам их появления. Также, упоминается разгром группировки Последний День и убийство её лидера. Есть немного информации о Клыке и Стрелке. Данные зашифрованы.</text>
+		<eng>В ПДА различные данные по артефактам и местам их появления. Также, упоминается разгром группировки Последний День и убийство её лидера. Есть немного информации о Клыке и Стрелке. Данные зашифрованы.</eng>
+		<ukr>КПК Привида. У ньому різні дані по артефактах та місцях їх появи. Також, згадується розгром угрупування "Останній день" і вбивство її лідера. Є трохи інформації про Клика і Cтрільця. Дані зашифровані.</ukr>
+	</string>
+	<string id="new_book_prizrak_name">
+		<text>Дневник Призрака</text>
+		<eng>Дневник Призрака</eng>
+		<ukr>Щоденник Привида</ukr>
+	</string>
+	<string id="new_book_prizrak_desc">
+		<text>Дневник сильно потёрт, почти на всех страницах потекли чернила.</text>
+		<eng>Дневник сильно потёрт, почти на всех страницах потекли чернила.</eng>
+		<ukr>Щоденник Привида. Сильно потертий, майже на всіх сторінках потекли чорнила.</ukr>
+	</string>
+	<string id="new_book_name">
+		<text>Записная книжка Архары</text>
+		<eng>Записная книжка Архары</eng>
+		<ukr>Нотатки Архари</ukr>
+	</string>
+	<string id="new_book_desc">
+		<text>Цифры, цифры... Ничего не понимаю... Везёт же знающим матан.</text>
+		<eng>Цифры, цифры... Ничего не понимаю... Везёт же знающим матан.</eng>
+		<ukr>Нотатки Архари. Цифри, цифри... Нічого не розумію... Везе ж знаючим матан..</ukr>
+	</string>
+	<string id="item_pda_tiran_name">
+		<text>ПДА Тирана</text>
+		<eng>ПДА Тирана</eng>
+		<ukr>КПК Тирана</ukr>
+	</string>
+	<string id="item_pda_tiran_desc">
+		<text>В ПДА различные суммы, счета, записи, упоминаются какие-то клички, имена.</text>
+		<eng>В ПДА различные суммы, счета, записи, упоминаются какие-то клички, имена.</eng>
+		<ukr>У КПК ньому різні суми, рахунки, записи, згадуються якісь клички, імена.</ukr>
+	</string>
+	<string id="item_pda_lucky_name">
+		<text>ПДА Болта</text>
+		<eng>ПДА Болта</eng>
+		<ukr>КПК Болта</ukr>
+	</string>
+	<string id="item_pda_lucky_desc">
+		<text>В ПДА хранится переписка Болта и его сообщников.</text>
+		<eng>В ПДА хранится переписка Болта и его сообщников.</eng>
+		<ukr>У КПК ньому зберігається листування Болта і його спільників.</ukr>
+	</string>
+	<string id="item_case_freeman_name">
+		<text>Кейс Фримена</text>
+		<eng>Кейс Фримена</eng>
+		<ukr>Кейс Фрімена</ukr>
+	</string>
+	<string id="item_case_freeman_desc">
+		<text>В кейсе хранятся документы Фримена, какие-то фотографии, всё на английском языке.</text>
+		<eng>В кейсе хранятся документы Фримена, какие-то фотографии, всё на английском языке.</eng>
+		<ukr>У кейсі зберігаються документи Фрімена, якісь фотографії, все англійською мовою.</ukr>
+	</string>
+	<string id="item_lab_x10_documents_name">
+		<text>Документы из лаборатории Х-10</text>
+		<eng>Документы из лаборатории Х-10</eng>
+		<ukr>Документи з лабораторії Х-10</ukr>
+	</string>
+	<string id="item_lab_x10_documents_desc">
+		<text>Различные данные о группировке Монолит, и, что особенно важно, есть карта, где отмечены возможные пути прохода к самому "Монолиту". Примерное количество охраны в самом Саркофаге, указывается время смены караула, возможные препятствия на пути к "Монолиту" и т.д.</text>
+		<eng>Различные данные о группировке Монолит, и, что особенно важно, есть карта, где отмечены возможные пути прохода к самому "Монолиту". Примерное количество охраны в самом Саркофаге, указывается время смены караула, возможные препятствия на пути к "Монолиту" и т.д.</eng>
+		<ukr>Різні дані про угруповання "Моноліт", і, що особливо важливо, є карта, де відзначені можливі шляхи проходу до самого Моноліту. Приблизна кількість охорони в самому саркофазі, вказується час зміни варти, можливі перешкоди на шляху до Моноліту і т.д.</ukr>
+	</string>
+	<string id="item_bland_flash_name">
+		<text>Флешка Бленда</text>
+		<eng>Флешка Бленда</eng>
+		<ukr>Флешка Бленда</ukr>
+	</string>
+	<string id="item_bland_flash_desc">
+		<text>На этой флешке - тщательно подготовленный план захвата ЧАЭС и вывоз "Монолита".</text>
+		<eng>На этой флешке - тщательно подготовленный план захвата ЧАЭС и вывоз "Монолита".</eng>
+		<ukr>На цій флешці - ретельно підготовлений план захоплення ЧАЕС і вивіз Моноліту.</ukr>
+	</string>
+	<string id="enc_recipts">
+		<text>Рецепты</text>
+		<eng>Рецепты</eng>
+		<ukr>Рецепти</ukr>
+	</string>
+	<string id="esc_dan_name">
+		<text>Дэн</text>
+		<eng>Дэн</eng>
+		<ukr>Ден</ukr>
+	</string>
+	<string id="actor">
+		<text>Одиночка</text>
+		<eng>Одиночка</eng>
+		<ukr>Одинак</ukr>
+	</string>
+	<string id="actor_dolg">
+		<text>Долг</text>
+		<eng>Долг</eng>
+		<ukr>«Долг»</ukr>
+	</string>
+	<string id="actor_freedom">
+		<text>Свобода</text>
+		<eng>Свобода</eng>
+		<ukr>«Воля»</ukr>
+	</string>
+	<string id="arena_enemy">
+		<text>Наёмник</text>
+		<eng>Наёмник</eng>
+		<ukr>Найманець</ukr>
+	</string>
+	<string id="lastday">
+		<text>Последний День</text>
+		<eng>Последний День</eng>
+		<ukr>Останній день</ukr>
+	</string>
+	<string id="fotoman">
+		<text>Матрица активирована</text>
+		<eng>Матрица активирована</eng>
+		<ukr>Матриця активована</ukr>
+	</string>
+	<string id="bad">
+		<text>плохая</text>
+		<eng>плохая</eng>
+		<ukr>погано</ukr>
+	</string>
+	<string id="sniper">
+		<text>Мститель</text>
+		<eng>Мститель</eng>
+		<ukr>Месник</ukr>
+	</string>
+	<string id="green">
+		<text>Охотник</text>
+		<eng>Охотник</eng>
+		<ukr>Мисливець</ukr>
+	</string>
+	<string id="bandit">
+		<text>Бандит</text>
+		<eng>Бандит</eng>
+		<ukr>Бандит</ukr>
+	</string>
+	<string id="dolg">
+		<text>Долг</text>
+		<eng>Долг</eng>
+		<ukr>«Долг»</ukr>
+	</string>
+	<string id="ecolog">
+		<text>Эколог</text>
+		<eng>Эколог</eng>
+		<ukr>Еколог</ukr>
+	</string>
+	<string id="enemy">
+		<text>враг</text>
+		<eng>враг</eng>
+		<ukr>ворог</ukr>
+	</string>
+	<string id="excellent">
+		<text>отличная</text>
+		<eng>отличная</eng>
+		<ukr>відмінно</ukr>
+	</string>
+	<string id="experienced">
+		<text>опытный</text>
+		<eng>опытный</eng>
+		<ukr>досвідчений</ukr>
+	</string>
+	<string id="Found_PDA">
+		<text>Данные на КПК</text>
+		<eng>Данные на КПК</eng>
+		<ukr>Знайдені КПК</ukr>
+	</string>
+	<string id="freedom">
+		<text>Свобода</text>
+		<eng>Свобода</eng>
+		<ukr>«Воля»</ukr>
+	</string>
+	<string id="friendly">
+		<text>друг</text>
+		<eng>друг</eng>
+		<ukr>друг</ukr>
+	</string>
+	<string id="good">
+		<text>хорошая</text>
+		<eng>хорошая</eng>
+		<ukr>добре</ukr>
+	</string>
+	<string id="indifferent">
+		<text>нейтрал</text>
+		<eng>нейтрал</eng>
+		<ukr>нейтрал</ukr>
+	</string>
+	<string id="killer">
+		<text>Наёмник</text>
+		<eng>Наёмник</eng>
+		<ukr>Найманець</ukr>
+	</string>
+	<string id="l01_escape">
+		<text>Кордон</text>
+		<eng>Кордон</eng>
+		<ukr>Кордон</ukr>
+	</string>
+	<string id="l02_garbage">
+		<text>Свалка</text>
+		<eng>Свалка</eng>
+		<ukr>Звалище</ukr>
+	</string>
+	<string id="l03_agroprom">
+		<text>Агропром</text>
+		<eng>Агропром</eng>
+		<ukr>НДІ «Агропром»</ukr>
+	</string>
+	<string id="l04_darkvalley">
+		<text>Тёмная Долина</text>
+		<eng>Тёмная Долина</eng>
+		<ukr>Темна долина</ukr>
+	</string>
+	<string id="l05_bar">
+		<text>Бар</text>
+		<eng>Бар</eng>
+		<ukr>Бар</ukr>
+	</string>
+	<string id="l06_rostok">
+		<text>Дикая Территория</text>
+		<eng>Дикая Территория</eng>
+		<ukr>Дика територія</ukr>
+	</string>
+	<string id="l07_military">
+		<text>Армейские Склады</text>
+		<eng>Армейские Склады</eng>
+		<ukr>Армійські склади</ukr>
+	</string>
+	<string id="l08_yantar">
+		<text>Янтарь</text>
+		<eng>Янтарь</eng>
+		<ukr>Янтар</ukr>
+	</string>
+	<string id="l10_radar">
+		<text>Радар</text>
+		<eng>Радар</eng>
+		<ukr>Радар</ukr>
+	</string>
+	<string id="l11_pripyat">
+		<text>Центральная Припять</text>
+		<eng>Центральная Припять</eng>
+		<ukr>Центральна Прип'ять</ukr>
+	</string>
+	<string id="l12_stancia">
+		<text>ЧАЭС-1</text>
+		<eng>ЧАЭС-1</eng>
+		<ukr>ЧАЕС-1</ukr>
+	</string>
+	<string id="l12_stancia_2">
+		<text>ЧАЭС-2</text>
+		<eng>ЧАЭС-2</eng>
+		<ukr>ЧАЕС-2</ukr>
+	</string>
+	<string id="master">
+		<text>мастер</text>
+		<eng>мастер</eng>
+		<ukr>майстер</ukr>
+	</string>
+	<string id="military">
+		<text>Военный</text>
+		<eng>Военный</eng>
+		<ukr>Військовий</ukr>
+	</string>
+	<string id="monolith">
+		<text>Монолит</text>
+		<eng>Монолит</eng>
+		<ukr>«Моноліт»</ukr>
+	</string>
+	<string id="neutral">
+		<text>нейтрал</text>
+		<eng>нейтрал</eng>
+		<ukr>нейтрал</ukr>
+	</string>
+	<string id="novice">
+		<text>новичок</text>
+		<eng>новичок</eng>
+		<ukr>новачок</ukr>
+	</string>
+	<string id="st_no_active_task">
+		<text>Нет активного задания</text>
+		<eng>Нет активного задания</eng>
+		<ukr>Немає активного завдання</ukr>
+	</string>
+	<string id="st_time_survive">
+		<text>Оборонять позицию</text>
+		<eng>Оборонять позицию</eng>
+		<ukr>Оборонять позицию</ukr>
+	</string>
+	<string id="st_use_sviblov_scaner">
+		<text>Загрузить данные со сканера</text>
+		<eng>Загрузить данные со сканера</eng>
+		<ukr>Загрузить данные со сканера</ukr>
+	</string>
+	<string id="st_timer_sviblov_scaner">
+		<text>Время до загрузки данных</text>
+		<eng>Время до загрузки данных</eng>
+		<ukr>Время до загрузки данных</ukr>
+	</string>
+	<string id="st_time_till_surge">
+		<text>Время до Выброса</text>
+		<eng>Время до Выброса</eng>
+		<ukr>Час до викиду</ukr>
+	</string>
+	<string id="st_time_kvest_proval">
+		<text>Время до провала задания</text>
+		<eng>Время до провала задания</eng>
+		<ukr>Час до провалення завдання</ukr>
+	</string>
+	<string id="st_time_smert">
+		<text>Время до гибели</text>
+		<eng>Время до гибели</eng>
+		<ukr>Час до загибелі</ukr>
+	</string>
+	<string id="st_time_kvest_done">
+		<text>Таймер сброшен. Рация найдена.</text>
+		<eng>Таймер сброшен. Рация найдена.</eng>
+		<ukr>Таймер скинуто. Рація знайдена.</ukr>
+	</string>
+	<string id="stalker">
+		<text>Одиночка</text>
+		<eng>Одиночка</eng>
+		<ukr>Одинак</ukr>
+	</string>
+	<string id="terrible">
+		<text>ужасная</text>
+		<eng>ужасная</eng>
+		<ukr>жахливо</ukr>
+	</string>
+	<string id="trader">
+		<text>Торговец</text>
+		<eng>Торговец</eng>
+		<ukr>Крамар</ukr>
+	</string>
+	<string id="ui_st_community">
+		<text>группа</text>
+		<eng>группа</eng>
+		<ukr>група</ukr>
+	</string>
+	<string id="ui_st_price">
+		<text>Цена</text>
+		<eng>Цена</eng>
+		<ukr>ціна</ukr>
+	</string>
+	<string id="ui_st_rank">
+		<text>ранг</text>
+		<eng>ранг</eng>
+		<ukr>ранг</ukr>
+	</string>
+	<string id="ui_st_relation">
+		<text>отношение</text>
+		<eng>отношение</eng>
+		<ukr>ставлення</ukr>
+	</string>
+	<string id="ui_st_reputation">
+		<text>репутация</text>
+		<eng>репутация</eng>
+		<ukr>репутація</ukr>
+	</string>
+	<string id="very_bad">
+		<text>очень плохая</text>
+		<eng>очень плохая</eng>
+		<ukr>дуже погано</ukr>
+	</string>
+	<string id="very_good">
+		<text>очень хорошая</text>
+		<eng>очень хорошая</eng>
+		<ukr>дуже добре</ukr>
+	</string>
+	<string id="veteran">
+		<text>ветеран</text>
+		<eng>ветеран</eng>
+		<ukr>ветеран</ukr>
+	</string>
+	<string id="zombied">
+		<text>Зомбированный</text>
+		<eng>Зомбированный</eng>
+		<ukr>Зомбі</ukr>
+	</string>
+	<string id="Btn_Cancel">
+		<text>Отменить</text>
+		<eng>Отменить</eng>
+		<ukr>Відмінити</ukr>
+	</string>
+	<string id="Btn_No">
+		<text>Нет</text>
+		<eng>Нет</eng>
+		<ukr>Ні</ukr>
+	</string>
+	<string id="Btn_OK">
+		<text>OK</text>
+		<eng>OK</eng>
+		<ukr>OK</ukr>
+	</string>
+	<string id="Btn_Yes">
+		<text>Да</text>
+		<eng>Да</eng>
+		<ukr>Так</ukr>
+	</string>
+	<string id="global_map">
+		<text>Карта Зоны</text>
+		<eng>Карта Зоны</eng>
+		<ukr>Карта Зони</ukr>
+	</string>
+	<string id="st_autosave">
+		<text>Автосохранение...</text>
+		<eng>Автосохранение...</eng>
+		<ukr>Автозбереження...</ukr>
+	</string>
+	<string id="st_game_over">
+		<text>Вы погибли</text>
+		<eng>Вы погибли</eng>
+		<ukr>Ви загинули</ukr>
+	</string>
+	<string id="st_item_used">
+		<text>Использовано</text>
+		<eng>Использовано</eng>
+		<ukr>Використано</ukr>
+	</string>
+	<string id="st_not_enough_money">
+		<text>Недостаточно денег</text>
+		<eng>Недостаточно денег</eng>
+		<ukr>Не вистачає грошей</ukr>
+	</string>
+	<string id="st_not_enough_money_npc">
+		<text>У НПС недостаточно денег</text>
+		<eng>У НПС недостаточно денег</eng>
+		<ukr>у НПС недостатньо грошей</ukr>
+	</string>
+	<string id="ui_st_opponent_items">
+		<text>Рюкзак</text>
+		<eng>Рюкзак</eng>
+		<ukr>Рюкзак</ukr>
+	</string>
+	<string id="st_search_treasure">
+		<text>Обыскать</text>
+		<eng>Обыскать</eng>
+		<ukr>Обшукати</ukr>
+	</string>
+	<string id="inventory_item_use">
+		<text>Поднять</text>
+		<eng>Поднять</eng>
+		<ukr>Підняти</ukr>
+	</string>
+	<string id="ui_mm_check_updates">
+		<text>Обновления</text>
+		<eng>Обновления</eng>
+		<ukr>Оновити</ukr>
+	</string>
+	<string id="ui_mm_alternative">
+		<text>Альтернатива</text>
+		<eng>Альтернатива</eng>
+		<ukr>Альтернатива</ukr>
+	</string>
+	<string id="ui_inv_health">
+		<text>Здоровье</text>
+		<eng>Здоровье</eng>
+		<ukr>Здоров'я</ukr>
+	</string>
+	<string id="ui_inv_radiation">
+		<text>Радиация</text>
+		<eng>Радиация</eng>
+		<ukr>Радіація</ukr>
+	</string>
+	<string id="ui_inv_satiety">
+		<text>Сытость</text>
+		<eng>Сытость</eng>
+		<ukr>Ситість</ukr>
+	</string>
+	<string id="ui_inv_power">
+		<text>Выносливость</text>
+		<eng>Выносливость</eng>
+		<ukr>Витривалість</ukr>
+	</string>
+	<string id="ui_inv_power_loss">
+		<text>Усталость</text>
+		<eng>Усталость</eng>
+		<ukr>Усталость</ukr>
+	</string>
+	<string id="ui_inv_bleeding">
+		<text>Кровотечение</text>
+		<eng>Кровотечение</eng>
+		<ukr>Кровотеча</ukr>
+	</string>
+	<string id="ui_scope">
+		<text>Оптический прицел</text>
+		<eng>Оптический прицел</eng>
+		<ukr>Оптический прицел</ukr>
+	</string>
+	<string id="scope">
+		<text>оптический прицел</text>
+		<eng>оптический прицел</eng>
+		<ukr>оптический прицел</ukr>
+	</string>
+	<string id="ui_silencer">
+		<text>Глушитель</text>
+		<eng>Глушитель</eng>
+		<ukr>Глушитель</ukr>
+	</string>
+	<string id="silencer">
+		<text>глушитель</text>
+		<eng>глушитель</eng>
+		<ukr>глушитель</ukr>
+	</string>
+	<string id="ui_grenade_launcher">
+		<text>Подствольный гранатомёт</text>
+		<eng>Подствольный гранатомёт</eng>
+		<ukr>Подствольный гранатомёт</ukr>
+	</string>
+	<string id="grenade_launcher">
+		<text>подствольный гранатомёт</text>
+		<eng>подствольный гранатомёт</eng>
+		<ukr>подствольный гранатомёт</ukr>
+	</string>
+	<string id="st_mp_say_to_all">
+		<text>Всем</text>
+		<eng>Всем</eng>
+		<ukr>Усім</ukr>
+	</string>
+	<string id="st_mp_say_to_team">
+		<text>Команде</text>
+		<eng>Команде</eng>
+		<ukr>Команді</ukr>
+	</string>
+	<string id="st_knife">
+		<text>Нож</text>
+		<eng>Нож</eng>
+		<ukr>Ніж</ukr>
+	</string>
+	<string id="st_mp_disabled_voting">
+		<text>Голосование недоступно на этом сервере.</text>
+		<eng>Голосование недоступно на этом сервере.</eng>
+		<ukr>Голосування недоступне на цьому сервері</ukr>
+	</string>
+	<string id="st_mp_no_current_voting">
+		<text>Сейчас нет активных голосований.</text>
+		<eng>Сейчас нет активных голосований.</eng>
+		<ukr>Зараз немає активних голосувань</ukr>
+	</string>
+	<string id="st_mp_ready">
+		<text>готов</text>
+		<eng>готов</eng>
+		<ukr>Готовий</ukr>
+	</string>
+	<string id="st_mp_voting_succeed">
+		<text>Голосование прошло успешно!</text>
+		<eng>Голосование прошло успешно!</eng>
+		<ukr>Голосування успішне!</ukr>
+	</string>
+	<string id="st_mp_voting_failed">
+		<text>Голосование провалено!</text>
+		<eng>Голосование провалено!</eng>
+		<ukr>Голосування провалене!</ukr>
+	</string>
+	<string id="l03u_agr_underground">
+		<text>Подземелье Агропрома</text>
+		<eng>Подземелье Агропрома</eng>
+		<ukr>Підземелля Агропрома</ukr>
+	</string>
+	<string id="l04u_labx18">
+		<text>Лаборатория X-18</text>
+		<eng>Лаборатория X-18</eng>
+		<ukr>Лабораторія X-18</ukr>
+	</string>
+	<string id="l08u_brainlab">
+		<text>Лаборатория X-16</text>
+		<eng>Лаборатория X-16</eng>
+		<ukr>Лабораторія X-16</ukr>
+	</string>
+	<string id="l10u_bunker">
+		<text>Лаборатория X-10</text>
+		<eng>Лаборатория X-10</eng>
+		<ukr>Лабораторія X-10</ukr>
+	</string>
+	<string id="l12u_sarcofag">
+		<text>Саркофаг</text>
+		<eng>Саркофаг</eng>
+		<ukr>Саркофаг</ukr>
+	</string>
+	<string id="l12u_control_monolith">
+		<text>Управление Монолитом</text>
+		<eng>Управление Монолитом</eng>
+		<ukr>Управління Монолітом</ukr>
+	</string>
+	<string id="sin">
+		<text>Грех</text>
+		<eng>Грех</eng>
+		<ukr>Грех</ukr>
+	</string>
 </string_table>

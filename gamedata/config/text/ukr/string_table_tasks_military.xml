@@ -1,150 +1,245 @@
-	<string id="mil_blockpost_job">
-		<text>Надати допомогу блокпосту «Волі» на Бар'єрі</text>
-	</string>
 	<string id="mil_courier">
 		<text>Стукач</text>
+		<eng>Стукач</eng>
+		<ukr>Стукач</ukr>
 	</string>
 	<string id="mil_courier_job">
-		<text>Розібратися зі стукачем</text>
+		<text>Разобраться со стукачом</text>
+		<eng>Разобраться со стукачом</eng>
+		<ukr>Розібратися зі стукачем</ukr>
 	</string>
 	<string id="mil_courier_phase1">
-		<text>Дістатися хутора</text>
+		<text>Добраться до хутора</text>
+		<eng>Добраться до хутора</eng>
+		<ukr>Дістатися хутора</ukr>
 	</string>
 	<string id="mil_courier_phase2">
-		<text>Дочекатися, поки стукач викличе збирача інформації</text>
+		<text>Дождаться, пока стукач вызовет информатора</text>
+		<eng>Дождаться, пока стукач вызовет информатора</eng>
+		<ukr>Дочекатися, поки стукач викличе збирача інформації</ukr>
 	</string>
 	<string id="mil_courier_phase3">
-		<text>Знищити стукача</text>
+		<text>Уничтожить стукача</text>
+		<eng>Уничтожить стукача</eng>
+		<ukr>Знищити стукача</ukr>
 	</string>
 	<string id="mil_courier_phase4">
-		<text>Знищити збирача інформації</text>
+		<text>Уничтожить информатора</text>
+		<eng>Уничтожить информатора</eng>
+		<ukr>Знищити збирача інформації</ukr>
 	</string>
 	<string id="mil_courier_phase5">
-		<text>Доповісти Лукашеві про виконання</text>
+		<text>Доложить Лукашу о выполнении</text>
+		<eng>Доложить Лукашу о выполнении</eng>
+		<ukr>Доповісти Лукашеві про виконання</ukr>
 	</string>
 	<string id="mil_crazy">
-		<text>Божевільний сталкер</text>
+		<text>Безумный сталкер</text>
+		<eng>Безумный сталкер</eng>
+		<ukr>Божевільний сталкер</ukr>
 	</string>
 	<string id="mil_dolg">
-		<text>Група «Долгу»</text>
+		<text>Группа Долга</text>
+		<eng>Группа Долга</eng>
+		<ukr>Група «Долгу»</ukr>
 	</string>
 	<string id="mil_dolg_assault_freedom">
-		<text>Допомогти загону «Долгу» усунути Лукаша</text>
+		<text>Помочь отряду Долга в устранении Лукаша</text>
+		<eng>Помочь отряду Долга в устранении Лукаша</eng>
+		<ukr>Допомогти загону «Долгу» усунути Лукаша</ukr>
 	</string>
 	<string id="mil_kill_lukash">
-		<text>Убити Лукаша</text>
+		<text>Убить Лукаша</text>
+		<eng>Убить Лукаша</eng>
+		<ukr>Убити Лукаша</ukr>
 	</string>
 	<string id="mil_dolg_assault_support">
-		<text>Знищити снайпера</text>
+		<text>Уничтожить снайпера</text>
+		<eng>Уничтожить снайпера</eng>
+		<ukr>Знищити снайпера</ukr>
 	</string>
 	<string id="mil_dolg_return_to_khutor">
-		<text>Повернутися на хутір «Долгу» та отримати гонорар</text>
+		<text>Вернуться на хутор Долга и получить гонорар</text>
+		<eng>Вернуться на хутор Долга и получить гонорар</eng>
+		<ukr>Повернутися на хутір «Долгу» та отримати гонорар</ukr>
 	</string>
 	<string id="mil_dolg_return_to_skull">
-		<text>Повернутися до Черепа</text>
+		<text>Вернуться к Черепу</text>
+		<eng>Вернуться к Черепу</eng>
+		<ukr>Повернутися до Черепа</ukr>
 	</string>
 	<string id="mil_fblockpost_commander">
-		<text>Командир блокпоста Кеп</text>
+		<text>Командир блокпоста Кэп</text>
+		<eng>Командир блокпоста Кэп</eng>
+		<ukr>Командир блокпоста Кеп</ukr>
 	</string>
 	<string id="mil_fblockpost_phase2">
-		<text>Допомогти у знищенні загону «Моноліту», що йде на прорив</text>
+		<text>Помочь в уничтожении прорывающегося отряда Монолита</text>
+		<eng>Помочь в уничтожении прорывающегося отряда Монолита</eng>
+		<ukr>Допомогти у знищенні загону «Моноліту», що йде на прорив</ukr>
 	</string>
 	<string id="mil_fblockpost_phase3">
-		<text>Поговорити із командиром Бар'єру</text>
+		<text>Поговорить с командиром Барьера</text>
+		<eng>Поговорить с командиром Барьера</eng>
+		<ukr>Поговорити із командиром Бар'єру</ukr>
 	</string>
 	<string id="mil_find_cook">
-		<text>Знайти Кухаря на базі «Волі»</text>
+		<text>Найти Повара на базе Свободы</text>
+		<eng>Найти Повара на базе Свободы</eng>
+		<ukr>Знайти Кухаря на базі «Волі»</ukr>
 	</string>
 	<string id="mil_freedom_rg6_task">
-		<text>Дістати «Бульдог-6» у «Волі»</text>
+		<text>Достать РГ-6 у Свободы</text>
+		<eng>Достать РГ-6 у Свободы</eng>
+		<ukr>Дістати «Бульдог-6» у «Волі»</ukr>
 	</string>
 	<string id="mil_go_max">
-		<text>Докласти Максові</text>
+		<text>Доложить Максу</text>
+		<eng>Доложить Максу</eng>
+		<ukr>Докласти Максові</ukr>
 	</string>
 	<string id="mil_go_to_miser_task">
-		<text>Сходити на базу «Волі» до Скнари за винагородою</text>
+		<text>Сходить на базу Свободы к Скряге за наградой</text>
+		<eng>Сходить на базу Свободы к Скряге за наградой</eng>
+		<ukr>Сходити на базу «Волі» до Скнари за винагородою</ukr>
 	</string>
 	<string id="mil_go_to_miser_task_main">
-		<text>Отримати нагороду за вбитих кровососів</text>
+		<text>Получить награду за убитых кровососов</text>
+		<eng>Получить награду за убитых кровососов</eng>
+		<ukr>Отримати нагороду за вбитих кровососів</ukr>
 	</string>
 	<string id="mil_hunters_phase1">
-		<text>Знайти Похмурого у селищі</text>
+		<text>Найти Угрюмого в деревне</text>
+		<eng>Найти Угрюмого в деревне</eng>
+		<ukr>Знайти Похмурого у селищі</ukr>
 	</string>
 	<string id="mil_hunters_phase2">
-		<text>Знищити кровососів</text>
+		<text>Уничтожить кровососов</text>
+		<eng>Уничтожить кровососов</eng>
+		<ukr>Знищити кровососів</ukr>
 	</string>
 	<string id="mil_hunters_phase3">
-		<text>Повернутися до Скнари за артефактом</text>
+		<text>Вернуться к Скряге за артефактом</text>
+		<eng>Вернуться к Скряге за артефактом</eng>
+		<ukr>Повернутися до Скнари за артефактом</ukr>
 	</string>
 	<string id="mil_hunters_task">
-		<text>Знищити кровососів у селищі</text>
+		<text>Уничтожить кровососов в деревне</text>
+		<eng>Уничтожить кровососов в деревне</eng>
+		<ukr>Знищити кровососів у селищі</ukr>
 	</string>
 	<string id="mil_kill_controller">
-		<text>Убити кровососів</text>
+		<text>Убить кровососов</text>
+		<eng>Убить кровососов</eng>
+		<ukr>Убити кровососів</ukr>
 	</string>
 	<string id="mil_kill_controller_main">
-		<text>Убити кровососів</text>
+		<text>Убить кровососов</text>
+		<eng>Убить кровососов</eng>
+		<ukr>Убити кровососів</ukr>
 	</string>
 	<string id="mil_kill_dolg">
-		<text>Знищити групу</text>
+		<text>Уничтожить группу</text>
+		<eng>Уничтожить группу</eng>
+		<ukr>Знищити групу</ukr>
 	</string>
 	<string id="mil_lukash">
 		<text>Лукаш</text>
+		<eng>Лукаш</eng>
+		<ukr>Лукаш</ukr>
 	</string>
 	<string id="mil_max">
 		<text>Макс</text>
+		<eng>Макс</eng>
+		<ukr>Макс</ukr>
 	</string>
 	<string id="mil_put_flash_to_max">
-		<text>Віддати флешку Максові</text>
+		<text>Отдать флешку Максу</text>
+		<eng>Отдать флешку Максу</eng>
+		<ukr>Віддати флешку Максові</ukr>
 	</string>
 	<string id="mil_kill_sniper">
-		<text>Убити снайпера на вишці</text>
+		<text>Убить снайпера на вышке</text>
+		<eng>Убить снайпера на вышке</eng>
+		<ukr>Убити снайпера на вишці</ukr>
 	</string>
 	<string id="mil_quest_report_dolg">
-		<text>Повідомити про виконання групі «Долгу»</text>
+		<text>Сообщить о выполнении группе Долга</text>
+		<eng>Сообщить о выполнении группе Долга</eng>
+		<ukr>Повідомити про виконання групі «Долгу»</ukr>
 	</string>
 	<string id="mil_return_lukash">
-		<text>Повернутися до Лукаша</text>
+		<text>Вернуться к Лукашу</text>
+		<eng>Вернуться к Лукашу</eng>
+		<ukr>Повернутися до Лукаша</ukr>
 	</string>
 	<string id="mil_return_to_ugrumy">
-		<text>Повідомити Похмурому про виконання завдання</text>
+		<text>Сообщить Угрюмому о выполнении</text>
+		<eng>Сообщить Угрюмому о выполнении</eng>
+		<ukr>Повідомити Похмурому про виконання завдання</ukr>
 	</string>
 	<string id="mil_return_to_voronin">
-		<text>Віднести «Бульдог-6» генералові Вороніну</text>
+		<text>Отнести РГ-6 генералу Воронину</text>
+		<eng>Отнести РГ-6 генералу Воронину</eng>
+		<ukr>Віднести «Бульдог-6» генералові Вороніну</ukr>
 	</string>
 	<string id="mil_rg6">
-		<text>Знайти «Бульдог-6»</text>
+		<text>Найти РГ-6</text>
+		<eng>Найти РГ-6</eng>
+		<ukr>Знайти «Бульдог-6»</ukr>
 	</string>
 	<string id="mil_secret">
-		<text>Схрон бандитів</text>
+		<text>Схрон бандитов</text>
+		<eng>Схрон бандитов</eng>
+		<ukr>Схрон бандитів</ukr>
 	</string>
 	<string id="mil_sniper">
 		<text>Снайпер</text>
+		<eng>Снайпер</eng>
+		<ukr>Снайпер</ukr>
 	</string>
 	<string id="mil_mad_job">
-		<text>Отримати флешку в божевільного снайпера</text>
+		<text>Получить флешку у безумного снайпера</text>
+		<eng>Получить флешку у безумного снайпера</eng>
+		<ukr>Отримати флешку в божевільного снайпера</ukr>
 	</string>
 	<string id="mil_talk_cook">
-		<text>Поговорити із Кухарем</text>
+		<text>Поговорить с Поваром</text>
+		<eng>Поговорить с Поваром</eng>
+		<ukr>Поговорити із Кухарем</ukr>
 	</string>
 	<string id="mil_talk_with_cap">
-		<text>Поговорити із командиром блокпоста «Волі» Кепом</text>
+		<text>Поговорить с командиром блокпоста Свободы Кепом</text>
+		<eng>Поговорить с командиром блокпоста Свободы Кепом</eng>
+		<ukr>Поговорити із командиром блокпоста «Волі» Кепом</ukr>
 	</string>
 	<string id="mil_test_task_phase1">
-		<text>Зайти до Рестріктора-1</text>
+		<text>Зайти в рестриктор 1</text>
+		<eng>Зайти в рестриктор 1</eng>
+		<ukr>Зайти до Рестріктора-1</ukr>
 	</string>
 	<string id="mil_test_task_phase2">
-		<text>Зайти до Рестріктора-2</text>
+		<text>Зайти в рестриктор 2</text>
+		<eng>Зайти в рестриктор 2</eng>
+		<ukr>Зайти до Рестріктора-2</ukr>
 	</string>
 	<string id="mil_test_task_phase3">
-		<text>Підняти «Бульдог-6» для виконання завдання або ТРс-301 - для провалу</text>
+		<text>Поднять РГ-6 для выполнения задачи или ТРс 301 для провала</text>
+		<eng>Поднять РГ-6 для выполнения задачи или ТРс 301 для провала</eng>
+		<ukr>Підняти «Бульдог-6» для виконання завдання або ТРс-301 - для провалу</ukr>
 	</string>
 	<string id="mil_test_task_title">
-		<text>Тестове завдання</text>
+		<text>Тестовая задача</text>
+		<eng>Тестовая задача</eng>
+		<ukr>Тестове завдання</ukr>
 	</string>
 	<string id="mil_ugrumy">
-		<text>Похмурий</text>
+		<text>Угрюмый</text>
+		<eng>Угрюмый</eng>
+		<ukr>Похмурий</ukr>
 	</string>
 	<string id="mil_lukash_job">
-		<text>Знищити групу «Долгу»</text>
+		<text>Уничтожить группу Долга</text>
+		<eng>Уничтожить группу Долга</eng>
+		<ukr>Знищити групу «Долгу»</ukr>
 	</string>
