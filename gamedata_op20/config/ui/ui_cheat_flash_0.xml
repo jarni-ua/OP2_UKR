@@ -1,0 +1,52 @@
+	<?-- Vergas подписи кнопок выбора музыкального файла В слоте флешки нет--?>
+	<background_btn_001 x="180" y="157" width="100" height="20" stretch="1">
+		<text font="letterica16"  r="162" g="181" b="205" a="255" >Файл не загружен</text>
+	</background_btn_001>
+	
+	<background_btn_002 x="180" y="178" width="100" height="20" stretch="1">
+		<text font="letterica16"  r="162" g="181" b="205" a="255" >Файл не загружен</text>
+	</background_btn_002>
+	
+	<background_btn_003 x="180" y="199" width="100" height="20" stretch="1">
+		<text font="letterica16"  r="162" g="181" b="205" a="255" >Файл не загружен</text>
+	</background_btn_003>
+	
+	<background_btn_004 x="180" y="220" width="100" height="20" stretch="1">
+		<text font="letterica16"  r="162" g="181" b="205" a="255" >Файл не загружен</text>
+	</background_btn_004>
+	
+	<background_btn_005 x="180" y="241" width="100" height="20" stretch="1">
+		<text font="letterica16"  r="162" g="181" b="205" a="255" >Файл не загружен</text>
+	</background_btn_005>
+	
+	<background_btn_006 x="180" y="262" width="100" height="20" stretch="1">
+		<text font="letterica16"  r="162" g="181" b="205" a="255" >Файл не загружен</text>
+	</background_btn_006>
+	
+	<background_btn_007 x="180" y="283" width="100" height="20" stretch="1">
+		<text font="letterica16"  r="162" g="181" b="205" a="255" >Файл не загружен</text>
+	</background_btn_007>
+	
+	<background_btn_008 x="180" y="304" width="100" height="20" stretch="1">
+		<text font="letterica16"  r="162" g="181" b="205" a="255" >Файл не загружен</text>
+	</background_btn_008>
+	
+	<background_btn_009 x="180" y="325" width="100" height="20" stretch="1">
+		<text font="letterica16"  r="162" g="181" b="205" a="255" >Файл не загружен</text>
+	</background_btn_009>
+	
+	<background_btn_010 x="180" y="346" width="100" height="20" stretch="1">
+		<text font="letterica16"  r="162" g="181" b="205" a="255" >Файл не загружен</text>
+	</background_btn_010>
+	
+	<background_btn_011 x="180" y="367" width="100" height="20" stretch="1">
+		<text font="letterica16"  r="162" g="181" b="205" a="255" >Файл не загружен</text>
+	</background_btn_011>
+	
+	<background_btn_012 x="180" y="388" width="100" height="20" stretch="1">
+		<text font="letterica16"  r="162" g="181" b="205" a="255" >Файл не загружен</text>
+	</background_btn_012>
+	
+	<background_10 x="473" y="326" width="50" height="35">
+		<text font="letterica18"  r="238" g="154" b="0" a="255" align="l">Вставьте флешку</text>
+	</background_10>

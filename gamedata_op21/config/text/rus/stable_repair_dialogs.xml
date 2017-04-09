@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="list_trader_repair_0">
+		<text>Стоимость починки оружия в первом слоте: </text>
+	</string>
+	<string id="list_trader_repair_1">
+		<text>Стоимость починки оружия во втором слоте: </text>
+	</string>
+	<string id="list_trader_repair_2">
+		<text>Стоимость починки брони: </text>
+	</string>
+
+<!---------- Долговязый с апгрейдом стволов--------->
+<string id="final_repair_weap_0">
+<text>Получил СМС. Апгрейд закончен? Что-то ты слишком долго возился.</text>
+</string>
+<string id="final_repair_weap_1">
+<text>Ну, возня с такими вещами - дело точное и не быстрое. Всё готово. Забирай.</text>
+</string>
+
+<string id="dlinnuy_upgrade_0">
+<text>Здорово, мастер, апгрейдом оружия занимаешься?</text>
+</string>
+<string id="dlinnuy_upgrade_1">
+<text>Да, делаю помаленьку... Лишняя халтурка не помеха. Предупреждаю: это не дешёвая работа - кроме меня этим в Зоне никто не занимается. Кроме того, переделываю не всё оружие, за пистолеты, к примеру, не берусь. Посмотри в ПДА - я туда тебе сбросил список возможных модификаций. Туда же и схему апгрейда закинул. Почитай, чтобы не задавать лишних вопросов и потом меня не вспоминать русским тихим сленгом. Да, и учти - на апгрейд надо время - на всё уходит где-то около суток. Да, и ещё - оружие, которое я модифицировал, в ремонте обходится намного дороже обычного.</text>
+</string>
+<string id="dlinnuy_upgrade_2">
+<text>Давай модернизируем первый ствол.</text>
+</string>
+<string id="dlinnuy_upgrade_21">
+<text>Добро, но какой вариант апгрейда ты выбираешь?</text>
+</string>
+<string id="dlinnuy_upgrade_211">
+<text>Меняй калибр - так будет проще патроны искать - они более распространённые.</text>
+</string>
+<string id="dlinnuy_upgrade_212">
+<text>Сделай увеличение кучности стрельбы - это очень важный параметр. Иногда из-за промаха на несколько сантиметров можно жизни лишиться.</text>
+</string>
+<string id="dlinnuy_upgrade_213">
+<text>Давай снижай вес у оружия - всё ж будет легче его носить, да и рука под тяжестью при прицеливании не дрогнет. Можно будет и лишних пару магазинов взять.</text>
+</string>
+<string id="dlinnuy_upgrade_214">
+<text>Пока, наверное, ничего делать не будем.</text>
+</string>
+<string id="dlinnuy_upgrade_3">
+<text>Давай проапгрейдим второй ствол.</text>
+</string>
+<string id="dlinnuy_upgrade_31">
+<text>Добро, но какой вариант модернизации ты выбираешь?</text>
+</string>
+<string id="dlinnuy_upgrade_311">
+<text>Меняй калибр - так будет проще патроны искать - они более распространённые.</text>
+</string>
+<string id="dlinnuy_upgrade_312">
+<text>Сделай увеличение кучности стрельбы - это самое то для меня. Иногда из-за промаха на несколько сантиметров можно жизни лишиться.</text>
+</string>
+<string id="dlinnuy_upgrade_313">
+<text>Давай снижай вес у оружия - всё ж будет легче его носить, а то не Шварценеггер я.</text>
+</string>
+<string id="dlinnuy_upgrade_314">
+<text>Пока, наверное, ничего делать не будем.</text>
+</string>
+<string id="dlinnuy_upgrade_4">
+<text>Давай модернизируем третий ствол.</text>
+</string>
+<string id="dlinnuy_upgrade_5">
+<text>Ладно, зайду позже.</text>
+</string>
+<string id="dlinnuy_upgrade_6">
+<text>Когда апгрейд закончу - отправлю тебе СМС на ПДА.\nСделаю всё за 24 часа... Свободен, сталкер, не мешай работать.</text>
+</string>
+<string id="dlinnuy_upgrade_8">
+<text>Ну, Длинный, я смотрю, ты не хило устроился: ствол отдай, деревянных накинь, а потом ещё и жди.</text>
+</string>
+<string id="dlinnuy_upgrade_9">
+<text>Мастерская работа. Ты случаем не брат конструктора Калашникова?</text>
+</string>
+<string id="dlinnuy_upgrade_10">
+<text>Может, ещё кое-что проапгрейдишь?</text>
+</string>
+<string id="dlinnuy_upgrade_11">
+<text>Ну давай, сделаю. Готовь бабло.</text>
+</string>
+<string id="dlinnuy_upgrade_12">
+<text>Ладно, спасибо тебе. Будут проблемы с оружием - зайду ещё раз.</text>
+</string>
+<string id="dlinnuy_upgrade_13">
+<text>Ну и ладненько... Всё ж лучше чем ничего, правда? Вот, держи.</text>
+</string>
+<string id="dlinnuy_upgrade_14">
+<text>Вот, держи. Что, мало? Держи хоть это, а то передумаю.</text>
+</string>
+
+<!-- Реализация апгрейда  -->
+<string id="upgrade_tabl_stvol">
+<text>Варианты апгрейда и ограничения:\n
+1. После снижения веса все дальнейшие апгрейды невозможны.\n\n
+2. Оружие, которому можно сменить калибр (только для базовых моделей):\n
+   * АК-74М, AKC-74 «Кобра», АКС-74У, АН-94 «Абакан» - с 5.45х39 на 5.56x45\n
+   * ПП-19 «Бизон», Scorpion SA Vz 82 - с 9х18 на 9х19\n
+   * HK MP5A4, HK MP-7A1, IMI UZI - с 9х19 на 9х18\n
+   * FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG552 Commando, Enfield L85A2, FA MAS G2, Colt M16A4, M4A1 «Tactic», Tavor CTAR 21, HK MG-4 - с 5.56x45 на 5.45х39\n\n
+3. Оружие, которому можно снизить отдачу и увеличить кучность (только для базовых моделей):\n
+АК-74, АК-74М, AKC-74 «Кобра», АКС-74У, АН-94 «Абакан», АН-94 «Снайперский», АК, АКМ, АЕК-971, АЕК-972, АЕК-973, ПП-19 «Бизон», ScorpionVz.61, HK MP5A4, HK MG-4, HK MP-7A1, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG552 Commando, Enfield L85A2, FA MAS G2, Colt M16A4, M4A1 «Tactic», Tavor CTAR 21, HK 417 Sniper, Knights SR-25\n\n
+4. Оружие, которому можно снизить вес (доступно для всех модификаций):\n
+АК-74, АК-74М, AKC-74 «Кобра», АКС-74У, АН-94 «Абакан», АН-94 «Снайперский», АК, АКМ, АЕК-971, АЕК-972, АЕК-973, ПП-19 «Бизон», ScorpionVz.61, OЦ-14-4 «Гроза», АС «Вал», ВСС «Винторез», СВД, СВУ-А, винтовка Мосина, Barrett М95, «Игломёт», HK MP5A4, HK MG-4, HK MP-7A1, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG552 Commando, Enfield L85A2, FA MAS G2, Colt M16A4, M4A1 «Tactic», Tavor CTAR 21, HK 417 Sniper, Knights SR-25, Сайга-12К, Winchester 1300, Franchi SPAS-12, Обрез БМ16, ТОЗ-34, Benelli M4 SUPER 90, Протекта, ППШ-41, Kriss super V, FN P90, ПКМ, ПТРД, Ружьё-гранатомёт M79\n \n \n \n \n</text>
+</string>
+
+	<!-- тексты для диалога на ремонт -->
+	
+	<string id="gg_hello_1">
+		<text>Я хотел кое-что починить.</text>
+	</string>
+	<string id="gg_hello_2">
+		<text>С ремонтом не поможешь?</text>
+	</string>
+	<string id="gg_hello_3">
+		<text>Поизносились вещи некоторые. Посмотри - можно починить?</text>
+	</string>
+	<string id="gg_hello_4">
+		<text>Ремонт нужен, ибо без снаряги - как без рук.</text>
+	</string>
+	
+	<string id="rt_hello_1">
+		<text>Давай посмотрим, что там у тебя.</text>
+	</string>
+	<string id="rt_hello_2">
+		<text>Ну, показывай быстрее, дел и так по горло.</text>
+	</string>
+	<string id="rt_hello_3">
+		<text>Вечно вам, сталкерам, от меня чего-то надо... Показывай давай.</text>
+	</string>	
+	<string id="rt_hello_4">
+		<text>Ты только учти, что те детали, которые легко ломаются, труднее всего достать. И стоят они дорого!</text>
+	</string>
+	<string id="rt_hello_5">
+		<text>Ну а чего, просто так сижу, ваш всякий мусор чиню. Показывай.</text>
+	</string>
+	
+	<string id="item_not_repaired">
+		<text>Твой ствол слишком убитый. Я не могу его починить.</text>
+	</string>
+	
+	<string id="need_anything_1">
+		<text>Пока ничего не надо.</text>
+	</string>
+	<string id="need_anything_2">
+		<text>Я передумал.</text>
+	</string>	
+	<string id="need_anything_3">
+		<text>Как всё сложно, подумать надо.</text>
+	</string>	
+	
+	<string id="need_more">
+		<text>Давай вернемся к другим вопросам.</text>
+	</string>
+	
+	<string id="bad_weapon_slot">
+		<text>Твой ствол слишком убитый. Я не могу его починить.</text>
+	</string>
+	<string id="bad_outfit_slot">
+		<text>Твоя броня слишком убитая. Я не могу её починить.</text>
+	</string>
+	
+	<string id="good_weapon_slot">
+		<text>Этот ствол не нуждается в ремонте. Чего ты мне его притащил?</text>
+	</string>
+	<string id="good_outfit_slot">
+		<text>Твоя броня совсем целая. Что ты тут собрался ремонтировать?</text>
+	</string>
+	
+	<string id="repair_need">
+		<text>Давай посмотрим, что там у тебя:\n</text>
+	</string>
+	<string id="repair_outfit_need">
+		<text>Для ремонта брони мне нужно: %%c[green]%s%%c[default] и %%c[green]%d%%c[default] %s. Будем ремонтироваться?</text>
+	</string>
+	<string id="repair_outfit_need_more">
+		<text>Броня сильно потрёпана, поэтому для ремонта мне нужно \n два артефакта %%c[green]%s%%c[default] и %%c[green]%d%%c[default] %s. Будем ремонтироваться?</text>
+	</string>
+	
+	<string id="repair_weapon_need">
+		<text>Для ремонта мне нужен любой ствол такого же калибра на запчасти,\n%%c[green]%s%%c[default] и %%c[green]%d%%c[default] %s. Будем ремонтироваться?"</text>
+	</string>		
+	<string id="repair_weapon_need_more">
+		<text>Этот ствол изрядно потрёпан. Поэтому мне нужно\nдва любых ствола такого же калибра на запчасти, два артефакта %%c[green]%s%%c[default] и %%c[green]%d%%c[default] %s. Будем ремонтироваться?"</text>
+	</string>
+	<string id="repair_weapon_uniq_need">
+		<text>Это уникальный ствол. Для ремонта мне нужно:\n%%c[green]%s%%c[default] и %%c[green]%d%%c[default] %s. Будем ремонтироваться?"</text>
+	</string>		
+
+	<string id="repair_agreed">
+		<text>Да, отремонтируй.</text>
+	</string>
+	<string id="repair_disagreed_total">
+		<text>Нет, я передумал. Ничего делать не надо.</text>
+	</string>
+	
+	<string id="repair_disagreed">
+		<text>У меня не всё есть для ремонта.</text>
+	</string>
+
+	<!-- тексты для апгрейда-->
+	<string id="prefix_slot_1">
+		<text>Первый</text>
+	</string>
+	<string id="prefix_slot_2">
+		<text>Второй</text>
+	</string>
+	<string id="prefix_slot_13">
+		<text>Третий</text>
+	</string>
+	
+	<string id="upgrade_slot_reject">
+		<text>%s ствол у нас это %%c[green]%s%%c[default]. Для него ничего не могу предложить.</text>
+	</string>
+	<string id="upgrade_slot_reject_repair">
+		<text>%s ствол у нас это %%c[green]%s%%c[default]. Он у тебя довольно изношен - за апгрейд я не возьмусь. Почини его сначала, а потом я смогу его модернизировать.</text>
+	</string>
+	<string id="upgrade_slot_agreed">
+		<text>%s ствол у нас это %%c[green]%s%%c[default]. Для него могу предложить следующие варианты:</text>
+	</string>
+	
+	<string id="upgrade_complete">
+		<text>Привет, воин. Это %s.\nПро хлам не забыл, который мне отдавал? \n%%c[green]%s%%c[default] готов. Можешь забирать. Советую крупными скачками семенить в мою сторону. Ге-ге-ге...</text>
+	</string>
+</string_table>

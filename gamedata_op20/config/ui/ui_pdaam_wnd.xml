@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<pdaam>	
+	<back_video x="10" y="10" width="380" height="320" stretch="0">
+		<texture></texture>
+	</back_video>
+
+	<background x="0" y="0" width="513" height="261" stretch="0">
+		<texture x="0" y="0" width="512" height="260">ui\ui_art_pda_texture</texture>
+	</background>
+
+	<caption x="175" y="30" width="50" height="35">
+		<text></text>
+	</caption>
+	
+	<strs x="320" y="105" width="176" height="20">
+		<text>Шанс артмода = 85%</text>
+	</strs>
+	
+	
+	
+	<cap_aut x="40" y="305" width="50" height="35">
+		<text></text>
+	</cap_aut>
+	
+	<caption_mb x="350" y="64" width="100" height="27">
+		<text>ВОРОНКА</text>
+	</caption_mb>
+	
+	<caption_zrk x="350" y="64" width="100" height="27">
+		<text>ЖАРКА</text>
+	</caption_zrk>
+	
+	<caption_gal x="350" y="64" width="100" height="27">
+		<text>ЭЛЕКТРА</text>
+	</caption_gal>
+	
+	<caption_buzz x="350" y="64" width="100" height="27">
+		<text>ХОЛОДЕЦ</text>
+	</caption_buzz>
+	
+	<caption_mncr x="350" y="64" width="100" height="27">
+		<text>КАРУСЕЛЬ</text>
+	</caption_mncr>
+	
+	<caption_grv x="350" y="64" width="100" height="27">
+		<text>ТРАМПЛИН</text>
+	</caption_grv>
+	
+	<btn_mb_1 x="50" y="75" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Слизняк</text>
+	</btn_mb_1>
+	
+	<btn_mb_2 x="182" y="75" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Слизь</text>
+	</btn_mb_2>
+	
+	<btn_mb_3 x="50" y="112" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Вспышка</text>
+	</btn_mb_3>
+	
+	<btn_mb_4 x="182" y="112" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Ноч звезда</text>
+	</btn_mb_4>
+	
+	<btn_mb_5 x="50" y="150" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Душа</text>
+	</btn_mb_5>
+	
+	<btn_mb_6 x="182" y="150" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Плёнка</text>
+	</btn_mb_6>
+
+	
+	
+	
+	
+	<btn_zrk_1 x="50" y="75" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Вспышка</text>
+	</btn_zrk_1>
+	
+	<btn_zrk_2 x="182" y="75" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Слизь</text>
+	</btn_zrk_2>
+	
+	<btn_zrk_3 x="50" y="112" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Грави</text>
+	</btn_zrk_3>
+	
+	<btn_zrk_4 x="182" y="112" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Ноч звезда</text>
+	</btn_zrk_4>
+	
+	<btn_zrk_5 x="50" y="150" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Лун свет</text>
+	</btn_zrk_5>
+	
+	<btn_zrk_6 x="182" y="150" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Батарейка</text>
+	</btn_zrk_6>
+	
+	<btn_zrk_7 x="50" y="188" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Пл. гусенница</text>
+	</btn_zrk_7>
+	
+	
+	
+	
+	
+	<btn_gal_1 x="50" y="75" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Огненый шар</text>
+	</btn_gal_1>
+	
+	<btn_gal_2 x="182" y="75" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Кам цветок</text>
+	</btn_gal_2>
+	
+	<btn_gal_3 x="50" y="112" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Слюда</text>
+	</btn_gal_3>
+	
+	<btn_gal_4 x="182" y="112" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Душа</text>
+	</btn_gal_4>
+	
+	<btn_gal_5 x="50" y="150" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Зол рыбка</text>
+	</btn_gal_5>
+	
+	<btn_gal_6 x="182" y="150" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Пружина</text>
+	</btn_gal_6>
+	
+	<btn_gal_7 x="50" y="188" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Медуза</text>
+	</btn_gal_7>
+	
+	
+	
+	
+	
+	
+	<btn_buzz_1 x="50" y="75" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Крис колючка</text>
+	</btn_buzz_1>
+	
+	<btn_buzz_2 x="182" y="75" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Колючка</text>
+	</btn_buzz_2>
+	
+	<btn_buzz_3 x="50" y="112" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Огненный шар</text>
+	</btn_buzz_3>
+	
+	<btn_buzz_4 x="182" y="112" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Кристалл</text>
+	</btn_buzz_4>
+	
+	<btn_buzz_5 x="50" y="150" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Зол рыбка</text>
+	</btn_buzz_5>
+	
+	<btn_buzz_6 x="182" y="150" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Колобок</text>
+	</btn_buzz_6>
+	
+	<btn_buzz_7 x="50" y="188" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Выверт</text>
+	</btn_buzz_7>
+	
+	<btn_buzz_8 x="182" y="188" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Симбион</text>
+	</btn_buzz_8>
+	
+	
+	
+	
+	
+	<btn_mncr_1 x="50" y="75" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Кам цветок</text>
+	</btn_mncr_1>
+	
+	<btn_mncr_2 x="182" y="75" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Капля</text>
+	</btn_mncr_2>
+	
+	<btn_mncr_3 x="50" y="112" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Крис колючка</text>
+	</btn_mncr_3>
+	
+	<btn_mncr_4 x="182" y="112" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Лун свет</text>
+	</btn_mncr_4>
+	
+	<btn_mncr_5 x="50" y="150" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Слюда</text>
+	</btn_mncr_5>
+	
+	<btn_mncr_6 x="182" y="150" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Мамины бусы</text>
+	</btn_mncr_6>
+	
+	
+	
+	
+	
+	<btn_grv_1 x="50" y="75" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Ломоть мяса</text>
+	</btn_grv_1>
+	
+	<btn_grv_2 x="182" y="75" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Бенг огонь</text>
+	</btn_grv_2>
+	
+	<btn_grv_3 x="50" y="112" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Слизняк</text>
+	</btn_grv_3>
+	
+	<btn_grv_4 x="182" y="112" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Кристалл</text>
+	</btn_grv_4>
+	
+	<btn_grv_5 x="50" y="150" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Морской ёж</text>
+	</btn_grv_5>
+	
+	<btn_grv_6 x="182" y="150" width="112" height="25">
+	<texture_e>ui\ui_pdaam_btn_e</texture_e>
+	<texture_t>ui\ui_pdaam_btn_t</texture_t>
+	<texture_h>ui\ui_pdaam_btn_h</texture_h>
+		<text>Пустышка</text>
+	</btn_grv_6>
+	
+	
+	
+
+    <btn_quit x="354" y="223" width="112" height="27">
+	
+	<text></text>
+</btn_quit>
+</pdaam>
