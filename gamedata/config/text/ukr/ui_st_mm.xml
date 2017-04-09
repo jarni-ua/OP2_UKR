@@ -620,7 +620,7 @@
 		<eng>Продать всё</eng>
 		<ukr>Продати все</ukr>
 	</string>
-	<string id="ui_mm_save_level_game"> 
+	<string id="ui_mm_save_level_game">
 		<text>Сохранить на территории</text>
 		<eng>Сохранить на территории</eng>
 		<ukr>Зберегти на рівні</ukr> 
@@ -817,9 +817,24 @@
 		<eng>Тайники</eng>
 		<ukr>Тайники</ukr>
 	</string>
+	<string id="ui_mm_font_profile">
+		<text>Шрифт</text>
+		<eng>Шрифт</eng>
+		<ukr>Шрифт</ukr>
+	</string>
+	<string id="default_fonts">
+		<text>Стандартный</text>
+		<eng>Стандартный</eng>
+		<ukr>Стандартний</ukr>
+	</string>
+	<string id="bigger_fonts">
+		<text>Увеличенный</text>
+		<eng>Увеличенный</eng>
+		<ukr>Збільшений</ukr>
+	</string>
 	<string id="ui_mm_pause_text">
 		<text>Зона ждет тебя, %s ...</text>
 		<eng>Зона ждет тебя, %s ...</eng>
-		<ukr>Зона ждет тебя, %s ...</ukr>
+		<ukr>Зона чекає на тебе, %s ...</ukr>
 	</string>
 </string_table>
