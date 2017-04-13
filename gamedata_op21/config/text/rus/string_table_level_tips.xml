@@ -2,110 +2,182 @@
 <string_table>
 	<string id="bar_rostok">
 		<text>Бар - Дикая Территория</text>
+		<eng>Бар - Дикая Территория</eng>
+		<ukr>Бар - Дика Територія</ukr>
 	</string>
 	<string id="car_character_use">
 		<text>Открыть дверь</text>
+		<eng>Открыть дверь</eng>
+		<ukr>Відкрити двері</ukr>
 	</string>
 	<string id="character_use">
 		<text>Говорить</text>
+		<eng>Говорить</eng>
+		<ukr>Говорити</ukr>
 	</string>
 	<string id="dead_character_use_or_drag">
 		<text>Обыскать</text>
+		<eng>Обыскать</eng>
+		<ukr>Обшукати</ukr>
 	</string>
 	<string id="dead_character_use">
 		<text>Обыскать</text>
+		<eng>Обыскать</eng>
+		<ukr>Обшукати</ukr>
 	</string>
 	<string id="dogfrend_use">
 		<text>Погладить Дружка</text>
+		<eng>Погладить Дружка</eng>
+		<ukr>Погладити Дружка</ukr>
 	</string>
 	<string id="general_complete_task">
-		<text>Завершено задание: </text>
+		<text>Завершено задание:		</text>
+		<eng>Завершено задание:		</eng>
+		<ukr>Завдання виконане:</ukr>
 	</string>
 	<string id="general_fail_task">
-		<text>Провалено задание: </text>
+		<text>Провалено задание:		</text>
+		<eng>Провалено задание:		</eng>
+		<ukr>Завдання провалене:</ukr>
 	</string>
 	<string id="general_help">
 		<text>Срочно нужна аптечка, помираю!!!</text>
+		<eng>Срочно нужна аптечка, помираю!!!</eng>
+		<ukr>Терміново потрібна аптечка, помираю!</ukr>
 	</string>
 	<string id="general_in_item">
-		<text>Получен предмет: </text>
+		<text>Получен предмет:		</text>
+		<eng>Получен предмет:		</eng>
+		<ukr>Отримано предмет:</ukr>
 	</string>
 	<string id="general_in_money">
-		<text>Получены деньги: </text>
+		<text>Получены деньги:		</text>
+		<eng>Получены деньги:		</eng>
+		<ukr>Отримано гроші:</ukr>
 	</string>
 	<string id="general_new_diary">
 		<text>Новая запись в дневнике.</text>
+		<eng>Новая запись в дневнике.</eng>
+		<ukr>Новий запис у щоденнику</ukr>
 	</string>
 	<string id="general_new_encyclopedy">
 		<text>Новая статья в энциклопедии.</text>
+		<eng>Новая статья в энциклопедии.</eng>
+		<ukr>Нова стаття в енциклопедії</ukr>
 	</string>
 	<string id="general_new_task">
-		<text>Получено задание: </text>
+		<text>Получено задание:		</text>
+		<eng>Получено задание:		</eng>
+		<ukr>Нове завдання:</ukr>
 	</string>
 	<string id="general_out_item">
-		<text>Потерян предмет: </text>
+		<text>Потерян предмет:		</text>
+		<eng>Потерян предмет:		</eng>
+		<ukr>Втрачено предмет:</ukr>
 	</string>
 	<string id="general_out_money">
-		<text>Потеряны деньги: </text>
+		<text>Потеряны деньги:		</text>
+		<eng>Потеряны деньги:		</eng>
+		<ukr>Втрачено гроші:</ukr>
 	</string>
 	<string id="general_update_task">
-		<text>Обновлено задание: </text>
+		<text>Обновлено задание:		</text>
+		<eng>Обновлено задание:		</eng>
+		<ukr>Завдання оновлене:</ukr>
 	</string>
 	<string id="physic_shell_use">
 		<text>Двигать объект</text>
+		<eng>Двигать объект</eng>
+		<ukr>Рухати об'єкт</ukr>
 	</string>
 	<string id="st_codelock">
 		<text>Ввести код</text>
+		<eng>Ввести код</eng>
+		<ukr>Ввести код</ukr>
 	</string>
 	<string id="to_aes">
 		<text>На ЧАЭС-1</text>
+		<eng>На ЧАЭС-1</eng>
+		<ukr>На ЧАЕС-1</ukr>
 	</string>
 	<string id="to_agroprom">
 		<text>На Агропром</text>
+		<eng>На Агропром</eng>
+		<ukr>На Агропром</ukr>
 	</string>
 	<string id="to_agroprom_underground">
 		<text>В Подземелье Агропрома</text>
+		<eng>В Подземелье Агропрома</eng>
+		<ukr>У Підземелля Агропрома</ukr>
 	</string>
 	<string id="to_bar">
 		<text>В Бар</text>
+		<eng>В Бар</eng>
+		<ukr>В Бар</ukr>
 	</string>
 	<string id="to_darkvalley">
 		<text>В Тёмную Долину</text>
+		<eng>В Тёмную Долину</eng>
+		<ukr>До Темної долини</ukr>
 	</string>
 	<string id="to_escape">
 		<text>На Кордон</text>
+		<eng>На Кордон</eng>
+		<ukr>На Кордон</ukr>
 	</string>
 	<string id="to_garbage">
 		<text>На Свалку</text>
+		<eng>На Свалку</eng>
+		<ukr>На Звалище</ukr>
 	</string>
 	<string id="to_military">
 		<text>На Армейские Склады</text>
+		<eng>На Армейские Склады</eng>
+		<ukr>На Армійські Склади</ukr>
 	</string>
 	<string id="to_pripyat">
 		<text>В Припять</text>
+		<eng>В Припять</eng>
+		<ukr>У Прип'ять</ukr>
 	</string>
 	<string id="to_radar">
 		<text>На Радар</text>
+		<eng>На Радар</eng>
+		<ukr>На Радар</ukr>
 	</string>
 	<string id="to_rostok">
 		<text>На Дикую Территорию</text>
+		<eng>На Дикую Территорию</eng>
+		<ukr>На Дику територію</ukr>
 	</string>
 	<string id="to_sarcofag">
 		<text>В Саркофаг</text>
+		<eng>В Саркофаг</eng>
+		<ukr>У Саркофаг</ukr>
 	</string>
 	<string id="to_yantar">
 		<text>На Янтарь</text>
+		<eng>На Янтарь</eng>
+		<ukr>На Янтар</ukr>
 	</string>
 	<string id="st_helmet_countdown">
 		<text>Отключение защиты</text>
+		<eng>Отключение защиты</eng>
+		<ukr>Відключення захисту</ukr>
 	</string>
 	<string id="st_psy_danger">
 		<text>Критический уровень пси-излучения. Немедленно покиньте опасную зону.</text>
+		<eng>Критический уровень пси-излучения. Немедленно покиньте опасную зону.</eng>
+		<ukr>Критичний рівень псі-випромінювання! Негайно залишіть небезпечну зону!</ukr>
 	</string>
 	<string id="st_radiation_danger">
 		<text>Опасный уровень радиации. Необходима защита, чтобы пройти.</text>
+		<eng>Опасный уровень радиации. Необходима защита, чтобы пройти.</eng>
+		<ukr>Небезпечний рівень радіації! Для проходу необхідний захист!</ukr>
 	</string>
 	<string id="st_found_new_pda">
-		<text>Найдена информация: </text>
+		<text>Найдена информация:		</text>
+		<eng>Найдена информация:		</eng>
+		<ukr>Знайдено інформацію:</ukr>
 	</string>
 </string_table>

@@ -2,230 +2,382 @@
 <string_table>
 	<string id="kb_active_jobs">
 		<text>Активные задачи в КПК</text>
+		<eng>Активные задачи в КПК</eng>
+		<ukr>Активні задачі в КПК</ukr>
 	</string>
 	<string id="kb_always_run">
 		<text>Шаг</text>
+		<eng>Шаг</eng>
+		<ukr>Крок</ukr>
 	</string>
 	<string id="kb_artefact">
 		<text>Артефакт</text>
+		<eng>Артефакт</eng>
+		<ukr>Артефакт</ukr>
 	</string>
 	<string id="kb_backward">
 		<text>Назад</text>
+		<eng>Назад</eng>
+		<ukr>Назад</ukr>
 	</string>
 	<string id="kb_binoculars">
 		<text>Бинокль</text>
+		<eng>Бинокль</eng>
+		<ukr>Бінокль</ukr>
 	</string>
 	<string id="kb_buy_menu">
 		<text>Меню покупки</text>
+		<eng>Меню покупки</eng>
+		<ukr>Меню покупки</ukr>
 	</string>
 	<string id="kb_chat">
 		<text>Чат</text>
+		<eng>Чат</eng>
+		<ukr>Чат</ukr>
 	</string>
 	<string id="kb_chat_team">
 		<text>Командный чат</text>
+		<eng>Командный чат</eng>
+		<ukr>Командний чат</ukr>
 	</string>
 	<string id="kb_console">
 		<text>Консоль</text>
+		<eng>Консоль</eng>
+		<ukr>Консоль</ukr>
 	</string>
 	<string id="kb_contacts">
 		<text>Контакты в КПК</text>
+		<eng>Контакты в КПК</eng>
+		<ukr>Контакти в КПК</ukr>
 	</string>
 	<string id="kb_crouch">
 		<text>Присесть</text>
+		<eng>Присесть</eng>
+		<ukr>Присісти</ukr>
 	</string>
 	<string id="kb_crouch_toggle">
 		<text>Всегда в присяде</text>
+		<eng>Всегда в присяде</eng>
+		<ukr>Завжди навприсідки</ukr>
 	</string>
 	<string id="kb_creep">
 		<text>Всегда в полном присяде</text>
+		<eng>Всегда в полном присяде</eng>
+		<ukr>Завжди повністю присівши</ukr>
 	</string>
 	<string id="kb_down">
 		<text>Вниз</text>
+		<eng>Вниз</eng>
+		<ukr>Униз</ukr>
 	</string>
 	<string id="kb_drop">
 		<text>Выложить</text>
+		<eng>Выложить</eng>
+		<ukr>Викласти</ukr>
 	</string>
 	<string id="kb_fire">
 		<text>Огонь</text>
+		<eng>Огонь</eng>
+		<ukr>Вогонь</ukr>
 	</string>
 	<string id="kb_firemode_next">
 		<text>Следующий режим стрельбы</text>
+		<eng>Следующий режим стрельбы</eng>
+		<ukr>Режим стрільби наст.</ukr>
 	</string>
 	<string id="kb_firemode_prev">
 		<text>Предыдущий режим стрельбы</text>
+		<eng>Предыдущий режим стрельбы</eng>
+		<ukr>Режим стрільби попер.</ukr>
 	</string>
 	<string id="kb_forward">
 		<text>Вперёд</text>
+		<eng>Вперёд</eng>
+		<ukr>Вперед</ukr>
 	</string>
 	<string id="kb_func">
 		<text>Подствольник</text>
+		<eng>Подствольник</eng>
+		<ukr>Підствольник</ukr>
 	</string>
 	<string id="kb_grp_common">
 		<text>Общее</text>
+		<eng>Общее</eng>
+		<ukr>Загальне</ukr>
 	</string>
 	<string id="kb_grp_direction">
 		<text>Направление</text>
+		<eng>Направление</eng>
+		<ukr>Напрямок</ukr>
 	</string>
 	<string id="kb_grp_inventory">
 		<text>Инвентарь</text>
+		<eng>Инвентарь</eng>
+		<ukr>Інвентар</ukr>
 	</string>
 	<string id="kb_grp_movement">
 		<text>Движение</text>
+		<eng>Движение</eng>
+		<ukr>Рух</ukr>
 	</string>
 	<string id="kb_grp_multiplayer">
 		<text>Сетевая игра</text>
+		<eng>Сетевая игра</eng>
+		<ukr>Гра через мережу</ukr>
 	</string>
 	<string id="kb_grp_weapons">
 		<text>Оружие</text>
+		<eng>Оружие</eng>
+		<ukr>Зброя</ukr>
 	</string>
 	<string id="kb_inventory">
 		<text>Инвентарь</text>
+		<eng>Инвентарь</eng>
+		<ukr>Інвентар</ukr>
 	</string>
 	<string id="kb_jump">
 		<text>Прыжок</text>
+		<eng>Прыжок</eng>
+		<ukr>Стрибок</ukr>
 	</string>
 	<string id="kb_left">
 		<text>Влево</text>
+		<eng>Влево</eng>
+		<ukr>Ліворуч</ukr>
 	</string>
 	<string id="kb_left_lookout">
 		<text>Выглянуть влево</text>
+		<eng>Выглянуть влево</eng>
+		<ukr>Виглянути вліво</ukr>
 	</string>
 	<string id="kb_left_strafe">
 		<text>Шаг влево</text>
+		<eng>Шаг влево</eng>
+		<ukr>Крок ліворуч</ukr>
 	</string>
 	<string id="kb_map">
 		<text>Карта в КПК</text>
+		<eng>Карта в КПК</eng>
+		<ukr>Карта в КПК</ukr>
 	</string>
 	<string id="kb_next_slot">
 		<text>Оружие из следующего слота</text>
+		<eng>Оружие из следующего слота</eng>
+		<ukr>Зброя з наступного слота</ukr>
 	</string>
 	<string id="kb_night_vision">
 		<text>Прибор ночного видения</text>
+		<eng>Прибор ночного видения</eng>
+		<ukr>Прилад нічного бачення</ukr>
 	</string>
 	<string id="kb_pause">
 		<text>Пауза</text>
+		<eng>Пауза</eng>
+		<ukr>Пауза</ukr>
 	</string>
 	<string id="kb_pda">
 		<text>КПК</text>
+		<eng>КПК</eng>
+		<ukr>КПК</ukr>
 	</string>
 	<string id="kb_prev_slot">
 		<text>Оружие из предыдущего слота</text>
+		<eng>Оружие из предыдущего слота</eng>
+		<ukr>Зброя із попереднього слота</ukr>
 	</string>
 	<string id="kb_quit">
 		<text>Выход</text>
+		<eng>Выход</eng>
+		<ukr>Вихід</ukr>
 	</string>
 	<string id="kb_reload">
 		<text>Перезарядить</text>
+		<eng>Перезарядить</eng>
+		<ukr>Перезарядити</ukr>
 	</string>
 	<string id="kb_repair">
 		<text>Починить</text>
+		<eng>Починить</eng>
+		<ukr>Полагодити</ukr>
 	</string>
 	<string id="kb_right">
 		<text>Вправо</text>
+		<eng>Вправо</eng>
+		<ukr>Праворуч</ukr>
 	</string>
 	<string id="kb_right_lookout">
 		<text>Выглянуть вправо</text>
+		<eng>Выглянуть вправо</eng>
+		<ukr>Виглянути вправо</ukr>
 	</string>
 	<string id="kb_right_strafe">
 		<text>Шаг вправо</text>
+		<eng>Шаг вправо</eng>
+		<ukr>Крок праворуч</ukr>
 	</string>
 	<string id="kb_reminds">
 		<text>Напоминания</text>
+		<eng>Напоминания</eng>
+		<ukr>Нагадування</ukr>
 	</string>
 	<string id="kb_screenshot">
 		<text>Скриншот</text>
+		<eng>Скриншот</eng>
+		<ukr>Скріншот</ukr>
 	</string>
 	<string id="kb_skin_menu">
 		<text>Меню выбора модели</text>
+		<eng>Меню выбора модели</eng>
+		<ukr>Меню вибору моделі</ukr>
 	</string>
 	<string id="kb_sprint">
 		<text>Бег</text>
+		<eng>Бег</eng>
+		<ukr>Бігти</ukr>
 	</string>
 	<string id="kb_super_jump">
 		<text>Суперпрыжок</text>
+		<eng>Суперпрыжок</eng>
+		<ukr>Суперстрибок</ukr>
 	</string>
 	<string id="kb_save_on_level">
 		<text>Сохранить на территории</text>
+		<eng>Сохранить на территории</eng>
+		<ukr>Зберегти на території</ukr>
 	</string>
 	<string id="kb_team_menu">
 		<text>Меню выбора команды</text>
+		<eng>Меню выбора команды</eng>
+		<ukr>Меню вибору команди</ukr>
 	</string>
 	<string id="kb_torch">
 		<text>Фонарик</text>
+		<eng>Фонарик</eng>
+		<ukr>Ліхтарик</ukr>
 	</string>
 	<string id="kb_turn_engine">
 		<text>Завести двигатель</text>
+		<eng>Завести двигатель</eng>
+		<ukr>Завести двигун</ukr>
 	</string>
 	<string id="kb_runner">
 		<text>Возвращатель/Ускоритель</text>
+		<eng>Возвращатель/Ускоритель</eng>
+		<ukr>Повертальник/Прискорювач</ukr>
 	</string>
 	<string id="kb_up">
 		<text>Вверх</text>
+		<eng>Вверх</eng>
+		<ukr>Нагору</ukr>
 	</string>
 	<string id="kb_use">
 		<text>Использовать</text>
+		<eng>Использовать</eng>
+		<ukr>Використати</ukr>
 	</string>
 	<string id="kb_use_bandage">
 		<text>Использовать бинт</text>
+		<eng>Использовать бинт</eng>
+		<ukr>Перев'язка</ukr>
 	</string>
 	<string id="kb_use_medkit">
 		<text>Использовать аптечку</text>
+		<eng>Использовать аптечку</eng>
+		<ukr>Використати аптечку</ukr>
 	</string>
 	<string id="kb_vote_begin">
 		<text>Начать голосование</text>
+		<eng>Начать голосование</eng>
+		<ukr>Розпочати голосування</ukr>
 	</string>
 	<string id="kb_vote_menu">
 		<text>Проголосовать</text>
+		<eng>Проголосовать</eng>
+		<ukr>Проголосувати</ukr>
 	</string>
 	<string id="kb_vote_no">
 		<text>Проголосовать "Нет"</text>
+		<eng>Проголосовать "Нет"</eng>
+		<ukr>Проголосувати «Ні»</ukr>
 	</string>
 	<string id="kb_vote_yes">
 		<text>Проголосовать "Да"</text>
+		<eng>Проголосовать "Да"</eng>
+		<ukr>Проголосувати «Так»</ukr>
 	</string>
 	<string id="kb_weapon1">
 		<text>Нож</text>
+		<eng>Нож</eng>
+		<ukr>Ніж</ukr>
 	</string>
 	<string id="kb_weapon2">
 		<text>Пистолет</text>
+		<eng>Пистолет</eng>
+		<ukr>Пістолет</ukr>
 	</string>
 	<string id="kb_weapon3">
 		<text>Автомат</text>
+		<eng>Автомат</eng>
+		<ukr>Автомат</ukr>
 	</string>
 	<string id="kb_weapon4">
 		<text>Дробовик/ПП</text>
+		<eng>Дробовик/ПП</eng>
+		<ukr>Дробовик/ПК</ukr>
 	</string>
 	<string id="kb_weapon5">
 		<text>Граната</text>
+		<eng>Граната</eng>
+		<ukr>Граната</ukr>
 	</string>
 	<string id="kb_weapon6">
 		<text>Бинокль</text>
+		<eng>Бинокль</eng>
+		<ukr>Бінокль</ukr>
 	</string>
 	<string id="kb_weapon7">
 		<text>Болт</text>
-	</string>	
+		<eng>Болт</eng>
+		<ukr>Болт</ukr>
+	</string>
 	<string id="kb_wpn_next">
 		<text>Сменить тип патронов</text>
+		<eng>Сменить тип патронов</eng>
+		<ukr>Змінити тип патронів</ukr>
 	</string>
 	<string id="kb_wpn_prev">
 		<text>Предыдущее оружие этого типа</text>
+		<eng>Предыдущее оружие этого типа</eng>
+		<ukr>Попередня зброя цього типу</ukr>
 	</string>
 	<string id="kb_zoom">
 		<text>Приблизить</text>
+		<eng>Приблизить</eng>
+		<ukr>Наблизити</ukr>
 	</string>
 	<string id="speech_menu_group">
 		<text>Голосовые сообщения (1)</text>
+		<eng>Голосовые сообщения (1)</eng>
+		<ukr>Голосові повідомлення (1)</ukr>
 	</string>
 	<string id="speech_menu_personal">
 		<text>Голосовые сообщения (2)</text>
+		<eng>Голосовые сообщения (2)</eng>
+		<ukr>Голосові повідомлення (2)</ukr>
 	</string>
 	<string id="kb_cam_1">
 		<text>Вид от первого лица</text>
+		<eng>Вид от первого лица</eng>
+		<ukr>Вид ві першої особи</ukr>
 	</string>
 	<string id="kb_cam_2">
 		<text>Вид от третьего лица</text>
+		<eng>Вид от третьего лица</eng>
+		<ukr>Вид від третьої особи</ukr>
 	</string>
 	<string id="kb_cam_3">
 		<text>Вид от третьего лица (freelook)</text>
+		<eng>Вид от третьего лица (freelook)</eng>
+		<ukr>Вид від третьої особи (freelook)</ukr>
 	</string>
 </string_table>

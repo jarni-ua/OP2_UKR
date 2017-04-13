@@ -2,260 +2,432 @@
 <string_table>
 	<string id="id_mp_money">
 		<text>Деньги</text>
+		<eng>Деньги</eng>
+		<ukr>Гроші</ukr>
 	</string>
 	<string id="mm_mp_pda_hunt">
 		<text>Бонус за КПК</text>
+		<eng>Бонус за КПК</eng>
+		<ukr>Бонус за КПК</ukr>
 	</string>
 	<string id="st_drink">
 		<text>выпить</text>
+		<eng>выпить</eng>
+		<ukr>випити</ukr>
 	</string>
 	<string id="st_mp_direct_ip">
 		<text>Прямой IP</text>
+		<eng>Прямой IP</eng>
+		<ukr>Прямий IP</ukr>
 	</string>
 	<string id="ui_mm_default">
 		<text>По умолчанию</text>
+		<eng>По умолчанию</eng>
+		<ukr>За замовч.</ukr>
 	</string>
 	<string id="ui_mm_detail_density">
 		<text>Плотность травы</text>
+		<eng>Плотность травы</eng>
+		<ukr>Щільність трави</ukr>
 	</string>
 	<string id="ui_mm_r2_sun">
 		<text>Тень от солнца</text>
+		<eng>Тень от солнца</eng>
+		<ukr>Тінь від сонця</ukr>
 	</string>
 	<string id="ui_mm_r2_sun_details">
 		<text>Тень травы</text>
+		<eng>Тень травы</eng>
+		<ukr>Тінь трави</ukr>
 	</string>
 	<string id="ui_mm_render_2">
 		<text>Тип освещения-2</text>
+		<eng>Тип освещения-2</eng>
+		<ukr>Рендер-2</ukr>
 	</string>
 	<string id="ui_pda_details">
 		<text># /детали</text>
+		<eng># /детали</eng>
+		<ukr># /деталі</ukr>
 	</string>
 	<string id="ui_st_btn_cancel">
 		<text>Отмена</text>
+		<eng>Отмена</eng>
+		<ukr>Відмінити</ukr>
 	</string>
 	<string id="ui_st_btn_no">
 		<text>Нет</text>
+		<eng>Нет</eng>
+		<ukr>Ні</ukr>
 	</string>
 	<string id="ui_st_btn_ok">
 		<text>ОК</text>
+		<eng>ОК</eng>
+		<ukr>ОК</ukr>
 	</string>
 	<string id="ui_st_btn_yes">
 		<text>Да</text>
+		<eng>Да</eng>
+		<ukr>Так</ukr>
 	</string>
 	<string id="ui_st_cant_run_r2">
 		<text>Вы не можете запустить второй тип освещения на Вашем компьютере</text>
+		<eng>Вы не можете запустить второй тип освещения на Вашем компьютере</eng>
+		<ukr>Ви не можете запустити другий рендер на цьому комп'ютері</ukr>
 	</string>
 	<string id="ui_st_conn_invalid_host">
 		<text>Ошибка соединения: неверный хост</text>
+		<eng>Ошибка соединения: неверный хост</eng>
+		<ukr>Помилка з'єднання: невірний хост</ukr>
 	</string>
 	<string id="ui_st_conn_invalid_pass">
 		<text>Ошибка соединения: неверный пароль</text>
+		<eng>Ошибка соединения: неверный пароль</eng>
+		<ukr>Помилка з'єднання: невірний пароль</ukr>
 	</string>
 	<string id="ui_st_conn_rejected_server">
 		<text>Ошибка соединения: соединение прервано сервером</text>
+		<eng>Ошибка соединения: соединение прервано сервером</eng>
+		<ukr>Помилка з'єднання: з'єднання перерване сервером</ukr>
 	</string>
 	<string id="ui_st_conn_sess_full">
 		<text>Ошибка соединения: сервер заполнен</text>
+		<eng>Ошибка соединения: сервер заполнен</eng>
+		<ukr>Помилка з'єднання: сервер заповнений</ukr>
 	</string>
 	<string id="ui_st_days">
 		<text>дн.</text>
+		<eng>дн.</eng>
+		<ukr>дн.</ukr>
 	</string>
 	<string id="ui_st_error">
 		<text>Ошибка</text>
+		<eng>Ошибка</eng>
+		<ukr>Помилка</ukr>
 	</string>
 	<string id="ui_st_file_exist_owerwrite_q">
 		<text>Файл с таким именем уже существует. Перезаписать?</text>
+		<eng>Файл с таким именем уже существует. Перезаписать?</eng>
+		<ukr>Файл із таким ім'ям вже існує. Перезаписати?</ukr>
 	</string>
 	<string id="ui_st_file_name_is_empty">
 		<text>Имя файла пустое</text>
+		<eng>Имя файла пустое</eng>
+		<ukr>Ім'я файлу порожнє</ukr>
 	</string>
 	<string id="ui_st_hours">
 		<text>час.</text>
+		<eng>час.</eng>
+		<ukr>год.</ukr>
 	</string>
 	<string id="ui_st_leave">
 		<text>Уйти</text>
+		<eng>Уйти</eng>
+		<ukr>Піти</ukr>
 	</string>
 	<string id="ui_st_mins">
 		<text>мин.</text>
+		<eng>мин.</eng>
+		<ukr>хв.</ukr>
 	</string>
 	<string id="ui_st_months">
 		<text>мес.</text>
+		<eng>мес.</eng>
+		<ukr>міс.</ukr>
 	</string>
 	<string id="ui_st_params">
 		<text>Защиты</text>
+		<eng>Защиты</eng>
+		<ukr>Захисти</ukr>
 	</string>
 	<string id="ui_st_modifiers">
 		<text>Модификаторы</text>
-	</string>	
+		<eng>Модификаторы</eng>
+		<ukr>Модификаторы</ukr>
+	</string>
 	<string id="ui_st_secs">
 		<text>сек.</text>
+		<eng>сек.</eng>
+		<ukr>сек.</ukr>
 	</string>
 	<string id="ui_st_select_one_map">
 		<text>Пожалуйста, выберите хотя бы одну карту</text>
+		<eng>Пожалуйста, выберите хотя бы одну карту</eng>
+		<ukr>Будь ласка, оберіть хоча б одну карту</ukr>
 	</string>
 	<string id="ui_st_take_all">
 		<text>Взять всё</text>
+		<eng>Взять всё</eng>
+		<ukr>Взяти все</ukr>
 	</string>
 	<string id="ui_st_move">
 		<text>Переместить всё</text>
+		<eng>Переместить всё</eng>
+		<ukr>Перемістити все</ukr>
 	</string>
 	<string id="ui_st_time_remains">
 		<text>Осталось</text>
+		<eng>Осталось</eng>
+		<ukr>Залишилося</ukr>
 	</string>
 	<string id="ui_st_trade">
 		<text>Торговать</text>
+		<eng>Торговать</eng>
+		<ukr>Торгувати</ukr>
 	</string>
 	<string id="ui_st_voting_disabled">
 		<text>Голосование отключено</text>
+		<eng>Голосование отключено</eng>
+		<ukr>Голосування відключене</ukr>
 	</string>
 	<string id="ui_st_want_to_leave_game_q">
 		<text>Вы действительно хотите покинуть Зону?</text>
+		<eng>Вы действительно хотите покинуть Зону?</eng>
+		<ukr>Ви справді хочете залишити Зону?</ukr>
 	</string>
 	<string id="ui_st_your_items">
 		<text>Вещи Меченого</text>
+		<eng>Вещи Меченого</eng>
+		<ukr>Речі Міченого</ukr>
 	</string>
 	<string id="st_game_over_press_jump">
 		<text>Нажмите ($$ACTION_JUMP$$) для выхода в главное меню</text>
+		<eng>Нажмите ($$ACTION_JUMP$$) для выхода в главное меню</eng>
+		<ukr>Натисніть ($$ACTION_JUMP$$) для виходу до головного меню</ukr>
 	</string>
 	<string id="st_level">
 		<text>Уровень</text>
+		<eng>Уровень</eng>
+		<ukr>Рівень</ukr>
 	</string>
 	<string id="st_opening_stream">
 		<text>Прощаюсь со всеми</text>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
 	</string>
 	<string id="st_loading_cform">
 		<text>Прощаюсь со всеми</text>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
 	</string>
 	<string id="st_prefetching_objects">
 		<text>Собираюсь в дорогу</text>
+		<eng>Собираюсь в дорогу</eng>
+		<ukr>Збираюсь в дорогу</ukr>
 	</string>
 	<string id="st_creating_new_game">
 		<text>Собираюсь в дорогу</text>
+		<eng>Собираюсь в дорогу</eng>
+		<ukr>Збираюсь в дорогу</ukr>
 	</string>
 	<string id="st_loading_alife_simulator">
 		<text>Собираюсь в дорогу</text>
+		<eng>Собираюсь в дорогу</eng>
+		<ukr>Збираюсь в дорогу</ukr>
 	</string>
 	<string id="st_server_connecting">
 		<text>Прощаюсь со всеми</text>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
 	</string>
 	<string id="st_loading_saved_game">
 		<text>Забираю всё из</text>
+		<eng>Забираю всё из</eng>
+		<ukr>Забираю все з</ukr>
 	</string>
 	<string id="st_validating_cdkey">
 		<text>Проверка ключа</text>
+		<eng>Проверка ключа</eng>
+		<ukr>Перевірка ключа</ukr>
 	</string>
 	<string id="st_loading_ai_objects">
 		<text>Прощаюсь со всеми</text>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
 	</string>
 	<string id="st_client_connecting_to">
-		<text>Прощаюсь </text>
+		<text>Прощаюсь		</text>
+		<eng>Прощаюсь		</eng>
+		<ukr>Прощаюсь з усіма</ukr>
 	</string>
 	<string id="localhost">
 		<text>со всеми</text>
+		<eng>со всеми</eng>
+		<ukr>со всеми</ukr>
 	</string>
 	<string id="st_client_spawning">
 		<text>Прощаюсь со всеми</text>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
 	</string>
 	<string id="st_loading_textures">
 		<text>Прощаюсь со всеми</text>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
 	</string>
 	<string id="st_client_synchronising">
 		<text>Отправляюсь в Зону</text>
+		<eng>Отправляюсь в Зону</eng>
+		<ukr>Відправляюсь у Зону</ukr>
 	</string>
 	<string id="st_server_starting">
 		<text>Собираюсь в дорогу</text>
+		<eng>Собираюсь в дорогу</eng>
+		<ukr>Збираюсь у дорогу</ukr>
 	</string>
 	<string id="st_loading_shaders">
 		<text>Прощаюсь со всеми</text>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
 	</string>
 	<string id="st_loading_geometry">
 		<text>Прощаюсь со всеми</text>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
 	</string>
 	<string id="st_loading_spatial_db">
 		<text>Прощаюсь со всеми</text>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
 	</string>
 	<string id="st_loading_details">
 		<text>Прощаюсь со всеми</text>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
 	</string>
 	<string id="st_loading_sectors_portals">
 		<text>Прощаюсь со всеми</text>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
 	</string>
 	<string id="ui_st_conn_version_differs">
 		<text>Ошибка соединения: Отличаются версии</text>
+		<eng>Ошибка соединения: Отличаются версии</eng>
+		<ukr>Помилка з'єднання: Відрізняються версії</ukr>
 	</string>
 	<string id="ui_st_conn_cdkey_invalid">
 		<text>Ошибка соединения: Неверный CD-Key</text>
+		<eng>Ошибка соединения: Неверный CD-Key</eng>
+		<ukr>Помилка з'єднання: Невірний CD-Key</ukr>
 	</string>
 	<string id="ui_st_conn_cdkey_in_use">
 		<text>Ошибка соединения: Такой CD-Key уже используется</text>
+		<eng>Ошибка соединения: Такой CD-Key уже используется</eng>
+		<ukr>Помилка з'єднання: Такий CD-Key уже використовується</ukr>
 	</string>
 	<string id="ui_st_conn_cdkey_disabled">
 		<text>Ошибка соединения: Ваш CD-Key заблокирован; свяжитесь со службой поддержки</text>
+		<eng>Ошибка соединения: Ваш CD-Key заблокирован; свяжитесь со службой поддержки</eng>
+		<ukr>Помилка з'єднання: Ваш CD-Key заблоковано. Зв'яжіться зі службою підтримки</ukr>
 	</string>
 	<string id="ui_st_conn_new_patch">
 		<text>Доступен новый патч. \nВерсия: %s\n %s\nХотите загрузить его сейчас?</text>
+		<eng>Доступен новый патч. \nВерсия: %s\n %s\nХотите загрузить его сейчас?</eng>
+		<ukr>Доступний новий патч. \n Версія: %s\n %s\n Хочете завантажити його зараз?</ukr>
 	</string>
 	<string id="ui_st_conn_no_new_patch">
 		<text>Нет новых патчей</text>
+		<eng>Нет новых патчей</eng>
+		<ukr>Немає нових патчів</ukr>
 	</string>
 	<string id="ui_mm_delete_existing_file_q">
 		<text>Вы действительно хотите удалить файл?</text>
+		<eng>Вы действительно хотите удалить файл?</eng>
+		<ukr>Ви справді хочете видалити файл?</ukr>
 	</string>
 	<string id="st_game_paused">
 		<text>Пауза</text>
+		<eng>Пауза</eng>
+		<ukr>Пауза</ukr>
 	</string>
 	<string id="st_bolt">
 		<text>Болт</text>
+		<eng>Болт</eng>
+		<ukr>Болт</ukr>
 	</string>
 	<string id="ui_st_description">
 		<text>Описание</text>
+		<eng>Описание</eng>
+		<ukr>Описание</ukr>
 	</string>
 	<string id="st_items">
 		<text>Предметы</text>
+		<eng>Предметы</eng>
+		<ukr>Предмети</ukr>
 	</string>
 	<string id="st_video">
 		<text>Видео</text>
+		<eng>Видео</eng>
+		<ukr>Відео</ukr>
 	</string>
 	<string id="st_audio">
 		<text>Звук</text>
+		<eng>Звук</eng>
+		<ukr>Звук</ukr>
 	</string>
 	<string id="st_game">
 		<text>Игра</text>
+		<eng>Игра</eng>
+		<ukr>Гра</ukr>
 	</string>
 	<string id="st_controll">
 		<text>Управление</text>
+		<eng>Управление</eng>
+		<ukr>Управління</ukr>
 	</string>
 	<string id="ui_st_connecting_to_masterserver">
 		<text>Прощаюсь со всеми</text>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з качками</ukr>
 	</string>
 	<string id="mp_only_one_voting">
 		<text>Разрешено только одно активное голосование</text>
+		<eng>Разрешено только одно активное голосование</eng>
+		<ukr>Дозволене лише одне активне голосування</ukr>
 	</string>
 	<string id="ui_st_patch_download_success">
 		<text>Патч успешно скачан. Установить?</text>
+		<eng>Патч успешно скачан. Установить?</eng>
+		<ukr>Патч успішно завантажений. Встановити?</ukr>
 	</string>
 	<string id="ui_st_patch_download_error">
 		<text>Невозможно скачать патч.</text>
+		<eng>Невозможно скачать патч.</eng>
+		<ukr>Неможливо завантажити патч</ukr>
 	</string>
 	<string id="ui_st_load_game_confirm">
 		<text>Загрузка игры приведёт к потере не сохранённых данных. Желаете продолжить?</text>
+		<eng>Загрузка игры приведёт к потере не сохранённых данных. Желаете продолжить?</eng>
+		<ukr>Завантаження гри призведе до втрати незбережених даних. Бажаєте продовжити?</ukr>
 	</string>
 	<string id="ui_st_invalid_saved_game">
 		<text>Не совпадает версия сохранённой игры, или сохранённая игра испорчена.</text>
+		<eng>Не совпадает версия сохранённой игры, или сохранённая игра испорчена.</eng>
+		<ukr>Не співпадає версія збереженої гри або збережена гра пошкоджена.</ukr>
 	</string>
 	<string id="ui_st_time_qbegin">
-		  <text>Получено</text>
+		<text>Получено</text>
+		<eng>Получено</eng>
+		<ukr>Получено</ukr>
 	</string>
 	<string id="ui_st_time_qend">
-		   <text>до</text>
+		<text>до</text>
+		<eng>до</eng>
+		<ukr>до</ukr>
 	</string>
 	<string id="ui_st_money_regional">
-		   <text>RU</text>
+		<text>RU</text>
+		<eng>RU</eng>
+		<ukr>RU</ukr>
 	</string>
 	<string id="st_main_on">
 		<text>Включить</text>
+		<eng>Включить</eng>
+		<ukr>Включить</ukr>
 	</string>
 	<string id="st_main_off">
 		<text>Выключить</text>
+		<eng>Выключить</eng>
+		<ukr>Выключить</ukr>
 	</string>
 </string_table>
