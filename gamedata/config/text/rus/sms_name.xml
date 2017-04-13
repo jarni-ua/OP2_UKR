@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<!-- При добавлении увеличивать количество в amk_mod.sms_name -->
+<string_table>
+	<string id="sms_name_1">
+		<text>Антон</text>
+		<eng>Антон</eng>
+		<ukr>Антон</ukr>
+	</string>
+	<string id="sms_name_2">
+		<text>Олег</text>
+		<eng>Олег</eng>
+		<ukr>Олег</ukr>
+	</string>
+	<string id="sms_name_3">
+		<text>Олесь</text>
+		<eng>Олесь</eng>
+		<ukr>Олесь</ukr>
+	</string>
+	<string id="sms_name_4">
+		<text>Рома</text>
+		<eng>Рома</eng>
+		<ukr>Рома</ukr>
+	</string>
+	<string id="sms_name_5">
+		<text>Руслан</text>
+		<eng>Руслан</eng>
+		<ukr>Руслан</ukr>
+	</string>
+	<string id="sms_name_6">
+		<text>Саша</text>
+		<eng>Саша</eng>
+		<ukr>Саша</ukr>
+	</string>
+	<string id="sms_name_7">
+		<text>Сергей</text>
+		<eng>Сергей</eng>
+		<ukr>Сергей</ukr>
+	</string>
+	<string id="sms_name_8">
+		<text>Слава</text>
+		<eng>Слава</eng>
+		<ukr>Слава</ukr>
+	</string>
+	<string id="sms_name_9">
+		<text>Толик</text>
+		<eng>Толик</eng>
+		<ukr>Толик</ukr>
+	</string>
+	<string id="sms_name_10">
+		<text>Юра</text>
+		<eng>Юра</eng>
+		<ukr>Юра</ukr>
+	</string>
+	<string id="sms_name_11">
+		<text>Богдан</text>
+		<eng>Богдан</eng>
+		<ukr>Богдан</ukr>
+	</string>
+	<string id="sms_name_12">
+		<text>Вениамин</text>
+		<eng>Вениамин</eng>
+		<ukr>Вениамин</ukr>
+	</string>
+	<string id="sms_name_13">
+		<text>Виталий</text>
+		<eng>Виталий</eng>
+		<ukr>Виталий</ukr>
+	</string>
+	<string id="sms_name_14">
+		<text>Вова</text>
+		<eng>Вова</eng>
+		<ukr>Вова</ukr>
+	</string>
+	<string id="sms_name_15">
+		<text>Дима</text>
+		<eng>Дима</eng>
+		<ukr>Дима</ukr>
+	</string>
+	<string id="sms_name_16">
+		<text>Иван</text>
+		<eng>Иван</eng>
+		<ukr>Иван</ukr>
+	</string>
+	<string id="sms_name_17">
+		<text>Костя</text>
+		<eng>Костя</eng>
+		<ukr>Костя</ukr>
+	</string>
+	<string id="sms_name_18">
+		<text>Лёша</text>
+		<eng>Лёша</eng>
+		<ukr>Лёша</ukr>
+	</string>
+	<string id="sms_name_19">
+		<text>Андрей</text>
+		<eng>Андрей</eng>
+		<ukr>Андрей</ukr>
+	</string>
+	<string id="sms_name_20">
+		<text>Санёк</text>
+		<eng>Санёк</eng>
+		<ukr>Санёк</ukr>
+	</string>
+	<string id="sms_name_21">
+		<text>Шурик</text>
+		<eng>Шурик</eng>
+		<ukr>Шурик</ukr>
+	</string>
+	<string id="sms_name_22">
+		<text>Вадя</text>
+		<eng>Вадя</eng>
+		<ukr>Вадя</ukr>
+	</string>
+	<string id="sms_name_23">
+		<text>Васян</text>
+		<eng>Васян</eng>
+		<ukr>Васян</ukr>
+	</string>
+	<string id="sms_name_24">
+		<text>Васёк</text>
+		<eng>Васёк</eng>
+		<ukr>Васёк</ukr>
+	</string>
+	<string id="sms_name_25">
+		<text>Витюха</text>
+		<eng>Витюха</eng>
+		<ukr>Витюха</ukr>
+	</string>
+	<string id="sms_name_26">
+		<text>Виталь</text>
+		<eng>Виталь</eng>
+		<ukr>Виталь</ukr>
+	</string>
+	<string id="sms_name_27">
+		<text>Вован</text>
+		<eng>Вован</eng>
+		<ukr>Вован</ukr>
+	</string>
+	<string id="sms_name_28">
+		<text>Жорка</text>
+		<eng>Жорка</eng>
+		<ukr>Жорка</ukr>
+	</string>
+	<string id="sms_name_29">
+		<text>Гришка</text>
+		<eng>Гришка</eng>
+		<ukr>Гришка</ukr>
+	</string>
+	<string id="sms_name_30">
+		<text>Гришко</text>
+		<eng>Гришко</eng>
+		<ukr>Гришко</ukr>
+	</string>
+	<string id="sms_name_31">
+		<text>Димон</text>
+		<eng>Димон</eng>
+		<ukr>Димон</ukr>
+	</string>
+	<string id="sms_name_32">
+		<text>Лёха</text>
+		<eng>Лёха</eng>
+		<ukr>Лёха</ukr>
+	</string>
+	<string id="sms_name_33">
+		<text>Димуха</text>
+		<eng>Димуха</eng>
+		<ukr>Димуха</ukr>
+	</string>
+	<string id="sms_name_34">
+		<text>Жека</text>
+		<eng>Жека</eng>
+		<ukr>Жека</ukr>
+	</string>
+	<string id="sms_name_35">
+		<text>Фимка</text>
+		<eng>Фимка</eng>
+		<ukr>Фимка</ukr>
+	</string>
+	<string id="sms_name_36">
+		<text>Илюха</text>
+		<eng>Илюха</eng>
+		<ukr>Илюха</ukr>
+	</string>
+	<string id="sms_name_37">
+		<text>Костян</text>
+		<eng>Костян</eng>
+		<ukr>Костян</ukr>
+	</string>
+	<string id="sms_name_38">
+		<text>Митька</text>
+		<eng>Митька</eng>
+		<ukr>Митька</ukr>
+	</string>
+	<string id="sms_name_39">
+		<text>Михал</text>
+		<eng>Михал</eng>
+		<ukr>Михал</ukr>
+	</string>
+	<string id="sms_name_40">
+		<text>Миха</text>
+		<eng>Миха</eng>
+		<ukr>Миха</ukr>
+	</string>
+	<string id="sms_name_41">
+		<text>Михась</text>
+		<eng>Михась</eng>
+		<ukr>Михась</ukr>
+	</string>
+	<string id="sms_name_42">
+		<text>Колян</text>
+		<eng>Колян</eng>
+		<ukr>Колян</ukr>
+	</string>
+	<string id="sms_name_43">
+		<text>Толян</text>
+		<eng>Толян</eng>
+		<ukr>Толян</ukr>
+	</string>
+	<string id="sms_name_44">
+		<text>Павлуха</text>
+		<eng>Павлуха</eng>
+		<ukr>Павлуха</ukr>
+	</string>
+	<string id="sms_name_45">
+		<text>Петруха</text>
+		<eng>Петруха</eng>
+		<ukr>Петруха</ukr>
+	</string>
+	<string id="sms_name_46">
+		<text>Стёпка</text>
+		<eng>Стёпка</eng>
+		<ukr>Стёпка</ukr>
+	</string>
+	<string id="sms_name_47">
+		<text>Степуха</text>
+		<eng>Степуха</eng>
+		<ukr>Степуха</ukr>
+	</string>
+	<string id="sms_name_48">
+		<text>Тимоха</text>
+		<eng>Тимоха</eng>
+		<ukr>Тимоха</ukr>
+	</string>
+	<string id="sms_name_49">
+		<text>Фелька</text>
+		<eng>Фелька</eng>
+		<ukr>Фелька</ukr>
+	</string>
+	<string id="sms_name_50">
+		<text>Юрась</text>
+		<eng>Юрась</eng>
+		<ukr>Юрась</ukr>
+	</string>
+	<string id="sms_name_51">
+		<text>Яшка</text>
+		<eng>Яшка</eng>
+		<ukr>Яшка</ukr>
+	</string>
+	<string id="sms_name_52">
+		<text>Андрюха</text>
+		<eng>Андрюха</eng>
+		<ukr>Андрюха</ukr>
+	</string>
+	<string id="sms_name_53">
+		<text>Тоха</text>
+		<eng>Тоха</eng>
+		<ukr>Тоха</ukr>
+	</string>
+	<string id="sms_name_54">
+		<text>Аркаша</text>
+		<eng>Аркаша</eng>
+		<ukr>Аркаша</ukr>
+	</string>
+	<string id="sms_name_55">
+		<text>Тёмка</text>
+		<eng>Тёмка</eng>
+		<ukr>Тёмка</ukr>
+	</string>
+	<string id="sms_name_56">
+		<text>Борян</text>
+		<eng>Борян</eng>
+		<ukr>Борян</ukr>
+	</string>
+	<string id="sms_name_57">
+		<text>Бодя</text>
+		<eng>Бодя</eng>
+		<ukr>Бодя</ukr>
+	</string>
+	<string id="sms_name_58">
+		<text>Андрей</text>
+		<eng>Андрей</eng>
+		<ukr>Андрей</ukr>
+	</string>
+	<string id="sms_name_59">
+		<text>Антон</text>
+		<eng>Антон</eng>
+		<ukr>Антон</ukr>
+	</string>
+	<string id="sms_name_60">
+		<text>Олег</text>
+		<eng>Олег</eng>
+		<ukr>Олег</ukr>
+	</string>
+	<string id="sms_name_61">
+		<text>Роман</text>
+		<eng>Роман</eng>
+		<ukr>Роман</ukr>
+	</string>
+	<string id="sms_name_62">
+		<text>Александр</text>
+		<eng>Александр</eng>
+		<ukr>Александр</ukr>
+	</string>
+	<string id="sms_name_63">
+		<text>Сергей</text>
+		<eng>Сергей</eng>
+		<ukr>Сергей</ukr>
+	</string>
+	<string id="sms_name_64">
+		<text>Анатолий</text>
+		<eng>Анатолий</eng>
+		<ukr>Анатолий</ukr>
+	</string>
+	<string id="sms_name_65">
+		<text>Юрий</text>
+		<eng>Юрий</eng>
+		<ukr>Юрий</ukr>
+	</string>
+	<string id="sms_name_66">
+		<text>Богдан</text>
+		<eng>Богдан</eng>
+		<ukr>Богдан</ukr>
+	</string>
+	<string id="sms_name_67">
+		<text>Вениамин</text>
+		<eng>Вениамин</eng>
+		<ukr>Вениамин</ukr>
+	</string>
+	<string id="sms_name_68">
+		<text>Виталий</text>
+		<eng>Виталий</eng>
+		<ukr>Виталий</ukr>
+	</string>
+	<string id="sms_name_69">
+		<text>Владимир</text>
+		<eng>Владимир</eng>
+		<ukr>Владимир</ukr>
+	</string>
+	<string id="sms_name_70">
+		<text>Дмитрий</text>
+		<eng>Дмитрий</eng>
+		<ukr>Дмитрий</ukr>
+	</string>
+	<string id="sms_name_71">
+		<text>Иван</text>
+		<eng>Иван</eng>
+		<ukr>Иван</ukr>
+	</string>
+	<string id="sms_name_72">
+		<text>Константин</text>
+		<eng>Константин</eng>
+		<ukr>Константин</ukr>
+	</string>
+	<string id="sms_name_73">
+		<text>Алексей</text>
+		<eng>Алексей</eng>
+		<ukr>Алексей</ukr>
+	</string>
+	<string id="sms_name_74">
+		<text>Саня</text>
+		<eng>Саня</eng>
+		<ukr>Саня</ukr>
+	</string>
+	<string id="sms_name_75">
+		<text>Санёк</text>
+		<eng>Санёк</eng>
+		<ukr>Санёк</ukr>
+	</string>
+	<string id="sms_name_76">
+		<text>Артур</text>
+		<eng>Артур</eng>
+		<ukr>Артур</ukr>
+	</string>
+	<string id="sms_name_77">
+		<text>Яшка</text>
+		<eng>Яшка</eng>
+		<ukr>Яшка</ukr>
+	</string>
+	<string id="sms_name_78">
+		<text>Ярик</text>
+		<eng>Ярик</eng>
+		<ukr>Ярик</ukr>
+	</string>
+	<string id="sms_name_79">
+		<text>Яра</text>
+		<eng>Яра</eng>
+		<ukr>Яра</ukr>
+	</string>
+	<string id="sms_name_80">
+		<text>Слава</text>
+		<eng>Слава</eng>
+		<ukr>Слава</ukr>
+	</string>
+	<string id="sms_name_81">
+		<text>Боря</text>
+		<eng>Боря</eng>
+		<ukr>Боря</ukr>
+	</string>
+	<string id="sms_name_82">
+		<text>Борька</text>
+		<eng>Борька</eng>
+		<ukr>Борька</ukr>
+	</string>
+	<string id="sms_name_83">
+		<text>Богдан</text>
+		<eng>Богдан</eng>
+		<ukr>Богдан</ukr>
+	</string>
+	<string id="sms_name_84">
+		<text>Славик</text>
+		<eng>Славик</eng>
+		<ukr>Славик</ukr>
+	</string>
+	<string id="sms_name_85">
+		<text>Вадим</text>
+		<eng>Вадим</eng>
+		<ukr>Вадим</ukr>
+	</string>
+	<string id="sms_name_86">
+		<text>Вадя</text>
+		<eng>Вадя</eng>
+		<ukr>Вадя</ukr>
+	</string>
+	<string id="sms_name_87">
+		<text>Вадик</text>
+		<eng>Вадик</eng>
+		<ukr>Вадик</ukr>
+	</string>
+	<string id="sms_name_88">
+		<text>Валик</text>
+		<eng>Валик</eng>
+		<ukr>Валик</ukr>
+	</string>
+	<string id="sms_name_89">
+		<text>Валера</text>
+		<eng>Валера</eng>
+		<ukr>Валера</ukr>
+	</string>
+	<string id="sms_name_90">
+		<text>Шурик</text>
+		<eng>Шурик</eng>
+		<ukr>Шурик</ukr>
+	</string>
+	<string id="sms_name_91">
+		<text>Вася</text>
+		<eng>Вася</eng>
+		<ukr>Вася</ukr>
+	</string>
+	<string id="sms_name_92">
+		<text>Васька</text>
+		<eng>Васька</eng>
+		<ukr>Васька</ukr>
+	</string>
+	<string id="sms_name_93">
+		<text>Васько</text>
+		<eng>Васько</eng>
+		<ukr>Васько</ukr>
+	</string>
+	<string id="sms_name_94">
+		<text>Веня</text>
+		<eng>Веня</eng>
+		<ukr>Веня</ukr>
+	</string>
+	<string id="sms_name_95">
+		<text>Витя</text>
+		<eng>Витя</eng>
+		<ukr>Витя</ukr>
+	</string>
+	<string id="sms_name_96">
+		<text>Витька</text>
+		<eng>Витька</eng>
+		<ukr>Витька</ukr>
+	</string>
+	<string id="sms_name_97">
+		<text>Виталик</text>
+		<eng>Виталик</eng>
+		<ukr>Виталик</ukr>
+	</string>
+	<string id="sms_name_98">
+		<text>Влад</text>
+		<eng>Влад</eng>
+		<ukr>Влад</ukr>
+	</string>
+	<string id="sms_name_99">
+		<text>Вова</text>
+		<eng>Вова</eng>
+		<ukr>Вова</ukr>
+	</string>
+	<string id="sms_name_100">
+		<text>Вовка</text>
+		<eng>Вовка</eng>
+		<ukr>Вовка</ukr>
+	</string>
+	<string id="sms_name_101">
+		<text>Лёня</text>
+		<eng>Лёня</eng>
+		<ukr>Лёня</ukr>
+	</string>
+	<string id="sms_name_102">
+		<text>Сева</text>
+		<eng>Сева</eng>
+		<ukr>Сева</ukr>
+	</string>
+	<string id="sms_name_103">
+		<text>Севка</text>
+		<eng>Севка</eng>
+		<ukr>Севка</ukr>
+	</string>
+	<string id="sms_name_104">
+		<text>Гена</text>
+		<eng>Гена</eng>
+		<ukr>Гена</ukr>
+	</string>
+	<string id="sms_name_105">
+		<text>Генка</text>
+		<eng>Генка</eng>
+		<ukr>Генка</ukr>
+	</string>
+	<string id="sms_name_106">
+		<text>Георг</text>
+		<eng>Георг</eng>
+		<ukr>Георг</ukr>
+	</string>
+	<string id="sms_name_107">
+		<text>Гоша</text>
+		<eng>Гоша</eng>
+		<ukr>Гоша</ukr>
+	</string>
+	<string id="sms_name_108">
+		<text>Жора</text>
+		<eng>Жора</eng>
+		<ukr>Жора</ukr>
+	</string>
+	<string id="sms_name_109">
+		<text>Герман</text>
+		<eng>Герман</eng>
+		<ukr>Герман</ukr>
+	</string>
+	<string id="sms_name_110">
+		<text>Глеб</text>
+		<eng>Глеб</eng>
+		<ukr>Глеб</ukr>
+	</string>
+	<string id="sms_name_111">
+		<text>Гриша</text>
+		<eng>Гриша</eng>
+		<ukr>Гриша</ukr>
+	</string>
+	<string id="sms_name_112">
+		<text>Алекс</text>
+		<eng>Алекс</eng>
+		<ukr>Алекс</ukr>
+	</string>
+	<string id="sms_name_113">
+		<text>Гришка</text>
+		<eng>Гришка</eng>
+		<ukr>Гришка</ukr>
+	</string>
+	<string id="sms_name_114">
+		<text>Гришко</text>
+		<eng>Гришко</eng>
+		<ukr>Гришко</ukr>
+	</string>
+	<string id="sms_name_115">
+		<text>Даня</text>
+		<eng>Даня</eng>
+		<ukr>Даня</ukr>
+	</string>
+	<string id="sms_name_116">
+		<text>Данила</text>
+		<eng>Данила</eng>
+		<ukr>Данила</ukr>
+	</string>
+	<string id="sms_name_117">
+		<text>Данько</text>
+		<eng>Данько</eng>
+		<ukr>Данько</ukr>
+	</string>
+	<string id="sms_name_118">
+		<text>Денис</text>
+		<eng>Денис</eng>
+		<ukr>Денис</ukr>
+	</string>
+	<string id="sms_name_119">
+		<text>Дима</text>
+		<eng>Дима</eng>
+		<ukr>Дима</ukr>
+	</string>
+	<string id="sms_name_120">
+		<text>Димка</text>
+		<eng>Димка</eng>
+		<ukr>Димка</ukr>
+	</string>
+	<string id="sms_name_121">
+		<text>Дмитро</text>
+		<eng>Дмитро</eng>
+		<ukr>Дмитро</ukr>
+	</string>
+	<string id="sms_name_122">
+		<text>Женя</text>
+		<eng>Женя</eng>
+		<ukr>Женя</ukr>
+	</string>
+	<string id="sms_name_123">
+		<text>Лёшка</text>
+		<eng>Лёшка</eng>
+		<ukr>Лёшка</ukr>
+	</string>
+	<string id="sms_name_124">
+		<text>Женька</text>
+		<eng>Женька</eng>
+		<ukr>Женька</ukr>
+	</string>
+	<string id="sms_name_125">
+		<text>Егор</text>
+		<eng>Егор</eng>
+		<ukr>Егор</ukr>
+	</string>
+	<string id="sms_name_126">
+		<text>Егорка</text>
+		<eng>Егорка</eng>
+		<ukr>Егорка</ukr>
+	</string>
+	<string id="sms_name_127">
+		<text>Фима</text>
+		<eng>Фима</eng>
+		<ukr>Фима</ukr>
+	</string>
+	<string id="sms_name_128">
+		<text>Ваня</text>
+		<eng>Ваня</eng>
+		<ukr>Ваня</ukr>
+	</string>
+	<string id="sms_name_129">
+		<text>Ванька</text>
+		<eng>Ванька</eng>
+		<ukr>Ванька</ukr>
+	</string>
+	<string id="sms_name_130">
+		<text>Игорёк</text>
+		<eng>Игорёк</eng>
+		<ukr>Игорёк</ukr>
+	</string>
+	<string id="sms_name_131">
+		<text>Илья</text>
+		<eng>Илья</eng>
+		<ukr>Илья</ukr>
+	</string>
+	<string id="sms_name_132">
+		<text>Костя</text>
+		<eng>Костя</eng>
+		<ukr>Костя</ukr>
+	</string>
+	<string id="sms_name_133">
+		<text>Костик</text>
+		<eng>Костик</eng>
+		<ukr>Костик</ukr>
+	</string>
+	<string id="sms_name_134">
+		<text>Толик</text>
+		<eng>Толик</eng>
+		<ukr>Толик</ukr>
+	</string>
+	<string id="sms_name_135">
+		<text>Лёва</text>
+		<eng>Лёва</eng>
+		<ukr>Лёва</ukr>
+	</string>
+	<string id="sms_name_136">
+		<text>Лёня</text>
+		<eng>Лёня</eng>
+		<ukr>Лёня</ukr>
+	</string>
+	<string id="sms_name_137">
+		<text>Лёнька</text>
+		<eng>Лёнька</eng>
+		<ukr>Лёнька</ukr>
+	</string>
+	<string id="sms_name_138">
+		<text>Макс</text>
+		<eng>Макс</eng>
+		<ukr>Макс</ukr>
+	</string>
+	<string id="sms_name_139">
+		<text>Матвей</text>
+		<eng>Матвей</eng>
+		<ukr>Матвей</ukr>
+	</string>
+	<string id="sms_name_140">
+		<text>Митя</text>
+		<eng>Митя</eng>
+		<ukr>Митя</ukr>
+	</string>
+	<string id="sms_name_141">
+		<text>Миша</text>
+		<eng>Миша</eng>
+		<ukr>Миша</ukr>
+	</string>
+	<string id="sms_name_142">
+		<text>Мишка</text>
+		<eng>Мишка</eng>
+		<ukr>Мишка</ukr>
+	</string>
+	<string id="sms_name_143">
+		<text>Никита</text>
+		<eng>Никита</eng>
+		<ukr>Никита</ukr>
+	</string>
+	<string id="sms_name_144">
+		<text>Ник</text>
+		<eng>Ник</eng>
+		<ukr>Ник</ukr>
+	</string>
+	<string id="sms_name_145">
+		<text>Антон</text>
+		<eng>Антон</eng>
+		<ukr>Антон</ukr>
+	</string>
+	<string id="sms_name_146">
+		<text>Коля</text>
+		<eng>Коля</eng>
+		<ukr>Коля</ukr>
+	</string>
+	<string id="sms_name_147">
+		<text>Олег</text>
+		<eng>Олег</eng>
+		<ukr>Олег</ukr>
+	</string>
+	<string id="sms_name_148">
+		<text>Паша</text>
+		<eng>Паша</eng>
+		<ukr>Паша</ukr>
+	</string>
+	<string id="sms_name_149">
+		<text>Пашка</text>
+		<eng>Пашка</eng>
+		<ukr>Пашка</ukr>
+	</string>
+	<string id="sms_name_150">
+		<text>Петро</text>
+		<eng>Петро</eng>
+		<ukr>Петро</ukr>
+	</string>
+	<string id="sms_name_151">
+		<text>Петя</text>
+		<eng>Петя</eng>
+		<ukr>Петя</ukr>
+	</string>
+	<string id="sms_name_152">
+		<text>Петька</text>
+		<eng>Петька</eng>
+		<ukr>Петька</ukr>
+	</string>
+	<string id="sms_name_153">
+		<text>Рома</text>
+		<eng>Рома</eng>
+		<ukr>Рома</ukr>
+	</string>
+	<string id="sms_name_154">
+		<text>Ромка</text>
+		<eng>Ромка</eng>
+		<ukr>Ромка</ukr>
+	</string>
+	<string id="sms_name_155">
+		<text>Ростик</text>
+		<eng>Ростик</eng>
+		<ukr>Ростик</ukr>
+	</string>
+	<string id="sms_name_156">
+		<text>Тошка</text>
+		<eng>Тошка</eng>
+		<ukr>Тошка</ukr>
+	</string>
+	<string id="sms_name_157">
+		<text>Рус</text>
+		<eng>Рус</eng>
+		<ukr>Рус</ukr>
+	</string>
+	<string id="sms_name_158">
+		<text>Сава</text>
+		<eng>Сава</eng>
+		<ukr>Сава</ukr>
+	</string>
+	<string id="sms_name_159">
+		<text>Семён</text>
+		<eng>Семён</eng>
+		<ukr>Семён</ukr>
+	</string>
+	<string id="sms_name_160">
+		<text>Сёма</text>
+		<eng>Сёма</eng>
+		<ukr>Сёма</ukr>
+	</string>
+	<string id="sms_name_161">
+		<text>Серёга</text>
+		<eng>Серёга</eng>
+		<ukr>Серёга</ukr>
+	</string>
+	<string id="sms_name_162">
+		<text>Сеня</text>
+		<eng>Сеня</eng>
+		<ukr>Сеня</ukr>
+	</string>
+	<string id="sms_name_163">
+		<text>Степан</text>
+		<eng>Степан</eng>
+		<ukr>Степан</ukr>
+	</string>
+	<string id="sms_name_164">
+		<text>Стёпа</text>
+		<eng>Стёпа</eng>
+		<ukr>Стёпа</ukr>
+	</string>
+	<string id="sms_name_165">
+		<text>Тима</text>
+		<eng>Тима</eng>
+		<ukr>Тима</ukr>
+	</string>
+	<string id="sms_name_166">
+		<text>Тимка</text>
+		<eng>Тимка</eng>
+		<ukr>Тимка</ukr>
+	</string>
+	<string id="sms_name_167">
+		<text>Артём</text>
+		<eng>Артём</eng>
+		<ukr>Артём</ukr>
+	</string>
+	<string id="sms_name_168">
+		<text>Фёдор</text>
+		<eng>Фёдор</eng>
+		<ukr>Фёдор</ukr>
+	</string>
+	<string id="sms_name_169">
+		<text>Федя</text>
+		<eng>Федя</eng>
+		<ukr>Федя</ukr>
+	</string>
+	<string id="sms_name_170">
+		<text>Федька</text>
+		<eng>Федька</eng>
+		<ukr>Федька</ukr>
+	</string>
+	<string id="sms_name_171">
+		<text>Филя</text>
+		<eng>Филя</eng>
+		<ukr>Филя</ukr>
+	</string>
+	<string id="sms_name_172">
+		<text>Филька</text>
+		<eng>Филька</eng>
+		<ukr>Филька</ukr>
+	</string>
+	<string id="sms_name_173">
+		<text>Эдик</text>
+		<eng>Эдик</eng>
+		<ukr>Эдик</ukr>
+	</string>
+	<string id="sms_name_174">
+		<text>Юрка</text>
+		<eng>Юрка</eng>
+		<ukr>Юрка</ukr>
+	</string>
+	<string id="sms_name_175">
+		<text>Юрик</text>
+		<eng>Юрик</eng>
+		<ukr>Юрик</ukr>
+	</string>
+	<string id="sms_name_176">
+		<text>Юрко</text>
+		<eng>Юрко</eng>
+		<ukr>Юрко</ukr>
+	</string>
+	<string id="sms_name_177">
+		<text>Яша</text>
+		<eng>Яша</eng>
+		<ukr>Яша</ukr>
+	</string>
+</string_table>
