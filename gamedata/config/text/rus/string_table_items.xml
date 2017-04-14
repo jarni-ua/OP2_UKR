@@ -1,5 +1,607 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
+	<string id="starogil_tele">
+		<text>Телепорт Старого Жила</text>
+		<eng>Телепорт Старого Жила</eng>
+		<ukr>Телепорт Старого Жила</ukr>
+	</string>
+	<string id="arhara_obman1">
+		<text>Телепорт Стрелка в Саркофаг</text>
+		<eng>Телепорт Стрелка в Саркофаг</eng>
+		<ukr>Телепорт Стрелка в Саркофаг</ukr>
+	</string>
+	<string id="arhara_obman2">
+		<text>Телепорт Стрелка на Кордон</text>
+		<eng>Телепорт Стрелка на Кордон</eng>
+		<ukr>Телепорт Стрелка на Кордон</ukr>
+	</string>
+	<string id="arhara_obman3">
+		<text>Телепорт Стрелка на Радар</text>
+		<eng>Телепорт Стрелка на Радар</eng>
+		<ukr>Телепорт Стрелка на Радар</ukr>
+	</string>
+	<string id="arhara_obman4">
+		<text>Телепорт Стрелка на Генераторы</text>
+		<eng>Телепорт Стрелка на Генераторы</eng>
+		<ukr>Телепорт Стрелка на Генераторы</ukr>
+	</string>
+	<string id="arhara_obman5">
+		<text>Телепорт Стрелка на Армейские Склады</text>
+		<eng>Телепорт Стрелка на Армейские Склады</eng>
+		<ukr>Телепорт Стрелка на Армейские Склады</ukr>
+	</string>
+	<string id="arhara_obman6">
+		<text>Телепорт Фенрира на Затон</text>
+		<eng>Телепорт Фенрира на Затон</eng>
+		<ukr>Телепорт Фенрира на Затон</ukr>
+	</string>
+	<string id="arhara_obman7">
+		<text>Телепорт Котобегемота в Бар</text>
+		<eng>Телепорт Котобегемота в Бар</eng>
+		<ukr>Телепорт Котобегемота в Бар</ukr>
+	</string>
+	<string id="arhara_obman8">
+		<text>Телепорт Фенрира в Лиманск</text>
+		<eng>Телепорт Фенрира в Лиманск</eng>
+		<ukr>Телепорт Фенрира в Лиманск</ukr>
+	</string>
+	<string id="arhara_obman9">
+		<text>Телепорт в Центральную Припять</text>
+		<eng>Телепорт в Центральную Припять</eng>
+		<ukr>Телепорт в Центральную Припять</ukr>
+	</string>
+	<string id="arhara_obman10">
+		<text>Телепорт Сталкера Бубулюки на Юпитер</text>
+		<eng>Телепорт Сталкера Бубулюки на Юпитер</eng>
+		<ukr>Телепорт Сталкера Бубулюки на Юпитер</ukr>
+	</string>
+	<string id="arhara_obman11">
+		<text>Телепорт в Военную Лабораторию</text>
+		<eng>Телепорт в Военную Лабораторию</eng>
+		<ukr>Телепорт в Военную Лабораторию</ukr>
+	</string>
+	<string id="arhara_obman12">
+		<text>Телепорт на Свалку</text>
+		<eng>Телепорт на Свалку</eng>
+		<ukr>Телепорт на Свалку</ukr>
+	</string>
+	<string id="arhara_obman13">
+		<text>Телепорт Фенрира в Восточную Припять</text>
+		<eng>Телепорт Фенрира в Восточную Припять</eng>
+		<ukr>Телепорт Фенрира в Восточную Припять</ukr>
+	</string>
+	<string id="arhara_obman14">
+		<text>Телепорт на Болота</text>
+		<eng>Телепорт на Болота</eng>
+		<ukr>Телепорт на Болота</ukr>
+	</string>
+	<string id="arhara_obman15">
+		<text>Телепорт на Янтарь</text>
+		<eng>Телепорт на Янтарь</eng>
+		<ukr>Телепорт на Янтарь</ukr>
+	</string>
+	<string id="arhara_obman16">
+		<text>Телепорт на Агропром</text>
+		<eng>Телепорт на Агропром</eng>
+		<ukr>Телепорт на Агропром</ukr>
+	</string>
+	<string id="arhara_obman17">
+		<text>Телепорт в Тёмную Долину</text>
+		<eng>Телепорт в Тёмную Долину</eng>
+		<ukr>Телепорт в Тёмную Долину</ukr>
+	</string>
+	<string id="arhara_obman18">
+		<text>Телепорт на Дикую Территорию</text>
+		<eng>Телепорт на Дикую Территорию</eng>
+		<ukr>Телепорт на Дикую Территорию</ukr>
+	</string>
+	<string id="arhara_obman19">
+		<text>Телепорт в Старую Деревню</text>
+		<eng>Телепорт в Старую Деревню</eng>
+		<ukr>Телепорт в Старую Деревню</ukr>
+	</string>
+	<string id="arhara_obman20">
+		<text>Телепорт в Красный Лес</text>
+		<eng>Телепорт в Красный Лес</eng>
+		<ukr>Телепорт в Красный Лес</ukr>
+	</string>
+	<string id="arhara_obman21">
+		<text>Телепорт в Пещеру</text>
+		<eng>Телепорт в Пещеру</eng>
+		<ukr>Телепорт в Пещеру</ukr>
+	</string>
+	<string id="arhara_obman22">
+		<text>Телепорт в Лабиринт</text>
+		<eng>Телепорт в Лабиринт</eng>
+		<ukr>Телепорт в Лабиринт</ukr>
+	</string>
+	<string id="arhara_obman23">
+		<text>Телепорт на Неразведанную Землю</text>
+		<eng>Телепорт на Неразведанную Землю</eng>
+		<ukr>Телепорт на Неразведанную Землю</ukr>
+	</string>
+	<string id="arhara_obman24">
+		<text>Телепорт на ЧАЭС-1</text>
+		<eng>Телепорт на ЧАЭС-1</eng>
+		<ukr>Телепорт на ЧАЭС-1</ukr>
+	</string>
+	<string id="arhara_obman25">
+		<text>Телепорт на ЧАЭС-2</text>
+		<eng>Телепорт на ЧАЭС-2</eng>
+		<ukr>Телепорт на ЧАЭС-2</ukr>
+	</string>
+	<string id="arhara_obman26">
+		<text>Телепорт в Госпиталь</text>
+		<eng>Телепорт в Госпиталь</eng>
+		<ukr>Телепорт в Госпиталь</ukr>
+	</string>
+	<string id="arhara_obman27">
+		<text>Телепорт в Мёртвый Город</text>
+		<eng>Телепорт в Мёртвый Город</eng>
+		<ukr>Телепорт в Мёртвый Город</ukr>
+	</string>
+	<string id="arhara_obman28">
+		<text>Телепорт на АТП</text>
+		<eng>Телепорт на АТП</eng>
+		<ukr>Телепорт на АТП</ukr>
+	</string>
+	<string id="arhara_obman29">
+		<text>Телепорт в Забытый Лес</text>
+		<eng>Телепорт в Забытый Лес</eng>
+		<ukr>Телепорт в Забытый Лес</ukr>
+	</string>
+	<string id="arhara_obman30">
+		<text>Телепорт в Бункер Управление Монолитом</text>
+		<eng>Телепорт в Бункер Управление Монолитом</eng>
+		<ukr>Телепорт в Бункер Управление Монолитом</ukr>
+	</string>
+	<string id="arhara_obman31">
+		<text>Телепорт в Лабораторию X-8</text>
+		<eng>Телепорт в Лабораторию X-8</eng>
+		<ukr>Телепорт в Лабораторию X-8</ukr>
+	</string>
+	<string id="arhara_obman32">
+		<text>Телепорт в Лабораторию X-10</text>
+		<eng>Телепорт в Лабораторию X-10</eng>
+		<ukr>Телепорт в Лабораторию X-10</ukr>
+	</string>
+	<string id="arhara_obman33">
+		<text>Телепорт в Лабораторию X-16</text>
+		<eng>Телепорт в Лабораторию X-16</eng>
+		<ukr>Телепорт в Лабораторию X-16</ukr>
+	</string>
+	<string id="arhara_obman34">
+		<text>Телепорт в Лабораторию X-18</text>
+		<eng>Телепорт в Лабораторию X-18</eng>
+		<ukr>Телепорт в Лабораторию X-18</ukr>
+	</string>
+	<string id="arhara_obman35">
+		<text>Телепорт в Подземелье Агропрома</text>
+		<eng>Телепорт в Подземелье Агропрома</eng>
+		<ukr>Телепорт в Подземелье Агропрома</ukr>
+	</string>
+	<string id="arhara_obman36">
+		<text>Телепорт в Путепровод "Припять-1"</text>
+		<eng>Телепорт в Путепровод "Припять-1"</eng>
+		<ukr>Телепорт в Путепровод "Припять-1"</ukr>
+	</string>
+	<string id="arhara_obman37">
+		<text>Телепорт в Долину Шорохов</text>
+		<eng>Телепорт в Долину Шорохов</eng>
+		<ukr>Телепорт в Долину Шорохов</ukr>
+	</string>
+	<string id="arhara_obman38">
+		<text>Телепорт в Лабораторию X-5</text>
+		<eng>Телепорт в Лабораторию X-5</eng>
+		<ukr>Телепорт в Лабораторию X-5</ukr>
+	</string>
+	<string id="arhara_obman39">
+		<text>Телепорт в Курчатов-37</text>
+		<eng>Телепорт в Курчатов-37</eng>
+		<ukr>Телепорт в Курчатов-37</ukr>
+	</string>
+	<string id="arhara_obman40">
+		<text>Телепорт в Лабораторию X-14</text>
+		<eng>Телепорт в Лабораторию X-14</eng>
+		<ukr>Телепорт в Лабораторию X-14</ukr>
+	</string>
+	<string id="arhara_obman41">
+		<text>Телепорт в Тёмную Лощину</text>
+		<eng>Телепорт в Тёмную Лощину</eng>
+		<ukr>Телепорт в Тёмную Лощину</ukr>
+	</string>
+	<string id="arhara_obman42">
+		<text>Телепорт в Предбанник</text>
+		<eng>Телепорт в Предбанник</eng>
+		<ukr>Телепорт в Предбанник</ukr>
+	</string>
+	<string id="arhara_obman43">
+		<text>Телепорт на Периметр</text>
+		<eng>Телепорт на Периметр</eng>
+		<ukr>Телепорт на Периметр</ukr>
+	</string>
+	<string id="arhara_obman44">
+		<text>Телепорт в Проклятый Лес</text>
+		<eng>Телепорт в Проклятый Лес</eng>
+		<ukr>Телепорт в Проклятый Лес</ukr>
+	</string>
+	<string id="arhara_obman45">
+		<text>Телепорт на Научную Станцию</text>
+		<eng>Телепорт на Научную Станцию</eng>
+		<ukr>Телепорт на Научную Станцию</ukr>
+	</string>
+	<string id="arhara_obman46">
+		<text>Телепорт в Лабораторию X-17</text>
+		<eng>Телепорт в Лабораторию X-17</eng>
+		<ukr>Телепорт в Лабораторию X-17</ukr>
+	</string>
+	<string id="arhara_obman47">
+		<text>Телепорт в Подземелья Припяти</text>
+		<eng>Телепорт в Подземелья Припяти</eng>
+		<ukr>Телепорт в Подземелья Припяти</ukr>
+	</string>
+	<string id="arhara_obman48">
+		<text>Телепорт в Промзону</text>
+		<eng>Телепорт в Промзону</eng>
+		<ukr>Телепорт в Промзону</ukr>
+	</string>
+	<string id="arhara_obman49">
+		<text>Телепорт в Катакомбы</text>
+		<eng>Телепорт в Катакомбы</eng>
+		<ukr>Телепорт в Катакомбы</ukr>
+	</string>
+	<string id="arhara_obman50">
+		<text>Телепорт на Тихие Холмы</text>
+		<eng>Телепорт на Тихие Холмы</eng>
+		<ukr>Телепорт на Тихие Холмы</ukr>
+	</string>
+	<string id="arhara_obman51">
+		<text>Телепорт в Топи</text>
+		<eng>Телепорт в Топи</eng>
+		<ukr>Телепорт в Топи</ukr>
+	</string>
+	<string id="arhara_obman52">
+		<text>Телепорт на Аномальные Поля</text>
+		<eng>Телепорт на Аномальные Поля</eng>
+		<ukr>Телепорт на Аномальные Поля</ukr>
+	</string>
+	<string id="arhara_obman53">
+		<text>Телепорт в Лабораторию X-9</text>
+		<eng>Телепорт в Лабораторию X-9</eng>
+		<ukr>Телепорт в Лабораторию X-9</ukr>
+	</string>
+	<string id="arhara_obman54">
+		<text>Телепорт в Бомбоубежище</text>
+		<eng>Телепорт в Бомбоубежище</eng>
+		<ukr>Телепорт в Бомбоубежище</ukr>
+	</string>
+	<string id="arhara_obman55">
+		<text>Телепорт на Металлургический Завод</text>
+		<eng>Телепорт на Металлургический Завод</eng>
+		<ukr>Телепорт на Металлургический Завод</ukr>
+	</string>
+	<string id="arhara_obman56">
+		<text>Телепорт в Чернобыль-1</text>
+		<eng>Телепорт в Чернобыль-1</eng>
+		<ukr>Телепорт в Чернобыль-1</ukr>
+	</string>
+	<string id="arhara_obman57">
+		<text>Телепорт на Стройплощадку</text>
+		<eng>Телепорт на Стройплощадку</eng>
+		<ukr>Телепорт на Стройплощадку</ukr>
+	</string>
+	<string id="arhara_obman58">
+		<text>Телепорт на Восточный Кордон</text>
+		<eng>Телепорт на Восточный Кордон</eng>
+		<ukr>Телепорт на Восточный Кордон</ukr>
+	</string>
+	<string id="arhara_obman59">
+		<text>Телепорт в Служебные Туннели</text>
+		<eng>Телепорт в Служебные Туннели</eng>
+		<ukr>Телепорт в Служебные Туннели</ukr>
+	</string>
+	<string id="arhara_obman60">
+		<text>Телепорт в Бункер Д-6</text>
+		<eng>Телепорт в Бункер Д-6</eng>
+		<ukr>Телепорт в Бункер Д-6</ukr>
+	</string>
+	<string id="arhara_obman61">
+		<text>Телепорт в Коллектор</text>
+		<eng>Телепорт в Коллектор</eng>
+		<ukr>Телепорт в Коллектор</ukr>
+	</string>
+	<string id="arhara_obman62">
+		<text>Телепорт в Пространственный Пузырь</text>
+		<eng>Телепорт в Пространственный Пузырь</eng>
+		<ukr>Телепорт в Пространственный Пузырь</ukr>
+	</string>
+	<string id="arhara_obman63">
+		<text>Телепорт на Вокзал</text>
+		<eng>Телепорт на Вокзал</eng>
+		<ukr>Телепорт на Вокзал</ukr>
+	</string>
+	<string id="arhara_obman64">
+		<text>Телепорт в Полесье</text>
+		<eng>Телепорт в Полесье</eng>
+		<ukr>Телепорт в Полесье</ukr>
+	</string>
+
+	<string id="science_teleport">
+		<text>Телепорт на Кордон</text>
+		<eng>Телепорт на Кордон</eng>
+		<ukr>Телепорт на Кордон</ukr>
+	</string>
+	<string id="science_teleport_descr">
+		<text>Телепорт Сахарова на Кордон.</text>
+		<eng>Телепорт Сахарова на Кордон.</eng>
+		<ukr>Телепорт Сахарова на Кордон.</ukr>
+	</string>
+	<string id="science_teleport2">
+		<text>Телепорт в Бар</text>
+		<eng>Телепорт в Бар</eng>
+		<ukr>Телепорт в Бар</ukr>
+	</string>
+	<string id="science_teleport2_descr">
+		<text>Телепорт Сахарова в Бар.</text>
+		<eng>Телепорт Сахарова в Бар.</eng>
+		<ukr>Телепорт Сахарова в Бар.</ukr>
+	</string>
+	<string id="science_teleport3">
+		<text>Телепорт на Янтарь</text>
+		<eng>Телепорт на Янтарь</eng>
+		<ukr>Телепорт на Янтарь</ukr>
+	</string>
+	<string id="science_teleport3_descr">
+		<text>Телепорт Сахарова на Янтарь.</text>
+		<eng>Телепорт Сахарова на Янтарь.</eng>
+		<ukr>Телепорт Сахарова на Янтарь.</ukr>
+	</string>
+	<string id="bloknot_pantera_descr">
+		<text>Для просмотра вставьте документ в пистолетный слот.</text>
+		<eng>Для просмотра вставьте документ в пистолетный слот.</eng>
+		<ukr>Для просмотра вставьте документ в пистолетный слот.</ukr>
+	</string>
+	<string id="dosye_zvez_descr">
+		<text>Для просмотра содержимого вставьте блокнот в пистолетный слот.</text>
+		<eng>Для просмотра содержимого вставьте блокнот в пистолетный слот.</eng>
+		<ukr>Для просмотра содержимого вставьте блокнот в пистолетный слот.</ukr>
+	</string>
+	<string id="foto_kukla_descr">
+		<text>Для просмотра вставьте фото в пистолетный слот.</text>
+		<eng>Для просмотра вставьте фото в пистолетный слот.</eng>
+		<ukr>Для просмотра вставьте фото в пистолетный слот.</ukr>
+	</string>
+	<string id="pilot_zapiska_descr">
+		<text>Для просмотра вставьте записку в пистолетный слот.</text>
+		<eng>Для просмотра вставьте записку в пистолетный слот.</eng>
+		<ukr>Для просмотра вставьте записку в пистолетный слот.</ukr>
+	</string>
+	<string id="kreditka_descr">
+		<text>Для просмотра вставьте кредитку в пистолетный слот. Кредитная карта Bank of America номиналом в 5000000$.</text>
+		<eng>Для просмотра вставьте кредитку в пистолетный слот. Кредитная карта Bank of America номиналом в 5000000$.</eng>
+		<ukr>Для просмотра вставьте кредитку в пистолетный слот. Кредитная карта Bank of America номиналом в 5000000$.</ukr>
+	</string>
+	<string id="razved_karta_descr">
+		<text>Для просмотра вставьте карту в пистолетный слот. Обрывок карты с координатами перехода.</text>
+		<eng>Для просмотра вставьте карту в пистолетный слот. Обрывок карты с координатами перехода.</eng>
+		<ukr>Для просмотра вставьте карту в пистолетный слот. Обрывок карты с координатами перехода.</ukr>
+	</string>
+	<string id="karta_peschera_descr">
+		<text>Для просмотра вставьте карту в пистолетный слот. Старая карта Пещеры. Многие переходы уже не работают и неизвестно, есть ли шанс их открыть.</text>
+		<eng>Для просмотра вставьте карту в пистолетный слот. Старая карта Пещеры. Многие переходы уже не работают и неизвестно, есть ли шанс их открыть.</eng>
+		<ukr>Для просмотра вставьте карту в пистолетный слот. Старая карта Пещеры. Многие переходы уже не работают и неизвестно, есть ли шанс их открыть.</ukr>
+	</string>
+	<string id="cigara">
+		<text>Сигара</text>
+		<eng>Сигара</eng>
+		<ukr>Сигара</ukr>
+	</string>
+	<string id="old_doc_descr">
+		<text>Старый пожелтевший документ. Формулы, записи на непонятном языке. По виду - бред сумасшедшего...</text>
+		<eng>Старый пожелтевший документ. Формулы, записи на непонятном языке. По виду - бред сумасшедшего...</eng>
+		<ukr>Старый пожелтевший документ. Формулы, записи на непонятном языке. По виду - бред сумасшедшего...</ukr>
+	</string>
+	<string id="old_doc_2_descr">
+		<text>Старый документ. По виду - очень похож на предыдущий...</text>
+		<eng>Старый документ. По виду - очень похож на предыдущий...</eng>
+		<ukr>Старый документ. По виду - очень похож на предыдущий...</ukr>
+	</string>
+	<string id="old_doc_3_1_descr">
+		<text>Первая часть какого-то документа со схемами.</text>
+		<eng>Первая часть какого-то документа со схемами.</eng>
+		<ukr>Первая часть какого-то документа со схемами.</ukr>
+	</string>
+	<string id="old_doc_3_2_descr">
+		<text>Вторая часть какого-то документа со схемами.</text>
+		<eng>Вторая часть какого-то документа со схемами.</eng>
+		<ukr>Вторая часть какого-то документа со схемами.</ukr>
+	</string>
+	<string id="old_doc_3_3_descr">
+		<text>Третья часть документа со схемами.</text>
+		<eng>Третья часть документа со схемами.</eng>
+		<ukr>Третья часть документа со схемами.</ukr>
+	</string>
+	<string id="old_doc_3_4_descr">
+		<text>Последняя, четвёртая часть документа со схемами.</text>
+		<eng>Последняя, четвёртая часть документа со схемами.</eng>
+		<ukr>Последняя, четвёртая часть документа со схемами.</ukr>
+	</string>
+	<string id="old_doc_4_descr">
+		<text>Ещё один затёртый документ. Они все похожи - пойди разберись, что к чему.</text>
+		<eng>Ещё один затёртый документ. Они все похожи - пойди разберись, что к чему.</eng>
+		<ukr>Ещё один затёртый документ. Они все похожи - пойди разберись, что к чему.</ukr>
+	</string>
+	<string id="pda_info_descr">
+		<text>Типичный ПДА, каких в Зоне много. К тому же - нерабочий и побитый. Видно, что бывший хозяин был с ним не очень бережлив.</text>
+		<eng>Типичный ПДА, каких в Зоне много. К тому же - нерабочий и побитый. Видно, что бывший хозяин был с ним не очень бережлив.</eng>
+		<ukr>Типичный ПДА, каких в Зоне много. К тому же - нерабочий и побитый. Видно, что бывший хозяин был с ним не очень бережлив.</ukr>
+	</string>
+	<string id="nano_speed_descr">
+		<text>Модуль костюма №1.</text>
+		<eng>Модуль костюма №1.</eng>
+		<ukr>Модуль костюма №1.</ukr>
+	</string>
+	<string id="nano_med_descr">
+		<text>Модуль костюма №2.</text>
+		<eng>Модуль костюма №2.</eng>
+		<ukr>Модуль костюма №2.</ukr>
+	</string>
+	<string id="nano_rad_descr">
+		<text>Модуль костюма №3.</text>
+		<eng>Модуль костюма №3.</eng>
+		<ukr>Модуль костюма №3.</ukr>
+	</string>
+	<string id="nano_psi_descr">
+		<text>Модуль костюма №4.</text>
+		<eng>Модуль костюма №4.</eng>
+		<ukr>Модуль костюма №4.</ukr>
+	</string>
+	<string id="kostya_pda_descr">
+		<text>ПДА из тайника Кости.</text>
+		<eng>ПДА из тайника Кости.</eng>
+		<ukr>ПДА из тайника Кости.</ukr>
+	</string>
+	<string id="kostya_pda3_descr">
+		<text>На ПДА одна цифра: 35.</text>
+		<eng>На ПДА одна цифра: 35.</eng>
+		<ukr>На ПДА одна цифра: 35.</ukr>
+	</string>
+	<string id="kostya_pda4_descr">
+		<text>На ПДА одна цифра: 2.</text>
+		<eng>На ПДА одна цифра: 2.</eng>
+		<ukr>На ПДА одна цифра: 2.</ukr>
+	</string>
+	<string id="kostya_pda5_descr">
+		<text>На ПДА одна цифра: 7.</text>
+		<eng>На ПДА одна цифра: 7.</eng>
+		<ukr>На ПДА одна цифра: 7.</ukr>
+	</string>
+	<string id="kostya_pda6_descr">
+		<text>На ПДА одна цифра: 41.</text>
+		<eng>На ПДА одна цифра: 41.</eng>
+		<ukr>На ПДА одна цифра: 41.</ukr>
+	</string>
+	<string id="kostya_pda7_descr">
+		<text>На ПДА одна цифра: 6.</text>
+		<eng>На ПДА одна цифра: 6.</eng>
+		<ukr>На ПДА одна цифра: 6.</ukr>
+	</string>
+	<string id="kostya_pda9_descr">
+		<text>Код 2...9...7 Удачи!</text>
+		<eng>Код 2...9...7 Удачи!</eng>
+		<ukr>Код 2...9...7 Удачи!</ukr>
+	</string>
+	<string id="strelok_taynik_pda0_descr">
+		<text>ПДА, обнаруженный в тайнике Стрелка.</text>
+		<eng>ПДА, обнаруженный в тайнике Стрелка.</eng>
+		<ukr>ПДА, обнаруженный в тайнике Стрелка.</ukr>
+	</string>
+	<string id="strelok_taynik_pda3_descr">
+		<text>ПДА, обнаруженный в тайнике Стрелка.\n \nВ ПДА одна заметка:\n \nВ прошлый поход к Центру Зоны через Лиманск и туннели в Красном Лесу где-то обронил два рюкзака. Скорее всего в Красном Лесу. Вернуться не смог из-за завала после взрыва туннеля.</text>
+		<eng>ПДА, обнаруженный в тайнике Стрелка.\n \nВ ПДА одна заметка:\n \nВ прошлый поход к Центру Зоны через Лиманск и туннели в Красном Лесу где-то обронил два рюкзака. Скорее всего в Красном Лесу. Вернуться не смог из-за завала после взрыва туннеля.</eng>
+		<ukr>ПДА, обнаруженный в тайнике Стрелка.\n \nВ ПДА одна заметка:\n \nВ прошлый поход к Центру Зоны через Лиманск и туннели в Красном Лесу где-то обронил два рюкзака. Скорее всего в Красном Лесу. Вернуться не смог из-за завала после взрыва туннеля.</ukr>
+	</string>
+	<string id="strelok_taynik_pda3_1_descr">
+		<text>На ПДА часть сообщения:\n \nОставил полезные вещи на вышке...</text>
+		<eng>На ПДА часть сообщения:\n \nОставил полезные вещи на вышке...</eng>
+		<ukr>На ПДА часть сообщения:\n \nОставил полезные вещи на вышке...</ukr>
+	</string>
+	<string id="strelok_taynik_pda3_2_descr">
+		<text>На ПДА часть сообщения:\n \n...в Баре. Потом вернусь.</text>
+		<eng>На ПДА часть сообщения:\n \n...в Баре. Потом вернусь.</eng>
+		<ukr>На ПДА часть сообщения:\n \n...в Баре. Потом вернусь.</ukr>
+	</string>
+	<string id="kostya_taynik_pda2_descr">
+		<text>ПДА, обнаруженный в тайнике.</text>
+		<eng>ПДА, обнаруженный в тайнике.</eng>
+		<ukr>ПДА, обнаруженный в тайнике.</ukr>
+	</string>
+	<string id="tm_docs01_descr">
+		<text>Бессмертным</text>
+		<eng>Бессмертным</eng>
+		<ukr>Бессмертным</ukr>
+	</string>
+	<string id="tm_docs02_descr">
+		<text>Стань</text>
+		<eng>Стань</eng>
+		<ukr>Стань</ukr>
+	</string>
+	<string id="tm_docs03_descr">
+		<text>Вечное</text>
+		<eng>Вечное</eng>
+		<ukr>Вечное</ukr>
+	</string>
+	<string id="tm_docs04_descr">
+		<text>Озаряет</text>
+		<eng>Озаряет</eng>
+		<ukr>Озаряет</ukr>
+	</string>
+	<string id="tm_docs05_descr">
+		<text>Нас</text>
+		<eng>Нас</eng>
+		<ukr>Нас</ukr>
+	</string>
+	<string id="tm_docs06_descr">
+		<text>Покой</text>
+		<eng>Покой</eng>
+		<ukr>Покой</ukr>
+	</string>
+	<string id="tm_docs07_descr">
+		<text>Дарит</text>
+		<eng>Дарит</eng>
+		<ukr>Дарит</ukr>
+	</string>
+	<string id="tm_docs08_descr">
+		<text>Прекрасное</text>
+		<eng>Прекрасное</eng>
+		<ukr>Прекрасное</ukr>
+	</string>
+	<string id="tm_docs09_descr">
+		<text>Мир</text>
+		<eng>Мир</eng>
+		<ukr>Мир</ukr>
+	</string>
+	<string id="tm_docs10_descr">
+		<text>Найди</text>
+		<eng>Найди</eng>
+		<ukr>Найди</ukr>
+	</string>
+	<string id="tm_docs11_descr">
+		<text>Путь</text>
+		<eng>Путь</eng>
+		<ukr>Путь</ukr>
+	</string>
+	<string id="tm_docs12_descr">
+		<text>Счастье</text>
+		<eng>Счастье</eng>
+		<ukr>Счастье</ukr>
+	</string>
+	<string id="tm_docs13_descr">
+		<text>Незыблемое</text>
+		<eng>Незыблемое</eng>
+		<ukr>Незыблемое</ukr>
+	</string>
+	<string id="art_acumm">
+		<text>Чёрная энергия</text>
+		<eng>Чёрная энергия</eng>
+		<ukr>Чёрная энергия</ukr>
+	</string>
+	<string id="fire_outfit">
+		<text>Костюм пожарного</text>
+		<eng>Костюм пожарного</eng>
+		<ukr>Костюм пожарного</ukr>
+	</string>
+	<string id="psih_outfit">
+		<text>Плащ Психиатра</text>
+		<eng>Плащ Психиатра</eng>
+		<ukr>Плащ Психиатра</ukr>
+	</string>
+	<string id="stco_name">
+		<text>Позиционер</text>
+		<eng>Позиционер</eng>
+		<ukr>Позиционер</ukr>
+	</string>
+
 	<string id="snp_pda1">
 		<text>ПДА снайпера</text>
 		<eng>ПДА снайпера</eng>
