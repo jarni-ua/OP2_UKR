@@ -2,733 +2,448 @@
 <string_table>
 	<string id="Clear">
 		<text>ясная</text>
-		<eng>ясная</eng>
-		<ukr>ясна</ukr>
 	</string>
 	<string id="Cloudy">
 		<text>облачная</text>
-		<eng>облачная</eng>
-		<ukr>хмарна</ukr>
 	</string>
 	<string id="Default">
 		<text>средние</text>
-		<eng>средние</eng>
-		<ukr>середні</ukr>
 	</string>
 	<string id="Extreme">
 		<text>максимальные</text>
-		<eng>максимальные</eng>
-		<ukr>максимальні</ukr>
 	</string>
 	<string id="gd_novice">
 		<text>разминка</text>
-		<eng>разминка</eng>
-		<ukr>розминка</ukr>
 	</string>
 	<string id="gd_stalker">
 		<text>экстрим</text>
-		<eng>экстрим</eng>
-		<ukr>екстрім</ukr>
 	</string>
 	<string id="gd_veteran">
 		<text>выживание</text>
-		<eng>выживание</eng>
-		<ukr>виживання</ukr>
 	</string>
 	<string id="gd_master">
 		<text>реализм</text>
-		<eng>реализм</eng>
-		<ukr>реалізм</ukr>
 	</string>
 	<string id="High">
 		<text>высокие</text>
-		<eng>высокие</eng>
-		<ukr>високі</ukr>
 	</string>
 	<string id="Low">
 		<text>низкие</text>
-		<eng>низкие</eng>
-		<ukr>низькі</ukr>
 	</string>
 	<string id="Minimum">
 		<text>минимальные</text>
-		<eng>минимальные</eng>
-		<ukr>мінімальні</ukr>
 	</string>
 	<string id="mm_mp_check_cdkey">
 		<text>проверять CD-Key</text>
-		<eng>проверять CD-Key</eng>
-		<ukr>перевіряти CD-Key</ukr>
 	</string>
 	<string id="Nigth">
 		<text>ночь</text>
-		<eng>ночь</eng>
-		<ukr>Ніч</ukr>
 	</string>
 	<string id="Rain">
 		<text>дождь</text>
-		<eng>дождь</eng>
-		<ukr>дощ</ukr>
 	</string>
 	<string id="renderer_r1">
 		<text>статическое освещение</text>
-		<eng>статическое освещение</eng>
-		<ukr>Статичне освітлення</ukr>
 	</string>
 	<string id="renderer_r2">
 		<text>полное динамическое освещение</text>
-		<eng>полное динамическое освещение</eng>
-		<ukr>Повне динамічне освітлення</ukr>
 	</string>
 	<string id="renderer_r2a">
 		<text>динамическое освещение объектов</text>
-		<eng>динамическое освещение объектов</eng>
-		<ukr>Динамічне освітлення об'єктів</ukr>
 	</string>
 	<string id="st_artefacthunt">
 		<text>Охота за артефактом</text>
-		<eng>Охота за артефактом</eng>
-		<ukr>Полювання за артефактом</ukr>
 	</string>
 	<string id="st_deathmatch">
 		<text>Все против всех</text>
-		<eng>Все против всех</eng>
-		<ukr>Усі проти всіх</ukr>
 	</string>
 	<string id="st_rank_experienced">
 		<text>опытный</text>
-		<eng>опытный</eng>
-		<ukr>досвідчений</ukr>
 	</string>
 	<string id="st_rank_legend">
 		<text>легендарный сталкер</text>
-		<eng>легендарный сталкер</eng>
-		<ukr>легендарний сталкер</ukr>
 	</string>
 	<string id="st_rank_novice">
 		<text>новичок</text>
-		<eng>новичок</eng>
-		<ukr>новачок</ukr>
 	</string>
 	<string id="st_rank_professional">
 		<text>профессионал</text>
-		<eng>профессионал</eng>
-		<ukr>професіонал</ukr>
 	</string>
 	<string id="st_rank_veteran">
 		<text>ветеран</text>
-		<eng>ветеран</eng>
-		<ukr>ветеран</ukr>
 	</string>
 	<string id="st_team_deathmatch">
 		<text>Команда против команды</text>
-		<eng>Команда против команды</eng>
-		<ukr>Команда проти команди</ukr>
 	</string>
 	<string id="testers_mp_agroprom">
 		<text>Агропром</text>
-		<eng>Агропром</eng>
-		<ukr>Агропром</ukr>
 	</string>
 	<string id="testers_mp_atp">
 		<text>АТП</text>
-		<eng>АТП</eng>
-		<ukr>АТП</ukr>
 	</string>
 	<string id="testers_mp_darkvalley">
 		<text>Тёмная Долина</text>
-		<eng>Тёмная Долина</eng>
-		<ukr>Темна Долина</ukr>
 	</string>
 	<string id="testers_mp_factory">
 		<text>Фабрика "Янтарь"</text>
-		<eng>Фабрика "Янтарь"</eng>
-		<ukr>Завод «Янтар»</ukr>
 	</string>
 	<string id="testers_mp_lost_village">
 		<text>Покинутая деревня</text>
-		<eng>Покинутая деревня</eng>
-		<ukr>Покинуте селище</ukr>
 	</string>
 	<string id="testers_mp_military_1">
 		<text>Армейские склады</text>
-		<eng>Армейские склады</eng>
-		<ukr>Військові склади</ukr>
 	</string>
 	<string id="testers_mp_pool">
 		<text>Бассейн</text>
-		<eng>Бассейн</eng>
-		<ukr>Басейн</ukr>
 	</string>
 	<string id="testers_mp_railroad">
 		<text>Ж/Д станция</text>
-		<eng>Ж/Д станция</eng>
-		<ukr>Залізнична станція</ukr>
 	</string>
 	<string id="testers_mp_rostok">
 		<text>Завод "Росток"</text>
-		<eng>Завод "Росток"</eng>
-		<ukr>Завод «Росток»</ukr>
 	</string>
 	<string id="testers_mp_workshop">
 		<text>Брошенная фабрика</text>
-		<eng>Брошенная фабрика</eng>
-		<ukr>Кинута фабрика</ukr>
 	</string>
 	<string id="ui_mm_60_hz">
 		<text>Частота 60Гц</text>
-		<eng>Частота 60Гц</eng>
-		<ukr>Частота 60Гц</ukr>
 	</string>
 	<string id="ui_mm_action">
 		<text>Действие</text>
-		<eng>Действие</eng>
-		<ukr>Дія</ukr>
 	</string>
 	<string id="ui_mm_advanced">
 		<text>Расширенные</text>
-		<eng>Расширенные</eng>
-		<ukr>Розширені</ukr>
 	</string>
 	<string id="ui_mm_anisotropic">
 		<text>Фильтрация текстур</text>
-		<eng>Фильтрация текстур</eng>
-		<ukr>Фільтрація текстур</ukr>
 	</string>
 	<string id="ui_mm_apply">
 		<text>Применить</text>
-		<eng>Применить</eng>
-		<ukr>Застосувати</ukr>
 	</string>
 	<string id="ui_mm_back">
 		<text>Назад</text>
-		<eng>Назад</eng>
-		<ukr>Назад</ukr>
 	</string>
 	<string id="ui_mm_blood">
 		<text>Кровь</text>
-		<eng>Кровь</eng>
-		<ukr>Кров</ukr>
 	</string>
 	<string id="ui_mm_brightness">
 		<text>Яркость</text>
-		<eng>Яркость</eng>
-		<ukr>Яскравість</ukr>
 	</string>
 	<string id="ui_mm_cancel">
 		<text>Отмена</text>
-		<eng>Отмена</eng>
-		<ukr>Скасувати</ukr>
 	</string>
 	<string id="ui_mm_cam_inert">
 		<text>Раскачивание камеры</text>
-		<eng>Раскачивание камеры</eng>
-		<ukr>Розгойдування камери</ukr>
 	</string>
 	<string id="ui_mm_contrast">
 		<text>Контраст</text>
-		<eng>Контраст</eng>
-		<ukr>Контраст</ukr>
 	</string>
 	<string id="ui_mm_controls">
 		<text>Управление</text>
-		<eng>Управление</eng>
-		<ukr>Керування</ukr>
 	</string>
 	<string id="ui_mm_credits">
 		<text>Титры</text>
-		<eng>Титры</eng>
-		<ukr>Титри</ukr>
 	</string>
 	<string id="ui_mm_crosshair_distance">
 		<text>Дистанция до цели</text>
-		<eng>Дистанция до цели</eng>
-		<ukr>Дистанція до цілі</ukr>
 	</string>
 	<string id="ui_mm_bioradar">
 		<text>Динамический биорадар</text>
-		<eng>Динамический биорадар</eng>
-		<ukr>Динамічний біорадар</ukr>
 	</string>
 	<string id="ui_mm_autosave">
 		<text>Автосохранение</text>
-		<eng>Автосохранение</eng>
-		<ukr>Автозбереження</ukr>
 	</string>
 	<string id="ui_mm_autopause">
 		<text>Пауза после загрузки</text>
-		<eng>Пауза после загрузки</eng>
-		<ukr>Пауза після завантаження</ukr>
 	</string>
 	<string id="ui_mm_call_sound">
 		<text>Зов Сидоровича после загрузки</text>
-		<eng>Зов Сидоровича после загрузки</eng>
-		<ukr>Зов Сидоровича после загрузки</ukr>
-	</string>
+	</string>	
 	<string id="ui_mm_animations">
 		<text>Расширенные анимации</text>
-		<eng>Расширенные анимации</eng>
-		<ukr>Розширені анімації</ukr>
 	</string>
 	<string id="ui_mm_autograb">
 		<text>Автообыск трупа</text>
-		<eng>Автообыск трупа</eng>
-		<ukr>Автообшук трупа</ukr>
 	</string>
 	<string id="ui_mm_sms">
 		<text>"Неатмосферные" СМС</text>
-		<eng>"Неатмосферные" СМС</eng>
-		<ukr>"Неатмосферні" СМС</ukr>
 	</string>
 	<string id="ui_mm_autochange_difficulty">
 		<text>Автосмена сложности в зависимости от частоты гибели игрока</text>
-		<eng>Автосмена сложности в зависимости от частоты гибели игрока</eng>
-		<ukr>Автозміна складності в залежності від частоти смерті гравця</ukr>
 	</string>
 	<string id="ui_mm_game_options">
 		<text>Опции игры</text>
-		<eng>Опции игры</eng>
-		<ukr>Опции игры</ukr>
 	</string>
 	<string id="ui_mm_buy">
 		<text>Купить квестовый предмет за 200000:</text>
-		<eng>Купить квестовый предмет за 200000:</eng>
-		<ukr>Купити квестовий предмет за 200000:</ukr>
 	</string>
 	<string id="ui_mm_del">
 		<text>Удалить проблемные объекты:</text>
-		<eng>Удалить проблемные объекты:</eng>
-		<ukr>Видалити проблемні об'єкти:</ukr>
 	</string>
 	<string id="ui_mm_hardcore">
 		<text>Дополнительные усложнения</text>
-		<eng>Дополнительные усложнения</eng>
-		<ukr>Додаткові ускладення:</ukr>
 	</string>
 	<string id="ui_mm_fast_respawn">
 		<text>Частый респаун</text>
-		<eng>Частый респаун</eng>
-		<ukr>Частий респаун</ukr>
 	</string>
 	<string id="ui_mm_transparent_treasure">
 		<text>Малозаметные тайники</text>
-		<eng>Малозаметные тайники</eng>
-		<ukr>Малопомітні схованки</ukr>
 	</string>
 	<string id="ui_mm_delete">
 		<text>Удалить</text>
-		<eng>Удалить</eng>
-		<ukr>Видалити</ukr>
 	</string>
 	<string id="ui_mm_difficulty">
 		<text>Сложность:</text>
-		<eng>Сложность:</eng>
-		<ukr>Складність:</ukr>
 	</string>
 	<string id="ui_mm_disconnect">
 		<text>Отсоединиться</text>
-		<eng>Отсоединиться</eng>
-		<ukr>Від'єднатися</ukr>
 	</string>
 	<string id="ui_mm_disconnect_message">
 		<text>Действительно ли Вы желаете отсоединиться?</text>
-		<eng>Действительно ли Вы желаете отсоединиться?</eng>
-		<ukr> Чи справді ви бажаєте від'єднатися?</ukr>
 	</string>
 	<string id="ui_mm_dyn_crosshair">
 		<text>Динамический прицел</text>
-		<eng>Динамический прицел</eng>
-		<ukr>Динамічний приціл</ukr>
 	</string>
 	<string id="ui_mm_eax">
 		<text>EAX</text>
-		<eng>EAX</eng>
-		<ukr>EAX</ukr>
 	</string>
 	<string id="ui_mm_fullscreen">
 		<text>Полный экран</text>
-		<eng>Полный экран</eng>
-		<ukr>Повний екран</ukr>
 	</string>
 	<string id="ui_mm_gameplay">
 		<text>Игра</text>
-		<eng>Игра</eng>
-		<ukr>Гра</ukr>
 	</string>
 	<string id="ui_mm_gamma">
 		<text>Гамма</text>
-		<eng>Гамма</eng>
-		<ukr>Гама</ukr>
 	</string>
 	<string id="ui_mm_geometry_lod">
 		<text>Детализация объектов</text>
-		<eng>Детализация объектов</eng>
-		<ukr>Деталізація об'єктів</ukr>
 	</string>
 	<string id="ui_mm_invert_mouse">
 		<text>Инвертировать мышь</text>
-		<eng>Инвертировать мышь</eng>
-		<ukr>Інвертувати мишу</ukr>
 	</string>
 	<string id="ui_mm_key">
 		<text>Кнопка</text>
-		<eng>Кнопка</eng>
-		<ukr>Кнопка</ukr>
 	</string>
 	<string id="ui_mm_keyboard_setup">
 		<text>Настройка клавиатуры</text>
-		<eng>Настройка клавиатуры</eng>
-		<ukr>Налаштування клавіатури</ukr>
 	</string>
 	<string id="ui_mm_last_save">
 		<text>Последнее сохранение</text>
-		<eng>Последнее сохранение</eng>
-		<ukr>Останнє збереження</ukr>
 	</string>
 	<string id="ui_mm_light_distance">
 		<text>Дальность освещения</text>
-		<eng>Дальность освещения</eng>
-		<ukr>Дальність освітлення</ukr>
 	</string>
 	<string id="ui_mm_load">
 		<text>Загрузить</text>
-		<eng>Загрузить</eng>
-		<ukr>Завантажити</ukr>
 	</string>
 	<string id="ui_mm_load_game">
 		<text>Загрузить игру</text>
-		<eng>Загрузить игру</eng>
-		<ukr>Завантажити гру</ukr>
 	</string>
 	<string id="ui_mm_master">
 		<text>Реализм</text>
-		<eng>Реализм</eng>
-		<ukr>Реалізм</ukr>
 	</string>
 	<string id="ui_mm_master_volume">
 		<text>Громкость</text>
-		<eng>Громкость</eng>
-		<ukr>Гучність</ukr>
 	</string>
 	<string id="ui_mm_mouse_sense">
 		<text>Чувствительность мыши</text>
-		<eng>Чувствительность мыши</eng>
-		<ukr>Чутливість миші</ukr>
 	</string>
 	<string id="ui_mm_multiplayer">
 		<text>СЕТЕВАЯ ИГРА</text>
-		<eng>СЕТЕВАЯ ИГРА</eng>
-		<ukr>ГРА В МЕРЕЖІ</ukr>
 	</string>
 	<string id="ui_mm_multiplayer_n">
 		<text>Сетевая игра</text>
-		<eng>Сетевая игра</eng>
-		<ukr>Гра в мережі</ukr>
 	</string>
 	<string id="ui_mm_music_volume">
 		<text>Громкость музыки</text>
-		<eng>Громкость музыки</eng>
-		<ukr>Гучність музики</ukr>
 	</string>
 	<string id="ui_mm_need_restart">
 		<text>Изменения вступят в силу только после перезагрузки игры.</text>
-		<eng>Изменения вступят в силу только после перезагрузки игры.</eng>
-		<ukr>Зміни набудуть чинності лише після перезавантаження гри</ukr>
 	</string>
 	<string id="ui_mm_newgame">
 		<text>Новая игра</text>
-		<eng>Новая игра</eng>
-		<ukr>Нова гра</ukr>
 	</string>
 	<string id="ui_mm_novice">
 		<text>Разминка</text>
-		<eng>Разминка</eng>
-		<ukr>Розминка</ukr>
 	</string>
 	<string id="ui_mm_npc_torch">
 		<text>Свет фонариков НПС</text>
-		<eng>Свет фонариков НПС</eng>
-		<ukr>Світло ліхтариків НПС</ukr>
 	</string>
 	<string id="ui_mm_options">
 		<text>Опции</text>
-		<eng>Опции</eng>
-		<ukr>Опції</ukr>
 	</string>
 	<string id="ui_mm_options_n">
 		<text>Опции</text>
-		<eng>Опции</eng>
-		<ukr>Опції</ukr>
 	</string>
 	<string id="ui_mm_particles_distance">
 		<text>Дальность частиц</text>
-		<eng>Дальность частиц</eng>
-		<ukr>Дальність партиклів</ukr>
 	</string>
 	<string id="ui_mm_quality_presets">
 		<text>Установки качества</text>
-		<eng>Установки качества</eng>
-		<ukr>Установки якості</ukr>
 	</string>
 	<string id="ui_mm_quit_game">
 		<text>Завершить игру</text>
-		<eng>Завершить игру</eng>
-		<ukr>Завершити гру</ukr>
 	</string>
 	<string id="ui_mm_quit_game_message">
 		<text>Действительно ли Вы желаете покинуть игру?</text>
-		<eng>Действительно ли Вы желаете покинуть игру?</eng>
-		<ukr>Ви справді бажаєте залишити гру?</ukr>
 	</string>
 	<string id="ui_mm_quit_windows_message">
 		<text>Действительно ли Вы хотите выйти в Windows?</text>
-		<eng>Действительно ли Вы хотите выйти в Windows?</eng>
-		<ukr>Ви справді хочете вийти до Windows?</ukr>
 	</string>
 	<string id="ui_mm_quit2windows">
 		<text>Выйти в Windows</text>
-		<eng>Выйти в Windows</eng>
-		<ukr>Вийти у Windows</ukr>
 	</string>
 	<string id="ui_mm_renderer">
 		<text>Тип освещения</text>
-		<eng>Тип освещения</eng>
-		<ukr>Тип рендера</ukr>
 	</string>
 	<string id="ui_mm_resolution">
 		<text>Разрешение</text>
-		<eng>Разрешение</eng>
-		<ukr>Роздільна здатність</ukr>
 	</string>
 	<string id="ui_mm_return_game">
 		<text>Возврат к игре</text>
-		<eng>Возврат к игре</eng>
-		<ukr>Назад у гру</ukr>
 	</string>
 	<string id="ui_mm_save">
 		<text>Сохранить</text>
-		<eng>Сохранить</eng>
-		<ukr>Зберегти</ukr>
 	</string>
 	<string id="ui_mm_save_game">
 		<text>Сохранить игру</text>
-		<eng>Сохранить игру</eng>
-		<ukr>Зберегти гру</ukr>
 	</string>
 	<string id="ui_mm_show_crosshair">
 		<text>Показывать прицел</text>
-		<eng>Показывать прицел</eng>
-		<ukr>Показувати приціл</ukr>
 	</string>
 	<string id="ui_mm_show_weapon">
 		<text>Показывать оружие</text>
-		<eng>Показывать оружие</eng>
-		<ukr>Показувати зброю</ukr>
 	</string>
 	<string id="ui_mm_simply">
 		<text>Базовые</text>
-		<eng>Базовые</eng>
-		<ukr>Базові</ukr>
 	</string>
 	<string id="ui_mm_sound">
 		<text>Звук</text>
-		<eng>Звук</eng>
-		<ukr>Звук</ukr>
 	</string>
 	<string id="ui_mm_sound_quality">
 		<text>Качество звука</text>
-		<eng>Качество звука</eng>
-		<ukr>Якість звуку</ukr>
 	</string>
 	<string id="ui_mm_stalker">
 		<text>Экстрим</text>
-		<eng>Экстрим</eng>
-		<ukr>Екстрім</ukr>
 	</string>
 	<string id="ui_mm_sun_quality">
 		<text>Качество теней</text>
-		<eng>Качество теней</eng>
-		<ukr>Якість тіней</ukr>
 	</string>
 	<string id="ui_mm_supersample">
 		<text>Сглаживание</text>
-		<eng>Сглаживание</eng>
-		<ukr>Згладжування</ukr>
 	</string>
 	<string id="ui_mm_switch_torch">
 		<text>Использование фонариков НПС</text>
-		<eng>Использование фонариков НПС</eng>
-		<ukr>Використання ліхтариків НПС</ukr>
 	</string>
 	<string id="ui_mm_texture_quality">
 		<text>Качество текстур</text>
-		<eng>Качество текстур</eng>
-		<ukr>Якість текстур</ukr>
 	</string>
 	<string id="ui_mm_tips">
 		<text>Распознавание НПС</text>
-		<eng>Распознавание НПС</eng>
-		<ukr>Розпізнавання НПС</ukr>
 	</string>
 	<string id="ui_mm_veteran">
 		<text>Выживание</text>
-		<eng>Выживание</eng>
-		<ukr>Виживання</ukr>
 	</string>
 	<string id="ui_mm_video">
 		<text>Видео</text>
-		<eng>Видео</eng>
-		<ukr>Відео</ukr>
 	</string>
 	<string id="ui_mm_vis_distance">
 		<text>Дальность видимости</text>
-		<eng>Дальность видимости</eng>
-		<ukr>Дальність видимості</ukr>
 	</string>
 	<string id="ui_mm_vsync">
 		<text>Синхронизация</text>
-		<eng>Синхронизация</eng>
-		<ukr>Верт. синхронізація</ukr>
 	</string>
 	<string id="ui_st_last_set">
 		<text>Посл. набор</text>
-		<eng>Посл. набор</eng>
-		<ukr>Попер. набір</ukr>
 	</string>
 	<string id="ui_st_preset1">
 		<text>Набор 1</text>
-		<eng>Набор 1</eng>
-		<ukr>Набір 1</ukr>
 	</string>
 	<string id="ui_st_preset2">
 		<text>Набор 2</text>
-		<eng>Набор 2</eng>
-		<ukr>Набір 2</ukr>
 	</string>
 	<string id="ui_st_preset3">
 		<text>Набор 3</text>
-		<eng>Набор 3</eng>
-		<ukr>Набір 3</ukr>
 	</string>
 	<string id="ui_st_reset">
 		<text>Сбросить</text>
-		<eng>Сбросить</eng>
-		<ukr>Очистити</ukr>
 	</string>
 	<string id="ui_st_sell_all">
 		<text>Продать всё</text>
-		<eng>Продать всё</eng>
-		<ukr>Продати все</ukr>
 	</string>
-	<string id="ui_mm_save_level_game">
-		<text>Сохранить на территории</text>
-		<eng>Сохранить на территории</eng>
-		<ukr>Зберегти на рівні</ukr> 
-	</string>
+	<string id="ui_mm_save_level_game"> 
+		<text>Сохранить на территории</text> 
+    </string>
 	<string id="ui_mm_options_op21">
 		<text>Опции ОП-2.1</text>
-		<eng>Опции ОП-2.1</eng>
-		<ukr>Опции ОП-2.1</ukr>
 	</string>
+	
 	<string id="ui_mm_options_op21_group_title">
 		<text>Инвентарь</text>
-		<eng>Инвентарь</eng>
-		<ukr>Инвентарь</ukr>
 	</string>
 	<string id="ui_mm_options_op21_group_title2">
 		<text>Общие параметры</text>
-		<eng>Общие параметры</eng>
-		<ukr>Общие параметры</ukr>
-	</string>
+	</string>	
+	
 	<string id="ui_mm_options_op21_group_title3">
 		<text>Оружие</text>
-		<eng>Оружие</eng>
-		<ukr>Оружие</ukr>
-	</string>
+	</string>	
 	<string id="ui_mm_options_op21_group_title4">
 		<text>Загрузочные экраны</text>
-		<eng>Загрузочные экраны</eng>
-		<ukr>Загрузочные экраны</ukr>
 	</string>
+	
 	<string id="ui_options_op21_ls_show_progress">
 		<text>Показывать полосу загрузки</text>
-		<eng>Показывать полосу загрузки</eng>
-		<ukr>Показывать полосу загрузки</ukr>
 	</string>
 	<string id="ui_options_op21_ls_text_offset_x">
 		<text>Смещение текста по оси X</text>
-		<eng>Смещение текста по оси X</eng>
-		<ukr>Смещение текста по оси X</ukr>
 	</string>
 	<string id="ui_options_op21_ls_text_offset_y">
 		<text>Смещение текста по оси Y</text>
-		<eng>Смещение текста по оси Y</eng>
-		<ukr>Смещение текста по оси Y</ukr>
 	</string>
+	
 	<string id="ui_mm_options_op21_deffered_reload">
 		<text>Свободный выбор патронов для перезарядки</text>
-		<eng>Свободный выбор патронов для перезарядки</eng>
-		<ukr>Свободный выбор патронов для перезарядки</ukr>
 	</string>
 	<string id="ui_mm_options_op21_fixed_reload">
 		<text>Фиксированное использование патронов</text>
-		<eng>Фиксированное использование патронов</eng>
-		<ukr>Фиксированное использование патронов</ukr>
 	</string>
 	<string id="ui_mm_options_op21_sticky_scope">
 		<text>Фиксирующийся прицел</text>
-		<eng>Фиксирующийся прицел</eng>
-		<ukr>Фиксирующийся прицел</ukr>
 	</string>
+	
 	<string id="ui_mm_options_op21_allow_tsb">
 		<text>Перемещать предметы с пояса/слотов</text>
-		<eng>Перемещать предметы с пояса/слотов</eng>
-		<ukr>Перемещать предметы с пояса/слотов</ukr>
 	</string>
 	<string id="ui_mm_options_op21_dialog_numbered">
 		<text>Нумерация строк в диалогах</text>
-		<eng>Нумерация строк в диалогах</eng>
-		<ukr>Нумерация строк в диалогах</ukr>
 	</string>
 	<string id="ui_mm_options_op21_hud_min_crosshair">
 		<text>При убирании худа показывать прицел</text>
-		<eng>При убирании худа показывать прицел</eng>
-		<ukr>При убирании худа показывать прицел</ukr>
 	</string>
+	
 	<string id="ui_mm_options_op21_show_focused">
 		<text>Подсвечивать предмет в фокусе</text>
-		<eng>Подсвечивать предмет в фокусе</eng>
-		<ukr>Подсвечивать предмет в фокусе</ukr>
 	</string>
 	<string id="ui_mm_options_op21_show_selected">
 		<text>Подсвечивать выбранный предмет</text>
-		<eng>Подсвечивать выбранный предмет</eng>
-		<ukr>Подсвечивать выбранный предмет</ukr>
 	</string>
 	<string id="ui_mm_options_op21_show_extdesc">
 		<text>Расширенное контекстное меню</text>
-		<eng>Расширенное контекстное меню</eng>
-		<ukr>Расширенное контекстное меню</ukr>
 	</string>
 	<string id="ui_mm_options_op21_show_condition">
 		<text>Состояние предмета на иконке</text>
-		<eng>Состояние предмета на иконке</eng>
-		<ukr>Состояние предмета на иконке</ukr>
 	</string>
 	<string id="ui_mm_options_op21_show_sb">
 		<text>Пояс и слоты в торговле</text>
-		<eng>Пояс и слоты в торговле</eng>
-		<ukr>Пояс и слоты в торговле</ukr>
 	</string>
 	<string id="ui_mm_options_scope_open">
 		<text>Открытые прицелы</text>
-		<eng>Открытые прицелы</eng>
-		<ukr>Открытые прицелы</ukr>
 	</string>
+	
 	<string id="ui_mm_god_options">
 		<text>Облегчённое прохождение</text>
-		<eng>Облегчённое прохождение</eng>
-		<ukr>Облегчённое прохождение</ukr>
 	</string>
 	<string id="ui_mm_god_warning">
 		<text>\n
@@ -736,110 +451,52 @@
 			Будьте осторожны при использовании данных опций.\n
 			Частое их применение значительно облегчает и ускоряет\n
 			прохождение, но может полностью лишить удовольствия от игры.%c[default]</text>
-		<eng>\n
-			%c[255,255,128,128]ВНИМАНИЕ!\n
-			Будьте осторожны при использовании данных опций.\n
-			Частое их применение значительно облегчает и ускоряет\n
-			прохождение, но может полностью лишить удовольствия от игры.%c[default]</eng>
-		<ukr>\n
-			%c[255,255,128,128]ВНИМАНИЕ!\n
-			Будьте осторожны при использовании данных опций.\n
-			Частое их применение значительно облегчает и ускоряет\n
-			прохождение, но может полностью лишить удовольствия от игры.%c[default]</ukr>
 	</string>
 	<string id="god_used">
 		<text>использований</text>
-		<eng>использований</eng>
-		<ukr>использований</ukr>
 	</string>
 	<string id="ui_mm_god_invul">
 		<text>Бессмертие до конца боя</text>
-		<eng>Бессмертие до конца боя</eng>
-		<ukr>Бессмертие до конца боя</ukr>
 	</string>
 	<string id="ui_mm_god_item">
 		<text>Покупка %c[255,255,255,255]любого%c[default] предмета за 200000</text>
-		<eng>Покупка %c[255,255,255,255]любого%c[default] предмета за 200000</eng>
-		<ukr>Покупка %c[255,255,255,255]любого%c[default] предмета за 200000</ukr>
 	</string>
 	<string id="ui_mm_god_jump">
 		<text>Суперпрыжок</text>
-		<eng>Суперпрыжок</eng>
-		<ukr>Суперпрыжок</ukr>
 	</string>
 	<string id="ui_mm_god_coll">
 		<text>Метка на тайник Коллекционера</text>
-		<eng>Метка на тайник Коллекционера</eng>
-		<ukr>Метка на тайник Коллекционера</ukr>
 	</string>
 	<string id="ui_mm_god_docs">
 		<text>Метки на документы Воронина</text>
-		<eng>Метки на документы Воронина</eng>
-		<ukr>Метки на документы Воронина</ukr>
 	</string>
 	<string id="ui_mm_god_tele">
 		<text>Телепортация с неограниченным весом</text>
-		<eng>Телепортация с неограниченным весом</eng>
-		<ukr>Телепортация с неограниченным весом</ukr>
 	</string>
 	<string id="ui_mm_god_loc">
 		<text>Получить телепорты на новые территории</text>
-		<eng>Получить телепорты на новые территории</eng>
-		<ukr>Получить телепорты на новые территории</ukr>
 	</string>
+
 	<string id="ui_mm_name">
 		<text>Имя игрока:</text>
-		<eng>Имя игрока:</eng>
-		<ukr>Имя игрока:</ukr>
 	</string>
 	<string id="ui_mm_username">
 		<text>Имя игрока</text>
-		<eng>Имя игрока</eng>
-		<ukr>Имя игрока</ukr>
 	</string>
 	<string id="ui_mm_username_caption">
 		<text>Введите своё имя:</text>
-		<eng>Введите своё имя:</eng>
-		<ukr>Введите своё имя:</ukr>
 	</string>
 	<string id="ui_amk_opt_rad_hud">
 		<text>Худ костюма</text>
-		<eng>Худ костюма</eng>
-		<ukr>Худ костюма</ukr>
 	</string>
 	<string id="ui_amk_opt_mus">
 		<text>Динамическая музыка</text>
-		<eng>Динамическая музыка</eng>
-		<ukr>Динамическая музыка</ukr>
 	</string>
 	<string id="ui_amk_opt_treasure">
 		<text>Тайники</text>
-		<eng>Тайники</eng>
-		<ukr>Тайники</ukr>
 	</string>
-	<string id="ui_mm_font_profile">
-		<text>Шрифт</text>
-		<eng>Шрифт</eng>
-		<ukr>Шрифт</ukr>
-	</string>
-	<string id="default_fonts">
-		<text>Стандартный</text>
-		<eng>Стандартный</eng>
-		<ukr>Стандартний</ukr>
-	</string>
-	<string id="bigger_fonts">
-		<text>Увеличенный</text>
-		<eng>Увеличенный</eng>
-		<ukr>Збільшений</ukr>
-	</string>
+	
 	<string id="ui_mm_pause_text">
 		<text>Зона ждет тебя, %s ...</text>
-		<eng>Зона ждет тебя, %s ...</eng>
-		<ukr>Зона чекає на тебе, %s ...</ukr>
-	</string>
-	<string id="ui_mm_language">
-		<text>Язык</text>
-		<eng>Language</eng>
-		<ukr>Мова</ukr>
 	</string>
 </string_table>
