@@ -264,8 +264,8 @@
 		<ukr>Щасливчик</ukr>
 	</string>
 	<string id="ros_kruglov_name">
-		<text>Проф. Круглов</text>
-		<eng>Проф. Круглов</eng>
+		<text>Профессор Круглов</text>
+		<eng>Профессор Круглов</eng>
 		<ukr>Професор Круглов</ukr>
 	</string>
 	<string id="ros_tiran_name">
@@ -277,6 +277,11 @@
 		<text>Волкодав</text>
 		<eng>Волкодав</eng>
 		<ukr>Вовкодав</ukr>
+	</string>
+	<string id="borov_name">
+		<text>Боров</text>
+		<eng>Боров</eng>
+		<ukr>Кабан</ukr>
 	</string>
 	<string id="sar2_arena_manager_name">
 		<text>Арни</text>
@@ -292,11 +297,6 @@
 		<text>Вася "Кабан"</text>
 		<eng>Вася "Кабан"</eng>
 		<ukr>Вася Кабан</ukr>
-	</string>
-	<string id="sar2_borov_name">
-		<text>Боров</text>
-		<eng>Боров</eng>
-		<ukr>Кабан</ukr>
 	</string>
 	<string id="sar2_crazy_svoboda_name">
 		<text>Сумасшедший</text>
@@ -608,3 +608,734 @@
 		<eng>Прут</eng>
 		<ukr>Прут</ukr>
 	</string>
+	<string id="kulinar_name">
+		<text>Кулинар</text>
+		<eng>Кулинар</eng>
+		<ukr>Кулинар</ukr>
+	</string>
+	<string id="crest_name">
+		<text>Крест</text>
+		<eng>Крест</eng>
+		<ukr>Крест</ukr>
+	</string>
+	<string id="zahar_name">
+		<text>Захар</text>
+		<eng>Захар</eng>
+		<ukr>Захар</ukr>
+	</string>
+	<string id="voron_name">
+		<text>Ворон</text>
+		<eng>Ворон</eng>
+		<ukr>Ворон</ukr>
+	</string>
+	<string id="dan_name">
+		<text>Дэн</text>
+		<eng>Дэн</eng>
+		<ukr>Дэн</ukr>
+	</string>
+	<string id="dyak_name">
+		<text>Дьяк</text>
+		<eng>Дьяк</eng>
+		<ukr>Дьяк</ukr>
+	</string>
+	<string id="marsh_remont_name">
+		<text>Василий</text>
+		<eng>Василий</eng>
+		<ukr>Василий</ukr>
+	</string>
+	<string id="sviblov_name">
+		<text>Свиблов</text>
+		<eng>Свиблов</eng>
+		<ukr>Свиблов</ukr>
+	</string>
+	<string id="atp_kalinin_name">
+		<text>Калинин</text>
+		<eng>Калинин</eng>
+		<ukr>Калинин</ukr>
+	</string>
+	<string id="land_medik_name">
+		<text>Шура Гинеколог</text>
+		<eng>Шура Гинеколог</eng>
+		<ukr>Шура Гинеколог</ukr>
+	</string>
+	<string id="dragunof_name">
+		<text>Драгунов</text>
+		<eng>Драгунов</eng>
+		<ukr>Драгунов</ukr>
+	</string>
+	<string id="fotograf_name">
+		<text>Фотограф</text>
+		<eng>Фотограф</eng>
+		<ukr>Фотограф</ukr>
+	</string>
+	<string id="akill_name">
+		<text>Акилл</text>
+		<eng>Акилл</eng>
+		<ukr>Акилл</ukr>
+	</string>
+	<string id="aaz_name">
+		<text>Ааз</text>
+		<eng>Ааз</eng>
+		<ukr>Ааз</ukr>
+	</string>
+	<string id="sak_name">
+		<text>Сяк</text>
+		<eng>Сяк</eng>
+		<ukr>Сяк</ukr>
+	</string>
+	<string id="kalmyak_name">
+		<text>Калмык</text>
+		<eng>Калмык</eng>
+		<ukr>Калмык</ukr>
+	</string>
+	<string id="grom_name">
+		<text>Гром</text>
+		<eng>Гром</eng>
+		<ukr>Гром</ukr>
+	</string>
+	<string id="kostya_name">
+		<text>Костя</text>
+		<eng>Костя</eng>
+		<ukr>Костя</ukr>
+	</string>
+	<string id="noi_name">
+		<text>Ной</text>
+		<eng>Ной</eng>
+		<ukr>Ной</ukr>
+	</string>
+	<string id="buusty_name">
+		<text>Басти</text>
+		<eng>Басти</eng>
+		<ukr>Басти</ukr>
+	</string>
+	<string id="mercaushiy_name">
+		<text>Мерцающий</text>
+		<eng>Мерцающий</eng>
+		<ukr>Мерцающий</ukr>
+	</string>
+	<string id="dimak_name">
+		<text>Димак</text>
+		<eng>Димак</eng>
+		<ukr>Димак</ukr>
+	</string>
+	<string id="nazar_name">
+		<text>Назар</text>
+		<eng>Назар</eng>
+		<ukr>Назар</ukr>
+	</string>
+	<string id="marsh_barman_name">
+		<text>Холод</text>
+		<eng>Холод</eng>
+		<ukr>Холод</ukr>
+	</string>
+	<string id="kogot_name">
+		<text>Коршун</text>
+		<eng>Коршун</eng>
+		<ukr>Коршун</ukr>
+	</string>
+	<string id="fenix_name">
+		<text>Феникс</text>
+		<eng>Феникс</eng>
+		<ukr>Феникс</ukr>
+	</string>
+	<string id="borman_name">
+		<text>Борман</text>
+		<eng>Борман</eng>
+		<ukr>Борман</ukr>
+	</string>
+	<string id="forest_lesnik_name">
+		<text>Лесник</text>
+		<eng>Лесник</eng>
+		<ukr>Лесник</ukr>
+	</string>
+	<string id="val_sos_stalker_name">
+		<text>Мессер</text>
+		<eng>Мессер</eng>
+		<ukr>Мессер</ukr>
+	</string>
+	<string id="agr_ratcatcher_name">
+		<text>Дезертир</text>
+		<eng>Дезертир</eng>
+		<ukr>Дезертир</ukr>
+	</string>
+	<string id="tm_brother_name">
+		<text>Брат Тени Монолита</text>
+		<eng>Брат Тени Монолита</eng>
+		<ukr>Брат Тени Монолита</ukr>
+	</string>
+	<string id="yakut_name">
+		<text>Якут</text>
+		<eng>Якут</eng>
+		<ukr>Якут</ukr>
+	</string>
+	<string id="mil_Svoboda_zoneguard_name">
+		<text>Сэр Бармалей</text>
+		<eng>Сэр Бармалей</eng>
+		<ukr>Сэр Бармалей</ukr>
+	</string>
+	<string id="shaxter_name">
+		<text>Шахтёр</text>
+		<eng>Шахтёр</eng>
+		<ukr>Шахтёр</ukr>
+	</string>
+	<string id="xabaruch_name">
+		<text>Хабарыч</text>
+		<eng>Хабарыч</eng>
+		<ukr>Хабарыч</ukr>
+	</string>
+	<string id="stahanov_name">
+		<text>Вадя Стаханов</text>
+		<eng>Вадя Стаханов</eng>
+		<ukr>Вадя Стаханов</ukr>
+	</string>
+	<string id="peshera_plennyi_name">
+		<text>Фима Уголь</text>
+		<eng>Фима Уголь</eng>
+		<ukr>Фима Уголь</ukr>
+	</string>
+	<string id="otshelnik_name">
+		<text>Отшельник</text>
+		<eng>Отшельник</eng>
+		<ukr>Отшельник</ukr>
+	</string>
+	<string id="gora_anomalia_name">
+		<text>Жора Аномалия</text>
+		<eng>Жора Аномалия</eng>
+		<ukr>Жора Аномалия</ukr>
+	</string>
+	<string id="starik_name">
+		<text>Старик</text>
+		<eng>Старик</eng>
+		<ukr>Старик</ukr>
+	</string>
+	<string id="piligrim_name">
+		<text>Пилигрим</text>
+		<eng>Пилигрим</eng>
+		<ukr>Пилигрим</ukr>
+	</string>
+	<string id="vitya_golograma_name">
+		<text>Витя Голограмма</text>
+		<eng>Витя Голограмма</eng>
+		<ukr>Витя Голограмма</ukr>
+	</string>
+	<string id="chimaera_name">
+		<text>Химера</text>
+		<eng>Химера</eng>
+		<ukr>Химера</ukr>
+	</string>
+	<string id="aver_filin_name">
+		<text>Филин</text>
+		<eng>Филин</eng>
+		<ukr>Филин</ukr>
+	</string>
+	<string id="kluk_name">
+		<text>Клык</text>
+		<eng>Клык</eng>
+		<ukr>Клык</ukr>
+	</string>
+	<string id="vitamin_name">
+		<text>Витамин</text>
+		<eng>Витамин</eng>
+		<ukr>Витамин</ukr>
+	</string>
+	<string id="pantera_name">
+		<text>Пантера</text>
+		<eng>Пантера</eng>
+		<ukr>Пантера</ukr>
+	</string>
+	<string id="bodi_pantera1_name">
+		<text>Дембель</text>
+		<eng>Дембель</eng>
+		<ukr>Дембель</ukr>
+	</string>
+	<string id="bodi_pantera2_name">
+		<text>Монорох</text>
+		<eng>Монорох</eng>
+		<ukr>Монорох</ukr>
+	</string>
+	<string id="warlab_stalker_oso_name">
+		<text>О-Сознание Клёнов</text>
+		<eng>О-Сознание Клёнов</eng>
+		<ukr>О-Сознание Клёнов</ukr>
+	</string>
+	<string id="esc_kidalo_name">
+		<text>Санёк Разбойник</text>
+		<eng>Санёк Разбойник</eng>
+		<ukr>Санёк Разбойник</ukr>
+	</string>
+	<string id="kolmogor_name">
+		<text>Колмогор</text>
+		<eng>Колмогор</eng>
+		<ukr>Колмогор</ukr>
+	</string>
+	<string id="boloto_provodnik_name">
+		<text>Знаток болот</text>
+		<eng>Знаток болот</eng>
+		<ukr>Знаток болот</ukr>
+	</string>
+	<string id="zemlyk_name">
+		<text>Земляк</text>
+		<eng>Земляк</eng>
+		<ukr>Земляк</ukr>
+	</string>
+	<string id="udav_name">
+		<text>Боцман</text>
+		<eng>Боцман</eng>
+		<ukr>Боцман</ukr>
+	</string>
+	<string id="andersen_name">
+		<text>Андерсен</text>
+		<eng>Андерсен</eng>
+		<ukr>Андерсен</ukr>
+	</string>
+	<string id="devchonka_name">
+		<text>Муха</text>
+		<eng>Муха</eng>
+		<ukr>Муха</ukr>
+	</string>
+	<string id="odnonogiy_stalk_name">
+		<text>Максимилиан</text>
+		<eng>Максимилиан</eng>
+		<ukr>Максимилиан</ukr>
+	</string>
+	<string id="svalka_plot_stalk_name">
+		<text>Хог</text>
+		<eng>Хог</eng>
+		<ukr>Хог</ukr>
+	</string>
+	<string id="city_starshoy_name">
+		<text>Саня Тюменский</text>
+		<eng>Саня Тюменский</eng>
+		<ukr>Саня Тюменский</ukr>
+	</string>
+	<string id="ariadna_name">
+		<text>Ариадна</text>
+		<eng>Ариадна</eng>
+		<ukr>Ариадна</ukr>
+	</string>
+	<string id="alexandrych_name">
+		<text>Александрыч</text>
+		<eng>Александрыч</eng>
+		<ukr>Александрыч</ukr>
+	</string>
+	<string id="baty_name">
+		<text>Батя</text>
+		<eng>Батя</eng>
+		<ukr>Батя</ukr>
+	</string>
+	<string id="bolt_name">
+		<text>Болт</text>
+		<eng>Болт</eng>
+		<ukr>Болт</ukr>
+	</string>
+	<string id="gavr_name">
+		<text>Гавр</text>
+		<eng>Гавр</eng>
+		<ukr>Гавр</ukr>
+	</string>
+	<string id="freeman_name">
+		<text>Фримен</text>
+		<eng>Фримен</eng>
+		<ukr>Фримен</ukr>
+	</string>
+	<string id="james_name">
+		<text>Джэймс</text>
+		<eng>Джэймс</eng>
+		<ukr>Джэймс</ukr>
+	</string>
+	<string id="bland_name">
+		<text>Бленд</text>
+		<eng>Бленд</eng>
+		<ukr>Бленд</ukr>
+	</string>
+	<string id="yakut_agro_name">
+		<text>Архара</text>
+		<eng>Архара</eng>
+		<ukr>Архара</ukr>
+	</string>
+	<string id="military_ecolog_agro1_name">
+		<text>Иващенко</text>
+		<eng>Иващенко</eng>
+		<ukr>Иващенко</ukr>
+	</string>
+	<string id="zver_name">
+		<text>Зверь</text>
+		<eng>Зверь</eng>
+		<ukr>Зверь</ukr>
+	</string>
+	<string id="esc_hunter_zaschita_2_name">
+		<text>Сепатор</text>
+		<eng>Сепатор</eng>
+		<ukr>Сепатор</ukr>
+	</string>
+	<string id="kot_name">
+		<text>Кот</text>
+		<eng>Кот</eng>
+		<ukr>Кот</ukr>
+	</string>
+	<string id="shadowman_name">
+		<text>Шедоумен</text>
+		<eng>Шедоумен</eng>
+		<ukr>Шедоумен</ukr>
+	</string>
+	<string id="kotobegemot_name">
+		<text>Котобегемот</text>
+		<eng>Котобегемот</eng>
+		<ukr>Котобегемот</ukr>
+	</string>
+	<string id="fenrir_name">
+		<text>Фенрир</text>
+		<eng>Фенрир</eng>
+		<ukr>Фенрир</ukr>
+	</string>
+	<string id="proper70_name">
+		<text>Пропер Семидесятый</text>
+		<eng>Пропер Семидесятый</eng>
+		<ukr>Пропер Семидесятый</ukr>
+	</string>
+	<string id="bubulyka_name">
+		<text>Сталкер Бубулюка</text>
+		<eng>Сталкер Бубулюка</eng>
+		<ukr>Сталкер Бубулюка</ukr>
+	</string>
+	<string id="ludmila_name">
+		<text>Людмила</text>
+		<eng>Людмила</eng>
+		<ukr>Людмила</ukr>
+	</string>
+	<string id="resident_evil_name">
+		<text>Обитель Зла</text>
+		<eng>Обитель Зла</eng>
+		<ukr>Обитель Зла</ukr>
+	</string>
+	<string id="wolffrend_name">
+		<text>Вожак</text>
+		<eng>Вожак</eng>
+		<ukr>Вожак</ukr>
+	</string>
+	<string id="maria_name">
+		<text>Мария</text>
+		<eng>Мария</eng>
+		<ukr>Мария</ukr>
+	</string>
+	<string id="warlab_sekret_ekolog1_name">
+		<text>Лентяй</text>
+		<eng>Лентяй</eng>
+		<ukr>Лентяй</ukr>
+	</string>
+	<string id="land_lazaret_stalker1_name">
+		<text>Циклоп</text>
+		<eng>Циклоп</eng>
+		<ukr>Циклоп</ukr>
+	</string>
+	<string id="val_halfdead">
+		<text>Монгол</text>
+		<eng>Монгол</eng>
+		<ukr>Монгол</ukr>
+	</string>
+	<string id="val_bandit_trader">
+		<text>Жила</text>
+		<eng>Жила</eng>
+		<ukr>Жила</ukr>
+	</string>
+	<string id="dolgovazyi_name">
+		<text>Долговязый</text>
+		<eng>Долговязый</eng>
+		<ukr>Довгов'язий</ukr>
+	</string>
+	<string id="bar_docent_name">
+		<text>Доцент</text>
+		<eng>Доцент</eng>
+		<ukr>Доцент</ukr>
+	</string>
+	<string id="sak_military_stalker">
+		<text>Прапорщик Шерстюк</text>
+		<eng>Прапорщик Шерстюк</eng>
+		<ukr>Прапорщик Шерстюк</ukr>		
+	</string>
+	<string id="val_escort_captive_name">
+		<text>Макс Любер</text>
+		<eng>Макс Любер</eng>
+		<ukr>Макс Любер</ukr>
+	</string>
+	<string id="esc_akim">
+		<text>Аким</text>
+		<eng>Аким</eng>
+		<ukr>Аким</ukr>
+	</string>
+	<string id="agro_adrenalin">
+		<text>Адреналин</text>
+		<eng>Адреналин</eng>
+		<ukr>Адреналін</ukr>
+	</string>
+	<string id="arhara_ecolog_guard1_name">
+		<text>Лёнька Эйнштейн</text>
+		<eng>Лёнька Эйнштейн</eng>
+		<ukr>Лёнька Эйнштейн</ukr>
+	</string>
+	<string id="arhara_ecolog_guard2_name">
+		<text>Витя Астроном</text>
+		<eng>Витя Астроном</eng>
+		<ukr>Витя Астроном</ukr>
+	</string>
+	<string id="korchagin_name">
+		<text>Корчагин</text>
+		<eng>Корчагин</eng>
+		<ukr>Корчагин</ukr>
+	</string>
+	<string id="gorb_name">
+		<text>Горб</text>
+		<eng>Горб</eng>
+		<ukr>Горб</ukr>
+	</string>
+	<string id="duh_name">
+		<text>Дух</text>
+		<eng>Дух</eng>
+		<ukr>Дух</ukr>
+	</string>
+	<string id="atp_gonets_name">
+		<text>Гонец</text>
+		<eng>Гонец</eng>
+		<ukr>Гонец</ukr>
+	</string>
+	<string id="atp_bandit_shnura_name">
+		<text>Шныра</text>
+		<eng>Шныра</eng>
+		<ukr>Шныра</ukr>
+	</string>
+	<string id="zvezdochet_name">
+		<text>Звездочёт</text>
+		<eng>Звездочёт</eng>
+		<ukr>Звездочёт</ukr>
+	</string>
+	<string id="arhara_atp_voyka_name">
+		<text>Прощайсолянкин</text>
+		<eng>Прощайсолянкин</eng>
+		<ukr>Прощайсолянкин</ukr>
+	</string>
+	<string id="shade_monolit_name">
+		<text>Тень Монолита</text>
+		<eng>Тень Монолита</eng>
+		<ukr>Тень Монолита</ukr>
+	</string>
+	<string id="chasovoi_monolit_name">
+		<text>Часовой</text>
+		<eng>Часовой</eng>
+		<ukr>Часовой</ukr>
+	</string>
+	<string id="dead_mono_labirint_name">
+		<text>Нежить</text>
+		<eng>Нежить</eng>
+		<ukr>Нежить</ukr>
+	</string>
+	<string id="kostolom_name">
+		<text>Костолом</text>
+		<eng>Костолом</eng>
+		<ukr>Костолом</ukr>
+	</string>
+	<string id="pauk_name">
+		<text>Паук</text>
+		<eng>Паук</eng>
+		<ukr>Паук</ukr>
+	</string>
+	<string id="kostylnoga_name">
+		<text>Сержант Костыльнога</text>
+		<eng>Сержант Костыльнога</eng>
+		<ukr>Сержант Костыльнога</ukr>
+	</string>
+	<string id="boss_name">
+		<text>Босс</text>
+		<eng>Босс</eng>
+		<ukr>Босс</ukr>
+	</string>
+	<string id="village_kapatel1_name">
+		<text>Прапорщик Сидоренко</text>
+		<eng>Прапорщик Сидоренко</eng>
+		<ukr>Прапорщик Сидоренко</ukr>
+	</string>
+	<string id="village_xolm_kapatel1_name">
+		<text>Лейтенант Ветроплюев</text>
+		<eng>Лейтенант Ветроплюев</eng>
+		<ukr>Лейтенант Ветроплюев</ukr>
+	</string>
+	<string id="village_xolm_kapatel2_name">
+		<text>Сержант Мародёров</text>
+		<eng>Сержант Мародёров</eng>
+		<ukr>Сержант Мародёров</ukr>
+	</string>
+	<string id="village_xolm_kapatel4_name">
+		<text>Лейтенант Борода</text>
+		<eng>Лейтенант Борода</eng>
+		<ukr>Лейтенант Борода</ukr>
+	</string>
+	<string id="village_attaks_komander_name">
+		<text>Капитан Гнус</text>
+		<eng>Капитан Гнус</eng>
+		<ukr>Капитан Гнус</ukr>
+	</string>
+	<string id="sedoy_name">
+		<text>Седой</text>
+		<eng>Седой</eng>
+		<ukr>Седой</ukr>
+	</string>
+	<string id="frits_name">
+		<text>Фриц</text>
+		<eng>Фриц</eng>
+		<ukr>Фриц</ukr>
+	</string>
+	<string id="solvador_name">
+		<text>Сольвадор</text>
+		<eng>Сольвадор</eng>
+		<ukr>Сольвадор</ukr>
+	</string>
+	<string id="gener_dok_stalk2_name">
+		<text>Некто</text>
+		<eng>Некто</eng>
+		<ukr>Некто</ukr>
+	</string>
+	<string id="black_dok_name">
+		<text>Чёрный Доктор</text>
+		<eng>Чёрный Доктор</eng>
+		<ukr>Чёрный Доктор</ukr>
+	</string>
+	<string id="esc_trupak_antenna_name">
+		<text>Федя Ловиглюк</text>
+		<eng>Федя Ловиглюк</eng>
+		<ukr>Федя Ловиглюк</ukr>
+	</string>
+	<string id="sapsan_name">
+		<text>Сапсан</text>
+		<eng>Сапсан</eng>
+		<ukr>Сапсан</ukr>
+	</string>
+	<string id="trupak_vert_krusha_name">
+		<text>Поручик Голицын</text>
+		<eng>Поручик Голицын</eng>
+		<ukr>Поручик Голицын</ukr>
+	</string>
+	<string id="pantera_father_name">
+		<text>Отец Пантеры</text>
+		<eng>Отец Пантеры</eng>
+		<ukr>Отец Пантеры</ukr>
+	</string>
+	<string id="valerius_name">
+		<text>Валериус</text>
+		<eng>Валериус</eng>
+		<ukr>Валериус</ukr>
+	</string>
+	<string id="overlord_name">
+		<text>Оверлорд</text>
+		<eng>Оверлорд</eng>
+		<ukr>Оверлорд</ukr>
+	</string>
+	<string id="hospital_black_stalk2_name">
+		<text>Руслан Комбат</text>
+		<eng>Руслан Комбат</eng>
+		<ukr>Руслан Комбат</ukr>
+	</string>
+	<string id="hospital_black_stalk3_name">
+		<text>Алекс Бой</text>
+		<eng>Алекс Бой</eng>
+		<ukr>Алекс Бой</ukr>
+	</string>
+	<string id="hos_black_niz_left_name">
+		<text>Сталкер Нест</text>
+		<eng>Сталкер Нест</eng>
+		<ukr>Сталкер Нест</ukr>
+	</string>
+	<string id="esc_hunter_zaschita_1_name">
+		<text>Корн</text>
+		<eng>Корн</eng>
+		<ukr>Корн</ukr>
+	</string>
+	<string id="esc_hunter_zaschita_3_name">
+		<text>Кальтер</text>
+		<eng>Кальтер</eng>
+		<ukr>Кальтер</ukr>
+	</string>
+	<string id="molniy_name">
+		<text>Молния</text>
+		<eng>Молния</eng>
+		<ukr>Молния</ukr>
+	</string>
+	<string id="strannik_name">
+		<text>Странник</text>
+		<eng>Странник</eng>
+		<ukr>Странник</ukr>
+	</string>
+	<string id="stalk_semetskiy_name">
+		<text>Юрий Семецкий</text>
+		<eng>Юрий Семецкий</eng>
+		<ukr>Юрий Семецкий</ukr>
+	</string>
+	<string id="radist_name">
+		<text>Корн</text>
+		<eng>Корн</eng>
+		<ukr>Корн</ukr>
+	</string>
+	<string id="chernomor_name">
+		<text>Черномор</text>
+		<eng>Черномор</eng>
+		<ukr>Черномор</ukr>
+	</string>
+	<string id="piyan_kapitan_name">
+		<text>Капитан Сраламазалынский</text>
+		<eng>Капитан Сраламазалынский</eng>
+		<ukr>Капитан Сраламазалынский</ukr>
+	</string>
+	<string id="esc_stalk_shuher_name">
+		<text>Шухер</text>
+		<eng>Шухер</eng>
+		<ukr>Шухер</ukr>
+	</string>
+	<string id="stalker_kisluy_name">
+		<text>Кислый</text>
+		<eng>Кислый</eng>
+		<ukr>Кислый</ukr>
+	</string>
+	<string id="aver_zlobnuy_name">
+		<text>Злобный</text>
+		<eng>Злобный</eng>
+		<ukr>Злобный</ukr>
+	</string>
+	<string id="parfumer_name">
+		<text>Парфюмер</text>
+		<eng>Парфюмер</eng>
+		<ukr>Парфюмер</ukr>
+	</string>
+	<string id="tema_likvidator_name">
+		<text>Тёма Ликвидатор</text>
+		<eng>Тёма Ликвидатор</eng>
+		<ukr>Тёма Ликвидатор</ukr>
+	</string>
+	<string id="dozor_stalk_name">
+		<text>Хаммер</text>
+		<eng>Хаммер</eng>
+		<ukr>Хаммер</ukr>
+	</string>
+	<string id="kontrol_stalk_name">
+		<text>Норман</text>
+		<eng>Норман</eng>
+		<ukr>Норман</ukr>
+	</string>
+	<string id="obmorok_name">
+		<text>Обморок</text>
+		<eng>Обморок</eng>
+		<ukr>Обморок</ukr>
+	</string>
+	<string id="bodyguard_obmorok_name">
+		<text>Янис</text>
+		<eng>Янис</eng>
+		<ukr>Янис</ukr>
+	</string>
+	<string id="dcity_nach_oxran_name">
+		<text>Начальник охраны площади</text>
+		<eng>Начальник охраны площади</eng>
+		<ukr>Начальник охраны площади</ukr>
+	</string>
+	<string id="duda_name">
+		<text>Дуда</text>
+		<eng>Дуда</eng>
+		<ukr>Дуда</ukr>
+	</string>
+
