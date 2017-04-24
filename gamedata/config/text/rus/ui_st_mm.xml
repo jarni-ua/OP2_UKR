@@ -838,8 +838,25 @@
 		<ukr>Зона чекає на тебе, %s ...</ukr>
 	</string>
 	<string id="ui_mm_language">
-		<text>Язык</text>
-		<eng>Language</eng>
-		<ukr>Мова</ukr>
+		<text>Язык/Language/Мова</text>
+		<eng>Язык/Language/Мова</eng>
+		<ukr>Язык/Language/Мова</ukr>
 	</string>
+
+	<string id="ui_mm_language_eng">
+		<rus>English</rus>
+		<eng>English</eng>
+		<ukr>English</ukr>
+	</string>	
+	<string id="ui_mm_language_rus">
+		<rus>Русский</rus>
+		<eng>Русский</eng>
+		<ukr>Русский</ukr>
+	</string>	
+	<string id="ui_mm_language_ukr">
+		<rus>Українська</rus>
+		<eng>Українська</eng>
+		<ukr>Українська</ukr>
+	</string>	
+	
 </string_table>
