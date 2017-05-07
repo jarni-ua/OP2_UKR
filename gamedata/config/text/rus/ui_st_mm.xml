@@ -263,7 +263,7 @@
 	<string id="ui_mm_call_sound">
 		<text>Зов Сидоровича после загрузки</text>
 		<eng>Зов Сидоровича после загрузки</eng>
-		<ukr>Зов Сидоровича после загрузки</ukr>
+		<ukr>Заклик Сидоровича после загрузки</ukr>
 	</string>
 	<string id="ui_mm_animations">
 		<text>Расширенные анимации</text>
@@ -288,7 +288,7 @@
 	<string id="ui_mm_game_options">
 		<text>Опции игры</text>
 		<eng>Опции игры</eng>
-		<ukr>Опции игры</ukr>
+		<ukr>Налаштування гри</ukr>
 	</string>
 	<string id="ui_mm_buy">
 		<text>Купить квестовый предмет за 200000:</text>
@@ -303,7 +303,7 @@
 	<string id="ui_mm_hardcore">
 		<text>Дополнительные усложнения</text>
 		<eng>Дополнительные усложнения</eng>
-		<ukr>Додаткові ускладення:</ukr>
+		<ukr>Додаткові ускладення</ukr>
 	</string>
 	<string id="ui_mm_fast_respawn">
 		<text>Частый респаун</text>
@@ -623,112 +623,112 @@
 	<string id="ui_mm_save_level_game">
 		<text>Сохранить на территории</text>
 		<eng>Сохранить на территории</eng>
-		<ukr>Зберегти на рівні</ukr> 
+		<ukr>Зберегти на території</ukr> 
 	</string>
 	<string id="ui_mm_options_op21">
 		<text>Опции ОП-2.1</text>
 		<eng>Опции ОП-2.1</eng>
-		<ukr>Опции ОП-2.1</ukr>
+		<ukr>Налаштування ОП-2.1</ukr>
 	</string>
 	<string id="ui_mm_options_op21_group_title">
 		<text>Инвентарь</text>
 		<eng>Инвентарь</eng>
-		<ukr>Инвентарь</ukr>
+		<ukr>Інвентар</ukr>
 	</string>
 	<string id="ui_mm_options_op21_group_title2">
 		<text>Общие параметры</text>
 		<eng>Общие параметры</eng>
-		<ukr>Общие параметры</ukr>
+		<ukr>Загальні параметри</ukr>
 	</string>
 	<string id="ui_mm_options_op21_group_title3">
 		<text>Оружие</text>
 		<eng>Оружие</eng>
-		<ukr>Оружие</ukr>
+		<ukr>Зброя</ukr>
 	</string>
 	<string id="ui_mm_options_op21_group_title4">
 		<text>Загрузочные экраны</text>
 		<eng>Загрузочные экраны</eng>
-		<ukr>Загрузочные экраны</ukr>
+		<ukr>Екрани завантаження</ukr>
 	</string>
 	<string id="ui_options_op21_ls_show_progress">
 		<text>Показывать полосу загрузки</text>
 		<eng>Показывать полосу загрузки</eng>
-		<ukr>Показывать полосу загрузки</ukr>
+		<ukr>Показувати полосу завантаження</ukr>
 	</string>
 	<string id="ui_options_op21_ls_text_offset_x">
 		<text>Смещение текста по оси X</text>
 		<eng>Смещение текста по оси X</eng>
-		<ukr>Смещение текста по оси X</ukr>
+		<ukr>Зміщення тексту по вісі X</ukr>
 	</string>
 	<string id="ui_options_op21_ls_text_offset_y">
 		<text>Смещение текста по оси Y</text>
 		<eng>Смещение текста по оси Y</eng>
-		<ukr>Смещение текста по оси Y</ukr>
+		<ukr>Зміщення тексту по вісі Y</ukr>
 	</string>
 	<string id="ui_mm_options_op21_deffered_reload">
 		<text>Свободный выбор патронов для перезарядки</text>
 		<eng>Свободный выбор патронов для перезарядки</eng>
-		<ukr>Свободный выбор патронов для перезарядки</ukr>
+		<ukr>Вільний вибір патронів для перезарядки</ukr>
 	</string>
 	<string id="ui_mm_options_op21_fixed_reload">
 		<text>Фиксированное использование патронов</text>
 		<eng>Фиксированное использование патронов</eng>
-		<ukr>Фиксированное использование патронов</ukr>
+		<ukr>Фіксоване використання набоїв</ukr>
 	</string>
 	<string id="ui_mm_options_op21_sticky_scope">
 		<text>Фиксирующийся прицел</text>
 		<eng>Фиксирующийся прицел</eng>
-		<ukr>Фиксирующийся прицел</ukr>
+		<ukr>Фіксований приціл</ukr>
 	</string>
 	<string id="ui_mm_options_op21_allow_tsb">
 		<text>Перемещать предметы с пояса/слотов</text>
 		<eng>Перемещать предметы с пояса/слотов</eng>
-		<ukr>Перемещать предметы с пояса/слотов</ukr>
+		<ukr>Переміщати предмети з пояса/слотів</ukr>
 	</string>
 	<string id="ui_mm_options_op21_dialog_numbered">
 		<text>Нумерация строк в диалогах</text>
 		<eng>Нумерация строк в диалогах</eng>
-		<ukr>Нумерация строк в диалогах</ukr>
+		<ukr>Нумерація рядків у діалогах</ukr>
 	</string>
 	<string id="ui_mm_options_op21_hud_min_crosshair">
 		<text>При убирании худа показывать прицел</text>
 		<eng>При убирании худа показывать прицел</eng>
-		<ukr>При убирании худа показывать прицел</ukr>
+		<ukr>При прибиранні худа показувати приціл</ukr>
 	</string>
 	<string id="ui_mm_options_op21_show_focused">
 		<text>Подсвечивать предмет в фокусе</text>
 		<eng>Подсвечивать предмет в фокусе</eng>
-		<ukr>Подсвечивать предмет в фокусе</ukr>
+		<ukr>Підсвічувати предмет у фокусі</ukr>
 	</string>
 	<string id="ui_mm_options_op21_show_selected">
 		<text>Подсвечивать выбранный предмет</text>
 		<eng>Подсвечивать выбранный предмет</eng>
-		<ukr>Подсвечивать выбранный предмет</ukr>
+		<ukr>Підсвічувати вибраний предмет</ukr>
 	</string>
 	<string id="ui_mm_options_op21_show_extdesc">
 		<text>Расширенное контекстное меню</text>
 		<eng>Расширенное контекстное меню</eng>
-		<ukr>Расширенное контекстное меню</ukr>
+		<ukr>Розширене контекстне меню</ukr>
 	</string>
 	<string id="ui_mm_options_op21_show_condition">
 		<text>Состояние предмета на иконке</text>
 		<eng>Состояние предмета на иконке</eng>
-		<ukr>Состояние предмета на иконке</ukr>
+		<ukr>Стан предмета на іконці</ukr>
 	</string>
 	<string id="ui_mm_options_op21_show_sb">
 		<text>Пояс и слоты в торговле</text>
 		<eng>Пояс и слоты в торговле</eng>
-		<ukr>Пояс и слоты в торговле</ukr>
+		<ukr>Пояс і слоти в торгівлі</ukr>
 	</string>
 	<string id="ui_mm_options_scope_open">
 		<text>Открытые прицелы</text>
 		<eng>Открытые прицелы</eng>
-		<ukr>Открытые прицелы</ukr>
+		<ukr>Відкриті приціли</ukr>
 	</string>
 	<string id="ui_mm_god_options">
 		<text>Облегчённое прохождение</text>
 		<eng>Облегчённое прохождение</eng>
-		<ukr>Облегчённое прохождение</ukr>
+		<ukr>Полегшене проходження</ukr>
 	</string>
 	<string id="ui_mm_god_warning">
 		<text>\n
@@ -742,65 +742,65 @@
 			Частое их применение значительно облегчает и ускоряет\n
 			прохождение, но может полностью лишить удовольствия от игры.%c[default]</eng>
 		<ukr>\n
-			%c[255,255,128,128]ВНИМАНИЕ!\n
-			Будьте осторожны при использовании данных опций.\n
-			Частое их применение значительно облегчает и ускоряет\n
-			прохождение, но может полностью лишить удовольствия от игры.%c[default]</ukr>
+			%c[255,255,128,128]УВАГА!\n
+			Будьте обережні при використанні даних налаштувань.\n
+			Часте їхнє застосування значно полегшує і прискорює\n
+			проходження, але може повністю позбавити Вас задоволення від гри.%c[default]</ukr>
 	</string>
 	<string id="god_used">
 		<text>использований</text>
 		<eng>использований</eng>
-		<ukr>использований</ukr>
+		<ukr>використань</ukr>
 	</string>
 	<string id="ui_mm_god_invul">
 		<text>Бессмертие до конца боя</text>
 		<eng>Бессмертие до конца боя</eng>
-		<ukr>Бессмертие до конца боя</ukr>
+		<ukr>Безсмертя до кінця боя</ukr>
 	</string>
 	<string id="ui_mm_god_item">
 		<text>Покупка %c[255,255,255,255]любого%c[default] предмета за 200000</text>
 		<eng>Покупка %c[255,255,255,255]любого%c[default] предмета за 200000</eng>
-		<ukr>Покупка %c[255,255,255,255]любого%c[default] предмета за 200000</ukr>
+		<ukr>Покупка %c[255,255,255,255]будь-якого%c[default] предмета за 200000</ukr>
 	</string>
 	<string id="ui_mm_god_jump">
 		<text>Суперпрыжок</text>
 		<eng>Суперпрыжок</eng>
-		<ukr>Суперпрыжок</ukr>
+		<ukr>Суперстрибок</ukr>
 	</string>
 	<string id="ui_mm_god_coll">
 		<text>Метка на тайник Коллекционера</text>
 		<eng>Метка на тайник Коллекционера</eng>
-		<ukr>Метка на тайник Коллекционера</ukr>
+		<ukr>Мітка на схованку Коллекционера</ukr>
 	</string>
 	<string id="ui_mm_god_docs">
 		<text>Метки на документы Воронина</text>
 		<eng>Метки на документы Воронина</eng>
-		<ukr>Метки на документы Воронина</ukr>
+		<ukr>Мітки на документи Вороніна</ukr>
 	</string>
 	<string id="ui_mm_god_tele">
 		<text>Телепортация с неограниченным весом</text>
 		<eng>Телепортация с неограниченным весом</eng>
-		<ukr>Телепортация с неограниченным весом</ukr>
+		<ukr>Телепортація з необмеженою вагою</ukr>
 	</string>
 	<string id="ui_mm_god_loc">
 		<text>Получить телепорты на новые территории</text>
 		<eng>Получить телепорты на новые территории</eng>
-		<ukr>Получить телепорты на новые территории</ukr>
+		<ukr>Отримати телепорти на нові території</ukr>
 	</string>
 	<string id="ui_mm_name">
 		<text>Имя игрока:</text>
 		<eng>Имя игрока:</eng>
-		<ukr>Имя игрока:</ukr>
+		<ukr>Ім'я гравця:</ukr>
 	</string>
 	<string id="ui_mm_username">
 		<text>Имя игрока</text>
 		<eng>Имя игрока</eng>
-		<ukr>Имя игрока</ukr>
+		<ukr>Ім'я гравця</ukr>
 	</string>
 	<string id="ui_mm_username_caption">
 		<text>Введите своё имя:</text>
 		<eng>Введите своё имя:</eng>
-		<ukr>Введите своё имя:</ukr>
+		<ukr>Введіть своє і'мя:</ukr>
 	</string>
 	<string id="ui_amk_opt_rad_hud">
 		<text>Худ костюма</text>
@@ -810,12 +810,12 @@
 	<string id="ui_amk_opt_mus">
 		<text>Динамическая музыка</text>
 		<eng>Динамическая музыка</eng>
-		<ukr>Динамическая музыка</ukr>
+		<ukr>Динамічна музика</ukr>
 	</string>
 	<string id="ui_amk_opt_treasure">
 		<text>Тайники</text>
 		<eng>Тайники</eng>
-		<ukr>Тайники</ukr>
+		<ukr>Схованки</ukr>
 	</string>
 	<string id="ui_mm_font_profile">
 		<text>Шрифт</text>
