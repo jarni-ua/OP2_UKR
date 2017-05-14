@@ -5,164 +5,164 @@
 #include "text\rus\sak_strings_treasure.xml"
 	<string id="freedom_dinamit_0">
 		<text>Ребята на барьере говорили, что ты ищешь надёжного человека?</text>
-		<eng>Ребята на барьере говорили, что ты ищешь надёжного человека?</eng>
+		<eng>Guys from the Barrier told me, you were looking for a reliable man?</eng>
 		<ukr>Хлопці на бар'єрі говорили, що ти шукаєш надійну людину?</ukr>
 	</string>
 	<!-- Akill begin -->
 	<string id="freedom_dinamit_1">
 		<text>Ищу... Мои хлопцы тут почти прорыли ход в Тёмную Долину, но для завершения работы нам необходим динамит. Я знаю, что его можно найти на территории центрального комплекса Агропрома. Ходят слухи, что существует ещё один тоннель под военной базой. После аварии вход в него законсервировали, взорвав часть прохода. А остатки взрывчатки спрятали неподалёку. Сможешь найти? Общее дело делаем, и тебе польза будет. Загляни в свой ПДА, поставил метку на приблизительное место поиска, радиус - 10 метров.</text>
-		<eng>Ищу... Мои хлопцы тут почти прорыли ход в Тёмную Долину, но для завершения работы нам необходим динамит. Я знаю, что его можно найти на территории центрального комплекса Агропрома. Ходят слухи, что существует ещё один тоннель под военной базой. После аварии вход в него законсервировали, взорвав часть прохода. А остатки взрывчатки спрятали неподалёку. Сможешь найти? Общее дело делаем, и тебе польза будет. Загляни в свой ПДА, поставил метку на приблизительное место поиска, радиус - 10 метров.</eng>
+		<eng>I am... My boys have almost dug a passage through to the Dark Valley, but to complete the work we need some dynamite. I know, it can be found at the central complex in Agroprom. Rumor has it, there's another tunnel below the military base. After the disaster the entrance to that tunnel was sealed by exploding a portion of the passage. And the rest of the explosives were hidden not far away. Can you find it? We're working for one cause, you'll make use of it, too. Check your PDA: I've marked the approximate place of search, the search radius - 10 meters.</eng>
 		<ukr>Шукаю... Мої хлопці тут майже прорили хід в Темну Долину, але для завершення роботи нам необхідний динаміт. Я знаю, що його можна знайти на території центрального комплексу Агропрома. Ходять чутки, що існує ще один тунель під військовою базою. Після аварії вхід до нього законсервували, підірвавши частину проходу. А залишки вибухівки сховали неподалік. Зможеш знайти? Спільну справу робимо, і тобі користь буде. Зазирни у свій КПК, поставив мітку на приблизне місце пошуку, радіус - 10 метрів.</ukr>
 	</string>
 	<!-- Akill end -->
 	<string id="freedom_dinamit_2">
 		<text>Давай, попробую.</text>
-		<eng>Давай, попробую.</eng>
+		<eng>Come on, let me try.</eng>
 		<ukr>Давай, спробую.</ukr>
 	</string>
 	<string id="freedom_dinamit_3">
 		<text>Нет, я дальше пойду.</text>
-		<eng>Нет, я дальше пойду.</eng>
+		<eng>No, I'm going further.</eng>
 		<ukr>Ні, я далі піду.</ukr>
 	</string>
 	<string id="freedom_dinamit_have_0">
 		<text>Привет, я динамит принёс.</text>
-		<eng>Привет, я динамит принёс.</eng>
+		<eng>Hi, I brought the dynamite.</eng>
 		<ukr>Привіт, я динаміт приніс.</ukr>
 	</string>
 	<string id="freedom_dinamit_have_1">
 		<text>Давай, давай. Посмотрим...</text>
-		<eng>Давай, давай. Посмотрим...</eng>
+		<eng>Come on, come on. Let me see...</eng>
 		<ukr>Давай, давай. Подивимося...</ukr>
 	</string>
 	<string id="freedom_dinamit_have_2">
 		<text>Держи.</text>
-		<eng>Держи.</eng>
+		<eng>Here, take it.</eng>
 		<ukr>Тримай.</ukr>
 	</string>
 	<string id="freedom_dinamit_have_3">
 		<text>Ну, спасибо. Значит смотри - мы планируем вот здесь, сразу за боксами вход сделать, а выход возле озерца в Тёмной Долине. Будет нужда, пользуйся.</text>
-		<eng>Ну, спасибо. Значит смотри - мы планируем вот здесь, сразу за боксами вход сделать, а выход возле озерца в Тёмной Долине. Будет нужда, пользуйся.</eng>
+		<eng>Well, thank you. So, look here - we're planning to make an entrance here, right behind those bays, and an exit - next to the lake in the Dark Valley. You may use it if need be.</eng>
 		<ukr>Ну, спасибі, значить дивись - ми плануємо ось тут, відразу за боксами вхід зробити, а вихід біля озерця в Темній Долині. Буде потреба, користуйся.</ukr>
 	</string>
 	<string id="freedom_dinamit_have_4">
 		<text>Спасибо.</text>
-		<eng>Спасибо.</eng>
+		<eng>Thanks.</eng>
 		<ukr>Дякую.</ukr>
 	</string>
 	<string id="mil_leader_start_dialog_15001">
 		<text>Привет, Меченый. Мы уже заждались тебя, динамит принёс?</text>
-		<eng>Привет, Меченый. Мы уже заждались тебя, динамит принёс?</eng>
+		<eng>Hello, Marked one. We already got tired waiting for you, did you bring the dynamite?</eng>
 		<ukr>Привіт Мічений. Ми вже зачекалися тебе, динаміт приніс?</ukr>
 	</string>
 	<string id="mil_leader_start_dialog_15002">
 		<text>Да. Вот он.</text>
-		<eng>Да. Вот он.</eng>
+		<eng>Yes. Here it is.</eng>
 		<ukr>Так. Ось він.</ukr>
 	</string>
 	<string id="mil_leader_start_dialog_15003">
 		<text>Прекрасно, сейчас ребята перемычку взорвут и будем мы свободно ходить... Хм, как я загнул - Свобода свободно ходит... Мда... В общем, место я тебе указал - пользуйся.</text>
-		<eng>Прекрасно, сейчас ребята перемычку взорвут и будем мы свободно ходить... Хм, как я загнул - Свобода свободно ходит... Мда... В общем, место я тебе указал - пользуйся.</eng>
+		<eng>Wonderful, our boys are now going to blow up the seal so we can walk freely... Hmm, bad pun, isn't it? - Freedom walking freely... Well... Anyway, I pointed out the place to you - feel free to use it.</eng>
 		<ukr>Прекрасно, зараз хлопці перемичку підірвуть і будемо ми вільно ходити... Хм, як я загнув - Воля вільно ходить... Мда... загалом місце я тобі вказав - користуйся.</ukr>
 	</string>
 	<string id="mil_leader_start_dialog_15004">
 		<text>Ладно, посмотрю, что там у вас получилось.</text>
-		<eng>Ладно, посмотрю, что там у вас получилось.</eng>
+		<eng>All right, I'll see what you got there.</eng>
 		<ukr>Гаразд, подивлюся що там у вас вийшло.</ukr>
 	</string>
 	<string id="find_af_dummy_glassbeads_0">
 		<text>В бумагах Призрака мелькнуло что-то о не обозначенной дороге?</text>
-		<eng>В бумагах Призрака мелькнуло что-то о не обозначенной дороге?</eng>
+		<eng>Did I just get a glimpse of an uncharted road in the Ghost's papers?</eng>
 		<ukr>У паперах Привида майнуло щось про непозначену дорогу?</ukr>
 	</string>
 	<string id="find_af_dummy_glassbeads_1">
 		<text>А вы парень глазастый... Верно, было. Но как говориться - баш на баш. Мы тут проводим эксперимент с редкими артефактами. Для продолжения необходим такой артефакт, как "Бусы бабки бюрера". Наверняка вы слышали о таком. Принесёте - покажу вам дорогу.</text>
-		<eng>А вы парень глазастый... Верно, было. Но как говориться - баш на баш. Мы тут проводим эксперимент с редкими артефактами. Для продолжения необходим такой артефакт, как "Бусы бабки бюрера". Наверняка вы слышали о таком. Принесёте - покажу вам дорогу.</eng>
+		<eng>And you're a quick-sighted guy... True, you did. But as the saying goes - quid pro quo. We're conducting experiments on rare artifacts here. To continue, we need the artifact, called "Burer's grandma's beads". Surely you've heard of it. Bring me one - and I'll show you that road.</eng>
 		<ukr>А ви хлопець окатий... Вірно, було. Але, як говориться - баш на баш. Ми тут проводимо експеримент з рідкісними артефактами. Для продовження необхідний такий артефакт як "Намисто Бабці Бюрера". Напевно ви чули про таке? Принесете - покажу вам дорогу.</ukr>
 	</string>
 	<string id="find_af_dummy_glassbeads_2">
 		<text>Попробую найти.</text>
-		<eng>Попробую найти.</eng>
+		<eng>I'll try to find it.</eng>
 		<ukr>Спробую знайти.</ukr>
 	</string>
 	<string id="find_af_dummy_glassbeads_3">
 		<text>Я к "Монолиту" иду, так что, извините.</text>
-		<eng>Я к "Монолиту" иду, так что, извините.</eng>
+		<eng>I'm heading for "Monolith", I'm sorry.</eng>
 		<ukr>Я до Моноліту йду, так що, вибачте.</ukr>
 	</string>
 	<string id="find_af_dummy_glassbeads_have_0">
 		<text>Добрый день, принёс я "Бусы бабки бюрера".</text>
-		<eng>Добрый день, принёс я "Бусы бабки бюрера".</eng>
+		<eng>Good afternoon, I brought you a "Burer's grandma's beads".</eng>
 		<ukr>Добрий день, приніс я "Намисто Бабці Бюрера".</ukr>
 	</string>
 	<string id="find_af_dummy_glassbeads_have_1">
 		<text>Давайте, давайте... Посмотрим...</text>
-		<eng>Давайте, давайте... Посмотрим...</eng>
+		<eng>Well, well... Let's see...</eng>
 		<ukr>Давайте, давайте... Подивимося...</ukr>
 	</string>
 	<string id="find_af_dummy_glassbeads_have_2">
 		<text>Держите.</text>
-		<eng>Держите.</eng>
+		<eng>Here it is.</eng>
 		<ukr>Тримайте.</ukr>
 	</string>
 	<string id="find_af_dummy_glassbeads_have_3">
 		<text>Да, оно самое. Спасибо. Смотрите, покажу на карте - вот здесь, возле бывшего НИИ Агропром есть незаметная тропинка, которая ведёт прямо сюда. Видите? Но, к сожалению, обратной дороги мы пока не знаем. Есть сведения, что у военных на Агропроме были документы, в которых описывалась эта дорога, но кейс с документами был похищен... Может, возьмётесь?</text>
-		<eng>Да, оно самое. Спасибо. Смотрите, покажу на карте - вот здесь, возле бывшего НИИ Агропром есть незаметная тропинка, которая ведёт прямо сюда. Видите? Но, к сожалению, обратной дороги мы пока не знаем. Есть сведения, что у военных на Агропроме были документы, в которых описывалась эта дорога, но кейс с документами был похищен... Может, возьмётесь?</eng>
+		<eng>Yes, that's the one. Thank you. Look, I'll show on the map - here, near the former Agroprom Research Institute there is an inconspicuous path, which leads right here. See? Unfortunately, there's no known way back as yet. We've got an intel, that the military in Agroprom have the documents, describing that road, but the case with the documents was stolen... Won't you take this job?</eng>
 		<ukr>Так, саме те. Дякую. Дивіться, покажу на карті - ось тут, біля колишнього НДІ Агропром є непомітна стежка, яка веде прямо сюди. Бачите? Але, на жаль, зворотної дороги ми поки не знаємо. Є відомості, що у військових на Агропромі були документи, в яких описувалася ця дорога, але кейс з документами був викрадений... Може, візьметеся?</ukr>
 	</string>
 	<string id="yan_scientist_find_case_0">
 		<text>Говорите, на Агропроме...</text>
-		<eng>Говорите, на Агропроме...</eng>
+		<eng>In Agroprom, you say...</eng>
 		<ukr>Кажете, на Агропромі...</ukr>
 	</string>
 	<string id="yan_scientist_find_case_1">
 		<text>Ну да, в принципе, недалеко. Обратная дорога вам уже известна.</text>
-		<eng>Ну да, в принципе, недалеко. Обратная дорога вам уже известна.</eng>
+		<eng>Well, yes, actually, it's not far off. You already know the way back.</eng>
 		<ukr>Ну так, в принципі, не далеко. Зворотна дорога вам вже відома.</ukr>
 	</string>
 	<string id="yan_scientist_find_case_2">
 		<text>Хорошо, найду.</text>
-		<eng>Хорошо, найду.</eng>
+		<eng>All right, I'm in.</eng>
 		<ukr>Добре, знайду.</ukr>
 	</string>
 	<string id="yan_scientist_find_case_3">
 		<text>Нет, буду пробиваться к "Монолиту".</text>
-		<eng>Нет, буду пробиваться к "Монолиту".</eng>
+		<eng>No, I'll be forcing my way through to "Monolith".</eng>
 		<ukr>Ні, буду пробиватися до Моноліту.</ukr>
 	</string>
 	<string id="yan_scientist_find_case_4">
 		<text>Вот и отлично! Буду ждать...</text>
-		<eng>Вот и отлично! Буду ждать...</eng>
+		<eng>All right then! I'll be waiting...</eng>
 		<ukr>Ось і чудово! Буду чекати...</ukr>
 	</string>
 	<string id="yan_scientist_find_case_5">
 		<text>Что ж, будет время - заходите.</text>
-		<eng>Что ж, будет время - заходите.</eng>
+		<eng>Well, drop in when you have time.</eng>
 		<ukr>Щож, буде час - заходьте.</ukr>
 	</string>
 	<string id="yan_scientist_find_case_have_0">
 		<text>Добрый день, академик. Принёс я документы.</text>
-		<eng>Добрый день, академик. Принёс я документы.</eng>
+		<eng>Good afternoon, academician. I brought the documents.</eng>
 		<ukr>Добрий день, академік. Приніс я документи.</ukr>
 	</string>
 	<string id="yan_scientist_find_case_have_1">
 		<text>Давайте посмотрим, что именно вы принесли.</text>
-		<eng>Давайте посмотрим, что именно вы принесли.</eng>
+		<eng>Let's see, what you brought exactly.</eng>
 		<ukr>Давайте подивимося, що саме ви принесли.</ukr>
 	</string>
 	<string id="yan_scientist_find_case_have_2">
 		<text>Держите...</text>
-		<eng>Держите...</eng>
+		<eng>Here, take it...</eng>
 		<ukr>Тримайте...</ukr>
 	</string>
 	<string id="yan_scientist_find_case_have_3">
 		<text>Да, точно. Это то, что мы искали. Вот и отметки начала пути на Агропром. Отметьте у себя, пожалуйста... Поможете ещё?</text>
-		<eng>Да, точно. Это то, что мы искали. Вот и отметки начала пути на Агропром. Отметьте у себя, пожалуйста... Поможете ещё?</eng>
+		<eng>Yes, precisely. This is what we were looking for. There's the mark of the beginning of the path to Agroprom. Copy that mark for yourself, please... Will you help us more?</eng>
 		<ukr>Так, точно. Це те що ми шукали. Ось і позначки початку шляху на Агропром. Відзначте у себе будь ласка... Поможете ще?</ukr>
 	</string>
 	<string id="yan_scientist_find_case_have_4">
 		<text>Спасибо, профессор!</text>
-		<eng>Спасибо, профессор!</eng>
+		<eng>Thank you, professor!</eng>
 		<ukr>Спасибі, професоре!</ukr>
 	</string>
 	<string id="val_halfdead">
@@ -172,47 +172,47 @@
 	</string>
 	<string id="val_bandit_trader">
 		<text>Жила</text>
-		<eng>Жила</eng>
+		<eng>Vein</eng>
 		<ukr>Жила</ukr>
 	</string>
 	<string id="dolgovazyi_name">
 		<text>Долговязый</text>
-		<eng>Долговязый</eng>
+		<eng>Lanky</eng>
 		<ukr>Довгов'язий</ukr>
 	</string>
 	<string id="bar_docent_name">
 		<text>Доцент</text>
-		<eng>Доцент</eng>
+		<eng>Docent</eng>
 		<ukr>Доцент</ukr>
 	</string>
 	<string id="stranger">
 		<text>Одиночка</text>
-		<eng>Одиночка</eng>
+		<eng>Loner</eng>
 		<ukr>Одинак</ukr>
 	</string>
 	<string id="sak_military_stalker">
 		<text>Прапорщик Шерстюк</text>
-		<eng>Прапорщик Шерстюк</eng>
+		<eng>Warrant Officer Sherstyuk</eng>
 		<ukr>Прапорщик Шерстюк</ukr>		
 	</string>
 	<string id="repair_item_outfit_desc">
 		<text>Ремонтный набор для полевого ремонта бронежилетов и другого снаряжения.</text>
-		<eng>Ремонтный набор для полевого ремонта бронежилетов и другого снаряжения.</eng>
+		<eng>Repair kit for field repairs of bullet-proof vests and other outfits.</eng>
 		<ukr>Ремонтний набір для польового ремонту бронежилетів та іншого спорядження.</ukr>
 	</string>
 	<string id="repair_item_outfit_name">
 		<text>Ремнабор брони</text>
-		<eng>Ремнабор брони</eng>
+		<eng>Repair kit for body armour</eng>
 		<ukr>Ремнабір для броні</ukr>
 	</string>
 	<string id="repair_item_weapon_desc">
 		<text>Ремонтный набор для полевого ремонта оружия.</text>
-		<eng>Ремонтный набор для полевого ремонта оружия.</eng>
+		<eng>Repair kit for weapon's field repairs.</eng>
 		<ukr>Ремонтний набір для польового ремонту зброї.</ukr>
 	</string>
 	<string id="repair_item_weapon_name">
 		<text>Ремнабор оружия</text>
-		<eng>Ремнабор оружия</eng>
+		<eng>Repair kit for weapon</eng>
 		<ukr>Ремнабір для зброї</ukr>
 	</string>
 	<!-- Ремъящик отключён
@@ -226,150 +226,150 @@
 </string-->
 	<string id="device_pda1">
 		<text>ПДА</text>
-		<eng>ПДА</eng>
+		<eng>PDA</eng>
 		<ukr>КПК</ukr>
 	</string>
 	<string id="enc_equipment_device_pda1">
 		<text>Индивидуальный ПДА сталкера. Хранилище личной информации и необходимых для выживания данных.</text>
-		<eng>Индивидуальный ПДА сталкера. Хранилище личной информации и необходимых для выживания данных.</eng>
+		<eng>Stalker's Personal Digital Assistant. Storage for personal information and data essential to survival.</eng>
 		<ukr>Індивідуальний КПК сталкера. Сховище особистої інформації та необхідних для виживання даних.</ukr>
 	</string>
 	<string id="strelok_pda_name">
 		<text>ПДА Стрелка</text>
-		<eng>ПДА Стрелка</eng>
+		<eng>Strelok's PDA</eng>
 		<ukr>КПК Cтрільця</ukr>
 	</string>
 	<string id="strelok_pda_desc">
 		<text>Это личный ПДА легендарного Стрелка! В нём масса информации, но, к сожалению, почти вся она зашифрована.</text>
-		<eng>Это личный ПДА легендарного Стрелка! В нём масса информации, но, к сожалению, почти вся она зашифрована.</eng>
+		<eng>This is the PDA of legendary Strelok! There's a lot of info on it, but, unfortunately, almost all of it is encrypted.</eng>
 		<ukr>Це особистий КПК легендарного Cтрільця! У ньому маса інформації, але, на жаль, майже вся вона зашифрована.</ukr>
 	</string>
 	<string id="Hello_sak">
 		<text>%c[255,255,128,128]\nБольшой привет от Сяка!</text>
-		<eng>%c[255,255,128,128]\nБольшой привет от Сяка!</eng>
+		<eng>%c[255,255,128,128]\nA big hello from Syak!</eng>
 		<ukr>%c[255,255,128,128]\nВеликий привіт від Сяка!</ukr>
 	</string>
 	<string id="kodes">
 		<text>Коды к дверям</text>
-		<eng>Коды к дверям</eng>
+		<eng>Door codes</eng>
 		<ukr>Коди до дверей</ukr>
 	</string>
 	<string id="ways_info_door_sak_text">
 		<text>Сяк сообщил пароль к кодовой двери небольшого укрытия, которое находится напротив поворота к Припяти. Это набор цифр: 1287975.</text>
-		<eng>Сяк сообщил пароль к кодовой двери небольшого укрытия, которое находится напротив поворота к Припяти. Это набор цифр: 1287975.</eng>
+		<eng>Syak gave the code for the door of a small shelter, which is near the turn-off to Pripyat. This is the set of numbers: 1287975.</eng>
 		<ukr>Сяк повідомив пароль до кодової двері невеликого укриття, яке знаходиться навпроти повороту до Прип'яті. Це набір цифр: 1287975.</ukr>
 	</string>
 	<string id="enc_ways">
 		<text>Обнаруженные переходы</text>
-		<eng>Обнаруженные переходы</eng>
+		<eng>Transition points located</eng>
 		<ukr>Виявлені переходи</ukr>
 	</string>
 	<!-- AR -->
 	<string id="enc_info_red_battery_text">
 		<text>%c[255,255,255,255]Выносливость  %c[255,1,255,1]+182\n%c[255,255,255,255]Радиация  %c[255,255,1,1]+10\n%c[255,255,255,255]Удар  %c[255,1,255,1]+8 %\n%c[255,255,255,255]Электрошок  %c[255,1,255,1]+16 %\n%c[255,255,255,255]Взрыв  %c[255,1,255,1]+5 %\n%c[255,255,255,255]Пулестойкость  %c[255,1,255,1]+5 %\n \n%c[255,224,224,160]Уникальный артефакт, по виду напоминает обычную "Батарейку", но красного цвета. Радиоактивная, излучает свет. Обладает эффектом восстановления сил и немного защищает от ударных воздействий. Артефакт "Рубиновая батарейка" может ликвидировать аномалии "Электра" и "Воронка"\n \nАртефакт "Батарейка" бросается в аномалию "Снежная"\n \n%c[255,255,255,255]Время трансмутации  %c[255,224,224,160]5 минут Зоны\n%c[255,255,255,255]Вероятность удачной трансмутации  %c[255,1,255,1]80 %\n%c[255,255,255,255]Вероятность вырождения  %c[255,255,1,1]20 %%c[default]</text>
-		<eng>%c[255,255,255,255]Выносливость  %c[255,1,255,1]+182\n%c[255,255,255,255]Радиация  %c[255,255,1,1]+10\n%c[255,255,255,255]Удар  %c[255,1,255,1]+8 %\n%c[255,255,255,255]Электрошок  %c[255,1,255,1]+16 %\n%c[255,255,255,255]Взрыв  %c[255,1,255,1]+5 %\n%c[255,255,255,255]Пулестойкость  %c[255,1,255,1]+5 %\n \n%c[255,224,224,160]Уникальный артефакт, по виду напоминает обычную "Батарейку", но красного цвета. Радиоактивная, излучает свет. Обладает эффектом восстановления сил и немного защищает от ударных воздействий. Артефакт "Рубиновая батарейка" может ликвидировать аномалии "Электра" и "Воронка"\n \nАртефакт "Батарейка" бросается в аномалию "Снежная"\n \n%c[255,255,255,255]Время трансмутации  %c[255,224,224,160]5 минут Зоны\n%c[255,255,255,255]Вероятность удачной трансмутации  %c[255,1,255,1]80 %\n%c[255,255,255,255]Вероятность вырождения  %c[255,255,1,1]20 %%c[default]</eng>
+		<eng>%c[255,255,255,255]Endurance  %c[255,1,255,1]+182\n%c[255,255,255,255]Radiation  %c[255,255,1,1]+10\n%c[255,255,255,255]Impact  %c[255,1,255,1]+8 %\n%c[255,255,255,255]Electric shock  %c[255,1,255,1]+16 %\n%c[255,255,255,255]Explosion  %c[255,1,255,1]+5 %\n%c[255,255,255,255]Bulletproofing  %c[255,1,255,1]+5 %\n \n%c[255,224,224,160]Unique artifact, by sight resembling "Battery", yet red in color. Radioactive, emits light. Possesses the ability of restoring vigor and protects a little against impact. "Ruby Battery" artifact can annihilate "Electra" and "Vortex" anomalies\n \n"Battery" artifact is to be thrown in "Snow" anomaly\n \n%c[255,255,255,255]Transmutation time  %c[255,224,224,160]5 Zone minutes\n%c[255,255,255,255]Probability of successful transmutation  %c[255,1,255,1]80 %\n%c[255,255,255,255]Probability of degradation  %c[255,255,1,1]20 %%c[default]</eng>
 		<ukr>%c[255,255,255,255]Витривалість  %c[255,1,255,1]+182\n%c[255,255,255,255]Радіація  %c[255,255,1,1]+10\n%c[255,255,255,255]Удар  %c[255,1,255,1]+8 %\n%c[255,255,255,255]Електрошок  %c[255,1,255,1]+16 %\n%c[255,255,255,255]Вибух  %c[255,1,255,1]+5 %\n%c[255,255,255,255]Кулестійкійсть  %c[255,1,255,1]+5 %\n \n%c[255,224,224,160]Унікальний артефакт, по виду нагадує звичайну "Батарейку", але червоного кольору. Радіоактивна, випромінює світло. Володіє ефектом відновлювання сил і трохи захищає від ударних впливів. Артефакт "Рубінова батарейка" може ліквідувати аномалії "Електра" та "Воронка"\n \nАртефакт "Батарейка" кидається в аномалію "Снігова"\n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]5 хвилин Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]80 %\n%c[255,255,255,255]Імовірність виродження  %c[255,255,1,1]20 %%c[default]</ukr>
 	</string>
 	<string id="enc_info_red_spring_text">
 		<text>%c[255,255,255,255]Радиация  %c[255,255,1,1]+5\n%c[255,255,255,255]Удар  %c[255,1,255,1]+16 %\n%c[255,255,255,255]Взрыв  %c[255,1,255,1]+6 %\n%c[255,255,255,255]Пулестойкость  %c[255,1,255,1]+8 %\n \n%c[255,224,224,160]Уникальный артефакт, по виду напоминает обычную "Пружину", но красного цвета. Слабо радиоактивная, излучает свет. Обладает эффектом защиты от ударных воздействий. Артефакт "Рубиновая пружина" может ликвидировать аномалию "Карусель"\n \nАртефакт "Пружина" бросается в аномалию "Снежная"\n \n%c[255,255,255,255]Время трансмутации  %c[255,224,224,160]5 минут Зоны\n%c[255,255,255,255]Вероятность удачной трансмутации  %c[255,1,255,1]80 %\n%c[255,255,255,255]Вероятность вырождения  %c[255,255,1,1]20 %%c[default]</text>
-		<eng>%c[255,255,255,255]Радиация  %c[255,255,1,1]+5\n%c[255,255,255,255]Удар  %c[255,1,255,1]+16 %\n%c[255,255,255,255]Взрыв  %c[255,1,255,1]+6 %\n%c[255,255,255,255]Пулестойкость  %c[255,1,255,1]+8 %\n \n%c[255,224,224,160]Уникальный артефакт, по виду напоминает обычную "Пружину", но красного цвета. Слабо радиоактивная, излучает свет. Обладает эффектом защиты от ударных воздействий. Артефакт "Рубиновая пружина" может ликвидировать аномалию "Карусель"\n \nАртефакт "Пружина" бросается в аномалию "Снежная"\n \n%c[255,255,255,255]Время трансмутации  %c[255,224,224,160]5 минут Зоны\n%c[255,255,255,255]Вероятность удачной трансмутации  %c[255,1,255,1]80 %\n%c[255,255,255,255]Вероятность вырождения  %c[255,255,1,1]20 %%c[default]</eng>
+		<eng>%c[255,255,255,255]Radiation  %c[255,255,1,1]+5\n%c[255,255,255,255]Impact  %c[255,1,255,1]+16 %\n%c[255,255,255,255]Explosion  %c[255,1,255,1]+6 %\n%c[255,255,255,255]Bulletproofing  %c[255,1,255,1]+8 %\n \n%c[255,224,224,160]Unique artifact, by sight resembling ordinary "Spring", yet red in color. Slightly radioactive, emits light. Possesses the ability of protecting against impact. "Ruby Spring" artifact can annihilate "Whirligig" anomaly\n \n"Spring" artifact is to be thrown in "Snow" anomaly\n \n%c[255,255,255,255]Transmutation time  %c[255,224,224,160]5 Zone minutes\n%c[255,255,255,255]Probability of successful transmutation  %c[255,1,255,1]80 %\n%c[255,255,255,255]Probability of degradation  %c[255,255,1,1]20 %%c[default]</eng>
 		<ukr>%c[255,255,255,255]Радіація  %c[255,255,1,1]+5\n%c[255,255,255,255]Удар  %c[255,1,255,1]+16 %\n%c[255,255,255,255]Вибух  %c[255,1,255,1]+6 %\n%c[255,255,255,255]Кулестійкійсть  %c[255,1,255,1]+8 %\n \n%c[255,224,224,160]Унікальний артефакт, по виду нагадує звичайну "Пружину", але червоного кольору. Слабо радіоактивна, випромінює світло. Володіє ефектом захисту від ударних впливів. Артефакт "Рубінова пружина" може ліквідувати аномалію "Карусель"\n \nАртефакт "Пружина" кидається в аномалію "Снігова"\n \n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]5 хвилин Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]80 %\n%c[255,255,255,255]Імовірність виродження  %c[255,255,1,1]20 %%c[default]</ukr>
 	</string>
 	<string id="enc_info_red_pellicle_text">
 		<text>%c[255,255,255,255]Здоровье  %c[255,1,255,1]+700 %\n%c[255,255,255,255]Кровотечение  %c[255,1,255,1]-33 %\n%c[255,255,255,255]Радиация  %c[255,255,1,1]+5\n%c[255,255,255,255]Удар  %c[255,1,255,1]+5 %\n%c[255,255,255,255]Пулестойкость  %c[255,255,1,1]-50 %\n \n%c[255,224,224,160]Уникальный артефакт, по виду напоминает обычную "Плёнку", но красного цвета. Слабо радиоактивная, излучает свет. Обладает эффектом быстрого залечивания открытых ранений, но значительно снижает защиту от пулевых воздействий. Артефакт "Рубиновая плёнка" может ликвидировать аномалию "Трамплин"\n \nАртефакт "Плёнка" бросается в аномалию "Снежная"\n \n%c[255,255,255,255]Время трансмутации  %c[255,224,224,160]5 минут Зоны\n%c[255,255,255,255]Вероятность удачной трансмутации  %c[255,1,255,1]80 %\n%c[255,255,255,255]Вероятность вырождения  %c[255,255,1,1]20 %%c[default]</text>
-		<eng>%c[255,255,255,255]Здоровье  %c[255,1,255,1]+700 %\n%c[255,255,255,255]Кровотечение  %c[255,1,255,1]-33 %\n%c[255,255,255,255]Радиация  %c[255,255,1,1]+5\n%c[255,255,255,255]Удар  %c[255,1,255,1]+5 %\n%c[255,255,255,255]Пулестойкость  %c[255,255,1,1]-50 %\n \n%c[255,224,224,160]Уникальный артефакт, по виду напоминает обычную "Плёнку", но красного цвета. Слабо радиоактивная, излучает свет. Обладает эффектом быстрого залечивания открытых ранений, но значительно снижает защиту от пулевых воздействий. Артефакт "Рубиновая плёнка" может ликвидировать аномалию "Трамплин"\n \nАртефакт "Плёнка" бросается в аномалию "Снежная"\n \n%c[255,255,255,255]Время трансмутации  %c[255,224,224,160]5 минут Зоны\n%c[255,255,255,255]Вероятность удачной трансмутации  %c[255,1,255,1]80 %\n%c[255,255,255,255]Вероятность вырождения  %c[255,255,1,1]20 %%c[default]</eng>
+		<eng>%c[255,255,255,255]Health  %c[255,1,255,1]+700 %\n%c[255,255,255,255]Bleeding  %c[255,1,255,1]-33 %\n%c[255,255,255,255]Radiation  %c[255,255,1,1]+5\n%c[255,255,255,255]Impact  %c[255,1,255,1]+5 %\n%c[255,255,255,255]Bulletproofing  %c[255,255,1,1]-50 %\n \n%c[255,224,224,160]Unique artifact, by sight resembling ordinary "Pellicle", yet red in color. Slightly radioactive, emits light. Possesses the ability of fast healing of open wounds, but significantly reduces bulletproofing. "Ruby Pellicle" artifact can annihilate "Springboard" anomaly\n \n"Pellicle" artifact is to be thrown in "Snow" anomaly\n \n%c[255,255,255,255]Transmutation time  %c[255,224,224,160]5 Zone minutes\n%c[255,255,255,255]Probability of successful transmutation  %c[255,1,255,1]80 %\n%c[255,255,255,255]Probability of degradation  %c[255,255,1,1]20 %%c[default]</eng>
 		<ukr>%c[255,255,255,255]Здоров'я  %c[255,1,255,1]+700 %\n%c[255,255,255,255]Кровотеча  %c[255,1,255,1]-33 %\n%c[255,255,255,255]Радіація  %c[255,255,1,1]+5\n%c[255,255,255,255]Удар  %c[255,1,255,1]+5 %\n%c[255,255,255,255]Кулестійкійсть  %c[255,255,1,1]-50 %\n \n%c[255,224,224,160]Унікальний артефакт, по виду нагадує звичайну "Плівку", але червоного кольору. Слабо радіоактивна, випромінює світло. Володіє ефектом швидкого заліковування відкритих поранень, але значно знижує захист від кульових впливів. Артефакт "Рубінова плівка" може ліквідувати аномалію "Трамплін"\n \nАртефакт "Плівка" кидається в аномалію "Снігова"\n \n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]5 хвилин Зони\n%c[255,255,255,255]Імовірність вдалою трансмутації  %c[255,1,255,1]80 %\n%c[255,255,255,255]Імовірність виродження  %c[255,255,1,1]20 %%c[default]</ukr>
 	</string>
 	<string id="enc_enc_info_way100a_text">
 		<text>На Агропроме есть переход на Кордон.</text>
-		<eng>На Агропроме есть переход на Кордон.</eng>
+		<eng>In Agroprom there is a transition point to Cordon.</eng>
 		<ukr>На Агропромі є перехід на Кордон</ukr>
 	</string>
 	<string id="enc_enc_info_way101a_text">
 		<text>На Кордоне есть переход на Агропром.</text>
-		<eng>На Кордоне есть переход на Агропром.</eng>
+		<eng>In Cordon there is a transition point to Agroprom.</eng>
 		<ukr>На Кордоні є перехід на Агропром</ukr>
 	</string>
 	<string id="enc_enc_info_way102a_text">
 		<text>С Агропрома можно перейти на Янтарь.</text>
-		<eng>С Агропрома можно перейти на Янтарь.</eng>
+		<eng>From Agroprom one can travel directly to Yantar.</eng>
 		<ukr>З Агропрома можна перейти на Янтар</ukr>
 	</string>
 	<string id="enc_enc_info_way103a_text">
 		<text>С болота Янтарь есть прямой путь на Агропром.</text>
-		<eng>С болота Янтарь есть прямой путь на Агропром.</eng>
+		<eng>From Yantar swamp there is a direct path to Agroprom.</eng>
 		<ukr>З болота Янтар є прямий шлях на Агропром</ukr>
 	</string>
 	<string id="enc_enc_info_way104a_text">
 		<text>С базы на заводе "Росток" наёмники попадают на блокпост на Армейских Складах.</text>
-		<eng>С базы на заводе "Росток" наёмники попадают на блокпост на Армейских Складах.</eng>
+		<eng>From the base at the "Rostok" factory mercs can travel directly to the checkpoint at Army Warehouses.</eng>
 		<ukr>З бази на заводі "Росток" найманці потрапляють на блок пост на Армійських Складах</ukr>
 	</string>
 	<string id="enc_enc_info_way105a_text">
 		<text>На Армейских Складах есть прямая дорога на Дикую Территорию - завод "Росток".</text>
-		<eng>На Армейских Складах есть прямая дорога на Дикую Территорию - завод "Росток".</eng>
+		<eng>In Army Warehouses there is a direct path to Wild Territory - the "Rostok" factory.</eng>
 		<ukr>На Армійських Складах є пряма дорога на Дику Територію - завод "Росток".</ukr>
 	</string>
 	<string id="enc_enc_info_way106a_text">
 		<text>С исследовательского центра на Янтаре можно пройти к Мозговыжигателю.</text>
-		<eng>С исследовательского центра на Янтаре можно пройти к Мозговыжигателю.</eng>
+		<eng>From the research center in Yantar one can travel directly to the Brain Scorcher.</eng>
 		<ukr>З дослідного центру на Янтарі можна пройти до Мізковипалювача.</ukr>
 	</string>
 	<string id="enc_enc_info_way107a_text">
 		<text>Есть выход с Радара - в Тёмную Долину.</text>
-		<eng>Есть выход с Радара - в Тёмную Долину.</eng>
+		<eng>There is a path from Radar - to Dark Valley.</eng>
 		<ukr>Є вихід з Радара - в Темну Долину</ukr>
 	</string>
 	<string id="enc_enc_info_way108a_text">
 		<text>С Радара обнаружена прямая дорога к Янтарю.</text>
-		<eng>С Радара обнаружена прямая дорога к Янтарю.</eng>
+		<eng>From Radar there's been located a direct path to Yantar.</eng>
 		<ukr>З Радара виявлена пряма дорога на Янтар</ukr>
 	</string>
 	<string id="enc_enc_info_way109a_text">
 		<text>Из Тёмной Долины есть возможность пройти к Мозговыжигателю.</text>
-		<eng>Из Тёмной Долины есть возможность пройти к Мозговыжигателю.</eng>
+		<eng>From Dark Valley one can travel directly to the Brain Scorcher.</eng>
 		<ukr>З Темної Долини є можливість пройти до Мізковипалювача</ukr>
 	</string>
 	<string id="enc_enc_info_way110a_text">
 		<text>Из Тёмной Долины свободовцы возвращаются прямо на свою базу.</text>
-		<eng>Из Тёмной Долины свободовцы возвращаются прямо на свою базу.</eng>
+		<eng>From Dark Valley Freedom members come back directly to their base.</eng>
 		<ukr>З Темної долини "волівці" повертаються прямо на свою базу</ukr>
 	</string>
 	<string id="enc_enc_info_way111a_text">
 		<text>Лукаш сообщил о наличии прохода с базы Свободы в Тёмную Долину.</text>
-		<eng>Лукаш сообщил о наличии прохода с базы Свободы в Тёмную Долину.</eng>
+		<eng>Lukash informed of a passageway from the Freedom base to Dark Valley.</eng>
 		<ukr>Лукаш повідомив про наявність проходу з бази Волі в Темну Долину</ukr>
 	</string>
 	<!-- Akill begin -->
 	<string id="enc_enc_info_way112a_text">
 		<text>Тропа из Бара, ведущая на Армейские Склады.</text>
-		<eng>Тропа из Бара, ведущая на Армейские Склады.</eng>
+		<eng>Path from Bar, leading to Army Warehouses.</eng>
 		<ukr>Стежка з Бару, яка веде на Армійські Склади.</ukr>
 	</string>
 	<!-- Akill end -->
 	<string id="enc_enc_info_way112b_text">
 		<text>Проводник на Болотах показал тропку в Старую Деревню.</text>
-		<eng>Проводник на Болотах показал тропку в Старую Деревню.</eng>
+		<eng>A guide at Swamps showed a path to Old Village.</eng>
 		<ukr>Провідник на Болотах показав стежку в Стару Село</ukr>
 	</string>
 	<string id="enc_enc_info_way113a_text">
 		<text>Тропа на Армейские Склады.</text>
-		<eng>Тропа на Армейские Склады.</eng>
+		<eng>Path to Army Warehouses.</eng>
 		<ukr>Стежка на Армійські Склади</ukr>
 	</string>
 	<string id="enc_enc_info_way114a_text">
 		<text>Тропа из Бара, ведущая на Дикую Территорию.</text>
-		<eng>Тропа из Бара, ведущая на Дикую Территорию.</eng>
+		<eng>Path from Bar, leading to Wild Territory.</eng>
 		<ukr>Стежка з Бару, яка веде на Дику Територію.</ukr>
 	</string>
 	<string id="enc_enc_info_way_false_text">
 		<text>Портал на ЧАЭС-1.</text>
-		<eng>Портал на ЧАЭС-1.</eng>
+		<eng>Portal to SNPP-1.</eng>
 		<ukr>Стежка на ЧАЕС-1</ukr>
 	</string>
 	<string id="ways_info_way_false_text">
 		<text>Существует класс аномалий, действие которых не поддаётся никакому осмыслению... Примером может служить аномалия, которую сталкеры между собой называют "Телепорт". Эта аномалия за бесконечно малый промежуток времени способна перекинуть всё, что в неё попадает, на огромные расстояния, при этом объект внутри не испытывает никаких физических перегрузок. По слухам, одна из таких аномалий, способная телепортировать прямо к заветному "Монолиту", находится совсем недалеко от Бара - на территории Армейских Складов.</text>
-		<eng>Существует класс аномалий, действие которых не поддаётся никакому осмыслению... Примером может служить аномалия, которую сталкеры между собой называют "Телепорт". Эта аномалия за бесконечно малый промежуток времени способна перекинуть всё, что в неё попадает, на огромные расстояния, при этом объект внутри не испытывает никаких физических перегрузок. По слухам, одна из таких аномалий, способная телепортировать прямо к заветному "Монолиту", находится совсем недалеко от Бара - на территории Армейских Складов.</eng>
+		<eng>There are a certain class anomalies, whose behavior defies any possible explanation... An example of that is anomaly, that stalkers call among themselves "Teleport". This anomaly is able to transfer anything that gets into it to an enormous distance in an infinitesimal period of time, the object being transferred not experiencing any physical stress. One of the anomalies of this kind, that is able to teleport directly to the cherished Monolith, is rumored to be very close to the Bar area - at Army Warehouses.</eng>
 		<ukr>Існує клас аномалій, дія яких не піддається ніякому осмисленню... Прикладом може служити аномалія, яку сталкери між собою називають "Телепорт". Ця аномалія за нескінченно малий проміжок часу здатна перекинути все що в неї потрапляє на величезні відстані, при цьому об'єкт всередині не відчуває жодних фізичних перевантажень. З чуток, одна з таких аномалій, здатна телепортувати прямо до заповітного "Моноліту", знаходиться зовсім недалеко від Бара - на території Армійських Складів.</ukr>
 	</string>
 	<string id="ways_info_way100a_text">
@@ -378,11 +378,11 @@
 		\nДокладываю: 14.09.2012 в 22 часа на вечерней поверке было выявлено отсутствие троих военнослужащих вверенного мне подразделения, расположенного на территории бывшего НИИ Агрокомплекс. В ходе опроса остальных выявлены следующие факты - пропавшие военнослужащие неоднократно, пользуясь бесконтрольностью со стороны младшего командного состава, посещали так называемого Сидоровича, который снабжал их спиртными напитками и наркотическими веществами.
 		\nПо словам сослуживцев, за время патрульной службы ими был обнаружен не выявленный проход на территорию «Кордон». Расположение и подход к данному проходу привожу на прилагаемой карте-схеме.
 		Предпринятые мной меры по розыску пропавших военнослужащих результатов не принесли.</text>
-		<eng>\nКомандиру группы войск защитного кордона.
-		\nРапорт
-		\nДокладываю: 14.09.2012 в 22 часа на вечерней поверке было выявлено отсутствие троих военнослужащих вверенного мне подразделения, расположенного на территории бывшего НИИ Агрокомплекс. В ходе опроса остальных выявлены следующие факты - пропавшие военнослужащие неоднократно, пользуясь бесконтрольностью со стороны младшего командного состава, посещали так называемого Сидоровича, который снабжал их спиртными напитками и наркотическими веществами.
-		\nПо словам сослуживцев, за время патрульной службы ими был обнаружен не выявленный проход на территорию «Кордон». Расположение и подход к данному проходу привожу на прилагаемой карте-схеме.
-		Предпринятые мной меры по розыску пропавших военнослужащих результатов не принесли.</eng>
+		<eng>\nTo the commander of the defensive cordon's military force.
+		\nReport
+		\nI have to inform you that: on 09.14.2012 at 10 pm during the evening roll call there was revealed the absence of the three soldiers of the squad under my command, located on the territory of the former Agrokompleks Research Institute. In the course of the interrogation of the rest of the soldiers the following facts were established - the missing soldiers, taking advantage of the lack of control on the part of the noncommissioned officers, were repeatedly visiting so called Sidorovich, who was supplying them with strong drinks and drugs.  
+		\nAccording to the colleagues' report, during the time of being on patrol they've discovered an unrevealed path to the "Cordon" territory. The location of and the way of approach to that path are displayed on the attached schematic map.
+		The measures I took to search out the missing soldiers were fruitless.</eng>
 		<ukr>\nКомандиру групи військ защитного кордону.
 		\nРапорт 
 		\nДоповідаю: 14.09.2012 о 22 годині на вечірній перевірці було виявлено відсутність трьох військовослужбовців ввіреного мені підрозділу, розташованого на території колишнього НДІ Агрокомплекс. У ході опитування інших виявлені наступні факти - зниклі військовослужбовці неодноразово, користуючись безконтрольністю з боку молодшого командного складу, відвідували так званого Сидоровича, який постачав їх спиртними напоями та наркотичними речовинами.
@@ -391,32 +391,32 @@
 	</string>
 	<string id="ways_info_way101a_text">
 		<text>Проводник сообщил: \nСовсем недалеко, за бывшей фермой, есть незарегистрированный проход на территорию бывшего НИИ Агропром.</text>
-		<eng>Проводник сообщил: \nСовсем недалеко, за бывшей фермой, есть незарегистрированный проход на территорию бывшего НИИ Агропром.</eng>
+		<eng>The guide reported: \nVery near, behind the former farm, there is an unregistered path to the former Agroprom Research Institute territory.</eng>
 		<ukr>Провідник повідомив:\nЗовсім недалеко, за колишньою фермою є незареєстрований прохід на територію бувшого НДІ Агропром</ukr>
 	</string>
 	<string id="ways_info_way102a_text">
 		<text>Учёный в бункере, в благодарность за предоставленный ему для опытов артефакт, указал на совершенно неизвестный путь от бывшего НИИ Агропром к исследовательской лаборатории на озере Янтарь.</text>
-		<eng>Учёный в бункере, в благодарность за предоставленный ему для опытов артефакт, указал на совершенно неизвестный путь от бывшего НИИ Агропром к исследовательской лаборатории на озере Янтарь.</eng>
+		<eng>The scientist in the bunker, in gratitude for the artifact provided to him for tests, informed of a completely unknown path from the former Agroprom Research Institute to the research laboratory at the lake Yantar.</eng>
 		<ukr>Вчений у бункері в подяку за наданий йому для дослідів артефакт вказав на абсолютно невідомий шлях від колишнього НДІ Агропром до дослідницької лабораторії на озері Янтар</ukr>
 	</string>
 	<string id="ways_info_way103a_text">
 		<text>Согласно документам, похищенным с базы военных на НИИ Агропром, военные планировали проникнуть вглубь Зоны через вновь открывшийся путь, один из участков которого проходит через исследовательский центр Х-16, который расположен вблизи бункера учёных на озере Янтарь.</text>
-		<eng>Согласно документам, похищенным с базы военных на НИИ Агропром, военные планировали проникнуть вглубь Зоны через вновь открывшийся путь, один из участков которого проходит через исследовательский центр Х-16, который расположен вблизи бункера учёных на озере Янтарь.</eng>
+		<eng>According to the documents, stolen from the military base at Agroprom Research Institute, the militaries planned to penetrate deep into the Zone through the newly opened path, one of the legs of which passes through the X-16 research center, located near the scientists' bunker at the lake Yantar.</eng>
 		<ukr>Згідно з документами, викраденими з бази військових на НДІ Агропром, військові планували проникнути вглиб Зони через шлях який знову відкрився, одна з ділянок якого проходить через дослідний центр Х-16, який розташований поблизу бункера вчених на озері Янтар</ukr>
 	</string>
 	<string id="ways_info_way104a_text">
 		<text>При обыске наёмника по кличке Ара, найдена схема тайной дороги, по которой наёмники проникают со своей базы на заводе "Росток" вглубь Зоны - в район Армейских Складов.</text>
-		<eng>При обыске наёмника по кличке Ара, найдена схема тайной дороги, по которой наёмники проникают со своей базы на заводе "Росток" вглубь Зоны - в район Армейских Складов.</eng>
+		<eng>During the search of the merc nicknamed Ara, a map was found with a secret path, which mercs use to get from their base at the "Rostok" factory, deeper into the Zone - to the Army Warehouses area.</eng>
 		<ukr>При обшуку найманця на прізвисько Ара, знайдена схема таємної дороги, по якій найманці проникають зі своєї бази на заводі Росток вглиб Зони - в район Армійських Складів.</ukr>
 	</string>
 	<string id="ways_info_way105a_text">
 		<text>Долговцами группы Черепа в ходе допроса захваченного наёмника (зарыт в точке с координатами указанными на прилагаемой схеме) получена информация о существовании прямого пути с блокпоста наёмников на Армейских Складах на основную базу наёмников - "Росток".</text>
-		<eng>Долговцами группы Черепа в ходе допроса захваченного наёмника (зарыт в точке с координатами указанными на прилагаемой схеме) получена информация о существовании прямого пути с блокпоста наёмников на Армейских Складах на основную базу наёмников - "Росток".</eng>
+		<eng>The Duty soldiers of the Skull's group of in the course of the interrogation of the captured mercenary (buried at the point with coordinates indicated on the attached scheme) obtained the information about the existence of a direct path from the mercenary checkpoint at Army Warehouses to the main mercenary base - "Rostok".</eng>
 		<ukr>Долгівцями групи Черепа в ході допиту захопленого найманця (заритий в точці з координатами вказаними на схемі, що додається) отримано інформацію про існування прямого шляху з блок поста найманців на Армійських Складах на основну базу найманців - "Росток".</ukr>
 	</string>
 	<string id="ways_info_way106a_text">
 		<text>Возле тела учёного, погибшего от действия Мозговыжигателя в Ржавом лесу, найден план местности, на котором отмечен переход от исследовательского комплекса Х-16, расположенного возле озера Янтарь, в непосредственную близость к излучающим антеннам Радара.</text>
-		<eng>Возле тела учёного, погибшего от действия Мозговыжигателя в Ржавом лесу, найден план местности, на котором отмечен переход от исследовательского комплекса Х-16, расположенного возле озера Янтарь, в непосредственную близость к излучающим антеннам Радара.</eng>
+		<eng>Near a scientist's body, killed by the Brain Scorcher at the Rusty Forest, a location scheme was found, on which there was marked a path from the X-16 research complex, located by the Lake Yantar, to immediate proximity to the Radar antennae.</eng>
 		<ukr>Біля тіла вченого, який загинув від дії Мізковипалювача в Іржавому лісі, знайдений план місцевості, на якому відзначений перехід від дослідного комплексу Х-16, розташованого біля озера Янтар, в безпосередню близькість до випромінюючих антен Радара.</ukr>
 	</string>
 	<string id="ways_info_way107a_text">
@@ -5761,3 +5761,4 @@
 		<eng>Выкупил этот чертёж у одного сталкера, на какой чёрт он мне, сам не понимаю. Какие-то схемы, расчёты, подробные инструкции... Единственное, что из всего этого я понял, это то, что из определённых артефактов можно сделать аномальную подствольную гранату, на основе простой ВОГ-25. Всего их 4 разновидности - "Зажигалка", "Электричка", "Воронёнок" и какая-то "Снежинка". Я так и не нашёл умельца в Зоне, кто бы смог повторить всё то, что подробно расписано в этом чертеже на практике. Может тебе удастся найти такого мастера, который не только поймёт что написано в чертеже, но и сможет собрать эти ПГ-гранаты.</eng>
 	</string>
 </string_table>
+
