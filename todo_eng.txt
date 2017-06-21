@@ -1,68 +1,29 @@
 achievements.xml
-arc_string_table.xml - Nooobka
+artefacts.xml
+amk.xml: informer_recipt1-sin
+arc_string_table.xml -> sak_strings.xml - Nooobka
 arsenal_mod.xml
-meceniy_st_dialogs.xml - Lord_MyDaK
+meceniy_st_dialogs.xml -> wawka.xml - Lord_MyDaK
 sak_strings.xml
-sak_strings_trade.xml
-sak_strings_treasure.xml
-st_meceniy.xml
-stable_bio_name.xml
-stable_dialog_manager.xml
-stable_dialog_manager_uni.xml
-stable_dialogs.xml
-stable_dialogs_aes.xml
-stable_dialogs_agroprom.xml
-stable_dialogs_amk.xml - in translation to ukrainian
-stable_dialogs_arhara.xml
-stable_dialogs_bar.xml
-stable_dialogs_buusty.xml - arvalin
-stable_dialogs_darkvalley.xml
-stable_dialogs_escape.xml
-stable_dialogs_garbage.xml
-stable_dialogs_labx18.xml
-stable_dialogs_military.xml
-stable_dialogs_new.xml
-stable_dialogs_oksana579.xml
-stable_dialogs_pripyat.xml
-stable_dialogs_radar.xml
-stable_dialogs_snp.xml
-stable_dialogs_wawka.xml - han2981
-stable_dialogs_yantar.xml
-stable_game_credits.xml
-stable_generate_fnames.xml
-stable_generate_snames.xml
-stable_repair_dialogs.xml
+sak_trade.xml
+sak_treasure.xml
+questman.xml
+dialog_manager.xml
+dialogs_amk.xml - in translation to ukrainian
+dialogs_arhara.xml
+stable_dialogs_buusty.xml -> dialogs_buusty.xml - arvalin
+dialogs_new.xml
+dialogs_oksana579.xml
+dialogs_snp.xml
+wawka.xml - han2981
+generate_fnames.xml
+generate_snames.xml
+repair_dialogs.xml
 stable_safe.xml
-stable_statistic_caption.xml
-stable_stories.xml
-stable_storyline_info_aes.xml
-stable_storyline_info_agroprom.xml
-stable_storyline_info_bar.xml
-stable_storyline_info_darkvalley.xml
-stable_storyline_info_escape.xml
-stable_storyline_info_garbage.xml
-stable_storyline_info_military.xml
-stable_storyline_info_pripyat.xml
-stable_storyline_info_radar.xml
-stable_storyline_info_sarcofag.xml
-stable_storyline_info_yantar.xml
-stable_task_manager.xml - in translation to ukrainian
-stable_treasure_manager.xml
-string_table_amk_arts_desc.xml
-string_table_amk_matras.xml
-string_table_amk_metka.xml
-string_table_amkzp_arts_desc.xml
-string_table_apgreyd_weapons.xml
-string_table_arhara.xml
-string_table_arts_desc.xml
-string_table_enc_equipment.xml
-string_table_enc_mutants.xml
-string_table_enc_sigaret.xml
-string_table_enc_social.xml
-string_table_enc_vehicles.xml
-string_table_enc_weapons.xml
-string_table_enc_zone.xml
-string_table_general.xml
+statistic.xml
+stories.xml
+cycle_task.xml - in translation to ukrainian
+string_table_general.xml 
 string_table_items.xml
 string_table_level_tips.xml
 string_table_mapspots_aes.xml
@@ -74,7 +35,6 @@ string_table_mapspots_garbage.xml
 string_table_mapspots_military.xml
 string_table_mapspots_pripyat.xml
 string_table_mapspots_radar.xml
-string_table_new.xml
 string_table_ogg_flash_1.xml
 string_table_ogg_flash_10.xml
 string_table_ogg_flash_11.xml

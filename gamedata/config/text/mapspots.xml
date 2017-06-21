@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<string_table>
+	<string id="pri_bus_station_zone_hint">
+		<text>Автобусная станция</text>
+		<eng>Автобусная станция</eng>
+		<ukr>Автобусна станція</ukr>
+	</string>
+	<string id="pri_hotel_zone_hint">
+		<text>Гостиница</text>
+		<eng>Гостиница</eng>
+		<ukr>Готель</ukr>
+	</string>
+	<string id="pri_monolith_base_zone_hint">
+		<text>База Монолита</text>
+		<eng>База Монолита</eng>
+		<ukr>База «Моноліту»</ukr>
+	</string>
+	<string id="pri_stadium_zone_hint">
+		<text>Стадион</text>
+		<eng>Стадион</eng>
+		<ukr>Стадіон</ukr>
+	</string>
+	<string id="gar_angar">
+		<text>Заброшенный ангар</text>
+		<eng>Заброшенный ангар</eng>
+		<ukr>Кинутий ангар</ukr>
+	</string>
+	<string id="gar_bandit_agr">
+		<text>Лагерь бандитов на выходе с Агропрома</text>
+		<eng>Лагерь бандитов на выходе с Агропрома</eng>
+		<ukr>Табір бандитів на виході з Агропрома</ukr>
+	</string>
+	<string id="gar_bandit_post">
+		<text>Укреп.район бандитов по дороге на Агропром</text>
+		<eng>Укреп.район бандитов по дороге на Агропром</eng>
+		<ukr>Укріпрайон бандитів по дорозі на Агропром</ukr>
+	</string>
+	<string id="gar_bandits_leader">
+		<text>Рейд бандитов, возглавляемый паханом</text>
+		<eng>Рейд бандитов, возглавляемый паханом</eng>
+		<ukr>Рейд бандитів, очолюваний паханом</ukr>
+	</string>
+	<string id="gar_boars_nest">
+		<text>Скопление кабанов</text>
+		<eng>Скопление кабанов</eng>
+		<ukr>Скупчення кабанів</ukr>
+	</string>
+	<string id="gar_car_graveyard">
+		<text>Кладбище брошенной техники</text>
+		<eng>Кладбище брошенной техники</eng>
+		<ukr>Кладовище старої техніки</ukr>
+	</string>
+	<string id="gar_dogs_in_forest">
+		<text>Лес, в котором много собак</text>
+		<eng>Лес, в котором много собак</eng>
+		<ukr>Ліс, в якому багато собак</ukr>
+	</string>
+	<string id="gar_dolg_blokpost">
+		<text>Блокпост Долга по дороге к Бару</text>
+		<eng>Блокпост Долга по дороге к Бару</eng>
+		<ukr>Блокпост «Долгу» по дорозі до Бара</ukr>
+	</string>
+	<string id="gar_hellcar">
+		<text>Группа сталкеров нейтралов зовёт на помощь</text>
+		<eng>Группа сталкеров нейтралов зовёт на помощь</eng>
+		<ukr>Група сталкерів-нейтралів кличе на допомогу</ukr>
+	</string>
+	<string id="gar_newbie">
+		<text>Новичок, испуганный и уставший</text>
+		<eng>Новичок, испуганный и уставший</eng>
+		<ukr>Новачок, переляканий і стомлений</ukr>
+	</string>
+	<string id="gar_secret1">
+		<text>Тайник, оставленный новичком</text>
+		<eng>Тайник, оставленный новичком</eng>
+		<ukr>Схованка, залишена новачком.</ukr>
+	</string>
+	<string id="gar_seriy">
+		<text>Группа Серого</text>
+		<eng>Группа Серого</eng>
+		<ukr>Група Сірого </ukr>
+	</string>
+	<string id="gar_swamp">
+		<text>Гримпенская трясина</text>
+		<eng>Гримпенская трясина</eng>
+		<ukr>Грімпенська трясовина</ukr>
+	</string>
+	<string id="gar_trash1">
+		<text>Кучи мусора с аномалиями и артефактами</text>
+		<eng>Кучи мусора с аномалиями и артефактами</eng>
+		<ukr>Купи сміття з аномаліями та артефактами</ukr>
+	</string>
+	<string id="gar_tunnel">
+		<text>Железнодорожный тоннель</text>
+		<eng>Железнодорожный тоннель</eng>
+		<ukr>Залізничний тунель</ukr>
+	</string>
+	<string id="gar_wounded_help">
+		<text>Сигнал СОС; очевидно, раненый сталкер</text>
+		<eng>Сигнал СОС; очевидно, раненый сталкер</eng>
+		<ukr>Сигнал SOS. Вочевидь, поранений сталкер.</ukr>
+	</string>
+	<string id="bar_darklab_documents_1_hint">
+		<text>Боров</text>
+		<eng>Боров</eng>
+		<ukr>Кабан</ukr>
+	</string>
+	<string id="bar_darklab_documents_2_hint">
+		<text>Тоннель</text>
+		<eng>Тоннель</eng>
+		<ukr>Тунель</ukr>
+	</string>
+	<string id="bar_darklab_documents_3_hint">
+		<text>Вход в лабораторию</text>
+		<eng>Вход в лабораторию</eng>
+		<ukr>Вхід до лабораторії</ukr>
+	</string>
+	<string id="bar_darklab_documents_4_hint">
+		<text>Труба</text>
+		<eng>Труба</eng>
+		<ukr>Труба</ukr>
+	</string>
+	<string id="bar_darklab_documents2_1_hint">
+		<text>Документы из лаборатории</text>
+		<eng>Документы из лаборатории</eng>
+		<ukr>Документи з лабораторії</ukr>
+	</string>
+	<string id="bar_darklab_documents2_2_hint">
+		<text>Бармен</text>
+		<eng>Бармен</eng>
+		<ukr>Бармен</ukr>
+	</string>
+	<string id="val_captive_help_1_hint">
+		<text>Пуля</text>
+		<eng>Пуля</eng>
+		<ukr>Куля</ukr>
+	</string>
+	<string id="val_captive_help_2_hint">
+		<text>Пленный</text>
+		<eng>Пленный</eng>
+		<ukr>Полонений</ukr>
+	</string>
+	<string id="val_come_to_trader_1_hint">
+		<text>Южные ворота</text>
+		<eng>Южные ворота</eng>
+		<ukr>Південні ворота</ukr>
+	</string>
+	<string id="val_come_to_trader_2_hint">
+		<text>Торговец</text>
+		<eng>Торговец</eng>
+		<ukr>Крамар</ukr>
+	</string>
+	<string id="val_prisoner_help_main_hint">
+		<text>Пленённый долговец</text>
+		<eng>Пленённый долговец</eng>
+		<ukr>Полонений «долгівець»</ukr>
+	</string>
+	<string id="val_sos_help_main_hint">
+		<text>Раненый сталкер</text>
+		<eng>Раненый сталкер</eng>
+		<ukr>Поранений сталкер</ukr>
+	</string>
+	<string id="val_zone_bandits_hint">
+		<text>Лагерь бандитов</text>
+		<eng>Лагерь бандитов</eng>
+		<ukr>Табір бандитів</ukr>
+	</string>
+	<string id="val_zone_farm_hint">
+		<text>Ферма\nКупить винтовку Гаусса</text>
+		<eng>Ферма\nКупить винтовку Гаусса</eng>
+		<ukr>Ферма.\nКупити Гаусс.</ukr>
+	</string>
+	<string id="val_zone_monolith_hint">
+		<text>Старая фабрика</text>
+		<eng>Старая фабрика</eng>
+		<ukr>Стара фабрика</ukr>
+	</string>
+	<string id="val_zone_pipe_hint">
+		<text>Канализационная труба</text>
+		<eng>Канализационная труба</eng>
+		<ukr>Каналізаційна труба</ukr>
+	</string>
+	<string id="val_zone_robbers_hint">
+		<text>Заброшенная свиноферма</text>
+		<eng>Заброшенная свиноферма</eng>
+		<ukr>Стара свиноферма</ukr>
+	</string>
+	<string id="val_zone_south_gate_hint">
+		<text>Ворота</text>
+		<eng>Ворота</eng>
+		<ukr>Ворота</ukr>
+	</string>
+	<string id="blokpost_case">
+		<text>Кейс с документами</text>
+		<eng>Кейс с документами</eng>
+		<ukr>Кейс із документами</ukr>
+	</string>
+	<string id="esc_fox">
+		<text>Раненый Лис</text>
+		<eng>Раненый Лис</eng>
+		<ukr>Поранений Лис</ukr>
+	</string>
+	<string id="esc_mill">
+		<text>Заброшенная мельница, где-то здесь последний раз видели пропавшего братка</text>
+		<eng>Заброшенная мельница, где-то здесь последний раз видели пропавшего братка</eng>
+		<ukr>Закинутий млин. Десь тут останній раз бачили зниклого братуху.</ukr>
+	</string>
+	<string id="escape_trader">
+		<text>Сидорович</text>
+		<eng>Сидорович</eng>
+		<ukr>Сидорович</ukr>
+	</string>
+	<string id="factory_bandits">
+		<text>Бандиты на фабрике</text>
+		<eng>Бандиты на фабрике</eng>
+		<ukr>Бандити на фабриці</ukr>
+	</string>
+	<string id="killers_team">
+		<text>Группа неизвестных наёмников</text>
+		<eng>Группа неизвестных наёмников</eng>
+		<ukr>Група невідомих найманців</ukr>
+	</string>
+	<string id="novice_leader">
+		<text>Лидер лагеря новичков</text>
+		<eng>Лидер лагеря новичков</eng>
+		<ukr>Лідер табору новачків</ukr>
+	</string>
+	<string id="soldiers_bridge">
+		<text>Пост военных у разрушенного моста. Иногда за проход через мост берут взятку</text>
+		<eng>Пост военных у разрушенного моста. Иногда за проход через мост берут взятку</eng>
+		<ukr>Блокпост військових біля зруйнованого мосту. Іноді за прохід через міст беруть хабар.</ukr>
+	</string>
+	<string id="tutorial_artefact">
+		<text>Артефакт</text>
+		<eng>Артефакт</eng>
+		<ukr>Артефакт</ukr>
+	</string>
+	<string id="tutorial_bandits">
+		<text>Бандиты, зажавшие разведчика</text>
+		<eng>Бандиты, зажавшие разведчика</eng>
+		<ukr>Бандити, що оточили розвідника</ukr>
+	</string>
+	<string id="tutorial_secret">
+		<text>Тайник, оставленный погибшим сталкером</text>
+		<eng>Тайник, оставленный погибшим сталкером</eng>
+		<ukr>Схованка, залишена загиблим сталкером</ukr>
+	</string>
+	<string id="tutorial_secret_place1">
+		<text>Тайник, оставленный погибшим сталкером</text>
+		<eng>Тайник, оставленный погибшим сталкером</eng>
+		<ukr>Схованка, залишена загиблим сталкером</ukr>
+	</string>
+	<string id="tutorial_secret_shustryi">
+		<text>Тайник, оставленный Шустрым</text>
+		<eng>Тайник, оставленный Шустрым</eng>
+		<ukr>Схованка, залишена Спритним</ukr>
+	</string>
+	<string id="tutorial_wounded">
+		<text>Пленный Шустрый</text>
+		<eng>Пленный Шустрый</eng>
+		<ukr>Полонений Спритний</ukr>
+	</string>
+	<string id="volk">
+		<text>Волк, лидер лагеря новичков</text>
+		<eng>Волк, лидер лагеря новичков</eng>
+		<ukr>Вовк, лідер табору новачків</ukr>
+	</string>
+	<string id="wolfs_rangers">
+		<text>Разведчики из группы Волка</text>
+		<eng>Разведчики из группы Волка</eng>
+		<ukr>Розвідники із групи Вовка</ukr>
+	</string>
+	<string id="rad_antenna_location">
+		<text>Антенны</text>
+		<eng>Антенны</eng>
+		<ukr>Антени</ukr>
+	</string>
+	<string id="mil_cap_hint">
+		<text>Поговорить с командиром Барьера</text>
+		<eng>Поговорить с командиром Барьера</eng>
+		<ukr>Поговорити із командиром Бар'єру</ukr>
+	</string>
+	<string id="mil_courier_hint1">
+		<text>Проследить за стукачом</text>
+		<eng>Проследить за стукачом</eng>
+		<ukr>Простежити за стукачем</ukr>
+	</string>
+	<string id="mil_courier_hint2">
+		<text>Дождаться вызова стукачом информатора</text>
+		<eng>Дождаться вызова стукачом информатора</eng>
+		<ukr>Дочекатися, поки стукач викличе збирача інформації</ukr>
+	</string>
+	<string id="mil_courier_hint3">
+		<text>Убить стукача</text>
+		<eng>Убить стукача</eng>
+		<ukr>Убити стукача</ukr>
+	</string>
+	<string id="mil_courier_hint4">
+		<text>Убить информатора</text>
+		<eng>Убить информатора</eng>
+		<ukr>Убити збирача інформації</ukr>
+	</string>
+	<string id="mil_crazy_hint">
+		<text>Взять флешку у сумасшедшего сталкера</text>
+		<eng>Взять флешку у сумасшедшего сталкера</eng>
+		<ukr>Узяти флешку в божевільного сталкера</ukr>
+	</string>
+	<string id="mil_dolg_khutor">
+		<text>Хутор Долга</text>
+		<eng>Хутор Долга</eng>
+		<ukr>Хутір «Долгу»</ukr>
+	</string>
+	<string id="mil_freedom_sniper">
+		<text>Убить снайпера</text>
+		<eng>Убить снайпера</eng>
+		<ukr>Убити снайпера</ukr>
+	</string>
+	<string id="mil_hunters_hint1">
+		<text>Поговорить с Угрюмым</text>
+		<eng>Поговорить с Угрюмым</eng>
+		<ukr>Поговорити із Похмурим</ukr>
+	</string>
+	<string id="mil_hunters_hint2">
+		<text>Вернуться к Скряге</text>
+		<eng>Вернуться к Скряге</eng>
+		<ukr>Повернутися до Скнари</ukr>
+	</string>
+	<string id="mil_kill_dolg_hint">
+		<text>Уничтожить отряд Долга</text>
+		<eng>Уничтожить отряд Долга</eng>
+		<ukr>Знищити загін «Долгу»</ukr>
+	</string>
+	<string id="mil_kill_lukash_hint">
+		<text>Убить Лукаша</text>
+		<eng>Убить Лукаша</eng>
+		<ukr>Убити Лукаша</ukr>
+	</string>
+	<string id="mil_miser_hint">
+		<text>Скряга</text>
+		<eng>Скряга</eng>
+		<ukr>Скнара</ukr>
+	</string>
+	<string id="mil_report_to_max_hint">
+		<text>Доложить Максу</text>
+		<eng>Доложить Максу</eng>
+		<ukr>Доповісти Максові</ukr>
+	</string>
+	<string id="mil_return_to_lukash_hint">
+		<text>Доложить Лукашу</text>
+		<eng>Доложить Лукашу</eng>
+		<ukr>Доповісти Лукашеві</ukr>
+	</string>
+	<string id="mil_return_to_max_hint">
+		<text>Отдать флешку Максу</text>
+		<eng>Отдать флешку Максу</eng>
+		<ukr>Віддати флешку Максові</ukr>
+	</string>
+	<string id="mil_rg6_hint1">
+		<text>Найти повара на базе Свободы</text>
+		<eng>Найти повара на базе Свободы</eng>
+		<ukr>Знайти Кухаря на базі «Волі»</ukr>
+	</string>
+	<string id="mil_rg6_hint2">
+		<text>Поговорить с Поваром</text>
+		<eng>Поговорить с Поваром</eng>
+		<ukr>Поговорити із Кухарем</ukr>
+	</string>
+	<string id="mil_rg6_hint3">
+		<text>Забрать РГ-6 из схрона в деревне</text>
+		<eng>Забрать РГ-6 из схрона в деревне</eng>
+		<ukr>Забрати «Бульдог-6» зі схрона у селищі</ukr>
+	</string>
+	<string id="mil_blockpost_job">
+		<text>Защитить Барьер</text>
+		<eng>Защитить Барьер</eng>
+		<ukr>Захистити Бар'єр</ukr>
+	</string>
+	<string id="mil_watertower_hint">
+		<text>Водонапорная башня</text>
+		<eng>Водонапорная башня</eng>
+		<ukr>Водонапірна башта</ukr>
+	</string>
+	<string id="bar_arena_locator">
+		<text>Арена</text>
+		<eng>Арена</eng>
+		<ukr>Арена</ukr>
+	</string>
+	<string id="bar_bar_locator">
+		<text>Бар "100 рентген"</text>
+		<eng>Бар "100 рентген"</eng>
+		<ukr>Бар «100 рентген»</ukr>
+	</string>
+	<string id="bar_dolg_locator">
+		<text>База группировки Долг</text>
+		<eng>База группировки Долг</eng>
+		<ukr>База угруповання «Долг»</ukr>
+	</string>
+	<string id="rostok_banda_volkodava">
+		<text>Волкодав с головорезами возле вертолёта</text>
+		<eng>Волкодав с головорезами возле вертолёта</eng>
+		<ukr>Вовкодав зі своїми головорізами біля вертольота</ukr>
+	</string>
+	<string id="rostok_kruglov">
+		<text>Профессор Круглов</text>
+		<eng>Профессор Круглов</eng>
+		<ukr>Круглов</ukr>
+	</string>
+	<string id="rostok_tainyi_hod">
+		<text>Засада возле завода</text>
+		<eng>Засада возле завода</eng>
+		<ukr>Засідка біля заводу</ukr>
+	</string>
+	<string id="rostok_volkodav">
+		<text>Волкодав</text>
+		<eng>Волкодав</eng>
+		<ukr>Вовкодав</ukr>
+	</string>
+	<string id="aes_btr1">
+		<text>Броненосец 1</text>
+		<eng>Броненосец 1</eng>
+		<ukr>«Броненосець-1»</ukr>
+	</string>
+	<string id="aes_btr2">
+		<text>Броненосец 2</text>
+		<eng>Броненосец 2</eng>
+		<ukr>«Броненосець-2»</ukr>
+	</string>
+	<string id="aes_btr3">
+		<text>Броненосец 3</text>
+		<eng>Броненосец 3</eng>
+		<ukr>«Броненосець-3»</ukr>
+	</string>
+	<string id="aes_grif">
+		<text>Гриф</text>
+		<eng>Гриф</eng>
+		<ukr>«Гриф»</ukr>
+	</string>
+	<string id="aes_korshun">
+		<text>Коршун</text>
+		<eng>Коршун</eng>
+		<ukr>«Шуліка»</ukr>
+	</string>
+	<string id="aes_kvartet">
+		<text>Квартет</text>
+		<eng>Квартет</eng>
+		<ukr>«Квартет»</ukr>
+	</string>
+	<string id="aes_lun">
+		<text>Лунь</text>
+		<eng>Лунь</eng>
+		<ukr>«Лунь»</ukr>
+	</string>
+	<string id="aes_pustelga">
+		<text>Пустельга</text>
+		<eng>Пустельга</eng>
+		<ukr>«Боривітер»</ukr>
+	</string>
+	<string id="aes_sapsan">
+		<text>Сапсан</text>
+		<eng>Сапсан</eng>
+		<ukr>«Сапсан»</ukr>
+	</string>
+	<string id="aes_sarcofag_hint">
+		<text>Вход в саркофаг</text>
+		<eng>Вход в саркофаг</eng>
+		<ukr>Вхід до Саркофагу</ukr>
+	</string>
+	<string id="aes_sokol">
+		<text>Сокол</text>
+		<eng>Сокол</eng>
+		<ukr>«Сокіл»</ukr>
+	</string>
+	<string id="aes_sova">
+		<text>Сова</text>
+		<eng>Сова</eng>
+		<ukr>«Сова»</ukr>
+	</string>
+	<string id="aes_yastreb">
+		<text>Ястреб</text>
+		<eng>Ястреб</eng>
+		<ukr>«Яструб»</ukr>
+	</string>
+	<string id="agr_captains_chamber_hint">
+		<text>Каптёрка капитана</text>
+		<eng>Каптёрка капитана</eng>
+		<ukr>Каптерка капітана</ukr>
+	</string>
+	<string id="agr_collector_entrance_hint">
+		<text>Вход в катакомбы</text>
+		<eng>Вход в катакомбы</eng>
+		<ukr>Вхід до катакомб</ukr>
+	</string>
+	<string id="agr_factory_hint">
+		<text>Завод</text>
+		<eng>Завод</eng>
+		<ukr>Завод</ukr>
+	</string>
+	<string id="agr_find_gunslinger_cache_hint">
+		<text>Найти в катакомбах тайник Стрелка</text>
+		<eng>Найти в катакомбах тайник Стрелка</eng>
+		<ukr>Знайти у катакомбах схованку Стрільця</ukr>
+	</string>
+	<string id="agr_give_case_to_barman_hint">
+		<text>Отдать бармену документы</text>
+		<eng>Отдать бармену документы</eng>
+		<ukr>Віддати Барменові документи</ukr>
+	</string>
+	<string id="agr_help_krot_hint">
+		<text>Спасти Крота</text>
+		<eng>Спасти Крота</eng>
+		<ukr>Врятувати Крота</ukr>
+	</string>
+	<string id="agr_help_stalkers_hint">
+		<text>Спасти сталкеров</text>
+		<eng>Спасти сталкеров</eng>
+		<ukr>Врятувати сталкерів</ukr>
+	</string>
+	<string id="agr_meet_krot_hint">
+		<text>Встретиться с Кротом</text>
+		<eng>Встретиться с Кротом</eng>
+		<ukr>Зустрітися із Кротом</ukr>
+	</string>
+	<string id="agr_nii_hint">
+		<text>НИИ Агропром, база военных</text>
+		<eng>НИИ Агропром, база военных</eng>
+		<ukr>НДІ «Агропром». База військових</ukr>
+	</string>
+	<string id="agr_swamp_hint">
+		<text>Безопасное место</text>
+		<eng>Безопасное место</eng>
+		<ukr>Безпечне місце</ukr>
+	</string>
+	<string id="agr_take_case_hint">
+		<text>Украсть документы</text>
+		<eng>Украсть документы</eng>
+		<ukr>Украсти документи</ukr>
+	</string>
+	<string id="agr_take_krots_info_hint">
+		<text>Взять у Крота информацию о тайнике</text>
+		<eng>Взять у Крота информацию о тайнике</eng>
+		<ukr>Отримати в Крота інформацію про схованку</ukr>
+	</string>
+	<string id="agr_zaz_hint">
+		<text>Запорожец</text>
+		<eng>Запорожец</eng>
+		<ukr>«Запорожець»</ukr>
+	</string>
+	<string id="cit_doctor_task_1_hint">
+		<text>Гостиница</text>
+		<eng>Гостиница</eng>
+		<ukr>Готель</ukr>
+	</string>
+</string_table>
