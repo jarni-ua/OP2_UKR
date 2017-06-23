@@ -143,7 +143,7 @@
 	<string id="ui_st_modifiers">
 		<text>Модификаторы</text>
 		<eng>Модификаторы</eng>
-		<ukr>Модификаторы</ukr>
+		<ukr>Модифікатори</ukr>
 	</string>
 	<string id="ui_st_secs">
 		<text>сек.</text>
@@ -273,7 +273,7 @@
 	<string id="st_server_starting">
 		<text>Собираюсь в дорогу</text>
 		<eng>Собираюсь в дорогу</eng>
-		<ukr>Збираюсь у дорогу</ukr>
+		<ukr>Збираюсь в дорогу</ukr>
 	</string>
 	<string id="st_loading_shaders">
 		<text>Прощаюсь со всеми</text>
@@ -348,7 +348,7 @@
 	<string id="ui_st_description">
 		<text>Описание</text>
 		<eng>Описание</eng>
-		<ukr>Описание</ukr>
+		<ukr>Опис</ukr>
 	</string>
 	<string id="st_items">
 		<text>Предметы</text>
@@ -408,7 +408,7 @@
 	<string id="ui_st_time_qbegin">
 		<text>Получено</text>
 		<eng>Получено</eng>
-		<ukr>Получено</ukr>
+		<ukr>Отримано</ukr>
 	</string>
 	<string id="ui_st_time_qend">
 		<text>до</text>
@@ -418,16 +418,16 @@
 	<string id="ui_st_money_regional">
 		<text>RU</text>
 		<eng>RU</eng>
-		<ukr>RU</ukr>
+		<ukr>грн</ukr>
 	</string>
 	<string id="st_main_on">
 		<text>Включить</text>
 		<eng>Включить</eng>
-		<ukr>Включить</ukr>
+		<ukr>Ввімкнути</ukr>
 	</string>
 	<string id="st_main_off">
 		<text>Выключить</text>
 		<eng>Выключить</eng>
-		<ukr>Выключить</ukr>
+		<ukr>Вимкнути</ukr>
 	</string>
 </string_table>

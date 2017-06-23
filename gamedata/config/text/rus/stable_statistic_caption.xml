@@ -348,27 +348,27 @@
 	<string id="arahnid_strong">
 		<text>Жёлтый арахнид</text>
 		<eng>Жёлтый арахнид</eng>
-		<ukr>Водяний</ukr>
+		<ukr>Жовтий арахнід</ukr>
 	</string>
 	<string id="fracture_weak">
 		<text>Молодой излом</text>
 		<eng>Молодой излом</eng>
-		<ukr>Молодий злам</ukr>
+		<ukr>Молодий чахлик</ukr>
 	</string>
 	<string id="fracture_normal">
 		<text>Взрослый излом</text>
 		<eng>Взрослый излом</eng>
-		<ukr>Досвідчений злам</ukr>
+		<ukr>Досвідчений чахлик</ukr>
 	</string>
 	<string id="fracture_strong">
 		<text>Излом-охотник</text>
 		<eng>Излом-охотник</eng>
-		<ukr>Злам-мисливець</ukr>
+		<ukr>Чахлик-мисливець</ukr>
 	</string>
 	<string id="fracture_master">
 		<text>Матёрый излом</text>
 		<eng>Матёрый излом</eng>
-		<ukr>Запеклий злам</ukr>
+		<ukr>Зрілий чахлик</ukr>
 	</string>
 	<string id="carlic_weak">
 		<text>Молодой карлик</text>
@@ -378,22 +378,22 @@
 	<string id="carlic_strong">
 		<text>Матёрый карлик</text>
 		<eng>Матёрый карлик</eng>
-		<ukr>Запеклий карлик</ukr>
+		<ukr>Зрілий карлик</ukr>
 	</string>
 	<string id="pseudodog_weak">
 		<text>Молодая псевдособака</text>
 		<eng>Молодая псевдособака</eng>
-		<ukr>Молода коричнева псевдособака</ukr>
+		<ukr>Молода псевдособака</ukr>
 	</string>
 	<string id="pseudodog_normal">
 		<text>Матёрая псевдособака</text>
 		<eng>Матёрая псевдособака</eng>
-		<ukr>Матёрая коричнева псевдособака</ukr>
+		<ukr>Зріла псевдособака</ukr>
 	</string>
 	<string id="pseudodog_strong">
 		<text>Серая псевдособака</text>
 		<eng>Серая псевдособака</eng>
-		<ukr>Запекла сіра псевдособака</ukr>
+		<ukr>Сіра псевдособака</ukr>
 	</string>
 	<string id="pseudodog_big">
 		<text>Вольфхонд</text>
@@ -413,7 +413,7 @@
 	<string id="bloodsucker_strong">
 		<text>Матёрый кровосос</text>
 		<eng>Матёрый кровосос</eng>
-		<ukr>Запеклий кровосос</ukr>
+		<ukr>Зрілий кровосос</ukr>
 	</string>
 	<string id="m_controller_normal">
 		<text>Молодой контролёр</text>
@@ -428,12 +428,12 @@
 	<string id="m_controller_old">
 		<text>Матёрый контролёр</text>
 		<eng>Матёрый контролёр</eng>
-		<ukr>Запеклий контролер</ukr>
+		<ukr>Зрілий контролер</ukr>
 	</string>
 	<string id="m_controller_old_fat">
 		<text>Старый контролёр</text>
 		<eng>Старый контролёр</eng>
-		<ukr>Запеклий контролер-товстун</ukr>
+		<ukr>Старий контролер</ukr>
 	</string>
 	<string id="controller_tubeman">
 		<text>Подземный контролёр</text>
@@ -443,12 +443,12 @@
 	<string id="gigant_normal">
 		<text>Молодой псевдогигант</text>
 		<eng>Молодой псевдогигант</eng>
-		<ukr>Досвідчений псевдогігант</ukr>
+		<ukr>Молодий псевдогігант</ukr>
 	</string>
 	<string id="gigant_strong">
 		<text>Матёрый псевдогигант</text>
 		<eng>Матёрый псевдогигант</eng>
-		<ukr>Запеклий псевдогігант</ukr>
+		<ukr>Зрілий псевдогігант</ukr>
 	</string>
 	<string id="gigant_red_strong">
 		<text>Красный псевдогигант</text>
@@ -468,7 +468,7 @@
 	<string id="gigant_jumper_strong">
 		<text>Матёрый псевдогигант-прыгун</text>
 		<eng>Матёрый псевдогигант-прыгун</eng>
-		<ukr>Запеклий псевдогігант-стрибун</ukr>
+		<ukr>Зрілий псевдогігант-стрибун</ukr>
 	</string>
 	<string id="burer_weak">
 		<text>Молодой бюрер</text>
@@ -478,12 +478,12 @@
 	<string id="burer_normal">
 		<text>Взрослый бюрер</text>
 		<eng>Взрослый бюрер</eng>
-		<ukr>Досвідчений бюрер</ukr>
+		<ukr>Дорослий бюрер</ukr>
 	</string>
 	<string id="burer_strong">
 		<text>Матёрый бюрер</text>
 		<eng>Матёрый бюрер</eng>
-		<ukr>Запеклий бюрер</ukr>
+		<ukr>Зрілий бюрер</ukr>
 	</string>
 	<string id="chimera_weak">
 		<text>Молодая химера</text>
@@ -493,7 +493,7 @@
 	<string id="tarakan_strong">
 		<text>Рыжий таракан</text>
 		<eng>Рыжий таракан</eng>
-		<ukr>Запеклий тарган</ukr>
+		<ukr>Рудий тарган</ukr>
 	</string>
 	<string id="m_poltergeist_normal_tele">
 		<text>Пси-полтергейст</text>
@@ -503,32 +503,32 @@
 	<string id="m_poltergeist_tele_outdoor">
 		<text>Матёрый пси-полтергейст</text>
 		<eng>Матёрый пси-полтергейст</eng>
-		<ukr>Псі-полтергейст - мисливець</ukr>
+		<ukr>Зрілий псі-полтергейст</ukr>
 	</string>
 	<string id="m_poltergeist_normal_flame">
 		<text>Пиро-полтергейст</text>
 		<eng>Пиро-полтергейст</eng>
-		<ukr>Вогняний полтергейст</ukr>
+		<ukr>Піро-полтергейст</ukr>
 	</string>
 	<string id="m_poltergeist_strong_flame">
 		<text>Матёрый пиро-полтергейст</text>
 		<eng>Матёрый пиро-полтергейст</eng>
-		<ukr>Запеклий вогняний полтергейст</ukr>
+		<ukr>Зрілий піро-полтергейст</ukr>
 	</string>
 	<string id="deathclaw_weak">
 		<text>Чешуйчатый коготь смерти</text>
 		<eng>Чешуйчатый коготь смерти</eng>
-		<ukr>Молодий Кіготь Смерті</ukr>
+		<ukr>Лускатий кіготь смерті</ukr>
 	</string>
 	<string id="deathclaw_normal">
 		<text>Молодой коготь смерти</text>
 		<eng>Молодой коготь смерти</eng>
-		<ukr>Досвідчений Кіготь Смерті</ukr>
+		<ukr>Молодий кіготь смерті</ukr>
 	</string>
 	<string id="deathclaw_strong">
 		<text>Матёрый коготь смерти</text>
 		<eng>Матёрый коготь смерти</eng>
-		<ukr>Запеклий Кіготь Смерті</ukr>
+		<ukr>Зрілий кіготь смерті</ukr>
 	</string>
 	<string id="flesh_weak">
 		<text>Молодая плоть</text>
@@ -538,12 +538,12 @@
 	<string id="flesh_normal">
 		<text>Взрослая плоть</text>
 		<eng>Взрослая плоть</eng>
-		<ukr>Досвідчена плоть</ukr>
+		<ukr>Доросла плоть</ukr>
 	</string>
 	<string id="flesh_strong">
 		<text>Матёрая плоть</text>
 		<eng>Матёрая плоть</eng>
-		<ukr>Запекла плоть</ukr>
+		<ukr>Зріла плоть</ukr>
 	</string>
 	<string id="boar_weak">
 		<text>Молодой кабан</text>
@@ -558,12 +558,12 @@
 	<string id="boar_normal">
 		<text>Взрослый кабан</text>
 		<eng>Взрослый кабан</eng>
-		<ukr>Досвідчений кабан</ukr>
+		<ukr>Дорослий кабан</ukr>
 	</string>
 	<string id="boar_strong">
 		<text>Матёрый кабан</text>
 		<eng>Матёрый кабан</eng>
-		<ukr>Запеклий кабан</ukr>
+		<ukr>Зрілий кабан</ukr>
 	</string>
 	<string id="boar_kachok">
 		<text>Гигантский кабан</text>
@@ -578,12 +578,12 @@
 	<string id="snork_normal">
 		<text>Взрослый снорк</text>
 		<eng>Взрослый снорк</eng>
-		<ukr>Досвідчений снорк</ukr>
+		<ukr>Дорослий снорк</ukr>
 	</string>
 	<string id="snork_strong">
 		<text>Матёрый снорк</text>
 		<eng>Матёрый снорк</eng>
-		<ukr>Запеклий снорк</ukr>
+		<ukr>Зрілий снорк</ukr>
 	</string>
 	<string id="snork_outdoor">
 		<text>Снорк-охотник</text>
@@ -608,12 +608,12 @@
 	<string id="rat_normal">
 		<text>Взрослая крыса</text>
 		<eng>Взрослая крыса</eng>
-		<ukr>Досвідчений щур</ukr>
+		<ukr>Дорослий щур</ukr>
 	</string>
 	<string id="rat_strong">
 		<text>Матёрая крыса</text>
 		<eng>Матёрая крыса</eng>
-		<ukr>Запеклий щур</ukr>
+		<ukr>Зрілий щур</ukr>
 	</string>
 	<string id="cat_weak">
 		<text>Молодой кот-баюн</text>
@@ -623,12 +623,12 @@
 	<string id="cat_normal">
 		<text>Взрослый кот-баюн</text>
 		<eng>Взрослый кот-баюн</eng>
-		<ukr>Досвідчений кіт-баюн</ukr>
+		<ukr>Дорослий кіт-баюн</ukr>
 	</string>
 	<string id="cat_strong">
 		<text>Матёрый кот-баюн</text>
 		<eng>Матёрый кот-баюн</eng>
-		<ukr>Запеклий кіт-баюн</ukr>
+		<ukr>Зрілий кіт-баюн</ukr>
 	</string>
 	<string id="dog_weak">
 		<text>Тёмно-коричневая собака</text>
@@ -673,7 +673,7 @@
 	<string id="zombie_strong">
 		<text>Матёрый зомби</text>
 		<eng>Матёрый зомби</eng>
-		<ukr>Запеклий зомбі</ukr>
+		<ukr>Зрілий зомбі</ukr>
 	</string>
 	<string id="zombie_trup">
 		<text>Зомби-труп</text>
@@ -778,10 +778,10 @@
 	<string id="zombie_babka_strong">
 		<text>Матёрая зомби-бабка</text>
 		<eng>Матёрая зомби-бабка</eng>
-		<ukr>Запекла зомбі-бабка</ukr>
+		<ukr>Зріла зомбі-бабка</ukr>
 	</string>
 	<string id="zombie_immortal">
 		<text>Ведьма</text>
 		<eng>Ведьма</eng>
-		<ukr>Зомбі-відьма</ukr>
+		<ukr>Відьма</ukr>
 	</string>

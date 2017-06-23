@@ -38,22 +38,22 @@
 	<string id="pda_btn_accomplished">
 		<text>Завершено</text>
 		<eng>Завершено</eng>
-		<ukr>Виконані</ukr>
+		<ukr>Виконано</ukr>
 	</string>
 	<string id="pda_btn_accomplished_hint">
 		<text>Показать завершённые задания</text>
 		<eng>Показать завершённые задания</eng>
-		<ukr>Показати виконані завдання</ukr>
+		<ukr>Показати закінчені завдання</ukr>
 	</string>
 	<string id="pda_btn_active">
 		<text>Сюжет</text>
 		<eng>Сюжет</eng>
-		<ukr>Активні</ukr>
+		<ukr>Сюжет</ukr>
 	</string>
 	<string id="pda_btn_active_hint">
 		<text>Показать сюжетные задания</text>
 		<eng>Показать сюжетные задания</eng>
-		<ukr>Показати активні завдання</ukr>
+		<ukr>Показати сюжетні завдання</ukr>
 	</string>
 	<string id="pda_btn_contacts">
 		<text>Контакты</text>
@@ -88,7 +88,7 @@
 	<string id="pda_btn_failed">
 		<text>Провалено</text>
 		<eng>Провалено</eng>
-		<ukr>Провалені</ukr>
+		<ukr>Провалено</ukr>
 	</string>
 	<string id="pda_btn_failed_hint">
 		<text>Показать проваленные задания</text>
@@ -98,7 +98,7 @@
 	<string id="pda_btn_cycle_hint">
 		<text>Показать циклические задания</text>
 		<eng>Показать циклические задания</eng>
-		<ukr>Показать циклические задания</ukr>
+		<ukr>Показати циклічні завдання</ukr>
 	</string>
 	<string id="pda_btn_info">
 		<text>Информация</text>
@@ -148,7 +148,7 @@
 	<string id="pda_btn_cycle">
 		<text>Циклические</text>
 		<eng>Циклические</eng>
-		<ukr>Циклические</ukr>
+		<ukr>Циклічні</ukr>
 	</string>
 	<string id="pda_btn_own_hint">
 		<text>Показать свои отметки на карте</text>
@@ -238,22 +238,22 @@
 	<string id="st_detail_list_for_community_relations">
 		<text>Репутация у группировок</text>
 		<eng>Репутация у группировок</eng>
-		<ukr>Відносини з угрупованнями</ukr>
+		<ukr>Репутація у угруповань</ukr>
 	</string>
 	<string id="st_detail_list_for_monsterkills">
 		<text>Убийство мутантов</text>
 		<eng>Убийство мутантов</eng>
-		<ukr>Убивство мутантів</ukr>
+		<ukr>Вбивство мутантів</ukr>
 	</string>
 	<string id="st_detail_list_for_quests">
 		<text>Циклические задания</text>
 		<eng>Циклические задания</eng>
-		<ukr>Виконані завдання</ukr>
+		<ukr>Циклічні завдання</ukr>
 	</string>
 	<string id="st_detail_list_for_stalkerkills">
 		<text>Убийство сталкеров</text>
 		<eng>Убийство сталкеров</eng>
-		<ukr>Убивство сталкерів</ukr>
+		<ukr>Вбивство сталкерів</ukr>
 	</string>
 	<string id="st_detail_list_for_foo">
 		<text>Статистика</text>
@@ -283,7 +283,7 @@
 	<string id="st_pda_monster_kills">
 		<text>Убийство мутантов</text>
 		<eng>Убийство мутантов</eng>
-		<ukr>Убивство мутантів</ukr>
+		<ukr>Вбивство мутантів</ukr>
 	</string>
 	<string id="st_pda_player_statistic">
 		<text>Статистика игрока</text>
@@ -323,12 +323,12 @@
 	<string id="st_pda_stalker_kills">
 		<text>Убийство сталкеров</text>
 		<eng>Убийство сталкеров</eng>
-		<ukr>Убивство сталкерів</ukr>
+		<ukr>Вбивство сталкерів</ukr>
 	</string>
 	<string id="st_pda_statistic_reputation">
 		<text>Репутация</text>
 		<eng>Репутация</eng>
-		<ukr>Репутація:</ukr>
+		<ukr>Репутація</ukr>
 	</string>
 	<string id="st_pda_statistic_score">
 		<text>Статистика</text>
