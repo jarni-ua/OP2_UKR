@@ -1,40 +1,53 @@
-achievements.xml
-artefacts.xml
 amk.xml: informer_recipt1-sin
-arc_string_table.xml -> sak_strings.xml - Nooobka
+archievements.xml
+arhara.xml
 arsenal_mod.xml
-meceniy_st_dialogs.xml -> wawka.xml - Lord_MyDaK
-sak_strings.xml
-sak_trade.xml
-sak_treasure.xml
-questman.xml
+artefacts.xml
+collector.xml
+cycle_task.xml - in translation to ukrainian
+devices.xml
 dialog_manager.xml
 dialogs_amk.xml - in translation to ukrainian
 dialogs_arhara.xml
-stable_dialogs_buusty.xml -> dialogs_buusty.xml - arvalin
+dialogs_buusty.xml (stable_dialogs_buusty.xml) - arvalin
 dialogs_new.xml
 dialogs_oksana579.xml
 dialogs_snp.xml
-wawka.xml - han2981
+dialogs_treasure.xml
+docs_biznes_treasure.xml
+encyclopedia.xml
 generate_fnames.xml
 generate_snames.xml
-repair_dialogs.xml
-stable_safe.xml
+items.xml
+kontroller_diary.xml
+mapspots.xml
+oksana579.xml
+outfit.xml
+questman.xml
+sak_strings.xml (arc_string_table.xml) - Nooobka
+sak_trade.xml
+sak_treasure.xml
+sms_akill.xml
+sms_arhara_dialog.xml
+sms_buusty_dialog.xml
+sms_character_name.xml
+sms_dolg.xml
+sms_fly.xml
+sms_freedom.xml
+sms_kostya_dialog.xml
+sms_name.xml
+sms_oksana_spawn.xml
+sms_other.xml
+sms_pogon.xml
+sms_snp.xml
+sms_surname.xml
+sms_uniq.xml
+sms_uniq2.xml
 statistic.xml
 stories.xml
-cycle_task.xml - in translation to ukrainian
-string_table_general.xml 
-string_table_items.xml
-string_table_level_tips.xml
-string_table_mapspots_aes.xml
-string_table_mapspots_agroprom.xml
-string_table_mapspots_bar.xml
-string_table_mapspots_darkvalley.xml
-string_table_mapspots_escape.xml
-string_table_mapspots_garbage.xml
-string_table_mapspots_military.xml
-string_table_mapspots_pripyat.xml
-string_table_mapspots_radar.xml
+storyline.xml
+storyline_dialogs.xml
+storyline_tasks.xml
 string_table_ogg_flash_1.xml
 string_table_ogg_flash_10.xml
 string_table_ogg_flash_11.xml
@@ -51,42 +64,11 @@ string_table_ogg_flash_6.xml
 string_table_ogg_flash_7.xml
 string_table_ogg_flash_8.xml
 string_table_ogg_flash_9.xml
-string_table_ogg_player.xml
-string_table_oksana579.xml
-string_table_outfit.xml
-string_table_tasks_aes.xml
-string_table_tasks_agroprom.xml
-string_table_tasks_bar.xml
-string_table_tasks_darkvalley.xml
-string_table_tasks_escape.xml
-string_table_tasks_garbage.xml
-string_table_tasks_military.xml
-string_table_tasks_radar.xml
-string_table_tasks_sarcofag.xml
-string_table_tasks_yantar.xml
-string_table_timer.xml
-string_table_tips_agroprom.xml
-string_table_tips_bar-rostok.xml
-string_table_tips_darkvalley.xml
-string_table_tips_escape.xml
-string_table_tips_garbage.xml
-string_table_tips_military.xml
-string_table_tips_radar.xml
-string_table_tips_sarcofag.xml
-string_table_tips_yantar.xml
-string_table_tutorial.xml
-string_table_ui.xml
-table_dialogs_nano.xml
-table_other_nano.xml
-ui_st_inventory.xml
-ui_st_keybinding.xml
-ui_st_mapdesc.xml
-ui_st_mm.xml
-ui_st_other.xml
-ui_st_pda.xml
-sms_dolg.xml
-sms_freedom.xml
-sms_name.xml
-sms_surname.xml
-sms_uniq.xml
-string_table_tasks_akill.xml
+tasks_akill.xml
+tips.xml
+treasure.xml
+ui.xml
+upgrade.xml
+volazar.xml
+wawka.xml (stable_dialogs_wawka.xml, meceniy_st_dialogs.xml) - han2981, Lord_MyDaK
+weapons.xml
