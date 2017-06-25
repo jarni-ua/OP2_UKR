@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="task_saharov_pda_0">
+		<text>ПДА Призрака</text>
+		<eng>ПДА Призрака</eng>
+		<ukr>КПК Привида</ukr>
+	</string>
+	<string id="task_saharov_pda_1">
+		<text>Найти ПДА Призрака</text>
+		<eng>Найти ПДА Призрака</eng>
+		<ukr>Знайти КПК Привида</ukr>
+	</string>
+	<string id="task_saharov_pda_2">
+		<text>Принести ПДА Сахарову</text>
+		<eng>Принести ПДА Сахарову</eng>
+		<ukr>Принести КПК Привида Сахарову</ukr>
+	</string>
+	<string id="task_borov_11_0">
+		<text>Найти вещи с вертолёта</text>
+		<eng>Найти вещи с вертолёта</eng>
+		<ukr>Знайти речі с вертольота</ukr>
+	</string>
+	<string id="task_borov_11_1">
+		<text>Найти вещи с вертолёта</text>
+		<eng>Найти вещи с вертолёта</eng>
+		<ukr>Знайти речі з вертольота</ukr>
+	</string>
+	<string id="task_borov_11_2">
+		<text>Отнести найденное Борову</text>
+		<eng>Отнести найденное Борову</eng>
+		<ukr>Віднести знайдене Кабану</ukr>
+	</string>
+	<string id="task_bandit_krisyk_0">
+		<text>ПДА Крысюка</text>
+		<eng>ПДА Крысюка</eng>
+		<ukr>КПК Щуряка</ukr>
+	</string>
+	<string id="task_bandit_krisyk_1">
+		<text>Забрать ПДА с записями</text>
+		<eng>Забрать ПДА с записями</eng>
+		<ukr>Забрати КПК з записами</ukr>
+	</string>
+	<string id="task_bandit_krisyk_2">
+		<text>Отдать ПДА Борову</text>
+		<eng>Отдать ПДА Борову</eng>
+		<ukr>Віддати КПК Кабану</ukr>
+	</string>
+	<string id="task_about_life_heart_0">
+		<text>Рецепт "Живого сердца"</text>
+		<eng>Рецепт "Живого сердца"</eng>
+		<ukr>Рецепт "Живого серця"</ukr>
+	</string>
+	<string id="task_about_life_heart_1">
+		<text>Узнать компонент у Сахарова</text>
+		<eng>Узнать компонент у Сахарова</eng>
+		<ukr>Дізнатися компонент у Сахарова</ukr>
+	</string>
+	<string id="task_about_life_heart_2">
+		<text>Узнать компонент у Бармена</text>
+		<eng>Узнать компонент у Бармена</eng>
+		<ukr>Дізнатися компонент у Бармена</ukr>
+	</string>
+	<string id="task_about_life_heart_3">
+		<text>Узнать компонент у Сидоровича</text>
+		<eng>Узнать компонент у Сидоровича</eng>
+		<ukr>Дізнатися компонент у Сидоровича</ukr>
+	</string>
+	<string id="task_about_life_heart_4">
+		<text>Поговорить с Доктором</text>
+		<eng>Поговорить с Доктором</eng>
+		<ukr>Поговорити з Доктором</ukr>
+	</string>
+	<string id="task_life_heart_sahar_0">
+		<text>Установка прибора: ЧАЭС-1</text>
+		<eng>Установка прибора: ЧАЭС-1</eng>
+		<ukr>Установка приладу: ЧАЭС-1</ukr>
+	</string>
+	<string id="task_life_heart_sahar_1">
+		<text>Установить прибор на ЧАЭС-1</text>
+		<eng>Установить прибор на ЧАЭС-1</eng>
+		<ukr>Встановити прилад на ЧАЕС-1</ukr>
+	</string>
+	<string id="task_life_heart_sahar_2">
+		<text>Поговорить с Сахаровым</text>
+		<eng>Поговорить с Сахаровым</eng>
+		<ukr>Поговорити з Сахаровим</ukr>
+	</string>
+	<string id="task_life_heart_sidor_0">
+		<text>Контейнер с артефактом</text>
+		<eng>Контейнер с артефактом</eng>
+		<ukr>Контейнер з артефактом</ukr>
+	</string>
+	<string id="task_life_heart_sidor_1">
+		<text>Найти контейнер на Радаре</text>
+		<eng>Найти контейнер на Радаре</eng>
+		<ukr>Знайти контейнер на Радарі</ukr>
+	</string>
+	<string id="task_life_heart_sidor_2">
+		<text>Доставить контейнер Сидоровичу</text>
+		<eng>Доставить контейнер Сидоровичу</eng>
+		<ukr>Принести контейнер Сидоровичу</ukr>
+	</string>
+	<string id="task_life_heart_barman_0">
+		<text>Флешка учёного</text>
+		<eng>Флешка учёного</eng>
+		<ukr>Флешка вченого</ukr>
+	</string>
+	<string id="task_life_heart_barman_1">
+		<text>Найти учёного в Припяти</text>
+		<eng>Найти учёного в Припяти</eng>
+		<ukr>Знайти вченого у Прип'яті</ukr>
+	</string>
+	<string id="task_life_heart_barman_2">
+		<text>Доставить флешку Бармену</text>
+		<eng>Доставить флешку Бармену</eng>
+		<ukr>Принести флешку Бармену</ukr>
+	</string>
+	<string id="task_strelok_pda_0">
+		<text>ПДА Стрелка</text>
+		<eng>ПДА Стрелка</eng>
+		<ukr>КПК Cтрільця</ukr>
+	</string>
+	<string id="task_strelok_pda_1">
+		<text>Найти ПДА Стрелка в Саркофаге</text>
+		<eng>Найти ПДА Стрелка в Саркофаге</eng>
+		<ukr>Знайти КПК Cтрільця у Саркофагу</ukr>
+	</string>
+	<string id="task_strelok_pda_2">
+		<text>Поговорить с Доктором</text>
+		<eng>Поговорить с Доктором</eng>
+		<ukr>Поговорити з Доктором</ukr>
+	</string>
+	<string id="task_strelok_pda2_0">
+		<text>"Изумрудная медуза"</text>
+		<eng>"Изумрудная медуза"</eng>
+		<ukr>"Смарагдова медуза"</ukr>
+	</string>
+	<string id="task_strelok_pda2_1">
+		<text>Найти "Изумрудную медузу"</text>
+		<eng>Найти "Изумрудную медузу"</eng>
+		<ukr>Знайти "Смарагдову медузу"</ukr>
+	</string>
+	<string id="task_strelok_pda2_2">
+		<text>Отдать артефакт Доктору</text>
+		<eng>Отдать артефакт Доктору</eng>
+		<ukr>Віддати артефакт Доктору</ukr>
+	</string>
+	<string id="task_doctor_drug_0">
+		<text>"Дружок" Доктора</text>
+		<eng>"Дружок" Доктора</eng>
+		<ukr>"Дружок" Доктора</ukr>
+	</string>
+	<string id="task_doctor_drug_1">
+		<text>Поговорить с Максом Любером</text>
+		<eng>Поговорить с Максом Любером</eng>
+		<ukr>Поговорити з Максом Любером</ukr>
+	</string>
+	<string id="task_doctor_drug_2">
+		<text>Найти собаку Доктора</text>
+		<eng>Найти собаку Доктора</eng>
+		<ukr>Знайти собаку Доктора</ukr>
+	</string>
+	<string id="task_doctor_drug_3">
+		<text>Сообщить о "Дружке" Доктору</text>
+		<eng>Сообщить о "Дружке" Доктору</eng>
+		<ukr>Сповістити про "Дружка" Доктору</ukr>
+	</string>
+	<string id="task_yan_scientist_teleport_01_0">
+		<text>Установка прибора: Армейские Склады</text>
+		<eng>Установка прибора: Армейские Склады</eng>
+		<ukr>Установка приладу: Армійські Склади</ukr>
+	</string>
+	<string id="task_yan_scientist_teleport_01_1">
+		<text>Установить прибор на Армейских Складах</text>
+		<eng>Установить прибор на Армейских Складах</eng>
+		<ukr>Встановити прилад на Армійських Складах</ukr>
+	</string>
+	<string id="task_yan_scientist_teleport_02_0">
+		<text>Установка прибора: Кордон</text>
+		<eng>Установка прибора: Кордон</eng>
+		<ukr>Установка приладу: Кордон</ukr>
+	</string>
+	<string id="task_yan_scientist_teleport_02_1">
+		<text>Установить прибор на Кордоне</text>
+		<eng>Установить прибор на Кордоне</eng>
+		<ukr>Встановити прилад на Кордоні</ukr>
+	</string>
+	<string id="task_yan_scientist_teleport_03_0">
+		<text>Установка прибора: Центральная Припять</text>
+		<eng>Установка прибора: Центральная Припять</eng>
+		<ukr>Установка приладу: Центральна Прип'ять</ukr>
+	</string>
+	<string id="task_yan_scientist_teleport_03_1">
+		<text>Установить прибор в Центральной Припяти</text>
+		<eng>Установить прибор в Центральной Припяти</eng>
+		<ukr>Встановити прилад у Центральній Прип'яті</ukr>
+	</string>
+	<string id="task_mil_trader_teleport_07_0">
+		<text>Магическое число</text>
+		<eng>Магическое число</eng>
+		<ukr>Магічне число</ukr>
+	</string>
+	<string id="task_mil_trader_teleport_07_1">
+		<text>Собрать семь когтей химеры</text>
+		<eng>Собрать семь когтей химеры</eng>
+		<ukr>Зібрати сім кігтів химери</ukr>
+	</string>
+	<string id="task_mil_trader_teleport_07_2">
+		<text>Принести когти Скряге</text>
+		<eng>Принести когти Скряге</eng>
+		<ukr>Принести кігті Скнарі</ukr>
+	</string>
+	<string id="task_mil_max_teleport_08_0">
+		<text>Подшивка "Плейбоя"</text>
+		<eng>Подшивка "Плейбоя"</eng>
+		<ukr>Підшивка "Плейбоя"</ukr>
+	</string>
+	<string id="task_mil_max_teleport_08_1">
+		<text>Взять у Круглова журналы</text>
+		<eng>Взять у Круглова журналы</eng>
+		<ukr>Взяти у Круглова журнали</ukr>
+	</string>
+	<string id="task_mil_max_teleport_08_2">
+		<text>Принести журналы Максу</text>
+		<eng>Принести журналы Максу</eng>
+		<ukr>Принести журнали Максу</ukr>
+	</string>
+	<string id="task_mil_cook_teleport_09_0">
+		<text>Закуска из тушканов</text>
+		<eng>Закуска из тушканов</eng>
+		<ukr>Закуска з тушканів</ukr>
+	</string>
+	<string id="task_mil_cook_teleport_09_1">
+		<text>Собрать 10 голов тушканов</text>
+		<eng>Собрать 10 голов тушканов</eng>
+		<ukr>Зібрати 10 голів тушканів</ukr>
+	</string>
+	<string id="task_mil_cook_teleport_09_2">
+		<text>Принести головы и водку Повару</text>
+		<eng>Принести головы и водку Повару</eng>
+		<ukr>Принести голови і горілку Кухарю</ukr>
+	</string>
+	<string id="task_fanat_teleport_04_0">
+		<text>Сейсмокарты Складов</text>
+		<eng>Сейсмокарты Складов</eng>
+		<ukr>Сейсмокарти Складів</ukr>
+	</string>
+	<string id="task_fanat_teleport_04_1">
+		<text>Найти ноутбук в Х-18</text>
+		<eng>Найти ноутбук в Х-18</eng>
+		<ukr>Знайти ноутбук у Х-18</ukr>
+	</string>
+	<string id="task_fanat_teleport_04_2">
+		<text>Принести ноутбук Фанату</text>
+		<eng>Принести ноутбук Фанату</eng>
+		<ukr>Принести ноутбук Фанату</ukr>
+	</string>
+	<string id="task_fanat_teleport_05_0">
+		<text>Сейсмокарты Янтаря</text>
+		<eng>Сейсмокарты Янтаря</eng>
+		<ukr>Сейсмокарти Янтаря</ukr>
+	</string>
+	<string id="task_fanat_teleport_05_1">
+		<text>Найти дипломат в Х-16</text>
+		<eng>Найти дипломат в Х-16</eng>
+		<ukr>Знайти дипломат у Х-16</ukr>
+	</string>
+	<string id="task_fanat_teleport_05_2">
+		<text>Принести дипломат Фанату</text>
+		<eng>Принести дипломат Фанату</eng>
+		<ukr>Принести дипломат Фанату</ukr>
+	</string>
+	<string id="task_fanat_teleport_06_0">
+		<text>Сейсмокарты Припяти</text>
+		<eng>Сейсмокарты Припяти</eng>
+		<ukr>Сейсмокарти Прип'яті</ukr>
+	</string>
+	<string id="task_fanat_teleport_06_1">
+		<text>Найти компьютер в Центральной Припяти</text>
+		<eng>Найти компьютер в Центральной Припяти</eng>
+		<ukr>Знайти комп'ютер у Центральній Прип'яті</ukr>
+	</string>
+	<string id="task_fanat_teleport_06_2">
+		<text>Принести компьютер Фанату</text>
+		<eng>Принести компьютер Фанату</eng>
+		<ukr>Принести комп'ютер Фанату</ukr>
+	</string>
+	<string id="task_doktor_teleport_10_0">
+		<text>"Рубиновая пружина"</text>
+		<eng>"Рубиновая пружина"</eng>
+		<ukr>"Рубінова пружина"</ukr>
+	</string>
+	<string id="task_doktor_teleport_10_1">
+		<text>Поговорить с Сяком</text>
+		<eng>Поговорить с Сяком</eng>
+		<ukr>Поговорити з Сяком</ukr>
+	</string>
+	<string id="task_doktor_teleport_10_2">
+		<text>Принести "Рубиновую пружину" Доктору</text>
+		<eng>Принести "Рубиновую пружину" Доктору</eng>
+		<ukr>Принести "Рубінову Пружину" Доктору</ukr>
+	</string>
+	<string id="task_doktor_teleport_11_0">
+		<text>"Рубиновая батарейка"</text>
+		<eng>"Рубиновая батарейка"</eng>
+		<ukr>"Рубінова батарейка"</ukr>
+	</string>
+	<string id="task_doktor_teleport_11_1">
+		<text>Найти "Рубиновую батарейку"</text>
+		<eng>Найти "Рубиновую батарейку"</eng>
+		<ukr>Знайти "Рубінову батарейку"</ukr>
+	</string>
+	<string id="task_doktor_teleport_11_2">
+		<text>Принести артефакт Доктору</text>
+		<eng>Принести артефакт Доктору</eng>
+		<ukr>Принести артефакт Доктору</ukr>
+	</string>
+	<string id="task_doktor_teleport_12_0">
+		<text>"Рубиновая плёнка"</text>
+		<eng>"Рубиновая плёнка"</eng>
+		<ukr>"Рубінова плівка"</ukr>
+	</string>
+	<string id="task_doktor_teleport_12_1">
+		<text>Найти "Рубиновую плёнку"</text>
+		<eng>Найти "Рубиновую плёнку"</eng>
+		<ukr>Знайти "Рубінову плівку"</ukr>
+	</string>
+	<string id="task_doktor_teleport_12_2">
+		<text>Принести артефакт Доктору</text>
+		<eng>Принести артефакт Доктору</eng>
+		<ukr>Принести артефакт Доктору</ukr>
+	</string>
+	<string id="task_esc_provodnik_groza_0">
+		<text>Оружие для Проводника</text>
+		<eng>Оружие для Проводника</eng>
+		<ukr>Зброя для Провідника</ukr>
+	</string>
+	<string id="task_esc_provodnik_groza_1">
+		<text>Найти АС «Вал» и фосфорные палки</text>
+		<eng>Найти АС «Вал» и фосфорные палки</eng>
+		<ukr>Знайти АС «Вал» і фосфорні палиці</ukr>
+	</string>
+	<string id="task_esc_provodnik_groza_2">
+		<text>Принести автомат Проводнику</text>
+		<eng>Принести автомат Проводнику</eng>
+		<ukr>Принести автомат Провіднику</ukr>
+	</string>
+	<string id="task_escape_lager_volk_document_0">
+		<text>Потерянный документ</text>
+		<eng>Потерянный документ</eng>
+		<ukr>Втрачений документ</ukr>
+	</string>
+	<string id="task_escape_lager_volk_document_1">
+		<text>Найти документ в тоннеле</text>
+		<eng>Найти документ в тоннеле</eng>
+		<ukr>Знайти документ у тонелі</ukr>
+	</string>
+	<string id="task_escape_lager_volk_document_2">
+		<text>Принести документ Волку</text>
+		<eng>Принести документ Волку</eng>
+		<ukr>Принести документ Вовку</ukr>
+	</string>
+	<string id="task_mil_volk_resiver_0">
+		<text>Радиостанция</text>
+		<eng>Радиостанция</eng>
+		<ukr>Радіостанція</ukr>
+	</string>
+	<string id="task_mil_volk_resiver_1">
+		<text>Найти Толика</text>
+		<eng>Найти Толика</eng>
+		<ukr>Знайти Толіка</ukr>
+	</string>
+	<string id="task_mil_volk_resiver_2">
+		<text>Найти радиостанцию</text>
+		<eng>Найти радиостанцию</eng>
+		<ukr>Знайти радіостанцію</ukr>
+	</string>
+	<string id="task_mil_volk_resiver_3">
+		<text>Принести радиостанцию Волку</text>
+		<eng>Принести радиостанцию Волку</eng>
+		<ukr>Принести радіостанцію Вовку</ukr>
+	</string>
+	<string id="task_esc_tolik_five_teil_0">
+		<text>Просьба Толика</text>
+		<eng>Просьба Толика</eng>
+		<ukr>Прохання Толіка</ukr>
+	</string>
+	<string id="task_esc_tolik_five_teil_1">
+		<text>Собрать пять собачьих хвостов</text>
+		<eng>Собрать пять собачьих хвостов</eng>
+		<ukr>Зібрати п'ять собачих хвостів</ukr>
+	</string>
+	<string id="task_esc_tolik_five_teil_2">
+		<text>Принести хвосты Толику</text>
+		<eng>Принести хвосты Толику</eng>
+		<ukr>Принести хвости Толіку</ukr>
+	</string>
+	<string id="task_esc_petruha_toz_0">
+		<text>ТОЗ для Петрухи</text>
+		<eng>ТОЗ для Петрухи</eng>
+		<ukr>ТОЗ для Петрухи</ukr>
+	</string>
+	<string id="task_esc_petruha_toz_1">
+		<text>Найти ружьё ТОЗ</text>
+		<eng>Найти ружьё ТОЗ</eng>
+		<ukr>Знайти рушницю ТОЗ</ukr>
+	</string>
+	<string id="task_esc_petruha_toz_2">
+		<text>Принести ТОЗ Петрухе</text>
+		<eng>Принести ТОЗ Петрухе</eng>
+		<ukr>Принести ТОЗ Петрусі</ukr>
+	</string>
+	<string id="task_esc_shustryi_medusa_0">
+		<text>Поручение Шустрого</text>
+		<eng>Поручение Шустрого</eng>
+		<ukr>Доручення Спритного</ukr>
+	</string>
+	<string id="task_esc_shustryi_medusa_1">
+		<text>Найти артефакт "Медуза"</text>
+		<eng>Найти артефакт "Медуза"</eng>
+		<ukr>Знайти артефакт "Медуза"</ukr>
+	</string>
+	<string id="task_esc_shustryi_medusa_2">
+		<text>Принести артефакт Шустрому</text>
+		<eng>Принести артефакт Шустрому</eng>
+		<ukr>Принести артефакт Спритному</ukr>
+	</string>
+	<string id="task_esc_bridge_vodka_0">
+		<text>Подарок на юбилей</text>
+		<eng>Подарок на юбилей</eng>
+		<ukr>Подарунок на ювілей</ukr>
+	</string>
+	<string id="task_esc_bridge_vodka_1">
+		<text>Собрать 10 бутылок водки</text>
+		<eng>Собрать 10 бутылок водки</eng>
+		<ukr>Зібрати 10 пляшок горілки</ukr>
+	</string>
+	<string id="task_esc_bridge_vodka_2">
+		<text>Принести водку Кузнецову</text>
+		<eng>Принести водку Кузнецову</eng>
+		<ukr>Принести горілку Кузнєцову</ukr>
+	</string>
+	<string id="task_esc_fox_medkit_0">
+		<text>Аптечки для Лиса</text>
+		<eng>Аптечки для Лиса</eng>
+		<ukr>Аптечки для Лиса</ukr>
+	</string>
+	<string id="task_esc_fox_medkit_1">
+		<text>Собрать 10 аптечек</text>
+		<eng>Собрать 10 аптечек</eng>
+		<ukr>Зібрати 10 аптечок</ukr>
+	</string>
+	<string id="task_esc_fox_medkit_2">
+		<text>Принести аптечки Лису</text>
+		<eng>Принести аптечки Лису</eng>
+		<ukr>Принести аптечки Лису</ukr>
+	</string>
+	<string id="task_gar_dram_novice_mp5_m1_0">
+		<text>Пистолет-пулемёт для Юрика</text>
+		<eng>Пистолет-пулемёт для Юрика</eng>
+		<ukr>Пістолет-кулемет для Юрика</ukr>
+	</string>
+	<string id="task_gar_dram_novice_mp5_m1_1">
+		<text>Найти модифицированный МП-5</text>
+		<eng>Найти модифицированный МП-5</eng>
+		<ukr>Знайти модифікований МП-5</ukr>
+	</string>
+	<string id="task_gar_dram_novice_mp5_m1_2">
+		<text>Принести ПП МП-5 Юрику</text>
+		<eng>Принести ПП МП-5 Юрику</eng>
+		<ukr>Принести ПК МП-5 Юрику</ukr>
+	</string>
+	<string id="task_gar_dram_novice_burer_hand_0">
+		<text>Просьба Юрика</text>
+		<eng>Просьба Юрика</eng>
+		<ukr>Прохання Юрика</ukr>
+	</string>
+	<string id="task_gar_dram_novice_burer_hand_1">
+		<text>Найти руку бюрера</text>
+		<eng>Найти руку бюрера</eng>
+		<ukr>Знайти руку бюрера</ukr>
+	</string>
+	<string id="task_gar_dram_novice_burer_hand_2">
+		<text>Принести руку бюрера Юрику</text>
+		<eng>Принести руку бюрера Юрику</eng>
+		<ukr>Принести руку бюрера Юрику</ukr>
+	</string>
+	<string id="task_gar_hellcar_outfit_0">
+		<text>Бронежилет для Беса</text>
+		<eng>Бронежилет для Беса</eng>
+		<ukr>Бронежилет для Біса</ukr>
+	</string>
+	<string id="task_gar_hellcar_outfit_1">
+		<text>Найти бронежилет</text>
+		<eng>Найти бронежилет</eng>
+		<ukr>Знайти бронежилет</ukr>
+	</string>
+	<string id="task_gar_hellcar_outfit_2">
+		<text>Принести бронежилет Бесу</text>
+		<eng>Принести бронежилет Бесу</eng>
+		<ukr>Принести бронежилет Бісу</ukr>
+	</string>
+	<string id="task_gar_dolg_flesh_eye_0">
+		<text>Глаза для Прапора</text>
+		<eng>Глаза для Прапора</eng>
+		<ukr>Очі для Прапора</ukr>
+	</string>
+	<string id="task_gar_dolg_flesh_eye_1">
+		<text>Добыть четыре глаза плоти</text>
+		<eng>Добыть четыре глаза плоти</eng>
+		<ukr>Здобути чотири ока плоті</ukr>
+	</string>
+	<string id="task_gar_dolg_flesh_eye_2">
+		<text>Принести глаза Прапору</text>
+		<eng>Принести глаза Прапору</eng>
+		<ukr>Принести очі Прапору</ukr>
+	</string>
+	<string id="task_gar_dolg_krovosos_jaw_0">
+		<text>Щупальца для Прапора</text>
+		<eng>Щупальца для Прапора</eng>
+		<ukr>Щупальця для Прапора</ukr>
+	</string>
+	<string id="task_gar_dolg_krovosos_jaw_1">
+		<text>Добыть щупальца кровососа</text>
+		<eng>Добыть щупальца кровососа</eng>
+		<ukr>Здобути щупальця кровососа</ukr>
+	</string>
+	<string id="task_gar_dolg_krovosos_jaw_2">
+		<text>Принести щупальца Прапору</text>
+		<eng>Принести щупальца Прапору</eng>
+		<ukr>Принести щупальця Прапору</ukr>
+	</string>
+	<string id="task_gar_dolg_psevdodog_tail_0">
+		<text>Хвосты для Прапора</text>
+		<eng>Хвосты для Прапора</eng>
+		<ukr>Хвости для Прапора</ukr>
+	</string>
+	<string id="task_gar_dolg_psevdodog_tail_1">
+		<text>Добыть пять хвостов псевдопса</text>
+		<eng>Добыть пять хвостов псевдопса</eng>
+		<ukr>Здобути п'ять хвостів псевдопса</ukr>
+	</string>
+	<string id="task_gar_dolg_psevdodog_tail_2">
+		<text>Принести хвосты Прапору</text>
+		<eng>Принести хвосты Прапору</eng>
+		<ukr>Принести хвости Прапору</ukr>
+	</string>
+	<string id="task_bar_dolg_base_guard_art_0">
+		<text>Необычный артефакт</text>
+		<eng>Необычный артефакт</eng>
+		<ukr>Незвичайний артефакт</ukr>
+	</string>
+	<string id="task_bar_dolg_base_guard_art_1">
+		<text>Найти необычный артефакт</text>
+		<eng>Найти необычный артефакт</eng>
+		<ukr>Знайти незвичайний артефакт</ukr>
+	</string>
+	<string id="task_bar_dolg_base_guard_art_2">
+		<text>Принести артефакт Пличко</text>
+		<eng>Принести артефакт Пличко</eng>
+		<ukr>Принести артефакт Пличко</ukr>
+	</string>
+	<string id="task_agr_krot_PDA_0">
+		<text>ПДА Крота</text>
+		<eng>ПДА Крота</eng>
+		<ukr>КПК Крота</ukr>
+	</string>
+	<string id="task_agr_krot_PDA_1">
+		<text>Найти потерянный ПДА</text>
+		<eng>Найти потерянный ПДА</eng>
+		<ukr>Знайти КПК</ukr>
+	</string>
+	<string id="task_agr_krot_PDA_2">
+		<text>Принести ПДА Кроту</text>
+		<eng>Принести ПДА Кроту</eng>
+		<ukr>Принести КПК Кроту</ukr>
+	</string>
+	<string id="task_mil_Svoboda_trader_outfit_0">
+		<text>Уникальные костюмы</text>
+		<eng>Уникальные костюмы</eng>
+		<ukr>Унікальні костюми</ukr>
+	</string>
+	<string id="task_mil_Svoboda_trader_outfit_1">
+		<text>Добыть костюмы на Кордоне</text>
+		<eng>Добыть костюмы на Кордоне</eng>
+		<ukr>Знайти костюми на Кордоні</ukr>
+	</string>
+	<string id="task_mil_Svoboda_trader_outfit_2">
+		<text>Принести костюмы Скряге</text>
+		<eng>Принести костюмы Скряге</eng>
+		<ukr>Принести костюми Скнарі</ukr>
+	</string>
+	<string id="task_mil_Svoboda_trader_ammo_0">
+		<text>Поиск данных</text>
+		<eng>Поиск данных</eng>
+		<ukr>Пошук даних</ukr>
+	</string>
+	<string id="task_mil_Svoboda_trader_ammo_1">
+		<text>Найти карту памяти для ПДА</text>
+		<eng>Найти карту памяти для ПДА</eng>
+		<ukr>Знайти карту пам'яті для КПК</ukr>
+	</string>
+	<string id="task_mil_Svoboda_trader_ammo_2">
+		<text>Передать карту памяти Скряге</text>
+		<eng>Передать карту памяти Скряге</eng>
+		<ukr>Передати карту пам'яті Скнарі</ukr>
+	</string>
+	<string id="task_mil_Svoboda_trader_plan_0">
+		<text>Мешок плана</text>
+		<eng>Мешок плана</eng>
+		<ukr>Мішок "плану"</ukr>
+	</string>
+	<string id="task_mil_Svoboda_trader_plan_1">
+		<text>Собрать еду для Дезертира</text>
+		<eng>Собрать еду для Дезертира</eng>
+		<ukr>Зібрати їжу для Дезертира</ukr>
+	</string>
+	<string id="task_mil_Svoboda_trader_plan_2">
+		<text>Поговорить с Дезертиром</text>
+		<eng>Поговорить с Дезертиром</eng>
+		<ukr>Поговорити з Дезертиром</ukr>
+	</string>
+	<string id="task_mil_Svoboda_trader_plan_3">
+		<text>Взять мешок "плана"</text>
+		<eng>Взять мешок "плана"</eng>
+		<ukr>Взяти мішок "плана"</ukr>
+	</string>
+	<string id="task_mil_Svoboda_trader_plan_4">
+		<text>Принести мешок Скряге</text>
+		<eng>Принести мешок Скряге</eng>
+		<ukr>Принести мішок Скнарі</ukr>
+	</string>
+	<string id="task_val_pula_ammo_0">
+		<text>Доставка боеприпасов</text>
+		<eng>Доставка боеприпасов</eng>
+		<ukr>Доставка боєприпасів</ukr>
+	</string>
+	<string id="task_val_pula_ammo_1">
+		<text>Доставить патроны Бесу</text>
+		<eng>Доставить патроны Бесу</eng>
+		<ukr>Принести патрони Бісу</ukr>
+	</string>
+	<string id="task_val_pula_boar_leg_0">
+		<text>Просьба Любера</text>
+		<eng>Просьба Любера</eng>
+		<ukr>Прохання Любера</ukr>
+	</string>
+	<string id="task_val_pula_boar_leg_1">
+		<text>Собрать копыта кабанов</text>
+		<eng>Собрать копыта кабанов</eng>
+		<ukr>Зібрати копита кабанів</ukr>
+	</string>
+	<string id="task_val_pula_boar_leg_2">
+		<text>Отдать копыта и водку</text>
+		<eng>Отдать копыта и водку</eng>
+		<ukr>Передати копита і горілку</ukr>
+	</string>
+	<string id="task_ratcatcher_order_0">
+		<text>Незаконный приказ</text>
+		<eng>Незаконный приказ</eng>
+		<ukr>Незаконний наказ</ukr>
+	</string>
+	<string id="task_ratcatcher_order_1">
+		<text>Найти незаконный приказ</text>
+		<eng>Найти незаконный приказ</eng>
+		<ukr>Знайти незаконний наказ</ukr>
+	</string>
+	<string id="task_ratcatcher_order_2">
+		<text>Отдать приказ Дезертиру</text>
+		<eng>Отдать приказ Дезертиру</eng>
+		<ukr>Віддати наказ Дезертиру</ukr>
+	</string>
+	<string id="task_val_escort_PDA_0">
+		<text>ПДА Макса Любера</text>
+		<eng>ПДА Макса Любера</eng>
+		<ukr>КПК Макса Любера</ukr>
+	</string>
+	<string id="task_val_escort_PDA_1">
+		<text>Найти ПДА у одного из бандитов</text>
+		<eng>Найти ПДА у одного из бандитов</eng>
+		<ukr>Знайти КПК у одного з бандитів</ukr>
+	</string>
+	<string id="task_val_escort_PDA_2">
+		<text>Вернуть ПДА Максу Люберу</text>
+		<eng>Вернуть ПДА Максу Люберу</eng>
+		<ukr>Повернути КПК Максу Люберу</ukr>
+	</string>
+	<string id="task_bar_dolg_petrenko_gaussgan_0">
+		<text>Прототип Гаусс-пистолета</text>
+		<eng>Прототип Гаусс-пистолета</eng>
+		<ukr>Прототип Гаусс-пістолета</ukr>
+	</string>
+	<string id="task_bar_dolg_petrenko_gaussgan_1">
+		<text>Найти Гаусс-пистолет на свиноферме</text>
+		<eng>Найти Гаусс-пистолет на свиноферме</eng>
+		<ukr>Знайти Гаусс-пістолет на свинофермі</ukr>
+	</string>
+	<string id="task_bar_dolg_petrenko_gaussgan_2">
+		<text>Вернуть Гаусс-пистолет Петренко</text>
+		<eng>Вернуть Гаусс-пистолет Петренко</eng>
+		<ukr>Повернути Гаусс-пістолет Петренко</ukr>
+	</string>
+	<string id="task_bar_dolg_petrenko_electra_flash_0">
+		<text>Фото эмбриона</text>
+		<eng>Фото эмбриона</eng>
+		<ukr>Фото ембріона</ukr>
+	</string>
+	<string id="task_bar_dolg_petrenko_electra_flash_1">
+		<text>Сделать снимки эмбриона в Х-18</text>
+		<eng>Сделать снимки эмбриона в Х-18</eng>
+		<ukr>Зробити знімки ембріона у Х-18</ukr>
+	</string>
+	<string id="task_bar_dolg_petrenko_electra_flash_2">
+		<text>Отдать снимки Петренко</text>
+		<eng>Отдать снимки Петренко</eng>
+		<ukr>Віддати знімки Петренко</ukr>
+	</string>
+	<string id="task_bar_dolg_petrenko_exo_0">
+		<text>Выгодный обмен</text>
+		<eng>Выгодный обмен</eng>
+		<ukr>Вигідний обмін</ukr>
+	</string>
+	<string id="task_bar_dolg_petrenko_exo_1">
+		<text>Доставить артефакт Сахарову</text>
+		<eng>Доставить артефакт Сахарову</eng>
+		<ukr>Принести артефакт Сахарову</ukr>
+	</string>
+	<string id="task_bar_dolg_petrenko_exo_2">
+		<text>Принести две экзы Петренко</text>
+		<eng>Принести две экзы Петренко</eng>
+		<ukr>Принести дві екзи Петренко</ukr>
+	</string>
+	<string id="task_sak_repair_box_0">
+		<text>Ящик с инструментом</text>
+		<eng>Ящик с инструментом</eng>
+		<ukr>Ящик з інструментами</ukr>
+	</string>
+	<string id="task_sak_repair_box_1">
+		<text>Передать контейнер Сидоровичу</text>
+		<eng>Передать контейнер Сидоровичу</eng>
+		<ukr>Передати контейнер Сидоровичу</ukr>
+	</string>
+	<string id="task_sak_repair_box_2">
+		<text>Принести Сяку ящик с инструментом</text>
+		<eng>Принести Сяку ящик с инструментом</eng>
+		<ukr>Принести Сяку ящик з інструментами</ukr>
+	</string>
+	<string id="task_sak_gold_fish_0">
+		<text>Между молотом и наковальней</text>
+		<eng>Между молотом и наковальней</eng>
+		<ukr>Між молотом і наковальньою</ukr>
+	</string>
+	<string id="task_sak_gold_fish_1">
+		<text>Вышибить мозги монолитовцу с помощью кувалды</text>
+		<eng>Вышибить мозги монолитовцу с помощью кувалды</eng>
+		<ukr>Винести мізки монолітівцю за допомогою кувалди</ukr>
+	</string>
+	<string id="task_sak_gold_fish_2">
+		<text>Вернуться к Сяку</text>
+		<eng>Вернуться к Сяку</eng>
+		<ukr>Повернутися до Сяка</ukr>
+	</string>
+	<string id="task_sak_find_seif_0">
+		<text>Сейф</text>
+		<eng>Сейф</eng>
+		<ukr>Сейф</ukr>
+	</string>
+	<string id="task_sak_find_seif_1">
+		<text>Найти сейф в Х-18</text>
+		<eng>Найти сейф в Х-18</eng>
+		<ukr>Знайти сейф в Х-18</ukr>
+	</string>
+	<string id="task_sak_find_seif_2">
+		<text>Принести Сяку сейф</text>
+		<eng>Принести Сяку сейф</eng>
+		<ukr>Принести Сяку сейф</ukr>
+	</string>
+	<string id="task_sak_reward_outfit_0">
+		<text>Поиск данных: рецепты</text>
+		<eng>Поиск данных: рецепты</eng>
+		<ukr>Пошук даних: рецепти</ukr>
+	</string>
+	<string id="task_sak_reward_outfit_1">
+		<text>Найти в Баре диск с данными</text>
+		<eng>Найти в Баре диск с данными</eng>
+		<ukr>Знайти у Барі диск з даними</ukr>
+	</string>
+	<string id="task_sak_reward_outfit_2">
+		<text>Принести диск Сяку</text>
+		<eng>Принести диск Сяку</eng>
+		<ukr>Принести диск Сяку</ukr>
+	</string>
+	<string id="task_yan_kruglov_decoder_0">
+		<text>Падшие</text>
+		<eng>Падшие</eng>
+		<ukr>Упавші</ukr>
+	</string>
+	<string id="task_yan_kruglov_decoder_1">
+		<text>Отыскать на Болотах наёмников с декодером</text>
+		<eng>Отыскать на Болотах наёмников с декодером</eng>
+		<ukr>Відшукати на Болотах найманців з декодером</ukr>
+	</string>
+	<string id="task_yan_kruglov_decoder_2">
+		<text>Взорвать вертолёт наёмников</text>
+		<eng>Взорвать вертолёт наёмников</eng>
+		<ukr>Взірвати вертоліт найманців</ukr>
+	</string>
+	<string id="task_yan_kruglov_decoder_3">
+		<text>Принести декодер Круглову</text>
+		<eng>Принести декодер Круглову</eng>
+		<ukr>Принести декодер Круглову</ukr>
+	</string>
+	<string id="task_yan_kruglov_art_0">
+		<text>Поиск данных: "Гидра"</text>
+		<eng>Поиск данных: "Гидра"</eng>
+		<ukr>Пошук даних: "Гідра"</ukr>
+	</string>
+	<string id="task_yan_kruglov_art_1">
+		<text>Найти данные об инъекторе "Гидра"</text>
+		<eng>Найти данные об инъекторе "Гидра"</eng>
+		<ukr>Знайти дані про ін'єктор "Гідра"</ukr>
+	</string>
+	<string id="task_yan_kruglov_art_2">
+		<text>Передать данные Круглову</text>
+		<eng>Передать данные Круглову</eng>
+		<ukr>Передати дані Круглову</ukr>
+	</string>
+	<string id="task_yan_kruglov_green_art_0">
+		<text>Уникальный артефакт</text>
+		<eng>Уникальный артефакт</eng>
+		<ukr>Унікальний артефакт</ukr>
+	</string>
+	<string id="task_yan_kruglov_green_art_1">
+		<text>Найти артефакт на фабрике</text>
+		<eng>Найти артефакт на фабрике</eng>
+		<ukr>Знайти артефакт на фабриці</ukr>
+	</string>
+	<string id="task_yan_kruglov_green_art_2">
+		<text>Принести артефакт Круглову</text>
+		<eng>Принести артефакт Круглову</eng>
+		<ukr>Принести артефакт Круглову</ukr>
+	</string>
+	<string id="task_yan_scientist_books_0">
+		<text>Научные трактаты</text>
+		<eng>Научные трактаты</eng>
+		<ukr>Наукові трактати</ukr>
+	</string>
+	<string id="task_yan_scientist_books_1">
+		<text>Найти четыре трактата</text>
+		<eng>Найти четыре трактата</eng>
+		<ukr>Знайти чотири трактати</ukr>
+	</string>
+	<string id="task_yan_scientist_books_2">
+		<text>Принести книги Сахарову</text>
+		<eng>Принести книги Сахарову</eng>
+		<ukr>Принести книги Сахарову</ukr>
+	</string>
+	<string id="task_bar_ivancov_rg6_0">
+		<text>Поиск данных: "Скиф"</text>
+		<eng>Поиск данных: "Скиф"</eng>
+		<ukr>Пошук даних: "Скіф"</ukr>
+	</string>
+	<string id="task_bar_ivancov_rg6_1">
+		<text>Найти данные о системе "Скиф"</text>
+		<eng>Найти данные о системе "Скиф"</eng>
+		<ukr>Знайти дані про систему "Скіф"</ukr>
+	</string>
+	<string id="task_bar_ivancov_rg6_2">
+		<text>Передать данные Иванцову</text>
+		<eng>Передать данные Иванцову</eng>
+		<ukr>Передати дані Іванцову</ukr>
+	</string>
+	<string id="task_bar_ivancov_playboy_0">
+		<text>Особый журнал</text>
+		<eng>Особый журнал</eng>
+		<ukr>Особливий журнал</ukr>
+	</string>
+	<string id="task_bar_ivancov_playboy_1">
+		<text>Найти журнал "Плейбой"</text>
+		<eng>Найти журнал "Плейбой"</eng>
+		<ukr>Знайти журнал "Плейбой"</ukr>
+	</string>
+	<string id="task_bar_ivancov_playboy_2">
+		<text>Принести "Плейбой" Иванцову</text>
+		<eng>Принести "Плейбой" Иванцову</eng>
+		<ukr>Принести "Плейбой" Іванцову</ukr>
+	</string>
+	<string id="task_yan_scientist_find_af_dummy_glassbeads_0">
+		<text>Скверное происшествие</text>
+		<eng>Скверное происшествие</eng>
+		<ukr>Погана подія</ukr>
+	</string>
+	<string id="task_yan_scientist_find_af_dummy_glassbeads_1">
+		<text>Отбить атаку зомбированных и собрать оружейные чоки</text>
+		<eng>Отбить атаку зомбированных и собрать оружейные чоки</eng>
+		<ukr>Відбити атаку зомбованих і зібрати збройні чоки</ukr>
+	</string>
+	<string id="task_yan_scientist_find_af_dummy_glassbeads_2">
+		<text>Отнести насадки Сахарову</text>
+		<eng>Отнести насадки Сахарову</eng>
+		<ukr>Віднести насадки Сахарову</ukr>
+	</string>
+	<string id="task_yan_scientist_find_case_0">
+		<text>Документы для Сахарова</text>
+		<eng>Документы для Сахарова</eng>
+		<ukr>Документи для Сахарова</ukr>
+	</string>
+	<string id="task_yan_scientist_find_case_1">
+		<text>Найти кейс с документами</text>
+		<eng>Найти кейс с документами</eng>
+		<ukr>Знайти кейс з документами</ukr>
+	</string>
+	<string id="task_yan_scientist_find_case_2">
+		<text>Принести кейс Сахарову</text>
+		<eng>Принести кейс Сахарову</eng>
+		<ukr>Принести кейс Сахарову</ukr>
+	</string>
+	<string id="task_bar_dolg_leader_find_case_0">
+		<text>Секретные материалы</text>
+		<eng>Секретные материалы</eng>
+		<ukr>Секретні матеріали</ukr>
+	</string>
+	<string id="task_bar_dolg_leader_find_case_1">
+		<text>Найти кейс с документами</text>
+		<eng>Найти кейс с документами</eng>
+		<ukr>Знайти кейс с документами</ukr>
+	</string>
+	<string id="task_bar_dolg_leader_find_case_2">
+		<text>Принести кейс Воронину</text>
+		<eng>Принести кейс Воронину</eng>
+		<ukr>Принести кейс Вороніну</ukr>
+	</string>
+	<string id="task_mil_lukash_find_dinamit_0">
+		<text>Проход в Долину</text>
+		<eng>Проход в Долину</eng>
+		<ukr>Прохід у Долину</ukr>
+	</string>
+	<string id="task_mil_lukash_find_dinamit_1">
+		<text>Найти динамит на Агропроме</text>
+		<eng>Найти динамит на Агропроме</eng>
+		<ukr>Знайти динаміт на Агропромі</ukr>
+	</string>
+	<string id="task_mil_lukash_find_dinamit_2">
+		<text>Доставить динамит Лукашу</text>
+		<eng>Доставить динамит Лукашу</eng>
+		<ukr>Принести динаміт Лукашу</ukr>
+	</string>
+	<string id="task_esc_reward_case_0">
+		<text>Кейс с блокпоста</text>
+		<eng>Кейс с блокпоста</eng>
+		<ukr>Кейс з блокпоста</ukr>
+	</string>
+	<string id="task_esc_reward_case_1">
+		<text>Отнести кейс с блокпоста Бармену</text>
+		<eng>Отнести кейс с блокпоста Бармену</eng>
+		<ukr>Віднести кейс з блокпоста Бармену</ukr>
+	</string>
+	<string id="task_user_task_0">
+		<text>user defined map location</text>
+		<eng>user defined map location</eng>
+		<ukr>user defined map location</ukr>
+	</string>
+	<string id="task_krest_topor_0">
+		<text>Разобраться с "лесником"</text>
+		<eng>Разобраться с "лесником"</eng>
+		<ukr>Розібратися з "лісником"</ukr>
+	</string>
+	<string id="task_krest_topor_1">
+		<text>Разобраться с "лесником"</text>
+		<eng>Разобраться с "лесником"</eng>
+		<ukr>Розібратися з "лісником"</ukr>
+	</string>
+	<string id="task_esc_test_britva_task_0">
+		<text>Бритва Волка</text>
+		<eng>Бритва Волка</eng>
+		<ukr>Бритва Вовка</ukr>
+	</string>
+	<string id="task_esc_test_britva_task_1">
+		<text>Найти нычку Волка</text>
+		<eng>Найти нычку Волка</eng>
+		<ukr>Знайти ничку Вовка</ukr>
+	</string>
+	<string id="task_esc_test_britva_task_2">
+		<text>Вернуться с бритвой обратно</text>
+		<eng>Вернуться с бритвой обратно</eng>
+		<ukr>Повернутися з бритвою назад</ukr>
+	</string>
+	<string id="task_esc_test_art_task_0">
+		<text>"Ночная звезда"</text>
+		<eng>"Ночная звезда"</eng>
+		<ukr>"Нічна зірка"</ukr>
+	</string>
+	<string id="task_esc_test_art_task_1">
+		<text>Найти артефакт "Ночная звезда"</text>
+		<eng>Найти артефакт "Ночная звезда"</eng>
+		<ukr>Знайти артефакт "Нічна зірка"</ukr>
+	</string>
+	<string id="task_esc_test_art_task_2">
+		<text>Вернуться с артефактом обратно</text>
+		<eng>Вернуться с артефактом обратно</eng>
+		<ukr>Повернутися з артефактом назад.</ukr>
+	</string>
+</string_table>
