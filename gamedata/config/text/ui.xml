@@ -281,9 +281,9 @@
 		<ukr>Параметри</ukr>
 	</string>
 	<string id="ui_inv_outfit_radiation_protection">
-		<text>Радиация</text>
-		<eng>Радиация</eng>
-		<ukr>Радіація</ukr>
+		<text>Сопр. радиации</text>
+		<eng>Resist radiation</eng>
+		<ukr>Опір радіації</ukr>
 	</string>
 	<string id="ui_inv_outfit_shock_protection">
 		<text>Электрошок</text>
@@ -1095,6 +1095,11 @@
 		<text>Расширенные</text>
 		<eng>Расширенные</eng>
 		<ukr>Розширені</ukr>
+	</string>
+	<string id="ui_mm_huds">
+		<rus>Выбрать игровой худ</rus>
+		<eng>Select game HUD</eng>
+		<ukr>Вибрати ігровий худ</ukr>
 	</string>
 	<string id="ui_mm_huds">
 		<rus>Худ</rus>
