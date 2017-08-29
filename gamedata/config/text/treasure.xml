@@ -1,5 +1,145 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
+	<string id="ui_habar_days">
+		<rus>дн</rus>
+		<eng>d</eng>
+		<ukr>дн</ukr>
+	</string>
+	<string id="ui_habar_hours">
+		<rus>ч</rus>
+		<eng>h</eng>
+		<ukr>г</ukr>
+	</string>
+	<string id="ui_habar_died">
+		<rus>погиб</rus>
+		<eng>погиб</eng>
+		<ukr>===погиб</ukr>
+	</string>
+	<string id="ui_habar_alive">
+		<rus>жив</rus>
+		<eng>жив</eng>
+		<ukr>===жив</ukr>
+	</string>
+	<string id="ui_habar_unknown">
+		<rus>'Неизвестный'</rus>
+		<eng>'Неизвестный'</eng>
+		<ukr>==='Неизвестный'</ukr>
+	</string>
+	<string id="ui_habar_gps_stalker_set">
+		<rus>Установлена метка на сталкера</rus>
+		<eng>Установлена метка на сталкера</eng>
+		<ukr>===Установлена метка на сталкера</ukr>
+	</string>
+	<string id="ui_habar_ammo">
+		<rus>Патроны</rus>
+		<eng>Патроны</eng>
+		<ukr>===Патроны</ukr>
+	</string>
+	<string id="ui_habar_ammo_replace">
+		<rus>П:</rus>
+		<eng>П:</eng>
+		<ukr>===П:</ukr>
+	</string>
+	<string id="ui_habar_outfit">
+		<rus>Комбинезон</rus>
+		<eng>Комбинезон</eng>
+		<ukr>===Комбинезон</ukr>
+	</string>
+	<string id="ui_habar_outfit_replace">
+		<rus>Комб</rus>
+		<eng>Комб</eng>
+		<ukr>===Комб</ukr>
+	</string>
+	<string id="ui_habar_antirad_0">
+		<rus>Противорадиационные препараты</rus>
+		<eng>Противорадиационные препараты</eng>
+		<ukr>===Противорадиационные препараты</ukr>
+	</string>
+	<string id="ui_habar_antirad_1">
+		<rus>Антирадиационные препараты</rus>
+		<eng>Антирадиационные препараты</eng>
+		<ukr>===Антирадиационные препараты</ukr>
+	</string>
+	<string id="ui_habar_antirad_replace">
+		<rus>Антирад</rus>
+		<eng>Антирад</eng>
+		<ukr>===Антирад</ukr>
+	</string>
+	<string id="ui_habar_can">
+		<rus>Радость туриста</rus>
+		<eng>Радость туриста</eng>
+		<ukr>===Радость туриста</ukr>
+	</string>
+	<string id="ui_habar_can_replace">
+		<rus>Консерва</rus>
+		<eng>Консерва</eng>
+		<ukr>===Консерва</ukr>
+	</string>
+	<string id="ui_habar_salam">
+		<rus>Колбаса</rus>
+		<eng>Колбаса</eng>
+		<ukr>===Колбаса</ukr>
+	</string>
+	<string id="ui_habar_energy_drink_0">
+		<rus>Энергетический</rus>
+		<eng>Энергетический</eng>
+		<ukr>===Энергетический</ukr>
+	</string>
+	<string id="ui_habar_energy_drink_1">
+		<rus>Энергетик</rus>
+		<eng>Энергетик</eng>
+		<ukr>===Энергетик</ukr>
+	</string>
+	<string id="ui_habar_sum">
+		<rus>Итого</rus>
+		<eng>Итого</eng>
+		<ukr>===Итого</ukr>
+	</string>
+	<string id="ui_habar_items">
+		<rus>предм</rus>
+		<eng>предм</eng>
+		<ukr>===предм</ukr>
+	</string>
+	<string id="ui_habar_empty_gps">
+		<rus>В схроне нет хабара. Установлена метка пустого тайника.</rus>
+		<eng>В схроне нет хабара. Установлена метка пустого тайника.</eng>
+		<ukr>===В схроне нет хабара. Установлена метка пустого тайника.</ukr>
+	</string>
+	<string id="ui_habar_empty">
+		<rus>Пустой тайник.</rus>
+		<eng>Пустой тайник.</eng>
+		<ukr>===Пустой тайник.</ukr>
+	</string>
+	<string id="ui_habar_gps">
+		<rus>Установлена метка со списком хабара.</rus>
+		<eng>Установлена метка со списком хабара.</eng>
+		<ukr>===Установлена метка со списком хабара.</ukr>
+	</string>
+	<string id="ui_habar_in">
+		<rus>Через</rus>
+		<eng>Через</eng>
+		<ukr>===Через</ukr>
+	</string>
+	<string id="ui_habar_on">
+		<rus>ч. на маячке на территории</rus>
+		<eng>ч. на маячке на территории</eng>
+		<ukr>===ч. на маячке на территории</ukr>
+	</string>
+	<string id="ui_habar_change_battery">
+		<rus>надо сменить батарею.</rus>
+		<eng>надо сменить батарею.</eng>
+		<ukr>===надо сменить батарею.</ukr>
+	</string>
+	<string id="ui_habar_on_gps">
+		<rus>На маячке на территории</rus>
+		<eng>На маячке на территории</eng>
+		<ukr>===На маячке на территории</ukr>
+	</string>
+	<string id="ui_habar_battery_died">
+		<rus>села батарея. Связь потеряна.</rus>
+		<eng>села батарея. Связь потеряна.</eng>
+		<ukr>===села батарея. Связь потеряна.</ukr>
+	</string>
 	<string id="dead_city_secret_1_name">
 		<rus>Заначка беглеца</rus>
 		<eng>Заначка беглеца</eng>
@@ -5084,5 +5224,21 @@
 		<rus>Пока гулял по Юпитеру, насобирал немало ценного. Да столько всего, что еле передвигался. До других территорий с таким перегрузом точно не добраться, а сдавать собранное здесь, по копеечным ценам... Короче, часть хабара оставлю тут, потом вернусь.</rus>
 		<eng>Пока гулял по Юпитеру, насобирал немало ценного. Да столько всего, что еле передвигался. До других территорий с таким перегрузом точно не добраться, а сдавать собранное здесь, по копеечным ценам... Короче, часть хабара оставлю тут, потом вернусь.</eng>
 		<ukr>Поки гуляв по Юпітеру, назбирав чимало цінного. Та стільки всього, що ледве пересувався. До інших територій з таким перевантаженням точно не добратися, а здавати зібране тут, по копійчаних цінам... Коротше, частину хабара залишу тут, потім повернуся.</ukr>
+	</string>
+	<!-- На этой территории скорее всего поискать стоит. -->
+	<string id="treasure_hint">
+		<rus>скорее всего поискать стоит. Где-то там он, точно говорю.</rus>
+		<eng>скорее всего поискать стоит. Где-то там он, точно говорю.</eng>
+		<ukr>===скорее всего поискать стоит. Где-то там он, точно говорю.</ukr>
+	</string>
+	<string id="treasure_stolen">
+		<rus>С тайника убрали замок.</rus>
+		<eng>С тайника убрали замок.</eng>
+		<ukr>===С тайника убрали замок.</ukr>
+	</string>
+	<string id="treasure_locked">
+		<rus>Заперли тайник на замок.</rus>
+		<eng>Заперли тайник на замок.</eng>
+		<ukr>===Заперли тайник на замок.</ukr>
 	</string>
 </string_table>

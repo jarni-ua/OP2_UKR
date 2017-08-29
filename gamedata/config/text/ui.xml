@@ -275,6 +275,16 @@
 		<eng>гр.</eng>
 		<ukr>гр.</ukr>
 	</string>
+	<string id="ui_inv_m">
+		<rus>м</rus>
+		<eng>m</eng>
+		<ukr>м</ukr>
+	</string>
+	<string id="ui_inv_rpm">
+		<rus>в/м</rus>
+		<eng>rpm</eng>
+		<ukr>п/хв</ukr>
+	</string>
 	<string id="ui_inv_outfit_params">
 		<rus>Параметры</rus>
 		<eng>Параметры</eng>
@@ -1101,11 +1111,6 @@
 		<eng>Select game HUD</eng>
 		<ukr>Вибрати ігровий худ</ukr>
 	</string>
-	<string id="ui_mm_huds">
-		<rus>Худ</rus>
-		<eng>HUD</eng>
-		<ukr>Худ</ukr>
-	</string>
 	<string id="ui_mm_anisotropic">
 		<rus>Фильтрация текстур</rus>
 		<eng>Фильтрация текстур</eng>
@@ -1220,6 +1225,16 @@
 		<rus>Дополнительные усложнения</rus>
 		<eng>Дополнительные усложнения</eng>
 		<ukr>Додаткові ускладення</ukr>
+	</string>
+	<string id="ui_mm_new_game">
+		<rus>Для новой игры</rus>
+		<eng>For "Start new game"</eng>
+		<ukr>До нової гри</ukr>
+	</string>	
+	<string id="ui_mm_start_zone_door">
+		<rus>Зона с дверями</rus>
+		<eng>Zone with doors</eng>
+		<ukr>Зона з дверима</ukr>
 	</string>
 	<string id="ui_mm_fast_respawn">
 		<rus>Частый респаун</rus>
@@ -1654,19 +1669,13 @@
 	<string id="ui_mm_god_warning">
 		<rus>\n
 			%c[255,255,128,128]ВНИМАНИЕ!\n
-			Будьте осторожны при использовании данных опций.\n
-			Частое их применение значительно облегчает и ускоряет\n
-			прохождение, но может полностью лишить удовольствия от игры.%c[default]</rus>
+			Будьте осторожны при использовании данных опций. Частое их применение значительно облегчает и ускоряет прохождение, но может полностью лишить удовольствия от игры.%c[default]</rus>
 		<eng>\n
 			%c[255,255,128,128]ВНИМАНИЕ!\n
-			Будьте осторожны при использовании данных опций.\n
-			Частое их применение значительно облегчает и ускоряет\n
-			прохождение, но может полностью лишить удовольствия от игры.%c[default]</eng>
+			Будьте осторожны при использовании данных опций. Частое их применение значительно облегчает и ускоряет прохождение, но может полностью лишить удовольствия от игры.%c[default]</eng>
 		<ukr>\n
 			%c[255,255,128,128]УВАГА!\n
-			Будьте обережні при використанні даних налаштувань.\n
-			Часте їхнє застосування значно полегшує і прискорює\n
-			проходження, але може повністю позбавити Вас задоволення від гри.%c[default]</ukr>
+			Будьте обережні при використанні даних налаштувань. Часте їхнє застосування значно полегшує і прискорює проходження, але може повністю позбавити Вас задоволення від гри.%c[default]</ukr>
 	</string>
 	<string id="god_used">
 		<rus>использований</rus>
@@ -3273,5 +3282,448 @@
 		<rus>Ты не на базаре, чтобы торговаться. Соберешь деньги - приходи. Люди будут рады помочь легенде Зоны. За скромное вознаграждение...</rus>
 		<eng>Ты не на базаре, чтобы торговаться. Соберешь деньги - приходи. Люди будут рады помочь легенде Зоны. За скромное вознаграждение...</eng>
 		<ukr>Ти не на базарі, щоб торгуватися. Назбираєш грощей - приходь. Люди будуть раді допомогти легенді Зони. За скромну винагороду...</ukr>
+	</string>
+	
+	<string id="txt_found_nightstar">
+		<rus>Нашел я тебе артефакт...</rus>
+		<eng>I found you an artifact...</eng>
+		<ukr>Знайшов я тобі артефакт...</ukr>
+	</string>
+	
+	<string id="ui_outfit_resistance">
+		<rus>Сопротивления</rus>
+		<eng>Сопротивления</eng>
+		<ukr>Протидії</ukr>
+	</string>
+	<string id="ui_outfit_modifiers">
+		<rus>Модификаторы</rus>
+		<eng>Модификаторы</eng>
+		<ukr>Модифікатори</ukr>
+	</string>
+	<string id="ui_slot_name">
+		<rus>слот</rus>
+		<eng>slot</eng>
+		<ukr>слот</ukr>
+	</string>
+	<string id="ui_slot_0">
+		<rus>вспомогательный</rus>
+		<eng>вспомогательный</eng>
+		<ukr>допоміжний</ukr>
+	</string>
+	<string id="ui_slot_1">
+		<rus>основной</rus>
+		<eng>основной</eng>
+		<ukr>основний</ukr>
+	</string>
+	<string id="ui_slot_2">
+		<rus>промежуточный</rus>
+		<eng>промежуточный</eng>
+		<ukr>проміжний</ukr>
+	</string>
+	<string id="ui_ammunition">
+		<rus>Боеприпасы:</rus>
+		<eng>Боеприпасы:</eng>
+		<ukr>Боєприпаси:</ukr>
+	</string>
+	<string id="ui_effective_range">
+		<rus>эффективная дальность</rus>
+		<eng>эффективная дальность</eng>
+		<ukr>ефективна дальність</ukr>
+	</string>
+	<string id="ui_shooting_range">
+		<rus>прицельная дальность</rus>
+		<eng>прицельная дальность</eng>
+		<ukr>прицільна дальність</ukr>
+	</string>
+	<string id="ui_rate_of_fire">
+		<rus>скорострельность</rus>
+		<eng>скорострельность</eng>
+		<ukr>швидкострільність</ukr>
+	</string>
+	<string id="ui_mag_cap">
+		<rus>ёмкость магазина</rus>
+		<eng>ёмкость магазина</eng>
+		<ukr>ємність магазину</ukr>
+	</string>
+	<string id="ui_rounds">
+		<rus>патронов</rus>
+		<eng>патронов</eng>
+		<ukr>патронів</ukr>
+	</string>
+	<string id="ui_attachments">
+		<rus>Обвесы:</rus>
+		<eng>Обвесы:</eng>
+		<ukr>Навісне:</ukr>
+	</string>
+	<string id="ui_integrated">
+		<rus>Интегрированный</rus>
+		<eng>Интегрированный</eng>
+		<ukr>Інтегрований</ukr>
+	</string>
+	<string id="ui_mecenii_dead">
+		<rus>Зафиксирована смерть сталкера по кличке Меченый.</rus>
+		<eng>Зафиксирована смерть сталкера по кличке Меченый.</eng>
+		<ukr>Зафіксовано смерть сталкера на прізвисько Мічений.</ukr>
+	</string>
+	<string id="ui_spot_warning">
+		<rus>Вас могут увидеть!</rus>
+		<eng>Вас могут увидеть!</eng>
+		<ukr>===Вас могут увидеть!</ukr>
+	</string>
+	<string id="ui_reminder">
+		<rus>Напоминания</rus>
+		<eng>Напоминания</eng>
+		<ukr>===Напоминания</ukr>
+	</string>
+	<string id="ui_no_active_tasks">
+		<rus>Нет активных заданий, по которым возможны напоминания</rus>
+		<eng>Нет активных заданий, по которым возможны напоминания</eng>
+		<ukr>===Нет активных заданий, по которым возможны напоминания</ukr>
+	</string>
+	<string id="ui_storage_total">
+		<rus>Всего</rus>
+		<eng>Всего</eng>
+		<ukr>===Всего</ukr>
+	</string>
+	<string id="ui_storage_items">
+		<rus>предметов</rus>
+		<eng>предметов</eng>
+		<ukr>===предметов</ukr>
+	</string>
+	<!-- Всего 5 из 10 кг -->
+	<string id="ui_storage_from">
+		<rus>из</rus>
+		<eng>из</eng>
+		<ukr>===из</ukr>
+	</string>
+	<string id="ui_storage_full">
+		<rus>Рюкзак полон.</rus>
+		<eng>Рюкзак полон.</eng>
+		<ukr>===Рюкзак полон.</ukr>
+	</string>
+	<string id="ui_storage_cost">
+		<rus>Стоимость</rus>
+		<eng>Стоимость</eng>
+		<ukr>===Стоимость</ukr>
+	</string>
+	<string id="ui_stco_kordon">
+		<rus>Кордон</rus>
+		<eng>Кордон</eng>
+		<ukr>===Кордон</ukr>
+	</string>
+	<string id="ui_stco_agroprom">
+		<rus>Агропром</rus>
+		<eng>Агропром</eng>
+		<ukr>===Агропром</ukr>
+	</string>
+	<string id="ui_stco_darkvalley">
+		<rus>Тёмная Долина</rus>
+		<eng>Тёмная Долина</eng>
+		<ukr>===Тёмная Долина</ukr>
+	</string>
+	<string id="ui_stco_deadcity">
+		<rus>Мёртвый город</rus>
+		<eng>Мёртвый город</eng>
+		<ukr>===Мёртвый город</ukr>
+	</string>
+	<string id="ui_stco_no_signal">
+		<rus>Нет сигнала СП!</rus>
+		<eng>Нет сигнала СП!</eng>
+		<ukr>===Нет сигнала СП!</ukr>
+	</string>
+	<string id="ui_stco_time">
+		<rus>время:</rus>
+		<eng>время:</eng>
+		<ukr>===время:</ukr>
+	</string>
+	<string id="ui_stco_long">
+		<rus>долгота:</rus>
+		<eng>долгота:</eng>
+		<ukr>===долгота:</ukr>
+	</string>
+	<string id="ui_stco_lat">
+		<rus>широта:</rus>
+		<eng>широта:</eng>
+		<ukr>===широта:</ukr>
+	</string>
+	<string id="ui_stco_alt">
+		<rus>высота:</rus>
+		<eng>высота:</eng>
+		<ukr>===высота:</ukr>
+	</string>
+	<string id="ui_stco_dir">
+		<rus>направление:</rus>
+		<eng>направление:</eng>
+		<ukr>===направление:</ukr>
+	</string>
+	<string id="ui_stco_autotime">
+		<rus>Время в автономном</rus>
+		<eng>Время в автономном</eng>
+		<ukr>===Время в автономном</ukr>
+	</string>
+	<string id="ui_stco_mode">
+		<rus>режиме!</rus>
+		<eng>режиме!</eng>
+		<ukr>===режиме!</ukr>
+	</string>
+	<string id="ui_timers_blowout">
+		<rus>Выброс</rus>
+		<eng>Выброс</eng>
+		<ukr>===Выброс</ukr>
+	</string>
+	<string id="ui_timers_horror">
+		<rus>Час Ужаса</rus>
+		<eng>Час Ужаса</eng>
+		<ukr>===Час Ужаса</ukr>
+	</string>
+	<string id="ui_trans_unknown">
+		<rus>Неизвестно</rus>
+		<eng>Неизвестно</eng>
+		<ukr>===Неизвестно</ukr>
+	</string>
+	<string id="ui_trans_start">
+		<rus>Запуск</rus>
+		<eng>Запуск</eng>
+		<ukr>===Запуск</ukr>
+	</string>
+	<string id="ui_trans_days">
+		<rus>дн</rus>
+		<eng>дн</eng>
+		<ukr>===дн</ukr>
+	</string>
+	<string id="ui_trans_hours">
+		<rus>час</rus>
+		<eng>час</eng>
+		<ukr>===час</ukr>
+	</string>
+	<string id="ui_trans_mins">
+		<rus>мин</rus>
+		<eng>мин</eng>
+		<ukr>===мин</ukr>
+	</string>
+	<string id="ui_trans_no_ing">
+		<rus>Для варки не хватает компонентов</rus>
+		<eng>Для варки не хватает компонентов</eng>
+		<ukr>===Для варки не хватает компонентов</ukr>
+	</string>
+	<string id="ui_trans_cook_time">
+		<rus>Время варки</rus>
+		<eng>Время варки</eng>
+		<ukr>===Время варки</ukr>
+	</string>
+	<string id="ui_autosave_cant">
+		<rus>Сейв не создан - во время выполнения этого задания сохраняться нельзя</rus>
+		<eng>Сейв не создан - во время выполнения этого задания сохраняться нельзя</eng>
+		<ukr>===Сейв не создан - во время выполнения этого задания сохраняться нельзя</ukr>
+	</string>
+	<string id="ui_autosave_cook">
+		<rus>Автосохранение не создано - запущена варка артефактов</rus>
+		<eng>Автосохранение не создано - запущена варка артефактов</eng>
+		<ukr>===Автосохранение не создано - запущена варка артефактов</ukr>
+	</string>
+	<string id="ui_autosave_day">
+		<rus>День</rus>
+		<eng>День</eng>
+		<ukr>===День</ukr>
+	</string>
+	<string id="ui_autosave">
+		<rus>Автосохранение</rus>
+		<eng>Автосохранение</eng>
+		<ukr>===Автосохранение</ukr>
+	</string>
+	<string id="ui_load_health">
+		<rus>Здоровье</rus>
+		<eng>Здоровье</eng>
+		<ukr>===Здоровье</ukr>
+	</string>
+	<string id="ui_load_terr">
+		<rus>Территория</rus>
+		<eng>Территория</eng>
+		<ukr>===Территория</ukr>
+	</string>
+	<string id="ui_load_game_time">
+		<rus>Игровое время</rus>
+		<eng>Игровое время</eng>
+		<ukr>===Игровое время</ukr>
+	</string>
+	<string id="ui_load_save_time">
+		<rus>Сохранено</rus>
+		<eng>Сохранено</eng>
+		<ukr>===Сохранено</ukr>
+	</string>
+	<string id="ui_bad_object">
+		<rus>Не найден проблемный объект</rus>
+		<eng>Не найден проблемный объект</eng>
+		<ukr>===Не найден проблемный объект</ukr>
+	</string>
+	<string id="ui_bad_object_del">
+		<rus>Удален проблемный объект</rus>
+		<eng>Удален проблемный объект</eng>
+		<ukr>===Удален проблемный объект</ukr>
+	</string>
+	<string id="ui_god_im">
+		<rus>Бессмертие</rus>
+		<eng>Бессмертие</eng>
+		<ukr>===Бессмертие</ukr>
+	</string>
+	<string id="ui_god_ai">
+		<rus>Любой предмет</rus>
+		<eng>Любой предмет</eng>
+		<ukr>===Любой предмет</ukr>
+	</string>
+	<string id="ui_god_sj">
+		<rus>Суперпрыжок</rus>
+		<eng>Суперпрыжок</eng>
+		<ukr>===Суперпрыжок</ukr>
+	</string>
+	<string id="ui_god_co">
+		<rus>Коллекционер</rus>
+		<eng>Коллекционер</eng>
+		<ukr>===Коллекционер</ukr>
+	</string>
+	<string id="ui_god_do">
+		<rus>Документы</rus>
+		<eng>Документы</eng>
+		<ukr>===Документы</ukr>
+	</string>
+	<string id="ui_god_te">
+		<rus>Телепортация</rus>
+		<eng>Телепортация</eng>
+		<ukr>===Телепортация</ukr>
+	</string>
+	<string id="ui_bad_object_0">
+		<rus>У объекта</rus>
+		<eng>У объекта</eng>
+		<ukr>===У объекта</ukr>
+	</string>
+	<string id="ui_bad_object_1">
+		<rus>повисла логика. Удалите созданное только что сохранение и переиграйте с предыдущего.</rus>
+		<eng>повисла логика. Удалите созданное только что сохранение и переиграйте с предыдущего.</eng>
+		<ukr>===повисла логика. Удалите созданное только что сохранение и переиграйте с предыдущего.</ukr>
+	</string>
+	<string id="ui_stat_year_0">
+		<rus>год</rus>
+		<eng>год</eng>
+		<ukr>===год</ukr>
+	</string>
+	<string id="ui_stat_year_1">
+		<rus>года</rus>
+		<eng>года</eng>
+		<ukr>===года</ukr>
+	</string>
+	<string id="ui_stat_year_2">
+		<rus>лет</rus>
+		<eng>лет</eng>
+		<ukr>===лет</ukr>
+	</string>
+	<string id="ui_stat_mon_0">
+		<rus>месяц</rus>
+		<eng>месяц</eng>
+		<ukr>===месяц</ukr>
+	</string>
+	<string id="ui_stat_mon_1">
+		<rus>месяца</rus>
+		<eng>месяца</eng>
+		<ukr>===месяца</ukr>
+	</string>
+	<string id="ui_stat_mon_2">
+		<rus>месяцев</rus>
+		<eng>месяцев</eng>
+		<ukr>===месяцев</ukr>
+	</string>
+	<string id="ui_stat_day_0">
+		<rus>день</rus>
+		<eng>день</eng>
+		<ukr>===день</ukr>
+	</string>
+	<string id="ui_stat_day_1">
+		<rus>дня</rus>
+		<eng>дня</eng>
+		<ukr>===дня</ukr>
+	</string>
+	<string id="ui_stat_day_2">
+		<rus>дней</rus>
+		<eng>дней</eng>
+		<ukr>===дней</ukr>
+	</string>
+	<string id="ui_stat_hour_0">
+		<rus>час</rus>
+		<eng>час</eng>
+		<ukr>===час</ukr>
+	</string>
+	<string id="ui_stat_hour_1">
+		<rus>часа</rus>
+		<eng>часа</eng>
+		<ukr>===часа</ukr>
+	</string>
+	<string id="ui_stat_hour_2">
+		<rus>часов</rus>
+		<eng>часов</eng>
+		<ukr>===часов</ukr>
+	</string>
+	<string id="ui_stat_min_0">
+		<rus>минута</rus>
+		<eng>минута</eng>
+		<ukr>===минута</ukr>
+	</string>
+	<string id="ui_stat_min_1">
+		<rus>минуты</rus>
+		<eng>минуты</eng>
+		<ukr>===минуты</ukr>
+	</string>
+	<string id="ui_stat_min_2">
+		<rus>минут</rus>
+		<eng>минут</eng>
+		<ukr>===минут</ukr>
+	</string>
+	<string id="kb_quick_slot_0">
+		<rus>Быстрый слот 0</rus>
+		<eng>Quick slot 0</eng>
+		<ukr>Швидкій слот 0</ukr>
+	</string>
+	<string id="kb_quick_slot_1">
+		<rus>Быстрый слот 1</rus>
+		<eng>Quick slot 1</eng>
+		<ukr>Швидкій слот 1</ukr>
+	</string>
+	<string id="kb_quick_slot_2">
+		<rus>Быстрый слот 2</rus>
+		<eng>Quick slot 2</eng>
+		<ukr>Швидкій слот 2</ukr>
+	</string>
+	<string id="kb_quick_slot_3">
+		<rus>Быстрый слот 3</rus>
+		<eng>Quick slot 3</eng>
+		<ukr>Швидкій слот 3</ukr>	
+	</string>
+	<string id="ui_inv_radiation">
+		<text>Облучение</text>
+		<eng>Irradiation</eng>
+		<ukr>Опромінення</ukr>
+	</string>
+		<string id="ui_inv_radiation_irr">
+		<text>Облучение предмета</text>
+		<eng>Item radiation</eng>
+		<ukr>Опромінення предмета</ukr>
+	</string>
+	<string id="ui_cv_weights">
+		<text>Вес артефактов</text>
+		<eng>Weight of artifacts</eng>
+		<ukr>Вага артефактів</ukr>
+	</string>
+	<string id="ui_inv_radiation_units">
+		<text>Ки</text>
+		<eng>Ci</eng>
+		<ukr>Кі</ukr>
+	</string>	
+	<string id="ui_close_container">
+		<text>Закрыть контейнер</text>
+		<eng>Close container</eng>
+		<ukr>Закрити контейнер</ukr>
+	</string>
+	<string id="ui_unshielded_irr">
+		<text>Неэкранированное облучение</text>
+		<eng>Unshielded irradiation</eng>
+		<ukr>Неекрановане опромінення</ukr>
 	</string>
 </string_table>
