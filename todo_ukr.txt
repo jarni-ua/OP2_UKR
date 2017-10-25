@@ -1,18 +1,26 @@
-!!!arsenal_mod.xml до arsenal_mod-stg44
-!!!dialogs_amk.xml - jarni
-dialogs_arhara.xml
-+++questname.xml
-+++~dialogs_buusty.xml - english, butery_dialog_0 - barter_sahar127_6, vasiliy_anomgreny_dialog_0 - mission_possible_done_6, crazy_surgery - mission_possible
-+++wawka.xml - gg_hello_1 - upgrade_complete, english
-!!!docs_biznes_treasure.xml: treasure_sysh - dan_flash, +===
+arsenal_mod.xml
 cycle_task.xml (stable_task_manager.xml) - do3ep
-!!!upgrage.xml
-+===sms_akill.xml
-+===sms_arhara_dialog.xml
-+===sms_buusty_dialog.xml
-+===sms_fly.xml
-+===sms_kostya_dialog.xml
-+===sms_character_name.xml
-+===sms_oksana_spawn.xml
-+===sms_other.xml
+devices.xml
+dialogs_amk.xml - jarni
+dialogs_arhara.xml - jarni
+dialogs_buusty.xml - english
+sak_strings.xml
+sak_trade.xml
+sms_akill.xml
+sms_arhara_dialog.xml
+sms_buusty_dialog.xml
+sms_fly.xml
+sms_kostya_dialog.xml
+sms_character_name.xml
+sms_oksana_spawn.xml
+sms_other.xml
+storyline_dialogs.xml
+tasks_akill.xml
+tasks_buusty.xml
+tips.xml
+treasure.xml
+ui.xml
+upgrage.xml
+volazar.xml
+wawka.xml
 weapons.xml (string_table_enc_weapons.xml) - Котобегемот
