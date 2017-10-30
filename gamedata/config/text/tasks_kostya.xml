@@ -1,0 +1,3303 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="task_zonedocs_bar_0">
+		<rus>Собрать части дoкументoв в Баре</rus>
+		<eng>Собрать части дoкументoв в Баре</eng>
+		<ukr>Зібрати частини документів у Барі</ukr>
+	</string>
+	<string id="task_zonedocs_bar_1">
+		<rus>Арена</rus>
+		<eng>Арена</eng>
+		<ukr>Арена</ukr>
+	</string>
+	<string id="task_zonedocs_bar_2">
+		<rus>Брошенный ангар</rus>
+		<eng>Брошенный ангар</eng>
+		<ukr>Покинутий ангар</ukr>
+	</string>
+	<string id="task_zonedocs_bar_3">
+		<rus>Крыша штаба Долга</rus>
+		<eng>Крыша штаба Долга</eng>
+		<ukr>Дах штабу Долга</ukr>
+	</string>
+	<string id="task_zonedocs_bar_4">
+		<rus>Токарный станок</rus>
+		<eng>Токарный станок</eng>
+		<ukr>Токарний станок</ukr>
+	</string>
+	<string id="task_zonedocs_bar_5">
+		<rus>Тупик с аномалиями 1</rus>
+		<eng>Тупик с аномалиями 1</eng>
+		<ukr>Тупик з аномаліями 1</ukr>
+	</string>
+	<string id="task_zonedocs_bar_6">
+		<rus>Тупик с аномалиями 2</rus>
+		<eng>Тупик с аномалиями 2</eng>
+		<ukr>Тупик з аномаліями 2</ukr>
+	</string>
+	<string id="task_zonedocs_bar_7">
+		<rus>КПП у упавшей лестницы</rus>
+		<eng>КПП у упавшей лестницы</eng>
+		<ukr>КПП біля упавших сходів</ukr>
+	</string>
+	<string id="task_zonedocs_bar_8">
+		<rus>КПП у входа со Свалки</rus>
+		<eng>КПП у входа со Свалки</eng>
+		<ukr>КПП біля входу зі Звалища</ukr>
+	</string>
+	<string id="task_zonedocs_bar_9">
+		<rus>Вход в бар</rus>
+		<eng>Вход в бар</eng>
+		<ukr>Вхід в бар</ukr>
+	</string>
+	<string id="task_zonedocs_bar_10">
+		<rus>За баром</rus>
+		<eng>За баром</eng>
+		<ukr>За баром</ukr>
+	</string>
+	<string id="task_zonedocs_bar_11">
+		<rus>Дорога на АС</rus>
+		<eng>Дорога на АС</eng>
+		<ukr>Дорога на АС</ukr>
+	</string>
+	<string id="task_zonedocs_bar_12">
+		<rus>Кладбище</rus>
+		<eng>Кладбище</eng>
+		<ukr>Кладовище</ukr>
+	</string>
+	<string id="task_zonedocs_bar_13">
+		<rus>Ров</rus>
+		<eng>Ров</eng>
+		<ukr>Рівчак</ukr>
+	</string>
+	<string id="task_zonedocs_bar_14">
+		<rus>Военная машина</rus>
+		<eng>Военная машина</eng>
+		<ukr>Військова машина</ukr>
+	</string>
+	<string id="task_zonedocs_bar_15">
+		<rus>Дорога на Свалку</rus>
+		<eng>Дорога на Свалку</eng>
+		<ukr>Дорога на Звалище</ukr>
+	</string>
+	<string id="task_zonedocs_bar_16">
+		<rus>Цистерны</rus>
+		<eng>Цистерны</eng>
+		<ukr>Цистерни</ukr>
+	</string>
+	<string id="task_zonedocs_bar_17">
+		<rus>Здание с 4 трубами</rus>
+		<eng>Здание с 4 трубами</eng>
+		<ukr>Будівля з 4 трубами</ukr>
+	</string>
+	<string id="task_zonedocs_bar_18">
+		<rus>Электроподстанция</rus>
+		<eng>Электроподстанция</eng>
+		<ukr>Електропідстанція</ukr>
+	</string>
+	<string id="task_zonedocs_bar_19">
+		<rus>Водонапорная башня</rus>
+		<eng>Водонапорная башня</eng>
+		<ukr>Водонапірна вежа</ukr>
+	</string>
+	<string id="task_zonedocs_bar_20">
+		<rus>Резервуары в ангаре</rus>
+		<eng>Резервуары в ангаре</eng>
+		<ukr>Резервуари в ангарі</ukr>
+	</string>
+	<string id="task_zonedocs_bar_21">
+		<rus>Высокий ржавый контейнер</rus>
+		<eng>Высокий ржавый контейнер</eng>
+		<ukr>Високий іржавий контейнер</ukr>
+	</string>
+	<string id="task_zonedocs_bar_22">
+		<rus>5 матрасов</rus>
+		<eng>5 матрасов</eng>
+		<ukr>5 матраців</ukr>
+	</string>
+	<string id="task_zonedocs_bar_23">
+		<rus>10 матрасов</rus>
+		<eng>10 матрасов</eng>
+		<ukr>10 матраців</ukr>
+	</string>
+	<string id="task_zonedocs_bar_24">
+		<rus>5 ящиков на поддоне</rus>
+		<eng>5 ящиков на поддоне</eng>
+		<ukr>5 ящиків на піддоні</ukr>
+	</string>
+	<string id="task_zonedocs_bar_25">
+		<rus>В трубе 1</rus>
+		<eng>В трубе 1</eng>
+		<ukr>У трубі 1</ukr>
+	</string>
+	<string id="task_zonedocs_bar_26">
+		<rus>В трубе 2</rus>
+		<eng>В трубе 2</eng>
+		<ukr>У трубі 2</ukr>
+	</string>
+	<string id="task_zonedocs_bar_27">
+		<rus>Генератор</rus>
+		<eng>Генератор</eng>
+		<ukr>Генератор</ukr>
+	</string>
+	<string id="task_zonedocs_bar_28">
+		<rus>По пути в бар</rus>
+		<eng>По пути в бар</eng>
+		<ukr>На шляху в бар</ukr>
+	</string>
+	<string id="task_zonedocs_bar_29">
+		<rus>Вход в арену 1</rus>
+		<eng>Вход в арену 1</eng>
+		<ukr>Вхід на арену 1</ukr>
+	</string>
+	<string id="task_zonedocs_bar_30">
+		<rus>Вход в арену 2</rus>
+		<eng>Вход в арену 2</eng>
+		<ukr>Вхід на арену 2</ukr>
+	</string>
+	<string id="task_zonedocs_bar_31">
+		<rus>Спрятанные обломки забора</rus>
+		<eng>Спрятанные обломки забора</eng>
+		<ukr>Сховані уламки паркана</ukr>
+	</string>
+	<string id="task_zonedocs_bar_32">
+		<rus>Под П-образными плитами</rus>
+		<eng>Под П-образными плитами</eng>
+		<ukr>Під П-подібними плитами</ukr>
+	</string>
+	<string id="task_zonedocs_bar_33">
+		<rus>Душ</rus>
+		<eng>Душ</eng>
+		<ukr>Душ</ukr>
+	</string>
+	<string id="task_zonedocs_bar_34">
+		<rus>Под лестницей 1</rus>
+		<eng>Под лестницей 1</eng>
+		<ukr>Під сходами 1</ukr>
+	</string>
+	<string id="task_zonedocs_bar_35">
+		<rus>Под лестницей 2</rus>
+		<eng>Под лестницей 2</eng>
+		<ukr>Під сходами 2</ukr>
+	</string>
+	<string id="task_zonedocs_bar_36">
+		<rus>За переходом 1</rus>
+		<eng>За переходом 1</eng>
+		<ukr>За переходом 1</ukr>
+	</string>
+	<string id="task_zonedocs_bar_37">
+		<rus>За переходом 2</rus>
+		<eng>За переходом 2</eng>
+		<ukr>За переходом 2</ukr>
+	</string>
+	<string id="task_zonedocs_bar_38">
+		<rus>Ящик на контейнере</rus>
+		<eng>Ящик на контейнере</eng>
+		<ukr>Ящик на контейнері</ukr>
+	</string>
+	<string id="task_zonedocs_bar_39">
+		<rus>Зелёная крыша недалеко от собак</rus>
+		<eng>Зелёная крыша недалеко от собак</eng>
+		<ukr>Зелений дах недалеко від собак</ukr>
+	</string>
+	<string id="task_zonedocs_bar_40">
+		<rus>Металлическая пристройка 1</rus>
+		<eng>Металлическая пристройка 1</eng>
+		<ukr>Металічна прибудова 1</ukr>
+	</string>
+	<string id="task_zonedocs_bar_41">
+		<rus>Металлическая пристройка 2</rus>
+		<eng>Металлическая пристройка 2</eng>
+		<ukr>Металічна прибудова 2</ukr>
+	</string>
+	<string id="task_zonedocs_bar_42">
+		<rus>Голубой вагончик</rus>
+		<eng>Голубой вагончик</eng>
+		<ukr>Голубий вагончик</ukr>
+	</string>
+	<string id="task_zonedocs_bar_43">
+		<rus>Разрытая земля</rus>
+		<eng>Разрытая земля</eng>
+		<ukr>Розрита земля</ukr>
+	</string>
+	<string id="task_zonedocs_bar_44">
+		<rus>Единственная рабочая лестница за территорией</rus>
+		<eng>Единственная рабочая лестница за территорией</eng>
+		<ukr>Єдині робочі сходи за територією</ukr>
+	</string>
+	<string id="task_zonedocs_bar_45">
+		<rus>Трубопровод</rus>
+		<eng>Трубопровод</eng>
+		<ukr>Трубопровід</ukr>
+	</string>
+	<string id="task_zonedocs_bar_46">
+		<rus>Меж двух зомби</rus>
+		<eng>Меж двух зомби</eng>
+		<ukr>Між двох зомбі</ukr>
+	</string>
+	<string id="task_zonedocs_bar_47">
+		<rus>Железные ворота 1</rus>
+		<eng>Железные ворота 1</eng>
+		<ukr>Залізні ворота 1</ukr>
+	</string>
+	<string id="task_zonedocs_bar_48">
+		<rus>Железные ворота 2</rus>
+		<eng>Железные ворота 2</eng>
+		<ukr>Залізні ворота 2</ukr>
+	</string>
+	<string id="task_zonedocs_bar_49">
+		<rus>Железные ворота 3</rus>
+		<eng>Железные ворота 3</eng>
+		<ukr>Залізні ворота 3</ukr>
+	</string>
+	<string id="task_zonedocs_bar_50">
+		<rus>Железные ворота 4</rus>
+		<eng>Железные ворота 4</eng>
+		<ukr>Залізні ворота 4</ukr>
+	</string>
+	<string id="task_zonedocs_bar_51">
+		<rus>Железные ворота 5</rus>
+		<eng>Железные ворота 5</eng>
+		<ukr>Залізні ворота 5</ukr>
+	</string>
+	<string id="task_zonedocs_bar_52">
+		<rus>Железные ворота 6</rus>
+		<eng>Железные ворота 6</eng>
+		<ukr>Залізні ворота 6</ukr>
+	</string>
+	<string id="task_zonedocs_bar_53">
+		<rus>Короткий путепровод</rus>
+		<eng>Короткий путепровод</eng>
+		<ukr>Короткий шляхопровід</ukr>
+	</string>
+	<string id="task_zonedocs_bar_54">
+		<rus>Лес по дороге на Свалку</rus>
+		<eng>Лес по дороге на Свалку</eng>
+		<ukr>Ліс по дорозі на Звалище</ukr>
+	</string>
+	<string id="task_zonedocs_bar_55">
+		<rus>Не провоцируй и останешься жить</rus>
+		<eng>Не провоцируй и останешься жить</eng>
+		<ukr>Не провокуй і будеш жити</ukr>
+	</string>
+	<string id="task_zonedocs_bar_56">
+		<rus>Кирпичи у штаба Долга</rus>
+		<eng>Кирпичи у штаба Долга</eng>
+		<ukr>Цегли біля штабу Долгу</ukr>
+	</string>
+	<string id="task_zonedocs_bar_57">
+		<rus>В углу за контейнером</rus>
+		<eng>В углу за контейнером</eng>
+		<ukr>У кутку за контейнером</ukr>
+	</string>
+	<string id="task_zonedocs_bar_58">
+		<rus>Дыра в крыше</rus>
+		<eng>Дыра в крыше</eng>
+		<ukr>Діра в даху</ukr>
+	</string>
+	<string id="task_zonedocs_bar_59">
+		<rus>Постройка с переходом на ДТ</rus>
+		<eng>Постройка с переходом на ДТ</eng>
+		<ukr>Будівля з переходом на ДТ</ukr>
+	</string>
+	<string id="task_zonedocs_bar_60">
+		<rus>Бетонный землеотвод</rus>
+		<eng>Бетонный землеотвод</eng>
+		<ukr>Бетонний землевідвід</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_0">
+		<rus>Собрать части дoкументoв на Свалке</rus>
+		<eng>Собрать части дoкументoв на Свалке</eng>
+		<ukr>Зібрати частини документів на Звалищі</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_1">
+		<rus>Крыша ангара</rus>
+		<eng>Крыша ангара</eng>
+		<ukr>Дах ангара</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_2">
+		<rus>Блокпост Долга</rus>
+		<eng>Блокпост Долга</eng>
+		<ukr>Блокпост Долга</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_3">
+		<rus>Лагерь бандитов у перехода на Агропром</rus>
+		<eng>Лагерь бандитов у перехода на Агропром</eng>
+		<ukr>Табір бандитів біля переходу на Агропром</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_4">
+		<rus>Лес, где много собак</rus>
+		<eng>Лес, где много собак</eng>
+		<ukr>Ліс, де багато собак</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_5">
+		<rus>Болото 1</rus>
+		<eng>Болото 1</eng>
+		<ukr>Болото 1</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_6">
+		<rus>Болото 2</rus>
+		<eng>Болото 2</eng>
+		<ukr>Болото 2</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_7">
+		<rus>Болото 3</rus>
+		<eng>Болото 3</eng>
+		<ukr>Болото 3</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_8">
+		<rus>Запорожец</rus>
+		<eng>Запорожец</eng>
+		<ukr>Запорожець</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_9">
+		<rus>Кладбище техники 1</rus>
+		<eng>Кладбище техники 1</eng>
+		<ukr>Кладовище техніки 1</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_10">
+		<rus>Кладбище техники 2</rus>
+		<eng>Кладбище техники 2</eng>
+		<ukr>Кладовище техніки 2</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_11">
+		<rus>Кладбище техники 3</rus>
+		<eng>Кладбище техники 3</eng>
+		<ukr>Кладовище техніки 3</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_12">
+		<rus>Кладбище техники 4</rus>
+		<eng>Кладбище техники 4</eng>
+		<ukr>Кладовище техніки 4</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_13">
+		<rus>Кладбище техники 5</rus>
+		<eng>Кладбище техники 5</eng>
+		<ukr>Кладовище техніки 5</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_14">
+		<rus>Стальная постройка</rus>
+		<eng>Стальная постройка</eng>
+		<ukr>Сталева будівля</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_15">
+		<rus>В ложбине справа от туннеля</rus>
+		<eng>В ложбине справа от туннеля</eng>
+		<ukr>У улоговині праворуч від тунелю</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_16">
+		<rus>Опушка, где нет перехода</rus>
+		<eng>Опушка, где нет перехода</eng>
+		<ukr>Узлісся, де нема переходу</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_17">
+		<rus>3 белых забора</rus>
+		<eng>3 белых забора</eng>
+		<ukr>3 білих паркани</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_18">
+		<rus>Трубопровод 1</rus>
+		<eng>Трубопровод 1</eng>
+		<ukr>Трубопровід 1</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_19">
+		<rus>Трубопровод 2</rus>
+		<eng>Трубопровод 2</eng>
+		<ukr>Трубопровід 2</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_20">
+		<rus>Трубопровод 3</rus>
+		<eng>Трубопровод 3</eng>
+		<ukr>Трубопровід 3</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_21">
+		<rus>Трубопровод 4</rus>
+		<eng>Трубопровод 4</eng>
+		<ukr>Трубопровід 4</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_22">
+		<rus>Подстанция</rus>
+		<eng>Подстанция</eng>
+		<ukr>Підстанція</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_23">
+		<rus>Рельсы</rus>
+		<eng>Рельсы</eng>
+		<ukr>Рельси</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_24">
+		<rus>Свалка, за остановкой</rus>
+		<eng>Свалка, за остановкой</eng>
+		<ukr>Звалище, за зупинкою</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_25">
+		<rus>Ящик в отходах у кладбища техники</rus>
+		<eng>Ящик в отходах у кладбища техники</eng>
+		<ukr>Ящик у брухті біля кладовища техніки</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_26">
+		<rus>Кран</rus>
+		<eng>Кран</eng>
+		<ukr>Кран</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_27">
+		<rus>Переход на Кордон</rus>
+		<eng>Переход на Кордон</eng>
+		<ukr>Перехід на Кордон</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_28">
+		<rus>Молотилка</rus>
+		<eng>Молотилка</eng>
+		<ukr>Молотилка</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_29">
+		<rus>Люк с задвижкой</rus>
+		<eng>Люк с задвижкой</eng>
+		<ukr>Люк із засувкою</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_30">
+		<rus>Вход в секретный бункер</rus>
+		<eng>Вход в секретный бункер</eng>
+		<ukr>Вхід у секретний бункер</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_31">
+		<rus>ЛЭП</rus>
+		<eng>ЛЭП</eng>
+		<ukr>ЛЕП</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_32">
+		<rus>Труба в отходах у кладбища техники</rus>
+		<eng>Труба в отходах у кладбища техники</eng>
+		<ukr>Труба у брухті біля кладовища техніки</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_33">
+		<rus>В развалинах 1</rus>
+		<eng>В развалинах 1</eng>
+		<ukr>У розвалинах 1</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_34">
+		<rus>В развалинах 2</rus>
+		<eng>В развалинах 2</eng>
+		<ukr>У розвалинах 2</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_35">
+		<rus>В развалинах 3</rus>
+		<eng>В развалинах 3</eng>
+		<ukr>У розвалинах 3</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_36">
+		<rus>В развалинах 4</rus>
+		<eng>В развалинах 4</eng>
+		<ukr>У розвалинах 4</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_37">
+		<rus>В трубе</rus>
+		<eng>В трубе</eng>
+		<ukr>У трубі</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_38">
+		<rus>Под П-образными плитами 1</rus>
+		<eng>Под П-образными плитами 1</eng>
+		<ukr>Під П-подібними плитами 1</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_39">
+		<rus>Под П-образными плитами 2</rus>
+		<eng>Под П-образными плитами 2</eng>
+		<ukr>Під П-подібними плитами 2</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_40">
+		<rus>Край балки под крышей</rus>
+		<eng>Край балки под крышей</eng>
+		<ukr>Край балки під дахом</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_41">
+		<rus>Трещина в балке</rus>
+		<eng>Трещина в балке</eng>
+		<ukr>Тріщина в балці</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_42">
+		<rus>Обломки крана</rus>
+		<eng>Обломки крана</eng>
+		<ukr>Уламки крану</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_43">
+		<rus>Кабина в отходах 1</rus>
+		<eng>Кабина в отходах 1</eng>
+		<ukr>Кабіна у брухті 1</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_44">
+		<rus>Кабина в отходах 2</rus>
+		<eng>Кабина в отходах 2</eng>
+		<ukr>Кабіна у брухті 2</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_45">
+		<rus>Кабина в отходах 3</rus>
+		<eng>Кабина в отходах 3</eng>
+		<ukr>Кабіна у брухті 3</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_46">
+		<rus>Кабина в отходах 4</rus>
+		<eng>Кабина в отходах 4</eng>
+		<ukr>Кабіна у брухті 4</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_47">
+		<rus>Кабина в отходах 5</rus>
+		<eng>Кабина в отходах 5</eng>
+		<ukr>Кабіна у брухті 5</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_48">
+		<rus>Кабина в отходах 6</rus>
+		<eng>Кабина в отходах 6</eng>
+		<ukr>Кабіна у брухті 6</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_49">
+		<rus>Кабина в отходах 7</rus>
+		<eng>Кабина в отходах 7</eng>
+		<ukr>Кабіна у брухті 7</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_50">
+		<rus>Кабина в отходах 8</rus>
+		<eng>Кабина в отходах 8</eng>
+		<ukr>Кабіна у брухті 8</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_51">
+		<rus>Кабина в отходах 9</rus>
+		<eng>Кабина в отходах 9</eng>
+		<ukr>Кабіна у брухті 9</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_52">
+		<rus>Большой контейнер</rus>
+		<eng>Большой контейнер</eng>
+		<ukr>Великий контейнер</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_53">
+		<rus>Плиты перекрытия</rus>
+		<eng>Плиты перекрытия</eng>
+		<ukr>Плити перекриття</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_54">
+		<rus>Серп и Молот</rus>
+		<eng>Серп и Молот</eng>
+		<ukr>Серп і Молот</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_55">
+		<rus>Ржавая будка</rus>
+		<eng>Ржавая будка</eng>
+		<ukr>Іржава будка</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_56">
+		<rus>Под матрасом</rus>
+		<eng>Под матрасом</eng>
+		<ukr>Під матрацом</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_57">
+		<rus>Тепловоз</rus>
+		<eng>Тепловоз</eng>
+		<ukr>Тепловоз</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_58">
+		<rus>Ворота</rus>
+		<eng>Ворота</eng>
+		<ukr>Ворота</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_59">
+		<rus>Знак радиоактивности</rus>
+		<eng>Знак радиоактивности</eng>
+		<ukr>Знак радіоактивності</ukr>
+	</string>
+	<string id="task_zonedocs_garbage_60">
+		<rus>Балка из земли</rus>
+		<eng>Балка из земли</eng>
+		<ukr>Балка з землі</ukr>
+	</string>
+	<string id="task_zonedocs_esc_0">
+		<rus>Собрать части дoкументoв на Кордоне</rus>
+		<eng>Собрать части дoкументoв на Кордоне</eng>
+		<ukr>Зібрати частини документів на Кордоні</ukr>
+	</string>
+	<string id="task_zonedocs_esc_1">
+		<rus>Люк</rus>
+		<eng>Люк</eng>
+		<ukr>Люк</ukr>
+	</string>
+	<string id="task_zonedocs_esc_2">
+		<rus>Кладбище</rus>
+		<eng>Кладбище</eng>
+		<ukr>Кладовище</ukr>
+	</string>
+	<string id="task_zonedocs_esc_3">
+		<rus>За блокпостом 1</rus>
+		<eng>За блокпостом 1</eng>
+		<ukr>За блокпостом 1</ukr>
+	</string>
+	<string id="task_zonedocs_esc_4">
+		<rus>За блокпостом 2</rus>
+		<eng>За блокпостом 2</eng>
+		<ukr>За блокпостом 2</ukr>
+	</string>
+	<string id="task_zonedocs_esc_5">
+		<rus>2 этаж блокпоста</rus>
+		<eng>2 этаж блокпоста</eng>
+		<ukr>2 поверх блокпоста</ukr>
+	</string>
+	<string id="task_zonedocs_esc_6">
+		<rus>Крыша блокпоста</rus>
+		<eng>Крыша блокпоста</eng>
+		<ukr>Дах блокпоста</ukr>
+	</string>
+	<string id="task_zonedocs_esc_7">
+		<rus>Один из туннелей 1</rus>
+		<eng>Один из туннелей 1</eng>
+		<ukr>Один з тунелів 1</ukr>
+	</string>
+	<string id="task_zonedocs_esc_8">
+		<rus>Один из туннелей 2</rus>
+		<eng>Один из туннелей 2</eng>
+		<ukr>Один з тунелів 2</ukr>
+	</string>
+	<string id="task_zonedocs_esc_9">
+		<rus>Мельница</rus>
+		<eng>Мельница</eng>
+		<ukr>Млин</ukr>
+	</string>
+	<string id="task_zonedocs_esc_10">
+		<rus>За ящиком с консервами</rus>
+		<eng>За ящиком с консервами</eng>
+		<ukr>За ящиком з консервами</ukr>
+	</string>
+	<string id="task_zonedocs_esc_11">
+		<rus>Аномалия</rus>
+		<eng>Аномалия</eng>
+		<ukr>Аномалія</ukr>
+	</string>
+	<string id="task_zonedocs_esc_12">
+		<rus>Логово зверей</rus>
+		<eng>Логово зверей</eng>
+		<ukr>Лігво звірів</ukr>
+	</string>
+	<string id="task_zonedocs_esc_13">
+		<rus>Логово кабанов</rus>
+		<eng>Логово кабанов</eng>
+		<ukr>Лігво кабанів</ukr>
+	</string>
+	<string id="task_zonedocs_esc_14">
+		<rus>Логово псевдогиганта</rus>
+		<eng>Логово псевдогиганта</eng>
+		<ukr>Лігво псевдогіганта</ukr>
+	</string>
+	<string id="task_zonedocs_esc_15">
+		<rus>Логово собак</rus>
+		<eng>Логово собак</eng>
+		<ukr>Лігво собак</ukr>
+	</string>
+	<string id="task_zonedocs_esc_16">
+		<rus>Камни за насыпью</rus>
+		<eng>Камни за насыпью</eng>
+		<ukr>Каміння за насипом</ukr>
+	</string>
+	<string id="task_zonedocs_esc_17">
+		<rus>Грузовик смерти</rus>
+		<eng>Грузовик смерти</eng>
+		<ukr>Вантажівка смерті</ukr>
+	</string>
+	<string id="task_zonedocs_esc_18">
+		<rus>У перехода с Болот</rus>
+		<eng>У перехода с Болот</eng>
+		<ukr>Біля переходу з Боліт</ukr>
+	</string>
+	<string id="task_zonedocs_esc_19">
+		<rus>У шлагбаума</rus>
+		<eng>У шлагбаума</eng>
+		<ukr>Біля шлагбаума</ukr>
+	</string>
+	<string id="task_zonedocs_esc_20">
+		<rus>Изгиб ограды в лесу, где собаки</rus>
+		<eng>Изгиб ограды в лесу, где собаки</eng>
+		<ukr>Вигин огорожі в лісі, де собаки</ukr>
+	</string>
+	<string id="task_zonedocs_esc_21">
+		<rus>Высохший труп 1</rus>
+		<eng>Высохший труп 1</eng>
+		<ukr>Висохший труп 1</ukr>
+	</string>
+	<string id="task_zonedocs_esc_22">
+		<rus>Высохший труп 2</rus>
+		<eng>Высохший труп 2</eng>
+		<ukr>Висохший труп 2</ukr>
+	</string>
+	<string id="task_zonedocs_esc_23">
+		<rus>Высохший труп 3</rus>
+		<eng>Высохший труп 3</eng>
+		<ukr>Висохший труп 3</ukr>
+	</string>
+	<string id="task_zonedocs_esc_24">
+		<rus>Поваленное дерево</rus>
+		<eng>Поваленное дерево</eng>
+		<ukr>Повалене дерево</ukr>
+	</string>
+	<string id="task_zonedocs_esc_25">
+		<rus>Ферма 1</rus>
+		<eng>Ферма 1</eng>
+		<ukr>Ферма 1</ukr>
+	</string>
+	<string id="task_zonedocs_esc_26">
+		<rus>Ферма 2</rus>
+		<eng>Ферма 2</eng>
+		<ukr>Ферма 2</ukr>
+	</string>
+	<string id="task_zonedocs_esc_27">
+		<rus>Ферма 3</rus>
+		<eng>Ферма 3</eng>
+		<ukr>Ферма 3</ukr>
+	</string>
+	<string id="task_zonedocs_esc_28">
+		<rus>Ферма 4</rus>
+		<eng>Ферма 4</eng>
+		<ukr>Ферма 4</ukr>
+	</string>
+	<string id="task_zonedocs_esc_29">
+		<rus>Вагон 1</rus>
+		<eng>Вагон 1</eng>
+		<ukr>Вагон 1</ukr>
+	</string>
+	<string id="task_zonedocs_esc_30">
+		<rus>Вагон 2</rus>
+		<eng>Вагон 2</eng>
+		<ukr>Вагон 2</ukr>
+	</string>
+	<string id="task_zonedocs_esc_31">
+		<rus>Вагон 3</rus>
+		<eng>Вагон 3</eng>
+		<ukr>Вагон 3</ukr>
+	</string>
+	<string id="task_zonedocs_esc_32">
+		<rus>Балка перекрытия на складе у остановки</rus>
+		<eng>Балка перекрытия на складе у остановки</eng>
+		<ukr>Балка перекриття на складі біля зупинки</ukr>
+	</string>
+	<string id="task_zonedocs_esc_33">
+		<rus>Под лестницей</rus>
+		<eng>Под лестницей</eng>
+		<ukr>Під сходами</ukr>
+	</string>
+	<string id="task_zonedocs_esc_34">
+		<rus>Плакат на чердаке</rus>
+		<eng>Плакат на чердаке</eng>
+		<ukr>Плакат на даху</ukr>
+	</string>
+	<string id="task_zonedocs_esc_35">
+		<rus>Камаз</rus>
+		<eng>Камаз</eng>
+		<ukr>Камаз</ukr>
+	</string>
+	<string id="task_zonedocs_esc_36">
+		<rus>Кусок чугунной трубы</rus>
+		<eng>Кусок чугунной трубы</eng>
+		<ukr>Шматок чугунної труби</ukr>
+	</string>
+	<string id="task_zonedocs_esc_37">
+		<rus>Кабина крана</rus>
+		<eng>Кабина крана</eng>
+		<ukr>Кабіна крану</ukr>
+	</string>
+	<string id="task_zonedocs_esc_38">
+		<rus>Рельсы</rus>
+		<eng>Рельсы</eng>
+		<ukr>Рельси</ukr>
+	</string>
+	<string id="task_zonedocs_esc_39">
+		<rus>Оградка у дерева</rus>
+		<eng>Оградка у дерева</eng>
+		<ukr>Огорожа біля дерева</ukr>
+	</string>
+	<string id="task_zonedocs_esc_40">
+		<rus>Вагончик</rus>
+		<eng>Вагончик</eng>
+		<ukr>Вагончик</ukr>
+	</string>
+	<string id="task_zonedocs_esc_41">
+		<rus>Над входом в дом</rus>
+		<eng>Над входом в дом</eng>
+		<ukr>Над входом у будинок</ukr>
+	</string>
+	<string id="task_zonedocs_esc_42">
+		<rus>Минное поле</rus>
+		<eng>Минное поле</eng>
+		<ukr>Мінне поле</ukr>
+	</string>
+	<string id="task_zonedocs_esc_43">
+		<rus>Ржавая сосна</rus>
+		<eng>Ржавая сосна</eng>
+		<ukr>Іржава сосна</ukr>
+	</string>
+	<string id="task_zonedocs_esc_44">
+		<rus>Камни на юго-востоке</rus>
+		<eng>Камни на юго-востоке</eng>
+		<ukr>Каміння на південному сході</ukr>
+	</string>
+	<string id="task_zonedocs_esc_45">
+		<rus>Камни на западе</rus>
+		<eng>Камни на западе</eng>
+		<ukr>Каміння на заході</ukr>
+	</string>
+	<string id="task_zonedocs_esc_46">
+		<rus>Камни на востоке</rus>
+		<eng>Камни на востоке</eng>
+		<ukr>Каміння на сході</ukr>
+	</string>
+	<string id="task_zonedocs_esc_47">
+		<rus>Камни на севере 1</rus>
+		<eng>Камни на севере 1</eng>
+		<ukr>Каміння на півночі 1</ukr>
+	</string>
+	<string id="task_zonedocs_esc_48">
+		<rus>Камни на севере 2</rus>
+		<eng>Камни на севере 2</eng>
+		<ukr>Каміння на півночі 2</ukr>
+	</string>
+	<string id="task_zonedocs_esc_49">
+		<rus>Бочки в углу</rus>
+		<eng>Бочки в углу</eng>
+		<ukr>Бочки у кутку</ukr>
+	</string>
+	<string id="task_zonedocs_esc_50">
+		<rus>Под кроватью</rus>
+		<eng>Под кроватью</eng>
+		<ukr>Під ліжком</ukr>
+	</string>
+	<string id="task_zonedocs_esc_51">
+		<rus>Ящики</rus>
+		<eng>Ящики</eng>
+		<ukr>Ящики</ukr>
+	</string>
+	<string id="task_zonedocs_esc_52">
+		<rus>Железные ворота</rus>
+		<eng>Железные ворота</eng>
+		<ukr>Залізні ворота</ukr>
+	</string>
+	<string id="task_zonedocs_esc_53">
+		<rus>Под забором</rus>
+		<eng>Под забором</eng>
+		<ukr>Під парканом</ukr>
+	</string>
+	<string id="task_zonedocs_esc_54">
+		<rus>Чердак в деревне новичков</rus>
+		<eng>Чердак в деревне новичков</eng>
+		<ukr>Горище у селищі новачків</ukr>
+	</string>
+	<string id="task_zonedocs_esc_55">
+		<rus>Телевизор</rus>
+		<eng>Телевизор</eng>
+		<ukr>Телевізор</ukr>
+	</string>
+	<string id="task_zonedocs_esc_56">
+		<rus>Один листок подобрал Сидор, забрать у него</rus>
+		<eng>Один листок подобрал Сидор, забрать у него</eng>
+		<ukr>Один листок підібрав Сидор, забрати у нього</ukr>
+	</string>
+	<string id="task_zonedocs_esc_57">
+		<rus>Разрушенный дом 1</rus>
+		<eng>Разрушенный дом 1</eng>
+		<ukr>Зруйнований будинок 1</ukr>
+	</string>
+	<string id="task_zonedocs_esc_58">
+		<rus>Разрушенный дом 2</rus>
+		<eng>Разрушенный дом 2</eng>
+		<ukr>Зруйнований будинок 2</ukr>
+	</string>
+	<string id="task_zonedocs_esc_59">
+		<rus>Разрушенный дом 3</rus>
+		<eng>Разрушенный дом 3</eng>
+		<ukr>Зруйнований будинок 3</ukr>
+	</string>
+	<string id="task_zonedocs_esc_60">
+		<rus>Тепловоз</rus>
+		<eng>Тепловоз</eng>
+		<ukr>Тепловоз</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_0">
+		<rus>Собрать части дoкументoв на Болотах</rus>
+		<eng>Собрать части дoкументoв на Болотах</eng>
+		<ukr>Зібрати частини документів на Болотах</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_1">
+		<rus>Ворота на ж/д</rus>
+		<eng>Ворота на ж/д</eng>
+		<ukr>Ворота на залізницю</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_2">
+		<rus>Душ</rus>
+		<eng>Душ</eng>
+		<ukr>Душ</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_3">
+		<rus>Старая аномалия</rus>
+		<eng>Старая аномалия</eng>
+		<ukr>Стара аномалія</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_4">
+		<rus>Сгоревший хутор</rus>
+		<eng>Сгоревший хутор</eng>
+		<ukr>Згорівший хутір</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_5">
+		<rus>Труба, где кончаются провода</rus>
+		<eng>Труба, где кончаются провода</eng>
+		<ukr>Труба, де закінчуються провода</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_6">
+		<rus>Вышка</rus>
+		<eng>Вышка</eng>
+		<ukr>Вишка</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_7">
+		<rus>Юго-западный край</rus>
+		<eng>Юго-западный край</eng>
+		<ukr>Південно-західний край</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_8">
+		<rus>Старые кроссовки на печи</rus>
+		<eng>Старые кроссовки на печи</eng>
+		<ukr>Старі кросівки на пічці</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_9">
+		<rus>Чердак на базе ЧН</rus>
+		<eng>Чердак на базе ЧН</eng>
+		<ukr>Горище на базі ЧН</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_10">
+		<rus>Цистерна возле трубопровода</rus>
+		<eng>Цистерна возле трубопровода</eng>
+		<ukr>Цистерна біля трубопровода</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_11">
+		<rus>Ремонтник</rus>
+		<eng>Ремонтник</eng>
+		<ukr>Ремонтник</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_12">
+		<rus>Мусорный бак</rus>
+		<eng>Мусорный бак</eng>
+		<ukr>Сміттєвий бак</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_13">
+		<rus>Лодка у восточного края</rus>
+		<eng>Лодка у восточного края</eng>
+		<ukr>Човен біля східного краю</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_14">
+		<rus>Икона и матрас</rus>
+		<eng>Икона и матрас</eng>
+		<ukr>Ікона і матрац</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_15">
+		<rus>Каменный мост</rus>
+		<eng>Каменный мост</eng>
+		<ukr>Кам'яний міст</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_16">
+		<rus>Прямо под ЛЭП 1</rus>
+		<eng>Прямо под ЛЭП 1</eng>
+		<ukr>Прямо под ЛЕП 1</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_17">
+		<rus>Прямо под ЛЭП 2</rus>
+		<eng>Прямо под ЛЭП 2</eng>
+		<ukr>Прямо под ЛЕП 2</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_18">
+		<rus>Дерево, перегородившее дорогу</rus>
+		<eng>Дерево, перегородившее дорогу</eng>
+		<ukr>Дерево, яке перегородило дорогу</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_19">
+		<rus>Бревенчатый заборчик за ЛЭП</rus>
+		<eng>Бревенчатый заборчик за ЛЭП</eng>
+		<ukr>Дерев'яний парканчик за ЛЕП</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_20">
+		<rus>Камни у перехода</rus>
+		<eng>Камни у перехода</eng>
+		<ukr>Каміння біля переходу</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_21">
+		<rus>Механизаторский двор</rus>
+		<eng>Механизаторский двор</eng>
+		<ukr>Механізаторський двір</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_22">
+		<rus>Цистерна на механизаторском дворе</rus>
+		<eng>Цистерна на механизаторском дворе</eng>
+		<ukr>Цистерна на механізаторському дворі</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_23">
+		<rus>Одинокая опора у двух мостков</rus>
+		<eng>Одинокая опора у двух мостков</eng>
+		<ukr>Одинока опора біля двох містків</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_24">
+		<rus>Кладбище 1</rus>
+		<eng>Кладбище 1</eng>
+		<ukr>Кладовище 1</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_25">
+		<rus>Кладбище 2</rus>
+		<eng>Кладбище 2</eng>
+		<ukr>Кладовище 2</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_26">
+		<rus>Водонапорная башня</rus>
+		<eng>Водонапорная башня</eng>
+		<ukr>Водонапірна вежа</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_27">
+		<rus>Подстанция</rus>
+		<eng>Подстанция</eng>
+		<ukr>Підстанція</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_28">
+		<rus>Южный хутор</rus>
+		<eng>Южный хутор</eng>
+		<ukr>Південний хутір</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_29">
+		<rus>Икона на чердаке</rus>
+		<eng>Икона на чердаке</eng>
+		<ukr>Ікона на горищі</ukr>
+	</string>
+	<string id="task_zonedocs_marsh_30">
+		<rus>Ржавый умывальник</rus>
+		<eng>Ржавый умывальник</eng>
+		<ukr>Іржавий умивальник</ukr>
+	</string>
+	<string id="task_zonedocs_agro_0">
+		<rus>Собрать части дoкументoв на Агропроме</rus>
+		<eng>Собрать части дoкументoв на Агропроме</eng>
+		<ukr>Зібрати частини документів на Агропромі</ukr>
+	</string>
+	<string id="task_zonedocs_agro_1">
+		<rus>Диван</rus>
+		<eng>Диван</eng>
+		<ukr>Диван</ukr>
+	</string>
+	<string id="task_zonedocs_agro_2">
+		<rus>Крыша в центральном комплексе</rus>
+		<eng>Крыша в центральном комплексе</eng>
+		<ukr>Дах в Центральному комплексі</ukr>
+	</string>
+	<string id="task_zonedocs_agro_3">
+		<rus>Трубопровод</rus>
+		<eng>Трубопровод</eng>
+		<ukr>Трубопровід</ukr>
+	</string>
+	<string id="task_zonedocs_agro_4">
+		<rus>У больших ворот</rus>
+		<eng>У больших ворот</eng>
+		<ukr>Біля великих воріт</ukr>
+	</string>
+	<string id="task_zonedocs_agro_5">
+		<rus>Логово кошек</rus>
+		<eng>Логово кошек</eng>
+		<ukr>Лігво кішок</ukr>
+	</string>
+	<string id="task_zonedocs_agro_6">
+		<rus>ЛЭП</rus>
+		<eng>ЛЭП</eng>
+		<ukr>ЛЕП</ukr>
+	</string>
+	<string id="task_zonedocs_agro_7">
+		<rus>Овраг</rus>
+		<eng>Овраг</eng>
+		<ukr>Яр</ukr>
+	</string>
+	<string id="task_zonedocs_agro_8">
+		<rus>Ж/д тупик</rus>
+		<eng>Ж/д тупик</eng>
+		<ukr>Залізничний тупик</ukr>
+	</string>
+	<string id="task_zonedocs_agro_9">
+		<rus>Вход в подземелье</rus>
+		<eng>Вход в подземелье</eng>
+		<ukr>Вхід в підземелля</ukr>
+	</string>
+	<string id="task_zonedocs_agro_10">
+		<rus>Мусорный бак</rus>
+		<eng>Мусорный бак</eng>
+		<ukr>Сміттєвий бак</ukr>
+	</string>
+	<string id="task_zonedocs_agro_11">
+		<rus>Стройматериалы</rus>
+		<eng>Стройматериалы</eng>
+		<ukr>Будматеріали</ukr>
+	</string>
+	<string id="task_zonedocs_agro_12">
+		<rus>Вагоны</rus>
+		<eng>Вагоны</eng>
+		<ukr>Вагони</ukr>
+	</string>
+	<string id="task_zonedocs_agro_13">
+		<rus>Брошенный прицеп</rus>
+		<eng>Брошенный прицеп</eng>
+		<ukr>Покинутий причіп</ukr>
+	</string>
+	<string id="task_zonedocs_agro_14">
+		<rus>Берег болота</rus>
+		<eng>Берег болота</eng>
+		<ukr>Берег болота</ukr>
+	</string>
+	<string id="task_zonedocs_agro_15">
+		<rus>БТР</rus>
+		<eng>БТР</eng>
+		<ukr>БТР</ukr>
+	</string>
+	<string id="task_zonedocs_agro_16">
+		<rus>Цистерны</rus>
+		<eng>Цистерны</eng>
+		<ukr>Цистерни</ukr>
+	</string>
+	<string id="task_zonedocs_agro_17">
+		<rus>Казармы</rus>
+		<eng>Казармы</eng>
+		<ukr>Казарми</ukr>
+	</string>
+	<string id="task_zonedocs_agro_18">
+		<rus>Запорожец</rus>
+		<eng>Запорожец</eng>
+		<ukr>Запорожець</ukr>
+	</string>
+	<string id="task_zonedocs_agro_19">
+		<rus>Логово кабанов</rus>
+		<eng>Логово кабанов</eng>
+		<ukr>Лігво кабанів</ukr>
+	</string>
+	<string id="task_zonedocs_agro_20">
+		<rus>Разрушенная ограда</rus>
+		<eng>Разрушенная ограда</eng>
+		<ukr>Зруйнована загорожена</ukr>
+	</string>
+	<string id="task_zonedocs_agro_21">
+		<rus>Сопка у "Хваталки"</rus>
+		<eng>Сопка у "Хваталки"</eng>
+		<ukr>Сопка біля "ХваталкиЄ</ukr>
+	</string>
+	<string id="task_zonedocs_agro_22">
+		<rus>Верхние этажи НИИ 1</rus>
+		<eng>Верхние этажи НИИ 1</eng>
+		<ukr>Верхні поверхи НДІ 1</ukr>
+	</string>
+	<string id="task_zonedocs_agro_23">
+		<rus>Верхние этажи НИИ 2</rus>
+		<eng>Верхние этажи НИИ 2</eng>
+		<ukr>Верхні поверхи НДІ 2</ukr>
+	</string>
+	<string id="task_zonedocs_agro_24">
+		<rus>Крыша НИИ</rus>
+		<eng>Крыша НИИ</eng>
+		<ukr>Дах НДІ</ukr>
+	</string>
+	<string id="task_zonedocs_agro_25">
+		<rus>Строительный вагончик</rus>
+		<eng>Строительный вагончик</eng>
+		<ukr>Будівельний вагончик</ukr>
+	</string>
+	<string id="task_zonedocs_agro_26">
+		<rus>Шахта</rus>
+		<eng>Шахта</eng>
+		<ukr>Шахта</ukr>
+	</string>
+	<string id="task_zonedocs_puzir_0">
+		<rus>Собрать части дoкументoв в Забытом лесу</rus>
+		<eng>Собрать части дoкументoв в Забытом лесу</eng>
+		<ukr>Зібрати частини документів у Забутому Лісі</ukr>
+	</string>
+	<string id="task_zonedocs_puzir_1">
+		<rus>Красные бочки</rus>
+		<eng>Красные бочки</eng>
+		<ukr>Червоні бочки</ukr>
+	</string>
+	<string id="task_zonedocs_puzir_2">
+		<rus>Самый высокий холм</rus>
+		<eng>Самый высокий холм</eng>
+		<ukr>Самий високий пагорб</ukr>
+	</string>
+	<string id="task_zonedocs_puzir_3">
+		<rus>Поваленное дерево 1</rus>
+		<eng>Поваленное дерево 1</eng>
+		<ukr>Повалене дерево 1</ukr>
+	</string>
+	<string id="task_zonedocs_puzir_4">
+		<rus>Поваленное дерево 2</rus>
+		<eng>Поваленное дерево 2</eng>
+		<ukr>Повалене дерево 2</ukr>
+	</string>
+	<string id="task_zonedocs_puzir_5">
+		<rus>Камни в центре</rus>
+		<eng>Камни в центре</eng>
+		<ukr>Каміння в центрі</ukr>
+	</string>
+	<string id="task_zonedocs_puzir_6">
+		<rus>У перехода</rus>
+		<eng>У перехода</eng>
+		<ukr>Біля переходу</ukr>
+	</string>
+	<string id="task_zonedocs_td_0">
+		<rus>Собрать части дoкументoв в Тёмной Долине</rus>
+		<eng>Собрать части дoкументoв в Тёмной Долине</eng>
+		<ukr>Зібрати частини документів в Темній Долині</ukr>
+	</string>
+	<string id="task_zonedocs_td_1">
+		<rus>Один из переходов</rus>
+		<eng>Один из переходов</eng>
+		<ukr>Один з переходів</ukr>
+	</string>
+	<string id="task_zonedocs_td_2">
+		<rus>На карте есть аномалия - а на самом деле её нет</rus>
+		<eng>На карте есть аномалия - а на самом деле её нет</eng>
+		<ukr>На карті є аномалія - а насправді її нема</ukr>
+	</string>
+	<string id="task_zonedocs_td_3">
+		<rus>Болото 1</rus>
+		<eng>Болото 1</eng>
+		<ukr>Болото 1</ukr>
+	</string>
+	<string id="task_zonedocs_td_4">
+		<rus>Болото 2</rus>
+		<eng>Болото 2</eng>
+		<ukr>Болото 2</ukr>
+	</string>
+	<string id="task_zonedocs_td_5">
+		<rus>Камаз</rus>
+		<eng>Камаз</eng>
+		<ukr>Камаз</ukr>
+	</string>
+	<string id="task_zonedocs_td_6">
+		<rus>Между фермой и переходом на Свалку</rus>
+		<eng>Между фермой и переходом на Свалку</eng>
+		<ukr>Між фермою і переходом на Звалище</ukr>
+	</string>
+	<string id="task_zonedocs_td_7">
+		<rus>Зелёный закуток на военной базе</rus>
+		<eng>Зелёный закуток на военной базе</eng>
+		<ukr>Зелений закуток на військовій базі</ukr>
+	</string>
+	<string id="task_zonedocs_td_8">
+		<rus>Мельница</rus>
+		<eng>Мельница</eng>
+		<ukr>Млин</ukr>
+	</string>
+	<string id="task_zonedocs_td_9">
+		<rus>Логово химер</rus>
+		<eng>Логово химер</eng>
+		<ukr>Лігво химер</ukr>
+	</string>
+	<string id="task_zonedocs_td_10">
+		<rus>Доска почёта</rus>
+		<eng>Доска почёта</eng>
+		<ukr>Дошка пошани</ukr>
+	</string>
+	<string id="task_zonedocs_td_11">
+		<rus>Заправка</rus>
+		<eng>Заправка</eng>
+		<ukr>Заправка</ukr>
+	</string>
+	<string id="task_zonedocs_td_12">
+		<rus>Балкон</rus>
+		<eng>Балкон</eng>
+		<ukr>Балкон</ukr>
+	</string>
+	<string id="task_zonedocs_td_13">
+		<rus>Жестяная крыша</rus>
+		<eng>Жестяная крыша</eng>
+		<ukr>Жестяний дах</ukr>
+	</string>
+	<string id="task_zonedocs_td_14">
+		<rus>Подвал с пленником</rus>
+		<eng>Подвал с пленником</eng>
+		<ukr>Підвал з полоненим</ukr>
+	</string>
+	<string id="task_zonedocs_td_15">
+		<rus>Брошенная стройка 1</rus>
+		<eng>Брошенная стройка 1</eng>
+		<ukr>Покинуте будівництво 1</ukr>
+	</string>
+	<string id="task_zonedocs_td_16">
+		<rus>Брошенная стройка 2</rus>
+		<eng>Брошенная стройка 2</eng>
+		<ukr>Покинуте будівництво 2</ukr>
+	</string>
+	<string id="task_zonedocs_td_17">
+		<rus>Очистные сооружения</rus>
+		<eng>Очистные сооружения</eng>
+		<ukr>Очисні споруди</ukr>
+	</string>
+	<string id="task_zonedocs_td_18">
+		<rus>За зелёным забором</rus>
+		<eng>За зелёным забором</eng>
+		<ukr>За зеленим парканом</ukr>
+	</string>
+	<string id="task_zonedocs_td_19">
+		<rus>Блокпост на заброшенной дороге</rus>
+		<eng>Блокпост на заброшенной дороге</eng>
+		<ukr>Блокпост на покинутій дорозі</ukr>
+	</string>
+	<string id="task_zonedocs_td_20">
+		<rus>Подстанция</rus>
+		<eng>Подстанция</eng>
+		<ukr>Підстанція</ukr>
+	</string>
+	<string id="task_zonedocs_td_21">
+		<rus>Над зелёной лампой</rus>
+		<eng>Над зелёной лампой</eng>
+		<ukr>Над зеленою лампою</ukr>
+	</string>
+	<string id="task_zonedocs_td_22">
+		<rus>Ферма</rus>
+		<eng>Ферма</eng>
+		<ukr>Ферма</ukr>
+	</string>
+	<string id="task_zonedocs_td_23">
+		<rus>Крыша гаража</rus>
+		<eng>Крыша гаража</eng>
+		<ukr>Дах гаража</ukr>
+	</string>
+	<string id="task_zonedocs_td_24">
+		<rus>Шахта лифта</rus>
+		<eng>Шахта лифта</eng>
+		<ukr>Шахта ліфта</ukr>
+	</string>
+	<string id="task_zonedocs_td_25">
+		<rus>Железный контейнер</rus>
+		<eng>Железный контейнер</eng>
+		<ukr>Залізний контейнер</ukr>
+	</string>
+	<string id="task_zonedocs_td_26">
+		<rus>Трубопровод</rus>
+		<eng>Трубопровод</eng>
+		<ukr>Трубопровід</ukr>
+	</string>
+	<string id="task_zonedocs_td_27">
+		<rus>Крыша на военной базе</rus>
+		<eng>Крыша на военной базе</eng>
+		<ukr>Дах на військовій базі</ukr>
+	</string>
+	<string id="task_zonedocs_td_28">
+		<rus>За сломанной балкой</rus>
+		<eng>За сломанной балкой</eng>
+		<ukr>За зламаною балкою</ukr>
+	</string>
+	<string id="task_zonedocs_td_29">
+		<rus>Водонапорная башня</rus>
+		<eng>Водонапорная башня</eng>
+		<ukr>Водонапірна вежа</ukr>
+	</string>
+	<string id="task_zonedocs_td_30">
+		<rus>Овраг</rus>
+		<eng>Овраг</eng>
+		<ukr>Яр</ukr>
+	</string>
+	<string id="task_zonedocs_atp_0">
+		<rus>Собрать части дoкументoв на АТП</rus>
+		<eng>Собрать части дoкументoв на АТП</eng>
+		<ukr>Зібрати частини документів на АТП</ukr>
+	</string>
+	<string id="task_zonedocs_atp_1">
+		<rus>Озеро</rus>
+		<eng>Озеро</eng>
+		<ukr>Озеро</ukr>
+	</string>
+	<string id="task_zonedocs_atp_2">
+		<rus>Камыши</rus>
+		<eng>Камыши</eng>
+		<ukr>Очерети</ukr>
+	</string>
+	<string id="task_zonedocs_atp_3">
+		<rus>Металлолом в лесу</rus>
+		<eng>Металлолом в лесу</eng>
+		<ukr>Металобрухт у лісі</ukr>
+	</string>
+	<string id="task_zonedocs_atp_4">
+		<rus>Ложбина у выхода с базы</rus>
+		<eng>Ложбина у выхода с базы</eng>
+		<ukr>Впадина біля виходу з бази</ukr>
+	</string>
+	<string id="task_zonedocs_atp_5">
+		<rus>Автобус</rus>
+		<eng>Автобус</eng>
+		<ukr>Автобус</ukr>
+	</string>
+	<string id="task_zonedocs_atp_6">
+		<rus>Логово тушканов</rus>
+		<eng>Логово тушканов</eng>
+		<ukr>Лігво тушканів</ukr>
+	</string>
+	<string id="task_zonedocs_atp_7">
+		<rus>Двойной забор</rus>
+		<eng>Двойной забор</eng>
+		<ukr>Подвійний паркан</ukr>
+	</string>
+	<string id="task_zonedocs_atp_8">
+		<rus>Одинокий камаз</rus>
+		<eng>Одинокий камаз</eng>
+		<ukr>Одинокий камаз</ukr>
+	</string>
+	<string id="task_zonedocs_atp_9">
+		<rus>Гараж</rus>
+		<eng>Гараж</eng>
+		<ukr>Гараж</ukr>
+	</string>
+	<string id="task_zonedocs_atp_10">
+		<rus>Блокпост 1</rus>
+		<eng>Блокпост 1</eng>
+		<ukr>Блокпост 1</ukr>
+	</string>
+	<string id="task_zonedocs_atp_11">
+		<rus>Блокпост 2</rus>
+		<eng>Блокпост 2</eng>
+		<ukr>Блокпост 2</ukr>
+	</string>
+	<string id="task_zonedocs_atp_12">
+		<rus>Одна из крыш</rus>
+		<eng>Одна из крыш</eng>
+		<ukr>Один з дахів</ukr>
+	</string>
+	<string id="task_zonedocs_atp_13">
+		<rus>Мельница</rus>
+		<eng>Мельница</eng>
+		<ukr>Млин</ukr>
+	</string>
+	<string id="task_zonedocs_atp_14">
+		<rus>Бетонная труба</rus>
+		<eng>Бетонная труба</eng>
+		<ukr>Бетонна труба</ukr>
+	</string>
+	<string id="task_zonedocs_atp_15">
+		<rus>Самопал</rus>
+		<eng>Самопал</eng>
+		<ukr>Самопал</ukr>
+	</string>
+	<string id="task_zonedocs_dt_0">
+		<rus>Собрать части дoкументoв на Дикой Территории</rus>
+		<eng>Собрать части дoкументoв на Дикой Территории</eng>
+		<ukr>Зібрати частини документів на Дикій Території</ukr>
+	</string>
+	<string id="task_zonedocs_dt_1">
+		<rus>Выход из туннеля</rus>
+		<eng>Выход из туннеля</eng>
+		<ukr>Вихід з тунелю</ukr>
+	</string>
+	<string id="task_zonedocs_dt_2">
+		<rus>Телеграфный столб</rus>
+		<eng>Телеграфный столб</eng>
+		<ukr>Телеграфний стовп</ukr>
+	</string>
+	<string id="task_zonedocs_dt_3">
+		<rus>Стоянка за железной дорогой</rus>
+		<eng>Стоянка за железной дорогой</eng>
+		<ukr>Стоянка за залізницею</ukr>
+	</string>
+	<string id="task_zonedocs_dt_4">
+		<rus>Туннель</rus>
+		<eng>Туннель</eng>
+		<ukr>Тунель</ukr>
+	</string>
+	<string id="task_zonedocs_dt_5">
+		<rus>Вход в туннель</rus>
+		<eng>Вход в туннель</eng>
+		<ukr>Вхід в тунель</ukr>
+	</string>
+	<string id="task_zonedocs_dt_6">
+		<rus>Дерево у зелёного вагончика</rus>
+		<eng>Дерево у зелёного вагончика</eng>
+		<ukr>Дерево біля зеленого вагончика</ukr>
+	</string>
+	<string id="task_zonedocs_dt_7">
+		<rus>Поддоны на камнях</rus>
+		<eng>Поддоны на камнях</eng>
+		<ukr>Піддони на камінні</ukr>
+	</string>
+	<string id="task_zonedocs_dt_8">
+		<rus>Подземный переход 1</rus>
+		<eng>Подземный переход 1</eng>
+		<ukr>Підземний перехід 1</ukr>
+	</string>
+	<string id="task_zonedocs_dt_9">
+		<rus>Подземный переход 2</rus>
+		<eng>Подземный переход 2</eng>
+		<ukr>Підземний перехід 2</ukr>
+	</string>
+	<string id="task_zonedocs_dt_10">
+		<rus>Ворота на ж/д</rus>
+		<eng>Ворота на ж/д</eng>
+		<ukr>Ворота на залізницю</ukr>
+	</string>
+	<string id="task_zonedocs_dt_11">
+		<rus>Трубы за сеткой</rus>
+		<eng>Трубы за сеткой</eng>
+		<ukr>Труби за сіткою</ukr>
+	</string>
+	<string id="task_zonedocs_dt_12">
+		<rus>Кран</rus>
+		<eng>Кран</eng>
+		<ukr>Кран</ukr>
+	</string>
+	<string id="task_zonedocs_dt_13">
+		<rus>Гараж</rus>
+		<eng>Гараж</eng>
+		<ukr>Гараж</ukr>
+	</string>
+	<string id="task_zonedocs_dt_14">
+		<rus>Балкон ангара</rus>
+		<eng>Балкон ангара</eng>
+		<ukr>Балкон ангара</ukr>
+	</string>
+	<string id="task_zonedocs_dt_15">
+		<rus>Крест за машиной</rus>
+		<eng>Крест за машиной</eng>
+		<ukr>Хрест за машиною</ukr>
+	</string>
+	<string id="task_zonedocs_dt_16">
+		<rus>За воротами</rus>
+		<eng>За воротами</eng>
+		<ukr>За воротами</ukr>
+	</string>
+	<string id="task_zonedocs_dt_17">
+		<rus>Навес</rus>
+		<eng>Навес</eng>
+		<ukr>Навіс</ukr>
+	</string>
+	<string id="task_zonedocs_dt_18">
+		<rus>Ржавый контейнер</rus>
+		<eng>Ржавый контейнер</eng>
+		<ukr>Іржавий контейнер</ukr>
+	</string>
+	<string id="task_zonedocs_dt_19">
+		<rus>Закуток, где кончается труба</rus>
+		<eng>Закуток, где кончается труба</eng>
+		<ukr>Закуток, де закінчується труба</ukr>
+	</string>
+	<string id="task_zonedocs_dt_20">
+		<rus>Цистерны в ангаре</rus>
+		<eng>Цистерны в ангаре</eng>
+		<ukr>Цистерни в ангарі</ukr>
+	</string>
+	<string id="task_zonedocs_dt_21">
+		<rus>Крыша перехода, где бандиты</rus>
+		<eng>Крыша перехода, где бандиты</eng>
+		<ukr>Дах переходу, де бандити</ukr>
+	</string>
+	<string id="task_zonedocs_dt_22">
+		<rus>Трубопровод</rus>
+		<eng>Трубопровод</eng>
+		<ukr>Трубопровід</ukr>
+	</string>
+	<string id="task_zonedocs_yan_0">
+		<rus>Собрать части дoкументoв на Янтаре</rus>
+		<eng>Собрать части дoкументoв на Янтаре</eng>
+		<ukr>Зібрати частини документів на Янтарі</ukr>
+	</string>
+	<string id="task_zonedocs_yan_1">
+		<rus>База учёных</rus>
+		<eng>База учёных</eng>
+		<ukr>База вчених</ukr>
+	</string>
+	<string id="task_zonedocs_yan_2">
+		<rus>Логово снорков</rus>
+		<eng>Логово снорков</eng>
+		<ukr>Лігво снорків</ukr>
+	</string>
+	<string id="task_zonedocs_yan_3">
+		<rus>Дорога на завод</rus>
+		<eng>Дорога на завод</eng>
+		<ukr>Дорога на завод</ukr>
+	</string>
+	<string id="task_zonedocs_yan_4">
+		<rus>Котлован</rus>
+		<eng>Котлован</eng>
+		<ukr>Котлован</ukr>
+	</string>
+	<string id="task_zonedocs_yan_5">
+		<rus>Мусорный бак</rus>
+		<eng>Мусорный бак</eng>
+		<ukr>Сміттєвий бак</ukr>
+	</string>
+	<string id="task_zonedocs_yan_6">
+		<rus>Разгрузочная площадка</rus>
+		<eng>Разгрузочная площадка</eng>
+		<ukr>Майданчик для розвантаження</ukr>
+	</string>
+	<string id="task_zonedocs_yan_7">
+		<rus>Центральный корпус</rus>
+		<eng>Центральный корпус</eng>
+		<ukr>Центральний корпус</ukr>
+	</string>
+	<string id="task_zonedocs_yan_8">
+		<rus>Ангар</rus>
+		<eng>Ангар</eng>
+		<ukr>Ангар</ukr>
+	</string>
+	<string id="task_zonedocs_yan_9">
+		<rus>Гараж</rus>
+		<eng>Гараж</eng>
+		<ukr>Гараж</ukr>
+	</string>
+	<string id="task_zonedocs_yan_10">
+		<rus>Вход на завод</rus>
+		<eng>Вход на завод</eng>
+		<ukr>Вхід на завод</ukr>
+	</string>
+	<string id="task_zonedocs_yan_11">
+		<rus>Недоступная территория на заводе</rus>
+		<eng>Недоступная территория на заводе</eng>
+		<ukr>Недоступна територія на заводі</ukr>
+	</string>
+	<string id="task_zonedocs_yan_12">
+		<rus>Сейф в болоте</rus>
+		<eng>Сейф в болоте</eng>
+		<ukr>Сейф в болоті</ukr>
+	</string>
+	<string id="task_zonedocs_yan_13">
+		<rus>Очистные сооружения</rus>
+		<eng>Очистные сооружения</eng>
+		<ukr>Очисні споруди</ukr>
+	</string>
+	<string id="task_zonedocs_yan_14">
+		<rus>Дерево в трубе</rus>
+		<eng>Дерево в трубе</eng>
+		<ukr>Дерево у трубі</ukr>
+	</string>
+	<string id="task_zonedocs_yan_15">
+		<rus>"Хваталка"</rus>
+		<eng>"Хваталка"</eng>
+		<ukr>"Хапалка"</ukr>
+	</string>
+	<string id="task_zonedocs_yan_16">
+		<rus>Упавшее дерево</rus>
+		<eng>Упавшее дерево</eng>
+		<ukr>Упавше дерево</ukr>
+	</string>
+	<string id="task_zonedocs_yan_17">
+		<rus>Телеграфный столб</rus>
+		<eng>Телеграфный столб</eng>
+		<ukr>Телеграфний стовп</ukr>
+	</string>
+	<string id="task_zonedocs_yan_18">
+		<rus>Рельсы</rus>
+		<eng>Рельсы</eng>
+		<ukr>Рельси</ukr>
+	</string>
+	<string id="task_zonedocs_yan_19">
+		<rus>Крыша на заводе</rus>
+		<eng>Крыша на заводе</eng>
+		<ukr>Дах на заводі</ukr>
+	</string>
+	<string id="task_zonedocs_yan_20">
+		<rus>Токарный станок</rus>
+		<eng>Токарный станок</eng>
+		<ukr>Токарний станок</ukr>
+	</string>
+	<string id="task_zonedocs_yan_21">
+		<rus>Подстанция</rus>
+		<eng>Подстанция</eng>
+		<ukr>Підстанція</ukr>
+	</string>
+	<string id="task_zonedocs_yan_22">
+		<rus>Большая труба 1</rus>
+		<eng>Большая труба 1</eng>
+		<ukr>Велика труба 1</ukr>
+	</string>
+	<string id="task_zonedocs_yan_23">
+		<rus>Большая труба 2</rus>
+		<eng>Большая труба 2</eng>
+		<ukr>Велика труба 2</ukr>
+	</string>
+	<string id="task_zonedocs_as_0">
+		<rus>Собрать части дoкументoв на Армейских Складах</rus>
+		<eng>Собрать части дoкументoв на Армейских Складах</eng>
+		<ukr>Зібрати частини документів на Армійських Складах</ukr>
+	</string>
+	<string id="task_zonedocs_as_1">
+		<rus>Перевёрнутая кабина</rus>
+		<eng>Перевёрнутая кабина</eng>
+		<ukr>Перевернута кабіна</ukr>
+	</string>
+	<string id="task_zonedocs_as_2">
+		<rus>Лес за базой Свободы</rus>
+		<eng>Лес за базой Свободы</eng>
+		<ukr>Ліс за базою Волі</ukr>
+	</string>
+	<string id="task_zonedocs_as_3">
+		<rus>Хутор Долга</rus>
+		<eng>Хутор Долга</eng>
+		<ukr>Хутір Долгу</ukr>
+	</string>
+	<string id="task_zonedocs_as_4">
+		<rus>Остановка</rus>
+		<eng>Остановка</eng>
+		<ukr>Зупинка</ukr>
+	</string>
+	<string id="task_zonedocs_as_5">
+		<rus>Трубы у стоянки сталкеров</rus>
+		<eng>Трубы у стоянки сталкеров</eng>
+		<ukr>Труби біля стоянки сталкерів</ukr>
+	</string>
+	<string id="task_zonedocs_as_6">
+		<rus>Дерево в болоте</rus>
+		<eng>Дерево в болоте</eng>
+		<ukr>Дерево у болоті</ukr>
+	</string>
+	<string id="task_zonedocs_as_7">
+		<rus>Барьер</rus>
+		<eng>Барьер</eng>
+		<ukr>Бар'єр</ukr>
+	</string>
+	<string id="task_zonedocs_as_8">
+		<rus>Чердак в деревне</rus>
+		<eng>Чердак в деревне</eng>
+		<ukr>Горище у селі</ukr>
+	</string>
+	<string id="task_zonedocs_as_9">
+		<rus>Обломки пола</rus>
+		<eng>Обломки пола</eng>
+		<ukr>Уламки підлоги</ukr>
+	</string>
+	<string id="task_zonedocs_as_10">
+		<rus>Куча трупов у костра</rus>
+		<eng>Куча трупов у костра</eng>
+		<ukr>Куча трупів біля багаття</ukr>
+	</string>
+	<string id="task_zonedocs_as_11">
+		<rus>Куча костей в аномалии</rus>
+		<eng>Куча костей в аномалии</eng>
+		<ukr>Куча кісток в аномалії</ukr>
+	</string>
+	<string id="task_zonedocs_as_12">
+		<rus>Водонапорная башня</rus>
+		<eng>Водонапорная башня</eng>
+		<ukr>Водонапірна вежа</ukr>
+	</string>
+	<string id="task_zonedocs_as_13">
+		<rus>Могила Клыка</rus>
+		<eng>Могила Клыка</eng>
+		<ukr>Могила Клика</ukr>
+	</string>
+	<string id="task_zonedocs_as_14">
+		<rus>Унитаз в машине</rus>
+		<eng>Унитаз в машине</eng>
+		<ukr>Унітаз у машині</ukr>
+	</string>
+	<string id="task_zonedocs_as_15">
+		<rus>Кладбище</rus>
+		<eng>Кладбище</eng>
+		<ukr>Кладовище</ukr>
+	</string>
+	<string id="task_zonedocs_as_16">
+		<rus>БТР</rus>
+		<eng>БТР</eng>
+		<ukr>БТР</ukr>
+	</string>
+	<string id="task_zonedocs_as_17">
+		<rus>Отхожее место</rus>
+		<eng>Отхожее место</eng>
+		<ukr>Відхоже місце</ukr>
+	</string>
+	<string id="task_zonedocs_as_18">
+		<rus>Щитовая</rus>
+		<eng>Щитовая</eng>
+		<ukr>Щитова</ukr>
+	</string>
+	<string id="task_zonedocs_as_19">
+		<rus>Тепловоз</rus>
+		<eng>Тепловоз</eng>
+		<ukr>Тепловоз</ukr>
+	</string>
+	<string id="task_zonedocs_as_20">
+		<rus>Туда-сюда</rus>
+		<eng>Туда-сюда</eng>
+		<ukr>Туди-сюди</ukr>
+	</string>
+	<string id="task_zonedocs_as_21">
+		<rus>КПП</rus>
+		<eng>КПП</eng>
+		<ukr>КПП</ukr>
+	</string>
+	<string id="task_zonedocs_as_22">
+		<rus>Чердак на базе Свободы</rus>
+		<eng>Чердак на базе Свободы</eng>
+		<ukr>Горище на базі Волі</ukr>
+	</string>
+	<string id="task_zonedocs_as_23">
+		<rus>Тяжело в учении...</rus>
+		<eng>Тяжело в учении...</eng>
+		<ukr>Важко у навчанні...</ukr>
+	</string>
+	<string id="task_zonedocs_as_24">
+		<rus>Турник</rus>
+		<eng>Турник</eng>
+		<ukr>Турнік</ukr>
+	</string>
+	<string id="task_voronin_docs1_end_0">
+		<rus>Поговорить с Ворониным</rus>
+		<eng>Поговорить с Ворониным</eng>
+		<ukr>Пороворить з Вороніним</ukr>
+	</string>
+	<string id="task_voronin_docs1_end_1">
+		<rus>Получить награду у генерала</rus>
+		<eng>Получить награду у генерала</eng>
+		<ukr>Отримати нагороду у генерала</ukr>
+	</string>
+	<string id="task_kostya_biznes1_0">
+		<rus>"Варка" артефактов</rus>
+		<eng>"Варка" артефактов</eng>
+		<ukr>"Варка" артефактів</ukr>
+	</string>
+	<string id="task_kostya_biznes1_1">
+		<rus>Собрать "Булыжники"</rus>
+		<eng>Собрать "Булыжники"</eng>
+		<ukr>Зібрати "Булижники"</ukr>
+	</string>
+	<string id="task_kostya_biznes1_2">
+		<rus>Принести "Булыжники" Косте</rus>
+		<eng>Принести "Булыжники" Косте</eng>
+		<ukr>Принести "Булижники" Кості</ukr>
+	</string>
+	<string id="task_sidor_biznes1_0">
+		<rus>Заказ из ресторана</rus>
+		<eng>Заказ из ресторана</eng>
+		<ukr>Замовлення з ресторану</ukr>
+	</string>
+	<string id="task_sidor_biznes1_1">
+		<rus>Собрать все части монстров</rus>
+		<eng>Собрать все части монстров</eng>
+		<ukr>Зібрати всі частини монстрів</ukr>
+	</string>
+	<string id="task_sidor_biznes1_2">
+		<rus>Принести заказ Сидоровичу</rus>
+		<eng>Принести заказ Сидоровичу</eng>
+		<ukr>Принести замовлення Сидоровичу</ukr>
+	</string>
+	<string id="task_sidor_biznes2_0">
+		<rus>Артефакты для коллекционера</rus>
+		<eng>Артефакты для коллекционера</eng>
+		<ukr>Артефакти для колекціонера</ukr>
+	</string>
+	<string id="task_sidor_biznes2_1">
+		<rus>Собрать нужные артефакты</rus>
+		<eng>Собрать нужные артефакты</eng>
+		<ukr>Зібрати потрібні артефакти</ukr>
+	</string>
+	<string id="task_sidor_biznes2_2">
+		<rus>Принести заказ Сидоровичу</rus>
+		<eng>Принести заказ Сидоровичу</eng>
+		<ukr>Принести замовлення Сидоровичу</ukr>
+	</string>
+	<string id="task_sidor_biznes3_0">
+		<rus>Артефакты для учёных</rus>
+		<eng>Артефакты для учёных</eng>
+		<ukr>Артефакти для вчених</ukr>
+	</string>
+	<string id="task_sidor_biznes3_1">
+		<rus>Собрать все заказанные артефакты</rus>
+		<eng>Собрать все заказанные артефакты</eng>
+		<ukr>Зібрати всі замовлені артефакти</ukr>
+	</string>
+	<string id="task_sidor_biznes3_2">
+		<rus>Принести артефакты Сидоровичу</rus>
+		<eng>Принести артефакты Сидоровичу</eng>
+		<ukr>Принести артефакти Сидоровичу</ukr>
+	</string>
+	<string id="task_sidor_biznes4_0">
+		<rus>Оружие для Генштаба</rus>
+		<eng>Оружие для Генштаба</eng>
+		<ukr>Зброя для Генштабу</ukr>
+	</string>
+	<string id="task_sidor_biznes4_1">
+		<rus>Собрать оружие по заказу Генштаба</rus>
+		<eng>Собрать оружие по заказу Генштаба</eng>
+		<ukr>Зібрати зброю по замовленню Генштабу</ukr>
+	</string>
+	<string id="task_sidor_biznes4_2">
+		<rus>Принести оружие Сидоровичу</rus>
+		<eng>Принести оружие Сидоровичу</eng>
+		<ukr>Принести зброю Сидоровичу</ukr>
+	</string>
+	<string id="task_sidor_biznes5_0">
+		<rus>Экзоскелеты для Генштаба</rus>
+		<eng>Экзоскелеты для Генштаба</eng>
+		<ukr>Екзоскелети для Генштабу</ukr>
+	</string>
+	<string id="task_sidor_biznes5_1">
+		<rus>Найти по 2 экзоскелета каждой группировки и нанокостюм</rus>
+		<eng>Найти по 2 экзоскелета каждой группировки и нанокостюм</eng>
+		<ukr>Знайти по 2 екзоскелета кожного угрупування і нанокостюм</ukr>
+	</string>
+	<string id="task_sidor_biznes5_2">
+		<rus>Принести экзоскелеты Сидоровичу</rus>
+		<eng>Принести экзоскелеты Сидоровичу</eng>
+		<ukr>Принести екзоскелети Сидоровичу</ukr>
+	</string>
+	<string id="task_sidor_biznes6_0">
+		<rus>Заказ из арбалетного клуба</rus>
+		<eng>Заказ из арбалетного клуба</eng>
+		<ukr>Замовлення від арбалетного клубу</ukr>
+	</string>
+	<string id="task_sidor_biznes6_1">
+		<rus>Собрать снаряжение для арбалетного клуба</rus>
+		<eng>Собрать снаряжение для арбалетного клуба</eng>
+		<ukr>Зібрати спорядження для арбалетного клубу</ukr>
+	</string>
+	<string id="task_sidor_biznes6_2">
+		<rus>Принести собранное Сидоровичу</rus>
+		<eng>Принести собранное Сидоровичу</eng>
+		<ukr>Принести зібране Сидоровичу</ukr>
+	</string>
+	<string id="task_sidor_biznes7_0">
+		<rus>Заказ из ресторана</rus>
+		<eng>Заказ из ресторана</eng>
+		<ukr>Замовлення з ресторану</ukr>
+	</string>
+	<string id="task_sidor_biznes7_1">
+		<rus>Собрать части монстров в нужном количестве</rus>
+		<eng>Собрать части монстров в нужном количестве</eng>
+		<ukr>Зібрати частини монстрів в потрібній кількості</ukr>
+	</string>
+	<string id="task_sidor_biznes7_2">
+		<rus>Отнести заказ Сидоровичу</rus>
+		<eng>Отнести заказ Сидоровичу</eng>
+		<ukr>Віднести замовлення Сидоровичу</ukr>
+	</string>
+	<string id="task_kuznetsov_biznes1_0">
+		<rus>Заказ от Кузнецова</rus>
+		<eng>Заказ от Кузнецова</eng>
+		<ukr>Замовлення від Кузнєцова</ukr>
+	</string>
+	<string id="task_kuznetsov_biznes1_1">
+		<rus>Собрать оружие и патроны</rus>
+		<eng>Собрать оружие и патроны</eng>
+		<ukr>Зібрати зброю і патрони</ukr>
+	</string>
+	<string id="task_kuznetsov_biznes1_2">
+		<rus>Принести оружие и патроны Кузнецову</rus>
+		<eng>Принести оружие и патроны Кузнецову</eng>
+		<ukr>Принести зброю і патрони Кузнєцову</ukr>
+	</string>
+	<string id="task_adrenalin_biznes1_0">
+		<rus>Крупный заказ</rus>
+		<eng>Крупный заказ</eng>
+		<ukr>Крупне замовлення</ukr>
+	</string>
+	<string id="task_adrenalin_biznes1_1">
+		<rus>Собрать оружие</rus>
+		<eng>Собрать оружие</eng>
+		<ukr>Зібрати зброю</ukr>
+	</string>
+	<string id="task_adrenalin_biznes1_2">
+		<rus>Принести оружие Адреналину</rus>
+		<eng>Принести оружие Адреналину</eng>
+		<ukr>Принести зброю Адреналіну</ukr>
+	</string>
+	<string id="task_adrenalin_biznes1_3">
+		<rus>Собрать патроны</rus>
+		<eng>Собрать патроны</eng>
+		<ukr>Зібрати патрони</ukr>
+	</string>
+	<string id="task_adrenalin_biznes1_4">
+		<rus>Принести патроны Адреналину</rus>
+		<eng>Принести патроны Адреналину</eng>
+		<ukr>Принести патрони Адреналіну</ukr>
+	</string>
+	<string id="task_adrenalin_biznes1_5">
+		<rus>Собрать рюкзаки и замки</rus>
+		<eng>Собрать рюкзаки и замки</eng>
+		<ukr>Зібрати рюкзаки і замки</ukr>
+	</string>
+	<string id="task_adrenalin_biznes1_6">
+		<rus>Принести рюкзаки и замки Адреналину</rus>
+		<eng>Принести рюкзаки и замки Адреналину</eng>
+		<ukr>Принести рюкзаки і замки Адреналіну</ukr>
+	</string>
+	<string id="task_zahar_biznes1_0">
+		<rus>Заказ от Захара</rus>
+		<eng>Заказ от Захара</eng>
+		<ukr>Замовлення від Захара</ukr>
+	</string>
+	<string id="task_zahar_biznes1_1">
+		<rus>Собрать оружие и патроны</rus>
+		<eng>Собрать оружие и патроны</eng>
+		<ukr>Зібрати зброю і патрони</ukr>
+	</string>
+	<string id="task_zahar_biznes1_2">
+		<rus>Принести оружие и патроны Захару</rus>
+		<eng>Принести оружие и патроны Захару</eng>
+		<ukr>Принести зброю і патрони Захару</ukr>
+	</string>
+	<string id="task_barman_biznes1_0">
+		<rus>Заказ от Бармена</rus>
+		<eng>Заказ от Бармена</eng>
+		<ukr>Замовлення від Бармена</ukr>
+	</string>
+	<string id="task_barman_biznes1_1">
+		<rus>Найти водку и сигареты для бара</rus>
+		<eng>Найти водку и сигареты для бара</eng>
+		<ukr>Знайти горілку і сигарети для Бармена</ukr>
+	</string>
+	<string id="task_barman_biznes1_2">
+		<rus>Принести водку и сигареты Бармену</rus>
+		<eng>Принести водку и сигареты Бармену</eng>
+		<ukr>Принести горілку і сигарети Бармену</ukr>
+	</string>
+	<string id="task_kruglov_biznes1_0">
+		<rus>Выручить Круглова</rus>
+		<eng>Выручить Круглова</eng>
+		<ukr>Виручити Круглова</ukr>
+	</string>
+	<string id="task_kruglov_biznes1_1">
+		<rus>Собрать Круглову защиту от радиации</rus>
+		<eng>Собрать Круглову защиту от радиации</eng>
+		<ukr>Зібрати Круглову захист від радіації</ukr>
+	</string>
+	<string id="task_kruglov_biznes1_2">
+		<rus>Принести собранное Круглову</rus>
+		<eng>Принести собранное Круглову</eng>
+		<ukr>Принести зібране Круглову</ukr>
+	</string>
+	<string id="task_yakut_biznes1_0">
+		<rus>Помочь Якуту</rus>
+		<eng>Помочь Якуту</eng>
+		<ukr>Допомогти Якуту</ukr>
+	</string>
+	<string id="task_yakut_biznes1_1">
+		<rus>Собрать пси-защиту для Якута</rus>
+		<eng>Собрать пси-защиту для Якута</eng>
+		<ukr>Зібрати псі-захист для Якута</ukr>
+	</string>
+	<string id="task_yakut_biznes1_2">
+		<rus>Передать собранное Якуту</rus>
+		<eng>Передать собранное Якуту</eng>
+		<ukr>Передати зібране Якуту</ukr>
+	</string>
+	<string id="task_voron_biznes1_0">
+		<rus>Заказ от Кулинара</rus>
+		<eng>Заказ от Кулинара</eng>
+		<ukr>Замовлення від Кулінара</ukr>
+	</string>
+	<string id="task_voron_biznes1_1">
+		<rus>Собрать снаряжение для бойцов</rus>
+		<eng>Собрать снаряжение для бойцов</eng>
+		<ukr>Зібрати спорядження для бійців</ukr>
+	</string>
+	<string id="task_voron_biznes1_2">
+		<rus>Принести снаряжение Кулинару</rus>
+		<eng>Принести снаряжение Кулинару</eng>
+		<ukr>Принести спорядження Кулінару</ukr>
+	</string>
+	<string id="task_lukash_biznes1_0">
+		<rus>Заказ от Свиблова</rus>
+		<eng>Заказ от Свиблова</eng>
+		<ukr>Замовлення від Свиблова</ukr>
+	</string>
+	<string id="task_lukash_biznes1_1">
+		<rus>Собрать всё необходимое</rus>
+		<eng>Собрать всё необходимое</eng>
+		<ukr>Зібрати все необхідне</ukr>
+	</string>
+	<string id="task_lukash_biznes1_2">
+		<rus>Отнести заказ Свиблову</rus>
+		<eng>Отнести заказ Свиблову</eng>
+		<ukr>Віднести замовлення Свиблову</ukr>
+	</string>
+	<string id="task_sakharov_biznes1_0">
+		<rus>Заказ от Сахарова</rus>
+		<eng>Заказ от Сахарова</eng>
+		<ukr>Замовлення від Сахарова</ukr>
+	</string>
+	<string id="task_sakharov_biznes1_1">
+		<rus>Собрать капсулы и эмбрионы</rus>
+		<eng>Собрать капсулы и эмбрионы</eng>
+		<ukr>Зібрати капсули і ембріони</ukr>
+	</string>
+	<string id="task_sakharov_biznes1_2">
+		<rus>Принести собранное Сахарову</rus>
+		<eng>Принести собранное Сахарову</eng>
+		<ukr>Принести зібране Сахарову</ukr>
+	</string>
+	<string id="task_sak_biznes1_0">
+		<rus>Заказ от Сяка</rus>
+		<eng>Заказ от Сяка</eng>
+		<ukr>Замовлення від Сяка</ukr>
+	</string>
+	<string id="task_sak_biznes1_1">
+		<rus>Собрать артефакты</rus>
+		<eng>Собрать артефакты</eng>
+		<ukr>Зібрати артефакти</ukr>
+	</string>
+	<string id="task_sak_biznes1_2">
+		<rus>Принести артефакты Сяку</rus>
+		<eng>Принести артефакты Сяку</eng>
+		<ukr>Принести артефакти Сяку</ukr>
+	</string>
+	<string id="task_skraga_biznes1_0">
+		<rus>Деньги для Скряги</rus>
+		<eng>Деньги для Скряги</eng>
+		<ukr>Гроші для Скнари</ukr>
+	</string>
+	<string id="task_skraga_biznes1_1">
+		<rus>Собрать 2 миллиона рублей</rus>
+		<eng>Собрать 2 миллиона рублей</eng>
+		<ukr>Зібрати 2 мільйони гривень</ukr>
+	</string>
+	<string id="task_skraga_biznes1_2">
+		<rus>Вернуться к Скряге</rus>
+		<eng>Вернуться к Скряге</eng>
+		<ukr>Вернуться к Скнарі</ukr>
+	</string>
+	<string id="task_doktor_biznes1_0">
+		<rus>Заказ от Доктора</rus>
+		<eng>Заказ от Доктора</eng>
+		<ukr>Замовлення від Доктора</ukr>
+	</string>
+	<string id="task_doktor_biznes1_1">
+		<rus>Собрать медикаменты</rus>
+		<eng>Собрать медикаменты</eng>
+		<ukr>Зібрати медикаменти</ukr>
+	</string>
+	<string id="task_doktor_biznes1_2">
+		<rus>Принести медикаменты Доктору</rus>
+		<eng>Принести медикаменты Доктору</eng>
+		<ukr>Принести медикаменти Доктору</ukr>
+	</string>
+	<string id="task_borov_biznes1_0">
+		<rus>Заказ от Борова</rus>
+		<eng>Заказ от Борова</eng>
+		<ukr>Замовлення від Кабана</ukr>
+	</string>
+	<string id="task_borov_biznes1_1">
+		<rus>Собрать заказ</rus>
+		<eng>Собрать заказ</eng>
+		<ukr>Зібрати замовлення</ukr>
+	</string>
+	<string id="task_borov_biznes1_2">
+		<rus>Отнести заказ Борову</rus>
+		<eng>Отнести заказ Борову</eng>
+		<ukr>Віднести замовлення Кабану</ukr>
+	</string>
+	<string id="task_doktor_lekar1_0">
+		<rus>Спасение</rus>
+		<eng>Спасение</eng>
+		<ukr>Рятування</ukr>
+	</string>
+	<string id="task_doktor_lekar1_1">
+		<rus>Вылечить много людей</rus>
+		<eng>Вылечить много людей</eng>
+		<ukr>Вилікувати багато людей</ukr>
+	</string>
+	<string id="task_doktor_lekar1_2">
+		<rus>Найти Доктора</rus>
+		<eng>Найти Доктора</eng>
+		<ukr>Знайти Доктора</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda0_0">
+		<rus>Артефакты Стрелка</rus>
+		<eng>Артефакты Стрелка</eng>
+		<ukr>Артефакти Cтрільця</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda0_1">
+		<rus>Найти артефакты Стрелка</rus>
+		<eng>Найти артефакты Стрелка</eng>
+		<ukr>Знайти артефакти Cтрільця</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda1_0">
+		<rus>Тайник Стрелка</rus>
+		<eng>Тайник Стрелка</eng>
+		<ukr>Схованка Cтрільця</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda1_1">
+		<rus>Найти тайник Стрелка</rus>
+		<eng>Найти тайник Стрелка</eng>
+		<ukr>Знайти схованку Cтрільця</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda1_2">
+		<rus>Вернуться к Доктору</rus>
+		<eng>Вернуться к Доктору</eng>
+		<ukr>Повернутися до Доктора</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda2_0">
+		<rus>Тайники Стрелка</rus>
+		<eng>Тайники Стрелка</eng>
+		<ukr>Схованки Cтрільця</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda2_1">
+		<rus>Найти тайники Стрелка</rus>
+		<eng>Найти тайники Стрелка</eng>
+		<ukr>Знайти схованки Cтрільця</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda2_2">
+		<rus>Вернуться к Доктору</rus>
+		<eng>Вернуться к Доктору</eng>
+		<ukr>Повернутися до Доктора</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda30_0">
+		<rus>Тайник Стрелка</rus>
+		<eng>Тайник Стрелка</eng>
+		<ukr>Схованка Стрільця</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda30_1">
+		<rus>Найти тайник Стрелка</rus>
+		<eng>Найти тайник Стрелка</eng>
+		<ukr>Знайти схованку Стрільця</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda30_2">
+		<rus>Вернуться к Доктору</rus>
+		<eng>Вернуться к Доктору</eng>
+		<ukr>Повернутися до Доктора</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda3_0">
+		<rus>Тайник Стрелка</rus>
+		<eng>Тайник Стрелка</eng>
+		<ukr>Схованка Стрільця</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda3_1">
+		<rus>Найти тайник Стрелка</rus>
+		<eng>Найти тайник Стрелка</eng>
+		<ukr>Знайти схованку Стрільця</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda3_2">
+		<rus>Вернуться к Доктору</rus>
+		<eng>Вернуться к Доктору</eng>
+		<ukr>Повернутися до Доктора</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda4_0">
+		<rus>Тайник Стрелка</rus>
+		<eng>Тайник Стрелка</eng>
+		<ukr>Схованка Стрільця</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda4_1">
+		<rus>Найти тайник Стрелка</rus>
+		<eng>Найти тайник Стрелка</eng>
+		<ukr>Знайти схованку Стрільця</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda4_2">
+		<rus>Вернуться к Доктору</rus>
+		<eng>Вернуться к Доктору</eng>
+		<ukr>Повернутися до Доктора</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda5_0">
+		<rus>Тайник Стрелка</rus>
+		<eng>Тайник Стрелка</eng>
+		<ukr>Схованка Стрільця</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda5_1">
+		<rus>Найти тайник Стрелка</rus>
+		<eng>Найти тайник Стрелка</eng>
+		<ukr>Знайти схованку Стрільця</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda5_2">
+		<rus>Вернуться к Доктору</rus>
+		<eng>Вернуться к Доктору</eng>
+		<ukr>Повернутися до Доктора</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda6_0">
+		<rus>Тайник Стрелка</rus>
+		<eng>Тайник Стрелка</eng>
+		<ukr>Схованка Стрільця</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda6_1">
+		<rus>Найти тайник Стрелка</rus>
+		<eng>Найти тайник Стрелка</eng>
+		<ukr>Знайти схованку Стрільця</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda6_2">
+		<rus>Вернуться к Доктору</rus>
+		<eng>Вернуться к Доктору</eng>
+		<ukr>Повернутися до Доктора</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda7_0">
+		<rus>Последний тайник Стрелка</rus>
+		<eng>Последний тайник Стрелка</eng>
+		<ukr>Остання схованка Стрільця</ukr>
+	</string>
+	<string id="task_strelok_taynik_pda7_1">
+		<rus>Найти последний тайник Стрелка</rus>
+		<eng>Найти последний тайник Стрелка</eng>
+		<ukr>Знайти останню схованку Стрільця</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda1_0">
+		<rus>Записи Альпиниста</rus>
+		<eng>Записи Альпиниста</eng>
+		<ukr>Записи Альпініста</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda1_1">
+		<rus>Найти записи Альпиниста</rus>
+		<eng>Найти записи Альпиниста</eng>
+		<ukr>Знайти записи Альпініста</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda1_2">
+		<rus>Вернуться к Косте</rus>
+		<eng>Вернуться к Косте</eng>
+		<ukr>Повернутися до Кості</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda2_1_0">
+		<rus>Тайник Старого Жила</rus>
+		<eng>Тайник Старого Жила</eng>
+		<ukr>Схованка Старого Жила</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda2_1_1">
+		<rus>Найти тайник Старого Жила на ЧАЭС</rus>
+		<eng>Найти тайник Старого Жила на ЧАЭС</eng>
+		<ukr>Знайти схованку Старого Жила на ЧАЕС</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda2_1_2">
+		<rus>Вернуться к Косте</rus>
+		<eng>Вернуться к Косте</eng>
+		<ukr>Повернутися до Кості</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda2_2_0">
+		<rus>Тайник Старого Жила</rus>
+		<eng>Тайник Старого Жила</eng>
+		<ukr>Схованка Старого Жила</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda2_2_1">
+		<rus>Найти тайник Старого Жила на ЧАЭС</rus>
+		<eng>Найти тайник Старого Жила на ЧАЭС</eng>
+		<ukr>Знайти схованку Старого Жила на ЧАЕС</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda2_2_2">
+		<rus>Вернуться к Косте</rus>
+		<eng>Вернуться к Косте</eng>
+		<ukr>Повернутися до Кості</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda2_3_0">
+		<rus>Тайник Старого Жила</rus>
+		<eng>Тайник Старого Жила</eng>
+		<ukr>Схованка Старого Жила</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda2_3_1">
+		<rus>Найти тайник Старого Жила на ЧАЭС</rus>
+		<eng>Найти тайник Старого Жила на ЧАЭС</eng>
+		<ukr>Знайти схованку Старого Жила на ЧАЕС</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda2_3_2">
+		<rus>Вернуться к Косте</rus>
+		<eng>Вернуться к Косте</eng>
+		<ukr>Повернутися до Кості</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda21_0">
+		<rus>Карта Альпиниста</rus>
+		<eng>Карта Альпиниста</eng>
+		<ukr>Карта Альпініста</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda21_1">
+		<rus>Найти все части карты Альпиниста</rus>
+		<eng>Найти все части карты Альпиниста</eng>
+		<ukr>Знайти всі частини карти Альпініста</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda21_2">
+		<rus>Вернуться к Косте</rus>
+		<eng>Вернуться к Косте</eng>
+		<ukr>Повернутися до Кості</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda3_1_0">
+		<rus>Тайники Старого Жила</rus>
+		<eng>Тайники Старого Жила</eng>
+		<ukr>Схованки Старого Жила</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda3_1_1">
+		<rus>Найти 4 тайника Старого Жила на ЧАЭС-2</rus>
+		<eng>Найти 4 тайника Старого Жила на ЧАЭС-2</eng>
+		<ukr>Знайти 4 схованки Старого Жила на ЧАЕС-2</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda3_1_2">
+		<rus>Вернуться к Косте</rus>
+		<eng>Вернуться к Косте</eng>
+		<ukr>Повернутися до Кості</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda3_2_0">
+		<rus>Тайники Старого Жила</rus>
+		<eng>Тайники Старого Жила</eng>
+		<ukr>Схованки Старого Жила</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda3_2_1">
+		<rus>Найти 4 тайника Старого Жила на ЧАЭС-2</rus>
+		<eng>Найти 4 тайника Старого Жила на ЧАЭС-2</eng>
+		<ukr>Знайти 4 схованки Старого Жила на ЧАЕС-2</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda3_2_2">
+		<rus>Вернуться к Косте</rus>
+		<eng>Вернуться к Косте</eng>
+		<ukr>Повернутися до Кості</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda3_3_0">
+		<rus>Тайники Старого Жила</rus>
+		<eng>Тайники Старого Жила</eng>
+		<ukr>Схованки Старого Жила</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda3_3_1">
+		<rus>Найти 4 тайника Старого Жила на ЧАЭС-2</rus>
+		<eng>Найти 4 тайника Старого Жила на ЧАЭС-2</eng>
+		<ukr>Знайти 4 схованки Старого Жила на ЧАЕС-2</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda3_3_2">
+		<rus>Вернуться к Косте</rus>
+		<eng>Вернуться к Косте</eng>
+		<ukr>Повернутися до Кості</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda4_0">
+		<rus>Тайник Старого Жила</rus>
+		<eng>Тайник Старого Жила</eng>
+		<ukr>Схованка Старого Жила</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda4_1">
+		<rus>Найти тайник Старого Жила на Неразведанной Земле</rus>
+		<eng>Найти тайник Старого Жила на Неразведанной Земле</eng>
+		<ukr>Знайти схованку Старого Жила на Нерозвіданій Землі</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda4_2">
+		<rus>Вернуться к Косте</rus>
+		<eng>Вернуться к Косте</eng>
+		<ukr>Повернутися до Кості</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda5_0">
+		<rus>Тайник Старого Жила</rus>
+		<eng>Тайник Старого Жила</eng>
+		<ukr>Схованка Старого Жила</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda5_1">
+		<rus>Найти тайник Старого Жила в Военной Лаборатории</rus>
+		<eng>Найти тайник Старого Жила в Военной Лаборатории</eng>
+		<ukr>Знайти схованку Старого Жила у Військовій Лабораторії</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda5_2">
+		<rus>Вернуться к Косте</rus>
+		<eng>Вернуться к Косте</eng>
+		<ukr>Повернутися до Кості</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda6_1_0">
+		<rus>Тайники Старого Жила</rus>
+		<eng>Тайники Старого Жила</eng>
+		<ukr>Схованки Старого Жила</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda6_1_1">
+		<rus>Найти тайники Старого Жила в Красном лесу</rus>
+		<eng>Найти тайники Старого Жила в Красном лесу</eng>
+		<ukr>Знайти схованки Старого Жила у Червоному лісі</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda6_1_2">
+		<rus>Вернуться к Косте</rus>
+		<eng>Вернуться к Косте</eng>
+		<ukr>Повернутися до Кості</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda6_2_0">
+		<rus>Тайники Старого Жила</rus>
+		<eng>Тайники Старого Жила</eng>
+		<ukr>Схованки Старого Жила</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda6_2_1">
+		<rus>Найти тайники Старого Жила в Красном лесу</rus>
+		<eng>Найти тайники Старого Жила в Красном лесу</eng>
+		<ukr>Знайти схованки Старого Жила у Червоному лісі</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda6_2_2">
+		<rus>Вернуться к Косте</rus>
+		<eng>Вернуться к Косте</eng>
+		<ukr>Повернутися до Кості</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda6_3_0">
+		<rus>Тайники Старого Жила</rus>
+		<eng>Тайники Старого Жила</eng>
+		<ukr>Схованки Старого Жила</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda6_3_1">
+		<rus>Найти тайники Старого Жила в Красном лесу</rus>
+		<eng>Найти тайники Старого Жила в Красном лесу</eng>
+		<ukr>Знайти схованки Старого Жила у Червоному лісі</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda6_3_2">
+		<rus>Вернуться к Косте</rus>
+		<eng>Вернуться к Косте</eng>
+		<ukr>Повернутися до Кості</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda6_4_0">
+		<rus>Тайники Старого Жила</rus>
+		<eng>Тайники Старого Жила</eng>
+		<ukr>Схованки Старого Жила</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda6_4_1">
+		<rus>Найти тайники Старого Жила в Красном лесу</rus>
+		<eng>Найти тайники Старого Жила в Красном лесу</eng>
+		<ukr>Знайти схованки Старого Жила у Червоному лісі</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda6_4_2">
+		<rus>Вернуться к Косте</rus>
+		<eng>Вернуться к Косте</eng>
+		<ukr>Повернутися до Кості</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda7_0">
+		<rus>Тайник Старого Жила</rus>
+		<eng>Тайник Старого Жила</eng>
+		<ukr>Схованка Старого Жила</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda7_1">
+		<rus>Найти тайник Старого Жила в Старой деревне</rus>
+		<eng>Найти тайник Старого Жила в Старой деревне</eng>
+		<ukr>Знайти схованку Старого Жила у Старому селі</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda7_2">
+		<rus>Вернуться к Косте</rus>
+		<eng>Вернуться к Косте</eng>
+		<ukr>Повернутися до Кості</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda8_0">
+		<rus>Тайник Старого Жила</rus>
+		<eng>Тайник Старого Жила</eng>
+		<ukr>Схованка Старого Жила</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda8_1">
+		<rus>Найти тайник Старого Жила на Дикой территории</rus>
+		<eng>Найти тайник Старого Жила на Дикой территории</eng>
+		<ukr>Знайти схованку Старого Жила на Дикій території</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda8_2">
+		<rus>Вернуться к Косте</rus>
+		<eng>Вернуться к Косте</eng>
+		<ukr>Повернутися до Кості</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda9_0">
+		<rus>Тайники Старого Жила</rus>
+		<eng>Тайники Старого Жила</eng>
+		<ukr>Схованки Старого Жила</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda9_1">
+		<rus>Найти 3 тайника Старого Жила</rus>
+		<eng>Найти 3 тайника Старого Жила</eng>
+		<ukr>Знайти 3 схованки Старого Жила</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda9_2">
+		<rus>Вернуться к Косте</rus>
+		<eng>Вернуться к Косте</eng>
+		<ukr>Повернутися до Кості</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda10_0">
+		<rus>Тайники Старого Жила</rus>
+		<eng>Тайники Старого Жила</eng>
+		<ukr>Схованки Старого Жила</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda10_1">
+		<rus>Найти 4 тайника Старого Жила</rus>
+		<eng>Найти 4 тайника Старого Жила</eng>
+		<ukr>Знайти 4 схованки Старого Жила</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda10_2">
+		<rus>Вернуться к Косте</rus>
+		<eng>Вернуться к Косте</eng>
+		<ukr>Повернутися до Кості</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda11_0">
+		<rus>Тайники Старого Жила</rus>
+		<eng>Тайники Старого Жила</eng>
+		<ukr>Схованки Старого Жила</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda11_1">
+		<rus>Найти 3 тайника Старого Жила в Припяти</rus>
+		<eng>Найти 3 тайника Старого Жила в Припяти</eng>
+		<ukr>Знайти 3 схованки Старого Жила у Прип'яті</ukr>
+	</string>
+	<string id="task_kostya_taynik_pda11_2">
+		<rus>Вернуться к Косте</rus>
+		<eng>Вернуться к Косте</eng>
+		<ukr>Повернутися до Кості</ukr>
+	</string>
+	<string id="task_esc_kostya_pda1_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_esc_kostya_pda1_1">
+		<rus>Найти тайник на Кордоне</rus>
+		<eng>Найти тайник на Кордоне</eng>
+		<ukr>Знайти схованку на Кордоні</ukr>
+	</string>
+	<string id="task_esc_kostya_pda1_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_esc_kostya_pda2_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_esc_kostya_pda2_1">
+		<rus>Найти тайник на Кордоне</rus>
+		<eng>Найти тайник на Кордоне</eng>
+		<ukr>Знайти схованку на Кордоні</ukr>
+	</string>
+	<string id="task_esc_kostya_pda2_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_esc_kostya_pda3_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_esc_kostya_pda3_1">
+		<rus>Найти тайник на Кордоне</rus>
+		<eng>Найти тайник на Кордоне</eng>
+		<ukr>Знайти схованку на Кордоні</ukr>
+	</string>
+	<string id="task_esc_kostya_pda3_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_esc_kostya_art_0">
+		<rus>"Золотая рыбка"</rus>
+		<eng>"Золотая рыбка"</eng>
+		<ukr>"Золота рибка"</ukr>
+	</string>
+	<string id="task_esc_kostya_art_1">
+		<rus>Найти артефакт "Золотая рыбка"</rus>
+		<eng>Найти артефакт "Золотая рыбка"</eng>
+		<ukr>Знайти артефакт "Золота рибка"</ukr>
+	</string>
+	<string id="task_esc_kostya_art_2">
+		<rus>Принести артефакт Косте</rus>
+		<eng>Принести артефакт Косте</eng>
+		<ukr>Принести артефакт Кості</ukr>
+	</string>
+	<string id="task_svalka_taynik1_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_svalka_taynik1_1">
+		<rus>Найти тайник на Свалке</rus>
+		<eng>Найти тайник на Свалке</eng>
+		<ukr>Знайти схованку на Звалищі</ukr>
+	</string>
+	<string id="task_svalka_taynik1_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_svalka_taynik2_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_svalka_taynik2_1">
+		<rus>Найти тайник на Свалке</rus>
+		<eng>Найти тайник на Свалке</eng>
+		<ukr>Знайти схованку на Звалищі</ukr>
+	</string>
+	<string id="task_svalka_taynik2_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_svalka_taynik3_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_svalka_taynik3_1">
+		<rus>Найти тайник на Свалке</rus>
+		<eng>Найти тайник на Свалке</eng>
+		<ukr>Знайти схованку на Звалищі</ukr>
+	</string>
+	<string id="task_svalka_taynik3_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_svalka_taynik4_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_svalka_taynik4_1">
+		<rus>Найти тайник на Свалке</rus>
+		<eng>Найти тайник на Свалке</eng>
+		<ukr>Знайти схованку на Звалищі</ukr>
+	</string>
+	<string id="task_svalka_taynik4_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_svalka_taynik5_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_svalka_taynik5_1">
+		<rus>Найти тайник на Свалке</rus>
+		<eng>Найти тайник на Свалке</eng>
+		<ukr>Знайти схованку на Звалищі</ukr>
+	</string>
+	<string id="task_svalka_taynik5_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_x18_taynik1_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_x18_taynik1_1">
+		<rus>Найти тайник в лаборатории Х-18</rus>
+		<eng>Найти тайник в лаборатории Х-18</eng>
+		<ukr>Знайти схованку у лабораторії Х-18</ukr>
+	</string>
+	<string id="task_x18_taynik1_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_x18_taynik2_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_x18_taynik2_1">
+		<rus>Найти тайник в лаборатории Х-18</rus>
+		<eng>Найти тайник в лаборатории Х-18</eng>
+		<ukr>Знайти схованку у лабораторії Х-18</ukr>
+	</string>
+	<string id="task_x18_taynik2_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_x18_taynik3_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_x18_taynik3_1">
+		<rus>Найти тайник в лаборатории Х-18</rus>
+		<eng>Найти тайник в лаборатории Х-18</eng>
+		<ukr>Знайти схованку у лабораторії Х-18</ukr>
+	</string>
+	<string id="task_x18_taynik3_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_agroprom_taynik1_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_agroprom_taynik1_1">
+		<rus>Найти тайник на Агропроме</rus>
+		<eng>Найти тайник на Агропроме</eng>
+		<ukr>Знайти схованку на Агропромі</ukr>
+	</string>
+	<string id="task_agroprom_taynik1_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_agroprom_taynik2_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_agroprom_taynik2_1">
+		<rus>Найти тайник на Агропроме</rus>
+		<eng>Найти тайник на Агропроме</eng>
+		<ukr>Знайти схованку на Агропромі</ukr>
+	</string>
+	<string id="task_agroprom_taynik2_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_agroprom_taynik3_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_agroprom_taynik3_1">
+		<rus>Найти тайник на Агропроме</rus>
+		<eng>Найти тайник на Агропроме</eng>
+		<ukr>Знайти схованку на Агропромі</ukr>
+	</string>
+	<string id="task_agroprom_taynik3_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_agroprom_taynik4_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_agroprom_taynik4_1">
+		<rus>Найти тайник на Агропроме</rus>
+		<eng>Найти тайник на Агропроме</eng>
+		<ukr>Знайти схованку на Агропромі</ukr>
+	</string>
+	<string id="task_agroprom_taynik4_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_agroprom_taynik5_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_agroprom_taynik5_1">
+		<rus>Найти тайник на Агропроме</rus>
+		<eng>Найти тайник на Агропроме</eng>
+		<ukr>Знайти схованку на Агропромі</ukr>
+	</string>
+	<string id="task_agroprom_taynik5_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_agroprom_taynik6_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_agroprom_taynik6_1">
+		<rus>Найти тайник на Агропроме</rus>
+		<eng>Найти тайник на Агропроме</eng>
+		<ukr>Знайти схованку на Агропромі</ukr>
+	</string>
+	<string id="task_agroprom_taynik6_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_yantar_taynik1_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_yantar_taynik1_1">
+		<rus>Найти тайник на Янтаре</rus>
+		<eng>Найти тайник на Янтаре</eng>
+		<ukr>Знайти схованку на Янтарі</ukr>
+	</string>
+	<string id="task_yantar_taynik1_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_yantar_taynik2_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_yantar_taynik2_1">
+		<rus>Найти тайник на Янтаре</rus>
+		<eng>Найти тайник на Янтаре</eng>
+		<ukr>Знайти схованку на Янтарі</ukr>
+	</string>
+	<string id="task_yantar_taynik2_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_yantar_taynik3_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_yantar_taynik3_1">
+		<rus>Найти тайник на Янтаре</rus>
+		<eng>Найти тайник на Янтаре</eng>
+		<ukr>Знайти схованку на Янтарі</ukr>
+	</string>
+	<string id="task_yantar_taynik3_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_yantar_taynik4_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_yantar_taynik4_1">
+		<rus>Найти тайник на Янтаре</rus>
+		<eng>Найти тайник на Янтаре</eng>
+		<ukr>Знайти схованку на Янтарі</ukr>
+	</string>
+	<string id="task_yantar_taynik4_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_yantar_taynik5_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_yantar_taynik5_1">
+		<rus>Найти тайник на Янтаре</rus>
+		<eng>Найти тайник на Янтаре</eng>
+		<ukr>Знайти схованку на Янтарі</ukr>
+	</string>
+	<string id="task_yantar_taynik5_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_yantar_taynik6_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_yantar_taynik6_1">
+		<rus>Найти тайник на Янтаре</rus>
+		<eng>Найти тайник на Янтаре</eng>
+		<ukr>Знайти схованку на Янтарі</ukr>
+	</string>
+	<string id="task_yantar_taynik6_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_as_taynik1_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_as_taynik1_1">
+		<rus>Найти тайник на Армейских Складах</rus>
+		<eng>Найти тайник на Армейских Складах</eng>
+		<ukr>Знайти схованку на Армійських Складах</ukr>
+	</string>
+	<string id="task_as_taynik1_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_as_taynik2_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_as_taynik2_1">
+		<rus>Найти тайник на Армейских Складах</rus>
+		<eng>Найти тайник на Армейских Складах</eng>
+		<ukr>Знайти схованку на Армійських Складах</ukr>
+	</string>
+	<string id="task_as_taynik2_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_as_taynik3_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_as_taynik3_1">
+		<rus>Найти тайник на Армейских Складах</rus>
+		<eng>Найти тайник на Армейских Складах</eng>
+		<ukr>Знайти схованку на Армійських Складах</ukr>
+	</string>
+	<string id="task_as_taynik3_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_as_taynik4_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_as_taynik4_1">
+		<rus>Найти тайник на Армейских Складах</rus>
+		<eng>Найти тайник на Армейских Складах</eng>
+		<ukr>Знайти схованку на Армійських Складах</ukr>
+	</string>
+	<string id="task_as_taynik4_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_as_taynik5_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_as_taynik5_1">
+		<rus>Найти тайник на Армейских Складах</rus>
+		<eng>Найти тайник на Армейских Складах</eng>
+		<ukr>Знайти схованку на Армійських Складах</ukr>
+	</string>
+	<string id="task_as_taynik5_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_as_taynik6_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_as_taynik6_1">
+		<rus>Найти тайник на Армейских Складах</rus>
+		<eng>Найти тайник на Армейских Складах</eng>
+		<ukr>Знайти схованку на Армійських Складах</ukr>
+	</string>
+	<string id="task_as_taynik6_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_radar_taynik1_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_radar_taynik1_1">
+		<rus>Найти тайник на Радаре</rus>
+		<eng>Найти тайник на Радаре</eng>
+		<ukr>Знайти схованку на Радарі</ukr>
+	</string>
+	<string id="task_radar_taynik1_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_radar_taynik2_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_radar_taynik2_1">
+		<rus>Найти тайник на Радаре</rus>
+		<eng>Найти тайник на Радаре</eng>
+		<ukr>Знайти схованку на Радарі</ukr>
+	</string>
+	<string id="task_radar_taynik2_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_radar_taynik3_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_radar_taynik3_1">
+		<rus>Найти тайник на Радаре</rus>
+		<eng>Найти тайник на Радаре</eng>
+		<ukr>Знайти схованку на Радарі</ukr>
+	</string>
+	<string id="task_radar_taynik3_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_radar_taynik4_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_radar_taynik4_1">
+		<rus>Найти тайник на Радаре</rus>
+		<eng>Найти тайник на Радаре</eng>
+		<ukr>Знайти схованку на Радарі</ukr>
+	</string>
+	<string id="task_radar_taynik4_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_x10_taynik_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_x10_taynik_1">
+		<rus>Найти тайник в лаборатории Х-10</rus>
+		<eng>Найти тайник в лаборатории Х-10</eng>
+		<ukr>Знайти схованку у лабораторії Х-10</ukr>
+	</string>
+	<string id="task_x10_taynik_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_pripyat_taynik1_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_pripyat_taynik1_1">
+		<rus>Найти тайник в Припяти</rus>
+		<eng>Найти тайник в Припяти</eng>
+		<ukr>Знайти схованку у Прип'яті</ukr>
+	</string>
+	<string id="task_pripyat_taynik1_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_pripyat_taynik2_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_pripyat_taynik2_1">
+		<rus>Найти тайник в Припяти</rus>
+		<eng>Найти тайник в Припяти</eng>
+		<ukr>Знайти схованку у Прип'яті</ukr>
+	</string>
+	<string id="task_pripyat_taynik2_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_pripyat_taynik3_0">
+		<rus>Тайник Кости</rus>
+		<eng>Тайник Кости</eng>
+		<ukr>Схованка Кості</ukr>
+	</string>
+	<string id="task_pripyat_taynik3_1">
+		<rus>Найти тайник в Припяти</rus>
+		<eng>Найти тайник в Припяти</eng>
+		<ukr>Знайти схованку у Прип'яті</ukr>
+	</string>
+	<string id="task_pripyat_taynik3_2">
+		<rus>Рассказать о тайнике</rus>
+		<eng>Рассказать о тайнике</eng>
+		<ukr>Розповісти про схованку</ukr>
+	</string>
+	<string id="task_kostya_meet_0">
+		<rus>Поговорить с Костей</rus>
+		<eng>Поговорить с Костей</eng>
+		<ukr>Поговорити з Костьою</ukr>
+	</string>
+	<string id="task_kostya_meet_1">
+		<rus>Поговорить с Костей</rus>
+		<eng>Поговорить с Костей</eng>
+		<ukr>Поговорити з Костьою</ukr>
+	</string>
+	<string id="task_kostya_sacharov_0">
+		<rus>Поговорить с Сахаровым</rus>
+		<eng>Поговорить с Сахаровым</eng>
+		<ukr>Поговорити з Сахаровим</ukr>
+	</string>
+	<string id="task_kostya_sacharov_1">
+		<rus>Поговорить с Сахаровым</rus>
+		<eng>Поговорить с Сахаровым</eng>
+		<ukr>Поговорити з Сахаровим</ukr>
+	</string>
+	<string id="task_sacharov_pda_0">
+		<rus>ПДА Васильева</rus>
+		<eng>ПДА Васильева</eng>
+		<ukr>КПК Васильєва</ukr>
+	</string>
+	<string id="task_sacharov_pda_1">
+		<rus>Найти ПДА Васильева</rus>
+		<eng>Найти ПДА Васильева</eng>
+		<ukr>Знайти КПК Васильєва</ukr>
+	</string>
+	<string id="task_sacharov_pda_2">
+		<rus>Принести ПДА Сахарову</rus>
+		<eng>Принести ПДА Сахарову</eng>
+		<ukr>Принести КПК Сахарову</ukr>
+	</string>
+	<string id="task_sacharov_teleport_0">
+		<rus>Артефакт "Батарейка"</rus>
+		<eng>Артефакт "Батарейка"</eng>
+		<ukr>Артефакт "Батарейка"</ukr>
+	</string>
+	<string id="task_sacharov_teleport_1">
+		<rus>Найти артефакт "Батарейка"</rus>
+		<eng>Найти артефакт "Батарейка"</eng>
+		<ukr>Знайти артефакт "Батарейка"</ukr>
+	</string>
+	<string id="task_sacharov_teleport_2">
+		<rus>Принести артефакт Сахарову</rus>
+		<eng>Принести артефакт Сахарову</eng>
+		<ukr>Принести артефакт Сахарову</ukr>
+	</string>
+	<string id="task_tm_find_0">
+		<rus>Тайник Монолита</rus>
+		<eng>Тайник Монолита</eng>
+		<ukr>Схованка Моноліту</ukr>
+	</string>
+	<string id="task_tm_find_1">
+		<rus>Найти 13 тайников-сторожей</rus>
+		<eng>Найти 13 тайников-сторожей</eng>
+		<ukr>Знайти 13 схованок-вартових</ukr>
+	</string>
+	<string id="task_tm_find_2">
+		<rus>Найти тайник Монолита</rus>
+		<eng>Найти тайник Монолита</eng>
+		<ukr>Знайти схованку Моноліту</ukr>
+	</string>
+	<string id="task_stealth_find_tm_brother_0">
+		<rus>Брат Тени Монолита</rus>
+		<eng>Брат Тени Монолита</eng>
+		<ukr>Брат Тіні Моноліту</ukr>
+	</string>
+	<string id="task_stealth_find_tm_brother_1">
+		<rus>Найти брата Тени Монолита на ЧАЭС-2</rus>
+		<eng>Найти брата Тени Монолита на ЧАЭС-2</eng>
+		<ukr>Знайти брата Тіні Моноліту на ЧАЕС-2</ukr>
+	</string>
+	<string id="task_stealth_find_pda_0">
+		<rus>Собрать ПДА стукача Монолита</rus>
+		<eng>Собрать ПДА стукача Монолита</eng>
+		<ukr>Зібрати КПК стукача Моноліту</ukr>
+	</string>
+	<string id="task_stealth_find_pda_1">
+		<rus>На крыше Арены</rus>
+		<eng>На крыше Арены</eng>
+		<ukr>На даху Арени</ukr>
+	</string>
+	<string id="task_stealth_find_pda_2">
+		<rus>На крыше ангара на Свалке</rus>
+		<eng>На крыше ангара на Свалке</eng>
+		<ukr>На даху ангара на Звалищі</ukr>
+	</string>
+	<string id="task_stealth_find_pda_3">
+		<rus>В шкафу на 3 этаже НИИ "Агропром"</rus>
+		<eng>В шкафу на 3 этаже НИИ "Агропром"</eng>
+		<ukr>У шафі на 3 поверсі НДІ "Агропром"</ukr>
+	</string>
+	<string id="task_stealth_find_pda_4">
+		<rus>У БТР на базе Свободы</rus>
+		<eng>У БТР на базе Свободы</eng>
+		<ukr>Біля БТР на базі Волі</ukr>
+	</string>
+	<string id="task_stealth_find_pda_5">
+		<rus>Под плитами на базе Борова</rus>
+		<eng>Под плитами на базе Борова</eng>
+		<ukr>Під плитами на базі Кабана</ukr>
+	</string>
+	<string id="task_stealth_find_pda_6">
+		<rus>Принести ПДА брату Тени Монолита</rus>
+		<eng>Принести ПДА брату Тени Монолита</eng>
+		<ukr>Принести КПК брату Тіні Моноліту</ukr>
+	</string>
+	<string id="task_stealth_blow_sidor_0">
+		<rus>Взорвать Сидоровича</rus>
+		<eng>Взорвать Сидоровича</eng>
+		<ukr>Взірвати Сидоровича</ukr>
+	</string>
+	<string id="task_stealth_blow_sidor_1">
+		<rus>Взорвать Сидоровича</rus>
+		<eng>Взорвать Сидоровича</eng>
+		<ukr>Взірвати Сидоровича</ukr>
+	</string>
+	<string id="task_stealth_blow_sidor_2">
+		<rus>Отчитаться брату Тени Монолита</rus>
+		<eng>Отчитаться брату Тени Монолита</eng>
+		<ukr>Відзвітувати брату Тіні Моноліту</ukr>
+	</string>
+</string_table>

@@ -1,0 +1,3726 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_activate_artefact">
+		<rus>активировать артефакт</rus>
+		<eng>активировать артефакт</eng>
+		<ukr>активувати артефакт</ukr>
+	</string>
+	<string id="st_attach_gl_to_rifle">
+		<rus>присоединить</rus>
+		<eng>присоединить</eng>
+		<ukr>приєднати</ukr>
+	</string>
+	<string id="st_attach_between">
+		<rus>к</rus>
+		<eng>к</eng>
+		<ukr>до</ukr>
+	</string>
+	<string id="st_attach_gl_to_shotgun">
+		<rus>присоединить</rus>
+		<eng>присоединить</eng>
+		<ukr>приєднати</ukr>
+	</string>
+	<string id="st_attach_scope_to_pistol">
+		<rus>присоединить</rus>
+		<eng>присоединить</eng>
+		<ukr>приєднати</ukr>
+	</string>
+	<string id="st_attach_scope_to_rifle">
+		<rus>присоединить</rus>
+		<eng>присоединить</eng>
+		<ukr>приєднати</ukr>
+	</string>
+	<string id="st_attach_scope_to_shotgun">
+		<rus>присоединить</rus>
+		<eng>присоединить</eng>
+		<ukr>приєднати</ukr>
+	</string>
+	<string id="st_attach_silencer_to_pistol">
+		<rus>присоединить</rus>
+		<eng>присоединить</eng>
+		<ukr>приєднати</ukr>
+	</string>
+	<string id="st_attach_silencer_to_rifle">
+		<rus>присоединить</rus>
+		<eng>присоединить</eng>
+		<ukr>приєднати</ukr>
+	</string>
+	<string id="st_attach_silencer_to_shotgun">
+		<rus>присоединить</rus>
+		<eng>присоединить</eng>
+		<ukr>приєднати</ukr>
+	</string>
+	<string id="st_base_cost">
+		<rus>цена</rus>
+		<eng>цена</eng>
+		<ukr>ціна</ukr>
+	</string>
+	<string id="st_condition">
+		<rus>состояние</rus>
+		<eng>состояние</eng>
+		<ukr>стан</ukr>
+	</string>
+	<string id="st_detach_gl">
+		<rus>отсоединить</rus>
+		<eng>отсоединить</eng>
+		<ukr>від'єднати</ukr>
+	</string>
+	<string id="st_detach_gl_full">
+		<rus>отсоединить подствольник</rus>
+		<eng>отсоединить подствольник</eng>
+		<ukr>від'єднати підствольник</ukr>
+	</string>
+	<string id="st_detach_scope">
+		<rus>отсоединить</rus>
+		<eng>отсоединить</eng>
+		<ukr>від'єднати</ukr>
+	</string>
+	<string id="st_detach_scope_full">
+		<rus>отсоединить прицел</rus>
+		<eng>отсоединить прицел</eng>
+		<ukr>від'єднати приціл</ukr>
+	</string>
+	<string id="st_detach_silencer">
+		<rus>отсоединить</rus>
+		<eng>отсоединить</eng>
+		<ukr>від'єднати</ukr>
+	</string>
+	<string id="st_detach_silencer_full">
+		<rus>отсоединить глушитель</rus>
+		<eng>отсоединить глушитель</eng>
+		<ukr>від'єднати глушник</ukr>
+	</string>
+	<string id="st_dress_outfit">
+		<rus>одеть</rus>
+		<eng>одеть</eng>
+		<ukr>одягнути</ukr>
+	</string>
+	<string id="st_drop">
+		<rus>выложить</rus>
+		<eng>выложить</eng>
+		<ukr>викласти</ukr>
+	</string>
+	<string id="st_drop_all">
+		<rus>выложить всё</rus>
+		<eng>выложить всё</eng>
+		<ukr>викласти все</ukr>
+	</string>
+	<string id="st_eat">
+		<rus>съесть</rus>
+		<eng>съесть</eng>
+		<ukr>з'їсти</ukr>
+	</string>
+	<string id="st_move_on_belt">
+		<rus>повесить на пояс</rus>
+		<eng>повесить на пояс</eng>
+		<ukr>повісити на пояс</ukr>
+	</string>
+	<string id="st_move_to_bag">
+		<rus>убрать в рюкзак</rus>
+		<eng>убрать в рюкзак</eng>
+		<ukr>прибрати в рюкзак</ukr>
+	</string>
+	<string id="st_move_to_slot">
+		<rus>переместить в слот</rus>
+		<eng>переместить в слот</eng>
+		<ukr>перемістити у слот</ukr>
+	</string>
+	<string id="st_sell_item">
+		<rus>продать предмет</rus>
+		<eng>продать предмет</eng>
+		<ukr>продати предмет</ukr>
+	</string>
+	<string id="st_undress_outfit">
+		<rus>снять</rus>
+		<eng>снять</eng>
+		<ukr>зняти</ukr>
+	</string>
+	<string id="st_unload_magazine">
+		<rus>разрядить</rus>
+		<eng>разрядить</eng>
+		<ukr>розрядити</ukr>
+	</string>
+	<string id="st_use">
+		<rus>использовать</rus>
+		<eng>использовать</eng>
+		<ukr>використати</ukr>
+	</string>
+	<string id="st_load_ammo">
+		<rus>зарядить</rus>
+		<eng>зарядить</eng>
+		<ukr>зарядить</ukr>
+	</string>
+	<string id="st_weight">
+		<rus>вес</rus>
+		<eng>вес</eng>
+		<ukr>вага</ukr>
+	</string>
+	<string id="ui_inv_accuracy">
+		<rus>Точность</rus>
+		<eng>Точность</eng>
+		<ukr>Точність</ukr>
+	</string>
+	<string id="ui_inv_bag">
+		<rus>Рюкзак</rus>
+		<eng>Рюкзак</eng>
+		<ukr>Рюкзак</ukr>
+	</string>
+	<string id="ui_inv_belt">
+		<rus>Пояс</rus>
+		<eng>Пояс</eng>
+		<ukr>Пояс</ukr>
+	</string>
+	<string id="ui_inv_cancel">
+		<rus>Отмена</rus>
+		<eng>Отмена</eng>
+		<ukr>Відмінити</ukr>
+	</string>
+	<string id="ui_inv_clear">
+		<rus>Очистить</rus>
+		<eng>Очистить</eng>
+		<ukr>Очистити</ukr>
+	</string>
+	<string id="ui_inv_damage">
+		<rus>Повреждение</rus>
+		<eng>Повреждение</eng>
+		<ukr>Ушкодження</ukr>
+	</string>
+	<string id="ui_inv_description">
+		<rus>Описание</rus>
+		<eng>Описание</eng>
+		<ukr>Опис</ukr>
+	</string>
+	<string id="ui_inv_drop">
+		<rus>Выложить</rus>
+		<eng>Выложить</eng>
+		<ukr>Викласти</ukr>
+	</string>
+	<string id="ui_inv_equipment">
+		<rus>Оборудование</rus>
+		<eng>Оборудование</eng>
+		<ukr>Обладнання</ukr>
+	</string>
+	<string id="ui_inv_exit">
+		<rus>Выход</rus>
+		<eng>Выход</eng>
+		<ukr>Вихід</ukr>
+	</string>
+	<string id="ui_inv_granades_rifle">
+		<rus>Купить гранаты для подствольника (E)</rus>
+		<eng>Купить гранаты для подствольника (E)</eng>
+		<ukr>Купити гранати для підствольного гранатомета (E)</ukr>
+	</string>
+	<string id="ui_inv_handling">
+		<rus>Надёжность</rus>
+		<eng>Надёжность</eng>
+		<ukr>Надійність</ukr>
+	</string>
+	<string id="ui_inv_heavy_weapons">
+		<rus>Тяжёлое</rus>
+		<eng>Тяжёлое</eng>
+		<ukr>Важке</ukr>
+	</string>
+	<string id="ui_inv_items_list">
+		<rus>Список вещей</rus>
+		<eng>Список вещей</eng>
+		<ukr>Список речей</ukr>
+	</string>
+	<string id="ui_inv_money">
+		<rus>Деньги</rus>
+		<eng>Деньги</eng>
+		<ukr>Гроші</ukr>
+	</string>
+	<string id="ui_inv_ok">
+		<rus>OK</rus>
+		<eng>OK</eng>
+		<ukr>OK</ukr>
+	</string>
+	<string id="ui_inv_outfit_burn_protection">
+		<rus>Ожог</rus>
+		<eng>Ожог</eng>
+		<ukr>Опік</ukr>
+	</string>
+	<string id="ui_inv_outfit_chemical_burn_protection">
+		<rus>Хим. ожог</rus>
+		<eng>Хим. ожог</eng>
+		<ukr>Хім. опік</ukr>
+	</string>
+	<string id="ui_inv_outfit_explosion_protection">
+		<rus>Взрыв</rus>
+		<eng>Взрыв</eng>
+		<ukr>Вибух</ukr>
+	</string>
+	<string id="ui_inv_outfit_fire_wound_protection">
+		<rus>Пулестойкость</rus>
+		<eng>Пулестойкость</eng>
+		<ukr>Кулестійкість</ukr>
+	</string>
+	<string id="ui_inv_outfit_additional_inventory_weight">
+		<rus>Грузоподъёмность</rus>
+		<eng>Грузоподъёмность</eng>
+		<ukr>Грузоподъёмность</ukr>
+	</string>
+	<string id="ui_inv_additional_weight">
+		<rus>Переносимый вес</rus>
+		<eng>Переносимый вес</eng>
+		<ukr>Переносимый вес</ukr>
+	</string>
+	<string id="ui_inv_aw_kg">
+		<rus>кг.</rus>
+		<eng>кг.</eng>
+		<ukr>кг.</ukr>
+	</string>
+	<string id="ui_inv_aw_gr">
+		<rus>гр.</rus>
+		<eng>гр.</eng>
+		<ukr>гр.</ukr>
+	</string>
+	<string id="ui_inv_m">
+		<rus>м</rus>
+		<eng>m</eng>
+		<ukr>м</ukr>
+	</string>
+	<string id="ui_inv_rpm">
+		<rus>в/м</rus>
+		<eng>rpm</eng>
+		<ukr>п/хв</ukr>
+	</string>
+	<string id="ui_inv_outfit_params">
+		<rus>Параметры</rus>
+		<eng>Параметры</eng>
+		<ukr>Параметри</ukr>
+	</string>
+	<string id="ui_inv_outfit_radiation_protection">
+		<rus>Сопр. радиации</rus>
+		<eng>Resist radiation</eng>
+		<ukr>Опір радіації</ukr>
+	</string>
+	<string id="ui_inv_outfit_shock_protection">
+		<rus>Электрошок</rus>
+		<eng>Электрошок</eng>
+		<ukr>Електрошок</ukr>
+	</string>
+	<string id="ui_inv_outfit_strike_protection">
+		<rus>Удар</rus>
+		<eng>Удар</eng>
+		<ukr>Удар</ukr>
+	</string>
+	<string id="ui_inv_outfit_telepatic_protection">
+		<rus>Телепатия</rus>
+		<eng>Телепатия</eng>
+		<ukr>Телепатія</ukr>
+	</string>
+	<string id="ui_inv_outfit_wound_protection">
+		<rus>Разрыв</rus>
+		<eng>Разрыв</eng>
+		<ukr>Розрив</ukr>
+	</string>
+	<string id="ui_inv_outfits">
+		<rus>Костюмы</rus>
+		<eng>Костюмы</eng>
+		<ukr>Костюми</ukr>
+	</string>
+	<string id="ui_inv_personal">
+		<rus>Здоровье</rus>
+		<eng>Здоровье</eng>
+		<ukr>Здоров'я</ukr>
+	</string>
+	<string id="ui_inv_pistols">
+		<rus>Пистолеты</rus>
+		<eng>Пистолеты</eng>
+		<ukr>Пістолети</ukr>
+	</string>
+	<string id="ui_inv_primary_weapons">
+		<rus>Основное</rus>
+		<eng>Основное</eng>
+		<ukr>Основне</ukr>
+	</string>
+	<string id="ui_inv_rate_of_fire">
+		<rus>Боевая скорострельность</rus>
+		<eng>Боевая скорострельность</eng>
+		<ukr>Бойова швидкострільність</ukr>
+	</string>
+	<string id="ui_inv_rest">
+		<rus>Отдохнуть</rus>
+		<eng>Отдохнуть</eng>
+		<ukr>Відпочити</ukr>
+	</string>
+	<string id="ui_inv_rifles">
+		<rus>Автоматы</rus>
+		<eng>Автоматы</eng>
+		<ukr>Автомати</ukr>
+	</string>
+	<string id="ui_inv_shop">
+		<rus>Магазин</rus>
+		<eng>Магазин</eng>
+		<ukr>Магазин</ukr>
+	</string>
+	<string id="ui_inv_shotguns">
+		<rus>Ружья</rus>
+		<eng>Ружья</eng>
+		<ukr>Рушниці</ukr>
+	</string>
+	<string id="ui_inv_sniper_rifles">
+		<rus>Снайперское</rus>
+		<eng>Снайперское</eng>
+		<ukr>Снайперське</ukr>
+	</string>
+	<string id="ui_inv_time">
+		<rus>Время</rus>
+		<eng>Время</eng>
+		<ukr>Час</ukr>
+	</string>
+	<string id="ui_inv_game_time">
+		<rus>Игровое время</rus>
+		<eng>Игровое время</eng>
+		<ukr>Ігровий час</ukr>
+	</string>
+	<string id="ui_inv_total_money">
+		<rus>Всего денег</rus>
+		<eng>Всего денег</eng>
+		<ukr>Усього грошей</ukr>
+	</string>
+	<string id="ui_inv_weight">
+		<rus>Вес</rus>
+		<eng>Вес</eng>
+		<ukr>Вага</ukr>
+	</string>
+	<string id="ui_inv_ammo_pistol">
+		<rus>Купить базовые патроны для пистолета (Q)</rus>
+		<eng>Купить базовые патроны для пистолета (Q)</eng>
+		<ukr>Купити базові патрони для пістолета (Q)</ukr>
+	</string>
+	<string id="ui_inv_ammo_rifle">
+		<rus>Купить патроны для винтовки (W)</rus>
+		<eng>Купить патроны для винтовки (W)</eng>
+		<ukr>Купити патрони для автомата (W)</ukr>
+	</string>
+	<string id="ui_inv_granadelauncher_rifle">
+		<rus>Купить подствольник для винтовки (D)</rus>
+		<eng>Купить подствольник для винтовки (D)</eng>
+		<ukr>Купити подствольник для автомата (D)</ukr>
+	</string>
+	<string id="ui_inv_granades">
+		<rus>Гранаты</rus>
+		<eng>Гранаты</eng>
+		<ukr>Гранати</ukr>
+	</string>
+	<string id="ui_inv_scope_rifle">
+		<rus>Купить оптический прицел для винтовки (S)</rus>
+		<eng>Купить оптический прицел для винтовки (S)</eng>
+		<ukr>Купити оптичний приціл для автомата (S)</ukr>
+	</string>
+	<string id="ui_inv_silencer_pistol">
+		<rus>Купить глушитель для пистолета (A)</rus>
+		<eng>Купить глушитель для пистолета (A)</eng>
+		<ukr>Купити глушник для пістолета (A)</ukr>
+	</string>
+	<string id="ui_inv_silencer_rifle">
+		<rus>Купить глушитель для винтовки (F)</rus>
+		<eng>Купить глушитель для винтовки (F)</eng>
+		<ukr>Купити глушник для автомата (F)</ukr>
+	</string>
+	<string id="ui_inv_last_buy">
+		<rus>Купить последний приобретённый набор</rus>
+		<eng>Купить последний приобретённый набор</eng>
+		<ukr>Купити останній придбаний набір</ukr>
+	</string>
+	<string id="ui_inv_sell_items(X)">
+		<rus>Продать все вещи из рюкзака (X)</rus>
+		<eng>Продать все вещи из рюкзака (X)</eng>
+		<ukr>Продати всі речі з наплічника (X)</ukr>
+	</string>
+	<string id="ui_st_preset_stored_to">
+		<rus>Приобретённый набор сохранён как</rus>
+		<eng>Приобретённый набор сохранён как</eng>
+		<ukr>Придбаний набір збережено як</ukr>
+	</string>
+	<string id="ui_inv_preset1(F1)">
+		<rus>Набор 1 (F1)</rus>
+		<eng>Набор 1 (F1)</eng>
+		<ukr>Набір 1 (F1)</ukr>
+	</string>
+	<string id="ui_inv_preset2(F2)">
+		<rus>Набор 2 (F2)</rus>
+		<eng>Набор 2 (F2)</eng>
+		<ukr>Набір 2 (F2)</ukr>
+	</string>
+	<string id="ui_inv_preset3(F3)">
+		<rus>Набор 3 (F3)</rus>
+		<eng>Набор 3 (F3)</eng>
+		<ukr>Набір 3 (F3)</ukr>
+	</string>
+	<string id="ui_inv_last_buy(F4)">
+		<rus>Предыдущий (F4)</rus>
+		<eng>Предыдущий (F4)</eng>
+		<ukr>Попередній (F4)</ukr>
+	</string>
+	<string id="ui_inv_default(F5)">
+		<rus>Стартовый (F5)</rus>
+		<eng>Стартовый (F5)</eng>
+		<ukr>Стартовий (F5)</ukr>
+	</string>
+	<string id="ui_st_preset_def">
+		<rus>Стартовый набор</rus>
+		<eng>Стартовый набор</eng>
+		<ukr>Стартовий набір</ukr>
+	</string>
+	<string id="ui_inv_reset_items(C)">
+		<rus>Очистить (C)</rus>
+		<eng>Очистить (C)</eng>
+		<ukr>Очистити (C)</ukr>
+	</string>
+	<string id="ui_inv_cant_buy_item">
+		<rus>Невозможно купить оружие</rus>
+		<eng>Невозможно купить оружие</eng>
+		<ukr>Неможливо придбати зброю</ukr>
+	</string>
+	<string id="ui_inv_rank_restr">
+		<rus>Ограничение по рангу</rus>
+		<eng>Ограничение по рангу</eng>
+		<ukr>Обмеження за рангом</ukr>
+	</string>
+	<string id="ui_inv_not_enought_money">
+		<rus>Недостаточно денег</rus>
+		<eng>Недостаточно денег</eng>
+		<ukr>Не вистачає грошей</ukr>
+	</string>
+	<string id="ui_inv_count_restr">
+		<rus>Ограничение по количеству</rus>
+		<eng>Ограничение по количеству</eng>
+		<ukr>Обмеження за кількістю</ukr>
+	</string>
+	<string id="ui_inv_has">
+		<rus>сейчас</rus>
+		<eng>сейчас</eng>
+		<ukr>зараз</ukr>
+	</string>
+	<string id="ui_inv_need">
+		<rus>необходимо</rus>
+		<eng>необходимо</eng>
+		<ukr>необхідно</ukr>
+	</string>
+	<string id="ui_carbody_move_single">
+		<rus>переместить</rus>
+		<eng>переместить</eng>
+		<ukr>переместить</ukr>
+	</string>
+	<string id="ui_carbody_move_all">
+		<rus>переместить всё</rus>
+		<eng>переместить всё</eng>
+		<ukr>переместить всё</ukr>
+	</string>
+	<string id="ui_inv_you_already_have">
+		<rus>Уже есть</rus>
+		<eng>Уже есть</eng>
+		<ukr>уже є</ukr>
+	</string>
+	<string id="ui_st_err_gs_not_available">
+		<rus>Онлайн услуги S.T.A.L.K.E.R. недоступны.</rus>
+		<eng>Онлайн услуги S.T.A.L.K.E.R. недоступны.</eng>
+		<ukr>Онлайн-послуги S.T.A.L.K.E.R. недоступні</ukr>
+	</string>
+	<string id="ui_st_err_sb_master_server_conn_fail">
+		<rus>Невозможно присоединиться к мастер-серверу</rus>
+		<eng>Невозможно присоединиться к мастер-серверу</eng>
+		<ukr>Неможливо під'єднатися до майстер-сервера</ukr>
+	</string>
+	<string id="kb_active_jobs">
+		<rus>Активные задачи в КПК</rus>
+		<eng>Активные задачи в КПК</eng>
+		<ukr>Активні задачі в КПК</ukr>
+	</string>
+	<string id="kb_always_run">
+		<rus>Шаг</rus>
+		<eng>Шаг</eng>
+		<ukr>Крок</ukr>
+	</string>
+	<string id="kb_artefact">
+		<rus>Артефакт</rus>
+		<eng>Артефакт</eng>
+		<ukr>Артефакт</ukr>
+	</string>
+	<string id="kb_backward">
+		<rus>Назад</rus>
+		<eng>Назад</eng>
+		<ukr>Назад</ukr>
+	</string>
+	<string id="kb_binoculars">
+		<rus>Бинокль</rus>
+		<eng>Бинокль</eng>
+		<ukr>Бінокль</ukr>
+	</string>
+	<string id="kb_buy_menu">
+		<rus>Меню покупки</rus>
+		<eng>Меню покупки</eng>
+		<ukr>Меню покупки</ukr>
+	</string>
+	<string id="kb_chat">
+		<rus>Чат</rus>
+		<eng>Чат</eng>
+		<ukr>Чат</ukr>
+	</string>
+	<string id="kb_chat_team">
+		<rus>Командный чат</rus>
+		<eng>Командный чат</eng>
+		<ukr>Командний чат</ukr>
+	</string>
+	<string id="kb_console">
+		<rus>Консоль</rus>
+		<eng>Консоль</eng>
+		<ukr>Консоль</ukr>
+	</string>
+	<string id="kb_contacts">
+		<rus>Контакты в КПК</rus>
+		<eng>Контакты в КПК</eng>
+		<ukr>Контакти в КПК</ukr>
+	</string>
+	<string id="kb_crouch">
+		<rus>Присесть</rus>
+		<eng>Присесть</eng>
+		<ukr>Присісти</ukr>
+	</string>
+	<string id="kb_crouch_toggle">
+		<rus>Всегда в присяде</rus>
+		<eng>Всегда в присяде</eng>
+		<ukr>Завжди навприсідки</ukr>
+	</string>
+	<string id="kb_creep">
+		<rus>Всегда в полном присяде</rus>
+		<eng>Всегда в полном присяде</eng>
+		<ukr>Завжди повністю присівши</ukr>
+	</string>
+	<string id="kb_wpn_scope_ops">
+		<rus>Отделить/прикрепить прицел</rus>
+		<eng>Attach/Detach scope</eng>
+		<ukr>Відокремити/приєднати приціл</ukr>
+	</string>
+	<string id="kb_wpn_gl_ops">
+		<rus>Отделить/прикрепить ПГ</rus>
+		<eng>Attach/Detach GL</eng>
+		<ukr>Відокремити/приєднати ПГ</ukr>
+	</string>
+	
+	<string id="kb_down">
+		<rus>Вниз</rus>
+		<eng>Вниз</eng>
+		<ukr>Униз</ukr>
+	</string>
+	<string id="kb_drop">
+		<rus>Выложить</rus>
+		<eng>Выложить</eng>
+		<ukr>Викласти</ukr>
+	</string>
+	<string id="kb_fire">
+		<rus>Огонь</rus>
+		<eng>Огонь</eng>
+		<ukr>Вогонь</ukr>
+	</string>
+	<string id="kb_firemode_next">
+		<rus>Следующий режим стрельбы</rus>
+		<eng>Следующий режим стрельбы</eng>
+		<ukr>Режим стрільби наст.</ukr>
+	</string>
+	<string id="kb_firemode_prev">
+		<rus>Предыдущий режим стрельбы</rus>
+		<eng>Предыдущий режим стрельбы</eng>
+		<ukr>Режим стрільби попер.</ukr>
+	</string>
+	<string id="kb_forward">
+		<rus>Вперёд</rus>
+		<eng>Вперёд</eng>
+		<ukr>Вперед</ukr>
+	</string>
+	<string id="kb_func">
+		<rus>Подствольник</rus>
+		<eng>Подствольник</eng>
+		<ukr>Підствольник</ukr>
+	</string>
+	<string id="kb_grp_common">
+		<rus>Общее</rus>
+		<eng>Общее</eng>
+		<ukr>Загальне</ukr>
+	</string>
+	<string id="kb_grp_direction">
+		<rus>Направление</rus>
+		<eng>Направление</eng>
+		<ukr>Напрямок</ukr>
+	</string>
+	<string id="kb_grp_inventory">
+		<rus>Инвентарь</rus>
+		<eng>Инвентарь</eng>
+		<ukr>Інвентар</ukr>
+	</string>
+	<string id="kb_grp_movement">
+		<rus>Движение</rus>
+		<eng>Движение</eng>
+		<ukr>Рух</ukr>
+	</string>
+	<string id="kb_grp_multiplayer">
+		<rus>Сетевая игра</rus>
+		<eng>Сетевая игра</eng>
+		<ukr>Гра через мережу</ukr>
+	</string>
+	<string id="kb_grp_weapons">
+		<rus>Оружие</rus>
+		<eng>Оружие</eng>
+		<ukr>Зброя</ukr>
+	</string>
+	<string id="kb_inventory">
+		<rus>Инвентарь</rus>
+		<eng>Инвентарь</eng>
+		<ukr>Інвентар</ukr>
+	</string>
+	<string id="kb_jump">
+		<rus>Прыжок</rus>
+		<eng>Прыжок</eng>
+		<ukr>Стрибок</ukr>
+	</string>
+	<string id="kb_left">
+		<rus>Влево</rus>
+		<eng>Влево</eng>
+		<ukr>Ліворуч</ukr>
+	</string>
+	<string id="kb_left_lookout">
+		<rus>Выглянуть влево</rus>
+		<eng>Выглянуть влево</eng>
+		<ukr>Виглянути вліво</ukr>
+	</string>
+	<string id="kb_left_strafe">
+		<rus>Шаг влево</rus>
+		<eng>Шаг влево</eng>
+		<ukr>Крок ліворуч</ukr>
+	</string>
+	<string id="kb_map">
+		<rus>Карта в КПК</rus>
+		<eng>Карта в КПК</eng>
+		<ukr>Карта в КПК</ukr>
+	</string>
+	<string id="kb_next_slot">
+		<rus>Оружие из следующего слота</rus>
+		<eng>Оружие из следующего слота</eng>
+		<ukr>Зброя з наступного слота</ukr>
+	</string>
+	<string id="kb_night_vision">
+		<rus>Прибор ночного видения</rus>
+		<eng>Прибор ночного видения</eng>
+		<ukr>Прилад нічного бачення</ukr>
+	</string>
+	<string id="kb_pause">
+		<rus>Пауза</rus>
+		<eng>Пауза</eng>
+		<ukr>Пауза</ukr>
+	</string>
+	<string id="kb_pda">
+		<rus>КПК</rus>
+		<eng>КПК</eng>
+		<ukr>КПК</ukr>
+	</string>
+	<string id="kb_prev_slot">
+		<rus>Оружие из предыдущего слота</rus>
+		<eng>Оружие из предыдущего слота</eng>
+		<ukr>Зброя із попереднього слота</ukr>
+	</string>
+	<string id="kb_quit">
+		<rus>Выход</rus>
+		<eng>Выход</eng>
+		<ukr>Вихід</ukr>
+	</string>
+	<string id="kb_reload">
+		<rus>Перезарядить</rus>
+		<eng>Перезарядить</eng>
+		<ukr>Перезарядити</ukr>
+	</string>
+	<string id="kb_repair">
+		<rus>Починить</rus>
+		<eng>Починить</eng>
+		<ukr>Полагодити</ukr>
+	</string>
+	<string id="kb_right">
+		<rus>Вправо</rus>
+		<eng>Вправо</eng>
+		<ukr>Праворуч</ukr>
+	</string>
+	<string id="kb_right_lookout">
+		<rus>Выглянуть вправо</rus>
+		<eng>Выглянуть вправо</eng>
+		<ukr>Виглянути вправо</ukr>
+	</string>
+	<string id="kb_right_strafe">
+		<rus>Шаг вправо</rus>
+		<eng>Шаг вправо</eng>
+		<ukr>Крок праворуч</ukr>
+	</string>
+	<string id="kb_reminds">
+		<rus>Напоминания</rus>
+		<eng>Напоминания</eng>
+		<ukr>Нагадування</ukr>
+	</string>
+	<string id="kb_screenshot">
+		<rus>Скриншот</rus>
+		<eng>Скриншот</eng>
+		<ukr>Скріншот</ukr>
+	</string>
+	<string id="kb_skin_menu">
+		<rus>Меню выбора модели</rus>
+		<eng>Меню выбора модели</eng>
+		<ukr>Меню вибору моделі</ukr>
+	</string>
+	<string id="kb_sprint">
+		<rus>Бег</rus>
+		<eng>Бег</eng>
+		<ukr>Бігти</ukr>
+	</string>
+	<string id="kb_super_jump">
+		<rus>Суперпрыжок</rus>
+		<eng>Суперпрыжок</eng>
+		<ukr>Суперстрибок</ukr>
+	</string>
+	<string id="kb_save_on_level">
+		<rus>Сохранить на территории</rus>
+		<eng>Сохранить на территории</eng>
+		<ukr>Зберегти на території</ukr>
+	</string>
+	<string id="kb_team_menu">
+		<rus>Меню выбора команды</rus>
+		<eng>Меню выбора команды</eng>
+		<ukr>Меню вибору команди</ukr>
+	</string>
+	<string id="kb_torch">
+		<rus>Фонарик</rus>
+		<eng>Фонарик</eng>
+		<ukr>Ліхтарик</ukr>
+	</string>
+	<string id="kb_turn_engine">
+		<rus>Завести двигатель</rus>
+		<eng>Завести двигатель</eng>
+		<ukr>Завести двигун</ukr>
+	</string>
+	<string id="kb_runner">
+		<rus>Возвращатель/Ускоритель</rus>
+		<eng>Возвращатель/Ускоритель</eng>
+		<ukr>Повертальник/Прискорювач</ukr>
+	</string>
+	<string id="kb_up">
+		<rus>Вверх</rus>
+		<eng>Вверх</eng>
+		<ukr>Нагору</ukr>
+	</string>
+	<string id="kb_use">
+		<rus>Использовать</rus>
+		<eng>Использовать</eng>
+		<ukr>Використати</ukr>
+	</string>
+	<string id="kb_use_bandage">
+		<rus>Использовать бинт</rus>
+		<eng>Использовать бинт</eng>
+		<ukr>Перев'язка</ukr>
+	</string>
+	<string id="kb_use_medkit">
+		<rus>Использовать аптечку</rus>
+		<eng>Использовать аптечку</eng>
+		<ukr>Використати аптечку</ukr>
+	</string>
+	<string id="kb_vote_begin">
+		<rus>Начать голосование</rus>
+		<eng>Начать голосование</eng>
+		<ukr>Розпочати голосування</ukr>
+	</string>
+	<string id="kb_vote_menu">
+		<rus>Проголосовать</rus>
+		<eng>Проголосовать</eng>
+		<ukr>Проголосувати</ukr>
+	</string>
+	<string id="kb_vote_no">
+		<rus>Проголосовать "Нет"</rus>
+		<eng>Проголосовать "Нет"</eng>
+		<ukr>Проголосувати «Ні»</ukr>
+	</string>
+	<string id="kb_vote_yes">
+		<rus>Проголосовать "Да"</rus>
+		<eng>Проголосовать "Да"</eng>
+		<ukr>Проголосувати «Так»</ukr>
+	</string>
+	<string id="kb_weapon1">
+		<rus>Нож</rus>
+		<eng>Нож</eng>
+		<ukr>Ніж</ukr>
+	</string>
+	<string id="kb_weapon2">
+		<rus>Пистолет</rus>
+		<eng>Пистолет</eng>
+		<ukr>Пістолет</ukr>
+	</string>
+	<string id="kb_weapon3">
+		<rus>Автомат</rus>
+		<eng>Автомат</eng>
+		<ukr>Автомат</ukr>
+	</string>
+	<string id="kb_weapon4">
+		<rus>Дробовик/ПП</rus>
+		<eng>Дробовик/ПП</eng>
+		<ukr>Дробовик/ПК</ukr>
+	</string>
+	<string id="kb_weapon5">
+		<rus>Граната</rus>
+		<eng>Граната</eng>
+		<ukr>Граната</ukr>
+	</string>
+	<string id="kb_weapon6">
+		<rus>Бинокль</rus>
+		<eng>Бинокль</eng>
+		<ukr>Бінокль</ukr>
+	</string>
+	<string id="kb_weapon7">
+		<rus>Болт</rus>
+		<eng>Болт</eng>
+		<ukr>Болт</ukr>
+	</string>
+	<string id="kb_wpn_next">
+		<rus>Сменить тип патронов</rus>
+		<eng>Сменить тип патронов</eng>
+		<ukr>Змінити тип патронів</ukr>
+	</string>
+	<string id="kb_wpn_prev">
+		<rus>Предыдущее оружие этого типа</rus>
+		<eng>Предыдущее оружие этого типа</eng>
+		<ukr>Попередня зброя цього типу</ukr>
+	</string>
+	<string id="kb_zoom">
+		<rus>Приблизить</rus>
+		<eng>Приблизить</eng>
+		<ukr>Наблизити</ukr>
+	</string>
+	<string id="speech_menu_group">
+		<rus>Голосовые сообщения (1)</rus>
+		<eng>Голосовые сообщения (1)</eng>
+		<ukr>Голосові повідомлення (1)</ukr>
+	</string>
+	<string id="speech_menu_personal">
+		<rus>Голосовые сообщения (2)</rus>
+		<eng>Голосовые сообщения (2)</eng>
+		<ukr>Голосові повідомлення (2)</ukr>
+	</string>
+	<string id="kb_cam_1">
+		<rus>Вид от первого лица</rus>
+		<eng>Вид от первого лица</eng>
+		<ukr>Вид ві першої особи</ukr>
+	</string>
+	<string id="kb_cam_2">
+		<rus>Вид от третьего лица</rus>
+		<eng>Вид от третьего лица</eng>
+		<ukr>Вид від третьої особи</ukr>
+	</string>
+	<string id="kb_cam_3">
+		<rus>Вид от третьего лица (freelook)</rus>
+		<eng>Вид от третьего лица (freelook)</eng>
+		<ukr>Вид від третьої особи (freelook)</ukr>
+	</string>
+	<string id="Clear">
+		<rus>ясная</rus>
+		<eng>ясная</eng>
+		<ukr>ясна</ukr>
+	</string>
+	<string id="Cloudy">
+		<rus>облачная</rus>
+		<eng>облачная</eng>
+		<ukr>хмарна</ukr>
+	</string>
+	<string id="Default">
+		<rus>средние</rus>
+		<eng>средние</eng>
+		<ukr>середні</ukr>
+	</string>
+	<string id="Extreme">
+		<rus>максимальные</rus>
+		<eng>максимальные</eng>
+		<ukr>максимальні</ukr>
+	</string>
+	<string id="gd_novice">
+		<rus>разминка</rus>
+		<eng>разминка</eng>
+		<ukr>розминка</ukr>
+	</string>
+	<string id="gd_stalker">
+		<rus>экстрим</rus>
+		<eng>экстрим</eng>
+		<ukr>екстрім</ukr>
+	</string>
+	<string id="gd_veteran">
+		<rus>выживание</rus>
+		<eng>выживание</eng>
+		<ukr>виживання</ukr>
+	</string>
+	<string id="gd_master">
+		<rus>реализм</rus>
+		<eng>реализм</eng>
+		<ukr>реалізм</ukr>
+	</string>
+	<string id="High">
+		<rus>высокие</rus>
+		<eng>высокие</eng>
+		<ukr>високі</ukr>
+	</string>
+	<string id="Low">
+		<rus>низкие</rus>
+		<eng>низкие</eng>
+		<ukr>низькі</ukr>
+	</string>
+	<string id="Minimum">
+		<rus>минимальные</rus>
+		<eng>минимальные</eng>
+		<ukr>мінімальні</ukr>
+	</string>
+	<string id="mm_mp_check_cdkey">
+		<rus>проверять CD-Key</rus>
+		<eng>проверять CD-Key</eng>
+		<ukr>перевіряти CD-Key</ukr>
+	</string>
+	<string id="Nigth">
+		<rus>ночь</rus>
+		<eng>ночь</eng>
+		<ukr>Ніч</ukr>
+	</string>
+	<string id="Rain">
+		<rus>дождь</rus>
+		<eng>rain</eng>
+		<ukr>дощ</ukr>
+	</string>
+	<string id="renderer_r1">
+		<rus>статическое освещение</rus>
+		<eng>статическое освещение</eng>
+		<ukr>Статичне освітлення</ukr>
+	</string>
+	<string id="renderer_r2">
+		<rus>полное динамическое освещение</rus>
+		<eng>полное динамическое освещение</eng>
+		<ukr>Повне динамічне освітлення</ukr>
+	</string>
+	<string id="renderer_r2a">
+		<rus>динамическое освещение объектов</rus>
+		<eng>динамическое освещение объектов</eng>
+		<ukr>Динамічне освітлення об'єктів</ukr>
+	</string>
+	<string id="st_artefacthunt">
+		<rus>Охота за артефактом</rus>
+		<eng>Охота за артефактом</eng>
+		<ukr>Полювання за артефактом</ukr>
+	</string>
+	<string id="st_deathmatch">
+		<rus>Все против всех</rus>
+		<eng>Все против всех</eng>
+		<ukr>Усі проти всіх</ukr>
+	</string>
+	<string id="st_rank_experienced">
+		<rus>опытный</rus>
+		<eng>опытный</eng>
+		<ukr>досвідчений</ukr>
+	</string>
+	<string id="st_rank_legend">
+		<rus>легендарный сталкер</rus>
+		<eng>легендарный сталкер</eng>
+		<ukr>легендарний сталкер</ukr>
+	</string>
+	<string id="st_rank_novice">
+		<rus>новичок</rus>
+		<eng>новичок</eng>
+		<ukr>новачок</ukr>
+	</string>
+	<string id="st_rank_professional">
+		<rus>профессионал</rus>
+		<eng>профессионал</eng>
+		<ukr>професіонал</ukr>
+	</string>
+	<string id="st_rank_veteran">
+		<rus>ветеран</rus>
+		<eng>ветеран</eng>
+		<ukr>ветеран</ukr>
+	</string>
+	<string id="st_team_deathmatch">
+		<rus>Команда против команды</rus>
+		<eng>Команда против команды</eng>
+		<ukr>Команда проти команди</ukr>
+	</string>
+	<string id="testers_mp_agroprom">
+		<rus>Агропром</rus>
+		<eng>Агропром</eng>
+		<ukr>Агропром</ukr>
+	</string>
+	<string id="testers_mp_atp">
+		<rus>АТП</rus>
+		<eng>АТП</eng>
+		<ukr>АТП</ukr>
+	</string>
+	<string id="testers_mp_darkvalley">
+		<rus>Тёмная Долина</rus>
+		<eng>Тёмная Долина</eng>
+		<ukr>Темна Долина</ukr>
+	</string>
+	<string id="testers_mp_factory">
+		<rus>Фабрика "Янтарь"</rus>
+		<eng>Фабрика "Янтарь"</eng>
+		<ukr>Завод «Янтар»</ukr>
+	</string>
+	<string id="testers_mp_lost_village">
+		<rus>Покинутая деревня</rus>
+		<eng>Покинутая деревня</eng>
+		<ukr>Покинуте селище</ukr>
+	</string>
+	<string id="testers_mp_military_1">
+		<rus>Армейские склады</rus>
+		<eng>Армейские склады</eng>
+		<ukr>Військові склади</ukr>
+	</string>
+	<string id="testers_mp_pool">
+		<rus>Бассейн</rus>
+		<eng>Бассейн</eng>
+		<ukr>Басейн</ukr>
+	</string>
+	<string id="testers_mp_railroad">
+		<rus>Ж/Д станция</rus>
+		<eng>Ж/Д станция</eng>
+		<ukr>Залізнична станція</ukr>
+	</string>
+	<string id="testers_mp_rostok">
+		<rus>Завод "Росток"</rus>
+		<eng>Завод "Росток"</eng>
+		<ukr>Завод «Росток»</ukr>
+	</string>
+	<string id="testers_mp_workshop">
+		<rus>Брошенная фабрика</rus>
+		<eng>Брошенная фабрика</eng>
+		<ukr>Кинута фабрика</ukr>
+	</string>
+	<string id="ui_mm_60_hz">
+		<rus>Частота 60Гц</rus>
+		<eng>Частота 60Гц</eng>
+		<ukr>Частота 60Гц</ukr>
+	</string>
+	<string id="ui_mm_action">
+		<rus>Действие</rus>
+		<eng>Действие</eng>
+		<ukr>Дія</ukr>
+	</string>
+	<string id="ui_mm_advanced">
+		<rus>Расширенные</rus>
+		<eng>Расширенные</eng>
+		<ukr>Розширені</ukr>
+	</string>
+	<string id="ui_mm_huds">
+		<rus>Выбрать игровой худ</rus>
+		<eng>Select game HUD</eng>
+		<ukr>Вибрати ігровий худ</ukr>
+	</string>
+	<string id="ui_mm_anisotropic">
+		<rus>Фильтрация текстур</rus>
+		<eng>Фильтрация текстур</eng>
+		<ukr>Фільтрація текстур</ukr>
+	</string>
+	<string id="ui_mm_apply">
+		<rus>Применить</rus>
+		<eng>Применить</eng>
+		<ukr>Застосувати</ukr>
+	</string>
+	<string id="ui_mm_back">
+		<rus>Назад</rus>
+		<eng>Назад</eng>
+		<ukr>Назад</ukr>
+	</string>
+	<string id="ui_mm_blood">
+		<rus>Кровь</rus>
+		<eng>Кровь</eng>
+		<ukr>Кров</ukr>
+	</string>
+	<string id="ui_mm_brightness">
+		<rus>Яркость</rus>
+		<eng>Яркость</eng>
+		<ukr>Яскравість</ukr>
+	</string>
+	<string id="ui_mm_cancel">
+		<rus>Отмена</rus>
+		<eng>Отмена</eng>
+		<ukr>Скасувати</ukr>
+	</string>
+	<string id="ui_mm_cam_inert">
+		<rus>Раскачивание камеры</rus>
+		<eng>Раскачивание камеры</eng>
+		<ukr>Розгойдування камери</ukr>
+	</string>
+	<string id="ui_mm_contrast">
+		<rus>Контраст</rus>
+		<eng>Контраст</eng>
+		<ukr>Контраст</ukr>
+	</string>
+	<string id="ui_mm_controls">
+		<rus>Управление</rus>
+		<eng>Управление</eng>
+		<ukr>Керування</ukr>
+	</string>
+	<string id="ui_mm_credits">
+		<rus>Титры</rus>
+		<eng>Титры</eng>
+		<ukr>Титри</ukr>
+	</string>
+	<string id="ui_mm_crosshair_distance">
+		<rus>Дистанция до цели</rus>
+		<eng>Дистанция до цели</eng>
+		<ukr>Дистанція до цілі</ukr>
+	</string>
+	<string id="ui_mm_bioradar">
+		<rus>Динамический биорадар</rus>
+		<eng>Динамический биорадар</eng>
+		<ukr>Динамічний біорадар</ukr>
+	</string>
+	<string id="ui_mm_autosave">
+		<rus>Автосохранение</rus>
+		<eng>Автосохранение</eng>
+		<ukr>Автозбереження</ukr>
+	</string>
+	<string id="ui_mm_autopause">
+		<rus>Пауза после загрузки</rus>
+		<eng>Пауза после загрузки</eng>
+		<ukr>Пауза після завантаження</ukr>
+	</string>
+	<string id="ui_mm_call_sound">
+		<rus>Зов Сидоровича после загрузки</rus>
+		<eng>Зов Сидоровича после загрузки</eng>
+		<ukr>Заклик Сидоровича після завантаження</ukr>
+	</string>
+	<string id="ui_mm_animations">
+		<rus>Расширенные анимации</rus>
+		<eng>Расширенные анимации</eng>
+		<ukr>Розширені анімації</ukr>
+	</string>
+	<string id="ui_mm_autograb">
+		<rus>Автообыск трупа</rus>
+		<eng>Автообыск трупа</eng>
+		<ukr>Автообшук трупа</ukr>
+	</string>
+	<string id="ui_mm_sms">
+		<rus>"Неатмосферные" СМС</rus>
+		<eng>"Неатмосферные" СМС</eng>
+		<ukr>"Неатмосферні" СМС</ukr>
+	</string>
+	<string id="ui_mm_autochange_difficulty">
+		<rus>Автосмена сложности в зависимости от частоты гибели игрока</rus>
+		<eng>Автосмена сложности в зависимости от частоты гибели игрока</eng>
+		<ukr>Автозміна складності в залежності від частоти смерті гравця</ukr>
+	</string>
+	<string id="ui_mm_game_options">
+		<rus>Опции игры</rus>
+		<eng>Опции игры</eng>
+		<ukr>Налаштування гри</ukr>
+	</string>
+	<string id="ui_mm_buy">
+		<rus>Купить квестовый предмет за 200000:</rus>
+		<eng>Купить квестовый предмет за 200000:</eng>
+		<ukr>Купити квестовий предмет за 200000:</ukr>
+	</string>
+	<string id="ui_mm_del">
+		<rus>Удалить проблемные объекты:</rus>
+		<eng>Удалить проблемные объекты:</eng>
+		<ukr>Видалити проблемні об'єкти:</ukr>
+	</string>
+	<string id="ui_mm_hardcore">
+		<rus>Дополнительные усложнения</rus>
+		<eng>Дополнительные усложнения</eng>
+		<ukr>Додаткові ускладення</ukr>
+	</string>
+	<string id="ui_mm_new_game">
+		<rus>Для новой игры</rus>
+		<eng>For "Start new game"</eng>
+		<ukr>До нової гри</ukr>
+	</string>
+	<string id="ui_mm_start_zone_door">
+		<rus>Зона с дверями</rus>
+		<eng>Zone with doors</eng>
+		<ukr>Зона з дверима</ukr>
+	</string>
+	<string id="ui_mm_fast_respawn">
+		<rus>Частый респаун</rus>
+		<eng>Частый респаун</eng>
+		<ukr>Частий респаун</ukr>
+	</string>
+	<string id="ui_mm_transparent_treasure">
+		<rus>Малозаметные тайники</rus>
+		<eng>Малозаметные тайники</eng>
+		<ukr>Малопомітні схованки</ukr>
+	</string>
+	<string id="ui_mm_delete">
+		<rus>Удалить</rus>
+		<eng>Удалить</eng>
+		<ukr>Видалити</ukr>
+	</string>
+	<string id="ui_mm_difficulty">
+		<rus>Сложность:</rus>
+		<eng>Сложность:</eng>
+		<ukr>Складність:</ukr>
+	</string>
+	<string id="ui_mm_disconnect">
+		<rus>Отсоединиться</rus>
+		<eng>Отсоединиться</eng>
+		<ukr>Від'єднатися</ukr>
+	</string>
+	<string id="ui_mm_disconnect_message">
+		<rus>Действительно ли Вы желаете отсоединиться?</rus>
+		<eng>Действительно ли Вы желаете отсоединиться?</eng>
+		<ukr> Чи справді ви бажаєте від'єднатися?</ukr>
+	</string>
+	<string id="ui_mm_dyn_crosshair">
+		<rus>Динамический прицел</rus>
+		<eng>Динамический прицел</eng>
+		<ukr>Динамічний приціл</ukr>
+	</string>
+	<string id="ui_mm_eax">
+		<rus>EAX</rus>
+		<eng>EAX</eng>
+		<ukr>EAX</ukr>
+	</string>
+	<string id="ui_mm_fullscreen">
+		<rus>Полный экран</rus>
+		<eng>Полный экран</eng>
+		<ukr>Повний екран</ukr>
+	</string>
+	<string id="ui_mm_gameplay">
+		<rus>Игра</rus>
+		<eng>Игра</eng>
+		<ukr>Гра</ukr>
+	</string>
+	<string id="ui_mm_gamma">
+		<rus>Гамма</rus>
+		<eng>Гамма</eng>
+		<ukr>Гама</ukr>
+	</string>
+	<string id="ui_mm_geometry_lod">
+		<rus>Детализация объектов</rus>
+		<eng>Детализация объектов</eng>
+		<ukr>Деталізація об'єктів</ukr>
+	</string>
+	<string id="ui_mm_invert_mouse">
+		<rus>Инвертировать мышь</rus>
+		<eng>Инвертировать мышь</eng>
+		<ukr>Інвертувати мишу</ukr>
+	</string>
+	<string id="ui_mm_key">
+		<rus>Кнопка</rus>
+		<eng>Кнопка</eng>
+		<ukr>Кнопка</ukr>
+	</string>
+	<string id="ui_mm_keyboard_setup">
+		<rus>Настройка клавиатуры</rus>
+		<eng>Настройка клавиатуры</eng>
+		<ukr>Налаштування клавіатури</ukr>
+	</string>
+	<string id="ui_mm_last_save">
+		<rus>Последнее сохранение</rus>
+		<eng>Последнее сохранение</eng>
+		<ukr>Останнє збереження</ukr>
+	</string>
+	<string id="ui_mm_light_distance">
+		<rus>Дальность освещения</rus>
+		<eng>Дальность освещения</eng>
+		<ukr>Дальність освітлення</ukr>
+	</string>
+	<string id="ui_mm_load">
+		<rus>Загрузить</rus>
+		<eng>Загрузить</eng>
+		<ukr>Завантажити</ukr>
+	</string>
+	<string id="ui_mm_load_game">
+		<rus>Загрузить игру</rus>
+		<eng>Загрузить игру</eng>
+		<ukr>Завантажити гру</ukr>
+	</string>
+	<string id="ui_mm_master">
+		<rus>Реализм</rus>
+		<eng>Реализм</eng>
+		<ukr>Реалізм</ukr>
+	</string>
+	<string id="ui_mm_master_volume">
+		<rus>Громкость</rus>
+		<eng>Громкость</eng>
+		<ukr>Гучність</ukr>
+	</string>
+	<string id="ui_mm_mouse_sense">
+		<rus>Чувствительность мыши</rus>
+		<eng>Чувствительность мыши</eng>
+		<ukr>Чутливість миші</ukr>
+	</string>
+	<string id="ui_mm_multiplayer">
+		<rus>СЕТЕВАЯ ИГРА</rus>
+		<eng>СЕТЕВАЯ ИГРА</eng>
+		<ukr>ГРА В МЕРЕЖІ</ukr>
+	</string>
+	<string id="ui_mm_multiplayer_n">
+		<rus>Сетевая игра</rus>
+		<eng>Сетевая игра</eng>
+		<ukr>Гра в мережі</ukr>
+	</string>
+	<string id="ui_mm_music_volume">
+		<rus>Громкость музыки</rus>
+		<eng>Громкость музыки</eng>
+		<ukr>Гучність музики</ukr>
+	</string>
+	<string id="ui_mm_need_restart">
+		<rus>Изменения вступят в силу только после перезагрузки игры.</rus>
+		<eng>Изменения вступят в силу только после перезагрузки игры.</eng>
+		<ukr>Зміни набудуть чинності лише після перезавантаження гри</ukr>
+	</string>
+	<string id="ui_mm_newgame">
+		<rus>Новая игра</rus>
+		<eng>Новая игра</eng>
+		<ukr>Нова гра</ukr>
+	</string>
+	<string id="ui_mm_novice">
+		<rus>Разминка</rus>
+		<eng>Разминка</eng>
+		<ukr>Розминка</ukr>
+	</string>
+	<string id="ui_mm_npc_torch">
+		<rus>Свет фонариков НПС</rus>
+		<eng>Свет фонариков НПС</eng>
+		<ukr>Світло ліхтариків НПС</ukr>
+	</string>
+	<string id="ui_mm_options">
+		<rus>Опции</rus>
+		<eng>Опции</eng>
+		<ukr>Опції</ukr>
+	</string>
+	<string id="ui_mm_options_n">
+		<rus>Опции</rus>
+		<eng>Опции</eng>
+		<ukr>Опції</ukr>
+	</string>
+	<string id="ui_mm_particles_distance">
+		<rus>Дальность частиц</rus>
+		<eng>Дальность частиц</eng>
+		<ukr>Дальність партиклів</ukr>
+	</string>
+	<string id="ui_mm_quality_presets">
+		<rus>Установки качества</rus>
+		<eng>Установки качества</eng>
+		<ukr>Установки якості</ukr>
+	</string>
+	<string id="ui_mm_quit_game">
+		<rus>Завершить игру</rus>
+		<eng>Завершить игру</eng>
+		<ukr>Завершити гру</ukr>
+	</string>
+	<string id="ui_mm_quit_game_message">
+		<rus>Действительно ли Вы желаете покинуть игру?</rus>
+		<eng>Действительно ли Вы желаете покинуть игру?</eng>
+		<ukr>Ви справді бажаєте залишити гру?</ukr>
+	</string>
+	<string id="ui_mm_quit_windows_message">
+		<rus>Действительно ли Вы хотите выйти в Windows?</rus>
+		<eng>Действительно ли Вы хотите выйти в Windows?</eng>
+		<ukr>Ви справді хочете вийти до Windows?</ukr>
+	</string>
+	<string id="ui_mm_quit2windows">
+		<rus>Выйти в Windows</rus>
+		<eng>Выйти в Windows</eng>
+		<ukr>Вийти у Windows</ukr>
+	</string>
+	<string id="ui_mm_renderer">
+		<rus>Тип освещения</rus>
+		<eng>Тип освещения</eng>
+		<ukr>Тип рендера</ukr>
+	</string>
+	<string id="ui_mm_resolution">
+		<rus>Разрешение</rus>
+		<eng>Разрешение</eng>
+		<ukr>Роздільна здатність</ukr>
+	</string>
+	<string id="ui_mm_return_game">
+		<rus>Возврат к игре</rus>
+		<eng>Возврат к игре</eng>
+		<ukr>Назад у гру</ukr>
+	</string>
+	<string id="ui_mm_save">
+		<rus>Сохранить</rus>
+		<eng>Сохранить</eng>
+		<ukr>Зберегти</ukr>
+	</string>
+	<string id="ui_mm_save_game">
+		<rus>Сохранить игру</rus>
+		<eng>Сохранить игру</eng>
+		<ukr>Зберегти гру</ukr>
+	</string>
+	<string id="ui_mm_show_crosshair">
+		<rus>Показывать прицел</rus>
+		<eng>Показывать прицел</eng>
+		<ukr>Показувати приціл</ukr>
+	</string>
+	<string id="ui_mm_show_weapon">
+		<rus>Показывать оружие</rus>
+		<eng>Показывать оружие</eng>
+		<ukr>Показувати зброю</ukr>
+	</string>
+	<string id="ui_mm_simply">
+		<rus>Базовые</rus>
+		<eng>Базовые</eng>
+		<ukr>Базові</ukr>
+	</string>
+	<string id="ui_mm_sound">
+		<rus>Звук</rus>
+		<eng>Звук</eng>
+		<ukr>Звук</ukr>
+	</string>
+	<string id="ui_mm_sound_quality">
+		<rus>Качество звука</rus>
+		<eng>Качество звука</eng>
+		<ukr>Якість звуку</ukr>
+	</string>
+	<string id="ui_mm_stalker">
+		<rus>Экстрим</rus>
+		<eng>Экстрим</eng>
+		<ukr>Екстрім</ukr>
+	</string>
+	<string id="ui_mm_sun_quality">
+		<rus>Качество теней</rus>
+		<eng>Качество теней</eng>
+		<ukr>Якість тіней</ukr>
+	</string>
+	<string id="ui_mm_supersample">
+		<rus>Сглаживание</rus>
+		<eng>Сглаживание</eng>
+		<ukr>Згладжування</ukr>
+	</string>
+	<string id="ui_mm_switch_torch">
+		<rus>Использование фонариков НПС</rus>
+		<eng>Использование фонариков НПС</eng>
+		<ukr>Використання ліхтариків НПС</ukr>
+	</string>
+	<string id="ui_mm_texture_quality">
+		<rus>Качество текстур</rus>
+		<eng>Качество текстур</eng>
+		<ukr>Якість текстур</ukr>
+	</string>
+	<string id="ui_mm_tips">
+		<rus>Распознавание НПС</rus>
+		<eng>Распознавание НПС</eng>
+		<ukr>Розпізнавання НПС</ukr>
+	</string>
+	<string id="ui_mm_veteran">
+		<rus>Выживание</rus>
+		<eng>Выживание</eng>
+		<ukr>Виживання</ukr>
+	</string>
+	<string id="ui_mm_video">
+		<rus>Видео</rus>
+		<eng>Видео</eng>
+		<ukr>Відео</ukr>
+	</string>
+	<string id="ui_mm_vis_distance">
+		<rus>Дальность видимости</rus>
+		<eng>Дальность видимости</eng>
+		<ukr>Дальність видимості</ukr>
+	</string>
+	<string id="ui_mm_vsync">
+		<rus>Синхронизация</rus>
+		<eng>Синхронизация</eng>
+		<ukr>Верт. синхронізація</ukr>
+	</string>
+	<string id="ui_st_last_set">
+		<rus>Посл. набор</rus>
+		<eng>Посл. набор</eng>
+		<ukr>Попер. набір</ukr>
+	</string>
+	<string id="ui_st_preset1">
+		<rus>Набор 1</rus>
+		<eng>Набор 1</eng>
+		<ukr>Набір 1</ukr>
+	</string>
+	<string id="ui_st_preset2">
+		<rus>Набор 2</rus>
+		<eng>Набор 2</eng>
+		<ukr>Набір 2</ukr>
+	</string>
+	<string id="ui_st_preset3">
+		<rus>Набор 3</rus>
+		<eng>Набор 3</eng>
+		<ukr>Набір 3</ukr>
+	</string>
+	<string id="ui_st_reset">
+		<rus>Сбросить</rus>
+		<eng>Сбросить</eng>
+		<ukr>Очистити</ukr>
+	</string>
+	<string id="ui_st_sell_all">
+		<rus>Продать всё</rus>
+		<eng>Продать всё</eng>
+		<ukr>Продати все</ukr>
+	</string>
+	<string id="ui_mm_save_level_game">
+		<rus>Сохранить на территории</rus>
+		<eng>Сохранить на территории</eng>
+		<ukr>Зберегти на території</ukr>
+	</string>
+	<string id="ui_mm_options_op21">
+		<rus>Опции ОП-2.1</rus>
+		<eng>Опции ОП-2.1</eng>
+		<ukr>Налаштування ОП-2.1</ukr>
+	</string>
+	<string id="ui_mm_options_op21_group_title">
+		<rus>Инвентарь</rus>
+		<eng>Инвентарь</eng>
+		<ukr>Інвентар</ukr>
+	</string>
+	<string id="ui_mm_options_op21_group_title2">
+		<rus>Общие параметры</rus>
+		<eng>Общие параметры</eng>
+		<ukr>Загальні параметри</ukr>
+	</string>
+	<string id="ui_mm_options_op21_group_title3">
+		<rus>Оружие</rus>
+		<eng>Оружие</eng>
+		<ukr>Зброя</ukr>
+	</string>
+	<string id="ui_mm_options_op21_group_title4">
+		<rus>Загрузочные экраны</rus>
+		<eng>Загрузочные экраны</eng>
+		<ukr>Екрани завантаження</ukr>
+	</string>
+	<string id="ui_options_op21_ls_show_progress">
+		<rus>Показывать полосу загрузки</rus>
+		<eng>Показывать полосу загрузки</eng>
+		<ukr>Показувати полосу завантаження</ukr>
+	</string>
+	<string id="ui_options_op21_ls_text_offset_x">
+		<rus>Смещение текста по оси X</rus>
+		<eng>Смещение текста по оси X</eng>
+		<ukr>Зміщення тексту по вісі X</ukr>
+	</string>
+	<string id="ui_options_op21_ls_text_offset_y">
+		<rus>Смещение текста по оси Y</rus>
+		<eng>Смещение текста по оси Y</eng>
+		<ukr>Зміщення тексту по вісі Y</ukr>
+	</string>
+	<string id="ui_mm_options_op21_deffered_reload">
+		<rus>Свободный выбор патронов для перезарядки</rus>
+		<eng>Свободный выбор патронов для перезарядки</eng>
+		<ukr>Вільний вибір патронів для перезарядки</ukr>
+	</string>
+	<string id="ui_mm_options_op21_show_modificators">
+		<rus>Показывать модификаторы в общих значениях</rus>
+		<eng>Показывать модификаторы в общих значениях</eng>
+		<ukr>Показувати модифікатори у загальних значеннях</ukr>
+	</string>
+	<string id="ui_mm_options_op21_fixed_reload">
+		<rus>Фиксированное использование патронов</rus>
+		<eng>Фиксированное использование патронов</eng>
+		<ukr>Фіксоване використання набоїв</ukr>
+	</string>
+	<string id="ui_mm_options_op21_sticky_scope">
+		<rus>Фиксирующийся прицел</rus>
+		<eng>Фиксирующийся прицел</eng>
+		<ukr>Фіксований приціл</ukr>
+	</string>
+	<string id="ui_mm_options_op21_allow_tsb">
+		<rus>Перемещать предметы с пояса/слотов</rus>
+		<eng>Перемещать предметы с пояса/слотов</eng>
+		<ukr>Переміщати предмети з пояса/слотів</ukr>
+	</string>
+	<string id="ui_mm_options_op21_dialog_numbered">
+		<rus>Нумерация строк в диалогах</rus>
+		<eng>Нумерация строк в диалогах</eng>
+		<ukr>Нумерація рядків у діалогах</ukr>
+	</string>
+	<string id="ui_mm_options_op21_hud_min_crosshair">
+		<rus>При убирании худа показывать прицел</rus>
+		<eng>При убирании худа показывать прицел</eng>
+		<ukr>При прибиранні худа показувати приціл</ukr>
+	</string>
+	<string id="ui_mm_options_op21_show_focused">
+		<rus>Подсвечивать предмет в фокусе</rus>
+		<eng>Подсвечивать предмет в фокусе</eng>
+		<ukr>Підсвічувати предмет у фокусі</ukr>
+	</string>
+	<string id="ui_mm_options_op21_show_selected">
+		<rus>Подсвечивать выбранный предмет</rus>
+		<eng>Подсвечивать выбранный предмет</eng>
+		<ukr>Підсвічувати вибраний предмет</ukr>
+	</string>
+	<string id="ui_mm_options_op21_show_extdesc">
+		<rus>Расширенное контекстное меню</rus>
+		<eng>Расширенное контекстное меню</eng>
+		<ukr>Розширене контекстне меню</ukr>
+	</string>
+	<string id="ui_mm_options_op21_show_condition">
+		<rus>Состояние предмета на иконке</rus>
+		<eng>Состояние предмета на иконке</eng>
+		<ukr>Стан предмета на іконці</ukr>
+	</string>
+	<string id="ui_mm_options_op21_show_sb">
+		<rus>Пояс и слоты в торговле</rus>
+		<eng>Пояс и слоты в торговле</eng>
+		<ukr>Пояс і слоти в торгівлі</ukr>
+	</string>
+	<string id="ui_mm_options_scope_open">
+		<rus>Открытые прицелы</rus>
+		<eng>Открытые прицелы</eng>
+		<ukr>Відкриті приціли</ukr>
+	</string>
+	<string id="ui_mm_god_options">
+		<rus>Облегчённое прохождение</rus>
+		<eng>Облегчённое прохождение</eng>
+		<ukr>Полегшене проходження</ukr>
+	</string>
+	<string id="ui_mm_god_warning">
+		<rus>\n
+			%c[255,255,128,128]ВНИМАНИЕ!\n
+			Будьте осторожны при использовании данных опций. Частое их применение значительно облегчает и ускоряет прохождение, но может полностью лишить удовольствия от игры.%c[default]</rus>
+		<eng>\n
+			%c[255,255,128,128]ВНИМАНИЕ!\n
+			Будьте осторожны при использовании данных опций. Частое их применение значительно облегчает и ускоряет прохождение, но может полностью лишить удовольствия от игры.%c[default]</eng>
+		<ukr>\n
+			%c[255,255,128,128]УВАГА!\n
+			Будьте обережні при використанні даних налаштувань. Часте їхнє застосування значно полегшує і прискорює проходження, але може повністю позбавити Вас задоволення від гри.%c[default]</ukr>
+	</string>
+	<string id="god_used">
+		<rus>использований</rus>
+		<eng>использований</eng>
+		<ukr>використань</ukr>
+	</string>
+	<string id="ui_mm_god_invul">
+		<rus>Бессмертие до конца боя</rus>
+		<eng>Бессмертие до конца боя</eng>
+		<ukr>Безсмертя до кінця боя</ukr>
+	</string>
+	<string id="ui_mm_god_item">
+		<rus>Покупка %c[255,255,255,255]любого%c[default] предмета за 200000</rus>
+		<eng>Покупка %c[255,255,255,255]любого%c[default] предмета за 200000</eng>
+		<ukr>Покупка %c[255,255,255,255]будь-якого%c[default] предмета за 200000</ukr>
+	</string>
+	<string id="ui_mm_god_jump">
+		<rus>Суперпрыжок</rus>
+		<eng>Суперпрыжок</eng>
+		<ukr>Суперстрибок</ukr>
+	</string>
+	<string id="ui_mm_god_coll">
+		<rus>Метка на тайник Коллекционера</rus>
+		<eng>Метка на тайник Коллекционера</eng>
+		<ukr>Мітка на схованку Колекціонера</ukr>
+	</string>
+	<string id="ui_mm_god_docs">
+		<rus>Метки на документы Воронина</rus>
+		<eng>Метки на документы Воронина</eng>
+		<ukr>Мітки на документи Вороніна</ukr>
+	</string>
+	<string id="ui_mm_god_tele">
+		<rus>Телепортация с неограниченным весом</rus>
+		<eng>Телепортация с неограниченным весом</eng>
+		<ukr>Телепортація з необмеженою вагою</ukr>
+	</string>
+	<string id="ui_mm_god_loc">
+		<rus>Получить телепорты на новые территории</rus>
+		<eng>Получить телепорты на новые территории</eng>
+		<ukr>Отримати телепорти на нові території</ukr>
+	</string>
+	<string id="ui_mm_name">
+		<rus>Имя игрока:</rus>
+		<eng>Имя игрока:</eng>
+		<ukr>Ім'я гравця:</ukr>
+	</string>
+	<string id="ui_mm_username">
+		<rus>Имя игрока</rus>
+		<eng>Имя игрока</eng>
+		<ukr>Ім'я гравця</ukr>
+	</string>
+	<string id="ui_mm_username_caption">
+		<rus>Введите своё имя:</rus>
+		<eng>Введите своё имя:</eng>
+		<ukr>Введіть своє і'мя:</ukr>
+	</string>
+	<string id="ui_amk_opt_rad_hud">
+		<rus>Худ костюма</rus>
+		<eng>Худ костюма</eng>
+		<ukr>Худ костюма</ukr>
+	</string>
+	<string id="ui_amk_opt_mus">
+		<rus>Динамическая музыка</rus>
+		<eng>Динамическая музыка</eng>
+		<ukr>Динамічна музика</ukr>
+	</string>
+	<string id="ui_amk_opt_treasure">
+		<rus>Тайники</rus>
+		<eng>Тайники</eng>
+		<ukr>Схованки</ukr>
+	</string>
+	<string id="ui_mm_font_profile">
+		<rus>Шрифт</rus>
+		<eng>Шрифт</eng>
+		<ukr>Шрифт</ukr>
+	</string>
+	<string id="default_fonts">
+		<rus>Стандартный</rus>
+		<eng>Стандартный</eng>
+		<ukr>Стандартний</ukr>
+	</string>
+	<string id="bigger_fonts">
+		<rus>Увеличенный</rus>
+		<eng>Увеличенный</eng>
+		<ukr>Збільшений</ukr>
+	</string>
+	<string id="ui_mm_pause_text">
+		<rus>Зона ждет тебя, %s ...</rus>
+		<eng>Зона ждет тебя, %s ...</eng>
+		<ukr>Зона чекає на тебе, %s ...</ukr>
+	</string>
+	<string id="ui_mm_language">
+		<rus>Язык/Language/Мова</rus>
+		<eng>Язык/Language/Мова</eng>
+		<ukr>Язык/Language/Мова</ukr>
+	</string>
+	<string id="ui_mm_options_op21_demand_reload">
+		<rus>Принудительная перезарядка оружия</rus>
+		<eng>Forced reloading of weapons</eng>
+		<ukr>Примусова перезарядка зброї</ukr>
+	</string>
+	<string id="ui_mm_huds_art_panel_visible">
+		<rus>Отображать панель артефактов</rus>
+		<eng>Show artifact panel</eng>
+		<ukr>Відображати панель артефактів</ukr>
+	</string>
+	<string id="ui_mm_language_eng">
+		<rus>English</rus>
+		<eng>English</eng>
+		<ukr>English</ukr>
+	</string>
+	<string id="ui_mm_language_rus">
+		<rus>Русский</rus>
+		<eng>Русский</eng>
+		<ukr>Русский</ukr>
+	</string>
+	<string id="ui_mm_language_ukr">
+		<rus>Українська</rus>
+		<eng>Українська</eng>
+		<ukr>Українська</ukr>
+	</string>
+	<string id="ui_mm_huds_cap">
+		<rus>Худы:</rus>
+		<eng>HUDs:</eng>
+		<ukr>Худи:</ukr>
+	</string>
+	<string id="id_mp_money">
+		<rus>Деньги</rus>
+		<eng>Деньги</eng>
+		<ukr>Гроші</ukr>
+	</string>
+	<string id="mm_mp_pda_hunt">
+		<rus>Бонус за КПК</rus>
+		<eng>Бонус за КПК</eng>
+		<ukr>Бонус за КПК</ukr>
+	</string>
+	<string id="st_drink">
+		<rus>выпить</rus>
+		<eng>выпить</eng>
+		<ukr>випити</ukr>
+	</string>
+	<string id="st_mp_direct_ip">
+		<rus>Прямой IP</rus>
+		<eng>Прямой IP</eng>
+		<ukr>Прямий IP</ukr>
+	</string>
+	<string id="ui_mm_default">
+		<rus>По умолчанию</rus>
+		<eng>По умолчанию</eng>
+		<ukr>За замовч.</ukr>
+	</string>
+	<string id="ui_mm_detail_density">
+		<rus>Плотность травы</rus>
+		<eng>Плотность травы</eng>
+		<ukr>Щільність трави</ukr>
+	</string>
+	<string id="ui_mm_r2_sun">
+		<rus>Тень от солнца</rus>
+		<eng>Тень от солнца</eng>
+		<ukr>Тінь від сонця</ukr>
+	</string>
+	<string id="ui_mm_r2_sun_details">
+		<rus>Тень травы</rus>
+		<eng>Тень травы</eng>
+		<ukr>Тінь трави</ukr>
+	</string>
+	<string id="ui_mm_render_2">
+		<rus>Тип освещения-2</rus>
+		<eng>Тип освещения-2</eng>
+		<ukr>Рендер-2</ukr>
+	</string>
+	<string id="ui_pda_details">
+		<rus># /детали</rus>
+		<eng># /детали</eng>
+		<ukr># /деталі</ukr>
+	</string>
+	<string id="ui_st_btn_cancel">
+		<rus>Отмена</rus>
+		<eng>Отмена</eng>
+		<ukr>Відмінити</ukr>
+	</string>
+	<string id="ui_st_btn_no">
+		<rus>Нет</rus>
+		<eng>Нет</eng>
+		<ukr>Ні</ukr>
+	</string>
+	<string id="ui_st_btn_ok">
+		<rus>ОК</rus>
+		<eng>ОК</eng>
+		<ukr>ОК</ukr>
+	</string>
+	<string id="ui_st_btn_yes">
+		<rus>Да</rus>
+		<eng>Да</eng>
+		<ukr>Так</ukr>
+	</string>
+	<string id="ui_st_cant_run_r2">
+		<rus>Вы не можете запустить второй тип освещения на Вашем компьютере</rus>
+		<eng>Вы не можете запустить второй тип освещения на Вашем компьютере</eng>
+		<ukr>Ви не можете запустити другий рендер на цьому комп'ютері</ukr>
+	</string>
+	<string id="ui_st_conn_invalid_host">
+		<rus>Ошибка соединения: неверный хост</rus>
+		<eng>Ошибка соединения: неверный хост</eng>
+		<ukr>Помилка з'єднання: невірний хост</ukr>
+	</string>
+	<string id="ui_st_conn_invalid_pass">
+		<rus>Ошибка соединения: неверный пароль</rus>
+		<eng>Ошибка соединения: неверный пароль</eng>
+		<ukr>Помилка з'єднання: невірний пароль</ukr>
+	</string>
+	<string id="ui_st_conn_rejected_server">
+		<rus>Ошибка соединения: соединение прервано сервером</rus>
+		<eng>Ошибка соединения: соединение прервано сервером</eng>
+		<ukr>Помилка з'єднання: з'єднання перерване сервером</ukr>
+	</string>
+	<string id="ui_st_conn_sess_full">
+		<rus>Ошибка соединения: сервер заполнен</rus>
+		<eng>Ошибка соединения: сервер заполнен</eng>
+		<ukr>Помилка з'єднання: сервер заповнений</ukr>
+	</string>
+	<string id="ui_st_days">
+		<rus>дн.</rus>
+		<eng>дн.</eng>
+		<ukr>дн.</ukr>
+	</string>
+	<string id="ui_st_error">
+		<rus>Ошибка</rus>
+		<eng>Ошибка</eng>
+		<ukr>Помилка</ukr>
+	</string>
+	<string id="ui_st_file_exist_owerwrite_q">
+		<rus>Файл с таким именем уже существует. Перезаписать?</rus>
+		<eng>Файл с таким именем уже существует. Перезаписать?</eng>
+		<ukr>Файл із таким ім'ям вже існує. Перезаписати?</ukr>
+	</string>
+	<string id="ui_st_file_name_is_empty">
+		<rus>Имя файла пустое</rus>
+		<eng>Имя файла пустое</eng>
+		<ukr>Ім'я файлу порожнє</ukr>
+	</string>
+	<string id="ui_st_hours">
+		<rus>час.</rus>
+		<eng>час.</eng>
+		<ukr>год.</ukr>
+	</string>
+	<string id="ui_st_leave">
+		<rus>Уйти</rus>
+		<eng>Уйти</eng>
+		<ukr>Піти</ukr>
+	</string>
+	<string id="ui_st_mins">
+		<rus>мин.</rus>
+		<eng>мин.</eng>
+		<ukr>хв.</ukr>
+	</string>
+	<string id="ui_st_months">
+		<rus>мес.</rus>
+		<eng>мес.</eng>
+		<ukr>міс.</ukr>
+	</string>
+	<string id="ui_st_params">
+		<rus>Защиты</rus>
+		<eng>Защиты</eng>
+		<ukr>Захисти</ukr>
+	</string>
+	<string id="ui_st_modifiers">
+		<rus>Модификаторы</rus>
+		<eng>Модификаторы</eng>
+		<ukr>Модифікатори</ukr>
+	</string>
+	<string id="ui_st_secs">
+		<rus>сек.</rus>
+		<eng>сек.</eng>
+		<ukr>сек.</ukr>
+	</string>
+	<string id="ui_st_select_one_map">
+		<rus>Пожалуйста, выберите хотя бы одну карту</rus>
+		<eng>Пожалуйста, выберите хотя бы одну карту</eng>
+		<ukr>Будь ласка, оберіть хоча б одну карту</ukr>
+	</string>
+	<string id="ui_st_take_all">
+		<rus>Взять всё</rus>
+		<eng>Взять всё</eng>
+		<ukr>Взяти все</ukr>
+	</string>
+	<string id="ui_st_move">
+		<rus>Переместить всё</rus>
+		<eng>Переместить всё</eng>
+		<ukr>Перемістити все</ukr>
+	</string>
+	<string id="ui_st_time_remains">
+		<rus>Осталось</rus>
+		<eng>Осталось</eng>
+		<ukr>Залишилося</ukr>
+	</string>
+	<string id="ui_st_trade">
+		<rus>Торговать</rus>
+		<eng>Торговать</eng>
+		<ukr>Торгувати</ukr>
+	</string>
+	<string id="ui_st_voting_disabled">
+		<rus>Голосование отключено</rus>
+		<eng>Голосование отключено</eng>
+		<ukr>Голосування відключене</ukr>
+	</string>
+	<string id="ui_st_want_to_leave_game_q">
+		<rus>Вы действительно хотите покинуть Зону?</rus>
+		<eng>Вы действительно хотите покинуть Зону?</eng>
+		<ukr>Ви справді хочете залишити Зону?</ukr>
+	</string>
+	<string id="ui_st_your_items">
+		<rus>Вещи Меченого</rus>
+		<eng>Вещи Меченого</eng>
+		<ukr>Речі Міченого</ukr>
+	</string>
+	<string id="st_game_over_press_jump">
+		<rus>Нажмите ($$ACTION_JUMP$$) для выхода в главное меню</rus>
+		<eng>Нажмите ($$ACTION_JUMP$$) для выхода в главное меню</eng>
+		<ukr>Натисніть ($$ACTION_JUMP$$) для виходу до головного меню</ukr>
+	</string>
+	<string id="st_level">
+		<rus>Уровень</rus>
+		<eng>Уровень</eng>
+		<ukr>Рівень</ukr>
+	</string>
+	<string id="st_opening_stream">
+		<rus>Прощаюсь со всеми</rus>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
+	</string>
+	<string id="st_loading_cform">
+		<rus>Прощаюсь со всеми</rus>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
+	</string>
+	<string id="st_prefetching_objects">
+		<rus>Собираюсь в дорогу</rus>
+		<eng>Собираюсь в дорогу</eng>
+		<ukr>Збираюсь в дорогу</ukr>
+	</string>
+	<string id="st_creating_new_game">
+		<rus>Собираюсь в дорогу</rus>
+		<eng>Собираюсь в дорогу</eng>
+		<ukr>Збираюсь в дорогу</ukr>
+	</string>
+	<string id="st_loading_alife_simulator">
+		<rus>Собираюсь в дорогу</rus>
+		<eng>Собираюсь в дорогу</eng>
+		<ukr>Збираюсь в дорогу</ukr>
+	</string>
+	<string id="st_server_connecting">
+		<rus>Прощаюсь со всеми</rus>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
+	</string>
+	<string id="st_loading_saved_game">
+		<rus>Забираю всё из</rus>
+		<eng>Забираю всё из</eng>
+		<ukr>Забираю все з</ukr>
+	</string>
+	<string id="st_validating_cdkey">
+		<rus>Проверка ключа</rus>
+		<eng>Проверка ключа</eng>
+		<ukr>Перевірка ключа</ukr>
+	</string>
+	<string id="st_loading_ai_objects">
+		<rus>Прощаюсь со всеми</rus>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
+	</string>
+	<string id="st_client_connecting_to">
+		<rus>Прощаюсь		</rus>
+		<eng>Прощаюсь		</eng>
+		<ukr>Прощаюсь		</ukr>
+	</string>
+	<string id="localhost">
+		<rus>со всеми</rus>
+		<eng>со всеми</eng>
+		<ukr>з усіма</ukr>
+	</string>
+	<string id="st_client_spawning">
+		<rus>Прощаюсь со всеми</rus>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
+	</string>
+	<string id="st_loading_textures">
+		<rus>Прощаюсь со всеми</rus>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
+	</string>
+	<string id="st_client_synchronising">
+		<rus>Отправляюсь в Зону</rus>
+		<eng>Отправляюсь в Зону</eng>
+		<ukr>Відправляюсь у Зону</ukr>
+	</string>
+	<string id="st_server_starting">
+		<rus>Собираюсь в дорогу</rus>
+		<eng>Собираюсь в дорогу</eng>
+		<ukr>Збираюсь в дорогу</ukr>
+	</string>
+	<string id="st_loading_shaders">
+		<rus>Прощаюсь со всеми</rus>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
+	</string>
+	<string id="st_loading_geometry">
+		<rus>Прощаюсь со всеми</rus>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
+	</string>
+	<string id="st_loading_spatial_db">
+		<rus>Прощаюсь со всеми</rus>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
+	</string>
+	<string id="st_loading_details">
+		<rus>Прощаюсь со всеми</rus>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
+	</string>
+	<string id="st_loading_sectors_portals">
+		<rus>Прощаюсь со всеми</rus>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з усіма</ukr>
+	</string>
+	<string id="ui_st_conn_version_differs">
+		<rus>Ошибка соединения: Отличаются версии</rus>
+		<eng>Ошибка соединения: Отличаются версии</eng>
+		<ukr>Помилка з'єднання: Відрізняються версії</ukr>
+	</string>
+	<string id="ui_st_conn_cdkey_invalid">
+		<rus>Ошибка соединения: Неверный CD-Key</rus>
+		<eng>Ошибка соединения: Неверный CD-Key</eng>
+		<ukr>Помилка з'єднання: Невірний CD-Key</ukr>
+	</string>
+	<string id="ui_st_conn_cdkey_in_use">
+		<rus>Ошибка соединения: Такой CD-Key уже используется</rus>
+		<eng>Ошибка соединения: Такой CD-Key уже используется</eng>
+		<ukr>Помилка з'єднання: Такий CD-Key уже використовується</ukr>
+	</string>
+	<string id="ui_st_conn_cdkey_disabled">
+		<rus>Ошибка соединения: Ваш CD-Key заблокирован; свяжитесь со службой поддержки</rus>
+		<eng>Ошибка соединения: Ваш CD-Key заблокирован; свяжитесь со службой поддержки</eng>
+		<ukr>Помилка з'єднання: Ваш CD-Key заблоковано. Зв'яжіться зі службою підтримки</ukr>
+	</string>
+	<string id="ui_st_conn_new_patch">
+		<rus>Доступен новый патч. \nВерсия: %s\n %s\nХотите загрузить его сейчас?</rus>
+		<eng>Доступен новый патч. \nВерсия: %s\n %s\nХотите загрузить его сейчас?</eng>
+		<ukr>Доступний новий патч. \n Версія: %s\n %s\n Хочете завантажити його зараз?</ukr>
+	</string>
+	<string id="ui_st_conn_no_new_patch">
+		<rus>Нет новых патчей</rus>
+		<eng>Нет новых патчей</eng>
+		<ukr>Немає нових патчів</ukr>
+	</string>
+	<string id="ui_mm_delete_existing_file_q">
+		<rus>Вы действительно хотите удалить файл?</rus>
+		<eng>Вы действительно хотите удалить файл?</eng>
+		<ukr>Ви справді хочете видалити файл?</ukr>
+	</string>
+	<string id="st_game_paused">
+		<rus>Пауза</rus>
+		<eng>Пауза</eng>
+		<ukr>Пауза</ukr>
+	</string>
+	<string id="st_bolt">
+		<rus>Болт</rus>
+		<eng>Болт</eng>
+		<ukr>Болт</ukr>
+	</string>
+	<string id="ui_st_description">
+		<rus>Описание</rus>
+		<eng>Описание</eng>
+		<ukr>Опис</ukr>
+	</string>
+	<string id="st_items">
+		<rus>Предметы</rus>
+		<eng>Предметы</eng>
+		<ukr>Предмети</ukr>
+	</string>
+	<string id="st_video">
+		<rus>Видео</rus>
+		<eng>Видео</eng>
+		<ukr>Відео</ukr>
+	</string>
+	<string id="st_audio">
+		<rus>Звук</rus>
+		<eng>Звук</eng>
+		<ukr>Звук</ukr>
+	</string>
+	<string id="st_game">
+		<rus>Игра</rus>
+		<eng>Игра</eng>
+		<ukr>Гра</ukr>
+	</string>
+	<string id="st_controll">
+		<rus>Управление</rus>
+		<eng>Управление</eng>
+		<ukr>Управління</ukr>
+	</string>
+	<string id="ui_st_connecting_to_masterserver">
+		<rus>Прощаюсь со всеми</rus>
+		<eng>Прощаюсь со всеми</eng>
+		<ukr>Прощаюсь з качками</ukr>
+	</string>
+	<string id="mp_only_one_voting">
+		<rus>Разрешено только одно активное голосование</rus>
+		<eng>Разрешено только одно активное голосование</eng>
+		<ukr>Дозволене лише одне активне голосування</ukr>
+	</string>
+	<string id="ui_st_patch_download_success">
+		<rus>Патч успешно скачан. Установить?</rus>
+		<eng>Патч успешно скачан. Установить?</eng>
+		<ukr>Патч успішно завантажений. Встановити?</ukr>
+	</string>
+	<string id="ui_st_patch_download_error">
+		<rus>Невозможно скачать патч.</rus>
+		<eng>Невозможно скачать патч.</eng>
+		<ukr>Неможливо завантажити патч</ukr>
+	</string>
+	<string id="ui_st_load_game_confirm">
+		<rus>Загрузка игры приведёт к потере не сохранённых данных. Желаете продолжить?</rus>
+		<eng>Загрузка игры приведёт к потере не сохранённых данных. Желаете продолжить?</eng>
+		<ukr>Завантаження гри призведе до втрати незбережених даних. Бажаєте продовжити?</ukr>
+	</string>
+	<string id="ui_st_invalid_saved_game">
+		<rus>Не совпадает версия сохранённой игры, или сохранённая игра испорчена.</rus>
+		<eng>Не совпадает версия сохранённой игры, или сохранённая игра испорчена.</eng>
+		<ukr>Не співпадає версія збереженої гри або збережена гра пошкоджена.</ukr>
+	</string>
+	<string id="ui_st_time_qbegin">
+		<rus>Получено</rus>
+		<eng>Получено</eng>
+		<ukr>Отримано</ukr>
+	</string>
+	<string id="ui_st_time_qend">
+		<rus>до</rus>
+		<eng>до</eng>
+		<ukr>до</ukr>
+	</string>
+	<string id="ui_st_money_regional">
+		<rus>RU</rus>
+		<eng>RU</eng>
+		<ukr>грн</ukr>
+	</string>
+	<string id="st_main_on">
+		<rus>Включить</rus>
+		<eng>Включить</eng>
+		<ukr>Ввімкнути</ukr>
+	</string>
+	<string id="st_main_off">
+		<rus>Выключить</rus>
+		<eng>Выключить</eng>
+		<ukr>Вимкнути</ukr>
+	</string>
+	<string id="open_door">
+		<rus>Открыть</rus>
+		<eng>Открыть</eng>
+		<ukr>Открыть</ukr>
+	</string>
+	<string id="close_door">
+		<rus>Закрыть</rus>
+		<eng>Закрыть</eng>
+		<ukr>Закрыть</ukr>
+	</string>
+	<string id="actor_btn_hint">
+		<rus>Центр на Меченом</rus>
+		<eng>Центр на Меченом</eng>
+		<ukr>Центр на Міченому</ukr>
+	</string>
+	<string id="add_spot_btn_hint">
+		<rus>Добавить новую отметку</rus>
+		<eng>Добавить новую отметку</eng>
+		<ukr>Додати нову помітку</ukr>
+	</string>
+	<string id="Contacts">
+		<rus>Контакты</rus>
+		<eng>Контакты</eng>
+		<ukr>Контакти</ukr>
+	</string>
+	<string id="Encyclopedia">
+		<rus>Справка</rus>
+		<eng>Справка</eng>
+		<ukr>Довідка</ukr>
+	</string>
+	<string id="global_map_btn_hint">
+		<rus>На карту Зоны</rus>
+		<eng>На карту Зоны</eng>
+		<ukr>На карту Зони</ukr>
+	</string>
+	<string id="level_changer_invitation">
+		<rus>Перейти на другую территорию?</rus>
+		<eng>Перейти на другую территорию?</eng>
+		<ukr>Перейти на іншу територію?</ukr>
+	</string>
+	<string id="Name">
+		<rus>Имя</rus>
+		<eng>Имя</eng>
+		<ukr>Ім'я</ukr>
+	</string>
+	<string id="pda_btn_accomplished">
+		<rus>Завершено</rus>
+		<eng>Завершено</eng>
+		<ukr>Виконано</ukr>
+	</string>
+	<string id="pda_btn_accomplished_hint">
+		<rus>Показать завершённые задания</rus>
+		<eng>Показать завершённые задания</eng>
+		<ukr>Показати закінчені завдання</ukr>
+	</string>
+	<string id="pda_btn_active">
+		<rus>Сюжет</rus>
+		<eng>Сюжет</eng>
+		<ukr>Сюжет</ukr>
+	</string>
+	<string id="pda_btn_active_hint">
+		<rus>Показать сюжетные задания</rus>
+		<eng>Показать сюжетные задания</eng>
+		<ukr>Показати сюжетні завдання</ukr>
+	</string>
+	<string id="pda_btn_contacts">
+		<rus>Контакты</rus>
+		<eng>Контакты</eng>
+		<ukr>Контакти</ukr>
+	</string>
+	<string id="pda_btn_contacts_hint">
+		<rus>Показать список контактов сталкеров</rus>
+		<eng>Показать список контактов сталкеров</eng>
+		<ukr>Показати список контактів сталкерів</ukr>
+	</string>
+	<string id="pda_btn_diary">
+		<rus>Журнал</rus>
+		<eng>Журнал</eng>
+		<ukr>Журнал</ukr>
+	</string>
+	<string id="pda_btn_diary_hint">
+		<rus>Показать дневник игрока</rus>
+		<eng>Показать дневник игрока</eng>
+		<ukr>Показати щоденник гравця</ukr>
+	</string>
+	<string id="pda_btn_encyclopedia">
+		<rus>Справка</rus>
+		<eng>Справка</eng>
+		<ukr>Довідка</ukr>
+	</string>
+	<string id="pda_btn_encyclopedia_hint">
+		<rus>Показать энциклопедию по Зоне</rus>
+		<eng>Показать энциклопедию по Зоне</eng>
+		<ukr>Показати енциклопедію Зони</ukr>
+	</string>
+	<string id="pda_btn_failed">
+		<rus>Провалено</rus>
+		<eng>Провалено</eng>
+		<ukr>Провалено</ukr>
+	</string>
+	<string id="pda_btn_failed_hint">
+		<rus>Показать проваленные задания</rus>
+		<eng>Показать проваленные задания</eng>
+		<ukr>Показати провалені завдання</ukr>
+	</string>
+	<string id="pda_btn_cycle_hint">
+		<rus>Показать циклические задания</rus>
+		<eng>Показать циклические задания</eng>
+		<ukr>Показати циклічні завдання</ukr>
+	</string>
+	<string id="pda_btn_info">
+		<rus>Информация</rus>
+		<eng>Информация</eng>
+		<ukr>Інформація</ukr>
+	</string>
+	<string id="pda_btn_journal">
+		<rus>Журнал</rus>
+		<eng>Журнал</eng>
+		<ukr>Журнал</ukr>
+	</string>
+	<string id="pda_btn_journal_hint">
+		<rus>Показать записи игрока</rus>
+		<eng>Показать записи игрока</eng>
+		<ukr>Показати записи гравця</ukr>
+	</string>
+	<string id="pda_btn_map">
+		<rus>Карта</rus>
+		<eng>Карта</eng>
+		<ukr>Карта</ukr>
+	</string>
+	<string id="pda_btn_map_hint">
+		<rus>Показать карту Зоны</rus>
+		<eng>Показать карту Зоны</eng>
+		<ukr>Показати карту Зони</ukr>
+	</string>
+	<string id="pda_btn_news">
+		<rus>История</rus>
+		<eng>История</eng>
+		<ukr>Історія</ukr>
+	</string>
+	<string id="pda_btn_news_hint">
+		<rus>Показать историю сообщений</rus>
+		<eng>Показать историю сообщений</eng>
+		<ukr>Показати історію повідомлень</ukr>
+	</string>
+	<string id="pda_btn_off_hint">
+		<rus>Выключить</rus>
+		<eng>Выключить</eng>
+		<ukr>Вимкнути</ukr>
+	</string>
+	<string id="pda_btn_own">
+		<rus>Свои</rus>
+		<eng>Свои</eng>
+		<ukr>Свої</ukr>
+	</string>
+	<string id="pda_btn_cycle">
+		<rus>Циклические</rus>
+		<eng>Циклические</eng>
+		<ukr>Циклічні</ukr>
+	</string>
+	<string id="pda_btn_own_hint">
+		<rus>Показать свои отметки на карте</rus>
+		<eng>Показать свои отметки на карте</eng>
+		<ukr>Показати свої помітки на карті</ukr>
+	</string>
+	<string id="pda_btn_quests">
+		<rus>Задачи</rus>
+		<eng>Задачи</eng>
+		<ukr>Задачі</ukr>
+	</string>
+	<string id="pda_btn_quests_hint">
+		<rus>Показать информацию по квестам</rus>
+		<eng>Показать информацию по квестам</eng>
+		<ukr>Показати інформацію по квестам</ukr>
+	</string>
+	<string id="pda_btn_ranking">
+		<rus>Ранги</rus>
+		<eng>Ранги</eng>
+		<ukr>Ранги</ukr>
+	</string>
+	<string id="pda_btn_ranking_hint">
+		<rus>Показать рейтинг лучших сталкеров</rus>
+		<eng>Показать рейтинг лучших сталкеров</eng>
+		<ukr>Показати рейтинг кращих сталкерів</ukr>
+	</string>
+	<string id="pda_btn_reputation">
+		<rus>Репутация</rus>
+		<eng>Репутация</eng>
+		<ukr>Репутація</ukr>
+	</string>
+	<string id="pda_btn_statistics">
+		<rus>Данные</rus>
+		<eng>Данные</eng>
+		<ukr>Дані</ukr>
+	</string>
+	<string id="pda_btn_statistics_hint">
+		<rus>Показать статистику по прохождению</rus>
+		<eng>Показать статистику по прохождению</eng>
+		<ukr>Показати статистику по проходженню</ukr>
+	</string>
+	<string id="pda_edit_user_task_btn_hint">
+		<rus>Редактировать описание</rus>
+		<eng>Редактировать описание</eng>
+		<ukr>Редагувати опис</ukr>
+	</string>
+	<string id="pda_remove_btn_hint">
+		<rus>Удалить отметку</rus>
+		<eng>Удалить отметку</eng>
+		<ukr>Видалити помітку</ukr>
+	</string>
+	<string id="pda_show_descr_btn_hint">
+		<rus>Перейти</rus>
+		<eng>Перейти</eng>
+		<ukr>Перейти</ukr>
+	</string>
+	<string id="pda_show_location_btn_hint">
+		<rus>Показывать отметки на карте</rus>
+		<eng>Показывать отметки на карте</eng>
+		<ukr>Показувати помітки на карті</ukr>
+	</string>
+	<string id="pda_show_pointer_btn_hint">
+		<rus>Сделать отметку активной</rus>
+		<eng>Сделать отметку активной</eng>
+		<ukr>Зробити помітку активною</ukr>
+	</string>
+	<string id="pda_switch_description_btn_hint">
+		<rus>Переключить карта/текст</rus>
+		<eng>Переключить карта/текст</eng>
+		<ukr>Перемкнути карта/текст</ukr>
+	</string>
+	<string id="Rank">
+		<rus>Ранг</rus>
+		<eng>Ранг</eng>
+		<ukr>Ранг</ukr>
+	</string>
+	<string id="remove_spot_btn_hint">
+		<rus>Удалить отметку</rus>
+		<eng>Удалить отметку</eng>
+		<ukr>Видалити помітку</ukr>
+	</string>
+	<string id="st_detail_list_for_artefacts">
+		<rus>Добытые артефакты</rus>
+		<eng>Добытые артефакты</eng>
+		<ukr>Добуті артефакти</ukr>
+	</string>
+	<string id="st_detail_list_for_community_relations">
+		<rus>Репутация у группировок</rus>
+		<eng>Репутация у группировок</eng>
+		<ukr>Репутація у угруповань</ukr>
+	</string>
+	<string id="st_detail_list_for_monsterkills">
+		<rus>Убийство мутантов</rus>
+		<eng>Убийство мутантов</eng>
+		<ukr>Вбивство мутантів</ukr>
+	</string>
+	<string id="st_detail_list_for_quests">
+		<rus>Циклические задания</rus>
+		<eng>Циклические задания</eng>
+		<ukr>Циклічні завдання</ukr>
+	</string>
+	<string id="st_detail_list_for_stalkerkills">
+		<rus>Убийство сталкеров</rus>
+		<eng>Убийство сталкеров</eng>
+		<ukr>Вбивство сталкерів</ukr>
+	</string>
+	<string id="st_detail_list_for_foo">
+		<rus>Статистика</rus>
+		<eng>Статистика</eng>
+		<ukr>Статистика</ukr>
+	</string>
+	<string id="st_map_actor">
+		<rus>Меченый</rus>
+		<eng>Меченый</eng>
+		<ukr>Мічений</ukr>
+	</string>
+	<string id="st_news">
+		<rus>Новость</rus>
+		<eng>Новость</eng>
+		<ukr>Новини</ukr>
+	</string>
+	<string id="st_pda_artefacts">
+		<rus>Артефакты</rus>
+		<eng>Артефакты</eng>
+		<ukr>Артефакти</ukr>
+	</string>
+	<string id="st_pda_detail_info">
+		<rus>Детальная информация</rus>
+		<eng>Детальная информация</eng>
+		<ukr>Детальна інформація</ukr>
+	</string>
+	<string id="st_pda_monster_kills">
+		<rus>Убийство мутантов</rus>
+		<eng>Убийство мутантов</eng>
+		<ukr>Вбивство мутантів</ukr>
+	</string>
+	<string id="st_pda_player_statistic">
+		<rus>Статистика игрока</rus>
+		<eng>Статистика игрока</eng>
+		<ukr>Статистика гравця</ukr>
+	</string>
+	<string id="st_pda_quest_complete">
+		<rus>Циклические задания</rus>
+		<eng>Циклические задания</eng>
+		<ukr>Циклічні завдання</ukr>
+	</string>
+	<string id="st_pda_tasks">
+		<rus>Сюжетные задания</rus>
+		<eng>Сюжетные задания</eng>
+		<ukr>Сюжетні завдання</ukr>
+	</string>
+	<string id="st_pda_subtasks">
+		<rus>Сюжетные подзадания</rus>
+		<eng>Сюжетные подзадания</eng>
+		<ukr>Сюжетні підзавдання</ukr>
+	</string>
+	<string id="st_pda_tasks_totals">
+		<rus>Всего заданий</rus>
+		<eng>Всего заданий</eng>
+		<ukr>Всього завдань</ukr>
+	</string>
+	<string id="st_pda_actor_deaths">
+		<rus>Количество смертей ГГ</rus>
+		<eng>Количество смертей ГГ</eng>
+		<ukr>Кількість смертей ГГ</ukr>
+	</string>
+	<string id="st_pda_actor_games">
+		<rus>Затрачено на прохождение</rus>
+		<eng>Затрачено на прохождение</eng>
+		<ukr>Затрачено на проходження</ukr>
+	</string>
+	<string id="st_pda_stalker_kills">
+		<rus>Убийство сталкеров</rus>
+		<eng>Убийство сталкеров</eng>
+		<ukr>Вбивство сталкерів</ukr>
+	</string>
+	<string id="st_pda_statistic_reputation">
+		<rus>Репутация</rus>
+		<eng>Репутация</eng>
+		<ukr>Репутація</ukr>
+	</string>
+	<string id="st_pda_statistic_score">
+		<rus>Статистика</rus>
+		<eng>Статистика</eng>
+		<ukr>Статистика</ukr>
+	</string>
+	<string id="st_pda_task_detail_information">
+		<rus>Детальная информация о задании</rus>
+		<eng>Детальная информация о задании</eng>
+		<ukr>Детальна інформація про завдання</ukr>
+	</string>
+	<string id="st_pda_top20">
+		<rus>Лучшая 20-ка сталкеров</rus>
+		<eng>Лучшая 20-ка сталкеров</eng>
+		<ukr>Краща двадцятка сталкерів</ukr>
+	</string>
+	<string id="st_pda_total">
+		<rus>Всего</rus>
+		<eng>Всего</eng>
+		<ukr>Усього</ukr>
+	</string>
+	<string id="st_tip">
+		<rus>Сообщение</rus>
+		<eng>Сообщение</eng>
+		<ukr>Повідомлення</ukr>
+	</string>
+	<string id="Tasks">
+		<rus>Задания</rus>
+		<eng>Задания</eng>
+		<ukr>Завдання</ukr>
+	</string>
+	<string id="Time">
+		<rus>Время</rus>
+		<eng>Время</eng>
+		<ukr>Час</ukr>
+	</string>
+	<string id="zoom_in_btn_hint">
+		<rus>Масштаб +</rus>
+		<eng>Масштаб +</eng>
+		<ukr>Масштаб +</ukr>
+	</string>
+	<string id="zoom_out_btn_hint">
+		<rus>Масштаб -</rus>
+		<eng>Масштаб -</eng>
+		<ukr>Масштаб -</ukr>
+	</string>
+	<string id="ui_map_desc_mp_agroprom_large">
+		<rus>Странное место. Безмолвное здание наверняка хранит свои тайны, но не оно влечёт сюда сталкеров, а артефакты, щедро рождающиеся в этом районе. Тут можно разжиться неплохими артефактами, а можно легко расстаться с жизнью... Будь быстр и точен, и удача непременно улыбнётся именно тебе.</rus>
+		<eng>Странное место. Безмолвное здание наверняка хранит свои тайны, но не оно влечёт сюда сталкеров, а артефакты, щедро рождающиеся в этом районе. Тут можно разжиться неплохими артефактами, а можно легко расстаться с жизнью... Будь быстр и точен, и удача непременно улыбнётся именно тебе.</eng>
+		<ukr>Дивне місце. Німа будівля зберігає свої таємниці, але не це притягує сюди сталкерів, а артефакти, щедро народжувані у цьому районі. Тут можна розжитися непоганими артефактами, а можна стрімко розпрощатися із життям... Будь швидкий і точний, тоді фортуна неодмінно посміхнеться саме тобі.</ukr>
+	</string>
+	<string id="ui_map_desc_mp_agroprom_short">
+		<rus>Странное место. Безмолвное здание наверняка хранит свои тайны, но не оно влечёт сюда сталкеров, а артефакты, щедро рождающиеся в этом районе...</rus>
+		<eng>Странное место. Безмолвное здание наверняка хранит свои тайны, но не оно влечёт сюда сталкеров, а артефакты, щедро рождающиеся в этом районе...</eng>
+		<ukr>Дивне місце. Німа будівля зберігає свої таємниці, але не це притягує сюди сталкерів, а артефакти, щедро народжувані у цьому районі...</ukr>
+	</string>
+	<string id="ui_map_desc_mp_atp_large">
+		<rus>Автобусно-троллейбусный парк, расположенный в предбаннике Зоны. Замерли навсегда трактора, автобусы и грузовики...Артефактов замечено не было, но это место популярно среди опытных сталкеров, которые отстреливают новичков и забирают у них то немногое, что у них есть. Ищи укрытия в домах и за техникой, остерегайся врагов на крышах.</rus>
+		<eng>Автобусно-троллейбусный парк, расположенный в предбаннике Зоны. Замерли навсегда трактора, автобусы и грузовики...Артефактов замечено не было, но это место популярно среди опытных сталкеров, которые отстреливают новичков и забирают у них то немногое, что у них есть. Ищи укрытия в домах и за техникой, остерегайся врагов на крышах.</eng>
+		<ukr>Автобусно-тролейбусний парк, розташований у «передбаннику» Зони. Завмерлі назавжди трактори, автобуси та вантажівки... Артефактів тут помічено не було, але це місце популярне серед досвідчених сталкерів, котрі іноді відстрелюють новачків і забирають речі, котрі ті принесли з Великої Землі. Шукай укриття в будівлях та за технікою; остерігайся ворогів на дахах.</ukr>
+	</string>
+	<string id="ui_map_desc_mp_atp_short">
+		<rus>Автобусно-троллейбусный парк, расположенный в предбаннике Зоны. Замерли навсегда трактора, автобусы и грузовики...</rus>
+		<eng>Автобусно-троллейбусный парк, расположенный в предбаннике Зоны. Замерли навсегда трактора, автобусы и грузовики...</eng>
+		<ukr>Автобусно-тролейбусний парк, розташований у «передбаннику» Зони. Завмерлі назавжди трактори, автобуси та вантажівки…</ukr>
+	</string>
+	<string id="ui_map_desc_mp_bath_large">
+		<rus>Загадочное место, обладающее странным притяжением... Бассейн для экспериментов, кем и для чего построенный навсегда останется тайной. Артефактов тут нет, поэтому сталкеров сюда могу привлечь разве что остатки диковинных агрегатов и приборов. Внимательно следи за крышами и помни, что уровень радиации тут чрезмерно высок.</rus>
+		<eng>Загадочное место, обладающее странным притяжением... Бассейн для экспериментов, кем и для чего построенный навсегда останется тайной. Артефактов тут нет, поэтому сталкеров сюда могу привлечь разве что остатки диковинных агрегатов и приборов. Внимательно следи за крышами и помни, что уровень радиации тут чрезмерно высок.</eng>
+		<ukr>Загадкове місце, що має дивну магію... Басейн для експериментів, але ким і для чого він збудований, назавжди залишиться таємницею. Артефактів тут немає, тому увагу сталкерів можуть привернути хіба що залишки дивовижних агрегатів та приладів. Уважно стежте за дахами і пам'ятайте, що рівень радіації тут дуже високий.</ukr>
+	</string>
+	<string id="ui_map_desc_mp_bath_short">
+		<rus>Загадочное место, обладающее странным притяжением... Бассейн для экспериментов, кем и для чего построенный навсегда останется тайной.</rus>
+		<eng>Загадочное место, обладающее странным притяжением... Бассейн для экспериментов, кем и для чего построенный навсегда останется тайной.</eng>
+		<ukr>Загадкове місце, що має дивну магію... Басейн для експериментів, але ким і для чого він збудований, назавжди залишиться таємницею.</ukr>
+	</string>
+	<string id="ui_map_desc_mp_factory_large">
+		<rus>Мрачный, заброшенный заводик. Сколько сталкеров тут полегло, не счесть. Аномалий там всяких очень много, однако, притягивает это место сталкеров, как магнит. А все потому, что артефактами ценными тут разжиться... Осторожно, радиация!</rus>
+		<eng>Мрачный, заброшенный заводик. Сколько сталкеров тут полегло, не счесть. Аномалий там всяких очень много, однако, притягивает это место сталкеров, как магнит. А все потому, что артефактами ценными тут разжиться... Осторожно, радиация!</eng>
+		<ukr>Похмурий закинутий заводик. Скільки сталкерів тут полягло - і не злічити. Аномалій усяких дуже багато, однак для сталкерів тут мов медом намащено. А все тому, що цінними артефактами тут розжитися не штука... Обережно, радіація!</ukr>
+	</string>
+	<string id="ui_map_desc_mp_factory_short">
+		<rus>Мрачный, заброшенный заводик. Сколько сталкеров тут полегло, не счесть.</rus>
+		<eng>Мрачный, заброшенный заводик. Сколько сталкеров тут полегло, не счесть.</eng>
+		<ukr>Похмурий закинутий заводик. Скільки сталкерів тут полягло - і не злічити.</ukr>
+	</string>
+	<string id="ui_map_desc_mp_garbage_large">
+		<rus>Это часть большой вонючей свалки, куда после аварии в 86 году свозили горы радиоактивного мусора... разбитые краны, техника... Можно найти останки старых построек и огромный ангар....Все это не далеко от входа в Зону и артефактов тут достаточно много, что и привлекает сюда сталкеров, которые ищут лёгкой наживы.</rus>
+		<eng>Это часть большой вонючей свалки, куда после аварии в 86 году свозили горы радиоактивного мусора... разбитые краны, техника... Можно найти останки старых построек и огромный ангар....Все это не далеко от входа в Зону и артефактов тут достаточно много, что и привлекает сюда сталкеров, которые ищут лёгкой наживы.</eng>
+		<ukr>Це - частина великого звалища, що смердить старим металом і куди після аварії 1986 року звозили купи радіоактивного сміття. Розбиті крани, авіаційна та автомобільна техніка... Можна знайти рештки старих будівель та величезний ангар. Воно розташовано неподалік від входу до Зони, але артефактів тут доволі багато. Це й притягує сюди сталкерів, котрі шукають легкої наживи.</ukr>
+	</string>
+	<string id="ui_map_desc_mp_garbage_short">
+		<rus>Это часть большой вонючей свалки, куда после аварии в 86 году свозили горы радиоактивного мусора... разбитые краны, техника...</rus>
+		<eng>Это часть большой вонючей свалки, куда после аварии в 86 году свозили горы радиоактивного мусора... разбитые краны, техника...</eng>
+		<ukr>Це - частина великого звалища, що смердить старим металом і куди після аварії 1986 року звозили купи радіоактивного сміття. Розбиті крани, авіаційна та автомобільна техніка... </ukr>
+	</string>
+	<string id="ui_map_desc_mp_lost_village_large">
+		<rus>Покинутая, забытая богом деревья в глубине Зоны. Небольшое, мелкое ржавое озеро, заполненное останками машин, внушает какой-то подсознательный страх перед действительностью Зоны. Опасайся снайперов, но помни, Зона любит смелых.</rus>
+		<eng>Покинутая, забытая богом деревья в глубине Зоны. Небольшое, мелкое ржавое озеро, заполненное останками машин, внушает какой-то подсознательный страх перед действительностью Зоны. Опасайся снайперов, но помни, Зона любит смелых.</eng>
+		<ukr>Покинуті Богом дерева у глибині Зони. Невеличке та мілке озеро з іржавою водою, переповнене кістяками машин, навіює якийсь підсвідомий жах перед дійсністю Зони. Обережно, тут можуть зустрічатися снайпери - але, з іншого боку, Зона любить сміливих.</ukr>
+	</string>
+	<string id="ui_map_desc_mp_lost_village_short">
+		<rus>Покинутая, забытая богом деревья в глубине Зоны. Небольшое, мелкое ржавое озеро, заполненное останками машин, внушает какой-то подсознательный страх перед действительностью Зоны.</rus>
+		<eng>Покинутая, забытая богом деревья в глубине Зоны. Небольшое, мелкое ржавое озеро, заполненное останками машин, внушает какой-то подсознательный страх перед действительностью Зоны.</eng>
+		<ukr>Покинуті Богом дерева у глибині Зони. Невеличке та мілке озеро з іржавою водою, переповнене кістяками машин, навіює якийсь підсвідомий жах перед дійсністю Зони.</ukr>
+	</string>
+	<string id="ui_map_desc_mp_military_1_large">
+		<rus>Заброшенная армейская база - навсегда застывшие грузовики и БТРы, разрушенный штаб и казармы. Однако эта пустынность и заброшенность обманчива - тут настоящий Клондайк артефактов, поэтому враг может ожидать тебя где угодно...Докажи, что ты - лучший!</rus>
+		<eng>Заброшенная армейская база - навсегда застывшие грузовики и БТРы, разрушенный штаб и казармы. Однако эта пустынность и заброшенность обманчива - тут настоящий Клондайк артефактов, поэтому враг может ожидать тебя где угодно...Докажи, что ты - лучший!</eng>
+		<ukr>Колишня армійська база із назавжди застиглими вантажівками та БТРами, зруйнованими штабом і казармами. Однак ця занедбана пустка оманлива: тут до біса артефактів, тому ворог може чигати на тебе де завгодно... Доведи, що ти - кращий!</ukr>
+	</string>
+	<string id="ui_map_desc_mp_military_1_short">
+		<rus>Заброшенная армейская база - навсегда застывшие грузовики и БТРы, разрушенный штаб и казармы.</rus>
+		<eng>Заброшенная армейская база - навсегда застывшие грузовики и БТРы, разрушенный штаб и казармы.</eng>
+		<ukr>Колишня армійська база із назавжди застиглими вантажівками та БТРами, зруйнованими штабом і казармами.</ukr>
+	</string>
+	<string id="ui_map_desc_mp_military_2_large">
+		<rus>Эта старая деревенька - место жуткое и гиблое. Но раз уж рискнул добраться сюда, будь готовым получить пулю в лоб. Тут ты нигде не можешь чувствовать себя в безопасности, да хранят тебя оптика и глушитель.</rus>
+		<eng>Эта старая деревенька - место жуткое и гиблое. Но раз уж рискнул добраться сюда, будь готовым получить пулю в лоб. Тут ты нигде не можешь чувствовать себя в безопасности, да хранят тебя оптика и глушитель.</eng>
+		<ukr>Це старе сільце - місце моторошне і згубне. Той, хто ризикнув дістатися сюди, має щосекунди чекати на кулю в лоба. Тут нема безпечних місць, тож полягайся тільки на оптику і глушник.</ukr>
+	</string>
+	<string id="ui_map_desc_mp_military_2_short">
+		<rus>Эта старая деревенька - место жуткое и гиблое. Но раз уж рискнул добраться сюда, будь готовым получить пулю в лоб.</rus>
+		<eng>Эта старая деревенька - место жуткое и гиблое. Но раз уж рискнул добраться сюда, будь готовым получить пулю в лоб.</eng>
+		<ukr>Це старе сільце - місце моторошне і згубне. Той, хто ризикнув дістатися сюди, має щосекунди чекати на кулю в лоба.</ukr>
+	</string>
+	<string id="ui_map_desc_mp_prypiat_large">
+		<rus>Город Припять, бывшее место проживания работников АЭС, вернее, то, что от него осталось. Руины этого индустриального скелета таят в себе вполне реальную опасность. Здесь следует по-настоящему беречь свою жизнь.</rus>
+		<eng>Город Припять, бывшее место проживания работников АЭС, вернее, то, что от него осталось. Руины этого индустриального скелета таят в себе вполне реальную опасность. Здесь следует по-настоящему беречь свою жизнь.</eng>
+		<ukr>Місто Прип'ять, колишнє місце проживання працівників АЕС - а радше те, що від нього лишилося. Примарні руїни цього індустріального кістяка приховують у собі цілком реальну небезпеку. Тут варто по-справжньому берегти своє життя.</ukr>
+	</string>
+	<string id="ui_map_desc_mp_prypiat_short">
+		<rus>Город Припять неподалёку от АЭС - наследие чернобыльской катастрофы.</rus>
+		<eng>Город Припять неподалёку от АЭС - наследие чернобыльской катастрофы.</eng>
+		<ukr>Місто Прип'ять неподалік АЕС - спадщина чорнобильської катастрофи</ukr>
+	</string>
+	<string id="ui_map_desc_mp_railraod_short">
+		<rus>Небольшая железнодорожная станция при заводе "Росток".</rus>
+		<eng>Небольшая железнодорожная станция при заводе "Росток".</eng>
+		<ukr>Невеличка залізнична станція при заводі «Росток»</ukr>
+	</string>
+	<string id="ui_map_desc_mp_railroad_large">
+		<rus>Небольшая железнодорожная станция при заводе "Росток". Проржавевшие вагоны и тепловозы теперь стоят на вечном приколе. Множество артефактов приманивает сюда отчаянных сталкеров со всей Зоны.</rus>
+		<eng>Небольшая железнодорожная станция при заводе "Росток". Проржавевшие вагоны и тепловозы теперь стоят на вечном приколе. Множество артефактов приманивает сюда отчаянных сталкеров со всей Зоны.</eng>
+		<ukr>Невеличка залізнична станція при заводі «Росток». Проіржавілі вагони і тепловози тепер стоять на вічному приколі. Безліч артефактів приманює сюди затятих сталкерів з усієї Зони.</ukr>
+	</string>
+	<string id="ui_map_desc_mp_rostok_large">
+		<rus>Этот завод под грудами металла и за стенами бетона хранит какое-то особенное молчание. В прошлом веке здесь кипел рабочий процесс, трудящиеся спешили на смену под лозунги громкоговорителей... Но теперь завод отработал своё.</rus>
+		<eng>Этот завод под грудами металла и за стенами бетона хранит какое-то особенное молчание. В прошлом веке здесь кипел рабочий процесс, трудящиеся спешили на смену под лозунги громкоговорителей... Но теперь завод отработал своё.</eng>
+		<ukr>Цей завод під купами металу та за стінами бетону грає в якусь особливу мовчанку. У минулому столітті тут кипіла робота, трудящі поспішали на зміну під гасла з гучномовців... Тепер цехи відробили своє.</ukr>
+	</string>
+	<string id="ui_map_desc_mp_rostok_short">
+		<rus>Заброшенный старый завод под грудами металла и за стенами бетона хранит глубокое молчание.</rus>
+		<eng>Заброшенный старый завод под грудами металла и за стенами бетона хранит глубокое молчание.</eng>
+		<ukr>Цей завод під купами металу та за стінами бетону грає в якусь особливу мовчанку.</ukr>
+	</string>
+	<string id="ui_map_desc_mp_workshop_large">
+		<rus>Окраина завода Росток до прихода Долга. Мрачные места, однако, очень богатые на артефакты. Пустые ангары и склады таят в себе опасность на каждом шагу. Будь предельно осторожен и чаще обращай внимание на белую башню....</rus>
+		<eng>Окраина завода Росток до прихода Долга. Мрачные места, однако, очень богатые на артефакты. Пустые ангары и склады таят в себе опасность на каждом шагу. Будь предельно осторожен и чаще обращай внимание на белую башню....</eng>
+		<ukr>Околиця заводу «Росток» до приходу «Долгу»: похмурі, хоча й дуже багаті на артефакти, місця. Порожній простір ангарів, цехів та складів приховує небезпеку. Треба бути гранично обережним і частіше звертати увагу на білу вежу...</ukr>
+	</string>
+	<string id="ui_map_desc_mp_workshop_short">
+		<rus>Окраина завода Росток до прихода Долга. Мрачные места, однако, очень богатые на артефакты.</rus>
+		<eng>Окраина завода Росток до прихода Долга. Мрачные места, однако, очень богатые на артефакты.</eng>
+		<ukr>Околиця заводу «Росток» до приходу «Долгу»: похмурі, хоча й дуже багаті на артефакти, місця.</ukr>
+	</string>
+	<string id="item_timer">
+		<rus>Электронные часы, переделанные умельцами Зоны. Специфика разработки заключается в возможности сего приспособления отсчитывать время до Выброса и заблаговременно предупреждать владельца о такой опасности как сигналом на циферблате, так и звуком. Снабжены таймером и секундомером. Кроме того - удобная в обращении вещь - не надо ползти в ПДА, чтобы посмотреть время. Легки в настройке.</rus>
+		<eng>Electronic watch readjusted by Zone handy men. The specifics of this item is the ability of this device to count the time to the Emission and provide early warning of the owner of such hazards by a signal on the dial, and by sound. Equipped with a timer, and a stopwatch. In addition - a user-friendly thing - do not have to crawl on the PDA to view the time. Easy to set up.</eng>
+		<ukr>Електронний годинник, перероблений умільцями Зони. Специфіка розробки полягає в можливості цього пристосування відраховувати час до викиду і завчасно попереджати власника про таку небезпеку як сигналом на циферблаті, так і звуком. Забезпечений таймером і секундоміром. Крім того - зручна в обігу річ - не треба повзти у КПК, щоб подивитися час. Легкий в налаштуванні.</ukr>
+	</string>
+	<string id="binoc_tutorial">
+		<rus>Для того чтобы использовать бинокль, выберите его ($$ACTION_wpn_6$$) и нажмите "огонь" для приближения.</rus>
+		<eng>Для того чтобы использовать бинокль, выберите его ($$ACTION_wpn_6$$) и нажмите "огонь" для приближения.</eng>
+		<ukr>Щоб використовувати бінокль, виберіть його ($$ACTION_wpn_6$$) і використайте функцію «Вогонь» для наближення.</ukr>
+	</string>
+	<string id="binocular">
+		<rus>Бинокль</rus>
+		<eng>Бинокль</eng>
+		<ukr>Бінокль</ukr>
+	</string>
+	<string id="crouch">
+		<rus>Приседания</rus>
+		<eng>Приседания</eng>
+		<ukr>Присідання</ukr>
+	</string>
+	<string id="crouch_down_tutorial">
+		<rus>Для того чтобы пригнуться низко, нажмите ($$ACTION_crouch$$) + (Shift)</rus>
+		<eng>Для того чтобы пригнуться низко, нажмите ($$ACTION_crouch$$) + (Shift)</eng>
+		<ukr>Щоб пригнутися низько, натисніть ($$ACTION_crouch$$) + (Shift)</ukr>
+	</string>
+	<string id="crouch_tutorial">
+		<rus>Для того чтобы присесть, нажмите ($$ACTION_crouch$$). Чтобы присесть низко, нажмите ($$ACTION_crouch$$) + ($$ACTION_accel$$).</rus>
+		<eng>Для того чтобы присесть, нажмите ($$ACTION_crouch$$). Чтобы присесть низко, нажмите ($$ACTION_crouch$$) + ($$ACTION_accel$$).</eng>
+		<ukr>Щоб присісти, натисніть ($$ACTION_crouch$$). Щоб присісти низько, натисніть ($$ACTION_crouch$$) + ($$ACTION_accel$$)</ukr>
+	</string>
+	<string id="hide_weapon">
+		<rus>Выбор оружия</rus>
+		<eng>Выбор оружия</eng>
+		<ukr>Вибір зброї</ukr>
+	</string>
+	<string id="hide_weapon_tutorial">
+		<rus>Некоторые сталкеры не захотят говорить, если Вы будете тыкать им оружием в лицо. Чтобы спрятать оружие, достаточно выбрать болт ($$ACTION_wpn_7$$).</rus>
+		<eng>Некоторые сталкеры не захотят говорить, если Вы будете тыкать им оружием в лицо. Чтобы спрятать оружие, достаточно выбрать болт ($$ACTION_wpn_7$$).</eng>
+		<ukr>Деякі сталкери не схочуть розмовляти, якщо тицяти їм зброєю в обличчя. Щоб сховати зброю, достатньо обрати болт ($$ACTION_wpn_7$$).</ukr>
+	</string>
+	<string id="jump">
+		<rus>Прыжки</rus>
+		<eng>Прыжки</eng>
+		<ukr>Стрибки</ukr>
+	</string>
+	<string id="jump_tutorial">
+		<rus>Прыжки помогут Вам забираться на невысокие препятствия. Для того чтобы прыгнуть, нажмите ($$ACTION_jump$$).</rus>
+		<eng>Прыжки помогут Вам забираться на невысокие препятствия. Для того чтобы прыгнуть, нажмите ($$ACTION_jump$$).</eng>
+		<ukr>Стрибки допоможуть забиратися на невисокі перешкоди. Для того, щоб стрибнути, натисніть ($$ACTION_jump$$)</ukr>
+	</string>
+	<string id="move_tutorial">
+		<rus>Способы передвижения</rus>
+		<eng>Способы передвижения</eng>
+		<ukr>Способи пересування</ukr>
+	</string>
+	<string id="overload">
+		<rus>Перегрузка</rus>
+		<eng>Перегрузка</eng>
+		<ukr>Перевантаження</ukr>
+	</string>
+	<string id="overload_tutorial">
+		<rus>Вы не похожи на грузовик и нести на себе несколько тонн не сможете. Чем больше Вы несёте, тем быстрее теряете силы. В конце концов, если Вы наберёте слишком много, то не сможете сдвинуться с места.</rus>
+		<eng>Вы не похожи на грузовик и нести на себе несколько тонн не сможете. Чем больше Вы несёте, тем быстрее теряете силы. В конце концов, если Вы наберёте слишком много, то не сможете сдвинуться с места.</eng>
+		<ukr>Людина не схожа на вантажівку і нести на собі кілька тонн не може. Чим більше доводиться нести, тим швидше втрачаються сили. Зрештою, якщо узяти надто багато, не вийде навіть зрушити з місця.</ukr>
+	</string>
+	<string id="radiation">
+		<rus>Радиация</rus>
+		<eng>Радиация</eng>
+		<ukr>Радіація</ukr>
+	</string>
+	<string id="radiation_tutorial">
+		<rus>Когда персонаж находится в зоне с высоким радиационным фоном или носит на поясе радиоактивный артефакт, у него появляются признаки радиоактивного поражения. При этом у персонажа начинает уменьшаться здоровье. Для снятия эффекта радиационного поражения можно воспользоваться антирадом или водкой.</rus>
+		<eng>Когда персонаж находится в зоне с высоким радиационным фоном или носит на поясе радиоактивный артефакт, у него появляются признаки радиоактивного поражения. При этом у персонажа начинает уменьшаться здоровье. Для снятия эффекта радиационного поражения можно воспользоваться антирадом или водкой.</eng>
+		<ukr>Коли персонаж знаходиться у зоні із високим радіаційним тлом або носить на поясі радіоактивний артефакт, у нього з'являються ознаки радіоактивного ураження організму. При цьому в персонажа починає зменшуватися рівень здоров'я. Для зняття ефекту радіаційного ураження можна скористатися антирадом або горілкою.</ukr>
+	</string>
+	<string id="relation">
+		<rus>Отношения</rus>
+		<eng>Отношения</eng>
+		<ukr>Відносини</ukr>
+	</string>
+	<string id="relation_tutorial">
+		<rus>Когда игрок кому-то помогает, то улучшается отношение сталкера к нему и репутация персонажа в целом. Если у Вас хорошая репутация, то торговцы будут продавать Вам товары со скидкой. Если у Вас плохая репутация, то готовьтесь к высоким ценам.</rus>
+		<eng>Когда игрок кому-то помогает, то улучшается отношение сталкера к нему и репутация персонажа в целом. Если у Вас хорошая репутация, то торговцы будут продавать Вам товары со скидкой. Если у Вас плохая репутация, то готовьтесь к высоким ценам.</eng>
+		<ukr>Коли гравець комусь допомагає, то поліпшується не тільки ставлення конкретного сталкера до нього, але й репутація персонажа в цілому. Якщо у Вас гарна репутація, торговці продаватимуть Вам товари зі знижкою. Якщо у вас погана репутація, готуйтеся до високого рівня цін.</ukr>
+	</string>
+	<string id="sleep_tutorial">
+		<rus>Это специальное место для сна. Здесь можно выспаться, переждать ночь или просто дождаться назначенного часа. Для того чтобы спать, надо открыть инвентарь, установить время на циферблате, в течение которого Вы хотите спать, и нажать на кнопку "Отдохнуть". Через указанное время персонаж проснётся. Иногда он может видеть сны.</rus>
+		<eng>Это специальное место для сна. Здесь можно выспаться, переждать ночь или просто дождаться назначенного часа. Для того чтобы спать, надо открыть инвентарь, установить время на циферблате, в течение которого Вы хотите спать, и нажать на кнопку "Отдохнуть". Через указанное время персонаж проснётся. Иногда он может видеть сны.</eng>
+		<ukr>Це - спеціальне місце для сну. Тут можна відіспатися, перебути ніч або просто дочекатися певної години. Для того, щоб спати, треба відкрити інвентар, встановити час на циферблаті, протягом якого бажаєте спати, і натиснути на кнопку «Відпочити». Через зазначений час персонаж прокинеться. Іноді він може бачити сни.</ukr>
+	</string>
+	<string id="sprint">
+		<rus>Ускорение</rus>
+		<eng>Ускорение</eng>
+		<ukr>Прискорення</ukr>
+	</string>
+	<string id="sprint_tutorial">
+		<rus>В некоторых случаях ускорение может спасти Вам жизнь. Нажмите при ходьбе клавишу ($$ACTION_sprint_toggle$$). Во время ускорения персонаж быстрее бежит и дальше прыгает, но при этом быстрее устаёт и не может стрелять из оружия.</rus>
+		<eng>В некоторых случаях ускорение может спасти Вам жизнь. Нажмите при ходьбе клавишу ($$ACTION_sprint_toggle$$). Во время ускорения персонаж быстрее бежит и дальше прыгает, но при этом быстрее устаёт и не может стрелять из оружия.</eng>
+		<ukr>У деяких випадках прискорення може врятувати життя. Натисніть клавішу ($$ACTION_sprint_toggle$$). Під час прискорення персонаж швидше біжить і далі стрибає, але при цьому швидше втомлюється і не може відкривати вогонь.</ukr>
+	</string>
+	<string id="starvation_tutorial">
+		<rus>Когда персонаж долго не ест, у него появляется чувство голода. Когда голод становится сильным, то начинает медленно уменьшаться здоровье персонажа. Для того чтобы здоровье персонажа перестало уменьшаться, надо поесть. Утолить голод можно, съев батон хлеба, консерву или кусок колбасы.</rus>
+		<eng>Когда персонаж долго не ест, у него появляется чувство голода. Когда голод становится сильным, то начинает медленно уменьшаться здоровье персонажа. Для того чтобы здоровье персонажа перестало уменьшаться, надо поесть. Утолить голод можно, съев батон хлеба, консерву или кусок колбасы.</eng>
+		<ukr>Коли персонаж довго не їсть, у нього з'являється почуття голоду. Коли голод стає сильним, здоров'я персонажа починає повільно зменшуватися. Для того, щоб здоров'я персонажа перестало зменшуватися, треба поїсти. Вгамувати голод можна, з'ївши батон хліба, консерву або шматок ковбаси.</ukr>
+	</string>
+	<string id="tutorial">
+		<rus>Обучение</rus>
+		<eng>Обучение</eng>
+		<ukr>Навчання</ukr>
+	</string>
+	<string id="weakness">
+		<rus>Усталость</rus>
+		<eng>Усталость</eng>
+		<ukr>Втома</ukr>
+	</string>
+	<string id="weakness_tutorial">
+		<rus>Если Вы бежите либо несёте много тяжёлых вещей, Вы начинаете уставать. Если Вы устали слишком сильно, то Вы не сможете ни бегать, ни ходить некоторое время. К счастью, силы быстро восстанавливаются, стоит только постоять некоторое время.</rus>
+		<eng>Если Вы бежите либо несёте много тяжёлых вещей, Вы начинаете уставать. Если Вы устали слишком сильно, то Вы не сможете ни бегать, ни ходить некоторое время. К счастью, силы быстро восстанавливаются, стоит только постоять некоторое время.</eng>
+		<ukr>Якщо бігти або нести велику вагу, то накопичується втома. Якщо вона занадто сильна, якийсь час не вийде ані бігати, ані ходити. На щастя, сили швидко відновлюються - варто лише постояти на місці та відпочити певний час.</ukr>
+	</string>
+	<string id="weapon">
+		<rus>Состояние оружия</rus>
+		<eng>Состояние оружия</eng>
+		<ukr>Стан зброї</ukr>
+	</string>
+	<string id="weapon_tutorial">
+		<rus>У любого оружия есть параметр прочности. Чем ниже прочность оружия, тем чаще его заклинивает. Для того чтобы опять из него стрелять, надо его перезарядить (кнопка $$ACTION_wpn_reload$$). От использования прочность оружия постепенно уменьшается, а несколько попавших в него пуль или взрывная волна могут привести его в полную негодность.</rus>
+		<eng>У любого оружия есть параметр прочности. Чем ниже прочность оружия, тем чаще его заклинивает. Для того чтобы опять из него стрелять, надо его перезарядить (кнопка $$ACTION_wpn_reload$$). От использования прочность оружия постепенно уменьшается, а несколько попавших в него пуль или взрывная волна могут привести его в полную негодность.</eng>
+		<ukr>Одним з параметрів будь-якої зброї є міцність. Чим нижча міцність зброї, тим частіше її заклинює. Для того, щоб знову із неї стріляти, треба пересмикнути затвор (кнопка $$ACTION_wpn_reload$$). Від використання міцність зброї поступово зменшується, а куля чи осколок, що влучили у неї, можуть зробити її зовсім непридатною.</ukr>
+	</string>
+	<string id="wound">
+		<rus>Открытые раны</rus>
+		<eng>Открытые раны</eng>
+		<ukr>Відкриті рани</ukr>
+	</string>
+	<string id="wound_tutorial">
+		<rus>При попадании по персонажу есть вероятность, что у него начнётся кровотечение. Кровотечение - постоянная потеря здоровья. Чем более серьёзное кровотечение (зелёная иконка - слабое кровотечение, красная - сильное), тем больше здоровья персонаж будет терять в единицу времени. Со временем кровотечения проходят сами собой, но с помощью бинтов их можно остановить моментально.</rus>
+		<eng>При попадании по персонажу есть вероятность, что у него начнётся кровотечение. Кровотечение - постоянная потеря здоровья. Чем более серьёзное кровотечение (зелёная иконка - слабое кровотечение, красная - сильное), тем больше здоровья персонаж будет терять в единицу времени. Со временем кровотечения проходят сами собой, но с помощью бинтов их можно остановить моментально.</eng>
+		<ukr>За влучення у персонажа є ймовірність, що в нього почнеться кровотеча, котра виглядає як невпинна втрата здоров'я. Чим серйознішою є кровотеча (зелена іконка - слабка, червона - сильна), тим більше здоров'я втрачатиметься за одиницю часу. Із часом кровотеча минеться сама по собі, але за допомогою бинтів можна моментально зупинити її, навіть якщо вона дуже сильна.</ukr>
+	</string>
+	<string id="pda_diary_tutorial">
+		<rus>В КПК погибшего сталкера Вы нашли его наблюдения за аномалиями в тоннеле. Оказывается, он обнаружил закономерность в их появлении. Вы можете прочитать эту информацию в своём КПК в разделе "Дневник".</rus>
+		<eng>В КПК погибшего сталкера Вы нашли его наблюдения за аномалиями в тоннеле. Оказывается, он обнаружил закономерность в их появлении. Вы можете прочитать эту информацию в своём КПК в разделе "Дневник".</eng>
+		<ukr>У КПК загиблого сталкера Ви знайшли його спостереження за аномаліями в тунелі. Виявляється, він знайшов закономірність у їхній роботі. Ви можете прочитати цю інформацію у своєму КПК у розділі «Щоденник».</ukr>
+	</string>
+	<string id="cant_walk">
+		<rus>Вы слишком истощены, чтобы двигаться</rus>
+		<eng>Вы слишком истощены, чтобы двигаться</eng>
+		<ukr>Ви надто виснажені, щоб рухатися</ukr>
+	</string>
+	<string id="cant_eat_any">
+		<rus>У Вас заняты руки, чтобы сделать это</rus>
+		<eng>У Вас заняты руки, чтобы сделать это</eng>
+		<ukr>У Вас зайняті руки, щоб це зробити</ukr>
+	</string>
+	<string id="cant_walk_weight">
+		<rus>Вы слишком перегружены, чтобы двигаться</rus>
+		<eng>Вы слишком перегружены, чтобы двигаться</eng>
+		<ukr>Ви надто перевантажені, щоб рухатися</ukr>
+	</string>
+	<string id="dar_poltergeist_hold_the_door">
+		<rus>Кто-то удерживает дверь</rus>
+		<eng>Кто-то удерживает дверь</eng>
+		<ukr>Хтось утримує двері</ukr>
+	</string>
+	<string id="Global Map">
+		<rus>Глобальная карта</rus>
+		<eng>Глобальная карта</eng>
+		<ukr>Глобальна карта</ukr>
+	</string>
+	<string id="gun_jammed">
+		<rus>Оружие заклинило, нужно перезарядить</rus>
+		<eng>Оружие заклинило, нужно перезарядить</eng>
+		<ukr>Зброю заклинило, потрібно перезарядити.</ukr>
+	</string>
+	<string id="inventory_box_use">
+		<rus>Обыскать</rus>
+		<eng>Обыскать</eng>
+		<ukr>Обшукати</ukr>
+	</string>
+	<string id="Local Map">
+		<rus>Локальная карта</rus>
+		<eng>Локальная карта</eng>
+		<ukr>Локальна карта</ukr>
+	</string>
+	<string id="st_game_saved">
+		<rus>игра сохранена</rus>
+		<eng>игра сохранена</eng>
+		<ukr>гру збережено</ukr>
+	</string>
+	<string id="tip_car_locked">
+		<rus>Заблокировано</rus>
+		<eng>Заблокировано</eng>
+		<ukr>Заблоковано</ukr>
+	</string>
+	<string id="tip_car_use">
+		<rus>Открыть дверь</rus>
+		<eng>Открыть дверь</eng>
+		<ukr>Відкрити двері</ukr>
+	</string>
+	<string id="car_use">
+		<rus>Открыть дверь</rus>
+		<eng>Открыть дверь</eng>
+		<ukr>Відкрити двері</ukr>
+	</string>
+	<string id="tip_door_close">
+		<rus>Закрыть дверь</rus>
+		<eng>Закрыть дверь</eng>
+		<ukr>Зачинити двері</ukr>
+	</string>
+	<string id="tip_door_coded">
+		<rus>Дверь закодирована</rus>
+		<eng>Дверь закодирована</eng>
+		<ukr>Двері закодовано</ukr>
+	</string>
+	<string id="tip_door_locked_inside">
+		<rus>Дверь закрыта с другой стороны</rus>
+		<eng>Дверь закрыта с другой стороны</eng>
+		<ukr>Двері закриті з іншої сторони</ukr>
+	</string>
+	<string id="tip_door_locked_in">
+		<rus>Дверь закрыта изнутри</rus>
+		<eng>Дверь закрыта изнутри</eng>
+		<ukr>Двері закриті зсередини</ukr>
+	</string>
+	<string id="war_button_activate">
+		<rus>Активировать</rus>
+		<eng>Активировать</eng>
+		<ukr>Активувати</ukr>
+	</string>
+	<string id="war_button_deactivate">
+		<rus>Деактивировать</rus>
+		<eng>Деактивировать</eng>
+		<ukr>Деактивувати</ukr>
+	</string>
+	<string id="tip_door_decode">
+		<rus>Декодировать дверь</rus>
+		<eng>Декодировать дверь</eng>
+		<ukr>Декодувати двері</ukr>
+	</string>
+	<string id="tip_door_decoding">
+		<rus>Идёт процесс декодирования</rus>
+		<eng>Идёт процесс декодирования</eng>
+		<ukr>Йде процес декодування</ukr>
+	</string>
+	<string id="tip_door_locked">
+		<rus>Дверь заперта</rus>
+		<eng>Дверь заперта</eng>
+		<ukr>Двері замкнуті</ukr>
+	</string>
+	<string id="tip_door_open">
+		<rus>Открыть дверь</rus>
+		<eng>Открыть дверь</eng>
+		<ukr>Відчинити двері</ukr>
+	</string>
+	<string id="tip_gate_close">
+		<rus>Закрыть ворота</rus>
+		<eng>Закрыть ворота</eng>
+		<ukr>Зачинити ворота</ukr>
+	</string>
+	<string id="tip_gate_locked">
+		<rus>Ворота заблокированы</rus>
+		<eng>Ворота заблокированы</eng>
+		<ukr>Ворота заблоковано</ukr>
+	</string>
+	<string id="tip_gate_open">
+		<rus>Открыть ворота</rus>
+		<eng>Открыть ворота</eng>
+		<ukr>Відчинити ворота</ukr>
+	</string>
+	<string id="tip_monolith">
+		<rus>ЗАГАДАТЬ ЖЕЛАНИЕ</rus>
+		<eng>ЗАГАДАТЬ ЖЕЛАНИЕ</eng>
+		<ukr>ЗАГАДАТИ БАЖАННЯ</ukr>
+	</string>
+	<string id="st_demo_play">
+		<rus>AMK MOD 1.4.1</rus>
+		<eng>AMK MOD 1.4.1</eng>
+		<ukr>AMK MOD 1.4.1</ukr>
+	</string>
+	<string id="txt_safe_storage_short_name">
+		<rus>Рюкзак</rus>
+		<eng>Рюкзак</eng>
+		<ukr>Рюкзак</ukr>
+	</string>
+	<string id="txt_safe_change_filter_desc">
+		<rus>Изменить фильтр</rus>
+		<eng>Изменить фильтр</eng>
+		<ukr>Змінити фільтр</ukr>
+	</string>
+	<string id="txt_safe_take_all_desc">
+		<rus>Забрать всё</rus>
+		<eng>Забрать всё</eng>
+		<ukr>Забрати все</ukr>
+	</string>
+	<string id="txt_safe_column1">
+		<rus>Предмет</rus>
+		<eng>Предмет</eng>
+		<ukr>Предмет</ukr>
+	</string>
+	<string id="txt_safe_column2">
+		<rus>Сост.</rus>
+		<eng>Сост.</eng>
+		<ukr>Стан</ukr>
+	</string>
+	<string id="txt_safe_column3">
+		<rus>Кол-во</rus>
+		<eng>Кол-во</eng>
+		<ukr>Кіл-сть</ukr>
+	</string>
+	<string id="txt_safe_filter_0">
+		<rus>Все предметы</rus>
+		<eng>Все предметы</eng>
+		<ukr>Всі предмети</ukr>
+	</string>
+	<string id="txt_safe_filter_1">
+		<rus>Оружие</rus>
+		<eng>Оружие</eng>
+		<ukr>Зброя</ukr>
+	</string>
+	<string id="txt_safe_filter_2">
+		<rus>Боеприпасы</rus>
+		<eng>Боеприпасы</eng>
+		<ukr>Боєприпаси</ukr>
+	</string>
+	<string id="txt_safe_filter_3">
+		<rus>Гранаты</rus>
+		<eng>Гранаты</eng>
+		<ukr>Гранати</ukr>
+	</string>
+	<string id="txt_safe_filter_4">
+		<rus>Броня</rus>
+		<eng>Броня</eng>
+		<ukr>Броня</ukr>
+	</string>
+	<string id="txt_safe_filter_5">
+		<rus>Обвесы</rus>
+		<eng>Обвесы</eng>
+		<ukr>Обвіси</ukr>
+	</string>
+	<string id="txt_safe_filter_6">
+		<rus>Медикаменты</rus>
+		<eng>Медикаменты</eng>
+		<ukr>Медикаменти</ukr>
+	</string>
+	<string id="txt_safe_filter_7">
+		<rus>Артефакты</rus>
+		<eng>Артефакты</eng>
+		<ukr>Артефакти</ukr>
+	</string>
+	<string id="txt_safe_filter_8">
+		<rus>Части мутантов</rus>
+		<eng>Части мутантов</eng>
+		<ukr>Частини мутантів</ukr>
+	</string>
+	<string id="txt_safe_filter_9">
+		<rus>Прочее</rus>
+		<eng>Прочее</eng>
+		<ukr>Інше</ukr>
+	</string>
+	<string id="txt_safe_empty_storage">
+		<rus>Пустой рюкзак</rus>
+		<eng>Пустой рюкзак</eng>
+		<ukr>Порожній рюкзак</ukr>
+	</string>
+	<string id="txt_safe_returned_storage">
+		<rus>Надо бы проверить свою нычку</rus>
+		<eng>Надо бы проверить свою нычку</eng>
+		<ukr>Треба б перевірити свою схованку</ukr>
+	</string>
+	<string id="txt_safe_transfer_info">
+		<rus>\n
+			Перемещение\n
+			%c[ui_clr_2]DblClick            %c[default]- 1 предмет\n
+			%c[ui_clr_2]Shift+DblClick      %c[default]- 3 предмета\n
+			%c[ui_clr_2]Ctrl+DblClick       %c[default]- 10 предметов\n
+			%c[ui_clr_2]Ctrl+Shift+DblClick %c[default]- все предметы\n
+			\n
+			%c[default]Перед перемещением оружия необходимо сначала разрядить его и снять все обвесы.\n
+			\n
+			Перед перемещением контейнеров необходимо выложить из них артефакты.
+		</rus>
+		<eng>\n
+			Перемещение\n
+			%c[ui_clr_2]DblClick            %c[default]- 1 предмет\n
+			%c[ui_clr_2]Shift+DblClick      %c[default]- 3 предмета\n
+			%c[ui_clr_2]Ctrl+DblClick       %c[default]- 10 предметов\n
+			%c[ui_clr_2]Ctrl+Shift+DblClick %c[default]- все предметы\n
+			\n
+			%c[default]Перед перемещением оружия необходимо сначала разрядить его и снять все обвесы.\n
+			\n
+			Перед перемещением контейнеров необходимо выложить из них артефакты.
+		</eng>
+		<ukr>\n
+			Переміщення\n
+			%c[ui_clr_2]DblClick            %c[default]- 1 предмет\n
+			%c[ui_clr_2]Shift+DblClick      %c[default]- 3 предмети\n
+			%c[ui_clr_2]Ctrl+DblClick       %c[default]- 10 предметів\n
+			%c[ui_clr_2]Ctrl+Shift+DblClick %c[default]- всі предмети\n
+			\n
+			%c[default]Перед переміщенням зброї необхідно спочатку розрядити її та зняти всі обвіси.\n
+			\n
+			Перед переміщенням контейнерів необхідно викласти з них артефакти.
+		</ukr>
+	</string>
+	<string id="txt_safe_pay_store">
+		<rus>Меченый, тут нычка платная. %i открытие и далее по %i рублей в сутки. В стоимость входит охрана твоего хабара - из рюкзака ничего не пропадёт. Если согласен, бросай рюкзак.</rus>
+		<eng>Меченый, тут нычка платная. %i открытие и далее по %i рублей в сутки. В стоимость входит охрана твоего хабара - из рюкзака ничего не пропадёт. Если согласен, бросай рюкзак.</eng>
+		<ukr>Мічений, тут схованка платна. %i відкриття і далі по %i гривень за добу. У вартість входить охорона твого хабара - з рюкзака нічого не пропаде. Якщо згоден - кидай рюкзак.</ukr>
+	</string>
+	<string id="txt_safe_protect_store">
+		<rus>Буду присматривать за твоим хабаром.</rus>
+		<eng>Буду присматривать за твоим хабаром.</eng>
+		<ukr>Буду приглядати за твоїм хабаром.</ukr>
+	</string>
+	<string id="txt_safe_warning_store">
+		<rus>Меченый, тут люди разные ходят, могут и украсть твою нычку. На свой страх и риск бросаешь здесь рюкзак.</rus>
+		<eng>Меченый, тут люди разные ходят, могут и украсть твою нычку. На свой страх и риск бросаешь здесь рюкзак.</eng>
+		<ukr>Мічений, тут люди різні ходять, можуть і вкрасти твою схованку. На свій страх і ризик кидаєш тут рюкзак.</ukr>
+	</string>
+	<string id="txt_safe_no_honey">
+		<rus>Меченый, хочешь охрану хабара - надо платить. Подкопишь денег - приходи, всегда рад клиентам с деньгами.</rus>
+		<eng>Меченый, хочешь охрану хабара - надо платить. Подкопишь денег - приходи, всегда рад клиентам с деньгами.</eng>
+		<ukr>Мічений, хочеш охорону хабара - треба платити. Назбираєш грошей - приходь, завжди радий клієнтам з грошима.</ukr>
+	</string>
+	<string id="txt_safe_npc_ganef_postfix">
+		<rus> - %c[red]воришка!%c[default]</rus>
+		<eng> - %c[red]воришка!%c[default]</eng>
+		<ukr> - %c[red]злодюжка!%c[default]</ukr>
+	</string>
+	<string id="txt_safe_move_pos">
+		<rus>Передумал - дело твое.</rus>
+		<eng>Передумал - дело твое.</eng>
+		<ukr>Передумав - справа твоя.</ukr>
+	</string>
+	<string id="txt_safe_stolen_note_inv_name">
+		<rus>Записка с координатами</rus>
+		<eng>Записка с координатами</eng>
+		<ukr>Записка з координатами</ukr>
+	</string>
+	<string id="txt_safe_stolen_note_desc">
+		<rus>Записка с зашифрованными координатами украденного тайника с хабаром. Может кто из торговцев расшифрует?</rus>
+		<eng>Записка с зашифрованными координатами украденного тайника с хабаром. Может кто из торговцев расшифрует?</eng>
+		<ukr>Записка із зашифрованими координатами вкраденої схованки з хабаром. Може хтось із торговців розшифрує?</ukr>
+	</string>
+	<string id="txt_safe_hello_0_1">
+		<rus>Здравствуй!</rus>
+		<eng>Здравствуй!</eng>
+		<ukr>Здрастуй!</ukr>
+	</string>
+	<string id="txt_safe_hello_0_2">
+		<rus>Здравствуй, Меченый!</rus>
+		<eng>Здравствуй, Меченый!</eng>
+		<ukr>Здрастуй, Мічений!</ukr>
+	</string>
+	<string id="txt_safe_hello_0_3">
+		<rus>О, Меченый! Дело какое ко мне есть?</rus>
+		<eng>О, Меченый! Дело какое ко мне есть?</eng>
+		<ukr>О, Мічений! Є до мене якась справа?</ukr>
+	</string>
+	<string id="txt_safe_hello_0_4">
+		<rus>Ну, говори, зачем пришел.</rus>
+		<eng>Ну, говори, зачем пришел.</eng>
+		<ukr>Ну, говори навіщо прийшов.</ukr>
+	</string>
+	<string id="txt_safe_stolen_gg_p1">
+		<rus>Тебя сразу пристрелить, или сам отдашь?</rus>
+		<eng>Тебя сразу пристрелить, или сам отдашь?</eng>
+		<ukr>Тебя відразу пристрелити, чи сам віддаси?</ukr>
+	</string>
+	<string id="txt_safe_stolen_ss_p2">
+		<rus>Мужик, ты чего наезжаешь?</rus>
+		<eng>Мужик, ты чего наезжаешь?</eng>
+		<ukr>Чоловіче, ти чого наїжджаєш?</ukr>
+	</string>
+	<string id="txt_safe_stolen_gg_p3">
+		<rus>Ты когда воруешь чужое, не забывай маячки отключать.</rus>
+		<eng>Ты когда воруешь чужое, не забывай маячки отключать.</eng>
+		<ukr>Ти коли крадеш чуже, не забувай маячки відключати.</ukr>
+	</string>
+	<string id="txt_safe_stolen_ss_p4">
+		<rus>А, так это твои пожитки валялись на дороге? Надо сказать, прятать ты не умеешь. Но, ты наверное, хочешь вернуть себе хабарок... Что же, раз ты меня нашел, то пойду на уступки, лишних врагов мне не нужно. В общем, давай сюда 50 тысяч за нычку и разойдемся по-хорошему. Только учти, угрожать мне не надо, рюкзака твоего у меня с собой нет, грохнешь меня - дороже обойдется.</rus>
+		<eng>А, так это твои пожитки валялись на дороге? Надо сказать, прятать ты не умеешь. Но, ты наверное, хочешь вернуть себе хабарок... Что же, раз ты меня нашел, то пойду на уступки, лишних врагов мне не нужно. В общем, давай сюда 50 тысяч за нычку и разойдемся по-хорошему. Только учти, угрожать мне не надо, рюкзака твоего у меня с собой нет, грохнешь меня - дороже обойдется.</eng>
+		<ukr>А, так це твої пожитки валялися посеред дороги? Треба сказати, ховати ти не вмієш. Але, ти, напевно, хочеш повернути собі хабарок ... Що ж, раз ти мене знайшов, то піду на поступки, зайві вороги мені не потрібні. Коротше, давай сюди 50 тисяч за схованку і розійдемося по-доброму. Тільки врахуй, погрожувати мені не треба, рюкзака твого в мене з собою немає, пришиєш мене - дорожче обійдеться.</ukr>
+	</string>
+	<string id="txt_safe_stolen_gg_p5_1">
+		<rus>Черт с тобой, держи. Ещё раз попадешься - и на такой любезный разговор не рассчитывай.</rus>
+		<eng>Черт с тобой, держи. Ещё раз попадешься - и на такой любезный разговор не рассчитывай.</eng>
+		<ukr>Дідько з тобою, тримай. Ще раз попадешся - і на таку люб'язну розмову не розраховуй.</ukr>
+	</string>
+	<string id="txt_safe_stolen_gg_p5_2">
+		<rus>Ну ты загнул. Там хабара не было на такую сумму.</rus>
+		<eng>Ну ты загнул. Там хабара не было на такую сумму.</eng>
+		<ukr>Ну ти загнув. Там хабара не було на таку суму.</ukr>
+	</string>
+	<string id="txt_safe_stolen_ss_p6_1">
+		<rus>Правильное решение. Значит слушай, я всего лишь координаты записал себе. Рюкзак твой все ещё на месте, только ищи получше, я его малость припрятал. И в следующий раз место получше выбирай.</rus>
+		<eng>Правильное решение. Значит слушай, я всего лишь координаты записал себе. Рюкзак твой все ещё на месте, только ищи получше, я его малость припрятал. И в следующий раз место получше выбирай.</eng>
+		<ukr>Правильне рішення. Значить слухай, я всього лише координати собі записав. Рюкзак твій все ще на місці, тільки шукай краще, я його трохи приховав. І наступного разу вибирай місце краще.</ukr>
+	</string>
+	<string id="txt_safe_stolen_ss_p6_2">
+		<rus>Ну, хозяин - барин. В следующий раз не будешь на дороге хабар кидать. Соберешь денег - приходи.</rus>
+		<eng>Ну, хозяин - барин. В следующий раз не будешь на дороге хабар кидать. Соберешь денег - приходи.</eng>
+		<ukr>Ну, хазяїн - барин. Наступного разу не будеш посеред дороги хабар кидати. Назбираєш грошей - приходь.</ukr>
+	</string>
+	<string id="txt_safe_stolen_trader_gg_p1">
+		<rus>Я знаю, у тебя есть выходы на ребят умных, в шифрах понимаюших.</rus>
+		<eng>Я знаю, у тебя есть выходы на ребят умных, в шифрах понимаюших.</eng>
+		<ukr>Я знаю, у тебе є контакти розумних хлопців, які в шифрах розбираються.</ukr>
+	</string>
+	<string id="txt_safe_stolen_trader_p2">
+		<rus>Обижаешь, хороший торговец всегда имеет контакты на нужных людей.</rus>
+		<eng>Обижаешь, хороший торговец всегда имеет контакты на нужных людей.</eng>
+		<ukr>Ображаєш, хороший торговець завжди має контакти потрібних людей.</ukr>
+	</string>
+	<string id="txt_safe_stolen_trader_gg_p3">
+		<rus>Один уникум имел неосторожность обнести мою нычку. Само собой, он уже наказан. Но хабара моего при нем не было, только записка с координатами. Можешь помочь?</rus>
+		<eng>Один уникум имел неосторожность обнести мою нычку. Само собой, он уже наказан. Но хабара моего при нем не было, только записка с координатами. Можешь помочь?</eng>
+		<ukr>Один унікум мав необережність розграбувати мою схованку. Само собою, він уже покараний. Але хабара мого при ньому не було, тільки записка з координатами. Зможеш допомогти?</ukr>
+	</string>
+	<string id="txt_safe_stolen_trader_p4">
+		<rus>Давай посмотрю. Ух ты ж... Да, повезло тебе. Хотя, как повезло... Есть люди, которые разберут шифр твой. По 60 тысяч за шифр. Сам понимаешь, оборудование дорогое, еда, питьё, проживание для специалиста не дёшевы нынче. Ну, и за мои услуги немного.</rus>
+		<eng>Давай посмотрю. Ух ты ж... Да, повезло тебе. Хотя, как повезло... Есть люди, которые разберут шифр твой. По 60 тысяч за шифр. Сам понимаешь, оборудование дорогое, еда, питьё, проживание для специалиста не дёшевы нынче. Ну, и за мои услуги немного.</eng>
+		<ukr>Давай подивлюся. Ух ти ж ... Так, пощастило тобі. Хоча, як пощастило ... Є люди, які розберуть твій шифр. По 60 тисяч за шифр. Сам розумієш, обладнання дороге, їжа, питво, проживання для фахівця нині не дешеві. Ну і за мої послуги трошки.</ukr>
+	</string>
+	<string id="txt_safe_stolen_trader_gg_p5_1">
+		<rus>За свои же вещи я ещё и платить должен. Хорошо, держи.</rus>
+		<eng>За свои же вещи я ещё и платить должен. Хорошо, держи.</eng>
+		<ukr>За свої ж речі я ще й платити повинен. Добре, тримай.</ukr>
+	</string>
+	<string id="txt_safe_stolen_trader_gg_p5_2">
+		<rus>Да иди ты! Откуда я тебе такие деньги возьму, там и хабара было то на копейки!</rus>
+		<eng>Да иди ты! Откуда я тебе такие деньги возьму, там и хабара было то на копейки!</eng>
+		<ukr>Та пішов ти! Звідки я тобі такі гроші візьму, там і хабара було на копійки!</ukr>
+	</string>
+	<string id="txt_safe_stolen_trader_p6_1">
+		<rus>В следующий раз будешь прятать хабар как полагается, а не на дороге бросать. Лови метку. Этот фрукт так и не забрал хабар, всего лишь взломал GPS. Где лежал - там и лежит.</rus>
+		<eng>В следующий раз будешь прятать хабар как полагается, а не на дороге бросать. Лови метку. Этот фрукт так и не забрал хабар, всего лишь взломал GPS. Где лежал - там и лежит.</eng>
+		<ukr>Наступного разу будеш ховати хабар як належить, а не посеред дороги кидати. Лови мітку. Цей фрукт так і не забрав хабар, всього лише зламав GPS. Де лежав - там і лежить.</ukr>
+	</string>
+	<string id="txt_safe_stolen_trader_p6_2">
+		<rus>Ты не на базаре, чтобы торговаться. Соберешь деньги - приходи. Люди будут рады помочь легенде Зоны. За скромное вознаграждение...</rus>
+		<eng>Ты не на базаре, чтобы торговаться. Соберешь деньги - приходи. Люди будут рады помочь легенде Зоны. За скромное вознаграждение...</eng>
+		<ukr>Ти не на базарі, щоб торгуватися. Назбираєш грощей - приходь. Люди будуть раді допомогти легенді Зони. За скромну винагороду...</ukr>
+	</string>
+	<string id="txt_found_nightstar">
+		<rus>Нашел я тебе артефакт...</rus>
+		<eng>I found you an artifact...</eng>
+		<ukr>Знайшов я тобі артефакт...</ukr>
+	</string>
+	<string id="ui_outfit_resistance">
+		<rus>Сопротивления</rus>
+		<eng>Сопротивления</eng>
+		<ukr>Протидії</ukr>
+	</string>
+	<string id="ui_outfit_modifiers">
+		<rus>Модификаторы</rus>
+		<eng>Модификаторы</eng>
+		<ukr>Модифікатори</ukr>
+	</string>
+	<string id="ui_slot_name">
+		<rus>слот</rus>
+		<eng>slot</eng>
+		<ukr>слот</ukr>
+	</string>
+	<string id="ui_slot_0">
+		<rus>вспомогательный</rus>
+		<eng>вспомогательный</eng>
+		<ukr>допоміжний</ukr>
+	</string>
+	<string id="ui_slot_1">
+		<rus>основной</rus>
+		<eng>основной</eng>
+		<ukr>основний</ukr>
+	</string>
+	<string id="ui_slot_2">
+		<rus>промежуточный</rus>
+		<eng>промежуточный</eng>
+		<ukr>проміжний</ukr>
+	</string>
+	<string id="ui_ammunition">
+		<rus>Боеприпасы:</rus>
+		<eng>Боеприпасы:</eng>
+		<ukr>Боєприпаси:</ukr>
+	</string>
+	<string id="ui_effective_range">
+		<rus>эффективная дальность</rus>
+		<eng>эффективная дальность</eng>
+		<ukr>ефективна дальність</ukr>
+	</string>
+	<string id="ui_shooting_range">
+		<rus>прицельная дальность</rus>
+		<eng>прицельная дальность</eng>
+		<ukr>прицільна дальність</ukr>
+	</string>
+	<string id="ui_rate_of_fire">
+		<rus>скорострельность</rus>
+		<eng>скорострельность</eng>
+		<ukr>швидкострільність</ukr>
+	</string>
+	<string id="ui_mag_cap">
+		<rus>ёмкость магазина</rus>
+		<eng>ёмкость магазина</eng>
+		<ukr>ємність магазину</ukr>
+	</string>
+	<string id="ui_rounds">
+		<rus>патронов</rus>
+		<eng>патронов</eng>
+		<ukr>патронів</ukr>
+	</string>
+	<string id="ui_attachments">
+		<rus>Обвесы:</rus>
+		<eng>Обвесы:</eng>
+		<ukr>Навісне:</ukr>
+	</string>
+	<string id="ui_integrated">
+		<rus>Интегрированный</rus>
+		<eng>Интегрированный</eng>
+		<ukr>Інтегрований</ukr>
+	</string>
+	<string id="ui_mecenii_dead">
+		<rus>Зафиксирована смерть сталкера по кличке Меченый.</rus>
+		<eng>Зафиксирована смерть сталкера по кличке Меченый.</eng>
+		<ukr>Зафіксовано смерть сталкера на прізвисько Мічений.</ukr>
+	</string>
+	<string id="ui_spot_warning">
+		<rus>Вас могут увидеть!</rus>
+		<eng>Вас могут увидеть!</eng>
+		<ukr>===Вас могут увидеть!</ukr>
+	</string>
+	<string id="ui_reminder">
+		<rus>Напоминания</rus>
+		<eng>Напоминания</eng>
+		<ukr>===Напоминания</ukr>
+	</string>
+	<string id="ui_no_active_tasks">
+		<rus>Нет активных заданий, по которым возможны напоминания</rus>
+		<eng>Нет активных заданий, по которым возможны напоминания</eng>
+		<ukr>===Нет активных заданий, по которым возможны напоминания</ukr>
+	</string>
+	<string id="ui_storage_total">
+		<rus>Всего</rus>
+		<eng>Всего</eng>
+		<ukr>===Всего</ukr>
+	</string>
+	<string id="ui_storage_items">
+		<rus>предметов</rus>
+		<eng>предметов</eng>
+		<ukr>===предметов</ukr>
+	</string>
+	<!-- Всего 5 из 10 кг -->
+	<string id="ui_storage_from">
+		<rus>из</rus>
+		<eng>из</eng>
+		<ukr>===из</ukr>
+	</string>
+	<string id="ui_storage_full">
+		<rus>Рюкзак полон.</rus>
+		<eng>Рюкзак полон.</eng>
+		<ukr>===Рюкзак полон.</ukr>
+	</string>
+	<string id="ui_storage_cost">
+		<rus>Стоимость</rus>
+		<eng>Стоимость</eng>
+		<ukr>===Стоимость</ukr>
+	</string>
+	<string id="ui_stco_kordon">
+		<rus>Кордон</rus>
+		<eng>Кордон</eng>
+		<ukr>===Кордон</ukr>
+	</string>
+	<string id="ui_stco_agroprom">
+		<rus>Агропром</rus>
+		<eng>Агропром</eng>
+		<ukr>===Агропром</ukr>
+	</string>
+	<string id="ui_stco_darkvalley">
+		<rus>Тёмная Долина</rus>
+		<eng>Тёмная Долина</eng>
+		<ukr>===Тёмная Долина</ukr>
+	</string>
+	<string id="ui_stco_deadcity">
+		<rus>Мёртвый город</rus>
+		<eng>Мёртвый город</eng>
+		<ukr>===Мёртвый город</ukr>
+	</string>
+	<string id="ui_stco_no_signal">
+		<rus>Нет сигнала СП!</rus>
+		<eng>Нет сигнала СП!</eng>
+		<ukr>===Нет сигнала СП!</ukr>
+	</string>
+	<string id="ui_stco_time">
+		<rus>время:</rus>
+		<eng>время:</eng>
+		<ukr>===время:</ukr>
+	</string>
+	<string id="ui_stco_long">
+		<rus>долгота:</rus>
+		<eng>долгота:</eng>
+		<ukr>===долгота:</ukr>
+	</string>
+	<string id="ui_stco_lat">
+		<rus>широта:</rus>
+		<eng>широта:</eng>
+		<ukr>===широта:</ukr>
+	</string>
+	<string id="ui_stco_alt">
+		<rus>высота:</rus>
+		<eng>высота:</eng>
+		<ukr>===высота:</ukr>
+	</string>
+	<string id="ui_stco_dir">
+		<rus>направление:</rus>
+		<eng>направление:</eng>
+		<ukr>===направление:</ukr>
+	</string>
+	<string id="ui_stco_autotime">
+		<rus>Время в автономном</rus>
+		<eng>Время в автономном</eng>
+		<ukr>===Время в автономном</ukr>
+	</string>
+	<string id="ui_stco_mode">
+		<rus>режиме!</rus>
+		<eng>режиме!</eng>
+		<ukr>===режиме!</ukr>
+	</string>
+	<string id="ui_timers_blowout">
+		<rus>Выброс</rus>
+		<eng>Выброс</eng>
+		<ukr>===Выброс</ukr>
+	</string>
+	<string id="ui_timers_horror">
+		<rus>Час Ужаса</rus>
+		<eng>Час Ужаса</eng>
+		<ukr>===Час Ужаса</ukr>
+	</string>
+	<string id="ui_trans_unknown">
+		<rus>Неизвестно</rus>
+		<eng>Неизвестно</eng>
+		<ukr>===Неизвестно</ukr>
+	</string>
+	<string id="ui_trans_start">
+		<rus>Запуск</rus>
+		<eng>Запуск</eng>
+		<ukr>===Запуск</ukr>
+	</string>
+	<string id="ui_trans_days">
+		<rus>дн</rus>
+		<eng>дн</eng>
+		<ukr>===дн</ukr>
+	</string>
+	<string id="ui_trans_hours">
+		<rus>час</rus>
+		<eng>час</eng>
+		<ukr>===час</ukr>
+	</string>
+	<string id="ui_trans_mins">
+		<rus>мин</rus>
+		<eng>мин</eng>
+		<ukr>===мин</ukr>
+	</string>
+	<string id="ui_trans_no_ing">
+		<rus>Для варки не хватает компонентов</rus>
+		<eng>Для варки не хватает компонентов</eng>
+		<ukr>===Для варки не хватает компонентов</ukr>
+	</string>
+	<string id="ui_trans_cook_time">
+		<rus>Время варки</rus>
+		<eng>Время варки</eng>
+		<ukr>===Время варки</ukr>
+	</string>
+	<string id="ui_autosave_cant">
+		<rus>Сейв не создан - во время выполнения этого задания сохраняться нельзя</rus>
+		<eng>Сейв не создан - во время выполнения этого задания сохраняться нельзя</eng>
+		<ukr>===Сейв не создан - во время выполнения этого задания сохраняться нельзя</ukr>
+	</string>
+	<string id="ui_autosave_cook">
+		<rus>Автосохранение не создано - запущена варка артефактов</rus>
+		<eng>Автосохранение не создано - запущена варка артефактов</eng>
+		<ukr>===Автосохранение не создано - запущена варка артефактов</ukr>
+	</string>
+	<string id="ui_autosave_day">
+		<rus>День</rus>
+		<eng>День</eng>
+		<ukr>===День</ukr>
+	</string>
+	<string id="ui_autosave">
+		<rus>Автосохранение</rus>
+		<eng>Автосохранение</eng>
+		<ukr>===Автосохранение</ukr>
+	</string>
+	<string id="ui_load_health">
+		<rus>Здоровье</rus>
+		<eng>Здоровье</eng>
+		<ukr>===Здоровье</ukr>
+	</string>
+	<string id="ui_load_terr">
+		<rus>Территория</rus>
+		<eng>Территория</eng>
+		<ukr>===Территория</ukr>
+	</string>
+	<string id="ui_load_game_time">
+		<rus>Игровое время</rus>
+		<eng>Игровое время</eng>
+		<ukr>===Игровое время</ukr>
+	</string>
+	<string id="ui_load_save_time">
+		<rus>Сохранено</rus>
+		<eng>Сохранено</eng>
+		<ukr>===Сохранено</ukr>
+	</string>
+	<string id="ui_bad_object">
+		<rus>Не найден проблемный объект</rus>
+		<eng>Не найден проблемный объект</eng>
+		<ukr>===Не найден проблемный объект</ukr>
+	</string>
+	<string id="ui_bad_object_del">
+		<rus>Удален проблемный объект</rus>
+		<eng>Удален проблемный объект</eng>
+		<ukr>===Удален проблемный объект</ukr>
+	</string>
+	<string id="ui_god_im">
+		<rus>Бессмертие</rus>
+		<eng>Бессмертие</eng>
+		<ukr>===Бессмертие</ukr>
+	</string>
+	<string id="ui_god_ai">
+		<rus>Любой предмет</rus>
+		<eng>Любой предмет</eng>
+		<ukr>===Любой предмет</ukr>
+	</string>
+	<string id="ui_god_sj">
+		<rus>Суперпрыжок</rus>
+		<eng>Суперпрыжок</eng>
+		<ukr>===Суперпрыжок</ukr>
+	</string>
+	<string id="ui_god_co">
+		<rus>Коллекционер</rus>
+		<eng>Коллекционер</eng>
+		<ukr>===Коллекционер</ukr>
+	</string>
+	<string id="ui_god_do">
+		<rus>Документы</rus>
+		<eng>Документы</eng>
+		<ukr>===Документы</ukr>
+	</string>
+	<string id="ui_god_te">
+		<rus>Телепортация</rus>
+		<eng>Телепортация</eng>
+		<ukr>===Телепортация</ukr>
+	</string>
+	<string id="ui_bad_object_0">
+		<rus>У объекта</rus>
+		<eng>У объекта</eng>
+		<ukr>===У объекта</ukr>
+	</string>
+	<string id="ui_bad_object_1">
+		<rus>повисла логика. Удалите созданное только что сохранение и переиграйте с предыдущего.</rus>
+		<eng>повисла логика. Удалите созданное только что сохранение и переиграйте с предыдущего.</eng>
+		<ukr>===повисла логика. Удалите созданное только что сохранение и переиграйте с предыдущего.</ukr>
+	</string>
+	<string id="ui_stat_year_0">
+		<rus>год</rus>
+		<eng>год</eng>
+		<ukr>===год</ukr>
+	</string>
+	<string id="ui_stat_year_1">
+		<rus>года</rus>
+		<eng>года</eng>
+		<ukr>===года</ukr>
+	</string>
+	<string id="ui_stat_year_2">
+		<rus>лет</rus>
+		<eng>лет</eng>
+		<ukr>===лет</ukr>
+	</string>
+	<string id="ui_stat_mon_0">
+		<rus>месяц</rus>
+		<eng>месяц</eng>
+		<ukr>===месяц</ukr>
+	</string>
+	<string id="ui_stat_mon_1">
+		<rus>месяца</rus>
+		<eng>месяца</eng>
+		<ukr>===месяца</ukr>
+	</string>
+	<string id="ui_stat_mon_2">
+		<rus>месяцев</rus>
+		<eng>месяцев</eng>
+		<ukr>===месяцев</ukr>
+	</string>
+	<string id="ui_stat_day_0">
+		<rus>день</rus>
+		<eng>день</eng>
+		<ukr>===день</ukr>
+	</string>
+	<string id="ui_stat_day_1">
+		<rus>дня</rus>
+		<eng>дня</eng>
+		<ukr>===дня</ukr>
+	</string>
+	<string id="ui_stat_day_2">
+		<rus>дней</rus>
+		<eng>дней</eng>
+		<ukr>===дней</ukr>
+	</string>
+	<string id="ui_stat_hour_0">
+		<rus>час</rus>
+		<eng>час</eng>
+		<ukr>===час</ukr>
+	</string>
+	<string id="ui_stat_hour_1">
+		<rus>часа</rus>
+		<eng>часа</eng>
+		<ukr>===часа</ukr>
+	</string>
+	<string id="ui_stat_hour_2">
+		<rus>часов</rus>
+		<eng>часов</eng>
+		<ukr>===часов</ukr>
+	</string>
+	<string id="ui_stat_min_0">
+		<rus>минута</rus>
+		<eng>минута</eng>
+		<ukr>===минута</ukr>
+	</string>
+	<string id="ui_stat_min_1">
+		<rus>минуты</rus>
+		<eng>минуты</eng>
+		<ukr>===минуты</ukr>
+	</string>
+	<string id="ui_stat_min_2">
+		<rus>минут</rus>
+		<eng>минут</eng>
+		<ukr>===минут</ukr>
+	</string>
+	<string id="kb_quick_slot_0">
+		<rus>Быстрый слот 0</rus>
+		<eng>Quick slot 0</eng>
+		<ukr>Швидкій слот 0</ukr>
+	</string>
+	<string id="kb_quick_slot_1">
+		<rus>Быстрый слот 1</rus>
+		<eng>Quick slot 1</eng>
+		<ukr>Швидкій слот 1</ukr>
+	</string>
+	<string id="kb_quick_slot_2">
+		<rus>Быстрый слот 2</rus>
+		<eng>Quick slot 2</eng>
+		<ukr>Швидкій слот 2</ukr>
+	</string>
+	<string id="kb_quick_slot_3">
+		<rus>Быстрый слот 3</rus>
+		<eng>Quick slot 3</eng>
+		<ukr>Швидкій слот 3</ukr>
+	</string>
+	<string id="ui_inv_radiation">
+		<text>Облучение</text>
+		<eng>Irradiation</eng>
+		<ukr>Опромінення</ukr>
+	</string>
+		<string id="ui_inv_radiation_irr">
+		<text>Облучение предмета</text>
+		<eng>Item radiation</eng>
+		<ukr>Опромінення предмета</ukr>
+	</string>
+	<string id="ui_cv_weights">
+		<text>Вес артефактов</text>
+		<eng>Weight of artifacts</eng>
+		<ukr>Вага артефактів</ukr>
+	</string>
+	<string id="ui_inv_radiation_units">
+		<text>Ки</text>
+		<eng>Ci</eng>
+		<ukr>Кі</ukr>
+	</string>	
+	<string id="ui_close_container">
+		<text>Закрыть контейнер</text>
+		<eng>Close container</eng>
+		<ukr>Закрити контейнер</ukr>
+	</string>
+	<string id="ui_unshielded_irr">
+		<text>Неэкранированное облучение</text>
+		<eng>Unshielded irradiation</eng>
+		<ukr>Неекрановане опромінення</ukr>
+	</string>
+</string_table>

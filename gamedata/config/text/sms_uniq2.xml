@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<!-- При добавлении увеличивать количество в amk_mod.sms_uniq2 -->
+<string_table>
+	<string id="sms_uniq2_1">
+		<rus>Прикиньте! Слышал, что военные после очередного прорыва решили Зону бетонной стеной окружить. Вот дела будут!</rus>
+		<eng>You're not gonna believe this! I heard, that after another breach, military are going to enclose The Zone by a concrete wall. Well, well!</eng>
+		<ukr>Чули нову плітку? Військові після чергового прориву вирішили Зону бетонною стіною оточити. Бодай би їх качка копнула!</ukr>
+	</string>
+	<string id="sms_uniq2_2">
+		<rus>Сегодня у учёных был. И что узнал: оказывается, "Кровь камня" похмелье неплохо снимает. Берите на заметку.</rus>
+		<eng>Went to ecologists today. Here's what I find out: looks like "The Stone Blood" is a good solvent against hangover. Take a note.</eng>
+		<ukr>Сьогодні у вчених був. І що дізнався: виявляється, "Кров каменю" похмілля непогано знімає. Беріть на замітку.</ukr>
+	</string>
+	<string id="sms_uniq2_3">
+		<rus>Блин! Светошумовая в рюкзаке взорвалась. Теперь не слышу ни фига.</rus>
+		<eng>Shoot! Stun grenade exploded in my backpack. Now can't hear bupkis.</eng>
+		<ukr>От дідько! Світлошумова в рюкзаку вибухнула. Тепер не чую ніфіга.</ukr>
+	</string>
+	<string id="sms_uniq2_4">
+		<rus>Продам "Гадюку" под 5,45. Сам переделал. Недорого.</rus>
+		<eng>Have a 5,45 "Viper 5". Modified by myself. Inexpensive.</eng>
+		<ukr>Продам "Гадюку" під 5,45. Сам переробив. Недорого.</ukr>
+	</string>
+	<string id="sms_uniq2_5">
+		<rus>Шёл с Армейских Складов в Красный Лес за артефактами. Думал пройти коротким путём, через стоянку наёмников (дам им денег и пропустят). Но такого я не ожидал... Всех наёмников какая-то жуткая тварь сгрызла. Походу, химера, притом матёрая... Их шесть человек было, меня чуть не вывернуло.</rus>
+		<eng>Went from The Army Warehouses to Red Forest for artifacts. Thought to use a shortcut, through merks outpost (give money, they let me pass). But I never expected this... Every mercenary was gutted out by some creature. Looks like chimera, mature one... Six people, my stomach nearly turned itself inside out.</eng>
+		<ukr>Йшов з Армійських складів в Червоний Ліс за артефактами. Думав пройти коротким шляхом, через стоянку найманців (дам їм грошей і пропустять). Але такого я не очікував... Всіх найманців якась моторошна тварина згризла. Здається, химера, притому зріла... Їх шість чоловік було, мене мало не вивернуло. </ukr>
+	</string>
+	<string id="sms_uniq2_6">
+		<rus>После пси-удара контрика на Периметре я не мог вообще достать никакой ствол долго. Ждал минут пять, потом надоело. Это глюк или фича? Если фича, что что делать? Сон, антизомбин - всё напрасно. Может, памперсы нужны?</rus>
+		<eng>Being hit by controller psychic bolt on the Perimeter, couldn't draw any weapon for a long time. Waited about five minutes, than got tired. Is it a bug or a feature? If it's a feature, what to do? Sleeping, psy-block - no effect. Maybe, I need a diaper?</eng>
+		<ukr>Після псі-удару контрика на Периметрі я довго не міг дістати взагалі ніякої зброї. Чекав хвилин п'ять, потім набридло. Це глюк або фіча? Якщо фіча, то що робити? Сон, антизомбін - все марно. Може, памперси потрібні? </ukr>
+	</string>
+	<string id="sms_uniq2_7">
+		<rus>Дорогие Дамы! Вас в Зоне очень не хватает, так что делитесь (хоть почкованием)!</rus>
+		<eng>Dear Ladies! We don't have a lot of you here, in The Zone, so you need to reproduce (in whatever way)!</eng>
+		<ukr>Шановні Пані! Вас в Зоні дуже не вистачає, так що розмножуйтесь (хоч би брунькуванням)!</ukr>
+	</string>
+	<string id="sms_uniq2_8">
+		<rus>Уже неделю не могу взять тайник Коллекционера под мостом на Кордоне. Его можно купить за 200 тысяч? Или придётся бросать игру?</rus>
+		<eng>I can't take Collectioner's stash on The Cordon for days. Can I buy it for 200 grand? Or I need to give up playing the game?</eng>
+		<ukr>Вже тиждень не можу взяти схованку Колекціонера під мостом на Кордоні. Його можна купити за 200 тисяч? Або доведеться кидати гру? </ukr>
+	</string>
+	<string id="sms_uniq2_9">
+		<rus>Всем привет! Есть здесь книголюбы? Посоветуйте, что почитать, а то пока Выброс идёт - скука смертная.</rus>
+		<eng>Hello everyone! Are there bibliophiles? Advise me something to read, so boring just to wait till the end of an Emission.</eng>
+		<ukr>Всім привіт! Є тут книголюби? Порадьте, що почитати, а то поки Викид йде - нудьга смертна.</ukr>
+	</string>
+	<string id="sms_uniq2_10">
+		<rus>Топор совсем затупился. Сходил вчера к Василию и офигел от цен. Лучше уж буду консервной банкой отбиваться...</rus>
+		<eng>My axe now is so blunted. So I went to Basil, got freaked out by prices. Better to fight off with a tin can...</eng>
+		<ukr>Сокира зовсім затупилась. Сходив вчора до Василя і очі на лоба вилізли від цін. Краще вже буду консервною банкою відбиватися...</ukr>
+	</string>
+	<string id="sms_uniq2_11">
+		<rus>Сейчас прикол случился на портовых кранах. Только я забрался на самый верх, только собрался взять рюкзак и тут на тебе - Выброс! Прямо мистика какая-то. С "Камнем Удачи" так и переждал наверху...</rus>
+		<eng>Something funny happened recently on dock cranes. The minute I climbed up on top, the minute I was about to take off my backpack, here you are - the Emission! Pretty weird. Had to wait there the whole time with "Stone of Luck"...</eng>
+		<ukr>Зараз прикол стався на портових кранах. Тільки я забрався на самий верх, тільки зібрався взяти рюкзак і тут на тобі - Викид! Прямо містика якась. З "Каменем Удачі" так і перечекав нагорі... </ukr>
+	</string>
+	<string id="sms_uniq2_12">
+		<rus>Ты спрашиваешь, почему играют, какие причины и не жалеют ли потраченное время? Ответ совсем прост: каждый человек в душе ребёнок, а дети любят играть. И ещё можно сказать, что каждый, будь он даже взрослый, мечтал если не встретить волшебника, то увидеть хотя бы маленькое чудо. А здесь ты сам как волшебник и чудес вокруг тебя немерено. И к тому же много чего умного можно понабраться. Я, например, научился экономии (средства даже в игре заканчиваются), а о правильности выбора и говорить нечего... Научиться делать правильный шаг - наверное, лучшее из качеств настоящего мужчины, плюс достигать хоть и игровых побед научит не отступать и в жизни.</rus>
+		<eng>You are asking why people are playing, for what purpose spending their time? The answer is usual: every person is a kid, and every kid enjoy games. And another thing, everyone, even a grown-up, always wanted if not to see a wizard, but to behold some kind of a miracle. And here you are like a wizard and have a plenty of miracles around you. Besides, you can understand many useful things here. For example, I learned to save money (even in the game you can spend all money), and there is no need to talk about decisions... Learn to make the first step - one of the superior virtues of a real man, for sure. Gain victories, at least in games, will teach not to stray away from real struggles</eng>
+		<ukr>Ти запитуєш, чому грають, які причини і чи не жалкують за витраченим часом? Відповідь дуже проста: кожна людина в душі дитина, а діти люблять гратись. І ще можна сказати, що кожен, навіть якщо він дорослий, мріяв якщо не зустріти чарівника, то побачити хоча б маленьке чудо. А тут ти сам як чарівник і чудес навколо тебе безліч. І до того ж багато чого розумного можна дізнатись. Я, наприклад, навчився економії (кошти навіть у грі закінчуються), а про правильність вибору і говорити нічого... Навчитися робити правильний крок - напевно, найкраще з якостей справжнього чоловіка, плюс досягати хоч і ігрових перемог навчить не відступати і в житті. </ukr>
+	</string>
+	<string id="sms_uniq2_13">
+		<rus>Скажите, а чем для вас является эта игра? Не жалеете ли потраченного времени? И собственно сам вопрос: имеет ли смысл тратить столько времени на игру? Я не говорю, что плохо там или хорошо, тем более не советую ничего. Но мнение интересно. Ведь по сути, игра - это некий уход от реальности, абстрагирование от всех проблем. Но ведь можно тратить время и на другие вещи, которые приносят радость и счастье. Жизнь ведь прекрасна...</rus>
+		<eng>Tell me, what do you make of this game? Do you grudge spent time? And the main question: is there any point to spend so much time on a game? I'm not saying about good and ill, or discommend. I'm just curious. Just, you know, game - it's kinda escape from reality, abstracting from all problems. But you could always spend time on other things, which will bring joy and happiness. The live is wonderful, isn't it?...</eng>
+		<ukr>Скажіть, а чим для вас є ця гра? Чи не шкодуєте витраченого часу? І власне саме питання: чи має сенс витрачати стільки часу на гру? Я не кажу, що погано там або добре, тим більше не раджу нічого. Але думка цікава. Адже по суті, гра - це якийсь відхід від реальності, абстрагування від всіх проблем. Але ж можна витрачати час і на інші речі, які приносять радість і щастя. Адже життя прекрасна... </ukr>
+	</string>
+	<string id="sms_uniq2_14">
+		<rus>Вы спросите: что для меня эта игра? Ну хорошо... для меня это своего рода хобби, возможность получить чуток адреналина и порцию определённых эмоций, не отрывая при этом пятую точку от кресла. Размять немного извилины, где это требуется, получить удовлетворение от достигнутого результата (например, взятие труднодоступного тайника или зачистка 1 против 20). Я ведь мужчина, а это у нас у всех в крови - не пасовать перед трудностями и добиваться своего, пускай и виртуально. Ответил?</rus>
+		<eng>You may ask: what do you make of this game? All right... it's a sort of hobby for me, an opportunity to let the rush take me and to provide experience of certain emotions and don't get my bottom up. Tune up my mind, where I need it, to have achievement-derived satisfaction (e.g, taking some hard-to-reach stash or me against 20 mopping-up). I'm a man, you know, it's a native feeling - not to be intimidated by hardship and dominate, even in the game. Does it make sense?</eng>
+		<ukr>Ви запитаєте: що для мене ця гра? Ну добре... для мене це свого роду хобі, можливість отримати трохи адреналіну і порцію певних емоцій, не відриваючи при цьому п'яту точку від крісла. Розім'яти трохи звивини, де це потрібно, отримати задоволення від досягнутого результату (наприклад, взяття важкодоступної схованки або зачистка 1 проти 20). Адже я чоловік, а це у нас у всіх в крові - не пасувати перед труднощами і домагатися свого, хай і віртуально. Відповів? </ukr>
+	</string>
+	<string id="sms_uniq2_15">
+		<rus>В сталкере я больше всего боялся кровососов. У меня от них мурашки по коже. И как только слышал его вой - хочется бежать в другой конец территории, только бы не видеть это чудище! Но мою фобию на кровососов удалось вылечить всего-то навсего одним квестом от Кузнецова. Это было в самом начале новой игры. Так как для отрезания частей мутантов нужен был нож, то и пришлось схлестнуться с этим чудовищем. В бандитской кожанке, с ножом в руках я выбежал с ним лоб в лоб и так получилось, что зарезал я его с первого раза без всяких фокусов с запрыгиванием на ящики и прочими хитростями. Наверное, мне очень повезло, но теперь я их не боюсь и играть стало намного приятнее.</rus>
+		<eng>I've always been most dreaded by bloodsuckers in this game. They were creeping me out. And whenever I heard their howling - better was to run in another corner of a territory, than seeing this monstrosity! But I've been able to cure my bloodsucker-phobia by accomplishment one quest from Kuznetsov. It was right at the beginning of the game. Since I needed a knife for cutting-off limbs from muties, so I had to beat this beast. Wearing bandit leather coat, with only a knife, I run out, and suddenly, killed him with one hit without any tricks, like jumping on a boxes and other sneakiness. Probably I've been very lucky, but I'm not afraid of them anymore and so much pleasant to play ever since.</eng>
+		<ukr>У сталкері я найбільше боявся кровососів. У мене від них мурашки по шкірі. І як тільки чув його виття - хочеться бігти в інший кінець території, тільки б не бачити це чудовисько! Але мою фобію на кровососів вдалося вилікувати всього лише на-всього одним квестом від Кузнєцова. Це було на самому початку нової гри. Оскільки для відрізання частин мутантів потрібен був ніж, то і довелося зіткнутися з цим чудовиськом. У бандитській шкірянці, з ножем в руках я вибіг з ним лоб в лоб і так вийшло, що зарізав я його з першого разу без всяких фокусів з встрибування на ящики і іншими хитрощами. Напевно, мені дуже пощастило, але тепер я їх не боюся і грати стало набагато приємніше. </ukr>
+	</string>
+	<string id="sms_uniq2_16">
+		<rus>Народ, интересная ситуация приключилась. Взносы, Сидор, заказ рок-группы. С рок-группой случился облом, Сидор уговаривает меня спеть в Баре и даёт 200 тысяч. Это прикол такой, или мне по любому петь придётся?</rus>
+		<eng>Hey folks, interesting thing happened. Dues, Sidor, order of a rock band. Nothing had come with a rock band, Sidor persuades me to sing in Bar, giving me 200 thousands. Is this some sort of joke, or I really need to sing?</eng>
+		<ukr>Народ, цікава ситуація трапилася. Внески, Сидор, замовлення рок-групи. З рок-групою трапився облом, Сидор вмовляє мене заспівати в Барі і дає 200 тисяч. Це прикол такий, чи мені обов'язково співати доведеться? </ukr>
+	</string>
+	<string id="sms_uniq2_17">
+		<rus>На болотах Александрыч послал искать его людей с контейнерами, а где они? В деревне новичков смотрел, там нету ответа. Подскажете?\n%c[sender]Сталкер Бубулюка\n%c[default]Представил, какими удивлёнными глазами на тебя смотрели обитатели Деревни новичков, когда ты появился там по уши в болотной тине и с вопросом: "Где гонцы с продовольствием для Александрыча?" Кузькина Мать, наверное, тебя приняла за зомбированного?</rus>
+		<eng>Alexandrich sent me on Swamps to find his men with containers, but where are they? I searched at the Rookie village too, nothing. Can you help me?\n%c[sender]Stalker Bubulyuka\n%c[default]Just imagined, how Rookie village inhabitants stared at you, when you just show up there covered with mud, asking: "Where are couriers of Alexandrich with supplies?" Kuzka's Mother, probably, must have confused you with a zombified?</eng>
+		<ukr>На болотах Александрич послав шукати його людей з контейнерами, а де вони? У селі новачків дивився, там немає відповіді. Підкажете?\n%c[sender]Сталкер Бубулюка\n%c[default]Уявив, якими здивованими очима на тебе дивилися мешканці Села новачків, коли ти з'явився там по вуха в болотній твані і з питанням: "Де гінці з харчами для Александрича?" Кузькіна Мать, напевно, подумала що ти зомбований? </ukr>
+	</string>
+	<string id="sms_uniq2_18">
+		<rus>Начинаю постепенно разбираться со всеми нюансами игры. И если всё задействовать, то выходит, что всё довольно органично вплетено, только надо думать, где, что и как использовать. И тогда всё можно сделать и всего будет хватать. В игре очень всё хорошо продумано. Просто сначала этого не видно...</rus>
+		<eng>I'm coming to understand all peculiarities of the game. If you use all your mental abilities, it turns that everything are at perfect spots, you just should always be careful, know how you could and should do. Than everything works out and you will have everything you need. All things are considered in this game. You just don't quite understand this at first...</eng>
+		<ukr>Починаю поступово розбиратися з усіма нюансами гри. І якщо все задіяти, то виходить, що все досить органічно вплетено, тільки треба думати, де, що і як використовувати. І тоді все можна зробити і всього буде вистачати. У грі дуже все добре продумано. Просто спочатку цього не видно... </ukr>
+	</string>
+	<string id="sms_uniq2_19">
+		<rus>У меня вопрос по взносам у Сидора. Зарезервировал я место на кладбище, на Генераторах (очень приличное место, скажу я вам), нашёл рюкзак в Деревне новичков, а там золотой гроб 90 кг и граната Ф1. Ещё и Сидор гроб забрал. Получается, я за 300к купил гранату Ф1?</rus>
+		<eng>I have one question about dues from Sidor. So I reserved a cemetery lot on Generators (very decent place, I should say), found a backpack in the Rookie village, and there a golden coffin weigh 90 kg and F1 grenade in it. And than Sidor took away those coffin. Looks like I purchased one three hundred thousandth F1 grenade?</eng>
+		<ukr>У мене питання по внесках у Сидора. Зарезервував я місце на кладовищі, на Генераторах (дуже пристойне місце, скажу я вам), знайшов рюкзак в Селі новачків, а там золоту труну 90 кг і граната Ф1. Ще й Сидор труну забрав. Виходить, я за 300К купив гранату Ф1? </ukr>
+	</string>
+	<string id="sms_uniq2_20">
+		<rus>Я первого своего Сталкера (Чистое Небо) до сих пор вспоминаю. Ночь, Рыжий лес, калаш и псевдогигант вылазит, рычит и топает... Такого больше не будет.</rus>
+		<eng>To this day I recall my first Stalker game (Clear Sky). Night, Red Forest, kalashnikov and a pseudogiant comes out, starts to roar and stamp... It wouldn't happen again.</eng>
+		<ukr>Я першого свого Сталкера (Чисте Небо) до сих пір згадую. Ніч, Рудий ліс, калаш і псевдогігант вилазить, гарчить і тупотить... Такого більше не буде. </ukr>
+	</string>
+	<string id="sms_uniq2_21">
+		<rus>Хочу на колесо обозрения в Припяти!\n%c[sender]Вескер\n%c[default]Там страшно, смотри не обозрись.</rus>
+		<eng>I want on the Ferris wheel in Pripyat!\n%c[sender]Vesker\n%c[default]It's terrifying up there, don't wet your pants.</eng>
+		<ukr>Хочу на колесо огляду в Прип'яті!\n%c[sender]Вескер\n%c[default]Там страшно, дивись не обкакайся.</ukr>
+	</string>
+	<string id="sms_uniq2_22">
+		<rus>Что-то у меня живот прихватило. Бармен, есть активированный уголь?\n%c[sender]Бармен\n%c[default]Активированный кончился, есть неактивированный. Но ты можешь послать СМС Потапу, он за небольшую плату пришлёт код активации.</rus>
+		<eng>Ooh, my stomach just rolled. Barkeep, do you have activated carbon?\n%c[sender]Barkeep\n%c[default]Activated carbon all gone, I have unactivated. But you can send SMS to Potap, he will send you an activation code for a small price.</eng>
+		<ukr>Щось у мене живіт прихопило. Бармен, є активоване вугілля?\n%c[sender]Бармен\n%c[default]Активоване закінчилось, є неактивоване. Але ти можеш послати СМС Потапу, він за невелику плату надішле код активації.</ukr>
+	</string>
+	<string id="sms_uniq2_23">
+		<rus>Зачищаю Юпитер в поисках ПДА для Димака. В самый разгар битвы сзади подходит жена, и пытаясь привлечь моё внимание, говорит: "Скажи, зачем тебе эти монстры, когда у тебя есть я?"</rus>
+		<eng>Cleaning up Jupiter for Dimak's PDA. In the middle of the fight, my wife approaches to me and trying to turn my attention, says: "Tell me, why do you need all these monsters if you got me?"</eng>
+		<ukr>Зачищаю Юпітер в пошуках КПК для Дімака. У самий розпал битви ззаду підходить дружина, і намагаючись привернути мою увагу, говорить: "Скажи, навіщо тобі ці монстри, коли у тебе є я?" </ukr>
+	</string>
+	<string id="sms_uniq2_24">
+		<rus>Это просто ужасно. Забрёл первый раз в Восточную Припять в поисках экзоскелета ЧД, так как сообщили, что Димак где-то тут. Жееесть! Налево пошёл - стая химер, направо - логово фанатиков, чуть не изрешетили. Хотел укрыться в школе (вроде там даже люди какие-то ходили) - так зомбаки это оказывается (мочииии!). Потерялся на этой безграничной земле. Сейчас сижу в подсобке магазина "Берёзка", вроде извне борьба химер, карликов и заноз уже закончилась... Только два сталкера каких-то бродят. Не нейтралы, это точно. Дыхание слышу, а меток на карте нету... Страшно выходить.</rus>
+		<eng>This is just horrible. So I wandered into the Eastern Pripyat for the first time, seeking for exoskeleton of the Black Doctor, as I was informed that Dimak somewhere there. Creeepy! Went left - pack of chimeres, went right - den of fanatics, barely got away. Wanted to hide in the school (seemed like someone were walking there) - it turned out they were zombies (Kill'eeeem!). I'm utterly bewildered on this wide lands. I'm sitting in the "Birch" shop storeroom, looks like fighting of chimeras, midgets and splinters is over... Just a couple of stalkers wandering outside. Not neutrals, it's certain. I can hear their breathing, but they have no contacts in PDA... I'm scared.</eng>
+		<ukr>Це просто жахливо. Забрів перший раз в Східну Прип'ять в пошуках екзоскелета ЧД, так як повідомили, що Дімак десь тут. Жееесть! Ліворуч пішов - зграя химер, направо - лігво фанатиків, мало не вбили. Хотів сховатися в школі (там навіть люди якісь ходили) - так, виявляється, це зомбаки.  Загубився на цій безмежній землі. Зараз сиджу в службовому приміщенні магазину "Берізка", схоже, ззовні боротьба химер, карликів і заноз вже закінчилася... Тільки два сталкери якихось бродять. Не нейтрали, це точно. Дихання чую, а міток на карті немає... Страшно виходити. </ukr>
+	</string>
+	<string id="sms_uniq2_25">
+		<rus>Жена позвала спать. Глянул на часы - было 21.45. Первая мысль, которая появилась в голове: "Блин, скоро Час Ужаса".</rus>
+		<eng>My wife came to get me go to sleep. Glanced at clock - it was 09.45 p.m. First thought that flashes into my mind: "Shoot, the Terror Time will start soon".</eng>
+		<ukr>Дружина покликала спати. Глянув на годинник - було 21.45. Перша думка, яка з'явилася в голові: "Блін, скоро Пора Жаху".</ukr>
+	</string>
+	<string id="sms_uniq2_26">
+		<rus>Тому, кто шлёпнет паренька на Кордоне, который постоянно говорит: "Не шелести тут особо", - расскажу, где я хабар прячу.</rus>
+		<eng>If someone bump off that fellow on Cordon, who keep saying: "Pipe down man", - I'll tell you, where my stash is located.</eng>
+		<ukr>Тому, хто хлопне хлопчину на Кордоні, який постійно говорить: "Не шелести тут особливо", - розповім, де я хабар ховаю.</ukr>
+	</string>
+	<string id="sms_uniq2_27">
+		<rus>Нашёл штаны на фабрике на Кордоне - не знаете, чьи они? А то выкидывать жалко, вдруг нужны кому?</rus>
+		<eng>Found a pair of pants on a factory in the Cordon - don't you know, whose they are? Because I don't if I will regret after throwing it away, maybe someone wanted them?</eng>
+		<ukr>Знайшов штани на фабриці на Кордоні - не знаєте, чиї вони? А то викидати шкода, раптом потрібні кому?</ukr>
+	</string>
+	<string id="sms_uniq2_28">
+		<rus>Детектор изоморфов - вещь! Приобрёл вот, не нарадуюсь.</rus>
+		<eng>Isomorph detector - cool stuff! Acquired not a long time ago, best thing I could wish.</eng>
+		<ukr>Детектор ізоморфів - оце річ! Придбав от, не натішусь.</ukr>
+	</string>
+	<string id="sms_uniq2_29">
+		<rus>Сообщение для Васи Девятого! Вась, у моей экзы навигатор глючит! Я ща на Армейских Складах, а навигатор мне внушает, что я чуть ли не во втором реакторе ЧАЭС! Чё за хрень? Лечилку скинь! Или мне надо к тебе в мастерскую заглянуть? А то мне уже Коля Халява мне прикол прислал, что я - новая легенда Зоны, Заблудившийся Танк!</rus>
+		<eng>Message for Vassya The Ninth! Hey, my exoskeleton navigation system start to malfunction! I'm on the Army Warehouses, but navigator convincing me, that I'm almost on the second CNPP reactor! What the fuck? Send me a fix! Or do I need to check your store? Cause Nick Freebie had already sent me a fun message about me - new Zone legend, The Strayed Tank!</eng>
+		<ukr>Повідомлення для Васі Дев'ятого! Вась, у моїй екзі навігатор глючить! Я зараз на Армійських Складах, а навігатор мені дурниці меле, що я мало не в другому реакторі ЧАЕС! Що за байда? Фікс скинь! Чи мені треба до тебе в майстерню заглянути? А то мені вже Коля Халява прикол надіслав, що я - нова легенда Зони - Загублений Танк! </ukr>
+	</string>
+	<string id="sms_uniq2_30">
+		<rus>Забытый Лес. Последние патроны извёл на зомби-лесника с топором, а на меня попёрли зомби-старушки. Хватаю его топор и вспоминаю Раскольникова, "Преступление и наказание": Тюк старушку по темечку топором! Извините за флуд.</rus>
+		<eng>Forgotten Forest. Last shells use up for zombie-forester with an ax, but than zombie-grannies attacked me. So I just take his ax and recall Raskolnikov, "Crime and Punishment": Dealt granny another and another blow with an axe on the same spot! Sorry for flood.</eng>
+		<ukr>Забутий Ліс. Останні набої витратив на зомбі-лісника з сокирою, а на мене поперли зомбі-бабусі. Хапаю його сокиру і згадую Раскольникова, "Злочин і кара": Хрясь стареньку по тім'ячку сокирою! Вибачте за флуд. </ukr>
+	</string>
+	<string id="sms_uniq2_31">
+		<rus>Наконец-то взял по честному тайник опытного сталкера в Красном Лесу. Драйв невероятный. Как и обещали. А раньше или телепортировался или ночью приходил, когда контролёры спали. Зря я это делал. Очень зря.</rus>
+		<eng>Finally picked up a stash of seasoned stalker in the Red Forest, no fool. Unbelievable drive. As was promised. Before I used to teleport or went there at night, when controllers were asleep. I shouldn't have done it. Really shouldn't have.</eng>
+		<ukr>Нарешті чесним способом дістався до схованки досвідченого сталкера в Червоному Лісі. Драйв неймовірний. Як і обіцяли. А раніше або телепортувався або вночі приходив, коли контролери спали. Даремно я це робив. Дуже даремно. </ukr>
+	</string>
+	<string id="sms_uniq2_32">
+		<rus>Наконец прошёл игру. Мне лично все понравилось. Игра получилась просто удивительной. Особенно понравились новые квесты. От некоторых просто пищал. Теперь пойду с женой помирюсь.</rus>
+		<eng>Finally finished the game. I liked all of it. The game went just amazingly. I enjoyed new quests especially. Some of them just struck me. Now I will go and make it up with my wife.</eng>
+		<ukr>Нарешті пройшов гру. Мені особисто все сподобалося. Гра вийшла просто дивовижною. Особливо сподобалися нові квести. Від деяких просто пищав. Тепер піду з дружиною помирюся. </ukr>
+	</string>
+	<string id="sms_uniq2_33">
+		<rus>Нашёл какие-то чертежи. Называются "Модуль чит-спавнера". Что это такое, знает кто?</rus>
+		<eng>Found some sketches. Called "Cheat-spawner module". What the heck is this, someone know?</eng>
+		<ukr>Знайшов якісь креслення. Називаються "Модуль чит-спавнера". Що це таке, знає хтось?</ukr>
+	</string>
+	<string id="sms_uniq2_34">
+		<rus>Пропал Захар. Может, кто подскажет, где его найти?\n%c[sender]Сталкер Бубулюка\n%c[default]Ясно, где: в предыдущих сейвах или в могиле. Увы, частенько в Зоне его обнуляют то вояки, то зверье приблудное, поэтому награди его маячком - как только он откинется, так похоронка сразу и придёт.</rus>
+		<eng>Zakhar have disappeared. Someone can tell me, where to find him?\n%c[sender]Stalker Bubulyuka\n%c[default]It is clear where: in previous saves or in the grave. Alas, military often put him out, or other straying beasts, so give him beacon - when he dies, message about his death will immediately come.</eng>
+		<ukr>Пропав Захар. Може, хтось підкаже, де його знайти?\n%c[sender]Сталкер Бубулюка\n%c[default]Ясно, де: в попередніх сейва або в могилі. На жаль, часто в Зоні його обнуляють то вояки, то звірина всяка, тому нагороди його маячком - як тільки він відкине лижі, так похоронка відразу і прийде. </ukr>
+	</string>
+	<string id="sms_uniq2_35">
+		<rus>Нет, не буду больше с похмела ходить в Зону - ну её к бюреру. Сегодня шкандыбаю за бухлом, а здесь один кент на реактивных кедах круги наяривает по деревьям вокруг поляны. Поначалу решил, что он зомбанутый, но приглядевшись понял, что скорей ужаленный в левое или правое полушарие мозга, на котором сидит. Пока до Бара добрался, уже и засомневался, что все это было на самом деле. Нет, больше с похмела в Зону ни ногой, лучше у Сидора втридорога бухло покупать буду.</rus>
+		<eng>No, no more drunk travels into the Zone - to hell with it. Today I'm just steering for booze, and here is some chap with jet-shoes flying circles among the trees near the clearing. I thought it was a zombified, but at the second look I understood that it was some freak, with defective left or right ass hemisphere. When I got to the Bar, I couldn't actually believe it really was there. No, wild boars couldn't drag me in the Zone drunk again, better pay triple price to Sidor next time for drinking.</eng>
+		<ukr>Ні, не буду більше з похмілля ходити в Зону - ну її до бюрера. Сьогодні йду за бухлом, а тут один кент на реактивних кедах кола наярює по деревах навколо галявини. Спочатку вирішив, що він зомбанутий, але придивившись, зрозумів, що скоріше ужалений в ліву або праву півкулю мозку, на якому сидить. Поки до Бара дістався, вже і засумнівався, що все це було насправді. Ні, більше з похмілля в Зону ні ногою, краще у Сидора втричі дорожче бухло купувати буду. </ukr>
+	</string>
+	<string id="sms_uniq2_36">
+		<rus>Нет, ну я понимаю, химеры прыткие. Но они же мутанты, маму их в реактор. А здесь один сталкер такие кульбиты вытворяет, что, как говорится: "Цирк отдыхает, клоуны плачут от досады в сторонке."</rus>
+		<eng>I know, yes, of course, chimeras are nimble. But they are mutants, damn it. But here one stalker making some backflips, as they say: "RIP circus, clowns are crying on a roadside."</eng>
+		<ukr>Ні, ну я розумію, химери прудкі. Але вони ж мутанти, маму їх в реактор. А тут один сталкер такі кульбіти витворяє, що, як то кажуть: "Цирк відпочиває, клоуни сумно плачуть." </ukr>
+	</string>
+	<string id="sms_uniq2_37">
+		<rus>Иду тут за хабаром к своей нычке и вижу картину маслом: один на всю голову ушибленный сталкер пытается добраться туда, куда и бюрер не заглядывал. Поржал и пошёл дальше - хрен его знает, что от такого сталка ожидать, так и на меня кинется...</rus>
+		<eng>So I go to my stash for loot and see such a picture: some crazy stalker trying to get where even burer would never look in. Laughed and went on - who knows what you can expect from such a stalker, maybe he could even dash on me, who knows...</eng>
+		<ukr>Іду тут за хабаром до своєї схованки і бачу картину маслом: один на всю голову прибитий сталкер намагається дістатися туди, куди і бюрер не заглядав. Поржав і пішов далі - хрін його знає, що від такого сталка очікувати, ще на мене накинеться... </ukr>
+	</string>
+	<string id="sms_uniq2_38">
+		<rus>Видел сегодня, как один сталкер чудеса акробатики проявлял. Такое впечатление, что таблеток наглотался - так резво прыгал. Может и правда под колёсами, снорком себя почувствовал. Зона...</rus>
+		<eng>Saw today how one stalker exhibit some acrobatic tricks. Springing like he was on drugs - that what I thought. Maybe really dope influence, felt that he is a snork. Zone...</eng>
+		<ukr>Бачив сьогодні, як один сталкер чудеса акробатики показував. Таке враження, що таблеток наковтався - так жваво стрибав. Може і правда під колесами, снорком себе відчув. Зона... </ukr>
+	</string>
+	<string id="sms_uniq2_39">
+		<rus>Кто-нибудь может помочь с зависом в Старой Деревне? Думаю, лог не нужен, так как у многих такой завис.\n%c[sender]Сталкер Бубулюка\n%c[default]Ты бы хоть сейв скинул, а то даже ума не приложу, как помочь. Если я пальцы веером разведу и из носа бульбу выпущу - наверное, слабо поможет.</rus>
+		<eng>Someone can help me with a glitch in Old Village? I think, log isn't required, as so many people had the same freeze.\n%c[sender]Stalker Bubulyuka\n%c[default]You should, at least, give a save file, otherwise I can't image how to help you. If I spread my fingers fan-shaped and blow a bubble out of my nose - it won't serve you much.</eng>
+		<ukr>Хто-небудь може допомогти з зависом в Старому Селі? Думаю, лог не потрібен, так як у багатьох такий завис.\n%c[sender]Сталкер Бубулюка\n%c[default]Ти б хоч сейв скинув, а то навіть не знаю, як допомогти. Якщо я пальці віялом розведу і з носа бульку випущу - напевно, слабо допоможе.</ukr>
+	</string>
+	<string id="sms_uniq2_40">
+		<rus>Третья неделя пошла, как я пытаюсь найти тайник Коллекционера на Затоне... Сил уже нет, где он. Помогите.</rus>
+		<eng>Third week passed in my tries to find Collector's stash on Zaton... I'm done, no success. Help me.</eng>
+		<ukr>Третій тиждень пішов, як я намагаюся знайти схованку Колекціонера на Затоні... Сил вже немає, де він. Допоможіть.</ukr>
+	</string>
+	<string id="sms_uniq2_41">
+		<rus>Вчера на своём запорожце разогнался по Зоне до 100 км/ч. Посоветуйте, чем отстирать г..вно на сиденьях? У меня велюр.</rus>
+		<eng>Yesterday with my Zaporozhets I accelerated in Zone up to 100km/h. Would someone advise me something to wash off s..t from seats? I have velours.</eng>
+		<ukr>Вчора на своєму запорожці розігнався по Зоні до 100 км/год. Порадьте, чим відіпрати г..вно на сидіннях? У мене велюр.</ukr>
+	</string>
+	<string id="sms_uniq2_42">
+		<rus>Ясность вносится по ходу процесса - через мозги, через опыт, через поиск, через настойчивость и терпение, и, если уж совсем туго - через ГИД. Зато знаете, сколько адреналина, сколько радости и сколько счастья, когда сам допрёшь, где тайник! Это - ни с чем не сравнимо!</rus>
+		<eng>Clearness is made as process unfolds - by the way of thinking, gaining experience, through persistence and patience, and only if you are having a real bad time - through the GIDE. But you know, how much adrenaline, how much pleasure and happiness you'll get when figure out by yourself where is the stash! It is - Very enjoyable!</eng>
+		<ukr>Ясність, розуміння з'являється по ходу процесу - через мізки, через досвід, через пошук, через наполегливість і терпіння, і, якщо вже зовсім туго - через ГІД. Зате знаєте, скільки адреналіну, скільки радості і скільки щастя, коли сам допреш, де схованка! Це - ні з чим не порівняти! </ukr>
+	</string>
+	<string id="sms_uniq2_43">
+		<rus>Только что залез, наконец, на самую высокую крышу на Юпитере - радости нет предела!!! Когда в юности в институт поступил - меньше радовался!</rus>
+		<eng>Right now, finally, climbed on the highest roof on Jupiter - unbelievable rejoicement!!! Even when in youth entered the institute - I was less proud about it!</eng>
+		<ukr>Тільки що заліз, нарешті, на найвищий дах на Юпітері - радості немає меж!!! Коли в юності до інституту вступив - менше радів! </ukr>
+	</string>
+	<string id="sms_uniq2_44">
+		<rus>Наконец-то закончил квест по экзе Чёрного Доктора. Сразу не решился за него взяться, а сейчас понимаю, что зря. Пожалуй, это один из самых интересных, действительно интересных квестов во всей Зоне. Сколько было произнесено ругательств, сколько потрачено часов на перепрохождение... сколько убито монстров и отстреляно боеприпасов. И на каждом повороте сюжета всё казалось, что вот она, эта экза, у меня в кармане - ан нет, приходилось заново куда-то бежать. И вот, без надежды на получение приза, топаю к Ариадне на базу Чистого Неба и... вот вам и приз. Бегу, хватаю экзу, и радый, что кончились мучения... И вдруг понимаю, что этого мало, что хочется ещё продолжения... Очень интересно, атмосферно, запутанно и сложно. Отличнейший квест.</rus>
+		<eng>Finally, Black Doctor's exo quest is completed. I didn't venture to take it for the first time, now I realize it was a slip. Looks like, it is one of the most interesting, really entertaining quest in all Zone. How many swearwords were spoken, how many hours was spent on a re-plays... how many monsters killed and ammos shot. At almost every plot twist I kept fancying that this is here, this exo-suit, in my pocket - not at all, I need to run somewhere again. And here, without any hope to get my prize, tramping to Ariadne on the Clear Sky base and... here you are. Running, grabbing this exo-suit, glad that at last those torments are over... But suddenly realizing, that it wasn't enough, and I want some sequel... Very interesting, intricately and tough. Excellent quest.</eng>
+		<ukr>Нарешті закінчив квест на екзу Чорного Доктора. Відразу не наважився за нього взятися, а зараз розумію, що даремно. Мабуть, це один з найцікавіших, дійсно цікавих квестів у всій Зоні. Скільки було вимовлено лайок, скільки витрачено годин на перепроходження... скільки вбито монстрів і відстріляно боєприпасів. І на кожному повороті сюжету все здавалося, що ось вона, ця екза, у мене в кишені - аж ні, доводилося заново кудись бігти. І ось, без надії на отримання призу, топаю до Аріадни на базу Чистого Неба і... ось вам і приз. Біжу, хапаю екзу, і радий, що скінчилися муки... І раптом розумію, що цього мало, що хочеться ще продовження... Дуже цікаво, атмосферно, заплутано і складно. Відмінний квест. </ukr>
+	</string>
+	<string id="sms_uniq2_45">
+		<rus>Ну вот, игра, наконец, пройдена. Больше 10 месяцев поисков, борьбы, страданий, переживаний, радостей и горестей, потерь и находок, удач и поражений. Было трудно, очень трудно. Но зато как интересно! Мои домашние вздохнули от удивления, когда я вернулся в семью. Но я их огорчил, сказав, что скоро, может быть, выйдет ОП-3...</rus>
+		<eng>Well, the game is finally finished. More than 10 months of searching, struggle, suffering, trials, joyance and afflictions, losses and finds, successes and defeats. It was tough, really tough. But how interesting! Members of my household were relieved and surprised when I came back into family. But I distressed them, by saying that, maybe, CP-3 will come out soon...</eng>
+		<ukr>Ну ось, гра, нарешті, пройдена. Більше 10 місяців пошуків, боротьби, страждань, переживань, радощів та смутку, втрат і знахідок, успіхів і поразок. Було важко, дуже важко. Але зате як цікаво! Мої домашні зітхнули від подиву, коли я повернувся в сім'ю. Але я їх засмутив, сказавши, що скоро, можливо, вийде ОП-3... </ukr>
+	</string>
+	<string id="sms_uniq2_46">
+		<rus>Всем привет! Начал игру. Ещё не ушёл с Кордона, а уже погиб больше 10 раз. Здорово. Теперь реально похоже на Зону, а не на овощную базу!</rus>
+		<eng>Greetings to everyone! Just started the game. Still on Cordon, but already died more than 10 times. Cool. Now it is a real Zone, not some kind of vegetable warehouse!</eng>
+		<ukr>Всім привіт! Почав гру. Ще не пішов з Кордону, а вже загинув більше 10 разів. Чудово. Тепер реально схоже на Зону, а не на овочеву базу!</ukr>
+	</string>
+	<string id="sms_uniq2_47">
+		<rus>Ну что же... Порой хочется себе стереть память и начать играть снова. Именно сначала. Я играю в Солянку, начиная только с самой последней версии, то есть, когда она доведена уже до отличного, последнего уровня развития. Меня захватил этот огромный и воистину живой мир, где совершенно не знаешь, что тебя ждёт. Зона живёт своей жизнью, ей нет дела до главного героя. Он - просто часть Зоны, которую ждёт очень много опасностей, захватывающих дух сцен и шикарной атмосферы. </rus>
+		<eng>Well... Sometimes you just want to erase memory and start to play from the beginning. Straight from the beginning. I'm playing Solyanka beginning only with the very last build, i.e., when it was brought to an excellent, last standard of development. I was just seized by this huge and indeed living world, where you are never positive about what is waiting for you. Zone is living its own life, the main character doesn't affects it. He - is a just part of Zone, and dangers lay before this part, breath-snatching scenes and magnificent atmosphere. </eng>
+		<ukr>Ну що ж... Часом хочеться собі стерти пам'ять і почати грати знову. Саме спочатку. Я граю в Солянку, починаючи тільки з самої останньої версії, тобто, коли вона доведена вже до відмінного, останнього рівня розвитку. Мене захопив цей величезний і воістину живий світ, де зовсім не знаєш, що тебе чекає. Зона живе своїм життям, їй немає діла до головного героя. Він - просто частина Зони, яку чекає дуже багато небезпек, захоплюючих дух сцен і шикарної атмосфери. </ukr>
+	</string>
+	<string id="sms_uniq2_48">
+		<rus>Да уж, самый первый момент в игре - когда ты ещё не пресыщен различными стволами, брониками и прочим. На тебе обычный свитерок, макар в руке и каждый патрон на счету, когда тебя может загрызть любой обкаканый крысёнок, когда от малейшей дозы радиации, от любой аномалии можешь погибнуть, вот тут да, тут адреналин бурлит. Очень люблю начинать игру с "чистого листа". Извините за оффтоп и засорение канала.</rus>
+		<eng>Well yeah, the very first moment in the game - when you aren't yet loaded with various guns, suits and else. When you are wearing casual sweater, with a makarov in your hand and every shell counts, when every fucking rat could bite you to death, when you could die from any anomaly or smallest dose of radiation, right here, the adrenaline is rushing. I like they way the game begins from a "clean slate". Excuse me for offtopic and channel clogging.</eng>
+		<ukr>Так от, найперший момент в грі - коли ти ще не пересичений різною зброєю, бронежилетами та іншим. На тобі звичайний светр, макаров в руці і кожен патрон на рахунку, коли тебе може загризти будь обкаканий пацючок, коли від найменшої дози радіації, від будь-якої аномалії можеш загинути, ось тут так, тут адреналін вирує. Дуже люблю починати гру з "чистого аркуша". Вибачте за оффтоп і засмічення каналу. </ukr>
+	</string>
+	<string id="sms_uniq2_49">
+		<rus>Для меня самая интересная игра была Чистое Небо - я поздно пришёл к компьютерным играм. Я ничего не понимал ни в компьютерах, ни в игре, но как я радовался после двух недель игры, что научился торговать! А когда глубокой ночью мы (я и ГГ) увидели псевдогиганта, я понял: эта тварь мне пока не по силам. Но мне было безумно интересно исследовать Зону. Потом был ТЧ, ЗП, а потом новый комп, интернет и... Но первые впечатления от игры не забудутся никогда. Кстати, после знакомства с Зоной ни во что, кроме Сталкера, и не могу играть. Это диагноз.</rus>
+		<eng>For me the most interesting game was Clear Sky - it took a long for me start playing computer games. I knew nothing of computers or this game either, but how I enjoyed, after two weeks of gameplay, that I could trade actually! And when in the middle of the night we (me and protagonist) saw a pseudogiant, I knew: this beast is way too tough for me. But I was thrilled about exploring the Zone. Then was SoC, CoP, and then new PC, internet and so... But first impressions would never be forgotten. By the way, after acquaintance with the Zone, I can't play anything, except Stalker. This is a diagnosis.</eng>
+		<ukr>Для мене найцікавіша гра була Чисте Небо - я пізно прийшов до комп'ютерних ігор. Я нічого не розумів ні в комп'ютерах, ні в грі, але як я радів після двох тижнів гри, що навчився торгувати! А коли пізно вночі ми (я і ГГ) побачили псевдогіганта, я зрозумів: ця тварюка мені поки не під силу. Але мені було дуже цікаво досліджувати Зону. Потім був ТЧ, ЗП, а потім новий комп, інтернет і... Але перші враження від гри не забудуться ніколи. До речі, після знайомства з Зоною ні в що, крім Сталкера, і не можу грати. Це діагноз. </ukr>
+	</string>
+	<string id="sms_uniq2_50">
+		<rus>Друзья, подскажите, как перекрасить кровососа? Ну тот, который розовый, в муарных узорах? Меня дочка прокляла за то, что я убил "такого красивенького и гламурненького кровососика" и пообещала отформатировать мой комп, если я буду продолжать истребление гламура в Зоне...</rus>
+		<eng>Friends, give me a tip, how to recolour a bloodsucker? The pink one, with muarous patterns? My daughter cursed me for killing "such a pretty and glamoury bloodsucker" and promised to format my PC, if I will keep to exterminate glamour in the Zone...</eng>
+		<ukr>Друзі, підкажіть, як перефарбувати кровососа? Ну той, який рожевий, в муарних візерунках? Мене дочка прокляла за те, що я вбив "такого гарненького і гламурненького кровососика" і пообіцяла відформатувати мій комп, якщо я буду продовжувати винищення гламуру в Зоні... </ukr>
+	</string>
+	<string id="sms_uniq2_51">
+		<rus>Сталкеры! Я взял задание на охоту на контролёров - обещали не хило заплатить. Так что если увидите контриков на Свалке или в X-16, то не валите их - они мои.</rus>
+		<eng>Stalkers! I took an assignment hunting for controllers - a round sum was promised. So when you happen to see contres at the Garbage or in X-16, don't kill em - they mine.</eng>
+		<ukr>Сталкери! Я взяв завдання на полювання на контролерів - обіцяли багато заплатити. Так що якщо побачите контрика на Звалищі або в X-16, то не валіть їх - вони мої. </ukr>
+	</string>
+	<string id="sms_uniq2_52">
+		<rus>Подскажите в приват по тайнику Коллекционера на Свалке. Уже все кучи облазил, полные яйца радиации, детей теперь у меня точно не будет...</rus>
+		<eng>Help me with a private message about Collectioner's stash at Garbage. Went through every pile already, full balls of radiation, now I definitely wouldn't have kids...</eng>
+		<ukr>Підкажіть в приват по схованці Колекціонера на Звалищі. Уже всі купи облазив, повні яйця радіації, дітей тепер у мене точно не буде... </ukr>
+	</string>
+	<string id="sms_uniq2_53">
+		<rus>Народ, уже четвёртые сутки ищу на Радаре тайник Коллектора, который на горбу монстра, покидающего Зону. Ну хоть чем-нибудь намекните в приват, где он? Благодарность - 10% от вырученного хабара.</rus>
+		<eng>Dudes, for four days I've been looking for Collector's stash on Radar, the one on the hump of a monster leaving the Zone. If you would only give me some hint in private msg, where is it? My gratitude - 10% from realized loot.</eng>
+		<ukr>Народ, вже четверту добу шукаю на Радарі тайник Колектора, який на горбу монстра, що залишає Зону. Ну хоч чимось натякніть в приват, де він? Подяка - 10% від вирученого хабара. </ukr>
+	</string>
+	<string id="sms_uniq2_54">
+		<rus>Люди, пошли пятые сутки, как ищу я тайник Коллектора в районе туннеля в Лиманске. Подскажите в приват, хоть в районе какого туннеля искать? Того, что с Красного Леса идёт, или тех, что на речке?</rus>
+		<eng>Guys, I have been looking for Collector's stash near tunnel in Limansk for the fifth day now. Help with a private message, what tunnel exactly to check, at least? The one from Red Forest, or those on the river?</eng>
+		<ukr>Люди, пішла п'ята доба, як я шукаю схованку Колектора в районі тунелю в Ліманську. Підкажіть в приват, хоч в районі якого тунелю шукати? Того, що з Червоного Ліси йде, або тих, що на річці? </ukr>
+	</string>
+	<string id="sms_uniq2_55">
+		<rus>Ох, братцы! Не берите у Ноя квест на волну мутантов. Я взял - уже третий день бьюсь с ними. Не ел, не пил, не спал, даже в туалет сходить некогда. На пальцах уже мозоли с три горошины от работы курком - а они все не кончаются. Еле вырвал паузу, чтобы это СМС написать.</rus>
+		<eng>Eh, fellows! Don't take Noah's quest for wave of mutants. I took - for three days been struggling with it. Didn't eat, didn't drink, no time even for toilet. I have heavy corns on my fingers from non-stop pulling the trigger - they just won't stop. Hardly pulled out a pause to write this SMS.</eng>
+		<ukr>Ох, братці! Не беріть у Ноя квест на хвилю мутантів. Я взяв - вже третій день б'юся з ними. Не їв, не пив, не спав, навіть в туалет сходити ніколи. На пальцях вже мозолі з три горошини від роботи курком - а вони все не закінчуються. Ледь викраяв хвилинку, щоб це СМС написати. </ukr>
+	</string>
+	<string id="sms_uniq2_56">
+		<rus>Народ, нашёл в Х-16 труп отмычки Призрака, спрыгнул в туннели, иду - какие-то придурки кричат мне вслед, чтобы я уходил отсюда. Не подскажете, что за фигня?</rus>
+		<eng>People, found a body of Ghost's "picklock" in X-16, jumped into tunnels, walking - some freaks shout after me, demanding to leave. Tell me please, what the hell is going on?</eng>
+		<ukr>Народ, знайшов в Х-16 труп відмички Примари, стрибнув у тунель, йду - якісь придурки кричать мені вслід, щоб я йшов звідси. Чи не підкажете, що за фігня? </ukr>
+	</string>
+	<string id="sms_uniq2_57">
+		<rus>Разбираюсь я тут с женой Сахарова, куда могла подеваться эта красавица в Зоне? Есть наводка, что её видели на Генераторах, где битва двух монстров. Прошу помощи - где это? Какие ещё есть опознавательные знаки?</rus>
+		<eng>Sorting out things with Sakharov's wife, where this pretty could be in the Zone? I have a pointer, that she were seen on Generators, where is the battle of two monsters. Requiring help - where is this? What else markings are there?</eng>
+		<ukr>Розбираюся я тут з дружиною Сахарова, куди могла подітися ця красуня в Зоні? Є наводка, що її бачили на Генераторах, де битва двох монстрів. Прошу допомоги - де це? Які ще є розпізнавальні знаки? </ukr>
+	</string>
+	<string id="sms_uniq2_58">
+		<rus>Фух, прошёл я, наконец, "Снайпера". Когда вернулся на Скадовск после последнего тайника, единственным желанием было подорвать двадцатью залпами из шмелей всю эту компанию, а заодно и всех авторов, придумавших этот кошмар!!! Чтобы даже малейшего следа от них не осталось! Очень жаль, что они все бессмертные... Очень.</rus>
+		<eng>Ooh, I finally completed "Sniper". When I came back from Skadovsk after last stash, the only wish was to blow up with twenty "shmels" blasts all this crew, and all authors as well, who had designed all this nightmare!!! So not even a slight trace left of them! It is so unfortunate that they all are immortal... Very unfortunate.</eng>
+		<ukr>Фух, пройшов я, нарешті, "Снайпера". Коли повернувся на Скадовськ після останньої схованки, єдиним бажанням було підірвати двадцятьма залпами з джмелів всю цю компанію, а заодно і всіх авторів, які придумали цей жах!!! Щоб навіть найменшого сліду від них не залишилося! Дуже шкода, що вони всі безсмертні... Дуже. </ukr>
+	</string>
+	<string id="sms_uniq2_59">
+		<rus>Всё - прошёл я, наконец, "Снайпера"! Было сломано четыре клавиатуры, два стула, одна мышь и со психа трижды выкидывал монитор в окно. Все пальцы на обеих руках повывихнуты. Но, поверьте, оно того стоило!!!</rus>
+		<eng>That's it - "Sniper" is finished, finally! Four keyboards, two chairs, one mouse were broken and I was so angry that three times threw my monitor out of the window. All fingers on both hands are turnouted. But, trust me, it was worth it!!!</eng>
+		<ukr>Все - пройшов я, нарешті, "Снайпера"! Було зламано чотири клавіатури, два стільці, одна миша і з нервів тричі викидав монітор у вікно. Всі пальці на обох руках повивихував. Але, повірте, воно того варте!!! </ukr>
+	</string>
+	<string id="sms_uniq2_60">
+		<rus>Долбил кувалдой библиотекарей на Болоте. Кому выставить счёт за сломанную мышь?</rus>
+		<eng>Been chiseling librarians with a sledgehammer on Swamps. To who present the bill for a broken mouse?</eng>
+		<ukr>Довбав кувалдою бібліотекарів на болоті. Кому виставити рахунок за зламану мишку?</ukr>
+	</string>
+	<string id="sms_uniq2_61">
+		<rus>Нужен один сильный мужик, чтобы смог поднять двух других. Просто до рюкзака достать не можем. Отплатим хабаром, который достанем.</rus>
+		<eng>I need one strong fellow to lift up two others. We just can't get to a bag. Reward is loot, which we will get.</eng>
+		<ukr>Потрібен один сильний мужик, щоб зміг підняти двох інших. Просто до рюкзака дістатись не можемо. Відплатимо хабаром, який дістанемо. </ukr>
+	</string>
+	<string id="sms_uniq2_62">
+		<rus>За время, пока я пытался запрыгнуть за тайником Фенрира на Кордоне за территорией, словарный запас новисов в деревне существенно обогатился.</rus>
+		<eng>During the period I've been trying to jump over for Fenrir's stash on Cordon, behind the territory, newbie's vocabulary in the village is stretched substantially.</eng>
+		<ukr>За той час, поки я намагався застрибнути за схованкою Фенріра на Кордоні за територією, словниковий запас новачків в селі істотно збагатився. </ukr>
+	</string>
+	<string id="sms_uniq2_63">
+		<rus>Люди, даю бесплатный совет: если в Жарку кинуть болт, то можно спокойно сквозь неё пробежать!</rus>
+		<eng>Guys, I'm giving you a free advise: if to throw a bolt into Burner, you could easily run past it!</eng>
+		<ukr>Люди, даю безкоштовну пораду: якщо в Жарку кинути болт, то можна спокійно крізь неї пробігти!</ukr>
+	</string>
+	<string id="sms_uniq2_64">
+		<rus>Сегодня в 2 часа ночи у дороги к Бару (со стороны Свалки) спёрли запорожец. Цвет - ржавчина с молоком, нет дверей и крышки багажника. Примерно в час ночи около запора крутился контролёр (одет в одни драные штаны), долго гундел, что моя развалюха никому не нужна. Если кто видел этого отморозка - сообщите. Награда гарантирована.</rus>
+		<eng>Today at 2 o'clock in the morning at the road to Bar (from the direction of Garbage) was stolen Zaporozhets. Colour - rust with milk, no doors and trunk. At around one o'clock a.m. near my zapor was rambling a controller (wearing one tattered britches), mumbled for a long time, that my jalopy is worthless. If someone saw this jerk - tell me. The reward is guaranteed.</eng>
+		<ukr>Сьогодні о 2 годині ночі біля дороги до Бару (з боку Звалища) викрали запорожець. Колір - іржа з молоком, немає дверей і кришки багажника. Приблизно о першій годині ночі близько запору крутився контролер (одягнений в одні драні штани), довго бубнів, що моя руїна нікому не потрібна. Якщо хто бачив цього відморозка - повідомте. Нагорода гарантована. </ukr>
+	</string>
+	<string id="sms_uniq2_65">
+		<rus>Легко хохмить, будучи модератором. А нормальным пацанам каждое слово приходится обдумывать.</rus>
+		<eng>It is easy to gag, being a moderator. And ordinary guys need to weigh every word they are saying.</eng>
+		<ukr>Легко жартувати, будучи модератором. А нормальним пацанам кожне слово доводиться обмірковувати.</ukr>
+	</string>
+	<string id="sms_uniq2_66">
+		<rus>Скажите, а что будет давать Воронин за доки? Вот думаю стать пионером, бумагу пособирать, да не знаю, когда лучше этот квест брать...</rus>
+		<eng>Tell me, what Voronin will give you for docs? Thinking about becoming a pioneer, collect some paper, but I don't know when is better to take this quest...</eng>
+		<ukr>Скажіть, а що буде давати Воронін за доки? Ось думаю стати піонером, папір позбирати, та не знаю, коли краще цей квест брати... </ukr>
+	</string>
+	<string id="sms_uniq2_67">
+		<rus>Блин, не могу запрыгнуть за тайником. Возможно, тому виной, ну, например, тормоза железа... практически незаметные, но при этом не дающие "вовремя" прыгнуть.\n%c[sender]Пропер Семидесятый\n%c[default]Железо тут ни при чем. На прыжке оно не тормозит. Практика показывает, что в 99.99% случаях в компьютере тормозит деталь, которая находится перед монитором.</rus>
+		<eng>Damn, can't jump to the stash. Maybe it's a glitches in my hardware, well, for instance... practically unnoticeable, but preventing me to jump "timely".\n%c[sender]Proper the Seventieth\n%c[default]Hardware is nothing to do with this. It doesn't glitches on a jump. Practice shows, that in 99.99% of cases in a computer, glitches the part that is sitting right in front of the monitor.</eng>
+		<ukr>Шляк трафить, не можу дострибнути до схованки. Можливо, у цьому винні, ну, наприклад, гальма заліза... практично непомітні, але при цьому не дають "вчасно" стрибнути.\n%c[sender]Пропер Семидесятый\n%c[default]Залізо тут ні при чому. На стрибку воно не гальмує. Практика показує, що в 99.99% випадках в комп'ютері гальмує деталь, яка знаходиться перед монітором.</ukr>
+	</string>
+	<string id="sms_uniq2_68">
+		<rus>Всё, нашёл последний тайник Коллекционера. Сколько слёз было пролито и матерных слов произнесено - лучше умолчать...</rus>
+		<eng>That's it, last stash of Collectioner is found. Better not to say about amounts of tears and swearing were spilled and said...</eng>
+		<ukr>Все, знайшов останню схованку Колекціонера. Скільки сліз було пролито і матюків вимовлено - краще промовчати...</ukr>
+	</string>
+	<string id="sms_uniq2_69">
+		<rus>О, разжился красным мозгом контрика! Лежит в нычке. Главное, чтоб не испортился, как грибы.</rus>
+		<eng>Oh, got hold red brain of a controller! Put it in a stash. The main thing now is keep it, so it doesn't decay, like mushrooms.</eng>
+		<ukr>О, розжився червоним мозком контрика! Лежить в ничці. Головне, щоб не зіпсувався, як гриби.</ukr>
+	</string>
+	<string id="sms_uniq2_70">
+		<rus>Притащил я Сидору все экзы, да нанокостюм "Стальной крыс". А был одет тоже в такой же костюм. Пока я разгружался, он под шумок и мой собственный Крыс стащил. И вот стою я голый, в одном свитерочке, посреди бункера и ничего не понимаю... Люди, будьте бдительны, а то этот Сидорович вас как липку обдерёт!</rus>
+		<eng>Brought to Sidor all exo-suits and nano-suit "Steel rat". Was wearing the same suit by myself. While I was unloading all this stuff, and on the quiet he swiped my Rat too. And there I am naked, wearing only a sweater, in the middle of the bunker, bewildered... People, be awake, or Sidorovich will fleece you!</eng>
+		<ukr>Притягнув я Сидору всі екзи і нанокостюм "Сталевий щур". А був одягнений теж в такий самий костюм. Поки я розвантажувався, він під шумок і мій власний Щур стягнув. І ось стою я голий, в одному светрику, посеред бункера і нічого не розумію... Люди, будьте пильні, а то цей Сидорович вас як липку обдерёт! </ukr>
+	</string>
+	<string id="sms_uniq2_71">
+		<rus>Сделал в Баре 5 нычек, одна возле другой. Весь хабар на месте.\n%c[sender]Сталкер Бубулюка\n%c[default]Ты что, там картошку сажаешь?</rus>
+		<eng>Put in the Bar 5 stashes, one near another. All loot at one place.\n%c[sender]Stalker Bubulyuka\n%c[default]What are you, planting potatoes there?</eng>
+		<ukr>Зробив в Барі 5 схованок, одна біля одної. Весь хабар на місці.\n%c[sender]Сталкер Бубулюка\n%c[default]Ти що, картоплю там садиш?</ukr>
+	</string>
+	<string id="sms_uniq2_72">
+		<rus>Пошёл на ЧАЭС-2. В общем, уж и не помню, зачем пошёл-то...</rus>
+		<eng>Went to CNPP-2. All in all, can't remember already, why I went...</eng>
+		<ukr>Пішов на ЧАЕС-2. Загалом, вже й не пам'ятаю, навіщо пішов...</ukr>
+	</string>
+	<string id="sms_uniq2_73">
+		<rus>Не могу найти тайник Волка на Радаре. Ну, Волк, погоди!</rus>
+		<eng>Can't find Wolf's stash on Radar. Well, just you wait, Wolf!</eng>
+		<ukr>Не можу знайти схованку Вовка на Радарі. Ну, Вовк, постривай!</ukr>
+	</string>
+	<string id="sms_uniq2_74">
+		<rus>Иду к Повару говорить насчёт гранатомёта. Подскажите, чтоб два раза не ходить, Повару закуску брать?</rus>
+		<eng>I'm going to Chef talk about grenade-gun. Tell me, so I won't go twice, should I take snacks for him?</eng>
+		<ukr>Іду до Кухаря розмовляти щодо гранатомета. Підкажіть, щоб два рази не ходити, Кухареві закуску брати?</ukr>
+	</string>
+	<string id="sms_uniq2_75">
+		<rus>Костя, куда ты заныкал свой тайник на Янтаре? Уже третий день не могу найти!</rus>
+		<eng>Kostya, where did you put this stash on Yantar? Trying to find it for three days already!</eng>
+		<ukr>Костя, куди ти заникав свою схованку на Янтарі? Уже третій день не можу знайти!</ukr>
+	</string>
+	<string id="sms_uniq2_76">
+		<rus>Подскажите в приват, какой тропкой лучше тащить сейф Сяку? Чтобы монстров да аномалий поменьше. А то иначе не донесу.</rus>
+		<eng>Tell me with a private message, which track should I bring safe box to Syak? Better less anomalies and monsters. I wouldn't bring it there else way.</eng>
+		<ukr>Підкажіть в приват, який стежкою краще тягти сейф Сяку? Щоб монстрів та аномалій поменше. А то інакше не донесу.</ukr>
+	</string>
+	<string id="sms_uniq2_77">
+		<rus>Допрыгался я за тайниками... опять кресло офисное сломал.</rus>
+		<eng>Got it with stashes... office chair is broken again.</eng>
+		<ukr>Дострибався я за схованками... знову крісло офісне зламав.</ukr>
+	</string>
+	<string id="sms_uniq2_78">
+		<rus>Когда идёшь по квесту, смотришь на часы: 7:10. Поиграл 15 мин, опять смотришь, уже 21:55.\nКогда варишь артефакт, смотришь на часы: 10:30. Открыл спальник, заснул на 8 часов, открываешь глаза - 10:31 и Выброс...</rus>
+		<eng>When you are going with a quest, looking at watch: 7:10 a.m. Played for 15 mins, looking again, it's 9:55 p.m.\nWhen you are cooking an artifact, looking at watch: 10:30 a.m. Opened your sleeping bag, laid down for 8 hours, opened your eyes - 10:31 a.m. and Emission...</eng>
+		<ukr>Коли йдеш по квесту, дивишся на годинник: 7:10. Пограв 15 хв, знову дивишся, вже 21: 55.\nКоли вариш артефакт, дивишся на годинник: 10:30. Відкрив спальник, заснув на 8 годин, відкриваєш очі - 10:31 і Викид... </ukr>
+	</string>
+	<string id="sms_uniq2_79">
+		<rus>Всё, я не знаю, какой там есть уникальный и хитрый путь на здание посреди ЧАЭС-2 с одной антенной, которое между двух кранов... уже все варианты перепробовал, все руки ободрал, все ноги переломал, все бока отбил - сдаюсь. Если кто знает, подскажите в приват - очень нужно. И вообще, есть ли он?</rus>
+		<eng>That's it, I don't know, what is this unique and intricate way on a building, in the middle of CNPP-2 with one antenna and between two cranes... tried all variants, all hands are scraped, all legs are broken, all sides are beaten off - I give up. If somebody know, tell me with private message - I really need it. And in general, it exists anyway?</eng>
+		<ukr>Все, я не знаю, який там є унікальний і хитрий шлях на будівлю посеред ЧАЕС-2 з однією антеною, яка між двох кранів... вже всі варіанти перепробував, всі руки обдер, всі ноги переламав, усі боки відбив - здаюся. Якщо хто знає, підкажіть в приват - дуже потрібно. І взагалі, чи є він? </ukr>
+	</string>
+	<string id="sms_uniq2_80">
+		<rus>Вчера так быстро убегал от псевдогиганта, что уже на втором круге догнал его и напал сзади. Нечего меня пугать!</rus>
+		<eng>Ran away from pseudogiant so fast yesterday, that on the second lap overtook him and struck from behind. Don't frighten me!</eng>
+		<ukr>Вчора так швидко тікав від псевдогіганта, що вже на другому колі наздогнав його і напав ззаду. Нічого мене лякати!</ukr>
+	</string>
+	<string id="sms_uniq2_81">
+		<rus>Погиб сталкер. Затон. Скадовск. Умер от смеха.\n%c[sender]Сталкер Бубулюка\n%c[default]Это не я!</rus>
+		<eng>The stalker died. Zaton. Skadovsk. Died of laughter.\n%c[sender]Stalker Bubulyuka\n%c[default]That's not me!</eng>
+		<ukr>Загинув сталкер. Затон. Скадовськ. Помер від сміху.\n%c[sender]Сталкер Бубулюка\n%c[default]Це не я!</ukr>
+	</string>
+	<string id="sms_uniq2_82">
+		<rus>В группировке "Контролёры" никто не состоит?\n%c[sender]Сталкер Бубулюка\n%c[default]Я состою и контролирую зверопотоки по периферии. А собственно, в чем дело? Нужна подмога? Скидывай СМС, разберёмся.</rus>
+		<eng>No one is in a "Controllers" clan?\n%c[sender]Stalker Bubulyuka\n%c[default]I'm in it and control beastflows on a periphery. What's the matter? Need help? Send SMS, we'll deal with it.</eng>
+		<ukr>В угрупованні "Контролери" ніхто не перебуває?\n%c[sender]Сталкер Бубулюка\n%c[default]Я перебуваю і контролюю звіропотоки по периферії. А власне, в чому справа? Потрібна підмога? Скидай СМС, розберемося.</ukr>
+	</string>
+	<string id="sms_uniq2_83">
+		<rus>Только что видал, как один сталкер с колеса обозрения шлёпнулся! Меня чуть от смеха не разорвало!</rus>
+		<eng>Saw recently, how one stalker plopped down from the ferris wheel! I almost exploded with laugh!</eng>
+		<ukr>Тільки що бачив, як один сталкер з колеса огляду гепнувся! Мене ледь від сміху не розірвало!</ukr>
+	</string>
+	<string id="sms_uniq2_84">
+		<rus>От Бармен! Водки, сигарет да ещё и сигар ему принеси! А мне что останется?</rus>
+		<eng>Damn Barkeep! Bring him vodka, cigarettes and cigars! What do I got from it?</eng>
+		<ukr>Отже ж Бармен! Горілки, сигарет та ще й сигар йому принеси! А мені що залишиться?</ukr>
+	</string>
+	<string id="sms_uniq2_85">
+		<rus>30 АК-47... вот умора, оружейный барон Кузя! Гы-гы...\n%c[sender]Кузнецов\n%c[default]Всем, кто видел или знает местонахождение отправившего это сообщение, срочно скиньте координаты. И не убивайте его - он мой.</rus>
+		<eng>30 AK-47... what a joke, lord of war Kuzya! He-he...\n%c[sender]Kuznetsov\n%c[default]Everyone, who saw or know location of sender of this message, urgently send me coordinates. And don't kill him - he is mine.</eng>
+		<ukr>30 АК-47... от сміхота, збройовий барон Кузя! Ги-ги...\n%c[sender]Кузнецов\n%c[default]Всім, хто бачив або знає місцезнаходження відправивника цього повідомлення, терміново скиньте координати. І не вбивайте його - він мій.</ukr>
+	</string>
+	<string id="sms_uniq2_86">
+		<rus>Народ, займите лимон 990 штук для Скряги. Как только переговорю с ним - сразу все верну.</rus>
+		<eng>People, lend me one million 990 grand for Skinflint. Just as I talk over with him - will return it immediately.</eng>
+		<ukr>Народ, позичте мільйон 990 тисяч для Скряги. Як тільки побалакаю з ним - відразу все поверну.</ukr>
+	</string>
+	<string id="sms_uniq2_87">
+		<rus>Собрал 8000000 денег, 250 артефактов, 300 аптечек и 10000 патронов. Чё делать с этой фигнёй - не знаю, положил в трубу.</rus>
+		<eng>Collected 8000000 money, 250 artifacts, 300 medkits and 10000 ammunition. What to do with all this stuff - don't know, put it in a pipe.</eng>
+		<ukr>Зібрав 8000000 гривень, 250 артефактів, 300 аптечок і 10000 патронів. Че робити з цією фігнею - не знаю, поклав в трубу.</ukr>
+	</string>
+	<string id="sms_uniq2_88">
+		<rus>Иду по Зоне час, второй, и чувствую, что что-то не то. Пятый час хожу и вдруг вспоминаю - а вылеты то где? Аж непривычно как-то...</rus>
+		<eng>Walking on the Zone for one, two hours and feel something wrong. Fifth hours of walking and than I understand - where are crashes? It's unusual even somehow...</eng>
+		<ukr>Іду по Зоні годину, другу, і відчуваю, що щось не те. П'яту годину ходжу і раптом згадую - а виліти де? Аж незвично якось...</ukr>
+	</string>
+	<string id="sms_uniq2_89">
+		<rus>Кто знает, чего там бармен постоянно в подсобке зависает? А то надоело отдавать антирады Гарику чтоб пропустил, да и неприлично ходить в туалет разговаривать с Барменом...</rus>
+		<eng>Who knows why Barkeep is hanging in the store room all the time? I'm just tired of giving antirads to Garry for letting me through, and it's so improperly go to the toilet to talk to Barkeep anyway...</eng>
+		<ukr>Хто знає, чого там бармен постійно в підсобці зависає? А то набридло віддавати антирад Гарику щоб пропустив, та й непристойно ходити в туалет розмовляти з Барменом... </ukr>
+	</string>
+	<string id="sms_uniq2_90">
+		<rus>Парни помогите, дайте состав рецепта на Огненный Шар, а то оба мертвяка, с которых снимал данный рецепт, канули в небытие вместе с рецептами, сожрала их Зона.</rus>
+		<eng>Lads help me, give me composition of a recipe for the Fireball, because both corpses, which were containing this recipe, gone into oblivion with this recipe, Zone devoured them.</eng>
+		<ukr>Хлопці допоможіть, дайте склад рецепту на Вогняну Кулю, а то обидва мертвяки, з яких знімав даний рецепт, канули в небуття разом з рецептами, зжерла їх Зона. </ukr>
+	</string>
+	<string id="sms_uniq2_91">
+		<rus>Я вот сегодня тут с немцами базарил, нормальные пацаны оказались, правда, не сговорчивые. Потом пошёл на Болота к Ариадне по маршруту: Затон, телепорт на Армейские Склады, Барьер, Радар, Янтарь, Агро, Болото. Теперь там только листья да трава шевелятся. Ну, может, ещё где пара зелёных или жёлтых челов спряталось, а все почему? Да прихватил с собой миниган от Басти. Страшно представить, что будет, когда я оттедава ещё принесу "Полтергейста" той же оружейной фирмы.</rus>
+		<eng>I've been chatting to germans today, they turned out normal guys, but not really so flexible. Then I went on Swamps to Ariadne by this route: Zaton, teleport to Army Warehouses, Barrier, Radar, Yantar, Agro, Swamps. Now only leaves and grass are whispering there. Well, maybe, couple of green or yellow men hid somewhere, but why? Just took the minigan from Buusty with me. I'm scary to imagine what will be, if I bring the same gun-dealer "Poltergeist" from thence.</eng>
+		<ukr>Я ось сьогодні тут з німцями базарив, нормальні пацани виявилися, правда, довго вмовляти прийшлося. Потім пішов на Болота до Аріадни по маршруту: Затон, телепорт на Армійські Склади, Бар'єр, Радар, Янтар, Агро, Болото. Тепер там тільки листя та трава ворушаться. Ну, може, ще де пара зелених або жовтих персів сховалося, а все чому? Так прихопив з собою мініган від Басті. Страшно уявити, що буде, коли я ще принесу "Полтергейст" тієї ж збройової фірми. </ukr>
+	</string>
+	<string id="sms_uniq2_92">
+		<rus>Народ, а кто из ремонтников на шлем экзы может зеркало заднего вида поставить? А то я чёт переживаю за свой зад...</rus>
+		<eng>Folks, what repairer can attach rear-vision mirror to exo-suit helmet? Cuz I'm worried about my rear part somehow...</eng>
+		<ukr>Народ, а хто з ремонтників на шолом екзи може дзеркало заднього виду поставити? А то я чомусь переживаю за свій зад...</ukr>
+	</string>
+	<string id="sms_uniq2_93">
+		<rus>Тому, кто расскажет мне, как слезть с гладкого бетонного столба, расскажу, как на него залезть.</rus>
+		<eng>If someone would tell me, how to climb down from smooth concrete pole, I'll tell you, how to climb it.</eng>
+		<ukr>Тому, хто розповість мені, як злізти з гладкого бетонного стовпа, розповім, як на нього залізти.</ukr>
+	</string>
+	<string id="sms_uniq2_94">
+		<rus>Ааай, блин, придурок! Чуть шлем не проломил! Ты чё, не знаешь, что гранату бросают без кольца, тогда не так больно!</rus>
+		<eng>Aaay, damn, dope! Almost broke a helmet! Don't you damned know, that grenade should be thrown without a ring, so it wouldn't hurt so much!</eng>
+		<ukr>Ааай, шляк трафить, придурок! Трохи шолом не проломив! Ти шо, не знаєш, що гранату кидають без кільця, тоді не так боляче!</ukr>
+	</string>
+	<string id="sms_uniq2_95">
+		<rus>Народ, на новые территории берите больше патронов, сегодня почти полста бронебойных на одного когтя смерти потратил... Похоже, нужно идти к Шурупу за тележкой к экзе, для патронов.</rus>
+		<eng>People, take more ammunition on the new territories, today spent about fifty piercing bullets on one death claw... Looks like, I need go to Screw for exoskeleton ammunition handcart.</eng>
+		<ukr>Народ, на нові території беріть більше патронів, сьогодні майже пів сотні бронебійних на одного кігтя смерті витратив... Схоже, потрібно йти до Шурупа за візком до екзи, для патронів. </ukr>
+	</string>
+	<string id="sms_uniq2_96">
+		<rus>И снится нам не рокот космодрооооома! Не эта... голубая... синева!\n%c[sender]Волазар\n%c[default]Всё им полётов не хватает. В карусель прыгни, придурок!</rus>
+		<eng>And what we're dreaming of is not the roar of a spacepooooort! Not this... icily cold... and bluish view!\n%c[sender]Volazar\n%c[default]Missing flying all the time? Jump into whirligig, you dolt!</eng>
+		<ukr>І сниться нам не гуркіт космодрооооому! Не ця... блакитна... синява!\n%c[sender]Волазар\n%c[default]Все їм польотів не вистачає. У карусель стрибни, придурок!</ukr>
+	</string>
+	<string id="sms_uniq2_97">
+		<rus>Мне сказали, что, чтобы забраться на козловой кран на ЧАЭС, нужно прикинуться крабом. Объясните, это как?</rus>
+		<eng>I was told that, to climb the gantry crane on the CNPP, you need to act like a crab. Explain, how's that?</eng>
+		<ukr>Мені сказали, щоби залізти на козловий кран на ЧАЕС, потрібно прикинутися крабом. Поясніть, це як?</ukr>
+	</string>
+	<string id="sms_uniq2_98">
+		<rus>Волазар, привет. Те круглые с желтком, что ты мне дал на пробу, я съел и уже 5 часов летаю. Как мне остановиться? Еле написал тебе сообщение, на лету уж больно неудобно СМС набирать.</rus>
+		<eng>Volazar, hello. Those round with a yelk, that you gave me to try, I swallowed and flying for 5 hours already. How to stop? I hardly wrote you this message, it's very awkward to type SMS on the fly, you know.</eng>
+		<ukr>Волазар, привіт. Ті круглі з жовтком, що ти мені дав на пробу, я з'їв і вже 5 годин літаю. Як мені зупинитися? Ледве написав тобі повідомлення, на льоту аж надто незручно СМС набирати. </ukr>
+	</string>
+	<string id="sms_uniq2_99">
+		<rus>Сегодня видел, как Меченый с запада в долину гнал бандосов. Вчера - наймов на север. Завтра ещё кого-нибудь гнать будет. Я вот не понял, он кто: сталкер или ковбой?</rus>
+		<eng>Today I saw how Marked One was chasing bandits to the valley from the west. Yesterday - mercs to the north. Tomorrow will chase someone else. What I don't understand: is he a stalker or a cowboy?</eng>
+		<ukr>Сьогодні бачив, як Мічений із заходу в долину гнав бандюків. Вчора - наймів на північ. Завтра ще кого-небудь гнати буде. Я от не зрозумів, він хто: сталкер чи ковбой? </ukr>
+	</string>
+	<string id="sms_uniq2_100">
+		<rus>Валерич, тот арт, что ты мне сварил вчера - отличная работа! Хотел в нём хоть какой-нибудь изъян найти - не нашёл. Мастерски ты их делаешь, друг!</rus>
+		<eng>Valerich, the art, that you cooked yesterday - excellent work! Wanted to find at least some flaw in it - I didn't. Friend, you are doing them masterfully!</eng>
+		<ukr>Валєрич, той арт, що ти мені зварив вчора - відмінна робота! Хотів в ньому хоч якусь ваду знайти - не знайшов. Майстерно ти їх робиш, друже! </ukr>
+	</string>
+	<string id="sms_uniq2_101">
+		<rus>Анна, здорово придумано - спрятать хабарок за дверью в Х-8! И как такое в голову-то пришло?</rus>
+		<eng>Anna, well done - hide lootie behind the door in X-8! How such a queer idea came to you?</eng>
+		<ukr>Анна, гарно вигадала - заховати хабарок за дверима в Х-8! І як тобі таке на думку спало?</ukr>
+	</string>
+	<string id="sms_uniq2_102">
+		<rus>Мерцающий, тут один экземпляр на пожизненный бан нарывается. Ты не против, если я его из СВД забаню, а то у тебя и так работы хватает?</rus>
+		<eng>Shimmering One, here is one specimen trying to get a perpetual ban. You don't mind if I'll ban him with SVD, you are very busy now anyway?</eng>
+		<ukr>Мерехтливий, тут один екземпляр на довічний бан наривається. Ти не проти, якщо я його з СВД забаню, а то у тебе і так роботи вистачає?</ukr>
+	</string>
+	<string id="sms_uniq2_103">
+		<rus>Народ, скажите, кто из торговцев бутылки из под водки принимает, а то уже складывать некуда.\n%c[sender]Боров\n%c[default]Неси сюда. Если принесёшь много - дадим по ним пострелять.</rus>
+		<eng>People, tell me, what dealers are taking vodka's bottles, because I don't know where to stash them.\n%c[sender]Borov\n%c[default]Bring all of them. If you'll bring a lot - you may even shoot at 'em.</eng>
+		<ukr>Народ, скажіть, хто з торговців пляшки з під горілки приймає, а то вже складати нікуди.\n%c[sender]Боров\n%c[default]Неси сюди. Якщо принесеш багато - дамо по ним постріляти.</ukr>
+	</string>
+	<string id="sms_uniq2_104">
+		<rus>Сейчас в Тёмной Долине сторговался за крутой ствол всего за 800 рубликов. Пацаны обещали ещё и дробовик автоматический подогнать, как только денежку достану. Вот счастье то привалило! Чего-то только долго возятся, полчаса уже жду, когда мне ствол вынесут. Деньги то они быстро взяли, а здесь не шевелятся совсем. Совки, одним словом.</rus>
+		<eng>In the Dark Valley made a bargain for a badass gun, 800 rubles only. Lads also promised to fetch an automatic shotgun for me, when I bring a bit of money. What a wonderful luck! They are fiddling about for some time though, I've been waiting half an hour for them to bring this gun for me. They took the money in a hurry, but no action from them since. Homo Sovieticus, in phrase.</eng>
+		<ukr>Тільки що в Темній Долині сторгувався за крутий ствол всього за 800 гривень. Пацани обіцяли ще й дробовик автоматичний підігнати, як тільки грошенят дістану. Ось щастя то привалило! Чогось тільки довго вовтузяться, пів години вже чекаю, коли мені ствол винесуть. Гроші то вони швидко взяли, а тут не ворушаться зовсім.</ukr>
+	</string>
+	<string id="sms_uniq2_105">
+		<rus>Видел сегодня рюкзачок на вышке у кладбища техники на Свалке, но не забраться туда никак. Сколько ни пытался, только руки-ноги ободрал. И камнем не сбивается, крепко держится. Ладно, потом подумаю, как его достать оттуда, авось никто не умыкнёт. Блин, в общую сеть послал, идиот!</rus>
+		<eng>Saw today a backpack on a tower, near vehicle graveyard on Garbage, but I couldn't get there, no way. I did my best, but only got my hands-legs grazed. Can't bring it down with a stone too, stands firmly. Okay, I'll think about it later, perhaps nobody will steal it. Damn, sent it in the main channel, idiot!</eng>
+		<ukr>Бачив сьогодні рюкзачок на вишці біля кладовища техніки на Звалищі, але не забратися туди ніяк. Скільки не намагався, тільки руки-ноги обдер. І каменем не збивається, міцно тримається. Гаразд, потім подумаю, як його дістати звідти, може ніхто не вкраде. Шляк трафить, в загальну мережу послав, ідіот! </ukr>
+	</string>
+	<string id="sms_uniq2_106">
+		<rus>Парни, я слышал, аномальные вороньи яйца в Зоне появились. Говорят, выпиваешь это яйцо, и взлетаешь над Зоной! Конечно, в Зоне все возможно, но что-то в это верится с трудом. У кого есть более подробная информация, отзовитесь в приват, уж очень хочется попробовать. Награда будет соответствующей.</rus>
+		<eng>Guys, I've heard that anomaly crow's eggs appeared in Zone. It's said, when you drink this egg, you will just fly up above Zone! Sure, everything is possible in Zone, but I hardly believe this. Someone have more specific information, tell me in private, I really want to try it. Reward will be respective.</eng>
+		<ukr>Хлопці, я чув, аномальні воронячі яйця в Зоні з'явилися. Кажуть, випиваєш це яйце, і злітаєш над Зоною! Звичайно, в Зоні все можливе, але щось в це віриться насилу. У кого є більш докладна інформація, відгукніться в приват, дуже вже хочеться спробувати. Нагорода буде відповідною. </ukr>
+	</string>
+	<string id="sms_uniq2_107">
+		<rus>Продам гравипушку. За нереальные бабки. За реальные прошу не обращаться. Потому что это - вещь! А вещь это, или нет - вы узнаете, когда её получите. И получите задания, которые без неё не выполнить. Найти меня можно по квестам - вам подскажут дорогу.</rus>
+		<eng>Selling gravity gun. For unreal amount of cash. For real amount, don't talk to me. Because this - this is a real thing! And the moment you know it - the moment when you buy and get it. And gonna get objectives, which are impossible to complete without it. You can find me completing other quests - you will be directed to me.</eng>
+		<ukr>Продам гравіпушку. За нереальні бабки. За реальні прошу не звертатися. Тому що це - річ! А річ це, чи ні - ви дізнаєтеся, коли її отримаєте. І отримаєте завдання, які без неї не виконати. Знайти мене можна за квестами - вам підкажуть дорогу. </ukr>
+	</string>
+	<string id="sms_uniq2_108">
+		<rus>Сегодня купил наводку на хабар одного сталка по прозвищу Альпинист, думал, удача улыбнулась. Ага, щас, до него ещё добраться надо! У меня хоть с прыгучестью полный порядок, но здесь я прикурил по полной. Так что думайте народ, если кто предложит вам чей-то хабар, такое ли это счастье, каким кажется.</rus>
+		<eng>Bought a pointing on a loot of one stalker named Alpinist today, thought I'm getting lucky. Yeah, of course, I need to get there first! Sure, my spring abilities is okay, but here I get absolutely outplayed. So think a bit, if one offering you someone's loot, is that a fortune, or something else.</eng>
+		<ukr>Сьогодні купив наводку на хабар одного сталка на прізвисько Альпініст, думав, удача посміхнулася. Ага, щас, до нього ще дібратися треба! У мене хоч з стрибучістю повний порядок, але тут я дуже пожалкував... Так що думайте народ, якщо хтось запропонує вам чийсь хабар, чи таке це щастя, яким воно здається. </ukr>
+	</string>
+	<string id="sms_uniq2_109">
+		<rus>Помню, что хабар заныкал под сосной с берёзовой верхушкой - одинокое дерево в лесу, а найти не могу...</rus>
+		<eng>I know, I hid my loot under the pine-tree with a birch crown - lone tree in the forest, but I can't find it...</eng>
+		<ukr>Пам'ятаю, що хабар заникав під сосною з березової верхівкою - самотнє дерево в лісі, а знайти не можу...</ukr>
+	</string>
+	<string id="sms_uniq2_110">
+		<rus>Едет крыша не спеша, тихо шифером шурша, а почему? А потому, что Контрик рядом! Тра-ля-ля-ля-ля!\n%c[sender]Мерцающий\n%c[default]Оп-с! Ещё одного забанил!</rus>
+		<eng>I'm going nuts, without cracking nuts, but why? But because controller is nearby! Tra-la-la-la-la!\n%c[sender]Shimmering One\n%c[default]Op-s! Another one banned!</eng>
+		<ukr>Клен зелений, кучеряве листя в'ється\nА до мене зачаровано сміється\nКонтрик бравий та чорнобровий\nКонтрик nмолодий.\n%c[sender]Сталкер Бубулюка\n%c[default]Гранату йому в зуби, щоб не сміявся!</ukr>
+	</string>
+	<string id="sms_uniq2_111">
+		<rus>Народ! Кто добрался к тайнику Стрелка в небе над Радаром, скажите, там хоть ценный хабар? Стоит туда лезть вообще?</rus>
+		<eng>People! Who got to the stash of Strelok in the sky over the Radar, tell me, are there good stuff? Should I even try to climb there?</eng>
+		<ukr>Народ! Хто дістався до схованки Стрілка в небі над радаром, скажіть, там хоч цінний хабар? Варто туди лізти взагалі?</ukr>
+	</string>
+	<string id="sms_uniq2_112">
+		<rus>Народ! Кто добрался к тайнику на самой высокой крыше завода Юпитер, скажите, там хоть ценный хабар? Стоит туда лезть вообще?</rus>
+		<eng>People! Who got to the stash on the highest roof of Jupiter factory, tell me, are there good stuff? Should I even try to climb there?</eng>
+		<ukr>Народ! Хто дістався до схованки на найвищому даху заводу Юпітер, скажіть, там хоч цінний хабар? Варто туди лізти взагалі?</ukr>
+	</string>
+	<string id="sms_uniq2_113">
+		<rus>Кто взял мои вороньи яйца в Забытом Лесу? Вам чё, своих мало? Быстро вернули на место, а то ваши Повару отнесу!</rus>
+		<eng>Who took crow's eggs of mine in the Forgotten Forest? Or is it just not enough for yourselves? Bring it back quick, or I'll take yours to Chef!</eng>
+		<ukr>Хто взяв мої воронячі яйця в Забутому Лісі? Вам шо, своїх мало? Швидко повернули на місце, а то ваші Кухареві віднесу!</ukr>
+	</string>
+	<string id="sms_uniq2_114">
+		<rus>С Максом у меня проблема. Позвал его, чтоб Долг на хуторе зачистить, так он поперёд всех в пекло лезет... Если не пулю зубами, то гранату руками ловит. А он мне пригодится ещё. Народ, подскажите, как избавить его от вредных привычек?</rus>
+		<eng>I have a problem with Max. Called him, to mop up Duty at farmstead, but he is getting into hell before everyone else... If not catching grenade with hands, then catching bullet with teeth. But I need him another time. People, give a suggest, how to unhook him from these bad habits?</eng>
+		<ukr>У мене проблема з Максом. Покликав його, щоб Долг на хуторі зачистити, так він попереду усіх в пекло лізе... Якщо не кулю зубами, то гранату руками ловить. А він мені знадобиться ще. Народ, підкажіть, як позбавити його від шкідливих звичок? </ukr>
+	</string>
+	<string id="sms_uniq2_115">
+		<rus>Вернулся в Бар, а Захар пропал. Кто увидит его, передайте, что я его ищу.</rus>
+		<eng>Came back to Bar, Zakhar disappeared. If someone saw him, hand over, that I'm lookin for him.</eng>
+		<ukr>Повернувся в Бар, а Захар щез. Хто побачить його, передайте, що я його шукаю.</ukr>
+	</string>
+	<string id="sms_uniq2_116">
+		<rus>Ура-а! Мне удалось спасти Психа на болотах! Он совсем и не псих, я даже поговорил с ним!\n%c[sender]Потап\n%c[default]Это никому не интересно. Подумаешь, одним психом меньше.</rus>
+		<eng>Hurra-ay! I did manage to save Psycho on the marsh! He is not crazy at all, I even talked to him!\n%c[sender]Potap\n%c[default]N one else cares about this. One less madman, no difference.</eng>
+		<ukr>Ура-а! Мені вдалося врятувати Психа на болотах! Виявилось, він не псих, я навіть поговорив з ним!\n%c[sender]Потап\n%c[default]Це нікого не цікавить. Подумаєш, одним психом менше.</ukr>
+	</string>
+	<string id="sms_uniq2_117">
+		<rus>Не могу спасти всех четырёх долговцев в Тёмной Долине. Буду рад любой помощи.</rus>
+		<eng>I cannot save all four Duty members in the Dark Valley. Will be glad of any help.</eng>
+		<ukr>Не можу врятувати всіх чотирьох долговців в Темній Долині. Буду радий будь-якій допомозі.</ukr>
+	</string>
+	<string id="sms_uniq2_118">
+		<rus>Волк, нашёл твою рацию, а она не работает. Отнести её Долговязому на ремонт или такую возьмёшь?</rus>
+		<eng>Wolf, found your radio set, but it's not functioning. Should I give it to Lanky for repair, or you'll pick it up in the current condition?</eng>
+		<ukr>Вовк, знайшов твою рацію, а вона не працює. Віднести її Довготелесому на ремонт чи таку візьмеш?</ukr>
+	</string>
+	<string id="sms_uniq2_119">
+		<rus>Волк, нашёл твою рацию, только в ней батареек нет. Чё делать?\n%c[sender]Сталкер Бубулюка\n%c[default]Из своего экзоскелета вытащи.</rus>
+		<eng>Wolf, found your radio set, but there is no batteries in it. What to do?\n%c[sender]Stalker Bubulyuka\n%c[default]Pull it out from your exoskeleton.</eng>
+		<ukr>Вовк, знайшов твою рацію, тільки в ній батарейок немає. Що робити?\n%c[sender]Сталкер Бубулюка\n%c[default]Зі свого екзоскелета витягни.</ukr>
+	</string>
+	<string id="sms_uniq2_120">
+		<rus>Подскажите, как защитить Халяву? Мрёт он у меня...</rus>
+		<eng>Tell me, how to protect Freebie? He just dies always...</eng>
+		<ukr>Підкажіть, як захистити Халяву? Помирає він у мене...</ukr>
+	</string>
+	<string id="sms_uniq2_121">
+		<rus>Не могу спасти Сепатора, этот идиот постоянно в бой лезет и дохнет, зараза! Что делать?</rus>
+		<eng>Can't save Sepator, this idiot getting in fight and dies all the time, damn! What to do?</eng>
+		<ukr>Не можу врятувати Сепатора, цей ідіот постійно в бій лізе і дохне, зараза! Що робити?</ukr>
+	</string>
+	<string id="sms_uniq2_122">
+		<rus>Подобравшему Гаусс-пистолет в Тёмной Долине: Очень нужен, готов обменять на любой свой ствол с доплатой.</rus>
+		<eng>Who has found the Gauss-gun in Dark Valley: I really need it, welling to trade for any other gun with an extra charge.</eng>
+		<ukr>Хто знайшов Гаус-пістолет в Темній Долині? Дуже потрібен, готовий обміняти на будь-який свій ствол з доплатою.</ukr>
+	</string>
+	<string id="sms_uniq2_123">
+		<rus>Пришёл за оружием долговца на Дикую Территорию - а его нет на месте. Кто взял - верните по хорошему, ведь все равно найду.</rus>
+		<eng>Came for a Duty member's gun on Wild Territory - but it's not there. Who has taken it - put it back fast, I'll find you anyway.</eng>
+		<ukr>Прийшов за зброєю долгівця на Дику Територію - а її немає на місці. Хто взяв - поверніть по хорошому, адже все одно знайду.</ukr>
+	</string>
+	<string id="sms_uniq2_124">
+		<rus>Не могу залезть на балкон за тайником Альпиниста, мать его итить! Подскажите, как туда забраться, только в приват, а то отключат меня...</rus>
+		<eng>Can't climb on a balcony for Alpinist's stash, freaking dammit! Tell me, how to get there, but in private channel, or they switch me off...</eng>
+		<ukr>Не можу залізти на балкон за схованкою Альпініста, трясця його матері! Підкажіть, як туди забратися, тільки в приват, а то відключать мене...</ukr>
+	</string>
+	<string id="sms_uniq2_125">
+		<rus>Профессор, а мы правильной дорогой идём? Мне кажется сюда мы шли немного иначе.\n%c[sender]Круглов\n%c[default]Ассистент, доверьтесь мне. Я Зону знаю, как свои пять пальцев.</rus>
+		<eng>Professor, are we heading the right way? I believe we were coming here in a different path.\n%c[sender]Kruglov\n%c[default]Assistant, trust me. I know Zone like the back of my hand.</eng>
+		<ukr>Професоре, а ми вірним керунком йдемо? Мені видається, сюди ми йшли трохи інакше.\n%c[sender]Круглов\n%c[default]Асистент, довіртеся мені. Я Зону знаю, як свої п'ять пальців.</ukr>
+	</string>
+	<string id="sms_uniq2_126">
+		<rus>Люди, караул! Вы когда-нибудь видели как псевдогиганта ложат простой кувалдой?! Зрелище, я вам скажу! Одинокий сталкер с кувалдой наперевес! У него за плечами ствол, навороченный по самое не балуйся, а он - кувалдой, ага. Правда кувалда хорошая такая, хозяйская.</rus>
+		<eng>Guys, that's it! Have you ever seen how pseudogiant fall from a hit of an ordinary sledgehammer?! That's a show, I can tell you! Lonesome stalker with a sledgehammer atilt! Some uber up the ass gun is visible over his shoulders, but he's just using hammer - yeah. But sledgehammer is a good one, durable.</eng>
+		<ukr>Люди, гвалт! Ви коли-небудь бачили, як псевдогіганта кладуть звичайною кувалдою?! Видовище, я вам скажу! Сталкер-одинак з кувалдою обіруч! У нього за плечима ствол з крутим апгрейдом, а він - кувалдою, ага. Правда кувалда хороша така, хазяйська. </ukr>
+	</string>
+	<string id="sms_uniq2_127">
+		<rus>Интересно, почему никто из сталкеров рецепты на варку артефактов не сливает в сеть? Жадность, что ли?</rus>
+		<eng>I'm wondering, why no one from stalkers aren't giving out recipes for artifacts boiling? Greediness, is it?</eng>
+		<ukr>Цікаво, чому ніхто з сталкерів рецепти на варіння артефактів не зливає у мережу? Жадібність, чи що?</ukr>
+	</string>
+	<string id="sms_uniq2_128">
+		<rus>Как только стемнеет - пойду на псевдогиганта. ПМ есть, антирад взял, куртку ребята подогнали почти даром. Ну, а потом и к Монолиту можно. Всё у меня получится!</rus>
+		<eng>As soon the darkness falls - I'm going for pseudogiant. I have PM, took an anti-rad, guys gave me a jacket almost for free. And then, I could go to Monolith, no problem. It will all work out!</eng>
+		<ukr>Як тільки стемніє - піду на псевдогіганта. ПМ є, антірад взяв, куртку хлопці підігнали майже даром. Ну, а потім і до Моноліту можна. Все у мене вийде! </ukr>
+	</string>
+	<string id="sms_uniq2_129">
+		<rus>Слышали слух: где-то по Зоне бродит контролёр неубиваемый. Говорят, в него по 10 обойм всаживали, а ему по барабану...</rus>
+		<eng>Have you heard a rumour: somewhere in Zone wandering an unkillable controller. Sometimes 10 magazines had been discharged at him, as they say, he doesn't give a crap...</eng>
+		<ukr>Чули плітку? Десь по Зоні бродить контролер безсмертний. Кажуть, в нього по 10 обойм вистрілювали, а йому по барабану...</ukr>
+	</string>
+	<string id="sms_uniq2_130">
+		<rus>Чёрт, опять пустой поход! Сходили, называется, за хабарком. Пошли на кабанов, упаковались как на библиотекаря. Пришли, а там горы свежих трупов, самое ценное уже вырезано и выдрано! Кто же это постарался так?!</rus>
+		<eng>Screw it, vain trip again! Went for loot, my ass. Went out for boars, packed up like we were going for librarian. Came there, piles of fresh corpses, all valuable parts were cut and ripped out! And who in the world could have tried to do this?!</eng>
+		<ukr>Чорт, знову з пустими руками повернувся! Сходили, називається, за хабарком. Пішли на кабанів, готувались як на бібліотекаря. Прийшли, а там гори свіжих трупів, найцінніше вже вирізали і видерли! Хто ж це постарався так?! </ukr>
+	</string>
+	<string id="sms_uniq2_131">
+		<rus>У кого бывало такое? Проснёшься однажды в баре ночью. Выйдешь в чисто поле, снимешь штаны, облегчишься, наденешь штаны - глядь, а на земле ничего нет. И только вдалеке слышишь тихий ржач бюреров.</rus>
+		<eng>Who had such an instance? Woking up one night in the bar. Walking out in an open country, taking pants off, relieving yourself, putting pants on - then looking back, nothing there on the ground. Only from the distance you hear low guffaw of burers.</eng>
+		<ukr>У когось бувало таке? Прокинешся одного разу в барі вночі. Вийдеш в чисте поле, знімеш штани, справиш велику потребу, одягнеш штани - дивишся, а на землі нічого немає. І тільки десь далеко чути тихий регіт бюрерів. </ukr>
+	</string>
+	<string id="sms_uniq2_132">
+		<rus>Народ! Что за сталкер такой появился, Меченый? В Зоне без году неделя, а вы гляньте на ранг! Прёт, как на дрожжах!</rus>
+		<eng>Hey, people! Who is this stalker that showed up, called Marked One? In the Zone for a few days, and look at his rank! Making his way in overdrive!</eng>
+		<ukr>Народ! Що за сталкер такий з'явився, Мічений? У Зоні без року тиждень, а ви гляньте на ранг! Росте, як на дріжджах!</ukr>
+	</string>
+	<string id="sms_uniq2_133">
+		<rus>Ой, ребят, сейчас нахожусь на Юпитере - вот это полная... В следующий раз на танке ехать нужно. Запасайтесь гранатами типа "Снежинка" и "Электричка", аптечками и дробью. Тяжко придётся.</rus>
+		<eng>Ow, guys, I'm at Jupiter now - this is so f... Should drive here on a tank next time. Stock up grenades type "Snowflake" and "Electrichka", medkits and shotgun shells. It will be tough.</eng>
+		<ukr>Ой, хлопці, зараз перебуваю на Юпітері - ось це повна... Наступного разу на танку їхати потрібно. Запасайтеся гранатами типу "Сніжинка" та "Електричка", аптечками і дробом. Тяжко доведеться. </ukr>
+	</string>
+	<string id="sms_uniq2_134">
+		<rus>Кто расскажет, как отличить простого зомби от взрывающегося, подарю кувалду.</rus>
+		<eng>Who could tell me how to distinguish a regular zombie from an exploding one, I'll give you a sledgehammer.</eng>
+		<ukr>Хто розповість, як відрізнити простого зомбі від камікадзе, подарую кувалду.</ukr>
+	</string>
+	<string id="sms_uniq2_135">
+		<rus>Отдам профессиональную бейсбольную биту в хорошие руки. Прекрасно проламывает черепушки любому врагу. Укреплена под воздействием неизвестной аномалии, при этом сохранила свой вес. Сам лично с её помощью загнал кровососа в Холодец, когда патроны кончились. Но деньги нужны срочно, так что продаю. Ищите меня в ангаре на Свалке, буду там через несколько часов.</rus>
+		<eng>Will give a professional baseball bat into good hands. Perfect for fracturing any enemy poll. Reinforced under unknown anomaly impact, but retained the same weight. Personally hammered one bloodsucker into the Fruit Punch with it, when I was out of ammo. Need money urgently, so I'm selling it. Look for me at Garbage, I will be there in in a couple of hours.</eng>
+		<ukr>Віддам професійну бейсбольну биту в хороші руки. Прекрасно пробиває черепушки будь-якому ворогові. Зміцнена під впливом невідомої аномалії, при цьому зберегла свою вагу. Сам особисто з її допомогою загнав кровососа в Холодець, коли патрони скінчилися. Але гроші потрібні терміново, так що продаю. Шукайте мене в ангарі на Звалищі, буду там через кілька годин. </ukr>
+	</string>
+	<string id="sms_uniq2_136">
+		<rus>Собрал 25 стволов "Сайга". Никому не надо?\n%c[sender]Сталкер Бубулюка\n%c[default]Нет, никому. А зачем, если не секрет, тебе столько саег... сайг... сайгов... тьфу!</rus>
+		<eng>Collected 25 rifles "Saiga". Nobody needs it?\n%c[sender]Stalker Bubulyuka\n%c[default]No, nobody. But why, can you tell me, do you need so many saiges... saigs... saigaes... damn it!</eng>
+		<ukr>Зібрав 25 стволів "Сайга". Нікому не треба?\n%c[sender]Сталкер Бубулюка\n%c[default]Ні, нікому. А навіщо, якщо не секрет, тобі стільки саєг... сайг... сайгів... тьху!</ukr>
+	</string>
+</string_table>
