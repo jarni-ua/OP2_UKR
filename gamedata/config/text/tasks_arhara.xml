@@ -21,9 +21,9 @@
 		<ukr>Звуковий сигнал</ukr>
 	</string>
 	<string id="task_baty_zadan_1">
-		<rus>Найти предмет</rus>
-		<eng>Найти предмет</eng>
-		<ukr>Знайти предмет</ukr>
+		<rus>Найти предмет, издающий шум</rus>
+		<eng>Найти предмет, издающий шум</eng>
+		<ukr>Знайти предмет, що шумить</ukr>
 	</string>
 	<string id="task_baty_zadan_2">
 		<rus>Принести найденное Сахарову</rus>
@@ -51,11 +51,16 @@
 		<ukr>Лещата для Шурупа</ukr>
 	</string>
 	<string id="task_atp_shurup_propusk_1">
+		<rus>Отыскать в Лощине разведгруппу наёмников</rus>
+		<eng>Отыскать в Лощине разведгруппу наёмников</eng>
+		<ukr>===Отыскать в Лощине разведгруппу наёмников</ukr>
+	</string>
+	<string id="task_atp_shurup_propusk_2">
 		<rus>Найти тиски на Заводе</rus>
 		<eng>Найти тиски на Заводе</eng>
 		<ukr>Знайти лещата на Заводі</ukr>
 	</string>
-	<string id="task_atp_shurup_propusk_2">
+	<string id="task_atp_shurup_propusk_3">
 		<rus>Принести тиски Шурупу</rus>
 		<eng>Принести тиски Шурупу</eng>
 		<ukr>Принести лещата Шурупу</ukr>
@@ -136,18 +141,18 @@
 		<ukr>Принести медальйон Доктору</ukr>
 	</string>
 	<string id="task_vorona_povar_0">
-		<rus>Найти вороньи яйца</rus>
-		<eng>Найти вороньи яйца</eng>
-		<ukr>Знайти воронячі яйця</ukr>
+		<rus>Вороньи яйца</rus>
+		<eng>Вороньи яйца</eng>
+		<ukr>Воронячі яйця</ukr>
 	</string>
 	<string id="task_vorona_povar_1">
-		<rus>Найти вороньи яйца</rus>
-		<eng>Найти вороньи яйца</eng>
-		<ukr>Знайти воронячі яйця</ukr>
+		<rus>Найти вороньи яйца в Забытом Лесу</rus>
+		<eng>Найти вороньи яйца в Забытом Лесу</eng>
+		<ukr>Знайти воронячі яйця у Забутому Лісі</ukr>
 	</string>
 	<string id="task_vorona_povar_2">
-		<rus>Принести вороньи яйца повару</rus>
-		<eng>Принести вороньи яйца повару</eng>
+		<rus>Принести вороньи яйца Повару</rus>
+		<eng>Принести вороньи яйца Повару</eng>
 		<ukr>Принести воронячі яйця Кухарю</ukr>
 	</string>
 	<string id="task_lekarstvo_bandita_nayti_0">
@@ -261,9 +266,9 @@
 		<ukr>Мікросхеми</ukr>
 	</string>
 	<string id="task_dolgovyzui_1">
-		<rus>Найти микросхемы</rus>
-		<eng>Найти микросхемы</eng>
-		<ukr>Знайти мікросхеми</ukr>
+		<rus>Найти микросхемы на Кордоне</rus>
+		<eng>Найти микросхемы на Кордоне</eng>
+		<ukr>Знайти мікросхеми на Кордоні</ukr>
 	</string>
 	<string id="task_dolgovyzui_2">
 		<rus>Принести микросхемы Долговязому</rus>
@@ -276,9 +281,9 @@
 		<ukr>Термоси для Вороніна</ukr>
 	</string>
 	<string id="task_voronin_termos_1">
-		<rus>Найти термосы</rus>
-		<eng>Найти термосы</eng>
-		<ukr>Знайти термоси</ukr>
+		<rus>Найти термосы в Зоне</rus>
+		<eng>Найти термосы в Зоне</eng>
+		<ukr>Знайти термоси в Зоні</ukr>
 	</string>
 	<string id="task_voronin_termos_2">
 		<rus>Принести термосы Воронину</rus>
@@ -361,9 +366,9 @@
 		<ukr>Рішучі заходи</ukr>
 	</string>
 	<string id="task_voronin_infa_1">
-		<rus>Добыть ОЦ-14 "Гроза"</rus>
-		<eng>Добыть ОЦ-14 "Гроза"</eng>
-		<ukr>Здобути ОЦ-14 "Гроза"</ukr>
+		<rus>Раздобыть ОЦ-14 «Гроза»</rus>
+		<eng>Раздобыть ОЦ-14 «Гроза»</eng>
+		<ukr>Роздобути ОЦ-14 «Гроза»</ukr>
 	</string>
 	<string id="task_voronin_infa_2">
 		<rus>Доложить Воронину</rus>
@@ -481,9 +486,9 @@
 		<ukr>Мило для Фими</ukr>
 	</string>
 	<string id="task_fima_mulo_1">
-		<rus>Найти в Лабиринте схрон с мылом</rus>
-		<eng>Найти в Лабиринте схрон с мылом</eng>
-		<ukr>Зібрати у Лабіринті схованку з милом</ukr>
+		<rus>Достать мыло с помощью импульсных гранат</rus>
+		<eng>Достать мыло с помощью импульсных гранат</eng>
+		<ukr>===Достать мыло с помощью импульсных гранат</ukr>
 	</string>
 	<string id="task_fima_mulo_2">
 		<rus>Принести мыло Фиме</rus>
@@ -506,9 +511,9 @@
 		<ukr>Принести скриньку Адреналіну</ukr>
 	</string>
 	<string id="task_tretiy_kod_0">
-		<rus>Найти код и сейф</rus>
-		<eng>Найти код и сейф</eng>
-		<ukr>Знайти код і сейф</ukr>
+		<rus>Кодовый замок</rus>
+		<eng>Кодовый замок</eng>
+		<ukr>Кодовий замок</ukr>
 	</string>
 	<string id="task_tretiy_kod_1">
 		<rus>Взять сейф</rus>
@@ -656,9 +661,9 @@
 		<ukr>Принести дискету Гінекологу</ukr>
 	</string>
 	<string id="task_akkum_and_mikposx_0">
-		<rus>Найти блоки питания и плату</rus>
-		<eng>Найти блоки питания и плату</eng>
-		<ukr>Знайти блоки живлення і плату</ukr>
+		<rus>Блоки питания</rus>
+		<eng>Блоки питания</eng>
+		<ukr>Блоки живлення</ukr>
 	</string>
 	<string id="task_akkum_and_mikposx_1">
 		<rus>Найти блоки питания и плату</rus>
@@ -666,9 +671,9 @@
 		<ukr>Знайти блоки живлення і плату</ukr>
 	</string>
 	<string id="task_akkum_and_mikposx_2">
-		<rus>Принести заказ</rus>
-		<eng>Принести заказ</eng>
-		<ukr>Принести замовлення</ukr>
+		<rus>Принести заказ Шуре</rus>
+		<eng>Принести заказ Шуре</eng>
+		<ukr>Принести замовлення Сашку</ukr>
 	</string>
 	<string id="task_chimaera_zadan_0">
 		<rus>Убийство Сидоровича</rus>
@@ -841,9 +846,9 @@
 		<ukr>Принести замовлення Пантері</ukr>
 	</string>
 	<string id="task_gologr_0">
-		<rus>Сопроводить Голограмму</rus>
-		<eng>Сопроводить Голограмму</eng>
-		<ukr>Ескортувати Голограму</ukr>
+		<rus>Сопровождение</rus>
+		<eng>Сопровождение</eng>
+		<ukr>Супровід</ukr>
 	</string>
 	<string id="task_gologr_1">
 		<rus>Сопроводить Голограмму</rus>
@@ -856,9 +861,9 @@
 		<ukr>Провести Голограму</ukr>
 	</string>
 	<string id="task_klenov_gol_0">
-		<rus>Привести Голограмму</rus>
-		<eng>Привести Голограмму</eng>
-		<ukr>Привести Голограму</ukr>
+		<rus>Сопровождение, часть 2</rus>
+		<eng>Сопровождение, часть 2</eng>
+		<ukr>Супровід, часть 2</ukr>
 	</string>
 	<string id="task_klenov_gol_1">
 		<rus>Сопроводить Голограмму</rus>
@@ -886,9 +891,9 @@
 		<ukr>Привести артефакти Кленову</ukr>
 	</string>
 	<string id="task_esc_razvod_0">
-		<rus>Отдать финансы</rus>
-		<eng>Отдать финансы</eng>
-		<ukr>Віддати фінанси</ukr>
+		<rus>"Долг" Сидоровича</rus>
+		<eng>"Долг" Сидоровича</eng>
+		<ukr>"Борг" Сидора</ukr>
 	</string>
 	<string id="task_esc_razvod_1">
 		<rus>Отдать долг Сидоровича</rus>
@@ -906,9 +911,9 @@
 		<ukr>Отримати у Сидора відсотки</ukr>
 	</string>
 	<string id="task_kolmogor_say_0">
-		<rus>Найти брата Колмогора</rus>
-		<eng>Найти брата Колмогора</eng>
-		<ukr>Знайти брата Колмогора</ukr>
+		<rus>Помощь Колмогору</rus>
+		<eng>Помощь Колмогору</eng>
+		<ukr>Допомога Колмогору</ukr>
 	</string>
 	<string id="task_kolmogor_say_1">
 		<rus>Помочь Колмогору спасти брата</rus>
@@ -916,9 +921,9 @@
 		<ukr>Допомогти Колмогору врятувати брата</ukr>
 	</string>
 	<string id="task_sestra_start_0">
-		<rus>Найти сестру</rus>
-		<eng>Найти сестру</eng>
-		<ukr>Знайти сестру</ukr>
+		<rus>Сестра Колмогора</rus>
+		<eng>Сестра Колмогора</eng>
+		<ukr>Сестра Колмогора</ukr>
 	</string>
 	<string id="task_sestra_start_1">
 		<rus>Привести Пантеру</rus>
@@ -926,9 +931,9 @@
 		<ukr>Привести Пантеру</ukr>
 	</string>
 	<string id="task_village_shtab_0">
-		<rus>Захватить штаб</rus>
-		<eng>Захватить штаб</eng>
-		<ukr>Захопити штаб</ukr>
+		<rus>Штаб карателей</rus>
+		<eng>Штаб карателей</eng>
+		<ukr>Штаб карателів</ukr>
 	</string>
 	<string id="task_village_shtab_1">
 		<rus>Захватить штаб карателей</rus>
@@ -936,9 +941,9 @@
 		<ukr>Захопити штаб карателів</ukr>
 	</string>
 	<string id="task_kolm_obsledov_0">
-		<rus>Осмотреть деревню</rus>
-		<eng>Осмотреть деревню</eng>
-		<ukr>Оглянути село</ukr>
+		<rus>Осмотр деревни</rus>
+		<eng>Осмотр деревни</eng>
+		<ukr>Огляд селища</ukr>
 	</string>
 	<string id="task_kolm_obsledov_1">
 		<rus>Осмотреть деревню</rus>
@@ -951,9 +956,9 @@
 		<ukr>Поговорити з Колмогором</ukr>
 	</string>
 	<string id="task_derevny_zashita_0">
-		<rus>Отразить нападение</rus>
-		<eng>Отразить нападение</eng>
-		<ukr>Відбити напад</ukr>
+		<rus>Защита деревни</rus>
+		<eng>Защита деревни</eng>
+		<ukr>Захист селища</ukr>
 	</string>
 	<string id="task_derevny_zashita_1">
 		<rus>Защитить деревню</rus>
@@ -966,14 +971,14 @@
 		<ukr>Поговорити з Колмогором</ukr>
 	</string>
 	<string id="task_klenov_antena_0">
-		<rus>Забрать пси-антенну</rus>
-		<eng>Забрать пси-антенну</eng>
-		<ukr>Забрати псі-антену</ukr>
+		<rus>Пси-антенна</rus>
+		<eng>Пси-антенна</eng>
+		<ukr>Псі-антена</ukr>
 	</string>
 	<string id="task_klenov_antena_1">
-		<rus>Найти пси-антенну</rus>
-		<eng>Найти пси-антенну</eng>
-		<ukr>Знайти псі-антену</ukr>
+		<rus>Найти и забрать пси-антенну</rus>
+		<eng>Найти и забрать пси-антенну</eng>
+		<ukr>Знайти і забрати псі-антену</ukr>
 	</string>
 	<string id="task_klenov_antena_2">
 		<rus>Принести антенну Клёнову</rus>
@@ -996,9 +1001,9 @@
 		<ukr>Принести замовлення Провіднику</ukr>
 	</string>
 	<string id="task_zemlyk_zadanie1_0">
-		<rus>Обнаружить и сбить вертуху</rus>
-		<eng>Обнаружить и сбить вертуху</eng>
-		<ukr>Знайти і збити вертуху</ukr>
+		<rus>Воздушная угроза</rus>
+		<eng>Воздушная угроза</eng>
+		<ukr>Повітряна загроза</ukr>
 	</string>
 	<string id="task_zemlyk_zadanie1_1">
 		<rus>Обнаружить и сбить вертуху</rus>
@@ -1011,9 +1016,9 @@
 		<ukr>Повідомити про результат Земляка</ukr>
 	</string>
 	<string id="task_black_dok_gener_0">
-		<rus>Разыскать бывшего торговца</rus>
-		<eng>Разыскать бывшего торговца</eng>
-		<ukr>Розшукати колишнього торгівця</ukr>
+		<rus>Поиски Боцмана</rus>
+		<eng>Поиски Боцмана</eng>
+		<ukr>Пошуки Боцмана</ukr>
 	</string>
 	<string id="task_black_dok_gener_1">
 		<rus>Разыскать бывшего торговца Боцмана</rus>
@@ -1031,9 +1036,9 @@
 		<ukr>Вбити нападаючих бандитів і прикрити Боцмана</ukr>
 	</string>
 	<string id="task_udav_poshli_0">
-		<rus>Доставить бывшего торговца</rus>
-		<eng>Доставить бывшего торговца</eng>
-		<ukr>Доставити колишнього торгівця</ukr>
+		<rus>Привести Боцмана</rus>
+		<eng>Привести Боцмана</eng>
+		<ukr>Привести Боцмана</ukr>
 	</string>
 	<string id="task_udav_poshli_1">
 		<rus>Довести Боцмана</rus>
@@ -1056,9 +1061,9 @@
 		<ukr>Принести джойстик Андерсену</ukr>
 	</string>
 	<string id="task_udav_pabota_0">
-		<rus>Отключить пси-антенны</rus>
-		<eng>Отключить пси-антенны</eng>
-		<ukr>Відключити псі-антени</ukr>
+		<rus>Отключение пси-антенн</rus>
+		<eng>Отключение пси-антенн</eng>
+		<ukr>Відключення псі-антен</ukr>
 	</string>
 	<string id="task_udav_pabota_1">
 		<rus>Отключить пси-антенны</rus>
@@ -1066,9 +1071,9 @@
 		<ukr>Відключити псі-антени</ukr>
 	</string>
 	<string id="task_priz_shturm_0">
-		<rus>Освободить Пантеру</rus>
-		<eng>Освободить Пантеру</eng>
-		<ukr>Звільнити Пантеру</ukr>
+		<rus>Освобождение Пантеры</rus>
+		<eng>Освобождение Пантеры</eng>
+		<ukr>Звільнення Пантери</ukr>
 	</string>
 	<string id="task_priz_shturm_1">
 		<rus>Освободить Пантеру</rus>
@@ -1121,9 +1126,9 @@
 		<ukr>Принести ляльку Мусі</ukr>
 	</string>
 	<string id="task_voronin_samopisez_0">
-		<rus>Разыскать чёрный ящик</rus>
-		<eng>Разыскать чёрный ящик</eng>
-		<ukr>Розшукати чорну скриньку</ukr>
+		<rus>Бортовой самописец</rus>
+		<eng>Бортовой самописец</eng>
+		<ukr>Бортовий самописець</ukr>
 	</string>
 	<string id="task_voronin_samopisez_1">
 		<rus>Найти упавший вертолёт</rus>
@@ -1136,9 +1141,9 @@
 		<ukr>Принести самописець Вороніну</ukr>
 	</string>
 	<string id="task_vkluchit_generator_0">
-		<rus>Запустить третий генератор</rus>
-		<eng>Запустить третий генератор</eng>
-		<ukr>Запустити третій генератор</ukr>
+		<rus>Запуск генератора</rus>
+		<eng>Запуск генератора</eng>
+		<ukr>Запуск генератора</ukr>
 	</string>
 	<string id="task_vkluchit_generator_1">
 		<rus>Запустить третий генератор</rus>
@@ -1146,9 +1151,9 @@
 		<ukr>Запустити третій генератор</ukr>
 	</string>
 	<string id="task_solv_say_0">
-		<rus>Отключить и собрать генераторы помех</rus>
-		<eng>Отключить и собрать генераторы помех</eng>
-		<ukr>Відключити і забрати генератори перешкод</ukr>
+		<rus>Отключение генераторов помех</rus>
+		<eng>Отключение генераторов помех</eng>
+		<ukr>Відключення генераторів перешкод</ukr>
 	</string>
 	<string id="task_solv_say_1">
 		<rus>Отключить генераторы помех</rus>
@@ -1161,9 +1166,9 @@
 		<ukr>Принести прилади Андерсену</ukr>
 	</string>
 	<string id="task_kluk_ch2_0">
-		<rus>Занять позицию</rus>
-		<eng>Занять позицию</eng>
-		<ukr>Зайняти позицію</ukr>
+		<rus>Позиция для наблюдения</rus>
+		<eng>Позиция для наблюдения</eng>
+		<ukr>Позиція для спостереження</ukr>
 	</string>
 	<string id="task_kluk_ch2_1">
 		<rus>Занять позицию, указанную Клыком</rus>
@@ -1191,9 +1196,9 @@
 		<ukr>Знайти Блискавку</ukr>
 	</string>
 	<string id="task_podval_lima_0">
-		<rus>Найти спутника Молнии</rus>
-		<eng>Найти спутника Молнии</eng>
-		<ukr>Знайти супутника Блискавки</ukr>
+		<rus>Странник</rus>
+		<eng>Странник</eng>
+		<ukr>Мандрівник</ukr>
 	</string>
 	<string id="task_podval_lima_1">
 		<rus>Найти странника в Лиманске</rus>
@@ -1201,9 +1206,9 @@
 		<ukr>Знайти мандрівника в Лиманську</ukr>
 	</string>
 	<string id="task_odnonog_first_0">
-		<rus>Найти телепорт в Саркофаге</rus>
-		<eng>Найти телепорт в Саркофаге</eng>
-		<ukr>Знайти телепорт у Саркофагу</ukr>
+		<rus>Телепорт в Саркофаге</rus>
+		<eng>Телепорт в Саркофаге</eng>
+		<ukr>Телепорт у Саркофазі</ukr>
 	</string>
 	<string id="task_odnonog_first_1">
 		<rus>Найти телепорт в Саркофаге</rus>
@@ -1226,9 +1231,9 @@
 		<ukr>Принести фото Максиміліану</ukr>
 	</string>
 	<string id="task_mesto_v_bunkere_0">
-		<rus>Занять позицию и открыть дверь</rus>
-		<eng>Занять позицию и открыть дверь</eng>
-		<ukr>Зайняти позицію і відкрити двері</ukr>
+		<rus>Засада</rus>
+		<eng>Засада</eng>
+		<ukr>Засідка</ukr>
 	</string>
 	<string id="task_mesto_v_bunkere_1">
 		<rus>Занять позицию и открыть дверь</rus>
@@ -1236,9 +1241,9 @@
 		<ukr>Зайняти позицію і відкрити двері</ukr>
 	</string>
 	<string id="task_radist_zhiv_0">
-		<rus>Не дать погибнуть Радисту</rus>
-		<eng>Не дать погибнуть Радисту</eng>
-		<ukr>Не дозволити загинути Радисту</ukr>
+		<rus>Спасение Радиста</rus>
+		<eng>Спасение Радиста</eng>
+		<ukr>Порятунок Радиста</ukr>
 	</string>
 	<string id="task_radist_zhiv_1">
 		<rus>Не дать погибнуть Радисту</rus>
@@ -1256,9 +1261,9 @@
 		<ukr>Знайти і оглянути схованку Радиста</ukr>
 	</string>
 	<string id="task_otkrut_seif_sadik_0">
-		<rus>Открыть сейф и уберечь Радиста</rus>
-		<eng>Открыть сейф и уберечь Радиста</eng>
-		<ukr>Відкрити сейф і зберегти Радиста</ukr>
+		<rus>Сокрытое в сейфе</rus>
+		<eng>Сокрытое в сейфе</eng>
+		<ukr>Приховане у сейфі</ukr>
 	</string>
 	<string id="task_otkrut_seif_sadik_1">
 		<rus>Открыть сейф и уберечь Радиста</rus>
@@ -1306,14 +1311,14 @@
 		<ukr>Принести кейс Кузнєцову</ukr>
 	</string>
 	<string id="task_dovesti_muzhika_0">
-		<rus>Довести Черномора до стоянки сталкеров</rus>
-		<eng>Довести Черномора до стоянки сталкеров</eng>
-		<ukr>Довести Чорномора до стоянки сталкеров</ukr>
+		<rus>Помощь Черномору</rus>
+		<eng>Помощь Черномору</eng>
+		<ukr>Допомога Чорномору</ukr>
 	</string>
 	<string id="task_dovesti_muzhika_1">
-		<rus>Вывести Черномора</rus>
-		<eng>Вывести Черномора</eng>
-		<ukr>Вивести Чорномора</ukr>
+		<rus>Довести Черномора до стоянки сталкеров</rus>
+		<eng>Довести Черномора до стоянки сталкеров</eng>
+		<ukr>Довести Чорномора до стоянки сталкерів</ukr>
 	</string>
 	<string id="task_plot_dialog_0">
 		<rus>Хабар сталкера</rus>
@@ -1331,9 +1336,9 @@
 		<ukr>Принести пожитки сталкеру</ukr>
 	</string>
 	<string id="task_f_after_deaf_0">
-		<rus>Найти чужака в деревне новичков</rus>
-		<eng>Найти чужака в деревне новичков</eng>
-		<ukr>Знайти чужака в селі новачків</ukr>
+		<rus>Убийца Пантеры</rus>
+		<eng>Убийца Пантеры</eng>
+		<ukr>Вбивця Пантери</ukr>
 	</string>
 	<string id="task_f_after_deaf_1">
 		<rus>Найти убийцу Пантеры</rus>
@@ -1341,9 +1346,9 @@
 		<ukr>Знайти вбивцю Пантери</ukr>
 	</string>
 	<string id="task_as_ubiysa_0">
-		<rus>Найти чужака на базе Свободы</rus>
-		<eng>Найти чужака на базе Свободы</eng>
-		<ukr>Знайти чужака на базі Волі</ukr>
+		<rus>Чужак</rus>
+		<eng>Чужак</eng>
+		<ukr>Чужак</ukr>
 	</string>
 	<string id="task_as_ubiysa_1">
 		<rus>Найти чужака на базе Свободы</rus>
@@ -1351,9 +1356,9 @@
 		<ukr>Знайти чужака на базе Волі</ukr>
 	</string>
 	<string id="task_kvest_vstrecha_0">
-		<rus>Подслушать разговор</rus>
-		<eng>Подслушать разговор</eng>
-		<ukr>Підслухати розмову</ukr>
+		<rus>Подслушивание</rus>
+		<eng>Подслушивание</eng>
+		<ukr>Підслуховування</ukr>
 	</string>
 	<string id="task_kvest_vstrecha_1">
 		<rus>Подслушать разговор</rus>
@@ -1371,9 +1376,9 @@
 		<ukr>Знайти телепорт і скористатися ним</ukr>
 	</string>
 	<string id="task_port_na_mg_0">
-		<rus>Найти портал</rus>
-		<eng>Найти портал</eng>
-		<ukr>Знайти портал</ukr>
+		<rus>Портал в Лиманске</rus>
+		<eng>Портал в Лиманске</eng>
+		<ukr>Портал у Лиманську</ukr>
 	</string>
 	<string id="task_port_na_mg_1">
 		<rus>Найти и активировать портал</rus>
@@ -1381,9 +1386,9 @@
 		<ukr>Знайти і активувати портал</ukr>
 	</string>
 	<string id="task_starsh_say_0">
-		<rus>Добыть провиант и снаряжение</rus>
-		<eng>Добыть провиант и снаряжение</eng>
-		<ukr>Здобути провіант і спорядження</ukr>
+		<rus>Ограбление бандитов</rus>
+		<eng>Ограбление бандитов</eng>
+		<ukr>Пограбунок бандитів</ukr>
 	</string>
 	<string id="task_starsh_say_1">
 		<rus>Добыть провиант и снаряжение</rus>
@@ -1406,9 +1411,9 @@
 		<ukr>Знайти і захистити, якщо потрібно, контролера</ukr>
 	</string>
 	<string id="task_uhod_iz_mg_0">
-		<rus>Найти тайник Нормана</rus>
-		<eng>Найти тайник Нормана</eng>
-		<ukr>Знайти схованку Нормана</ukr>
+		<rus>Побег из Мёртвого Города</rus>
+		<eng>Побег из Мёртвого Города</eng>
+		<ukr>Втеча з Мертвого Міста</ukr>
 	</string>
 	<string id="task_uhod_iz_mg_1">
 		<rus>Найти тайник Нормана</rus>
@@ -1516,14 +1521,14 @@
 		<ukr>Віднести знайдене Акиму</ukr>
 	</string>
 	<string id="task_doc_tvar_0">
-		<rus>Найти от "Каждой твари по части"</rus>
-		<eng>Найти от "Каждой твари по части"</eng>
-		<ukr>Знайти від "Кожної тварі по частині"</ukr>
+		<rus>"От каждой твари по части"</rus>
+		<eng>"От каждой твари по части"</eng>
+		<ukr>"Від кожної тварі по частині"</ukr>
 	</string>
 	<string id="task_doc_tvar_1">
-		<rus>Найти от "Каждой твари по части"</rus>
-		<eng>Найти от "Каждой твари по части"</eng>
-		<ukr>Знайти від "Кожної тварі по частині"</ukr>
+		<rus>Найти "от каждой твари по части"</rus>
+		<eng>Найти "от каждой твари по части"</eng>
+		<ukr>Знайти "від кожної тварі по частині"</ukr>
 	</string>
 	<string id="task_doc_tvar_2">
 		<rus>Отдать части монстров Акиму</rus>
@@ -1546,14 +1551,14 @@
 		<ukr>Принести арти Хресту</ukr>
 	</string>
 	<string id="task_qeast_b_0">
-		<rus>Аномальные "Бизоны"</rus>
-		<eng>Аномальные "Бизоны"</eng>
-		<ukr>Аномальні "Бізони"</ukr>
+		<rus>Аномальные «Бизоны»</rus>
+		<eng>Аномальные «Бизоны»</eng>
+		<ukr>Аномальні «Бізони»</ukr>
 	</string>
 	<string id="task_qeast_b_1">
-		<rus>Найти 6 аномальных "Бизонов"</rus>
-		<eng>Найти 6 аномальных "Бизонов"</eng>
-		<ukr>Знайти 6 аномальних "Бізонів"</ukr>
+		<rus>Найти 6 аномальных «Бизонов»</rus>
+		<eng>Найти 6 аномальных «Бизонов»</eng>
+		<ukr>Знайти 6 аномальних «Бізонів»</ukr>
 	</string>
 	<string id="task_qeast_b_2">
 		<rus>Принести пушки Кресту</rus>
