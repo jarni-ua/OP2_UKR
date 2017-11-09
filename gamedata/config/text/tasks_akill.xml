@@ -501,19 +501,24 @@
 		<ukr>Наукові зразки</ukr>
 	</string>
 	<string id="task_saharov_obrazec_1">
-		<rus>Раздобыть образцы ткани карлика</rus>
-		<eng>Раздобыть образцы ткани карлика</eng>
-		<ukr>Роздобути зразки тканин карлика</ukr>
+		<rus>Сделать фото биомассы</rus>
+		<eng>Сделать фото биомассы</eng>
+		<ukr>Сделать фото биомассы</ukr>
 	</string>
 	<string id="task_saharov_obrazec_2">
+		<rus>Раздобыть образцы ткани биомассы</rus>
+		<eng>Раздобыть образцы ткани биомассы</eng>
+		<ukr>Роздобути зразки тканин биомассы</ukr>
+	</string>
+	<string id="task_saharov_obrazec_3">
 		<rus>Найти микроскоп в Х-10</rus>
 		<eng>Найти микроскоп в Х-10</eng>
 		<ukr>Знайти мікроскоп в Х-10</ukr>
 	</string>
-	<string id="task_saharov_obrazec_3">
-		<rus>Отнести образцы Сахарову</rus>
-		<eng>Отнести образцы Сахарову</eng>
-		<ukr>Віднести зразки Сахарову</ukr>
+	<string id="task_saharov_obrazec_4">
+		<rus>Отнести образцы и микроскоп Сахарову</rus>
+		<eng>Отнести образцы и микроскоп Сахарову</eng>
+		<ukr>Віднести зразки і мікроскоп Сахарову</ukr>
 	</string>
 
 	<string id="task_sviblov_ugroza_0">
@@ -783,6 +788,22 @@
 		<ukr>Ліквідувати командира групи зачистки</ukr>
 	</string>
 	<string id="task_dragunov_aks_2">
+		<rus>Вернуться к Драгунову</rus>
+		<eng>Вернуться к Драгунову</eng>
+		<ukr>Повернутися до Драгунова</ukr>
+	</string>
+
+	<string id="task_dragunov_koleso_0">
+		<rus>Аннигиляция</rus>
+		<eng>Annihilation</eng>
+		<ukr>Аннигиляция</ukr>
+	</string>
+	<string id="task_dragunov_koleso_1">
+		<rus>Уничтожить динамическую "Электру" на колесе обозрения</rus>
+		<eng>Уничтожить динамическую "Электру" на колесе обозрения</eng>
+		<ukr>Уничтожить динамическую "Электру" на колесе обозрения</ukr>
+	</string>
+	<string id="task_dragunov_koleso_2">
 		<rus>Вернуться к Драгунову</rus>
 		<eng>Вернуться к Драгунову</eng>
 		<ukr>Повернутися до Драгунова</ukr>
@@ -1476,9 +1497,9 @@
 		<ukr>Відшукати димові шашки на хуторі месників</ukr>
 	</string>
 	<string id="task_grom_poison_2">
-		<rus>Попросить у Калмыка цветок "Амелия"</rus>
-		<eng>Попросить у Калмыка цветок "Амелия"</eng>
-		<ukr>Попросити у Калмика квітку "Амелія"</ukr>
+		<rus>Попросить помощи у Калмыка</rus>
+		<eng>Попросить помощи у Калмыка</eng>
+		<ukr>Попросити помощи у Калмика</ukr>
 	</string>
 	<string id="task_grom_poison_3">
 		<rus>Добыть жала самок скорпионниц с помощью дымовых шашек</rus>
@@ -1486,11 +1507,21 @@
 		<ukr>Добути жала самок скорпіонниць за допомогою димових шашок</ukr>
 	</string>
 	<string id="task_grom_poison_4">
+		<rus>Отыскать в Лощине цветок "Амелия"</rus>
+		<eng>Отыскать в Лощине цветок "Амелия"</eng>
+		<ukr>===Отыскать в Лощине цветок "Амелия"</ukr>
+	</string>
+	<string id="task_grom_poison_5">
+		<rus>Вернуться к Калмыку</rus>
+		<eng>Вернуться к Калмыку</eng>
+		<ukr>===Вернуться к Калмыку</ukr>
+	</string>
+	<string id="task_grom_poison_6">
 		<rus>Отдать ингредиенты Доктору</rus>
 		<eng>Отдать ингредиенты Доктору</eng>
 		<ukr>Віддати інгредієнти Доктору</ukr>
 	</string>
-	<string id="task_grom_poison_5">
+	<string id="task_grom_poison_7">
 		<rus>Отнести противоядие Грому</rus>
 		<eng>Отнести противоядие Грому</eng>
 		<ukr>Віднести протиотруту Грому</ukr>
@@ -4007,9 +4038,9 @@
 		<ukr>Протестувати SIG-Sauer P220</ukr>
 	</string>
 	<string id="task_arny_test_11">
-		<rus>Протестировать USP-45 «Expert»</rus>
-		<eng>Протестировать USP-45 «Expert»</eng>
-		<ukr>Протестувати USP-45 «Expert»</ukr>
+		<rus>Протестировать HK USP-40 «Expert»</rus>
+		<eng>Протестировать HK USP-40 «Expert»</eng>
+		<ukr>Протестувати HK USP-40 «Expert»</ukr>
 	</string>
 	<string id="task_arny_test_12">
 		<rus>Протестировать FN FNP-45</rus>
