@@ -1,3 +1,15 @@
+2017.11.21
+	- app location is stored between runs
+	- fixed " ?!"
+	- fixed " !!"
+	- fixed "! .."
+	
+2017.11.21
+	- fixed "text / text"
+	- fixed "text\ntext"
+	- fixed Text xml entity load/save
+	- added CTRL+TAB shortcut for Translate
+	- non-breaking spaces are shown as ~ symbol, do not delete or modify it
 2017.11.13
 	- fixed reading <text> tag
 	- <text> tag automatically replaced with <rus>
