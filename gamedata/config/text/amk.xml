@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-	<!-- Akill begin -->
 	<string id="mil_lukash_healing_armor_01">
 		<rus>Ну что, Меченый, порадовал! Костюм у военных знатный, попробуем внедрить их новшество с пропиткой ткани в наши комбезы. Ну, а в награду мы тебе дадим кое-какие рецепты. Есть тут у нас местный гений. Поваром зовут. Может уже с ним знаком. Так он смог из простой "Души" сотворить новые артефакты. В общем, прочтёшь всё сам. Названиям не удивляйся - Повар у нас после ранения в голову глубоко поэтичной личностью стал, так что с пониманием к нему, лады?</rus>
 		<eng>Well, Marked One, you made me glad! The military suit is splendid, we'll try to apply their innovative method of impregnating fabric to our own suits. Now, as a reward, we'll give you some recipes. There is here a local genius. Name's Chef. Perhaps, you've already met him. So he managed to create new artifacts from simple "Soul". Anyway, you read it all yourself. Don't be surprised at names - our cook has become a deeply poetic person after getting wounded in the head, so be compassionate to him, ok?</eng>
@@ -11,7 +10,6 @@
 		<eng>Of course, no problem.</eng>
 		<ukr>Звичайно, про що мова.</ukr>
 	</string>
-	<!-- Akill end -->
 	<string id="mil_lukash_healing_armor_03">
 		<rus>И ещё, Меченый. Надеюсь, эти, которые наносят пользу и причиняют добро, из Долга, не узнают этого рецепта.</rus>
 		<eng>One more thing, Marked One. I hope those, who inflict benefits and cause good, of Duty faction, that is, they won't have this recipe.</eng>
@@ -1427,9 +1425,9 @@
 		<ukr>Таймер скинуто. Рація знайдена.</ukr>
 	</string>
 	<string id="stalker">
-		<rus>Одиночка</rus>
-		<eng>Одиночка</eng>
-		<ukr>Одинак</ukr>
+		<rus>Сталкер</rus>
+		<eng>Сталкер</eng>
+		<ukr>Сталкер</ukr>
 	</string>
 	<string id="terrible">
 		<rus>ужасная</rus>
@@ -1704,14 +1702,14 @@
 	</string>
 	<!-- этот текст + имя артефакта -->
 	<string id="get_af_transform_param_text_0">
-		<rus>нет информации для </rus>
-		<eng>нет информации для </eng>
-		<ukr>немає інформації для </ukr>
+		<rus>нет информации для&#160;</rus>
+		<eng>нет информации для&#160;</eng>
+		<ukr>немає інформації для&#160;</ukr>
 	</string>
 	<string id="get_af_transform_param_text_1">
-		<rus>нет информации для </rus>
-		<eng>нет информации для </eng>
-		<ukr>немає інформації для </ukr>
+		<rus>нет информации для&#160;</rus>
+		<eng>нет информации для&#160;</eng>
+		<ukr>немає інформації для&#160;</ukr>
 	</string>
 	<string id="af_transform_universal_end_0">
 		<rus>из</rus>
