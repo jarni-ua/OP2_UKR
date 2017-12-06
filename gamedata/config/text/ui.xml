@@ -266,14 +266,14 @@
 		<ukr>Переносимый вес</ukr>
 	</string>
 	<string id="ui_inv_aw_kg">
-		<rus>кг.</rus>
-		<eng>кг.</eng>
-		<ukr>кг.</ukr>
+		<rus>кг</rus>
+		<eng>кг</eng>
+		<ukr>кг</ukr>
 	</string>
 	<string id="ui_inv_aw_gr">
-		<rus>гр.</rus>
-		<eng>гр.</eng>
-		<ukr>гр.</ukr>
+		<rus>гр</rus>
+		<eng>гр</eng>
+		<ukr>гр</ukr>
 	</string>
 	<string id="ui_inv_m">
 		<rus>м</rus>
@@ -1107,9 +1107,9 @@
 		<ukr>Розширені</ukr>
 	</string>
 	<string id="ui_mm_huds">
-		<rus>Выбрать игровой худ</rus>
-		<eng>Select game HUD</eng>
-		<ukr>Вибрати ігровий худ</ukr>
+		<rus>Выбрать HUD</rus>
+		<eng>Select HUD</eng>
+		<ukr>Вибрати HUD</ukr>
 	</string>
 	<string id="ui_mm_anisotropic">
 		<rus>Фильтрация текстур</rus>
@@ -1627,9 +1627,9 @@
 		<ukr>Нумерація рядків у діалогах</ukr>
 	</string>
 	<string id="ui_mm_options_op21_hud_min_crosshair">
-		<rus>При убирании худа показывать прицел</rus>
-		<eng>При убирании худа показывать прицел</eng>
-		<ukr>При прибиранні худа показувати приціл</ukr>
+		<rus>При убирании HUD показывать прицел</rus>
+		<eng>При убирании HUD показывать прицел</eng>
+		<ukr>При прибиранні HUD показувати приціл</ukr>
 	</string>
 	<string id="ui_mm_options_op21_show_focused">
 		<rus>Подсвечивать предмет в фокусе</rus>
@@ -1733,9 +1733,9 @@
 		<ukr>Введіть своє і'мя:</ukr>
 	</string>
 	<string id="ui_amk_opt_rad_hud">
-		<rus>Худ костюма</rus>
-		<eng>Худ костюма</eng>
-		<ukr>Худ костюма</ukr>
+		<rus>HUD костюма</rus>
+		<eng>HUD костюма</eng>
+		<ukr>HUD костюма</ukr>
 	</string>
 	<string id="ui_amk_opt_mus">
 		<rus>Динамическая музыка</rus>
@@ -1798,9 +1798,9 @@
 		<ukr>Українська</ukr>
 	</string>
 	<string id="ui_mm_huds_cap">
-		<rus>Худы:</rus>
+		<rus>HUDs:</rus>
 		<eng>HUDs:</eng>
-		<ukr>Худи:</ukr>
+		<ukr>HUDs:</ukr>
 	</string>
 	<string id="id_mp_money">
 		<rus>Деньги</rus>
@@ -3114,10 +3114,6 @@
 			%c[ui_clr_2]Shift+DblClick      %c[default]- 3 предмета\n
 			%c[ui_clr_2]Ctrl+DblClick       %c[default]- 10 предметов\n
 			%c[ui_clr_2]Ctrl+Shift+DblClick %c[default]- все предметы\n
-			\n
-			%c[default]Перед перемещением оружия необходимо сначала разрядить его и снять все обвесы.\n
-			\n
-			Перед перемещением контейнеров необходимо выложить из них артефакты.
 		</rus>
 		<eng>\n
 			Перемещение\n
@@ -3125,10 +3121,6 @@
 			%c[ui_clr_2]Shift+DblClick      %c[default]- 3 предмета\n
 			%c[ui_clr_2]Ctrl+DblClick       %c[default]- 10 предметов\n
 			%c[ui_clr_2]Ctrl+Shift+DblClick %c[default]- все предметы\n
-			\n
-			%c[default]Перед перемещением оружия необходимо сначала разрядить его и снять все обвесы.\n
-			\n
-			Перед перемещением контейнеров необходимо выложить из них артефакты.
 		</eng>
 		<ukr>\n
 			Переміщення\n
@@ -3136,10 +3128,6 @@
 			%c[ui_clr_2]Shift+DblClick      %c[default]- 3 предмети\n
 			%c[ui_clr_2]Ctrl+DblClick       %c[default]- 10 предметів\n
 			%c[ui_clr_2]Ctrl+Shift+DblClick %c[default]- всі предмети\n
-			\n
-			%c[default]Перед переміщенням зброї необхідно спочатку розрядити її та зняти всі обвіси.\n
-			\n
-			Перед переміщенням контейнерів необхідно викласти з них артефакти.
 		</ukr>
 	</string>
 	<string id="txt_safe_pay_store">
@@ -3723,4 +3711,11 @@
 		<eng>Unshielded irradiation</eng>
 		<ukr>Неекрановане опромінення</ukr>
 	</string>
+	<string id="ui_mm_music">
+		<text>Музыка в главном меню</text>
+		<eng>Music in the main menu</eng>
+		<ukr>Музика в головному меню</ukr>
+	</string>
+	
+	
 </string_table>
