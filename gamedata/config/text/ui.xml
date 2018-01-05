@@ -3731,5 +3731,29 @@
 		<eng>Weapons in critical condition. Usage is not possible!</eng>
 		<ukr>Зброя в критичному стані. Використання неможливо!</ukr>
 	</string>
-	
+	<string id="st_charge_exo">
+		<rus>зарядить экзоскелет</rus>
+		<eng>charge exoskeleton</eng>
+		<ukr>зарядити экзоскелет</ukr>
+	</string>
+	<string id="st_discharge_exo">
+		<rus>разрядить экзоскелет</rus>
+		<eng>discharge exoskeleton</eng>
+		<ukr>розрядити экзоскелет</ukr>
+	</string>	
+	<string id="cant_exo_jump">
+		<rus>cant_exo_jump</rus>
+		<eng>cant_exo_jump</eng>
+		<ukr>cant_exo_jump</ukr>
+	</string>	
+	<string id="cant_exo_sprint">
+		<rus>cant_exo_sprint</rus>
+		<eng>cant_exo_sprint</eng>
+		<ukr>cant_exo_sprint</ukr>
+	</string>
+	<string id="ui_st_bc_desc">
+		<rus>уровень заряда</rus>
+		<eng>charge level</eng>
+		<ukr>рівень заряду</ukr>
+	</string>
 </string_table>
