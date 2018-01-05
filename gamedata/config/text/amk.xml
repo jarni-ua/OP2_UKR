@@ -1000,7 +1000,7 @@
 	<string id="sysh_document_name">
 		<rus>Записка Сыча</rus>
 		<eng>Записка Сыча</eng>
-		<ukr>Записка Сича.</ukr>
+		<ukr>Записка Сича</ukr>
 	</string>
 	<string id="sysh_document_desc">
 		<rus>Записка Сыча, адресованная Призраку.</rus>
@@ -1010,29 +1010,17 @@
 	<string id="sysh_flash_name">
 		<rus>Флешка Сыча</rus>
 		<eng>Флешка Сыча</eng>
-		<ukr>Флешка Сича.</ukr>
+		<ukr>Флешка Сича</ukr>
 	</string>
 	<string id="sysh_flash_desc">
 		<rus>На флешке есть информация о схроне на Металлургическом Заводе, в котором лежит записка, адресованная Призраку.</rus>
 		<eng>На флешке есть информация о схроне на Металлургическом Заводе, в котором лежит записка, адресованная Призраку.</eng>
 		<ukr>На флешці є інформація про схованку на Металургійному Заводі, у якій лежить записка, адресована Привиду.</ukr>
 	</string>
-	<!-- !!!! Удалить перед НИ или релизом -->
-	<string id="inventory_new_box_name">
-		<rus>Металлический ящик с замком</rus>
-		<eng>Металлический ящик с замком</eng>
-		<ukr>Металевий ящик з замком.</ukr>
-	</string>
-	<string id="inventory_new_box_desc">
-		<rus>Металлический ящик с кодовым замком. Придётся помучиться.</rus>
-		<eng>Металлический ящик с кодовым замком. Придётся помучиться.</eng>
-		<ukr>Металевий ящик з кодовим замком. Доведеться помучитися.</ukr>
-	</string>
-	<!-- Удалить end -->
 	<string id="item_sniper_flash_name">
 		<rus>Флешка Зверя</rus>
 		<eng>Флешка Зверя</eng>
-		<ukr>Флешка Звіра.</ukr>
+		<ukr>Флешка Звіра</ukr>
 	</string>
 	<string id="item_sniper_flash_desc">
 		<rus>На флешке список людей, которых заказали. Стрелок - первый в списке.</rus>
@@ -1194,6 +1182,11 @@
 		<eng>Последний День</eng>
 		<ukr>Останній День</ukr>
 	</string>
+	<string id="nebo">
+		<rus>Чистое Небо</rus>
+		<eng>Чистое Небо</eng>
+		<ukr>Чисте небо</ukr>
+	</string>
 	<string id="fotoman">
 		<rus>Матрица активирована</rus>
 		<eng>Матрица активирована</eng>
@@ -1205,19 +1198,19 @@
 		<ukr>погано</ukr>
 	</string>
 	<string id="sniper">
-		<rus>Мститель</rus>
-		<eng>Мститель</eng>
+		<rus>Мстители</rus>
+		<eng>Мстители</eng>
 		<ukr>Месник</ukr>
 	</string>
 	<string id="green">
-		<rus>Охотник</rus>
-		<eng>Охотник</eng>
+		<rus>Охотники</rus>
+		<eng>Охотники</eng>
 		<ukr>Мисливець</ukr>
 	</string>
 	<string id="bandit">
-		<rus>Бандит</rus>
-		<eng>Бандит</eng>
-		<ukr>Бандит</ukr>
+		<rus>Бандиты</rus>
+		<eng>Бандиты</eng>
+		<ukr>Бандити</ukr>
 	</string>
 	<string id="dolg">
 		<rus>Долг</rus>
@@ -1225,9 +1218,9 @@
 		<ukr>«Долг»</ukr>
 	</string>
 	<string id="ecolog">
-		<rus>Эколог</rus>
-		<eng>Эколог</eng>
-		<ukr>Еколог</ukr>
+		<rus>Учёные</rus>
+		<eng>Учёные</eng>
+		<ukr>Вчені</ukr>
 	</string>
 	<string id="enemy">
 		<rus>враг</rus>
@@ -1270,9 +1263,9 @@
 		<ukr>нейтрал</ukr>
 	</string>
 	<string id="killer">
-		<rus>Наёмник</rus>
-		<eng>Наёмник</eng>
-		<ukr>Найманець</ukr>
+		<rus>Наёмники</rus>
+		<eng>Наёмники</eng>
+		<ukr>Найманеці</ukr>
 	</string>
 	<string id="l01_escape">
 		<rus>Кордон</rus>
@@ -1340,9 +1333,9 @@
 		<ukr>майстер</ukr>
 	</string>
 	<string id="military">
-		<rus>Военный</rus>
-		<eng>Военный</eng>
-		<ukr>Військовий</ukr>
+		<rus>Военные</rus>
+		<eng>Военные</eng>
+		<ukr>Військові</ukr>
 	</string>
 	<string id="monolith">
 		<rus>Монолит</rus>
@@ -1425,9 +1418,9 @@
 		<ukr>Таймер скинуто. Рація знайдена.</ukr>
 	</string>
 	<string id="stalker">
-		<rus>Сталкер</rus>
-		<eng>Сталкер</eng>
-		<ukr>Сталкер</ukr>
+		<rus>Сталкеры</rus>
+		<eng>Сталкеры</eng>
+		<ukr>Сталкери</ukr>
 	</string>
 	<string id="terrible">
 		<rus>ужасная</rus>
@@ -1435,9 +1428,9 @@
 		<ukr>жахливо</ukr>
 	</string>
 	<string id="trader">
-		<rus>Торговец</rus>
-		<eng>Торговец</eng>
-		<ukr>Крамар</ukr>
+		<rus>Торговцы</rus>
+		<eng>Торговцы</eng>
+		<ukr>Крамарі</ukr>
 	</string>
 	<string id="ui_st_community">
 		<rus>группа</rus>
@@ -1480,9 +1473,9 @@
 		<ukr>ветеран</ukr>
 	</string>
 	<string id="zombied">
-		<rus>Зомбированный</rus>
-		<eng>Зомбированный</eng>
-		<ukr>Зомбований</ukr>
+		<rus>Зомбированные</rus>
+		<eng>Зомбированные</eng>
+		<ukr>Зомбовані</ukr>
 	</string>
 	<string id="Btn_Cancel">
 		<rus>Отменить</rus>
