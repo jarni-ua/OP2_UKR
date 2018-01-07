@@ -1337,9 +1337,9 @@
 		<ukr>Реалізм</ukr>
 	</string>
 	<string id="ui_mm_master_volume">
-		<rus>Громкость</rus>
-		<eng>Громкость</eng>
-		<ukr>Гучність</ukr>
+		<rus>Громкость общая</rus>
+		<eng>Total volume</eng>
+		<ukr>Гучність загальна</ukr>
 	</string>
 	<string id="ui_mm_mouse_sense">
 		<rus>Чувствительность мыши</rus>
@@ -1357,9 +1357,9 @@
 		<ukr>Гра в мережі</ukr>
 	</string>
 	<string id="ui_mm_music_volume">
-		<rus>Громкость музыки</rus>
-		<eng>Громкость музыки</eng>
-		<ukr>Гучність музики</ukr>
+		<rus>Громкость музыки и эффектов</rus>
+		<eng>Music and effects volume</eng>
+		<ukr>Гучність музики та ефектів</ukr>
 	</string>
 	<string id="ui_mm_need_restart">
 		<rus>Изменения вступят в силу только после перезагрузки игры.</rus>
@@ -3716,10 +3716,44 @@
 		<eng>Music in the main menu</eng>
 		<ukr>Музика в головному меню</ukr>
 	</string>
+	<string id="ui_snd_emb_music">
+		<rus>Музыка окружения в игре</rus>
+		<eng>Music of the environment in the game</eng>
+		<ukr>Музика оточення в грі</ukr>
+	</string>
+	<string id="ui_snd_emb_sounds">
+		<rus>Эффекты окружения в игре</rus>
+		<eng>Effects of the environment in the game</eng>
+		<ukr>Ефекти оточення в грі</ukr>
+	</string>	
 	<string id="ui_critical_knife">
 		<rus>Оружие в критическом состоянии. Использование невозможно!</rus>
 		<eng>Weapons in critical condition. Usage is not possible!</eng>
 		<ukr>Зброя в критичному стані. Використання неможливо!</ukr>
 	</string>
-	
+	<string id="st_charge_exo">
+		<rus>зарядить экзоскелет</rus>
+		<eng>charge exoskeleton</eng>
+		<ukr>зарядити экзоскелет</ukr>
+	</string>
+	<string id="st_discharge_exo">
+		<rus>разрядить экзоскелет</rus>
+		<eng>discharge exoskeleton</eng>
+		<ukr>розрядити экзоскелет</ukr>
+	</string>	
+	<string id="cant_exo_jump">
+		<rus>cant_exo_jump</rus>
+		<eng>cant_exo_jump</eng>
+		<ukr>cant_exo_jump</ukr>
+	</string>	
+	<string id="cant_exo_sprint">
+		<rus>cant_exo_sprint</rus>
+		<eng>cant_exo_sprint</eng>
+		<ukr>cant_exo_sprint</ukr>
+	</string>
+	<string id="ui_st_bc_desc">
+		<rus>уровень заряда</rus>
+		<eng>charge level</eng>
+		<ukr>рівень заряду</ukr>
+	</string>
 </string_table>

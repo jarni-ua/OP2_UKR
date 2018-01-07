@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<?xml version="1.0" encoding="windows-1251" standalone="yes"?>
 <string_table>
 	<string id="news_finished">
 		<rus>Завершено</rus>
 		<eng>Завершено</eng>
-		<ukr>===Завершено</ukr>
+		<ukr>Завершено</ukr>
 	</string>
 	<string id="news_finished_small">
 		<rus>завершено</rus>
 		<eng>завершено</eng>
-		<ukr>===завершено</ukr>
+		<ukr>завершено</ukr>
 	</string>
 	<string id="news_next">
 		<rus>Следующее</rus>
 		<eng>Следующее</eng>
-		<ukr>===Следующее</ukr>
+		<ukr>Наступне</ukr>
 	</string>
 	<string id="news_article">
 		<rus>Новая статья в энциклопедии</rus>
 		<eng>Новая статья в энциклопедии</eng>
-		<ukr>===Новая статья в энциклопедии</ukr>
+		<ukr>Нова стаття в енциклопедії</ukr>
 	</string>
 	<string id="news_journal">
 		<rus>Новая заметка в журнале</rus>
 		<eng>Новая заметка в журнале</eng>
-		<ukr>===Новая заметка в журнале</ukr>
+		<ukr>Нова замітка в журналі</ukr>
 	</string>
 	<string id="news_task">
 		<rus>Дополнено описание задания</rus>
 		<eng>Дополнено описание задания</eng>
-		<ukr>===Дополнено описание задания</ukr>
+		<ukr>Доповнено опис завдання</ukr>
 	</string>
 	<string id="news_info">
 		<rus>Получена информация</rus>
 		<eng>Получена информация</eng>
-		<ukr>===Получена информация</ukr>
+		<ukr>Отримано інформацію</ukr>
 	</string>
 	<string id="bp_l01_escape_1_0">
 		<rus>заброшенная фабрика</rus>
@@ -1845,6 +1845,11 @@
 		<eng>В Бункере Монолита</eng>
 		<ukr>У Бункері Моноліту</ukr>
 	</string>
+	<string id="ln_l56_rostok_factory_1">
+		<rus>На Металлургическом Заводе</rus>
+		<eng>На Металлургическом Заводе</eng>
+		<ukr>На Металлургическом Заводе</ukr>
+	</string>
 	<string id="ln_l12u_sarcofag_0">
 		<rus>Саркофаг</rus>
 		<eng>Саркофаг</eng>
@@ -2236,54 +2241,54 @@
 		<ukr>експерт бу у своїй справі</ukr>
 	</string>
 	<string id="rn_pre_0">
-		<rus>Представляете,&#160;</rus>
-		<eng>Представляете,&#160;</eng>
-		<ukr>Представляєте,&#160;</ukr>
+		<rus>Представляете, </rus>
+		<eng>Представляете, </eng>
+		<ukr>Представляєте, </ukr>
 	</string>
 	<string id="rn_pre_1">
-		<rus>Эх,&#160;</rus>
-		<eng>Эх,&#160;</eng>
-		<ukr>Ех,&#160;</ukr>
+		<rus>Эх, </rus>
+		<eng>Эх, </eng>
+		<ukr>Ех, </ukr>
 	</string>
 	<string id="rn_pre_2">
-		<rus>Блин,&#160;</rus>
-		<eng>Блин,&#160;</eng>
-		<ukr>Блін,&#160;</ukr>
+		<rus>Блин, </rus>
+		<eng>Блин, </eng>
+		<ukr>Блін, </ukr>
 	</string>
 	<string id="rn_pre_3">
-		<rus>Ёлки,&#160;</rus>
-		<eng>Ёлки,&#160;</eng>
-		<ukr>Йолки,&#160;</ukr>
+		<rus>Ёлки, </rus>
+		<eng>Ёлки, </eng>
+		<ukr>Йолки, </ukr>
 	</string>
 	<string id="rn_pre_4">
-		<rus>Трындец,&#160;</rus>
-		<eng>Трындец,&#160;</eng>
-		<ukr>Триндець,&#160;</ukr>
+		<rus>Трындец, </rus>
+		<eng>Трындец, </eng>
+		<ukr>Триндець, </ukr>
 	</string>
 	<string id="rn_pre_5">
-		<rus>Кажется,&#160;</rus>
-		<eng>Кажется,&#160;</eng>
-		<ukr>Здається,&#160;</ukr>
+		<rus>Кажется, </rus>
+		<eng>Кажется, </eng>
+		<ukr>Здається, </ukr>
 	</string>
 	<string id="rn_pre_6">
-		<rus>Вот ведь,&#160;</rus>
-		<eng>Вот ведь,&#160;</eng>
-		<ukr>От же ж,&#160;</ukr>
+		<rus>Вот ведь, </rus>
+		<eng>Вот ведь, </eng>
+		<ukr>От же ж, </ukr>
 	</string>
 	<string id="rn_post_0">
-		<rus>&#160;Странные дела творятся...</rus>
-		<eng>&#160;Странные дела творятся...</eng>
-		<ukr>&#160;Дивні справи творяться...</ukr>
+		<rus> Странные дела творятся...</rus>
+		<eng> Странные дела творятся...</eng>
+		<ukr> Дивні справи творяться...</ukr>
 	</string>
 	<string id="rn_post_1">
-		<rus>&#160;Жуть.</rus>
-		<eng>&#160;Жуть.</eng>
-		<ukr>&#160;Жах.</ukr>
+		<rus> Жуть.</rus>
+		<eng> Жуть.</eng>
+		<ukr> Жах.</ukr>
 	</string>
 	<string id="rn_post_2">
-		<rus>&#160;Не повезло...</rus>
-		<eng>&#160;Не повезло...</eng>
-		<ukr>&#160;Не повезло...</ukr>
+		<rus> Не повезло...</rus>
+		<eng> Не повезло...</eng>
+		<ukr> Не повезло...</ukr>
 	</string>
 	<string id="co_sad_a_0">
 		<rus>Эх,</rus>
@@ -3621,59 +3626,59 @@
 		<ukr>Добре погризли.</ukr>
 	</string>
 	<string id="ms_1_0">
-		<rus>Похоже,&#160;</rus>
-		<eng>Похоже,&#160;</eng>
-		<ukr>Схоже,&#160;</ukr>
+		<rus>Похоже, </rus>
+		<eng>Похоже, </eng>
+		<ukr>Схоже, </ukr>
 	</string>
 	<string id="ms_1_1">
-		<rus>Явно&#160;</rus>
-		<eng>Явно&#160;</eng>
-		<ukr>Явно&#160;</ukr>
+		<rus>Явно </rus>
+		<eng>Явно </eng>
+		<ukr>Явно </ukr>
 	</string>
 	<string id="ms_1_2">
-		<rus>Наверное,&#160;</rus>
-		<eng>Наверное,&#160;</eng>
-		<ukr>Напевно,&#160;</ukr>
+		<rus>Наверное, </rus>
+		<eng>Наверное, </eng>
+		<ukr>Напевно, </ukr>
 	</string>
 	<string id="ms_1_3">
-		<rus>Видимо,&#160;</rus>
-		<eng>Видимо,&#160;</eng>
-		<ukr>Очевидно,&#160;</ukr>
+		<rus>Видимо, </rus>
+		<eng>Видимо, </eng>
+		<ukr>Очевидно, </ukr>
 	</string>
 	<string id="ms_1_4">
-		<rus>По всей видимости,&#160;</rus>
-		<eng>По всей видимости,&#160;</eng>
-		<ukr>Судячи з усього,&#160;</ukr>
+		<rus>По всей видимости, </rus>
+		<eng>По всей видимости, </eng>
+		<ukr>Судячи з усього, </ukr>
 	</string>
 	<string id="ms_2_0">
-		<rus>Смахивает на работу&#160;</rus>
-		<eng>Смахивает на работу&#160;</eng>
-		<ukr>Схоже на роботу&#160;</ukr>
+		<rus>Смахивает на работу </rus>
+		<eng>Смахивает на работу </eng>
+		<ukr>Схоже на роботу </ukr>
 	</string>
 	<string id="ms_2_1">
-		<rus>Видимо, не убежал от&#160;</rus>
-		<eng>Видимо, не убежал от&#160;</eng>
-		<ukr>Видно, не втік від&#160;</ukr>
+		<rus>Видимо, не убежал от </rus>
+		<eng>Видимо, не убежал от </eng>
+		<ukr>Видно, не втік від </ukr>
 	</string>
 	<string id="ms_3_0">
-		<rus>Напоролся на&#160;</rus>
-		<eng>Напоролся на&#160;</eng>
-		<ukr>Напоровся на&#160;</ukr>
+		<rus>Напоролся на </rus>
+		<eng>Напоролся на </eng>
+		<ukr>Напоровся на </ukr>
 	</string>
 	<string id="ms_3_1">
-		<rus>Встретил&#160;</rus>
-		<eng>Встретил&#160;</eng>
-		<ukr>Зустрів&#160;</ukr>
+		<rus>Встретил </rus>
+		<eng>Встретил </eng>
+		<ukr>Зустрів </ukr>
 	</string>
 	<string id="ms_4_0">
-		<rus>Попался&#160;</rus>
-		<eng>Попался&#160;</eng>
-		<ukr>Попався&#160;</ukr>
+		<rus>Попался </rus>
+		<eng>Попался </eng>
+		<ukr>Попався </ukr>
 	</string>
 	<string id="ms_4_1">
-		<rus>Попал на обед к&#160;</rus>
-		<eng>Попал на обед к&#160;</eng>
-		<ukr>Попав на обід до&#160;</ukr>
+		<rus>Попал на обед к </rus>
+		<eng>Попал на обед к </eng>
+		<ukr>Попав на обід до </ukr>
 	</string>
 	<string id="an_0">
 		<rus>"Студень"</rus>
@@ -3921,24 +3926,24 @@
 		<ukr>Замерз, ясне діло</ukr>
 	</string>
 	<string id="apr_0">
-		<rus>Кажется, попал в&#160;</rus>
-		<eng>Кажется, попал в&#160;</eng>
-		<ukr>Здається, попав у&#160;</ukr>
+		<rus>Кажется, попал в </rus>
+		<eng>Кажется, попал в </eng>
+		<ukr>Здається, попав у </ukr>
 	</string>
 	<string id="apr_1">
-		<rus>Влетел в&#160;</rus>
-		<eng>Влетел в&#160;</eng>
-		<ukr>Влетів у&#160;</ukr>
+		<rus>Влетел в </rus>
+		<eng>Влетел в </eng>
+		<ukr>Влетів у </ukr>
 	</string>
 	<string id="apr_2">
-		<rus>Попал в&#160;</rus>
-		<eng>Попал в&#160;</eng>
-		<ukr>Попав у&#160;</ukr>
+		<rus>Попал в </rus>
+		<eng>Попал в </eng>
+		<ukr>Попав у </ukr>
 	</string>
 	<string id="apr_3">
-		<rus>Не заметил&#160;</rus>
-		<eng>Не заметил&#160;</eng>
-		<ukr>Не помітив&#160;</ukr>
+		<rus>Не заметил </rus>
+		<eng>Не заметил </eng>
+		<ukr>Не помітив </ukr>
 	</string>
 	<string id="apo_0">
 		<rus>Незадолго до этого выронил КПК, иначе я не смог бы его опознать.</rus>
@@ -5903,401 +5908,401 @@
 	<string id="newsmain_2">
 		<rus>пулевое ранение</rus>
 		<eng>пулевое ранение</eng>
-		<ukr>===пулевое ранение</ukr>
+		<ukr>кульове поранення</ukr>
 	</string>
 	<string id="newsmain_3">
 		<rus>нож</rus>
 		<eng>нож</eng>
-		<ukr>===нож</ukr>
+		<ukr>ніж</ukr>
 	</string>
 	<string id="newsmain_4">
 		<rus>ожоги</rus>
 		<eng>ожоги</eng>
-		<ukr>===ожоги</ukr>
+		<ukr>опіки</ukr>
 	</string>
 	<string id="newsmain_5">
 		<rus>граната</rus>
 		<eng>граната</eng>
-		<ukr>===граната</ukr>
+		<ukr>граната</ukr>
 	</string>
 	<string id="newsmain_6">
 		<rus>пулевое ранение</rus>
 		<eng>пулевое ранение</eng>
-		<ukr>===пулевое ранение</ukr>
+		<ukr>кульове поранення</ukr>
 	</string>
 	<string id="newsmain_7">
 		<rus>нож</rus>
 		<eng>нож</eng>
-		<ukr>===нож</ukr>
+		<ukr>ніж</ukr>
 	</string>
 	<string id="newsmain_8">
 		<rus>ожоги</rus>
 		<eng>ожоги</eng>
-		<ukr>===ожоги</ukr>
+		<ukr>опіки</ukr>
 	</string>
 	<string id="newsmain_9">
 		<rus>граната</rus>
 		<eng>граната</eng>
-		<ukr>===граната</ukr>
+		<ukr>граната</ukr>
 	</string>
 	<string id="newsmain_10">
 		<rus>причина смерти - неизвестна</rus>
 		<eng>причина смерти - неизвестна</eng>
-		<ukr>===причина смерти - неизвестна</ukr>
+		<ukr>причина смерті - невідома</ukr>
 	</string>
 	<string id="newsmain_11">
 		<rus>причина смерти - неизвестна</rus>
 		<eng>причина смерти - неизвестна</eng>
-		<ukr>===причина смерти - неизвестна</ukr>
+		<ukr>причина смерті - невідома</ukr>
 	</string>
 	<string id="newsmain_12">
 		<rus>Погиб сталкер:</rus>
 		<eng>Погиб сталкер:</eng>
-		<ukr>===Погиб сталкер:</ukr>
+		<ukr>Загинув сталкер:</ukr>
 	</string>
 	<string id="newsmain_13">
-		<rus>артефакт&#160;</rus>
-		<eng>артефакт&#160;</eng>
-		<ukr>===артефакт&#160;</ukr>
+		<rus>артефакт </rus>
+		<eng>артефакт </eng>
+		<ukr>артефакт </ukr>
 	</string>
 	<string id="newsmain_14">
-		<rus>артефакт&#160;</rus>
-		<eng>артефакт&#160;</eng>
-		<ukr>===артефакт&#160;</ukr>
+		<rus>артефакт </rus>
+		<eng>артефакт </eng>
+		<ukr>артефакт </ukr>
 	</string>
 	<string id="newsmain_23">
 		<rus>Слышал ужасные крики</rus>
 		<eng>Слышал ужасные крики</eng>
-		<ukr>===Слышал ужасные крики</ukr>
+		<ukr>Чув жахливі крики</ukr>
 	</string>
 	<string id="newsmain_24">
 		<rus>слышал ужасные крики</rus>
 		<eng>слышал ужасные крики</eng>
-		<ukr>===слышал ужасные крики</ukr>
+		<ukr>чув жахливі крики</ukr>
 	</string>
 	<string id="newsmain_25">
 		<rus>Слышал страшный рык</rus>
 		<eng>Слышал страшный рык</eng>
-		<ukr>===Слышал страшный рык</ukr>
+		<ukr>Чув страшний рик</ukr>
 	</string>
 	<string id="newsmain_26">
 		<rus>слышал страшный рык</rus>
 		<eng>слышал страшный рык</eng>
-		<ukr>===слышал страшный рык</ukr>
+		<ukr>чув страшний рик</ukr>
 	</string>
 	<string id="newsmain_27">
 		<rus>недавно в Зоне</rus>
 		<eng>недавно в Зоне</eng>
-		<ukr>===недавно в Зоне</ukr>
+		<ukr>недавно в Зоні</ukr>
 	</string>
 	<string id="newsmain_28">
 		<rus>одного</rus>
 		<eng>одного</eng>
-		<ukr>===одного</ukr>
+		<ukr>одного</ukr>
 	</string>
 	<string id="newsmain_29">
 		<rus>парочку</rus>
 		<eng>парочку</eng>
-		<ukr>===парочку</ukr>
+		<ukr>парочку</ukr>
 	</string>
 	<string id="newsmain_30">
 		<rus>несколько</rus>
 		<eng>несколько</eng>
-		<ukr>===несколько</ukr>
+		<ukr>декілька</ukr>
 	</string>
 	<string id="newsmain_31">
 		<rus>группу</rus>
 		<eng>группу</eng>
-		<ukr>===группу</ukr>
+		<ukr>групу</ukr>
 	</string>
 	<string id="newsmain_32">
 		<rus>большую группу</rus>
 		<eng>большую группу</eng>
-		<ukr>===большую группу</ukr>
+		<ukr>велику групу</ukr>
 	</string>
 	<string id="newsmain_34">
 		<rus>кучу</rus>
 		<eng>кучу</eng>
-		<ukr>===кучу</ukr>
+		<ukr>купу</ukr>
 	</string>
 	<string id="newsmain_35">
 		<rus>парочку</rus>
 		<eng>парочку</eng>
-		<ukr>===парочку</ukr>
+		<ukr>парочку</ukr>
 	</string>
 	<string id="newsmain_36">
 		<rus>несколько</rus>
 		<eng>несколько</eng>
-		<ukr>===несколько</ukr>
+		<ukr>декілька</ukr>
 	</string>
 	<string id="newsmain_37">
 		<rus>группу</rus>
 		<eng>группу</eng>
-		<ukr>===группу</ukr>
+		<ukr>групу</ukr>
 	</string>
 	<string id="newsmain_38">
 		<rus>большую группу</rus>
 		<eng>большую группу</eng>
-		<ukr>===большую группу</ukr>
+		<ukr>велику групу</ukr>
 	</string>
 	<string id="newsmain_39">
-		<rus>&#160;возле&#160;</rus>
-		<eng>&#160;возле&#160;</eng>
-		<ukr>===&#160;возле&#160;</ukr>
+		<rus> возле </rus>
+		<eng> возле </eng>
+		<ukr> біля </ukr>
 	</string>
 	<string id="newsmain_40">
-		<rus>&#160;около&#160;</rus>
-		<eng>&#160;около&#160;</eng>
-		<ukr>===&#160;около&#160;</ukr>
+		<rus> около </rus>
+		<eng> около </eng>
+		<ukr> близько </ukr>
 	</string>
 	<string id="newsmain_41">
-		<rus>&#160;к востоку от&#160;</rus>
-		<eng>&#160;к востоку от&#160;</eng>
-		<ukr>===&#160;к востоку от&#160;</ukr>
+		<rus> к востоку от </rus>
+		<eng> к востоку от </eng>
+		<ukr> на схід від </ukr>
 	</string>
 	<string id="newsmain_42">
-		<rus>&#160;к северо-востоку от&#160;</rus>
-		<eng>&#160;к северо-востоку от&#160;</eng>
-		<ukr>===&#160;к северо-востоку от&#160;</ukr>
+		<rus> к северо-востоку от </rus>
+		<eng> к северо-востоку от </eng>
+		<ukr> на північний схід від </ukr>
 	</string>
 	<string id="newsmain_43">
-		<rus>&#160;к северу от&#160;</rus>
-		<eng>&#160;к северу от&#160;</eng>
-		<ukr>===&#160;к северу от&#160;</ukr>
+		<rus> к северу от </rus>
+		<eng> к северу от </eng>
+		<ukr> на північ від </ukr>
 	</string>
 	<string id="newsmain_44">
-		<rus>&#160;к северо-западу от&#160;</rus>
-		<eng>&#160;к северо-западу от&#160;</eng>
-		<ukr>===&#160;к северо-западу от&#160;</ukr>
+		<rus> к северо-западу от </rus>
+		<eng> к северо-западу от </eng>
+		<ukr> на північний захід від </ukr>
 	</string>
 	<string id="newsmain_45">
-		<rus>&#160;к западу от&#160;</rus>
-		<eng>&#160;к западу от&#160;</eng>
-		<ukr>===&#160;к западу от&#160;</ukr>
+		<rus> к западу от </rus>
+		<eng> к западу от </eng>
+		<ukr> на захід від </ukr>
 	</string>
 	<string id="newsmain_46">
-		<rus>&#160;к юго-западу от&#160;</rus>
-		<eng>&#160;к юго-западу от&#160;</eng>
-		<ukr>===&#160;к юго-западу от&#160;</ukr>
+		<rus> к юго-западу от </rus>
+		<eng> к юго-западу от </eng>
+		<ukr> на північний захід від </ukr>
 	</string>
 	<string id="newsmain_47">
-		<rus>&#160;к югу от&#160;</rus>
-		<eng>&#160;к югу от&#160;</eng>
-		<ukr>===&#160;к югу от&#160;</ukr>
+		<rus> к югу от </rus>
+		<eng> к югу от </eng>
+		<ukr> на південь від </ukr>
 	</string>
 	<string id="newsmain_48">
-		<rus>&#160;к юго-востоку от&#160;</rus>
-		<eng>&#160;к юго-востоку от&#160;</eng>
-		<ukr>===&#160;к юго-востоку от&#160;</ukr>
+		<rus> к юго-востоку от </rus>
+		<eng> к юго-востоку от </eng>
+		<ukr> на південний схід від </ukr>
 	</string>
 	<string id="newsmain_49">
-		<rus>&#160;недалеко от&#160;</rus>
-		<eng>&#160;недалеко от&#160;</eng>
-		<ukr>===&#160;недалеко от&#160;</ukr>
+		<rus> недалеко от </rus>
+		<eng> недалеко от </eng>
+		<ukr> недалеко від </ukr>
 	</string>
 	<string id="newsmain_50">
-		<rus>&#160;возле&#160;</rus>
-		<eng>&#160;возле&#160;</eng>
-		<ukr>===&#160;возле&#160;</ukr>
+		<rus> возле </rus>
+		<eng> возле </eng>
+		<ukr> біля </ukr>
 	</string>
 	<string id="newsmain_51">
-		<rus>&#160;около&#160;</rus>
-		<eng>&#160;около&#160;</eng>
-		<ukr>===&#160;около&#160;</ukr>
+		<rus> около </rus>
+		<eng> около </eng>
+		<ukr> близько </ukr>
 	</string>
 	<string id="newsmain_52">
-		<rus>&#160;к востоку от&#160;</rus>
-		<eng>&#160;к востоку от&#160;</eng>
-		<ukr>===&#160;к востоку от&#160;</ukr>
+		<rus> к востоку от </rus>
+		<eng> к востоку от </eng>
+		<ukr> на схід від </ukr>
 	</string>
 	<string id="newsmain_53">
-		<rus>&#160;к северо-востоку от&#160;</rus>
-		<eng>&#160;к северо-востоку от&#160;</eng>
-		<ukr>===&#160;к северо-востоку от&#160;</ukr>
+		<rus> к северо-востоку от </rus>
+		<eng> к северо-востоку от </eng>
+		<ukr> на північний схід від </ukr>
 	</string>
 	<string id="newsmain_54">
-		<rus>&#160;к северу от&#160;</rus>
-		<eng>&#160;к северу от&#160;</eng>
-		<ukr>===&#160;к северу от&#160;</ukr>
+		<rus> к северу от </rus>
+		<eng> к северу от </eng>
+		<ukr> на північ від </ukr>
 	</string>
 	<string id="newsmain_55">
-		<rus>&#160;к северо-западу от&#160;</rus>
-		<eng>&#160;к северо-западу от&#160;</eng>
-		<ukr>===&#160;к северо-западу от&#160;</ukr>
+		<rus> к северо-западу от </rus>
+		<eng> к северо-западу от </eng>
+		<ukr> на північний захід від </ukr>
 	</string>
 	<string id="newsmain_56">
-		<rus>&#160;к западу от&#160;</rus>
-		<eng>&#160;к западу от&#160;</eng>
-		<ukr>===&#160;к западу от&#160;</ukr>
+		<rus> к западу от </rus>
+		<eng> к западу от </eng>
+		<ukr> на захід від </ukr>
 	</string>
 	<string id="newsmain_57">
-		<rus>&#160;к юго-западу от&#160;</rus>
-		<eng>&#160;к юго-западу от&#160;</eng>
-		<ukr>===&#160;к юго-западу от&#160;</ukr>
+		<rus> к юго-западу от </rus>
+		<eng> к юго-западу от </eng>
+		<ukr> на північний захід від </ukr>
 	</string>
 	<string id="newsmain_58">
-		<rus>&#160;к югу от&#160;</rus>
-		<eng>&#160;к югу от&#160;</eng>
-		<ukr>===&#160;к югу от&#160;</ukr>
+		<rus> к югу от </rus>
+		<eng> к югу от </eng>
+		<ukr> на південь від </ukr>
 	</string>
 	<string id="newsmain_59">
-		<rus>&#160;к юго-востоку от&#160;</rus>
-		<eng>&#160;к юго-востоку от&#160;</eng>
-		<ukr>===&#160;к юго-востоку от&#160;</ukr>
+		<rus> к юго-востоку от </rus>
+		<eng> к юго-востоку от </eng>
+		<ukr> на південний схід від </ukr>
 	</string>
 	<string id="newsmain_60">
-		<rus>&#160;недалеко от&#160;</rus>
-		<eng>&#160;недалеко от&#160;</eng>
-		<ukr>===&#160;недалеко от&#160;</ukr>
+		<rus> недалеко от </rus>
+		<eng> недалеко от </eng>
+		<ukr> недалеко від </ukr>
 	</string>
 	<string id="newsmain_61">
 		<rus>[источник неизвестен]</rus>
 		<eng>[источник неизвестен]</eng>
-		<ukr>===[источник неизвестен]</ukr>
+		<ukr>[джерело не вказано]</ukr>
 	</string>
 	<string id="newsmain_62">
 		<rus>Опять Юра ласты склеил! Добрый знак.</rus>
 		<eng>Опять Юра ласты склеил! Добрый знак.</eng>
-		<ukr>===Опять Юра ласты склеил! Добрый знак.</ukr>
+		<ukr>Знову Юра ласти склеїв! Добрий знак.</ukr>
 	</string>
 	<string id="newsmain_63">
 		<rus>Семецкий кони двинул? Значит, рейд удачный будет!</rus>
 		<eng>Семецкий кони двинул? Значит, рейд удачный будет!</eng>
-		<ukr>===Семецкий кони двинул? Значит, рейд удачный будет!</ukr>
+		<ukr>Семецкий копита відкинув? Значить, рейд вдалий буде!</ukr>
 	</string>
 	<string id="newsmain_64">
 		<rus>Что-то Семецкий зачастил... Может, предупреждает?</rus>
 		<eng>Что-то Семецкий зачастил... Может, предупреждает?</eng>
-		<ukr>===Что-то Семецкий зачастил... Может, предупреждает?</ukr>
+		<ukr>Щось Семецький зачастив... Може, попереджає?</ukr>
 	</string>
 	<string id="newsmain_65">
 		<rus>Та-а-ак. Пойду-ка я в рейд. Авось не зря Семецкий помер опять.</rus>
 		<eng>Та-а-ак. Пойду-ка я в рейд. Авось не зря Семецкий помер опять.</eng>
-		<ukr>===Та-а-ак. Пойду-ка я в рейд. Авось не зря Семецкий помер опять.</ukr>
+		<ukr>Та-а-ак. Піду-но я в рейд. Може не дарма Семецький помер знову.</ukr>
 	</string>
 	<string id="newsmain_66">
 		<rus>А правда, что когда Семецкий помирает - это на удачу?</rus>
 		<eng>А правда, что когда Семецкий помирает - это на удачу?</eng>
-		<ukr>===А правда, что когда Семецкий помирает - это на удачу?</ukr>
+		<ukr>А правда, що коли Семецький помирає - це на удачу?</ukr>
 	</string>
 	<string id="newsmain_67">
 		<rus>Юрий Семецкий</rus>
 		<eng>Юрий Семецкий</eng>
-		<ukr>===Юрий Семецкий</ukr>
+		<ukr>Юрій Семецький</ukr>
 	</string>
 	<string id="newsmain_68">
 		<rus>Погиб сталкер:</rus>
 		<eng>Погиб сталкер:</eng>
-		<ukr>===Погиб сталкер:</ukr>
+		<ukr>Загинув сталкер:</ukr>
 	</string>
 	<string id="newsmain_69">
 		<rus>через час-другой</rus>
 		<eng>через час-другой</eng>
-		<ukr>===через час-другой</ukr>
+		<ukr>через годину-другу</ukr>
 	</string>
 	<string id="newsmain_70">
 		<rus>через пару часов</rus>
 		<eng>через пару часов</eng>
-		<ukr>===через пару часов</ukr>
+		<ukr>через пару годин</ukr>
 	</string>
 	<string id="newsmain_71">
 		<rus>часов через 6-7</rus>
 		<eng>часов через 6-7</eng>
-		<ukr>===часов через 6-7</ukr>
+		<ukr>годин через 6-7</ukr>
 	</string>
 	<string id="newsmain_72">
 		<rus>утром</rus>
 		<eng>утром</eng>
-		<ukr>===утром</ukr>
+		<ukr>вранці</ukr>
 	</string>
 	<string id="newsmain_73">
 		<rus>днем</rus>
 		<eng>днем</eng>
-		<ukr>===днем</ukr>
+		<ukr>вдень</ukr>
 	</string>
 	<string id="newsmain_74">
 		<rus>после обеда</rus>
 		<eng>после обеда</eng>
-		<ukr>===после обеда</ukr>
+		<ukr>після обіду</ukr>
 	</string>
 	<string id="newsmain_75">
 		<rus>вечером</rus>
 		<eng>вечером</eng>
-		<ukr>===вечером</ukr>
+		<ukr>ввечері</ukr>
 	</string>
 	<string id="newsmain_76">
 		<rus>ночью</rus>
 		<eng>ночью</eng>
-		<ukr>===ночью</ukr>
+		<ukr>вночі</ukr>
 	</string>
 	<string id="newsmain_77">
 		<rus>завтра утром</rus>
 		<eng>завтра утром</eng>
-		<ukr>===завтра утром</ukr>
+		<ukr>завтра вранці</ukr>
 	</string>
 	<string id="newsmain_78">
 		<rus>завтра днем</rus>
 		<eng>завтра днем</eng>
-		<ukr>===завтра днем</ukr>
+		<ukr>завтра вдень</ukr>
 	</string>
 	<string id="newsmain_79">
 		<rus>завтра после обеда</rus>
 		<eng>завтра после обеда</eng>
-		<ukr>===завтра после обеда</ukr>
+		<ukr>завтра після обіду</ukr>
 	</string>
 	<string id="newsmain_80">
 		<rus>завтра ночью</rus>
 		<eng>завтра ночью</eng>
-		<ukr>===завтра ночью</ukr>
+		<ukr>завтра вночі</ukr>
 	</string>
 	<string id="newsmain_81">
 		<rus>пулевое ранение</rus>
 		<eng>пулевое ранение</eng>
-		<ukr>===пулевое ранение</ukr>
+		<ukr>кульове поранення</ukr>
 	</string>
 	<string id="newsmain_82">
 		<rus>нож</rus>
 		<eng>нож</eng>
-		<ukr>===нож</ukr>
+		<ukr>ніж</ukr>
 	</string>
 	<string id="newsmain_83">
 		<rus>ожоги</rus>
 		<eng>ожоги</eng>
-		<ukr>===ожоги</ukr>
+		<ukr>опіки</ukr>
 	</string>
 	<string id="newsmain_84">
 		<rus>граната</rus>
 		<eng>граната</eng>
-		<ukr>===граната</ukr>
+		<ukr>граната</ukr>
 	</string>
 	<string id="newsmain_85">
 		<rus>пулевое ранение</rus>
 		<eng>пулевое ранение</eng>
-		<ukr>===пулевое ранение</ukr>
+		<ukr>кульове поранення</ukr>
 	</string>
 	<string id="newsmain_86">
 		<rus>нож</rus>
 		<eng>нож</eng>
-		<ukr>===нож</ukr>
+		<ukr>ніж</ukr>
 	</string>
 	<string id="newsmain_87">
 		<rus>ожоги</rus>
 		<eng>ожоги</eng>
-		<ukr>===ожоги</ukr>
+		<ukr>опіки</ukr>
 	</string>
 	<string id="newsmain_88">
 		<rus>граната</rus>
 		<eng>граната</eng>
-		<ukr>===граната</ukr>
+		<ukr>граната</ukr>
 	</string>
 	<string id="newsmain_89">
 		<rus>причина смерти - неустановлена</rus>
 		<eng>причина смерти - неустановлена</eng>
-		<ukr>===причина смерти - неустановлена</ukr>
+		<ukr>причина смерті - невстановлена</ukr>
 	</string>
 	<string id="newsmain_90">
 		<rus>причина смерти - неустановлена</rus>
 		<eng>причина смерти - неустановлена</eng>
-		<ukr>===причина смерти - неустановлена</ukr>
+		<ukr>причина смерті - невстановлена</ukr>
 	</string>
 </string_table>

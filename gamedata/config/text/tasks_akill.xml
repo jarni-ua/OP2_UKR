@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 
 	<string id="task_akill_kontr_svalka_0">
@@ -211,22 +211,22 @@
 	<string id="task_hamster_kuznec3_0">
 		<rus>Взлом сейфа</rus>
 		<eng>Взлом сейфа</eng>
-		<ukr>===Взлом сейфа</ukr>
+		<ukr>Злом сейфа</ukr>
 	</string>
 	<string id="task_hamster_kuznec3_1">
 		<rus>Отыскать флешку с кодом к сейфу</rus>
 		<eng>Отыскать флешку с кодом к сейфу</eng>
-		<ukr>===Отыскать флешку с кодом к сейфу</ukr>
+		<ukr>Відшукати флешку з кодом до сейфу</ukr>
 	</string>
 	<string id="task_hamster_kuznec3_2">
 		<rus>Открыть сейф и забрать его содержимое</rus>
 		<eng>Открыть сейф и забрать его содержимое</eng>
-		<ukr>===Открыть сейф и забрать его содержимое</ukr>
+		<ukr>Відкрити сейф і забрати його вміст</ukr>
 	</string>
 	<string id="task_hamster_kuznec3_3">
 		<rus>Принести бумаги Кузнецову</rus>
 		<eng>Принести бумаги Кузнецову</eng>
-		<ukr>===Принести бумаги Кузнецову</ukr>
+		<ukr>Принести папери Кузнєцову</ukr>
 	</string>
 
 	<string id="task_hamster_kuznec4_0">
@@ -301,17 +301,17 @@
 	<string id="task_hamster_kuznec8_0">
 		<rus>"Бейлиз"</rus>
 		<eng>"Бейлиз"</eng>
-		<ukr>==="Бейлиз"</ukr>
+		<ukr>"Бейліз"</ukr>
 	</string>
 	<string id="task_hamster_kuznec8_1">
 		<rus>Найти 10 бутылок ликёра "Бейлиз"</rus>
 		<eng>Найти 10 бутылок ликёра "Бейлиз"</eng>
-		<ukr>===Найти 10 бутылок ликёра "Бейлиз"</ukr>
+		<ukr>Знайти 10 пляшок лікеру "Бейліз"</ukr>
 	</string>
 	<string id="task_hamster_kuznec8_2">
 		<rus>Принести ликёр Кузнецову</rus>
 		<eng>Принести ликёр Кузнецову</eng>
-		<ukr>===Принести ликёр Кузнецову</ukr>
+		<ukr>Принести лікер Кузнєцову</ukr>
 	</string>
 
 	<string id="task_taynik_kuznec_0">
@@ -503,12 +503,12 @@
 	<string id="task_saharov_obrazec_1">
 		<rus>Сделать фото биомассы</rus>
 		<eng>Сделать фото биомассы</eng>
-		<ukr>Сделать фото биомассы</ukr>
+		<ukr>Зробити фото біомаси</ukr>
 	</string>
 	<string id="task_saharov_obrazec_2">
 		<rus>Раздобыть образцы ткани биомассы</rus>
 		<eng>Раздобыть образцы ткани биомассы</eng>
-		<ukr>Роздобути зразки тканин биомассы</ukr>
+		<ukr>Роздобути зразки тканини біомаси</ukr>
 	</string>
 	<string id="task_saharov_obrazec_3">
 		<rus>Найти микроскоп в Х-10</rus>
@@ -663,12 +663,12 @@
 	<string id="task_taynik_bandit_td_0">
 		<rus>"Чёрный" копатель</rus>
 		<eng>"Чёрный" копатель</eng>
-		<ukr>===Схованка бандита</ukr>
+		<ukr>"Чорний" копач</ukr>
 	</string>
 	<string id="task_taynik_bandit_td_1">
 		<rus>Отыскать в Лощине бандита-копателя</rus>
 		<eng>Отыскать в Лощине бандита-копателя</eng>
-		<ukr>===Знайти схованку бандита</ukr>
+		<ukr>Відшукати в Лощині бандита-копача</ukr>
 	</string>
 
 	<string id="task_ohota_gigant_0">
@@ -765,16 +765,6 @@
 		<rus>Заказ от Драгунова</rus>
 		<eng>Заказ от Драгунова</eng>
 		<ukr>Заказ від Драгунова</ukr>
-	</string>
-	<string id="task_dragunov_ohota_1">
-		<rus>Найти артефакты из списка</rus>
-		<eng>Найти артефакты из списка</eng>
-		<ukr>Знайти артефакти зі списку</ukr>
-	</string>
-	<string id="task_dragunov_ohota_2">
-		<rus>Принести артефакты Драгунову</rus>
-		<eng>Принести артефакты Драгунову</eng>
-		<ukr>Принести артефакти Драгунову</ukr>
 	</string>
 
 	<string id="task_dragunov_aks_0">
@@ -1104,17 +1094,17 @@
 	<string id="task_taynik_dimak_0">
 		<rus>Страховка</rus>
 		<eng>Страховка</eng>
-		<ukr>===Страховка</ukr>
+		<ukr>Страховка</ukr>
 	</string>
 	<string id="task_taynik_dimak_1">
 		<rus>Отключить 3 передатчика до взрыва бомбы</rus>
 		<eng>Отключить 3 передатчика до взрыва бомбы</eng>
-		<ukr>===Отключить 3 передатчика до взрыва бомбы</ukr>
+		<ukr>Відключити 3 передавача до вибуху бомби</ukr>
 	</string>
 	<string id="task_taynik_dimak_2">
 		<rus>Забрать содержимое рюкзака</rus>
 		<eng>Забрать содержимое рюкзака</eng>
-		<ukr>===Забрать содержимое рюкзака</ukr>
+		<ukr>Забрати вміст рюкзака</ukr>
 	</string>
 
 	<string id="task_taynik_virus_0">
@@ -1302,12 +1292,12 @@
 	<string id="task_mercenary_zapadny_1">
 		<rus>Отразить нападение наёмников на прачечную</rus>
 		<eng>Отразить нападение наёмников на прачечную</eng>
-		<ukr>===Отразить нападение наёмников на прачечную</ukr>
+		<ukr>Відбити напад найманців на пральню</ukr>
 	</string>
 	<string id="task_mercenary_zapadny_2">
 		<rus>Защитить Акилла и Димака</rus>
 		<eng>Защитить Акилла и Димака</eng>
-		<ukr>===Защитить Акилла и Димака</ukr>
+		<ukr>Захистити Акілла і Дімака</ukr>
 	</string>
 
 	<string id="task_knife_akill_0">
@@ -1318,12 +1308,12 @@
 	<string id="task_knife_akill_1">
 		<rus>Поговорить с охотником</rus>
 		<eng>Поговорить с охотником</eng>
-		<ukr>===Поговорить с охотником</ukr>
+		<ukr>Поговорити з мисливцем</ukr>
 	</string>
 	<string id="task_knife_akill_2">
 		<rus>Заполучить нож Акилла</rus>
 		<eng>Заполучить нож Акилла</eng>
-		<ukr>===Заполучить нож Акилла</ukr>
+		<ukr>Дістати ніж Акілла</ukr>
 	</string>
 	<string id="task_knife_akill_3">
 		<rus>Вернуть нож владельцу</rus>
@@ -1334,17 +1324,17 @@
 	<string id="task_knife_krest_0">
 		<rus>Сострадание</rus>
 		<eng>Сострадание</eng>
-		<ukr>===Сострадание</ukr>
+		<ukr>Співчуття</ukr>
 	</string>
 	<string id="task_knife_krest_1">
 		<rus>Отыскать раненого кровососа и вырвать у него нож</rus>
 		<eng>Отыскать раненого кровососа и вырвать у него нож</eng>
-		<ukr>===Отыскать раненого кровососа и вырвать у него нож</ukr>
+		<ukr>Відшукати пораненого кровососа і вирвати у нього ніж</ukr>
 	</string>
 	<string id="task_knife_krest_2">
 		<rus>Вернуться к Кресту</rus>
 		<eng>Вернуться к Кресту</eng>
-		<ukr>===Вернуться к Кресту</ukr>
+		<ukr>Повернутися до Хреста</ukr>
 	</string>
 
 	<string id="task_ohota_sniper_0">
@@ -1509,12 +1499,12 @@
 	<string id="task_grom_poison_4">
 		<rus>Отыскать в Лощине цветок "Амелия"</rus>
 		<eng>Отыскать в Лощине цветок "Амелия"</eng>
-		<ukr>===Отыскать в Лощине цветок "Амелия"</ukr>
+		<ukr>Відшукати в Лощині квітку "Амелія"</ukr>
 	</string>
 	<string id="task_grom_poison_5">
 		<rus>Вернуться к Калмыку</rus>
 		<eng>Вернуться к Калмыку</eng>
-		<ukr>===Вернуться к Калмыку</ukr>
+		<ukr>Повернутися до Калмика</ukr>
 	</string>
 	<string id="task_grom_poison_6">
 		<rus>Отдать ингредиенты Доктору</rus>
@@ -2158,7 +2148,7 @@
 	<string id="task_volna_reid_3">
 		<rus>Поговорить со Свибловым</rus>
 		<eng>Поговорить со Свибловым</eng>
-		<ukr>Поговорити зі Свібловым</ukr>
+		<ukr>Поговорити зі Свібловим</ukr>
 	</string>
 
 	<string id="task_volna_voronin_0">
@@ -2577,7 +2567,7 @@
 	<string id="task_tolik_robbed_1">
 		<rus>Найти штаны на северном блокпосту</rus>
 		<eng>Найти штаны на северном блокпосту</eng>
-		<ukr>===Знайти штани на елеваторі</ukr>
+		<ukr>Знайти штани на північному блокпосту</ukr>
 	</string>
 	<string id="task_tolik_robbed_2">
 		<rus>Вернуть штаны владельцу</rus>
@@ -3969,33 +3959,79 @@
 	<string id="task_lukash_ugroza_0">
 		<rus>Схватка</rus>
 		<eng>Схватка</eng>
-		<ukr>===Схватка</ukr>
+		<ukr>Сутичка</ukr>
 	</string>
 	<string id="task_lukash_ugroza_1">
 		<rus>Уничтожить грузовик с боеприпасами</rus>
 		<eng>Уничтожить грузовик с боеприпасами</eng>
-		<ukr>===Уничтожить грузовик с боеприпасами</ukr>
+		<ukr>Знищити вантажівку з боєприпасами</ukr>
 	</string>
 	<string id="task_lukash_ugroza_2">
 		<rus>Вернуться к Лукашу</rus>
 		<eng>Вернуться к Лукашу</eng>
-		<ukr>===Вернуться к Лукашу</ukr>
+		<ukr>Повернутися до Лукаша</ukr>
 	</string>
 
 	<string id="task_detection_sensor_0">
 		<rus>Датчики обнаружения</rus>
 		<eng>Датчики обнаружения</eng>
-		<ukr>===Датчики обнаружения</ukr>
+		<ukr>Датчики виявлення</ukr>
 	</string>
 	<string id="task_detection_sensor_1">
 		<rus>Уничтожить датчики обнаружения по периметру завода</rus>
 		<eng>Уничтожить датчики обнаружения по периметру завода</eng>
-		<ukr>===Уничтожить датчики обнаружения по периметру завода</ukr>
+		<ukr>Знищити датчики виявлення по периметру заводу</ukr>
 	</string>
 	<string id="task_detection_sensor_2">
 		<rus>Вернуться к доценту Загорскому</rus>
 		<eng>Вернуться к доценту Загорскому</eng>
-		<ukr>===Вернуться к доценту Загорскому</ukr>
+		<ukr>Повернутися до доцента Загорського</ukr>
+	</string>
+
+	<string id="task_fanat_minomet_0">
+		<rus>Сектор обстрела</rus>
+		<eng>Сектор обстрела</eng>
+		<ukr>Сектор обстрілу</ukr>
+	</string>
+	<string id="task_fanat_minomet_1">
+		<rus>Уничтожить БТР «Страйкер», охраняющий дорогу в Лощину</rus>
+		<eng>Уничтожить БТР «Страйкер», охраняющий дорогу в Лощину</eng>
+		<ukr>Знищити БТР «Страйкер», який охороняє дорогу в Долину</ukr>
+	</string>
+	<string id="task_fanat_minomet_2">
+		<rus>Уничтожить первый миномётный расчёт и ящик с минами</rus>
+		<eng>Уничтожить первый миномётный расчёт и ящик с минами</eng>
+		<ukr>Знищити перший мінометний розрахунок і ящик з мінами</ukr>
+	</string>
+	<string id="task_fanat_minomet_3">
+		<rus>Уничтожить второй миномётный расчёт и ящик с минами</rus>
+		<eng>Уничтожить второй миномётный расчёт и ящик с минами</eng>
+		<ukr>Знищити другий мінометний розрахунок і ящик з мінами</ukr>
+	</string>
+	<string id="task_fanat_minomet_4">
+		<rus>Уничтожить третий миномётный расчёт и ящик с минами</rus>
+		<eng>Уничтожить третий миномётный расчёт и ящик с минами</eng>
+		<ukr>Знищити третій мінометний розрахунок і ящик з мінами</ukr>
+	</string>
+	<string id="task_fanat_minomet_5">
+		<rus>Заполучить ПДА командира блокпоста наёмников с кодом к двери</rus>
+		<eng>Заполучить ПДА командира блокпоста наёмников с кодом к двери</eng>
+		<ukr>Роздобути КПК командира блокпоста найманців з кодом до дверей</ukr>
+	</string>
+	<string id="task_fanat_minomet_6">
+		<rus>Открыть дверь бункера</rus>
+		<eng>Открыть дверь бункера</eng>
+		<ukr>Відкрити двері бункеру</ukr>
+	</string>
+	<string id="task_fanat_minomet_7">
+		<rus>Выяснить координаты тропы на Металлургический Завод</rus>
+		<eng>Выяснить координаты тропы на Металлургический Завод</eng>
+		<ukr>З'ясувати координати стежки на Металургійний Завод</ukr>
+	</string>
+	<string id="task_fanat_minomet_8">
+		<rus>Вернуться к Фанату</rus>
+		<eng>Вернуться к Фанату</eng>
+		<ukr>Повернутися до Фаната</ukr>
 	</string>
 
 	<string id="task_arny_test_0">

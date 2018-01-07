@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="task_voronin_flesh_0">
 		<rus>Флешка Психа</rus>
@@ -213,7 +213,7 @@
 	<string id="task_dan_flash_0">
 		<rus>Секреты учёных</rus>
 		<eng>Секреты учёных</eng>
-		<ukr>Секрети вченых</ukr>
+		<ukr>Секрети вчених</ukr>
 	</string>
 	<string id="task_dan_flash_1">
 		<rus>Найти сведения о работе учёных</rus>
@@ -448,7 +448,7 @@
 	<string id="task_barrem_talk_3">
 		<rus>Убить псионика, контролирующего зомбированных</rus>
 		<eng>Убить псионика, контролирующего зомбированных</eng>
-		<ukr>Убить псионика, контролирующего зомбированных</ukr>
+		<ukr>Вбити псіоніка, який контролює зомбованих</ukr>
 	</string>
 	<string id="task_barrem_talk_4">
 		<rus>Отнести насадки Бармену</rus>
@@ -589,21 +589,6 @@
 		<rus>Принести мазь Василию</rus>
 		<eng>Принести мазь Василию</eng>
 		<ukr>Принести мазь Василю</ukr>
-	</string>
-	<string id="task_dyak_maz_0">
-		<rus>"Душа"</rus>
-		<eng>"Душа"</eng>
-		<ukr>"Душа"</ukr>
-	</string>
-	<string id="task_dyak_maz_1">
-		<rus>Найти артефакт "Душа"</rus>
-		<eng>Найти артефакт "Душа"</eng>
-		<ukr>Знайти артефакт "Душа"</ukr>
-	</string>
-	<string id="task_dyak_maz_2">
-		<rus>Принести артефакт Дьяку</rus>
-		<eng>Принести артефакт Дьяку</eng>
-		<ukr>Принести артефакт Дяку</ukr>
 	</string>
 	<string id="task_controller_hutor_0">
 		<rus>Необычный контролёр</rus>
@@ -769,36 +754,6 @@
 		<rus>Принести ингредиенты Калмыку</rus>
 		<eng>Принести ингредиенты Калмыку</eng>
 		<ukr>Принести інгредієнти Калмику</ukr>
-	</string>
-	<string id="task_kot_holod_lekar_0">
-		<rus>Лекарство для Кота</rus>
-		<eng>Лекарство для Кота</eng>
-		<ukr>Ліки для Кота</ukr>
-	</string>
-	<string id="task_kot_holod_lekar_1">
-		<rus>Раздобыть лекарство у Холода</rus>
-		<eng>Раздобыть лекарство у Холода</eng>
-		<ukr>Роздобути ліки у Холода</ukr>
-	</string>
-	<string id="task_kot_holod_lekar_2">
-		<rus>Принести лекарство Коту</rus>
-		<eng>Принести лекарство Коту</eng>
-		<ukr>Принести ліки Коту</ukr>
-	</string>
-	<string id="task_holod_lekar_0">
-		<rus>"Симбион" для Холода</rus>
-		<eng>"Симбион" для Холода</eng>
-		<ukr>"Симбіон" для Холода</ukr>
-	</string>
-	<string id="task_holod_lekar_1">
-		<rus>Найти артефакт "Симбион"</rus>
-		<eng>Найти артефакт "Симбион"</eng>
-		<ukr>Знайти артефакт "Симбіон"</ukr>
-	</string>
-	<string id="task_holod_lekar_2">
-		<rus>Принести артефакт Холоду</rus>
-		<eng>Принести артефакт Холоду</eng>
-		<ukr>Принести артефакт Холоду</ukr>
 	</string>
 	<string id="task_xalyava_nebo_0">
 		<rus>Неудачная сделка</rus>
@@ -989,5 +944,50 @@
 		<rus>Найти и взять тайник опытного сталкера</rus>
 		<eng>Найти и взять тайник опытного сталкера</eng>
 		<ukr>Знайти і взяти схованку досвідченого сталкера</ukr>
+	</string>
+	<string id="task_bandit_krisyk_pomer_0">
+		<rus>ПДА покойного Крысюка</rus>
+		<eng>ПДА покойного Крысюка</eng>
+		<ukr>КПК покійного Щуряка</ukr>
+	</string>
+	<string id="task_bandit_krisyk_pomer_1">
+		<rus>Забрать из тайника ПДА с записями</rus>
+		<eng>Забрать из тайника ПДА с записями</eng>
+		<ukr>Забрати зі схованки КПК с записами</ukr>
+	</string>
+	<string id="task_bandit_krisyk_pomer_2">
+		<rus>Отдать ПДА Борову</rus>
+		<eng>Отдать ПДА Борову</eng>
+		<ukr>Віддати КПК Кабану</ukr>
+	</string>
+	<string id="task_yurik_pomer_pivo_0">
+		<rus>Особенное пиво</rus>
+		<eng>Особенное пиво</eng>
+		<ukr>Особливе пиво</ukr>
+	</string>
+	<string id="task_yurik_pomer_pivo_1">
+		<rus>Найти 20 банок пива</rus>
+		<eng>Найти 20 банок пива</eng>
+		<ukr>Знайти 20 банок пива</ukr>
+	</string>
+	<string id="task_yurik_pomer_pivo_2">
+		<rus>Принести пиво Дэну</rus>
+		<eng>Принести пиво Дэну</eng>
+		<ukr>Принести пиво Дену</ukr>
+	</string>
+	<string id="task_yurik_pomer_plan_0">
+		<rus>Старинный обрез</rus>
+		<eng>Старинный обрез</eng>
+		<ukr>Старовинний обріз</ukr>
+	</string>
+	<string id="task_yurik_pomer_plan_1">
+		<rus>Забрать обрез у Ворона</rus>
+		<eng>Забрать обрез у Ворона</eng>
+		<ukr>Забрати обріз у Ворона</ukr>
+	</string>
+	<string id="task_yurik_pomer_plan_2">
+		<rus>Принести обрез Дэну</rus>
+		<eng>Принести обрез Дэну</eng>
+		<ukr>Принести обріз Дену</ukr>
 	</string>
 </string_table>

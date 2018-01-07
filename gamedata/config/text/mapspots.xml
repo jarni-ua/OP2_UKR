@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<?xml version="1.0" encoding="windows-1251" standalone="yes"?>
 <string_table>
 	<string id="pri_bus_station_zone_hint">
 		<rus>Автобусная станция</rus>
@@ -553,7 +553,7 @@
 	<string id="krest_zapas_start_10">
 		<rus>Схрон Шуры Гинеколога</rus>
 		<eng>Схрон Шуры Гинеколога</eng>
-		<ukr>Схрон Шуры Гинеколога</ukr>
+		<ukr>Схрон Сашка Гінеколога</ukr>
 	</string>
 	<string id="fotik_gigant_spawn_0">
 		<rus>Место гибели друга Фотографа</rus>
@@ -633,7 +633,7 @@
 	<string id="create_silver_explo_spot_0">
 		<rus>Взрывчатка с серебром</rus>
 		<eng>Взрывчатка с серебром</eng>
-		<ukr>Взрывчатка с серебром</ukr>
+		<ukr>Вибухівка зі сріблом</ukr>
 	</string>
 	<string id="create_pomehi_spot_0">
 		<rus>Генератор</rus>
@@ -643,7 +643,7 @@
 	<string id="spot_shurup_shron_start_0">
 		<rus>Резервный схрон</rus>
 		<eng>Резервный схрон</eng>
-		<ukr>Резервный схрон</ukr>
+		<ukr>Резервний схрон</ukr>
 	</string>
 	<string id="spot_ohota_tushkan_done_0">
 		<rus>Схрон с водкой</rus>
@@ -653,7 +653,7 @@
 	<string id="yakut_treasure_spawn_0">
 		<rus>Ноутбук Архары</rus>
 		<eng>Ноутбук Архары</eng>
-		<ukr>Ноутбук Архары</ukr>
+		<ukr>Ноутбук Архари</ukr>
 	</string>
 	<string id="tri_tainik_start_0">
 		<rus>Дневник монолитовца №1</rus>
@@ -683,7 +683,7 @@
 	<string id="create_kurier_spot_0">
 		<rus>Взрывчатка</rus>
 		<eng>Взрывчатка</eng>
-		<ukr>Взрывчатка</ukr>
+		<ukr>Вибухівка</ukr>
 	</string>
 	<string id="create_kulon_cat_spot_0">
 		<rus>Кошка</rus>
@@ -698,12 +698,12 @@
 	<string id="spot_krest_boar_start_0">
 		<rus>Мамаша поросёнка</rus>
 		<eng>Мамаша поросёнка</eng>
-		<ukr>Мамаша поросёнка</ukr>
+		<ukr>Матуся поросятка</ukr>
 	</string>
 	<string id="spot_buusty_gigant_start_0">
 		<rus>Болотный псевдогигант</rus>
 		<eng>Болотный псевдогигант</eng>
-		<ukr>Болотный псевдогигант</ukr>
+		<ukr>Болотний псевдогігант</ukr>
 	</string>
 	<string id="spot_tank_zasada_0">
 		<rus>Местоположение снайпера Монолита</rus>
@@ -728,12 +728,12 @@
 	<string id="metka_psi_antenna_0">
 		<rus>Ориентировка на сигнал пси-антенны</rus>
 		<eng>Ориентировка на сигнал пси-антенны</eng>
-		<ukr>Ориентировка на сигнал пси-антенны</ukr>
+		<ukr>Орієнтування на сигнал псі-антени</ukr>
 	</string>
 	<string id="set_kluk_chaes2_0">
 		<rus>Клык должен быть где-то тут</rus>
 		<eng>Клык должен быть где-то тут</eng>
-		<ukr>Клык должен быть где-то тут</ukr>
+		<ukr>Клик повинен бути десь тут</ukr>
 	</string>
 	<string id="metka_city_parfumer_0">
 		<rus>Примерное местонахождение сталкера</rus>
@@ -753,12 +753,12 @@
 	<string id="metka_norman_0">
 		<rus>Примерное месторасположение Тёмного хутора</rus>
 		<eng>Примерное месторасположение Тёмного хутора</eng>
-		<ukr>Примерное месторасположение Тёмного хутора</ukr>
+		<ukr>Приблизне розташування Темного хутора</ukr>
 	</string>
 	<string id="set_sych_0">
 		<rus>Группа Сыча</rus>
 		<eng>Группа Сыча</eng>
-		<ukr>Группа Сыча</ukr>
+		<ukr>Група Сича</ukr>
 	</string>
 	<string id="reinforcement_0">
 		<rus>Рюкзак с припасами</rus>
@@ -773,17 +773,17 @@
 	<string id="set_kalmyak_ruk_0">
 		<rus>Рюкзак Калмыка</rus>
 		<eng>Рюкзак Калмыка</eng>
-		<ukr>Рюкзак Калмыка</ukr>
+		<ukr>Рюкзак Калмика</ukr>
 	</string>
 	<string id="set_kalmyak_0">
 		<rus>Предположительное местонахождение Калмыка</rus>
 		<eng>Предположительное местонахождение Калмыка</eng>
-		<ukr>Предположительное местонахождение Калмыка</ukr>
+		<ukr>Очікуване місцезнаходження Калмика</ukr>
 	</string>
 	<string id="set_red_contr_0">
 		<rus>Предположительное местонахождение контролёра</rus>
 		<eng>Предположительное местонахождение контролёра</eng>
-		<ukr>Предположительное местонахождение контролёра</ukr>
+		<ukr>Очікуване місцезнаходження контролера</ukr>
 	</string>
 	<string id="set_kashei_0">
 		<rus>Кащей</rus>
@@ -823,7 +823,7 @@
 	<string id="set_giant_0">
 		<rus>Уникальный псевдогигант</rus>
 		<eng>Уникальный псевдогигант</eng>
-		<ukr>Уникальный псевдогигант</ukr>
+		<ukr>Унікальний псевдогігант</ukr>
 	</string>
 	<string id="set_xalyava_0">
 		<rus>Место сделки</rus>
@@ -878,12 +878,12 @@
 	<string id="check_treasure_0">
 		<rus>Место поиска следующей информации от Эльзы</rus>
 		<eng>Место поиска следующей информации от Эльзы</eng>
-		<ukr>Место поиска следующей информации от Эльзы</ukr>
+		<ukr>Місце пошуку наступної інформації від Ельзи</ukr>
 	</string>
 	<string id="fenrir1_done_0">
 		<rus>Лёжка Фенрира</rus>
 		<eng>Лёжка Фенрира</eng>
-		<ukr>Лёжка Фенрира</ukr>
+		<ukr>Лежанка Фенріра</ukr>
 	</string>
 	<string id="resident_evil3_done_0">
 		<rus>Начало поисков второй части рецепта</rus>
@@ -913,22 +913,22 @@
 	<string id="alexandrych_koster_sr_0">
 		<rus>Александрыч</rus>
 		<eng>Александрыч</eng>
-		<ukr>Александрыч</ukr>
+		<ukr>Александрич</ukr>
 	</string>
 	<string id="alexandrych_spawn_sr_0">
 		<rus>Последний выход на связь группы Александрыча</rus>
 		<eng>Последний выход на связь группы Александрыча</eng>
-		<ukr>Последний выход на связь группы Александрыча</ukr>
+		<ukr>Останній вихід на зв'язок групи Александрича</ukr>
 	</string>
 	<string id="alexandrych_hutor_sr_0">
 		<rus>Последний выход на связь Иваныча</rus>
 		<eng>Последний выход на связь Иваныча</eng>
-		<ukr>Последний выход на связь Иваныча</ukr>
+		<ukr>Останній вихід на зв'язок Івановича</ukr>
 	</string>
 	<string id="batay_ploshadka_sr_0">
 		<rus>Приблизительное место посадки вертолёта</rus>
 		<eng>Приблизительное место посадки вертолёта</eng>
-		<ukr>Приблизительное место посадки вертолёта</ukr>
+		<ukr>Приблизна місце посадки вертольота</ukr>
 	</string>
 	<string id="upiter_sdelka_sr_0">
 		<rus>Пост наблюдения за сделкой</rus>
@@ -943,7 +943,7 @@
 	<string id="mercenary_dogovor_sr1_0">
 		<rus>Место встречи с наёмниками</rus>
 		<eng>Место встречи с наёмниками</eng>
-		<ukr>Место встречи с наёмниками</ukr>
+		<ukr>Місце зустрічі з найманцями</ukr>
 	</string>
 	<string id="moving_detector_sr1_0">
 		<rus>Место установки детектора движения</rus>
@@ -953,7 +953,7 @@
 	<string id="dimak_toolkit_sr1_0">
 		<rus>Отыскать Грешника на КПП</rus>
 		<eng>Отыскать Грешника на КПП</eng>
-		<ukr>Отыскать Грешника на КПП</ukr>
+		<ukr>Відшукати Грішника на КПП</ukr>
 	</string>
 	<string id="aaz_oboroten_sr1_0">
 		<rus>Дождаться ночи в деревне Копачи</rus>
@@ -968,12 +968,12 @@
 	<string id="volna_zahar_sr1_0">
 		<rus>Место охоты на снорков</rus>
 		<eng>Место охоты на снорков</eng>
-		<ukr>Место охоты на снорков</ukr>
+		<ukr>Місце полювання на снорків</ukr>
 	</string>
 	<string id="ohota_tushkan_sr1_0">
 		<rus>Место охоты на тушканов</rus>
 		<eng>Место охоты на тушканов</eng>
-		<ukr>Место охоты на тушканов</ukr>
+		<ukr>Місце полювання на тушканів</ukr>
 	</string>
 	<string id="ohota_polter_sr1_0">
 		<rus>Дом духов</rus>
@@ -983,7 +983,7 @@
 	<string id="volna_btr1_sr1_0">
 		<rus>Оборонять позицию у портовых кранов</rus>
 		<eng>Оборонять позицию у портовых кранов</eng>
-		<ukr>Оборонять позицию у портовых кранов</ukr>
+		<ukr>Обороняти позицію біля портових кранів</ukr>
 	</string>
 	<string id="volna_btr2_sr1_0">
 		<rus>Оборонять позицию у лагеря Изумрудное</rus>
@@ -998,12 +998,12 @@
 	<string id="strike_back_sr1_0">
 		<rus>Прибыть в условленное место</rus>
 		<eng>Прибыть в условленное место</eng>
-		<ukr>Прибыть в условленное место</ukr>
+		<ukr>Прибути в умовлене місце</ukr>
 	</string>
 	<string id="strike_end_sr1_0">
 		<rus>Выбраться со станции</rus>
 		<eng>Выбраться со станции</eng>
-		<ukr>Выбраться со станции</ukr>
+		<ukr>Вибратися зі станції</ukr>
 	</string>
 	<string id="predator_npc_sr1_0">
 		<rus>Возможное местоположение неизвестной твари</rus>
@@ -1013,12 +1013,12 @@
 	<string id="spider_bomba_sr1_0">
 		<rus>Выбраться на поверхность</rus>
 		<eng>Выбраться на поверхность</eng>
-		<ukr>Выбраться на поверхность</ukr>
+		<ukr>Вибратися на поверхню</ukr>
 	</string>
 	<string id="ohota_vypolzen_sr1_0">
 		<rus>Добраться до шахты</rus>
 		<eng>Добраться до шахты</eng>
-		<ukr>Добраться до шахты</ukr>
+		<ukr>Дістатися до шахти</ukr>
 	</string>
 	<string id="night_watch_komplex_sr1_0">
 		<rus>Проверить комплекс</rus>
@@ -1033,17 +1033,17 @@
 	<string id="night_watch_baza_sr1_0">
 		<rus>Занять позицию на вышке</rus>
 		<eng>Занять позицию на вышке</eng>
-		<ukr>Занять позицию на вышке</ukr>
+		<ukr>Зайняти позицію на вишці</ukr>
 	</string>
 	<string id="defend_hospital_sr1_0">
 		<rus>Занять позицию на вышке баржи</rus>
 		<eng>Занять позицию на вышке баржи</eng>
-		<ukr>Занять позицию на вышке баржи</ukr>
+		<ukr>Зайняти позицію на вишці баржі</ukr>
 	</string>
 	<string id="burer_electro_sr1_0">
 		<rus>Прибыть ночью на кладбище техники</rus>
 		<eng>Прибыть ночью на кладбище техники</eng>
-		<ukr>Прибыть ночью на кладбище техники</ukr>
+		<ukr>Прибути вночі на кладовище техніки</ukr>
 	</string>
 	<string id="kalinin_box1_sr1_0">
 		<rus>Ящик с патронами №1</rus>
@@ -1073,7 +1073,7 @@
 	<string id="trofim_joke_sr1_0">
 		<rus>Разыскать бандита</rus>
 		<eng>Разыскать бандита</eng>
-		<ukr>Разыскать бандита</ukr>
+		<ukr>Розшукати бандита</ukr>
 	</string>
 	<string id="borov_bottle2_sr1_0">
 		<rus>Стартовая позиция</rus>
@@ -1103,17 +1103,17 @@
 	<string id="varg_support_sr1_0">
 		<rus>Занять позицию на вышке</rus>
 		<eng>Занять позицию на вышке</eng>
-		<ukr>Занять позицию на вышке</ukr>
+		<ukr>Зайняти позицію на вишці</ukr>
 	</string>
 	<string id="merc_turret_sr1_0">
 		<rus>Прибыть ночью на склад контейнеров</rus>
 		<eng>Прибыть ночью на склад контейнеров</eng>
-		<ukr>Прибыть ночью на склад контейнеров</ukr>
+		<ukr>Прибути вночі на склад контейнерів</ukr>
 	</string>
 	<string id="two_corpses_sr1_0">
 		<rus>Обследовать место падения вертолёта</rus>
 		<eng>Обследовать место падения вертолёта</eng>
-		<ukr>Обследовать место падения вертолёта</ukr>
+		<ukr>Обстежити місце падіння вертольота</ukr>
 	</string>
 	<string id="taynik_dimak_sr1_0">
 		<rus>Схрон Димака</rus>
@@ -1138,11 +1138,11 @@
 	<string id="spot_ranenii">
 		<rus>Раненый</rus>
 		<eng>Раненый</eng>
-		<ukr>Раненый</ukr>
+		<ukr>Поранений</ukr>
 	</string>
 	<string id="spot_yakut_ograblen">
 		<rus>Возможные свидетели</rus>
 		<eng>Возможные свидетели</eng>
-		<ukr>Возможные свидетели</ukr>
+		<ukr>Можливі свідки</ukr>
 	</string>
 </string_table>
