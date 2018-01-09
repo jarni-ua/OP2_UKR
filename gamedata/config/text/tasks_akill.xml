@@ -786,12 +786,12 @@
 	<string id="task_dragunov_koleso_0">
 		<rus>Аннигиляция</rus>
 		<eng>Annihilation</eng>
-		<ukr>Аннигиляция</ukr>
+		<ukr>Анігіляція</ukr>
 	</string>
 	<string id="task_dragunov_koleso_1">
 		<rus>Уничтожить динамическую "Электру" на колесе обозрения</rus>
 		<eng>Уничтожить динамическую "Электру" на колесе обозрения</eng>
-		<ukr>Уничтожить динамическую "Электру" на колесе обозрения</ukr>
+		<ukr>Знищити динамічну "Електру" на колесі огляду</ukr>
 	</string>
 	<string id="task_dragunov_koleso_2">
 		<rus>Вернуться к Драгунову</rus>
@@ -1669,14 +1669,19 @@
 	</string>
 
 	<string id="task_find_chip_0">
-		<rus>Неизвестные чипы</rus>
-		<eng>Неизвестные чипы</eng>
-		<ukr>Невідомі чіпи</ukr>
+		<rus>Загадка Зоны</rus>
+		<eng>Загадка Зоны</eng>
+		<ukr>Загадка Зоны</ukr>
 	</string>
 	<string id="task_find_chip_1">
 		<rus>Найти все странные чипы</rus>
 		<eng>Найти все странные чипы</eng>
 		<ukr>Знайти всі дивні чіпи</ukr>
+	</string>
+	<string id="task_find_chip_2">
+		<rus>Выяснить предназначение чипов</rus>
+		<eng>Выяснить предназначение чипов</eng>
+		<ukr>З'ясувати призначення чіпів</ukr>
 	</string>
 
 	<string id="task_fantoms_pda_0">
@@ -1752,6 +1757,11 @@
 		<rus>Найти приёмное устройство</rus>
 		<eng>Найти приёмное устройство</eng>
 		<ukr>Знайти приймальний пристрій</ukr>
+	</string>
+	<string id="task_taynik_cube_2">
+		<rus>Показать найденное Шахтёру</rus>
+		<eng>Показать найденное Шахтёру</eng>
+		<ukr>Показати знайдене Шахтарю</ukr>
 	</string>
 
 	<string id="task_ohota_biblik_0">
@@ -4075,9 +4085,9 @@
 		<ukr>Протестувати CZ 75</ukr>
 	</string>
 	<string id="task_arny_test_8">
-		<rus>Протестировать «Glock» 23</rus>
-		<eng>Протестировать «Glock» 23</eng>
-		<ukr>Протестувати «Glock» 23</ukr>
+		<rus>Протестировать Glock 23</rus>
+		<eng>Протестировать Glock 23</eng>
+		<ukr>Протестувати Glock 23</ukr>
 	</string>
 	<string id="task_arny_test_9">
 		<rus>Протестировать Colt M1911</rus>
@@ -4085,9 +4095,9 @@
 		<ukr>Протестувати Colt M1911</ukr>
 	</string>
 	<string id="task_arny_test_10">
-		<rus>Протестировать SIG-Sauer P220</rus>
-		<eng>Протестировать SIG-Sauer P220</eng>
-		<ukr>Протестувати SIG-Sauer P220</ukr>
+		<rus>Протестировать SIG Sauer P220</rus>
+		<eng>Протестировать SIG Sauer P220</eng>
+		<ukr>Протестувати SIG Sauer P220</ukr>
 	</string>
 	<string id="task_arny_test_11">
 		<rus>Протестировать HK USP-40 «Expert»</rus>
