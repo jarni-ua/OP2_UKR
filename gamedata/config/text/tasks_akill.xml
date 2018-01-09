@@ -766,16 +766,6 @@
 		<eng>Заказ от Драгунова</eng>
 		<ukr>Заказ від Драгунова</ukr>
 	</string>
-	<string id="task_dragunov_ohota_1">
-		<rus>Найти артефакты из списка</rus>
-		<eng>Найти артефакты из списка</eng>
-		<ukr>Знайти артефакти зі списку</ukr>
-	</string>
-	<string id="task_dragunov_ohota_2">
-		<rus>Принести артефакты Драгунову</rus>
-		<eng>Принести артефакты Драгунову</eng>
-		<ukr>Принести артефакти Драгунову</ukr>
-	</string>
 
 	<string id="task_dragunov_aks_0">
 		<rus>Зачистка города</rus>
@@ -796,12 +786,12 @@
 	<string id="task_dragunov_koleso_0">
 		<rus>Аннигиляция</rus>
 		<eng>Annihilation</eng>
-		<ukr>Аннигиляция</ukr>
+		<ukr>Анігіляція</ukr>
 	</string>
 	<string id="task_dragunov_koleso_1">
 		<rus>Уничтожить динамическую "Электру" на колесе обозрения</rus>
 		<eng>Уничтожить динамическую "Электру" на колесе обозрения</eng>
-		<ukr>Уничтожить динамическую "Электру" на колесе обозрения</ukr>
+		<ukr>Знищити динамічну "Електру" на колесі огляду</ukr>
 	</string>
 	<string id="task_dragunov_koleso_2">
 		<rus>Вернуться к Драгунову</rus>
@@ -1679,14 +1669,19 @@
 	</string>
 
 	<string id="task_find_chip_0">
-		<rus>Неизвестные чипы</rus>
-		<eng>Неизвестные чипы</eng>
-		<ukr>Невідомі чіпи</ukr>
+		<rus>Загадка Зоны</rus>
+		<eng>Загадка Зоны</eng>
+		<ukr>Загадка Зоны</ukr>
 	</string>
 	<string id="task_find_chip_1">
 		<rus>Найти все странные чипы</rus>
 		<eng>Найти все странные чипы</eng>
 		<ukr>Знайти всі дивні чіпи</ukr>
+	</string>
+	<string id="task_find_chip_2">
+		<rus>Выяснить предназначение чипов</rus>
+		<eng>Выяснить предназначение чипов</eng>
+		<ukr>З'ясувати призначення чіпів</ukr>
 	</string>
 
 	<string id="task_fantoms_pda_0">
@@ -1762,6 +1757,11 @@
 		<rus>Найти приёмное устройство</rus>
 		<eng>Найти приёмное устройство</eng>
 		<ukr>Знайти приймальний пристрій</ukr>
+	</string>
+	<string id="task_taynik_cube_2">
+		<rus>Показать найденное Шахтёру</rus>
+		<eng>Показать найденное Шахтёру</eng>
+		<ukr>Показати знайдене Шахтарю</ukr>
 	</string>
 
 	<string id="task_ohota_biblik_0">
@@ -3998,6 +3998,52 @@
 		<ukr>Повернутися до доцента Загорського</ukr>
 	</string>
 
+	<string id="task_fanat_minomet_0">
+		<rus>Сектор обстрела</rus>
+		<eng>Сектор обстрела</eng>
+		<ukr>Сектор обстрілу</ukr>
+	</string>
+	<string id="task_fanat_minomet_1">
+		<rus>Уничтожить БТР «Страйкер», охраняющий дорогу в Лощину</rus>
+		<eng>Уничтожить БТР «Страйкер», охраняющий дорогу в Лощину</eng>
+		<ukr>Знищити БТР «Страйкер», який охороняє дорогу в Долину</ukr>
+	</string>
+	<string id="task_fanat_minomet_2">
+		<rus>Уничтожить первый миномётный расчёт и ящик с минами</rus>
+		<eng>Уничтожить первый миномётный расчёт и ящик с минами</eng>
+		<ukr>Знищити перший мінометний розрахунок і ящик з мінами</ukr>
+	</string>
+	<string id="task_fanat_minomet_3">
+		<rus>Уничтожить второй миномётный расчёт и ящик с минами</rus>
+		<eng>Уничтожить второй миномётный расчёт и ящик с минами</eng>
+		<ukr>Знищити другий мінометний розрахунок і ящик з мінами</ukr>
+	</string>
+	<string id="task_fanat_minomet_4">
+		<rus>Уничтожить третий миномётный расчёт и ящик с минами</rus>
+		<eng>Уничтожить третий миномётный расчёт и ящик с минами</eng>
+		<ukr>Знищити третій мінометний розрахунок і ящик з мінами</ukr>
+	</string>
+	<string id="task_fanat_minomet_5">
+		<rus>Заполучить ПДА командира блокпоста наёмников с кодом к двери</rus>
+		<eng>Заполучить ПДА командира блокпоста наёмников с кодом к двери</eng>
+		<ukr>Роздобути КПК командира блокпоста найманців з кодом до дверей</ukr>
+	</string>
+	<string id="task_fanat_minomet_6">
+		<rus>Открыть дверь бункера</rus>
+		<eng>Открыть дверь бункера</eng>
+		<ukr>Відкрити двері бункеру</ukr>
+	</string>
+	<string id="task_fanat_minomet_7">
+		<rus>Выяснить координаты тропы на Металлургический Завод</rus>
+		<eng>Выяснить координаты тропы на Металлургический Завод</eng>
+		<ukr>З'ясувати координати стежки на Металургійний Завод</ukr>
+	</string>
+	<string id="task_fanat_minomet_8">
+		<rus>Вернуться к Фанату</rus>
+		<eng>Вернуться к Фанату</eng>
+		<ukr>Повернутися до Фаната</ukr>
+	</string>
+
 	<string id="task_arny_test_0">
 		<rus>Тест пистолетов</rus>
 		<eng>Тест пистолетов</eng>
@@ -4039,9 +4085,9 @@
 		<ukr>Протестувати CZ 75</ukr>
 	</string>
 	<string id="task_arny_test_8">
-		<rus>Протестировать «Glock» 23</rus>
-		<eng>Протестировать «Glock» 23</eng>
-		<ukr>Протестувати «Glock» 23</ukr>
+		<rus>Протестировать Glock 23</rus>
+		<eng>Протестировать Glock 23</eng>
+		<ukr>Протестувати Glock 23</ukr>
 	</string>
 	<string id="task_arny_test_9">
 		<rus>Протестировать Colt M1911</rus>
@@ -4049,9 +4095,9 @@
 		<ukr>Протестувати Colt M1911</ukr>
 	</string>
 	<string id="task_arny_test_10">
-		<rus>Протестировать SIG-Sauer P220</rus>
-		<eng>Протестировать SIG-Sauer P220</eng>
-		<ukr>Протестувати SIG-Sauer P220</ukr>
+		<rus>Протестировать SIG Sauer P220</rus>
+		<eng>Протестировать SIG Sauer P220</eng>
+		<ukr>Протестувати SIG Sauer P220</ukr>
 	</string>
 	<string id="task_arny_test_11">
 		<rus>Протестировать HK USP-40 «Expert»</rus>
