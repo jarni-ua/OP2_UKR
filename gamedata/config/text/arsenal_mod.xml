@@ -116,9 +116,9 @@
 		<ukr>АН-94 «Абакан»</ukr>
 	</string>
 	<string id="ars-scar_cry">
-		<rus>SCAR «Crysis»</rus>
-		<eng>SCAR «Crysis»</eng>
-		<ukr>SCAR «Crysis»</ukr>
+		<rus>FN SCAR «Crysis»</rus>
+		<eng>FN SCAR «Crysis»</eng>
+		<ukr>FN SCAR «Crysis»</ukr>
 	</string>
 	<string id="ars-pulemet">
 		<rus>ПКП «Печенег»</rus>
@@ -251,14 +251,14 @@
 		<ukr>Knights SR-25</ukr>
 	</string>
 	<string id="ars-wpn_g3">
-		<rus>Heckler&amp;Koch G3A3</rus>
-		<eng>Heckler&amp;Koch G3A3</eng>
-		<ukr>Heckler&amp;Koch G3A3</ukr>
+		<rus>HK G3A3</rus>
+		<eng>HK G3A3</eng>
+		<ukr>HK G3A3</ukr>
 	</string>
 	<string id="ars-g41">
-		<rus>Heckler&amp;Koch G41</rus>
-		<eng>Heckler&amp;Koch G41</eng>
-		<ukr>Heckler&amp;Koch G41</ukr>
+		<rus>HK G41</rus>
+		<eng>HK G41</eng>
+		<ukr>HK G41</ukr>
 	</string>
 	<string id="ars-pps43">
 		<rus>ППС-43</rus>
@@ -306,9 +306,9 @@
 		<ukr>АК Стрільця</ukr>
 	</string>
 	<string id="ars-g3sg1">
-		<rus>Heckler&amp;Koch G3SG1</rus>
-		<eng>Heckler&amp;Koch G3SG1</eng>
-		<ukr>Heckler&amp;Koch G3SG1</ukr>
+		<rus>HK G3SG1</rus>
+		<eng>HK G3SG1</eng>
+		<ukr>HK G3SG1</ukr>
 	</string>
 	<string id="ars-k98">
 		<rus>Mauser K-98</rus>
@@ -386,9 +386,9 @@
 		<ukr>MP-445 «Варяг СВ»</ukr>
 	</string>
 	<string id="wpn-mp5_m3">
-		<rus>MP5A3 «7.62x25»</rus>
-		<eng>MP5A3 «7.62x25»</eng>
-		<ukr>MP5A3 «7.62x25»</ukr>
+		<rus>HK MP5A3 «7.62x25»</rus>
+		<eng>HK MP5A3 «7.62x25»</eng>
+		<ukr>HK MP5A3 «7.62x25»</ukr>
 	</string>
 	<string id="ars-zastava">
 		<rus>Zastava M76</rus>
@@ -1230,6 +1230,11 @@
 		<eng>Ingram MAC-10</eng>
 		<ukr>Ingram MAC-10</ukr>
 	</string>
+	<string id="wpn-mac40">
+		<rus>Ingram MAC-10(A1)</rus>
+		<eng>Ingram MAC-10(A1)</eng>
+		<ukr>Ingram MAC-10(A1)</ukr>
+	</string>
 	<string id="ars-fort500">
 		<rus>Форт-500</rus>
 		<eng>Fort-500</eng>
@@ -1808,9 +1813,9 @@
 		<ukr>Автомат Калашникова складний (АКС) зразка 1947 року, під патрон 7.62x39 мм, зі складним (вперед і вниз) металевим прикладом. АКС поставлявся на озброєння повітряно-десантних і спеціальних військ. Цінується у Зоні за надійність навіть у найнесприятливіших умовах і одночасно за простоту у використанні, особливо, завдяки його компактності у складеному вигляді. Можна зустріти як у недавно прибулих у Зону сталкерів, так і у ветеранів.</ukr>
 	</string>
 	<string id="enc_wpn-winch1887">
-		<rus>Обрез охотничьего помпового ружья Remington 870 Wingmaster.\n По внешнему виду заметно, что обрез многое повидал в своей жизни, однако, это никак не сказалось на его технических характеристиках и надёжности. Смело можно брать в дальний рейд, не опасаясь, что этот "коротыш" тебя подведёт.</rus>
+		<rus>Обрез охотничьего помпового ружья Remington 870 «Wingmaster».\n По внешнему виду заметно, что обрез многое повидал в своей жизни, однако, это никак не сказалось на его технических характеристиках и надёжности. Смело можно брать в дальний рейд, не опасаясь, что этот "коротыш" тебя подведёт.</rus>
 		<eng>===M1887 sawed-off Winchester 1887 model, a self-loading shotgun with a tubular magazine for five rounds under the barrel and lower handle. The Winchester Model 1887 is a toggle lock weapon designed by the famous American gunsmith John Browning in 1887 and produced by the Winchester Repeating Arms Company from 1887 to 1920.</eng>
-		<ukr>Обріз мисливської помпової рушниці Remington 870 Wingmaster.\n За зовнішнім виглядом помітно, що обріз багато чого побачив у своєму житті, проте, це ніяк не позначилося на його технічних характеристиках і надійності. Сміливо можна брати в дальній рейд, не побоюючись, що цей "коротун" тебе підведе.</ukr>
+		<ukr>Обріз мисливської помпової рушниці Remington 870 «Wingmaster».\n За зовнішнім виглядом помітно, що обріз багато чого побачив у своєму житті, проте, це ніяк не позначилося на його технічних характеристиках і надійності. Сміливо можна брати в дальній рейд, не побоюючись, що цей "коротун" тебе підведе.</ukr>
 	</string>
 	<string id="enc_weapons1_wpn-gp100">
 		<rus>Револьверы серии Ruger GP-100 появились в 1985 году, вытеснив из производства более ранние модели револьверов Ruger Sequrity-Six, Ruger Service-Six, и выпускаются до сих пор. Эти револьверы отличаются высокой надёжностью, прочностью и живучестью конструкции, удачно сочетающейся с умеренной ценой и широким спектром вариантов. Основными пользователями этих револьверов являются гражданские лица а также сотрудники различных частных служб безопасности и охраны.</rus>
@@ -2248,9 +2253,9 @@
 		<ukr>«Форт-17» являє собою модифікацію пістолета «Форт-12» з полімерною рамкою з армованого скловолокном ударостійкого поліаміду, що відділяється накладкою на рукояті (допускає підгонку по руці стрілка). Магазини пістолетів «Форт-12» і «Форт-17» взаємозамінні, хоча і відрізняються кришками. Кришка магазина «Форт-12» металева, а у «Форт-17» виготовлена з пластмаси. Це нова модифікація пістолета «Форт-17» зі збільшеною до 15 патронів ємністю магазина.</ukr>
 	</string>
 	<string id="enc_arsenal_kac_pdw">
-		<rus>Knight's Armament Company PDW (KAC PDW) - малогабаритная штурмовая винтовка. KAC PDW впервые была показана на Shot Show 2006. KAC PDW снабжён стволом, изготовленным по специальной технологии. Снаружи по всей длине ствола выполнены небольшие лунки, что позволило, по заявлению производителей, существенно снизить вес ствола без ущерба для его характеристик. Кроме того, на стволе установлен разработанный для этой модели компенсатор.\n Модификацию под калибр 5.7 мм осуществил Долговязый, но смена калибра оказалась очень дорогостоящей и заказчик не стал выкупать ствол.\n Возможна установка (по желанию) либо коллиматорного прицела на планку Picatinni, либо оптического прицела Acog, но не одновременно!</rus>
-		<eng>Knight's Armament Company PDW (KAC PDW) is a small-size assault rifle. KAC PDW was first shown on the Shot Show 2006. The KAC PDW is equipped with a barrel manufactured using special technology. Along the entire barrel length, small holes were made outside, which, according to the manufacturers, significantly reduces the weight of the barrel without affecting its characteristics. In addition, a compensator developed for this model is installed on the barrel.\n Modification for the 5.7 mm caliber was done by Lanky, but the caliber change proved to be very expensive and the customer did not redeem the gun.\n It is possible to install (if desired) either a collimator sight on the Picatinni bar, or the Acog optical sight, but not both simultaneously!</eng>
-		<ukr>Knight's Armament Company PDW (KAC PDW) - малогабаритна штурмова гвинтівка. KAC PDW вперше була показана на Shot Show 2006. KAC PDW обладнаний стволом, виготовленим за спеціальною технологією. Зовні по всій довжині ствола виконані невеликі лунки, що дозволило, за заявою виробників, істотно знизити вагу ствола без шкоди для його характеристик. Крім того, на стволі встановлений розроблений для цієї моделі компенсатор.\n Модифікацію під калібр 5.7 мм здійснив Довгов'язий, але зміна калібру виявилася дуже дорогою і замовник не став викуповувати ствол.\n Можлива установка (за бажанням) або коліматорного прицілу на планку Picatinni, або оптичного прицілу Acog, але не одночасно!</ukr>
+		<rus>Knight's Armament Company PDW (KAC PDW) - малогабаритная штурмовая винтовка. KAC PDW впервые была показана на Shot Show 2006. KAC PDW снабжён стволом, изготовленным по специальной технологии. Снаружи по всей длине ствола выполнены небольшие лунки, что позволило, по заявлению производителей, существенно снизить вес ствола без ущерба для его характеристик. Кроме того, на стволе установлен разработанный для этой модели компенсатор.\n Модификацию под калибр 5.7 мм осуществил Долговязый, но смена калибра оказалась очень дорогостоящей и заказчик не стал выкупать ствол.</rus>
+		<eng>Knight's Armament Company PDW (KAC PDW) is a small-size assault rifle. KAC PDW was first shown on the Shot Show 2006. The KAC PDW is equipped with a barrel manufactured using special technology. Along the entire barrel length, small holes were made outside, which, according to the manufacturers, significantly reduces the weight of the barrel without affecting its characteristics. In addition, a compensator developed for this model is installed on the barrel.\n Modification for the 5.7 mm caliber was done by Lanky, but the caliber change proved to be very expensive and the customer did not redeem the gun.</eng>
+		<ukr>Knight's Armament Company PDW (KAC PDW) - малогабаритна штурмова гвинтівка. KAC PDW вперше була показана на Shot Show 2006. KAC PDW обладнаний стволом, виготовленим за спеціальною технологією. Зовні по всій довжині ствола виконані невеликі лунки, що дозволило, за заявою виробників, істотно знизити вагу ствола без шкоди для його характеристик. Крім того, на стволі встановлений розроблений для цієї моделі компенсатор.\n Модифікацію під калібр 5.7 мм здійснив Довгов'язий, але зміна калібру виявилася дуже дорогою і замовник не став викуповувати ствол.</ukr>
 	</string>
 	<string id="enc_arsenal_usas20">
 		<rus>Вариант гладкоствольного боевого ружья USAS-12 с барабанным магазином на 20 патронов. Разработано в США в конце 1980-х годов конструктором Джоном Тревором, работавшим на небольшую компанию Gilbert Equipment Co. В основу нового автоматического гладкоствольного ружья легли идеи американца Максвелла Атчиссона, реализованные им в экспериментальных ружьях серии AA-12.</rus>
@@ -2588,9 +2593,14 @@
 		<ukr>ОРСІС Т-5000 (також ORSIS T-5000) - високоточна магазинна снайперська гвинтівка з поздовжньо ковзаючим затвором. Випускається збройовим заводом «ОРСІС» промислової групи «Промтехнології». Гвинтівка базується на оригінальному затворі з нержавіючої сталі, який випускається в двох варіантах для різних калібрів - 7,62х51мм і 8.6х71мм. Від величини калібру патрона і розміру затворного механізму залежить гранична дальність стрільби, для першого вона дорівнює 1000 метрів, а для другого - до півтора кілометрів.\n Характеристика "високоточна", згадана у назві Т-5000, добавлена не просто так. За своєю точністю Т-5000 перевершує всі вітчизняні і переважну більшість зарубіжних аналогів.\n Гвинтівка була сконструйована так, що б при пострілі мінімізувати фізичну віддачу для стріляючого, для чого зменшили "перекидну" дію зброї.\n Т-5000 важить від 5.8 до 6.2 кілограм, що менше американця XM2010 і всіх інших закордонних гвинтівок.\n На ствольній коробці є планка типу "Пікаттіні", яка дозволяє встановити на Т-5000 практично будь-який приціл.</ukr>
 	</string>
 	<string id="mac10_desc">
-		<rus>MAC-10 (Military Armament Corporation Model 10, официально как M10) - компактный пистолет-пулемёт, разработанный Гордоном Б.Инграмом (Gordon B. Ingram) в 1964 году.\n М10 является простым по устройству, компактным (пригодным для скрытого ношения) надёжным образцом оружия. Высокий темп стрельбы обеспечивает значительную огневую мощь на малых дистанциях, однако в сочетании с небольшой массой и коротким стволом приводит к значительному рассеиванию пуль при стрельбе, существенно ограничивая эффективную дальность.\n Пистолеты-пулемёты Ingram MAC Model 10 (калибр .45АСР) и Model 11 (9х19 Luger) состояли (а местами состоят на вооружении до сих пор) на вооружении различных подразделений спец. назначения и полиции США и ряда других стран, в том числе Тайваня и Израиля. Копии М10 производились на Тайване и в Японии.</rus>
-		<eng>MAC-10 (Military Armament Corporation Model 10, officially - M10) is a compact submachine gun developed by Gordon B. Ingram in 1964.\n M10 is a simple, compact (suitable for concealed wearing), and reliable weapon. A high rate of fire provides a significant firepower at short ranges, but in combination with a small mass and short barrel leads to a significant dispersion during firing, significantly limiting the effective range.\n The Ingram MAC Model 10 (caliber .45ACR) and Model 11 (9x19 Luger) submachine guns consisted (and in some cases are still in service) in the arsenal of various special forces and police units of the United States and a number of other countries, including Taiwan and Israel. Copies of the M10 were produced in Taiwan and Japan.</eng>
-		<ukr>MAC-10 (Military Armament Corporation Model 10, офіційно як M10) - компактний пістолет-кулемет, розроблений Гордоном Б.Інграмом (Gordon B. Ingram) в 1964 році.\n М10 є простим по влаштуванню, компактним (придатним для прихованого носіння) надійним зразком зброї. Високий темп стрільби забезпечує значну вогневу міць на малих дистанціях, однак в поєднанні з невеликою масою і коротким стволом призводить до значного розсіювання куль при стрільбі, істотно обмежуючи ефективну дальність.\n Пістолети-кулемети Ingram MAC Model 10 (калібр .45 АСР) і Model 11 (9х19 Luger) складалися (а подекуди складаються на озброєнні досі) на озброєнні різних підрозділів спец. призначення і поліції США і ряду інших країн, в тому числі Тайваню та Ізраїлю. Копії М10 виготовлялися на Тайвані і в Японії.</ukr>
+		<rus>MAC-10 (Military Armament Corporation Model 10, официально как M10) - компактный пистолет-пулемёт, разработанный Гордоном Б.Инграмом (Gordon B. Ingram) в 1964 году.\n М10 является простым по устройству, компактным (пригодным для скрытого ношения) надёжным образцом оружия. Высокий темп стрельбы обеспечивает значительную огневую мощь на малых дистанциях, однако в сочетании с небольшой массой и коротким стволом приводит к значительному рассеиванию пуль при стрельбе, существенно ограничивая эффективную дальность.\n  Пистолеты-пулемёты Ingram MAC Model 10 (калибр .45АСР/9х19 Luger) и Model 11 (9х17 Luger) состояли (а местами состоят на вооружении до сих пор) на вооружении различных подразделений спец. назначения и полиции США и ряда других стран, в том числе Тайваня и Израиля. Копии М10 производились на Тайване и в Японии.</rus>
+		<eng>MAC-10 (Military Armament Corporation Model 10, officially - M10) is a compact submachine gun developed by Gordon B. Ingram in 1964.\n M10 is a simple, compact (suitable for concealed wearing), and reliable weapon. A high rate of fire provides a significant firepower at short ranges, but in combination with a small mass and short barrel leads to a significant dispersion during firing, significantly limiting the effective range.\n The Ingram MAC Model 10 (caliber .45ACR/9x19 Luger) and Model 11 (9x17 Luger) submachine guns consisted (and in some cases are still in service) in the arsenal of various special forces and police units of the United States and a number of other countries, including Taiwan and Israel. Copies of the M10 were produced in Taiwan and Japan.</eng>
+		<ukr>MAC-10 (Military Armament Corporation Model 10, офіційно як M10) - компактний пістолет-кулемет, розроблений Гордоном Б.Інграмом (Gordon B. Ingram) в 1964 році.\n М10 є простим по влаштуванню, компактним (придатним для прихованого носіння) надійним зразком зброї. Високий темп стрільби забезпечує значну вогневу міць на малих дистанціях, однак в поєднанні з невеликою масою і коротким стволом призводить до значного розсіювання куль при стрільбі, істотно обмежуючи ефективну дальність.\n Пістолети-кулемети Ingram MAC Model 10 (калібр .45 АСР/9x19 Luger) і Model 11 (9х17 Luger) складалися (а подекуди складаються на озброєнні досі) на озброєнні різних підрозділів спец. призначення і поліції США і ряду інших країн, в тому числі Тайваню та Ізраїлю. Копії М10 виготовлялися на Тайвані і в Японії.</ukr>
+	</string>
+	<string id="mac40_desc">
+		<rus>MAC-10 (Military Armament Corporation Model 10, официально как M10) - компактный пистолет-пулемёт, разработанный Гордоном Б.Инграмом (Gordon B. Ingram) в 1964 году.\n М10 является простым по устройству, компактным (пригодным для скрытого ношения) надёжным образцом оружия. Высокий темп стрельбы обеспечивает значительную огневую мощь на малых дистанциях, однако в сочетании с небольшой массой и коротким стволом приводит к значительному рассеиванию пуль при стрельбе, существенно ограничивая эффективную дальность.\n Данная модификация MAC 10(А1) под патрон .40 sw. Себестоимость этого варианта «Ingram» оказалась слишком высокой, поэтому в серийное производство данная модификация не поступала.</rus>
+		<eng>===MAC-10 (Military Armament Corporation Model 10, officially - M10) is a compact submachine gun developed by Gordon B. Ingram in 1964.\n M10 is a simple, compact (suitable for concealed wearing), and reliable weapon. A high rate of fire provides a significant firepower at short ranges, but in combination with a small mass and short barrel leads to a significant dispersion during firing, significantly limiting the effective range.\n Данная модификация MAC 10(А1) под патрон .40 sw. Себестоимость этого варианта «Ingram» оказалась слишком высокой, поэтому в серийное производство данная модификация не поступала.</eng>
+		<ukr>MAC-10 (Military Armament Corporation Model 10, офіційно як M10) - компактний пістолет-кулемет, розроблений Гордоном Б.Інграмом (Gordon B. Ingram) в 1964 році.\n М10 є простим по влаштуванню, компактним (придатним для прихованого носіння) надійним зразком зброї. Високий темп стрільби забезпечує значну вогневу міць на малих дистанціях, однак в поєднанні з невеликою масою і коротким стволом призводить до значного розсіювання куль при стрільбі, істотно обмежуючи ефективну дальність.\n Дана модифікація MAC 10(А1) під патрон .40 sw. Собівартість цього варіанту «Ingram» виявилася занадто високою, тому в серійне виробництво дана модифікація не надходила.</ukr>
 	</string>
 	<string id="enc_ars_fort500">
 		<rus>Гладкоствольное ружьё Форт-500 было разработано в НПО "Форт" МВД Украины в конце 1990-х годов, и предназначалось для вооружения сотрудников МВД и служб безопасности Украины. В настоящее время ружьё Форт-500 в ограниченных количествах состоит на вооружении спецподразделений МВД Украины, а также продаётся гражданам этой страны в охотничьем варианте. В конструкции этого ружья по имеющейся информации использованы некоторые решения, заимствованные из американского ружья Remington 870. В настоящее время наряду с базовым вариантом ружья Форт-500 выпускается и специальный "полицейский" вариант Форт-500М, имеющий укороченный до 355 мм ствол, телескопический регулируемый приклад и комплект направляющих типа Picatinny rail для установки дополнительных аксессуаров.</rus>
