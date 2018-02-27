@@ -11,12 +11,12 @@
 	<string id="ec_hello_cs_3">
 		<rus>На данный момент у тебя пригодных для зарядки аккумуляторов - %%c[green]%d%%c[default],\nстоить это будет - %%c[green]%d%%c[default]%s\nи займёт часов - %%c[green]%s%%c[default].\nБудешь заряжать?</rus>
 		<eng>На данный момент у тебя пригодных для зарядки аккумуляторов - %%c[green]%d%%c[default],\nстоить это будет - %%c[green]%d%%c[default]%s\nи займёт часов - %%c[green]%s%%c[default].\nБудешь заряжать?</eng>
-		<ukr>На даний момент в тебе придатних для зарядки акумуляторів - %%c[green]%d%%c[default],\nкоштувати це буде - %%c[green]%d%%c[default]%s\nта займе часів - %%c[green]%s%%c[default].\nБудешь заряджати?</ukr>
+		<ukr>На даний момент в тебе придатних для зарядки акумуляторів - %%c[green]%d%%c[default],\nкоштувати це буде - %%c[green]%d%%c[default]%s\nта займе годин - %%c[green]%s%%c[default].\nБудешь заряджати?</ukr>
 	</string>	
 	<string id="ec_ready_charge">
 		<rus>Да, всё устраивает. Заряжай!</rus>
 		<eng>Да, всё устраивает. Заряжай!</eng>
-		<ukr>Так, все влаштовує. Заряжай!</ukr>
+		<ukr>Так, все влаштовує. Заряджай!</ukr>
 	</string>
 	<string id="ec_complete_charge">
 		<rus>Меченый, готовы твои батарейки! Приходи - забирай.</rus>
