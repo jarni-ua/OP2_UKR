@@ -3682,9 +3682,9 @@
 		<ukr>Швидкий слот 3</ukr>
 	</string>
 	<string id="kb_cb_take_all">
-		<rus>"Забрать все" в окнах обыска контейнеров</rus>
-		<eng>"Take all" in container lookup windows</eng>
-		<ukr>"Забрати все" у вікнах обшуку контейнерів</ukr>
+		<rus>"Забрать всё" в окнах обыска</rus>
+		<eng>"Take all" in lookup windows</eng>
+		<ukr>"Забрати все" у вікнах обшуку</ukr>
 	</string>
 	<string id="ui_inv_radiation">
 		<rus>Облучение</rus>
@@ -3747,14 +3747,14 @@
 		<ukr>розрядити экзоскелет</ukr>
 	</string>	
 	<string id="cant_exo_jump">
-		<rus>cant_exo_jump</rus>
-		<eng>cant_exo_jump</eng>
-		<ukr>cant_exo_jump</ukr>
+		<rus>Вы не можете прыгать в разряженном экзоскелете!</rus>
+		<eng>You can not jump in a discharged exoskeleton!</eng>
+		<ukr>Ви не можете стрибати в розрядженому екзоскелеті!</ukr>
 	</string>	
 	<string id="cant_exo_sprint">
-		<rus>cant_exo_sprint</rus>
-		<eng>cant_exo_sprint</eng>
-		<ukr>cant_exo_sprint</ukr>
+		<rus>Вы не можете бежать в разряженном экзоскелете!</rus>
+		<eng>You can not sprint in a discharged exoskeleton!</eng>
+		<ukr>Ви не можете бігти в розрядженому екзоскелеті!</ukr>
 	</string>
 	<string id="ui_st_bc_desc">
 		<rus>уровень заряда</rus>
