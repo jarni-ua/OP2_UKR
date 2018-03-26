@@ -91,7 +91,7 @@
 		<ukr>від'єднати глушник</ukr>
 	</string>
 	<string id="st_dress_outfit">
-		<rus>надеть</rus>
+		<rus>одеть</rus>
 		<eng>put on</eng>
 		<ukr>одягнути</ukr>
 	</string>
@@ -3346,7 +3346,7 @@
 		<ukr>Інтегрований</ukr>
 	</string>
 	<string id="ui_mecenii_dead">
-		<rus>Зафиксирована смерть сталкера по кличке Меченый.</rus>
+		<rus>Зафиксирована смерть сталкера по прозвищу Меченый.</rus>
 		<eng>Stalker deceased: Marked One</eng>
 		<ukr>Зафіксовано смерть сталкера на прізвисько Мічений.</ukr>
 	</string>
@@ -3765,5 +3765,15 @@
 		<rus>Уровень заряда</rus>
 		<eng>Charge level</eng>
 		<ukr>Рівень заряду</ukr>
+	</string>	
+	<string id="ui_close_pzu">
+		<rus>Закрыть ПЗУ</rus>
+		<eng>Close PBC</eng>
+		<ukr>Закрити ПЗП</ukr>
+	</string>
+	<string id="ui_pzu">
+		<rus>Портативное Зарядное Устройство</rus>
+		<eng>Portable Battery Charger</eng>
+		<ukr>Портативний Зарядний Пристрій</ukr>
 	</string>	
 </string_table>
