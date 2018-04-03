@@ -657,9 +657,9 @@
 		<ukr>"Аксон"</ukr>
 	</string>
 	<string id="enc_kletka">
-		<rus>Артефакт образуется из тела живого организма, который находится под пси-воздействием и попадает в аномалию Холодец. Впервые артефакт обнаружили относительно недавно, на базе Свободы. Недалеко от базы появился контролёр, который взял под контроль сталкера. Сталкер подошёл к базе Свободы и начал стрелять, но попал в аномалию "Холодец". Через неделю в аномалии образовался артефакт. По-видимому, артефакт состоит из перешедшей в аморфное состояние нервной ткани мозгового вещества, а точнее, огромного количества аксонной ткани мозга. При ношении его на поясе очень сильно влияет на мозг человека, ухудшая его пси-сопротивляемость, но повышает иммунитет и снижает сильные кровотечения при механических повреждениях кожи. Огромного интереса у сталкеров не вызывает.</rus>
-		<eng>Artifact is formed from body of living organism, having entered "Fruit Punch" anomaly under psy-field influence. For the first time this artifact was spotted at the Freedom base quite recently. Not far from the base there once appeared a Controller, who took control of some stalker. That stalker came to the base and started shooting, but just then he got into a "Fruit Punch" anomaly. A week later an artifact was formed in that anomaly. Apparently, this artifact consists of brain's neural tissue that has passed into amorphous state. When worn on belt, it affects human brain very much, reducing its psy-resistance, but increases immunity and reduces severe bleeding caused by mechanical damage to skin. Not very interesting to stalkers.</eng>
-		<ukr>Артефакт утворюється з тіла живого організму, який знаходиться під псі-впливом і потрапляє в аномалію Холодець. Вперше артефакт виявили відносно недавно, на базі Волі. Недалеко від бази з'явився контролер, який взяв під контроль сталкера. Сталкер підійшов до бази Волі і почав стріляти, але потрапив у аномалію "Холодець". Через тиждень у аномалії утворився артефакт. Мабуть, артефакт складається з перейшовшої у аморфний стан нервової тканини мозкової речовини, а точніше, величезної кількості аксонної тканини мозку. При носінні його на поясі дуже сильно впливає на мозок людини, погіршуючи його псі-опірність, але підвищує імунітет людини і знижує кровотечі при механічних пошкодженнях шкіри. Величезного інтересу у сталкерів не викликає.</ukr>
+		<rus>Артефакт образуется из тела живого организма, который находится под пси-воздействием и попадает в аномалию "Холодец". Впервые артефакт обнаружили относительно недавно, на базе Свободы. Недалеко от базы появился контролёр, который взял под контроль сталкера. Сталкер подошёл к базе Свободы и начал стрелять, но попал в аномалию "Холодец". Через неделю в аномалии образовался артефакт. По-видимому, артефакт состоит из перешедшей в аморфное состояние нервной ткани мозгового вещества, а точнее, огромного количества аксонной ткани мозга. При ношении его на поясе очень сильно влияет на мозг человека, ухудшая его пси-сопротивляемость, но повышает иммунитет и снижает сильные кровотечения при механических повреждениях кожи.</rus>
+		<eng>Artifact is formed from body of living organism, having entered "Fruit Punch" anomaly under psy-field influence. For the first time this artifact was spotted at the Freedom base quite recently. Not far from the base there once appeared a Controller, who took control of some stalker. That stalker came to the base and started shooting, but just then he got into a "Fruit Punch" anomaly. A week later an artifact was formed in that anomaly. Apparently, this artifact consists of brain's neural tissue that has passed into amorphous state. When worn on belt, it affects human brain very much, reducing its psy-resistance, but increases immunity and reduces severe bleeding caused by mechanical damage to skin. </eng>
+		<ukr>Артефакт утворюється з тіла живого організму, який знаходиться під псі-впливом і потрапляє в аномалію "Холодець". Вперше артефакт виявили відносно недавно, на базі Волі. Недалеко від бази з'явився контролер, який взяв під контроль сталкера. Сталкер підійшов до бази Волі і почав стріляти, але потрапив у аномалію "Холодець". Через тиждень у аномалії утворився артефакт. Мабуть, артефакт складається з перейшовшої у аморфний стан нервової тканини мозкової речовини, а точніше, величезної кількості аксонної тканини мозку. При носінні його на поясі дуже сильно впливає на мозок людини, погіршуючи його псі-опірність, але підвищує імунітет людини і знижує кровотечі при механічних пошкодженнях шкіри.</ukr>
 	</string>
 	<string id="af_mayak">
 		<rus>"Маяк"</rus>
@@ -1386,6 +1386,21 @@
 		<rus>Открыть вентиль баллона</rus>
 		<eng>Открыть вентиль баллона</eng>
 		<ukr>Відкрити клапан балону</ukr>
+	</string>
+	<string id="st_taynik_oruzeinik">
+		<rus>Включить генератор пси-излучения</rus>
+		<eng>Включить генератор пси-излучения</eng>
+		<ukr>Ввімкнути генератор псі-випромінювання</ukr>
+	</string>
+	<string id="st_taynik_oruzeinik_on">
+		<rus>Генератор пси-излучения включён</rus>
+		<eng>Генератор пси-излучения включён</eng>
+		<ukr>Генератор псі-випромінювання ввімкнено</ukr>
+	</string>
+	<string id="st_taynik_oruzeinik_open">
+		<rus>Открыть ранее запертый отсек генератора</rus>
+		<eng>Открыть ранее запертый отсек генератора</eng>
+		<ukr>Відкрити раніше замкнений відсік генератора</ukr>
 	</string>
 	<string id="st_dimak_decoder">
 		<rus>Отключить передатчик</rus>

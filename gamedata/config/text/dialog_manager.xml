@@ -1434,7 +1434,7 @@
 	</string>
 	<string id="dm_general_cool_info_no_more">
 		<rus>Больше ничего не знаю.</rus>
-		<eng>“That’s all I know.</eng>
+		<eng>That’s all I know.</eng>
 		<ukr>Більше нічого не знаю.</ukr>
 	</string>
 	<string id="dm_general_help_bandage">
@@ -1444,8 +1444,18 @@
 	</string>
 	<string id="dm_general_help_medkit">
 		<rus>Держи аптечку.</rus>
-		<eng>>Take this medkit.</eng>
+		<eng>Take this medkit.</eng>
 		<ukr>Тримай аптечку.</ukr>
+	</string>
+	<string id="dm_general_help_psy_heal_noad">
+		<rus>Прости, нет лекарств у меня сейчас для тебя.</rus>
+		<eng>Sorry, I have no medicine for you right now.</eng>
+		<ukr>Вибач, немає ліків у мене зараз для тебе.</ukr>
+	</string>
+	<string id="dm_general_help_psy_heal">
+		<rus>Держи лекарства.</rus>
+		<eng>Take this medicines.</eng>
+		<ukr>Тримай ліки.</ukr>
 	</string>
 	<string id="dm_general_trade_info">
 		<rus>Интересует информация. За деньги.</rus>
