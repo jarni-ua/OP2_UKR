@@ -193,16 +193,21 @@
 		<ukr>Тепловізор</ukr>
 	</string>
 	<string id="task_hamster_kuznec2_1">
+		<rus>Расспросить сталкеров о нападении на разведгруппу военных</rus>
+		<eng>Расспросить сталкеров о нападении на разведгруппу военных</eng>
+		<ukr>Розпитати сталкерів про напад на розвідгрупу військових</ukr>
+	</string>
+	<string id="task_hamster_kuznec2_2">
 		<rus>Разыскать бандитов, укравших шлем с тепловизор</rus>
 		<eng>Разыскать бандитов, укравших шлем с тепловизор</eng>
 		<ukr>Розшукати бандитів, які вкрали шолом із тепловізором</ukr>
 	</string>
-	<string id="task_hamster_kuznec2_2">
+	<string id="task_hamster_kuznec2_3">
 		<rus>Обыскать бандитов</rus>
 		<eng>Обыскать бандитов</eng>
 		<ukr>Обшукати бандитів</ukr>
 	</string>
-	<string id="task_hamster_kuznec2_3">
+	<string id="task_hamster_kuznec2_4">
 		<rus>Отнести шлем Кузнецову</rus>
 		<eng>Отнести шлем Кузнецову</eng>
 		<ukr>Віднести шолом Кузнєцову</ukr>
@@ -219,11 +224,16 @@
 		<ukr>Відшукати флешку з кодом до сейфу</ukr>
 	</string>
 	<string id="task_hamster_kuznec3_2">
+		<rus>Ввести правильный код</rus>
+		<eng>Ввести правильный код</eng>
+		<ukr>Ввести правильний код</ukr>
+	</string>
+	<string id="task_hamster_kuznec3_3">
 		<rus>Открыть сейф и забрать его содержимое</rus>
 		<eng>Открыть сейф и забрать его содержимое</eng>
 		<ukr>Відкрити сейф і забрати його вміст</ukr>
 	</string>
-	<string id="task_hamster_kuznec3_3">
+	<string id="task_hamster_kuznec3_4">
 		<rus>Принести бумаги Кузнецову</rus>
 		<eng>Принести бумаги Кузнецову</eng>
 		<ukr>Принести папери Кузнєцову</ukr>
@@ -297,18 +307,28 @@
 		<eng>Доложить Кузнецову о выполнении</eng>
 		<ukr>Доповісти Кузнєцову про виконання</ukr>
 	</string>
-	
+
 	<string id="task_hamster_kuznec8_0">
 		<rus>"Бейлиз"</rus>
 		<eng>"Бейлиз"</eng>
 		<ukr>"Бейліз"</ukr>
 	</string>
 	<string id="task_hamster_kuznec8_1">
+		<rus>Расспросить Сидоровича про ликёр</rus>
+		<eng>Расспросить Сидоровича про ликёр</eng>
+		<ukr>Розпитати Сидоровича про лікер</ukr>
+	</string>
+	<string id="task_hamster_kuznec8_2">
+		<rus>Расспросить Бармена про ликёр</rus>
+		<eng>Расспросить Бармена про ликёр</eng>
+		<ukr>Розпитати Бармена про лікер</ukr>
+	</string>
+	<string id="task_hamster_kuznec8_3">
 		<rus>Найти 10 бутылок ликёра "Бейлиз"</rus>
 		<eng>Найти 10 бутылок ликёра "Бейлиз"</eng>
 		<ukr>Знайти 10 пляшок лікеру "Бейліз"</ukr>
 	</string>
-	<string id="task_hamster_kuznec8_2">
+	<string id="task_hamster_kuznec8_4">
 		<rus>Принести ликёр Кузнецову</rus>
 		<eng>Принести ликёр Кузнецову</eng>
 		<ukr>Принести лікер Кузнєцову</ukr>
@@ -682,19 +702,19 @@
 	</string>
 
 	<string id="task_ohota_gigant_0">
-		<rus>Охота на гигантов</rus>
-		<eng>Охота на гигантов</eng>
-		<ukr>Полювання на гігантів</ukr>
+		<rus>Поединок гигантов</rus>
+		<eng>Поединок гигантов</eng>
+		<ukr>Поєдинок  гігантів</ukr>
 	</string>
 	<string id="task_ohota_gigant_1">
-		<rus>Очистить местность от псевдогигантов</rus>
-		<eng>Очистить местность от псевдогигантов</eng>
-		<ukr>Очистити місцевість від псевдогігантів</ukr>
+		<rus>Завалить красного псевдогиганта с помощью эмбрионов мутантов</rus>
+		<eng>Завалить красного псевдогиганта с помощью эмбрионов мутантов</eng>
+		<ukr>Завалити червоного псевдогіганта за допомогою ембріонів мутантів</ukr>
 	</string>
 	<string id="task_ohota_gigant_2">
-		<rus>Вернуться к Калинину</rus>
-		<eng>Вернуться к Калинину</eng>
-		<ukr>Повернутися до Калініна</ukr>
+		<rus>Вернуться к Калинину после поединка</rus>
+		<eng>Вернуться к Калинину после поединка</eng>
+		<ukr>Повернутися до Калініна после поєдинку</ukr>
 	</string>
 
 	<string id="task_souls_house_0">
@@ -1400,14 +1420,24 @@
 	</string>
 
 	<string id="task_taynik_oruzeinik_0">
-		<rus>Тайник Оружейника</rus>
-		<eng>Тайник Оружейника</eng>
-		<ukr>Схованка Зброяра</ukr>
+		<rus>Фантомная боль</rus>
+		<eng>Фантомная боль</eng>
+		<ukr>Фантомна біль</ukr>
 	</string>
 	<string id="task_taynik_oruzeinik_1">
-		<rus>Найти тайник Оружейника</rus>
-		<eng>Найти тайник Оружейника</eng>
-		<ukr>Знайти схованку Зброяра</ukr>
+		<rus>Отыскать генератор пси-излучения и включить его</rus>
+		<eng>Отыскать генератор пси-излучения и включить его</eng>
+		<ukr>Відшукати генератор пси-випромінювання і включити його</ukr>
+	</string>
+	<string id="task_taynik_oruzeinik_2">
+		<rus>Отстрелять созданных фантомов</rus>
+		<eng>Отстрелять созданных фантомов</eng>
+		<ukr>Відстріляти створених фантомів</ukr>
+	</string>
+	<string id="task_taynik_oruzeinik_3">
+		<rus>Вытащить из генератора чертёж Оружейника</rus>
+		<eng>Вытащить из генератора чертёж Оружейника</eng>
+		<ukr>Витягнути з генератора креслення Зброяра</ukr>
 	</string>
 
 	<string id="task_dolg_peremirie_0">
@@ -1635,9 +1665,9 @@
 		<ukr>Віднести артефакти Акиму</ukr>
 	</string>
 	<string id="task_voron_eyes_3">
-		<rus>Отдать винтовку AWP Косте</rus>
-		<eng>Отдать винтовку AWP Косте</eng>
-		<ukr>Віддати гвинтівку AWP Кості</ukr>
+		<rus>Отдать винтовку L96A1 Косте</rus>
+		<eng>Отдать винтовку L96A1 Косте</eng>
+		<ukr>Віддати гвинтівку L96A1 Кості</ukr>
 	</string>
 
 	<string id="task_binocle_kep_0">
@@ -1952,6 +1982,11 @@
 		<eng>Вернуться к Ною</eng>
 		<ukr>Повернутися до Ноя</ukr>
 	</string>
+	<string id="task_volna_union_21">
+		<rus>Поговорить с Кузькиной Матерью</rus>
+		<eng>Поговорить с Кузькиной Матерью</eng>
+		<ukr>Поговорити з Кузькиною Матірью</ukr>
+	</string>
 
 	<string id="task_ohota_suker_0">
 		<rus>Газовая атака</rus>
@@ -2066,7 +2101,7 @@
 	<string id="task_aaz_oboroten_2">
 		<rus>Убить оборотня-волколака</rus>
 		<eng>Убить оборотня-волколака</eng>
-		<ukr>Вбити перевертня-вовкулаку</ukr>
+		<ukr>Вбити перевертня-волколака</ukr>
 	</string>
 	<string id="task_aaz_oboroten_3">
 		<rus>Вернуться к Аазу</rus>
@@ -3394,9 +3429,9 @@
 		<ukr>Віднести журнал Акиму</ukr>
 	</string>
 	<string id="task_akim_journal_3">
-		<rus>Отдать винтовку AWP Косте</rus>
-		<eng>Отдать винтовку AWP Косте</eng>
-		<ukr>Віддати гвинтівку AWP Кості</ukr>
+		<rus>Отдать винтовку L96A1 Косте</rus>
+		<eng>Отдать винтовку L96A1 Косте</eng>
+		<ukr>Віддати гвинтівку L96A1 Кості</ukr>
 	</string>
 
 	<string id="task_nazar_spider_0">
@@ -3733,6 +3768,22 @@
 		<rus>Отнести турели Мерцающему</rus>
 		<eng>Отнести турели Мерцающему</eng>
 		<ukr>Віднести турелі Мерехтливому</ukr>
+	</string>
+
+	<string id="task_kuzmat_toxic_0">
+		<rus>Интоксикация</rus>
+		<eng>Intoxication</eng>
+		<ukr>Інтоксикація</ukr>
+	</string>
+	<string id="task_kuzmat_toxic_1">
+		<rus>Добыть антитоксин у больших биомасс</rus>
+		<eng>Добыть антитоксин у больших биомасс</eng>
+		<ukr>Добути антитоксин у великих біомас</ukr>
+	</string>
+	<string id="task_kuzmat_toxic_2">
+		<rus>Отдать пробирки с антитоксином Кузькиной Матери</rus>
+		<eng>Отдать пробирки с антитоксином Кузькиной Матери</eng>
+		<ukr>Віддати пробірки з антитоксином Кузькиній Матері</ukr>
 	</string>
 
 	<string id="task_kalinin_box_0">
