@@ -1125,710 +1125,710 @@
 	<!-- КВЕСТЫ КУЗНЕЦОВА -->
 	<string id="hamster_kuznec_0">
 		<rus>Слушай, майор, может у тебя ещё какое особое задание имеется?</rus>
-		<eng>Слушай, майор, может у тебя ещё какое особое задание имеется?</eng>
+		<eng>Listen, Major, perhaps you have another special job for me?</eng>
 		<ukr>Слухай, майор, може у тебе ще яке особливе завдання мається?</ukr>
 	</string>
 	<string id="hamster_kuznec_1">
 		<rus>Имеется, и не одно. Выбирай: \n \n- Поиск пропавшего сержанта;\n- Украденный шлем с тепловизором;\n- Взлом старого сейфа;\n- Потерянный кейс;\n- Сбежавшие заключённые;\n- Журнал "Плейбой" за прошлый год;\n- Кровосос у блокпоста;\n- Ликёр "Бейлиз".\n \nЗа что возьмёшься?</rus>
-		<eng>Имеется, и не одно. Выбирай: \n \n- Поиск пропавшего сержанта;\n- Украденный шлем с тепловизором;\n- Взлом старого сейфа;\n- Потерянный кейс;\n- Сбежавшие заключённые;\n- Журнал "Плейбой" за прошлый год;\n- Кровосос у блокпоста;\n- Ликёр "Бейлиз".\n \nЗа что возьмёшься?</eng>
+		<eng>I do have and not just one. Choose: \n \n- Search for the missing sergeant;\n- Stolen helmet with thermal imager;\n- Hacking the old safe;\n- The lost case;\n- Escaped prisoners;\n- "Playboy" magazine for the last year;\n- Bloodsucker at the checkpoint;\n- "Baileys" liqueur.\n \nWhich will you take?</eng>
 		<ukr>Є, і не одне. Вибирай: \n \n- Пошук зниклого сержанта;\n- Вкрадений шолом з тепловізором;\n- Злом старого сейфа;\n- Втрачений кейс;\n- В'язні, що втікли;\n- Журнал "Плейбой" за минулий рік;\n- Кровосос біля блокпосту;\n- Лікер "Бейліз".\n \nЗа що візьмешся?</ukr>
 	</string>
 	<string id="hamster_kuznec_11">
 		<rus>Сержант пропал? Как это произошло?</rus>
-		<eng>Сержант пропал? Как это произошло?</eng>
+		<eng>The sergeant missing? How did this happen?</eng>
 		<ukr>Сержант пропав? Як це сталося?</ukr>
 	</string>
 	<string id="hamster_kuznec_12">
 		<rus>С тепловизором? Крутая должна быть вещь.</rus>
-		<eng>С тепловизором? Крутая должна быть вещь.</eng>
+		<eng>With a thermal imager? Must've been a cool thing.</eng>
 		<ukr>З тепловізором? Крута повинна бути річ.</ukr>
 	</string>
 	<string id="hamster_kuznec_13">
 		<rus>Взламывать сейфы мне прежде не доводилось. Инструменты предоставишь? Сварочный аппарат, болгарку, ломик, кувалду, ножовку по металлу...</rus>
-		<eng>Взламывать сейфы мне прежде не доводилось. Инструменты предоставишь? Сварочный аппарат, болгарку, ломик, кувалду, ножовку по металлу...</eng>
+		<eng>I've not hacked safes before. Will you provide the tools? Welding machine, angle grinder, crowbar, sledge hammer, metal hacksaw...</eng>
 		<ukr>Зламувати сейфи мені раніше не доводилося. Інструменти надаси? Зварювальний апарат, болгарку, ломик, кувалду, ножівку по металу...</ukr>
 	</string>
 	<string id="hamster_kuznec_14">
 		<rus>О чём идёт речь? Какой кейс?</rus>
-		<eng>О чём идёт речь? Какой кейс?</eng>
+		<eng>What is it about? What case?</eng>
 		<ukr>Про що йде мова? Який кейс?</ukr>
 	</string>
 	<string id="hamster_kuznec_15">
 		<rus>Зеки сбежали? Из одной зоны в другую? Шутишь?</rus>
-		<eng>Зеки сбежали? Из одной зоны в другую? Шутишь?</eng>
+		<eng>The escaped prisoners? Escaped from one zone to another? Are you kidding me?</eng>
 		<ukr>Зеки втекли? З однієї зони у іншу? Жартуєш?</ukr>
 	</string>
 	<string id="hamster_kuznec_16">
 		<rus>Эротика? Понимаю!</rus>
-		<eng>Эротика? Понимаю!</eng>
+		<eng>Erotica? I see!</eng>
 		<ukr>Еротика? Розумію!</ukr>
 	</string>
 	<string id="hamster_kuznec_17">
 		<rus>Что-то кровососа я тут поблизости не видел.</rus>
-		<eng>Что-то кровососа я тут поблизости не видел.</eng>
+		<eng>Why, I haven't seen any bloodsucker nearby.</eng>
 		<ukr>Щось кровососа я тут поблизу не бачив.</ukr>
 	</string>
 	<string id="hamster_kuznec_18">
 		<rus>Ни фига ты загнул! Где я тебе в Зоне ликёр найду?</rus>
-		<eng>Ни фига ты загнул! Где я тебе в Зоне ликёр найду?</eng>
+		<eng>Too much to ask for! Where can I find a liqueur in the Zone?</eng>
 		<ukr>Ніфіга ти загнув! Де я тобі у Зоні лікер знайду?</ukr>
 	</string>
 	<string id="hamster_kuznec_99">
 		<rus>Ну и списочек! Слушай, давай я к тебе попозже зайду. У меня сейчас нет времени этим заниматься.</rus>
-		<eng>Ну и списочек! Слушай, давай я к тебе попозже зайду. У меня сейчас нет времени этим заниматься.</eng>
+		<eng>Well, some little list! Listen, perhaps, I'll come to you later. I don't have time to do this now.</eng>
 		<ukr>Ну і списочок! Слухай, давай я до тебе пізніше зайду. У мене зараз немає часу цим займатися.</ukr>
 	</string>
 	<string id="hamster_kuznec_111">
 		<rus>А хрен его знает! Это случилось месяц назад. Сержант Звягинцев был на ночном дежурстве. То, что его нет на посту, обнаружили только утром. Мы прочесали местность, но никаких следов борьбы или крови не нашли. Есть подозрения, что сержант подался в самоволку. Во всяком случае сейчас он числится в списке пропавших без вести. Если встретишь его в Зоне, то попробуй уговорить вернуться. Если же наткнёшься на... его труп, то принеси жетон с личным номером.</rus>
-		<eng>А хрен его знает! Это случилось месяц назад. Сержант Звягинцев был на ночном дежурстве. То, что его нет на посту, обнаружили только утром. Мы прочесали местность, но никаких следов борьбы или крови не нашли. Есть подозрения, что сержант подался в самоволку. Во всяком случае сейчас он числится в списке пропавших без вести. Если встретишь его в Зоне, то попробуй уговорить вернуться. Если же наткнёшься на... его труп, то принеси жетон с личным номером.</eng>
+		<eng>Hell if I know! It happened a month ago. Sergeant Zvyagintsev was on night duty. The fact that he is not on duty, has only been ascertained in the morning. We have combed the terrain, but no traces of struggle or blood have been found. There were suspicions that the sergeant had gone AWOL. In any case, he is now on the missing persons list. If you meet him in the Zone, try to persuade him to come back. If you stumble upon... his corpse, then bring me his dog tag.</eng>
 		<ukr>А хрін його знає! Це трапилося місяць тому. Сержант Звягінцев був на нічному чергуванні. Те, що його немає на посту, виявили лише вранці. Ми прочесали місцевість, але ніяких слідів боротьби або крові не знайшли. Є підозри, що сержант подався у самоволку. Принаймні зараз він числиться у списку зниклих безвісти. Якщо зустрінеш його у Зоні, то спробуй умовити повернутися. Якщо ж натрапиш на... його труп, то принеси жетон з особистим номером.</ukr>
 	</string>
 	<string id="hamster_kuznec_112">
 		<rus>Надеюсь, с ним всё в порядке.</rus>
-		<eng>Надеюсь, с ним всё в порядке.</eng>
+		<eng>I hope he's all right.</eng>
 		<ukr>Сподіваюся, з ним все в порядку.</ukr>
 	</string>
 	<string id="hamster_kuznec_113">
 		<rus>Не, извини. Такими делами не занимаюсь.</rus>
-		<eng>Не, извини. Такими делами не занимаюсь.</eng>
+		<eng>No, I'm sorry. I don't do this kind of job.</eng>
 		<ukr>Ні, вибач. Такими справами не займаюся.</ukr>
 	</string>
 	<string id="hamster_kuznec_114">
 		<rus>Я подобрал жетон сержанта Звягинцева с трупа одного монолитовца на Радаре. Мне доподлинно неизвестно, как жетон оказался у фанатика. Есть вероятность, что солдат поневоле вступил в клан Монолит, а может жетон был своего рода трофеем монолитовца. Дальнейшие поиски считаю бессмысленными...</rus>
-		<eng>Я подобрал жетон сержанта Звягинцева с трупа одного монолитовца на Радаре. Мне доподлинно неизвестно, как жетон оказался у фанатика. Есть вероятность, что солдат поневоле вступил в клан Монолит, а может жетон был своего рода трофеем монолитовца. Дальнейшие поиски считаю бессмысленными...</eng>
+		<eng>I've picked up Sergeant Zvyagintsev's dog tag off the corpse of one monolithian on Radar. I don't know for certain how it's ended up with the fanatic. There is a possibility that the soldier was forced to join the Monolith faction, but maybe the dog tag was a trophy of the monolithian's. I think there's no point in the further search...</eng>
 		<ukr>Я підібрав жетон сержанта Звягінцева з трупа одного монолітівця на Радарі. Мені достеменно невідомо, як жетон опинився у фанатика. Є ймовірність, що солдат мимоволі вступив у клан Моноліт, а може жетон був свого роду трофеєм монолітівця. Подальші пошуки вважаю безглуздими...</ukr>
 	</string>
 	<string id="hamster_kuznec_115">
 		<rus>Что Зона делает с людьми? Что расскажут его семье? Бедные родители! Своему начальству я доложу, что сержант погиб, сражаясь с мутантами, и тому есть свидетель...</rus>
-		<eng>Что Зона делает с людьми? Что расскажут его семье? Бедные родители! Своему начальству я доложу, что сержант погиб, сражаясь с мутантами, и тому есть свидетель...</eng>
+		<eng>What does the Zone do to people? What will be told his family? Poor parents! I'm going to report to my superiors that the sergeant died fighting the mutants and there's a witness to that...</eng>
 		<ukr>Що Зона робить з людьми? Що розкажуть його сім'ї? Бідні батьки! Своєму начальству я доповім, що сержант загинув, борючись з мутантами, і тому є свідок...</ukr>
 	</string>
 	<string id="hamster_kuznec_121">
 		<rus>Крутая и очень дорогая. Новейшая разработка! Разведгруппа возвращалась ночью со Свалки, когда на них напали бандиты. В ходе перестрелки положили всю группу, в том числе командира, на котором и был тактический шлем. Его наверняка бандосы подобрали, вернуть бы надо. Если не найдём, нам всем такой пистон вставят кое-куда! Отыщешь - выдам артефакт неплохой.</rus>
-		<eng>Крутая и очень дорогая. Новейшая разработка! Разведгруппа возвращалась ночью со Свалки, когда на них напали бандиты. В ходе перестрелки положили всю группу, в том числе командира, на котором и был тактический шлем. Его наверняка бандосы подобрали, вернуть бы надо. Если не найдём, нам всем такой пистон вставят кое-куда! Отыщешь - выдам артефакт неплохой.</eng>
+		<eng>Cool and very expensive. The latest development! The recon team was returning from the Dump at night when the bandits attacked them. During the shootout the whole group were shot dead, including the commander, who had the tactical helmet on. It was probably picked up by the bandits, and it should be taken back from them. If we don't find it, we'll all get our asses reamed out! You find it - I'll get you a decent artifact.</eng>
 		<ukr>Крута і дуже дорога. Новітня розробка! Розвідгрупа поверталася вночі зі Звалища, коли на них напали бандити. В ході перестрілки поклали всю групу, в тому числі командира, на якому і був тактичний шолом. Його напевно бандоси підібрали, повернути б треба. Якщо не знайдемо, нам всім такий пістон вставлять в одне місце! Відшукаєш - видам артефакт непоганий.</ukr>
 	</string>
 	<string id="hamster_kuznec_122">
 		<rus>Ладно, сбегаю на Свалку, поищу эту фиговину.</rus>
-		<eng>Ладно, сбегаю на Свалку, поищу эту фиговину.</eng>
+		<eng>Okay, I'm gonna run to the Dump and look for this sucker.</eng>
 		<ukr>Гаразд, збігаю на Звалище, пошукаю цю фіговіну.</ukr>
 	</string>
 	<string id="hamster_kuznec_123">
 		<rus>С этими отморозками я не хочу связываться.</rus>
-		<eng>С этими отморозками я не хочу связываться.</eng>
+		<eng>I don't want to get mixed up with these scumbags.</eng>
 		<ukr>З цими відморозками я не хочу зв'язуватися.</ukr>
 	</string>
 	<string id="hamster_kuznec_124">
 		<rus>Шлемак у меня. За своё "кое-куда" можешь не переживать.</rus>
-		<eng>Шлемак у меня. За своё "кое-куда" можешь не переживать.</eng>
+		<eng>I've got the helmet. You don't have to worry about "reaming out" now.</eng>
 		<ukr>Шоломик у мене. За своє "кудись" можеш не переживати.</ukr>
 	</string>
 	<string id="hamster_kuznec_125">
 		<rus>О-о-о! Просто превосходно!</rus>
-		<eng>О-о-о! Просто превосходно!</eng>
+		<eng>O-o-oh! That's just excellent!</eng>
 		<ukr>О-о-о! Просто чудово!</ukr>
 	</string>
 	<string id="hamster_kuznec_131">
 		<rus>Угомонись! Сейф имеет электронный замок и его дверь не вскрыть ручным инструментом. Внутри лежит папка с зашифрованными документами, которую необходимо передать в наш штаб. Сам сейф находится в главном здании бывшей военной части на Армейских Складах. После Второго Взрыва была произведена экстренная эвакуация базы. Командир этой части, единственно знавший код к сейфу и хранивший все важные пароли на своей флешке, погиб во время эвакуации. При нём флешка не была обнаружена, а нам доподлинно известно, что он никогда с ней не расставался. Но тогда был особый случай - был отдан приказ всё бросить и немедленно покинуть район. Штабисты полагают, что полковник мог спрятать флешку у себя в кабинете, чтобы в суматохе не потерять её и снизить вероятность её попадания в чужие руки.\nСейчас база находится под контролем группировки сталкеров под названием "Свобода". Если каким-то образом тебе удастся попасть на их территорию, то отыщи флеху, вскрой сейф и принеси папку мне.</rus>
-		<eng>Угомонись! Сейф имеет электронный замок и его дверь не вскрыть ручным инструментом. Внутри лежит папка с зашифрованными документами, которую необходимо передать в наш штаб. Сам сейф находится в главном здании бывшей военной части на Армейских Складах. После Второго Взрыва была произведена экстренная эвакуация базы. Командир этой части, единственно знавший код к сейфу и хранивший все важные пароли на своей флешке, погиб во время эвакуации. При нём флешка не была обнаружена, а нам доподлинно известно, что он никогда с ней не расставался. Но тогда был особый случай - был отдан приказ всё бросить и немедленно покинуть район. Штабисты полагают, что полковник мог спрятать флешку у себя в кабинете, чтобы в суматохе не потерять её и снизить вероятность её попадания в чужие руки.\nСейчас база находится под контролем группировки сталкеров под названием "Свобода". Если каким-то образом тебе удастся попасть на их территорию, то отыщи флеху, вскрой сейф и принеси папку мне.</eng>
+		<eng>Chill out! The safe has an electronic lock and it cannot be opened with a hand tool. Inside there's a folder with the encrypted documents, which must be delivered to our headquarters. The safe itself is located in the main building of a former military unit at the Army Warehouses. After the Second Explosion an emergency evacuation of the base was done. The commander of this unit, who only knew the code to the safe and kept all the important passwords on his flash drive, died during the evacuation. That flash drive was not found on him, but we know for certain that he never parted with it. But then it was a special case - an order was given to abandon everything and leave the base immediately. The staff officers believe that the colonel could've hidden the flash drive in his office in order not to lose it in the turmoil and reduce the likelihood of it falling into the wrong hands.\nNow the base is under the control of a group of stalkers called "Freedom". If somehow you manage to get into their territory, try to find the flash drive, open the safe and bring me the folder.</eng>
 		<ukr>Угомонись! Сейф має електронний замок і його двері не розкрити ручним інструментом. Усередині лежить папка з зашифрованими документами, яку необхідно передати в наш штаб. Сам сейф знаходиться в головній будівлі колишньої військової частини на Армійських Складах. Після Другого Вибуху була проведена екстрена евакуація бази. Командир цієї частини, єдино знав код до сейфа і зберігав всі важливі паролі на своїй флешці, загинув під час евакуації. При ньому флешка була виявлена, а нам достеменно відомо, що він ніколи з нею не розлучався. Але тоді був особливий випадок - був відданий наказ все кинути і негайно покинути район. Штабісти вважають, що полковник міг заховати флешку у себе в кабінеті, щоб в метушні не втратити її і знизити ймовірність її попадання в чужі руки.\nЗараз база знаходиться під контролем угруповання сталкерів під назвою "Свобода". Якщо якимось чином тобі вдасться потрапити на їхню територію, то відшукай флеху, відкрий сейф і принеси папку мені.</ukr>
 	</string>
 	<string id="hamster_kuznec_132">
 		<rus>Будет сделано в лучшем виде.</rus>
-		<eng>Будет сделано в лучшем виде.</eng>
+		<eng>It will be done in the best possible way.</eng>
 		<ukr>Буде зроблено в найкращому вигляді.</ukr>
 	</string>
 	<string id="hamster_kuznec_133">
 		<rus>Да ваш сейф поди вскрыли давным-давно, а зашифрованными бумажками зашифрованно подтёрлись где-нибудь в кустиках.</rus>
-		<eng>Да ваш сейф поди вскрыли давным-давно, а зашифрованными бумажками зашифрованно подтёрлись где-нибудь в кустиках.</eng>
+		<eng>Why, your safe might've been opened a long time ago, and someone might've wiped their ass with your encrypted documents somewhere in the nearby bushes.</eng>
 		<ukr>Так ваш сейф піди розкрили давним-давно, а зашифрованими папірцями зашифровано підтерлись де-небудь в кущах.</ukr>
 	</string>
 	<string id="hamster_kuznec_134">
 		<rus>Умеет этот ваш полковник прятать вещи - он замаскировал флешку под клавишу рояля. Но я бы не был собой, если бы не нашёл её. Папка у меня...</rus>
-		<eng>Умеет этот ваш полковник прятать вещи - он замаскировал флешку под клавишу рояля. Но я бы не был собой, если бы не нашёл её. Папка у меня...</eng>
+		<eng>That colonel of yours certainly knew how to hide things - he'd disguised the flash drive as a piano key. But it would've been me if I hadn't found it. I've got the folder...</eng>
 		<ukr>Вміє цей ваш полковник ховати речі - він замаскував флешку під клавішу рояля. Але я б не був собою, якби не знайшов її. Папка у мене...</ukr>
 	</string>
 	<string id="hamster_kuznec_135">
 		<rus>Вот это мастерство!</rus>
-		<eng>Вот это мастерство!</eng>
+		<eng>Now, that's some skills!</eng>
 		<ukr>Ось це майстерність!</ukr>
 	</string>
 	<string id="hamster_kuznec_141">
 		<rus>Недавно над Армейскими Складами сбили военно-транспортный вертолёт, который перевозил важные секретные документы. Эти бумажки развеяло по всей Зоне. Начальству на них наплевать, собрать их вряд ли кому-то удастся, суть не в этом. На борту также находился кейс с различными картами доступа, ключами и прочими ценными вещами. Один из пилотов успел перед падением вертушки выкинуть кейс за борт, чтобы его содержимое не было уничтожено при взрыве, но не успел активировать радиомаячок. Точное место падения неизвестно, но пилот уверял, что видел, как кейс приземлился на опору ЛЭП. На неё тебе вряд ли удастся залезть, но ты сможешь сбить кейс из автомата. Да-да, это не обычный кейс - экспериментальный образец - его поверхность покрыта тонким слоем фрагментированных частиц пулезащитных артефактов, может выдержать около десяти выстрелов из АК-74. Поэтому рассчитывай угол прицеливания и количество выстрелов. Ни в коем случае не используй подствольник - от взрыва защита кейс не убережёт... И не пытайся вскрыть его, всё равно не получится.</rus>
-		<eng>Недавно над Армейскими Складами сбили военно-транспортный вертолёт, который перевозил важные секретные документы. Эти бумажки развеяло по всей Зоне. Начальству на них наплевать, собрать их вряд ли кому-то удастся, суть не в этом. На борту также находился кейс с различными картами доступа, ключами и прочими ценными вещами. Один из пилотов успел перед падением вертушки выкинуть кейс за борт, чтобы его содержимое не было уничтожено при взрыве, но не успел активировать радиомаячок. Точное место падения неизвестно, но пилот уверял, что видел, как кейс приземлился на опору ЛЭП. На неё тебе вряд ли удастся залезть, но ты сможешь сбить кейс из автомата. Да-да, это не обычный кейс - экспериментальный образец - его поверхность покрыта тонким слоем фрагментированных частиц пулезащитных артефактов, может выдержать около десяти выстрелов из АК-74. Поэтому рассчитывай угол прицеливания и количество выстрелов. Ни в коем случае не используй подствольник - от взрыва защита кейс не убережёт... И не пытайся вскрыть его, всё равно не получится.</eng>
+		<eng>Recently, a military transport helicopter was brought down over the Army Warehouses, which was carrying the important secret documents. These docs were scattered throughout the Zone. The command do not care about them, it's unlikely that anyone will be able to collect them, but that's not the point. On board there was also a briefcase with a number of access cards, keys and other valuables. One of the pilots managed to throw the case overboard before the helicopter crashed so that its contents would not be destroyed by the explosion, but he did not have time to activate the radio beacon. The exact location of the crash site is unknown, but the pilot assured that he'd seen the case land on the power line support. You are unlikely to be able to climb it, but you could shoot it down. Yes, this is not an ordinary case - a prototype - its surface covered with a thin layer of the particles of some bulletproofing artifacts, it can withstand about ten AK-74 shots. So, calculate the aiming angle and the number of shots. Don't use the UBGL - the case's shielding will not save it from explosion... And do not try to open it, it won't work.</eng>
 		<ukr>Нещодавно над Армійськими Складами збили військово-транспортний вертоліт, який перевозив важливі секретні документи. Ці папірці розвіяло по всій Зоні. Начальству на них наплювати, зібрати їх навряд чи комусь вдасться, суть не у цьому. На борту також перебував кейс з різними картами доступу, ключами та іншими цінними речами. Один з пілотів встиг перед падінням вертушки викинути кейс за борт, щоб його вміст не було знищено при вибуху, але не встиг активувати радіомаячок. Точне місце падіння невідоме, але пілот запевняв, що бачив, як кейс приземлився на опору ЛЕП. На неї тобі навряд чи вдасться залізти, але ти зможеш збити кейс з автомата. Так-так, це не звичайний кейс - експериментальний зразок - його поверхня покрита тонким шаром фрагментованих частинок кулезахисних артефактів, може витримати близько десяти пострілів з АК-74. Тому розраховуй кут прицілювання і кількість пострілів. Ні в якому разі не використовуй підствольник - від вибуху захист кейс не вбереже... І не намагайся відкрити його, все одно не вийде.</ukr>
 	</string>
 	<string id="hamster_kuznec_142">
 		<rus>Дело не хитрое, постараюсь найти.</rus>
-		<eng>Дело не хитрое, постараюсь найти.</eng>
+		<eng>That's pretty straightforward, I'll try to find it.</eng>
 		<ukr>Справа не хитра, постараюся знайти.</ukr>
 	</string>
 	<string id="hamster_kuznec_143">
 		<rus>Сходи туда, не зная куда, найди то, не зная что. К чёрту!</rus>
-		<eng>Сходи туда, не зная куда, найди то, не зная что. К чёрту!</eng>
+		<eng>Go God knows where, find God knows what. To hell with that!</eng>
 		<ukr>Сходи туди, не знаючи куди, знайди те, не знаючи що. До біса!</ukr>
 	</string>
 	<string id="hamster_kuznec_144">
 		<rus>Смотри, что у меня... Этот кейс потеряли ваши генералы?</rus>
-		<eng>Смотри, что у меня... Этот кейс потеряли ваши генералы?</eng>
+		<eng>Look, what I've got... Is this the case your commanders lost?</eng>
 		<ukr>Дивись, що у мене... Цей кейс втратили ваші генерали?</ukr>
 	</string>
 	<string id="hamster_kuznec_145">
 		<rus>О! Ты прям выручаешь нас постоянно.</rus>
-		<eng>О! Ты прям выручаешь нас постоянно.</eng>
+		<eng>Oh! You just keep helping us out.</eng>
 		<ukr>О! Ти прям виручаєш нас постійно.</ukr>
 	</string>
 	<string id="hamster_kuznec_151">
 		<rus>Да какие там шутки! Вся область на ушах стоит! Сбежали не абы кто, а особо опасные преступники, пожизненно приговорённые. У одного зоновская кличка Хорь, у другого - Койот. При побеге они убили двух военнослужащих, переоделись в их форму и забрали личное оружие - РПК-74 и АКМС. На их поиски было отправлено несколько вертолётов. Их засекли недалеко от границы Зоны Отчуждения, но затем они скрылись в лесах. Командование поисковой операции думает, что они разделились и прячутся где-то здесь, поэтому к поиску привлекли и местных военных. По нашим сведениям, Хорь скрывается где-то на севере Болот, дальше он не пойдёт - слишком опасно, а Койот в районе Янтаря-Дикой Территории. Есть неофициальный приказ, живыми беглецов не брать. Если встретишь их - не церемонься. И по возможности, сообщи место "встречи".</rus>
-		<eng>Да какие там шутки! Вся область на ушах стоит! Сбежали не абы кто, а особо опасные преступники, пожизненно приговорённые. У одного зоновская кличка Хорь, у другого - Койот. При побеге они убили двух военнослужащих, переоделись в их форму и забрали личное оружие - РПК-74 и АКМС. На их поиски было отправлено несколько вертолётов. Их засекли недалеко от границы Зоны Отчуждения, но затем они скрылись в лесах. Командование поисковой операции думает, что они разделились и прячутся где-то здесь, поэтому к поиску привлекли и местных военных. По нашим сведениям, Хорь скрывается где-то на севере Болот, дальше он не пойдёт - слишком опасно, а Койот в районе Янтаря-Дикой Территории. Есть неофициальный приказ, живыми беглецов не брать. Если встретишь их - не церемонься. И по возможности, сообщи место "встречи".</eng>
+		<eng>It's not a joke! The whole region is reatless! It's not ordinary prisoners that escaped, but the dangerous special criminals, the life-termers. One's nickname is Polecat, the other's - Coyote. While escaping, they killed two servicemen, changed into their uniforms and took their weapons - an RPK-74 and AKMS. A few helicopters were dispatched in search for them. They were spotted near the border of the Exclusion Zone, but then they disappeared into the woods. The command of the search operation reckon that they split up and went into hiding somewhere nearby, so the local military men were also drawn to the search. According to our information, the Polecat is lurking somewhere in the north of the Swamps, it will not go further - it is too dangerous, and Coyote - in the area of Yantar - Wild Territory. There's been an off-the-record order not to take the fugitives alive. If you meet them - feel free to eliminate them. And, if possible, let me know as to the place of the "encounter".</eng>
 		<ukr>Та які там жарти! Вся область на вухах стоїть! Втекли не аби хто, а особливо небезпечні злочинці, довічно засуджені. У одного зонівська кличка Тхір, у іншого - Койот. При втечі вони вбили двох військовослужбовців, переодяглися у їхню форму і забрали особисту зброю - РПК-74 і АКМС. На їхні пошуки було відправлено кілька вертольотів. Їх засікли недалеко від кордону Зони Відчуження, але потім вони зникли у лісах. Командування пошукової операції думає, що вони розділилися і ховаються десь тут, тому до пошуків залучили і місцевих військових. За нашими відомостями, Тхір переховується десь на півночі Боліт, далі він не піде - надто небезпечно, а Койот у районі Янтаря-Дикої Території. Є неофіційний наказ, живими втікачів не брати. Якщо зустрінеш їх - не церемонься. І по можливості, повідом місце "зустрічі".</ukr>
 	</string>
 	<string id="hamster_kuznec_152">
 		<rus>А фоторобота нет? Тут каждый третий - преступник... Ладно, если встречу, поговорю с ними на языке оружия.</rus>
-		<eng>А фоторобота нет? Тут каждый третий - преступник... Ладно, если встречу, поговорю с ними на языке оружия.</eng>
+		<eng>And is there no picture of them? Here every one person in three is a criminal... Okay, if I meet them, I'll talk to them in the language of my weapons.</eng>
 		<ukr>А фоторобота нема? Тут кожен третій - злочинець... Гаразд, якщо зустріну, поговорю з ними мовою зброї.</ukr>
 	</string>
 	<string id="hamster_kuznec_153">
 		<rus>Ага, не хватало мне ещё зеков по Зоне ловить.</rus>
-		<eng>Ага, не хватало мне ещё зеков по Зоне ловить.</eng>
+		<eng>Yeah, just what I need, catching prison breakers all over the Zone.</eng>
 		<ukr>Ага, не вистачало мені ще зеків по Зоні ловити.</ukr>
 	</string>
 	<string id="hamster_kuznec_154">
 		<rus>Оба заключённых мертвы. Койот присоединился к какой-то банде. По-видимому, они нападали на сталкеров, которые направлялись к учёным для продажи артов. Про Хоря мне добавить нечего.</rus>
-		<eng>Оба заключённых мертвы. Койот присоединился к какой-то банде. По-видимому, они нападали на сталкеров, которые направлялись к учёным для продажи артов. Про Хоря мне добавить нечего.</eng>
+		<eng>Both prisoners are dead. Coyote joined a gang. Apparently, they've been attacking stalkers that were sent to sell artifacts to scientists. About Polecat I have nothing to add.</eng>
 		<ukr>Обидва ув'язнених мертві. Койот приєднався до якоїсь банди. Мабуть, вони нападали на сталкерів, які прямували до вчених для продажу артів. Про Тхора мені додати нічого.</ukr>
 	</string>
 	<string id="hamster_kuznec_155">
 		<rus>Ты хорошо поработал. Одной головной болью меньше. Как говорится, собакам - собачья смерть...</rus>
-		<eng>Ты хорошо поработал. Одной головной болью меньше. Как говорится, собакам - собачья смерть...</eng>
+		<eng>You did a good job. One headache is less. As they say, a dog's death for a dog!..</eng>
 		<ukr>Ти добре попрацював. Одним головним болем менше. Як то кажуть, собакам - собача смерть...</ukr>
 	</string>
 	<string id="hamster_kuznec_161">
 		<rus>Сможешь найти все 12 выпусков за прошлый год?</rus>
-		<eng>Сможешь найти все 12 выпусков за прошлый год?</eng>
+		<eng>Can you find all the12 issues for the past year?</eng>
 		<ukr>Зможеш знайти всі 12 випусків за минулий рік?</ukr>
 	</string>
 	<string id="hamster_kuznec_162">
 		<rus>Постараюсь. Один видел на АТП, думаю, и остальные найду.</rus>
-		<eng>Постараюсь. Один видел на АТП, думаю, и остальные найду.</eng>
+		<eng>I'll try. I saw one at the ATP, and I'm pretty sure I'll find the rest.</eng>
 		<ukr>Постараюся. Один бачив на АТП, думаю, і решту знайду.</ukr>
 	</string>
 	<string id="hamster_kuznec_163">
 		<rus>Рыскать по Зоне в поисках картинок с голыми бабами? Что-то не очень впечатляет.</rus>
-		<eng>Рыскать по Зоне в поисках картинок с голыми бабами? Что-то не очень впечатляет.</eng>
+		<eng>Scouring the Zone in search of pictures with naked chicks? It's not a very inviting job.</eng>
 		<ukr>Нишпорити по Зоні у пошуках картинок з голими бабами? Щось не дуже вражає.</ukr>
 	</string>
 	<string id="hamster_kuznec_164">
 		<rus>Выполнил я твой заказ. Лично для майора - 12 прошлогодних номеров Плейбоя...</rus>
-		<eng>Выполнил я твой заказ. Лично для майора - 12 прошлогодних номеров Плейбоя...</eng>
+		<eng>I've fulfilled your order. For the Major exclusively - 12 last year's Playboy magazines...</eng>
 		<ukr>Виконав я твоє замовлення. Особисто для майора - 12 торішніх номерів Плейбоя...</ukr>
 	</string>
 	<string id="hamster_kuznec_165">
 		<rus>Какие же красотки на обложках!</rus>
-		<eng>Какие же красотки на обложках!</eng>
+		<eng>What beauties there're on the covers!</eng>
 		<ukr>Які ж красуні на обкладинках!</ukr>
 	</string>
 	<string id="hamster_kuznec_171">
 		<rus>Ещё бы ты его увидел. Он же может становиться невидимым. Вчера напал на одного нашего бойца, когда тот по своим делам отходил. Он как заорёт! Прибежали на крик. Видим, над его телом страшный такой кровосос склонился. Мы за автоматы и давать шмалять в его сторону. Он убежал в сторону элеватора, но спасти бойца нам не удалось. Жаль парнишку, 23 года всего было... Ты ещё встретишь этих мутантов, бродя по Зоне. И чтобы выжить, тебе следует научиться убивать их подручными средствами. Огнестрел может подвести в нужный момент, а старый добрый нож всегда выручит в беде. Я дам тебе свой штык-нож М9. Покажи нам мастер-класс, завали монстра этим ножом. Если согласен, то начинай поиски кровососущего сейчас же, не уходя с Кордона. Ну как, не страшно?</rus>
-		<eng>Ещё бы ты его увидел. Он же может становиться невидимым. Вчера напал на одного нашего бойца, когда тот по своим делам отходил. Он как заорёт! Прибежали на крик. Видим, над его телом страшный такой кровосос склонился. Мы за автоматы и давать шмалять в его сторону. Он убежал в сторону элеватора, но спасти бойца нам не удалось. Жаль парнишку, 23 года всего было... Ты ещё встретишь этих мутантов, бродя по Зоне. И чтобы выжить, тебе следует научиться убивать их подручными средствами. Огнестрел может подвести в нужный момент, а старый добрый нож всегда выручит в беде. Я дам тебе свой штык-нож М9. Покажи нам мастер-класс, завали монстра этим ножом. Если согласен, то начинай поиски кровососущего сейчас же, не уходя с Кордона. Ну как, не страшно?</eng>
+		<eng>I'd be surprised if you saw it. Why, it can become invisible. Yesterday it attacked one of our fighters, when he departed on his business. The way he screamed all of a sudden! We ran to the scream source. And here we are looking at this horrible bloodsucker bent over his body. We grabbed our rifles and started shooting at it. It escaped to the elevator, but we couldn't have saved the fighter. Poor boy, he was only 23... You'll meet these mutants, as you wander around the Zone. And in order to survive, you should learn how to kill them with improvised means. Firearms might fail you in the worst possible moment, but an old good knife would always help out in trouble. I'll give you my M9 bayonet knife. Give us the master class, take the monster down with this knife. If you agree to take on this task, then start looking for a bloodsucker right now without leaving Cordon. Well, are you scared yet?</eng>
 		<ukr>Ще б ти його побачив. Він же може ставати невидимим. Вчора напав на одного нашого бійця, коли той у своїх справах відходив. Він як закричить! Прибігли на крик. Бачимо, над його тілом страшний такий кровосос схилився. Ми за автомати і давати шмаляти у його бік. Він втік у бік елеватора, але врятувати бійця нам не вдалося. Шкода хлопчину, 23 роки всього було... Ти ще зустрінеш цих мутантів, блукаючи по Зоні. І щоб вижити, тобі слід навчитися вбивати їх підручними засобами. Вогнестріл може підвести у потрібний момент, а старий добрий ніж завжди виручить у біді. Я дам тобі свій багнет М9. Покажи нам майстер-клас, завали монстра цим ножем. Якщо згоден, то починай пошуки кровососа зараз же, не йдучи з Кордону. Ну як, не страшно?</ukr>
 	</string>
 	<string id="hamster_kuznec_172">
 		<rus>Никак нет! Смотрите и учитесь.</rus>
-		<eng>Никак нет! Смотрите и учитесь.</eng>
+		<eng>Negative! Watch and learn.</eng>
 		<ukr>Ніяк ні! Дивіться і вчіться.</ukr>
 	</string>
 	<string id="hamster_kuznec_173">
 		<rus>Не хочу с кровососами связываться. Слыхал я про них. Жуткие твари!</rus>
-		<eng>Не хочу с кровососами связываться. Слыхал я про них. Жуткие твари!</eng>
+		<eng>I don't want to mess with bloodsuckers. I heard of them. Horrific creatures!</eng>
 		<ukr>Не хочу з кровососами зв'язуватися. Чув я про них. Страшні тварюки!</ukr>
 	</string>
 	<string id="hamster_kuznec_174">
 		<rus>Расправился я с кровососущим. Быстрым гад оказался, даже пяток не видать.</rus>
-		<eng>Расправился я с кровососущим. Быстрым гад оказался, даже пяток не видать.</eng>
+		<eng>I've fixed the bloodsucking beast. It was as fast as a hare.</eng>
 		<ukr>Розправився я з кровососучим. Швидким гад виявився, навіть п'ят не видно було.</ukr>
 	</string>
 	<string id="hamster_kuznec_175">
 		<rus>Значит зря я считал тебя маменькиным сынком! Ножик оставь себе, пригодится... И вот ещё, это от моих бойцов, в благодарность.</rus>
-		<eng>Значит зря я считал тебя маменькиным сынком! Ножик оставь себе, пригодится... И вот ещё, это от моих бойцов, в благодарность.</eng>
+		<eng>Turns out I was wrong in thinking of you as a mummy's son! Keep the knife, it'll come in handy... And this is from my men in gratitude.</eng>
 		<ukr>Значить даремно я вважав тебе маминим синочком! Ножик залиш собі, стане в нагоді... І ось ще, це від моїх бійців, в подяку.</ukr>
 	</string>
 	<string id="hamster_kuznec_181">
 		<rus>Да хотя бы у Сидоровича или у других торговцев. Найди и принеси хотя бы десять бутылок.</rus>
-		<eng>Да хотя бы у Сидоровича или у других торговцев. Найди и принеси хотя бы десять бутылок.</eng>
+		<eng>Why, get it from Sidorovich, for instance, or other traders. Bring me ten bottles at least.</eng>
 		<ukr>Та хоча б у Сидоровича або у інших торговців. Знайди і принеси хоча б десять пляшок.</ukr>
 	</string>
 	<string id="hamster_kuznec_182">
 		<rus>Ну и запросы у тебя! Хотя бы десять бутылок! Одну бы отыскать! Если не найду, то не обижайся.</rus>
-		<eng>Ну и запросы у тебя! Хотя бы десять бутылок! Одну бы отыскать! Если не найду, то не обижайся.</eng>
+		<eng>Oho, some wants you've got! At least ten bottles! Wish I'd find even one! If I fail, don't take offense.</eng>
 		<ukr>Ну і запити у тебе! Хоча б десять пляшок! Одну б відшукати! Якщо не знайду, то не ображайся.</ukr>
 	</string>
 	<string id="hamster_kuznec_183">
 		<rus>Не буду я этим заниматься.</rus>
-		<eng>Не буду я этим заниматься.</eng>
+		<eng>I'm not doing it.</eng>
 		<ukr>Не буду я цим займатися.</ukr>
 	</string>
 	<string id="hamster_kuznec_184">
 		<rus>Нашёл я твой ликёр, все десять бутылок. Видать, у этого напитка непревзойдённый вкус, раз все его попрятали.</rus>
-		<eng>Нашёл я твой ликёр, все десять бутылок. Видать, у этого напитка непревзойдённый вкус, раз все его попрятали.</eng>
+		<eng>I found your liquor, all ten bottles. Seems this drink has an unrivaled taste since everyone keeps it to themselves.</eng>
 		<ukr>Знайшов я твій лікер, всі десять пляшок. Мабуть, у цього напою неперевершений смак, раз всі його позаховували.</ukr>
 	</string>
 	<string id="hamster_kuznec_185">
 		<rus>Ух, ты! Молодец, Меченый! Я даже сомневался, что тебе удастся найти нужное количество. Посмотри в ПДА, найдёшь там подробности о тайнике с шифром. Он находится в Красном Лесу - мне удалось-таки сопоставить координаты на старых и новых картах, а также откопал старые записи - шифр спрятан именно там... И мне удалось вспомнить кое-что ещё: наводка на главный тайник может показаться тебе туманной - я составлял её в спешке - но секрет местонахождения схрона скрыт именно в самой наводке. Надеюсь, эта подсказка поможет в поисках!</rus>
-		<eng>Ух, ты! Молодец, Меченый! Я даже сомневался, что тебе удастся найти нужное количество. Посмотри в ПДА, найдёшь там подробности о тайнике с шифром. Он находится в Красном Лесу - мне удалось-таки сопоставить координаты на старых и новых картах, а также откопал старые записи - шифр спрятан именно там... И мне удалось вспомнить кое-что ещё: наводка на главный тайник может показаться тебе туманной - я составлял её в спешке - но секрет местонахождения схрона скрыт именно в самой наводке. Надеюсь, эта подсказка поможет в поисках!</eng>
+		<eng>Wow! Well done, Marked One! I had doubts about your being able to find the required amount of it. Look in the PDA, you will find there the details about the stash with the cipher. It's in the Red Forest - I managed to match the coordinates on the old and the new maps, and I also dug out some old records - the cipher is hidden there, indeed... And I managed to remember something else: the clue to the main stash location may seem vague to you - I made it in a hurry - yet the secret of the stash whereabouts is hidden in that very clue. I hope this clue will help you in the search!</eng>
 		<ukr>===Ух ти! Молодець, Мічений! Я навіть сумнівався, що тобі вдасться знайти потрібну кількість. Подивися в КПК, знайдеш там подробиці про схованку з шифром. Вона знаходиться у Червоному Лісі - мені вдалося-таки зіставити координати на старих і нових картах, а також відкопав старі записи - шифр захований саме там... И мне удалось вспомнить кое-что ещё: наводка на главный тайник может показаться тебе туманной - я составлял её в спешке - но секрет местонахождения схрона скрыт именно в самой наводке. Надеюсь, эта подсказка поможет в поисках!</ukr>
 	</string>
 	<!-- Ложный диалог с Сидоровичем про ликёр -->
 	<string id="liker_sidor_0">
 		<rus>Эй, Сидорович, мне нужен ликёр "Бейлиз". Смотрю, в продаже у тебя его нет. Может, ты под столом его держишь, для себя?</rus>
-		<eng>Эй, Сидорович, мне нужен ликёр "Бейлиз". Смотрю, в продаже у тебя его нет. Может, ты под столом его держишь, для себя?</eng>
+		<eng>Hey, Sidorovich, I need some Baileys liqueur. I see you don't have it on sale. Maybe you're keeping it for yourself under the counter?</eng>
 		<ukr>Гей, Сидорович, мені потрібен лікер "Бейліз". Дивлюся, в продажу у тебе його немає. Може, ти під столом його тримаєш, для себе?</ukr>
 	</string>
 	<string id="liker_sidor_1">
 		<rus>Ты с дуба рухнул? Откуда здесь "Бейлиз"? Поезжай в Ирландию, там он точно есть.</rus>
-		<eng>Ты с дуба рухнул? Откуда здесь "Бейлиз"? Поезжай в Ирландию, там он точно есть.</eng>
+		<eng>Have you gone mad? Where'd any Baileys liqueur come from? Go to Ireland, there you'll definitely find it.</eng>
 		<ukr>Ти з дуба впав? Звідки тут "Бейліз"? Їдь до Ірландії, там він точно є.</ukr>
 	</string>
 	<string id="liker_sidor_2">
 		<rus>Да не ори ты! Нет так нет, но под стол я всё-таки загляну...</rus>
-		<eng>Да не ори ты! Нет так нет, но под стол я всё-таки загляну...</eng>
+		<eng>Stop shouting! I get it: "no" means "no", but still I'll take a look under your counter...</eng>
 		<ukr>Та не кричи ти! Ні так ні, але під стіл я все-таки загляну...</ukr>
 	</string>
 	<!-- Ложный диалог с Барменом про ликёр -->
 	<string id="liker_barmen_0">
 		<rus>Бармен, а как у тебя обстоят дела с дорогими напитками?</rus>
-		<eng>Бармен, а как у тебя обстоят дела с дорогими напитками?</eng>
+		<eng>Barkeep, how are you on expensive drinks?</eng>
 		<ukr>Бармен, а як у тебе йдуть справи з дорогими напоями?</ukr>
 	</string>
 	<string id="liker_barmen_1">
 		<rus>А чего ты хочешь?</rus>
-		<eng>А чего ты хочешь?</eng>
+		<eng>And what do you want?</eng>
 		<ukr>А що ти хочеш?</ukr>
 	</string>
 	<string id="liker_barmen_2">
 		<rus>Мне бы несколько бутылочек "Бейлиза" раздобыть.</rus>
-		<eng>Мне бы несколько бутылочек "Бейлиза" раздобыть.</eng>
+		<eng>I'd like to get a few bottles of Baileys liqueur.</eng>
 		<ukr>Мені б кілька пляшечок "Бейліз" роздобути.</ukr>
 	</string>
 	<string id="liker_barmen_3">
 		<rus>Кхе-кхе... У меня сейчас нет его в наличии. Обычно этот ликёр заказывают долговцы на юбилеи своих командиров. Иногда мне завозят коньяк или виски, но сталкеры их обычно не покупают. Родная водочка им милее!</rus>
-		<eng>Кхе-кхе... У меня сейчас нет его в наличии. Обычно этот ликёр заказывают долговцы на юбилеи своих командиров. Иногда мне завозят коньяк или виски, но сталкеры их обычно не покупают. Родная водочка им милее!</eng>
+		<eng>Ahem... I don't have it right now. Usually this kind of liqueur is ordered by the Duty guys for their commanders' anniversary. Sometimes I get cognac or whiskey, but stalkers do not usually buy them. They prefer our vodka!</eng>
 		<ukr>Кхе-кхе... У мене зараз немає його в наявності. Зазвичай цей лікер замовляють долгівці на ювілеї своїх командирів. Іноді мені завозять коньяк або віскі, але сталкери їх зазвичай не купують. Рідна горілочка їм миліше!</ukr>
 	</string>
 	<string id="liker_barmen_4">
 		<rus>Ну-ну, небось, заныкал куда-нибудь для особого клиента или случая.</rus>
-		<eng>Ну-ну, небось, заныкал куда-нибудь для особого клиента или случая.</eng>
+		<eng>Well, well, I suppose, you've stashed it for a special client or occasion.</eng>
 		<ukr>Ну-ну, мабуть, заникав куди-небудь для особливого клієнта або випадку.</ukr>
 	</string>
 	<!-- Говорим с Серым о шлеме -->
 	<string id="seriy_helm_0">
 		<rus>Ты слышал о недавнем нападении на разведгруппу военных? Кто мог совершить такое?</rus>
-		<eng>Ты слышал о недавнем нападении на разведгруппу военных? Кто мог совершить такое?</eng>
+		<eng>Have you heard of the recent attack on a military recon team? Who could have done this?</eng>
 		<ukr>Ти чув про недавній напад на розвідгрупу військових? Хто міг зробити таке?</ukr>
 	</string>
 	<string id="seriy_helm_1">
 		<rus>Местные ушлёпки. Нападают внезапно и только ночью, примерно с двух до четырёх часов. Сколько у них человек, я не знаю, но вооружены хорошо. Так что по ночам удвой бдительность.</rus>
-		<eng>Местные ушлёпки. Нападают внезапно и только ночью, примерно с двух до четырёх часов. Сколько у них человек, я не знаю, но вооружены хорошо. Так что по ночам удвой бдительность.</eng>
+		<eng>Local scumbags. They attack suddenly and only at night, at about two to four hours. How many people they have, I do not know, but they are well armed. So, at night be twice as vigilant.</eng>
 		<ukr>Місцеві ушльопки. Нападають раптово і тільки вночі, приблизно з другої до четвертої години. Скільки у них людей, я не знаю, але озброєні добре. Так що ночами подвоюй пильність.</ukr>
 	</string>
 	<string id="seriy_helm_2">
 		<rus>Ясно, спасибо.</rus>
-		<eng>Ясно, спасибо.</eng>
+		<eng>I see. Thanks.</eng>
 		<ukr>Ясно, спасибі.</ukr>
 	</string>
 	<!-- ОХОТА НА ПСЕВДОСОБАК -->
 	<!-- Отчитываемся Ворону -->
 	<string id="voron_dogs_done_0">
 		<rus>С собаками покончено. Можешь за сталкеров теперь не волноваться.</rus>
-		<eng>С собаками покончено. Можешь за сталкеров теперь не волноваться.</eng>
+		<eng>The dogs finished. You don't have to worry for the stalkers now.</eng>
 		<ukr>З собаками покінчено. Можеш за сталкерів тепер не хвилюватися.</ukr>
 	</string>
 	<string id="voron_dogs_done_1">
 		<rus>Хорошая новость! Спасибо, что решил эту проблему. Вот тебе за труды... Если ещё патроны нужны будут, обращайся.</rus>
-		<eng>Хорошая новость! Спасибо, что решил эту проблему. Вот тебе за труды... Если ещё патроны нужны будут, обращайся.</eng>
+		<eng>Good news! Thank you for solving this problem. This is for your pains... If you need more ammo, come to me.</eng>
 		<ukr>Хороша новина! Спасибі, що вирішив цю проблему. Ось тобі за старання... Якщо ще патрони потрібні будуть, звертайся.</ukr>
 	</string>
 	<string id="voron_dogs_done_2">
 		<rus>Благодарю!</rus>
-		<eng>Благодарю!</eng>
+		<eng>Thank you!</eng>
 		<ukr>Дякую!</ukr>
 	</string>
 	<!-- ИНСТРУМЕНТЫ ДЛЯ ДОЛГОВЯЗОГО -->
 	<string id="dolgovazyi_toolkit_start_0">
 		<rus>Оружие ремонтируешь?</rus>
-		<eng>Оружие ремонтируешь?</eng>
+		<eng>Do you repair weapons?</eng>
 		<ukr>Зброю ремонтуєш?</ukr>
 	</string>
 	<string id="dolgovazyi_toolkit_start_1">
 		<rus>Да, но у меня инструменты изношены, так что пока не занимаюсь ремонтом. Если найдёшь хороший набор, то попробую тебе помочь.</rus>
-		<eng>Да, но у меня инструменты изношены, так что пока не занимаюсь ремонтом. Если найдёшь хороший набор, то попробую тебе помочь.</eng>
+		<eng>Yes, I usually do, but my tools've been all worn out, so no repairs for the time being. If you find a good set of tools for me, then I'll try to help you.</eng>
 		<ukr>Так, але у мене інструменти зношені, так що поки що не займаюся ремонтом. Якщо знайдеш хороший набір, то спробую тобі допомогти.</ukr>
 	</string>
 	<string id="dolgovazyi_toolkit_start_2">
 		<rus>А какие именно тебе нужны?</rus>
-		<eng>А какие именно тебе нужны?</eng>
+		<eng>And what kind of tools do you need exactly?</eng>
 		<ukr>А які саме тобі потрібні?</ukr>
 	</string>
 	<string id="dolgovazyi_toolkit_start_3">
 		<rus>Да приноси какие найдёшь. Подойдут из любого набора, даже из набора "Юный техник". Сам понимаешь, в Зоне дефицит хороших инструментов. Поговаривают, что у бандитов на их базе в Долине есть подобные. Там ведь раньше чинили различную сельхозтехнику. Ещё на базе Свободы может быть данный набор: у торговца или местного ремонтника. Они же чем-то должны ремонтировать своё оружие.</rus>
-		<eng>Да приноси какие найдёшь. Подойдут из любого набора, даже из набора "Юный техник". Сам понимаешь, в Зоне дефицит хороших инструментов. Поговаривают, что у бандитов на их базе в Долине есть подобные. Там ведь раньше чинили различную сельхозтехнику. Ещё на базе Свободы может быть данный набор: у торговца или местного ремонтника. Они же чем-то должны ремонтировать своё оружие.</eng>
+		<eng>Why, bring whatever you find. Any kind of set will do, even the amateur. As you can see, there is a lack of good tools in the Zone. The bandits at their base in the Valley are rumoured to have the ones we need. After all, there various agricultural machinery used to be repaired. Someone at the Freedom base might have the necessary tools: a trader or a gunsmith. They must have something to fix their weapons with.</eng>
 		<ukr>Так принось які знайдеш. Підійдуть з будь-якого набору, навіть з набору "Юний технік". Сам розумієш, в Зоні дефіцит хороших інструментів. Подейкують, що у бандитів на їхній базі в Долині є подібні. Адже там раніше ремонтували різну сільгосптехніку. Ще на базі Волі може бути даний набір: у торговця або місцевого ремонтника. Вони ж чимось повинні ремонтувати свою зброю.</ukr>
 	</string>
 	<string id="dolgovazyi_toolkit_start_4">
 		<rus>Хорошо, поищу. Знать бы только, где именно.</rus>
-		<eng>Хорошо, поищу. Знать бы только, где именно.</eng>
+		<eng>Ok, I'll have a look. Wish I knew exactly where to search.</eng>
 		<ukr>Добре, пошукаю. Знати б тільки, де саме.</ukr>
 	</string>
 	<string id="dolgovazyi_toolkit_start_5">
 		<rus>Пойду лучше к другому ремонтнику. У него наверняка нет таких проблем.</rus>
-		<eng>Пойду лучше к другому ремонтнику. У него наверняка нет таких проблем.</eng>
+		<eng>I'd better go to another repairman. He certainly does not have such problems.</eng>
 		<ukr>Піду краще до іншого ремонтника. У нього напевно немає таких проблем.</ukr>
 	</string>
 	<!-- Получение награды у Долговязого -->
 	<string id="dolgovazyi_toolkit_done_0">
 		<rus>Доставка на дом. Инструменты заказывали?</rus>
-		<eng>Доставка на дом. Инструменты заказывали?</eng>
+		<eng>Home delivery. Someone order the tools?</eng>
 		<ukr>Доставка додому. Інструменти замовляли?</ukr>
 	</string>
 	<string id="dolgovazyi_toolkit_done_1">
 		<rus>О-о! Хорошие, подойдут. Как раз вовремя. У меня столько стволов лежит, которые отладить нужно.</rus>
-		<eng>О-о! Хорошие, подойдут. Как раз вовремя. У меня столько стволов лежит, которые отладить нужно.</eng>
+		<eng>Ooh! Good, these will do. Right on time. I've got so many pieces I need to fix.</eng>
 		<ukr>О-о! Хороші, підійдуть. Якраз вчасно. У мене стільки стволів лежить, які полагодити потрібно.</ukr>
 	</string>
 	<string id="dolgovazyi_toolkit_done_2">
 		<rus>Я рад за тебя.</rus>
-		<eng>Я рад за тебя.</eng>
+		<eng>I'm happy for you.</eng>
 		<ukr>Я радий за тебе.</ukr>
 	</string>
 	<string id="dolgovazyi_toolkit_done_3">
 		<rus>Ну, заходи, если отремонтировать нужно что будет... Да, чуть не забыл. В качестве награды возьми вот это. Давно у меня валяется. Один сталкер отдал на ремонт и так и не забрал. Уже полгода прошло. Поди его в живых-то давно нет. Зона, сам знаешь, гиблое место.</rus>
-		<eng>Ну, заходи, если отремонтировать нужно что будет... Да, чуть не забыл. В качестве награды возьми вот это. Давно у меня валяется. Один сталкер отдал на ремонт и так и не забрал. Уже полгода прошло. Поди его в живых-то давно нет. Зона, сам знаешь, гиблое место.</eng>
+		<eng>Well, come to me, if you need to repair something... Oh, yes, I almost forgot. Take this as a reward. It's been lying around for a long time. One stalker brought it for repairs and never took it back. It's been six months already. He must've been dead a long time now. The Zone, as you know, is a deadly place.</eng>
 		<ukr>Ну, заходь, якщо відремонтувати потрібно щось буде... Так, мало не забув. У якості нагороди візьми ось це. Давно у мене валяється. Один сталкер віддав на ремонт і так і не забрав. Вже півроку пройшло. Напевно його у живих то давно нема. Зона, сам знаєш, згубне місце.</ukr>
 	</string>
 	<string id="dolgovazyi_toolkit_done_4">
 		<rus>Неплохо, спасибо.</rus>
-		<eng>Неплохо, спасибо.</eng>
+		<eng>Not bad, thanks.</eng>
 		<ukr>Непогано, спасибі.</ukr>
 	</string>
 	<!-- АРМЕЙСКИЕ ИНСТРУМЕНТЫ ДЛЯ ДОЛГОВЯЗОГО -->
 	<string id="dolgovazyi_voen2_start_0">
 		<rus>Я хочу кое-что улучшить в своей пукалке. Отдачу уменьшить, вес снизить. Ты можешь помочь мне в этом?</rus>
-		<eng>Я хочу кое-что улучшить в своей пукалке. Отдачу уменьшить, вес снизить. Ты можешь помочь мне в этом?</eng>
+		<eng>I want to improve something in my "peashooter". Reduce recoil and weight. Can you help me with this?</eng>
 		<ukr>Я хочу дещо поліпшити у своїй пукалці. Віддачу зменшити, вагу знизити. Ти можеш допомогти мені у цьому?</ukr>
 	</string>
 	<string id="dolgovazyi_voen2_start_1">
 		<rus>Могу, только это трудоёмкое дело, мало кто в Зоне этим занимается. Но для этого мне нужны инструменты, причём первоклассные инструменты, например, РКБ-86у. А такие только у вояк есть.</rus>
-		<eng>Могу, только это трудоёмкое дело, мало кто в Зоне этим занимается. Но для этого мне нужны инструменты, причём первоклассные инструменты, например, РКБ-86у. А такие только у вояк есть.</eng>
+		<eng>I can all right, only this is quite a laborous task, very few people in the Zone do this kind of job. For that I need tools, and high-grade ones at that, RCB-86u, for example. But only the military have got these.</eng>
 		<ukr>Можу, тільки це трудомістка справа, мало хто в Зоні цим займається. Але для цього мені потрібні інструменти, причому першокласні інструменти, наприклад, РКБ-86у. А такі тільки у вояк є.</ukr>
 	</string>
 	<string id="dolgovazyi_voen2_start_2">
 		<rus>И что ты предлагаешь? Сходить к ним и попросить?</rus>
-		<eng>И что ты предлагаешь? Сходить к ним и попросить?</eng>
+		<eng>What do you suggest? Go to them and ask for these tools?</eng>
 		<ukr>І що ти пропонуєш? Сходити до них і попросити?</ukr>
 	</string>
 	<string id="dolgovazyi_voen2_start_3">
 		<rus>Это уже не мои проблемы... Хотя, поговори с сержантом Пличко. Пару часов назад он рассказывал в баре про сталкеров, которые вслед за тобой проникли на военную базу и стащили оттуда много чего полезного. Кто знает, может, они и инструменты прихватили с собой.</rus>
-		<eng>Это уже не мои проблемы... Хотя, поговори с сержантом Пличко. Пару часов назад он рассказывал в баре про сталкеров, которые вслед за тобой проникли на военную базу и стащили оттуда много чего полезного. Кто знает, может, они и инструменты прихватили с собой.</eng>
+		<eng>It's not my problem... Although, talk to Sergeant Plichko. A few of hours ago he was talking in the Bar about the stalkers who'd followed you into the military base and nicked a lot of useful stuff. Who knows, maybe they took the tools with them.</eng>
 		<ukr>Це вже не мої проблеми... Хоча, поговори з сержантом Пличко. Пару годин тому він розповідав у барі про сталкерів, які слідом за тобою проникли на військову базу і стягнули звідти багато чого корисного. Хто знає, може, вони й інструменти прихопили з собою.</ukr>
 	</string>
 	<string id="dolgovazyi_voen2_start_4">
 		<rus>Ладно, побеседую с долговцем.</rus>
-		<eng>Ладно, побеседую с долговцем.</eng>
+		<eng>Okay, I'll talk to that Duty man.</eng>
 		<ukr>Гаразд, поговорю з долгівцем.</ukr>
 	</string>
 	<string id="dolgovazyi_voen2_start_5">
 		<rus>Меня и обычное оружие устраивает.</rus>
-		<eng>Меня и обычное оружие устраивает.</eng>
+		<eng>I'm okay with unmodified weapons.</eng>
 		<ukr>Мене і звичайна зброя влаштовує.</ukr>
 	</string>
 	<!-- Говорим с Пличко -->
 	<string id="plichko_toolkit_0">
 		<rus>Мне рассказали про рейд сталкеров на базу вояк. Знаешь подробности?</rus>
-		<eng>Мне рассказали про рейд сталкеров на базу вояк. Знаешь подробности?</eng>
+		<eng>I've been told about the raid the stalkers made on the military base. Do you know any details?</eng>
 		<ukr>Мені розповіли про рейд сталкерів на базу вояк. Знаєш подробиці?</ukr>
 	</string>
 	<string id="plichko_toolkit_1">
 		<rus>Принеси мне сначала ту зелёную дрянь из Забытого Леса, тогда и поговорим.</rus>
-		<eng>Принеси мне сначала ту зелёную дрянь из Забытого Леса, тогда и поговорим.</eng>
+		<eng>First, bring me that green thing from the Forgotten Forest, then we'll talk.</eng>
 		<ukr>Принеси мені спочатку ту зелену погань з Забутого Лісу, тоді і поговоримо.</ukr>
 	</string>
 	<string id="plichko_toolkit_2">
 		<rus>Знаю, из самых первых уст. Из той группы всего один счастливчик остался в живых, остальных солдаты перестреляли... Эти сталкеры пришли на призыв Крота, но поздно, когда заварушка на Агропроме уже закончилась. Они узнали про сталкера, который проник на военную базу через подземку, и решили пойти вслед за ним, чтобы поживиться чем-нибудь. На базе была полнейшая тишина, поэтому они, не торопясь, набивали свои рюкзаки хабаром. И за свою глупость рейдеры поплатились! Через полчаса прибыло подкрепление и, по словам выжившего, там такое началось! В перестрелке погибло пять сталкеров, двоим удалось спуститься в подземелье. Но вояки и там их прижали. Этому сталкеру пришлось спрятать свой хабар, чтобы выбраться из ловушки.</rus>
-		<eng>Знаю, из самых первых уст. Из той группы всего один счастливчик остался в живых, остальных солдаты перестреляли... Эти сталкеры пришли на призыв Крота, но поздно, когда заварушка на Агропроме уже закончилась. Они узнали про сталкера, который проник на военную базу через подземку, и решили пойти вслед за ним, чтобы поживиться чем-нибудь. На базе была полнейшая тишина, поэтому они, не торопясь, набивали свои рюкзаки хабаром. И за свою глупость рейдеры поплатились! Через полчаса прибыло подкрепление и, по словам выжившего, там такое началось! В перестрелке погибло пять сталкеров, двоим удалось спуститься в подземелье. Но вояки и там их прижали. Этому сталкеру пришлось спрятать свой хабар, чтобы выбраться из ловушки.</eng>
+		<eng>I do, heard it at first hand. Of that group, only one was lucky enough to have survived, the rest of the soldiers were shot... These stalkers came to the Mole's call, but it was too late for the skirmish on the Agroprom had already ended. They found out about the stalker who had infiltrated the military base through the underground area, and decided to follow him to plunder some stuff. At the base there was complete silence, so they hurriedly stuffed their backpacks with a loot. But the raiders paid dearly for their own stupidity! In half an hour reinforcements arrived and, according to the survivor, it was as though all hell broke loose! Five stalkers were killed in the shootout, two managed to go down into the underground area. But the military hunted them down in there as well. This stalker had to hide his loot to get out of the trap.</eng>
 		<ukr>Знаю, із самих перших вуст. З тієї групи всього один щасливчик залишився у живих, інших солдати перестріляли... Ці сталкери прийшли на заклик Крота, але пізно, коли заварушка на Агропромі вже закінчилася. Вони дізналися про сталкера, який проник на військову базу через підземку, і вирішили піти слідом за ним, щоб поживитися чим-небудь. На базі була цілковита тиша, тому вони, не поспішаючи, набивали свої рюкзаки хабаром. І за свою дурість рейдери поплатилися! Через півгодини прибуло підкріплення і, за словами того який вижив, там таке почалося! У перестрілці загинуло п'ять сталкерів, двом вдалося спуститися у підземелля. Але вояки і там їх притиснули. Цьому сталкеру довелося заховати свій хабар, щоб вибратися з пастки.</ukr>
 	</string>
 	<string id="plichko_toolkit_3">
 		<rus>Этот счастливчик не сказал, где спрятал краденное?</rus>
-		<eng>Этот счастливчик не сказал, где спрятал краденное?</eng>
+		<eng>Didn't that lucky guy say where he'd left the stolen goods?</eng>
 		<ukr>Цей щасливчик не сказав, де заховав крадене?</ukr>
 	</string>
 	<string id="plichko_toolkit_4">
 		<rus>Что-то пробубнил про винтовую лестницу. Сказал, что подземку теперь точно пасут, и он больше туда ни ногой. Это всё, что он мне поведал.</rus>
-		<eng>Что-то пробубнил про винтовую лестницу. Сказал, что подземку теперь точно пасут, и он больше туда ни ногой. Это всё, что он мне поведал.</eng>
+		<eng>He mumbled something about the spiral staircase. He said that the underground area is now under the military supervision, so he in no way will set foot in there. That's all he told me.</eng>
 		<ukr>Щось пробубонів про кручені сходи. Сказав, що підземку тепер точно пасуть, і він більше туди ні ногою. Це все, що він мені повідав.</ukr>
 	</string>
 	<!-- Получение награды у Долговязого -->
 	<string id="dolgovazyi_voen2_done_0">
 		<rus>У меня для тебя сюрприз. Угадай, что в этом ящике.</rus>
-		<eng>У меня для тебя сюрприз. Угадай, что в этом ящике.</eng>
+		<eng>I have a surprise for you. Guess what's in this box.</eng>
 		<ukr>У мене для тебе сюрприз. Вгадай, що у цьому ящику.</ukr>
 	</string>
 	<string id="dolgovazyi_voen2_done_1">
 		<rus>Ну-ка, ну-ка... Армейские калибровочные инструменты. Вот это да! Чего здесь только нет. Да с такими инструментами я такое сделать смогу!</rus>
-		<eng>Ну-ка, ну-ка... Армейские калибровочные инструменты. Вот это да! Чего здесь только нет. Да с такими инструментами я такое сделать смогу!</eng>
+		<eng>Well, well... Military-grade calibration tools. Wow! There's all one might ever need. The things I could do with these tools!</eng>
 		<ukr>Ану, ану... Армійські калібрувальні інструменти. Ось це так! Чого тут тільки немає. Та з такими інструментами я таке зробити зможу!</ukr>
 	</string>
 	<string id="dolgovazyi_voen2_done_2">
 		<rus>Вот и отлично!</rus>
-		<eng>Вот и отлично!</eng>
+		<eng>Well, that's great!</eng>
 		<ukr>Ось і чудово!</ukr>
 	</string>
 	<string id="dolgovazyi_voen2_done_3">
 		<rus>За оказанную услугу возьми немного патронов. А то многие сталкеры, когда отдают мне своё оружие на ремонт, оставляют полные магазины патронов. Я их выкладываю, а обратно набить магазины забываю. Так и остаются у меня.</rus>
-		<eng>За оказанную услугу возьми немного патронов. А то многие сталкеры, когда отдают мне своё оружие на ремонт, оставляют полные магазины патронов. Я их выкладываю, а обратно набить магазины забываю. Так и остаются у меня.</eng>
+		<eng>Take some ammo for the service rendered. Many stalkers, when they give me their weapons for repairs, leave with them full magazines of ammo. I unload them, and often forget to load them back. So the ammo stays with me.</eng>
 		<ukr>За надану послугу візьми трохи патронів. А то багато сталкерів, коли віддають мені свою зброю на ремонт, залишають повні магазини патронів. Я їх викладаю, а назад набити магазини забуваю. Так і залишаються у мене.</ukr>
 	</string>
 	<string id="dolgovazyi_voen2_done_4">
 		<rus>Здорово! Патроны не помешают.</rus>
-		<eng>Здорово! Патроны не помешают.</eng>
+		<eng>Great! I could do with some extra ammo.</eng>
 		<ukr>Здорово! Патрони не завадять.</ukr>
 	</string>
 	<!-- ЗАКАЗ ОТ ВОРОНА -->
 	<string id="dolgovazyi_anomal_start_0">
 		<rus>Ворон, чем опечален, торговля не идёт?</rus>
-		<eng>Ворон, чем опечален, торговля не идёт?</eng>
+		<eng>Raven, why so sad, bad trade?</eng>
 		<ukr>Ворон, чим засмучений, торгівля не йде?</ukr>
 	</string>
 	<string id="dolgovazyi_anomal_start_1">
 		<rus>Да старые долги о себе напомнили... У меня есть небольшой заказ от группы сталкеров, их главный, Спартак - мой давний знакомый. Они в рейд собираются, им нужны проапгрейженные по уши стволы. В общем, ничего особенного. Перед Спартаком висит должок, поэтому я обещал подогнать волыны. И теперь ищу того, кто возьмётся достать эти пушки. Говорят, в Баре есть умелец, который сможет модернизировать их.</rus>
-		<eng>Да старые долги о себе напомнили... У меня есть небольшой заказ от группы сталкеров, их главный, Спартак - мой давний знакомый. Они в рейд собираются, им нужны проапгрейженные по уши стволы. В общем, ничего особенного. Перед Спартаком висит должок, поэтому я обещал подогнать волыны. И теперь ищу того, кто возьмётся достать эти пушки. Говорят, в Баре есть умелец, который сможет модернизировать их.</eng>
+		<eng>Some old debts resurfaced... I have a small order from a group of stalkers, their leader, Spartacus, is my old acquaintance. They are going on a trip, so they need fully upgraded weapons. Nothing out of the common, actually. I'm in debt to Spartacus, so I promised to get them guns. And now I'm looking for someone who will get these guns for me. They say there's a craftsman in the Bar who can upgrade them.</eng>
 		<ukr>Та старі борги про себе нагадали... У мене є невелике замовлення від групи сталкерів, їхній головний, Спартак - мій давній знайомий. Вони у рейд збираються, їм потрібні проапгрейджені по вуха стволи. Загалом, нічого особливого. Перед Спартаком висить боржок, тому я обіцяв підігнати волини. І тепер шукаю того, хто візьметься дістати ці пушки. Кажуть, у Барі є умілець, який зможе модернізувати їх.</ukr>
 	</string>
 	<string id="dolgovazyi_anomal_start_2">
 		<rus>Какие стволы им нужны и к какому сроку?</rus>
-		<eng>Какие стволы им нужны и к какому сроку?</eng>
+		<eng>What kind of guns do they need and when?</eng>
 		<ukr>Які стволи їм потрібні і до якого терміну?</ukr>
 	</string>
 	<string id="dolgovazyi_anomal_start_3">
 		<rus>Все стволы можно легко достать в Зоне. Список оружия:\nFN F2000 - калибр и вес\nTavor CTAR 21 - калибр и вес\nColt M4 CQBR - калибр и вес\nСВД - вес\nHK G36 - кучность и вес\nColt M16A4 - кучность и вес\nKnights SR-25 - кучность и вес\nHK 417 «Sniper» - кучность и вес\nАН-94 «Снайперский» - кучность и вес\nАЕК-973 - кучность и вес\nВсе пушки должны быть в хорошем состоянии. По срокам точно сказать не могу, так как они ещё "отходят" от прошлого рейда. Короче, ты слишком не затягивай. Награду обещали достойную, надыбали странную штуку в какой-то чаще, да и деньжатами не обидят. Возьмёшься за выполнение?</rus>
-		<eng>Все стволы можно легко достать в Зоне. Список оружия:\nFN F2000 - калибр и вес\nTavor CTAR 21 - калибр и вес\nColt M4 CQBR - калибр и вес\nСВД - вес\nHK G36 - кучность и вес\nColt M16A4 - кучность и вес\nKnights SR-25 - кучность и вес\nHK 417 «Sniper» - кучность и вес\nАН-94 «Снайперский» - кучность и вес\nАЕК-973 - кучность и вес\nВсе пушки должны быть в хорошем состоянии. По срокам точно сказать не могу, так как они ещё "отходят" от прошлого рейда. Короче, ты слишком не затягивай. Награду обещали достойную, надыбали странную штуку в какой-то чаще, да и деньжатами не обидят. Возьмёшься за выполнение?</eng>
+		<eng>All pieces can be easily obtained in the Zone. List of weapons (with upgrades required):\nFN F2000 - caliber and weight\nTavor CTAR 21 - caliber and weight\nColt M4 CQBR - caliber and weight\nSVD - weight\nHK G36 - accuracy and weight\nColt M16A4 - accuracy and weight\nKnights SR-25 - accuracy and weight\nHK 417 "Sniper" - accuracy and weight\nAN-94 "Sniper" - accuracy and weight\nAEK-973 - accuracy and weight\nAll guns should be in good condition. As for the deadline of the order fulfilment, I cannot say for sure, since they're still recovering from the previous trip. Anyway, don't drag it out for too long. They offered a worthy reward, dug out a strange thing in some thicket and they won't be stingy with money for that. Will you take the job?</eng>
 		<ukr>Всі стволи можна легко дістати в Зоні. Список зброї:\nFN F2000 - калібр і вага\nTavor CTAR 21 - калібр і вага\nColt M4 CQBR - калібр і вага\nСВД - вага\nHK G36 - купчастість і вага\nColt M16A4 - купчастість і вага\nKnights SR-25 - купчастість і вага\nHK 417 «Sniper» - купчастість і вага\nАН-94 «Снайперський» - купчастість і вага\nАЕК-973 - купчастість і вага\nВсі пушки повинні бути в хорошому стані. По термінах точно сказати не можу, так як вони ще "відходять" від минулого рейду. Коротше, ти занадто не затягуй. Нагороду обіцяли гідну, надибали дивну штуку в якихось хащах, та й грошенятами не образять. Візьмешся за виконання?</ukr>
 	</string>
 	<string id="dolgovazyi_anomal_start_4">
 		<rus>Записал, постараюсь найти все пушки.</rus>
-		<eng>Записал, постараюсь найти все пушки.</eng>
+		<eng>Noted down, I'll try to find all the guns.</eng>
 		<ukr>Записав, постараюся знайти всі пушки.</ukr>
 	</string>
 	<string id="dolgovazyi_anomal_start_5">
 		<rus>Что-то я не встречал такое оружие и даже не знаю, где его искать. Так что, извини.</rus>
-		<eng>Что-то я не встречал такое оружие и даже не знаю, где его искать. Так что, извини.</eng>
+		<eng>I don't remember ever seeing weapons like these and I've no idea where to look for it. I'm sorry.</eng>
 		<ukr>Щось я не зустрічав таку зброю і навіть не знаю, де її шукати. Так що, вибач.</ukr>
 	</string>
 	<!-- Получение чертежа Сайги у Ворона -->
 	<string id="dolgovazyi_anomal_done_0">
 		<rus>Эй, Ворон, харэ ворон считать! Принимай свой заказ. Куда пушки положить?</rus>
-		<eng>Эй, Ворон, харэ ворон считать! Принимай свой заказ. Куда пушки положить?</eng>
+		<eng>Hey, Raven, quit your daydreaming! Receive what you ordered. Where can I put the guns?</eng>
 		<ukr>Ей, Ворон, харе ворон рахувати! Приймай своє замовлення. Куди пушки покласти?</ukr>
 	</string>
 	<string id="dolgovazyi_anomal_done_1">
 		<rus>Добро-добро... Как раз вовремя, Спартак обещал в скором времени подойти.</rus>
-		<eng>Добро-добро... Как раз вовремя, Спартак обещал в скором времени подойти.</eng>
+		<eng>Good, good... Just in time, cause Spartacus promised to come soon.</eng>
 		<ukr>Гаразд-гаразд... Якраз вчасно, Спартак обіцяв найближчим часом підійти.</ukr>
 	</string>
 	<string id="dolgovazyi_anomal_done_2">
 		<rus>Он бы знал, сколько усилий и средств я потратил на его заказ. Чем порадуешь за выполнение?</rus>
-		<eng>Он бы знал, сколько усилий и средств я потратил на его заказ. Чем порадуешь за выполнение?</eng>
+		<eng>I wish he knew how much effort and money I put into fulfilling this order of his. So, what do I get from you as a reward?</eng>
 		<ukr>Знав би він скільки сил і часу я витратив на його замовленння. Чим порадуєш за виконання?</ukr>
 	</string>
 	<string id="dolgovazyi_anomal_done_3">
 		<rus>Э-э, хм, в общем-то, порадовать особо и нечем. Странной штуковиной оказался изумрудный арт. Ничего особенного, на его продаже особо не разбогатеешь. Поэтому я обменял его у одного мужичка на чертёж модифицированной "Сайги". Может, ты возьмёшь его вместо причитающихся деньжат? Бабла не так уж и много, а если делить на двоих, то и вовсе останется только одно место подтереть. Я тебе ещё патронов подкину вдоволь.</rus>
-		<eng>Э-э, хм, в общем-то, порадовать особо и нечем. Странной штуковиной оказался изумрудный арт. Ничего особенного, на его продаже особо не разбогатеешь. Поэтому я обменял его у одного мужичка на чертёж модифицированной "Сайги". Может, ты возьмёшь его вместо причитающихся деньжат? Бабла не так уж и много, а если делить на двоих, то и вовсе останется только одно место подтереть. Я тебе ещё патронов подкину вдоволь.</eng>
+		<eng>Erm, actually there's very little to get you pleased with. A strange thing turned out to be an emerald artifact. Nothing special, you won't get rich by selling it. So, I traded it with a fellow for a blueprint of modified "Saiga". Maybe you'll take it instead of the money due? There's not so much money in reward for this, too, and if divided between the two, it'll be something worth wiping our asses with. I'll give you lots of ammo as well.</eng>
 		<ukr>Е-е, гм, загалом, порадувати особливо й нічим. Дивною штуковиною виявився смарагдовий арт. Нічого особливого, на його продажу особливо не розбагатієщ. Тому я обміняв його у одного чоловіка на креслення модифікованої "Сайги". Може ти візьмеш його замість належних грошенят? Бабла не так вже й багато, а якщо ділити на двох, то і зовсім залишиться тільки одне місце підтерти. Я тобі ще патронів підкину вдосталь.</ukr>
 	</string>
 	<string id="dolgovazyi_anomal_done_4">
 		<rus>Вот так подстава! На мою помощь больше не рассчитывай. Давай сюда чертёж...</rus>
-		<eng>Вот так подстава! На мою помощь больше не рассчитывай. Давай сюда чертёж...</eng>
+		<eng>What a setup! Don't count on me helping you any more. Give that blueprint here...</eng>
 		<ukr>От так підстава! На мою допомогу більше не розраховуй. Давай сюди креслення...</ukr>
 	</string>
 	<!-- ЧЕРТЕЖИ СТАРОГО ОРУЖЕЙНИКА -->
 	<string id="vasily_chertez_start_0">
 		<rus>А кроме ремонта брони чем-нибудь ещё занимаешься?</rus>
-		<eng>А кроме ремонта брони чем-нибудь ещё занимаешься?</eng>
+		<eng>Do you do something apart from repairing armor?</eng>
 		<ukr>А крім ремонту броні чим-небудь ще займаєшся?</ukr>
 	</string>
 	<string id="vasily_chertez_start_1">
 		<rus>Я закончил работу над новым бронекомбинезоном для сталкеров. Осталось только кое-что доработать и проверить его в деле. А так, в свободное время, изучаю воздействие артефактов на характеристики оружия и брони, пытаюсь их улучшить с помощью артефактов.</rus>
-		<eng>Я закончил работу над новым бронекомбинезоном для сталкеров. Осталось только кое-что доработать и проверить его в деле. А так, в свободное время, изучаю воздействие артефактов на характеристики оружия и брони, пытаюсь их улучшить с помощью артефактов.</eng>
+		<eng>I've finished my work on a new armored suit for stalkers. It only remains to refine and then test it. But in my spare time I study the effects of artifacts on the characteristics of weapons and armor, trying to improve them with artifacts.</eng>
 		<ukr>Я закінчив роботу над новим бронекомбінезоном для сталкерів. Залишилося тільки дещо допрацювати і перевірити його у роботі. А так, у вільний час, вивчаю вплив артефактів на характеристики зброї і броні, намагаюся їх поліпшити за допомогою артефактів.</ukr>
 	</string>
 	<string id="vasily_chertez_start_2">
 		<rus>Разве такое возможно?</rus>
-		<eng>Разве такое возможно?</eng>
+		<eng>Is that even possible?</eng>
 		<ukr>Хіба таке можливо?</ukr>
 	</string>
 	<string id="vasily_chertez_start_3">
 		<rus>Ещё как возможно и даже больше. У меня уже есть кое-какой опыт в этом деле. По заказу одного сталкера я модернизировал Винчестер 1300 с помощью артефакта "Грави" так, что скорость пули заметно возросла.</rus>
-		<eng>Ещё как возможно и даже больше. У меня уже есть кое-какой опыт в этом деле. По заказу одного сталкера я модернизировал Винчестер 1300 с помощью артефакта "Грави" так, что скорость пули заметно возросла.</eng>
+		<eng>It's more than possible. I already have some experience in this field. At the request of a stalker, I upgraded the Winchester 1300 using a "Gravie" artifact so that its muzzle velocity increased substantially.</eng>
 		<ukr>Ще й як можливо і навіть більше. У мене вже є певний досвід у цій справі. На замовлення одного сталкера я модернізував Вінчестер 1300 за допомогою артефакту "Граві" так, що швидкість кулі помітно зросла.</ukr>
 	</string>
 	<string id="vasily_chertez_start_4">
 		<rus>Да неужели? И как же такое можно сделать?</rus>
-		<eng>Да неужели? И как же такое можно сделать?</eng>
+		<eng>Oh, really? And how can that be done?</eng>
 		<ukr>Та невже? І як же таке можна зробити?</ukr>
 	</string>
 	<string id="vasily_chertez_start_5">
 		<rus>Если вкратце, то благодаря взаимодействию друг с другом различных артефактов. Совместное капсулирование фрагментов артефактов даёт поразительные результаты. Также я могу воссоздать уникальные образцы оружия и модификации, существующие всего в нескольких экземплярах.</rus>
-		<eng>Если вкратце, то благодаря взаимодействию друг с другом различных артефактов. Совместное капсулирование фрагментов артефактов даёт поразительные результаты. Также я могу воссоздать уникальные образцы оружия и модификации, существующие всего в нескольких экземплярах.</eng>
+		<eng>In short, it is possible thanks to the interaction between various artifacts. Joining of artifacts' fragments yields striking results. Also I can make truly unique weapons and modifications.</eng>
 		<ukr>Якщо коротко, то завдяки взаємодії один з одним різних артефактів. Спільне капсулювання фрагментів артефактів дає вражаючі результати. Також я можу відтворити унікальні зразки зброї та модифікації, існуючі всього у декількох примірниках.</ukr>
 	</string>
 	<string id="vasily_chertez_start_6">
 		<rus>Например?</rus>
-		<eng>Например?</eng>
+		<eng>For example?</eng>
 		<ukr>Наприклад?</ukr>
 	</string>
 	<string id="vasily_chertez_start_7">
 		<rus>Например, особые заказы вооружённых сил для секретных подразделений. Как правило, для них создаются такие образцы, которые существенно отличаются от базовой модели. В лучшую сторону, конечно. Да и кулибиных на свете немало. Порой, кустарные модификации превосходят по характеристикам серийные образцы.</rus>
-		<eng>Например, особые заказы вооружённых сил для секретных подразделений. Как правило, для них создаются такие образцы, которые существенно отличаются от базовой модели. В лучшую сторону, конечно. Да и кулибиных на свете немало. Порой, кустарные модификации превосходят по характеристикам серийные образцы.</eng>
+		<eng>For example, special orders of the armed forces for special task units. For their needs, versions of weapons in many ways superior to basic models are produced. And there are lots of gunsmiths in the world. Sometimes, handicraft weapons' modifications outperform standart issue weapons.</eng>
 		<ukr>Наприклад, особливі замовлення збройних сил для секретних підрозділів. Як правило, для них створюються такі зразки, які суттєво відрізняються від базової моделі. У кращий бік, звичайно. Та й кулібіних на світі чимало. Часом, кустарні модифікації перевершують за характеристиками серійні зразки.</ukr>
 	</string>
 	<string id="vasily_chertez_start_8">
 		<rus>А можешь мне сделать такое оружие? Я хорошо заплачу за него.</rus>
-		<eng>А можешь мне сделать такое оружие? Я хорошо заплачу за него.</eng>
+		<eng>Can you make a weapon like this for me? I'll pay you well.</eng>
 		<ukr>А можеш мені зробити таку зброю? Я добре заплачу за неї.</ukr>
 	</string>
 	<string id="vasily_chertez_start_9">
 		<rus>Для создания такого оружия мне нужны высококачественные инструменты. Тебе придётся попотеть, чтобы найти такие. У того сталкера был несложный в реализации заказ, поэтому я обошёлся своими старыми.</rus>
-		<eng>Для создания такого оружия мне нужны высококачественные инструменты. Тебе придётся попотеть, чтобы найти такие. У того сталкера был несложный в реализации заказ, поэтому я обошёлся своими старыми.</eng>
+		<eng>To create such weapons I need high-quality tools. You'll have to have a hard time finding them. That stalker's order was too easy to complete, so I used my old tools.</eng>
 		<ukr>Для створення такої зброї мені потрібні високоякісні інструменти. Тобі доведеться попотіти, щоб знайти такі. У того сталкера було нескладне у реалізації замовлення, тому я обійшовся своїми старими.</ukr>
 	</string>
 	<string id="vasily_chertez_start_10">
 		<rus>И где же мне такие достать?</rus>
-		<eng>И где же мне такие достать?</eng>
+		<eng>But where do I get these?</eng>
 		<ukr>І де ж мені такі дістати?</ukr>
 	</string>
 	<string id="vasily_chertez_start_11">
 		<rus>Так, для начала мне нужны калибровочные инструменты. С Дэном знаком? Если нет, то надеюсь, скоро познакомишься. Он обещал мне подогнать такой набор, только от него давно ни слуху, ни духу. Если встретишь его, то спросить не забудь про инструменты. Также мне нужны инструменты для тонкой работы. Возможно, у Доцента они имеются. Он ведь ремонтирует ПДА и прочую электронику.</rus>
-		<eng>Так, для начала мне нужны калибровочные инструменты. С Дэном знаком? Если нет, то надеюсь, скоро познакомишься. Он обещал мне подогнать такой набор, только от него давно ни слуху, ни духу. Если встретишь его, то спросить не забудь про инструменты. Также мне нужны инструменты для тонкой работы. Возможно, у Доцента они имеются. Он ведь ремонтирует ПДА и прочую электронику.</eng>
+		<eng>So, for starters, I need some calibration tools. Do you know Dan? If not, I hope you'll soon get acquainted with him. He promised to fetch me a set of this kind, it's just that there's been no news of him for quite some time now. If you meet him, do not forget to ask about the tools. I also need some high-precision tools. Docent might have these. He does the repairs of PDAs and other electronics after all.</eng>
 		<ukr>Так, для початку мені потрібні калібрувальні інструменти. З Деном знайомий? Якщо ні, то сподіваюся, скоро познайомишся. Він обіцяв мені підігнати такий набір, тільки від нього давно ні слуху, ні духу. Якщо зустрінеш його, то запитати не забудь про інструменти. Також мені потрібні інструменти для тонкої роботи. Можливо, у Доцента вони є. Адже він ремонтує КПК та іншу електроніку.</ukr>
 	</string>
 	<string id="vasily_chertez_start_12">
 		<rus>Допустим, что я найду тебе эти инструменты. Что тебе ещё нужно?</rus>
-		<eng>Допустим, что я найду тебе эти инструменты. Что тебе ещё нужно?</eng>
+		<eng>Suppose, I've found you these tools. What else will you need?</eng>
 		<ukr>Припустимо, що я знайду тобі ці інструменти. Що тобі ще треба?</ukr>
 	</string>
 	<string id="vasily_chertez_start_13">
 		<rus>Принеси мне два экземпляра модернизируемого оружия в хорошем состоянии. Второй ствол пойдёт на детали, если я где-нибудь напортачу. Ещё мне нужны два артефакта "Грави" для стабилизации пули в воздухе и увеличения её скорости. И одна "Рубиновая пружина" для увеличения убойности. Эти два артефакта я довольно хорошо изучил, так что за свои слова отвечаю. За работу я возьму от 50 до 100 тысяч рублей, в зависимости от сложности заказа.</rus>
-		<eng>Принеси мне два экземпляра модернизируемого оружия в хорошем состоянии. Второй ствол пойдёт на детали, если я где-нибудь напортачу. Ещё мне нужны два артефакта "Грави" для стабилизации пули в воздухе и увеличения её скорости. И одна "Рубиновая пружина" для увеличения убойности. Эти два артефакта я довольно хорошо изучил, так что за свои слова отвечаю. За работу я возьму от 50 до 100 тысяч рублей, в зависимости от сложности заказа.</eng>
+		<eng>Get me two identical guns to be upgraded, in good condition. The second piece will be used for parts should I screw up in the process. I also need two "Gravie" artifacts to stabilize the bullet in the air and increase its speed. And one "Ruby Spring" to increase killability. I've studied these two artifacts quite thoroughly, so, I know what I'm talking about. My work will cost you 50 to 100 thousand rubles, depending on the complexity of the order.</eng>
 		<ukr>Принеси мені два екземпляра модернізовуваної зброї у хорошому стані. Другий ствол піде на деталі, якщо я десь напартачив. Ще мені потрібні два артефакти "Граві" для стабілізації кулі у повітрі і збільшення її швидкості. І одна "Рубінова пружина" для збільшення вбивчості. Ці два артефакти я досить добре вивчив, так що за свої слова відповідаю. За роботу я візьму від 50 до 100 тисяч гривень, в залежності від складності замовлення.</ukr>
 	</string>
 	<string id="vasily_chertez_start_14">
 		<rus>Записал. Надеюсь, это всё.</rus>
-		<eng>Записал. Надеюсь, это всё.</eng>
+		<eng>Noted down. I hope that'll be all.</eng>
 		<ukr>Записав. Сподіваюся, це все.</ukr>
 	</string>
 	<string id="vasily_chertez_start_15">
 		<rus>Ага, надейся. Ещё мне нужен подробный чертёж модернизируемого оружия, без него никак.</rus>
-		<eng>Ага, надейся. Ещё мне нужен подробный чертёж модернизируемого оружия, без него никак.</eng>
+		<eng>Ha, fat chance. I also need a detail drawing of the weapon being upgraded, no way around it.</eng>
 		<ukr>Ага, сподівайся. Ще мені потрібне докладне креслення модорнізовуваної зброї, без нього ніяк.</ukr>
 	</string>
 	<string id="vasily_chertez_start_16">
 		<rus>А сразу не мог сказать? И где я тебе такие чертежи найду? У тебя их нет?</rus>
-		<eng>А сразу не мог сказать? И где я тебе такие чертежи найду? У тебя их нет?</eng>
+		<eng>Could you have told me that first thing? And where on Earth can I find this drawing? Don't you have it?</eng>
 		<ukr>А відразу не міг сказати? І де я тобі такі креслення знайду? У тебе їх немає?</ukr>
 	</string>
 	<string id="vasily_chertez_start_17">
 		<rus>У меня нет, но я знаю, где их можно достать. Слышал я про одного мастера по прозвищу Оружейник. Он до аварии на ЧАЭС в Припяти жил, а до этого в каком-то НИИ работал, огнестрельное оружие разрабатывал. Через несколько лет после аварии он вернулся. Говорят, за своими чертежами. Многих сталкеров спрашивал про чертежи и схемы - не попадались ли такие. Похоже, он хотел попасть в Припять, к себе домой. Но из-за Выжигателя ему этого не удалось. Последний раз его видели в Баре, он о чём-то разговаривал с Осведомителем. После этого Оружейника больше никто не видел. Я думаю, что в его квартире наверняка остались какие-нибудь чертежи. Так что советую начать поиски оттуда. Хотя, эти чертежи могут быть у кого-нибудь из сталкеров или местных механиков. Адреса Оружейника я не знаю, возможно, Осведомитель в курсе. Поговори с ним и узнай, о чём они говорили... Не вижу радости на твоём лице. Тебе нужно такое оружие или нет?</rus>
-		<eng>У меня нет, но я знаю, где их можно достать. Слышал я про одного мастера по прозвищу Оружейник. Он до аварии на ЧАЭС в Припяти жил, а до этого в каком-то НИИ работал, огнестрельное оружие разрабатывал. Через несколько лет после аварии он вернулся. Говорят, за своими чертежами. Многих сталкеров спрашивал про чертежи и схемы - не попадались ли такие. Похоже, он хотел попасть в Припять, к себе домой. Но из-за Выжигателя ему этого не удалось. Последний раз его видели в Баре, он о чём-то разговаривал с Осведомителем. После этого Оружейника больше никто не видел. Я думаю, что в его квартире наверняка остались какие-нибудь чертежи. Так что советую начать поиски оттуда. Хотя, эти чертежи могут быть у кого-нибудь из сталкеров или местных механиков. Адреса Оружейника я не знаю, возможно, Осведомитель в курсе. Поговори с ним и узнай, о чём они говорили... Не вижу радости на твоём лице. Тебе нужно такое оружие или нет?</eng>
+		<eng>I don't have it, but I know where it could be gotten from. I heard about one craftsman, nicknamed Gunsmith. He lived in Pripyat before the Chernobyl SNPP accident, and even before that time he worked in some scientific research institute developing firearms. A few years after the accident he returned. They say, he came back for his drawings. He was asking many stalkers about the drawings and diagrams - if anyone came across anything like these. Apparently he wanted to get to Pripyat, to his home. But he failed because of the Brain Scorcher. Last time he was seen in the Bar, talking to Informer about something. After that no one ever saw Gunsmith. I think there might still be some drawings and diagrams in his apartment. I therefore would advise you to start your search with this place. Although these drawings could be with one of the stalkers or local mechanics. I don't know the Gunsmith home address, perhaps the Informer does. Talk to him and find out what he and Gunsmith were talking about last time... I can't see any enthusiasm on your face. Do you need that kind of weapons or not?</eng>
 		<ukr>У мене немає, але я знаю, де їх можна дістати. Чув я про одного майстра на прізвисько Зброяр. Він до аварії на ЧАЕС у Прип'яті жив, а до цього у якомусь НДІ працював, вогнепальну зброю розробляв. Через кілька років після аварії він повернувся. Кажуть, по свої креслення. Багатьох сталкерів питав про креслення і схеми - чи не траплялися такі. Схоже, він хотів потрапити до Прип'яті, до себе додому. Але через Випалювач йому цього не вдалося. Останній раз його бачили у Барі, він про щось розмовляв з Інформатором. Після цього зброяра більше ніхто не бачив. Я думаю, що у його квартирі напевно залишилися які-небудь креслення. Так що раджу почати пошуки звідти. Хоча, ці креслення можуть бути у когось зі сталкерів або місцевих механіків. Адреси Зброяра я не знаю, можливо, Інформатор у курсі. Поговори з ним і дізнайся, про що вони говорили... Не бачу радості на твоєму обличчі. Тобі потрібна така зброя чи ні?</ukr>
 	</string>
 	<string id="vasily_chertez_start_18">
 		<rus>Конечно, нужно. Как всё соберу, загляну к тебе.</rus>
-		<eng>Конечно, нужно. Как всё соберу, загляну к тебе.</eng>
+		<eng>Of course, I need. Soon as I've got everything required with me, I'll look in on you.</eng>
 		<ukr>Звичайно, потрібна. Коли все зберу, загляну до тебе.</ukr>
 	</string>
 	<string id="vasily_chertez_start_19">
 		<rus>Да иди ты куда подальше. Я лучше новую пушку куплю.</rus>
-		<eng>Да иди ты куда подальше. Я лучше новую пушку куплю.</eng>
+		<eng>You gotta be kidding me. I'd better buy a new gun.</eng>
 		<ukr>Та йди ти куди подалі. Я краще нову пушку куплю.</ukr>
 	</string>
 	<!-- У Меченого есть чертёж СКС "Кастом" и барахло -->
 	<string id="vasily_chertez_svu_0">
 		<rus>Я нашёл чертёж СКС "Custom". Сможешь воссоздать такой по чертежам?</rus>
-		<eng>Я нашёл чертёж СКС "Custom". Сможешь воссоздать такой по чертежам?</eng>
+		<eng>I found the SKS "Custom" blueprints. Can you make it by these drawings?</eng>
 		<ukr>Я знайшов креслення СКС "Custom". Зможеш відтворити такий по кресленнях?</ukr>
 	</string>
 	<string id="vasily_chertez_svu_1">
 		<rus>Остальное барахло принёс?</rus>
-		<eng>Остальное барахло принёс?</eng>
+		<eng>Have you brought the rest?</eng>
 		<ukr>Інше барахло приніс?</ukr>
 	</string>
 	<string id="vasily_chertez_svu_2">
 		<rus>Да. Вот держи карабины, артефакты и деньги.</rus>
-		<eng>Да. Вот держи карабины, артефакты и деньги.</eng>
+		<eng>Yes. Here, take the carbines, artifacts and money.</eng>
 		<ukr>Так. Ось тримай карабіни, артефакти і гроші.</ukr>
 	</string>
 	<string id="vasily_chertez_svu_3">
 		<rus>Отлично! Зайди ко мне через сутки. Думаю, за это время управлюсь.</rus>
-		<eng>Отлично! Зайди ко мне через сутки. Думаю, за это время управлюсь.</eng>
+		<eng>Excellent! Come back to me in a day. I think I'll finish the job by then.</eng>
 		<ukr>Відмінно! Зайди до мене через добу. Думаю, за цей час впораюсь.</ukr>
 	</string>
 	<!-- Забираем СКС "Кастом" -->
 	<string id="vasily_chertez_svu_done_0">
 		<rus>И где же мой новый карабин?</rus>
-		<eng>И где же мой новый карабин?</eng>
+		<eng>And where is my new carbine?</eng>
 		<ukr>І де ж мій новий карабін?</ukr>
 	</string>
 	<string id="vasily_chertez_svu_done_1">
 		<rus>Здесь он, вот. Отличная пушка получилась!</rus>
-		<eng>Здесь он, вот. Отличная пушка получилась!</eng>
+		<eng>Here it is. Quite an excellent gun it's turned out to be!</eng>
 		<ukr>Тут він, ось. Відмінна пушка вийшла!</ukr>
 	</string>
 	<string id="vasily_chertez_svu_done_2">
 		<rus>Действительно, хорош! Спасибо!</rus>
-		<eng>Действительно, хорош! Спасибо!</eng>
+		<eng>It's good indeed! Thank you!</eng>
 		<ukr>Дійсно, гарний! Дякую!</ukr>
 	</string>
 	<!-- У Меченого есть чертёж ФН 2000 и барахло -->
 	<string id="vasily_chertez_fn_0">
 		<rus>Василий, у меня есть чертёж FN F2000 "Десантник". Сможешь сделать для меня такую пушку?</rus>
-		<eng>Василий, у меня есть чертёж FN F2000 "Десантник". Сможешь сделать для меня такую пушку?</eng>
+		<eng>Vasiliy, I've got the blueprints for FN F2000 "Paratrooper". Can you make that gun for me?</eng>
 		<ukr>Василь, у мене є креслення FN F2000 "Десантник". Зможеш зробити для мене таку пушку?</ukr>
 	</string>
 	<string id="vasily_chertez_fn_1">
 		<rus>Ты принёс, что я тебя просил - оружие, артефакты, деньги?</rus>
-		<eng>Ты принёс, что я тебя просил - оружие, артефакты, деньги?</eng>
+		<eng>You brought what I asked you for - guns, artifacts, money?</eng>
 		<ukr>Ти приніс, що я тебе просив - зброя, артефакти, гроші?</ukr>
 	</string>
 	<string id="vasily_chertez_fn_2">
 		<rus>Конечно, держи.</rus>
-		<eng>Конечно, держи.</eng>
+		<eng>Of course, here, take it.</eng>
 		<ukr>Звичайно, тримай.</ukr>
 	</string>
 	<string id="vasily_chertez_fn_3">
 		<rus>Погуляй пока. Через сутки будет готово.</rus>
-		<eng>Погуляй пока. Через сутки будет готово.</eng>
+		<eng>Go now. It'll be ready in a day.</eng>
 		<ukr>Погуляй поки. Через добу буде готово.</ukr>
 	</string>
 	<!-- Забираем ФН 2000 -->
 	<string id="vasily_chertez_fn_done_0">
 		<rus>Ну что, готов мой заказ?</rus>
-		<eng>Ну что, готов мой заказ?</eng>
+		<eng>Well, has my order been complete yet?</eng>
 		<ukr>Ну що, готове моє замовлення?</ukr>
 	</string>
 	<string id="vasily_chertez_fn_done_1">
 		<rus>Ага, забирай. Пользуйся на здоровье.</rus>
-		<eng>Ага, забирай. Пользуйся на здоровье.</eng>
+		<eng>Yep, take it. Make a good use of it.</eng>
 		<ukr>Ага, забирай. Користуйся на здоров'я.</ukr>
 	</string>
 	<string id="vasily_chertez_fn_done_2">
 		<rus>Вот это красавец получился!</rus>
-		<eng>Вот это красавец получился!</eng>
+		<eng>What a beauty that is!</eng>
 		<ukr>Ось це красень вийшов!</ukr>
 	</string>
 	<!-- У Меченого есть чертёж Хостела и барахло -->
 	<string id="vasily_chertez_groza_0">
 		<rus>Я раздобыл чертёж FN "Хостел".</rus>
-		<eng>Я раздобыл чертёж FN "Хостел".</eng>
+		<eng>I got the FN "Hostel" drawing.</eng>
 		<ukr>Я роздобув креслення FN "Хостел".</ukr>
 	</string>
 	<string id="vasily_chertez_groza_1">
