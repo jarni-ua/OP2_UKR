@@ -2628,7 +2628,7 @@
 		<ukr>Дивне місце. Німа будівля зберігає свої таємниці, але не це притягує сюди сталкерів, а артефакти, щедро народжувані у цьому районі...</ukr>
 	</string>
 	<string id="ui_map_desc_mp_atp_large">
-		<rus>Автобусно-троллейбусный парк, расположенный в предбаннике Зоны. Замерли навсегда трактора, автобусы и грузовики...Артефактов замечено не было, но это место популярно среди опытных сталкеров, которые отстреливают новичков и забирают у них то немногое, что у них есть. Ищи укрытия в домах и за техникой, остерегайся врагов на крышах.</rus>
+		<rus>Автобусно-троллейбусный парк, расположенный в предбаннике Зоны. Замерли навсегда трактора, автобусы и грузовики... Артефактов замечено не было, но это место популярно среди опытных сталкеров, которые отстреливают новичков и забирают у них то немногое, что у них есть. Ищи укрытия в домах и за техникой, остерегайся врагов на крышах.</rus>
 		<eng>Bus-trolleybus park, located at the border of the Zone. Tractors, buses and trucks stopped forever... There were no artifacts, but this place is popular among experienced stalkers who shoot newcomers and take away from them what little they have. Look for shelter in homes and equipment, beware of enemies on the roofs.</eng>
 		<ukr>Автобусно-тролейбусний парк, розташований у «передбаннику» Зони. Завмерлі назавжди трактори, автобуси та вантажівки... Артефактів тут помічено не було, але це місце популярне серед досвідчених сталкерів, котрі іноді відстрелюють новачків і забирають речі, котрі ті принесли з Великої Землі. Шукай укриття в будівлях та за технікою; остерігайся ворогів на дахах.</ukr>
 	</string>
@@ -2658,7 +2658,7 @@
 		<ukr>Похмурий закинутий заводик. Скільки сталкерів тут полягло - і не злічити.</ukr>
 	</string>
 	<string id="ui_map_desc_mp_garbage_large">
-		<rus>Это часть большой вонючей свалки, куда после аварии в 86 году свозили горы радиоактивного мусора... разбитые краны, техника... Можно найти останки старых построек и огромный ангар....Все это не далеко от входа в Зону и артефактов тут достаточно много, что и привлекает сюда сталкеров, которые ищут лёгкой наживы.</rus>
+		<rus>Это часть большой вонючей свалки, куда после аварии в 86 году свозили горы радиоактивного мусора... разбитые краны, техника... Можно найти останки старых построек и огромный ангар... Всё это не далеко от входа в Зону и артефактов тут достаточно много, что и привлекает сюда сталкеров, которые ищут лёгкой наживы.</rus>
 		<eng>This is part of a large smelly dump where, after the accident in the year 86, the mountains of radioactive debris were brought... broken cranes, machinery... You can find the remains of old buildings and a huge hangar.... All this is not far from the entrance to the Zone and the artifacts are enough here a lot, which attracts stalkers who are looking for easy money.</eng>
 		<ukr>Це - частина великого звалища, що смердить старим металом і куди після аварії 1986 року звозили купи радіоактивного сміття. Розбиті крани, авіаційна та автомобільна техніка... Можна знайти рештки старих будівель та величезний ангар. Воно розташовано неподалік від входу до Зони, але артефактів тут доволі багато. Це й притягує сюди сталкерів, котрі шукають легкої наживи.</ukr>
 	</string>
@@ -2728,8 +2728,8 @@
 		<ukr>Цей завод під купами металу та за стінами бетону грає в якусь особливу мовчанку.</ukr>
 	</string>
 	<string id="ui_map_desc_mp_workshop_large">
-		<rus>Окраина завода Росток до прихода Долга. Мрачные места, однако, очень богатые на артефакты. Пустые ангары и склады таят в себе опасность на каждом шагу. Будь предельно осторожен и чаще обращай внимание на белую башню....</rus>
-		<eng>Outskirts of the Rostok plant before the arrival of the Duty. Gloomy places, however, are very rich in artifacts. Empty hangars and warehouses are fraught with danger at every turn. Be extremely careful and more often pay attention to the white tower....</eng>
+		<rus>Окраина завода Росток до прихода Долга. Мрачные места, однако, очень богатые на артефакты. Пустые ангары и склады таят в себе опасность на каждом шагу. Будь предельно осторожен и чаще обращай внимание на белую башню...</rus>
+		<eng>Outskirts of the Rostok plant before the arrival of the Duty. Gloomy places, however, are very rich in artifacts. Empty hangars and warehouses are fraught with danger at every turn. Be extremely careful and more often pay attention to the white tower...</eng>
 		<ukr>Околиця заводу «Росток» до приходу «Долгу»: похмурі, хоча й дуже багаті на артефакти, місця. Порожній простір ангарів, цехів та складів приховує небезпеку. Треба бути гранично обережним і частіше звертати увагу на білу вежу...</ukr>
 	</string>
 	<string id="ui_map_desc_mp_workshop_short">
@@ -3156,7 +3156,7 @@
 		<ukr> - %c[red]злодюжка!%c[default]</ukr>
 	</string>
 	<string id="txt_safe_move_pos">
-		<rus>Передумал - дело твое.</rus>
+		<rus>Передумал - дело твоё.</rus>
 		<eng>Change your mind - it's yours.</eng>
 		<ukr>Передумав - справа твоя.</ukr>
 	</string>
@@ -3186,12 +3186,12 @@
 		<ukr>О, Мічений! Є до мене якась справа?</ukr>
 	</string>
 	<string id="txt_safe_hello_0_4">
-		<rus>Ну, говори, зачем пришел.</rus>
+		<rus>Ну, говори, зачем пришёл.</rus>
 		<eng>Well, tell me why you came.</eng>
 		<ukr>Ну, говори навіщо прийшов.</ukr>
 	</string>
 	<string id="txt_safe_stolen_gg_p1">
-		<rus>Тебя сразу пристрелить, или сам отдашь?</rus>
+		<rus>Тебя сразу пристрелить или сам отдашь?</rus>
 		<eng>Do you want to get shot right now, or will you give it up by yourself?</eng>
 		<ukr>Тебя відразу пристрелити, чи сам віддаси?</ukr>
 	</string>
@@ -3206,12 +3206,12 @@
 		<ukr>Ти коли крадеш чуже, не забувай маячки відключати.</ukr>
 	</string>
 	<string id="txt_safe_stolen_ss_p4">
-		<rus>А, так это твои пожитки валялись на дороге? Надо сказать, прятать ты не умеешь. Но, ты наверное, хочешь вернуть себе хабарок... Что же, раз ты меня нашел, то пойду на уступки, лишних врагов мне не нужно. В общем, давай сюда 50 тысяч за нычку и разойдемся по-хорошему. Только учти, угрожать мне не надо, рюкзака твоего у меня с собой нет, грохнешь меня - дороже обойдется.</rus>
+		<rus>А, так это твои пожитки валялись на дороге? Надо сказать, прятать ты не умеешь. Но, ты наверное, хочешь вернуть себе хабарок... Что же, раз ты меня нашёл, то пойду на уступки, лишних врагов мне не нужно. В общем, давай сюда 50 тысяч за нычку и разойдёмся по-хорошему. Только учти, угрожать мне не надо, рюкзака твоего у меня с собой нет, грохнешь меня - дороже обойдётся.</rus>
 		<eng>Ah, so these were your belongings lying on the road? I must say, you can not hide. But, you probably want to regain your looty... Well, since you found me, I will make concessions, I do not need superfluous enemies. In general, give here 50 thousand for your loot and we split tacks. Just remember, I do not need to be threaten, I do not have your backpack with me, if you'll kill me - it will cost more.</eng>
 		<ukr>А, так це твої пожитки валялися посеред дороги? Треба сказати, ховати ти не вмієш. Але, ти, напевно, хочеш повернути собі хабарок ... Що ж, раз ти мене знайшов, то піду на поступки, зайві вороги мені не потрібні. Коротше, давай сюди 50 тисяч за схованку і розійдемося по-доброму. Тільки врахуй, погрожувати мені не треба, рюкзака твого в мене з собою немає, пришиєш мене - дорожче обійдеться.</ukr>
 	</string>
 	<string id="txt_safe_stolen_gg_p5_1">
-		<rus>Черт с тобой, держи. Ещё раз попадешься - и на такой любезный разговор не рассчитывай.</rus>
+		<rus>Чёрт с тобой, держи. Ещё раз попадёшься - и на такой любезный разговор не рассчитывай.</rus>
 		<eng>Damn it to you, here you go. You will be caught once again - do not expect such kind conversation.</eng>
 		<ukr>Дідько з тобою, тримай. Ще раз попадешся - і на таку люб'язну розмову не розраховуй.</ukr>
 	</string>
@@ -3221,17 +3221,17 @@
 		<ukr>Ну ти загнув. Там хабара не було на таку суму.</ukr>
 	</string>
 	<string id="txt_safe_stolen_ss_p6_1">
-		<rus>Правильное решение. Значит слушай, я всего лишь координаты записал себе. Рюкзак твой все ещё на месте, только ищи получше, я его малость припрятал. И в следующий раз место получше выбирай.</rus>
+		<rus>Правильное решение. Значит слушай, я всего лишь координаты записал себе. Рюкзак твой всё ещё на месте, только ищи получше, я его малость припрятал. И в следующий раз место получше выбирай.</rus>
 		<eng>Wise decision. So listen, I just wrote down the coordinates myself. Your backpack is still in place, just look for it better, I've hidden it a little. And next time choose a better place.</eng>
 		<ukr>Правильне рішення. Значить слухай, я всього лише координати собі записав. Рюкзак твій все ще на місці, тільки шукай краще, я його трохи приховав. І наступного разу вибирай місце краще.</ukr>
 	</string>
 	<string id="txt_safe_stolen_ss_p6_2">
-		<rus>Ну, хозяин - барин. В следующий раз не будешь на дороге хабар кидать. Соберешь денег - приходи.</rus>
+		<rus>Ну, хозяин - барин. В следующий раз не будешь на дороге хабар кидать. Соберёшь денег - приходи.</rus>
 		<eng>Well, you are the boss. Next time you will not throw a loot on the road. Get some money - come.</eng>
 		<ukr>Ну, хазяїн - барин. Наступного разу не будеш посеред дороги хабар кидати. Назбираєш грошей - приходь.</ukr>
 	</string>
 	<string id="txt_safe_stolen_trader_gg_p1">
-		<rus>Я знаю, у тебя есть выходы на ребят умных, в шифрах понимаюших.</rus>
+		<rus>Я знаю, у тебя есть выходы на ребят умных, в шифрах понимающих.</rus>
 		<eng>I know you have contacts of smart guys, who understand the ciphers.</eng>
 		<ukr>Я знаю, у тебе є контакти розумних хлопців, які в шифрах розбираються.</ukr>
 	</string>
@@ -3266,12 +3266,12 @@
 		<ukr>Наступного разу будеш ховати хабар як належить, а не посеред дороги кидати. Лови мітку. Цей фрукт так і не забрав хабар, всього лише зламав GPS. Де лежав - там і лежить.</ukr>
 	</string>
 	<string id="txt_safe_stolen_trader_p6_2">
-		<rus>Ты не на базаре, чтобы торговаться. Соберешь деньги - приходи. Люди будут рады помочь легенде Зоны. За скромное вознаграждение...</rus>
+		<rus>Ты не на базаре, чтобы торговаться. Соберёшь деньги - приходи. Люди будут рады помочь легенде Зоны. За скромное вознаграждение...</rus>
 		<eng>You're not in the bazaar to bargain. Collect some money - come. People will be happy to help the legend of the Zone. For a modest reward...</eng>
 		<ukr>Ти не на базарі, щоб торгуватися. Назбираєш грощей - приходь. Люди будуть раді допомогти легенді Зони. За скромну винагороду...</ukr>
 	</string>
 	<string id="txt_found_nightstar">
-		<rus>Нашел я тебе артефакт...</rus>
+		<rus>Нашёл я тебе артефакт...</rus>
 		<eng>I found you an artifact...</eng>
 		<ukr>Знайшов я тобі артефакт...</ukr>
 	</string>
@@ -3407,7 +3407,7 @@
 		<ukr>Темна Долина</ukr>
 	</string>
 	<string id="ui_stco_deadcity">
-		<rus>Мёртвый город</rus>
+		<rus>Мёртвый Город</rus>
 		<eng>Dead city</eng>
 		<ukr>Мертве місто</ukr>
 	</string>
@@ -3542,7 +3542,7 @@
 		<ukr>Не вдалося знайти проблемний об'єкт</ukr>
 	</string>
 	<string id="ui_bad_object_del">
-		<rus>Удален проблемный объект</rus>
+		<rus>Удалён проблемный объект</rus>
 		<eng>Problem object deleted</eng>
 		<ukr>Вилучено проблемний об'єкт</ukr>
 	</string>
@@ -3802,7 +3802,7 @@
 		<ukr>Глушник у критичному стані.</ukr>
 	</string>
 	<string id="ui_udlinnitel_out">
-		<rus>Удлиннитель в критическом состоянии.</rus>
+		<rus>Удлинитель в критическом состоянии.</rus>
 		<eng>Barrel extension in critical condition.</eng>
 		<ukr>Подовжувач у критичному стані.</ukr>
 	</string>	
