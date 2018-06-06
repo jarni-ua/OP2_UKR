@@ -403,12 +403,13 @@
 		<eng>Gunsmith's blueprints</eng>
 		<ukr>Креслення Зброяра</ukr>
 	</string>
+	<!-- !!!! Удалить для НИ -->
 	<string id="task_vasily_chertez_1">
 		<rus>Найти любые чертежи Оружейника</rus>
 		<eng>Find any Gunsmith's blueprints</eng>
 		<ukr>Знайти будь-які креслення Зброяра</ukr>
 	</string>
-
+	<!-- Удалить энд -->
 	<string id="task_adres_chertez_0">
 		<rus>Адрес Оружейника</rus>
 		<eng>Gunsmith's address</eng>
@@ -1233,6 +1234,49 @@
 		<ukr>Поговорити з Партизаном</ukr>
 	</string>
 
+	<string id="task_akill_ballon_0">
+		<rus>Химическое равновесие</rus>
+		<eng>Химическое равновесие</eng>
+		<ukr>Хімічна рівновага</ukr>
+	</string>
+	<string id="task_akill_ballon_1">
+		<rus>Прикрепить радиомаячок на баллон</rus>
+		<eng>Прикрепить радиомаячок на баллон</eng>
+		<ukr>Прикріпити радіомаячок на балон</ukr>
+	</string>
+	<string id="task_akill_ballon_2">
+		<rus>Вернуться к Акиллу</rus>
+		<eng>Come back to Akill</eng>
+		<ukr>Повернутися до Акіла</ukr>
+	</string>
+
+	<string id="task_taynik_akill_0">
+		<rus>Ядовитое воздействие</rus>
+		<eng>Ядовитое воздействие</eng>
+		<ukr>Отруйний вплив</ukr>
+	</string>
+	<string id="task_taynik_akill_1">
+		<rus>Найти тайник Акилла</rus>
+		<eng>Find Akill's stash</eng>
+		<ukr>Знайти схованку Акілла</ukr>
+	</string>
+	<string id="task_taynik_akill_2">
+		<rus>Занять позицию на кран-балке</rus>
+		<eng>Занять позицию на кран-балке</eng>
+		<ukr>Зайняти позицію на кран-балці</ukr>
+	</string>
+	<string id="task_taynik_akill_3">
+		<rus>Убить венома подрывом баллонов с ядовитым газом</rus>
+		<eng>Убить венома подрывом баллонов с ядовитым газом</eng>
+		<ukr>Вбити венома підривом балонів з отруйним газом</ukr>
+	</string>
+	<string id="task_taynik_akill_4">
+		<rus>Отнести «Выхлоп» Акиллу</rus>
+		<eng>Bring "Vyhlop" to Akill</eng>
+		<ukr>Принести «Вихлоп» Акіллу</ukr>
+	</string>
+
+<!-- !!!! Удалить для НИ -->
 	<string id="task_izumrud_electra_0">
 		<rus>"Изумрудная вспышка"</rus>
 		<eng>"Emerald Flash"</eng>
@@ -1247,22 +1291,6 @@
 		<rus>Принести артефакт Акиллу</rus>
 		<eng>Bring the artifact to Akill</eng>
 		<ukr>Принести артефакт Акіллу</ukr>
-	</string>
-
-	<string id="task_taynik_akill_0">
-		<rus>Тайник Акилла</rus>
-		<eng>Akill's stash</eng>
-		<ukr>Схованка Акілла</ukr>
-	</string>
-	<string id="task_taynik_akill_1">
-		<rus>Найти тайник Акилла</rus>
-		<eng>Find Akill's stash</eng>
-		<ukr>Знайти схованку Акілла</ukr>
-	</string>
-	<string id="task_taynik_akill_2">
-		<rus>Принести «Выхлоп» Акиллу</rus>
-		<eng>Bring "Vyhlop" to Akill</eng>
-		<ukr>Принести «Вихлоп» Акіллу</ukr>
 	</string>
 
 	<string id="task_izumrud_recept_0">
@@ -1280,7 +1308,7 @@
 		<eng>Share this recipe with Syak</eng>
 		<ukr>Поділитися рецептом із Сяком</ukr>
 	</string>
-
+<!-- Удалить энд -->
 	<string id="task_akill_vision_0">
 		<rus>Под прицелом</rus>
 		<eng>At gunpoint</eng>
@@ -2237,14 +2265,34 @@
 		<ukr>Порохова бочка</ukr>
 	</string>
 	<string id="task_volna_diversya_1">
-		<rus>Найти все места с заложенной взрывчаткой</rus>
-		<eng>Find all places with planted explosives</eng>
-		<ukr>Знайти всі місця із закладеною вибухівкою</ukr>
+		<rus>Обезвредить бомбу у северного блокпоста</rus>
+		<eng>Обезвредить бомбу у северного блокпоста</eng>
+		<ukr>Знешкодити бомбу біля північного блокпоста</ukr>
 	</string>
 	<string id="task_volna_diversya_2">
-		<rus>Отдать всю взрывчатку Воронину</rus>
-		<eng>Give all the explosives to Voronin</eng>
-		<ukr>Віддати всю вибухівку Вороніну</ukr>
+		<rus>Обезвредить бомбу в баре</rus>
+		<eng>Обезвредить бомбу в баре</eng>
+		<ukr>Знешкодити бомбу в барі</ukr>
+	</string>
+	<string id="task_volna_diversya_3">
+		<rus>Обезвредить бомбу в душевой</rus>
+		<eng>Обезвредить бомбу в душевой</eng>
+		<ukr>Знешкодити бомбу в душевій</ukr>
+	</string>
+	<string id="task_volna_diversya_4">
+		<rus>Обезвредить бомбу на башне арены</rus>
+		<eng>Обезвредить бомбу на башне арены</eng>
+		<ukr>Знешкодити бомбу на вежі арени</ukr>
+	</string>
+	<string id="task_volna_diversya_5">
+		<rus>Обезвредить бомбу у южного блокпоста</rus>
+		<eng>Обезвредить бомбу у южного блокпоста</eng>
+		<ukr>Знешкодити бомбу біля південного блокпоста</ukr>
+	</string>
+	<string id="task_volna_diversya_6">
+		<rus>Доложить о выполнении Воронину</rus>
+		<eng>Доложить о выполнении to Voronin</eng>
+		<ukr>Доповісти про виконання Вороніну</ukr>
 	</string>
 
 	<string id="task_skryga_taina_0">
@@ -2306,16 +2354,66 @@
 		<ukr>Розслідування вбивства</ukr>
 	</string>
 	<string id="task_volna_barmen_1">
+		<rus>Допросить Бармена</rus>
+		<eng>Допросить Бармена</eng>
+		<ukr>Допитати Бармена</ukr>
+	</string>
+	<string id="task_volna_barmen_2">
+		<rus>Допросить Гарика</rus>
+		<eng>Допросить Гарика</eng>
+		<ukr>Допитати Гарика</ukr>
+	</string>
+	<string id="task_volna_barmen_3">
+		<rus>Допросить Лысого</rus>
+		<eng>Допросить Лысого</eng>
+		<ukr>Допитати Лисого</ukr>
+	</string>
+	<string id="task_volna_barmen_4">
+		<rus>Допросить Фримена</rus>
+		<eng>Допросить Фримена</eng>
+		<ukr>Допитати Фрімена</ukr>
+	</string>
+	<string id="task_volna_barmen_5">
+		<rus>Допросить Брома</rus>
+		<eng>Допросить Брома</eng>
+		<ukr>Допитати Брома</ukr>
+	</string>
+	<string id="task_volna_barmen_6">
+		<rus>Допросить охотника</rus>
+		<eng>Допросить охотника</eng>
+		<ukr>Допитати мисливця</ukr>
+	</string>
+	<string id="task_volna_barmen_7">
+		<rus>Допросить Осведомителя</rus>
+		<eng>Допросить Осведомителя</eng>
+		<ukr>Допитати Інформатора</ukr>
+	</string>
+	<string id="task_volna_barmen_8">
+		<rus>Допросить Арни</rus>
+		<eng>Допросить Арни</eng>
+		<ukr>Допитати Арні</ukr>
+	</string>
+	<string id="task_volna_barmen_9">
+		<rus>Расспросить Захара</rus>
+		<eng>Ask Захара</eng>
+		<ukr>Розпитати Захара</ukr>
+	</string>
+	<string id="task_volna_barmen_10">
+		<rus>Расспросить Иванцова</rus>
+		<eng>Ask Иванцова</eng>
+		<ukr>Розпитати Іванцова</ukr>
+	</string>
+	<string id="task_volna_barmen_11">
 		<rus>Расспросить сталкеров в Баре</rus>
 		<eng>Ask stalkers at the Bar</eng>
 		<ukr>Розпитати сталкерів в Барі</ukr>
 	</string>
-	<string id="task_volna_barmen_2">
+	<string id="task_volna_barmen_12">
 		<rus>Найти убийцу Костоправа</rus>
 		<eng>Find the killers of Bone-setter</eng>
 		<ukr>Знайти вбивцю Костоправа</ukr>
 	</string>
-	<string id="task_volna_barmen_3">
+	<string id="task_volna_barmen_13">
 		<rus>Вернуться к Бармену</rus>
 		<eng>Get back to Barkeep</eng>
 		<ukr>Повернутися до Бармена</ukr>
@@ -3634,16 +3732,11 @@
 		<ukr>Перевірити заправку</ukr>
 	</string>
 	<string id="task_night_watch_3">
-		<rus>Занять позицию на вышке</rus>
-		<eng>Take position on the tower</eng>
-		<ukr>Зайняти позицію на вишці</ukr>
-	</string>
-	<string id="task_night_watch_4">
 		<rus>Отбиться от полтергейстов и убить вожака</rus>
 		<eng>Fight off the poltergeists and kill their leader</eng>
 		<ukr>Відбитися від полтергейстів і вбити ватажка</ukr>
 	</string>
-	<string id="task_night_watch_5">
+	<string id="task_night_watch_4">
 		<rus>Поговорить с Боровым</rus>
 		<eng>Talk to Borov</eng>
 		<ukr>Поговорити з Кабаном</ukr>
@@ -3776,14 +3869,14 @@
 		<ukr>Інтоксикація</ukr>
 	</string>
 	<string id="task_kuzmat_toxic_1">
-		<rus>Добыть антитоксин у больших биомасс</rus>
-		<eng>Extract antitoxin from large biomasses</eng>
-		<ukr>Добути антитоксин у великих біомас</ukr>
+		<rus>Добыть образцы слизи больших биомасс</rus>
+		<eng>Extract samples of mucus from large biomasses</eng>
+		<ukr>Добути зразки слизу великих біомас</ukr>
 	</string>
 	<string id="task_kuzmat_toxic_2">
-		<rus>Отдать пробирки с антитоксином Кузькиной Матери</rus>
-		<eng>Give test tubes with antitoxin to Kuzka's Mother</eng>
-		<ukr>Віддати пробірки з антитоксином Кузькиній Матері</ukr>
+		<rus>Отдать пробирки Кузькиной Матери</rus>
+		<eng>Give test tubes to Kuzka's Mother</eng>
+		<ukr>Віддати пробірки Кузькиній Матері</ukr>
 	</string>
 
 	<string id="task_kalinin_box_0">
