@@ -1801,6 +1801,26 @@
 		<rus>HUDs:</rus>
 		<eng>HUDs:</eng>
 		<ukr>HUDs:</ukr>
+	</string>	
+	<string id="ui_mm_crosshairs">
+		<rus>Вид перекрестья</rus>
+		<eng>Visual of crosshairs</eng>
+		<ukr>Вид перехрестя</ukr>
+	</string>	
+	<string id="ui_mm_crosshairs_cap">
+		<rus>Перекрестья:</rus>
+		<eng>Crosshairs:</eng>
+		<ukr>Перехрестя:</ukr>
+	</string>
+	<string id="ui_mm_crosshairs_grp">
+		<rus>Перекрестья прицелов</rus>
+		<eng>Crosshairs</eng>
+		<ukr>Перехрестя прицілів</ukr>
+	</string>
+	<string id="ui_mm_crosshairs_armed">
+		<rus>Использовать кастомные прицелы для режима "с оружием"</rus>
+		<eng>Use custom crosshairs for the "with weapon" mode</eng>
+		<ukr>Використовувати кастомні приціли для режиму "зі зброєю"</ukr>
 	</string>
 	<string id="id_mp_money">
 		<rus>Деньги</rus>
@@ -3806,4 +3826,19 @@
 		<eng>Barrel extension in critical condition.</eng>
 		<ukr>Подовжувач у критичному стані.</ukr>
 	</string>
+	<string id="ui_mm_crosshairs_armed_scale">
+		<rus>Размер "с оружием" скалируется</rus>
+		<eng>In a mode "with weapon" is scaled</eng>
+		<ukr>Розмір "зі зброєю" шкалується</ukr>
+	</string>
+	<string id="ui_mm_crosshairs_armed_scale_1">
+		<rus>от расстояния до объекта</rus>
+		<eng>from the distance to the object</eng>
+		<ukr>від відстані до об'єкта</ukr>
+	</string>
+	<string id="ui_mm_crosshairs_armed_scale_0">
+		<rus>от дисперсии оружия</rus>
+		<eng>from the dispersion of weapons</eng>
+		<ukr>від дисперсії зброї</ukr>
+	</string>	
 </string_table>

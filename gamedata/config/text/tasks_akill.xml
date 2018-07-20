@@ -1080,7 +1080,7 @@
 
 	<string id="task_izdelie_gp_0">
 		<rus>Изделие №58</rus>
-		<eng>Article No. 58</eng>
+		<eng>Article No.58</eng>
 		<ukr>Виріб №58</ukr>
 	</string>
 	<string id="task_izdelie_gp_1">
@@ -1170,14 +1170,19 @@
 	</string>
 
 	<string id="task_taynik_phantom_0">
-		<rus>Тайник Фантома</rus>
-		<eng>Stash of the Phantom</eng>
-		<ukr>Схованка Фантома</ukr>
+		<rus>"Поцелуй" фантома</rus>
+		<eng>==="Поцелуй" фантома</eng>
+		<ukr>"Поцілунок" фантома</ukr>
 	</string>
 	<string id="task_taynik_phantom_1">
-		<rus>Найти тайник Фантома</rus>
-		<eng>Find the Phantom's stash</eng>
-		<ukr>Знайти схованку Фантома</ukr>
+		<rus>Отыскать в Х-10 генератор пси-излучения и отключить его</rus>
+		<eng>===Отыскать в Х-10 генератор пси-излучения и отключить его</eng>
+		<ukr>Відшукати в Х-10 генератор псі-випромінювання і відключити його</ukr>
+	</string>
+	<string id="task_taynik_phantom_2">
+		<rus>Достать из генератора флешку Фантома</rus>
+		<eng>===Достать из генератора Phantom's flash</eng>
+		<ukr>Дістати з генератора флешку Фантома</ukr>
 	</string>
 
 	<string id="task_sledopyt_sled_0">
@@ -1236,12 +1241,12 @@
 
 	<string id="task_akill_ballon_0">
 		<rus>Химическое равновесие</rus>
-		<eng>Химическое равновесие</eng>
+		<eng>===Химическое равновесие</eng>
 		<ukr>Хімічна рівновага</ukr>
 	</string>
 	<string id="task_akill_ballon_1">
 		<rus>Прикрепить радиомаячок на баллон</rus>
-		<eng>Прикрепить радиомаячок на баллон</eng>
+		<eng>===Прикрепить радиомаячок на баллон</eng>
 		<ukr>Прикріпити радіомаячок на балон</ukr>
 	</string>
 	<string id="task_akill_ballon_2">
@@ -1252,7 +1257,7 @@
 
 	<string id="task_taynik_akill_0">
 		<rus>Ядовитое воздействие</rus>
-		<eng>Ядовитое воздействие</eng>
+		<eng>===Ядовитое воздействие</eng>
 		<ukr>Отруйний вплив</ukr>
 	</string>
 	<string id="task_taynik_akill_1">
@@ -1261,18 +1266,18 @@
 		<ukr>Знайти схованку Акілла</ukr>
 	</string>
 	<string id="task_taynik_akill_2">
-		<rus>Занять позицию на кран-балке</rus>
-		<eng>Занять позицию на кран-балке</eng>
-		<ukr>Зайняти позицію на кран-балці</ukr>
+		<rus>Занять позицию на крыше кабины управления трансбордером</rus>
+		<eng>===Занять позицию на крыше кабины управления трансбордером</eng>
+		<ukr>Зайняти позицію на даху кабіни управління трансбордером</ukr>
 	</string>
 	<string id="task_taynik_akill_3">
 		<rus>Убить венома подрывом баллонов с ядовитым газом</rus>
-		<eng>Убить венома подрывом баллонов с ядовитым газом</eng>
+		<eng>===Убить венома подрывом баллонов с ядовитым газом</eng>
 		<ukr>Вбити венома підривом балонів з отруйним газом</ukr>
 	</string>
 	<string id="task_taynik_akill_4">
 		<rus>Отнести «Выхлоп» Акиллу</rus>
-		<eng>Bring "Vyhlop" to Akill</eng>
+		<eng>Bring «Vyhlop» to Akill</eng>
 		<ukr>Принести «Вихлоп» Акіллу</ukr>
 	</string>
 
@@ -1743,7 +1748,7 @@
 	<string id="task_find_chip_0">
 		<rus>Загадка Зоны</rus>
 		<eng>The Zone's riddle</eng>
-		<ukr>Загадка Зоны</ukr>
+		<ukr>Загадка Зони</ukr>
 	</string>
 	<string id="task_find_chip_1">
 		<rus>Найти все странные чипы</rus>
@@ -1757,19 +1762,29 @@
 	</string>
 
 	<string id="task_fantoms_pda_0">
-		<rus>Восстановление данных</rus>
-		<eng>Data recovery</eng>
-		<ukr>Відновлення даних</ukr>
+		<rus>Пси-фактор</rus>
+		<eng>PSI Factor</eng>
+		<ukr>Псі-фактор</ukr>
 	</string>
 	<string id="task_fantoms_pda_1">
-		<rus>Восстановить данные на ПДА</rus>
-		<eng>Recover data on the PDA</eng>
-		<ukr>Відновити дані на ПДА</ukr>
+		<rus>Прикрепить на пси-собаку спецустройство</rus>
+		<eng>===Прикрепить на пси-собаку спецустройство</eng>
+		<ukr>Прикріпити на псі-собаку спецпристрій</ukr>
 	</string>
 	<string id="task_fantoms_pda_2">
-		<rus>Вернуться к Акиллу</rus>
-		<eng>Get back to Akill</eng>
-		<ukr>Повернутися до Акілла</ukr>
+		<rus>Отстреливать фантомов пси-собаки до окончания записи данных</rus>
+		<eng>===Отстреливать фантомов пси-собаки до окончания записи данных</eng>
+		<ukr>Відстрілювати фантомів псі-собаки до закінчення запису даних</ukr>
+	</string>
+	<string id="task_fantoms_pda_3">
+		<rus>Отнести Сахарову спецустройство и забрать ПДА с восстановленной информацией</rus>
+		<eng>===Отнести Сахарову спецустройство и забрать ПДА с восстановленной информацией</eng>
+		<ukr>Віднести Сахарову спецпристрій і забрати КПК з відновленою інформацією</ukr>
+	</string>
+	<string id="task_fantoms_pda_4">
+		<rus>Вернуть ПДА Акиллу</rus>
+		<eng>===Get back to Akill</eng>
+		<ukr>Повернути КПК Акіллу</ukr>
 	</string>
 
 	<string id="task_arny_kogot_0">
@@ -1810,14 +1825,14 @@
 	</string>
 
 	<string id="task_taynik_dragunov_0">
-		<rus>Тайник Драгунова</rus>
-		<eng>Dragunov's stash</eng>
-		<ukr>Схованка Драгунова</ukr>
+		<rus>Ретранслятор</rus>
+		<eng>Repeater</eng>
+		<ukr>Ретранслятор</ukr>
 	</string>
 	<string id="task_taynik_dragunov_1">
-		<rus>Найти ретранслятор</rus>
-		<eng>Find a repeater</eng>
-		<ukr>Знайти ретранслятор</ukr>
+		<rus>Найти ретранслятор в Х-8</rus>
+		<eng>Find a repeater in lab Х-8</eng>
+		<ukr>Знайти ретранслятор в Х-8</ukr>
 	</string>
 
 	<string id="task_taynik_cube_0">
@@ -2191,9 +2206,9 @@
 		<ukr>Ловець мутантів</ukr>
 	</string>
 	<string id="task_volna_kogot_1">
-		<rus>Найти бутылочки со снотворным в Х-8</rus>
-		<eng>Find bottles with sleeping pills at X-8</eng>
-		<ukr>Знайти пляшечки зі снодійним в Х-8</ukr>
+		<rus>Найти в Госпитале бутылочки со снотворным</rus>
+		<eng>Find at Hospitale bottles with sleeping pills</eng>
+		<ukr>Знайти у Шпиталі пляшечки зі снодійним</ukr>
 	</string>
 	<string id="task_volna_kogot_2">
 		<rus>Забрать игломёт у Холода</rus>
@@ -2484,14 +2499,14 @@
 	</string>
 
 	<string id="task_max_gunsight_0">
-		<rus>ЛЦУ для Макса</rus>
-		<eng>LAD for Max</eng>
-		<ukr>ЛЦВ для Макса</ukr>
+		<rus>Целеуказатели</rus>
+		<eng>===Целеуказатели</eng>
+		<ukr>Цілевказівники</ukr>
 	</string>
 	<string id="task_max_gunsight_1">
-		<rus>Найти четыре ЛЦУ в Саркофаге</rus>
-		<eng>Find the four LADs at Sarcophagus</eng>
-		<ukr>Знайти чотири ЛЦВ в Саркофазі</ukr>
+		<rus>Раздобыть четыре ЛЦУ у снайперов Монолита</rus>
+		<eng>===Find the four LADs у снайперов Монолита</eng>
+		<ukr>Роздобути чотири ЛЦВ у снайперів Моноліту</ukr>
 	</string>
 	<string id="task_max_gunsight_2">
 		<rus>Принести ЛЦУ Максу</rus>
@@ -2950,9 +2965,9 @@
 		<ukr>Повзучий піро-полтергейст</ukr>
 	</string>
 	<string id="task_foto_ohota_35">
-		<rus>Электро-полтергейст</rus>
-		<eng>Electro-poltergeist</eng>
-		<ukr>Електро-полтергейст</ukr>
+		<rus>Электрополтергейст</rus>
+		<eng>Electropoltergeist</eng>
+		<ukr>Електрополтергейст</ukr>
 	</string>
 	<string id="task_foto_ohota_36">
 		<rus>Призрачный полтергейст</rus>
@@ -3282,11 +3297,16 @@
 		<ukr>Смерть у плоті</ukr>
 	</string>
 	<string id="task_ohota_kogot_1">
-		<rus>Уничтожить невидимых когтей смерти</rus>
-		<eng>Destroy the invisible death claws</eng>
-		<ukr>Знищити невидимих кігтів смерті</ukr>
+		<rus>Пометить радиомаячком хотя бы одного невидимого когтя смерти</rus>
+		<eng>Пометить радиомаячком хотя бы одного невидимого когтя смерти</eng>
+		<ukr>Помітити радіомаячком хоча б одного невидимого кігтя смерті</ukr>
 	</string>
 	<string id="task_ohota_kogot_2">
+		<rus>Убить невидимых когтей смерти</rus>
+		<eng>Kill the invisible death claws</eng>
+		<ukr>Вбити невидимих кігтів смерті</ukr>
+	</string>
+	<string id="task_ohota_kogot_3">
 		<rus>Вернуться к Ною</rus>
 		<eng>Get back to Noah</eng>
 		<ukr>Повернутися до Ноя</ukr>
@@ -3559,19 +3579,19 @@
 	</string>
 
 	<string id="task_ohota_vypolzen_0">
-		<rus>Охота на выползней</rus>
-		<eng>Hunting for crawlers</eng>
-		<ukr>Полювання на виповзнів</ukr>
+		<rus>Зона поражения</rus>
+		<eng>===Зона поражения</eng>
+		<ukr>Зона ураження</ukr>
 	</string>
 	<string id="task_ohota_vypolzen_1">
-		<rus>Добраться до шахты</rus>
-		<eng>Get to the mine</eng>
-		<ukr>Дістатися до шахти</ukr>
+		<rus>Отыскать в шахте труп сталкера с детонатором</rus>
+		<eng>===Отыскать в шахте труп сталкера с детонатором</eng>
+		<ukr>Відшукати в шахті труп сталкера з детонатором</ukr>
 	</string>
 	<string id="task_ohota_vypolzen_2">
-		<rus>Уничтожить выползней в шахте</rus>
-		<eng>Exterminate the crawlers at the mine</eng>
-		<ukr>Знищити виповзнів у шахті</ukr>
+		<rus>Выбраться из шахты и активировать детонатор</rus>
+		<eng>Get to the surface and activate detonator</eng>
+		<ukr>Вибратися з шахти і активувати детонатор</ukr>
 	</string>
 	<string id="task_ohota_vypolzen_3">
 		<rus>Вернуться к Леснику</rus>
@@ -3638,19 +3658,19 @@
 		<ukr>Міграція</ukr>
 	</string>
 	<string id="task_kontrik_electro_1">
-		<rus>Прицепить маячок на электро-контролёра №1</rus>
-		<eng>Attach the beacon to the electro-controller #1</eng>
-		<ukr>Причепити маячок на електро-контролера №1</ukr>
+		<rus>Прицепить маячок на электроконтролёра №1</rus>
+		<eng>Attach the beacon to the electrocontroller #1</eng>
+		<ukr>Причепити маячок на електроконтролера №1</ukr>
 	</string>
 	<string id="task_kontrik_electro_2">
-		<rus>Прицепить маячок на электро-контролёра №2</rus>
-		<eng>Attach the beacon to the electro-controller #2</eng>
-		<ukr>Причепити маячок на електро-контролера №2</ukr>
+		<rus>Прицепить маячок на электроконтролёра №2</rus>
+		<eng>Attach the beacon to the electrocontroller #2</eng>
+		<ukr>Причепити маячок на електроконтролера №2</ukr>
 	</string>
 	<string id="task_kontrik_electro_3">
-		<rus>Прицепить маячок на электро-контролёра №3</rus>
-		<eng>Attach the beacon to the electro-controller #3</eng>
-		<ukr>Причепити маячок на електро-контролера №3</ukr>
+		<rus>Прицепить маячок на электроконтролёра №3</rus>
+		<eng>Attach the beacon to the electrocontroller #3</eng>
+		<ukr>Причепити маячок на електроконтролера №3</ukr>
 	</string>
 	<string id="task_kontrik_electro_4">
 		<rus>Сделать фото нового мутанта</rus>
@@ -3806,9 +3826,9 @@
 		<ukr>Ілюзія</ukr>
 	</string>
 	<string id="task_electro_burer_1">
-		<rus>Уничтожить фантомов бюрера</rus>
-		<eng>Destroy the burer's phantoms</eng>
-		<ukr>Знищити фантомів бюрера</ukr>
+		<rus>Нейтрализовать фантомов бюрера</rus>
+		<eng>===Destroy the burer's phantoms</eng>
+		<ukr>Нейтралізувати фантомів бюрера</ukr>
 	</string>
 	<string id="task_electro_burer_2">
 		<rus>Убить электробюрера</rus>
