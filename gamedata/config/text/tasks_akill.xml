@@ -1589,20 +1589,30 @@
 		<ukr>Віддати інгредієнти Доктору</ukr>
 	</string>
 	<string id="task_grom_poison_7">
+		<rus>Забрать готовое противоядие</rus>
+		<eng>===Забрать готовое противоядие</eng>
+		<ukr>Забрати готову протиотруту</ukr>
+	</string>
+	<string id="task_grom_poison_8">
 		<rus>Отнести противоядие Грому</rus>
 		<eng>Take the antidote to Thunder</eng>
 		<ukr>Віднести протиотруту Грому</ukr>
 	</string>
 
 	<string id="task_chertez_zagadka_0">
-		<rus>Загадка Оружейника</rus>
-		<eng>Gunsmith's riddle</eng>
-		<ukr>Загадка Зброяра</ukr>
+		<rus>Испытание Оружейника</rus>
+		<eng>===Gunsmith's riddle</eng>
+		<ukr>Випробування Зброяра</ukr>
 	</string>
 	<string id="task_chertez_zagadka_1">
-		<rus>Разгадать загадку</rus>
-		<eng>Solve a riddle</eng>
-		<ukr>Разгадати загадку</ukr>
+		<rus>Найти и зарядить генератор с помощью сгустков энергии полтергейстов</rus>
+		<eng>===Найти и зарядить генератор с помощью сгустков энергии полтергейстов</eng>
+		<ukr>Знайти і зарядити генератор за допомогою згустків енергії полтергейстів</ukr>
+	</string>
+	<string id="task_chertez_zagadka_2">
+		<rus>Забрать содержимое блок-кейса</rus>
+		<eng>===Забрать содержимое блок-кейса</eng>
+		<ukr>Забрати вміст блок-кейса</ukr>
 	</string>
 
 	<string id="task_pda_zagadka_0">
@@ -1793,6 +1803,11 @@
 		<ukr>Старий друг</ukr>
 	</string>
 	<string id="task_arny_kogot_1">
+		<rus>Разузнать у Сахарова местонахождение Когтя</rus>
+		<eng>===Разузнать у Сахарова местонахождение Когтя</eng>
+		<ukr>Дізнатися у Сахарова місцезнаходження Кігтя</ukr>
+	</string>
+	<string id="task_arny_kogot_2">
 		<rus>Выяснить судьбу Когтя</rus>
 		<eng>Find out Claw's fate</eng>
 		<ukr>З'ясувати долю Кігтя</ukr>
@@ -1846,6 +1861,11 @@
 		<ukr>Знайти приймальний пристрій</ukr>
 	</string>
 	<string id="task_taynik_cube_2">
+		<rus>Забрать секретное оружие Монолита</rus>
+		<eng>===Забрать секретное оружие Монолита</eng>
+		<ukr>Забрати секретну зброю Моноліту</ukr>
+	</string>
+	<string id="task_taynik_cube_3">
 		<rus>Показать найденное Шахтёру</rus>
 		<eng>Show all found to Miner</eng>
 		<ukr>Показати знайдене Шахтарю</ukr>
