@@ -1152,11 +1152,6 @@
 		<eng>Рецепты</eng>
 		<ukr>Рецепти</ukr>
 	</string>
-	<string id="esc_dan_name">
-		<rus>Дэн</rus>
-		<eng>Дэн</eng>
-		<ukr>Ден</ukr>
-	</string>
 	<string id="actor">
 		<rus>Одиночка</rus>
 		<eng>Одиночка</eng>
@@ -1351,116 +1346,6 @@
 		<rus>новичок</rus>
 		<eng>новичок</eng>
 		<ukr>новачок</ukr>
-	</string>
-	<string id="st_no_active_task">
-		<rus>Нет активного задания</rus>
-		<eng>Нет активного задания</eng>
-		<ukr>Немає активного завдання</ukr>
-	</string>
-	<string id="st_time_survive">
-		<rus>Оборонять позицию</rus>
-		<eng>Оборонять позицию</eng>
-		<ukr>Обороняти позицію</ukr>
-	</string>
-	<string id="st_use_sviblov_scaner">
-		<rus>Загрузить данные со сканера</rus>
-		<eng>Загрузить данные со сканера</eng>
-		<ukr>Завантажити дані зі сканера</ukr>
-	</string>
-	<string id="st_timer_sviblov_scaner">
-		<rus>Время до загрузки данных</rus>
-		<eng>Время до загрузки данных</eng>
-		<ukr>Час до завантаження даних</ukr>
-	</string>
-	<string id="st_kuznec_seif">
-		<rus>Ввести код</rus>
-		<eng>Ввести код</eng>
-		<ukr>Ввести код</ukr>
-	</string>
-	<string id="st_kuznec_seif_flash">
-		<rus>Вытащить флешку и скачать данные на ПДА</rus>
-		<eng>Вытащить флешку и скачать данные на ПДА</eng>
-		<ukr>Витягнути флешку і скачати дані на КПК</ukr>
-	</string>
-	<string id="st_ohota_suker">
-		<rus>Открыть вентиль баллона</rus>
-		<eng>Открыть вентиль баллона</eng>
-		<ukr>Відкрити клапан балону</ukr>
-	</string>
-	<string id="st_taynik_oruzeinik">
-		<rus>Включить генератор пси-излучения</rus>
-		<eng>Включить генератор пси-излучения</eng>
-		<ukr>Ввімкнути генератор псі-випромінювання</ukr>
-	</string>
-	<string id="st_taynik_oruzeinik_on">
-		<rus>Генератор пси-излучения включён</rus>
-		<eng>Генератор пси-излучения включён</eng>
-		<ukr>Генератор псі-випромінювання ввімкнено</ukr>
-	</string>
-	<string id="st_taynik_oruzeinik_open">
-		<rus>Открыть ранее запертый отсек генератора</rus>
-		<eng>Открыть ранее запертый отсек генератора</eng>
-		<ukr>Відкрити раніше замкнений відсік генератора</ukr>
-	</string>
-	<string id="st_taynik_phantom">
-		<rus>Отключить генератор пси-излучения</rus>
-		<eng>Отключить генератор пси-излучения</eng>
-		<ukr>Відключити генератор псі-випромінювання</ukr>
-	</string>
-	<string id="st_taynik_cube">
-		<rus>Забрать секретное оружие Монолита</rus>
-		<eng>Забрать секретное оружие Монолита</eng>
-		<ukr>Забрати секретну зброю Моноліту</ukr>
-	</string>
-	<string id="st_chertez_zagadka">
-		<rus>Зарядить генератор</rus>
-		<eng>Зарядить генератор</eng>
-		<ukr>Зарядити генератор</ukr>
-	</string>
-	<string id="st_dimak_decoder">
-		<rus>Отключить передатчик</rus>
-		<eng>Отключить передатчик</eng>
-		<ukr>Вимкнути передатчик</ukr>
-	</string>
-	<string id="st_dimak_timer">
-		<rus>Время до взрыва бомбы</rus>
-		<eng>Время до взрыва бомбы</eng>
-		<ukr>Час до вибуху бомби</ukr>
-	</string>
-	<string id="st_diversya_bomba">
-		<rus>Обезвредить бомбу</rus>
-		<eng>Обезвредить бомбу</eng>
-		<ukr>Знешкодити бомбу</ukr>
-	</string>
-	<string id="st_diversya_bomba_off">
-		<rus>Бомба обезврежена</rus>
-		<eng>Бомба обезврежена</eng>
-		<ukr>Бомба знешкоджена</ukr>
-	</string>
-	<string id="st_yakut_ograblen_timer">
-		<rus>Время до обнуления личного счёта Меченого</rus>
-		<eng>Время до обнуления личного счёта Меченого</eng>
-		<ukr>Час до обнулення особистого рахунку Міченого</ukr>
-	</string>
-	<string id="st_time_till_surge">
-		<rus>Время до Выброса</rus>
-		<eng>Время до Выброса</eng>
-		<ukr>Час до викиду</ukr>
-	</string>
-	<string id="st_time_kvest_proval">
-		<rus>Время до провала задания</rus>
-		<eng>Время до провала задания</eng>
-		<ukr>Час до провалення завдання</ukr>
-	</string>
-	<string id="st_time_smert">
-		<rus>Время до гибели</rus>
-		<eng>Время до гибели</eng>
-		<ukr>Час до загибелі</ukr>
-	</string>
-	<string id="st_time_kvest_done">
-		<rus>Таймер сброшен. Рация найдена.</rus>
-		<eng>Таймер сброшен. Рация найдена.</eng>
-		<ukr>Таймер скинуто. Рація знайдена.</ukr>
 	</string>
 	<string id="stalker">
 		<rus>Сталкеры</rus>
@@ -1666,11 +1551,6 @@
 		<rus>Команде</rus>
 		<eng>Команде</eng>
 		<ukr>Команді</ukr>
-	</string>
-	<string id="st_knife">
-		<rus>Нож</rus>
-		<eng>Нож</eng>
-		<ukr>Ніж</ukr>
 	</string>
 	<string id="st_mp_disabled_voting">
 		<rus>Голосование недоступно на этом сервере.</rus>

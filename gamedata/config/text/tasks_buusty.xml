@@ -330,6 +330,11 @@
 		<eng>Take stuff to Ustinov and get a decoder</eng>
 		<ukr>Віднести речі Устинову і отримати декодер</ukr>
 	</string>
+	<string id="task_karlik_ystinov_3">
+		<rus>Осуществить пробный спуск в лабораторию</rus>
+		<eng>===Осуществить пробный спуск в лабораторию</eng>
+		<ukr>Здійснити пробний спуск у лабораторію</ukr>
+	</string>
 	<string id="task_modfire_outfit_0">
 		<rus>Особый бронекостюм</rus>
 		<eng>Special Armor Suit</eng>
@@ -370,35 +375,20 @@
 		<eng>Get out of the lab</eng>
 		<ukr>Вибратися з лабораторії</ukr>
 	</string>
-	<string id="task_jackal_sled_0">
-		<rus>След Шакала</rus>
-		<eng>Jackal's trail</eng>
-		<ukr>Слід Шакала</ukr>
-	</string>
-	<string id="task_jackal_sled_1">
-		<rus>Откликнуться на призыв о помощи</rus>
-		<eng>Respond to a distress call</eng>
-		<ukr>Відгукнутися на заклик про допомогу</ukr>
-	</string>
-	<string id="task_jackal_sled_2">
-		<rus>Выяснить местонахождение Шакала</rus>
-		<eng>Locate Jackal</eng>
-		<ukr>З'ясувати місцезнаходження Шакала</ukr>
-	</string>
 	<string id="task_hiko_support_0">
 		<rus>Снаряжение для штурма</rus>
 		<eng>Assault equipment </eng>
 		<ukr>Спорядження для штурму</ukr>
 	</string>
 	<string id="task_hiko_support_1">
-		<rus>Собрать необходимое снаряжение</rus>
-		<eng>Collect required equipment</eng>
-		<ukr>Зібрати необхідне спорядження</ukr>
+		<rus>Отыскать контейнер со снаряжением и прикрепить к нему радиомаячок</rus>
+		<eng>===Отыскать контейнер со снаряжением и прикрепить к нему радиомаячок</eng>
+		<ukr>Відшукати контейнер зі спорядженням і прикріпити до нього радіомаячок</ukr>
 	</string>
 	<string id="task_hiko_support_2">
-		<rus>Передать снаряжения Хико</rus>
-		<eng>Give the gear to Hiko</eng>
-		<ukr>Передати спорядження Хіко</ukr>
+		<rus>Вернуться к Хико</rus>
+		<eng>Get back to Hiko</eng>
+		<ukr>Повернутися до Хіко</ukr>
 	</string>
 	<string id="task_hiko_targeting_0">
 		<rus>Целенаведение</rus>
@@ -421,9 +411,9 @@
 		<ukr>Місія здійсненна</ukr>
 	</string>
 	<string id="task_mission_possible_1">
-		<rus>Захватить базу Монолита и убить Шакала</rus>
-		<eng>Capture the Monolith base and kill the Jackal</eng>
-		<ukr>Захопити базу Моноліту і вбити Шакала</ukr>
+		<rus>Захватить базу наёмников и убить Шакала</rus>
+		<eng>Capture the mercenary base and kill the Jackal</eng>
+		<ukr>Захопити базу найманців і вбити Шакала</ukr>
 	</string>
 	<string id="task_mission_possible_2">
 		<rus>Поговорить с Хико</rus>
