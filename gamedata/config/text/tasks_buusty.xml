@@ -321,14 +321,14 @@
 		<ukr>Доступ у Х-17</ukr>
 	</string>
 	<string id="task_karlik_ystinov_1">
-		<rus>Собрать вещи для Устинова</rus>
-		<eng>Collect stuff for Ustinov</eng>
-		<ukr>Зібрати речі для Устинова</ukr>
+		<rus>Поймать сбежавшего котёнка</rus>
+		<eng>===Поймать сбежавшего котёнка</eng>
+		<ukr>===Поймать сбежавшего котёнка</ukr>
 	</string>
 	<string id="task_karlik_ystinov_2">
-		<rus>Отнести вещи Устинову и получить декодер</rus>
-		<eng>Take stuff to Ustinov and get a decoder</eng>
-		<ukr>Віднести речі Устинову і отримати декодер</ukr>
+		<rus>Вернуть котёнка Устинову и получить декодер</rus>
+		<eng>===Вернуть котёнка to Ustinov and get a decoder</eng>
+		<ukr>===Вернуть котёнка Устинову і отримати декодер</ukr>
 	</string>
 	<string id="task_karlik_ystinov_3">
 		<rus>Осуществить пробный спуск в лабораторию</rus>
@@ -419,5 +419,35 @@
 		<rus>Поговорить с Хико</rus>
 		<eng>Talk to Hiko</eng>
 		<ukr>Поговорити з Хіко</ukr>
+	</string>
+	<string id="help_team_savickiy_0">
+		<rus>Помочь со снаряжением группе Долга</rus>
+		<eng>Помочь со снаряжением группе Долга</eng>
+		<ukr>Помочь со снаряжением группе Долга</ukr>
+	</string>
+	<string id="help_team_savickiy_1">
+		<rus>Собрать снаряжение по списку Савицкого</rus>
+		<eng>Собрать снаряжение по списку Савицкого</eng>
+		<ukr>Собрать снаряжение по списку Савицкого</ukr>
+	</string>
+	<string id="help_team_savickiy_2">
+		<rus>Отнести снаряжение Савицкому</rus>
+		<eng>Отнести снаряжение Савицкому</eng>
+		<ukr>Отнести снаряжение Савицкому</ukr>
+	</string>
+	<string id="winsor_quest_0">
+		<rus>Помочь Винзору вернуть его вольтметр</rus>
+		<eng>Помочь Винзору вернуть его вольтметр</eng>
+		<ukr>Помочь Винзору вернуть его вольтметр</ukr>
+	</string>
+	<string id="winsor_quest_1">
+		<rus>Найти вольтметр в тайнике, в Тёмной Лощине</rus>
+		<eng>Найти вольтметр в тайнике, в Тёмной Лощине</eng>
+		<ukr>Найти вольтметр в тайнике, в Тёмной Лощине</ukr>
+	</string>
+	<string id="winsor_quest_2">
+		<rus>Вернуть вольтметр Винзору</rus>
+		<eng>Вернуть вольтметр Винзору</eng>
+		<ukr>Вернуть вольтметр Винзору</ukr>
 	</string>
 </string_table>
