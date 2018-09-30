@@ -857,12 +857,12 @@
 	</string>
 		<string id="to_bunker_d6">
 		<rus>В Бункер "Д-6"</rus>
-		<eng>В Бункер "Д-6"</eng>
+		<eng>To "D-6" bunker</eng>
 		<ukr>В Бункер "Д-6"</ukr>
 	</string>
 	<string id="to_x17">
 		<rus>В Лабораторию Х-17</rus>
-		<eng>В Лабораторию Х-17</eng>
+		<eng>To X-17 Lab </eng>
 		<ukr>В Лабораторію Х-17</ukr>
 	</string>
 	<string id="st_helmet_countdown">
@@ -902,117 +902,117 @@
 	</string>
 	<string id="st_no_active_task">
 		<rus>Нет активного задания</rus>
-		<eng>Нет активного задания</eng>
+		<eng>No active task</eng>
 		<ukr>Немає активного завдання</ukr>
 	</string>
 	<string id="st_time_survive">
 		<rus>Оборонять позицию</rus>
-		<eng>Оборонять позицию</eng>
+		<eng>Defend the position</eng>
 		<ukr>Обороняти позицію</ukr>
 	</string>
 	<string id="st_use_sviblov_scaner">
 		<rus>Загрузить данные со сканера</rus>
-		<eng>Загрузить данные со сканера</eng>
+		<eng>Download data from the scanner</eng>
 		<ukr>Завантажити дані зі сканера</ukr>
 	</string>
 	<string id="st_timer_sviblov_scaner">
 		<rus>Время до загрузки данных</rus>
-		<eng>Время до загрузки данных</eng>
+		<eng>Download estimate time</eng>
 		<ukr>Час до завантаження даних</ukr>
 	</string>
 	<string id="st_kuznec_seif">
 		<rus>Ввести код</rus>
-		<eng>Ввести код</eng>
+		<eng>Enter code</eng>
 		<ukr>Ввести код</ukr>
 	</string>
 	<string id="st_kuznec_seif_flash">
 		<rus>Вытащить флешку и скачать данные на ПДА</rus>
-		<eng>Вытащить флешку и скачать данные на ПДА</eng>
+		<eng>Pull out the flash drive and download data to the PDA</eng>
 		<ukr>Витягнути флешку і скачати дані на КПК</ukr>
 	</string>
 	<string id="st_ohota_suker">
 		<rus>Открыть вентиль баллона</rus>
-		<eng>Открыть вентиль баллона</eng>
+		<eng>Open the ballon valve</eng>
 		<ukr>Відкрити клапан балону</ukr>
 	</string>
 	<string id="st_taynik_oruzeinik">
 		<rus>Включить генератор пси-излучения</rus>
-		<eng>Включить генератор пси-излучения</eng>
+		<eng>Turn on the psi-generator</eng>
 		<ukr>Ввімкнути генератор псі-випромінювання</ukr>
 	</string>
 	<string id="st_taynik_oruzeinik_on">
 		<rus>Генератор пси-излучения включён</rus>
-		<eng>Генератор пси-излучения включён</eng>
+		<eng>Psi-generator turned on</eng>
 		<ukr>Генератор псі-випромінювання ввімкнено</ukr>
 	</string>
 	<string id="st_taynik_oruzeinik_open">
 		<rus>Открыть ранее запертый отсек генератора</rus>
-		<eng>Открыть ранее запертый отсек генератора</eng>
+		<eng>Open the previously locked generator compartment</eng>
 		<ukr>Відкрити раніше замкнений відсік генератора</ukr>
 	</string>
 	<string id="st_taynik_phantom">
 		<rus>Отключить генератор пси-излучения</rus>
-		<eng>Отключить генератор пси-излучения</eng>
+		<eng>Disable the psi-generator</eng>
 		<ukr>Відключити генератор псі-випромінювання</ukr>
 	</string>
 	<string id="st_taynik_cube">
 		<rus>Забрать секретное оружие Монолита</rus>
-		<eng>Забрать секретное оружие Монолита</eng>
+		<eng>Take away the Monolith's secret weapon</eng>
 		<ukr>Забрати секретну зброю Моноліту</ukr>
 	</string>
 	<string id="st_chertez_zagadka">
 		<rus>Зарядить генератор</rus>
-		<eng>Зарядить генератор</eng>
+		<eng>Charge the generator</eng>
 		<ukr>Зарядити генератор</ukr>
 	</string>
 	<string id="st_dimak_decoder">
 		<rus>Отключить передатчик</rus>
-		<eng>Отключить передатчик</eng>
+		<eng>Disable transmitter</eng>
 		<ukr>Вимкнути передатчик</ukr>
 	</string>
 	<string id="st_dimak_timer">
 		<rus>Время до взрыва бомбы</rus>
-		<eng>Время до взрыва бомбы</eng>
+		<eng>Time to bomb explosion</eng>
 		<ukr>Час до вибуху бомби</ukr>
 	</string>
 	<string id="st_diversya_bomba">
 		<rus>Обезвредить бомбу</rus>
-		<eng>Обезвредить бомбу</eng>
+		<eng>Defuse the bomb</eng>
 		<ukr>Знешкодити бомбу</ukr>
 	</string>
 	<string id="st_diversya_bomba_off">
 		<rus>Бомба обезврежена</rus>
-		<eng>Бомба обезврежена</eng>
+		<eng>Bomb has been defused</eng>
 		<ukr>Бомба знешкоджена</ukr>
 	</string>
 	<string id="st_yakut_ograblen_timer">
 		<rus>Время до обнуления личного счёта Меченого</rus>
-		<eng>Время до обнуления личного счёта Меченого</eng>
+		<eng>Time estimeate to zero Marked One's account</eng>
 		<ukr>Час до обнулення особистого рахунку Міченого</ukr>
 	</string>
 	<string id="st_time_till_surge">
 		<rus>Время до Выброса</rus>
-		<eng>Время до Выброса</eng>
+		<eng>Time to Blowout</eng>
 		<ukr>Час до викиду</ukr>
 	</string>
 	<string id="st_time_kvest_proval">
 		<rus>Время до провала задания</rus>
-		<eng>Время до провала задания</eng>
+		<eng>Time to task fail</eng>
 		<ukr>Час до провалення завдання</ukr>
 	</string>
 	<string id="st_time_smert">
 		<rus>Время до гибели</rus>
-		<eng>Время до гибели</eng>
+		<eng>Time to death</eng>
 		<ukr>Час до загибелі</ukr>
 	</string>
 	<string id="st_time_kvest_done">
 		<rus>Таймер сброшен. Рация найдена.</rus>
-		<eng>Таймер сброшен. Рация найдена.</eng>
+		<eng>Timer has been reset. Found radio.</eng>
 		<ukr>Таймер скинуто. Рацію знайдено.</ukr>
 	</string>
 	<string id="st_hiko_support_box">
 		<rus>Прикрепить радиомаячок</rus>
-		<eng>Прикрепить радиомаячок</eng>
+		<eng>Attach radio beacon</eng>
 		<ukr>Прикріпити радіомаячок</ukr>
 	</string>
 </string_table>
