@@ -391,91 +391,7 @@
 		<eng>%c[255,255,255,255]Health  %c[255,1,255,1]+700 %\n%c[255,255,255,255]Bleeding  %c[255,1,255,1]-33 %\n%c[255,255,255,255]Radiation  %c[255,255,1,1]+5\n%c[255,255,255,255]Impact  %c[255,1,255,1]+5 %\n%c[255,255,255,255]Bulletproofing  %c[255,255,1,1]-50 %\n \n%c[255,224,224,160]Unique artifact, by sight resembling ordinary "Pellicle", yet red in color. Slightly radioactive, emits light. Possesses the ability of fast healing of open wounds, but significantly reduces bulletproofing. "Ruby Pellicle" artifact can annihilate "Springboard" anomaly\n \n"Pellicle" artifact is to be thrown in "Snow" anomaly\n \n%c[255,255,255,255]Transmutation time  %c[255,224,224,160]5 Zone minutes\n%c[255,255,255,255]Probability of successful transmutation  %c[255,1,255,1]80 %\n%c[255,255,255,255]Probability of degradation  %c[255,255,1,1]20 %%c[default]</eng>
 		<ukr>%c[255,255,255,255]Здоров'я  %c[255,1,255,1]+700 %\n%c[255,255,255,255]Кровотеча  %c[255,1,255,1]-33 %\n%c[255,255,255,255]Радіація  %c[255,255,1,1]+5\n%c[255,255,255,255]Удар  %c[255,1,255,1]+5 %\n%c[255,255,255,255]Кулестійкійсть  %c[255,255,1,1]-50 %\n \n%c[255,224,224,160]Унікальний артефакт, по виду нагадує звичайну "Плівку", але червоного кольору. Слабо радіоактивна, випромінює світло. Володіє ефектом швидкого заліковування відкритих поранень, але значно знижує захист від кульових впливів. Артефакт "Рубінова плівка" може ліквідувати аномалію "Трамплін"\n \nАртефакт "Плівка" кидається в аномалію "Снігова"\n \n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]5 хвилин Зони\n%c[255,255,255,255]Імовірність вдалою трансмутації  %c[255,1,255,1]80 %\n%c[255,255,255,255]Імовірність виродження  %c[255,255,1,1]20 %%c[default]</ukr>
 	</string>
-	<string id="enc_enc_info_way100a_text">
-		<rus>На Агропроме есть переход на Кордон.</rus>
-		<eng>In Agroprom there is a transition point to Cordon.</eng>
-		<ukr>На Агропромі є перехід на Кордон</ukr>
-	</string>
-	<string id="enc_enc_info_way101a_text">
-		<rus>На Кордоне есть переход на Агропром.</rus>
-		<eng>In Cordon there is a transition point to Agroprom.</eng>
-		<ukr>На Кордоні є перехід на Агропром</ukr>
-	</string>
-	<string id="enc_enc_info_way102a_text">
-		<rus>С Агропрома можно перейти на Янтарь.</rus>
-		<eng>From Agroprom one can travel directly to Yantar.</eng>
-		<ukr>З Агропрома можна перейти на Янтар</ukr>
-	</string>
-	<string id="enc_enc_info_way103a_text">
-		<rus>С болота Янтарь есть прямой путь на Агропром.</rus>
-		<eng>From Yantar swamp there is a direct path to Agroprom.</eng>
-		<ukr>З болота Янтар є прямий шлях на Агропром</ukr>
-	</string>
-	<string id="enc_enc_info_way104a_text">
-		<rus>С базы на заводе "Росток" наёмники попадают на блокпост на Армейских Складах.</rus>
-		<eng>From the base at the "Rostok" factory mercs can travel directly to the checkpoint at Army Warehouses.</eng>
-		<ukr>З бази на заводі "Росток" найманці потрапляють на блок пост на Армійських Складах</ukr>
-	</string>
-	<string id="enc_enc_info_way105a_text">
-		<rus>На Армейских Складах есть прямая дорога на Дикую Территорию - завод "Росток".</rus>
-		<eng>In Army Warehouses there is a direct path to Wild Territory - the "Rostok" factory.</eng>
-		<ukr>На Армійських Складах є пряма дорога на Дику Територію - завод "Росток".</ukr>
-	</string>
-	<string id="enc_enc_info_way106a_text">
-		<rus>С исследовательского центра на Янтаре можно пройти к Мозговыжигателю.</rus>
-		<eng>From the research center in Yantar one can travel directly to the Brain Scorcher.</eng>
-		<ukr>З дослідного центру на Янтарі можна пройти до Мізковипалювача.</ukr>
-	</string>
-	<string id="enc_enc_info_way107a_text">
-		<rus>Есть выход с Радара - в Тёмную Долину.</rus>
-		<eng>There is a path from Radar - to Dark Valley.</eng>
-		<ukr>Є вихід з Радара - в Темну Долину</ukr>
-	</string>
-	<string id="enc_enc_info_way108a_text">
-		<rus>С Радара обнаружена прямая дорога к Янтарю.</rus>
-		<eng>From Radar there's been located a direct path to Yantar.</eng>
-		<ukr>З Радара виявлена пряма дорога на Янтар</ukr>
-	</string>
-	<string id="enc_enc_info_way109a_text">
-		<rus>Из Тёмной Долины есть возможность пройти к Мозговыжигателю.</rus>
-		<eng>From Dark Valley one can travel directly to the Brain Scorcher.</eng>
-		<ukr>З Темної Долини є можливість пройти до Мізковипалювача</ukr>
-	</string>
-	<string id="enc_enc_info_way110a_text">
-		<rus>Из Тёмной Долины свободовцы возвращаются прямо на свою базу.</rus>
-		<eng>From Dark Valley Freedom members come back directly to their base.</eng>
-		<ukr>З Темної долини "волівці" повертаються прямо на свою базу</ukr>
-	</string>
-	<string id="enc_enc_info_way111a_text">
-		<rus>Лукаш сообщил о наличии прохода с базы Свободы в Тёмную Долину.</rus>
-		<eng>Lukash informed of a passageway from the Freedom base to Dark Valley.</eng>
-		<ukr>Лукаш повідомив про наявність проходу з бази Волі в Темну Долину</ukr>
-	</string>
-	<string id="enc_enc_info_way112a_text">
-		<rus>Тропа из Бара, ведущая на Армейские Склады.</rus>
-		<eng>Path from Bar, leading to Army Warehouses.</eng>
-		<ukr>Стежка з Бару, яка веде на Армійські Склади.</ukr>
-	</string>
-	<string id="enc_enc_info_way112b_text">
-		<rus>Проводник на Болотах показал тропку в Старую Деревню.</rus>
-		<eng>A guide at Swamps showed a path to Old Village.</eng>
-		<ukr>Провідник на Болотах показав стежку в Стару Село</ukr>
-	</string>
-	<string id="enc_enc_info_way113a_text">
-		<rus>Тропа на Армейские Склады.</rus>
-		<eng>Path to Army Warehouses.</eng>
-		<ukr>Стежка на Армійські Склади</ukr>
-	</string>
-	<string id="enc_enc_info_way114a_text">
-		<rus>Тропа из Бара, ведущая на Дикую Территорию.</rus>
-		<eng>Path from Bar, leading to Wild Territory.</eng>
-		<ukr>Стежка з Бару, яка веде на Дику Територію.</ukr>
-	</string>
-	<string id="enc_enc_info_way_false_text">
-		<rus>Портал на ЧАЭС-1.</rus>
-		<eng>Portal to CNPP-1.</eng>
-		<ukr>Стежка на ЧАЕС-1</ukr>
-	</string>
+
 	<string id="ways_info_way_false_text">
 		<rus>Существует класс аномалий, действие которых не поддаётся никакому осмыслению... Примером может служить аномалия, которую сталкеры между собой называют "Телепорт". Эта аномалия за бесконечно малый промежуток времени способна перекинуть всё, что в неё попадает, на огромные расстояния, при этом объект внутри не испытывает никаких физических перегрузок. По слухам, одна из таких аномалий, способная телепортировать прямо к заветному "Монолиту", находится совсем недалеко от Бара - на территории Армейских Складов.</rus>
 		<eng>There are a certain class anomalies, whose behavior defies any possible explanation... An example of that is anomaly, that stalkers call among themselves "Teleport". This anomaly is able to transfer anything that gets into it to an enormous distance in an infinitesimal period of time, the object being transferred not experiencing any physical stress. One of the anomalies of this kind, that is able to teleport directly to the cherished Monolith, is rumored to be very close to the Bar area - at Army Warehouses.</eng>
@@ -504,7 +420,7 @@
 		<ukr>Провідник повідомив:\nЗовсім недалеко, за колишньою фермою є незареєстрований прохід на територію бувшого НДІ Агропром</ukr>
 	</string>
 	<string id="ways_info_way102a_text">
-		<rus>Учёный в бункере, в благодарность за предоставленный ему для опытов артефакт, указал на совершенно неизвестный путь от бывшего НИИ Агропром к исследовательской лаборатории на озере Янтарь.</rus>
+		<rus>Учёный в бункере в благодарность за предоставленный ему для опытов артефакт указал на совершенно неизвестный путь от бывшего НИИ Агропром к исследовательской лаборатории на озере Янтарь.</rus>
 		<eng>The scientist in the bunker, in gratitude for the artifact provided to him for tests, informed of a completely unknown path from the former Agroprom Research Institute to the research laboratory at the lake Yantar.</eng>
 		<ukr>Вчений у бункері в подяку за наданий йому для дослідів артефакт вказав на абсолютно невідомий шлях від колишнього НДІ Агропром до дослідницької лабораторії на озері Янтар</ukr>
 	</string>
@@ -562,11 +478,6 @@
 		<rus>Имеется информация от Бармена о координатах начала пути в место бывших Армейских Складов.</rus>
 		<eng>There is an info from Barkeep about the coordinates of the beginning of a path to the former Army Warehouses area.</eng>
 		<ukr>Є інформація від Бармена про координати початку шляху в місце колишніх Армійських Складів</ukr>
-	</string>
-	<string id="ways_info_way114a_text">
-		<rus>Бармен скинул информацию о месте перехода на "Росток".</rus>
-		<eng>Barkeep uploaded an info about a transition point to "Rostok".</eng>
-		<ukr>Бармен скинув інформацію про місце переходу на Росток</ukr>
 	</string>
 	<string id="item_quest_case_03_desc">
 		<rus>Документы учёных</rus>
@@ -912,6 +823,11 @@
 		<rus>С виду - обычный учебник по корреляционному счислению.</rus>
 		<eng>In appearance - it is an ordinary textbook on correlational calculus.</eng>
 		<ukr>З вигляду - звичайний підручник з корреляційному численню</ukr>
+	</string>
+	<string id="sak_book_warlab_name">
+		<rus>Книга из Варлаба</rus>
+		<eng>Book from Warlab</eng>
+		<ukr>Книга з Варлаба</ukr>
 	</string>
 	<string id="stukach_book_name">
 		<rus>Ежедневник</rus>
@@ -1575,6 +1491,11 @@
 		<rus>Куда уж хуже-то, может поможет... Давай ПДА, я перекачаю информацию о преобразовании "Выверта" в "Вспышку".</rus>
 		<eng>Can't be worse than it is now, maybe it'll help... Give me your PDA, so that I can upload the info about transforming "Twist" to "Flash".</eng>
 		<ukr>Куди ж вже гірше, може допоможе... Давай КПК, я перекачаю інформацію про перетворення "Виверта" у "Спалах".</ukr>
+	</string>
+	<string id="artmod_322_dialog_4">
+		<rus>Ну поправляйся...</rus>
+		<eng>===Ну поправляйся...</eng>
+		<ukr>===Ну поправляйся...</ukr>
 	</string>
 	<string id="tex_gar_dolg_krovosos_jaw">
 		<rus>\nПрапор, командир долговцев на Свалке, просит добыть ему три щупальца кровососа.</rus>
@@ -5905,11 +5826,6 @@
 		<rus>Стационарный телепорт у "Монолита", активируется "Золотой рыбкой". Для этого нужно встать прямо перед МОНОЛИТОМ и бросить артефакт. Откроется портал, войдя в который, ты очутишься в ангаре ЧАЭС...\nУдачи тебе, неведомый сталкер.\n\nСтрелок.</rus>
 		<eng>A stationary teleport at the "Monolith", activated with "Goldfish". To use it one should stand right in front of the "Monolith" and throw an artifact. A portal will be opened, through entering which you'll get to a hangar in CNPP...\nGood luck to you, strange stalker.\n\nStrelok.</eng>
 		<ukr>Стаціонарний телепорт у Моноліта, активується Золотою рибкою. Для цього потрібно встати прямо перед Монолітом і кинути артефакт. Відкриється телепортал, увійшовши в який, ти опинишся в ангарі ЧАЕС...\nУдачі тобі, невідомий сталкер.\n\nСтрілець.</ukr>
-	</string>
-	<string id="enc_strelok_pda_text">
-		<rus>Для открытия портала Саркофаг - ЧАЭС-1 нужно бросить "Золотую рыбку" перед МОНОЛИТОМ.</rus>
-		<eng>For the Sarcophagus to CNPP-1 portal to be opened, it is necessary to throw out a "Goldfish" in front of the "Monolith".</eng>
-		<ukr>Для відкриття телепортала Саркофаг - ЧАЕС1 потрібно кинути "Золоту рибку" перед Монолітом.</ukr>
 	</string>
 	<string id="tex_about_life_heart">
 		<rus>В ПДА Стрелка есть упоминание о том, что ингредиенты чудо-артефакта "Живое сердце" могут знать торговцы. Нужно попытаться выяснить все у Бармена, Сахарова и Сидоровича. Затем поговорить с Доктором.</rus>
