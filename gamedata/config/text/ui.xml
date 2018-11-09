@@ -1216,6 +1216,11 @@
 		<eng>Buy a quest item for 200000:</eng>
 		<ukr>Купити квестовий предмет за 200000:</ukr>
 	</string>
+	<string id="ui_mm_buy_6">
+		<rus>Купить любой предмет за 400000:</rus>
+		<eng>Buy a any item for 400000:</eng>
+		<ukr>Купити будь-який предмет за 400000:</ukr>
+	</string>	
 	<string id="ui_mm_del">
 		<rus>Удалить проблемные объекты:</rus>
 		<eng>Delete problem objects:</eng>
@@ -1678,9 +1683,9 @@
 		<ukr>використань</ukr>
 	</string>
 	<string id="ui_mm_god_invul">
-		<rus>Бессмертие до конца боя</rus>
-		<eng>Invulnerability till the combat ends</eng>
-		<ukr>Безсмертя до кінця боя</ukr>
+		<rus>Бессмертие на некоторое время</rus>
+		<eng>Invulnerability for a while</eng>
+		<ukr>Безсмертя на деякий час</ukr>
 	</string>
 	<string id="ui_mm_god_item">
 		<rus>Покупка %c[255,255,255,255]любого%c[default] предмета за 200000</rus>
@@ -1986,6 +1991,11 @@
 		<rus>Осталось</rus>
 		<eng>Left</eng>
 		<ukr>Залишилося</ukr>
+	</string>
+	<string id="ui_st_finale">
+		<rus>Закончить</rus>
+		<eng>To finish</eng>
+		<ukr>Закінчити</ukr>
 	</string>
 	<string id="ui_st_trade">
 		<rus>Торговать</rus>
@@ -3841,5 +3851,10 @@
 		<rus>от дисперсии оружия</rus>
 		<eng>from the dispersion of weapons</eng>
 		<ukr>від дисперсії зброї</ukr>
-	</string>	
+	</string>
+	<string id="ui_show_enemy_minimap_spot">
+		<rus>Метки врагов на миникарте</rus>
+		<eng>Spots of enemies on the minimap</eng>
+		<ukr>Мітки ворогів на мінікарті</ukr>
+	</string>
 </string_table>

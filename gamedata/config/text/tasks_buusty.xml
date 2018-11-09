@@ -421,9 +421,9 @@
 		<ukr>Поговорити з Хіко</ukr>
 	</string>
 	<string id="help_team_savickiy_0">
-		<rus>Помочь со снаряжением группе Долга</rus>
-		<eng>Help with the equipment of the Duty Squad</eng>
-		<ukr>Допомогти зі спорядженням групі Долгу</ukr>
+		<rus>Безвыходная ситуация</rus>
+		<eng>===Безвыходная ситуация</eng>
+		<ukr>Безвихідна ситуація</ukr>
 	</string>
 	<string id="help_team_savickiy_1">
 		<rus>Собрать снаряжение по списку Савицкого</rus>
@@ -436,14 +436,14 @@
 		<ukr>Віднести спорядження Савицькому</ukr>
 	</string>
 	<string id="winsor_quest_0">
-		<rus>Помочь Винзору вернуть его вольтметр</rus>
-		<eng>Help Winsor return his voltmeter</eng>
-		<ukr>Допомогти Вінзору повернути його вольтметр</ukr>
+		<rus>Утерянный вольтметр</rus>
+		<eng>===Утерянный voltmeter</eng>
+		<ukr>Загублений вольтметр</ukr>
 	</string>
 	<string id="winsor_quest_1">
-		<rus>Найти вольтметр в тайнике, в Тёмной Лощине</rus>
-		<eng>Find a voltmeter in stash in the Darkscape</eng>
-		<ukr>Знайти вольтметр у схованці, в Темній Лощині</ukr>
+		<rus>Найти тайник с вольтметром в Тёмной Лощине</rus>
+		<eng>===Find a voltmeter in stash in the Darkscape</eng>
+		<ukr>Знайти схованку з вольтметром у Темній Лощині</ukr>
 	</string>
 	<string id="winsor_quest_2">
 		<rus>Вернуть вольтметр Винзору</rus>
@@ -494,5 +494,20 @@
 		<rus>Отнести "Бейлиз" Ванге</rus>
 		<eng>Отнести "Бейлиз" Ванге</eng>
 		<ukr>Віднести "Бейліз" Ванзі</ukr>
+	</string>
+	<string id="lucenko_hd_quest_0">
+		<rus>Компьютерный шмон</rus>
+		<eng>Компьютерный шмон</eng>
+		<ukr>Комп'ютерний шмон</ukr>
+	</string>
+	<string id="lucenko_hd_quest_1">
+		<rus>Обыскать все компьютеры в Х-14</rus>
+		<eng>Обыскать все компьютеры в Х-14</eng>
+		<ukr>Обшукати всі комп'ютери в Х-14</ukr>
+	</string>
+	<string id="lucenko_hd_quest_2">
+		<rus>Отнести носители Луценко</rus>
+		<eng>Отнести носители Луценко</eng>
+		<ukr>Віднести носії Луценко</ukr>
 	</string>
 </string_table>
