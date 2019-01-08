@@ -202,7 +202,7 @@
 	</string>
 	<string id="esc_mill">
 		<rus>Заброшенная мельница, где-то здесь последний раз видели пропавшего братка</rus>
-		<eng>Abandoned mill, the wounded brother was last seen somewhere around here</eng>
+		<eng>Abandoned mill, missed bro was last seen somewhere around here</eng>
 		<ukr>Закинутий млин. Десь тут останній раз бачили зниклого братуху.</ukr>
 	</string>
 	<string id="escape_trader">
@@ -222,7 +222,7 @@
 	</string>
 	<string id="novice_leader">
 		<rus>Лидер лагеря новичков</rus>
-		<eng>Rookie camp leader</eng>
+		<eng>Newbie camp leader</eng>
 		<ukr>Лідер табору новачків</ukr>
 	</string>
 	<string id="soldiers_bridge">
@@ -262,7 +262,7 @@
 	</string>
 	<string id="volk">
 		<rus>Волк, лидер лагеря новичков</rus>
-		<eng>Wolf, the leader of the rookie camp</eng>
+		<eng>Wolf, the leader of the newbie camp</eng>
 		<ukr>Вовк, лідер табору новачків</ukr>
 	</string>
 	<string id="wolfs_rangers">
@@ -307,7 +307,7 @@
 	</string>
 	<string id="mil_dolg_khutor">
 		<rus>Хутор Долга</rus>
-		<eng>Farm of Duty</eng>
+		<eng>Duty Farm</eng>
 		<ukr>Хутір «Долгу»</ukr>
 	</string>
 	<string id="mil_freedom_sniper">
@@ -317,17 +317,17 @@
 	</string>
 	<string id="mil_dolg_task_report">
 		<rus>Доложить о выполнении Черепу</rus>
-		<eng>Report Skull on the implementation</eng>
+		<eng>Report Skull</eng>
 		<ukr>Доповісти про виконання Черепу</ukr>
 	</string>
 	<string id="mil_hunters_hint1">
 		<rus>Поговорить с Угрюмым</rus>
-		<eng>Talk to Morose</eng>
+		<eng>Talk to Murk</eng>
 		<ukr>Поговорити із Похмурим</ukr>
 	</string>
 	<string id="mil_hunters_hint2">
 		<rus>Вернуться к Скряге</rus>
-		<eng>Go back to Miser</eng>
+		<eng>Go back to Skinflint</eng>
 		<ukr>Повернутися до Скнари</ukr>
 	</string>
 	<string id="mil_kill_dolg_hint">
@@ -342,7 +342,7 @@
 	</string>
 	<string id="mil_miser_hint">
 		<rus>Скряга</rus>
-		<eng>Miser</eng>
+		<eng>Skinflint</eng>
 		<ukr>Скнара</ukr>
 	</string>
 	<string id="mil_report_to_max_hint">
@@ -357,12 +357,12 @@
 	</string>
 	<string id="mil_return_to_max_hint">
 		<rus>Отдать флешку Максу</rus>
-		<eng>Give the flash drive to Max</eng>
+		<eng>Give Max the flash drive</eng>
 		<ukr>Віддати флешку Максові</ukr>
 	</string>
 	<string id="mil_rg6_hint1">
 		<rus>Найти повара на базе Свободы</rus>
-		<eng>Find Chef at the base of Freedom</eng>
+		<eng>Find Chef at the Freedom base</eng>
 		<ukr>Знайти Кухаря на базі «Волі»</ukr>
 	</string>
 	<string id="mil_rg6_hint2">
@@ -392,7 +392,7 @@
 	</string>
 	<string id="bar_bar_locator">
 		<rus>Бар "100 рентген"</rus>
-		<eng>Bar "100 X-rays"</eng>
+		<eng>Bar "100 Roentgen"</eng>
 		<ukr>Бар «100 рентген»</ukr>
 	</string>
 	<string id="bar_dolg_locator">
@@ -402,7 +402,7 @@
 	</string>
 	<string id="rostok_banda_volkodava">
 		<rus>Волкодав с головорезами возле вертолёта</rus>
-		<eng>Wolfhound and his cutthroats by the chopper</eng>
+		<eng>Volkodav and his cutthroats by the chopper</eng>
 		<ukr>Вовкодав зі своїми головорізами біля вертольота</ukr>
 	</string>
 	<string id="rostok_kruglov">
@@ -417,7 +417,7 @@
 	</string>
 	<string id="rostok_volkodav">
 		<rus>Волкодав</rus>
-		<eng>Wolfhound</eng>
+		<eng>Volkodav</eng>
 		<ukr>Вовкодав</ukr>
 	</string>
 	<string id="aes_btr1">
@@ -442,27 +442,27 @@
 	</string>
 	<string id="aes_korshun">
 		<rus>Коршун</rus>
-		<eng>Korshun</eng>
+		<eng>Milvus</eng>
 		<ukr>«Шуліка»</ukr>
 	</string>
 	<string id="aes_kvartet">
 		<rus>Квартет</rus>
-		<eng>Kvartet</eng>
+		<eng>Quartette</eng>
 		<ukr>«Квартет»</ukr>
 	</string>
 	<string id="aes_lun">
 		<rus>Лунь</rus>
-		<eng>Lun</eng>
+		<eng>Harrier</eng>
 		<ukr>«Лунь»</ukr>
 	</string>
 	<string id="aes_pustelga">
 		<rus>Пустельга</rus>
-		<eng>Pustelga</eng>
+		<eng>Kestrel</eng>
 		<ukr>«Боривітер»</ukr>
 	</string>
 	<string id="aes_sapsan">
 		<rus>Сапсан</rus>
-		<eng>Sapsan</eng>
+		<eng>Peregrine</eng>
 		<ukr>«Сапсан»</ukr>
 	</string>
 	<string id="aes_sarcofag_hint">
@@ -482,7 +482,7 @@
 	</string>
 	<string id="aes_yastreb">
 		<rus>Ястреб</rus>
-		<eng>Yastreb</eng>
+		<eng>Hawk</eng>
 		<ukr>«Яструб»</ukr>
 	</string>
 	<string id="agr_captains_chamber_hint">
@@ -502,7 +502,7 @@
 	</string>
 	<string id="agr_find_gunslinger_cache_hint">
 		<rus>Найти в катакомбах тайник Стрелка</rus>
-		<eng>Find Strelok's secret stash in the catacombs</eng>
+		<eng>Find Strelok's secret stash at the catacombs</eng>
 		<ukr>Знайти у катакомбах схованку Стрільця</ukr>
 	</string>
 	<string id="agr_give_case_to_barman_hint">
@@ -512,12 +512,12 @@
 	</string>
 	<string id="agr_help_krot_hint">
 		<rus>Спасти Крота</rus>
-		<eng>Save Mole</eng>
+		<eng>Rescue Mole</eng>
 		<ukr>Врятувати Крота</ukr>
 	</string>
 	<string id="agr_help_stalkers_hint">
 		<rus>Спасти сталкеров</rus>
-		<eng>Save the stalkers</eng>
+		<eng>Rescue the stalkers</eng>
 		<ukr>Врятувати сталкерів</ukr>
 	</string>
 	<string id="agr_meet_krot_hint">
@@ -552,7 +552,7 @@
 	</string>
 	<string id="cit_doctor_task_1_hint">
 		<rus>Гостиница</rus>
-		<eng>Motel</eng>
+		<eng>Hotel</eng>
 		<ukr>Готель</ukr>
 	</string>
 	<string id="krest_zapas_start_10">
@@ -942,7 +942,7 @@
 	</string>
 	<string id="dimak_toolkit_sr1_0">
 		<rus>Отыскать Грешника на КПП</rus>
-		<eng>To find Sinner at the checkpoint</eng>
+		<eng>Find Sinner at the checkpoint</eng>
 		<ukr>Відшукати Грішника на КПП</ukr>
 	</string>
 	<string id="aaz_oboroten_sr1_0">
@@ -1017,7 +1017,7 @@
 	</string>
 	<string id="burer_electro_sr1_0">
 		<rus>Прибыть ночью на кладбище техники</rus>
-		<eng>To arrive at night in the vehicle scrapyard</eng>
+		<eng>Arrive to the vehicle scrapyard at night</eng>
 		<ukr>Прибути вночі на кладовище техніки</ukr>
 	</string>
 	<string id="kalinin_box1_sr1_0">
@@ -1077,7 +1077,7 @@
 	</string>
 	<string id="two_corpses_sr1_0">
 		<rus>Обследовать место падения вертолёта</rus>
-		<eng>Inspect the crash site of the helicopter</eng>
+		<eng>Inspect the helicopter crash site</eng>
 		<ukr>Обстежити місце падіння вертольота</ukr>
 	</string>
 	<string id="taynik_dimak_sr1_0">
