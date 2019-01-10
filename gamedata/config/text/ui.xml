@@ -2951,6 +2951,11 @@
 		<rus>игра сохранена</rus>
 		<eng>game saved</eng>
 		<ukr>гру збережено</ukr>
+	</string>	
+	<string id="st_game_save_not_ready">
+		<rus>Нельзя сохранить игру прямо сейчас!</rus>
+		<eng>You can not save the game right now!</eng>
+		<ukr>Не можна зберегти гру прямо зараз!</ukr>
 	</string>
 	<string id="tip_car_locked">
 		<rus>Заблокировано</rus>
@@ -3857,4 +3862,55 @@
 		<eng>Spots of enemies on the minimap</eng>
 		<ukr>Мітки ворогів на мінікарті</ukr>
 	</string>
+	<string id="ui_save_dev_mode">
+		<rus>Сейв сделан в режиме разработчика!</rus>
+		<eng>Save made in developer mode!</eng>
+		<ukr>Сейв зроблений в режимі розробника!</ukr>
+	</string>	
+	<string id="ui_mm_lock_fps">
+		<rus>Лимит FPS</rus>
+		<eng>Limit FPS</eng>
+		<ukr>Ліміт FPS</ukr>
+	</string>
+	<string id="nofpslock">
+		<rus>без ограничения</rus>
+		<eng>without limit</eng>
+		<ukr>без обмеження</ukr>
+	</string>
+	<string id="fpslock60">
+		<rus>60</rus>
+		<eng>60</eng>
+		<ukr>60</ukr>
+	</string>
+	<string id="fpslock120">
+		<rus>120</rus>
+		<eng>120</eng>
+		<ukr>120</ukr>
+	</string>
+	<string id="fpslock144">
+		<rus>144</rus>
+		<eng>144</eng>
+		<ukr>144</ukr>
+	</string>	
+	<string id="fpslock180">
+		<rus>180</rus>
+		<eng>180</eng>
+		<ukr>180</ukr>
+	</string>
+	<string id="fpslock240">
+		<rus>240</rus>
+		<eng>240</eng>
+		<ukr>240</ukr>
+	</string>	
+	<string id="ui_options_op21_horror_time_enable">
+		<rus>Разрешить событие 'Час ужаса' в игре</rus>
+		<eng>Allow 'Horror Time' event in the game</eng>
+		<ukr>Дозволити подію 'Час жаху' в грі</ukr>
+	</string>
+	<string id="ui_empty_carbody">
+		<rus>Здесь нет ничего</rus>
+		<eng>There is nothing here</eng>
+		<ukr>Тут немає нічого</ukr>
+	</string>
+	
 </string_table>
