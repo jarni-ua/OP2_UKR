@@ -59,7 +59,7 @@
 	</string>
 	<string id="amk_matras">
 		<rus>Спальный мешок</rus>
-		<eng>Sleeping Bag</eng>
+		<eng>Sleeping bag</eng>
 		<ukr>Спальний мішок</ukr>
 	</string>
 	<string id="enc_amk_matras">
@@ -79,7 +79,7 @@
 	</string>
 	<string id="Телепорт монолитовцев">
 		<rus>Ручной телепорт монолитовцев</rus>
-		<eng>Monolith manual teleportation device</eng>
+		<eng>Monolithians manual teleportation device</eng>
 		<ukr>Ручний телепорт монолітівців</ukr>
 	</string>
 	<string id="Antirad">
@@ -379,7 +379,7 @@
 	</string>
 	<string id="Vodka">
 		<rus>Водка "Буратино"</rus>
-		<eng>Buratino Vodka</eng>
+		<eng>"Buratino" Vodka</eng>
 		<ukr>Горілка «Буратіно»</ukr>
 	</string>
 	<string id="st_detector">
@@ -419,7 +419,7 @@
 	</string>
 	<string id="item_disket_desc">
 		<rus>Обычная болванка с записью. Информация на нём имеет высокую степень защиты, так что прочитать её без специального "ключа" не представляется возможным.</rus>
-		<eng>A computer disc that contains records. The information on it has a high level of encryption, so reading it without a special “key” is impossible.</eng>
+		<eng>A computer disc that contains data. The information on it has a high level of encryption, so reading it without a special “key” is impossible.</eng>
 		<ukr>Звичайна болванка із записом. Інформація на ньому має високий ступінь захисту, так що прочитати її без спеціального "ключа" не представляється можливим.</ukr>
 	</string>
 	<string id="item_tisku">
@@ -474,7 +474,7 @@
 	</string>
 	<string id="lekarstvo">
 		<rus>Лекарство для бандита</rus>
-		<eng>Bandit's Medicine</eng>
+		<eng>Bandit's medicine</eng>
 		<ukr>Ліки для бандита</ukr>
 	</string>
 	<string id="enc_equipment_lekarstvo">
@@ -484,7 +484,7 @@
 	</string>
 	<string id="lekarstvo_kuzmat">
 		<rus>Настойка "Цитомегалия"</rus>
-		<eng>"Cytomegaly" Tincture</eng>
+		<eng>"Cytomegaly" tincture</eng>
 		<ukr>Настоянка "Цитомегалія"</ukr>
 	</string>
 	<string id="enc_equipment_lekarstvo_kuzmat">
@@ -494,8 +494,8 @@
 	</string>
 	<string id="drink_beylis">
 		<rus>«Бейлиз»</rus>
-		<eng>Baileys</eng>
-		<ukr>« Бейліз »</ukr>
+		<eng>"Baileys"</eng>
+		<ukr>«Бейліз»</ukr>
 	</string>
 	<string id="enc_drink_beylis">
 		<rus>Раритетный напиток, по крайней мере, в пределах Зоны.</rus>
@@ -509,7 +509,7 @@
 	</string>
 	<string id="item_cd_rw">
 		<rus>Обычная перезаписываемая болванка, CD-RW, с записями каких-то фильмов.</rus>
-		<eng>A CD-RW rewritable disc. It contains copies of some films.</eng>
+		<eng>A CD-RW rewritable disc. It contains copies of some movies.</eng>
 		<ukr>Звичайна перезаписувана болванка, CD-RW, із записами якихось фільмів.</ukr>
 	</string>
 	<string id="enc_zone_artifact_zombie_hand">
@@ -524,7 +524,7 @@
 	</string>
 	<string id="item_pda_padlikova">
 		<rus>Личный ПДА майора Падликова. Содержит информацию о новом переходе Юпитер - Затон.</rus>
-		<eng>Major Padlikova's personal PDA. Contains information about a transition between Jupiter and Zaton.</eng>
+		<eng>Major Padlikov's personal PDA. Contains information about a transition between Jupiter and Zaton.</eng>
 		<ukr>Особистий КПК майора Падлікова. Містить інформацію про новий переході Юпітер - Затон.</ukr>
 	</string>
 	<string id="vorona_egg">
@@ -569,12 +569,12 @@
 	</string>
 	<string id="item_kubik">
 		<rus>Кубик Рубика</rus>
-		<eng>Rubik's Cube</eng>
+		<eng>Rubick's Cube</eng>
 		<ukr>Кубик Рубіка</ukr>
 	</string>
 	<string id="item_kubik_desc">
 		<rus>Обыкновенный Кубик Рубика, коим лет 20-30 назад многие повально увлекались... В Зону, вероятно, был принесён одним из новичков.</rus>
-		<eng>An ordinary Rubik's Cube. These came out out 20-30 years ago. It's a very challenging but satisfying toy to play with. It was probably brought to the Zone by one of the newbies.</eng>
+		<eng>An ordinary Rubik's Cube. These came out out 20-30 years ago. It's a very challenging but satisfying and peculiar toy to play with. It was probably brought to the Zone by one of the newbies.</eng>
 		<ukr>Звичайний Кубик Рубіка, яким років 20-30 тому багато хто повально захоплювалися... У Зону, ймовірно, був принесений одним з новачків.</ukr>
 	</string>
 	<string id="book_xabarych">
@@ -609,7 +609,7 @@
 	</string>
 	<string id="item_arhara_listok">
 		<rus>Странник! Я, Стрелок, уже навряд ли сюда вернусь, поэтому хочу предостеречь тебя: у тебя есть только два пути - первый - идти дальше к секретной двери и второй - воспользоваться моим телепортом и вернуться обратно на Армейские склады и попытаться найти мой ПДА, в котором есть ценные сведения о Зоне и о работе стационарного телепорта, который активируется здесь, у Монолита при помощи артефакта Золотая рыбка - не исключено, что ты захочешь сюда ещё вернуться. Мне он навряд ли уже пригодится... Я оставил ПДА на хранение Шахтёру, который обитает в старой пещере... Но если ты всё же рискнёшь пойти дальше и сумеешь выйти живым на ЧАЭС-2, то вот координаты запасного перехода обратно, на ЧАЭС. Возможно они тебе пригодятся. Удачи тебе, неведомый сталкер.\n Стрелок.</rus>
-		<eng>Stalker! I will probably never come back here, so I leave this warning to you: you have only two options. The first is to press forward towards the secret door and the second is to use my teleport and go back to the army warehouses to try to find my PDA. There's valuable information about the Zone on it, as well as the workings of the stationary teleport here. It is activated with help of a Goldfish artifact. It's possible that you will want to come back here again. It is hardly useful for me... I left the PDA with Miner, who lives in the old cave connecting Agroprom with the Garbage. But if you still want to risk going further, and manage to emerge behind the power plant alive, then here are the coordinates of the way back to the front. Perhaps these things will prove useful to you. Good luck, stalker.\n Strelok.</eng>
+		<eng>Stalker! I will probably never come back here, so I leave this warning to you: you have only two options. The first is to press forward towards the secret door and the second is to use my teleport and go back to the Army Warehouses to try to find my PDA. There's valuable information about the Zone on it, as well as the workings of the stationary teleport here. It is activated with help of a "Goldfish" artifact. It's possible that you will want to come back here again. It is hardly useful for me... I left the PDA with Miner, who lives in the old cave connecting Agroprom with the Garbage. But if you still want to risk going further, and manage to emerge behind the power plant alive, then here are the coordinates of the way back to the front. Perhaps these things will prove useful to you. Good luck, stalker.\n Strelok.</eng>
 		<ukr>Мандірвник! Я, Стрілець, вже навряд чи сюди повернуся, тому хочу застерегти тебе: у тебе є тільки два шляхи - перший - йти далі до секретних дверей і другий - скористатися моїм телепором і повернутися назад на Армійські склади і спробувати знайти мій КПК, в якому є цінні відомості про Зону і про роботу стаціонарного телепорту, який активується тут, у Моноліту за допомогою артефакту Золота рибка - не виключено, що ти захочеш сюди ще повернутися. Мені він навряд чи вже згодиться... Я залишив КПК на зберігання Шахтарю, який мешкає в старій печері... Але якщо ти все ж ризикнеш піти далі і зумієш вийти живим на ЧАЕС2, то ось координати запасного переходу назад, на ЧАЕС. Можливо вони тобі знадобляться. Удачі тобі, невідомий сталкер.\nСтрілець.</ukr>
 	</string>
 	<string id="runner_tele">
@@ -619,7 +619,7 @@
 	</string>
 	<string id="item_runner_tele">
 		<rus>Ручной ускоритель. Изготовитель неизвестен. При помещении на пояс позволяет мгновенно перемещать владельца в пределах территории в направлении взгляда. Видимо, разработка не была завершена, ибо функциональность сильно ограничена. Работает нестабильно. Возможны сбои при перемещении, а также не гарантируется попадание в точку взгляда. Может перемещать только по земле и только по поверхности, лишённой каких-либо препятствий. Активируется нажатием клавиши. Как и любая телепортация, стоит денег. Тариф точно не известен, но составляет примерно один рубль за каждый метр перемещения. Деньги автоматически списываются со счета владельца при каждом перемещении.\nПримечание: при помещении на пояс деактивирует встроенную в ПДА владельца функцию Возвращателя.</rus>
-		<eng>A manually-operated "Accelerator". It comes from a unknown manufacturer and its origin are unknown. When it's placed on the user's belt, it allows the user to instantly move in the direction of their gaze. Apparently, the development of this device was not completed because its functionality is very limited. It is unstable. Failures may occur when moving, and it is also not guaranteed to take the user where they are looking. It can only move the user around on the ground, and only on a surface free from any obstacles. It's activated by pressing key for the "Returner". Like any teleportation device, it costs money to use. The cost is not exactly known, but seems to be about one ruble per each meter of movement. Money is automatically deducted from the account of the user with each move.\nNote: when placed on the belt, the device deactivates the "Returner" function built into the owner's PDA.</eng>
+		<eng>A manually-operated "Accelerator". It comes from a unknown manufacturer and its origin are unknown. When it's placed on the user's belt, it allows the user to instantly move in the direction of their gaze. Apparently, the development of this device was not completed because its functionality is very limited. It is unstable. Failures may occur when moving, and it is also not guaranteed to take the user where they are looking. It can only move the user around on the ground, and only on a surface free from any obstacles. It's activated by pressing key for the "Returner". Like any teleportation device, it costs money to use. The cost is not exactly known, but seems to be about one ruble per each meter of movement. User's account is debited automatically with each move.\nNote: when placed on the belt, the device deactivates the "Returner" function built into the owner's PDA.</eng>
 		<ukr>Ручний прискорювач. Виробник невідомий. При установці на пояс дозволяє миттєво переміщати власника в межах території у напрямку погляду. Мабуть, розробка не була завершена, бо функціональність сильно обмежена. Працює нестабільно. Можливі збої при переміщенні, а також не гарантується потрапляння у точку погляду. Може переміщувати тільки по землі і тільки по поверхні, позбавленій будь-яких перешкод. Активується натисканням клавіші. Як і будь-яка телепортація, коштує грошей. Тариф точно не відомий, але становить приблизно одну гривню за кожен метр переміщення. Гроші автоматично списуються з рахунку власника при кожному переміщенні.\nПримітка: при установці на пояс деактивує вбудовану в КПК власника функцію Повертальника.</ukr>
 	</string>
 	<string id="item_starogil_tele">
@@ -634,13 +634,13 @@
 	</string>
 	<string id="gena_tele1_descr">
 		<rus>Одноразовый телепорт, найденный в чьей-то нычке.</rus>
-		<eng>Single use teleport found in someone's stash.</eng>
+		<eng>Single use teleporter found in someone's stash.</eng>
 		<ukr>Одноразовий телепорт, знайдений у чиїйсь схованці.</ukr>
 	</string>
 
 	<string id="item_arhara_obman1">
 		<rus>Ручной телепорт, оставленный Стрелком. Единственный экземпляр, его изготовитель неизвестен. Может переместить владельца к Исполнителю Желаний.\n \nВнимание: за использование аппаратуры связи при создании канала телепортации взимается плата: 35000. Деньги автоматически снимутся со счета владельца.</rus>
-		<eng>A manual-use teleport left by Strelok. This is the only copy, and it's manufacturer and origins are unknown. It can instantly teleport the owner to the Wish Granter.\n \nAttention: for the use of communication equipment when creating a teleportation channel, a fee is charged: -35,000 RU- The money will be automatically withdrawn from the owner's account.</eng>
+		<eng>A manual-use teleporter left by Strelok. This is the only copy, and it's manufacturer and origins are unknown. It can instantly teleport the owner to the Wish Granter.\n \nAttention: for the use of communication equipment when creating a teleportation channel, a fee is charged: -35,000 RU- The money will be automatically withdrawn from the owner's account.</eng>
 		<ukr>Ручний телепорт, залишений Cтрільцем. Єдиний екземпляр, його виробник невідомий. Може перемістити власника до Виконавця Бажань.\n \nУвага: за використання апаратури зв'язку при створенні каналу телепортації стягується плата: 35000. Гроші автоматично знімуться з рахунку власника.</ukr>
 	</string>
 	<string id="item_arhara_obman2">
@@ -845,7 +845,7 @@
 	</string>
 	<string id="item_arhara_obman42">
 		<rus>Ручной телепорт, найденный в неизвестной нычке. Единственный экземпляр, его изготовитель неизвестен. Может переместить владельца в Предбанник.\n \nВнимание: за использование аппаратуры связи при создании канала телепортации взимается плата: 20000. Деньги автоматически снимутся со счета владельца.</rus>
-		<eng>A manual-use teleport found in someone's stash. This is the only copy, it's manufacturer and origins are unknown. It can instantly teleport the owner to the Borderlands.\n \nAttention: for the use of communication equipment when creating a teleportation channel, a fee is charged: -20,000 RU- The money will be automatically withdrawn from the owner's account.</eng>
+		<eng>A manual-use teleport found in someone's stash. This is the only copy, it's manufacturer and origins are unknown. It can instantly teleport the owner to the Ante Zone.\n \nAttention: for the use of communication equipment when creating a teleportation channel, a fee is charged: -20,000 RU- The money will be automatically withdrawn from the owner's account.</eng>
 		<ukr>Ручний телепорт, який знайдено у невідомій схованці. Єдиний екземпляр, його виробник невідомий. Може перемістити власника до Передбанника.\n \nУвага: за використання апаратури зв'язку при створенні каналу телепортації стягується плата: 20000. Гроші автоматично знімуться з рахунку власника.</ukr>
 	</string>
 	<string id="item_arhara_obman43">
@@ -890,7 +890,7 @@
 	</string>
 	<string id="item_arhara_obman51">
 		<rus>Ручной телепорт, найденный в неизвестной нычке. Единственный экземпляр, его изготовитель неизвестен. Может переместить владельца в Топи.\n \nВнимание: за использование аппаратуры связи при создании канала телепортации взимается плата: 20000. Деньги автоматически снимутся со счета владельца.</rus>
-		<eng>A manual-use teleport found in someone's stash. This is the only copy, it's manufacturer and origins are unknown. It can instantly teleport the owner to the Topi.\n \nAttention: for the use of communication equipment when creating a teleportation channel, a fee is charged: -20,000 RU- The money will be automatically withdrawn from the owner's account.</eng>
+		<eng>A manual-use teleport found in someone's stash. This is the only copy, it's manufacturer and origins are unknown. It can instantly teleport the owner to the Swamplands.\n \nAttention: for the use of communication equipment when creating a teleportation channel, a fee is charged: -20,000 RU- The money will be automatically withdrawn from the owner's account.</eng>
 		<ukr>Ручний телепорт, який знайдено у невідомій схованці. Єдиний екземпляр, його виробник невідомий. Може перемістити власника до Трясовин.\n \nУвага: за використання апаратури зв'язку при створенні каналу телепортації стягується плата: 20000. Гроші автоматично знімуться з рахунку власника.</ukr>
 	</string>
 	<string id="item_arhara_obman52">
@@ -940,7 +940,7 @@
 	</string>
 	<string id="item_arhara_obman61">
 		<rus>Ручной телепорт, найденный в неизвестной нычке. Единственный экземпляр, его изготовитель неизвестен. Может переместить владельца в Коллектор.\n \nВнимание: за использование аппаратуры связи при создании канала телепортации взимается плата: 20000. Деньги автоматически снимутся со счета владельца.</rus>
-		<eng>A manual-use teleport found in someone's stash. This is the only copy, it's manufacturer and origins are unknown. It can instantly teleport the owner to the Collector.\n \nAttention: for the use of communication equipment when creating a teleportation channel, a fee is charged: -20,000 RU- The money will be automatically withdrawn from the owner's account.</eng>
+		<eng>A manual-use teleport found in someone's stash. This is the only copy, it's manufacturer and origins are unknown. It can instantly teleport the owner to the Sewer.\n \nAttention: for the use of communication equipment when creating a teleportation channel, a fee is charged: -20,000 RU- The money will be automatically withdrawn from the owner's account.</eng>
 		<ukr>Ручний телепорт, який знайдено у невідомій схованці. Єдиний екземпляр, його виробник невідомий. Може перемістити власника до Колектора.\n \nУвага: за використання апаратури зв'язку при створенні каналу телепортації стягується плата: 20000. Гроші автоматично знімуться з рахунку власника.</ukr>
 	</string>
 	<string id="item_arhara_obman62">
@@ -970,7 +970,7 @@
 	</string>
 	<string id="arhara_listok">
 		<rus>Записка Стрелка</rus>
-		<eng>Marked One's note</eng>
+		<eng>Strelok's note</eng>
 		<ukr>Записка Стрелка</ukr>
 	</string>
 	<string id="arhara_instruk">
@@ -1025,7 +1025,7 @@
 	</string>
 	<string id="3d_raziy">
 		<rus>Видеорация</rus>
-		<eng>Storage device with video footage</eng>
+		<eng>Video radio set</eng>
 		<ukr>Відеорація</ukr>
 	</string>
 	<string id="telefon">
@@ -1075,7 +1075,7 @@
 	</string>
 	<string id="kluch_dell_teleport">
 		<rus>Деактиватор телепортов</rus>
-		<eng>Teleport Deactivator</eng>
+		<eng>Teleports deactivator</eng>
 		<ukr>Деактиватор телепортів</ukr>
 	</string>
 	<string id="parcel">
@@ -1205,7 +1205,7 @@
 	</string>
 	<string id="kapitan_pda">
 		<rus>ПДА капитана карателей</rus>
-		<eng>Captain Punisher's PDA</eng>
+		<eng>Punisher's captain PDA</eng>
 		<ukr>КПК капітана карателів</ukr>
 	</string>
 	<string id="pult_anders">
@@ -1250,7 +1250,7 @@
 	</string>
 	<string id="item_detektor_baty">
 		<rus>Детектор Сахарова. Определяет и подаёт сигнал при наличии пластмассы в радиусе 10 метров.</rus>
-		<eng>A detector that Sakharov has modified to specifically help the user find the "plasticine" artifact. It'll notify the user if that specific artifact can be found within a radius of 10 meters.</eng>
+		<eng>A detector that Sakharov has modified to specifically help the user find any plastic. It'll notify the user if that specific material can be found within a radius of 10 meters.</eng>
 		<ukr>Детектор Сахарова. Визначає і подає сигнал при наявності пластмаси в радіусі 10 метрів.</ukr>
 	</string>
 	<string id="strannik_bloknot">
@@ -1280,7 +1280,7 @@
 	</string>
 	<string id="psewdofoto">
 		<rus>Псевдофото "Монолита"</rus>
-		<eng>The photo of the Monolith</eng>
+		<eng>The pseudophoto of the Monolith</eng>
 		<ukr>Псевдофото "Моноліта"</ukr>
 	</string>
 	<string id="item_psewdofoto">
@@ -1310,7 +1310,7 @@
 	</string>
 	<string id="neizv_zapiska">
 		<rus>Листок с информацией</rus>
-		<eng>Informational sheet</eng>
+		<eng>Information sheet</eng>
 		<ukr>Аркуш з інформацією</ukr>
 	</string>
 	<string id="item_linza_fotik">
@@ -1335,12 +1335,12 @@
 	</string>
 	<string id="item_kaktus_izomorf">
 		<rus>Изоморф. Свойства неизвестны.</rus>
-		<eng>A isomorph. Its properties are unknown.</eng>
+		<eng>An isomorph. Its properties are unknown.</eng>
 		<ukr>Ізоморф. Властивості невідомі.</ukr>
 	</string>
 	<string id="chemodan_piyan">
 		<rus>Сумка проверяющего</rus>
-		<eng>Inspection Kit</eng>
+		<eng>Inspector's bag</eng>
 		<ukr>Сумка перевіряючого</ukr>
 	</string>
 	<string id="762_izomorf">
@@ -1380,7 +1380,7 @@
 	</string>
 	<string id="preplastilin">
 		<rus>Препластилин</rus>
-		<eng>Plasticine</eng>
+		<eng>Preplasticine</eng>
 		<ukr>Препластилін</ukr>
 	</string>
 	<string id="item_preplastilin">
@@ -1500,7 +1500,7 @@
 	</string>
 	<string id="pda_padlikova">
 		<rus>ПДА майора Падликова</rus>
-		<eng>Major Padlikova's PDA</eng>
+		<eng>Major Padlikov's PDA</eng>
 		<ukr>КПК майора Падликова</ukr>
 	</string>
 	<string id="bloknot_pantera">
@@ -1510,7 +1510,7 @@
 	</string>
 	<string id="dosye_zvez">
 		<rus>Краткое досье на Звездочёта</rus>
-		<eng>Short dossier on Astrologer</eng>
+		<eng>Short dossier on Skygazer</eng>
 		<ukr>Коротке досьє на Звіздаря</ukr>
 	</string>
 	<string id="foto_kukla">
@@ -1610,7 +1610,7 @@
 	</string>
 	<string id="mushroom">
 		<rus>Мухомор</rus>
-		<eng>Mushroom</eng>
+		<eng>Fly amanita</eng>
 		<ukr>Мухомор</ukr>
 	</string>
 	<string id="mushroom_descr">
@@ -1620,7 +1620,7 @@
 	</string>
 	<string id="detector_elite_john">
 		<rus>Детектор Голограммы</rus>
-		<eng>Hologram detector</eng>
+		<eng>Hologram's detector</eng>
 		<ukr>Детектор Голограми</ukr>
 	</string>
 	<string id="sandwich">
@@ -1920,7 +1920,7 @@
 	</string>
 	<string id="item_umn_tel_1">
 		<rus>Неисправный ручной телепортатор с расширенными функциями. Камера с частицами аномалии "Лифт" герметична, так что, если пошевелить мозгами, то вполне можно отремонтировать прибор.</rus>
-		<eng>A defective handheld teleport device that has advanced features. Its sealed chamber is filled with particles from "Elevator" anomaly. If you set yourself to it, you can repair the device and use it.</eng>
+		<eng>A defective handheld teleportation device that has advanced features. Its sealed chamber is filled with particles from "Elevator" anomaly. If you set yourself to it, you can repair the device and use it.</eng>
 		<ukr>Несправний ручний телепортатор з розширеними функціями. Камера з частками аномалії "Ліфт" герметична, тому, якщо поворушити мізками, то цілком можна відремонтувати прилад.</ukr>
 	</string>
 	<string id="item_flyga">
@@ -1995,7 +1995,7 @@
 	</string>
 	<string id="item_soap">
 		<rus>Обыкновенное качественное совдеповское банное мыло, какого в старые добрые времена было достаточно. Правда особого разнообразия видов данного продукта не было, зато мыло было натуральным, хоть и пахло не очень... Но, по крайней мере, всяким современным заграничным благоухающим Дуру, Палмоливам и т.д. до него далеко. Столько лет прошло, а оно выглядит как новое...</rus>
-		<eng>Ordinary bath soap. In the good old days, people considered this enough for personal hygiene. There was no real variety for this product, but the soap was naturally made, even though it didn't have any real scent. However, so many years have passed since this was considered the norm for personal cleanness: fragrances, conditioners and moisturizers have changed people's perceptions of what is considered 'clean' This soap looks brand new...</eng>
+		<eng>Ordinary bath soap. In the good old days, people considered this enough for personal hygiene. There was no real variety for this product, but the soap was naturally made, even though it didn't have any real scent. However, so many years have passed since this was considered the norm for personal cleanness: fragrances, conditioners and moisturizers have changed people's perceptions of what is considered 'clean'. This soap still looks brand new...</eng>
 		<ukr>Звичайне якісне совдепівське банне мило, якого в старі добрі часи було достатньо. Правда особливого розмаїття видів даного продукту не було, зате мило було натуральним, хоч і пахло не дуже... Але, принаймні, всяким сучасним закордонним благоухающим Дуру, Палмолівам і т.д. до нього далеко. Стільки років пройшло, а воно виглядає як нове...</ukr>
 	</string>
 	<string id="item_amulet">
@@ -2050,7 +2050,7 @@
 	</string>
 	<string id="item_starik_chasy">
 		<rus>Золотые карманные часы. Цепка потеряна. Вероятно, принадлежат Старику, раз он их ищет и знает где искать. Несмотря ни на что - часы в рабочем состоянии.</rus>
-		<eng>A gold pocket watch. The chain is missing. It probably belongs to Old Timer, since he's looking for one and he knows where to look as well. Despite its rough condition - the watch is still working.</eng>
+		<eng>A gold pocket watch. The chain is missing. It probably belongs to Old Man, since he's looking for one and he knows where to look as well. Despite its rough condition - the watch is still working.</eng>
 		<ukr>Золотий кишеньковий годинник. Ланцюжок втрачено. Ймовірно, належить Старому, раз він їх шукає і знає де шукати. Незважаючи ні на що - годинник в робочому стані.</ukr>
 	</string>
 	<string id="detect_john">
@@ -2321,22 +2321,22 @@
 	</string>
 	<string id="dream_1_hour">
 		<rus>час</rus>
-		<eng>one hour</eng>
+		<eng>hour</eng>
 		<ukr>година</ukr>
 	</string>
 	<string id="dream_3_hours">
 		<rus>часа</rus>
-		<eng>three hours</eng>
+		<eng>hours</eng>
 		<ukr>години</ukr>
 	</string>
 	<string id="dream_5_hours">
 		<rus>часов</rus>
-		<eng>five hours</eng>
+		<eng>hours</eng>
 		<ukr>годин</ukr>
 	</string>
 	<string id="dream_8_hours">
 		<rus>часов</rus>
-		<eng>eight hours</eng>
+		<eng>hours</eng>
 		<ukr>годин</ukr>
 	</string>
 	<string id="dream_x_minutes">
@@ -2391,12 +2391,12 @@
 	</string>
 	<string id="dream_energy_drink">
 		<rus>Энергетик потребовал ещё +%i к часам бодрствования</rus>
-		<eng>Energy drink added %i hours to waking hours</eng>
+		<eng>Energy drink added %i hours more to waking hours</eng>
 		<ukr>Енергетик додав ще +%i до годин бадьорості</ukr>
 	</string>
 	<string id="dream_vodka">
 		<rus>Водка дала +%i к часам сна, эффект продлится ещё %i минут</rus>
-		<eng>Vodka added %i hours to sleeping hours. The effect will last %i more minutes</eng>
+		<eng>Vodka added %i hours more to sleeping hours. The effect will last %i more minutes</eng>
 		<ukr>Горілка дала +%i до годин сну, ефект триватиме ще %i хвилин</ukr>
 	</string>
 	<string id="dream_wait">
@@ -2406,7 +2406,7 @@
 	</string>
 	<string id="dream_nap">
 		<rus>Можно вздремнуть %i раз по %i минут</rus>
-		<eng>You can take a nap %i times %i minutes each time</eng>
+		<eng>You can take a nap %i times for %i minutes each</eng>
 		<ukr>Можна покимарити %i раз по %i хвилин</ukr>
 	</string>
 	<string id="dream_sleep">
@@ -2436,52 +2436,52 @@
 	</string>
 	<string id="bind_fot_pos_0">
 		<rus>Снимок установки с этого ракурса получен.</rus>
-		<eng>A photograph of the area you took a picture of.</eng>
+		<eng>Facility photo successfully made from this perspective.</eng>
 		<ukr>Знімок установки з цього ракурсу отримано.</ukr>
 	</string>
 	<string id="bind_fot_pos_1">
 		<rus>Снимок эмбриона с этого ракурса получен.</rus>
-		<eng>A picture of the embryo from this angle was obtained.</eng>
+		<eng>Facility photo successfully made from this perspective.</eng>
 		<ukr>Знімок ембріона з цього ракурсу отримано.</ukr>
 	</string>
 	<string id="bind_fot_pos_2">
 		<rus>Фотография Саркофага получена.</rus>
-		<eng>A photograph of the sarcophagus surrounding the no.6 reactor at Chernobyl.</eng>
+		<eng>Sarcophagus photo obtained.</eng>
 		<ukr>Фотографія Саркофагу отримана.</ukr>
 	</string>
 	<string id="bind_fot_pos_3">
 		<rus>Колесо обозрения сфотографировано.</rus>
-		<eng>A photograph of the ferris wheel at Pripyat.</eng>
+		<eng>The ferris wheel picture has taken.</eng>
 		<ukr>Колесо огляду сфотографовано.</ukr>
 	</string>
 	<string id="bind_fot_pos_4">
 		<rus>Антенны Выжигателя мозгов сфотографированы.</rus>
-		<eng>A photograph of the Brain Scorcher.</eng>
+		<eng>Brain Scorcher picture successfully taken.</eng>
 		<ukr>Антени Випалювача мізків сфотографовані.</ukr>
 	</string>
 	<string id="bind_fot_pos_5">
 		<rus>Место отдыха свободовцев сфотографировано.</rus>
-		<eng>A photograph of a Freedom-owned area.</eng>
+		<eng>Freedom men rest zone picture successfully taken.</eng>
 		<ukr>Місце відпочинку волівців сфотографовано.</ukr>
 	</string>
 	<string id="bind_fot_pos_6">
 		<rus>Бункер учёных во время Выброса сфотографирован.</rus>
-		<eng>A photo of a scientist bunker that was taken during an emission.</eng>
+		<eng>Scientist bunker photo during an emission successfully taken.</eng>
 		<ukr>Бункер вчених під час Викиду сфотографований.</ukr>
 	</string>
 	<string id="Barrel">
 		<rus>Канистра</rus>
-		<eng>Canister</eng>
+		<eng>Petrol can</eng>
 		<ukr>Каністра</ukr>
-	</string>	
+	</string>
 	<string id="bind_fot_pos_7">
 		<rus>Ангар на закате сфотографирован.</rus>
-		<eng>A photo of a hanger that was taken during sunset.</eng>
+		<eng>A photo of a hangar that was taken during sunset.</eng>
 		<ukr>Ангар на заході сонця сфотографований.</ukr>
 	</string>
 	<string id="bind_fot_pos_8">
 		<rus>Фотография газеты «Факты» получена.</rus>
-		<eng>Photograph of the obtained newspaper.</eng>
+		<eng>Photograph of the obtained "Facts" newspaper.</eng>
 		<ukr>Фотографія газети «Факти» отримана.</ukr>
 	</string>
 </string_table>
