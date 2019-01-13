@@ -12,9 +12,9 @@
 		<ukr>%c[sender]Пропер Сімдесятий\n%c[default]Я тут ось подумав: а може зробити так, щоб монстри шмонали схованки. Причому вибірково. Коти - ковбасу крали, контролери - консерви, кровососи - горілку, ну і так далі. А потім подумав: а навіщо? Ну зроблю, а потім прийдеш до схованки - а там кровососи, або, не дай бог, контролер в мішку риється. По мізках дасть, не встигнеш і консервою скористатися, якою заманив. Нє, краще нехай так все залишається.\nЧи може, капкани зробити?</ukr>
 	</string>
 	<string id="sms_modders2_3">
-		<rus>%c[sender]"..user_name().."\n%c[default]Только после десятой банки радость туриста, пяти батонов и трёх палок колбасы, когда красный значок с вилкой и ложкой с экрана не исчезал, я наконец понял: не Меченый голоден, а мне самому нужно что-то поесть за целый день.</rus>
-		<eng>%c[sender]"..user_name().."\n%c[default]Only after the tenth can of food, five loaves and three sticks of sausage, when the red badge with a fork and a spoon did not disappear from the screen, I finally understood: it is not Marked One hungry, but I need something to eat for all day.</eng>
-		<ukr>%c[sender]"..user_name().."\n%c[default]Тільки після десятої банки радість туриста, п'яти батонів і трьох палиць ковбаси, коли червоний значок з вилкою і ложкою з екрану не зникав, я нарешті зрозумів: не Мічений голодний, а мені самому потрібно щось поїсти за цілий день.</ukr>
+		<rus>%%c[sender]%s\n%%c[default]Только после десятой банки радость туриста, пяти батонов и трёх палок колбасы, когда красный значок с вилкой и ложкой с экрана не исчезал, я наконец понял: не Меченый голоден, а мне самому нужно что-то поесть за целый день.</rus>
+		<eng>%%c[sender]%s\n%%c[default]Only after the tenth can of food, five loaves and three sticks of sausage, when the red badge with a fork and a spoon did not disappear from the screen, I finally understood: it is not Marked One hungry, but I need something to eat for all day.</eng>
+		<ukr>%%c[sender]%s\n%%c[default]Тільки після десятої банки радість туриста, п'яти батонів і трьох палиць ковбаси, коли червоний значок з вилкою і ложкою з екрану не зникав, я нарешті зрозумів: не Мічений голодний, а мені самому потрібно щось поїсти за цілий день.</ukr>
 	</string>
 	<string id="sms_modders2_4">
 		<rus>%c[sender]Котобегемот\n%c[default]Уйдя из Зоны, бывший сержант Цыбуля устроился сторожем на склад энергетических напитков.\n- Да я круче Меченого, - подумал он через 17 суток, когда снова не смог уснуть.</rus>
