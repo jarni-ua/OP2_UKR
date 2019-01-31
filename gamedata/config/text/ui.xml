@@ -91,7 +91,7 @@
 		<ukr>від'єднати глушник</ukr>
 	</string>
 	<string id="st_dress_outfit">
-		<rus>одеть</rus>
+		<rus>надеть</rus>
 		<eng>put on</eng>
 		<ukr>одягнути</ukr>
 	</string>
@@ -3250,6 +3250,11 @@
 		<eng>You amaze me! There was not a loot for such a sum.</eng>
 		<ukr>Ну ти загнув. Там хабара не було на таку суму.</ukr>
 	</string>
+	<string id="txt_safe_stolen_gg_p5_3">
+		<rus>Да не буду даже заморачиваться, оставь себе...</rus>
+		<eng>Yes, I will not even bother, leaving himself...</eng>
+		<ukr>Та не буду навіть морочитися, залиш собі...</ukr>
+	</string>
 	<string id="txt_safe_stolen_ss_p6_1">
 		<rus>Правильное решение. Значит слушай, я всего лишь координаты записал себе. Рюкзак твой всё ещё на месте, только ищи получше, я его малость припрятал. И в следующий раз место получше выбирай.</rus>
 		<eng>Wise decision. So listen, I just wrote down the coordinates myself. Your backpack is still in place, just look for it better, I've hidden it a little. And next time choose a better place.</eng>
@@ -3290,6 +3295,11 @@
 		<eng>Screw you! Where i suppose to get that kind of money, furthermore that loot cost a lunch money!</eng>
 		<ukr>Та пішов ти! Звідки я тобі такі гроші візьму, там і хабара було на копійки!</ukr>
 	</string>
+	<string id="txt_safe_stolen_trader_gg_p5_3">
+		<rus>Да вы обнаглели, дешифраторы ёкарные! Я лучше этой запиской по прямому назначению воспользуюсь!</rus>
+		<eng>You are insolent, fucking decoders! I'm better this note will use for its intended purpose!</eng>
+		<ukr>Та ви знахабніли, дешифраторы кляті! Я краще цією запискою по прямому призначенню скористаюся!</ukr>
+	</string>
 	<string id="txt_safe_stolen_trader_p6_1">
 		<rus>В следующий раз будешь прятать хабар как полагается, а не на дороге бросать. Лови метку. Этот фрукт так и не забрал хабар, всего лишь взломал GPS. Где лежал - там и лежит.</rus>
 		<eng>Next time, you will hide the loot as it should be hidden, and not throw it on the road. Catch the mark. This dude did not take the loot, just hacked the GPS. Still lies where it did.</eng>
@@ -3299,6 +3309,11 @@
 		<rus>Ты не на базаре, чтобы торговаться. Соберёшь деньги - приходи. Люди будут рады помочь легенде Зоны. За скромное вознаграждение...</rus>
 		<eng>You're not in the bazaar to bargain. Collect some money - come. People will be happy to help the legend of the Zone. For a modest reward...</eng>
 		<ukr>Ти не на базарі, щоб торгуватися. Назбираєш грощей - приходь. Люди будуть раді допомогти легенді Зони. За скромну винагороду...</ukr>
+	</string>
+	<string id="txt_safe_stolen_trader_p6_3">
+		<rus>Ну как хочешь, я только посредник.</rus>
+		<eng>Well, as you wish, I am only a mediator.</eng>
+		<ukr>Ну як хочеш, я тільки посередник.</ukr>
 	</string>
 	<string id="txt_found_nightstar">
 		<rus>Нашёл я тебе артефакт...</rus>
@@ -3361,7 +3376,7 @@
 		<ukr>ємність магазину</ukr>
 	</string>
 	<string id="ui_rounds">
-		<rus>патронов</rus>
+		<rus>патрона(ов)</rus>
 		<eng>cartridges</eng>
 		<ukr>патронів</ukr>
 	</string>

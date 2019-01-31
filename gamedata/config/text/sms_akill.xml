@@ -155,6 +155,11 @@
 		<eng>If you are still alive, you will find a decoder from one zombie.</eng>
 		<ukr>Якщо ти ще живий, то знайдеш дешифратор у одного з зомбованих.</ukr>
 	</string>
+	<string id="sms_skitalec_survival_quest_present">
+		<rus>Можешь поздравить себя, ты прошёл испытание. Презент найдёшь на крыше фабрики. Не прощаюсь...</rus>
+		<eng>===Можешь поздравить себя, ты прошёл испытание. Презент найдёшь на крыше фабрики. Не прощаюсь...</eng>
+		<ukr>===Можешь поздравить себя, ты прошёл испытание. Презент найдёшь на крыше фабрики. Не прощаюсь...</ukr>
+	</string>
 	<string id="sms_pulemet_angar_oborona_sms_0">
 		<rus>Бандиты на подходе. Они окружили ангар со всех сторон.</rus>
 		<eng>Bandits are on the way. They surrounded the hangar from all sides.</eng>
@@ -864,5 +869,10 @@
 		<rus>Генератор полностью заряжен. Блок-кейс разгерметизирован.</rus>
 		<eng>The generator is fully charged. The block case is unsealed.</eng>
 		<ukr>Генератор повністю заряджений. Блок-кейс розгерметизовано.</ukr>
+	</string>
+	<string id="sms_strelok_smska_borova">
+		<rus>Допрыгался, крысёныш?! Фух! Надо бы тебя обыскать!</rus>
+		<eng>Допрыгался, крысёныш?! Фух! Надо бы тебя обыскать!</eng>
+		<ukr>===Допрыгался, крысёныш?! Фух! Надо бы тебя обыскать!</ukr>
 	</string>
 </string_table>
