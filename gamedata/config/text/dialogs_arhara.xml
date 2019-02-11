@@ -662,8 +662,8 @@
 	</string>
 	<string id="arhara_sahar_bezo_7">
 		<rus>Проф, да ты спекулянт... Я вот сейчас накормлю тебя этими безо... ну, короче, фигнёй этой, она у тебя быстро выход из желудка найдёт... Мало не покажется...</rus>
-		<eng>Проф, да ты спекулянт... Я вот сейчас накормлю тебя этими безо... ну, короче, фигнёй этой, она у тебя быстро выход из желудка найдёт... Мало не покажется...</eng>
-		<ukr>Professor, you're a profiteer... I'm going to feed you these bezoars right now... Well, in short, this garbage, will quickly find its way out of your stomach... And you won't find it funny.....</ukr>
+		<eng>Professor, you're a profiteer... I'm going to feed you these bezoars right now... Well, in short, this garbage, will quickly find its way out of your stomach... And you won't find it funny...</eng>
+		<ukr>Проф, та ти спекулянт... Я ось зараз нагодую тебе цими безо... ну, коротше, фігньою цією, вона у тебе швидко вихід з шлунку знайде... Мало не покажеться...</ukr>
 	</string>
 	<string id="akim_zamok_0">
 		<rus>Ещё чего-нибудь интересное продаёшь?</rus>
@@ -770,7 +770,7 @@
 		<ukr>Е... та ти одне розбив! От блін... Де тебе носило, треба ж акуратніше... Та й чорт з ним, все одно бити... Ось, тримай пушку хорошу, в бою стане в нагоді..</ukr>
 	</string>
 
-	<!-- Akill corrected the drug dialogue -->
+	<!-- Akill поправил диалог на лекарство -->
 	<string id="arhara_omlet_akim_0">
 		<rus>Аким, привет. Ты, говорят, знаешь, где яйца достать можно...</rus>
 		<eng>Akim, hello. I've been told you know where you I get the eggs...</eng>
@@ -1401,8 +1401,8 @@
 		<ukr>М-да... прогуляночка від Петренко до бару затягується...</ukr>
 	</string>
 	<string id="dolgovyzui_lentyi_7">
-		<rus>Ну не... Слов не хватает, одни маты! Ты вообще откуда такой хитрожо... взялся? А, на вертолёте прилетел? Советую попробовать и пешком по Зоне прогуляться - схватить кубиков так 20 адреналина и быстро бегать заодно научится.</rus>
-		<eng>Well... Words are not enough, but some expletives do come to mind! Where did you come from - you cunning huckster? Did you fly in by helicopter? My advice, try walking around the Zone - grab 20 phials of adrenaline, then run around, you might learn something.</eng>
+		<rus>Ну не... Слов не хватает, одни маты! Ты вообще откуда такой хитрожо... взялся? А, на вертолёте прилетел? Советую попробовать и пешком по Зоне прогуляться - схватишь кубиков так 20 адреналина и быстро бегать заодно научишься.</rus>
+		<eng>Well... Words are not enough, but some expletives do come to mind! Where did you come from - you cunning huckster? Did you fly in by helicopter? My advice, try walking around the Zone - you'll grab 20 phials of adrenaline and'll learn to run fast.</eng>
 		<ukr>Ну ні... Слів не вистачає, одні матюки! Ти взагалі, звідки такий хитрож... узявся? А, на вертольоті прилетів? Раджу спробувати і пішки по Зоні прогулятися - схопити кубиків так 20 адреналіну і швидко бігати заодно навчитися...</ukr>
 	</string>
 	<string id="dolgovyzui_urod_0">
@@ -1602,7 +1602,7 @@
 		<ukr>Ну, я теж про розміри не знав... Хе-хе, так, ключі теж тільки паровози ремонтувати... Давай все сюди, та обережніше викладай - стіл не проломи... Ввечері сходжу розімнусь з кувалдою - щурів біля бункера поганяю.</ukr>
 	</string>
 	<string id="petr_sidor_zabrat_2">
-		<rus>Забирай металлолом... С этими кувалдами только взводу Шварценеггеров возится, они как раз для ювелирной работы подойдут. Надеюсь, когда будешь этот хлам со стола убирать, спину не сорвёшь - говорю сразу - за фастумгелем из копыт кабана не пойду. Давай презент.</rus>
+		<rus>Забирай металлолом... С этими кувалдами только взводу Шварценеггеров возиться, они как раз для ювелирной работы подойдут. Надеюсь, когда будешь этот хлам со стола убирать, спину не сорвёшь - говорю сразу - за фастумгелем из копыт кабана не пойду. Давай презент.</rus>
 		<eng>Take your scrap metal... With these hammers you could keep a platoon of Schwarzenegger's happy, they're not really suitable for delicate work. I hope that when you clear this stuff from the table, you don't hurt your back - I'm telling you now - I wouldn't touch Fastum-gel with a boar's hoof. Come on, give me the present.</eng>
 		<ukr>Забирай металобрухт... З цими кувалдами тільки взводу Шварценеггерів возитися, вони якраз для ювелірної роботи підійдуть. Сподіваюся, коли будеш цей мотлох зі столу прибирати, спину не зірвеш - кажу відразу - за фастумгелем з копит кабана не піду. Давай презент.</ukr>
 	</string>
@@ -1685,7 +1685,7 @@
 	</string>
 
 	<!--*****************************************-->
-	<!-- Sidorovich Factions Repair dialog start Edit Arkhar -->
+	<!-- Sidorovich Factions Repair dialog start Правка Архара -->
 	<!--*****************************************-->
 	<string id="list_factions_repair_0">
 		<rus>Восстановить отношения с Долгом:		</rus>
@@ -1882,7 +1882,32 @@
 		<eng>Yes, I want to be an ecologist.</eng>
 		<ukr>Та я хочу бути екологом.</ukr>
 	</string>
-
+<!-- Примирение с Шерстюком -->
+	<string id="escape_trader_factions_90">
+		<rus>Я с Шерстюком поссорился - случайно ему в задницу пулю пустил, никак не хочет мириться. Не подсобишь?</rus>
+		<eng>Я с Шерстюком поссорился - случайно ему в задницу пулю пустил, никак не хочет мириться. Не подсобишь?</eng>
+		<ukr>Я з Шерстюком посварився - випадково йому в дупу кулю пустив, ніяк не хоче миритися. Не підсобиш?</ukr>
+	</string>
+	<string id="escape_trader_factions_91">
+		<rus>Знаю я его, очень уж обидчивый этот прапор! В него кто только не стрелял, но потом приходили ко мне и просили, как и ты, замолвить перед ним словечко - обмен-то выгодный у него. Гони 50 тысяч, я договорюсь, отошлю ему на ПДА от твоего имени такое сообщение, от которого Шерстюк прям растает, хе-хе... У меня заготовочек на такие случаи полным-полно. Но ты это, с 9 вечера до 6 утра по казармам военных не шарься, они этого ох как не любят!</rus>
+		<eng>Знаю я его, очень уж обидчивый этот прапор! В него кто только не стрелял, но потом приходили ко мне и просили, как и ты, замолвить перед ним словечко - обмен-то выгодный у него. Гони 50 тысяч, я договорюсь, отошлю ему на ПДА от твоего имени такое сообщение, от которого Шерстюк прям растает, хе-хе... У меня заготовочек на такие случаи полным-полно. Но ты это, с 9 вечера до 6 утра по казармам военных не шарься, они этого ох как не любят!</eng>
+		<ukr>Знаю я його, дуже вже образливий цей прапор! У нього хто тільки не стріляв, але потім приходили до мене і просили, як і ти, замовити перед ним слівце - обмін-то вигідний у нього. Жени 50 тисяч, я домовлюся, відішлю йому на КПК від твого імені таке повідомлення, від якого Шерстюк прям розтане, хе-хе... У мене заготовочок на такі випадки повнісінько. Але ти це, з 9 вечора до 6 ранку по казармах військових не шарься, вони цього ох як не люблять!</ukr>
+	</string>
+	<string id="escape_trader_factions_92">
+		<rus>Напиши просто: мол, попутал малёхо, не хотел стрелять, просит понять и простить. Перевожу деньги...</rus>
+		<eng>Напиши просто: мол, попутал малёхо, не хотел стрелять, просит понять и простить. Перевожу деньги...</eng>
+		<ukr>Напиши просто: мовляв, поплутав трішечки, не хотів стріляти, просить зрозуміти і пробачити. Переказую гроші...</ukr>
+	</string>
+	<string id="escape_trader_factions_93">
+		<rus>Да пошёл на хрен этот Шерстюк, я передумал!</rus>
+		<eng>Да пошёл на хрен этот Шерстюк, я передумал!</eng>
+		<ukr>Та пішов на хрін цей Шерстюк, я передумав!</ukr>
+	</string>
+	<string id="escape_trader_factions_94">
+		<rus>Можешь бежать на Агропром и каяться.</rus>
+		<eng>Можешь бежать на Агропром и каяться.</eng>
+		<ukr>Можеш бігти на Агропром та каятися.</ukr>
+	</string>
 	<!--*****************************************-->
 
 
@@ -2078,15 +2103,15 @@
 		<ukr>Я незгод...</ukr>
 	</string>
 	<string id="voronin_infa_gg_5">
-		<rus>Цыц! Разговорчики! Я что-то не расслышал, что ты там подумал. Упал-отжался - не мой метод. Мой - упал и уже не смог отжаться. Выбора у тебя нет - иначе в Бар ты больше не ездец... То есть не ездун... не ез... Короче, ты понял. Горб должен быть уничтожен именно тобой, иначе дальнейшего диалога не будет. В награду - возьмёшь с наёмников амуницию, да и у Горба может чего ценного найдёшь. Подойдёшь ко мне позже, я дам тебе сигнал об атаке. Но прежде раздобудь себе оружие хорошее - например, «Грозу».</rus>
-		<eng>Shut up! Stop talking! I don't want to know what you're thinking. To pull back, is not my method. If we do, we'll no longer be able to repel them. We have no choice - otherwise we'll no longer have access to the Bar... That is, no access... no more food... So you see. You must destroy Hump, otherwise there will be no further dialogue. As a reward, you can take the ammunition from the mercenaries, and anything valuable you find on Hump. Come back later, I'll give you the signal to attack. But first get yourself a decent weapon - for example, a "Thunderstorm".</eng>
-		<ukr>Циць! Балачки! Я щось не розчув, що ти там подумав. Упав-віджався - не мій метод. Мій - впав і вже не зміг віджатися. Вибору в тебе немає - інакше на Бар ти більше не їздок... Тобто не їздун.. не їз... Коротше, ти зрозумів. Горб повинен бути знищений саме тобою, інакше подальшого діалогу не буде. У нагороду - візьмеш з найманців амуніцію, та й у Горба може що цінного знайдеш. Підійдеш до мене пізніше - я дам тобі сигнал про атаку. Але насамперед роздобудь собі зброю хорошу - наприклад, «Грозу».</ukr>
+		<rus>Цыц! Разговорчики! Я что-то не расслышал, что ты там подумал. Упал-отжался - не мой метод. Мой - упал и уже не смог отжаться. Выбора у тебя нет - иначе в Бар ты больше не ездец... То есть не ездун... не ез... Короче, ты понял. Горб должен быть уничтожен именно тобой, иначе дальнейшего диалога не будет. В награду - возьмёшь с наёмников амуницию. Подойдёшь ко мне позже, я дам тебе сигнал об атаке. Но прежде раздобудь себе оружие хорошее - пулемёт ПКМ/«Печенег»/М60 на твой выбор и короб патронов к нему. Чувствую, скоро в Баре будет жарковато!</rus>
+		<eng>===Shut up! Stop talking! I don't want to know what you're thinking. To pull back, is not my method. If we do, we'll no longer be able to repel them. We have no choice - otherwise we'll no longer have access to the Bar... That is, no access... no more food... So you see. You must destroy Hump, otherwise there will be no further dialogue. As a reward, you can take the ammunition from the mercenaries, and anything valuable you find on Hump. Come back later, I'll give you the signal to attack. But first get yourself a decent weapon - for example, a "Thunderstorm".</eng>
+		<ukr>Циць! Балачки! Я щось не розчув, що ти там подумав. Упав-віджався - не мій метод. Мій - впав і вже не зміг віджатися. Вибору в тебе немає - інакше на Бар ти більше не їздок... Тобто не їздун.. не їз... Коротше, ти зрозумів. Горб повинен бути знищений саме тобою, інакше подальшого діалогу не буде. У нагороду - візьмеш з найманців амуніцію, та й у Горба може щось цінне знайдеш. Підійдеш до мене пізніше - я дам тобі сигнал про атаку. Але насамперед роздобудь собі зброю хорошу - кулемет ПКМ/«Печеніг»/М60 на твій вибір і короб патронів до нього. Відчуваю, скоро у Барі буде жаркувато!</ukr>
 	</string>
 
 	<string id="voronin_infa_gg_poluch_0">
-		<rus>Добыл я «Грозу». Ну, что там? Можно занимать позицию?</rus>
-		<eng>I got the "Thunderstorm". What's happening? Can we take up position?</eng>
-		<ukr>Дістав я «Грозу». Ну, що там? Можна займати позицію?</ukr>
+		<rus>Добыл я пулемёт. Ну, что там? Можно занимать позицию?</rus>
+		<eng>===I got the "Thunderstorm". What's happening? Can we take up position?</eng>
+		<ukr>Дістав я кулемет. Ну, що там? Можна займати позицію?</ukr>
 	</string>
 	<string id="voronin_infa_gg_poluch_1">
 		<rus>Молодец! Теперь вижу, что подготовился к встрече.</rus>
@@ -2131,9 +2156,9 @@
 		<ukr>Ну... Спасибки... Побільше б таких генералів....</ukr>
 	</string>
 	<string id="naemn_shturm_otbit_3">
-		<rus>Ладно, уговорил... В награду за твою помощь нашим ребятам на блокпосту возьми вот этот дробовик, да не смотри что он маленький и неказистый, в ближнем бою он тебя не раз выручит.</rus>
+		<rus>Ладно, уговорил... В награду за твою помощь нашим ребятам на блокпосту возьми вот этот дробовик, да не смотри, что он маленький и неказистый, в ближнем бою он тебя не раз выручит.</rus>
 		<eng>Okay, you convinced me... As a reward for helping our guys at the checkpoint, take this shotgun, it saved me more than once, in close quarter battles.</eng>
-		<ukr>Гаразд, умовив... В нагороду за твою допомогу нашим хлопцям на блокпості візьми ось цей дробовик, та не дивись що він такий маленький і непоказний, у ближньому бою він тебе ще не раз виручить.</ukr>
+		<ukr>Гаразд, умовив... В нагороду за твою допомогу нашим хлопцям на блокпості візьми ось цей дробовик, та не дивись, що він такий маленький і непоказний, у ближньому бою він тебе ще не раз виручить.</ukr>
 	</string>
 
 
@@ -2203,7 +2228,7 @@
 		<ukr>Що, замовити мені його хочеш?</ukr>
 	</string>
 	<string id="kalinin_zadan_vzyt_5">
-		<rus>Заказывать-не заказать, но человечка этого шлёпнуть надо, иначе это никогда не прекратится. Сам-то он на АТП отсиживается, а шестёрок своих нас штурмовать отправляет... Как выглядит он, я не знаю, знаю только погоняло - Шныра. Будь любезен, упокой его душу. Во, как в воду глядел - бандиты опять атакуют... Будь внимателен - они обычно в две волны идут, вторая - чуть погодя и с фланга.</rus>
+		<rus>Заказать-не заказать, но человечка этого шлёпнуть надо, иначе это никогда не прекратится. Сам-то он на АТП отсиживается, а шестёрок своих нас штурмовать отправляет... Как выглядит он, я не знаю, знаю только погоняло - Шныра. Будь любезен, упокой его душу. Во, как в воду глядел - бандиты опять атакуют... Будь внимателен - они обычно в две волны идут, вторая - чуть погодя и с фланга.</rus>
 		<eng>Dispose of him, or not, but the little man needs to be taken care of, otherwise he will never stop. He sits back at the ATP, and sends his lackeys to assault us... I don't know what he looks like, I only know he goes by the name, Slick. Be kind, put an end to this. As anticipated - the bandits have attacked again... Be attentive - they usually come in two waves, the second - after a while and from the flank.</eng>
 		<ukr>Замовити-не замовити, але чоловічка цього шльопнути треба, інакше це ніколи не припиниться. Сам то він на АТП відсиджується, а шісток своїх нас штурмувати відправляє... Як виглядає він, я не знаю, знаю тільки поганяло - Шнира. Будь люб'язний, упокій його душу. Во, як у воду дивився - бандити знову атакують... Будь уважний - вони зазвичай у дві хвилі йдуть - друга трохи згодом і з флагну.</ukr>
 	</string>
@@ -2228,7 +2253,7 @@
 		<ukr>Вірю. А на орлів не ображайся - вони наступного разу тобі допоможуть.</ukr>
 	</string>
 	<string id="kalinin_otvet_2">
-		<rus>Совет - хоть АТП я и зачистил, соваться туда не советую - слышал, как бандиты помощь запрашивали. Так что скоро их опять толпа заявиться. Да, не забудь - я человек скромный, о награде даже не спрашиваю.</rus>
+		<rus>Совет - хоть АТП я и зачистил, соваться туда не советую - слышал, как бандиты помощь запрашивали. Так что скоро их опять толпа заявится. Да, не забудь - я человек скромный, о награде даже не спрашиваю.</rus>
 		<eng>A word of advice - even though I cleared out the ATP, I don't advise you to go there - I heard how the Bandits requested help. So soon, a crowd will show up again. And by the way - I'm a modest person, I don't even ask about rewards.</eng>
 		<ukr>Рада - хоч АТП я і зачистив, сунутися туди не раджу - чув, як бандити допомогу запитували. Так що скоро їх знову натовп заявиться. Так, не забудь - я людина скромна, про нагороду навіть не запитую.</ukr>
 	</string>
@@ -2532,8 +2557,8 @@
 	</string>
 	<string id="shax_plennik_nayti_5">
 		<rus>Я бывал в той пещере ещё до аварии на станции. Там их целых три. В самой большой - склад был. Люди мои сказали, что в нижней пещере сейчас одни мутанты, хоть и артефактов оттуда много принесли - но далеко сунуться побоялись - темно и очень опасно... А разговоров, чтобы освободить пленного нет и вообще - фанатиков много и они хорошо вооружены. Говорят, главарь у них вообще бессмертен... Удалось лишь выяснить, что код замка камеры с пленником находится у часового. Надо попробовать моего человечка освободить - мужичок неплохой, да и информации у него полезной полно. Если надумаешь пойти - переход в зале, где и образовался пролом... Аптечек с собой не забудь. Да, блокнот часового не выкидывай - хочу почитать... И помни - если пленник погибнет - тебе не выбраться из Лабиринта - обратную дорогу знает только он...</rus>
-		<eng>Я бывал в той пещере ещё до аварии на станции. Там их целых три. В самой большой - склад был. Люди мои сказали, что в нижней пещере сейчас одни мутанты, хоть и артефактов оттуда много принесли - но далеко сунуться побоялись - темно и очень опасно... А разговоров, чтобы освободить пленного нет и вообще - фанатиков много и они хорошо вооружены. Говорят, главарь у них вообще бессмертен... Удалось лишь выяснить, что код замка камеры с пленником находится у часового. Надо попробовать моего человечка освободить - мужичок неплохой, да и информации у него полезной полно. Если надумаешь пойти - переход в зале, где и образовался пролом... Аптечек с собой не забудь. Да, блокнот часового не выкидывай - хочу почитать... И помни - если пленник погибнет - тебе не выбраться из Лабиринта - обратную дорогу знает только он...</eng>
-		<ukr>I had been in that cave before the accident at the CNPP. There are three of them. The largest one - contains a warehouse. My people said that there are mutants in the lower cave now, although they've brought a lot of artefacts from there - they are afraid to venture too far inside - it's too dark and very dangerous... They say the leader is generally immortal... It only possible to get the lock code of the cell, from the sentry. It's necessary to try to free my man - the man is not bad, and he has a lot of useful information. If you decide to go - the passage is in the hall, where a break was formed... Don't forget to take first-aid kits with you. Yes, don't leave the sentry's notebook behind - I want to read it... And remember - if the prisoner dies - you won't get out of the Labyrinth - only he knows the way back...</ukr>
+		<eng>I had been in that cave before the accident at the CNPP. There are three of them. The largest one - contains a warehouse. My people said that there are mutants in the lower cave now, although they've brought a lot of artefacts from there - they are afraid to venture too far inside - it's too dark and very dangerous... They say the leader is generally immortal... It only possible to get the lock code of the cell, from the sentry. It's necessary to try to free my man - the man is not bad, and he has a lot of useful information. If you decide to go - the passage is in the hall, where a break was formed... Don't forget to take first-aid kits with you. Yes, don't leave the sentry's notebook behind - I want to read it... And remember - if the prisoner dies - you won't get out of the Labyrinth - only he knows the way back...</eng>
+		<ukr>Я бував в тій печері ще до аварії на станції. Там їх цілих три. У найбільшій - склад був. Люди мої сказали, що в нижній печері зараз одні мутанти, хоч і артефактів звідти багато принесли - але далеко поткнутися побоялися - темно і дуже небезпечно... А розмов, щоб звільнити полоненого немає і взагалі - фанатиків багато і вони добре озброєні. Кажуть, ватажок у них взагалі безсмертний... Вдалося лише з'ясувати, що код замка камери з бранцем знаходиться у вартового. Треба спробувати мого чоловічка звільнити - мужичок непоганий, та й інформації у нього корисної повно. Якщо надумаєш піти - перехід в залі, де і утворився пролом... аптечок з собою не забудь. Так, блокнот вартового не викидай - хочу почитати... І пам'ятай - якщо бранець загине-тобі не вибратися з Лабіринту - зворотну дорогу знає тільки він...</ukr>
 	</string>
 	<string id="shax_plennik_nayti_6">
 		<rus>Хорошо, попробую. Заодно посмотрю, что там за база. Аптечки возьму с собой, не забуду, и блокнот постараюсь не потерять, если добуду.</rus>
@@ -4094,8 +4119,8 @@
 
 
 	<string id="ginek_vlip_0">
-		<rus>Shura, I didn't get the reagents... I managed to communicate with Chimera - the snipers' leader. To get the reagents, I need to kill Sidorovich, cut off his head and bring it back as evidence...</rus>
-		<eng>Шура, не достать нам реагенты... Сумел я пообщаться с боссом снайперов - Химерой. Требует за растворы шлёпнуть Сидоровича, отрезать ему голову и принести её в доказательство...</eng>
+		<rus>Шура, не достать нам реагенты... Сумел я пообщаться с боссом снайперов - Химерой. Требует за растворы шлёпнуть Сидоровича, отрезать ему голову и принести её в доказательство...</rus>
+		<eng>Shura, I didn't get the reagents... I managed to communicate with Chimera - the snipers' leader. To get the reagents, I need to kill Sidorovich, cut off his head and bring it back as evidence...</eng>
 		<ukr>Сашко, не дістати нам реагенти.... Зумів я поспілкуватися з босом снайперів - Химерою. Вимагає за розчини шльопнути Сидоровича, відрізати йому голову і принести її на доказ....</ukr>
 	</string>
 	<string id="ginek_vlip_1">
@@ -4744,7 +4769,7 @@
 	<string id="body_pantera_talk_1">
 		<rus>Да... Мы с друганом своё уже отпахали, теперь нас ждёт вилла в Майами и безбедная жизнь... Но я не о том хотел побазарить. Хочу тебя попросить - мы скоро на Большую Землю - присмотрел бы ты за начальницей нашей... Конечно, она сама за себя постоять сможет - молодая, а за плечами - не один десяток спецопераций... Только для роли наёмницы она плохо подходит - люди тут ушлые - того гляди перо в спину за пару тысяч всадят, даже не задумаются - каждый сам за себя... Что её тут удерживает - непонятно, но, очевидно, что-то важное для неё самой.</rus>
 		<eng>Yes... My friend and I have finished our tour of duty here, so now we're waiting for a villa in Miami and a comfortable life... But I won't dwell on that. We'll soon be going to the Big Earth - so I wanted to ask you -  would you look after our boss... She's able to look after herself, of course - she's young, and with more than a dozen special operations under her belt... But she's badly suited to the role of a mercenary - people can't be trusted here - they would stab you in the back for a couple of thousand, and not even think twice about it - it's every man for himself... I don't know what keeps her here, but obviously it's something important.</eng>
-		<ukr>Да... Мы с друганом своё уже отпахали, теперь нас ждёт вилла в Майами и безбедная жизнь... Но я не о том хотел побазарить. Хочу тебя попросить - мы скоро на Большую Землю - присмотрел бы ты за начальницей нашей... Конечно, она сама за себя постоять сможет - молодая, а за плечами - не один десяток спецопераций... Только для роли наёмницы она плохо подходит - люди тут ушлые - того гляди перо в спину за пару тысяч всадят, даже не задумаются - каждый сам за себя... Что её тут удерживает - непонятно, но, очевидно, что-то важное для неё самой.</ukr>
+		<ukr>Так... Ми з друганом своє вже відпахали, тепер нас чекає вілла в Майамі і безбідне життя... Але я не про те хотів побазарити. Хочу тебе попросити - ми скоро на Велику Землю - пригледів би ти за начальницею нашою... Звичайно, вона сама за себе постояти зможе - молода, а за плечима - не один десяток спецоперацій... Тільки для ролі найманки вона погано підходить - люди тут спритні - того гляди перо в спину за пару тисяч всадять, навіть не замисляться - кожен сам за себе... Що її тут утримує - незрозуміло, але, очевидно, щось важливе для неї самої...</ukr>
 	</string>
 	<string id="body_pantera_talk_2">
 		<rus>Без базара, правда в телохранители я не пойду, да и за ручку водить её по Зоне не буду. Но если помощь потребуется - помогу, сам предательство презираю.</rus>
@@ -6045,8 +6070,8 @@
 
 
 	<string id="zemlyk_zadanie_0">
-		<rus>Hi. I see you're in charge here. What's with the weird freaky helmet? In what Third Reich warehouse did you dig it up? Silent, instead of talking, rather send a text message... also by the way, preferring German for his own... Well, that's not what I wanted to ask. I would like to get some information. My friend and I need to get into the base, which is located here - we have information that there's a good man imprisoned there.</rus>
-		<eng>Привет. Я вижу, ты тут за старшего. Что у вас за странный неформал в каске? На каком складе Третьего Рейха его откопали? Молчит, вместо разговора СМС отправил... с пушкой со своей, тоже кстати, немецкой играется... Ну да ладно, не об это я хотел спросить. Мне бы информацией разжиться. Нам с другом надо пробраться на базу, которая здесь находится - есть сведения, что там держат в плену человека одного хорошего.</eng>
+		<rus>Привет. Я вижу, ты тут за старшего. Что у вас за странный неформал в каске? На каком складе Третьего Рейха его откопали? Молчит, вместо разговора СМС отправил... с пушкой со своей, тоже кстати, немецкой играется... Ну да ладно, не об это я хотел спросить. Мне бы информацией разжиться. Нам с другом надо пробраться на базу, которая здесь находится - есть сведения, что там держат в плену человека одного хорошего.</rus>
+		<eng>Hi. I see you're in charge here. What's with the weird freaky helmet? In what Third Reich warehouse did you dig it up? Silent, instead of talking, rather send a text message... also by the way, preferring German for his own... Well, that's not what I wanted to ask. I would like to get some information. My friend and I need to get into the base, which is located here - we have information that there's a good man imprisoned there.</eng>
 		<ukr>Привіт. Я бачу, ти тут за старшого. Що у вас за дивний неформал в касці? На якому складі Третього Рейху його відкопали? Мовчить, замість розмови СМС відправив... з пушкою зі своєю, теж до речі, німецькою грається... Ну та гаразд, не про це я хотів запитати. Мені б інформацією розжитися. Нам з другом треба пробратися на базу, яка тут знаходиться - є відомості, що там тримають в полоні людину одну хорошу.</ukr>
 	</string>
 	<string id="zemlyk_zadanie_1">
@@ -6194,8 +6219,8 @@
 	</string>
 	<string id="andersen_vstrecha_6">
 		<rus>Вертолёт? Да, слышу. Хватит паниковать. Я сейчас пойду посмотрю, что это за вертолёт. Тебе повезло - ты нужен мне живым, так что успокойся и жди.</rus>
-		<eng>Вертолёт? Да, слышу. Хватит паниковать. Я сейчас пойду посмотрю, что это за вертолёт. Тебе повезло - ты нужен мне живым, так что успокойся и жди.</eng>
-		<ukr>Helicopter? Yes, I can hear it. Stop panicking. I'm going to go see what kind of helicopter it is. You're lucky - I need you alive, so calm down and wait.</ukr>
+		<eng>Helicopter? Yes, I can hear it. Stop panicking. I'm going to go see what kind of helicopter it is. You're lucky - I need you alive, so calm down and wait.</eng>
+		<ukr>Вертоліт? Так, чую. Досить панікувати. Я зараз піду подивлюся, що це за вертоліт. Тобі пощастило - ти потрібен мені живим, так що заспокойся і чекай.</ukr>
 	</string>
 
 
@@ -8047,8 +8072,8 @@
 		<ukr>Дивно, а я думав ви з військовими не особливо ладите... Так, детектор я зробив, але що саме шукати я не знаю - він налаштований всього лише на сплав пластика. Його не обов'язково вішати на пояс - він подасть вам сигнал і з рюкзака, а щоб ви не переплутали сигнал з сигналом детектора аномалій - ще прийде і повідомлення на ваш КПК. А цей великий і важкий кулемет чи як там його - справді у мене. Ось, тримайте детектор. Єдине, що можу підказати - ймовірно та річ, яку ви будете шукати знаходиться не так далеко від впавшого вертольота - якщо її вже хто-небудь не знайшов раніше вас. Хоча - вона може бути де завгодно. До речі - цей майор, з яким ви говорили - допомагає нам трохи, так що ви вже постарайтеся відшукати те, що йому потрібно.</ukr>
 	</string>
 	<string id="saxar_after_baty_2">
-		<rus>Ну что же... спасибо. Поду на поиски.</rus>
-		<eng>Ну что же... спасибо. Поду на поиски.</eng>
+		<rus>Ну что же... спасибо. Пойду на поиски.</rus>
+		<eng>Ну что же... спасибо. Пойду на поиски.</eng>
 		<ukr>Ну що ж... дякую. Піду на пошуки.</ukr>
 	</string>
 
