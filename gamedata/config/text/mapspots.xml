@@ -1,839 +1,839 @@
-<?xml version="1.0" encoding="windows-1251" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <string_table>
 	<string id="pri_bus_station_zone_hint">
-		<rus>Автобусная станция</rus>
+		<rus>РђРІС‚РѕР±СѓСЃРЅР°СЏ СЃС‚Р°РЅС†РёСЏ</rus>
 		<eng>Bus station</eng>
-		<ukr>Автобусна станція</ukr>
+		<ukr>РђРІС‚РѕР±СѓСЃРЅР° СЃС‚Р°РЅС†С–СЏ</ukr>
 	</string>
 	<string id="pri_hotel_zone_hint">
-		<rus>Гостиница</rus>
+		<rus>Р“РѕСЃС‚РёРЅРёС†Р°</rus>
 		<eng>Hotel</eng>
-		<ukr>Готель</ukr>
+		<ukr>Р“РѕС‚РµР»СЊ</ukr>
 	</string>
 	<string id="pri_monolith_base_zone_hint">
-		<rus>База Монолита</rus>
+		<rus>Р‘Р°Р·Р° РњРѕРЅРѕР»РёС‚Р°</rus>
 		<eng>Monolith Base</eng>
-		<ukr>База «Моноліту»</ukr>
+		<ukr>Р‘Р°Р·Р° В«РњРѕРЅРѕР»С–С‚СѓВ»</ukr>
 	</string>
 	<string id="pri_stadium_zone_hint">
-		<rus>Стадион</rus>
+		<rus>РЎС‚Р°РґРёРѕРЅ</rus>
 		<eng>Stadium</eng>
-		<ukr>Стадіон</ukr>
+		<ukr>РЎС‚Р°РґС–РѕРЅ</ukr>
 	</string>
 	<string id="gar_angar">
-		<rus>Заброшенный ангар</rus>
+		<rus>Р—Р°Р±СЂРѕС€РµРЅРЅС‹Р№ Р°РЅРіР°СЂ</rus>
 		<eng>Abandoned hangar</eng>
-		<ukr>Кинутий ангар</ukr>
+		<ukr>РљРёРЅСѓС‚РёР№ Р°РЅРіР°СЂ</ukr>
 	</string>
 	<string id="gar_bandit_agr">
-		<rus>Лагерь бандитов на выходе с Агропрома</rus>
+		<rus>Р›Р°РіРµСЂСЊ Р±Р°РЅРґРёС‚РѕРІ РЅР° РІС‹С…РѕРґРµ СЃ РђРіСЂРѕРїСЂРѕРјР°</rus>
 		<eng>Bandit camp by the exit from Agroprom</eng>
-		<ukr>Табір бандитів на виході з Агропрома</ukr>
+		<ukr>РўР°Р±С–СЂ Р±Р°РЅРґРёС‚С–РІ РЅР° РІРёС…РѕРґС– Р· РђРіСЂРѕРїСЂРѕРјР°</ukr>
 	</string>
 	<string id="gar_bandit_post">
-		<rus>Укреп.район бандитов по дороге на Агропром</rus>
+		<rus>РЈРєСЂРµРї.СЂР°Р№РѕРЅ Р±Р°РЅРґРёС‚РѕРІ РїРѕ РґРѕСЂРѕРіРµ РЅР° РђРіСЂРѕРїСЂРѕРј</rus>
 		<eng>Bandit fort. zone on the road to Agroprom</eng>
-		<ukr>Укріпрайон бандитів по дорозі на Агропром</ukr>
+		<ukr>РЈРєСЂС–РїСЂР°Р№РѕРЅ Р±Р°РЅРґРёС‚С–РІ РїРѕ РґРѕСЂРѕР·С– РЅР° РђРіСЂРѕРїСЂРѕРј</ukr>
 	</string>
 	<string id="gar_bandits_leader">
-		<rus>Рейд бандитов, возглавляемый паханом</rus>
+		<rus>Р РµР№Рґ Р±Р°РЅРґРёС‚РѕРІ, РІРѕР·РіР»Р°РІР»СЏРµРјС‹Р№ РїР°С…Р°РЅРѕРј</rus>
 		<eng>Bandit raid led by the boss</eng>
-		<ukr>Рейд бандитів, очолюваний паханом</ukr>
+		<ukr>Р РµР№Рґ Р±Р°РЅРґРёС‚С–РІ, РѕС‡РѕР»СЋРІР°РЅРёР№ РїР°С…Р°РЅРѕРј</ukr>
 	</string>
 	<string id="gar_boars_nest">
-		<rus>Скопление кабанов</rus>
+		<rus>РЎРєРѕРїР»РµРЅРёРµ РєР°Р±Р°РЅРѕРІ</rus>
 		<eng>Horde of boars</eng>
-		<ukr>Скупчення кабанів</ukr>
+		<ukr>РЎРєСѓРїС‡РµРЅРЅСЏ РєР°Р±Р°РЅС–РІ</ukr>
 	</string>
 	<string id="gar_car_graveyard">
-		<rus>Кладбище брошенной техники</rus>
+		<rus>РљР»Р°РґР±РёС‰Рµ Р±СЂРѕС€РµРЅРЅРѕР№ С‚РµС…РЅРёРєРё</rus>
 		<eng>Vehicle graveyard</eng>
-		<ukr>Кладовище старої техніки</ukr>
+		<ukr>РљР»Р°РґРѕРІРёС‰Рµ СЃС‚Р°СЂРѕС— С‚РµС…РЅС–РєРё</ukr>
 	</string>
 	<string id="gar_dogs_in_forest">
-		<rus>Лес, в котором много собак</rus>
+		<rus>Р›РµСЃ, РІ РєРѕС‚РѕСЂРѕРј РјРЅРѕРіРѕ СЃРѕР±Р°Рє</rus>
 		<eng>Dog-infested forest</eng>
-		<ukr>Ліс, в якому багато собак</ukr>
+		<ukr>Р›С–СЃ, РІ СЏРєРѕРјСѓ Р±Р°РіР°С‚Рѕ СЃРѕР±Р°Рє</ukr>
 	</string>
 	<string id="gar_dolg_blokpost">
-		<rus>Блокпост Долга по дороге к Бару</rus>
+		<rus>Р‘Р»РѕРєРїРѕСЃС‚ Р”РѕР»РіР° РїРѕ РґРѕСЂРѕРіРµ Рє Р‘Р°СЂСѓ</rus>
 		<eng>Duty checkpoint on the road to the Bar</eng>
-		<ukr>Блокпост «Долгу» по дорозі до Бара</ukr>
+		<ukr>Р‘Р»РѕРєРїРѕСЃС‚ В«Р”РѕР»РіСѓВ» РїРѕ РґРѕСЂРѕР·С– РґРѕ Р‘Р°СЂР°</ukr>
 	</string>
 	<string id="gar_hellcar">
-		<rus>Группа сталкеров нейтралов зовёт на помощь</rus>
+		<rus>Р“СЂСѓРїРїР° СЃС‚Р°Р»РєРµСЂРѕРІ РЅРµР№С‚СЂР°Р»РѕРІ Р·РѕРІС‘С‚ РЅР° РїРѕРјРѕС‰СЊ</rus>
 		<eng>A group of neutral stalkers calling for help</eng>
-		<ukr>Група сталкерів-нейтралів кличе на допомогу</ukr>
+		<ukr>Р“СЂСѓРїР° СЃС‚Р°Р»РєРµСЂС–РІ-РЅРµР№С‚СЂР°Р»С–РІ РєР»РёС‡Рµ РЅР° РґРѕРїРѕРјРѕРіСѓ</ukr>
 	</string>
 	<string id="gar_newbie">
-		<rus>Новичок, испуганный и уставший</rus>
+		<rus>РќРѕРІРёС‡РѕРє, РёСЃРїСѓРіР°РЅРЅС‹Р№ Рё СѓСЃС‚Р°РІС€РёР№</rus>
 		<eng>A scared and tired rookie</eng>
-		<ukr>Новачок, переляканий і стомлений</ukr>
+		<ukr>РќРѕРІР°С‡РѕРє, РїРµСЂРµР»СЏРєР°РЅРёР№ С– СЃС‚РѕРјР»РµРЅРёР№</ukr>
 	</string>
 	<string id="gar_secret1">
-		<rus>Тайник, оставленный новичком</rus>
+		<rus>РўР°Р№РЅРёРє, РѕСЃС‚Р°РІР»РµРЅРЅС‹Р№ РЅРѕРІРёС‡РєРѕРј</rus>
 		<eng>The rookie's secret stash</eng>
-		<ukr>Схованка, залишена новачком.</ukr>
+		<ukr>РЎС…РѕРІР°РЅРєР°, Р·Р°Р»РёС€РµРЅР° РЅРѕРІР°С‡РєРѕРј.</ukr>
 	</string>
 	<string id="gar_seriy">
-		<rus>Группа Серого</rus>
+		<rus>Р“СЂСѓРїРїР° РЎРµСЂРѕРіРѕ</rus>
 		<eng>Seriy's group</eng>
-		<ukr>Група Сірого</ukr>
+		<ukr>Р“СЂСѓРїР° РЎС–СЂРѕРіРѕ</ukr>
 	</string>
 	<string id="gar_swamp">
-		<rus>Гримпенская трясина</rus>
+		<rus>Р“СЂРёРјРїРµРЅСЃРєР°СЏ С‚СЂСЏСЃРёРЅР°</rus>
 		<eng>The Grimpen Mire</eng>
-		<ukr>Грімпенська трясовина</ukr>
+		<ukr>Р“СЂС–РјРїРµРЅСЃСЊРєР° С‚СЂСЏСЃРѕРІРёРЅР°</ukr>
 	</string>
 	<string id="gar_trash1">
-		<rus>Кучи мусора с аномалиями и артефактами</rus>
+		<rus>РљСѓС‡Рё РјСѓСЃРѕСЂР° СЃ Р°РЅРѕРјР°Р»РёСЏРјРё Рё Р°СЂС‚РµС„Р°РєС‚Р°РјРё</rus>
 		<eng>Piles of rubbish with anomalies and artifacts</eng>
-		<ukr>Купи сміття з аномаліями та артефактами</ukr>
+		<ukr>РљСѓРїРё СЃРјС–С‚С‚СЏ Р· Р°РЅРѕРјР°Р»С–СЏРјРё С‚Р° Р°СЂС‚РµС„Р°РєС‚Р°РјРё</ukr>
 	</string>
 	<string id="gar_tunnel">
-		<rus>Железнодорожный тоннель</rus>
+		<rus>Р–РµР»РµР·РЅРѕРґРѕСЂРѕР¶РЅС‹Р№ С‚РѕРЅРЅРµР»СЊ</rus>
 		<eng>Railroad tunnel</eng>
-		<ukr>Залізничний тунель</ukr>
+		<ukr>Р—Р°Р»С–Р·РЅРёС‡РЅРёР№ С‚СѓРЅРµР»СЊ</ukr>
 	</string>
 	<string id="gar_wounded_help">
-		<rus>Сигнал СОС; очевидно, раненый сталкер</rus>
+		<rus>РЎРёРіРЅР°Р» РЎРћРЎ; РѕС‡РµРІРёРґРЅРѕ, СЂР°РЅРµРЅС‹Р№ СЃС‚Р°Р»РєРµСЂ</rus>
 		<eng>SOS signal; probably a wounded stalker</eng>
-		<ukr>Сигнал SOS. Вочевидь, поранений сталкер.</ukr>
+		<ukr>РЎРёРіРЅР°Р» SOS. Р’РѕС‡РµРІРёРґСЊ, РїРѕСЂР°РЅРµРЅРёР№ СЃС‚Р°Р»РєРµСЂ.</ukr>
 	</string>
 	<string id="bar_darklab_documents_1_hint">
-		<rus>Боров</rus>
+		<rus>Р‘РѕСЂРѕРІ</rus>
 		<eng>Borov</eng>
-		<ukr>Кабан</ukr>
+		<ukr>РљР°Р±Р°РЅ</ukr>
 	</string>
 	<string id="bar_darklab_documents_2_hint">
-		<rus>Тоннель</rus>
+		<rus>РўРѕРЅРЅРµР»СЊ</rus>
 		<eng>Tunnel</eng>
-		<ukr>Тунель</ukr>
+		<ukr>РўСѓРЅРµР»СЊ</ukr>
 	</string>
 	<string id="bar_darklab_documents_hint">
-		<rus>Вход в лабораторию</rus>
+		<rus>Р’С…РѕРґ РІ Р»Р°Р±РѕСЂР°С‚РѕСЂРёСЋ</rus>
 		<eng>Lab entrance</eng>
-		<ukr>Вхід до лабораторії</ukr>
+		<ukr>Р’С…С–Рґ РґРѕ Р»Р°Р±РѕСЂР°С‚РѕСЂС–С—</ukr>
 	</string>
 	<string id="bar_darklab_documents_4_hint">
-		<rus>Труба</rus>
+		<rus>РўСЂСѓР±Р°</rus>
 		<eng>Pipe</eng>
-		<ukr>Труба</ukr>
+		<ukr>РўСЂСѓР±Р°</ukr>
 	</string>
 	<string id="bar_darklab_documents2_1_hint">
-		<rus>Документы из лаборатории</rus>
+		<rus>Р”РѕРєСѓРјРµРЅС‚С‹ РёР· Р»Р°Р±РѕСЂР°С‚РѕСЂРёРё</rus>
 		<eng>Documents from the Lab</eng>
-		<ukr>Документи з лабораторії</ukr>
+		<ukr>Р”РѕРєСѓРјРµРЅС‚Рё Р· Р»Р°Р±РѕСЂР°С‚РѕСЂС–С—</ukr>
 	</string>
 	<string id="bar_darklab_documents2_2_hint">
-		<rus>Бармен</rus>
+		<rus>Р‘Р°СЂРјРµРЅ</rus>
 		<eng>Barkeep</eng>
-		<ukr>Бармен</ukr>
+		<ukr>Р‘Р°СЂРјРµРЅ</ukr>
 	</string>
 	<string id="val_captive_help_1_hint">
-		<rus>Пуля</rus>
+		<rus>РџСѓР»СЏ</rus>
 		<eng>Bullet</eng>
-		<ukr>Куля</ukr>
+		<ukr>РљСѓР»СЏ</ukr>
 	</string>
 	<string id="val_captive_help_2_hint">
-		<rus>Пленный</rus>
+		<rus>РџР»РµРЅРЅС‹Р№</rus>
 		<eng>Prisoner</eng>
-		<ukr>Полонений</ukr>
+		<ukr>РџРѕР»РѕРЅРµРЅРёР№</ukr>
 	</string>
 	<string id="val_come_to_trader_1_hint">
-		<rus>Южные ворота</rus>
+		<rus>Р®Р¶РЅС‹Рµ РІРѕСЂРѕС‚Р°</rus>
 		<eng>South Gate</eng>
-		<ukr>Південні ворота</ukr>
+		<ukr>РџС–РІРґРµРЅРЅС– РІРѕСЂРѕС‚Р°</ukr>
 	</string>
 	<string id="val_come_to_trader_2_hint">
-		<rus>Торговец</rus>
+		<rus>РўРѕСЂРіРѕРІРµС†</rus>
 		<eng>Trader</eng>
-		<ukr>Крамар</ukr>
+		<ukr>РљСЂР°РјР°СЂ</ukr>
 	</string>
 	<string id="val_prisoner_help_main_hint">
-		<rus>Пленённый долговец</rus>
+		<rus>РџР»РµРЅС‘РЅРЅС‹Р№ РґРѕР»РіРѕРІРµС†</rus>
 		<eng>Captive Duty member</eng>
-		<ukr>Полонений «долгівець»</ukr>
+		<ukr>РџРѕР»РѕРЅРµРЅРёР№ В«РґРѕР»РіС–РІРµС†СЊВ»</ukr>
 	</string>
 	<string id="val_sos_help_main_hint">
-		<rus>Раненый сталкер</rus>
+		<rus>Р Р°РЅРµРЅС‹Р№ СЃС‚Р°Р»РєРµСЂ</rus>
 		<eng>Wounded stalker</eng>
-		<ukr>Поранений сталкер</ukr>
+		<ukr>РџРѕСЂР°РЅРµРЅРёР№ СЃС‚Р°Р»РєРµСЂ</ukr>
 	</string>
 	<string id="val_zone_bandits_hint">
-		<rus>Лагерь бандитов</rus>
+		<rus>Р›Р°РіРµСЂСЊ Р±Р°РЅРґРёС‚РѕРІ</rus>
 		<eng>Bandit camp</eng>
-		<ukr>Табір бандитів</ukr>
+		<ukr>РўР°Р±С–СЂ Р±Р°РЅРґРёС‚С–РІ</ukr>
 	</string>
 	<string id="val_zone_farm_hint">
-		<rus>Ферма\nКупить винтовку Гаусса</rus>
+		<rus>Р¤РµСЂРјР°\nРљСѓРїРёС‚СЊ РІРёРЅС‚РѕРІРєСѓ Р“Р°СѓСЃСЃР°</rus>
 		<eng>Farm.\nBuy Gauss.</eng>
-		<ukr>Ферма.\nКупити Гаусс.</ukr>
+		<ukr>Р¤РµСЂРјР°.\nРљСѓРїРёС‚Рё Р“Р°СѓСЃСЃ.</ukr>
 	</string>
 	<string id="val_zone_monolith_hint">
-		<rus>Старая фабрика</rus>
+		<rus>РЎС‚Р°СЂР°СЏ С„Р°Р±СЂРёРєР°</rus>
 		<eng>Old factory</eng>
-		<ukr>Стара фабрика</ukr>
+		<ukr>РЎС‚Р°СЂР° С„Р°Р±СЂРёРєР°</ukr>
 	</string>
 	<string id="val_zone_pipe_hint">
-		<rus>Канализационная труба</rus>
+		<rus>РљР°РЅР°Р»РёР·Р°С†РёРѕРЅРЅР°СЏ С‚СЂСѓР±Р°</rus>
 		<eng>Sewer pipe</eng>
-		<ukr>Каналізаційна труба</ukr>
+		<ukr>РљР°РЅР°Р»С–Р·Р°С†С–Р№РЅР° С‚СЂСѓР±Р°</ukr>
 	</string>
 	<string id="val_zone_robbers_hint">
-		<rus>Заброшенная свиноферма</rus>
+		<rus>Р—Р°Р±СЂРѕС€РµРЅРЅР°СЏ СЃРІРёРЅРѕС„РµСЂРјР°</rus>
 		<eng>Abandoned pig farm</eng>
-		<ukr>Стара свиноферма</ukr>
+		<ukr>РЎС‚Р°СЂР° СЃРІРёРЅРѕС„РµСЂРјР°</ukr>
 	</string>
 	<string id="val_zone_south_gate_hint">
-		<rus>Ворота</rus>
+		<rus>Р’РѕСЂРѕС‚Р°</rus>
 		<eng>Gates</eng>
-		<ukr>Ворота</ukr>
+		<ukr>Р’РѕСЂРѕС‚Р°</ukr>
 	</string>
 	<string id="blokpost_case">
-		<rus>Кейс с документами</rus>
+		<rus>РљРµР№СЃ СЃ РґРѕРєСѓРјРµРЅС‚Р°РјРё</rus>
 		<eng>Briefcase with docs</eng>
-		<ukr>Кейс із документами</ukr>
+		<ukr>РљРµР№СЃ С–Р· РґРѕРєСѓРјРµРЅС‚Р°РјРё</ukr>
 	</string>
 	<string id="esc_fox">
-		<rus>Раненый Лис</rus>
+		<rus>Р Р°РЅРµРЅС‹Р№ Р›РёСЃ</rus>
 		<eng>Wounded Fox</eng>
-		<ukr>Поранений Лис</ukr>
+		<ukr>РџРѕСЂР°РЅРµРЅРёР№ Р›РёСЃ</ukr>
 	</string>
 	<string id="esc_mill">
-		<rus>Заброшенная мельница, где-то здесь последний раз видели пропавшего братка</rus>
+		<rus>Р—Р°Р±СЂРѕС€РµРЅРЅР°СЏ РјРµР»СЊРЅРёС†Р°, РіРґРµ-С‚Рѕ Р·РґРµСЃСЊ РїРѕСЃР»РµРґРЅРёР№ СЂР°Р· РІРёРґРµР»Рё РїСЂРѕРїР°РІС€РµРіРѕ Р±СЂР°С‚РєР°</rus>
 		<eng>Abandoned mill, missed bro was last seen somewhere around here</eng>
-		<ukr>Закинутий млин. Десь тут останній раз бачили зниклого братуху.</ukr>
+		<ukr>Р—Р°РєРёРЅСѓС‚РёР№ РјР»РёРЅ. Р”РµСЃСЊ С‚СѓС‚ РѕСЃС‚Р°РЅРЅС–Р№ СЂР°Р· Р±Р°С‡РёР»Рё Р·РЅРёРєР»РѕРіРѕ Р±СЂР°С‚СѓС…Сѓ.</ukr>
 	</string>
 	<string id="escape_trader">
-		<rus>Сидорович</rus>
+		<rus>РЎРёРґРѕСЂРѕРІРёС‡</rus>
 		<eng>Sidorovich</eng>
-		<ukr>Сидорович</ukr>
+		<ukr>РЎРёРґРѕСЂРѕРІРёС‡</ukr>
 	</string>
 	<string id="factory_bandits">
-		<rus>Бандиты на фабрике</rus>
+		<rus>Р‘Р°РЅРґРёС‚С‹ РЅР° С„Р°Р±СЂРёРєРµ</rus>
 		<eng>Bandits at the factory</eng>
-		<ukr>Бандити на фабриці</ukr>
+		<ukr>Р‘Р°РЅРґРёС‚Рё РЅР° С„Р°Р±СЂРёС†С–</ukr>
 	</string>
 	<string id="killers_team">
-		<rus>Группа неизвестных наёмников</rus>
+		<rus>Р“СЂСѓРїРїР° РЅРµРёР·РІРµСЃС‚РЅС‹С… РЅР°С‘РјРЅРёРєРѕРІ</rus>
 		<eng>An unknown group of Mercs</eng>
-		<ukr>Група невідомих найманців</ukr>
+		<ukr>Р“СЂСѓРїР° РЅРµРІС–РґРѕРјРёС… РЅР°Р№РјР°РЅС†С–РІ</ukr>
 	</string>
 	<string id="novice_leader">
-		<rus>Лидер лагеря новичков</rus>
+		<rus>Р›РёРґРµСЂ Р»Р°РіРµСЂСЏ РЅРѕРІРёС‡РєРѕРІ</rus>
 		<eng>Newbie camp leader</eng>
-		<ukr>Лідер табору новачків</ukr>
+		<ukr>Р›С–РґРµСЂ С‚Р°Р±РѕСЂСѓ РЅРѕРІР°С‡РєС–РІ</ukr>
 	</string>
 	<string id="soldiers_bridge">
-		<rus>Пост военных у разрушенного моста. Иногда за проход через мост берут взятку</rus>
+		<rus>РџРѕСЃС‚ РІРѕРµРЅРЅС‹С… Сѓ СЂР°Р·СЂСѓС€РµРЅРЅРѕРіРѕ РјРѕСЃС‚Р°. РРЅРѕРіРґР° Р·Р° РїСЂРѕС…РѕРґ С‡РµСЂРµР· РјРѕСЃС‚ Р±РµСЂСѓС‚ РІР·СЏС‚РєСѓ</rus>
 		<eng>Military checkpoint at the destroyed bridge. The soldiers are known to take bribes to let people go through</eng>
-		<ukr>Блокпост військових біля зруйнованого мосту. Іноді за прохід через міст беруть хабар.</ukr>
+		<ukr>Р‘Р»РѕРєРїРѕСЃС‚ РІС–Р№СЃСЊРєРѕРІРёС… Р±С–Р»СЏ Р·СЂСѓР№РЅРѕРІР°РЅРѕРіРѕ РјРѕСЃС‚Сѓ. Р†РЅРѕРґС– Р·Р° РїСЂРѕС…С–Рґ С‡РµСЂРµР· РјС–СЃС‚ Р±РµСЂСѓС‚СЊ С…Р°Р±Р°СЂ.</ukr>
 	</string>
 	<string id="tutorial_artefact">
-		<rus>Артефакт</rus>
+		<rus>РђСЂС‚РµС„Р°РєС‚</rus>
 		<eng>Artifact</eng>
-		<ukr>Артефакт</ukr>
+		<ukr>РђСЂС‚РµС„Р°РєС‚</ukr>
 	</string>
 	<string id="tutorial_bandits">
-		<rus>Бандиты, зажавшие разведчика</rus>
+		<rus>Р‘Р°РЅРґРёС‚С‹, Р·Р°Р¶Р°РІС€РёРµ СЂР°Р·РІРµРґС‡РёРєР°</rus>
 		<eng>Bandits who have stopped our scout</eng>
-		<ukr>Бандити, що оточили розвідника</ukr>
+		<ukr>Р‘Р°РЅРґРёС‚Рё, С‰Рѕ РѕС‚РѕС‡РёР»Рё СЂРѕР·РІС–РґРЅРёРєР°</ukr>
 	</string>
 	<string id="tutorial_secret">
-		<rus>Тайник, оставленный погибшим сталкером</rus>
+		<rus>РўР°Р№РЅРёРє, РѕСЃС‚Р°РІР»РµРЅРЅС‹Р№ РїРѕРіРёР±С€РёРј СЃС‚Р°Р»РєРµСЂРѕРј</rus>
 		<eng>Dead stalker's stash</eng>
-		<ukr>Схованка, залишена загиблим сталкером</ukr>
+		<ukr>РЎС…РѕРІР°РЅРєР°, Р·Р°Р»РёС€РµРЅР° Р·Р°РіРёР±Р»РёРј СЃС‚Р°Р»РєРµСЂРѕРј</ukr>
 	</string>
 	<string id="tutorial_secret_place1">
-		<rus>Тайник, оставленный погибшим сталкером</rus>
+		<rus>РўР°Р№РЅРёРє, РѕСЃС‚Р°РІР»РµРЅРЅС‹Р№ РїРѕРіРёР±С€РёРј СЃС‚Р°Р»РєРµСЂРѕРј</rus>
 		<eng>Dead stalker's stash</eng>
-		<ukr>Схованка, залишена загиблим сталкером</ukr>
+		<ukr>РЎС…РѕРІР°РЅРєР°, Р·Р°Р»РёС€РµРЅР° Р·Р°РіРёР±Р»РёРј СЃС‚Р°Р»РєРµСЂРѕРј</ukr>
 	</string>
 	<string id="tutorial_secret_shustryi">
-		<rus>Тайник, оставленный Шустрым</rus>
+		<rus>РўР°Р№РЅРёРє, РѕСЃС‚Р°РІР»РµРЅРЅС‹Р№ РЁСѓСЃС‚СЂС‹Рј</rus>
 		<eng>Nimble's stash</eng>
-		<ukr>Схованка, залишена Спритним</ukr>
+		<ukr>РЎС…РѕРІР°РЅРєР°, Р·Р°Р»РёС€РµРЅР° РЎРїСЂРёС‚РЅРёРј</ukr>
 	</string>
 	<string id="tutorial_wounded">
-		<rus>Пленный Шустрый</rus>
+		<rus>РџР»РµРЅРЅС‹Р№ РЁСѓСЃС‚СЂС‹Р№</rus>
 		<eng>Nimble, a prisoner</eng>
-		<ukr>Полонений Спритний</ukr>
+		<ukr>РџРѕР»РѕРЅРµРЅРёР№ РЎРїСЂРёС‚РЅРёР№</ukr>
 	</string>
 	<string id="volk">
-		<rus>Волк, лидер лагеря новичков</rus>
+		<rus>Р’РѕР»Рє, Р»РёРґРµСЂ Р»Р°РіРµСЂСЏ РЅРѕРІРёС‡РєРѕРІ</rus>
 		<eng>Wolf, the leader of the newbie camp</eng>
-		<ukr>Вовк, лідер табору новачків</ukr>
+		<ukr>Р’РѕРІРє, Р»С–РґРµСЂ С‚Р°Р±РѕСЂСѓ РЅРѕРІР°С‡РєС–РІ</ukr>
 	</string>
 	<string id="wolfs_rangers">
-		<rus>Разведчики из группы Волка</rus>
+		<rus>Р Р°Р·РІРµРґС‡РёРєРё РёР· РіСЂСѓРїРїС‹ Р’РѕР»РєР°</rus>
 		<eng>Wolf's scouts</eng>
-		<ukr>Розвідники із групи Вовка</ukr>
+		<ukr>Р РѕР·РІС–РґРЅРёРєРё С–Р· РіСЂСѓРїРё Р’РѕРІРєР°</ukr>
 	</string>
 	<string id="rad_antenna_location">
-		<rus>Антенны</rus>
+		<rus>РђРЅС‚РµРЅРЅС‹</rus>
 		<eng>Antennas</eng>
-		<ukr>Антени</ukr>
+		<ukr>РђРЅС‚РµРЅРё</ukr>
 	</string>
 	<string id="mil_cap_hint">
-		<rus>Поговорить с командиром Барьера</rus>
+		<rus>РџРѕРіРѕРІРѕСЂРёС‚СЊ СЃ РєРѕРјР°РЅРґРёСЂРѕРј Р‘Р°СЂСЊРµСЂР°</rus>
 		<eng>Talk with the commander of the Barrier</eng>
-		<ukr>Поговорити із командиром Бар'єру</ukr>
+		<ukr>РџРѕРіРѕРІРѕСЂРёС‚Рё С–Р· РєРѕРјР°РЅРґРёСЂРѕРј Р‘Р°СЂ'С”СЂСѓ</ukr>
 	</string>
 	<string id="mil_courier_hint1">
-		<rus>Проследить за стукачом</rus>
+		<rus>РџСЂРѕСЃР»РµРґРёС‚СЊ Р·Р° СЃС‚СѓРєР°С‡РѕРј</rus>
 		<eng>Follow the snitch</eng>
-		<ukr>Простежити за стукачем</ukr>
+		<ukr>РџСЂРѕСЃС‚РµР¶РёС‚Рё Р·Р° СЃС‚СѓРєР°С‡РµРј</ukr>
 	</string>
 	<string id="mil_courier_hint2">
-		<rus>Дождаться вызова стукачом информатора</rus>
+		<rus>Р”РѕР¶РґР°С‚СЊСЃСЏ РІС‹Р·РѕРІР° СЃС‚СѓРєР°С‡РѕРј РёРЅС„РѕСЂРјР°С‚РѕСЂР°</rus>
 		<eng>Wait for the snitch to call an informer</eng>
-		<ukr>Дочекатися, поки стукач викличе збирача інформації</ukr>
+		<ukr>Р”РѕС‡РµРєР°С‚РёСЃСЏ, РїРѕРєРё СЃС‚СѓРєР°С‡ РІРёРєР»РёС‡Рµ Р·Р±РёСЂР°С‡Р° С–РЅС„РѕСЂРјР°С†С–С—</ukr>
 	</string>
 	<string id="mil_courier_hint3">
-		<rus>Убить стукача</rus>
+		<rus>РЈР±РёС‚СЊ СЃС‚СѓРєР°С‡Р°</rus>
 		<eng>Kill the snitch</eng>
-		<ukr>Убити стукача</ukr>
+		<ukr>РЈР±РёС‚Рё СЃС‚СѓРєР°С‡Р°</ukr>
 	</string>
 	<string id="mil_courier_hint4">
-		<rus>Убить информатора</rus>
+		<rus>РЈР±РёС‚СЊ РёРЅС„РѕСЂРјР°С‚РѕСЂР°</rus>
 		<eng>Kill the informant</eng>
-		<ukr>Убити збирача інформації</ukr>
+		<ukr>РЈР±РёС‚Рё Р·Р±РёСЂР°С‡Р° С–РЅС„РѕСЂРјР°С†С–С—</ukr>
 	</string>
 	<string id="mil_crazy_hint">
-		<rus>Взять флешку у сумасшедшего сталкера</rus>
+		<rus>Р’Р·СЏС‚СЊ С„Р»РµС€РєСѓ Сѓ СЃСѓРјР°СЃС€РµРґС€РµРіРѕ СЃС‚Р°Р»РєРµСЂР°</rus>
 		<eng>Take a flash drive from a crazy stalker</eng>
-		<ukr>Узяти флешку в божевільного сталкера</ukr>
+		<ukr>РЈР·СЏС‚Рё С„Р»РµС€РєСѓ РІ Р±РѕР¶РµРІС–Р»СЊРЅРѕРіРѕ СЃС‚Р°Р»РєРµСЂР°</ukr>
 	</string>
 	<string id="mil_dolg_khutor">
-		<rus>Хутор Долга</rus>
+		<rus>РҐСѓС‚РѕСЂ Р”РѕР»РіР°</rus>
 		<eng>Duty Farm</eng>
-		<ukr>Хутір «Долгу»</ukr>
+		<ukr>РҐСѓС‚С–СЂ В«Р”РѕР»РіСѓВ»</ukr>
 	</string>
 	<string id="mil_freedom_sniper">
-		<rus>Убить снайпера</rus>
+		<rus>РЈР±РёС‚СЊ СЃРЅР°Р№РїРµСЂР°</rus>
 		<eng>Kill the sniper</eng>
-		<ukr>Убити снайпера</ukr>
+		<ukr>РЈР±РёС‚Рё СЃРЅР°Р№РїРµСЂР°</ukr>
 	</string>
 	<string id="mil_dolg_task_report">
-		<rus>Доложить о выполнении Черепу</rus>
+		<rus>Р”РѕР»РѕР¶РёС‚СЊ Рѕ РІС‹РїРѕР»РЅРµРЅРёРё Р§РµСЂРµРїСѓ</rus>
 		<eng>Report Skull</eng>
-		<ukr>Доповісти про виконання Черепу</ukr>
+		<ukr>Р”РѕРїРѕРІС–СЃС‚Рё РїСЂРѕ РІРёРєРѕРЅР°РЅРЅСЏ Р§РµСЂРµРїСѓ</ukr>
 	</string>
 	<string id="mil_hunters_hint1">
-		<rus>Поговорить с Угрюмым</rus>
+		<rus>РџРѕРіРѕРІРѕСЂРёС‚СЊ СЃ РЈРіСЂСЋРјС‹Рј</rus>
 		<eng>Talk to Murk</eng>
-		<ukr>Поговорити із Похмурим</ukr>
+		<ukr>РџРѕРіРѕРІРѕСЂРёС‚Рё С–Р· РџРѕС…РјСѓСЂРёРј</ukr>
 	</string>
 	<string id="mil_hunters_hint2">
-		<rus>Вернуться к Скряге</rus>
+		<rus>Р’РµСЂРЅСѓС‚СЊСЃСЏ Рє РЎРєСЂСЏРіРµ</rus>
 		<eng>Go back to Skinflint</eng>
-		<ukr>Повернутися до Скнари</ukr>
+		<ukr>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ РґРѕ РЎРєРЅР°СЂРё</ukr>
 	</string>
 	<string id="mil_kill_dolg_hint">
-		<rus>Уничтожить отряд Долга</rus>
+		<rus>РЈРЅРёС‡С‚РѕР¶РёС‚СЊ РѕС‚СЂСЏРґ Р”РѕР»РіР°</rus>
 		<eng>Destroy the Duty Squad</eng>
-		<ukr>Знищити загін «Долгу»</ukr>
+		<ukr>Р—РЅРёС‰РёС‚Рё Р·Р°РіС–РЅ В«Р”РѕР»РіСѓВ»</ukr>
 	</string>
 	<string id="mil_kill_lukash_hint">
-		<rus>Убить Лукаша</rus>
+		<rus>РЈР±РёС‚СЊ Р›СѓРєР°С€Р°</rus>
 		<eng>Kill Lukash</eng>
-		<ukr>Убити Лукаша</ukr>
+		<ukr>РЈР±РёС‚Рё Р›СѓРєР°С€Р°</ukr>
 	</string>
 	<string id="mil_miser_hint">
-		<rus>Скряга</rus>
+		<rus>РЎРєСЂСЏРіР°</rus>
 		<eng>Skinflint</eng>
-		<ukr>Скнара</ukr>
+		<ukr>РЎРєРЅР°СЂР°</ukr>
 	</string>
 	<string id="mil_report_to_max_hint">
-		<rus>Доложить Максу</rus>
+		<rus>Р”РѕР»РѕР¶РёС‚СЊ РњР°РєСЃСѓ</rus>
 		<eng>Report to Max</eng>
-		<ukr>Доповісти Максові</ukr>
+		<ukr>Р”РѕРїРѕРІС–СЃС‚Рё РњР°РєСЃРѕРІС–</ukr>
 	</string>
 	<string id="mil_return_to_lukash_hint">
-		<rus>Доложить Лукашу</rus>
+		<rus>Р”РѕР»РѕР¶РёС‚СЊ Р›СѓРєР°С€Сѓ</rus>
 		<eng>Report to Lukash</eng>
-		<ukr>Доповісти Лукашеві</ukr>
+		<ukr>Р”РѕРїРѕРІС–СЃС‚Рё Р›СѓРєР°С€РµРІС–</ukr>
 	</string>
 	<string id="mil_return_to_max_hint">
-		<rus>Отдать флешку Максу</rus>
+		<rus>РћС‚РґР°С‚СЊ С„Р»РµС€РєСѓ РњР°РєСЃСѓ</rus>
 		<eng>Give Max the flash drive</eng>
-		<ukr>Віддати флешку Максові</ukr>
+		<ukr>Р’С–РґРґР°С‚Рё С„Р»РµС€РєСѓ РњР°РєСЃРѕРІС–</ukr>
 	</string>
 	<string id="mil_rg6_hint1">
-		<rus>Найти повара на базе Свободы</rus>
+		<rus>РќР°Р№С‚Рё РїРѕРІР°СЂР° РЅР° Р±Р°Р·Рµ РЎРІРѕР±РѕРґС‹</rus>
 		<eng>Find Chef at the Freedom base</eng>
-		<ukr>Знайти Кухаря на базі «Волі»</ukr>
+		<ukr>Р—РЅР°Р№С‚Рё РљСѓС…Р°СЂСЏ РЅР° Р±Р°Р·С– В«Р’РѕР»С–В»</ukr>
 	</string>
 	<string id="mil_rg6_hint2">
-		<rus>Поговорить с Поваром</rus>
+		<rus>РџРѕРіРѕРІРѕСЂРёС‚СЊ СЃ РџРѕРІР°СЂРѕРј</rus>
 		<eng>Talk to Chef</eng>
-		<ukr>Поговорити із Кухарем</ukr>
+		<ukr>РџРѕРіРѕРІРѕСЂРёС‚Рё С–Р· РљСѓС…Р°СЂРµРј</ukr>
 	</string>
 	<string id="mil_rg6_hint3">
-		<rus>Забрать РГ-6 из схрона в деревне</rus>
+		<rus>Р—Р°Р±СЂР°С‚СЊ Р Р“-6 РёР· СЃС…СЂРѕРЅР° РІ РґРµСЂРµРІРЅРµ</rus>
 		<eng>Take RG-6 from the stash in the village</eng>
-		<ukr>Забрати «Бульдог-6» зі схрона у селищі</ukr>
+		<ukr>Р—Р°Р±СЂР°С‚Рё В«Р‘СѓР»СЊРґРѕРі-6В» Р·С– СЃС…СЂРѕРЅР° Сѓ СЃРµР»РёС‰С–</ukr>
 	</string>
 	<string id="mil_blockpost_job">
-		<rus>Защитить Барьер</rus>
+		<rus>Р—Р°С‰РёС‚РёС‚СЊ Р‘Р°СЂСЊРµСЂ</rus>
 		<eng>Protect Barrier</eng>
-		<ukr>Захистити Бар'єр</ukr>
+		<ukr>Р—Р°С…РёСЃС‚РёС‚Рё Р‘Р°СЂ'С”СЂ</ukr>
 	</string>
 	<string id="mil_watertower_hint">
-		<rus>Водонапорная башня</rus>
+		<rus>Р’РѕРґРѕРЅР°РїРѕСЂРЅР°СЏ Р±Р°С€РЅСЏ</rus>
 		<eng>Water tower</eng>
-		<ukr>Водонапірна башта</ukr>
+		<ukr>Р’РѕРґРѕРЅР°РїС–СЂРЅР° Р±Р°С€С‚Р°</ukr>
 	</string>
 	<string id="bar_arena_locator">
-		<rus>Арена</rus>
+		<rus>РђСЂРµРЅР°</rus>
 		<eng>The Arena</eng>
-		<ukr>Арена</ukr>
+		<ukr>РђСЂРµРЅР°</ukr>
 	</string>
 	<string id="bar_bar_locator">
-		<rus>Бар "100 рентген"</rus>
+		<rus>Р‘Р°СЂ "100 СЂРµРЅС‚РіРµРЅ"</rus>
 		<eng>Bar "100 Roentgen"</eng>
-		<ukr>Бар «100 рентген»</ukr>
+		<ukr>Р‘Р°СЂ В«100 СЂРµРЅС‚РіРµРЅВ»</ukr>
 	</string>
 	<string id="bar_dolg_locator">
-		<rus>База группировки Долг</rus>
+		<rus>Р‘Р°Р·Р° РіСЂСѓРїРїРёСЂРѕРІРєРё Р”РѕР»Рі</rus>
 		<eng>Duty Base</eng>
-		<ukr>База угруповання «Долг»</ukr>
+		<ukr>Р‘Р°Р·Р° СѓРіСЂСѓРїРѕРІР°РЅРЅСЏ В«Р”РѕР»РіВ»</ukr>
 	</string>
 	<string id="rostok_banda_volkodava">
-		<rus>Волкодав с головорезами возле вертолёта</rus>
+		<rus>Р’РѕР»РєРѕРґР°РІ СЃ РіРѕР»РѕРІРѕСЂРµР·Р°РјРё РІРѕР·Р»Рµ РІРµСЂС‚РѕР»С‘С‚Р°</rus>
 		<eng>Volkodav and his cutthroats by the chopper</eng>
-		<ukr>Вовкодав зі своїми головорізами біля вертольота</ukr>
+		<ukr>Р’РѕРІРєРѕРґР°РІ Р·С– СЃРІРѕС—РјРё РіРѕР»РѕРІРѕСЂС–Р·Р°РјРё Р±С–Р»СЏ РІРµСЂС‚РѕР»СЊРѕС‚Р°</ukr>
 	</string>
 	<string id="rostok_kruglov">
-		<rus>Профессор Круглов</rus>
+		<rus>РџСЂРѕС„РµСЃСЃРѕСЂ РљСЂСѓРіР»РѕРІ</rus>
 		<eng>Professor Kruglov</eng>
-		<ukr>Круглов</ukr>
+		<ukr>РљСЂСѓРіР»РѕРІ</ukr>
 	</string>
 	<string id="rostok_tainyi_hod">
-		<rus>Засада возле завода</rus>
+		<rus>Р—Р°СЃР°РґР° РІРѕР·Р»Рµ Р·Р°РІРѕРґР°</rus>
 		<eng>Ambush by the factory</eng>
-		<ukr>Засідка біля заводу</ukr>
+		<ukr>Р—Р°СЃС–РґРєР° Р±С–Р»СЏ Р·Р°РІРѕРґСѓ</ukr>
 	</string>
 	<string id="rostok_volkodav">
-		<rus>Волкодав</rus>
+		<rus>Р’РѕР»РєРѕРґР°РІ</rus>
 		<eng>Volkodav</eng>
-		<ukr>Вовкодав</ukr>
+		<ukr>Р’РѕРІРєРѕРґР°РІ</ukr>
 	</string>
 	<string id="aes_btr1">
-		<rus>Броненосец 1</rus>
+		<rus>Р‘СЂРѕРЅРµРЅРѕСЃРµС† 1</rus>
 		<eng>Armadillo 1</eng>
-		<ukr>«Броненосець-1»</ukr>
+		<ukr>В«Р‘СЂРѕРЅРµРЅРѕСЃРµС†СЊ-1В»</ukr>
 	</string>
 	<string id="aes_btr2">
-		<rus>Броненосец 2</rus>
+		<rus>Р‘СЂРѕРЅРµРЅРѕСЃРµС† 2</rus>
 		<eng>Armadillo 2</eng>
-		<ukr>«Броненосець-2»</ukr>
+		<ukr>В«Р‘СЂРѕРЅРµРЅРѕСЃРµС†СЊ-2В»</ukr>
 	</string>
 	<string id="aes_btr3">
-		<rus>Броненосец 3</rus>
+		<rus>Р‘СЂРѕРЅРµРЅРѕСЃРµС† 3</rus>
 		<eng>Armadillo 3</eng>
-		<ukr>«Броненосець-3»</ukr>
+		<ukr>В«Р‘СЂРѕРЅРµРЅРѕСЃРµС†СЊ-3В»</ukr>
 	</string>
 	<string id="aes_grif">
-		<rus>Гриф</rus>
+		<rus>Р“СЂРёС„</rus>
 		<eng>Vulture</eng>
-		<ukr>«Гриф»</ukr>
+		<ukr>В«Р“СЂРёС„В»</ukr>
 	</string>
 	<string id="aes_korshun">
-		<rus>Коршун</rus>
+		<rus>РљРѕСЂС€СѓРЅ</rus>
 		<eng>Milvus</eng>
-		<ukr>«Шуліка»</ukr>
+		<ukr>В«РЁСѓР»С–РєР°В»</ukr>
 	</string>
 	<string id="aes_kvartet">
-		<rus>Квартет</rus>
+		<rus>РљРІР°СЂС‚РµС‚</rus>
 		<eng>Quartette</eng>
-		<ukr>«Квартет»</ukr>
+		<ukr>В«РљРІР°СЂС‚РµС‚В»</ukr>
 	</string>
 	<string id="aes_lun">
-		<rus>Лунь</rus>
+		<rus>Р›СѓРЅСЊ</rus>
 		<eng>Harrier</eng>
-		<ukr>«Лунь»</ukr>
+		<ukr>В«Р›СѓРЅСЊВ»</ukr>
 	</string>
 	<string id="aes_pustelga">
-		<rus>Пустельга</rus>
+		<rus>РџСѓСЃС‚РµР»СЊРіР°</rus>
 		<eng>Kestrel</eng>
-		<ukr>«Боривітер»</ukr>
+		<ukr>В«Р‘РѕСЂРёРІС–С‚РµСЂВ»</ukr>
 	</string>
 	<string id="aes_sapsan">
-		<rus>Сапсан</rus>
+		<rus>РЎР°РїСЃР°РЅ</rus>
 		<eng>Peregrine</eng>
-		<ukr>«Сапсан»</ukr>
+		<ukr>В«РЎР°РїСЃР°РЅВ»</ukr>
 	</string>
 	<string id="aes_sarcofag_hint">
-		<rus>Вход в саркофаг</rus>
+		<rus>Р’С…РѕРґ РІ СЃР°СЂРєРѕС„Р°Рі</rus>
 		<eng>Sarcophagus entrance</eng>
-		<ukr>Вхід до Саркофагу</ukr>
+		<ukr>Р’С…С–Рґ РґРѕ РЎР°СЂРєРѕС„Р°РіСѓ</ukr>
 	</string>
 	<string id="aes_sokol">
-		<rus>Сокол</rus>
+		<rus>РЎРѕРєРѕР»</rus>
 		<eng>Falcon</eng>
-		<ukr>«Сокіл»</ukr>
+		<ukr>В«РЎРѕРєС–Р»В»</ukr>
 	</string>
 	<string id="aes_sova">
-		<rus>Сова</rus>
+		<rus>РЎРѕРІР°</rus>
 		<eng>Owl</eng>
-		<ukr>«Сова»</ukr>
+		<ukr>В«РЎРѕРІР°В»</ukr>
 	</string>
 	<string id="aes_yastreb">
-		<rus>Ястреб</rus>
+		<rus>РЇСЃС‚СЂРµР±</rus>
 		<eng>Hawk</eng>
-		<ukr>«Яструб»</ukr>
+		<ukr>В«РЇСЃС‚СЂСѓР±В»</ukr>
 	</string>
 	<string id="agr_captains_chamber_hint">
-		<rus>Каптёрка капитана</rus>
+		<rus>РљР°РїС‚С‘СЂРєР° РєР°РїРёС‚Р°РЅР°</rus>
 		<eng>Captain's armory</eng>
-		<ukr>Каптерка капітана</ukr>
+		<ukr>РљР°РїС‚РµСЂРєР° РєР°РїС–С‚Р°РЅР°</ukr>
 	</string>
 	<string id="agr_collector_entrance_hint">
-		<rus>Вход в катакомбы</rus>
+		<rus>Р’С…РѕРґ РІ РєР°С‚Р°РєРѕРјР±С‹</rus>
 		<eng>Catacomb entrance</eng>
-		<ukr>Вхід до катакомб</ukr>
+		<ukr>Р’С…С–Рґ РґРѕ РєР°С‚Р°РєРѕРјР±</ukr>
 	</string>
 	<string id="agr_factory_hint">
-		<rus>Завод</rus>
+		<rus>Р—Р°РІРѕРґ</rus>
 		<eng>Factory</eng>
-		<ukr>Завод</ukr>
+		<ukr>Р—Р°РІРѕРґ</ukr>
 	</string>
 	<string id="agr_find_gunslinger_cache_hint">
-		<rus>Найти в катакомбах тайник Стрелка</rus>
+		<rus>РќР°Р№С‚Рё РІ РєР°С‚Р°РєРѕРјР±Р°С… С‚Р°Р№РЅРёРє РЎС‚СЂРµР»РєР°</rus>
 		<eng>Find Strelok's secret stash at the catacombs</eng>
-		<ukr>Знайти у катакомбах схованку Стрільця</ukr>
+		<ukr>Р—РЅР°Р№С‚Рё Сѓ РєР°С‚Р°РєРѕРјР±Р°С… СЃС…РѕРІР°РЅРєСѓ РЎС‚СЂС–Р»СЊС†СЏ</ukr>
 	</string>
 	<string id="agr_give_case_to_barman_hint">
-		<rus>Отдать бармену документы</rus>
+		<rus>РћС‚РґР°С‚СЊ Р±Р°СЂРјРµРЅСѓ РґРѕРєСѓРјРµРЅС‚С‹</rus>
 		<eng>Give the documents to the Barkeep</eng>
-		<ukr>Віддати Барменові документи</ukr>
+		<ukr>Р’С–РґРґР°С‚Рё Р‘Р°СЂРјРµРЅРѕРІС– РґРѕРєСѓРјРµРЅС‚Рё</ukr>
 	</string>
 	<string id="agr_help_krot_hint">
-		<rus>Спасти Крота</rus>
+		<rus>РЎРїР°СЃС‚Рё РљСЂРѕС‚Р°</rus>
 		<eng>Rescue Mole</eng>
-		<ukr>Врятувати Крота</ukr>
+		<ukr>Р’СЂСЏС‚СѓРІР°С‚Рё РљСЂРѕС‚Р°</ukr>
 	</string>
 	<string id="agr_help_stalkers_hint">
-		<rus>Спасти сталкеров</rus>
+		<rus>РЎРїР°СЃС‚Рё СЃС‚Р°Р»РєРµСЂРѕРІ</rus>
 		<eng>Rescue the stalkers</eng>
-		<ukr>Врятувати сталкерів</ukr>
+		<ukr>Р’СЂСЏС‚СѓРІР°С‚Рё СЃС‚Р°Р»РєРµСЂС–РІ</ukr>
 	</string>
 	<string id="agr_meet_krot_hint">
-		<rus>Встретиться с Кротом</rus>
+		<rus>Р’СЃС‚СЂРµС‚РёС‚СЊСЃСЏ СЃ РљСЂРѕС‚РѕРј</rus>
 		<eng>Meet Mole</eng>
-		<ukr>Зустрітися із Кротом</ukr>
+		<ukr>Р—СѓСЃС‚СЂС–С‚РёСЃСЏ С–Р· РљСЂРѕС‚РѕРј</ukr>
 	</string>
 	<string id="agr_nii_hint">
-		<rus>НИИ Агропром, база военных</rus>
-		<eng>«Agroprom» Research Institute. Military base</eng>
-		<ukr>НДІ «Агропром». База військових</ukr>
+		<rus>РќРР РђРіСЂРѕРїСЂРѕРј, Р±Р°Р·Р° РІРѕРµРЅРЅС‹С…</rus>
+		<eng>В«AgropromВ» Research Institute. Military base</eng>
+		<ukr>РќР”Р† В«РђРіСЂРѕРїСЂРѕРјВ». Р‘Р°Р·Р° РІС–Р№СЃСЊРєРѕРІРёС…</ukr>
 	</string>
 	<string id="agr_swamp_hint">
-		<rus>Безопасное место</rus>
+		<rus>Р‘РµР·РѕРїР°СЃРЅРѕРµ РјРµСЃС‚Рѕ</rus>
 		<eng>Safe place</eng>
-		<ukr>Безпечне місце</ukr>
+		<ukr>Р‘РµР·РїРµС‡РЅРµ РјС–СЃС†Рµ</ukr>
 	</string>
 	<string id="agr_take_case_hint">
-		<rus>Украсть документы</rus>
+		<rus>РЈРєСЂР°СЃС‚СЊ РґРѕРєСѓРјРµРЅС‚С‹</rus>
 		<eng>Steal the documents</eng>
-		<ukr>Украсти документи</ukr>
+		<ukr>РЈРєСЂР°СЃС‚Рё РґРѕРєСѓРјРµРЅС‚Рё</ukr>
 	</string>
 	<string id="agr_take_krots_info_hint">
-		<rus>Взять у Крота информацию о тайнике</rus>
+		<rus>Р’Р·СЏС‚СЊ Сѓ РљСЂРѕС‚Р° РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ С‚Р°Р№РЅРёРєРµ</rus>
 		<eng>Get information about the stash from Mole</eng>
-		<ukr>Отримати в Крота інформацію про схованку</ukr>
+		<ukr>РћС‚СЂРёРјР°С‚Рё РІ РљСЂРѕС‚Р° С–РЅС„РѕСЂРјР°С†С–СЋ РїСЂРѕ СЃС…РѕРІР°РЅРєСѓ</ukr>
 	</string>
 	<string id="agr_zaz_hint">
-		<rus>Запорожец</rus>
+		<rus>Р—Р°РїРѕСЂРѕР¶РµС†</rus>
 		<eng>Zaporozhets</eng>
-		<ukr>«Запорожець»</ukr>
+		<ukr>В«Р—Р°РїРѕСЂРѕР¶РµС†СЊВ»</ukr>
 	</string>
 	<string id="cit_doctor_task_1_hint">
-		<rus>Гостиница</rus>
+		<rus>Р“РѕСЃС‚РёРЅРёС†Р°</rus>
 		<eng>Hotel</eng>
-		<ukr>Готель</ukr>
+		<ukr>Р“РѕС‚РµР»СЊ</ukr>
 	</string>
 	<string id="krest_zapas_start_10">
-		<rus>Схрон Шуры Гинеколога</rus>
+		<rus>РЎС…СЂРѕРЅ РЁСѓСЂС‹ Р“РёРЅРµРєРѕР»РѕРіР°</rus>
 		<eng>Stash of Shura the Gynecologist</eng>
-		<ukr>Схрон Сашка Гінеколога</ukr>
+		<ukr>РЎС…СЂРѕРЅ РЎР°С€РєР° Р“С–РЅРµРєРѕР»РѕРіР°</ukr>
 	</string>
 	<string id="fotik_gigant_spawn_0">
-		<rus>Место гибели друга Фотографа</rus>
+		<rus>РњРµСЃС‚Рѕ РіРёР±РµР»Рё РґСЂСѓРіР° Р¤РѕС‚РѕРіСЂР°С„Р°</rus>
 		<eng>Place where Photographer's friend died</eng>
-		<ukr>Место гибели друга Фотографа</ukr>
+		<ukr>РњРµСЃС‚Рѕ РіРёР±РµР»Рё РґСЂСѓРіР° Р¤РѕС‚РѕРіСЂР°С„Р°</ukr>
 	</string>
 	<string id="checking_taken_item75_0">
-		<rus>Тайник Лешего</rus>
+		<rus>РўР°Р№РЅРёРє Р›РµС€РµРіРѕ</rus>
 		<eng>Sylvan's stash</eng>
-		<ukr>Тайник Лешего</ukr>
+		<ukr>РўР°Р№РЅРёРє Р›РµС€РµРіРѕ</ukr>
 	</string>
 	<string id="create_glus_spot_0">
-		<rus>Радиоглушилка</rus>
+		<rus>Р Р°РґРёРѕРіР»СѓС€РёР»РєР°</rus>
 		<eng>Radio jammer</eng>
-		<ukr>Радиоглушилка</ukr>
+		<ukr>Р Р°РґРёРѕРіР»СѓС€РёР»РєР°</ukr>
 	</string>
 	<string id="create_device_spot_0">
-		<rus>Датчик обнаружения</rus>
+		<rus>Р”Р°С‚С‡РёРє РѕР±РЅР°СЂСѓР¶РµРЅРёСЏ</rus>
 		<eng>Detection sensor</eng>
-		<ukr>Датчик обнаружения</ukr>
+		<ukr>Р”Р°С‚С‡РёРє РѕР±РЅР°СЂСѓР¶РµРЅРёСЏ</ukr>
 	</string>
 	<string id="taynik_virus_start_0">
-		<rus>Осмотреть место убийства Вируса</rus>
+		<rus>РћСЃРјРѕС‚СЂРµС‚СЊ РјРµСЃС‚Рѕ СѓР±РёР№СЃС‚РІР° Р’РёСЂСѓСЃР°</rus>
 		<eng>Inspect the place where Virus was murdered</eng>
-		<ukr>Осмотреть место убийства Вируса</ukr>
+		<ukr>РћСЃРјРѕС‚СЂРµС‚СЊ РјРµСЃС‚Рѕ СѓР±РёР№СЃС‚РІР° Р’РёСЂСѓСЃР°</ukr>
 	</string>
 	<string id="ohota_wolf_spawn_0">
-		<rus>Волчье логово</rus>
+		<rus>Р’РѕР»С‡СЊРµ Р»РѕРіРѕРІРѕ</rus>
 		<eng>Wolf's lair</eng>
-		<ukr>Волчье логово</ukr>
+		<ukr>Р’РѕР»С‡СЊРµ Р»РѕРіРѕРІРѕ</ukr>
 	</string>
 	<string id="taynik_hameleon_spawn_0">
-		<rus>Осмотреть карьер</rus>
+		<rus>РћСЃРјРѕС‚СЂРµС‚СЊ РєР°СЂСЊРµСЂ</rus>
 		<eng>Inspect the quarry</eng>
-		<ukr>Осмотреть карьер</ukr>
+		<ukr>РћСЃРјРѕС‚СЂРµС‚СЊ РєР°СЂСЊРµСЂ</ukr>
 	</string>
 	<string id="taynik_grom_spawn_0">
-		<rus>Наводка на тайник от Грома</rus>
+		<rus>РќР°РІРѕРґРєР° РЅР° С‚Р°Р№РЅРёРє РѕС‚ Р“СЂРѕРјР°</rus>
 		<eng>A tip on the stash from Thunder</eng>
-		<ukr>Наводка на тайник от Грома</ukr>
+		<ukr>РќР°РІРѕРґРєР° РЅР° С‚Р°Р№РЅРёРє РѕС‚ Р“СЂРѕРјР°</ukr>
 	</string>
 	<string id="spot_sviblov_hostel_0">
-		<rus>Сканер аномалий №1</rus>
+		<rus>РЎРєР°РЅРµСЂ Р°РЅРѕРјР°Р»РёР№ в„–1</rus>
 		<eng>Anomaly scanner No1</eng>
-		<ukr>Сканер аномалий №1</ukr>
+		<ukr>РЎРєР°РЅРµСЂ Р°РЅРѕРјР°Р»РёР№ в„–1</ukr>
 	</string>
 	<string id="spot_sviblov_hostel_1">
-		<rus>Сканер аномалий №2</rus>
+		<rus>РЎРєР°РЅРµСЂ Р°РЅРѕРјР°Р»РёР№ в„–2</rus>
 		<eng>Anomaly scanner No2</eng>
-		<ukr>Сканер аномалий №2</ukr>
+		<ukr>РЎРєР°РЅРµСЂ Р°РЅРѕРјР°Р»РёР№ в„–2</ukr>
 	</string>
 	<string id="spot_sviblov_hostel_2">
-		<rus>Сканер аномалий №3</rus>
+		<rus>РЎРєР°РЅРµСЂ Р°РЅРѕРјР°Р»РёР№ в„–3</rus>
 		<eng>Anomaly scanner No3</eng>
-		<ukr>Сканер аномалий №3</ukr>
+		<ukr>РЎРєР°РЅРµСЂ Р°РЅРѕРјР°Р»РёР№ в„–3</ukr>
 	</string>
 	<string id="spot_sviblov_hostel_3">
-		<rus>Сканер аномалий №4</rus>
+		<rus>РЎРєР°РЅРµСЂ Р°РЅРѕРјР°Р»РёР№ в„–4</rus>
 		<eng>Anomaly Scanner No4</eng>
-		<ukr>Сканер аномалий №4</ukr>
+		<ukr>РЎРєР°РЅРµСЂ Р°РЅРѕРјР°Р»РёР№ в„–4</ukr>
 	</string>
 	<string id="spot_sviblov_hostel_4">
-		<rus>Сканер аномалий №5</rus>
+		<rus>РЎРєР°РЅРµСЂ Р°РЅРѕРјР°Р»РёР№ в„–5</rus>
 		<eng>Anomaly Scanner No5</eng>
-		<ukr>Сканер аномалий №5</ukr>
+		<ukr>РЎРєР°РЅРµСЂ Р°РЅРѕРјР°Р»РёР№ в„–5</ukr>
 	</string>
 	<string id="create_silver_explo_spot_0">
-		<rus>Взрывчатка с серебром</rus>
+		<rus>Р’Р·СЂС‹РІС‡Р°С‚РєР° СЃ СЃРµСЂРµР±СЂРѕРј</rus>
 		<eng>Silver explosive</eng>
-		<ukr>Вибухівка зі сріблом</ukr>
+		<ukr>Р’РёР±СѓС…С–РІРєР° Р·С– СЃСЂС–Р±Р»РѕРј</ukr>
 	</string>
 	<string id="create_pomehi_spot_0">
-		<rus>Генератор</rus>
+		<rus>Р“РµРЅРµСЂР°С‚РѕСЂ</rus>
 		<eng>Generator</eng>
-		<ukr>Генератор</ukr>
+		<ukr>Р“РµРЅРµСЂР°С‚РѕСЂ</ukr>
 	</string>
 	<string id="spot_shurup_shron_start_0">
-		<rus>Резервный схрон</rus>
+		<rus>Р РµР·РµСЂРІРЅС‹Р№ СЃС…СЂРѕРЅ</rus>
 		<eng>Reserve stash</eng>
-		<ukr>Резервний схрон</ukr>
+		<ukr>Р РµР·РµСЂРІРЅРёР№ СЃС…СЂРѕРЅ</ukr>
 	</string>
 	<string id="spot_ohota_tushkan_done_0">
-		<rus>Схрон с водкой</rus>
+		<rus>РЎС…СЂРѕРЅ СЃ РІРѕРґРєРѕР№</rus>
 		<eng>Stash with vodka</eng>
-		<ukr>Схрон с водкой</ukr>
+		<ukr>РЎС…СЂРѕРЅ СЃ РІРѕРґРєРѕР№</ukr>
 	</string>
 	<string id="yakut_treasure_spawn_0">
-		<rus>Ноутбук Архары</rus>
+		<rus>РќРѕСѓС‚Р±СѓРє РђСЂС…Р°СЂС‹</rus>
 		<eng>Arkhara's Laptop</eng>
-		<ukr>Ноутбук Архари</ukr>
+		<ukr>РќРѕСѓС‚Р±СѓРє РђСЂС…Р°СЂРё</ukr>
 	</string>
 	<string id="tri_tainik_start_0">
-		<rus>Дневник монолитовца №1</rus>
+		<rus>Р”РЅРµРІРЅРёРє РјРѕРЅРѕР»РёС‚РѕРІС†Р° в„–1</rus>
 		<eng>Monolithian's Diary No1</eng>
-		<ukr>Дневник монолитовца №1</ukr>
+		<ukr>Р”РЅРµРІРЅРёРє РјРѕРЅРѕР»РёС‚РѕРІС†Р° в„–1</ukr>
 	</string>
 	<string id="tri_tainik_start_1">
-		<rus>Дневник монолитовца №2</rus>
+		<rus>Р”РЅРµРІРЅРёРє РјРѕРЅРѕР»РёС‚РѕРІС†Р° в„–2</rus>
 		<eng>Monolithian's Diary No2</eng>
-		<ukr>Дневник монолитовца №2</ukr>
+		<ukr>Р”РЅРµРІРЅРёРє РјРѕРЅРѕР»РёС‚РѕРІС†Р° в„–2</ukr>
 	</string>
 	<string id="tri_tainik_start_2">
-		<rus>Дневник монолитовца №3</rus>
+		<rus>Р”РЅРµРІРЅРёРє РјРѕРЅРѕР»РёС‚РѕРІС†Р° в„–3</rus>
 		<eng>Monolithian's Diary No3</eng>
-		<ukr>Дневник монолитовца №3</ukr>
+		<ukr>Р”РЅРµРІРЅРёРє РјРѕРЅРѕР»РёС‚РѕРІС†Р° в„–3</ukr>
 	</string>
 	<string id="treasure_ecolog_start_0">
-		<rus>Дневник Призрака</rus>
+		<rus>Р”РЅРµРІРЅРёРє РџСЂРёР·СЂР°РєР°</rus>
 		<eng>Ghost's Diary</eng>
-		<ukr>Дневник Призрака</ukr>
+		<ukr>Р”РЅРµРІРЅРёРє РџСЂРёР·СЂР°РєР°</ukr>
 	</string>
 	<string id="spot_nazar_spider_start_0">
-		<rus>Паучье логово</rus>
+		<rus>РџР°СѓС‡СЊРµ Р»РѕРіРѕРІРѕ</rus>
 		<eng>Spider's lair</eng>
-		<ukr>Паучье логово</ukr>
+		<ukr>РџР°СѓС‡СЊРµ Р»РѕРіРѕРІРѕ</ukr>
 	</string>
 	<string id="create_kurier_spot_0">
-		<rus>Взрывчатка</rus>
+		<rus>Р’Р·СЂС‹РІС‡Р°С‚РєР°</rus>
 		<eng>Explosive</eng>
-		<ukr>Вибухівка</ukr>
+		<ukr>Р’РёР±СѓС…С–РІРєР°</ukr>
 	</string>
 	<string id="create_kulon_cat_spot_0">
-		<rus>Кошка</rus>
+		<rus>РљРѕС€РєР°</rus>
 		<eng>Cat</eng>
-		<ukr>Кошка</ukr>
+		<ukr>РљРѕС€РєР°</ukr>
 	</string>
 	<string id="achieve_taynik_spawn_0">
-		<rus>Награда за достижение</rus>
+		<rus>РќР°РіСЂР°РґР° Р·Р° РґРѕСЃС‚РёР¶РµРЅРёРµ</rus>
 		<eng>Reward for achievement</eng>
-		<ukr>Награда за достижение</ukr>
+		<ukr>РќР°РіСЂР°РґР° Р·Р° РґРѕСЃС‚РёР¶РµРЅРёРµ</ukr>
 	</string>
 	<string id="spot_krest_boar_start_0">
-		<rus>Мамаша поросёнка</rus>
+		<rus>РњР°РјР°С€Р° РїРѕСЂРѕСЃС‘РЅРєР°</rus>
 		<eng>Pig's mother</eng>
-		<ukr>Матуся поросятка</ukr>
+		<ukr>РњР°С‚СѓСЃСЏ РїРѕСЂРѕСЃСЏС‚РєР°</ukr>
 	</string>
 	<string id="spot_buusty_gigant_start_0">
-		<rus>Болотный псевдогигант</rus>
+		<rus>Р‘РѕР»РѕС‚РЅС‹Р№ РїСЃРµРІРґРѕРіРёРіР°РЅС‚</rus>
 		<eng>Swamp pseudogiant</eng>
-		<ukr>Болотний псевдогігант</ukr>
+		<ukr>Р‘РѕР»РѕС‚РЅРёР№ РїСЃРµРІРґРѕРіС–РіР°РЅС‚</ukr>
 	</string>
 	<string id="spot_tank_zasada_0">
-		<rus>Местоположение снайпера Монолита</rus>
+		<rus>РњРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёРµ СЃРЅР°Р№РїРµСЂР° РњРѕРЅРѕР»РёС‚Р°</rus>
 		<eng>Monolith Sniper's Location</eng>
-		<ukr>Місцезнаходження снайпера Моноліту</ukr>
+		<ukr>РњС–СЃС†РµР·РЅР°С…РѕРґР¶РµРЅРЅСЏ СЃРЅР°Р№РїРµСЂР° РњРѕРЅРѕР»С–С‚Сѓ</ukr>
 	</string>
 	<string id="spot_textolite_box">
-		<rus>Радиодетали?</rus>
+		<rus>Р Р°РґРёРѕРґРµС‚Р°Р»Рё?</rus>
 		<eng>Radio components?</eng>
-		<ukr>Радіодеталі?</ukr>
+		<ukr>Р Р°РґС–РѕРґРµС‚Р°Р»С–?</ukr>
 	</string>
 	<string id="spot_ohota_kogot">
-		<rus>Невидимый коготь смерти</rus>
+		<rus>РќРµРІРёРґРёРјС‹Р№ РєРѕРіРѕС‚СЊ СЃРјРµСЂС‚Рё</rus>
 		<eng>Invisible Death Claw</eng>
-		<ukr>Невидимий кіготь смерті</ukr>
+		<ukr>РќРµРІРёРґРёРјРёР№ РєС–РіРѕС‚СЊ СЃРјРµСЂС‚С–</ukr>
 	</string>
 	<string id="kubik_spawn_0">
-		<rus>Схрон с кубиком</rus>
+		<rus>РЎС…СЂРѕРЅ СЃ РєСѓР±РёРєРѕРј</rus>
 		<eng>Stash with cube</eng>
-		<ukr>Схрон с кубиком</ukr>
+		<ukr>РЎС…СЂРѕРЅ СЃ РєСѓР±РёРєРѕРј</ukr>
 	</string>
 	<string id="set_pantera_0">
-		<rus>Пантера</rus>
+		<rus>РџР°РЅС‚РµСЂР°</rus>
 		<eng>Panther</eng>
-		<ukr>Пантера</ukr>
+		<ukr>РџР°РЅС‚РµСЂР°</ukr>
 	</string>
 	<string id="metka_marsh_provodnik_0">
-		<rus>Ориентировка на переход в Деревню</rus>
+		<rus>РћСЂРёРµРЅС‚РёСЂРѕРІРєР° РЅР° РїРµСЂРµС…РѕРґ РІ Р”РµСЂРµРІРЅСЋ</rus>
 		<eng>Mark to the passage to the Village</eng>
-		<ukr>Ориентировка на переход в Деревню</ukr>
+		<ukr>РћСЂРёРµРЅС‚РёСЂРѕРІРєР° РЅР° РїРµСЂРµС…РѕРґ РІ Р”РµСЂРµРІРЅСЋ</ukr>
 	</string>
 	<string id="metka_psi_antenna_0">
-		<rus>Ориентировка на сигнал пси-антенны</rus>
+		<rus>РћСЂРёРµРЅС‚РёСЂРѕРІРєР° РЅР° СЃРёРіРЅР°Р» РїСЃРё-Р°РЅС‚РµРЅРЅС‹</rus>
 		<eng>Mark to the psi antenna signal</eng>
-		<ukr>Орієнтування на сигнал псі-антени</ukr>
+		<ukr>РћСЂС–С”РЅС‚СѓРІР°РЅРЅСЏ РЅР° СЃРёРіРЅР°Р» РїСЃС–-Р°РЅС‚РµРЅРё</ukr>
 	</string>
 	<string id="set_kluk_chaes2_0">
-		<rus>Клык должен быть где-то тут</rus>
+		<rus>РљР»С‹Рє РґРѕР»Р¶РµРЅ Р±С‹С‚СЊ РіРґРµ-С‚Рѕ С‚СѓС‚</rus>
 		<eng>Fang must be somewhere here</eng>
-		<ukr>Клик повинен бути десь тут</ukr>
+		<ukr>РљР»РёРє РїРѕРІРёРЅРµРЅ Р±СѓС‚Рё РґРµСЃСЊ С‚СѓС‚</ukr>
 	</string>
 	<string id="metka_city_parfumer_0">
-		<rus>Примерное местонахождение сталкера</rus>
+		<rus>РџСЂРёРјРµСЂРЅРѕРµ РјРµСЃС‚РѕРЅР°С…РѕР¶РґРµРЅРёРµ СЃС‚Р°Р»РєРµСЂР°</rus>
 		<eng>The approximated location of the stalker</eng>
-		<ukr>Примерное местонахождение сталкера</ukr>
+		<ukr>РџСЂРёРјРµСЂРЅРѕРµ РјРµСЃС‚РѕРЅР°С…РѕР¶РґРµРЅРёРµ СЃС‚Р°Р»РєРµСЂР°</ukr>
 	</string>
 	<string id="metka_city_starshoy_0">
-		<rus>Примерное местонахождение сталкера</rus>
+		<rus>РџСЂРёРјРµСЂРЅРѕРµ РјРµСЃС‚РѕРЅР°С…РѕР¶РґРµРЅРёРµ СЃС‚Р°Р»РєРµСЂР°</rus>
 		<eng>The approximated location of the stalker</eng>
-		<ukr>Примерное местонахождение сталкера</ukr>
+		<ukr>РџСЂРёРјРµСЂРЅРѕРµ РјРµСЃС‚РѕРЅР°С…РѕР¶РґРµРЅРёРµ СЃС‚Р°Р»РєРµСЂР°</ukr>
 	</string>
 	<string id="metka_tema_likvidator_0">
-		<rus>Примерное местонахождение сталкеров</rus>
+		<rus>РџСЂРёРјРµСЂРЅРѕРµ РјРµСЃС‚РѕРЅР°С…РѕР¶РґРµРЅРёРµ СЃС‚Р°Р»РєРµСЂРѕРІ</rus>
 		<eng>The approximated location of stalkers</eng>
-		<ukr>Примерное местонахождение сталкеров</ukr>
+		<ukr>РџСЂРёРјРµСЂРЅРѕРµ РјРµСЃС‚РѕРЅР°С…РѕР¶РґРµРЅРёРµ СЃС‚Р°Р»РєРµСЂРѕРІ</ukr>
 	</string>
 	<string id="metka_norman_0">
-		<rus>Примерное месторасположение Тёмного хутора</rus>
+		<rus>РџСЂРёРјРµСЂРЅРѕРµ РјРµСЃС‚РѕСЂР°СЃРїРѕР»РѕР¶РµРЅРёРµ РўС‘РјРЅРѕРіРѕ С…СѓС‚РѕСЂР°</rus>
 		<eng>The approximate location of the Dark Farm</eng>
-		<ukr>Приблизне розташування Темного хутора</ukr>
+		<ukr>РџСЂРёР±Р»РёР·РЅРµ СЂРѕР·С‚Р°С€СѓРІР°РЅРЅСЏ РўРµРјРЅРѕРіРѕ С…СѓС‚РѕСЂР°</ukr>
 	</string>
 	<string id="set_sych_0">
-		<rus>Группа Сыча</rus>
+		<rus>Р“СЂСѓРїРїР° РЎС‹С‡Р°</rus>
 		<eng>Owl's Group</eng>
-		<ukr>Група Сича</ukr>
+		<ukr>Р“СЂСѓРїР° РЎРёС‡Р°</ukr>
 	</string>
 	<string id="reinforcement_0">
-		<rus>Рюкзак с припасами</rus>
+		<rus>Р СЋРєР·Р°Рє СЃ РїСЂРёРїР°СЃР°РјРё</rus>
 		<eng>Backpack with supplies</eng>
-		<ukr>Рюкзак с припасами</ukr>
+		<ukr>Р СЋРєР·Р°Рє СЃ РїСЂРёРїР°СЃР°РјРё</ukr>
 	</string>
 	<string id="sed_village_0">
-		<rus>База Чистого Неба</rus>
+		<rus>Р‘Р°Р·Р° Р§РёСЃС‚РѕРіРѕ РќРµР±Р°</rus>
 		<eng>Clear Sky Base</eng>
-		<ukr>База Чистого Неба</ukr>
+		<ukr>Р‘Р°Р·Р° Р§РёСЃС‚РѕРіРѕ РќРµР±Р°</ukr>
 	</string>
 	<string id="set_kalmyak_ruk_0">
-		<rus>Рюкзак Калмыка</rus>
+		<rus>Р СЋРєР·Р°Рє РљР°Р»РјС‹РєР°</rus>
 		<eng>Kalmyk's Backpack</eng>
-		<ukr>Рюкзак Калмика</ukr>
+		<ukr>Р СЋРєР·Р°Рє РљР°Р»РјРёРєР°</ukr>
 	</string>
 	<string id="set_kalmyak_0">
-		<rus>Предположительное местонахождение Калмыка</rus>
+		<rus>РџСЂРµРґРїРѕР»РѕР¶РёС‚РµР»СЊРЅРѕРµ РјРµСЃС‚РѕРЅР°С…РѕР¶РґРµРЅРёРµ РљР°Р»РјС‹РєР°</rus>
 		<eng>The approximated location of Kalmyk</eng>
-		<ukr>Очікуване місцезнаходження Калмика</ukr>
+		<ukr>РћС‡С–РєСѓРІР°РЅРµ РјС–СЃС†РµР·РЅР°С…РѕРґР¶РµРЅРЅСЏ РљР°Р»РјРёРєР°</ukr>
 	</string>
 	<string id="set_red_contr_0">
-		<rus>Предположительное местонахождение контролёра</rus>
+		<rus>РџСЂРµРґРїРѕР»РѕР¶РёС‚РµР»СЊРЅРѕРµ РјРµСЃС‚РѕРЅР°С…РѕР¶РґРµРЅРёРµ РєРѕРЅС‚СЂРѕР»С‘СЂР°</rus>
 		<eng>The approximated location of the controller</eng>
-		<ukr>Очікуване місцезнаходження контролера</ukr>
+		<ukr>РћС‡С–РєСѓРІР°РЅРµ РјС–СЃС†РµР·РЅР°С…РѕРґР¶РµРЅРЅСЏ РєРѕРЅС‚СЂРѕР»РµСЂР°</ukr>
 	</string>
 	<string id="set_kashei_0">
-		<rus>Кащей</rus>
+		<rus>РљР°С‰РµР№</rus>
 		<eng>Kashei</eng>
-		<ukr>Кащей</ukr>
+		<ukr>РљР°С‰РµР№</ukr>
 	</string>
 	<string id="set_televizor_0">
-		<rus>Предполагаемое местонахождение монолитовцев №1</rus>
+		<rus>РџСЂРµРґРїРѕР»Р°РіР°РµРјРѕРµ РјРµСЃС‚РѕРЅР°С…РѕР¶РґРµРЅРёРµ РјРѕРЅРѕР»РёС‚РѕРІС†РµРІ в„–1</rus>
 		<eng>The approximate location of Monolithians No1</eng>
-		<ukr>Предполагаемое местонахождение монолитовцев №1</ukr>
+		<ukr>РџСЂРµРґРїРѕР»Р°РіР°РµРјРѕРµ РјРµСЃС‚РѕРЅР°С…РѕР¶РґРµРЅРёРµ РјРѕРЅРѕР»РёС‚РѕРІС†РµРІ в„–1</ukr>
 	</string>
 	<string id="set_televizor2_0">
-		<rus>Предполагаемое местонахождение монолитовцев №2</rus>
+		<rus>РџСЂРµРґРїРѕР»Р°РіР°РµРјРѕРµ РјРµСЃС‚РѕРЅР°С…РѕР¶РґРµРЅРёРµ РјРѕРЅРѕР»РёС‚РѕРІС†РµРІ в„–2</rus>
 		<eng>The approximated location of Monolithians No2</eng>
-		<ukr>Предполагаемое местонахождение монолитовцев №2</ukr>
+		<ukr>РџСЂРµРґРїРѕР»Р°РіР°РµРјРѕРµ РјРµСЃС‚РѕРЅР°С…РѕР¶РґРµРЅРёРµ РјРѕРЅРѕР»РёС‚РѕРІС†РµРІ в„–2</ukr>
 	</string>
 	<string id="set_televizor3_0">
-		<rus>Предполагаемое местонахождение монолитовцев №3</rus>
+		<rus>РџСЂРµРґРїРѕР»Р°РіР°РµРјРѕРµ РјРµСЃС‚РѕРЅР°С…РѕР¶РґРµРЅРёРµ РјРѕРЅРѕР»РёС‚РѕРІС†РµРІ в„–3</rus>
 		<eng>The approximated location of Monolithians No3</eng>
-		<ukr>Предполагаемое местонахождение монолитовцев №3</ukr>
+		<ukr>РџСЂРµРґРїРѕР»Р°РіР°РµРјРѕРµ РјРµСЃС‚РѕРЅР°С…РѕР¶РґРµРЅРёРµ РјРѕРЅРѕР»РёС‚РѕРІС†РµРІ в„–3</ukr>
 	</string>
 	<string id="set_televizor4_0">
-		<rus>Предполагаемое местонахождение монолитовцев №4</rus>
+		<rus>РџСЂРµРґРїРѕР»Р°РіР°РµРјРѕРµ РјРµСЃС‚РѕРЅР°С…РѕР¶РґРµРЅРёРµ РјРѕРЅРѕР»РёС‚РѕРІС†РµРІ в„–4</rus>
 		<eng>The approximated location of Monolithians No4</eng>
-		<ukr>Предполагаемое местонахождение монолитовцев №4</ukr>
+		<ukr>РџСЂРµРґРїРѕР»Р°РіР°РµРјРѕРµ РјРµСЃС‚РѕРЅР°С…РѕР¶РґРµРЅРёРµ РјРѕРЅРѕР»РёС‚РѕРІС†РµРІ в„–4</ukr>
 	</string>
 	<string id="set_televizor5_0">
-		<rus>Предполагаемое местонахождение монолитовцев №5</rus>
+		<rus>РџСЂРµРґРїРѕР»Р°РіР°РµРјРѕРµ РјРµСЃС‚РѕРЅР°С…РѕР¶РґРµРЅРёРµ РјРѕРЅРѕР»РёС‚РѕРІС†РµРІ в„–5</rus>
 		<eng>The approximated location of Monolithians No5</eng>
-		<ukr>Предполагаемое местонахождение монолитовцев №5</ukr>
+		<ukr>РџСЂРµРґРїРѕР»Р°РіР°РµРјРѕРµ РјРµСЃС‚РѕРЅР°С…РѕР¶РґРµРЅРёРµ РјРѕРЅРѕР»РёС‚РѕРІС†РµРІ в„–5</ukr>
 	</string>
 	<string id="set_kot_0">
-		<rus>Кот</rus>
+		<rus>РљРѕС‚</rus>
 		<eng>Cat</eng>
-		<ukr>Кот</ukr>
+		<ukr>РљРѕС‚</ukr>
 	</string>
 	<string id="set_giant_0">
-		<rus>Уникальный псевдогигант</rus>
+		<rus>РЈРЅРёРєР°Р»СЊРЅС‹Р№ РїСЃРµРІРґРѕРіРёРіР°РЅС‚</rus>
 		<eng>Unique pseudogiant</eng>
-		<ukr>Унікальний псевдогігант</ukr>
+		<ukr>РЈРЅС–РєР°Р»СЊРЅРёР№ РїСЃРµРІРґРѕРіС–РіР°РЅС‚</ukr>
 	</string>
 	<string id="set_xalyava_0">
-		<rus>Место сделки</rus>
+		<rus>РњРµСЃС‚Рѕ СЃРґРµР»РєРё</rus>
 		<eng>Place of deal</eng>
-		<ukr>Место сделки</ukr>
+		<ukr>РњРµСЃС‚Рѕ СЃРґРµР»РєРё</ukr>
 	</string>
 	<string id="alife_dir_0">
 		<rus>TRENOGA</rus>
@@ -841,298 +841,298 @@
 		<ukr>TRENOGA</ukr>
 	</string>
 	<string id="set_green_0">
-		<rus>Охотники</rus>
+		<rus>РћС…РѕС‚РЅРёРєРё</rus>
 		<eng>Hunters</eng>
-		<ukr>Охотники</ukr>
+		<ukr>РћС…РѕС‚РЅРёРєРё</ukr>
 	</string>
 	<string id="set_tunel_0">
-		<rus>Заброшенная шахта</rus>
+		<rus>Р—Р°Р±СЂРѕС€РµРЅРЅР°СЏ С€Р°С…С‚Р°</rus>
 		<eng>Abandoned mine</eng>
-		<ukr>Заброшенная шахта</ukr>
+		<ukr>Р—Р°Р±СЂРѕС€РµРЅРЅР°СЏ С€Р°С…С‚Р°</ukr>
 	</string>
 	<string id="set_metka_0">
-		<rus>Трубка</rus>
+		<rus>РўСЂСѓР±РєР°</rus>
 		<eng>A tube</eng>
-		<ukr>Трубка</ukr>
+		<ukr>РўСЂСѓР±РєР°</ukr>
 	</string>
 	<string id="add_docs_spot_0">
-		<rus>Документ Воронина</rus>
+		<rus>Р”РѕРєСѓРјРµРЅС‚ Р’РѕСЂРѕРЅРёРЅР°</rus>
 		<eng>Voronin's document</eng>
-		<ukr>Документ Воронина</ukr>
+		<ukr>Р”РѕРєСѓРјРµРЅС‚ Р’РѕСЂРѕРЅРёРЅР°</ukr>
 	</string>
 	<string id="barmen_simbion_start_0">
-		<rus>Возможное местоположение схрона</rus>
+		<rus>Р’РѕР·РјРѕР¶РЅРѕРµ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёРµ СЃС…СЂРѕРЅР°</rus>
 		<eng>Possible location of the stash</eng>
-		<ukr>Возможное местоположение схрона</ukr>
+		<ukr>Р’РѕР·РјРѕР¶РЅРѕРµ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёРµ СЃС…СЂРѕРЅР°</ukr>
 	</string>
 	<string id="add_new_111item_0">
-		<rus>Возможное местоположение динамита</rus>
+		<rus>Р’РѕР·РјРѕР¶РЅРѕРµ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёРµ РґРёРЅР°РјРёС‚Р°</rus>
 		<eng>Possible location of dynamite</eng>
-		<ukr>Возможное местоположение динамита</ukr>
+		<ukr>Р’РѕР·РјРѕР¶РЅРѕРµ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёРµ РґРёРЅР°РјРёС‚Р°</ukr>
 	</string>
 	<string id="check_treasure_0">
-		<rus>Место поиска следующей информации от Эльзы</rus>
+		<rus>РњРµСЃС‚Рѕ РїРѕРёСЃРєР° СЃР»РµРґСѓСЋС‰РµР№ РёРЅС„РѕСЂРјР°С†РёРё РѕС‚ Р­Р»СЊР·С‹</rus>
 		<eng>The place of search for the next information from Elsa</eng>
-		<ukr>Місце пошуку наступної інформації від Ельзи</ukr>
+		<ukr>РњС–СЃС†Рµ РїРѕС€СѓРєСѓ РЅР°СЃС‚СѓРїРЅРѕС— С–РЅС„РѕСЂРјР°С†С–С— РІС–Рґ Р•Р»СЊР·Рё</ukr>
 	</string>
 	<string id="fenrir1_done_0">
-		<rus>Лёжка Фенрира</rus>
+		<rus>Р›С‘Р¶РєР° Р¤РµРЅСЂРёСЂР°</rus>
 		<eng>Fenrir's lair</eng>
-		<ukr>Лежанка Фенріра</ukr>
+		<ukr>Р›РµР¶Р°РЅРєР° Р¤РµРЅСЂС–СЂР°</ukr>
 	</string>
 	<string id="resident_evil3_done_0">
-		<rus>Начало поисков второй части рецепта</rus>
+		<rus>РќР°С‡Р°Р»Рѕ РїРѕРёСЃРєРѕРІ РІС‚РѕСЂРѕР№ С‡Р°СЃС‚Рё СЂРµС†РµРїС‚Р°</rus>
 		<eng>Start searching for the second part of the recipe</eng>
-		<ukr>Начало поисков второй части рецепта</ukr>
+		<ukr>РќР°С‡Р°Р»Рѕ РїРѕРёСЃРєРѕРІ РІС‚РѕСЂРѕР№ С‡Р°СЃС‚Рё СЂРµС†РµРїС‚Р°</ukr>
 	</string>
 	<string id="snpt_jupiter6_run7_0">
-		<rus>Место встречи с Тенью Монолита</rus>
+		<rus>РњРµСЃС‚Рѕ РІСЃС‚СЂРµС‡Рё СЃ РўРµРЅСЊСЋ РњРѕРЅРѕР»РёС‚Р°</rus>
 		<eng>Meeting point with the Monolith's Shadow</eng>
-		<ukr>Место встречи с Тенью Монолита</ukr>
+		<ukr>РњРµСЃС‚Рѕ РІСЃС‚СЂРµС‡Рё СЃ РўРµРЅСЊСЋ РњРѕРЅРѕР»РёС‚Р°</ukr>
 	</string>
 	<string id="vesker_start_done_0">
-		<rus>Тайник Вескера</rus>
+		<rus>РўР°Р№РЅРёРє Р’РµСЃРєРµСЂР°</rus>
 		<eng>Vesker's stash</eng>
-		<ukr>Тайник Вескера</ukr>
+		<ukr>РўР°Р№РЅРёРє Р’РµСЃРєРµСЂР°</ukr>
 	</string>
 	<string id="spawn_himik_sr_0">
-		<rus>Предположительное место перестрелки</rus>
+		<rus>РџСЂРµРґРїРѕР»РѕР¶РёС‚РµР»СЊРЅРѕРµ РјРµСЃС‚Рѕ РїРµСЂРµСЃС‚СЂРµР»РєРё</rus>
 		<eng>The approximated place of shooting</eng>
-		<ukr>Предположительное место перестрелки</ukr>
+		<ukr>РџСЂРµРґРїРѕР»РѕР¶РёС‚РµР»СЊРЅРѕРµ РјРµСЃС‚Рѕ РїРµСЂРµСЃС‚СЂРµР»РєРё</ukr>
 	</string>
 	<string id="alexandrych_koster_sr_0">
-		<rus>Александрыч</rus>
+		<rus>РђР»РµРєСЃР°РЅРґСЂС‹С‡</rus>
 		<eng>Alexandrych</eng>
-		<ukr>Александрич</ukr>
+		<ukr>РђР»РµРєСЃР°РЅРґСЂРёС‡</ukr>
 	</string>
 	<string id="alexandrych_spawn_sr_0">
-		<rus>Последний выход на связь группы Александрыча</rus>
+		<rus>РџРѕСЃР»РµРґРЅРёР№ РІС‹С…РѕРґ РЅР° СЃРІСЏР·СЊ РіСЂСѓРїРїС‹ РђР»РµРєСЃР°РЅРґСЂС‹С‡Р°</rus>
 		<eng>The last radio contact of Alexandrych's group</eng>
-		<ukr>Останній вихід на зв'язок групи Александрича</ukr>
+		<ukr>РћСЃС‚Р°РЅРЅС–Р№ РІРёС…С–Рґ РЅР° Р·РІ'СЏР·РѕРє РіСЂСѓРїРё РђР»РµРєСЃР°РЅРґСЂРёС‡Р°</ukr>
 	</string>
 	<string id="alexandrych_hutor_sr_0">
-		<rus>Последний выход на связь Иваныча</rus>
+		<rus>РџРѕСЃР»РµРґРЅРёР№ РІС‹С…РѕРґ РЅР° СЃРІСЏР·СЊ РРІР°РЅС‹С‡Р°</rus>
 		<eng>The last radio contact of Ivanich</eng>
-		<ukr>Останній вихід на зв'язок Івановича</ukr>
+		<ukr>РћСЃС‚Р°РЅРЅС–Р№ РІРёС…С–Рґ РЅР° Р·РІ'СЏР·РѕРє Р†РІР°РЅРѕРІРёС‡Р°</ukr>
 	</string>
 	<string id="batay_ploshadka_sr_0">
-		<rus>Приблизительное место посадки вертолёта</rus>
+		<rus>РџСЂРёР±Р»РёР·РёС‚РµР»СЊРЅРѕРµ РјРµСЃС‚Рѕ РїРѕСЃР°РґРєРё РІРµСЂС‚РѕР»С‘С‚Р°</rus>
 		<eng>The approximated helicopter landing site</eng>
-		<ukr>Приблизна місце посадки вертольота</ukr>
+		<ukr>РџСЂРёР±Р»РёР·РЅР° РјС–СЃС†Рµ РїРѕСЃР°РґРєРё РІРµСЂС‚РѕР»СЊРѕС‚Р°</ukr>
 	</string>
 	<string id="upiter_sdelka_sr_0">
-		<rus>Пост наблюдения за сделкой</rus>
+		<rus>РџРѕСЃС‚ РЅР°Р±Р»СЋРґРµРЅРёСЏ Р·Р° СЃРґРµР»РєРѕР№</rus>
 		<eng>Deal surveillance station</eng>
-		<ukr>Пост наблюдения за сделкой</ukr>
+		<ukr>РџРѕСЃС‚ РЅР°Р±Р»СЋРґРµРЅРёСЏ Р·Р° СЃРґРµР»РєРѕР№</ukr>
 	</string>
 	<string id="survival_quest_sr1_0">
-		<rus>Добраться до фабрики</rus>
+		<rus>Р”РѕР±СЂР°С‚СЊСЃСЏ РґРѕ С„Р°Р±СЂРёРєРё</rus>
 		<eng>Get to the factory</eng>
-		<ukr>Добраться до фабрики</ukr>
+		<ukr>Р”РѕР±СЂР°С‚СЊСЃСЏ РґРѕ С„Р°Р±СЂРёРєРё</ukr>
 	</string>
 	<string id="mercenary_dogovor_sr1_0">
-		<rus>Место встречи с наёмниками</rus>
+		<rus>РњРµСЃС‚Рѕ РІСЃС‚СЂРµС‡Рё СЃ РЅР°С‘РјРЅРёРєР°РјРё</rus>
 		<eng>The meeting point with mercenaries</eng>
-		<ukr>Місце зустрічі з найманцями</ukr>
+		<ukr>РњС–СЃС†Рµ Р·СѓСЃС‚СЂС–С‡С– Р· РЅР°Р№РјР°РЅС†СЏРјРё</ukr>
 	</string>
 	<string id="moving_detector_sr1_0">
-		<rus>Место установки детектора движения</rus>
+		<rus>РњРµСЃС‚Рѕ СѓСЃС‚Р°РЅРѕРІРєРё РґРµС‚РµРєС‚РѕСЂР° РґРІРёР¶РµРЅРёСЏ</rus>
 		<eng>Installation location of the motion detector</eng>
-		<ukr>Место установки детектора движения</ukr>
+		<ukr>РњРµСЃС‚Рѕ СѓСЃС‚Р°РЅРѕРІРєРё РґРµС‚РµРєС‚РѕСЂР° РґРІРёР¶РµРЅРёСЏ</ukr>
 	</string>
 	<string id="dimak_toolkit_sr1_0">
-		<rus>Отыскать Грешника на КПП</rus>
+		<rus>РћС‚С‹СЃРєР°С‚СЊ Р“СЂРµС€РЅРёРєР° РЅР° РљРџРџ</rus>
 		<eng>Find Sinner at the checkpoint</eng>
-		<ukr>Відшукати Грішника на КПП</ukr>
+		<ukr>Р’С–РґС€СѓРєР°С‚Рё Р“СЂС–С€РЅРёРєР° РЅР° РљРџРџ</ukr>
 	</string>
 	<string id="aaz_oboroten_sr1_0">
-		<rus>Дождаться ночи в деревне Копачи</rus>
+		<rus>Р”РѕР¶РґР°С‚СЊСЃСЏ РЅРѕС‡Рё РІ РґРµСЂРµРІРЅРµ РљРѕРїР°С‡Рё</rus>
 		<eng>Wait for the night in the village of Kopachi</eng>
-		<ukr>Дождаться ночи в деревне Копачи</ukr>
+		<ukr>Р”РѕР¶РґР°С‚СЊСЃСЏ РЅРѕС‡Рё РІ РґРµСЂРµРІРЅРµ РљРѕРїР°С‡Рё</ukr>
 	</string>
 	<string id="volna_dovod_sr1_0">
-		<rus>Проверить Лесопилку</rus>
+		<rus>РџСЂРѕРІРµСЂРёС‚СЊ Р›РµСЃРѕРїРёР»РєСѓ</rus>
 		<eng>Check Sawmill</eng>
-		<ukr>Проверить Лесопилку</ukr>
+		<ukr>РџСЂРѕРІРµСЂРёС‚СЊ Р›РµСЃРѕРїРёР»РєСѓ</ukr>
 	</string>
 	<string id="ohota_tushkan_sr1_0">
-		<rus>Место охоты на тушканов</rus>
+		<rus>РњРµСЃС‚Рѕ РѕС…РѕС‚С‹ РЅР° С‚СѓС€РєР°РЅРѕРІ</rus>
 		<eng>Place for hunting Tushkanos</eng>
-		<ukr>Місце полювання на тушканів</ukr>
+		<ukr>РњС–СЃС†Рµ РїРѕР»СЋРІР°РЅРЅСЏ РЅР° С‚СѓС€РєР°РЅС–РІ</ukr>
 	</string>
 	<string id="ohota_polter_sr1_0">
-		<rus>Дом духов</rus>
+		<rus>Р”РѕРј РґСѓС…РѕРІ</rus>
 		<eng>Spirits' house</eng>
-		<ukr>Дом духов</ukr>
+		<ukr>Р”РѕРј РґСѓС…РѕРІ</ukr>
 	</string>
 	<string id="volna_btr1_sr1_0">
-		<rus>Оборонять позицию у портовых кранов</rus>
+		<rus>РћР±РѕСЂРѕРЅСЏС‚СЊ РїРѕР·РёС†РёСЋ Сѓ РїРѕСЂС‚РѕРІС‹С… РєСЂР°РЅРѕРІ</rus>
 		<eng>Defend the position at the port cranes</eng>
-		<ukr>Обороняти позицію біля портових кранів</ukr>
+		<ukr>РћР±РѕСЂРѕРЅСЏС‚Рё РїРѕР·РёС†С–СЋ Р±С–Р»СЏ РїРѕСЂС‚РѕРІРёС… РєСЂР°РЅС–РІ</ukr>
 	</string>
 	<string id="volna_btr2_sr1_0">
-		<rus>Оборонять позицию у лагеря Изумрудное</rus>
+		<rus>РћР±РѕСЂРѕРЅСЏС‚СЊ РїРѕР·РёС†РёСЋ Сѓ Р»Р°РіРµСЂСЏ РР·СѓРјСЂСѓРґРЅРѕРµ</rus>
 		<eng>Defend the position at the Emerald camp</eng>
-		<ukr>Оборонять позицию у лагеря Изумрудное</ukr>
+		<ukr>РћР±РѕСЂРѕРЅСЏС‚СЊ РїРѕР·РёС†РёСЋ Сѓ Р»Р°РіРµСЂСЏ РР·СѓРјСЂСѓРґРЅРѕРµ</ukr>
 	</string>
 	<string id="volna_btr3_sr1_0">
-		<rus>Оборонять позицию возле заправки</rus>
+		<rus>РћР±РѕСЂРѕРЅСЏС‚СЊ РїРѕР·РёС†РёСЋ РІРѕР·Р»Рµ Р·Р°РїСЂР°РІРєРё</rus>
 		<eng>Defend the position near the gas station</eng>
-		<ukr>Оборонять позицию возле заправки</ukr>
+		<ukr>РћР±РѕСЂРѕРЅСЏС‚СЊ РїРѕР·РёС†РёСЋ РІРѕР·Р»Рµ Р·Р°РїСЂР°РІРєРё</ukr>
 	</string>
 	<string id="predator_npc_sr1_0">
-		<rus>Возможное местоположение неизвестной твари</rus>
+		<rus>Р’РѕР·РјРѕР¶РЅРѕРµ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёРµ РЅРµРёР·РІРµСЃС‚РЅРѕР№ С‚РІР°СЂРё</rus>
 		<eng>Possible location of an unknown creature</eng>
-		<ukr>Возможное местоположение неизвестной твари</ukr>
+		<ukr>Р’РѕР·РјРѕР¶РЅРѕРµ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёРµ РЅРµРёР·РІРµСЃС‚РЅРѕР№ С‚РІР°СЂРё</ukr>
 	</string>
 	<string id="spider_bomba_sr1_0">
-		<rus>Выбраться на поверхность</rus>
+		<rus>Р’С‹Р±СЂР°С‚СЊСЃСЏ РЅР° РїРѕРІРµСЂС…РЅРѕСЃС‚СЊ</rus>
 		<eng>Get to the surface</eng>
-		<ukr>Вибратися на поверхню</ukr>
+		<ukr>Р’РёР±СЂР°С‚РёСЃСЏ РЅР° РїРѕРІРµСЂС…РЅСЋ</ukr>
 	</string>
 	<string id="ohota_vypolzen_sr1_0">
-		<rus>Выбраться из шахты</rus>
+		<rus>Р’С‹Р±СЂР°С‚СЊСЃСЏ РёР· С€Р°С…С‚С‹</rus>
 		<eng>Get out of the mine</eng>
-		<ukr>Вибратися з шахти</ukr>
+		<ukr>Р’РёР±СЂР°С‚РёСЃСЏ Р· С€Р°С…С‚Рё</ukr>
 	</string>
 	<string id="night_watch_komplex_sr1_0">
-		<rus>Проверить комплекс</rus>
+		<rus>РџСЂРѕРІРµСЂРёС‚СЊ РєРѕРјРїР»РµРєСЃ</rus>
 		<eng>Check the complex</eng>
-		<ukr>Проверить комплекс</ukr>
+		<ukr>РџСЂРѕРІРµСЂРёС‚СЊ РєРѕРјРїР»РµРєСЃ</ukr>
 	</string>
 	<string id="night_watch_zapravka_sr1_0">
-		<rus>Проверить заправку</rus>
+		<rus>РџСЂРѕРІРµСЂРёС‚СЊ Р·Р°РїСЂР°РІРєСѓ</rus>
 		<eng>Check the gas station</eng>
-		<ukr>Проверить заправку</ukr>
+		<ukr>РџСЂРѕРІРµСЂРёС‚СЊ Р·Р°РїСЂР°РІРєСѓ</ukr>
 	</string>
 	<string id="night_watch_baza_sr1_0">
-		<rus>Занять позицию на вышке</rus>
+		<rus>Р—Р°РЅСЏС‚СЊ РїРѕР·РёС†РёСЋ РЅР° РІС‹С€РєРµ</rus>
 		<eng>Take a position on the tower</eng>
-		<ukr>Зайняти позицію на вишці</ukr>
+		<ukr>Р—Р°Р№РЅСЏС‚Рё РїРѕР·РёС†С–СЋ РЅР° РІРёС€С†С–</ukr>
 	</string>
 	<string id="defend_hospital_sr1_0">
-		<rus>Занять позицию на вышке баржи</rus>
+		<rus>Р—Р°РЅСЏС‚СЊ РїРѕР·РёС†РёСЋ РЅР° РІС‹С€РєРµ Р±Р°СЂР¶Рё</rus>
 		<eng>Take a position on the barge tower</eng>
-		<ukr>Зайняти позицію на вишці баржі</ukr>
+		<ukr>Р—Р°Р№РЅСЏС‚Рё РїРѕР·РёС†С–СЋ РЅР° РІРёС€С†С– Р±Р°СЂР¶С–</ukr>
 	</string>
 	<string id="burer_electro_sr1_0">
-		<rus>Прибыть ночью на кладбище техники</rus>
+		<rus>РџСЂРёР±С‹С‚СЊ РЅРѕС‡СЊСЋ РЅР° РєР»Р°РґР±РёС‰Рµ С‚РµС…РЅРёРєРё</rus>
 		<eng>Arrive to the vehicle scrapyard at night</eng>
-		<ukr>Прибути вночі на кладовище техніки</ukr>
+		<ukr>РџСЂРёР±СѓС‚Рё РІРЅРѕС‡С– РЅР° РєР»Р°РґРѕРІРёС‰Рµ С‚РµС…РЅС–РєРё</ukr>
 	</string>
 	<string id="kalinin_box1_sr1_0">
-		<rus>Ящик с патронами №1</rus>
+		<rus>РЇС‰РёРє СЃ РїР°С‚СЂРѕРЅР°РјРё в„–1</rus>
 		<eng>Box with ammunition No1</eng>
-		<ukr>Ящик с патронами №1</ukr>
+		<ukr>РЇС‰РёРє СЃ РїР°С‚СЂРѕРЅР°РјРё в„–1</ukr>
 	</string>
 	<string id="kalinin_box2_sr1_0">
-		<rus>Ящик с патронами №2</rus>
+		<rus>РЇС‰РёРє СЃ РїР°С‚СЂРѕРЅР°РјРё в„–2</rus>
 		<eng>Box with ammunition No2</eng>
-		<ukr>Ящик с патронами №2</ukr>
+		<ukr>РЇС‰РёРє СЃ РїР°С‚СЂРѕРЅР°РјРё в„–2</ukr>
 	</string>
 	<string id="kalinin_box3_sr1_0">
-		<rus>Ящик с патронами №3</rus>
+		<rus>РЇС‰РёРє СЃ РїР°С‚СЂРѕРЅР°РјРё в„–3</rus>
 		<eng>Box with ammunition No3</eng>
-		<ukr>Ящик с патронами №3</ukr>
+		<ukr>РЇС‰РёРє СЃ РїР°С‚СЂРѕРЅР°РјРё в„–3</ukr>
 	</string>
 	<string id="kalinin_box4_sr1_0">
-		<rus>Ящик с патронами №4</rus>
+		<rus>РЇС‰РёРє СЃ РїР°С‚СЂРѕРЅР°РјРё в„–4</rus>
 		<eng>Box with ammunition No4</eng>
-		<ukr>Ящик с патронами №4</ukr>
+		<ukr>РЇС‰РёРє СЃ РїР°С‚СЂРѕРЅР°РјРё в„–4</ukr>
 	</string>
 	<string id="kalinin_box5_sr1_0">
-		<rus>Ящик с патронами №5</rus>
+		<rus>РЇС‰РёРє СЃ РїР°С‚СЂРѕРЅР°РјРё в„–5</rus>
 		<eng>Box with ammunition No5</eng>
-		<ukr>Ящик с патронами №5</ukr>
+		<ukr>РЇС‰РёРє СЃ РїР°С‚СЂРѕРЅР°РјРё в„–5</ukr>
 	</string>
 	<string id="trofim_joke_sr1_0">
-		<rus>Разыскать бандита</rus>
+		<rus>Р Р°Р·С‹СЃРєР°С‚СЊ Р±Р°РЅРґРёС‚Р°</rus>
 		<eng>Find the bandit</eng>
-		<ukr>Розшукати бандита</ukr>
+		<ukr>Р РѕР·С€СѓРєР°С‚Рё Р±Р°РЅРґРёС‚Р°</ukr>
 	</string>
 	<string id="venom_dream_sr1_0">
-		<rus>Водонапорная башня</rus>
+		<rus>Р’РѕРґРѕРЅР°РїРѕСЂРЅР°СЏ Р±Р°С€РЅСЏ</rus>
 		<eng>Water tower</eng>
-		<ukr>Водонапорная башня</ukr>
+		<ukr>Р’РѕРґРѕРЅР°РїРѕСЂРЅР°СЏ Р±Р°С€РЅСЏ</ukr>
 	</string>
 	<string id="borov_target_sr1_0">
-		<rus>Стартовая позиция</rus>
+		<rus>РЎС‚Р°СЂС‚РѕРІР°СЏ РїРѕР·РёС†РёСЏ</rus>
 		<eng>Start position</eng>
-		<ukr>Стартовая позиция</ukr>
+		<ukr>РЎС‚Р°СЂС‚РѕРІР°СЏ РїРѕР·РёС†РёСЏ</ukr>
 	</string>
 	<string id="varg_npc_sr1_0">
-		<rus>Встретиться с Варгом</rus>
+		<rus>Р’СЃС‚СЂРµС‚РёС‚СЊСЃСЏ СЃ Р’Р°СЂРіРѕРј</rus>
 		<eng>Meet Varg</eng>
-		<ukr>Встретиться с Варгом</ukr>
+		<ukr>Р’СЃС‚СЂРµС‚РёС‚СЊСЃСЏ СЃ Р’Р°СЂРіРѕРј</ukr>
 	</string>
 	<string id="varg_support_sr1_0">
-		<rus>Занять позицию на вышке</rus>
+		<rus>Р—Р°РЅСЏС‚СЊ РїРѕР·РёС†РёСЋ РЅР° РІС‹С€РєРµ</rus>
 		<eng>Take a position on the tower</eng>
-		<ukr>Зайняти позицію на вишці</ukr>
+		<ukr>Р—Р°Р№РЅСЏС‚Рё РїРѕР·РёС†С–СЋ РЅР° РІРёС€С†С–</ukr>
 	</string>
 	<string id="merc_turret_sr1_0">
-		<rus>Прибыть ночью на склад контейнеров</rus>
+		<rus>РџСЂРёР±С‹С‚СЊ РЅРѕС‡СЊСЋ РЅР° СЃРєР»Р°Рґ РєРѕРЅС‚РµР№РЅРµСЂРѕРІ</rus>
 		<eng>Arrive at night at the container depot</eng>
-		<ukr>Прибути вночі на склад контейнерів</ukr>
+		<ukr>РџСЂРёР±СѓС‚Рё РІРЅРѕС‡С– РЅР° СЃРєР»Р°Рґ РєРѕРЅС‚РµР№РЅРµСЂС–РІ</ukr>
 	</string>
 	<string id="two_corpses_sr1_0">
-		<rus>Обследовать место падения вертолёта</rus>
+		<rus>РћР±СЃР»РµРґРѕРІР°С‚СЊ РјРµСЃС‚Рѕ РїР°РґРµРЅРёСЏ РІРµСЂС‚РѕР»С‘С‚Р°</rus>
 		<eng>Inspect the helicopter crash site</eng>
-		<ukr>Обстежити місце падіння вертольота</ukr>
+		<ukr>РћР±СЃС‚РµР¶РёС‚Рё РјС–СЃС†Рµ РїР°РґС–РЅРЅСЏ РІРµСЂС‚РѕР»СЊРѕС‚Р°</ukr>
 	</string>
 	<string id="taynik_dimak_sr1_0">
-		<rus>Схрон Димака</rus>
+		<rus>РЎС…СЂРѕРЅ Р”РёРјР°РєР°</rus>
 		<eng>Dimak's stash</eng>
-		<ukr>Схрон Димака</ukr>
+		<ukr>РЎС…СЂРѕРЅ Р”РёРјР°РєР°</ukr>
 	</string>
 	<string id="add_coll_spot_0">
-		<rus>Тайник Коллекционера</rus>
+		<rus>РўР°Р№РЅРёРє РљРѕР»Р»РµРєС†РёРѕРЅРµСЂР°</rus>
 		<eng>Collector's stash</eng>
-		<ukr>Тайник Коллекционера</ukr>
+		<ukr>РўР°Р№РЅРёРє РљРѕР»Р»РµРєС†РёРѕРЅРµСЂР°</ukr>
 	</string>
 	<string id="spot_botsman">
-		<rus>Боцман</rus>
+		<rus>Р‘РѕС†РјР°РЅ</rus>
 		<eng>Boatswain</eng>
-		<ukr>Боцман</ukr>
+		<ukr>Р‘РѕС†РјР°РЅ</ukr>
 	</string>
 	<string id="spot_semeckii">
-		<rus>Юрий Семецкий</rus>
+		<rus>Р®СЂРёР№ РЎРµРјРµС†РєРёР№</rus>
 		<eng>Yury Semetsky</eng>
-		<ukr>Юрий Семецкий</ukr>
+		<ukr>Р®СЂРёР№ РЎРµРјРµС†РєРёР№</ukr>
 	</string>
 	<string id="spot_ranenii">
-		<rus>Раненый</rus>
+		<rus>Р Р°РЅРµРЅС‹Р№</rus>
 		<eng>Wounded</eng>
-		<ukr>Поранений</ukr>
+		<ukr>РџРѕСЂР°РЅРµРЅРёР№</ukr>
 	</string>
 	<string id="spot_yakut_ograblen">
-		<rus>Возможные свидетели</rus>
+		<rus>Р’РѕР·РјРѕР¶РЅС‹Рµ СЃРІРёРґРµС‚РµР»Рё</rus>
 		<eng>Possible witnesses</eng>
-		<ukr>Можливі свідки</ukr>
+		<ukr>РњРѕР¶Р»РёРІС– СЃРІС–РґРєРё</ukr>
 	</string>
 	<string id="lis_for_medkit">
-		<rus>Тайник Лиса</rus>
+		<rus>РўР°Р№РЅРёРє Р›РёСЃР°</rus>
 		<eng>Fox's stash</eng>
-		<ukr>Схованка Лиса</ukr>
+		<ukr>РЎС…РѕРІР°РЅРєР° Р›РёСЃР°</ukr>
 	</string>
 	<string id="toz_hunter">
-		<rus>Тайник Охотника</rus>
+		<rus>РўР°Р№РЅРёРє РћС…РѕС‚РЅРёРєР°</rus>
 		<eng>Hunter's stash</eng>
-		<ukr>Схованка Мисливця</ukr>
+		<ukr>РЎС…РѕРІР°РЅРєР° РњРёСЃР»РёРІС†СЏ</ukr>
 	</string>
 	<string id="habar_krot">
-		<rus>Хабар Крота</rus>
+		<rus>РҐР°Р±Р°СЂ РљСЂРѕС‚Р°</rus>
 		<eng>Mole's loot</eng>
-		<ukr>Хабар Крота</ukr>
+		<ukr>РҐР°Р±Р°СЂ РљСЂРѕС‚Р°</ukr>
 	</string>
 	<string id="box_norman">
-		<rus>Тайник Нормана</rus>
+		<rus>РўР°Р№РЅРёРє РќРѕСЂРјР°РЅР°</rus>
 		<eng>Norman's stash</eng>
-		<ukr>Схованка Нормана</ukr>
+		<ukr>РЎС…РѕРІР°РЅРєР° РќРѕСЂРјР°РЅР°</ukr>
 	</string>
 	<string id="box_winsor">
-		<rus>Тайник Винзора</rus>
+		<rus>РўР°Р№РЅРёРє Р’РёРЅР·РѕСЂР°</rus>
 		<eng>Winsor's stash</eng>
-		<ukr>Схованка Вінзора</ukr>
+		<ukr>РЎС…РѕРІР°РЅРєР° Р’С–РЅР·РѕСЂР°</ukr>
 	</string>
 </string_table>
