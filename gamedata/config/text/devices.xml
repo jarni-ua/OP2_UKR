@@ -1,32 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <string_table>
 
-#include "text\string_table_ogg_flash_1.xml"
-#include "text\string_table_ogg_flash_2.xml"
-#include "text\string_table_ogg_flash_3.xml"
-#include "text\string_table_ogg_flash_4.xml"
-#include "text\string_table_ogg_flash_5.xml"
-#include "text\string_table_ogg_flash_6.xml"
-#include "text\string_table_ogg_flash_7.xml"
-#include "text\string_table_ogg_flash_8.xml"
-#include "text\string_table_ogg_flash_9.xml"
-#include "text\string_table_ogg_flash_10.xml"
-#include "text\string_table_ogg_flash_11.xml"
-#include "text\string_table_ogg_flash_12.xml"
-#include "text\string_table_ogg_flash_13.xml"
-#include "text\string_table_ogg_flash_14.xml"
-#include "text\string_table_ogg_flash_15.xml"
-#include "text\string_table_ogg_flash_16.xml"
-	<string id="mp3_player">
-		<rus>Плеер с радиоприёмником. Целая партия таких китайских подделок была недавно завезена в Зону одним армейским лейтенантом и с успехом разошлась по многим торговцам и представителям самых разных группировок. Для прослушивания музыки необходимо приобрести у торговцев специальные музыкальные флеш-карты.</rus>
-		<eng>A player with a radio receiver. A lot of Chinese counterfeit items was recently brought to Zone by one army lieutenant and successfully sold to many traders of various factions. To listen to music, you need to buy special flash drives containing music from local traders.</eng>
-		<ukr>Плеєр з радіоприймачем. Ціла партія таких китайських підробок була недавно завезена в зону одним армійським лейтенантом і з успіхом розійшлася по багатьом торгівцям і представникам самих різних угруповань. Для прослуховування музики необхідно придбати у торговців спеціальні музичні флеш-карти.</ukr>
-	</string>
-	<string id="ogg_flash_short">
-		<rus>Музыкальная флешка</rus>
-		<eng>Music flash drive</eng>
-		<ukr>Музична флешка</ukr>
-	</string>
+#include "text\string_table_ogg_player_ui.xml"
+
 	<string id="sigaret">
 		<rus>Сигареты</rus>
 		<eng>Cigarettes</eng>
@@ -76,11 +52,6 @@
 		<rus>Небольшой походный рюкзак. Сделан из прорезиненной ткани, поэтому не промокает. В таком можно хранить ценные вещи где-то в укромном месте - тайник получится отличный.</rus>
 		<eng>A travel rucksack. It has rubber in its material, so it's waterproof. You can put something valuable inside and place it somewhere out of the way. These rucksacks make for excellent stashes, but you should hide it well as its contents can be easily stolen.</eng>
 		<ukr>Невеликий похідний рюкзак. Зроблений з прогумованої тканини, тому не промокає. У такому можна зберігати цінні речі десь в затишному місці - ничка вийде відмінна.</ukr>
-	</string>
-	<string id="Телепорт монолитовцев">
-		<rus>Ручной телепорт монолитовцев</rus>
-		<eng>Monolithians manual teleportation device</eng>
-		<ukr>Ручний телепорт монолітівців</ukr>
 	</string>
 	<string id="Antirad">
 		<rus>Антирадиационные препараты</rus>

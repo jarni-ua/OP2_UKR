@@ -1748,9 +1748,9 @@
 		<ukr>Схованки</ukr>
 	</string>
 	<string id="ui_mm_font_profile">
-		<rus>Шрифт</rus>
-		<eng>Font</eng>
-		<ukr>Шрифт</ukr>
+		<rus>Шрифт (размер)</rus>
+		<eng>Font (size)</eng>
+		<ukr>Шрифт (розмір)</ukr>
 	</string>
 	<string id="default_fonts">
 		<rus>Стандартный</rus>
@@ -1771,6 +1771,16 @@
 		<rus>Язык/Language/Мова</rus>
 		<eng>Язык/Language/Мова</eng>
 		<ukr>Язык/Language/Мова</ukr>
+	</string>
+	<string id="ui_mm_langcode">
+		<rus>Кодировка</rus>
+		<eng>Encoding</eng>
+		<ukr>Кодування</ukr>
+	</string>
+	<string id="ui_mm_langfont">
+		<rus>Шрифт (тип)</rus>
+		<eng>Font (type)</eng>
+		<ukr>Шрифт (тип)</ukr>
 	</string>
 	<string id="ui_mm_options_op21_demand_reload">
 		<rus>Принудительная перезарядка оружия</rus>
@@ -1796,6 +1806,36 @@
 		<rus>Українська</rus>
 		<eng>Українська</eng>
 		<ukr>Українська</ukr>
+	</string>
+	<string id="ui_mm_langfont_east">
+		<rus>Восточноевропейский</rus>
+		<eng>Eastern European</eng>
+		<ukr>Східноєвропейський</ukr>
+	</string>
+	<string id="ui_mm_langfont_cent">
+		<rus>Центральноевропейский</rus>
+		<eng>Central European</eng>
+		<ukr>Центральноєвропейський</ukr>
+	</string>
+	<string id="ui_mm_langfont_west">
+		<rus>Западноевропейский</rus>
+		<eng>Western European</eng>
+		<ukr>Західноєвропейський</ukr>
+	</string>
+	<string id="ui_mm_langcode_1251">
+		<rus>Восточноевропейский</rus>
+		<eng>Eastern European</eng>
+		<ukr>Східноєвропейський</ukr>
+	</string>
+	<string id="ui_mm_langcode_1250">
+		<rus>Центральноевропейский</rus>
+		<eng>Central European</eng>
+		<ukr>Центральноєвропейський</ukr>
+	</string>
+	<string id="ui_mm_langcode_1252">
+		<rus>Западноевропейский</rus>
+		<eng>Westert European</eng>
+		<ukr>Західноєвропейський</ukr>
 	</string>
 	<string id="ui_mm_huds_cap">
 		<rus>HUDs:</rus>
@@ -3736,7 +3776,7 @@
 		<eng>Irradiation</eng>
 		<ukr>Опромінення</ukr>
 	</string>
-		<string id="ui_inv_radiation_irr">
+	<string id="ui_inv_radiation_irr">
 		<rus>Облучение предмета</rus>
 		<eng>Item radiation</eng>
 		<ukr>Опромінення предмета</ukr>
@@ -3927,5 +3967,4 @@
 		<eng>There is nothing here</eng>
 		<ukr>Тут немає нічого</ukr>
 	</string>
-	
 </string_table>
