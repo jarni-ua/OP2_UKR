@@ -2148,6 +2148,7 @@
 		<ukr>Відображати панель артефактів</ukr>
 		<fra>Afficher la ceinture d'Artéfact</fra>
 	</string>
+	<!-- BEGIN Do not translate this! English for all languages -->
 	<string id="ui_mm_language_eng">
 		<rus>English [BETA]</rus>
 		<eng>English [BETA]</eng>
@@ -2155,59 +2156,60 @@
 		<fra>English [BETA]</fra>
 	</string>
 	<string id="ui_mm_language_rus">
-		<rus>Русский</rus>
-		<eng>Русский</eng>
-		<ukr>Русский</ukr>
-		<fra>Russe</fra>
+		<rus>Russian</rus>
+		<eng>Russian</eng>
+		<ukr>Russian</ukr>
+		<fra>Russian</fra>
 	</string>
 	<string id="ui_mm_language_ukr">
-		<rus>Українська</rus>
-		<eng>Українська</eng>
-		<ukr>Українська</ukr>
-		<fra>Ukrainien</fra>
+		<rus>Ukrainian</rus>
+		<eng>Ukrainian</eng>
+		<ukr>Ukrainian</ukr>
+		<fra>Ukrainian</fra>
 	</string>
 	<string id="ui_mm_language_fra">
-		<rus>Французский</rus>
+		<rus>French [BETA]</rus>
 		<eng>French [BETA]</eng>
-		<ukr>Французька</ukr>
-		<fra>Français [BETA]</fra>
+		<ukr>French [BETA]</ukr>
+		<fra>French [BETA]</fra>
 	</string>
 	<string id="ui_mm_langfont_east">
-		<rus>Восточноевропейский</rus>
+		<rus>Eastern European</rus>
 		<eng>Eastern European</eng>
-		<ukr>Східноєвропейський</ukr>
-		<fra>Est Européen</fra>
+		<ukr>Eastern European</ukr>
+		<fra>Eastern European</fra>
 	</string>
 	<string id="ui_mm_langfont_cent">
-		<rus>Центральноевропейский</rus>
+		<rus>Central European</rus>
 		<eng>Central European</eng>
-		<ukr>Центральноєвропейський</ukr>
-		<fra>Central Européen</fra>
+		<ukr>Central European</ukr>
+		<fra>Central European</fra>
 	</string>
 	<string id="ui_mm_langfont_west">
-		<rus>Западноевропейский</rus>
+		<rus>Western European</rus>
 		<eng>Western European</eng>
-		<ukr>Західноєвропейський</ukr>
-		<fra>Ouest Européen</fra>
+		<ukr>Western European</ukr>
+		<fra>Western European</fra>
 	</string>
 	<string id="ui_mm_langcode_1251">
-		<rus>Восточноевропейский</rus>
+		<rus>Eastern European</rus>
 		<eng>Eastern European</eng>
-		<ukr>Східноєвропейський</ukr>
-		<fra>Est Européen</fra>
+		<ukr>Eastern European</ukr>
+		<fra>Eastern European</fra>
 	</string>
 	<string id="ui_mm_langcode_1250">
-		<rus>Центральноевропейский</rus>
+		<rus>Central European</rus>
 		<eng>Central European</eng>
-		<ukr>Центральноєвропейський</ukr>
-		<fra>Central Européen</fra>
+		<ukr>Central European</ukr>
+		<fra>Central European</fra>
 	</string>
 	<string id="ui_mm_langcode_1252">
-		<rus>Западноевропейский</rus>
-		<eng>Westert European</eng>
-		<ukr>Західноєвропейський</ukr>
-		<fra>Ouest Européen</fra>
+		<rus>Western European</rus>
+		<eng>Western European</eng>
+		<ukr>Western European</ukr>
+		<fra>Western European</fra>
 	</string>
+	<!-- END Do not translate this! English for all languages -->
 	<string id="ui_mm_huds_cap">
 		<rus>HUDs:</rus>
 		<eng>HUDs:</eng>
