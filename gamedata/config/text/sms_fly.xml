@@ -4,450 +4,540 @@
 		<rus>Что-то не получается взлететь. Попробуй в другой раз.</rus>
 		<eng>You can't fly. Try again later.</eng>
 		<ukr>Щось не виходить злетіти. Спробуй іншим разом.</ukr>
+		<fra>Quelque chose ne parvient pas à décoller.Essayez une autre fois.</fra>
 	</string>
 	<string id="sms_volazar_fly_wpn_0">
 		<rus>Стрелок, чтобы взлететь, ты должен снять броню и убрать оружие.</rus>
 		<eng>Strelok, in order to fly you have to take off your armor and holster the weapon.</eng>
 		<ukr>Стрілець, щоб злетіти, ти повинен зняти броню і прибрати зброю.</ukr>
+		<fra>Strelok,pour décoller, vous devez retirer l'armure et retirer l'arme.</fra>
 	</string>
 	<string id="sms_volazar_wrong_fly_0">
 		<rus>Стрелок, зря ты это сделал. Нормально можно летать только с помощью тех яиц, которые тебе дам я. Все остальные яйца крайне ядовиты, и сейчас ты умрёшь.</rus>
 		<eng>Strelok, you should not have done that. You can fly well only with the help of the eggs that I will give you. All the other eggs are extremely poisonous, and now you are going to die.</eng>
 		<ukr>Стрілець, даремно ти це зробив. Нормально можна літати тільки за допомогою тих яєць, які тобі дам я. Всі інші яйця дуже отруйні, і зараз ти помреш.</ukr>
+		<fra>Strelok,tu l'as fait en vain. Normalement, vous ne pouvez voler qu'avec l'aide des œufs que je vais vous donner. Tous les autres œufs sont extrêmement toxiques et vous mourez.</fra>
 	</string>
 	<string id="run_allowed_0">
 		<rus>Телепортация из района скопления вражеских сил невозможна по техническим причинам. Для восстановления функциональности устраните угрозу.</rus>
 		<eng>Teleportation from the enemy forces' area is impossible for technical reasons. To restore functionality, remove the threat.</eng>
 		<ukr>Телепортація з району скупчення ворожих сил неможлива з технічних причин. Для відновлення функціональності усуньте загрозу.</ukr>
+		<fra>La téléportation depuis la zone d'accumulation des forces ennemies est impossible pour des raisons techniques. Pour restaurer la fonctionnalité, éliminez la menace.</fra>
 	</string>
 	<string id="run_allowed_1">
 		<rus>Телепортация невозможна. Нет связи с центром управления.</rus>
 		<eng>Teleportation is impossible. There is no connection to the control center.</eng>
 		<ukr>Телепортація неможлива. Немає зв'язку з центром управління.</ukr>
+		<fra> La téléportation n'est pas possible. Il n'y a pas de connexion avec le centre de contrôle.</fra>
 	</string>
 	<string id="run_allowed_2">
 		<rus>Ускоритель не работает при наличии в руках любого предмета или оружия. Для восстановления функциональности исправьте ситуацию.</rus>
 		<eng>The accelerator does not work if there is any object or weapon in your hands. To restore functionality, correct the situation.</eng>
 		<ukr>Прискорювач не працює при наявності у руках будь-якого предмета або зброї. Для відновлення функціональності виправте ситуацію.</ukr>
+		<fra>L'accélérateur ne fonctionne pas si vous avez un objet ou une arme entre vos mains. Corrigez la situation pour restaurer la fonctionnalité.</fra>
 	</string>
 	<string id="run_allowed_3">
 		<rus>Для телепортации недостаточно денег.</rus>
 		<eng>You don't have enough money for teleportation.</eng>
 		<ukr>Для телепортації недостатньо грошей.</ukr>
+		<fra>Il n'y a pas assez d'argent pour se téléporter.</fra>
 	</string>
 	<string id="run_allowed_4">
 		<rus>Телепортация перегруженного человека невозможна по техническим причинам. Снизьте вес или отремонтируйте бронекостюм.</rus>
 		<eng>Teleportation of an overloaded person is impossible for technical reasons. Reduce weight or repair the body armor.</eng>
 		<ukr>Телепортація перевантаженої людини неможлива з технічних причин. Знизьте вагу або відремонтуйте бронекостюм.</ukr>
+		<fra>La téléportation d'une personne surchargée est impossible pour des raisons techniques. Réduisez le poids ou réparez la combinaison blindée.</fra>
 	</string>
 	<string id="teleport_in_danger">
 		<rus>Телепортация при наличии вражеской угрозы невозможна по техническим причинам. Для восстановления функциональности устраните угрозу.</rus>
 		<eng>If there is an enemy threat, teleportation is impossible for technical reasons. To restore functionality, remove the threat.</eng>
 		<ukr>Телепортація при наявності ворожої загрози неможлива з технічних причин. Для відновлення функціональності усуньте загрозу.</ukr>
+		<fra>La téléportation en présence d'une menace ennemie est impossible pour des raisons techniques. Pour restaurer la fonctionnalité, éliminez la menace.</fra>
 	</string>
 	<string id="teleport_usupported_territory">
 		<rus>С этой территории телепортация невозможна. Территории, с которых можно телепортироваться</rus>
 		<eng>Teleportation from this territory is impossible. Territories from which you can teleport</eng>
 		<ukr>З цієї території телепортація неможлива. Території, з яких можна телепортуватися</ukr>
+		<fra>Depuis ce territoire, la téléportation est impossible. Territoires depuis lesquels vous pouvez vous téléporter</fra>
 	</string>
 	<string id="set_pos_allowed_0">
 		<rus>Возвращение из района скопления вражеских сил невозможно по техническим причинам. Для восстановления функциональности устраните угрозу.</rus>
 		<eng>Return from the enemy forces' area is impossible for technical reasons. To restore functionality, remove the threat.</eng>
 		<ukr>Повернення з району скупчення ворожих сил неможлива з технічних причин. Для відновлення функціональності усуньте загрозу.</ukr>
+		<fra>Pour des raisons techniques, le retour de la zone d'accumulation des forces ennemies est impossible. Pour restaurer la fonctionnalité, éliminez la menace.</fra>
 	</string>
 	<string id="set_pos_allowed_1">
 		<rus>Возвращатель не работает при наличии в руках любого предмета или оружия. Для восстановления функциональности исправьте ситуацию.</rus>
 		<eng>The returner does not work if there is any object or weapon in your hands. To restore functionality, correct the situation.</eng>
 		<ukr>Повернення не працює при наявності у руках будь-якого предмета або зброї. Для відновлення функціональності виправте ситуацію.</ukr>
+		<fra> Le dispositif de renvoi ne fonctionne pas s'il y a un objet ou une arme entre les mains. Corrigez la situation pour restaurer la fonctionnalité.</fra>
 	</string>
 	<string id="set_pos_allowed_2">
 		<rus>Ошибка установки позиции. При задании позиции нельзя перемещаться.</rus>
 		<eng>Position setting error. When setting a position, you can not move.</eng>
 		<ukr>Помилка встановлення позиції. При заданні позиціїї не можна переміщуватись.</ukr>
+		<fra>Erreur lors du réglage de la position. Lorsque vous définissez la position, vous ne pouvez pas vous déplacer.</fra>
 	</string>
 	<string id="returner_allowed_0">
 		<rus>Возвращение из района скопления вражеских сил невозможно по техническим причинам. Для восстановления функциональности устраните угрозу.</rus>
 		<eng>Return from the enemy forces' area is impossible for technical reasons. To restore functionality, remove the threat.</eng>
 		<ukr>Повернення з району скупчення ворожих сил неможливо з технічних причин. Для відновлення функціональності усуньте загрозу.</ukr>
+		<fra>Pour des raisons techniques, le retour de la zone d'accumulation des forces ennemies est impossible. Pour restaurer la fonctionnalité, éliminez la menace.</fra>
 	</string>
 	<string id="returner_allowed_1">
 		<rus>Возвращатель не работает при наличии в руках любого предмета или оружия. Для восстановления функциональности исправьте ситуацию.</rus>
 		<eng>The returner does not work if there is any object or weapon in your hands. To restore functionality, correct the situation.</eng>
 		<ukr>Повернення не працює при наявності у руках будь-якого предмета або зброї. Для відновлення функціональності виправте ситуацію.</ukr>
+		<fra>Le dispositif de renvoi ne fonctionne pas s'il y a un objet ou une arme entre les mains. Corrigez la situation pour restaurer la fonctionnalité.</fra>
 	</string>
 	<string id="returner_allowed_2">
 		<rus>Не задана позиция возвращения. Для установки позиции нажмите дважды клавишу Возвращателя.</rus>
 		<eng>The return position is not set. To set a position, press the Returner button twice.</eng>
 		<ukr>Не задана позиція повернення. Для установки позиції натисніть двічі клавішу Повертальника.</ukr>
+		<fra>Aucune position de retour spécifiée. Pour définir la position, appuyez deux fois sur la touche Retour.</fra>
 	</string>
 	<string id="returner_allowed_3">
 		<rus>Возвращение невозможно из-за слишком большого расстояния. Для смены позиции нажмите дважды клавишу Возвращателя.</rus>
 		<eng>Return is impossible due to a long distance. To change the position, press the Returner button twice.</eng>
 		<ukr>Повернення неможливо через занадто велику відстань. Для зміни позиції натисніть двічі клавішу Повертальника.</ukr>
+		<fra>Le retour n'est pas possible en raison d'une distance trop longue. Pour changer de position, appuyez deux fois sur la touche Retour.</fra>
 	</string>
 	<string id="returner_allowed_4">
 		<rus>Слишком малое расстояние между текущей и заданной позицией. Для выполнения возвращения нужно отойти подальше.</rus>
 		<eng>The distance between the current and set position is too small. To return you should move away.</eng>
 		<ukr>Занадто мала відстань між поточною і заданої позицією. Для виконання повернення потрібно відійти подалі.</ukr>
+		<fra>La distance entre la position actuelle et la position donnée est trop petite. Pour compléter le retour, vous devez vous en aller.</fra>
 	</string>
 	<string id="code_found_0">
 		<rus>Найдена информация</rus>
 		<eng>Information found</eng>
 		<ukr>Знайдено інформацію</ukr>
+		<fra>Informations trouvées</fra>
 	</string>
 	<string id="sms_prime_final29_1_0">
 		<rus>Я вижу, что на декодере запись зашифрована. Поэтому я себе её скопирую. А как расшифрую - сообщу. Все, до связи.</rus>
 		<eng>I see that the record is encrypted in the decoding device. So I'll copy it and inform you, when I decode it. That's all, talk to you later.</eng>
 		<ukr>Я бачу, що на декодері запис зашифрований. Тому я собі його зкопіюю. А коли розшифрую - повідомлю. Все, до зв'язку.</ukr>
+		<fra>Je vois que l'enregistrement est crypté sur le décodeur. Par conséquent, je le copie moi-même. Et comment déchiffrer - que vous sachiez. Tout avant la communication.</fra>
 	</string>
 	<string id="sms_fanat_final29_2_0">
 		<rus>Стрелок, короче слушай сюда. Тебя в деревне новичков какая-то баба спрашивает, вторые сутки уже всем мозг выносит. Слушай, приходи, а? А то, ей-богу, уже достала.</rus>
 		<eng>Strelok, listen here. A woman is looking for you in the newbie camp, she's been screwing everyone's brains for two days. Listen, come, ok? By God, she drove us crazy.</eng>
 		<ukr>Стрілець, коротше, слухай сюди. Тебе у селищі новачків якась баба запитує, другу добу вже всім мозок виносить. Слухай, приходь, а? А то, їй богу, вже дістала.</ukr>
+		<fra>Strelok,en bref, écoute bien... Une femme vous demande dans le village des débutants, le deuxième jour, le cerveau supporte tout. Ecoute, viens, hein? Et ça, bon sang, l’a déjà eu.</fra>
 	</string>
 	<string id="sms_prime_check_code_0">
 		<rus>Стрелок, зайди, у меня для тебя кое-что есть.</rus>
 		<eng>Strelok, come in, I have something for you.</eng>
 		<ukr>Стрілець, зайди, у мене для тебе дещо є.</ukr>
+		<fra>Strelok, entrez, j'ai quelque chose pour vous.</fra>
 	</string>
 	<string id="sms_kartograf_f3_1_0">
 		<rus>Здесь есть труба...</rus>
 		<eng>There is a pipe here...</eng>
 		<ukr>Тут є труба...</ukr>
+		<fra>Il y a un tuyau ici...</fra>
 	</string>
 	<string id="sms_kartograf_f5_1_0">
 		<rus>Проверь место, где я оставил свой вертолёт.</rus>
 		<eng>Check the place where I left my helicopter.</eng>
 		<ukr>Перевір місце, де я залишив свій вертоліт.</ukr>
+		<fra>Vérifiez l'endroit où j'ai quitté mon hélicoptère.</fra>
 	</string>
 	<string id="sms_kartograf_f7_1_0">
 		<rus>Здорово у тебя получилось, </rus>
 		<eng>You did a great job, </eng>
 		<ukr>Чудово у тебе все вийшло, </ukr>
+		<fra>Bien, vous l'avez fait,vous avez vraiment fait un excellent travail, </fra>
 	</string>
 	<string id="sms_kartograf_f7_1_1">
 		<rus>! Ты настоящий Шерлок Холмс!</rus>
 		<eng>! You're a real Sherlock Holmes!</eng>
 		<ukr>! Ти справжній Шерлок Холмс!</ukr>
+		<fra>! Vous êtes le vrai Sherlock Holmes!</fra>
 	</string>
 	<string id="sms_kartograf_f7_2_0">
 		<rus>Ах да, чуть не забыл. Хочу ещё кое-что пояснить. Совсем недавно, создавая и просчитывая карты новых территорий, я обнаружил ранее незнакомую переменную составляющую некоторых аномалий, поэкспериментировав над которыми, неожиданно для себя я создал новый вид: «Летающий Остров». Он так мне понравился, что я решил сделать себе дом на одном из них. Этот остров, что над Госпиталем, и есть моя задумка. Вот только с домом не успел пока, дел много. Теперь ты всё знаешь и, я уверен, эта информация тебе пригодится.</rus>
 		<eng>Oh, yes, I almost forgot. I want to explain to you something else. A little while ago, when I was creating and calculating maps of new territories, I discovered a previously unknown variable component of some anomalies, experimenting on which I suddenly created a new kind: "Flying Island". I liked it so much that I decided to build a house on one of the islands. This island, which is above the Hospital, is my idea. But I didn't have time for the house, as I was busy. Now you know everything and, I'm sure, this information will be useful to you.</eng>
 		<ukr>Ах так, мало не забув. Хочу ще дещо пояснити. Зовсім недавно, створюючи і прораховуючи карти нових територій, я виявив раніше незнайому змінну складову деяких аномалій, поекспериментувавши над якою, несподівано для себе я створив новий вид: «Літаючий Острів». Він так мені сподобався, що я вирішив зробити собі будинок на одному з них. Цей острів, що над Шпиталем, і є моя задумка. Ось тільки з будинком не встиг поки, справ багато. Тепер ти все знаєш і, я впевнений, ця інформація стане тобі у нагоді.</ukr>
+		<fra>Oh oui, j'ai presque oublié. Je veux clarifier quelque chose d'autre. Plus récemment, en créant et en calculant des cartes de nouveaux territoires, j'ai découvert une composante variable inconnue de certaines anomalies, sur laquelle j'ai expérimenté de manière inattendue la création d'une nouvelle espèce: «Flying Island». Je l'aimais tellement que j'ai décidé de me faire une maison sur l'une d'entre elles. Cette île, située au-dessus de l'hôpital, est mon idée. Mais je n'ai pas eu le temps avec la maison jusqu'à présent, j'ai beaucoup à faire. Maintenant, vous savez tout et je suis sûr que cette information vous sera utile.</fra>
 	</string>
 	<string id="sms_kalinin_chaes2_1_0">
 		<rus>Стрелок, у меня появилась кое-какая информация. Группу из пяти человек, двое из которых очень похожи на моих людей, а один, как на твоём фото, взяли в плен монолитовцы. Я думаю, это те, кого ты ищешь. Проверили нычку, самоубийцы... В общем, придётся тебе их выручать из этой передряги. Только делай это осторожно, чтобы не спугнуть Монолит. Думаю, тебе лучше сначала залезть повыше и осмотреть территорию ЧАЭС в бинокль. Крыша четвёртого реактора вполне подойдёт.</rus>
 		<eng>Strelok, I got some information. A group of five people, two of whom are very similar to my people, and one is as in your photo, were captured by the Monolithians. I think these are the ones you are looking for. They checked the stashes, suiciders... So you'll have to get them out of this mess. But do this carefully in order not to frighten the Monolithians. I think first you'd better climb higher and examine the territory of CNPP through binoculars. The roof of the fourth reactor is quite good for this.</eng>
 		<ukr>Стрілець, у мене з'явилася деяка інформація. Групу з п'яти чоловік, двоє з яких дуже схожі на моїх людей, а один, як на твоєму фото, взяли у полон монолітівці. Я думаю, це ті, кого ти шукаєш. Перевірили ничку, самогубці... Загалом, доведеться тобі їх виручати з цієї халепи. Тільки роби це обережно, щоб не злякати Моноліт. Думаю, тобі краще спочатку залізти вище і оглянути територію ЧАЕС у бінокль. Дах четвертого реактора цілком підійде.</ukr>
+		<fra>Strelok, ó ìåíÿ ïîÿâèëàñü êîå-êàêàÿ èíôîðìàöèÿ. Ãðóïïó èç ïÿòè ÷åëîâåê, äâîå èç êîòîðûõ î÷åíü ïîõîæè íà ìîèõ ëþäåé, à îäèí, êàê íà òâî¸ì ôîòî, âçÿëè â ïëåí ìîíîëèòîâöû. ß äóìàþ, ýòî òå, êîãî òû èùåøü. Ïðîâåðèëè íû÷êó, ñàìîóáèéöû... Â îáùåì, ïðèä¸òñÿ òåáå èõ âûðó÷àòü èç ýòîé ïåðåäðÿãè. Òîëüêî äåëàé ýòî îñòîðîæíî, ÷òîáû íå ñïóãíóòü Ìîíîëèò. Äóìàþ, òåáå ëó÷øå ñíà÷àëà çàëåçòü ïîâûøå è îñìîòðåòü òåððèòîðèþ ×ÀÝÑ â áèíîêëü. Êðûøà ÷åòâ¸ðòîãî ðåàêòîðà âïîëíå ïîäîéä¸ò.</fra>
 	</string>
 	<string id="sms_kalinin_chaes3_1_0">
 		<rus>О, вот Монолит и объявился! И немалое количество! Пленники должны быть где-то у них. Чтобы все пленные остались живы, тебе нужно аккуратно ликвидировать монолитовцев, оставаясь незамеченным. Маскхалатом здесь пользоваться нельзя. Тебе нужно зачистить Монолит, не сходя с этой части крыши, иначе они обнаружат тебя и убьют пленников. Используй снайперку с компьютерным наведением. Затаись там, наберись терпения, и действуй спокойно и хладнокровно.</rus>
 		<eng>Oh, here's the Monolith! There are a lot of them! Prisoners must be with them. For all prisoners to survive, you should eliminate the monolithians without anyone seeing you. You can't use a camouflage smock here. You need to mop up the Monolithians without getting off this part of the roof, otherwise they will find you and kill the prisoners. Use a sniper's rifle with computer-guidance. Hide there, be patient, and act calmly and coolly.</eng>
 		<ukr>О, ось Моноліт і об'явився! І чимала кількість! Бранці мають бути десь у них. Щоб усі полонені залишилися живі, тобі потрібно акуратно ліквідувати монолітівців, залишаючись непоміченим. Маскхалатом тут користуватися не можна. Тобі потрібно зачистити Моноліт, не сходячи з цієї частини даху, інакше вони виявлять тебе і вб'ють бранців. Використовуй снайперку з комп'ютерним наведенням. Зачаїсь там, наберися терпіння, і дій спокійно та холоднокровно.</ukr>
+		<fra>Oh, ce monolithe et annoncé! Et une quantité considérable! Les captifs doivent être quelque part avec eux. Pour que tous les prisonniers restent en vie, vous devez éliminer soigneusement les monolithes tout en restant inaperçus. Maskhalatov ne peut pas être utilisé ici. Vous devez nettoyer le monolithe sans quitter cette partie du toit, sinon ils vous trouveront et tueront les prisonniers. Utilisez un tireur d’élite guidé par ordinateur. Faites une pause, patientez et agissez avec calme.</fra>
 	</string>
 	<string id="sms_prime_snegir_start_done2_0">
 		<rus>Стрелок, есть хорошая новость! Я смог расшифровать запись на декодере с Генераторов! Текст я тебе на ПДА скинул. Все, до связи.</rus>
 		<eng>Strelok, there's good news! I decoded the record from the Generators! I sent it to your PDA. That's all, talk to your later.</eng>
 		<ukr>Стрілець, є хороша новина! Я зміг розшифрував запис на декодері з Генераторів! Текст я тобі на КПК скинув. Все, до зв'язку.</ukr>
+		<fra>Strelok,il y a de bonnes nouvelles! J'ai pu décoder l'enregistrement sur le décodeur à partir des générateurs! Le texte que je vous ai jeté sur le PDA. Tout avant la communication.</fra>
 	</string>
 	<string id="sms_komanda_OP_2_bonus_start_1_0">
 		<rus>, это не всё. На ЧАЭС-2 есть здание, на которое хотели бы забраться многие искатели тайников. Начиная с момента, как они впервые пришли в Зону. Но никому из них это ещё не удавалось. Это здание манит к себе своей кажущейся простотой. Но на самом деле это не так. Поэтому никто из них так и не смог это сделать, как бы они ни пытались. Так что ты, </rus>
 		<eng>, this is not all. At CNPP-2 there is a building which many stash seekers would like to climb. From the moment they first came to the Zone. But none of them have yet succeeded. This building attracts them with its apparent simplicity. But it is not so. So nobody could do it, no matter how they tried. So you, </eng>
 		<ukr>, це не все. На ЧАЕС-2 є будівля, на яку хотіли б забратися багато шукачів схованок. Починаючи з моменту, коли вони вперше прийшли в Зону. Але нікому з них це ще не вдавалося. Ця будівля вабить до себе своєю уявною простотою. Але насправді це не так. Тому ніхто з них так і не зміг це зробити, як би вони не намагалися. Так що ти, </ukr>
+		<fra>, ce n'est pas tout. La Centrale Nucléaire n ° 2 de Chernobyl abrite un bâtiment sur lequel de nombreux chercheurs de chenilles aimeraient monter. Dès le moment où ils sont entrés dans la zone. Mais aucun d'entre eux n'a encore réussi. Ce bâtiment attire par sa simplicité apparente. Mais en réalité ce n'est pas le cas. Par conséquent, aucun d'entre eux ne pouvait le faire, peu importe comment ils ont essayé. Alors vous, </fra>
 	</string>
 	<string id="sms_komanda_OP_2_bonus_start_1_1">
 		<rus> - ты должен быть первым. Ты просто обязан проложить туда путь.</rus>
 		<eng> - you must be the first. You have to pave the way there.</eng>
 		<ukr> - ти повинен бути першим. Ти просто зобов'язаний прокласти туди шлях.</ukr>
+		<fra> - vous devriez être le premier. Vous devez juste ouvrir la voie.</fra>
 	</string>
 	<string id="sms_komanda_OP_2_bonus_start_2_0">
 		<rus>Итак, это здание - в центре ЧАЭС-2, с одной антенной на крыше. Оно стоит между двух кранов.\\n</rus>
 		<eng>So, this building is in the center of CNPP-2, with one antenna on the roof. It stands between two cranes.\\n</eng>
 		<ukr>Отже, ця будівля - у центрі ЧАЕС-2, з однією антеною на даху. Вона стоїть між двох кранів.\\n</ukr>
+		<fra>Ce bâtiment se trouve donc au centre de la Centrale Nucléaire de Chernobyl-2, avec une antenne sur le toit. Il se trouve entre deux grues.\\n</fra>
 	</string>
 	<string id="sms_komanda_OP_2_bonus_start_2_1">
 		<rus> - чтобы сделать это, ты должен собрать вместе весь свой накопленный до этого времени опыт и - отбросить его полностью. Забыть про него, совсем. Потому что путь туда абсолютно нестандартен. Ничего даже близко подобного в Зоне ты ещё не встречал и больше нигде не встретишь. Поэтому здесь ты должен думать совсем по другому!!!</rus>
 		<eng> - in order to do this, you have to gather all the lessons learnt and put them aside. Forget about them. Because the way there is absolutely non-standard. You have never seen anything like this in the Zone before, and you will not find it anywhere else. So here you have to think differently!!!</eng>
 		<ukr> - щоб зробити це, ти повинен зібрати разом увесь свій накопичений до цього часу досвід і - відкинути його повністю. Забути про нього, зовсім. Тому що шлях туди абсолютно нестандартний. Нічого навіть близько подібного в Зоні ти ще не зустрічав і більше ніде не зустрінеш. Тому тут ти повинен думати зовсім по іншому!!!</ukr>
+		<fra> - pour ce faire, vous devez rassembler toute votre expérience acquise jusqu'à présent et - vous en défaire complètement. Oublie lui, absolument. Parce que la façon dont il est absolument non standard. Vous n'avez encore rien vu de tel dans la Zone et vous ne le verrez nulle part ailleurs. Par conséquent, ici, vous devez penser très différemment!!!</fra>
 	</string>
 	<string id="sms_komanda_OP_2_chaes2_block_sms1_0">
 		<rus>Нет, </rus>
 		<eng>No, </eng>
 		<ukr>Ні, </ukr>
+		<fra>Non, </fra>
 	</string>
 	<string id="sms_komanda_OP_2_chaes2_block_sms1_1">
 		<rus>, по крану, конечно, можно забраться на это здание. Тяжело, но можно. Но это самый обычный путь, первым приходящий на ум, и в нем нет ничего нестандартного и, тем более, гениального. Ищи красивый, нестандартный и простой до гениальности путь, </rus>
 		<eng>, of course, you can get on this building using the crane. It's hard, but you can. But this is the most usual way, the first one that comes to mind, and there is nothing non-standard or genius in it. Look for a beautiful, non-standard, simple and at the same time genius way, </eng>
 		<ukr>, по крану, звичайно, можна забратися на цю будівлю. Важко, але можна. Але це самий звичайний шлях, першим приходить на думку, і в ньому немає нічого нестандартного і, тим більше, геніального. Шукай красивий, нестандартний і простий до геніальності шлях, </ukr>
+		<fra>,la grue, bien sûr, vous pouvez monter sur ce bâtiment. Dur, mais possible. Mais c’est la manière la plus habituelle, la première qui me vienne à l’esprit, et il n’ya rien de non standard et, en plus, d’ingénieux. Cherchez un moyen magnifique, non standard et simple de génie, </fra>
 	</string>
 	<string id="sms_komanda_OP_2_chaes2_block_sms1_2">
 		<rus>! Путь, который по настоящему удивит и тебя, и всех обитателей Зоны, когда ты найдёшь его! Поверь, удовольствие от нахождения этого пути превысит всё, что ты испытывал до этого!!!</rus>
 		<eng>! The way that will really surprise you and all the inhabitants of the Zone, when you find it! Believe me, the pleasure of finding this way will exceed everything that you had experienced before!!!</eng>
 		<ukr>! Шлях, який по справжньому здивує і тебе, і всіх мешканців Зони, коли ти знайдеш його! Повір, задоволення від знаходження цього шляху перевищить все, що ти відчував до цього!!!</ukr>
+		<fra>! Un chemin qui vous surprendra ainsi que tous les habitants de la zone quand vous le trouverez! Croyez-moi, le plaisir de trouver ce chemin dépassera tout ce que vous avez connu auparavant!!!</fra>
 	</string>
 	<string id="sidor_start_0_0">
 		<rus>Давай, осваивайся пока. Они вот-вот появятся.</rus>
 		<eng>Now shape up. They are about to appear.</eng>
 		<ukr>Давай, освоюйся поки що. Вони ось-ось з'являться.</ukr>
+		<fra>Allez, apprends maintenant. Ils sont sur le point d'apparaître.</fra>
 	</string>
 	<string id="sms_volazar_vol0_0">
 		<rus>! Если тебе все ещё не надоело лазить по Зоне, то у меня есть для тебя очень интересный сюрприз. Ищи мой сюрприз на месте украденного Монолита. Ты уже облазил практически всю Зону, и сможешь без труда догадаться, где это место. Это место, в котором ты ещё не побывал, и, более того, даже к нему не приближался.</rus>
 		<eng>! If you still have energy to walk around the Zone, then I have a very interesting surprise for you. Look for my surprise at the place of the stolen Monolith. You have already checked almost the entire Zone, so you can easily guess where this place is. This is a place you have not visited yet, moreover, you did not even come close to it.</eng>
 		<ukr>! Якщо тобі все ще не набридло лазити по Зоні, то у мене є для тебе дуже цікавий сюрприз. Шукай мій сюрприз на місці вкраденого Моноліту. Ти вже облазив практично всю Зону, і зможеш без труднощів здогадатися, де це місце. Це місце, в якому ти ще не побував, і, більш того, навіть до нього не наближався.</ukr>
+		<fra>! Si vous n'êtes toujours pas dérangé pour monter la Zone, alors j'ai une surprise très intéressante pour vous. Cherchez ma surprise à la place du monolithe volé. Vous avez déjà grimpé sur presque toute la zone et vous pouvez facilement deviner où se trouve cet endroit. C’est un endroit que vous n’avez pas encore visité et où vous n’avez même pas été approché.</fra>
 	</string>
 	<string id="fly36_1">
 		<rus>И почему тебя постоянно забрасывает не туда, куда надо? Ладно, воспользуйся лестницей, телепорт внизу.</rus>
 		<eng>Why do you always appear in a wrong place? Ok, take the stairs, the teleporter is downstairs.</eng>
 		<ukr>І чому тебе постійно закидає не туди, куди треба? Гаразд, скористайся сходами, телепорт внизу.</ukr>
+		<fra>Et pourquoi vous jetez-vous constamment au mauvais endroit? D'accord, utilisez les escaliers, téléportez-vous en bas.</fra>
 	</string>
 	<string id="fly36_2">
 		<rus>Видишь железяку на проводе? Прыгай туда.</rus>
 		<eng>Do you see a piece of iron on the wire? Jump there.</eng>
 		<ukr>Бачиш залізяку на дроті? Стрибай туди.</ukr>
+		<fra>Voir le morceau de fer sur le fil? Allez-y.</fra>
 	</string>
 	<string id="fly36_3">
 		<rus>Да что же ты будешь делать?! Опять не туда! Ладно, прорвёмся! Короче, ищи на опоре ЛЭП.</rus>
 		<eng>For crying out loud! A wrong way again! Ok, we can do it! All right, look for it on the power transmission pole.</eng>
 		<ukr>Та й що ж ти будеш робити?! Знову не туди! Гаразд, прорвемося! Коротше, шукай на опорі ЛЕП.</ukr>
+		<fra>Qu'est-ce que tu vas faire?! Encore une fois, pas là! Ok, percer! En bref, cherchez un pylône électrique.</fra>
 	</string>
 	<string id="fly36_4">
 		<rus>Так. Телепорт находится на тр...</rus>
 		<eng>Well, the teleporter is on the p...</eng>
 		<ukr>Так. Телепорт знаходиться на тр...</ukr>
+		<fra>Alors. Le téléport est sur le...</fra>
 	</string>
 	<string id="fly36_5">
 		<rus>Значит так. Видишь угол? Ищи там.</rus>
 		<eng>All right. Do you see the corner? Search there.</eng>
 		<ukr>Отже так. Бачиш кут? Шукай там.</ukr>
+		<fra>Alors ça l'est. Voir le coin? Cherchez là-bas.</fra>
 	</string>
 	<string id="fly36_6">
 		<rus>Обыщи Оазис.</rus>
 		<eng>Seek through Oasis.</eng>
 		<ukr>Обшукай Оазис.</ukr>
+		<fra>Rechercher dans l'oasis.</fra>
 	</string>
 	<string id="fly36_7">
 		<rus>Телепорт должен быть где-то рядом. Ищи на крыше с тремя трубами.</rus>
 		<eng>The teleporter must be somewhere here. Look for it on the roof with three pipes.</eng>
 		<ukr>Телепорт повинен бути десь поруч. Шукай на даху з трьома трубами.</ukr>
+		<fra>Le téléport devrait être quelque part à proximité. Recherche sur le toit avec trois tuyaux.</fra>
 	</string>
 	<string id="fly36_8">
 		<rus>Оп-па, что-то не то. Погоди, сейчас проверю... Блин, я тебе не то сказал. Вот что нужно: ударь, как молния!</rus>
 		<eng>Uh-oh, something is wrong. Wait, I'll check... Damn, I was mistaken. That's what you need: strike like lightning!</eng>
 		<ukr>Оп-па, щось не те. Стривай, зараз перевірю... Шляк трафить, я тобі не те сказав. Ось що потрібно: вдар, як блискавка!</ukr>
+		<fra>Euh-oh, quelque chose ne va pas. Attends, je vais vérifier ... Merde, je me suis trompé. C’est ce dont vous avez besoin: frappez comme un éclair!</fra>
 	</string>
 	<string id="fly36_9">
 		<rus>Твоё счастье у твоих ног.</rus>
 		<eng>Your happiness is at your feet.</eng>
 		<ukr>Твоє щастя біля твоїх ніг.</ukr>
+		<fra>Votre bonheur est à vos pieds.</fra>
 	</string>
 	<string id="fly29_1">
 		<rus>Смотри под островом.</rus>
 		<eng>Look under the island.</eng>
 		<ukr>Дивись під островом.</ukr>
+		<fra>Regardez sous l'île.</fra>
 	</string>
 	<string id="fly29_2">
 		<rus>Где-то здесь должен быть отогнутый лист. Смотри внимательно.</rus>
 		<eng>Somewhere here there must be a folded sheet. Watch closely.</eng>
 		<ukr>Десь тут має бути відігнутий лист. Дивись уважно.</ukr>
+		<fra>Quelque part ici, il devrait y avoir une feuille pliée. Regardez attentivement.</fra>
 	</string>
 	<string id="fly29_3">
 		<rus>Прыгай строго вниз.</rus>
 		<eng>Jump straight down.</eng>
 		<ukr>Стрибай точно вниз.</ukr>
+		<fra>Sautez strictement vers le bas.</fra>
 	</string>
 	<string id="fly29_4">
 		<rus>В генераторе должен быть разлом. Ищи внимательней.</rus>
 		<eng>In the generator there must be a crack. Look carefully.</eng>
 		<ukr>У генераторі повинен бути розлом. Шукай уважніше.</ukr>
+		<fra>Il devrait y avoir une faille dans le générateur. Rechercher attentivement.</fra>
 	</string>
 	<string id="fly29_5">
 		<rus>Смотри на пике аномалии.</rus>
 		<eng>Look at the peak of the anomaly.</eng>
 		<ukr>Дивись на вершині аномалії.</ukr>
+		<fra>Regardez le sommet de l'anomalie.</fra>
 	</string>
 	<string id="fly29_6">
 		<rus>Иди по проводам.</rus>
 		<eng>Go over the wires.</eng>
 		<ukr>Йди по дротах.</ukr>
+		<fra>Passez par les fils.</fra>
 	</string>
 	<string id="fly29_7">
 		<rus>Телепорт находится на генераторе.</rus>
 		<eng>The teleporter is on the generator.</eng>
 		<ukr>Телепорт знаходиться на генераторі.</ukr>
+		<fra>Le téléport est sur le générateur.</fra>
 	</string>
 	<string id="fly29_8">
 		<rus>Посмотри на согнутое дерево.</rus>
 		<eng>Look at the bent tree.</eng>
 		<ukr>Подивися на зігнуте дерево.</ukr>
+		<fra>Regardez l'arbre plié.</fra>
 	</string>
 	<string id="fly29_9">
 		<rus>Обойди вокруг.</rus>
 		<eng>Go around.</eng>
 		<ukr>Обійди навколо.</ukr>
+		<fra>Faites le tour.</fra>
 	</string>
 	<string id="fly37_1">
 		<rus>А и Б сидели на трубе. А упало, Б пропало - что осталось на трубе?</rus>
 		<eng>A &amp; B were sitting on the pipe. A fell down, B disappeared - what was left on the pipe?</eng>
 		<ukr>А і Б сиділи на трубі. А упало, Б пропало - що лишилось на трубі?</ukr>
+		<fra>A et B étaient assis sur le tuyau. Mais il est tombé, B a disparu - que reste-t-il sur le tuyau?</fra>
 	</string>
 	<string id="fly37_2">
 		<rus>Давай, прыгай в воду.</rus>
 		<eng>Come on, jump into the water.</eng>
 		<ukr>Давай, стрибай у воду.</ukr>
+		<fra>Allez, saute dans l'eau.</fra>
 	</string>
 	<string id="fly37_3">
 		<rus>Неподалёку, в кустах посмотри.</rus>
 		<eng>Not far away, look in the bushes.</eng>
 		<ukr>Неподалік, у кущах подивися.</ukr>
+		<fra>À proximité, regardez dans les buissons.</fra>
 	</string>
 	<string id="fly37_4">
 		<rus>Телепорт где-то здесь. Я его нутром чую!</rus>
 		<eng>The teleporter is somewhere here. My gut tells me that!</eng>
 		<ukr>Телепорт десь тут. Я його нутром чую!</ukr>
+		<fra>Le téléporteur est quelque part ici. Mon instinct me dit ça!</fra>
 	</string>
 	<string id="fly37_5">
 		<rus>Поищи на крыше КБО.</rus>
 		<eng>Look for it on the roof of the service center.</eng>
 		<ukr>Пошукай на даху КБО.</ukr>
+		<fra>Recherchez le toit du centre de service.</fra>
 	</string>
 	<string id="fly37_6">
 		<rus>Стрелок! Будь понастойчивей!</rus>
 		<eng>Strelok! Be more insistent!</eng>
 		<ukr>Стрілець! Будь наполегливішим!</ukr>
+		<fra>Strelok!Soyez plus en sécurité!</fra>
 	</string>
 	<string id="fly37_7">
 		<rus>Ну, ты попал! Как теперь выбираться собираешься?</rus>
 		<eng>You are in trouble! How are you going to get out?</eng>
 		<ukr>Ну, ти втрапив! Як тепер вибиратися збираєшся?</ukr>
+		<fra>Eh bien, vous frappez! Comment allez-vous sortir maintenant?</fra>
 	</string>
 	<string id="fly33_1">
 		<rus>Проверь столб у водонапорной башни.</rus>
 		<eng>Check the pole at the water tower.</eng>
 		<ukr>Перевір стовп біля водонапірної вежі.</ukr>
+		<fra>Vérifiez le poteau au château d'eau.</fra>
 	</string>
 	<string id="fly33_2">
 		<rus>Давай, прыгай!</rus>
 		<eng>Come on, jump!</eng>
 		<ukr>Давай, стрибай!</ukr>
+		<fra>Allez, saute!</fra>
 	</string>
 	<string id="fly33_3">
 		<rus>Телепорт находится под куполом.</rus>
 		<eng>The teleporter is under the dome.</eng>
 		<ukr>Телепорт знаходиться під куполом.</ukr>
+		<fra>Le téléport est sous le dôme.</fra>
 	</string>
 	<string id="fly33_4">
 		<rus>Эх, Стрелок, придётся тебе искупаться.</rus>
 		<eng>Oh, Strelok, you have to swim.</eng>
 		<ukr>Ех, Стрілець, доведеться тобі скупатися.</ukr>
+		<fra>Oh, Strelok,vous devrez nager.</fra>
 	</string>
 	<string id="fly33_5">
 		<rus>Моё звериное чутьё мне подсказывает, что нужно осмотреть полустанок.</rus>
 		<eng>My bestial instinct tells me that you have to inspect the way station.</eng>
 		<ukr>Моє звірине чуття мені підказує, що потрібно оглянути полустанок.</ukr>
+		<fra>Mon instinct animal me dit que je dois inspecter la station.</fra>
 	</string>
 	<string id="fly33_6">
 		<rus>Интересно, куда ведёт эта дорога?</rus>
 		<eng>I wonder where this road leads?</eng>
 		<ukr>Цікаво, куди веде ця дорога?</ukr>
+		<fra>Je me demande où cette route mène?</fra>
 	</string>
 	<string id="fly35_1">
 		<rus>Телепорт находится на трубе.</rus>
 		<eng>The teleporter is on the pipe.</eng>
 		<ukr>Телепорт знаходиться на трубі.</ukr>
+		<fra>Le téléport est sur le tuyau.</fra>
 	</string>
 	<string id="fly35_2">
 		<rus>Телепорт опять на трубе.</rus>
 		<eng>The teleporter is again on the pipe.</eng>
 		<ukr>Телепорт знову на трубі.</ukr>
+		<fra>Le téléport est à nouveau sur le tuyau.</fra>
 	</string>
 	<string id="fly35_3">
 		<rus>Так. Поищи в лабиринте.</rus>
 		<eng>Well. Check in the labyrinth.</eng>
 		<ukr>Так. Пошукай у лабіринті.</ukr>
+		<fra>Bien. Vérifiez dans le labyrinthe.</fra>
 	</string>
 	<string id="fly35_4">
 		<rus>Смотри на трубе, где восходит солнце.</rus>
 		<eng>Look at the pipe where the sun rises.</eng>
 		<ukr>Дивись на трубі, де сходить сонце.</ukr>
+		<fra>Regardez le tuyau où le soleil se lève.</fra>
 	</string>
 	<string id="fly35_5">
 		<rus>Бетонная балка, а перед ней подоконник...</rus>
 		<eng>A concrete beam and in front of it there is a window sill...</eng>
 		<ukr>Бетонна балка, а перед нею підвіконня...</ukr>
+		<fra>Poutre en béton et devant elle se trouve un rebord de fenêtre...</fra>
 	</string>
 	<string id="fly31_1">
 		<rus>Хм, странно. Я не вижу здесь никакой аномальной активности, характерной для телепортов. Похоже, тебе придётся искать туда путь ногами...</rus>
 		<eng>Hm...weird. I do not see here any abnormal activity typical for teleporters. It seems you'll have to find the way with your feet...</eng>
 		<ukr>Хм, дивно. Я не бачу тут ніякої аномальної активності, характерної для телепортів. Схоже, тобі доведеться шукати туди шлях ногами...</ukr>
+		<fra>Hmm, bizarre. Je ne vois pas ici d'activité anormale caractéristique des téléports. On dirait que vous devez chercher un moyen avec vos pieds...</fra>
 	</string>
 	<string id="fly31_2">
 		<rus>Глядя на то, как ты корячишься, я почему-то подумал, что к возникновению этого острова приложил свою руку сам Альпинист! Как ты думаешь, может, мне стоит передать ему привет от тебя, когда я увижу, что ты наконец забрался?</rus>
 		<eng>Looking at the way you are bending awkwardly, I thought that an Alpinist had a hand in the emergence of this island! What do you think, maybe I should give him your regards when I see that you've finally climbed?</eng>
 		<ukr>Дивлячись на те, як ти корячися, я чомусь подумав, що до виникнення цього острову доклав свою руку сам Альпініст! Як ти думаєш, може, мені варто передати йому привіт від тебе, коли я побачу, що ти нарешті забрався?</ukr>
+		<fra>En regardant votre écureuil, pour une raison quelconque, je pensais que le Grimpeur lui-même avait mis la main à l’apparition de cette île! Pensez-vous que je devrais peut-être vous dire bonjour de sa part quand je vois que vous avez enfin grimpé?</fra>
 	</string>
 	<string id="fly31_3">
 		<rus>Решил я тебе немножко всё-таки помочь - не могу я больше смотреть, как ты мучаешься!</rus>
 		<eng>I've decided to help you -I can not watch you suffer any more!</eng>
 		<ukr>Вирішив я тобі трошки все ж таки допомогти - не можу я більше дивитися, як ти мордуєшся!</ukr>
+		<fra>J'ai quand même décidé de vous aider un peu - je ne peux plus vous regarder souffrir!</fra>
 	</string>
 	<string id="fly31_4">
 		<rus>Поищи в шахте.</rus>
 		<eng>Look in the mine.</eng>
 		<ukr>Пошукай в шахті.</ukr>
+		<fra>Regardez dans la mine.</fra>
 	</string>
 	<string id="fly31_5">
 		<rus>Посмотри у сваи.</rus>
 		<eng>Look at the pile.</eng>
 		<ukr>Подивися біля палі.</ukr>
+		<fra>Regardez la pile.</fra>
 	</string>
 	<string id="fly31_6">
 		<rus>Поднял кузов - поставь упор.</rus>
 		<eng>If you lift a dump bed, don't forget about a locking stop.</eng>
 		<ukr>Підняв кузов - постав упор.</ukr>
+		<fra>Si vous soulevez un lit, n'oubliez pas un arrêt verrouillable.</fra>
 	</string>
 	<string id="fly9_1">
 		<rus>Ищи на трубе.</rus>
 		<eng>Look for it on the pipe.</eng>
 		<ukr>Шукай на трубі.</ukr>
+		<fra>Cherchez-le sur le tuyau.</fra>
 	</string>
 	<string id="fly9_2">
 		<rus>Посмотри на переходе между корпусами.</rus>
 		<eng>Look between the buildings.</eng>
 		<ukr>Подивися на переході між корпусами.</ukr>
+		<fra>Regardez entre les bâtiments.</fra>
 	</string>
 	<string id="fly9_3">
 		<rus>Поищи в дальнем углу крыши, что слева от тебя.</rus>
 		<eng>Look in the far corner of the roof to your left.</eng>
 		<ukr>Пошукай у дальньому кутку даху, що зліва від тебе.</ukr>
+		<fra>Regardez dans le coin le plus éloigné du toit, à votre gauche.</fra>
 	</string>
 	<string id="fly9_4">
 		<rus>Иди по проводу.</rus>
 		<eng>Go over the wire.</eng>
 		<ukr>Йди по дроту.</ukr>
+		<fra>Passez les barbelés.</fra>
 	</string>
 	<string id="fly9_5">
 		<rus>Поищи у двух труб.</rus>
 		<eng>Look for it next to two pipes.</eng>
 		<ukr>Пошукай біля двох труб.</ukr>
+		<fra>Recherchez-le à côté de deux tuyaux.</fra>
 	</string>
 	<string id="fly9_6">
 		<rus>Нет, не здесь. Между двух длинных труб надо смотреть.</rus>
 		<eng>No, not here. You have to look between the two long pipes.</eng>
 		<ukr>Ні, не тут. Між двох довгих труб треба дивитися.</ukr>
+		<fra>Non, pas ici. Vous devez regarder entre les deux longs tuyaux.</fra>
 	</string>
 	<string id="fly1_1">
 		<rus>Нужно прыгать.</rus>
 		<eng>You have to jump.</eng>
 		<ukr>Потрібно стрибати.</ukr>
+		<fra>Vous devez sauter.</fra>
 	</string>
 	<string id="fly1_2">
 		<rus>Под ноги смотри, телепорт там.</rus>
 		<eng>Look under your feet, the teleporter is there.</eng>
 		<ukr>Під ноги дивись, телепорт там.</ukr>
+		<fra>Regardez sous vos pieds, le téléporteur est là.</fra>
 	</string>
 	<string id="fly1_3">
 		<rus>Все, больше у меня нет информации. И аномальной активности, характерной для островов, я поблизости не вижу.</rus>
 		<eng>That's it, I do not have more information. And I do not see any abnormal activity typical for the islands.</eng>
 		<ukr>Все, більше я не маю інформації. Й аномальної активності, характерної для островів, я поблизу не бачу.</ukr>
+		<fra>Tout, je n'ai plus d'informations. Et je ne vois pas d’activité anormale caractéristique des îles.</fra>
 	</string>
 </string_table>

@@ -4,610 +4,732 @@
 		<rus>После Выброса в рюкзаке выродился артефакт </rus>
 		<eng>An artifact has degenerated in the backpack after Blowout</eng>
 		<ukr>Після Викиду в рюкзаку виродився артефакт </ukr>
+		<fra>Suite à l'émission, un artéfact a dégénéré dans le sac à dos...</fra>
 	</string>
 	<string id="on_get_diary_0_0">
 		<rus>Совсем не разобрать ничего, выкину-ка я лучше эту бумажку.</rus>
 		<eng>I can’t understand anything at all, I’ll throw this paper away.</eng>
 		<ukr>Зовсім не розібрати нічого, викину-но я краще цей папірець.</ukr>
+		<fra>Je ne peux rien comprendre, je vais jeter ce papier.</fra>
 	</string>
 	<string id="foto_binder_update_0">
 		<rus>Сделано фото.</rus>
 		<eng>A picture was taken.</eng>
 		<ukr>Зроблено фото.</ukr>
+		<fra>Une photo a été prise.</fra>
 	</string>
 	<string id="sms_strelok_silent_hunt_1_0">
 		<rus>Захар, я подкрался к очередному монстру и успешно его сфотографировал.</rus>
 		<eng>Zakhar, I sneaked up on another monster and took its picture successfully.</eng>
 		<ukr>Захар, я підкрався до чергового монстра і успішно його сфотографував.</ukr>
+		<fra>Zakhar, je me suis glissé sur un autre monstre et je l'ai photographié avec succès.</fra>
 	</string>
 	<string id="sms_zahar_silent_hunt_2_0">
 		<rus>Отлично! Неси фото и ищи следующего.</rus>
 		<eng>Excellent! Bring me the picture and look for the next one.</eng>
 		<ukr>Відмінно! Неси фото і шукай наступного.</ukr>
+		<fra>Génial! Rapportez-moi la photo et cherchez la suivante.</fra>
 	</string>
 	<string id="foto_binder_check_creatures_2">
 		<rus>Уникальный монстр сфотографирован.</rus>
 		<eng>The unique monster is photographed.</eng>
 		<ukr>Унікальний монстр сфотографований.</ukr>
+		<fra> L'unique monstre est photographié.</fra>
 	</string>
 	<string id="foto_binder_check_creatures_3">
 		<rus>Монстр сфотографирован.</rus>
 		<eng>The monster is photographed.</eng>
 		<ukr>Монстр сфотографований.</ukr>
+		<fra>Le monstre est photographié.</fra>
 	</string>
 	<string id="foto_binder_check_anomaly_0">
 		<rus>Аномалия сфотографирована.</rus>
 		<eng>The anomaly is photographed.</eng>
 		<ukr>Аномалія сфотографована.</ukr>
+		<fra>L'anomalie est photographiée.</fra>
 	</string>
 	<string id="sms_strelok_find_mina_have_0">
 		<rus>Путь расчищен, рандеву на Затоне. Не подведи, командир!</rus>
 		<eng>The path is cleared, the rendezvous is in Zaton. Do not let me down, commander!</eng>
 		<ukr>Шлях розчищений, рандеву на Затоні. Не підведи, командире!</ukr>
+		<fra>Le chemin est libre, le rendez-vous est à Zaton. Ne me laisse pas tomber,Commandant!</fra>
 	</string>
 	<string id="sms_xalyava_speech_xalyava_0">
 		<rus>Братцы, выручайте! Наёмники зажали на ферме!</rus>
 		<eng>Bros, help me out! Mercenaries pressed me on the farm!</eng>
 		<ukr>Брати, виручайте! Найманці затисли на фермі!</ukr>
+		<fra>Frères,aidez-moi! Des Mercenaires m'ont coinçé à la ferme!</fra>
 	</string>
 	<string id="speech_teleport_0_0">
 		<rus>Меченый, есть дело срочное, жду тебя.</rus>
 		<eng>Marked One, there is an urgent task, I'm waiting for you.</eng>
 		<ukr>Мічений, є справа термінова, чекаю тебе.</ukr>
+		<fra>Strelok,il y a une tâche urgente, je vous attends...</fra>
 	</string>
 	<string id="speech_shadowman_0_0">
 		<rus>Будь наготове. Они могут появиться в любой момент.</rus>
 		<eng>Be ready. They may appear at any time.</eng>
 		<ukr>Будь напоготові. Можуть з'явитися у будь-який момент.</ukr>
+		<fra>Soyez prêt. Ils peuvent apparaître à tout moment.</fra>
 	</string>
 	<string id="sms_sidor_mitya_sms_0">
 		<rus>Меченый, зайди, есть посылка любопытная.</rus>
 		<eng>Marked One, come in, there is a curious package.</eng>
 		<ukr>Мічений, зайди, є посилка цікава.</ukr>
+		<fra>Strelok,entrez, il y a un paquet curieux.</fra>
 	</string>
 	<string id="sms_net_bitvakl_spawn_0">
 		<rus>Хочешь выжить - спрячься в аномалии.</rus>
 		<eng>If you want to survive, hide in the anomaly.</eng>
 		<ukr>Хочеш вижити - сховайся в аномалії.</ukr>
+		<fra>Si vous voulez survivre, cachez-vous dans l'anomalie.</fra>
 	</string>
 	<string id="create_lc_0">
 		<rus>Новый путь.</rus>
 		<eng>New path.</eng>
 		<ukr>Новий шлях.</ukr>
+		<fra>Nouveau chemin.</fra>
 	</string>
 	<string id="info_received_0">
 		<rus>Новый путь!</rus>
 		<eng>New path!</eng>
 		<ukr>Новий шлях!</ukr>
+		<fra>Nouveau chemin!</fra>
 	</string>
 	<string id="CCycleTask_save_0">
 		<rus>%c[sms_red]Количество активных циклических заданий приближается к максимально допустимому пределу. Необходимо как можно скорее завершить часть заданий и не брать новых до стабильного исчезновения этого сообщения при сохранении и загрузке игры, иначе все последующие сохранения могут быть необратимо повреждены.</rus>
 		<eng>%c[sms_red] The number of active cyclic tasks is approaching the maximum allowed limit. It is necessary to complete part of the tasks as soon as possible and not take new ones until this message disappears while saving and loading the game, otherwise all subsequent saves may be irreversibly damaged.</eng>
 		<ukr>%c[sms_red]Кількість активних циклічних завдань наближається до максимально допустимої межі. Необхідно якомога швидше завершити частину завдань і не брати нових до стабільного зникнення цього повідомлення при збереженні та завантаженні гри, інакше всі наступні збереження можуть бути необоротно пошкоджені.</ukr>
+		<fra>%c[sms_red]Le nombre de tâches cycliques actives approche de la limite maximale autorisée. Il est nécessaire de terminer une partie des tâches dès que possible et de ne pas en prendre de nouvelles jusqu'à ce que le message disparaisse progressivement lors de la sauvegarde et du chargement du jeu. Dans le cas contraire, toutes les sauvegardes ultérieures risquent d'être endommagées de manière irréversible!!!</fra>
 	</string>
 	<string id="CCycleTask_load_0">
 		<rus>%c[sms_red]Количество активных циклических заданий приближается к максимально допустимому пределу. Необходимо как можно скорее завершить часть заданий и не брать новых до стабильного исчезновения этого сообщения при сохранении и загрузке игры, иначе все последующие сохранения могут быть необратимо повреждены.</rus>
 		<eng>%c[sms_red] The number of active cyclic tasks is approaching the maximum allowed limit. It is necessary to complete part of the tasks as soon as possible and not take new ones until the message disappears while saving and loading the game, otherwise all subsequent saves may be irreversibly damaged.</eng>
 		<ukr>%c[sms_red]Кількість активних циклічних завдань наближається до максимально допустимої межі. Необхідно якомога швидше завершити частину завдань і не брати нових до стабільного зникнення цього повідомлення при збереженні та завантаженні гри, інакше всі наступні збереження можуть бути необоротно пошкоджені.</ukr>
+		<fra>%c[sms_red]Le nombre de tâches cycliques actives approche de la limite maximale autorisée. Il est nécessaire de terminer une partie des tâches dès que possible et de ne pas en prendre de nouvelles jusqu'à ce que le message disparaisse progressivement lors de la sauvegarde et du chargement du jeu. Dans le cas contraire, toutes les sauvegardes ultérieures risquent d'être endommagées de manière irréversible.</fra>
 	</string>
 	<string id="god_add_invul_0">
 		<rus>Режим бессмертия можно включить только при наличии вражеской угрозы.</rus>
 		<eng>The mode of immortality can be enabled only if there is an enemy threat.</eng>
 		<ukr>Режим безсмертя можна включити тільки при наявності ворожої загрози.</ukr>
+		<fra>Le mode Immortalité ne peut être activé que s'il existe une menace ennemie.</fra>
 	</string>
 	<string id="sms_net_diff_down_0">
 		<rus>Уровень навыков сталкера Меченый не соответствует текущим условиям. Уровень сложности понижен.</rus>
 		<eng>Skill level of Marked One does not match current conditions. The difficulty level is lowered.</eng>
 		<ukr>Рівень навиків сталкера Міченого не відповідає даним умовам. Рівень складності понижено.</ukr>
+		<fra>Le niveau de compétence Stalker qualifié ne correspond pas aux conditions actuelles. Le niveau de difficulté est abaissé.</fra>
 	</string>
 	<string id="sms_net_diff_low_0">
 		<rus>Уровень навыков сталкера Меченый не соответствует текущим условиям. Но проще уже некуда.</rus>
 		<eng>Skill level of Marked One does not match current conditions. But there is no easier level.</eng>
 		<ukr>Рівень навиків сталкера Міченого не відповідає даним умовам. Але простіше вже нема куди.</ukr>
+		<fra>Le niveau de compétence marqué ne correspond pas aux conditions actuelles. Mais il n'y a pas de niveau plus facile.</fra>
 	</string>
 	<string id="sms_net_diff_up_0">
 		<rus>Уровень навыков сталкера Меченый слишком высок для текущих условий. Уровень сложности повышен.</rus>
 		<eng>Skill level of Marked One is too high for current conditions. The level of difficulty is increased.</eng>
 		<ukr>Рівень навиків сталкера Міченого надто високий для поточних умов. Рівень складності підвищено.</ukr>
+		<fra>Le niveau de compétence Stalker qualifié est trop élevé pour les conditions actuelles. Niveau de difficulté accru.</fra>
 	</string>
 	<string id="sms_net_diff_high_0">
 		<rus>Уровень навыков сталкера Меченый слишком высок для текущих условий. Но сложнее уже некуда.</rus>
 		<eng>Skill level of Marked One is too high for current conditions. But there are no more difficult levels.</eng>
 		<ukr>Рівень навиків сталкера Міченого надто високий для поточних умов. Але складніше вже нема куди.</ukr>
+		<fra>Le niveau de compétence Stalker qualifié est trop élevé pour les conditions actuelles. Mais c’est plus difficile maintenant.</fra>
 	</string>
 	<string id="do_vbr_0">
 		<rus>Из-за перегруза порвался рюкзак.</rus>
 		<eng>The backpack tore because of the overload.</eng>
 		<ukr>Через перевантаження порвався рюкзак.</ukr>
+		<fra>En raison d'une surcharge, le sac à dos s'est brisé :(...</fra>
 	</string>
 	<string id="f1_0_0">
 		<rus>Ищи на трансформаторной подстанции.</rus>
 		<eng>Search at the transformer substation.</eng>
 		<ukr>Шукай на трансформаторній підстанції.</ukr>
+		<fra>Recherchez au poste de transformation.</fra>
 	</string>
 	<string id="f2_0_0">
 		<rus>Молодец, </rus>
 		<eng>Well done, </eng>
 		<ukr>Молодець, </ukr>
+		<fra>Bien joué, </fra>
 	</string>
 	<string id="f2_0_1">
 		<rus>! Ты отлично справился! И ничего не успело протухнуть!</rus>
 		<eng>! You did great! And nothing had time to go bad!</eng>
 		<ukr>! Ти чудово впорався! І нічого не встигло протухнути!</ukr>
+		<fra>! Vous avez bien fait! Et rien n’a eu le temps de se dégrader!</fra>
 	</string>
 	<string id="sms_komanda_OP_2_f3_0">
 		<rus>, на это место на карте можно попасть с ЧАЭС-1 ещё одним, очень необычным способом. Способ крайне необычен. Настолько, что ничего даже близко подобного в Зоне больше нет. Сделай своей смекалке, нестандартному мышлению и знанию Зоны настоящую проверку, </rus>
 		<eng>, this place on the map can be reached from the CNPP-1 in one more, very unusual way. The method is extremely unusual. So much so that nothing even comes close to it in the Zone. Check your wit, non-standard thinking and knowledge of the Zone, </eng>
 		<ukr>, до цього місця на карті можна потрапити з ЧАЕС-1 ще одним, дуже незвичайним способом. Спосіб вкрай незвичайний. Настільки, що нічого навіть близько подібного у Зоні більше немає. Зроби своїй кмітливості, нестандартному мисленню і знанням Зони справжню перевірку, </ukr>
+		<fra>, vous pouvez accéder à cet endroit sur la carte à partir de CNPP-1 d'une autre manière très inhabituelle. La méthode est extrêmement inhabituelle. A tel point que rien ne s'en approche même dans la Zone. Vérifiez votre esprit, votre pensée non standard et votre connaissance de la Zone, </fra>
 	</string>
 	<string id="sms_komanda_OP_2_f3_1">
 		<rus> - найди этот путь!</rus>
 		<eng> - find this way!</eng>
 		<ukr> - знайди цей шлях!</ukr>
+		<fra> - trouvez ce chemin!</fra>
 	</string>
 	<string id="sms_net_pogib_stalker_0">
 		<rus>Погиб сталкер </rus>
 		<eng>Stalker was killed:  </eng>
 		<ukr>Загинув сталкер </ukr>
+		<fra>:( Un Stalker a été tué... </fra>
 	</string>
 	<string id="sms_net_pogib_stalker_1">
 		<rus> с GPS-маяком.</rus>
 		<eng> with a GPS beacon.</eng>
 		<ukr> з GPS-маяком.</ukr>
+		<fra> avec une balise GPS.</fra>
 	</string>
 	<string id="super_jump_0">
 		<rus>Нужно опустить оружие.</rus>
 		<eng>It is necessary to put the gun down.</eng>
 		<ukr>Потрібно опустити зброю.</ukr>
+		<fra>Il est nécessaire de déposer les armes.</fra>
 	</string>
 	<string id="CInventory_total_check_immunities_0_0">
 		<rus>Для текущего уровня сложности создаваемый артефактами иммунитет </rus>
 		<eng> Immunity generated by artifacts for current level of difficulty</eng>
 		<ukr>Для поточного рівня складності створюваний артефактами імунітет </ukr>
+		<fra>Immunité générée par le niveau de difficulté actuel </fra>
 	</string>
 	<string id="CInventory_total_check_immunities_0_1">
 		<rus> не должен превышать </rus>
 		<eng> should not exceed </eng>
 		<ukr> не повинен перевищувати </ukr>
+		<fra> ne doit pas dépasser </fra>
 	</string>
 	<string id="CInventory_total_check_immunities_0_2">
 		<rus>%. Артефакт </rus>
 		<eng>% Artifact </eng>
 		<ukr>%. Артефакт </ukr>
+		<fra>%. Artéfact </fra>
 	</string>
 	<string id="CInventory_total_check_immunities_0_3">
 		<rus> убран с пояса.</rus>
 		<eng> removed from the belt.</eng>
 		<ukr> прибраний з пояса.</ukr>
+		<fra> retiré de la ceinture.</fra>
 	</string>
 	<string id="doc_use_0">
 		<rus>Апгрейд закончен.</rus>
 		<eng>The upgrade is complete.</eng>
 		<ukr>Апгрейд закінчено.</ukr>
+		<fra>La mise à niveau est terminée.</fra>
 	</string>
 	<string id="doc_use_2_0">
 		<rus>Апгрейд закончен.</rus>
 		<eng>The upgrade is complete.</eng>
 		<ukr>Апгрейд закінчено.</ukr>
+		<fra>La mise à niveau est terminée.</fra>
 	</string>
 	<string id="doc_use_3_0">
 		<rus>Апгрейд закончен.</rus>
 		<eng>The upgrade is complete.</eng>
 		<ukr>Апгрейд закінчено.</ukr>
+		<fra>La mise à niveau est terminée.</fra>
 	</string>
 	<string id="system_outfit_0_0">
 		<rus>Ваше состояние здоровья ниже 50% от обычного состояния. Если у вас есть мед. препараты, то Система Жизненной Поддержки произведёт лечение.</rus>
 		<eng>Your health is below 50% of normal. If you have medicine, the Life Support System will produce the treatment.</eng>
 		<ukr>Ваш стан здоров'я нижче 50% від Звичайного Стану, якщо у вас є мед. препарати, то Системою Життєвої Підтримки проведе лікування</ukr>
+		<fra>Votre santé est inférieure à 50% de la normale. Si vous avez des médicaments, le système de support de vie produira le traitement.</fra>
 	</string>
 	<string id="system_outfit_1_0">
 		<rus>У вас сильное кровотечение. Если у вас есть мед. препараты, то Система Жизненной Поддержки произведёт лечение.</rus>
 		<eng>You have heavy bleeding. If you have medicine, the Life Support System will produce the treatment.</eng>
 		<ukr>У вас сильна кровотеча, якщо у вас є мед. препарати, то Системою Життєвої Підтримки проведе лікування</ukr>
+		<fra>Vous saignez abondamment...Si vous avez des médicaments, le système de support de vie produira le traitement.</fra>
 	</string>
 	<string id="new_system_rad_0_0">
 		<rus>Полученная доза радиации близка к критической. Если у Вас есть антидоты, то Система Жизненной Поддержки выведет радиацию из организма.</rus>
 		<eng>The dose of received radiation is close to critical. If you have antidotes, then the Life Support System will deduce radiation from the body.</eng>
 		<ukr>Отримана доза радіації близька до критичної, якщо у вас є антидоти, то Система Життєвої Підтримки виведе радіацію з організму при небезпечній втраті здоров'я</ukr>
+		<fra>La dose de rayonnement reçue est presque critique. Si vous avez des antidotes, le système d'assistance à la vie supprimera les radiations du corps.</fra>
 	</string>
 	<string id="new_anti_dot_0_0">
 		<rus>Полученная доза пси-излучения привела к Вашему зомбированию. Если у вас есть антизомбины, то Система Жизненной Поддержки выведет пси-излучение из организма.</rus>
 		<eng>The dose of received psi radiation led to your zombification. If you have antizombins, then the Life Support System will remove psi radiation from the body.</eng>
 		<ukr>Отримана доза псі-випромінювання привела до вашого зомбування. Якщо у вас є антидоти, то Система Життєвої Підтримки виведе псі-випромінювання з організму</ukr>
+		<fra>La dose de radiation psi quque vous avez reçu va bientôt vous transformer en...Zombie! .Si vous avez des antizombines, le système de soutien vital supprimera les radiations psi du corps.</fra>
 	</string>
 	<string id="new_system_power_0_0">
 		<rus>Вы устали. Ищу энергетики.</rus>
 		<eng>You're tired. I'm looking for energy.</eng>
 		<ukr>Ви стомилися. Шукаю енергетики.</ukr>
+		<fra>Vous êtes fatigué.Trouvez un peu d'énergie...</fra>
 	</string>
 	<string id="on_part_take_0">
 		<rus>Для срезания части монстра в руках должен быть нож.</rus>
 		<eng>There must a knife in your hands to cut a part of the monster.</eng>
 		<ukr>Для зрізання частини монстра в руках повинен бути ніж.</ukr>
+		<fra>Il vous faut un couteau dans les mains pour pouvoir couper une partie du monstre.</fra>
 	</string>
 	<string id="sms_kuznecov_pda_take_1_0">
 		<rus>Меченый, здесь у нас на мосту какие-то наймы объявились. Начальство нам приказало их не трогать, видать, проплачены большие бабки, но я был бы не против от них избавиться. Понимаешь, о чём я? Стоят тут, как бельмо на глазу, следят за нами, со сталкерами не пообщаешься, водочки не попьёшь... эх... Не мог бы ты кардинально решить вопрос?</rus>
 		<eng>Marked One, here at the bridge some mercs appeared. The authorities ordered us not to touch them, I guess, they paid a lot, but I would not mind getting rid of them. Do you understand what I mean? They stand here, as an eyesore, watching us, I can't communicate with stalkers or drink vodka... oh... Could you radically solve the problem?</eng>
 		<ukr>Мічений, тут у нас на мосту якісь найми з'явилися. Начальство нам наказало їх не чіпати, схоже, проплачені великі бабки, але я був би не проти від них позбутися. Розумієш про що я? Стоять тут, як більмо на оці, стежать за нами, зі сталкерами не поспілкуєшся, горілочки не вип'єш... ех... Не міг би ти кардинально вирішити питання?</ukr>
+		<fra>Strelok,des embauches sont apparues. Les autorités nous ont ordonné de ne pas les toucher, vous voyez, mais cela ne me dérangerait pas de les éliminer. Comprends-tu ce que je veux dire? Ils ne pourraient pas être en mesure de communiquer avec vous ... oh ... Pourriez-vous résoudre le problème de manière radicale?</fra>
 	</string>
 	<string id="sms_strelok_pda_take_2_0">
 		<rus>Надеюсь, они не по мою душу. Разберёмся!</rus>
 		<eng>I hope they didn't come for me. Let's figure it out!</eng>
 		<ukr>Сподіваюся, вони не по мою душу. Розберемося!</ukr>
+		<fra>J'espère qu'ils ne sont pas dans mon âme. Allons-y!</fra>
 	</string>
 	<string id="checking_taken_item23_0">
 		<rus>Найдена информация.</rus>
 		<eng>Information has been found.</eng>
 		<ukr>Знайдено інформацію</ukr>
+		<fra>Des informations ont été trouvées.</fra>
 	</string>
 	<string id="repair_repkit_0">
 		<rus>Броня не нуждается в ремонте.</rus>
 		<eng>The armor does not need to be repaired.</eng>
 		<ukr>Броня не потребує ремонту.</ukr>
+		<fra>L'armure est trop endommagée. Le kit de réparation ne peut pas être réparé.</fra>
 	</string>
 	<string id="repair_repkit_1">
 		<rus>Броня слишком сильно повреждена. Ремкомплектом не починить.</rus>
 		<eng>The armor is too damaged. It can not be repaired by the rapair kit.</eng>
 		<ukr>Броня занадто сильно пошкоджена. Ремкомплектом не полагодити.</ukr>
+		<fra>L'armure est trop endommagée. Le kit de réparation ne peut pas la réparée.</fra>
 	</string>
 	<string id="repair_repkit_2">
 		<rus>Оружие не нуждается в ремонте.</rus>
 		<eng>The weapon does not need to be repaired.</eng>
 		<ukr>Зброя не потребує ремонту.</ukr>
+		<fra>L'arme n'a pas besoin d'être réparée.</fra>
 	</string>
 	<string id="repair_repkit_3">
 		<rus>Оружие в слишком плохом состоянии. Ремкомплектом не починить.</rus>
 		<eng>The weapon is in too bad condition. It can not be repaired by the rapair kit.</eng>
 		<ukr>Зброя у дуже поганому стані. Ремкомплектом не полагодити.</ukr>
+		<fra>L'arme est trop mal en point. Le kit de réparation ne peut pas la réparée.</fra>
 	</string>
 	<string id="sms_net_safe_no_pay_day_0">
 		<rus>В связи с нехваткой денег на счету охрана рюкзаков прекращена.</rus>
 		<eng>Due to the lack of money in the account, the protection of backpacks has been terminated.</eng>
 		<ukr>У зв'язку з нестачею грошей на рахунку охорона рюкзаків припинена.</ukr>
+		<fra>En raison du manque d’argent sur le compte, la protection des sacs à dos a été supprimée.</fra>
 	</string>
 	<string id="sms_net_safe_pay_day_0">
 		<rus>C вашего счета удержана плата за охрану рюкзаков </rus>
 		<eng>You have been charged for the protection of backpacks. </eng>
 		<ukr>З вашого рахунку утримана плата за охорону рюкзаків </ukr>
+		<fra>Votre compte a été chargé pour la protection des sacs à dos </fra>
 	</string>
 	<string id="sms_net_safe_pay_day_1">
 		<rus> руб.</rus>
 		<eng> rub.</eng>
 		<ukr> грн.</ukr>
+		<fra> roubles.</fra>
 	</string>
 	<string id="sms_net_ukrali_taynik_0">
 		<rus>На территории </rus>
 		<eng>At the   territory</eng>
 		<ukr>На території </ukr>
+		<fra>Sur le territoire </fra>
 	</string>
 	<string id="sms_net_ukrali_taynik_1">
 		<rus> обнаружена кража тайника.</rus>
 		<eng> the stash theft was detected.</eng>
 		<ukr> виявлено крадіжку схованки.</ukr>
+		<fra> le vol de cachette a été détecté.</fra>
 	</string>
 	<string id="sms_sidor_add_new_109item_0">
 		<rus>Внимание всем! От военных поступила срочная информация! Блокпост на Кордоне был атакован тремя контролёрами, весь личный состав был взят под контроль и уведён этими мутантами в неизвестном направлении. Предположительно, контроши прибыли из Тёмной Лощины. Будьте предельно внимательны и осторожны! Ничего подобного раньше не случалось. Это первый случай массового зомбирования сразу несколькими контролёрами. Они могут быть где угодно, так что будьте начеку!</rus>
 		<eng>Attention everyone! We received urgent information from the military! The checkpoint in Cordon was attacked by three controllers, all personnel were taken under control and taken away by these mutants in an unknown direction. Supposedly, the controllers came from Darkscape. Be extremely careful and cautious! Nothing like this has happened before. This is the first case of mass zombification by several controllers at once. They can be anywhere, so stay alert!</eng>
-		<ukr>Увага всім! Від військових надійшла термінова інформація! Блокпост на Кордоні був атакований трьома контролерами, весь особовий склад був узятий під контроль і поведений цими мутантами у невідомому напрямку. Ймовірно, контроші прибули з Темної Лощини. Будьте гранично уважні й обережні! Нічого подібного раніше не траплялося. Це перший випадок масового зомбування відразу декількома контролерами. Вони можуть бути де завгодно, так що будьте напоготові!</ukr>
+		<ukr>Увага всім! Від військових надійшла термінова інформація! Блокпост на Кордоні був атакований трьома контролерами, весь особовий склад був узятий під контроль і поведений цими мутантами у невідомому напрямку. Ймовірно, контроші прибули з Темної Балки. Будьте гранично уважні й обережні! Нічого подібного раніше не траплялося. Це перший випадок масового зомбування відразу декількома контролерами. Вони можуть бути де завгодно, так що будьте напоготові!</ukr>
+		<fra>Attention à tous!Nous avons reçu des informations urgentes des Militaires!Le barrage routier sur le Cordon a été attaqué par trois contrôleurs, tout le personnel a été repris sous contrôle et emmené par ces mutants dans une direction inconnue. Soi-disant, la controverse est venue de Dark Hollow. Soyez extrêmement prudent et attentif! Rien de tel ne s'est passé avant. Il s'agit du premier cas de zombies de masse commis par plusieurs contrôleurs à la fois. Ils peuvent être n'importe où, alors soyez à l'affût!</fra>
 	</string>
 	<string id="bandits_enemy_0">
 		<rus>%c[sms_red]Ах ты сука! Братва, мочи козла!!!</rus>
 		<eng>%c[sms_red]You bitch! Bros, kill the jerk!!!</eng>
 		<ukr>%c[sms_red]Ах ти падла! Братва, гаси козла!!!</ukr>
+		<fra>%c[sms_red]Salopard!!!Et les gars ,tuez ce crétin</fra>
 	</string>
 	<string id="telepot_allowed_0">
 		<rus>Телепортация из района скопления вражеских сил невозможна по техническим причинам. Для восстановления функциональности устраните угрозу.</rus>
 		<eng>Teleportation from the area of accumulation of enemy forces is impossible for technical reasons. To restore the functionality, eliminate the threat.</eng>
 		<ukr>Телепортація з району скупчення ворожих сил неможлива з технічних причин. Для відновлення функціональності усуньте загрозу.</ukr>
+		<fra>La téléportation depuis la zone d'accumulation des forces ennemies est impossible pour des raisons techniques. Pour restaurer la fonctionnalité, éliminez la menace.</fra>
 	</string>
 	<string id="telepot_allowed_1">
 		<rus>Телепортация временно невозможна по техническим причинам. Попробуйте активировать функцию позднее.</rus>
 		<eng>Teleportation is temporarily unavailable for technical reasons. Try to activate the function later.</eng>
 		<ukr>Телепортація тимчасово неможлива з технічних причин. Спробуйте активувати функцію пізніше.</ukr>
+		<fra>La téléportation est temporairement impossible pour des raisons techniques. Essayez d'activer la fonction plus tard.</fra>
 	</string>
 	<string id="telepot_allowed_2">
 		<rus>Для телепортации недостаточно денег.</rus>
 		<eng>There is no enough money to teleport.</eng>
 		<ukr>Для телепортації недостатньо грошей.</ukr>
+		<fra>Il n'y a pas assez d'argent pour se téléporter.</fra>
 	</string>
 	<string id="telepot_allowed_3_0">
 		<rus>Отсутствует необходимый для телепортации артефакт </rus>
 		<eng>There is no artifact necessary for teleportation </eng>
 		<ukr>Відсутній необхідний для телепортації артефакт </ukr>
+		<fra>Aucun artéfact n'est nécessaire pour la téléportation </fra>
 	</string>
 	<string id="telepot_allowed_4">
 		<rus>Телепортация перегруженного человека невозможна по техническим причинам. Снизьте вес или отремонтируйте бронекостюм.</rus>
 		<eng>Teleportation of an overloaded person is impossible for technical reasons. Reduce weight or repair an armored suit.</eng>
 		<ukr>Телепортація перевантаженої людини неможлива з технічних причин. Знизьте вагу або відремонтуйте бронекостюм.</ukr>
+		<fra>La téléportation d'une personne surchargée est impossible pour des raisons techniques. Réduisez le poids ou réparez la combinaison blindée.</fra>
 	</string>
 	<string id="on_take_teleportator_chunk_0">
 		<rus>Все имеющиеся ручные телепорты перенесены в Телепортатор.</rus>
 		<eng>All available hand teleports are moved to Teleporter device.</eng>
 		<ukr>Усі наявні ручні телепорти перенесені у Телепортатор.</ukr>
+		<fra>Tous les téléporteurs manuels disponibles sont disponibles sur le périphérique de téléportation.</fra>
 	</string>
 	<string id="on_take_teleporter_0_0">
 		<rus>В Телепортатор добавлена новая территория: </rus>
 		<eng>A new territory has been added to the Teleportater: </eng>
 		<ukr>У Телепортатор додана нова територія: </ukr>
+		<fra>Un nouveau territoire a été ajouté au téléporteur: </fra>
 	</string>
 	<string id="delete_tele_0">
 		<rus>Телепорт удалён.</rus>
 		<eng>Teleport is removed.</eng>
 		<ukr>Телепорт видалено.</ukr>
+		<fra>La téléportation est supprimée.</fra>
 	</string>
 	<string id="saved_games_limit_show_error_0">
 		<rus>%c[sms_red]Папка сохранённых игр близка к переполнению. Рекомендуется удалить часть сохранённых игр или перенести их в другую папку, иначе игра скоро перестанет запускаться.</rus>
 		<eng>%c[sms_red] Saved games folder is close to overflow. It is recommended to delete part of the saved games or move them to another folder, otherwise the game will soon stop running.</eng>
 		<ukr>%c[sms_red]Папка збережених ігор близька до переповнення. Рекомендується видалити частину збережених ігор або перенести їх в іншу папку, інакше гра скоро перестане запускатися.</ukr>
+		<fra>%c[sms_red] Le dossier de jeu enregistré est sur le point de déborder. Il est recommandé de supprimer une partie des jeux sauvegardés ou de les déplacer dans un autre dossier, sinon le jeu cessera bientôt de fonctionner.</fra>
 	</string>
 	<string id="buy_quest_item_0_0">
 		<rus>Предмет "</rus>
 		<eng>Object "</eng>
 		<ukr>Предмет "</ukr>
+		<fra>Objet "</fra>
 	</string>
 	<string id="buy_quest_item_0_1">
 		<rus>" не найден.</rus>
 		<eng>" is not found.</eng>
 		<ukr>" не знайдений.</ukr>
+		<fra>" introuvable.</fra>
 	</string>
 	<string id="buy_quest_item_1">
 		<rus>Для покупки недостаточно денег.</rus>
 		<eng>There is no enough money to buy.</eng>
 		<ukr>Для покупки недостатньо грошей.</ukr>
+		<fra>Il n'y a pas assez d'argent à acheter.</fra>
 	</string>
 	<string id="buy_quest_item_2">
 		<rus>Этот предмет нельзя купить через меню игры.</rus>
 		<eng>This item cannot be purchased through the game menu.</eng>
 		<ukr>Цей предмет не можна купити через меню гри.</ukr>
+		<fra>Cet objet ne peut pas être acheté via le menu du jeu.</fra>
 	</string>
 	<string id="buy_quest_item_3">
 		<rus>Через меню игры можно покупать только квестовые предметы.</rus>
 		<eng>You can buy only quest items through the game menu.</eng>
 		<ukr>Через меню гри можна купувати тільки квестові предмети.</ukr>
+		<fra>Dans le menu du jeu, vous ne pouvez acheter que des objets de quête.</fra>
 	</string>
 	<string id="sms_sidor_sidor_delo_0">
 		<rus>Всем! Всем! Всем! Нарисовалась одна серьёзная проблема. Увидите Меченого - передайте, что мне срочно нужна его помощь! Только он сможет её решить.</rus>
 		<eng>Everybody! There is one serious problem. If you see Marked One, tell him that I urgently need his help! Only he can solve it.</eng>
 		<ukr>Всім! Всім! Всім! Намалювалася одна серйозна проблема. Побачите Міченого - передайте, що мені терміново потрібна його допомога! Тільки він зможе її вирішити.</ukr>
+		<fra>Tout le monde! Il y a un problème grave. Si vous voyez Strelok ,dites-lui que j'ai besoin de toute urgence de son aide! Lui seul peut  résoudre ce grave problème...</fra>
 	</string>
 	<string id="sms_borov_smska_borova_0">
 		<rus>Меченый, пацаны сообщили мне, что этот засранец Крысюк сдох и ПДА при нём не было. Зайди ко мне, есть кое-какая мыслишка...</rus>
 		<eng>Marked One, the boys told me that this asshole Krysyuk was dead and there was no PDA with him. Come to me, there is an idea...</eng>
 		<ukr>Мічений, хлопці повідомили мені, що цей засранець Крисюк здох і КПК у нього не було. Зайди до мене, є одна думка...</ukr>
+		<fra>Strelok,les garçons m'ont dit que cet enfoiré de Krysyuk était mort et qu'il n'y avait pas de PDA sur lui. Viens à moi, il y a une petite pensée...</fra>
 	</string>
 	<string id="delete_teleport2_0">
 		<rus>Ищи в другом месте.</rus>
 		<eng>Look somewhere else.</eng>
 		<ukr>Шукай в іншому місці</ukr>
+		<fra>Rechercher ailleurs.</fra>
 	</string>
 	<string id="delete_teleport3_0">
 		<rus>Пройди через туннель.</rus>
 		<eng>Go through the tunnel.</eng>
 		<ukr>Пройди через тунель</ukr>
+		<fra>Passez par le tunnel.</fra>
 	</string>
 	<string id="delete_m_teleport_27_0">
 		<rus>Нужно пройти через туннель.</rus>
 		<eng>You should go through the tunnel.</eng>
 		<ukr>Потрібно пройти через тунель</ukr>
+		<fra>Nous devons passer par le tunnel.</fra>
 	</string>
 	<string id="info1_0">
 		<rus>Получена информация.</rus>
 		<eng>Information received.</eng>
 		<ukr>Отримано інформацію</ukr>
+		<fra>Informations reçues.</fra>
 	</string>
 	<string id="sms_doctor_strelok_taynik_pda1_3_1_sr1_found_0">
 		<rus>Стрелок, осторожнее! Смотри, не упади с этих проводов. Я этого не переживу!</rus>
 		<eng>Strelok, be careful! Do not fall from these wires. It'll totally wreck me!</eng>
 		<ukr>Cтрілець, обережніше! Дивись, не впади з цих проводів. Я цього не переживу!</ukr>
+		<fra>Strelok,soyez prudent! Regardez, ne tombez pas sous les coups de ces abrutis... Je ne survivrai pas à cela!</fra>
 	</string>
 	<string id="sms_doctor_strelok_taynik_pda1_3_2_sr1_found_0">
 		<rus>Стрелок, ты сумасшедший! Пожалуйста, аккуратнее, прошу тебя!</rus>
 		<eng>Strelok, you are crazy! Please be careful, I'm begging you!</eng>
 		<ukr>Cтрілець, ти божевільний! Будь ласка, акуратніше, прошу тебе!</ukr>
+		<fra>Strelok, tu es fou! S'il te plaît soyez prudentet fait attention...</fra>
 	</string>
 	<string id="sms_strelok_strelok_taynik_pda1_4_sr1_found_0">
 		<rus>Вот видишь, запрыгнул! Хе-хе...</rus>
 		<eng>You see, jumped! Ha-ha...</eng>
 		<ukr>Ось бачиш, застрибнув! Хе-хе...</ukr>
+		<fra>Vous voyez, sauté! Héhé...</fra>
 	</string>
 	<string id="sms_doctor_strelok_taynik_pda1_5_sr1_found_0">
 		<rus>Стрелок!.. Что ты творишь?.. Ох-ох-ох-ох-ой!..</rus>
 		<eng>Strelok!.. What the hell are you doing? .. Oh, oh, oh, my god!..</eng>
 		<ukr>Cтрілець!.. Що ти твориш?.. Ох-ох-ох-ох-ой!..</ukr>
+		<fra>Strelok!.. Qu'est-ce que tu fais? .. Mais ...Oh, oh, oh, c'est pas possible</fra>
 	</string>
 	<string id="kostya_taynik_pda10_found_0_0">
 		<rus>Эх, такой красивый памятник сломали, сволочи... И кому он мешал?</rus>
 		<eng>Ah, they broke such a beautiful monument, bastards... And who didn't like it?</eng>
 		<ukr>Ех, такий гарний пам'ятник зламали, сволочі... і кому він заважав?</ukr>
+		<fra>Eh, un si beau monument a été brisé, bâtards ... Et qu'est ce qui les dérangé?</fra>
 	</string>
 	<string id="tm_sr3_do_0_0">
 		<rus>Мне удалось немного взломать код телепортов Монолита, и я перенёс следующий телепорт к тебе поближе, чтобы ты не мучился, прыгая по этим балкам.</rus>
 		<eng>I managed to crack the code of the Monolith teleports a little, and I transferred the next teleport closer for you not to jump on these beams.</eng>
 		<ukr>Мені вдалося трохи зламати код телепортів Моноліту, і я переніс наступний телепорт до тебе ближче, щоб ти не мучився, стрибаючи по цих балках.</ukr>
+		<fra>J'ai réussi à déchiffrer un peu le code des téléporteurs du monolithe et je vous ai rapproché le téléport suivant afin que vous ne souffriez pas de sauter sur ces rayons.</fra>
 	</string>
 	<string id="tm_sr4_do_0_0">
 		<rus>Судя по тому, где ты оказался, должен быть ещё один телепорт. Его не видно, но, думаю, его стоит поискать.</rus>
 		<eng>Judging by where you are, there must be another teleport. It is not visible, but I think it is worth looking for.</eng>
 		<ukr>Судячи з того, де ти опинився, повинен бути ще один телепорт. Його не видно, але, думаю, його варто пошукати.</ukr>
+		<fra>À en juger par votre position, il doit y avoir un autre téléport. Ce n’est pas visible, mais je pense que cela vaut la peine d’être examiné.</fra>
 	</string>
 	<string id="sms_info_received">
 		<rus>Найдена информация</rus>
 		<eng>Information found</eng>
 		<ukr>Знайдено інформацію</ukr>
+		<fra>Informations trouvées</fra>
 	</string>
 	<string id="sms_info_dead_stalker">
 		<rus>Мёртвый сталкер</rus>
 		<eng>Dead stalker</eng>
 		<ukr>Мертвий сталкер</ukr>
+		<fra>Stalker mort</fra>
 	</string>
 	<string id="sms_info_money_found">
 		<rus>Обнаружено денег</rus>
 		<eng>Money found</eng>
 		<ukr>Знайдено грошей</ukr>
+		<fra>Argent trouvé</fra>
 	</string>
 	<string id="remove_obj_0">
 		<rus>У объекта [%s] повреждён нетпакет. Это сохранение необратимо повреждено - удалите его, и переиграйте с более раннего. Продолжать игру на этом сохранении категорически запрещено!</rus>
 		<eng>Net packet of [%s] object is damaged. This save is irreversibly damaged, delete it, and replay from an earlier one. It is strictly prohibited to continue the game on this save!</eng>
 		<ukr>У об'єкта [%s] пошкоджений нетпакет. Це збереження необоротно пошкоджено - видаліть його, і переграйте з більш раннього. Продовжувати гру на цьому збереженні категорично заборонено!</ukr>
+		<fra>L'objet [%s] est endommagé.Cette conservation est endommagée de manière irréversible - supprimez-la et rejouez-la à partir d'une précédente. Il est strictement interdit de continuer le jeu sur cette sauvegarde!</fra>
 	</string>
 	<string id="info_strelok_pda_0">
 		<rus>Сталкер! Остановись!</rus>
 		<eng>Stalker! Stop it!</eng>
 		<ukr>Сталкере! Зупинись!</ukr>
+		<fra>Stalker! Arrêtez!</fra>
 	</string>
 	<string id="info_artmod_0">
 		<rus>Новый артмод!</rus>
 		<eng>New artmod!</eng>
 		<ukr>Новий артмод!</ukr>
+		<fra>Nouvel Artmod!</fra>
 	</string>
 	<string id="info_doktor_0">
 		<rus>Доктор жив!</rus>
 		<eng>The doctor is alive!</eng>
 		<ukr>Доктор живий!</ukr>
+		<fra>Le docteur est en vie!!!:)</fra>
 	</string>
 	<string id="info_teleport_0">
 		<rus>Телепорт готов.</rus>
 		<eng>Teleport is ready.</eng>
 		<ukr>Телепорт готовий.</ukr>
+		<fra>La téléportation est prête.</fra>
 	</string>
 	<string id="sms_mih_0_0">
 		<rus>Ух-ты!!! А мне это нравится - как в DOOM-е!!!\n</rus>
 		<eng>Wow!!! And I like it, like in DOOM!!!\n</eng>
 		<ukr>Ух-ти!!! А мені це подобається - як в DOOM-і!!!\n</ukr>
+		<fra>Wow !!! Et j'aime bien ça - Comme dans DOOM!!!\n</fra>
 	</string>
 	<string id="sms_mih_1_0">
 		<rus>Э-э-э!!! Вы кто?! Что вам надо?! А ну пошли отсюда!!! За пустыми бутылками уже и в Зону пришли!!!\n</rus>
 		<eng>Hey!!! Who are you?! What do you want?! Get out of here!!! They came for the empty bottles to the Zone!!!\n</eng>
 		<ukr>Е-е-е!!! Ви хто?!?! Що ван потрібно?!?! А ну пішли звідси!!! За порожніми пляшками вже і в Зовну прийшли!!!\n</ukr>
+		<fra>Euh-euh !!! Qui êtes-vous?! Que veux-tu?! Viens d'ici !!! Derrière les bouteilles vides sont déjà arrivés dans la zone!!!\n</fra>
 	</string>
 	<string id="sms_mih_2_0">
 		<rus>Все в укрытия!!! Началось!!!\n</rus>
 		<eng>Everyone go to the shelter!!! It began!!!\n</eng>
 		<ukr>Всі в укриття!!! Почалось!!!\n</ukr>
+		<fra>Tous à l'abri !!!Ça a commencé!!!\n</fra>
 	</string>
 	<string id="sms_mih_3_0">
 		<rus>На ловца и зверь бежит!!! Ха-ха-ха!!!\n</rus>
 		<eng>Speak of the devil and he will appear!!! Ha ha ha!!!\n</eng>
 		<ukr>На ловця і звір біжить!!! Ха-ха-ха!!!\n</ukr>
+		<fra>Parlez du diable et il apparaîtra !!! Ha ha ha ... Ha ha ha!!!\n</fra>
 	</string>
 	<string id="sms_mih_4_0">
 		<rus>Э-э-э... Сол-сол-солдат... М-м-м-мочииии....\n</rus>
 		<eng>Hey... so-sol-soldier... Kiiiiill....\n</eng>
 		<ukr>Е-е-е... Сол-сол-солдат... М-м-м-мочииии....\n</ukr>
+		<fra>Uh-euh ... soldat sol-sol ... Mmm-yiiiii....\n</fra>
 	</string>
 	<string id="sms_mih_5_0">
 		<rus>Зомби!!! Они повсюду!!! Мочите их!!!\n</rus>
 		<eng>Zombie!!! They are everywhere!!! Kill them!!!\n</eng>
 		<ukr>Зомбі!!! Вони скрізь!!! Мочи їх!!!\n</ukr>
+		<fra>Zombies !!! Ils sont partout !!! Tuez-les!!!\n</fra>
 	</string>
 	<string id="sms_mih_6_0">
 		<rus>Меченый!!! Брат!!! Помогай!!!\n</rus>
 		<eng>Marked One!!! Brother!!! Help!!!\n</eng>
 		<ukr>Мічений!!! Брат!!! ПОМОГАЙ!!!\n</ukr>
+		<fra>Strelok!!! Frère !!! A l'AIDE!!!\n</fra>
 	</string>
 	<string id="sms_mih_7_0">
 		<rus>Народ!!! Зомби отовсюду лезут!!! Выручайте, братцы!!!\n</rus>
 		<eng>People!!! Zombies are coming from everywhere!!! Help out, brothers!!!\n</eng>
 		<ukr>Народ!!! Зомбі звідусіль лізуть!!! Виручайте, брати!!!\n</ukr>
+		<fra>Les gens !!! Les zombies viennent de partout !!! Aide, frères!!!\n</fra>
 	</string>
 	<string id="sms_mih_8_0">
 		<rus>Бойцы, это очередной шанс доказать, что мы лучшие! Круши нечисть!!\n</rus>
 		<eng>Fighters, this is another chance to prove that we are the best! Crush the scum!!\n</eng>
 		<ukr>Бійці, це іще один шанс довести, що ми кращі... Вали Нечисть...\n</ukr>
+		<fra>Combattants, c'est une autre chance de prouver que nous sommes les meilleurs! Écrasez les tous!!\n</fra>
 	</string>
 	<string id="sms_mih_9_0">
 		<rus>Братья... Кроши уродов...\n</rus>
 		<eng>Brothers... Whack the freaks...\n</eng>
 		<ukr>Брати... Вали уродів...\n</ukr>
+		<fra>Frères ... Frappez les monstres...\n</fra>
 	</string>
 	<string id="sms_mih_10_0">
 		<rus>Санёк, а что это за сирена?\n</rus>
 		<eng>Sanya, what is this siren?\n</eng>
 		<ukr>Саньок, а це що за сирена?\n</ukr>
+		<fra>Sanya, quelle est cette sirène?\n</fra>
 	</string>
 	<string id="sms_mih_11_0">
 		<rus>В следующий раз узнаешь...\n</rus>
 		<eng>Next time you'll find out...\n</eng>
 		<ukr>Наступного разу дізнаєшся...\n</ukr>
+		<fra>La prochaine fois que vous découvrirez...\n</fra>
 	</string>
 	<string id="sms_mih_12_0">
 		<rus>Кто не спрятался - я не виноват! Раз, два, три, четыре, пять - я иду включать...\n</rus>
 		<eng>Ready or not, here I come! One, two, three, four, five - I'm going to turn on...\n</eng>
 		<ukr>Хто не сховався - я не винен! Раз, два, три, чотири, п'ять - я іду вмикать...\n</ukr>
+		<fra>Prêt ou pas, je viens! Un, deux, trois, quatre, cinq - je vais allumer...\n</fra>
 	</string>
 	<string id="sms_mih_13_0">
 		<rus>Опять включалка барахлит...\n</rus>
 		<eng>Again the switch doesn't work...\n</eng>
 		<ukr>Знову вмикалка барахлить...\n</ukr>
+		<fra>Le commutateur est à nouveau désactivé...\n</fra>
 	</string>
 	<string id="sms_mih_14_0">
 		<rus>Лаборант Сидоров, вы сегодня за доктора! Включайте установку!\n</rus>
 		<eng>Laboratorian Sidorov, today you are in charge! Switch on the installation!\n</eng>
 		<ukr>Лаборант Сидоров, ви сьогодні за доктора! Вмикайте установку!\n</ukr>
+		<fra>Assistant de laboratoire Sidorov, vous êtes aujourd'hui aux commandes! Allumez l'installation!\n</fra>
 	</string>
 	<string id="sms_mih_15_0">
 		<rus>Лаборант Сидоров! Опять спирт не по назначению использовали ?!\n</rus>
 		<eng>Laboratorian Sidorov! Did you again misuse alcohol?\n</eng>
 		<ukr>Лаборант Сидоров! Знову спирт не за призначенням використовували?!?!\n</ukr>
+		<fra>Assistant de laboratoire Sidorov! Encore une fois, l’abus d’alcool a été consommé ?!\n</fra>
 	</string>
 	<string id="sms_mih_16_0">
 		<rus>Доктор, пора... Включайте...\n</rus>
 		<eng>Doctor, it's time... Turn on...\n</eng>
 		<ukr>Доктор, пора... Вмикайте...\n</ukr>
+		<fra>Docteur, le moment est venu ... Allumez...\n</fra>
 	</string>
 	<string id="sms_mih_17_0">
 		<rus>Доктор, в чём дело? Почему не включаете? Опять ваш коллайдер заело?!\n</rus>
 		<eng>Doctor, what's the matter? Why don't you switch it on? Is your collider stuck again?!\n</eng>
 		<ukr>Доктор, в чому справа? Чому не вмикаєте? Знову ваш колайдер заїло?!?!\n</ukr>
+		<fra>Docteur, quel est le problème? Pourquoi ne pas allumer? Encore une fois, votre collisionneur est bloqué?!\n</fra>
 	</string>
 	<string id="sms_mih_18_0">
 		<rus>Лейтенант, уводите людей, если хотите остаться при всех солдатах... Сейчас её включат...\n</rus>
 		<eng>Lieutenant, take away the people, if you want to stay with all the soldiers... Now they will turn it on...\n</eng>
 		<ukr>Лейтенант, виводьте людей, якщо хочете залишитися при всіх солдатах... Зараз її увімкнуть...\n</ukr>
+		<fra>Lieutenant, emmenez les gens, si vous voulez rester avec tous les soldats ... Maintenant, ils vont l'activer...\n</fra>
 	</string>
 	<string id="sms_mih_19_0">
 		<rus>Лейтенант, у нас тут поломка - вам и вашим людям повезло.\n</rus>
 		<eng>Lieutenant, we have a breakdown here, you and your people are lucky.\n</eng>
 		<ukr>Лейтенант, у нас тут поломка - вам і вашим людям пощастило.\n</ukr>
+		<fra>Lieutenant, nous avons une ventilation ici. Vous et votre peuple avez de la chance.\n</fra>
 	</string>
 	<string id="sms_mih_20_0">
 		<rus>Так, всё, мы не успеваем... Эх, напишите за меня жене...\n</rus>
 		<eng>So, that's it, we do not have time... Oh, write to my wife for me...\n</eng>
 		<ukr>Так, все, ми не встигаємо... Напишіть за мене дружині!\n</ukr>
+		<fra>Alors, tout le monde n’a pas le temps ... Eh, écris pour ma femme...\n</fra>
 	</string>
 	<string id="sms_mih_21_0">
 		<rus>Фу-у. Пронесло... Жене сам напишу... Уроды!\n</rus>
 		<eng>Phew. That was close... I will write to my wife myself... Freaks!\n</eng>
 		<ukr>Пронесло... Дружині сам напишу... Урррроди...\n</ukr>
+		<fra>Ouf. C'était proche... Je vais écrire à ma femme... Peur!\n</fra>
 	</string>
 	<string id="sms_mih_22_0">
 		<rus>Хех... Опять этих ворюг станет меньше... Доктор, мы готовы!\n</rus>
 		<eng>Heh... There will be again fewer thieves... Doctor, we are ready!\n</eng>
 		<ukr>Хех... Сьогодні знову цих злодюг стане менше... Доктор... Ми готові\n</ukr>
+		<fra>Hé ... Il y aura moins de voleurs ... Docteur, nous sommes prêts!\n</fra>
 	</string>
 	<string id="sms_mih_23_0">
 		<rus>Доктор! Да сколько можно?! Опять неурожай!\n</rus>
 		<eng>Doctor! Not again! Another failure!\n</eng>
 		<ukr>Доктор! Та скільки ж можна?! Знову неврожай!\n</ukr>
+		<fra>Docteur! Pas encore! Un autre échec!\n</fra>
 	</string>
 	<string id="sms_no_smoke_1">
 		<rus>Не хочу больше, накурился!</rus>
 		<eng>I do not want anymore, I smoked to my heart’s content!</eng>
 		<ukr>Не хочу більше, накурився!</ukr>
+		<fra>Je ne veux plus, j’ai fumé à satiété!</fra>
 	</string>	
 	<string id="sms_no_smoke_2">
 		<rus>Так и до рака лёгких недалеко, хватит пока!</rus>
 		<eng>That's how lung cancer appears, that's enough for now!</eng>
 		<ukr>Так і до раку легень недалеко, вистачить поки!</ukr>
+		<fra>Le cancer du poumon est donc proche pour le moment!</fra>
 	</string>
 	<string id="sms_no_smoke_3">
 		<rus>Кашель курильщика, дожил...</rus>
 		<eng>Smoker's cough, how have I stooped so low...</eng>
 		<ukr>Кашель курця, дожився...</ukr>
+		<fra>La toux du fumeur, a survécu...</fra>
 	</string>
 	<string id="sms_no_smoke_4">
 		<rus>Минздрав предупреждает...</rus>
 		<eng>Ministry of Health warns...</eng>
 		<ukr>Мінздоров'я попереджає...</ukr>
+		<fra>Le ministère de la Santé met en garde...</fra>
 	</string>	
 </string_table>
