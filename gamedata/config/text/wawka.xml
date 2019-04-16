@@ -1755,7 +1755,7 @@ AK-74, AK-74M, AKC-74 "Cobra", AKS-74U, AN-94 "Abakan" NA-94 "Sniper", AK, AKM, 
 	<string id="doc_qeast_q_1">
 		<rus>Привет, я-то хоть осваиваю, а вот тебе это уже не грозит - после Х-18 извилины твои совсем шевелиться перестали. Но, как ни жаль, ты опять мне нужен. Больше таких безбашенных как ты на Кордоне не встретить... Да и мания у тебя есть - к собирательству, а это мне как раз кстати. Надо сходить в Х-16 и найти там ещё один документ, да в Лощину смотаться за одним ПДА... Сделаешь? Плачу хабаром.</rus>
 		<eng>Hi, at least I am learning something, I guess you can't do it, especially after X-18 your brains completely stopped working. But, unfortunately, I need you again. There are no more crazy people like you in Cordon... And you have mania for collecting, and this is good for me. You should go to X-16 and find another document there, and also go to DarkScape to get one PDA... Will you do it? I will give you loot.</eng>
-		<ukr>Привіт, я-то хоч освоюю, а ось тобі це вже не загрожує - після Х-18 звивини твої зовсім ворушитися перестали. Але, як не шкода, ти знову мені потрібен. Більше таких безбашенних як ти на Кордоні не зустріти... Та й манія у тебе є - до збирання, а це мені якраз підходить. Треба сходити в Х-16 і знайти там ще один документ, так в Балку змотатися за одним КПК... Зробиш? Плачу хабаром.</ukr>
+		<ukr>Привіт, я-то хоч освоюю, а ось тобі це вже не загрожує - після Х-18 звивини твої зовсім ворушитися перестали. Але, як не шкода, ти знову мені потрібен. Більше таких безбашенних як ти на Кордоні не зустріти... Та й манія у тебе є - до збирання, а це мені якраз підходить. Треба сходити в Х-16 і знайти там ще один документ, та в Балку змотатися за одним КПК... Зробиш? Платитиму хабаром.</ukr>
 		<fra>Salut, au moins j'apprends quelque chose, je suppose que vous ne pouvez pas le faire, surtout après le labo X-18, votre cerveau a complètement cessé de fonctionner. Mais malheureusement, j'ai encore besoin de vous. Il n’y a plus de fous comme toi dans Cordon... Et vous avez la manie de collectionner, et c’est bien pour moi. Vous devriez aller au labo X-16 et trouver un autre document là-bas, et aussi aller à Hollow pour obtenir un PDA... Allez-vous le faire? Je vais vous donner du butin.</fra>
 	</string>
 	<string id="doc_qeast_q_2">
@@ -2681,5 +2681,11 @@ AK-74, AK-74M, AKC-74 "Cobra", AKS-74U, AN-94 "Abakan" NA-94 "Sniper", AK, AKM, 
 		<eng>Great machine! Give it to me!</eng>
 		<ukr>Чудовий апарат! Давай!</ukr>
 		<fra>Super machine! Viens!</fra>
+	</string>
+	<string id="repair_wily">
+		<rus>Ай, хитрец! Кинуть хотел? Не хорошо это...</rus>
+		<eng>===Ai, wily! Throw wanted? Not good at it...</eng>
+		<ukr>От, хитрун! Кинути хотів? Негарно ти робиш...</ukr>
+		<fra>===Ай, хитрец! Кинуть хотел? Не хорошо это...</fra>
 	</string>
 </string_table>
