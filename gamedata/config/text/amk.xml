@@ -708,7 +708,7 @@
 	<string id="enc_black_hole">
 		<rus>%c[default]Об артефакте "Чёрная дыра" никто никогда не слышал. Имеет уникальное свойство поглощать любую аномалию при соприкосновении с ней. Но для поглощения артефакту необходима дополнительная энергия - двух "Чёрных энергий" достаточно для аннигиляции аномалий в радиусе 4 метров. Радиоактивен. Поглощение происходит при выбрасывании арта из рюкзака.</rus>
 		<eng>===%c[default]"Black Hole" artifact has never been heard of. It has a unique quality to absorb any anomaly upon contact. But it requires some additional energy for that. With "Black Hole" and two "Dark Energy" artifacts, one can pass through a large anomalous zone without being afraid of getting into any anomaly. Radioactive. Anomaly absorption occurs upon throwing it on the ground. Effective radius of absorption - 4 meters.</eng>
-		<ukr>===%c[default]Про артефакт "Чорна діра" ніхто ніколи не чув. Має унікальну властивість поглинати будь-яку аномалію при зіткненні з нею. Але для поглинання артефакту необхідна додаткова енергія. При наявності "Чорної діри" і двох "Чорних енергій" можливо пройти велику аномальну зону, не побоюючись потрапити в яку-небудь аномалію. Радіоактивний. Поглинання відбувається при викиданні артефакта з рюкзака. Радіус поглинання - 4 метри.</ukr>
+		<ukr>%c[default]Про артефакт "Чорна діра" ніхто ніколи не чув. Має унікальну властивість поглинати будь-яку аномалію при зіткненні з нею. Але для поглинання артефакту необхідна додаткова енергія - двох "Чорних енергій" досить для анігіляції аномалій в радіусі 4-х метрів. Радіоактивний. Поглинання відбувається при викиданні арту з рюкзака.</ukr>
 	</string>
 	<string id="af_provoloka">
 		<rus>"Чернобыльский ёж"</rus>
@@ -1610,14 +1610,14 @@
 	</string>
 	<!-- этот текст + имя артефакта -->
 	<string id="get_af_transform_param_text_0">
-		<rus>нет информации для&#160;</rus>
-		<eng>нет информации для&#160;</eng>
-		<ukr>немає інформації для&#160;</ukr>
+		<rus>нет информации для </rus>
+		<eng>нет информации для </eng>
+		<ukr>немає інформації для </ukr>
 	</string>
 	<string id="get_af_transform_param_text_1">
-		<rus>нет информации для&#160;</rus>
-		<eng>нет информации для&#160;</eng>
-		<ukr>немає інформації для&#160;</ukr>
+		<rus>нет информации для </rus>
+		<eng>нет информации для </eng>
+		<ukr>немає інформації для </ukr>
 	</string>
 	<string id="af_transform_universal_end_0">
 		<rus>из</rus>
