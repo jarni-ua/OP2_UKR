@@ -1559,10 +1559,10 @@
 		<fra>C’est trop pour moi pour le moment...</fra>
 	</string>
 	<string id="trade_dialog_petrenko_31">
-		<rus>У меня есть снайперские винтовки:\n1. Снайперская Винтовка Драгунова (СВД) за два артефакта "Морской ёж";\n2. Снайперская Винтовка Укороченная Автоматическая Складывающаяся (СВУ-АС) за два артефакта "Душа".</rus>
-		<eng>I have sniper rifles:\n1. (SVD) Sniper for two "Urchin" artifacts;\n2. (SVU-AS) Sniper for two "Soul" artifacts.</eng>
-		<ukr>У мене є снайперські гвинтівки:\n1. Снайперська Гвинтівка Драгунова (СВД) за два артефакта "Морський їжак";\n2. Снайперська Гвинтівка Укорочена Автоматична Складна (СВУ-АС) за два артефакта "Душа".</ukr>
-		<fra>J'ai des fusils de sniper:\n1.Dragunov Sniper Rifle (SVD) pour deux artéfacts "Oursin"; \ n2. Le fusil de sniper a raccourci le pliage automatique (IED-AU) pour deux artéfacts "Âme".</fra>
+		<rus>У меня есть снайперские винтовки:\n1. Снайперская Винтовка Драгунова (СВД) за два артефакта "Морской ёж";\n2. Снайперская Винтовка Укороченная (СВУ) за два артефакта "Душа".</rus>
+		<eng>I have sniper rifles:\n1. (SVD) Sniper for two "Urchin" artifacts;\n2. (SVU) Sniper for two "Soul" artifacts.</eng>
+		<ukr>У мене є снайперські гвинтівки:\n1. Снайперська Гвинтівка Драгунова (СВД) за два артефакта "Морський їжак";\n2. Снайперська Гвинтівка Укорочена (СВУ) за два артефакта "Душа".</ukr>
+		<fra>J'ai des fusils de sniper:\n1.Dragunov Sniper Rifle (SVD) pour deux artéfacts "Oursin"; \ n2. Le fusil de sniper a raccourci (IED) pour deux artéfacts "Âme".</fra>
 	</string>
 	<string id="trade_dialog_petrenko_32">
 		<rus>СВД хоть и тяжёлая, зато точная...</rus>
@@ -2678,7 +2678,6 @@
 		<rus>За три комплекта один "Грави"... Согласен?</rus>
 		<eng>For three kits I want one "Gravi"... You interested?</eng>
 		<ukr>За три комплекта один "Граві"... Згоден?</ukr>
-		<fra>За три комплекта один "Грави"... Согласен?</fra>
 	</string>
 	<string id="trade_dialog_doktor_521">
 		<rus>Согласен, что сделаешь...</rus>
@@ -2698,29 +2697,55 @@
 		<ukr>Так, візьму. Зброя часто виходить з ладу...</ukr>
 		<fra>Oui, je le ferai. Les armes se cassent souvent...</fra>
 	</string>
-	<string id="trade_dialog_jlob_0">
+
+	<string id="start_dialog_jlob_0">
+		<rus>Привет, бродяга!</rus>
+		<eng>===Привет, бродяга!</eng>
+		<ukr>Привіт, бродяга!</ukr>
+		<fra>===Привет, бродяга!</fra>
+	</string>
+	<string id="start_dialog_jlob_1">
 		<rus>А ты, касатик, кто такой? Что ты здесь торчишь?</rus>
 		<eng>And who are you, darling? Why are you hanging around here?</eng>
 		<ukr>А ти, косатик, хто такий? Чого ти тут стирчиш?</ukr>
 		<fra>Et qui es-tu, toi? Pourquoi restes-tu ici?</fra>
 	</string>
-	<string id="trade_dialog_jlob_11">
+	<string id="start_dialog_jlob_2">
 		<rus>Не нарывайся, торгую я здесь потихоньку.</rus>
 		<eng>Don't push your luck. I'm trading here, little by little...</eng>
 		<ukr>Не наривайся, торгую я тут потихеньку...</ukr>
 		<fra>Ne vous inquiétez pas, je négocie ici lentement.</fra>
 	</string>
-	<string id="trade_dialog_jlob_12">
+	<string id="start_dialog_jlob_3">
 		<rus>Есть выбор? Чем торгуешь и за какую валюту?</rus>
 		<eng>What are you trading, and what do you take in exchange?</eng>
 		<ukr>Є вибір? Чим торгуєш і за яку валюту?</ukr>
 		<fra>Vous avez le choix? Que négociez-vous et quelle monnaie?</fra>
 	</string>
-	<string id="trade_dialog_jlob_1">
-		<rus>Деньги здесь не катят, арты нам тоже не нужны... \nЖратву в основном беру, портиться быстро зараза... \nЧем затариться хочешь?</rus>
-		<eng>We don't need money, nor do we need artifacts...\nI mainly take food, for it spoils quickly... \nWhat are you looking for?</eng>
-		<ukr>Гроші тут не котуються, арти нам теж не потрібні...\nЖратву в основному беру, псується швидко зараза...\nЧим затаритися хочеш?</ukr>
-		<fra>L’argent n’est pas vendu ici, nous n’avons pas besoin d’art non plus ... \ nNous le prenons, gâchons rapidement l’infection ... \ nQue voulez-vous?</fra>
+	<string id="start_dialog_jlob_4">
+		<rus>Деньги здесь не катят, арты нам тоже не нужны... \nЖратву в основном беру, портится быстро зараза...</rus>
+		<eng>We don't need money, nor do we need artifacts...\nI mainly take food, for it spoils quickly...</eng>
+		<ukr>Гроші тут не котуються, арти нам теж не потрібні...\nЖратву в основному беру, псується швидко зараза...</ukr>
+		<fra>L’argent n’est pas vendu ici, nous n’avons pas besoin d’art non plus ... \ nNous le prenons, gâchons rapidement l’infection...</fra>
+	</string>
+	<string id="start_dialog_jlob_5">
+		<rus>Значит продукты постоянно нужны? Понял, буду иметь в виду.</rus>
+		<eng>===Значит продукты постоянно нужны? Понял, буду иметь в виду.</eng>
+		<ukr>Значить продукти постійно потрібні? Зрозумів, буду мати на увазі.</ukr>
+		<fra>===Значит продукты постоянно нужны? Понял, буду иметь в виду.</fra>
+	</string>
+
+	<string id="trade_dialog_jlob_2_2">
+		<rus>Жила, поменяться с тобой хочу.</rus>
+		<eng>===Жила, поменяться с тобой хочу.</eng>
+		<ukr>Жила, помінятися з тобою хочу.</ukr>
+		<fra>===Жила, поменяться с тобой хочу.</fra>
+	</string>
+	<string id="trade_dialog_jlob_3_3">
+		<rus>Чем затариться хочешь?</rus>
+		<eng>What are you looking for?</eng>
+		<ukr>Чим затаритися хочеш?</ukr>
+		<fra>Que voulez-vous?</fra>
 	</string>
 	<string id="trade_dialog_jlob_2">
 		<rus>Какие патроны есть? Или ещё что?</rus>
@@ -3413,10 +3438,10 @@
 		<fra>Liste du Barman:\n\n1. Cartouches 5.45x39mm 2 packs de simple ou 1 protection anti-blindage pour le "Flash";\n2. Grenades RGD-5 - 3pièces. pour "fleur de pierre";\n3. Cartouches 5,56x45mm 2 paquets de simple ou 1 protection de blindage pour "Slime";\n4. 9x39mm ammo 3 packs de simple, 2 tireurs d’élite ou 1 anti-blindage pour Gravi;\n5. AS "Val" pour 2pièces Boule de feu;\n6. OT-14 "Orage" pour "Étoile de la nuit";\n7. Trousse de secours - 3pièces pour "feu du Bengale""Sparkler";\n8. Energie - 5 canettes pour "Pierre de sang";\n9. Kits de réparation pour armure - 3 pièces. pour "morceau de viande";\n10. Kits de réparation pour armes - 3pièces. pour "Fireball".</fra>
 	</string>
 	<string id="price_petrenko_text">
-		<rus>Список Петренко:\n\n1. Патроны 7,62х54мм - 2 пачки простых или снайперских, или пачку бронебойных за "Каплю";\n2. 4 гранаты ВОГ-25 или 3 ВОГ-25П - за "Кровь камня";\n3. Патроны 7,62х39мм 3 пачки простых или 2 бронебойных за "Медузу";\n4. Спецброня Долга ПСЗ-9Мд за 2 "Слюды", экзоскелет Долга - за 3 "Слюды";\n5. Снайперская Винтовка Драгунова (СВД) за два "Морских ежа";\n6. Снайперская Винтовка Укороченная Автоматическая Складывающаяся (СВУ-АС) за две "Души";\n7. Армейские аптечки - 2шт. за "Каменный цветок".</rus>
-		<eng>Petrenko's list:\n\n1. 7.62x54mm - 2 packs of standard or sniper, or a pack of armor-piercing for "Droplets";\n2. 4 grenades VOG-25 or 3 VOG-25P - for the "Stone Blood";\n3. 7.62x39 mm 3 packs of standard or 2 armor-piercing for "Jellyfish";\n4. Special duty armor PSZ-9Md for 2 "Mica", the exoskeleton of Debt - for 3 "Mica";\n5. Dragunov Sniper Rifle (SVD) for two "Urchin";\n6. Sniper Rifle Shortened Automatic Folding (IED-AS) for two "Soul";\n7. Military first-aid kits - 2pcs. for "Stone Flower".</eng>
-		<ukr>Список Петренко:\n\n1. Патрони 7,62х54мм - 2 пачки простих або снайперських, або пачку бронебійних за "Краплю";\n2. 4 гранати ВОГ-25 або 3 ВОГ-25П - за "Кров каменю";\n3. Патрони 7,62х39мм 3 пачки простих або 2 бронебійних за "Медузу";\n4. Спецброня Долгу ПСЗ-9Мд за 2 "Слюди", екзоскелет Долгу - за 3 "Слюди";\n5. Снайперська Гвинтівка Драгунова (СВД) за "Морський їжак";\n6. Снайперська Гвинтівка Укороченная Автоматична Складна (СВУ-АС) за дві "Душі";\n7. Армійські аптечки - 2шт. за "Кам'яну квітку".</ukr>
-		<fra>Liste de Petrenko:\n \n1. Munitions de 7,62 x 54 mm - 2 paquets de simples ou de tireurs d’élite, ou un paquet d’armures perforantes pour "Droplets";\n2. 4 grenades VOG-25 ou 3 VOG-25P - pour le "Stone Blood";\n3. Munitions 7.62x39mm 3 packs de plaine ou 2 blindages pour Méduse;\n4. Spetsbronya PSSZ-9Md Devoir pour 2 "Mica", l’exosquelette du Devoir - pour 3 "Mica";\n5. Dragunov Sniper Rifle (SVD) pour deux "Sea Urchin";\n6. Pliage automatique raccourci de fusil de sniper (IED-AS) pour deux "Âmes";\n7. Trousse de premiers secours de l'Armée - 2pièces. pour la "Stone Flower".</fra>
+		<rus>Список Петренко:\n\n1. Патроны 7,62х54мм - 2 пачки простых или снайперских, или пачку бронебойных за "Каплю";\n2. 4 гранаты ВОГ-25 или 3 ВОГ-25П - за "Кровь камня";\n3. Патроны 7,62х39мм 3 пачки простых или 2 бронебойных за "Медузу";\n4. Спецброня Долга ПСЗ-9Мд за 2 "Слюды", экзоскелет Долга - за 3 "Слюды";\n5. Снайперская Винтовка Драгунова (СВД) за два "Морских ежа";\n6. Снайперская Винтовка Укороченная (СВУ) за две "Души";\n7. Армейские аптечки - 2шт. за "Каменный цветок".</rus>
+		<eng>Petrenko's list:\n\n1. 7.62x54mm - 2 packs of standard or sniper, or a pack of armor-piercing for "Droplets";\n2. 4 grenades VOG-25 or 3 VOG-25P - for the "Stone Blood";\n3. 7.62x39 mm 3 packs of standard or 2 armor-piercing for "Jellyfish";\n4. Special duty armor PSZ-9Md for 2 "Mica", the exoskeleton of Debt - for 3 "Mica";\n5. Dragunov Sniper Rifle (SVD) for two "Urchin";\n6. Sniper Rifle Shortened (IED) for two "Soul";\n7. Military first-aid kits - 2pcs. for "Stone Flower".</eng>
+		<ukr>Список Петренко:\n\n1. Патрони 7,62х54мм - 2 пачки простих або снайперських, або пачку бронебійних за "Краплю";\n2. 4 гранати ВОГ-25 або 3 ВОГ-25П - за "Кров каменю";\n3. Патрони 7,62х39мм 3 пачки простих або 2 бронебійних за "Медузу";\n4. Спецброня Долгу ПСЗ-9Мд за 2 "Слюди", екзоскелет Долгу - за 3 "Слюди";\n5. Снайперська Гвинтівка Драгунова (СВД) за "Морський їжак";\n6. Снайперська Гвинтівка Укороченная (СВУ) за дві "Душі";\n7. Армійські аптечки - 2шт. за "Кам'яну квітку".</ukr>
+		<fra>Liste de Petrenko:\n \n1. Munitions de 7,62 x 54 mm - 2 paquets de simples ou de tireurs d’élite, ou un paquet d’armures perforantes pour "Droplets";\n2. 4 grenades VOG-25 ou 3 VOG-25P - pour le "Stone Blood";\n3. Munitions 7.62x39mm 3 packs de plaine ou 2 blindages pour Méduse;\n4. Spetsbronya PSSZ-9Md Devoir pour 2 "Mica", l’exosquelette du Devoir - pour 3 "Mica";\n5. Dragunov Sniper Rifle (SVD) pour deux "Sea Urchin";\n6. Pliage raccourci de fusil de sniper (IED) pour deux "Âmes";\n7. Trousse de premiers secours de l'Armée - 2pièces. pour la "Stone Flower".</fra>
 	</string>
 	<string id="price_scraga_text">
 		<rus>Список Скряги:\n\n1. Патроны 5,56x45мм 2 пачки простых или 1 экспансивных за "Слизь";\n2. Гранаты Ф-1 - 2шт. за "Колючку";\n3. Патроны для пулемёта ПКМ - короб за "Кристальную колючку";\n4. Патроны 5.7x28мм к FN Р90 - 2 пачки за "Грави";\n5. Бельгийский FN Р90 за "Золотую рыбку";\n6. FN F2000 - 3шт. "Душа";\n7. Аптечки - 3шт. за "Медузу";\n8. Антирады - 3шт. за "Выверт";\n9. Ремкомплекты для оружия - 3шт. за "Каменный цветок".</rus>
@@ -3489,6 +3514,18 @@
 		<eng>===Список Дэна:\n\n1. 2 пачки дроби 410-го калибра - за 5 хвостов слепого пса;\n2. Пачка дроби 12-го калибра - за 5 голов тушкана;\n3. 2 пачки картечи - за две руки контролёра.</eng>
 		<ukr>Список Дена:\n\n1. 2 пачки дробу 410-го калібру - за 5 хвостів сліпого пса;\n2. Пачка дробу 12-го калібру - за 5 голів тушкана;\n3. 2 пачки картечі - за дві руки контролера.</ukr>
 		<fra>La liste de Dan: \n\n1. 2 paquets de calibre 410 - pour 5 queues de chien aveugle;\n2. Un paquet d'un coup de calibre 12 est pour 5 têtes d'un coney; \n3. 2 paquets de grapeshot - pour les deux mains du contrôleur.</fra>
+	</string>
+	<string id="price_fanat_text">
+		<rus>Список Фаната:\n\n За 15 лап псевдогиганта:\n - тридцать пачек картечи 12-го калибра.</rus>
+		<eng>===Fanat's List:\n\n For 15 psevdogigant hands:\n - тридцать пачек картечи 12-го калибра.</eng>
+		<ukr>Список Фаната:\n\n За 15 лап псевдогіганта:\n - тридцять пачок картечі 12-го калібру.</ukr>
+		<fra>===Список Фаната:\n\n За 15 лап псевдогиганта:\n - тридцать пачек картечи 12-го калибра.</fra>
+	</string>
+	<string id="price_akim_text">
+		<rus>Список Акима:\n\n1. Короб для минигана - за 10 тысяч;\n2. Короб для М60 - за 8 тысяч и артефакт "Грави";\n3. Короб для ПКМ/Печенега - за 5 тысяч и артефакт "Медуза".</rus>
+		<eng>===Список Акима:\n\n1. Короб для минигана - за 10 тысяч;\n2. Короб для М60 - за 8 тысяч и артефакт "Грави";\n3. Короб для ПКМ/Печенега - за 5 тысяч и артефакт "Медуза".</eng>
+		<ukr>Список Якима:\n\n1. Короб для мінігана - за 10 тисяч;\n2. Короб для М60 - за 8 тисяч і артефакт "Граві";\n3. Короб для ПКМ/Печеніга - за 5 тисяч і артефакт "Медуза".</ukr>
+		<fra>===Список Акима:\n\n1. Короб для минигана - за 10 тысяч;\n2. Короб для М60 - за 8 тысяч и артефакт "Грави";\n3. Короб для ПКМ/Печенега - за 5 тысяч и артефакт "Медуза".</fra>
 	</string>
 	<string id="enc_pay_tp">
 		<rus>Разовые телепорты</rus>
