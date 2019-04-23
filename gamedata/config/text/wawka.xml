@@ -760,10 +760,10 @@
 	</string>
 
 	<string id="price_voron_text">
-		<rus>Список Ворона:\n\n1. Оружие: АК, ТОЗ-34, Winchester 101, "Пустынный орёл", обрез БМ-16 именной - руки контролёра;\n\n2. ПП: «Бизон», Kriss Super V, HK MP5 - руки бюрера;\n\n3. Патроны 12-го калибра: "Дробь", "Жекан", "Дротик" - хвосты псевдособаки;\n\n4. Патроны для «Грозы» - хвосты слепого пса.\n \nСпециальное предложение Ворона:\n\n За раритетное, именное и модифицированное оружие в нормальном состоянии - ценное вознаграждение!</rus>
-		<eng>Raven's List:\n\n1. Weapons: AK, TOZ-34, Winchester 101, "Desert Eagle", personalized sawed-off shotgun BM-16 - the controller's hands;\n\n2. PP: “Bizon”, Kriss Super V, HK MP5 - burer's hands;\n\n3. Cartridges of 12 caliber: “Bird shot”, “Shotgun slug”, “flechette” - pseudodog's tails;\n\n4. Cartridges for "Groza" - a blind dog's tails.\n \nRaven's special offer:\n\n For rare, personalized and modified weapons in good condition - a valuable reward!</eng>
+		<rus>Список Ворона:\n\n1. Оружие: АК, ТОЗ-34, Winchester 101, "Пустынный орёл", обрез БМ-16 именной - руки контролёра;\n\n2. ПП: «Бизон», Kriss Super V, HK MP7A1 - руки бюрера;\n\n3. Патроны 12-го калибра: "Дробь", "Жекан", "Дротик" - хвосты псевдособаки;\n\n4. Патроны для «Грозы» - хвосты слепого пса.\n \nСпециальное предложение Ворона:\n\n За раритетное, именное и модифицированное оружие в нормальном состоянии - ценное вознаграждение!</rus>
+		<eng>Raven's List:\n\n1. Weapons: AK, TOZ-34, Winchester 101, "Desert Eagle", personalized sawed-off shotgun BM-16 - the controller's hands;\n\n2. PP: “Bizon”, Kriss Super V, HK MP7A1 - burer's hands;\n\n3. Cartridges of 12 caliber: “Bird shot”, “Shotgun slug”, “flechette” - pseudodog's tails;\n\n4. Cartridges for "Groza" - a blind dog's tails.\n \nRaven's special offer:\n\n For rare, personalized and modified weapons in good condition - a valuable reward!</eng>
 		<ukr>Список Ворона:\n\n1. Зброя: АК, ТОЗ-34, Winchester 101, "Пустельний орел", обріз БМ-16 іменний - руки контролера;\n\n2. ПК: «Бізон», Kriss Super V, HK MP5 - руки бюрера;\n\n3. Патрони 12го калібру: "Дріб", "Жакан", "Дротик" - хвости псевдособаки;\n\n4. Патрони до «Грози» - хвости сліпого пса.\n \nСпеціальна пропозиція Ворона:\n\n За раритетну, іменну і модифіковану зброю у нормальному стані - цінна винагорода!</ukr>
-		<fra>Liste de Raven:\n\n1. Armes: AK, TOZ-34, Winchester 101, "Desert Eagle", fusil de chasse à canon scié personnalisé BM-16 - main de contrôleur;\n\n2. PP: “Bizon”, Kriss Super V, HK MP5 - main de Burer;\n\n3. Cartouches de calibre 12: "Bird Shot", "Shotgun Slug", "Flechette" - queue du pseudochien;\n\n4. Cartouches pour "Groza" - Queue de chien aveugle.\n\nOffre spéciale de Raven:\n\n Pour les armes rares, personnalisées et modifiées en bon état - une récompense précieuse!</fra>
+		<fra>Liste de Raven:\n\n1. Armes: AK, TOZ-34, Winchester 101, "Desert Eagle", fusil de chasse à canon scié personnalisé BM-16 - main de contrôleur;\n\n2. PP: “Bizon”, Kriss Super V, HK MP7A1 - main de Burer;\n\n3. Cartouches de calibre 12: "Bird Shot", "Shotgun Slug", "Flechette" - queue du pseudochien;\n\n4. Cartouches pour "Groza" - Queue de chien aveugle.\n\nOffre spéciale de Raven:\n\n Pour les armes rares, personnalisées et modifiées en bon état - une récompense précieuse!</fra>
 	</string>
 	<string id="price_maks_text">
 		<rus>Список Макса:\n\n1. Готовая смесь для огнемёта - 20 бутылок водки;\n\n2. Баллон или канистра - 5 бутылок водки;\n\n3. Бронежилеты - 10 бутылок водки;\n\n4. Патроны для «Грозы» - 10 бутылок водки.</rus>
@@ -1291,24 +1291,30 @@ AK-74, AK-74M, AKC-74 "Cobra", AKS-74U, AN-94 "Abakan" NA-94 "Sniper", AK, AKM, 
 		<fra>Bonjour guerrier Ceci est %s.\nN'avez-tvous pas oublié les ordures que vous m'avez données?\n%%c[green]%s%%c[default] Vous pouvez la prendre. Je vous conseille de marcher avec de longues enjambées dans ma direction. Hahaha...</fra>
 	</string>
 	<string id="escape_meceniy_start_0">
+		<rus>Привет.</rus>
+		<eng>Hello.</eng>
+		<ukr>Привіт.</ukr>
+		<fra>Bonjour.</fra>
+	</string>
+	<string id="escape_meceniy_start_1">
 		<rus>Привет, ты кто?</rus>
 		<eng>Hello, who are you?</eng>
 		<ukr>Привіт, ти хто?</ukr>
 		<fra>Bonjour qui êtes-vous?</fra>
 	</string>
-	<string id="escape_meceniy_start_1">
-		<rus>Привет, я бывший военный, вот теперь торгую немного - место-то проходное. Но товар у меня специфический, и дорогой - капсулы для активации аномалий. Есть ещё кое-что. Если будет нужно - обращайся.</rus>
-		<eng>Hello, I'm a former military man, now I'm trading a little - it's a passable place. But I have specific goods and expensive, capsules to activate anomalies. There is something else. If you need something, be my guest.</eng>
-		<ukr>Привіт, я колишній військовий, ось тепер торгую трохи - місце ж прохідне. Але товар у мене специфічний, і дорогий - капсули для активації аномалій. Є і ще дещо. Якщо буде потрібно - звертайся.</ukr>
-		<fra>Bonjour, je suis un ancien militaire, maintenant je négocie un peu - un point de passage. Mais j'ai des biens spécifiques et coûteux, des capsules pour activer des anomalies. Il y a autre chose Si vous avez besoin de quelque chose, soyez mon invité.</fra>
-	</string>
 	<string id="escape_meceniy_start_2">
+		<rus>Я бывший военный, вот теперь торгую немного - место-то проходное. Но товар у меня специфический, и дорогой - капсулы для активации аномалий. Есть ещё кое-что. Если будет нужно - обращайся.</rus>
+		<eng>I'm a former military man, now I'm trading a little - it's a passable place. But I have specific goods and expensive, capsules to activate anomalies. There is something else. If you need something, be my guest.</eng>
+		<ukr>Я колишній військовий, ось тепер торгую трохи - місце ж прохідне. Але товар у мене специфічний, і дорогий - капсули для активації аномалій. Є і ще дещо. Якщо буде потрібно - звертайся.</ukr>
+		<fra>Je suis un ancien militaire, maintenant je négocie un peu - un point de passage. Mais j'ai des biens spécifiques et coûteux, des capsules pour activer des anomalies. Il y a autre chose Si vous avez besoin de quelque chose, soyez mon invité.</fra>
+	</string>
+	<string id="escape_meceniy_start_3">
 		<rus>Ну, я смотрю, многие военные в торговцы идут. Не сладко на Украине в погонах... Тебя как звать-то? Меня - Меченый. А что за капсулы такие?</rus>
 		<eng>Well, I see, many military men become merchants. It's tough to serve in Ukraine... What's your name? I am Marked one. And what kind of capsules are they?</eng>
 		<ukr>Ну, я дивлюся, багато військових в торговці йдуть. Не солодко в Україні у погонах... Тебе як звати? Мене - Мічений. А що за капсули такі?</ukr>
 		<fra>Eh bien, je vois, beaucoup de militaires deviennent des marchands. Il est difficile de servir en Ukraine... Comment vous appelez-vous? Moi, c'est Le Tatoué. Et quel genre de capsules avez-vous?</fra>
 	</string>
-	<string id="escape_meceniy_start_3">
+	<string id="escape_meceniy_start_4">
 		<rus>Меня зовут Аким, приятно было познакомиться. Да, в погонах нынче не сладко. Пол страны сейчас торгуют, перепродают, покупают... В общем - ни фига не делают, а деньги получают. Ну, и я решил подобным бездельем заняться. А насчёт капсул - сталкеры иногда продают артефакты в "скорлупе" - они могут аномалии активировать. Загляни в свой ПДА - там должна быть информация. Да, кстати, ты ведь по Зоне мотаешься. Есть у меня напарник - тоже подобным товаром торгует - на Агропроме, на территории северного комплекса. У него есть много полезной информации. Есть и ещё знакомый - он расположился у вертолёта в Забытом Лесу.</rus>
 		<eng>My name is Akim, nice to meet you. Yes, it's quite tough. Today half of the country is trading, reselling and buying... In general, they do nothing, but get money. So I decided to do it, too. As for the capsules, sometimes stalkers sell artifacts in a "shell" - they can activate anomalies. Check your PDA, there must be information. Yes, by the way, you go around the Zone. I have a partner, he also sells similar goods on the Agroprom, in the territory of the northern complex. He has a lot of useful information. There is another friend, he is at the helicopter in the Forgotten Forest.</eng>
 		<ukr>Мене звуть Яким, приємно було познайомитися. Так, в погонах нині не солодко. Пів країни зараз торгують, перепродують, купують... Загалом - ніфіга не роблять, а гроші отримують. Ну, і я вирішив подібним неробством зайнятися. А на рахунок капсул - сталкери іноді продають артефакти в "шкаралупі" - вони можуть аномалії активувати. Зазирни у свій КПК - там повинна бути інформація. Так, до речі, ти ж по Зоні мотаєшся. Є у мене напарник - теж подібним товаром торгує - на Агропромі, на території північного комплексу. У нього є багато корисної інформації. Є ще один знайомий - він розташувався біля вертольота у Забутому Лісі.</ukr>
