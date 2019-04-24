@@ -1482,11 +1482,30 @@
 		<fra>Pour "Démarrer un Nouvelle Partie"</fra>
 	</string>
 	<string id="ui_mm_fast_respawn">
-		<rus>Частый респаун</rus>
-		<eng>Frequent respawn</eng>
-		<ukr>Частий респаун</ukr>
-		<fra>Réapparition fréquente</fra>
+		<rus>частый</rus>
+		<eng>frequent</eng>
+		<ukr>частий</ukr>
+		<fra>fréquente</fra>
 	</string>
+	<string id="ui_mm_rare_respawn">
+		<rus>редкий</rus>
+		<eng>rare</eng>
+		<ukr>рідкісний</ukr>
+		<fra>rare</fra>
+	</string>	
+	<string id="ui_mm_standart_respawn">
+		<rus>стандартный</rus>
+		<eng>standart</eng>
+		<ukr>стандартний</ukr>
+		<fra>standart</fra>
+	</string>
+	<string id="ui_mm_respawn">
+		<rus>Респаун</rus>
+		<eng>Respawn</eng>
+		<ukr>Респаун</ukr>
+		<fra>Réapparition</fra>
+	</string>
+	
 	<string id="ui_mm_transparent_treasure">
 		<rus>Малозаметные тайники</rus>
 		<eng>Low-visibility stashes</eng>
