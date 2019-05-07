@@ -492,11 +492,11 @@
 		Увеличенный рудимент грудины\n
 		Брюхо рыжего таракана\n
 		Брюхо тёмного таракана\n \nИ кидаем это всё в аномалию "Фонтан". В результате получаем абсолютно новый состав в колбе с объединёнными полезными свойствами.\n \n%c[255,255,255,255]Время трансмутации  %c[255,224,224,160]10 минут Зоны\n%c[255,255,255,255]Вероятность удачной трансмутации  %c[255,1,255,1]100 %%c[default]</rus>
-		<eng>Let us prepare two fully charged different type flasks for the perfusor and:\n
+		<eng>===Let us prepare two fully charged different type flasks for the perfusor\n
 		An empty flask for the perfusor\n
 		An enlarged breastbone rudiment\n
-		A brown cockroach's belly\n
-		A black cockroach's belly\n \nAnd throw it all in a "Fountain" anomaly. As a result, an absolutely new compound is created with combined characteristics.\n \n%c[255,255,255,255]Transmutation time  %c[255,224,224,160]10 Zone minutes\n%c[255,255,255,255]Probability of successful transmutation  %c[255,1,255,1]100 %%c[default]</eng>
+		A рыжего cockroach's belly\n
+		A тёмного mature cockroach's belly\n \nAnd throw it all in a "Fountain" anomaly. As a result, an absolutely new compound is created with combined characteristics.\n \n%c[255,255,255,255]Transmutation time  %c[255,224,224,160]10 Zone minutes\n%c[255,255,255,255]Probability of successful transmutation  %c[255,1,255,1]100 %%c[default]</eng>
 		<ukr>Беремо дві різних заряджених колби для перфузора\n
 		Порожню колбу для перфузора\n
 		Збільшений рудимент грудини\n
@@ -1610,14 +1610,14 @@
 	</string>
 	<!-- этот текст + имя артефакта -->
 	<string id="get_af_transform_param_text_0">
-		<rus>нет информации для </rus>
-		<eng>no information for </eng>
-		<ukr>немає інформації для </ukr>
+		<rus>нет информации для&#160;</rus>
+		<eng>нет информации для&#160;</eng>
+		<ukr>немає інформації для&#160;</ukr>
 	</string>
 	<string id="get_af_transform_param_text_1">
-		<rus>нет информации для </rus>
-		<eng>no information for </eng>
-		<ukr>немає інформації для </ukr>
+		<rus>нет информации для&#160;</rus>
+		<eng>нет информации для&#160;</eng>
+		<ukr>немає інформації для&#160;</ukr>
 	</string>
 	<string id="af_transform_universal_end_0">
 		<rus>из</rus>
