@@ -5,1937 +5,2260 @@
 		<eng>Minigun</eng>
 		<ukr>Мініган</ukr>
 		<fra>Minigun</fra>
+		<pln>Minigun</pln>
 	</string>
 	<string id="task_atp_propusk_1">
 		<rus>Найти миниган</rus>
 		<eng>Find a minigun</eng>
 		<ukr>Знайти мініган</ukr>
 		<fra>Trouver un Minigun</fra>
+		<pln>Znaleźć minigun</pln>
 	</string>
 	<string id="task_atp_propusk_2">
 		<rus>Принести миниган Адреналину</rus>
 		<eng>Bring the minigun to Adrenaline</eng>
 		<ukr>Принести мініган Адреналіну</ukr>
 		<fra>Apportez Minigun à Adrénaline</fra>
+		<pln>Przynieść minigun do Adrenaliny</pln>
 	</string>
 	<string id="task_baty_zadan_0">
 		<rus>Звуковой сигнал</rus>
 		<eng>Sound signal</eng>
 		<ukr>Звуковий сигнал</ukr>
 		<fra>Bip sonore</fra>
+		<pln>Sygnał dźwiękowy</pln>
 	</string>
 	<string id="task_baty_zadan_1">
 		<rus>Найти предмет, издающий шум</rus>
 		<eng>Find a subject making noise</eng>
 		<ukr>Знайти предмет, що шумить</ukr>
 		<fra>Trouver un sujet faisant du bruit</fra>
+		<pln>Znaleźć przedmiot</pln>
 	</string>
 	<string id="task_baty_zadan_2">
 		<rus>Принести найденное Сахарову</rus>
 		<eng>Bring the found to Sakharov</eng>
 		<ukr>Принести знайдене Сахарову</ukr>
 		<fra>Apportez la trouvaille à Sakharov</fra>
+		<pln>Wrócić do Sacharowa</pln>
 	</string>
 	<string id="task_arhara_ekza_0">
 		<rus>Маскировочный экзоскелет</rus>
 		<eng>Camouflage exoskeleton</eng>
 		<ukr>Маскувальний екзоскелет</ukr>
 		<fra>Exosquelette avec camouflage</fra>
+		<pln>Egzoszkielet maskujący</pln>
 	</string>
 	<string id="task_arhara_ekza_1">
 		<rus>Найти маскировочный экзоскелет</rus>
 		<eng>Find a camouflage exoskeleton</eng>
 		<ukr>Знайти маскувальний екзоскелет</ukr>
 		<fra>Trouver un Exosquelette avec un camouflage</fra>
+		<pln>Znaleźć egzoszkielet maskujący</pln>
 	</string>
 	<string id="task_arhara_ekza_2">
 		<rus>Принести экзоскелет Воронину</rus>
 		<eng>Bring the exoskeleton to Voronin</eng>
 		<ukr>Принести екзоскелет Вороніну</ukr>
 		<fra>Apportez l'Exosquelette à Voronin</fra>
+		<pln>Przynieść egzoszkielet do Woronina</pln>
 	</string>
 	<string id="task_atp_shurup_propusk_0">
 		<rus>Разведка боем</rus>
 		<eng>Fighting patrol</eng>
 		<ukr>Розвідка боєм</ukr>
 		<fra>Patrouille de reconnaissance</fra>
+		<pln>Rozpoznanie bojem</pln>
 	</string>
 	<string id="task_atp_shurup_propusk_1">
 		<rus>Узнать подробности активности наёмников у Фаната</rus>
 		<eng>Learn the details of the mercenaries' activity from Fanat</eng>
 		<ukr>Довідатися подробиці активності найманців у Фаната</ukr>
 		<fra>Apprenez les détails de l'activité des Mercenaires pour Fan</fra>
+		<pln>Spytać Fanata o szczegóły aktywności najemników</pln>
 	</string>
 	<string id="task_atp_shurup_propusk_2">
 		<rus>Разведать обстановку на Заводе и по возможности найти тиски</rus>
 		<eng>Explore the situation at the plant and, if possible, find a vice</eng>
 		<ukr>Розвідати обстановку на Заводі і по можливості знайти лещата</ukr>
 		<fra>Explorez la situation à l'usine et, si possible, trouvez un étau</fra>
+		<pln>Zbadać sytuację w Zakładzie Metalurgicznym i przy okazji znaleźć imadło</pln>
 	</string>
 	<string id="task_atp_shurup_propusk_3">
 		<rus>Принести найденные ПДА и тиски Шурупу</rus>
 		<eng>Bring the found PDA and vice to Shurup</eng>
 		<ukr>Принести знайдені КПК і лещата Шурупу</ukr>
 		<fra>Apportez le PDA et l'étau trouvés à Shurup</fra>
+		<pln>Zanieść znalezione PDA i imadło do Wkręta</pln>
 	</string>
 	<string id="task_ugrum_plaer_0">
 		<rus>Хорошая сделка</rus>
 		<eng>Good deal</eng>
 		<ukr>Хороша угода</ukr>
 		<fra>Bonne affaire</fra>
+		<pln>Dobry interes</pln>
 	</string>
 	<string id="task_ugrum_plaer_1">
 		<rus>Найти антизомбин для часового</rus>
 		<eng>Find antizombin for Sentry</eng>
 		<ukr>Знайти антизомбин для вартового</ukr>
 		<fra>Trouver de l'Antizombie pour Sentry</fra>
+		<pln>Znaleźć antyzombin dla wartownika</pln>
 	</string>
 	<string id="task_ugrum_plaer_2">
 		<rus>Поговорить с главным часовым</rus>
 		<eng>Talk to the main sentry</eng>
 		<ukr>Поговорити с головним вартовим</ukr>
 		<fra>Parlez à la sentinelle principale Sentry</fra>
+		<pln>Porozmawiać z wartownikiem</pln>
 	</string>
 	<string id="task_atp_mozg_0">
 		<rus>Мозги контролёра</rus>
 		<eng>Controller's brains</eng>
 		<ukr>Мізки контролера</ukr>
 		<fra>Cerveaux du contrôleur</fra>
+		<pln>Mózgi kontrolera</pln>
 	</string>
 	<string id="task_atp_mozg_1">
 		<rus>Найти два мозга контролёра</rus>
 		<eng>Find two controller's brains</eng>
 		<ukr>Знайти два мозки контролера</ukr>
 		<fra>Trouvez deux cerveaux de contrôleur</fra>
+		<pln>Znaleźć dwa mózgi kontrolera</pln>
 	</string>
 	<string id="task_atp_mozg_2">
 		<rus>Отнести мозги контролёра Лукашу</rus>
 		<eng>Bring the controller’s brains to Lukash</eng>
 		<ukr>Віднести мозки контролера Лукашу</ukr>
 		<fra>Apportez la cervelle du contrôleur à Lukash</fra>
+		<pln>Przynieść Łukaszowi znalezione mózgi kontrolera</pln>
 	</string>
 	<string id="task_adrenalin_disk_0">
 		<rus>Диск для Адреналина</rus>
 		<eng>Disc for Adrenaline</eng>
 		<ukr>Диск для Адреналіна</ukr>
 		<fra>Amenez le disque d'ordinateur à Adrénaline</fra>
+		<pln>Dysk dla Adrenaliny</pln>
 	</string>
 	<string id="task_adrenalin_disk_1">
 		<rus>Найти компьютерный диск</rus>
 		<eng>Find a computer disc</eng>
 		<ukr>Знайти комп'ютерний диск</ukr>
 		<fra>Trouver un disque d'ordinateur</fra>
+		<pln>Znaleźć komputerowy dysk</pln>
 	</string>
 	<string id="task_adrenalin_disk_2">
 		<rus>Принести диск Адреналину</rus>
 		<eng>Bring the disc to Adrenaline</eng>
 		<ukr>Принести диск Адреналіну</ukr>
 		<fra>Apportez un lecteur à Adrénaline</fra>
+		<pln>Przynieść dysk do Adrenaliny</pln>
 	</string>
 	<string id="task_sahar_sumka_0">
 		<rus>Медсумка Сахарова</rus>
 		<eng>Sakharov's medical bag</eng>
 		<ukr>Медсумка Сахарова</ukr>
 		<fra>Sac médical pour Sakharov</fra>
+		<pln>Torba lekarska Sacharowa</pln>
 	</string>
 	<string id="task_sahar_sumka_1">
 		<rus>Найти медсумку на ЧАЭС-1</rus>
 		<eng>Find a medical bag in the CNPP-1</eng>
 		<ukr>Знайти медсумку на ЧАЕС-1</ukr>
 		<fra>Trouver un sac médical sur Tchernobyl-1</fra>
+		<pln>Znaleźć torbę lekarską na CEA-1</pln>
 	</string>
 	<string id="task_sahar_sumka_2">
 		<rus>Принести медсумку Сахарову</rus>
 		<eng>Bring the medical bag to Sakharov</eng>
 		<ukr>Принести медсумку Сахарову</ukr>
 		<fra>Apportez un sac médical à Sakharov</fra>
+		<pln>Przynieść Sacharowowi jego torbę lekarską</pln>
 	</string>
 	<string id="task_arhara_doctor_0">
 		<rus>Медальон Доктора</rus>
 		<eng>Doctor's locket</eng>
 		<ukr>Медальйон Доктора</ukr>
 		<fra>Médaillon du Docteur</fra>
+		<pln>Medalion Doktora</pln>
 	</string>
 	<string id="task_arhara_doctor_1">
 		<rus>Найти медальон</rus>
 		<eng>Find a locket</eng>
 		<ukr>Знайти медальйон</ukr>
 		<fra>Trouver un médaillon</fra>
+		<pln>Znaleźć medalion</pln>
 	</string>
 	<string id="task_arhara_doctor_2">
 		<rus>Принести медальон Доктору</rus>
 		<eng>Bring the locket to Doctor</eng>
 		<ukr>Принести медальйон Доктору</ukr>
 		<fra>Apportez le médaillon au Docteur</fra>
+		<pln>Przynieść Doktorowi medalion</pln>
 	</string>
 	<string id="task_vorona_povar_0">
 		<rus>Вороньи яйца</rus>
 		<eng>Crow's eggs</eng>
 		<ukr>Воронячі яйця</ukr>
 		<fra>Œufs de corbeaux</fra>
+		<pln>Wronie jajka</pln>
 	</string>
 	<string id="task_vorona_povar_1">
 		<rus>Найти вороньи яйца в Забытом Лесу</rus>
 		<eng>Find crow's eggs in the Forgotten Forest</eng>
 		<ukr>Знайти воронячі яйця у Забутому Лісі</ukr>
 		<fra>Trouver des œufs de corneilles dans la forêt oubliée</fra>
+		<pln>Znaleźć w Zapomnianym Lesie wronie jajka</pln>
 	</string>
 	<string id="task_vorona_povar_2">
 		<rus>Принести вороньи яйца Повару</rus>
 		<eng>Bring crow's eggs to Chef</eng>
 		<ukr>Принести воронячі яйця Кухарю</ukr>
 		<fra>Apportez des œufs de corbeau au Cuisinier</fra>
+		<pln>Przynieść Kucharzowi wronie jajka</pln>
 	</string>
 	<string id="task_lekarstvo_bandita_nayti_0">
 		<rus>Лекарство для Акима</rus>
 		<eng>Medicine for Akim</eng>
 		<ukr>Ліки для Якима</ukr>
 		<fra>Médecine pour Akim</fra>
+		<pln>Lekarstwo dla Akima</pln>
 	</string>
 	<string id="task_lekarstvo_bandita_nayti_1">
 		<rus>Найти лекарство на блокпосту</rus>
 		<eng>Find medicine at the checkpoint</eng>
 		<ukr>Знайти ліки на блокпосту</ukr>
 		<fra>Trouvez des médicaments au point de contrôle</fra>
+		<pln>Znaleźć lekarstwo na posterunku</pln>
 	</string>
 	<string id="task_lekarstvo_bandita_nayti_2">
 		<rus>Принести лекарство Акиму</rus>
 		<eng>Bring medicine to Akim</eng>
 		<ukr>Принести ліки Якиму</ukr>
 		<fra>Apporter des médicaments à Akim</fra>
+		<pln>Przynieść Akimowi lekarstwo</pln>
 	</string>
 	<string id="task_shaxter_fonar_0">
 		<rus>Фонарики для Шахтёра</rus>
 		<eng>Flashlights for Miner</eng>
 		<ukr>Ліхтарики для Шахтара</ukr>
 		<fra>Lampes de poche pour le Mineur</fra>
+		<pln>Latarki dla Górnika</pln>
 	</string>
 	<string id="task_shaxter_fonar_1">
 		<rus>Найти два фонарика</rus>
 		<eng>Find two flashlights</eng>
 		<ukr>Знайти 2 ліхтарика</ukr>
 		<fra>Trouvez deux lampes de poche</fra>
+		<pln>Znaleźć dwie latarki</pln>
 	</string>
 	<string id="task_shaxter_fonar_2">
 		<rus>Принести фонарики Шахтёру</rus>
 		<eng>Bring the flashlights to Miner</eng>
 		<ukr>Принести ліхтарики Шахтару</ukr>
 		<fra>Apportez des lanternes au Mineur</fra>
+		<pln>Przynieść Górnikowi latarki</pln>
 	</string>
 	<string id="task_akim_kubik_rubik_0">
 		<rus>Кубик Рубика</rus>
 		<eng>Rubik's Cube</eng>
 		<ukr>Кубик Рубіка</ukr>
 		<fra>Rubik's Cube</fra>
+		<pln>Kostka Rubika</pln>
 	</string>
 	<string id="task_akim_kubik_rubik_1">
 		<rus>Найти кубик в Тёмной Долине</rus>
 		<eng>Find the Cube in Dark Valley</eng>
 		<ukr>Знайти кубик у Темній Долині</ukr>
 		<fra>Trouver le cube dans la Vallée Sombre</fra>
+		<pln>Znaleźć kostkę w Dolinie Mroku</pln>
 	</string>
 	<string id="task_akim_kubik_rubik_2">
 		<rus>Принести найденное Акиму</rus>
 		<eng>Bring the found to Akim</eng>
 		<ukr>Принести кубік Якиму</ukr>
 		<fra>Apportez la trouvaille à Akim</fra>
+		<pln>Przynieść kostkę Akimowi</pln>
 	</string>
 	<string id="task_shaxter_kniga_0">
 		<rus>Книга Шахтёра</rus>
 		<eng>Miner's book</eng>
 		<ukr>Книга Шахтара</ukr>
 		<fra>Livre du Mineur</fra>
+		<pln>Książka Górnika</pln>
 	</string>
 	<string id="task_shaxter_kniga_1">
 		<rus>Найти книгу в Забытом Лесу</rus>
 		<eng>Find the book in the Forgotten Forest</eng>
 		<ukr>Знайти книгу у Забутому Лісі</ukr>
 		<fra>Trouver un livre dans la forêt oubliée</fra>
+		<pln>Znaleźć książkę w Zapomnianym Lesie</pln>
 	</string>
 	<string id="task_shaxter_kniga_2">
 		<rus>Принести книгу Шахтёру</rus>
 		<eng>Bring the book to the Miner</eng>
 		<ukr>Принести книгу Шахтару</ukr>
 		<fra>Apportez le livre au Mineur</fra>
+		<pln>Przynieść Górnikowi książkę</pln>
 	</string>
 	<string id="task_lysyi_klad_0">
 		<rus>Поиски клада: Пещера</rus>
 		<eng>Searching for treasure: Cave</eng>
 		<ukr>Пошуки скарбу: Печера</ukr>
 		<fra>Chasse au trésor: Cave</fra>
+		<pln>Poszukiwania skarbu: Pieczara</pln>
 	</string>
 	<string id="task_lysyi_klad_1">
 		<rus>Найти клад в Пещере</rus>
 		<eng>Find a treasure in a cave</eng>
 		<ukr>Знайти скарб у Печері</ukr>
 		<fra>Trouver un trésor dans la cave</fra>
+		<pln>Znaleźć skarb w Pieczarze</pln>
 	</string>
 	<string id="task_lysyi_klad_2">
 		<rus>Принести клад Лысому</rus>
 		<eng>Bring the treasure to Bald</eng>
 		<ukr>Принести скарб Лисому</ukr>
 		<fra>Apporter un trésor à Bald</fra>
+		<pln>Przynieść skarb Łysemu</pln>
 	</string>
 	<string id="task_pda_sh_strelok_0">
 		<rus>"Скальп контролёра"</rus>
 		<eng>"Controller's Scalp"</eng>
 		<ukr>"Скальп контролера"</ukr>
 		<fra>"Cuir chevelu" du Contrôleur</fra>
+		<pln>"Skalp Kontrolera"</pln>
 	</string>
 	<string id="task_pda_sh_strelok_1">
 		<rus>Найти "Скальп контролёра"</rus>
 		<eng>Find "Controller's Scalp"</eng>
 		<ukr>Знайти "Скальп контролера"</ukr>
 		<fra>Trouver "Cuir chevelu" du Contrôleur</fra>
+		<pln>Znaleźć "Skalp Kontrolera"</pln>
 	</string>
 	<string id="task_pda_sh_strelok_2">
 		<rus>Принести артефакт Шахтёру</rus>
 		<eng>Bring the artifact to Miner</eng>
 		<ukr>Принести артефакт Шахтару</ukr>
 		<fra>Apportez l'Artéfact au Mineur</fra>
+		<pln>Zanieść artefakt do Górnika</pln>
 	</string>
 	<string id="task_petrenko_flyga_0">
 		<rus>Фляжка Петренко</rus>
 		<eng>Petrenko's flask</eng>
 		<ukr>Фляжка Петренко</ukr>
 		<fra>Le flacon de Petrenko</fra>
+		<pln>Manierka Pietrenko</pln>
 	</string>
 	<string id="task_petrenko_flyga_1">
 		<rus>Найти фляжку</rus>
 		<eng>Find a flask</eng>
 		<ukr>Знайти фляжку</ukr>
 		<fra>Trouver un ballon</fra>
+		<pln>Znaleźć manierkę</pln>
 	</string>
 	<string id="task_petrenko_flyga_2">
 		<rus>Принести фляжку полковнику</rus>
 		<eng>Bring the flask to the colonel</eng>
 		<ukr>Принести фляжку полковнику</ukr>
 		<fra>Apportez une fiole au Colonel</fra>
+		<pln>Zanieść manierkę do pułkownika</pln>
 	</string>
 	<string id="task_dolgovyzui_0">
 		<rus>Микросхемы</rus>
 		<eng>Microcircuits</eng>
 		<ukr>Мікросхеми</ukr>
 		<fra>Micro-circuits</fra>
+		<pln>Mikroukłady</pln>
 	</string>
 	<string id="task_dolgovyzui_1">
 		<rus>Найти микросхемы на Кордоне</rus>
 		<eng>Find microcircuits in Cordon</eng>
 		<ukr>Знайти мікросхеми на Кордоні</ukr>
 		<fra>Trouver des Micro-circuits sur le Cordon</fra>
+		<pln>Znaleźć mikroukłady na Kordonie</pln>
 	</string>
 	<string id="task_dolgovyzui_2">
 		<rus>Принести микросхемы Долговязому</rus>
 		<eng>Bring microcircuits to Lanky</eng>
 		<ukr>Принести мікросхеми Довгов'язому.</ukr>
 		<fra>Apportez des frites à Lanky</fra>
+		<pln>Przynieść Chudemu mikroukłady</pln>
 	</string>
 	<string id="task_voronin_termos_0">
 		<rus>Термосы для Воронина</rus>
 		<eng>Thermoses for Voronin</eng>
 		<ukr>Термоси для Вороніна</ukr>
 		<fra>Thermos pour Voronin</fra>
+		<pln>Termosy dla Woronina</pln>
 	</string>
 	<string id="task_voronin_termos_1">
 		<rus>Найти термосы в Зоне</rus>
 		<eng>Find thermoses in the Zone</eng>
 		<ukr>Знайти термоси в Зоні</ukr>
 		<fra>Trouver des thermos dans la Zone</fra>
+		<pln>Znaleźć w Zonie termosy</pln>
 	</string>
 	<string id="task_voronin_termos_2">
 		<rus>Принести термосы Воронину</rus>
 		<eng>Bring the thermos to Voronin</eng>
 		<ukr>Принести термоси Вороніну</ukr>
 		<fra>Apporter un thermos à Voronin</fra>
+		<pln>Przynieść Woroninowi termosy</pln>
 	</string>
 	<string id="task_garik_vop_0">
 		<rus>Сигареты для Гарика</rus>
 		<eng>Cigarettes for Garik</eng>
 		<ukr>Сигарети для Гарика</ukr>
 		<fra>Cigarettes pour Garik</fra>
+		<pln>Papierosy dla Garika</pln>
 	</string>
 	<string id="task_garik_vop_1">
 		<rus>Найти сигареты</rus>
 		<eng>Find cigarettes</eng>
 		<ukr>Знайти сигарети</ukr>
 		<fra>Trouver des cigarettes</fra>
+		<pln>Zdobyć papierosy</pln>
 	</string>
 	<string id="task_garik_vop_2">
 		<rus>Принести сигареты и деньги</rus>
 		<eng>Bring cigarettes and money</eng>
 		<ukr>Принести сигарети і гроші</ukr>
 		<fra>Apportez des cigarettes et de l'argent</fra>
+		<pln>Przynieść papierosy i pieniądze</pln>
 	</string>
 	<string id="task_petr_sidor_0">
 		<rus>Ремкомплекты</rus>
 		<eng>Repair kits</eng>
 		<ukr>Ремкомплекти</ukr>
 		<fra>Kits de réparation</fra>
+		<pln>Zestawy remontowe</pln>
 	</string>
 	<string id="task_petr_sidor_1">
 		<rus>Найти ремкомплекты</rus>
 		<eng>Find repair kits</eng>
 		<ukr>Знайти ремкомплекти</ukr>
 		<fra>Trouver des kits de réparation</fra>
+		<pln>Znaleźć zestawy remontowe</pln>
 	</string>
 	<string id="task_petr_sidor_2">
 		<rus>Принести ремкомплекты Сидоровичу</rus>
 		<eng>Bring repair kits to Sidorovich</eng>
 		<ukr>Принести ремкомплекти Сидоровичу</ukr>
 		<fra>Apporter des kits de réparation à Sidorovich</fra>
+		<pln>Przynieść zestawy remontowe do Sidorowicza</pln>
 	</string>
 	<string id="task_voronin_stol_0">
 		<rus>Компьютер и видеорация</rus>
 		<eng>Computer and video radio set</eng>
 		<ukr>Комп'ютер і відеорація</ukr>
 		<fra>Images informatiques et vidéo</fra>
+		<pln>Komputer i wideonadajnik</pln>
 	</string>
 	<string id="task_voronin_stol_1">
 		<rus>Найти компьютер</rus>
 		<eng>Find a computer</eng>
 		<ukr>Знайти комп'ютер</ukr>
 		<fra>Trouver un ordinateur</fra>
+		<pln>Znaleźć komputer</pln>
 	</string>
 	<string id="task_voronin_stol_2">
 		<rus>Разыскать видеорацию</rus>
 		<eng>Find a video radio set</eng>
 		<ukr>Розшукати відеорацію</ukr>
 		<fra>Trouver un poste de radio et vidéo</fra>
+		<pln>Znaleźć wideonadajnik</pln>
 	</string>
 	<string id="task_voronin_stol_3">
 		<rus>Принести найденное генералу</rus>
 		<eng>Bring the found to the general</eng>
 		<ukr>Принести знайдене генералу</ukr>
 		<fra>Apportez tout au général Voronin</fra>
+		<pln>Wrócić do generała</pln>
 	</string>
 	<string id="task_sahar_ekolog_0">
 		<rus>Встреча с экологами</rus>
 		<eng>Meeting with environmentalists</eng>
 		<ukr>Зустріти з екологам</ukr>
 		<fra>Rencontre avec des environnementalistes</fra>
+		<pln>Spotkanie z ekologami</pln>
 	</string>
 	<string id="task_sahar_ekolog_1">
 		<rus>Встретить экологов</rus>
 		<eng>Meet environmentalists</eng>
 		<ukr>Зустріти екологів</ukr>
 		<fra>Rencontrez des environnementalistes</fra>
+		<pln>Spotkać się z ekologami</pln>
 	</string>
 	<string id="task_sahar_ekolog_2">
 		<rus>Забрать рацию у экологов</rus>
 		<eng>Take the radio set from environmentalists</eng>
 		<ukr>Забрати рацію у екологів</ukr>
 		<fra>Prenez le talkie-walkie des environnementalistes</fra>
+		<pln>zabrać od ekologów radiotelefon</pln>
 	</string>
 	<string id="task_sahar_ekolog_3">
 		<rus>Принести рацию Сахарову</rus>
 		<eng>Bring the radio set to Sakharov</eng>
 		<ukr>Принести рацію Сахарову</ukr>
 		<fra>Apportez la radio à Sakharov</fra>
+		<pln>Zanieść radiotelefon do Sacharowa</pln>
 	</string>
 	<string id="task_voronin_infa_0">
 		<rus>Решительные меры</rus>
 		<eng>Decisive actions</eng>
 		<ukr>Рішучі заходи</ukr>
 		<fra>Action décisive</fra>
+		<pln>Radykalne środki</pln>
 	</string>
 	<string id="task_voronin_infa_1">
 		<rus>Раздобыть пулемёт и короб патронов</rus>
 		<eng>===Get machinegun и короб патронов</eng>
 		<ukr>Роздобути кулемет і короб патронів</ukr>
 		<fra>===Obtenez OTS-14 "Orage"</fra>
+		<pln>Zdobyć karabin maszynowy i skrzynkę amunicji</pln>
 	</string>
 	<string id="task_voronin_infa_2">
 		<rus>Доложить Воронину</rus>
 		<eng>Report to Voronin</eng>
 		<ukr>Доповісти Вороніну</ukr>
 		<fra>Signaler Voronin</fra>
+		<pln>Zameldować Woroninowi</pln>
 	</string>
 	<string id="task_naemn_shturm_0">
 		<rus>Оборона Бара</rus>
 		<eng>Bar Defense</eng>
 		<ukr>Оборона Бару</ukr>
 		<fra>Bar Defense</fra>
+		<pln>Obrona Baru</pln>
 	</string>
 	<string id="task_naemn_shturm_1">
 		<rus>Помочь долговцам удержать Бар и убить Горба</rus>
 		<eng>Help Duty fighters to keep Bar and kill Gorb</eng>
 		<ukr>Допомогти долгівцям утримати Бар і вбити Горба</ukr>
 		<fra>Aidez les gars du Devoirs à garder la Bar et à tuer le bossu Gorb</fra>
+		<pln>Pomóc powinnościowcom obronić Bar i zabić Garba</pln>
 	</string>
 	<string id="task_naemn_shturm_2">
 		<rus>Доложить Воронину</rus>
 		<eng>Report to Voronin</eng>
 		<ukr>Доповісти Вороніну</ukr>
 		<fra>Signaler Voronin</fra>
+		<pln>Zameldować Woroninowi</pln>
 	</string>
 	<string id="task_kalinin_atp_0">
 		<rus>Ликвидация</rus>
 		<eng>Liquidation</eng>
 		<ukr>Ліквідація</ukr>
 		<fra>Liquidation</fra>
+		<pln>Likwidacja</pln>
 	</string>
 	<string id="task_kalinin_atp_1">
 		<rus>Отбить атаку бандитов и убить Шныру</rus>
 		<eng>Beat off the bandits' attack and kill Slick</eng>
 		<ukr>Відбити атаку бандитів і вбити Шниру</ukr>
 		<fra>Combattez l'attaque de gangsters et tuez Slick</fra>
+		<pln>Odeprzeć atak bandytów i zabić Sznyrę</pln>
 	</string>
 	<string id="task_kalinin_atp_2">
 		<rus>Доложить Калинину</rus>
 		<eng>Report to Kalinin</eng>
 		<ukr>Доповісти Калиніну</ukr>
 		<fra>Signaler à Kalinin</fra>
+		<pln>Zameldować Kalininowi</pln>
 	</string>
 	<string id="task_gonets_atp_0">
 		<rus>Встреча с гонцом</rus>
 		<eng>Meeting with the messenger</eng>
 		<ukr>Зустріч з гінцем</ukr>
 		<fra>Rencontre avec le Messager</fra>
+		<pln>Spotkanie z gońcem</pln>
 	</string>
 	<string id="task_gonets_atp_1">
 		<rus>Забрать информацию у гонца</rus>
 		<eng>Take information from the messenger</eng>
 		<ukr>Забрати інформацію у гінця</ukr>
 		<fra>Prendre des informations du Messager</fra>
+		<pln>Zabrać informacje od gońca</pln>
 	</string>
 	<string id="task_gonets_atp_2">
 		<rus>Принести флешку Калинину</rus>
 		<eng>Bring the flash drive to Kalinin</eng>
 		<ukr>Принести флешку Калиніну</ukr>
 		<fra>Apportez un lecteur flash à Kalinin</fra>
+		<pln>Przynieść Kalininowi fleszkę</pln>
 	</string>
 	<string id="task_kalinin_btr_0">
 		<rus>В осаде</rus>
 		<eng>Under siege</eng>
 		<ukr>В облозі</ukr>
 		<fra>En état de siège</fra>
+		<pln>W oblężeniu</pln>
 	</string>
 	<string id="task_kalinin_btr_1">
 		<rus>Раздобыть гранатомёт РПГ-7 и заряды</rus>
 		<eng>Get RPG-7 grenade launcher and charges</eng>
 		<ukr>Роздобути гранатомет РПГ-7 і заряди</ukr>
 		<fra>Obtenez le lance-grenades RPG-7 et les charges</fra>
+		<pln>Zdobyć granatnik RPG-7 i ładunki do niego</pln>
 	</string>
 	<string id="task_kalinin_btr_2">
 		<rus>Доложить Калинину</rus>
 		<eng>Report to Kalinin</eng>
 		<ukr>Доповісти Калиніну</ukr>
 		<fra>Signaler à Kalinin</fra>
+		<pln>Zameldować Kalininowi</pln>
 	</string>
 	<string id="task_btr_ataka_0">
 		<rus>Противостояние</rus>
 		<eng>Standoff</eng>
 		<ukr>Протистояння</ukr>
 		<fra>Se tenir à l'écart</fra>
+		<pln>Kontratak</pln>
 	</string>
 	<string id="task_btr_ataka_1">
 		<rus>Убить командира спецназа</rus>
 		<eng>Kill the special forces commander</eng>
 		<ukr>Вбить командира спецназу</ukr>
 		<fra>Tuer le Commandant des Forces Spéciales</fra>
+		<pln>Zabić dowódcę specnazu</pln>
 	</string>
 	<string id="task_btr_ataka_2">
 		<rus>Уничтожить первый БТР</rus>
 		<eng>Destroy the first armoured vehicle</eng>
 		<ukr>Знищити перший БТР</ukr>
 		<fra>Détruire le premier BTR</fra>
+		<pln>Zniszczyć pierwszy BTR</pln>
 	</string>
 	<string id="task_btr_ataka_3">
 		<rus>Уничтожить второй БТР</rus>
 		<eng>Destroy the second armoured vehicle</eng>
 		<ukr>Знищити другий БТР</ukr>
 		<fra>Détruire le deuxième BTR</fra>
+		<pln>Zniszczyć drugi BTR</pln>
 	</string>
 	<string id="task_btr_ataka_4">
 		<rus>Уничтожить третий БТР</rus>
 		<eng>Destroy the third armoured vehicle</eng>
 		<ukr>Знищити третій БТР</ukr>
 		<fra>Détruire le troisième BTR</fra>
+		<pln>Zniszczyć trzeci BTR</pln>
 	</string>
 	<string id="task_btr_ataka_5">
 		<rus>Доложить Калинину</rus>
 		<eng>Report to Kalinin</eng>
 		<ukr>Доповісти Калиніну</ukr>
 		<fra>Signaler Kalinin</fra>
+		<pln>Zameldować Kalininowi</pln>
 	</string>
 	<string id="task_shax_plennik_0">
 		<rus>Кодовый замок</rus>
 		<eng>Code lock</eng>
 		<ukr>Кодовий замок</ukr>
 		<fra>Verrouillage du code</fra>
+		<pln>Zamek kodowy</pln>
 	</string>
 	<string id="task_shax_plennik_1">
 		<rus>Освободить пленника</rus>
 		<eng>Free the captive</eng>
 		<ukr>Звільнити полоненого</ukr>
 		<fra>Libérer le captif</fra>
+		<pln>Uwolnić jeńca</pln>
 	</string>
 	<string id="task_shax_plennik_2">
 		<rus>Вернуться к Шахтёру</rus>
 		<eng>Go back to Miner</eng>
 		<ukr>Повернутися до Шахтара</ukr>
 		<fra>Retour au mineur</fra>
+		<pln>Wrócić do Górnika</pln>
 	</string>
 	<string id="task_fima_mulo_0">
 		<rus>Мыло для Фимы</rus>
 		<eng>Soap for Fima</eng>
 		<ukr>Мило для Фими</ukr>
 		<fra>Savon pour Fima</fra>
+		<pln>Mydło dla Fimy</pln>
 	</string>
 	<string id="task_fima_mulo_1">
 		<rus>Достать мыло с помощью импульсных гранат</rus>
 		<eng>Get soap with pulsed grenades</eng>
 		<ukr>Дістати мило за допомогою імпульсних гранат</ukr>
 		<fra>Obtenez du savon avec des grenades pulsées</fra>
+		<pln>Zdobyć mydło z pomocą granatów impulsowych</pln>
 	</string>
 	<string id="task_fima_mulo_2">
 		<rus>Принести мыло Фиме</rus>
 		<eng>Bring the soap to Fima</eng>
 		<ukr>Принести мило Фимі</ukr>
 		<fra>Apportez du savon à l'heure</fra>
+		<pln>Wrócić do Fimy</pln>
 	</string>
 	<string id="task_adr_shkatulka_0">
 		<rus>Шкатулка и сейф</rus>
 		<eng>A jewel-box and safe</eng>
 		<ukr>Скринька і сейф</ukr>
 		<fra>Cercueil et coffre-fort</fra>
+		<pln>Szkatułka i sejf</pln>
 	</string>
 	<string id="task_adr_shkatulka_1">
 		<rus>Взять необходимое</rus>
 		<eng>Take the necessary</eng>
 		<ukr>Взяти необхідне</ukr>
 		<fra>Prendre le nécessaire</fra>
+		<pln>Zabrać co potrzebne</pln>
 	</string>
 	<string id="task_adr_shkatulka_2">
 		<rus>Принести шкатулку Адреналину</rus>
 		<eng>Bring the jewel-box to Adrenaline</eng>
 		<ukr>Принести скриньку Адреналіну</ukr>
 		<fra>Apportez une boîte à Adrénaline</fra>
+		<pln>Zanieść szkatułkę do Adrenaliny</pln>
 	</string>
 	<string id="task_tretiy_kod_0">
 		<rus>Кодовый замок</rus>
 		<eng>Code lock</eng>
 		<ukr>Кодовий замок</ukr>
 		<fra>Verrouillage du code</fra>
+		<pln>Zamek kodowy</pln>
 	</string>
 	<string id="task_tretiy_kod_1">
 		<rus>Взять сейф</rus>
 		<eng>Take the safe</eng>
 		<ukr>Взяти сейф</ukr>
 		<fra>Prendre en sécurité</fra>
+		<pln>Wziąść sejf</pln>
 	</string>
 	<string id="task_tretiy_kod_2">
 		<rus>Принести сейф Шахтёру</rus>
 		<eng>Bring the safe to Miner</eng>
 		<ukr>Принести сейф Шахтару</ukr>
 		<fra>Apportez un coffre-fort au Mineur</fra>
+		<pln>Zanieść sejf do Górnika</pln>
 	</string>
 	<string id="task_sidor_amulet_0">
 		<rus>Ремонтные ящики</rus>
 		<eng>Repair boxes</eng>
 		<ukr>Ремонтні ящики</ukr>
 		<fra>Boîtes de réparation</fra>
+		<pln>Skrzynki remontowe</pln>
 	</string>
 	<string id="task_sidor_amulet_1">
 		<rus>Найти ремонтные ящики</rus>
 		<eng>Find repair boxes</eng>
 		<ukr>Взяти ремонтні ящики</ukr>
 		<fra>Trouver des boîtes de réparation</fra>
+		<pln>Znaleźć skrzynki remontowe</pln>
 	</string>
 	<string id="task_sidor_amulet_2">
 		<rus>Принести заказ торговцу</rus>
 		<eng>Bring the order to the merchant</eng>
 		<ukr>Принести замовлення торговцю</ukr>
 		<fra>Mettre de l'ordre chez le marchand</fra>
+		<pln>Zanieść handlarzowi jego zamówienie</pln>
 	</string>
 	<string id="task_otshelnik_yzik_0">
 		<rus>Ящик с оружием</rus>
 		<eng>Weapon box</eng>
 		<ukr>Ящик зі зброєю</ukr>
 		<fra>Boîte à armes</fra>
+		<pln>Skrzynia z bronią</pln>
 	</string>
 	<string id="task_otshelnik_yzik_1">
 		<rus>Найти ящик с оружием</rus>
 		<eng>Find a box with a weapon</eng>
 		<ukr>Взяти ящик зі зброєю</ukr>
 		<fra>Trouver une boîte avec une arme</fra>
+		<pln>Znaleźć skrzynię z bronią</pln>
 	</string>
 	<string id="task_otshelnik_yzik_2">
 		<rus>Отнести ящик Отшельнику</rus>
 		<eng>Bring the box to Hermit</eng>
 		<ukr>Принести ящик Самітнику</ukr>
 		<fra>Prenez la boîte à l'Ermite</fra>
+		<pln>Zanieść skrzynię do Pustelnika</pln>
 	</string>
 	<string id="task_ginekolog_lekarstvo_0">
 		<rus>Лекарства для Гинеколога</rus>
 		<eng>Medicines for the Gynecologist</eng>
 		<ukr>Ліки для Гінеколога</ukr>
 		<fra>Médicaments pour le Gynécologue</fra>
+		<pln>Lekarstwa dla Ginekologa</pln>
 	</string>
 	<string id="task_ginekolog_lekarstvo_1">
 		<rus>Найти лекарства</rus>
 		<eng>Find the medicines</eng>
 		<ukr>Взяти ліки</ukr>
 		<fra>Trouver des médicaments</fra>
+		<pln>Znaleźć lekarstwa</pln>
 	</string>
 	<string id="task_ginekolog_lekarstvo_2">
 		<rus>Принести заказ Гинекологу</rus>
 		<eng>Bring the order to the Gynecologist</eng>
 		<ukr>Принести замовлення Гінекологу</ukr>
 		<fra>Apportez la commande au Gynécologue</fra>
+		<pln>Przynieść Ginekologowi jego zamówienie</pln>
 	</string>
 	<string id="task_jora_accumul_seif_0">
 		<rus>Аккумуляторы</rus>
 		<eng>Batteries</eng>
 		<ukr>Акумулятори</ukr>
 		<fra>Les piles</fra>
+		<pln>Akumulatory</pln>
 	</string>
 	<string id="task_jora_accumul_seif_1">
 		<rus>Найти аккумуляторы</rus>
 		<eng>Find batteries</eng>
 		<ukr>Знайти акумулятори</ukr>
 		<fra>Trouver des piles</fra>
+		<pln>Znaleźć akumulatory</pln>
 	</string>
 	<string id="task_jora_accumul_seif_2">
 		<rus>Принести заказ Жорику</rus>
 		<eng>Bring the order to Zhorik</eng>
 		<ukr>Принести замовлення Жорику</ukr>
 		<fra>Apportez l'ordre à Zhorik</fra>
+		<pln>Przynieść Żorikowi jego zamówienie</pln>
 	</string>
 	<string id="task_starik_zadanie_0">
 		<rus>Часы Старика</rus>
 		<eng>Old Man's Watch</eng>
 		<ukr>Годинник Старого</ukr>
 		<fra>Regarde le vieil homme</fra>
+		<pln>Zegarek Starca</pln>
 	</string>
 	<string id="task_starik_zadanie_1">
 		<rus>Найти часы</rus>
 		<eng>Find the watch</eng>
 		<ukr>Знайти годинник</ukr>
 		<fra>Trouver une montre</fra>
+		<pln>Znaleźć zegarek</pln>
 	</string>
 	<string id="task_starik_zadanie_2">
 		<rus>Принести часы Старику</rus>
 		<eng>Bring the watch to Old man</eng>
 		<ukr>Принести годинник Старому</ukr>
 		<fra>Apportez une horloge à un vieil homme</fra>
+		<pln>Przynieść Starcowi zegarek</pln>
 	</string>
 	<string id="task_piligrim_britva_0">
 		<rus>Схрон Пилигрима</rus>
 		<eng>Pilgrim's stash</eng>
 		<ukr>Схрон Пілігрима</ukr>
 		<fra>Chasse au pèlerin</fra>
+		<pln>Schowek Pielgrzyma</pln>
 	</string>
 	<string id="task_piligrim_britva_1">
 		<rus>Найти схрон Пилигрима</rus>
 		<eng>Find Pilgrim's stash</eng>
 		<ukr>Знайти схрон Пілігрима</ukr>
 		<fra>Trouver les caches du Pèlerin</fra>
+		<pln>Znaleźć schowek Pielgrzyma</pln>
 	</string>
 	<string id="task_piligrim_britva_2">
 		<rus>Принести обещанное Пилигриму</rus>
 		<eng>Bring the promised to Pilgrim</eng>
 		<ukr>Принести обіцяне Пілігриму</ukr>
 		<fra>Apportez au Pèlerin</fra>
+		<pln>Wrócić do Pielgrzyma</pln>
 	</string>
 	<string id="task_otsh_pda_0">
 		<rus>Ультрадетектор</rus>
 		<eng>Ultra Detector</eng>
 		<ukr>Ультрадетектор</ukr>
 		<fra>Détecteur Ultra</fra>
+		<pln>Ultradetektor</pln>
 	</string>
 	<string id="task_otsh_pda_1">
 		<rus>Достать ультрадетектор</rus>
 		<eng>Get the ultra detector</eng>
 		<ukr>Дістати ультрадетектор</ukr>
 		<fra>Obtenez un ultra détecteur</fra>
+		<pln>Zdobyć ultradetektor</pln>
 	</string>
 	<string id="task_otsh_pda_2">
 		<rus>Принести детектор Адреналину</rus>
 		<eng>Bring the detector to Adrenaline</eng>
 		<ukr>Принести детектор Адреналіну</ukr>
 		<fra>Apportez le détecteur à Adrénaline</fra>
+		<pln>Przynieść detektor do Adrenaliny</pln>
 	</string>
 	<string id="task_golo_detektor_0">
 		<rus>Сборка детектора</rus>
 		<eng>Detector assembly</eng>
 		<ukr>Збір детектора</ukr>
 		<fra>Ensemble détecteur</fra>
+		<pln>Montaż detektora</pln>
 	</string>
 	<string id="task_golo_detektor_1">
 		<rus>Найти элитные детекторы</rus>
 		<eng>Find elite detectors</eng>
 		<ukr>Дістати елітні детектори</ukr>
 		<fra>Trouver des détecteurs d'élite</fra>
+		<pln>Znaleźć elitarne detektory</pln>
 	</string>
 	<string id="task_golo_detektor_2">
 		<rus>Принести детекторы Голограмме</rus>
 		<eng>Bring detectors to Hologram</eng>
 		<ukr>Принести детектори Голограмі</ukr>
 		<fra>Apportez des détecteurs d'hologrammes</fra>
+		<pln>Przynieść detektory do Holograma</pln>
 	</string>
 	<string id="task_medik_pribor_1_0">
 		<rus>Поиск дискеты</rus>
 		<eng>Search for a floppy disc</eng>
 		<ukr>Пошук дискети</ukr>
 		<fra>Recherche de disquette</fra>
+		<pln>Poszukiwanie dyskietki</pln>
 	</string>
 	<string id="task_medik_pribor_1_1">
 		<rus>Найти дискету</rus>
 		<eng>Find the floppy disk</eng>
 		<ukr>Знайти дискету</ukr>
 		<fra>Trouver une disquette</fra>
+		<pln>Znaleźć dyskietkę</pln>
 	</string>
 	<string id="task_medik_pribor_1_2">
 		<rus>Принести дискету Гинекологу</rus>
 		<eng>Bring the floppy disc to the Gynecologist</eng>
 		<ukr>Принести дискету Гінекологу</ukr>
 		<fra>Apportez une disquette au Gynécologue</fra>
+		<pln>Przynieść Ginekologowi dyskietkę</pln>
 	</string>
 	<string id="task_akkum_and_mikposx_0">
 		<rus>Блоки питания</rus>
 		<eng>Power supplies</eng>
 		<ukr>Блоки живлення</ukr>
 		<fra>Alimentations</fra>
+		<pln>Bloki zasilania</pln>
 	</string>
 	<string id="task_akkum_and_mikposx_1">
 		<rus>Найти блоки питания и плату</rus>
 		<eng>Find power supplies and board</eng>
 		<ukr>Знайти блоки живлення і плату</ukr>
 		<fra>Trouver des alimentations et des conseils</fra>
+		<pln>Znaleźć bloki zasilania i płytę</pln>
 	</string>
 	<string id="task_akkum_and_mikposx_2">
 		<rus>Принести заказ Шуре</rus>
 		<eng>Bring the order to Shura</eng>
 		<ukr>Принести замовлення Сашку</ukr>
 		<fra>Mettre de l'ordre à Shura</fra>
+		<pln>Dostarczyć zamówienie do Szury</pln>
 	</string>
 	<string id="task_chimaera_zadan_0">
 		<rus>Убийство Сидоровича</rus>
 		<eng>The murder of Sidorovich</eng>
 		<ukr>Вбивство Сидоровича</ukr>
 		<fra>Le meurtre de Sidorovich</fra>
+		<pln>Zabójstwo Sidorowicza</pln>
 	</string>
 	<string id="task_chimaera_zadan_1">
 		<rus>Убить Сидоровича</rus>
 		<eng>Kill Sidorovich</eng>
 		<ukr>Вбити Сидора</ukr>
 		<fra>Tuer Sidorovich</fra>
+		<pln>Zabić Sidorowicza</pln>
 	</string>
 	<string id="task_chimaera_zadan_2">
 		<rus>Принести голову Сидоровича</rus>
 		<eng>Bring Sidorovich's head</eng>
 		<ukr>Принести голову Сидоровича</ukr>
 		<fra>Apportez la tête de Sidorovich</fra>
+		<pln>Przynieść głowę Sidorowicza</pln>
 	</string>
 	<string id="task_land_oxot_0">
 		<rus>Чучело</rus>
 		<eng>Stuffed animal</eng>
 		<ukr>Опудало</ukr>
 		<fra>Épouvantail</fra>
+		<pln>Kukła</pln>
 	</string>
 	<string id="task_land_oxot_1">
 		<rus>Убить матёрого контролёра на стадионе Припяти, не задев голову мутанта</rus>
 		<eng>Kill an experienced controller at Pripyat stadium without hitting the mutant's head</eng>
 		<ukr>Вбить зрілого контролера на стадіоні Прип'яті, не зачепивши голову мутанта</ukr>
 		<fra>Tuer un contrôleur chevronné au stade Pripyat sans frapper la tête du mutant</fra>
+		<pln>Zabić doświadczonego kontrolera na stadionie w Prypeci, nie uszkadzając głowy mutanta</pln>
 	</string>
 	<string id="task_land_oxot_2">
 		<rus>Забрать труп контролёра</rus>
 		<eng>Pick up the controller's corpse</eng>
 		<ukr>Забрати труп контролера</ukr>
 		<fra>Ramasser le cadavre du contrôleur</fra>
+		<pln>Zabrać trupa kontrolera</pln>
 	</string>
 	<string id="task_land_oxot_3">
 		<rus>Отнести тело мутанта Филину</rus>
 		<eng>Bring the body of the mutant to Filin</eng>
 		<ukr>Віднести тіло мутанта Філін</ukr>
 		<fra>Prenez le corps du mutant Filin</fra>
+		<pln>Zanieść ciało mutanta do Filina</pln>
 	</string>
 	<string id="task_ginek_vlip_0">
 		<rus>Колбы для Гинеколога</rus>
 		<eng>Flasks for the Gynecologist</eng>
 		<ukr>Колби для Гінеколога</ukr>
 		<fra>Flacons pour Gynécologue</fra>
+		<pln>Kolby dla Ginekologa</pln>
 	</string>
 	<string id="task_ginek_vlip_1">
 		<rus>Найти полные колбы</rus>
 		<eng>Find full flasks</eng>
 		<ukr>Знайти повні колби</ukr>
 		<fra>Trouver des flacons complets</fra>
+		<pln>Znaleźć pełne kolby</pln>
 	</string>
 	<string id="task_ginek_vlip_2">
 		<rus>Принести колбы Гинекологу</rus>
 		<eng>Bring the flasks to the Gynecologist</eng>
 		<ukr>Принести колби Гінекологу</ukr>
 		<fra>Apportez des flacons au Gynécologue</fra>
+		<pln>Przynieść kolby do Ginekologa</pln>
 	</string>
 	<string id="task_vuxod_atp_0">
 		<rus>Поиск артефактов</rus>
 		<eng>Search for artifacts</eng>
 		<ukr>Пошук артефактів</ukr>
 		<fra>Rechercher des Artéfacts</fra>
+		<pln>Poszukiwanie artefaktów</pln>
 	</string>
 	<string id="task_vuxod_atp_1">
 		<rus>Достать артефакты</rus>
 		<eng>Get the artifacts</eng>
 		<ukr>Дістати артефакти</ukr>
 		<fra>Obtenir des Artéfacts</fra>
+		<pln>Zdobyć artefakty</pln>
 	</string>
 	<string id="task_vuxod_atp_2">
 		<rus>Принести арты Калинину</rus>
 		<eng>Bring the artifacts to Kalinin</eng>
 		<ukr>Принести арти Калиніну</ukr>
 		<fra>Apportez les Artéfacts à Kalinin</fra>
+		<pln>Przynieść Kalininowi artefakty</pln>
 	</string>
 	<string id="task_kluk_vstrecha_0">
 		<rus>Разведка территории</rus>
 		<eng>Territory exploration</eng>
 		<ukr>Розвідка території</ukr>
 		<fra>Exploration du territoire</fra>
+		<pln>Zwiad</pln>
 	</string>
 	<string id="task_kluk_vstrecha_1">
 		<rus>Провести разведку</rus>
 		<eng>Conduct reconnaissance</eng>
 		<ukr>Провести розвідку</ukr>
 		<fra>Effectuer des reconnaissances</fra>
+		<pln>Przeprowadzić zwiad</pln>
 	</string>
 	<string id="task_kluk_vstrecha_2">
 		<rus>Поделится инфой с Клыком</rus>
 		<eng>Share the info with Fang</eng>
 		<ukr>Поділитися інфою з Кликом</ukr>
 		<fra>Partager des informations avec Fang</fra>
+		<pln>Podzielić się informacjami z Kłem</pln>
 	</string>
 	<string id="task_lukash_pechatka_0">
 		<rus>Печатка Лукаша</rus>
 		<eng>Lukash's signet</eng>
 		<ukr>Печатка Лукаша</ukr>
 		<fra>Chevalière de Lukas</fra>
+		<pln>Sygnet Łukasza</pln>
 	</string>
 	<string id="task_lukash_pechatka_1">
 		<rus>Найти печатку</rus>
 		<eng>Find the signet</eng>
 		<ukr>Знайти печатку</ukr>
 		<fra>Trouver un sceau</fra>
+		<pln>Znaleźć sygnet</pln>
 	</string>
 	<string id="task_lukash_pechatka_2">
 		<rus>Вернуть печатку Лукашу</rus>
 		<eng>Return the signet to Lukash</eng>
 		<ukr>Повернути печатку Лукашу</ukr>
 		<fra>Rapporter le sceau à Lukas</fra>
+		<pln>Zwrócić sygnet Łukaszowi</pln>
 	</string>
 	<string id="task_vitamin_reyd_0">
 		<rus>Штурм Военной Лаборатории</rus>
 		<eng>Assault on the Military Laboratory</eng>
 		<ukr>Штурм Військової Лаборатоії</ukr>
 		<fra>Assaut sur le Laboratoire Militaire</fra>
+		<pln>Szturm Warlabu</pln>
 	</string>
 	<string id="task_vitamin_reyd_1">
 		<rus>Провести группу по территории Радара</rus>
 		<eng>Lead a group on the territory of Radar</eng>
 		<ukr>Провести групу по території Радару</ukr>
 		<fra>Diriger un groupe sur le territoire de Radar</fra>
+		<pln>Przeprowadzić oddział przez terytorium Radaru</pln>
 	</string>
 	<string id="task_vitamin_reyd_2">
 		<rus>Штурмовать Военную Лабораторию</rus>
 		<eng>Assault the Military Lab</eng>
 		<ukr>Штурмувати Військову Лабораторію</ukr>
 		<fra>Assaut sur le Laboratoire Militaire</fra>
+		<pln>Zdobyć Warlab</pln>
 	</string>
 	<string id="task_pantera_fone_0">
 		<rus>Телефон для Пантеры</rus>
 		<eng>Phone for Panther</eng>
 		<ukr>Телефон для Пантери</ukr>
 		<fra>Téléphone pour Panthère</fra>
+		<pln>Telefon dla Pantery</pln>
 	</string>
 	<string id="task_pantera_fone_1">
 		<rus>Найти радиотелефон</rus>
 		<eng>Find a radiophone</eng>
 		<ukr>Знайти радіотелефон</ukr>
 		<fra>Trouver un téléphone sans fil</fra>
+		<pln>Znaleźć radiotelefon</pln>
 	</string>
 	<string id="task_pantera_fone_2">
 		<rus>Отдать телефон Пантере</rus>
 		<eng>Give the phone to Panther</eng>
 		<ukr>Віддати телефон Пантері</ukr>
 		<fra>Donner téléphone à Panthère</fra>
+		<pln>Oddać telefon Panterze</pln>
 	</string>
 	<string id="task_pant_zadan_0">
 		<rus>Диск для Пантеры</rus>
 		<eng>Disc for Panther</eng>
 		<ukr>Диск для Пантери</ukr>
 		<fra>Disque à Panthère</fra>
+		<pln>Dysk dla Pantery</pln>
 	</string>
 	<string id="task_pant_zadan_1">
 		<rus>Найти диск</rus>
 		<eng>Find the disc</eng>
 		<ukr>Знайти диск</ukr>
 		<fra>Trouver un Disque</fra>
+		<pln>Znaleźć dysk</pln>
 	</string>
 	<string id="task_pant_zadan_2">
 		<rus>Отдать диск Пантере</rus>
 		<eng>Give the disc to Panther</eng>
 		<ukr>Віддати диск Пантері</ukr>
 		<fra>Donner le disque à Panthère</fra>
+		<pln>Oddać dysk Panterze</pln>
 	</string>
 	<string id="task_body_pantera_0">
 		<rus>Чучело псевдопса</rus>
 		<eng>Stuffed pseudodog</eng>
 		<ukr>Опудало псевдопса</ukr>
 		<fra>Effigie pseudo-chien</fra>
+		<pln>Kukła pseudopsa</pln>
 	</string>
 	<string id="task_body_pantera_1">
 		<rus>Выкрасть чучело с базы на Стройплощадке</rus>
 		<eng>Steal the stuffed animal from base on the Construction site</eng>
 		<ukr>Викрасти чучело з бази на Будмайданчику</ukr>
 		<fra>Voler l'effigie de l'animal sur le chantier de construction</fra>
+		<pln>Wykraść kukłę z bazy na Placu budowy</pln>
 	</string>
 	<string id="task_body_pantera_2">
 		<rus>Принести заказ Дембелю</rus>
 		<eng>Bring the order to Demob</eng>
 		<ukr>Принести замовлення Дембелю</ukr>
 		<fra>Apporter l'ordre à Demob</fra>
+		<pln>Przynieść Demobilowi jego zamówienie</pln>
 	</string>
 	<string id="task_p_z_tri_0">
 		<rus>Кража СКАТ-15</rus>
 		<eng>SCAT-15 theft</eng>
 		<ukr>Крадіжка СКАТ-15</ukr>
 		<fra>SCAT-15 volé</fra>
+		<pln>Kradzież SKAT-15</pln>
 	</string>
 	<string id="task_p_z_tri_1">
 		<rus>Найти и свистнуть СКАТ-15</rus>
 		<eng>Find and steal SKAT-15</eng>
 		<ukr>Знайти і свиснути СКАТ-15</ukr>
 		<fra>Trouver et voler l'armure SCAT-15</fra>
+		<pln>Odnaleźć i ukraść SKAT-15</pln>
 	</string>
 	<string id="task_p_z_tri_2">
 		<rus>Принести заказ Пантере</rus>
 		<eng>Bring the order to Panther</eng>
 		<ukr>Принести замовлення Пантері</ukr>
 		<fra>Apporter l'ordre à Panthére</fra>
+		<pln>Przynieść zamówienie Panterze</pln>
 	</string>
 	<string id="task_gologr_0">
 		<rus>Сопровождение</rus>
 		<eng>Accompaniment</eng>
 		<ukr>Супровід</ukr>
 		<fra>Escorte</fra>
+		<pln>Eskorta</pln>
 	</string>
 	<string id="task_gologr_1">
 		<rus>Сопроводить Голограмму</rus>
 		<eng>Accompany Hologram</eng>
 		<ukr>Ескортувати Голограму</ukr>
 		<fra>Escorter Hologram</fra>
+		<pln>Eskortować Holograma</pln>
 	</string>
 	<string id="task_gologr_2">
 		<rus>Провести Голограмму</rus>
 		<eng>Lead Hologram</eng>
 		<ukr>Провести Голограму</ukr>
 		<fra>Guider Hologram</fra>
+		<pln>Eskortować Holograma</pln>
 	</string>
 	<string id="task_klenov_gol_0">
 		<rus>Сопровождение, часть 2</rus>
 		<eng>Accompaniment, part 2</eng>
 		<ukr>Супровід, часть 2</ukr>
 		<fra>Escorte, partie 2</fra>
+		<pln>Eskorta, część 2</pln>
 	</string>
 	<string id="task_klenov_gol_1">
 		<rus>Сопроводить Голограмму</rus>
 		<eng>Accompany Hologram</eng>
 		<ukr>Супроводити Голограму</ukr>
 		<fra>Escorter Hologram</fra>
+		<pln>Eskortować Holograma</pln>
 	</string>
 	<string id="task_klenov_gol_2">
 		<rus>Привести Голограмму к Клёнову</rus>
 		<eng>Bring Hologram to Klenov</eng>
 		<ukr>Привести Голограму до Кленова</ukr>
 		<fra>Amener l'Hologram à Klenov</fra>
+		<pln>Przyprowadzić Holograma do Klonowa</pln>
 	</string>
 	<string id="task_klenov_vse_0">
 		<rus>Арты для Клёнова</rus>
 		<eng>Artifacts for Klenov</eng>
 		<ukr>Арти для Кленова</ukr>
 		<fra>Artéfacts pour Klenov</fra>
+		<pln>Artefakty dla Klonowa</pln>
 	</string>
 	<string id="task_klenov_vse_1">
 		<rus>Найти артефакты</rus>
 		<eng>Find artifacts</eng>
 		<ukr>Знайти артефакти</ukr>
 		<fra>Trouver des Artéfacts</fra>
+		<pln>Znaleźć artefakty</pln>
 	</string>
 	<string id="task_klenov_vse_2">
 		<rus>Принести артефакты Клёнову</rus>
 		<eng>Bring the artifacts to Klenov</eng>
 		<ukr>Привести артефакти Кленову</ukr>
 		<fra>Apportez des Artéfacts à Klenov</fra>
+		<pln>Przynieść Klonowowi artefakty</pln>
 	</string>
 	<string id="task_esc_razvod_0">
 		<rus>"Долг" Сидоровича</rus>
 		<eng>Sidorovich's "Debt"</eng>
 		<ukr>"Борг" Сидора</ukr>
 		<fra>"Dette" de Sidorovich</fra>
+		<pln>"Dług" Sidorowicza</pln>
 	</string>
 	<string id="task_esc_razvod_1">
 		<rus>Отдать долг Сидоровича</rus>
 		<eng>Repay from Sidorovich</eng>
 		<ukr>Віддати борг Сидора</ukr>
 		<fra>Rembourser Sidorovich</fra>
+		<pln>Oddać dług Sidorowicza</pln>
 	</string>
 	<string id="task_za_bablom_0">
 		<rus>Проценты</rus>
 		<eng>Interests</eng>
 		<ukr>Відсотки</ukr>
 		<fra>Les intérêts</fra>
+		<pln>Procenty</pln>
 	</string>
 	<string id="task_za_bablom_1">
 		<rus>Получить у Сидора проценты</rus>
 		<eng>Get interests from Sidor</eng>
 		<ukr>Отримати у Сидора відсотки</ukr>
 		<fra>Obtenir l'intérêt de Sidorovitch</fra>
+		<pln>Odebrać od Sidorowicza procenty</pln>
 	</string>
 	<string id="task_kolmogor_say_0">
 		<rus>Помощь Колмогору</rus>
 		<eng>Help Kolmogor</eng>
 		<ukr>Допомога Колмогору</ukr>
 		<fra>Aidez Kolmogor</fra>
+		<pln>Pomóc Kołmogorowi</pln>
 	</string>
 	<string id="task_kolmogor_say_1">
 		<rus>Помочь Колмогору спасти брата</rus>
 		<eng>Help Kolmogor to save his brother</eng>
 		<ukr>Допомогти Колмогору врятувати брата</ukr>
 		<fra>Aidez Kolmogor à sauver son frère</fra>
+		<pln>Pomóc Kołmogorowi uratować brata</pln>
 	</string>
 	<string id="task_sestra_start_0">
 		<rus>Сестра Колмогора</rus>
 		<eng>Kolmogor's sister</eng>
 		<ukr>Сестра Колмогора</ukr>
 		<fra>Soeur Kolmogor</fra>
+		<pln>Siostra Kołmogora</pln>
 	</string>
 	<string id="task_sestra_start_1">
 		<rus>Привести Пантеру</rus>
 		<eng>Lead Panther</eng>
 		<ukr>Привести Пантеру</ukr>
 		<fra>Conduire la Panthère</fra>
+		<pln>Przyprowadzić Panterę</pln>
 	</string>
 	<string id="task_village_shtab_0">
 		<rus>Штаб карателей</rus>
 		<eng>Headquarters of the hit squad</eng>
 		<ukr>Штаб карателів</ukr>
 		<fra>Quartier général de l'équipe punitive</fra>
+		<pln>Sztab grupy oczyszczającej</pln>
 	</string>
 	<string id="task_village_shtab_1">
 		<rus>Захватить штаб карателей</rus>
 		<eng>Capture the headquarters of the hit squad</eng>
 		<ukr>Захопити штаб карателів</ukr>
 		<fra>Capturez le Quartier général de l'équipe punitive</fra>
+		<pln>Przechwycić sztab</pln>
 	</string>
 	<string id="task_kolm_obsledov_0">
 		<rus>Осмотр деревни</rus>
 		<eng>Inspection of the village</eng>
 		<ukr>Огляд селища</ukr>
 		<fra>Inspection du village</fra>
+		<pln>Przeszukać wieś</pln>
 	</string>
 	<string id="task_kolm_obsledov_1">
 		<rus>Осмотреть деревню</rus>
 		<eng>Inspect the village</eng>
 		<ukr>Оглянути село</ukr>
 		<fra>Inspecter le village</fra>
+		<pln>Przeszukać wieś</pln>
 	</string>
 	<string id="task_kolm_obsledov_2">
 		<rus>Поговорить с Колмогором</rus>
 		<eng>Talk to Kolmogor</eng>
 		<ukr>Поговорити з Колмогором</ukr>
 		<fra>Parler à Kolmogor</fra>
+		<pln>Porozmawiać z Kołmogorem</pln>
 	</string>
 	<string id="task_derevny_zashita_0">
 		<rus>Защита деревни</rus>
 		<eng>Village defense</eng>
 		<ukr>Захист селища</ukr>
 		<fra>Défense du village</fra>
+		<pln>Obrona wsi</pln>
 	</string>
 	<string id="task_derevny_zashita_1">
 		<rus>Защитить деревню</rus>
 		<eng>Protect the village</eng>
 		<ukr>Захистити село</ukr>
 		<fra>Protéger le village</fra>
+		<pln>Obronić wieś</pln>
 	</string>
 	<string id="task_derevny_zashita_2">
 		<rus>Поговорить с Колмогором</rus>
 		<eng>Talk to Kolmogor</eng>
 		<ukr>Поговорити з Колмогором</ukr>
 		<fra>Parler à Kolmogor</fra>
+		<pln>Porozmawiać z Kołmogorem</pln>
 	</string>
 	<string id="task_klenov_antena_0">
 		<rus>Пси-антенна</rus>
 		<eng>Psi antenna</eng>
 		<ukr>Псі-антена</ukr>
 		<fra>Antenne psi</fra>
+		<pln>Antena psioniczna</pln>
 	</string>
 	<string id="task_klenov_antena_1">
 		<rus>Найти и забрать пси-антенну</rus>
 		<eng>Find and pick up the psi antenna</eng>
 		<ukr>Знайти і забрати псі-антену</ukr>
 		<fra>Trouvez et prenez l'antenne psi</fra>
+		<pln>Znaleźć i zabrać antenę psioniczną</pln>
 	</string>
 	<string id="task_klenov_antena_2">
 		<rus>Принести антенну Клёнову</rus>
 		<eng>Bring the antenna to Klenov</eng>
 		<ukr>Принести антену Кленову</ukr>
 		<fra>Apportez l'antenne à Klenov</fra>
+		<pln>Zanieść antenę psioniczną do Klonowa</pln>
 	</string>
 	<string id="task_boloto_provod_0">
 		<rus>Зачистка</rus>
 		<eng>===Зачистка</eng>
 		<ukr>Зачистка</ukr>
 		<fra>éclaircissement</fra>
+		<pln>Oczyszczanie</pln>
 	</string>
 	<string id="task_boloto_provod_1">
 		<rus>Расчистить хутор от скоплений биомасс</rus>
 		<eng>Clear the village from biomass clusters</eng>
 		<ukr>Розчистити хутір від скупчень біомас</ukr>
 		<fra>Éliminer de la ferme les groupes de biomasse</fra>
+		<pln>Oczyścić chutor ze skupisk biomasy</pln>
 	</string>
 	<string id="task_boloto_provod_2">
 		<rus>Вернуться к Знатоку Болот</rus>
 		<eng>Go back to Expert</eng>
 		<ukr>Повернутися до Знавця Боліт</ukr>
 		<fra>Retour à l'Expert</fra>
+		<pln>Wrócić do Znawcy Bagien</pln>
 	</string>
 	<string id="task_zemlyk_zadanie1_0">
 		<rus>Воздушная угроза</rus>
 		<eng>Air threat</eng>
 		<ukr>Повітряна загроза</ukr>
 		<fra>Menace aérienne</fra>
+		<pln>Powietrzne zagrożenie</pln>
 	</string>
 	<string id="task_zemlyk_zadanie1_1">
 		<rus>Обнаружить и сбить вертуху</rus>
 		<eng>Detect and shoot down the helicopter</eng>
 		<ukr>Знайти і збити вертуху</ukr>
 		<fra>Détecter et abattre l'hélicoptère</fra>
+		<pln>Odnaleźć i strącić helikopter</pln>
 	</string>
 	<string id="task_zemlyk_zadanie1_2">
 		<rus>Сообщить о результате Земляку</rus>
 		<eng>Report on the result to Countryman</eng>
 		<ukr>Повідомити про результат Земляка</ukr>
 		<fra>Signaler un résultat à Countryman</fra>
+		<pln>Powiadomić Rodaka o wynikach</pln>
 	</string>
 	<string id="task_black_dok_gener_0">
 		<rus>Поиски Боцмана</rus>
 		<eng>Search for Boatswain</eng>
 		<ukr>Пошуки Боцмана</ukr>
 		<fra>Rechercher Boatswain</fra>
+		<pln>Poszukiwanie Bosmana</pln>
 	</string>
 	<string id="task_black_dok_gener_1">
 		<rus>Разыскать бывшего торговца Боцмана</rus>
 		<eng>Find  Boatswain's former dealer</eng>
 		<ukr>Розшукати бувшого крамаря Боцмана</ukr>
 		<fra>Trouver l'ancien revendeur Boatswain</fra>
+		<pln>Odszukać byłego handlarza Bosmana</pln>
 	</string>
 	<string id="task_defend_udav_0">
 		<rus>Прикрытие</rus>
 		<eng>Cover</eng>
 		<ukr>Прикриття</ukr>
 		<fra>Couverture</fra>
+		<pln>Obrona</pln>
 	</string>
 	<string id="task_defend_udav_1">
 		<rus>Убить напавших бандитов и прикрыть Боцмана</rus>
 		<eng>Kill the attacked bandits and cover up Boatswain</eng>
 		<ukr>Вбити нападаючих бандитів і прикрити Боцмана</ukr>
 		<fra>Tuer les bandits attaqués et dissimuler le Manœuvrier Boatswain</fra>
+		<pln>Zabić atakujących bandytów i osłonić Bosmana</pln>
 	</string>
 	<string id="task_udav_poshli_0">
 		<rus>Привести Боцмана</rus>
 		<eng>Bring Boatswain</eng>
 		<ukr>Привести Боцмана</ukr>
 		<fra>Apportez Boatswain</fra>
+		<pln>Doprowadzić Bosmana</pln>
 	</string>
 	<string id="task_udav_poshli_1">
 		<rus>Довести Боцмана</rus>
 		<eng>Bring Boatswain</eng>
 		<ukr>Довести Боцмана</ukr>
 		<fra>Apportez Boatswain</fra>
+		<pln>Doprowadzić Bosmana</pln>
 	</string>
 	<string id="task_ander_joystik_0">
 		<rus>Джойстик Андерсена</rus>
 		<eng>Andersen's Joystick</eng>
 		<ukr>Джойстик Андерсена</ukr>
 		<fra>le Joystick d'Andersen</fra>
+		<pln>Konsola Andersena</pln>
 	</string>
 	<string id="task_ander_joystik_1">
 		<rus>Найти джойстик</rus>
 		<eng>Find the joystick</eng>
 		<ukr>Знайти джойстик</ukr>
 		<fra>Trouver le Joystick </fra>
+		<pln>Znaleźć konsolę</pln>
 	</string>
 	<string id="task_ander_joystik_2">
 		<rus>Принести джойстик Андерсену</rus>
 		<eng>Bring the joystick to Andersen</eng>
 		<ukr>Принести джойстик Андерсену</ukr>
 		<fra>Apportez le joystick à Andersen</fra>
+		<pln>Przynieść Andersenowi konsolę</pln>
 	</string>
 	<string id="task_udav_pabota_0">
 		<rus>Отключение пси-антенн</rus>
 		<eng>Switching off Psi antennas</eng>
 		<ukr>Відключення псі-антен</ukr>
 		<fra>Désactiver Antenne Psi</fra>
+		<pln>Wyłączenie anten psionicznych</pln>
 	</string>
 	<string id="task_udav_pabota_1">
 		<rus>Отключить пси-антенны</rus>
 		<eng>Switch off psi antennas</eng>
 		<ukr>Відключити псі-антени</ukr>
 		<fra>Désactiver les antennes psi</fra>
+		<pln>Wyłączyć anteny psioniczne</pln>
 	</string>
 	<string id="task_priz_shturm_0">
 		<rus>Освобождение Пантеры</rus>
 		<eng>Panther's release</eng>
 		<ukr>Звільнення Пантери</ukr>
 		<fra>Libération de Panthère</fra>
+		<pln>Uwolnienie Pantery</pln>
 	</string>
 	<string id="task_priz_shturm_1">
 		<rus>Освободить Пантеру</rus>
 		<eng>Release Panther</eng>
 		<ukr>Звільнити Пантеру</ukr>
 		<fra>Relâchez Panthère</fra>
+		<pln>Uwolnić Panterę</pln>
 	</string>
 	<string id="task_black_vstrecha_0">
 		<rus>Секретное досье</rus>
 		<eng>Secret brief</eng>
 		<ukr>Секретне досьє</ukr>
 		<fra>Dossier secret</fra>
+		<pln>Tajne dossier</pln>
 	</string>
 	<string id="task_black_vstrecha_1">
 		<rus>Забрать досье</rus>
 		<eng>Take the brief</eng>
 		<ukr>Забрати досьє</ukr>
 		<fra>Ramasser le dossier</fra>
+		<pln>Zabrać dossier</pln>
 	</string>
 	<string id="task_peshera_nz_0">
 		<rus>Скрытая пещера</rus>
 		<eng>Hidden cave</eng>
 		<ukr>Прихована печера</ukr>
 		<fra>Grotte cachée</fra>
+		<pln>Ukryta pieczara</pln>
 	</string>
 	<string id="task_peshera_nz_1">
 		<rus>Обнаружить пещеру</rus>
 		<eng>Discover the cave</eng>
 		<ukr>Знайти печеру</ukr>
 		<fra>Découvrez la grotte</fra>
+		<pln>Odnaleźć pieczarę</pln>
 	</string>
 	<string id="task_kl_na_walk_0">
 		<rus>Арты Клёнова</rus>
 		<eng>Klenov's artifacts</eng>
 		<ukr>Арти Кленова</ukr>
 		<fra>Artéfacts de Klenov</fra>
+		<pln>Artefakty Klonowa</pln>
 	</string>
 	<string id="task_kl_na_walk_1">
 		<rus>Забрать артефакты у Клёнова</rus>
 		<eng>Pick up the artifacts from Klenov</eng>
 		<ukr>Забрати артефакти у Кленова</ukr>
 		<fra>Récupérer les Artéfacts de Klenov</fra>
+		<pln>Zabrać artefakty od Klonowa</pln>
 	</string>
 	<string id="task_muha_kukl_0">
 		<rus>Кукла Мухи</rus>
 		<eng>Fly's Doll</eng>
 		<ukr>Лялька Мухи</ukr>
 		<fra>Poupée de Fly</fra>
+		<pln>Lalka dla Muchy</pln>
 	</string>
 	<string id="task_muha_kukl_1">
 		<rus>Найти старую куклу</rus>
 		<eng>Find an old doll</eng>
 		<ukr>Знайти стару ляльку</ukr>
 		<fra>Trouver une vieille poupée</fra>
+		<pln>Znaleźć starą lalkę</pln>
 	</string>
 	<string id="task_muha_kukl_2">
 		<rus>Принести куклу Мухе</rus>
 		<eng>Bring the doll to Fly</eng>
 		<ukr>Принести ляльку Мусі</ukr>
 		<fra>Apportez la poupée à Fly</fra>
+		<pln>Przynieść Musze lalkę</pln>
 	</string>
 	<string id="task_voronin_samopisez_0">
 		<rus>Бортовой самописец</rus>
 		<eng>Flight recorder</eng>
 		<ukr>Бортовий самописець</ukr>
 		<fra>Enregistreur de vol</fra>
+		<pln>Rejestrator pokładowy</pln>
 	</string>
 	<string id="task_voronin_samopisez_1">
 		<rus>Найти упавший вертолёт</rus>
 		<eng>Find the fallen helicopter</eng>
 		<ukr>Знайти упавший вертоліт</ukr>
 		<fra>Trouvez l'hélicoptère qui s'est écrasé</fra>
+		<pln>Znaleźć strącony helikopter</pln>
 	</string>
 	<string id="task_voronin_samopisez_2">
 		<rus>Принести самописец Воронину</rus>
 		<eng>Bring the recorder to Voronin</eng>
 		<ukr>Принести самописець Вороніну</ukr>
 		<fra>Apportez l'enregistreur à Voronin</fra>
+		<pln>Zanieść rejestrator do Woronina</pln>
 	</string>
 	<string id="task_vkluchit_generator_0">
 		<rus>Запуск генератора</rus>
 		<eng>Generator start</eng>
 		<ukr>Запуск генератора</ukr>
 		<fra>Démarrage du générateur</fra>
+		<pln>Rozruch generatora</pln>
 	</string>
 	<string id="task_vkluchit_generator_1">
 		<rus>Запустить третий генератор</rus>
 		<eng>Start the third generator</eng>
 		<ukr>Запустити третій генератор</ukr>
 		<fra>Lancer le troisième générateur</fra>
+		<pln>Włączyć trzeci generator</pln>
 	</string>
 	<string id="task_solv_say_0">
 		<rus>Отключение генераторов помех</rus>
 		<eng>Switching off jamming devices</eng>
 		<ukr>Відключення генераторів перешкод</ukr>
 		<fra>Désactiver les dispositifs de blocage</fra>
+		<pln>Generatory zakłóceń</pln>
 	</string>
 	<string id="task_solv_say_1">
 		<rus>Отключить генераторы помех</rus>
 		<eng>Switch off jamming devices</eng>
 		<ukr>Відключити генератори перешкод</ukr>
 		<fra>Désactiver les brouilleurs</fra>
+		<pln>Wyłączyć generatory zakłóceń</pln>
 	</string>
 	<string id="task_solv_say_2">
 		<rus>Принести приборы Андерсену</rus>
 		<eng>Bring the devices to Andersen</eng>
 		<ukr>Принести прилади Андерсену</ukr>
 		<fra>Apportez les appareils à Andersen</fra>
+		<pln>Przynieść Andersenowi urządzenia</pln>
 	</string>
 	<string id="task_kluk_ch2_0">
 		<rus>Позиция для наблюдения</rus>
 		<eng>Position for observation</eng>
 		<ukr>Позиція для спостереження</ukr>
 		<fra>Position d'observation</fra>
+		<pln>Punkt obserwacyjny</pln>
 	</string>
 	<string id="task_kluk_ch2_1">
 		<rus>Занять позицию, указанную Клыком</rus>
 		<eng>Take the position indicated by Fang</eng>
 		<ukr>Зайняти позицію, вказану Кликом</ukr>
 		<fra>Prendre une position d'observation indiquée par Fang</fra>
+		<pln>Zająć pozycję wskazaną przez Kła</pln>
 	</string>
 	<string id="task_neud_pomozch_0">
 		<rus>Помощь Клыку</rus>
 		<eng>Help Fang</eng>
 		<ukr>Допомога Клику</ukr>
 		<fra>Aider Les Crocs (Fang)</fra>
+		<pln>Pomóc Kłowi</pln>
 	</string>
 	<string id="task_neud_pomozch_1">
 		<rus>Вернуться и помочь Клыку</rus>
 		<eng>Return and help Fang</eng>
 		<ukr>Повернутися і допомогти Клику</ukr>
 		<fra>Retour et aide Fang</fra>
+		<pln>Wrócić i pomóc Kłowi</pln>
 	</string>
 	<string id="task_podval_sarkofag_0">
 		<rus>Встреча с Молнией</rus>
 		<eng>Meeting with Lightning</eng>
 		<ukr>Зустріч з Блискавкою</ukr>
 		<fra>Rencontre avec Lightning</fra>
+		<pln>Spotkanie z Błyskawicą</pln>
 	</string>
 	<string id="task_podval_sarkofag_1">
 		<rus>Найти Молнию</rus>
 		<eng>Find Lightning</eng>
 		<ukr>Знайти Блискавку</ukr>
 		<fra>Trouvez Lightning</fra>
+		<pln>Znaleźć Błyskawicę</pln>
 	</string>
 	<string id="task_podval_lima_0">
 		<rus>Странник</rus>
 		<eng>Nomad</eng>
 		<ukr>Мандрівник</ukr>
 		<fra>Le vagabond</fra>
+		<pln>Podróżnik</pln>
 	</string>
 	<string id="task_podval_lima_1">
 		<rus>Найти странника в Лиманске</rus>
 		<eng>Find Nomad in Limansk</eng>
 		<ukr>Знайти мандрівника в Лиманську</ukr>
 		<fra>Trouver un vagabond à Limansk</fra>
+		<pln>Znaleźć podróżnika w Limańsku</pln>
 	</string>
 	<string id="task_odnonog_first_0">
 		<rus>Телепорт в Саркофаге</rus>
 		<eng>Teleport in the Sarcophagus</eng>
 		<ukr>Телепорт у Саркофазі</ukr>
 		<fra>Téléportation dans le sarcophage</fra>
+		<pln>Teleport w Sarkofagu</pln>
 	</string>
 	<string id="task_odnonog_first_1">
 		<rus>Найти телепорт в Саркофаге</rus>
 		<eng>Find the teleport in Sarcophagus</eng>
 		<ukr>Знайти телепорт у Саркофагу</ukr>
 		<fra>RTrouvez le Téléport dans le Sarcophage</fra>
+		<pln>Znaleźć teleport w Sarkofagu</pln>
 	</string>
 	<string id="task_odnonog_foto_0">
 		<rus>Фото "Монолита"</rus>
 		<eng>Picture of "Monolith"</eng>
 		<ukr>Фото "Моноліту"</ukr>
 		<fra>Photo "Monolithe"</fra>
+		<pln>Zdjęcie "Monolitu"</pln>
 	</string>
 	<string id="task_odnonog_foto_1">
 		<rus>Сделать фото "Монолита"</rus>
 		<eng>Take a picture of "Monolith"</eng>
 		<ukr>Зробити фото "Моноліту"</ukr>
 		<fra>Faire une photo du "Monolithe"</fra>
+		<pln>Zrobić zdjęcie "Monolitu"</pln>
 	</string>
 	<string id="task_odnonog_foto_2">
 		<rus>Принести фото Максимилиану</rus>
 		<eng>Bring the picture to Maximilian</eng>
 		<ukr>Принести фото Максиміліану</ukr>
 		<fra>Apportez une photo à Maximilian</fra>
+		<pln>Przynieść Maksymilianowi zdjęcie</pln>
 	</string>
 	<string id="task_mesto_v_bunkere_0">
 		<rus>Засада</rus>
 		<eng>Ambush</eng>
 		<ukr>Засідка</ukr>
 		<fra>Embuscade</fra>
+		<pln>Zasadzka</pln>
 	</string>
 	<string id="task_mesto_v_bunkere_1">
 		<rus>Занять позицию и открыть дверь</rus>
 		<eng>Take a position and open the door</eng>
 		<ukr>Зайняти позицію і відкрити двері</ukr>
 		<fra>Prendre position et ouvrir la porte</fra>
+		<pln>Zająć pozycję i otworzyć drzwi</pln>
 	</string>
 	<string id="task_radist_zhiv_0">
 		<rus>Спасение Радиста</rus>
 		<eng>Radioman Rescue</eng>
 		<ukr>Порятунок Радиста</ukr>
 		<fra>Sauver le Radio</fra>
+		<pln>Uratować Radiowca</pln>
 	</string>
 	<string id="task_radist_zhiv_1">
 		<rus>Не дать погибнуть Радисту</rus>
 		<eng>Do not let the Radioman die</eng>
 		<ukr>Не дозволити загинути Радисту</ukr>
 		<fra>Ne laissez pas le Radio périr</fra>
+		<pln>Nie pozwolić zginąć Radiowcowi</pln>
 	</string>
 	<string id="task_taynik_radista_0">
 		<rus>Тайник Радиста</rus>
 		<eng>Radioman's stash</eng>
 		<ukr>Схованка Радиста</ukr>
 		<fra>Cache de Radio</fra>
+		<pln>Schowek Radiowca</pln>
 	</string>
 	<string id="task_taynik_radista_1">
 		<rus>Найти и осмотреть тайник Радиста</rus>
 		<eng>Find and examine Radioman's stash</eng>
 		<ukr>Знайти і оглянути схованку Радиста</ukr>
 		<fra>Trouver et examiner la cache de Radio</fra>
+		<pln>Znaleźć i sprawdzić schowek Radiowca</pln>
 	</string>
 	<string id="task_otkrut_seif_sadik_0">
 		<rus>Сокрытое в сейфе</rus>
 		<eng>Hidden in the safe</eng>
 		<ukr>Приховане у сейфі</ukr>
 		<fra>Caché dans le coffre-fort</fra>
+		<pln>Ukryte w sejfie </pln>
 	</string>
 	<string id="task_otkrut_seif_sadik_1">
 		<rus>Открыть сейф и уберечь Радиста</rus>
 		<eng>Open the safe and protect Radioman</eng>
 		<ukr>Відкрити сейф і зберегти Радиста</ukr>
 		<fra>Ouvrez le coffre-fort et protégez l'opérateur radio</fra>
+		<pln>Otworzyć sejf i eskortować Radiowca</pln>
 	</string>
 	<string id="task_lesnik_say_0">
 		<rus>Снайперская дуэль</rus>
 		<eng>Sniper duel</eng>
 		<ukr>Снайперська дуель</ukr>
 		<fra>Duel sniper</fra>
+		<pln>Snajperski pojedynek</pln>
 	</string>
 	<string id="task_lesnik_say_1">
 		<rus>Ликвидировать снайпера</rus>
 		<eng>Eliminate the sniper</eng>
 		<ukr>Ліквідувати снайпера</ukr>
 		<fra>Éliminer le tireur d'élite</fra>
+		<pln>Zlikwidować snajpera</pln>
 	</string>
 	<string id="task_izomorf_dial_0">
 		<rus>Фото для Клёнова</rus>
 		<eng>Picture for Klenov</eng>
 		<ukr>Фото для Кленова</ukr>
 		<fra>Photo de Klenov</fra>
+		<pln>Fotki dla Klonowa</pln>
 	</string>
 	<string id="task_izomorf_dial_1">
 		<rus>Сделать две фотографии</rus>
 		<eng>Take two pictures</eng>
 		<ukr>Зробити дві фотографії</ukr>
 		<fra>Prendre deux photos</fra>
+		<pln>Zrobić dwa zdjęcia</pln>
 	</string>
 	<string id="task_izomorf_dial_2">
 		<rus>Принести фотографии Клёнову</rus>
 		<eng>Bring the pictures to Klenov</eng>
 		<ukr>Принести фотографії Кленову</ukr>
 		<fra>Apportez des photos à Klenov</fra>
+		<pln>Zanieść zdjęcia do Klonowa</pln>
 	</string>
 	<string id="task_kuzy_artmodifik_0">
 		<rus>Компромат</rus>
 		<eng>Compromising</eng>
 		<ukr>Компромат</ukr>
 		<fra>Compromettant</fra>
+		<pln>Kompromis</pln>
 	</string>
 	<string id="task_kuzy_artmodifik_1">
 		<rus>Принести кейс с документами</rus>
 		<eng>Bring the case with documents</eng>
 		<ukr>Принести кейс з документами</ukr>
 		<fra>Apportez la malette avec des documents</fra>
+		<pln>Zdobyć walizkę z dokumentami</pln>
 	</string>
 	<string id="task_kuzy_artmodifik_2">
 		<rus>Отнести кейс Кузнецову</rus>
 		<eng>Bring the case to Kuznetsov</eng>
 		<ukr>Принести кейс Кузнєцову</ukr>
 		<fra>Apportez la malette avec des documents à Kuznetsov</fra>
+		<pln>Zanieść walizkę do Kuźniecowa</pln>
 	</string>
 	<string id="task_dovesti_muzhika_0">
 		<rus>Помощь Черномору</rus>
 		<eng>Help Chernomor</eng>
 		<ukr>Допомога Чорномору</ukr>
 		<fra>Aidez Chernomor</fra>
+		<pln>Pomóc Czarnomorowi</pln>
 	</string>
 	<string id="task_dovesti_muzhika_1">
 		<rus>Довести Черномора до стоянки сталкеров</rus>
 		<eng>Bring Chernomor to the stalkers' camp</eng>
 		<ukr>Довести Чорномора до стоянки сталкерів</ukr>
 		<fra>Amener Chernomor au camp des Stalkers</fra>
+		<pln>Doprowadzić Czarnomora do obozu stalkerów</pln>
 	</string>
 	<string id="task_plot_dialog_0">
 		<rus>Хабар сталкера</rus>
 		<eng>Stalker's stash</eng>
 		<ukr>Хабар сталкера</ukr>
 		<fra>Cache d'un Stalker</fra>
+		<pln>Stalkerskie mienie</pln>
 	</string>
 	<string id="task_plot_dialog_1">
 		<rus>Найти плоть на Свалке</rus>
 		<eng>Find Flesh at the Dump</eng>
 		<ukr>Знайти плоть на Звалищі</ukr>
 		<fra>Trouver le mutant Chair à la Décharge</fra>
+		<pln>Znaleźć mięsacza na Wysypisku</pln>
 	</string>
 	<string id="task_plot_dialog_2">
 		<rus>Принести пожитки сталкеру</rus>
 		<eng>Bring the possessions to the stalker</eng>
 		<ukr>Принести пожитки сталкеру</ukr>
 		<fra>Apporter les objets au Stalker</fra>
+		<pln>Przynieść stalkerowi jego dobytek</pln>
 	</string>
 	<string id="task_f_after_deaf_0">
 		<rus>Убийца Пантеры</rus>
 		<eng>Panther's murderer</eng>
 		<ukr>Вбивця Пантери</ukr>
 		<fra>L'assassin de Panthère</fra>
+		<pln>Morderca Pantery</pln>
 	</string>
 	<string id="task_f_after_deaf_1">
 		<rus>Найти убийцу Пантеры</rus>
 		<eng>Find the Panther's murderer</eng>
 		<ukr>Знайти вбивцю Пантери</ukr>
 		<fra>Trouver le tueur de Panthère</fra>
+		<pln>Znaleźć mordercę Pantery</pln>
 	</string>
 	<string id="task_as_ubiysa_0">
 		<rus>Чужак</rus>
 		<eng>Stranger</eng>
 		<ukr>Чужак</ukr>
 		<fra>Étranger</fra>
+		<pln>Obcy</pln>
 	</string>
 	<string id="task_as_ubiysa_1">
 		<rus>Найти чужака на базе Свободы</rus>
 		<eng>Find a stranger at the Freedom base</eng>
 		<ukr>Знайти чужака на базе Волі</ukr>
 		<fra>Trouver un étranger sur la base de la Liberté</fra>
+		<pln>Znaleźć obcego na bazie Wolności</pln>
 	</string>
 	<string id="task_kvest_vstrecha_0">
 		<rus>Подслушивание</rus>
 		<eng>Eavesdropping</eng>
 		<ukr>Підслуховування</ukr>
 		<fra>Écoute</fra>
+		<pln>Podsłuchiwanie</pln>
 	</string>
 	<string id="task_kvest_vstrecha_1">
 		<rus>Подслушать разговор</rus>
 		<eng>Eavesdrop the conversation</eng>
 		<ukr>Підслухати розмову</ukr>
 		<fra>Prêter l’oreille avec attention à la conversation</fra>
+		<pln>Podsłuchać rozmowę</pln>
 	</string>
 	<string id="task_kvest_saxar_telep_0">
 		<rus>Телепорт Сахарова</rus>
 		<eng>Sakharov's teleport</eng>
 		<ukr>Телепорт Сахарова</ukr>
 		<fra>Téléport de Sakharov</fra>
+		<pln>Teleport Sacharowa</pln>
 	</string>
 	<string id="task_kvest_saxar_telep_1">
 		<rus>Найти телепорт и воспользоваться им</rus>
 		<eng>Find the teleport and use it</eng>
 		<ukr>Знайти телепорт і скористатися ним</ukr>
 		<fra>Trouvez un téléport et utilisez-le</fra>
+		<pln>Znaleźć teleport i skorzystać z niego</pln>
 	</string>
 	<string id="task_port_na_mg_0">
 		<rus>Портал в Лиманске</rus>
 		<eng>Portal in Limansk</eng>
 		<ukr>Портал у Лиманську</ukr>
 		<fra>Portail à Limansk</fra>
+		<pln>Portal w Limańsku</pln>
 	</string>
 	<string id="task_port_na_mg_1">
 		<rus>Найти и активировать портал</rus>
 		<eng>Find and activate the portal</eng>
 		<ukr>Знайти і активувати портал</ukr>
 		<fra>Rechercher et activer le portail</fra>
+		<pln>Znaleźć i aktywować portal</pln>
 	</string>
 	<string id="task_starsh_say_0">
 		<rus>Ограбление бандитов</rus>
 		<eng>Bandits robbery</eng>
 		<ukr>Пограбунок бандитів</ukr>
 		<fra>Les Bandits voleurs</fra>
+		<pln>Ograbienie bandytów</pln>
 	</string>
 	<string id="task_starsh_say_1">
 		<rus>Добыть провиант и снаряжение</rus>
 		<eng>Get food and equipment</eng>
 		<ukr>Здобути провіант і спорядження</ukr>
 		<fra>Obtenir de la nourriture et du matériel</fra>
+		<pln>Zdobyć prowiant i wyposażenie</pln>
 	</string>
 	<string id="task_starsh_say_2">
 		<rus>Принести еду и оружие</rus>
 		<eng>Bring food and weapons</eng>
 		<ukr>Принести їжу і зброю</ukr>
 		<fra>Apportez de la nourriture et des armes</fra>
+		<pln>Przynieść jedzenie i broń</pln>
 	</string>
 	<string id="task_dci_kontrik_0">
 		<rus>Неожиданная встреча</rus>
 		<eng>Unexpected meeting</eng>
 		<ukr>Несподівана зустріч</ukr>
 		<fra>Réunion inattendue</fra>
+		<pln>Niespodziewane spotkanie</pln>
 	</string>
 	<string id="task_dci_kontrik_1">
 		<rus>Найти и защитить, если потребуется, контролёра</rus>
 		<eng>Find and protect a surveillant if required</eng>
 		<ukr>Знайти і захистити, якщо потрібно, контролера</ukr>
 		<fra>Trouver et protéger un contrôleur si nécessaire</fra>
+		<pln>Znaleźć i jeśli to konieczne, obronić kontrolera</pln>
 	</string>
 	<string id="task_uhod_iz_mg_0">
 		<rus>Побег из Мёртвого Города</rus>
 		<eng>Escape from the Dead City</eng>
 		<ukr>Втеча з Мертвого Міста</ukr>
 		<fra>S'Échapper de la ville morte</fra>
+		<pln>Ucieczka z Martwego Miasta</pln>
 	</string>
 	<string id="task_uhod_iz_mg_1">
 		<rus>Найти тайник Нормана</rus>
 		<eng>Find Norman's stash</eng>
 		<ukr>Знайти схованку Нормана</ukr>
 		<fra>Trouver la cache de Norman</fra>
+		<pln>Znaleźć schowek Normana</pln>
 	</string>
 	<string id="task_uhod_iz_mg_2">
 		<rus>Выбраться из Мёртвого Города</rus>
 		<eng>Get out of the Dead City</eng>
 		<ukr>Вибратися з Мертвого Міста</ukr>
 		<fra>Sortir de la Ville Morte</fra>
+		<pln>Wydostać się z Martwego Miasta</pln>
 	</string>
 	<string id="task_agro_tainik_norman_0">
 		<rus>Тайник на Агропроме</rus>
 		<eng>Stash in Agroprom</eng>
 		<ukr>Схованка на Агропромі</ukr>
 		<fra>Cache sur Agroprom</fra>
+		<pln>Schowek na Agropromie</pln>
 	</string>
 	<string id="task_agro_tainik_norman_1">
 		<rus>Найти тайник на Агропроме</rus>
 		<eng>Find the stash in Agroprom</eng>
 		<ukr>Знайти схованку на Агропромі</ukr>
 		<fra>Trouver une cache dans Agroprom</fra>
+		<pln>Znaleźć schowek na Agropromie</pln>
 	</string>
 	<string id="task_spasty_doka_0">
 		<rus>Освобождение</rus>
 		<eng>Release</eng>
 		<ukr>Звільнення</ukr>
 		<fra>Libération</fra>
+		<pln>Oswobodzenie</pln>
 	</string>
 	<string id="task_spasty_doka_1">
 		<rus>Спасти Доктора</rus>
 		<eng>Save Doctor</eng>
 		<ukr>Врятувати Доктора</ukr>
 		<fra>Sauvez le docteur</fra>
+		<pln>Uwolnić Doktora</pln>
 	</string>
 	<string id="task_hand_zombie_0">
 		<rus>Ходячие мертвецы</rus>
 		<eng>Walking dead</eng>
 		<ukr>Ходячі мертвяки</ukr>
 		<fra>Les morts-vivants</fra>
+		<pln>Żywe trupy</pln>
 	</string>
 	<string id="task_hand_zombie_1">
 		<rus>Собрать 40 рук зомби</rus>
 		<eng>Get 40 zombie's hands</eng>
 		<ukr>Принести 40 Рук Зомбі</ukr>
 		<fra>Récupérer 40 mains de Zombies</fra>
+		<pln>Zebrać 40 rąk zombie</pln>
 	</string>
 	<string id="task_hand_zombie_2">
 		<rus>Принести руки зомби Акиму</rus>
 		<eng>Bring zombie's hands to Akim</eng>
 		<ukr>Принести руки зомбі Якиму</ukr>
 		<fra>Apportez les mains de Zombies à Akim</fra>
+		<pln>Przynieść Akimowi ręce zombie</pln>
 	</string>
 	<string id="task_doc_0">
 		<rus>Старые документы: часть 1</rus>
 		<eng>Old documents: part 1</eng>
 		<ukr>Старі документи: частина 1</ukr>
 		<fra>Vieux documents: partie 1 1</fra>
+		<pln>Stare dokumenty: część 1</pln>
 	</string>
 	<string id="task_doc_1">
 		<rus>Найти старые документы</rus>
 		<eng>Find old documents</eng>
 		<ukr>Знайти старі документи</ukr>
 		<fra>Trouver des documents anciens</fra>
+		<pln>Znaleźć stare dokumenty</pln>
 	</string>
 	<string id="task_doc_2">
 		<rus>Принести документы Акиму</rus>
 		<eng>Bring the documents to Akim</eng>
 		<ukr>Принести документи Якиму</ukr>
 		<fra>Apportez des documents à Akim</fra>
+		<pln>Przynieść dokumenty do Akima</pln>
 	</string>
 	<string id="task_doc_2_0">
 		<rus>Старые документы: часть 2</rus>
 		<eng>Old documents: part 2</eng>
 		<ukr>Старі документи: частина 2</ukr>
 		<fra>Vieux documents: partie 2</fra>
+		<pln>Stare dokumenty: część 2</pln>
 	</string>
 	<string id="task_doc_2_1">
 		<rus>Найти старые документы</rus>
 		<eng>Find old documents</eng>
 		<ukr>Знайти старі документи</ukr>
 		<fra>Trouver des documents anciens</fra>
+		<pln>Znaleźć stare dokumenty</pln>
 	</string>
 	<string id="task_doc_2_2">
 		<rus>Принести документы Акиму</rus>
 		<eng>Bring the documents to Akim</eng>
 		<ukr>Принести документи Якиму</ukr>
 		<fra>Apportez des documents à Akim</fra>
+		<pln>Przynieść dokumenty do Akima</pln>
 	</string>
 	<string id="task_doc_3_0">
 		<rus>Старые документы: часть 3</rus>
 		<eng>Old documents: part 3</eng>
 		<ukr>Старі документи: частина 3</ukr>
 		<fra>Documents anciens: partie 3</fra>
+		<pln>Stare dokumenty: część 3</pln>
 	</string>
 	<string id="task_doc_3_1">
 		<rus>Найти старые документы</rus>
 		<eng>Find old documents</eng>
 		<ukr>Знайти старі документи</ukr>
 		<fra>Trouver des documents anciens</fra>
+		<pln>Znaleźć stare dokumenty</pln>
 	</string>
 	<string id="task_doc_3_2">
 		<rus>Принести документы Акиму</rus>
 		<eng>Bring the documents to Akim</eng>
 		<ukr>Принести документи Якиму</ukr>
 		<fra>Apportez des documents à Akim</fra>
+		<pln>Przynieść dokumenty do Akima</pln>
 	</string>
 	<string id="task_doc_4_0">
 		<rus>Старые документы: часть 4</rus>
 		<eng>Old documents: part 4</eng>
 		<ukr>Старі документи: частина 4</ukr>
 		<fra>Documents anciens: partie 4</fra>
+		<pln>Stare dokumenty: część 4</pln>
 	</string>
 	<string id="task_doc_4_1">
 		<rus>Найти старые документы и ПДА</rus>
 		<eng>Find old documents and PDA</eng>
 		<ukr>Знайти старі документи і КПК</ukr>
 		<fra>Trouver des documents anciens et PDA</fra>
+		<pln>Znaleźć stare dokumenty i PDA</pln>
 	</string>
 	<string id="task_doc_4_2">
 		<rus>Отнести найденное Акиму</rus>
 		<eng>Bring the found to Akim</eng>
 		<ukr>Віднести знайдене Якиму</ukr>
 		<fra>Amnerver ce que vous avez trouvé à Akim</fra>
+		<pln>Przynieść wszystko Akimowi</pln>
 	</string>
 	<string id="task_doc_tvar_0">
 		<rus>"От каждой твари по части"</rus>
 		<eng>"A part of each creature"</eng>
 		<ukr>"Від кожної тварі по частині"</ukr>
 		<fra>"Une partie de chaque créature"</fra>
+		<pln>"Od każdej bestii po kawałku"</pln>
 	</string>
 	<string id="task_doc_tvar_1">
 		<rus>Найти "от каждой твари по части"</rus>
 		<eng>Find "a part of each creature"</eng>
 		<ukr>Знайти "від кожної тварі по частині"</ukr>
 		<fra>Trouvez "Une partie de chaque créature"</fra>
+		<pln>Znaleźć po jednym trofeum z każdego mutanta</pln>
 	</string>
 	<string id="task_doc_tvar_2">
 		<rus>Отдать части монстров Акиму</rus>
 		<eng>Give the monsters' parts to Akim</eng>
 		<ukr>Віддати частини монстрів Якиму</ukr>
 		<fra>Donnez des parties de monstres à Akim</fra>
+		<pln>Oddać Akimowi trofea z mutantów</pln>
 	</string>
 	<string id="task_qeast_q_1_0">
 		<rus>Артефакты для Креста</rus>
 		<eng>Artifacts for Cross</eng>
 		<ukr>Артефакти для Хреста</ukr>
 		<fra>Des Artéfacts pour la Croix</fra>
+		<pln>Artefakty dla Krzyża</pln>
 	</string>
 	<string id="task_qeast_q_1_1">
 		<rus>Найти 15 артефактов</rus>
 		<eng>Find 15 artifacts</eng>
 		<ukr>Найти 15 артефактів</ukr>
 		<fra>Trouver 15 Artéfacts</fra>
+		<pln>Zebrać 15 artefaktów</pln>
 	</string>
 	<string id="task_qeast_q_1_2">
 		<rus>Принести арты Кресту</rus>
 		<eng>Bring artifacts to Cross</eng>
 		<ukr>Принести арти Хресту</ukr>
 		<fra>Amener les Artéfacts à la Croix</fra>
+		<pln>Zanieść artefakty do Krzyża</pln>
 	</string>
 	<string id="task_qeast_b_0">
 		<rus>Аномальные «Бизоны»</rus>
 		<eng>Abnormal "Bison"</eng>
 		<ukr>Аномальні «Бізони»</ukr>
 		<fra>«Bison» Anormal</fra>
+		<pln>Anormalne "Bizony"</pln>
 	</string>
 	<string id="task_qeast_b_1">
 		<rus>Найти 6 аномальных «Бизонов»</rus>
 		<eng>Find 6 abnormal "Bison"</eng>
 		<ukr>Знайти 6 аномальних «Бізонів»</ukr>
 		<fra>Trouver 6 "Bison" anormaux</fra>
+		<pln>Zdobyć 6 anormalnych "Bizonów"</pln>
 	</string>
 	<string id="task_qeast_b_2">
 		<rus>Принести пушки Кресту</rus>
 		<eng>Bring guns to Cross</eng>
 		<ukr>Принести пушки Хресту</ukr>
 		<fra>Apporter les armes à feu à la Croix</fra>
+		<pln>Przynieść broń do Krzyża</pln>
 	</string>
 	<string id="task_teleporter_0">
 		<rus>Ручной телепорт</rus>
 		<eng>Hand teleport</eng>
 		<ukr>Ручний телепорт</ukr>
 		<fra>Téléport manuel</fra>
+		<pln>Ręczny teleport</pln>
 	</string>
 	<string id="task_teleporter_1">
 		<rus>Отыскать военного с ручным телепортом</rus>
 		<eng>Find the military with a hand teleport</eng>
 		<ukr>Відшукати військового з ручним телепортом</ukr>
 		<fra>Trouvez les militaires avec un téléport manuel</fra>
+		<pln>Odnaleźć żołnierza z ręcznym teleportem</pln>
 	</string>
 	<string id="task_teleporter_2">
 		<rus>Принести телепорт Кресту</rus>
 		<eng>Bring the teleport to Cross</eng>
 		<ukr>Принести телепорт Хресту</ukr>
 		<fra>Apporter le téléport à la Croix</fra>
+		<pln>Zanieść teleport Krzyżowi</pln>
 	</string>
 	<string id="task_flamethrower_quest_task_0">
 		<rus>Починка огнемёта</rus>
 		<eng>Flamethrower repair</eng>
 		<ukr>Ремонт вогнемета</ukr>
 		<fra>Réparation du lance-flammes</fra>
+		<pln>Naprawa miotacza ognia</pln>
 	</string>
 	<string id="task_flamethrower_quest_task_1">
 		<rus>Найти артефакт "Огненный шар"</rus>
 		<eng>Find the "Fireball" artifact</eng>
 		<ukr>Знайти артефакт "Вогняна куля"</ukr>
 		<fra>Trouver l'Artéfact "Boule de feu"</fra>
+		<pln>Zdobyć artefakt "Ognista Kula"</pln>
 	</string>
 	<string id="task_flamethrower_quest_task_2">
 		<rus>Найти трубки</rus>
 		<eng>Find tubes</eng>
 		<ukr>Знайти трубки</ukr>
 		<fra>Trouver des tubes</fra>
+		<pln>Znaleźć rurki</pln>
 	</string>
 	<string id="task_flamethrower_quest_task_3">
 		<rus>Найти манометр (датчик давления)</rus>
 		<eng>Find a manometer (pressure sensor)</eng>
 		<ukr>Знайти манометр (датчик тиску)</ukr>
 		<fra>Trouvez un manomètre (capteur de pression)</fra>
+		<pln>Znaleźć manometr (miernik ciśnienia)</pln>
 	</string>
 	<string id="task_flamethrower_quest_task_4">
 		<rus>Найти горелку</rus>
 		<eng>Find a burner</eng>
 		<ukr>Знайти пальник</ukr>
 		<fra>Trouver un brûleur</fra>
+		<pln>Znaleźć palnik</pln>
 	</string>
 	<string id="task_flamethrower_quest_task_5">
 		<rus>Найти 10 бутылок водки</rus>
 		<eng>Find 10 bottles of vodka</eng>
 		<ukr>Знайти 10 пляшок горілки</ukr>
 		<fra>Trouvez 10 bouteilles de vodka</fra>
+		<pln>Zdobyć 10 butelek wódki</pln>
 	</string>
 	<string id="task_flamethrower_quest_task_6">
 		<rus>Отнести найденное Шурупу</rus>
 		<eng>Find the found to Shurup</eng>
 		<ukr>Віднести знайдене Шурупу</ukr>
 		<fra>Ramenez à Vis (Shurup) les trouvailles</fra>
+		<pln>Zanieść wszystko do Wkręta</pln>
 	</string>
 </string_table>

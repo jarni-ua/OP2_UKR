@@ -3,30 +3,35 @@
 		<eng>%s, they say, you can charge batteries for exoskeletons?</eng>
 		<ukr>%s, кажуть, ти акумулятори до екзоскелетів заряджати можеш?</ukr>
 		<fra>%s, Chargez-vous les batteries pour les exosquelettes?</fra>
+		<pln>%s, mówią, że możesz naładować akumulatory do egzoszkieletów?</pln>
 	</string>
 	<string id="ec_hello_cs_2">
 		<rus>Да, давай посмотрим, что там у тебя есть...\n</rus>
 		<eng>Yes, let's see - what do you have there...\n</eng>
 		<ukr>Так, давай подивимося, що там у тебе є...\n</ukr>
 		<fra>Oui, voyons ce que vous avez là...\n</fra>
+		<pln>Zgadza się, zobaczmy, co tam masz...\n</pln>
 	</string>
 	<string id="ec_hello_cs_3">
 		<rus>На данный момент у тебя пригодных для зарядки аккумуляторов - %%c[green]%d%%c[default],\nстоить это будет - %%c[green]%d%%c[default]%s\nи займёт часов - %%c[green]%s%%c[default].\nБудешь заряжать?</rus>
 		<eng>At the moment you have %%c[green]%d%%c[default] batteries, able to charge\nit will cost you - %%c[green]%d%%c[default]%s\nand it will take about %%c[green]%s%%c[default] hours.\nWill you charge?</eng>
 		<ukr>На даний момент в тебе придатних для зарядки акумуляторів - %%c[green]%d%%c[default],\nкоштувати це буде - %%c[green]%d%%c[default]%s\nта займе годин - %%c[green]%s%%c[default].\nБудешь заряджати?</ukr>
 		<fra>A partir du  moment ou vous disposez de batteries appropriées pour la charge - %%c[green]%d%%c[default],\ncela coûtera - %%c[green]%d%%c[default]%s\net il faudra environ - %%c[green]%s%%c[default]heures.\nVous les chargez?</fra>
+		<pln>Na tę chwilę posiadasz nadających się do ładowania akumulatorów - %%c[green]%d%%c[default],\nbędzie to kosztować - %%c[green]%d%%c[default]%s\ni potrwa godzin - %%c[green]%s%%c[default].\nBędziesz ładować?</pln>
 	</string>	
 	<string id="ec_ready_charge">
 		<rus>Да, всё устраивает. Заряжай!</rus>
 		<eng>Yes, everything suits. Charge!</eng>
 		<ukr>Так, все влаштовує. Заряджай!</ukr>
 		<fra>Oui, chargez l'ensemble!</fra>
+		<pln>Tak, wszystko pasuje. Ładuj!</pln>
 	</string>
 	<string id="ec_complete_charge">
 		<rus>Меченый, готовы твои батарейки! Приходи - забирай.</rus>
 		<eng>Marked One, your batteries are ready! Come and get em.</eng>
 		<ukr>Мічений, готові твої батарейки! Приходь - забирай.</ukr>
 		<fra>Strelok, vos batteries sont chargées ,vous pouvez venir les prendre.</fra>
+		<pln>Naznaczony, gotowe twoje baterie! Przyjdź je odebrać.</pln>
 	</string>	
 	
 	<string id="ec_hello_gg_complete_1">
@@ -34,29 +39,34 @@
 		<eng>%s, are the batteries ready?</eng>
 		<ukr>%s, акумулятори готові?</ukr>
 		<fra>%s, Les batteries sont-elles chargées?</fra>
+		<pln>%s, akumulatory gotowe?</pln>
 	</string>
 	<string id="ec_hello_cs_complete_1">
 		<rus>Да, забирай, всё заряжено на максимум!</rus>
 		<eng>Yes, take it, everything is charged to the maximum!</eng>
 		<ukr>Так, забирай, все заряджено на максимум!</ukr>
 		<fra>Oui, prenez-les, elles sont au maximum de leur capacité!</fra>
+		<pln>Tak, zabieraj, wszystkie załadowane do maksimum!</pln>
 	</string>
 	<string id="ec_complete_gg_1">
 		<rus>Давай, точно лишними не будут!</rus>
 		<eng>Allright, they can't hurt to!</eng>
 		<ukr>Давай, точно зайвими не будуть!</ukr>
 		<fra>Allez ce ne sera pas de trop!</fra>
+		<pln>Dawaj, na pewno się przydadzą!</pln>
 	</string>	
 	<string id="ec_complete_gg_later_1">
 		<rus>Пусть у тебя пока полежат, заберу позже.</rus>
 		<eng>Keep for a while. I'll pick them up later.</eng>
 		<ukr>Нехай у тебе поки полежать, заберу пізніше.</ukr>
 		<fra>Gardez-les un moment je reviendrai plus tard.</fra>
+		<pln>Niech jeszcze u ciebie poleżą, później je wezmę.</pln>
 	</string>	
 	<string id="ui_free_charger">
 		<rus>Освободите зарядное устройство перед перемещением!</rus>
 		<eng>Free charger before movement!</eng>
 		<ukr>Звільніть зарядний пристрій перед переміщенням!</ukr>
 		<fra>===Освободите зарядное устройство перед перемещением!</fra>
+		<pln>Przed przemieszczeniem odłącz przenośną ładowarkę!</pln>
 	</string>
 	

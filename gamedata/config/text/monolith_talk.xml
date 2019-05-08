@@ -5,42 +5,49 @@
 		<eng>You reached your goal, stalker.</eng>
 		<ukr>Ти досяг своєї мети, сталкер.</ukr>
 		<fra>Vous avez atteint votre objectif,Stalker.</fra>
+		<pln>Osiągnąłes swój cel, stalkerze.</pln>
 	</string>
 	<string id="hello_2">
 		<rus>Ты пришёл ко мне, сталкер.</rus>
 		<eng>You came to me, stalker.</eng>
 		<ukr>Ти прийшов до мене, сталкер.</ukr>
 		<fra>Vous êtes venu me voir, Stalker.</fra>
+		<pln>Przyszedłeś do mnie, stalkerze.</pln>
 	</string>
 	<string id="hello_3">
 		<rus>Достойная награда ожидает тебя, сталкер.</rus>
 		<eng>A worthy reward awaits you, stalker.</eng>
 		<ukr>Гідна нагорода чекає на тебе, сталкер.</ukr>
 		<fra> Une récompense digne de ce nom vous attend,Stalker.</fra>
+		<pln>Czeka na ciebie nagroda, stalkerze.</pln>
 	</string>
 	<string id="hello_4">
 		<rus>Твой путь завершён, сталкер.</rus>
 		<eng>Your path is complete, stalker.</eng>
 		<ukr>Твій шлях завершений, сталкер.</ukr>
 		<fra>Votre chemin est terminé,Stalker.</fra>
+		<pln>Twoja droga się skończyła, stalkerze.</pln>
 	</string>
 	<string id="hello_5">
 		<rus>Я вижу твоё желание, сталкер.</rus>
 		<eng>I see your desire, stalker.</eng>
 		<ukr>Я бачу твоє бажання, сталкер.</ukr>
 		<fra>Je vois votre désir,Stalker.</fra>
+		<pln>Widzę twoje życzenie, stalkerze.</pln>
 	</string>
 	<string id="hello_6">
 		<rus>Я исполню твоё желание, сталкер.</rus>
 		<eng>I will fulfill your desire, stalker.</eng>
 		<ukr>Я виконаю твоє бажання, сталкер.</ukr>
 		<fra>Je vais répondre à votre souhait,Stalker...</fra>
+		<pln>Spełnię twoje życzenie, stalkerze.</pln>
 	</string>
 	<string id="hello_7">
 		<rus>Я дам тебе то что захочешь, сталкер.</rus>
 		<eng>I'll give you what you want, stalker.</eng>
 		<ukr>Я дам тобі те що захочеш, сталкер.</ukr>
 		<fra>Je vais vous donner ce que vous voulez,Stalker.</fra>
+		<pln>Dam ci to, czego zechcesz, stalkerze.</pln>
 	</string>
 	
 	<string id="finish_1">
@@ -48,30 +55,35 @@
 		<eng>A worthy reward awaits you, stalker.</eng>
 		<ukr>Гідна нагорода тебе чекає, сталкер.</ukr>
 		<fra>Une récompense digne de ce nom vous attend,Stalker.</fra>
+		<pln>Czeka na ciebie nagroda, stalkerze.</pln>
 	</string>
 	<string id="finish_2">
 		<rus>Ты получил то что заслужил, сталкер.</rus>
 		<eng>You got what you deserve, stalker.</eng>
 		<ukr>Ти отримав те що заслужив, сталкер.</ukr>
 		<fra>Vous avez ce que vous méritez,Stalker.</fra>
+		<pln>Dostałeś to, na co zasłużyłeś, stalkerze.</pln>
 	</string>
 	<string id="finish_3">
 		<rus>Твоё желание исполнится, сталкер.</rus>
 		<eng>Your wish will come true, stalker.</eng>
 		<ukr>Твоє бажання здійсниться, сталкер.</ukr>
 		<fra>Votre souhait sera exaucé,Stalker.</fra>
+		<pln>Twoje życzenie zostanie spełnione, stalkerze.</pln>
 	</string>
 	<string id="finish_4">
 		<rus>Ты выбрал свой путь, сталкер.</rus>
 		<eng>You chose your path, stalker.</eng>
 		<ukr>Ти вибрав свій шлях, сталкер.</ukr>
 		<fra>Vous avez choisi votre chemin, Stalker.</fra>
+		<pln>Wybrałeś swoją drogę, stalkerze.</pln>
 	</string>
 	<string id="finish_5">
 		<rus>Награда достойна тебя, сталкер.</rus>
 		<eng>The reward is worthy of you, stalker.</eng>
 		<ukr>Нагорода гідна тебе, сталкер.</ukr>
 		<fra>La récompense est digne de vous,Stalker.</fra>
+		<pln>Nagroda godna ciebie, stalkerze.</pln>
 	</string>
 	
 	<string id="wish_1">
@@ -79,35 +91,41 @@
 		<eng>I want the Zone to disappear!</eng>
 		<ukr>Я хочу щоб Зона зникла!</ukr>
 		<fra>Je veux que la zone disparaisse!</fra>
+		<pln>Chciałbym, żeby Zona zniknęła!</pln>
 	</string>
 	<string id="wish_2">
 		<rus>Дай мне богатства!</rus>
 		<eng>Give me the wealth!</eng>
 		<ukr>Дай мені багатства!</ukr>
 		<fra>Donnez-moi la richesse!</fra>
+		<pln>Chcę być bogaty!</pln>
 	</string>
 	<string id="wish_3">
 		<rus>Дай мне власть над миром!</rus>
 		<eng>Give me the power over the world!</eng>
 		<ukr>Дай мені владу над світом!</ukr>
 		<fra>Donnez-moi le pouvoir sur le monde!</fra>
+		<pln>Chce rządzić światem!</pln>
 	</string>
 	<string id="wish_4">
 		<rus>Человечество должно быть уничтожено!</rus>
 		<eng>Humanity must be destroyed!</eng>
 		<ukr>Людство повинно бути знищено!</ukr>
 		<fra>L’humanité doit être détruite!</fra>
+		<pln>Ludzkość musi zostać zniszczona!</pln>
 	</string>
 	<string id="wish_5">
 		<rus>Дай мне бессмертие!</rus>
 		<eng>Give me immortality!</eng>
 		<ukr>Дай мені безсмертя!</ukr>
 		<fra>Donnez-moi l'immortalité!</fra>
+		<pln>Chce być nieśmiertelny!</pln>
 	</string>
 	<string id="wish_6">
 		<rus>Хочу, чтобы можно было получить любую вещь за деньги!</rus>
 		<eng>I want to be able to get any thing for money!</eng>
 		<ukr>Хочу, щоб можна було отримати будь-яку річ за гроші!</ukr>
 		<fra>Je veux pouvoir obtenir n'importe quoi pour de l'argent!</fra>
+		<pln>Chcę mieć wszystko za pieniądze!</pln>
 	</string>
 </string_table>
