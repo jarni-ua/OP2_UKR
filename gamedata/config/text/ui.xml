@@ -411,7 +411,7 @@
 		<eng>Radiation resist</eng>
 		<ukr>Опір радіації</ukr>
 		<fra>Résistance aux radiations</fra>
-		<pln>Odporność na promien.</pln>
+		<pln>Odp. na radiację.</pln>
 	</string>
 	<string id="ui_inv_outfit_shock_protection">
 		<rus>Электрошок</rus>
@@ -1140,14 +1140,14 @@
 		<eng>Use bandage</eng>
 		<ukr>Перев'язка</ukr>
 		<fra>Utiliser un bandage</fra>
-		<pln>Uzyj bandażą</pln>
+		<pln>Użyj bandaża</pln>
 	</string>
 	<string id="kb_use_medkit">
 		<rus>Использовать аптечку</rus>
 		<eng>Use medkit</eng>
 		<ukr>Використати аптечку</ukr>
 		<fra>Utilisez la trousse de secours</fra>
-		<pln>Uzyj apteczkę</pln>
+		<pln>Użyj apteczkę</pln>
 	</string>
 	<string id="kb_vote_begin">
 		<rus>Начать голосование</rus>
@@ -2245,7 +2245,7 @@
 		<eng>Show progress bar</eng>
 		<ukr>Показувати полосу завантаження</ukr>
 		<fra>Afficher la barre de téléchargement</fra>
-		<pln>Pokazuj linijke postępu</pln>
+		<pln>Pokazuj linijkę postępu</pln>
 	</string>
 	<string id="ui_options_op21_ls_text_offset_x">
 		<rus>Смещение текста по оси X</rus>
@@ -2372,7 +2372,7 @@
 			%c[255,255,128,128]ATTENTION!\n
 			Soyez prudent lorsque vous utilisez ces options. Leur utilisation fréquente facilite et accélère grandement le jeu, mais peut priver complètement le plaisir du jeu.%c[default]</fra>
 		<pln>\n
-			%c[255,255,128,128]ÂÍČĚŔÍČĹ!\n
+			%c[255,255,128,128]UWAGA!\n
 			Stosuj te opcje ostrożnie. Ich częste używanie znacznie ułatwia i przyspiesza rozgrywkę, ale może kompletnie pozbawić Cię przyjemności z gry.%c[default]</pln>
 	</string>
 	<string id="god_used">
@@ -2506,7 +2506,7 @@
 		<eng>Язык/Language/Мова</eng>
 		<ukr>Язык/Language/Мова</ukr>
 		<fra>Langage</fra>
-		<pln>Język/Language/Ěîâŕ</pln>
+		<pln>Język/Language</pln>
 	</string>
 	<string id="ui_mm_langcode">
 		<rus>Кодировка</rus>
