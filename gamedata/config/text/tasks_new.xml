@@ -26,7 +26,7 @@
 		<eng>Fox's gun</eng>
 		<ukr>Пушка Лиса</ukr>
 		<fra>L'arme de Fox</fra>
-		<pln>Broń Lisa</pln>
+		<pln>Strzelba Lisa</pln>
 	</string>
 	<string id="task_fox_kriss_1">
 		<rus>Взять посылку у Прапора</rus>
@@ -40,7 +40,7 @@
 		<eng>Bring the gun to Fox</eng>
 		<ukr>Принести ствол Лису</ukr>
 		<fra>Apporter l'arme à Fox</fra>
-		<pln>Przynieć giwerę Lisowi</pln>
+		<pln>Przynieć Lisowi strzelbę</pln>
 	</string>
 	<string id="task_prapor_jaw_0">
 		<rus>Штык-нож</rus>
@@ -54,7 +54,7 @@
 		<eng>Get the bayonet knife to MKb.42H</eng>
 		<ukr>Роздобути багнет до MKb.42Н</ukr>
 		<fra>Obtenez une baïonnette pour MKb.42N</fra>
-		<pln>Zdobyć bagnet do MKb.42?</pln>
+		<pln>Zdobyć bagnet do MKb.42H</pln>
 	</string>
 	<string id="task_prapor_jaw_2">
 		<rus>Принести штык-нож Прапору</rus>
@@ -180,14 +180,14 @@
 		<eng>Blend's flash drive</eng>
 		<ukr>Флешка Бленда</ukr>
 		<fra>Clé USB de Blend</fra>
-		<pln>Fleszka Blenda</pln>
+		<pln>Fleszka Blendy</pln>
 	</string>
 	<string id="task_bland_flash_1">
 		<rus>Найти Бленда и забрать флешку</rus>
 		<eng>Find Blend and pick up the USB flash drive</eng>
 		<ukr>Знайти Бленда і забрати флешку</ukr>
 		<fra>Trouvez Blend et prenez le lecteur flash</fra>
-		<pln>Znaleźć Blenda i wziąć fleszkę</pln>
+		<pln>Znaleźć Blendę i wziąć fleszkę</pln>
 	</string>
 	<string id="task_bland_flash_2">
 		<rus>Принести флешку Фримену</rus>
@@ -236,7 +236,7 @@
 		<eng>Pick up the package from Ivashchenko</eng>
 		<ukr>Забрати посилку у Іващенко</ukr>
 		<fra>Prenez le colis d'Ivashchenko</fra>
-		<pln>Wziąć przesyłkę od Iwaszczenko</pln>
+		<pln>Zabrać Iwaszczenko przesyłkę</pln>
 	</string>
 	<string id="task_dan_grab_3">
 		<rus>Принести посылку Дэну</rus>
@@ -278,35 +278,35 @@
 		<eng>Take a psy-helmet from Dan</eng>
 		<ukr>Взяти у Дена псі-шолом</ukr>
 		<fra>Prenez le casque psi de Dan</fra>
-		<pln>Wziąć od Dana psi-hełm</pln>
+		<pln>Wziąć od Dana hełm psioniczny</pln>
 	</string>
 	<string id="task_yakut_treasure_2">
 		<rus>Найти ноутбук Архары</rus>
 		<eng>Find Arhara's laptop</eng>
 		<ukr>Знайти ноутбук Архари</ukr>
 		<fra>Trouver l'ordinateur portable d'Arhara</fra>
-		<pln>Znaleźć laptop Arhary</pln>
+		<pln>Znaleźć notebook Arhary</pln>
 	</string>
 	<string id="task_yakut_treasure_3">
 		<rus>Отнести ноутбук брату Архары</rus>
 		<eng>Take the laptop to Arhara's brother</eng>
 		<ukr>Принести ноутбук брату Архари</ukr>
 		<fra>Apportez l'ordinateur portable au frère d'Arhara</fra>
-		<pln>Odnieść laptop bratu Arhary</pln>
+		<pln>Odnieść notebook bratu Arhary</pln>
 	</string>
 	<string id="task_dan_flash_0">
 		<rus>Секреты учёных</rus>
 		<eng>Secrets of scientists</eng>
 		<ukr>Секрети вчених</ukr>
 		<fra>Secrets de scientifiques</fra>
-		<pln>Tajemnice uczonych</pln>
+		<pln>Tajemnice naukowców</pln>
 	</string>
 	<string id="task_dan_flash_1">
 		<rus>Найти сведения о работе учёных</rus>
 		<eng>Find information about the work of scientists</eng>
 		<ukr>Знайти відомості про роботу вчених</ukr>
 		<fra>Trouvez des informations sur le travail des scientifiques</fra>
-		<pln>Znaleźć informacje o pracach uczonych</pln>
+		<pln>Znaleźć informacje o pracach naukowców</pln>
 	</string>
 	<string id="task_dan_flash_2">
 		<rus>Отнести найденное Дэну</rus>
@@ -432,7 +432,7 @@
 		<eng>Trap for the Brute II</eng>
 		<ukr>Пастка для Звіра, частина 2</ukr>
 		<fra>Piège pour la Brute, partie 2</fra>
-		<pln>Pułapka dla Zwierza, część 2</pln>
+		<pln>Pułapka na Zwierza, część 2</pln>
 	</string>
 	<string id="task_prizrak_finalzver_1">
 		<rus>Встретиться с группой Призрака</rus>
@@ -460,7 +460,7 @@
 		<eng>Holdup</eng>
 		<ukr>Пограбування</ukr>
 		<fra>Vol</fra>
-		<pln>Napad</pln>
+		<pln>Rabunek</pln>
 	</string>
 	<string id="task_yakut_ograblen_1">
 		<rus>Расспросить возможных свидетелей</rus>
@@ -474,7 +474,7 @@
 		<eng>Find the supposed robbers and return your PDA</eng>
 		<ukr>Знайти ймовірних грабіжників і повернути свій КПК</ukr>
 		<fra>Trouvez les voleurs présumés et retrouvez votre PDA</fra>
-		<pln>Znaleźć prawdopodobnych napastników i odzyskać swój PDA</pln>
+		<pln>Znaleźć prawdopodobnych złodziei i odzyskać swoje PDA</pln>
 	</string>
 	<string id="task_yakut_ograblen_3">
 		<rus>Поговорить с Якутом</rus>
@@ -488,14 +488,14 @@
 		<eng>The Owl's stash</eng>
 		<ukr>Схованка Сича</ukr>
 		<fra>Cache du Hibou</fra>
-		<pln>Schowek Sycza</pln>
+		<pln>Schowek Sowy</pln>
 	</string>
 	<string id="task_treasure_sysh_1">
 		<rus>Найти записку Сыча на Заводе</rus>
 		<eng>Find a Owl's note at the Factory</eng>
 		<ukr>Знайти записку Сича на Заводі</ukr>
 		<fra>Trouver une note pour le Hibou à l'usine</fra>
-		<pln>Znaleźć notatkę Sycza w Zakładzie</pln>
+		<pln>Znaleźć notatkę Sowy w Zakładzie Metalurgicznym</pln>
 	</string>
 	<string id="task_treasure_sysh_2">
 		<rus>Принести записку Призраку</rus>
@@ -558,28 +558,28 @@
 		<eng>Serviceman's PDA </eng>
 		<ukr>КПК військового</ukr>
 		<fra>PDA militaire</fra>
-		<pln>PDA wojskowego</pln>
+		<pln>PDA żołnierza</pln>
 	</string>
 	<string id="task_bandranen_pda_1">
 		<rus>Отыскать бандита, укравшего у военного его ПДА</rus>
 		<eng>Find the bandit who stole serviceman's PDA</eng>
 		<ukr>Відшукати бандита який вкрав у військового його КПК</ukr>
 		<fra>Trouvez le bandit qui a volé le PDA du militaire</fra>
-		<pln>Znaleźć bandytę, który ukradł PDA wojskowego</pln>
+		<pln>Znaleźć bandytę, który ukradł PDA żołnierza</pln>
 	</string>
 	<string id="task_bandranen_pda_2">
 		<rus>Найти бандита, забравшего себе ПДА военного у раненого бандита</rus>
 		<eng>Find a bandit who took serviceman's PDA from a wounded bandit</eng>
 		<ukr>Знайти бандита який забрав собі КПК військового у пораненого бандита</ukr>
 		<fra>Trouvez le bandit qui a pris le PDA du militaire a un bandirt blessé</fra>
-		<pln>Znaleźć bandytę, zabrał PDA wojskowego rannemu bandycie</pln>
+		<pln>Znaleźć bandytę, zabrał PDA żołnierza rannemu bandycie</pln>
 	</string>
 	<string id="task_bandranen_pda_3">
 		<rus>Найти человека, у которого ПДА военного</rus>
 		<eng>Find a man who has a serviceman's PDA</eng>
 		<ukr>Знайти людину у якої КПК військового</ukr>
 		<fra>Trouver une personne qui a un PDA militaire</fra>
-		<pln>Znaleźć człowieka, który ma PDA wojskowego</pln>
+		<pln>Znaleźć człowieka, który ma PDA żołnierza</pln>
 	</string>
 	<string id="task_prapor_apt_0">
 		<rus>Научные аптечки</rus>
@@ -621,21 +621,21 @@
 		<eng>Repel the zombie attack and collect weapons chokes</eng>
 		<ukr>Відбити атаку зомбованих і зібрати збройні чоки</ukr>
 		<fra>Combattez l'attaque des zombies et récupérez les silencieux des armes à feu</fra>
-		<pln>Odeprzeć atak zombifikowanych i zebrać dławiki broni</pln>
+		<pln>Odeprzeć atak zzombifikowanych i zebrać czoki</pln>
 	</string>
 	<string id="task_barrem_talk_3">
 		<rus>Убить псионика, контролирующего зомбированных</rus>
 		<eng>Kill a psionic controlling zombies</eng>
 		<ukr>Вбити псіоніка, який контролює зомбованих</ukr>
 		<fra>Tuez le psionique qui contrôle les Zombies</fra>
-		<pln>Zabić psionika, kontrolującego zombifikowanych</pln>
+		<pln>Zabić psionika, kontrolującego zzombifikowanych</pln>
 	</string>
 	<string id="task_barrem_talk_4">
 		<rus>Отнести насадки Бармену</rus>
 		<eng>Bring chokes to Barkeep</eng>
 		<ukr>Віднести насадки Бармену</ukr>
 		<fra>Apporter les silencieux au Barman</fra>
-		<pln>Odnieść nasadki Barmanowi</pln>
+		<pln>Odnieść czoki do Barmana</pln>
 	</string>
 	<string id="task_ara_flash_0">
 		<rus>Пропавшая экспедиция</rus>
@@ -936,7 +936,7 @@
 		<eng>Bring the TV to the Clear Sky man</eng>
 		<ukr>Принести телевізор чистонебівцю</ukr>
 		<fra>Apportez la télévision au Stalker de Clear Sky</fra>
-		<pln>Przynieść telewizor czystoniebowcowi</pln>
+		<pln>Przynieść telewizor na bazę Czystego Nieba</pln>
 	</string>
 	<string id="task_gigant_red_0">
 		<rus>Псевдоохота</rus>
@@ -999,14 +999,14 @@
 		<eng>Take the jammer to Skinflint for recoding</eng>
 		<ukr>Віднести "глушник" Скнарі на перекалібровку</ukr>
 		<fra>Prenez le brouilleur à Skinflint pour ré encodage</fra>
-		<pln>Odnieść zagłuszacz Kutwie do przekodowania</pln>
+		<pln>Odnieść zagłuszacz Kutwie do przestrojenia</pln>
 	</string>
 	<string id="task_borman_glushitel_3">
 		<rus>Отнести глушитель на место, где он был найден</rus>
 		<eng>Take the jammer to the place where it was found</eng>
 		<ukr>Віднести "глушник" на місце, де він був знайдений</ukr>
 		<fra>Prenez le silencieux à l'endroit où il a été trouvé</fra>
-		<pln>Odnieść zagłuszacz na miejsce, gdzie był znaleziony</pln>
+		<pln>Odnieść zagłuszacz na poprzednie miejsce</pln>
 	</string>
 	<string id="task_borman_glushitel_4">
 		<rus>Вернуться к Борману за наградой</rus>
@@ -1104,14 +1104,14 @@
 		<eng>Brother Louis</eng>
 		<ukr>Брат Луїс</ukr>
 		<fra>Frère Louis</fra>
-		<pln>Brat Luis</pln>
+		<pln>Brat Louis</pln>
 	</string>
 	<string id="task_brat_luis_1">
 		<rus>Найти Брата Луиса на Болотах</rus>
 		<eng>Find Brother Louis at the Swamps</eng>
 		<ukr>Знайти Брата Луїса на болотах</ukr>
 		<fra>Trouver le frère Louis dans les Marais</fra>
-		<pln>Znaleźć Brata Luisa na Bagnach</pln>
+		<pln>Znaleźć Brata Louisa na Bagnach</pln>
 	</string>
 	<string id="task_francuz_start_0">
 		<rus>Поиск Француза</rus>
@@ -1202,7 +1202,7 @@
 		<eng>Take the courier's case to Sakharov</eng>
 		<ukr>Віднести кейс кур'єра Сахарову</ukr>
 		<fra>Prenez la malette de courrier à Sakharov</fra>
-		<pln>Odnieść skrzynkę kuriera Sacharowowi</pln>
+		<pln>Odnieść kontener kuriera Sacharowowi</pln>
 	</string>
 	<string id="task_shadowman_zver_0">
 		<rus>Нападение мутантов</rus>
@@ -1216,7 +1216,7 @@
 		<eng>Help stalkers fight off monsters</eng>
 		<ukr>Допомогти сталкерам відбитися від монстрів</ukr>
 		<fra>Aidez les Stalkers à combattre les monstres</fra>
-		<pln>Pomóc stalkerom odeprzeć atak potworów</pln>
+		<pln>Pomóc stalkerom odeprzeć atak mutantów</pln>
 	</string>
 	<string id="task_shadowman_zver_2">
 		<rus>Поговорить с Шедоуменом</rus>
@@ -1286,7 +1286,7 @@
 		<eng>Saving Denis</eng>
 		<ukr>Порятунок Дениса</ukr>
 		<fra>Sauvetage Denis</fra>
-		<pln>Ratunek Denisa</pln>
+		<pln>Uratowanie Denisa</pln>
 	</string>
 	<string id="task_denis_wound_1">
 		<rus>Найти Дениса в Красном Лесу</rus>
@@ -1335,7 +1335,7 @@
 		<eng>Take away the PDA with records from the stash</eng>
 		<ukr>Забрати зі схованки КПК с записами</ukr>
 		<fra>Récupérer dans le PDA avec des enregistrements dans la cache</fra>
-		<pln>Wziąć ze schowka PDA z zapiskami</pln>
+		<pln>Wziąć ze schowka PDA z notatkami</pln>
 	</string>
 	<string id="task_bandit_krisyk_pomer_2">
 		<rus>Отдать ПДА Борову</rus>
