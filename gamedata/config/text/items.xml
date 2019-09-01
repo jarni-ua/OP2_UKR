@@ -1155,7 +1155,7 @@
 		<rus>Перед тем как поднялись из Путепровода Юпитера в город через заброшенный туннель - у выхода оставила схему в рюкзаке. На всякий случай.</rus>
 		<eng>Before we got out of the Pripyat-1 Underpass to the city through an abandoned tunnel, I left the diagram in my backpack at the exit. Just in case.</eng>
 		<ukr>Перед тим як піднялися з Шляхопроводу Юпітера у місто через покинутий тунель - біля виходу залишила схему у рюкзаку. На всякий випадок.</ukr>
-		<pln>Zanim przeszli z Podziemi Jupitera do miasta przez zawalony tunel - przy wyjściu zostawili schemat w plecaku. Na wszelki wypadek.</pln>
+		<pln>Zanim przeszli z Podziemi Prypeci do miasta, przez zawalony tunel - przy wyjściu zostawili schemat w plecaku. Na wszelki wypadek.</pln>
 	</string>
 	<string id="snp_note31">
 		<rus>Блокнот Доцента</rus>
@@ -1264,6 +1264,131 @@
 		<eng>One letter note</eng>
 		<ukr>Записка з однією буквою</ukr>
 		<pln>Notatka z literą</pln>
+	</string>
+	<!-- Текст из букв должен быть: Ищи Парниковый Эффект! -->
+	<!-- Поскольку количество записок менять нельзя, то можно просто вместо одной буквы писать несколько -->
+	<!-- И щ  и     Парниковый Эф ф  ект! -->
+	<!-- Ш у  к     Парниковий Еф ай ект! -->
+	<!-- L oo k for Greenhouse Ef f  ect! -->
+	<string id="snp_profi1_desc">
+		<rus>р</rus>
+		<eng>e</eng>
+		<ukr>р</ukr>
+		<pln>i</pln>
+	</string>
+	<string id="snp_profi2_desc">
+		<rus>ф</rus>
+		<eng>f</eng>
+		<ukr>ф</ukr>
+		<pln>n</pln>
+	</string>
+	<string id="snp_profi3_desc">
+		<rus>а</rus>
+		<eng>r</eng>
+		<ukr>а</ukr>
+		<pln>r</pln>
+	</string>
+	<string id="snp_profi4_desc">
+		<rus>н</rus>
+		<eng>e</eng>
+		<ukr>н</ukr>
+		<pln>y</pln>
+	</string>
+	<string id="snp_profi5_desc">
+		<rus>!</rus>
+		<eng>!</eng>
+		<ukr>!</ukr>
+		<pln>z</pln>
+	</string>
+	<string id="snp_profi6_desc">
+		<rus>й</rus>
+		<eng>e</eng>
+		<ukr>й</ukr>
+		<pln>j</pln>
+	</string>
+	<string id="snp_profi7_desc">
+		<rus>и</rus>
+		<eng>k for</eng>
+		<ukr>к</ukr>
+		<pln>a</pln>
+	</string>
+	<string id="snp_profi8_desc">
+		<rus>к</rus>
+		<eng>c</eng>
+		<ukr>к</ukr>
+		<pln>k</pln>
+	</string>
+	<string id="snp_profi9_desc">
+		<rus>П</rus>
+		<eng>G</eng>
+		<ukr>П</ukr>
+		<pln>P</pln>
+	</string>
+	<string id="snp_profi10_desc">
+		<rus>Э</rus>
+		<eng>E</eng>
+		<ukr>Е</ukr>
+		<pln>S</pln>
+	</string>
+	<string id="snp_profi11_desc">
+		<rus>в</rus>
+		<eng>u</eng>
+		<ukr>в</ukr>
+		<pln>o</pln>
+	</string>
+	<string id="snp_profi12_desc">
+		<rus>ы</rus>
+		<eng>s</eng>
+		<ukr>и</ukr>
+		<pln>r</pln>
+	</string>
+	<string id="snp_profi13_desc">
+		<rus>т</rus>
+		<eng>t</eng>
+		<ukr>т</ukr>
+		<pln>z</pln>
+	</string>
+	<string id="snp_profi14_desc">
+		<rus>ф</rus>
+		<eng>f</eng>
+		<ukr>ай</ukr>
+		<pln>a</pln>
+	</string>
+	<string id="snp_profi15_desc">
+		<rus>о</rus>
+		<eng>o</eng>
+		<ukr>о</ukr>
+		<pln>s</pln>
+	</string>
+	<string id="snp_profi16_desc">
+		<rus>к</rus>
+		<eng>h</eng>
+		<ukr>к</ukr>
+		<pln>k</pln>
+	</string>
+	<string id="snp_profi17_desc">
+		<rus>е</rus>
+		<eng>e</eng>
+		<ukr>е</ukr>
+		<pln>u</pln>
+	</string>
+	<string id="snp_profi18_desc">
+		<rus>щ</rus>
+		<eng>oo</eng>
+		<ukr>у</ukr>
+		<pln>z</pln>
+	</string>
+	<string id="snp_profi19_desc">
+		<rus>и</rus>
+		<eng>n</eng>
+		<ukr>и</ukr>
+		<pln>l</pln>
+	</string>
+	<string id="snp_profi20_desc">
+		<rus>И</rus>
+		<eng>L</eng>
+		<ukr>Ш</ukr>
+		<pln>P</pln>
 	</string>
 	<string id="snp_pda_profi1">
 		<rus>Старый ПДА</rus>
@@ -1407,7 +1532,7 @@
 		<rus>Найди на базе Свободы гнездо, в котором щебечут птицы.</rus>
 		<eng>Find a nest with chirping birds at the Freedom base.</eng>
 		<ukr>Знайди на базі Волі гніздо, у якому щебечуть птахи.</ukr>
-		<pln>Znajdź na bazie Wolności gniazdo, w którym szczebioczą .</pln>
+		<pln>Znajdź na bazie Wolności gniazdo, w którym szczebioczą ptaki.</pln>
 	</string>
 	<string id="emb_note19_desc">
 		<rus>Теперь слушай, как щебечут птицы в детском саду в Центральной Припяти.</rus>
@@ -1576,7 +1701,7 @@
 		<rus>На ПДА одно не отправленное сообщение:\n"Машенька, любимая! Привет! Маша, ты не представляешь как мне повезло! Если всё получится - мы будем богаты! Очень богаты! Недавно я узнал о новых территориях, АТП, ЧАЭС называются, ну в общем, не важно! Так вот, говорят, там артефактов - море! И очень дорогих! Туда никто не ходит, о них ещё никто не знает! Подожди, потерпи ещё чуть-чуть, и я вернусь богатым! И мы купим эту чёртову квартиру и уедем, наконец! Я дело своё открою, как мы мечтали, помнишь? Тебе даже работать не нужно будет! Потерпи, милая, я скоро! Целую крепко-крепко! Приветы всем!"</rus>
 		<eng>There's an unsent message in the PDA:\n"Masha, darling! Hello! Masha, you have no idea how lucky I am! If everything works out, we'll be rich! Very rich! Recently I learned of new territories, called ATP, CNPP, never mind anyways! So, they say there are shitloads of artifacts there! And very expensive ones, too! Nobody goes there, cause nobody knows of them yet! Wait just a little longer, and I'll be back rich! And then we'll buy this damn apartment and finally leave this place! I'll open my own business, like we used to dream of doing, remember? You won't even have to work anymore! Be patient, my dear, I'll be back soon! Lot's of kisses! Say hello to everyone for me!"</eng>
 		<ukr>На КПК одне не відправлене повідомлення:\n"Машенька, кохана! Привіт! Маша, ти не уявляєш як мені пощастило! Якщо все вийде - ми будемо багаті! Дуже багаті! Нещодавно я дізнався про нові території, АТП, ЧАЕС називаються, ну загалом, не важливо! Так от, кажуть, там артефактів - море! І дуже дорогих! Туди ніхто не ходить, про них ще ніхто не знає! Почекай, потерпи ще трохи, і я повернуся багатим! і ми купимо цю чортову квартиру і поїдемо, нарешті! Я справу свою відкрию, як ми мріяли, пам'ятаєш? Тобі навіть працювати не потрібно буде! Потерпи, мила, я скоро! Цілую міцно-міцно! Привіт усім!"</ukr>
-		<pln>W PDA jedna nie wysłana wiadomość:\n"Maszeńka, moja kochana! Pozdrowienia! Masza, nie wyobrażasz sobie jak mi się poszczęściło! Jeżeli wszystko się uda - będziemy bogaci! Bardzo bogaci! Niedawno dowiedziałem się o nowych terytoriach, ATP i CEA się nazywają, no, ale to nie ważne! Otóż, mówią, że tam artefaktów - morze! I to bardzo drogich! Tam nikt nie chodzi, o nich jeszcze nikt nie wie! Poczekaj, wytrzymaj jeszcze troszeczkę, a wrócę bogatym! I kupimy te cholerne mieszkanie i wyjedziemy, nareszcie! Ja interes swój otworzę, tak jak marzyliśmy, pamiętasz? Nawet nie będziesz musiała pracować! Wytrzymaj, miła, już niedługo! Całuje cię mocno! Pozdrowienia wszystkim!"</pln>
+		<pln>W PDA jedna nie wysłana wiadomość:\n"Maszeńka, moja kochana! Pozdrowienia! Masza, nie wyobrażasz sobie jak mi się poszczęściło! Jeżeli wszystko się uda - będziemy bogaci! Bardzo bogaci! Niedawno dowiedziałem się o nowych terytoriach, ATP i CEA się nazywają, no, ale to nie ważne! Otóż, mówią, że tam artefaktów - morze! I to bardzo drogich! Tam nikt nie chodzi, o nich jeszcze nikt nie wie! Poczekaj, wytrzymaj jeszcze troszeczkę, a wrócę bogatym! I kupimy te cholerne mieszkanie i wyjedziemy, nareszcie! Ja interes swój otworzę, tak jak marzyliśmy, pamiętasz? Nawet nie będziesz musiała pracować! Wytrzymaj, miła, już niedługo! Całuję cię mocno! Pozdrowienia wszystkim!"</pln>
 	</string>
 	<string id="snp_receipt">
 		<rus>Странный рецепт</rus>
@@ -2732,7 +2857,7 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		<rus>На чертежах подробно изображены детали западного образца оружия. Похоже, что это FN F2000. Чертёж опубликован на синем фоне, а схемы и надписи имеют белый цвет. Именно так часто изображают схемы и чертежи в США и в Европе. Вверху написано название образца - "Рaratrooper". Интересно, откуда этот Оружейник смог его раздобыть. На чертежах много пометок и мелких рисунков.\nВ перечне необходимых комплектующих указан глушитель 9х39мм. Необходимо принести такой же Василию.</rus>
 		<eng>The blueprints represent parts for some foreign weapon. It looks like FN F2000. The blueprints have a blue ground and the diagrams and texts are written in white. This is the way diagrams and blueprints are often made in the USA and Europe. There's the name of the weapon written at the top - "Paratrooper". I wonder where this Gunsmith managed to get it from. The blueprints have lots of notes and small pictures written on them.\nThe list of components includes a 9x39 mm silencer. It is necessary to bring the same to Vasily.</eng>
 		<ukr>На кресленнях детально зображені деталі західного зразка зброї. Схоже, що це FN F2000. Креслення опубліковані на синьому тлі, а схеми й написи мають білий колір. Саме так часто зображують схеми й креслення у США та у Європі. Вгорі написано назву зразка - "Рaratrooper". Цікаво, звідки цей Зброяр зміг його роздобути. На кресленнях багато позначок і дрібних малюнків.\nУ списку необхідних комплектуючих вказано глушник 9х39мм. Необхідно принести такий самий Василю.</ukr>
-		<pln>Na schematach szczegółowo przedstawiono szczegóły zachodniego typu broni. Prawdopodobnie, to jest FN2000. Rysunek techniczny jest opublikowany na ciemnoniebieskim tle, a schematy i napisy mają biały kolor. Właśnie tak często wyglądają schematy i rysunki techniczne w USA i w Europie. Na górze napisana nazwa modelu - "Paratrooper". Ciekawe, gdzie ten Zbrojmistrz go zdobył. Na schematach jest wiele notatek i odręcznych rysunków.\nW wykazie niezbędnych dodatków wskazany jest tłumik 9x39mm. Powinienem przynieść taki Wasylemu.</pln>
+		<pln>Na schematach szczegółowo przedstawiono szczegóły zachodniego typu broni. Prawdopodobnie, to jest FN2000. Rysunek techniczny jest opublikowany na ciemnoniebieskim tle, a schematy i napisy mają biały kolor. Właśnie tak często wyglądają schematy i rysunki techniczne w USA i w Europie. Na górze napisana nazwa modelu - "Komandos". Ciekawe, gdzie ten Zbrojmistrz go zdobył. Na schematach jest wiele notatek i odręcznych rysunków.\nW wykazie niezbędnych dodatków wskazany jest tłumik 9x39mm. Powinienem przynieść taki Wasylemu.</pln>
 	</string>
 	<string id="chertez_sks_name">
 		<rus>Папка с чертежами СКС</rus>
@@ -2804,7 +2929,7 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		<rus>На чертежах подробно изображены детали Steyr AUG, но с многочисленными изменениями. Одно из главных отличий - подствольный гранатомёт, стреляющий двумя типами гранат. По рисунку не понятно, какой ПГ является основой, поэтому лучше принести по одному западному образцу подствольника: 1шт. Steyr HE M10, 1шт. AG36, 1шт. FN40GL и 1шт. М203. На чертежах много пометок и мелких рисунков.\nДумаю, BMK Кальтера сгодится в качестве базовой модели. Нужно принести Василию винтовку, чертёж, четыре ПГ, арты и деньги. Посмотрим, что он на это скажет.</rus>
 		<eng>The blueprints represent in detail parts of Steyr AUG rifle, but with many modifications. One of the main differences is the grenade launcher, firing two types of grenades. It is not clear from the figure which UBGL it's based on, therefore it is best to bring all the following western grenade launchers: one Steyr HE M10, one AG36, one FN40GL and one M203. The blueprints have lots of notes and small pictures written on them.\nI think Kalter's VMK will do as a base model. I need to bring Vasily a rifle, the blueprints, four UBGLs, the artifacts and the money. Let's see what he has to says about that.</eng>
 		<ukr>На кресленнях докладно зображені деталі Steyr AUG, але з численними змінами. Одна з головних відмінностей - підствольний гранатомет, що стріляє двома типами гранат. З малюнка не зрозуміло, який ПГ є основним, тому краще принести по одному західному взірцю: 1шт. Steyr HE M10, 1шт. AG36, 1шт. FN40GL и 1шт. М203. На кресленнях багато позначок і дрібних малюнків.\nДумаю, BMK Кальтер згодиться у якості базової моделі. Потрібно принести Василю гвинтівку, креслення, чотири ПГ, арти і гроші. Подивимося, що він на це скаже.</ukr>
-		<pln>Na schematach są dokładnie przedstawione szczegóły Steyr AUG, ale z licznymi zmianami. Jedna z głównych różnic - podlufowy granatnik, strzelający dwoma typami granatów. Na schemacie nie jest podane, który granatnik służy jako baza, dlatego lepiej przynieść po jednym zachodnim modelu granatnika: 1szt. Steyr HE M10, 1szt. AG36, 1 szt. AG36 i 1szt. M203. Na schemacie jest wiele notatek i odręcznych rysunków.\nMyślę, że BMK Kaltera nada się w charakterze bazowego modelu. Trzeba przynieść Wasylemu karabin, schemat, cztery granatniki, artefakty i pieniądze. Zobaczymy, co on na to powie.</pln>
+		<pln>Na schematach są dokładnie przedstawione szczegóły Steyr AUG, ale z licznymi zmianami. Jedna z głównych różnic - podlufowy granatnik, strzelający dwoma typami granatów. Na schemacie nie jest podane, który granatnik służy jako baza, dlatego lepiej przynieść po jednym zachodnim modelu granatnika: 1szt. Steyr HE M10, 1szt. AG36, 1 szt. FN40GL i 1szt. M203. Na schemacie jest wiele notatek i odręcznych rysunków.\nMyślę, że BMK Kaltera nada się w charakterze bazowego modelu. Trzeba przynieść Wasylemu karabin, schemat, cztery granatniki, artefakty i pieniądze. Zobaczymy, co on na to powie.</pln>
 	</string>
 	<string id="chertez_gravik_name">
 		<rus>Папка с чертежами гравикостюма</rus>
@@ -4073,7 +4198,7 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		<rus>Стационарное устройство боевого поражения, способное вести огонь по противнику без непосредственного участия человека, но при этом не обладающее самостоятельной подвижностью. Угол поворота турели - 360 градусов.\nДанная турель автоматически нацеливается на мутантов и ведёт непрерывный огонь в радиусе 15 метров. Чтобы активировать турель, нужно нажать кнопку использования - она будет установлена с восточной стороны в 2 метрах от владельца. Крайне рекомендуется активировать турель на ровной поверхности. Чтобы деактивировать и сложить турель, необходимо нажать на ней клавишу действия.</rus>
 		<eng>Стационарное устройство боевого поражения, способное вести огонь по противнику без непосредственного участия человека, но при этом не обладающее самостоятельной подвижностью. Угол поворота турели - 360 градусов.\nДанная турель автоматически нацеливается на мутантов и ведёт непрерывный огонь в радиусе 15 метров. Чтобы активировать турель, нужно нажать кнопку использования - она будет установлена с восточной стороны в 2 метрах от владельца. Крайне рекомендуется активировать турель на ровной поверхности. Чтобы деактивировать и сложить турель, необходимо нажать на ней клавишу действия.</eng>
 		<ukr>Стаціонарний пристрій бойового ураження, здатний вести вогонь без безпосередньої участі людини, знищуючи цілі, але при цьому не здатний пересуватися. Кут повороту турелі - 360 градусів.\nДана турель автоматично націлюється на мутантів і веде безперервний вогонь в радіусі 15 метрів. Щоб активувати турель, потрібно натиснути кнопку використання - вона буде встановлена ??на відстані до 2 метрах від власника зі східного боку. Вкрай рекомендується активувати турель на рівній поверхні. Щоб де активувати й скласти турель, необхідно натиснути на ній клавішу дії.</ukr>
-		<pln>Stacjonarna konstrukcja bojowa, zdolna do ostrzału przeciwnika bez bezpośredniego udziału człowieka, ale przy tym nie posiadająca możliwości przemieszczania. Kąt obrotu wieżyczki - 360 stopni.\nDana wieżyczka automatycznie namierza mutanty i prowadzi nieprzerwany ogień w promieniu 15 metrów. Żeby aktywować wieżyczkę, należy nacisnąc przycisk akcji - zostanie zainstalowana po wschodniej stronie, 2 metry od właściciela. Zaleca się aktywowanie wieżyczki na płaskiej powierzchni. Aby dezaktywować i złożyć wiezyczkę, należy nacisnąć na niej przycisk akcji.</pln>
+		<pln>Stacjonarna konstrukcja bojowa, zdolna do ostrzału przeciwnika bez bezpośredniego udziału człowieka, ale przy tym nie posiadająca możliwości przemieszczania. Kąt obrotu wieżyczki - 360 stopni.\nDana wieżyczka automatycznie namierza mutanty i prowadzi nieprzerwany ogień w promieniu 15 metrów. Żeby aktywować wieżyczkę, należy nacisnąc przycisk akcji - zostanie zainstalowana po wschodniej stronie, 2 metry od właściciela. Zaleca się aktywowanie wieżyczki na płaskiej powierzchni. Aby dezaktywować i złożyć wieżyczkę, należy nacisnąć na niej przycisk akcji.</pln>
 	</string>
 	<string id="karta_provodnik_name">
 		<rus>Карта Проводника</rus>
@@ -4271,7 +4396,7 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		<rus>В ПДА имеются координаты тропы из Тёмной Лощины в Чернобыль-1.</rus>
 		<eng>В ПДА имеются координаты тропы из Тёмной Лощины в Чернобыль-1.</eng>
 		<ukr>У КПК є координати стежки з Темної Балки у Чорнобиль-1.</ukr>
-		<pln>W PDA są współrzędne ścieżki z Doliny Mroku do Czarnobyla-1.</pln>
+		<pln>W PDA są współrzędne ścieżki z Mrocznego Parowu do Czarnobyla-1.</pln>
 	</string>
 	<string id="iskander_pda_name">
 		<rus>ПДА Искандера</rus>
