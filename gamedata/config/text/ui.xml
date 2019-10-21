@@ -3309,11 +3309,11 @@
 		<pln>Na mapę Zony</pln>
 	</string>
 	<string id="level_changer_invitation">
-		<rus>Перейти на другую территорию?</rus>
-		<eng>Go to another territory?</eng>
-		<ukr>Перейти на іншу територію?</ukr>
-		<fra>Aller sur un autre territoire?</fra>
-		<pln>Przejść na inne terytorium?</pln>
+		<rus>Перейти на территорию '%s'?</rus>
+		<eng>Go to territory '%s'?</eng>
+		<ukr>Перейти на територію '%s'?</ukr>
+		<fra>Aller sur un territoire '%s'?</fra>
+		<pln>Przejść na terytorium '%s'?</pln>
 	</string>
 	<string id="Name">
 		<rus>Имя</rus>
@@ -5319,6 +5319,13 @@
 		<fra>Emplacement rapide 3</fra>
 		<pln>Szybki slot 3</pln>
 	</string>
+	<string id="kb_quick_slot_4">
+		<rus>Быстрый слот 4</rus>
+		<eng>Quick slot 4</eng>
+		<ukr>Швидкий слот 4</ukr>
+		<fra>Emplacement rapide 4</fra>
+		<pln>Szybki slot 4</pln>
+	</string>
 	<string id="kb_cb_take_all">
 		<rus>"Забрать всё" в окнах обыска</rus>
 		<eng>"Take all" in lookup windows</eng>
@@ -5600,6 +5607,13 @@
 		<fra>Rien d'intéressant</fra>
 		<pln>Niczego tu nie ma</pln>
 	</string>
+	<string id="unknown_territory">
+		<rus>Неизвестная территория</rus>
+		<eng>Unknown territory</eng>
+		<ukr>Невідома територія</ukr>
+		<fra>Territoire inconnu</fra>
+		<pln>Nieznane terytorium</pln>
+	</string>
 	<string id="ui_skip_ammo_word">
 		<rus>патроны</rus>
 		<eng></eng>
@@ -5641,5 +5655,19 @@
 		<ukr>Ви занадто виснажені, щоб бігати та стрибати</ukr>
 		<fra>===Вы слишком истощены, чтобы бегать и прыгать</fra>
 		<pln>Jesteś zbyt zmęczony, by biegać i skakać</pln>
+	</string>
+	<string id="ui_unpack_all_money">
+		<rus>распаковать всю стопку</rus>
+		<eng>unpack the entire stack</eng>
+		<ukr>розпакувати всю стопку</ukr>
+		<fra>===Распаковать всю стопку</fra>
+		<pln>===Распаковать всю стопку</pln>
+	</string>
+	<string id="ui_unpack_single_money">
+		<rus>распаковать одну пачку</rus>
+		<eng>unpack one pack</eng>
+		<ukr>розпакувати одну пачку</ukr>
+		<fra>===Распаковать одну пачку</fra>
+		<pln>===Распаковать одну пачку</pln>
 	</string>
 </string_table>
