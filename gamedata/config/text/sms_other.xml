@@ -519,11 +519,11 @@
 		<pln>Do wszystkich! Do wszystkich! Do wszystkich! Pojawił się jeden poważny problem. Spotkacie Naznaczonego - przekażcie mu, że pilnie potrzebuję jego pomocy! Tylko on będzie w stanie mi jej udzielić.</pln>
 	</string>
 	<string id="sms_borov_smska_borova_0">
-		<rus>Меченый, пацаны сообщили мне, что этот засранец Крысюк сдох и ПДА при нём не было. Зайди ко мне, есть кое-какая мыслишка...</rus>
-		<eng>Marked One, the boys told me that this asshole Krysyuk was dead and there was no PDA with him. Come to me, there is an idea...</eng>
-		<ukr>Мічений, хлопці повідомили мені, що цей засранець Крисюк здох і КПК у нього не було. Зайди до мене, є одна думка...</ukr>
-		<fra>Strelok,les garçons m'ont dit que cet enfoiré de Krysyuk était mort et qu'il n'y avait pas de PDA sur lui. Viens à moi, il y a une petite pensée...</fra>
-		<pln>Naznaczony, chłopaki mnie powiadomili, że ten zasraniec Krysiuk zdechł a PDA przy nim nie było. Zajdź do mnie, mam pewien pomysł...</pln>
+		<rus>Зайди ко мне, есть кое-какая мыслишка...</rus>
+		<eng>Come to me, there is an idea...</eng>
+		<ukr>Зайди до мене, є одна думка...</ukr>
+		<fra>Viens à moi, il y a une petite pensée...</fra>
+		<pln>Zajdź do mnie, mam pewien pomysł...</pln>
 	</string>
 	<string id="delete_teleport2_0">
 		<rus>Ищи в другом месте.</rus>
@@ -608,6 +608,13 @@
 		<ukr>Знайдено інформацію</ukr>
 		<fra>Informations trouvées</fra>
 		<pln>Znaleziona informacja</pln>
+	</string>
+	<string id="sms_koloda_kuznec">
+		<rus>Найдена карта из колоды Кузнецова</rus>
+		<eng>===Найдена карта из колоды Кузнецова</eng>
+		<ukr>Знайдена карта з колоди Кузнєцова</ukr>
+		<fra>===Найдена карта из колоды Кузнецова</fra>
+		<pln>===Найдена карта из колоды Кузнецова</pln>
 	</string>
 	<string id="sms_info_dead_stalker">
 		<rus>Мёртвый сталкер</rus>

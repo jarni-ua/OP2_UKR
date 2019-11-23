@@ -29,11 +29,11 @@
 		<pln>Dobra robota, stalkerze!</pln>
 	</string>
 	<string id="sms_strelok_koiot_npc_dead1_0">
-		<rus>Майор, поисковую операцию по поимке Койота можете отменять. Я наткнулся на него на Дикой Территории. Подробности при встрече.</rus>
-		<eng>Major, search operation on the capture of Coyote can be cancelled. I stumbled upon him in the Wild Territory. I will tell you details at the meeting.</eng>
-		<ukr>Майор, пошукову операцію по затриманню Койота можете скасовувати. Я натрапив на нього на Дикій Території. Подробиці при зустрічі.</ukr>
-		<fra>Major, vous pouvez annuler l'opération de recherche de Coyote. Je suis tombé sur lui dans le territoire sauvage. Détails lors de la réunion.</fra>
-		<pln>Majorze, operację ujęcia Kojota możecie zamknąć. Natknąłem się na niego w Dziczy. Szczegóły przy spotkaniu.</pln>
+		<rus>Майор, поисковую операцию по поимке Койота можете отменять. Подробности при встрече.</rus>
+		<eng>Major, search operation on the capture of Coyote can be cancelled. I will tell you details at the meeting.</eng>
+		<ukr>Майор, пошукову операцію по затриманню Койота можете скасовувати. Подробиці при зустрічі.</ukr>
+		<fra>Major, vous pouvez annuler l'opération de recherche de Coyote. Détails lors de la réunion.</fra>
+		<pln>Majorze, operację ujęcia Kojota możecie zamknąć. Szczegóły przy spotkaniu.</pln>
 	</string>
 	<string id="sms_kuznecov_koiot_npc_dead_2_0">
 		<rus>Хорошо, молодец! Возвращайся за наградой.</rus>
@@ -147,20 +147,6 @@
 		<fra>Strelok,j'ai quelque chose à voir avec vous. Jetez un coup d’œil rapide sur notre base.J'ai une tâche pour vous.</fra>
 		<pln>Naznaczony, mam do ciebie sprawę. Pilnie zajrzyj na naszą bazę.</pln>
 	</string>
-	<string id="sms_lisiy_fotograf_detector_start_0">
-		<rus>Меченый, есть дело. Загляни в Бар.</rus>
-		<eng>Marked One, there is a task. Come to the bar.</eng>
-		<ukr>Мічений, є справа. Зазирни в Бар.</ukr>
-		<fra>Strelok, il y a une tâche. Viens au Bar.</fra>
-		<pln>Naznaczony, jest sprawa. Wpadnij do Baru.</pln>
-	</string>
-	<string id="sms_strelok_klad_op_have_0">
-		<rus>Кажется, внутри бутылки что-то есть. Надо показать это Лысому.</rus>
-		<eng>It seems there is something inside the bottle. We must show it to Bald.</eng>
-		<ukr>Здається, всередині пляшки щось є. Треба показати це Лисому.</ukr>
-		<fra>Il semble qu'il y ait quelque chose à l'intérieur de la bouteille. Vous devez le montrer à Bald le Chauve.</fra>
-		<pln>Wydaje się, że wewnątrz butelki coś jest. Powinienem pokazać to Łysemu.</pln>
-	</string>
 	<string id="docent_silence_done_0_0">
 		<rus>Кажется, связь наладилась. Всем квадам на связь!</rus>
 		<eng>It seems that the connection is OK. All quads, come on the radio!</eng>
@@ -221,7 +207,6 @@
 		<rus>Можешь поздравить себя, ты прошёл испытание. Презент найдёшь на крыше фабрики. Не прощаюсь...</rus>
 		<eng>===Можешь поздравить себя, ты прошёл испытание. Презент найдёшь на крыше фабрики. Не прощаюсь...</eng>
 		<ukr>Можеш привітати себе, ти пройшов випробування. Презент знайдеш на даху фабрики. Не прощаюсь...</ukr>
-		<fra>Можешь поздравить себя, ты прошёл испытание. Презент найдёшь на крыше фабрики. Не прощаюсь...</fra>
 		<pln>Możesz sobie pogratulować, przeszedłeś próbę. Prezent znajdziesz na dachu fabryki. Nie żegnam się...</pln>
 	</string>
 	<string id="sms_pulemet_angar_oborona_sms_0">
@@ -463,11 +448,11 @@
 		<pln>Naznaczony, o robótce nie zapomniałeś? Coś się zaczyna dziać, mam informacje o pewnej interesującej sprawie. Jeśli jesteś zainteresowany, to spotkamy się na dawnym miejscu.</pln>
 	</string>
 	<string id="sms_monolit_fantoms_pda_done_0">
-		<rus>КБО зачищен от мутантов. 1 взвод остаётся в КБО для охраны периметра, 2 взвод зачищает Х-8, 3 взвод обеспечивает прикрытие учёных. Научная группа может выдвинуться в лабораторию после подтверждения зачистки.</rus>
-		<eng>The Old Service Center is cleaned of mutants. 1 troop remains in the Old Service Center to protect the perimeter, 2 troop cleans the X-8, 3 troop provides cover for scientists. The research team may go to the laboratory after confirming the cleaning.</eng>
-		<ukr>КБО зачищений від мутантів. 1 взвод залишається у КБО для охорони периметра, 2 взвод зачищає Х-8, 3 взвод забезпечує прикриття вчених. Наукова група може висунутися у лабораторію після підтвердження зачистки.</ukr>
-		<fra>L'ancien centre de services est nettoyé des mutants.Une troupe nettoie le X-8,2 pelotons pour le X-8, 3 pelotons fournit une couverture pour les scientifiques. Le groupe Naukova peut être trouvé au laboratoire après le processus de nettoyage.</fra>
-		<pln>Jubilejny oczyszczony z mutantów. 1 pluton zostaje w Jubilejnym dla ochrony okolicy, 2 pluton oczyszcza X-8, 3 pluton zabezpiecza osłonę naukowców. Grupa naukowa może zejść do laboratorium po potwierdzeniu oczyszczenia.</pln>
+		<rus>Дом быта зачищен от группы наёмников. 1 взвод остаётся в "Юбилейном" для охраны периметра, 2 взвод зачищает Х-8, 3 взвод обеспечивает прикрытие учёных. Научная группа может выдвинуться в лабораторию после подтверждения зачистки.</rus>
+		<eng>===The Old Service Center is cleaned of mutants. 1 troop remains in the Old Service Center to protect the perimeter, 2 troop cleans the X-8, 3 troop provides cover for scientists. The research team may go to the laboratory after confirming the cleaning.</eng>
+		<ukr>Будинок побуту зачищений від групи найманців. 1 взвод залишається у "Ювілейному" для охорони периметра, 2 взвод зачищає Х-8, 3 взвод забезпечує прикриття вчених. Наукова група може висунутися у лабораторію після підтвердження зачистки.</ukr>
+		<fra>===L'ancien centre de services est nettoyé des mutants.Une troupe nettoie le X-8,2 pelotons pour le X-8, 3 pelotons fournit une couverture pour les scientifiques. Le groupe Naukova peut être trouvé au laboratoire après le processus de nettoyage.</fra>
+		<pln>===Stacja Obsługi oczyszczona z mutantów. 1 pluton zostaje na Stacji dla ochrony okolicy, 2 pluton oczyszcza X-8, 3 pluton zabezpiecza osłonę naukowców. Grupa naukowa może zejść do laboratorium po potwierdzeniu oczyszczenia.</pln>
 	</string>
 	<string id="sms_monolit_kogot_provod_spawn_1_0">
 		<rus>В лабораторию проник посторонний. 1 и 2 взводы не отвечают, научная группа не выходит на связь.</rus>
@@ -1222,7 +1207,20 @@
 		<rus>Допрыгался, крысёныш?! Фух! Надо бы тебя обыскать!</rus>
 		<eng>Допрыгался, крысёныш?! Фух! Надо бы тебя обыскать!</eng>
 		<ukr>Дострибався, пацюку?! Фух! Треба б тебе обшукати!</ukr>
-		<fra>Допрыгался, крысёныш?! Фух! Надо бы тебя обыскать!</fra>
 		<pln>No i doigrałeś się, szczurku! Fuch! Trzeba by cię przeszukać!</pln>
+	</string>
+	<string id="sms_strelok_smska_borova2">
+		<rus>Боров, этот засранец Крысюк сдох и ПДА при нём не было. Что будем делать?</rus>
+		<eng>===Боров, этот засранец Крысюк сдох и ПДА при нём не было. Что будем делать?</eng>
+		<ukr>Кабан, цей засранець Щуряк здох і КПК при ньому не було. Що будемо робити?</ukr>
+		<fra>===Боров, этот засранец Крысюк сдох и ПДА при нём не было. Что будем делать?</fra>
+		<pln>===Боров, этот засранец Крысюк сдох и ПДА при нём не было. Что будем делать?</pln>
+	</string>
+	<string id="sms_sherstuk_conserva">
+		<rus>Голодный солдат страшнее химеры. Братва, не тырьте у вояк жратву!</rus>
+		<eng>A hungry soldier is worse than a chimera. Comrades, do not try to steal a soldiers meal!</eng>
+		<ukr>Голодний солдат страшніше химери. Братва, не тирьте у вояк жратву!</ukr>
+		<fra>Un soldat affamé est pire qu'une chimère. Fellowship, ne tyrte pas les guerriers!</fra>
+		<pln>Głodny żołnierz gorszy od chimery. Bracia, nie kradnijcie żołnierzom prowiantu!</pln>
 	</string>
 </string_table>

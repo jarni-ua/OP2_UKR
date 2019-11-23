@@ -60,6 +60,12 @@
 		<ukr>Гаусс Нелюда</ukr>
 		<pln>Gauss Potwora</pln>
 	</string>
+	<string id="ars-gauss2a">
+		<rus>Гаусс Изверга модифицированный</rus>
+		<eng>===Crudface's Gaussgun модифицированный</eng>
+		<ukr>Гаусс Нелюда модифікований</ukr>
+		<pln>===Gauss Potwora модифицированный</pln>
+	</string>
 	<string id="ars-m16a4">
 		<rus>Colt M16A4</rus>
 		<eng>Colt M16A4</eng>
@@ -961,10 +967,10 @@
 		<pln>SR-2M "Wrzos"</pln>
 	</string>
 	<string id="wpn-pb_m1">
-		<rus>Именной ПБ Информатора</rus>
-		<eng>Informer's PB</eng>
+		<rus>Именной ПБ Осведомителя</rus>
+		<eng>===Informer's PB</eng>
 		<ukr>Іменний ПБ Інформатора</ukr>
-		<pln>Osobisty PB Informatora</pln>
+		<pln>===Osobisty PB Informatora</pln>
 	</string>
 	<string id="ars-kastet">
 		<rus>РГМ-40 «Кастет»</rus>
@@ -1602,53 +1608,65 @@
 		<ukr>Smith &amp; Wesson Military &amp; Police</ukr>
 		<pln>Smith &amp; Wesson Military &amp; Police</pln>
 	</string>
-        <string id="ars-p38_m1">
+	<string id="ars-p38_m1">
 		<rus>Наградной Walther P.38</rus>
 		<eng>Award Walther P.38</eng>
 		<ukr>Нагородний Walther P.38</ukr>
 		<pln>Nagrodowy Walther P.38</pln>
 	</string>
-        <string id="ars-walther_pp">
+	<string id="ars-walther_pp">
 		<rus>Walther PP</rus>
 		<eng>Walther PP</eng>
 		<ukr>Walther PP</ukr>
 		<pln>Walther PP</pln>
 	</string>
-        <string id="ars_izh43">
+	<string id="ars_izh43">
 		<rus>ИЖ-43</rus>
 		<eng>MP-43</eng>
 		<ukr>ІЖ-43</ukr>
 		<pln>IŻ-43</pln>
 	</string>
-        <string id="ars_izh43_obrez">
+	<string id="ars_izh43_obrez">
 		<rus>Обрез ИЖ-43</rus>
 		<eng>Sawed-off MP-43</eng>
 		<ukr>Обрiз ІЖ-43</ukr>
 		<pln>Obrzyn IŻ-43</pln>
 	</string>
-        <string id="ars_mp27">
+	<string id="ars_mp27">
 		<rus>ИЖ-27</rus>
 		<eng>MP-27</eng>
 		<ukr>ІЖ-27</ukr>
 		<pln>IŻ-27</pln>
 	</string>
-        <string id="ars_mp27_obrez">
+	<string id="ars_mp27_obrez">
 		<rus>Обрез ИЖ-27</rus>
 		<eng>Sawed-off MP-27</eng>
 		<ukr>Обрiз ІЖ-27</ukr>
 		<pln>Obrzyn IŻ-27</pln>
 	</string>
-        <string id="ars_blaze_95">
+	<string id="ars_blaze_95">
 		<rus>Blaser B95</rus>
 		<eng>Blaser B95</eng>
 		<ukr>Blaser B95</ukr>
 		<pln>Blaser B95</pln>
 	</string>
-        <string id="ars-msr">
+	<string id="ars-msr">
 		<rus>Remington MSR</rus>
 		<eng>Remington MSR</eng>
 		<ukr>Remington MSR</ukr>
 		<pln>Remington MSR</pln>
+	</string>
+	<string id="ars-m1895">
+		<rus>Револьвер Наган</rus>
+		<eng>===Револьвер Наган</eng>
+		<ukr>Револьвер Наган</ukr>
+		<pln>===Револьвер Наган</pln>
+	</string>
+	<string id="ars-m1895_of">
+		<rus>Револьвер Наган «офицерский»</rus>
+		<eng>===Револьвер Наган «офицерский»</eng>
+		<ukr>Револьвер Наган «офіцерський»</ukr>
+		<pln>===Револьвер Наган «офицерский»</pln>
 	</string>
 
 
@@ -1807,6 +1825,12 @@
 		<eng>Personal Crudface's Gauss rifle, made by special order from the craftsmen from the clan "Last Day". An automatic fire mode was enabled, and optic sight with increased multiplicity were installed. The second such rifle in the Zone can not be found.</eng>
 		<ukr>Іменний Гаусс - гвинтівка Нелюда, виготовлена за спецзамовленням у майстрів-зброярів з клану Останній День. Введено автоматичний режим стрільби, а також встановлена оптика з підвищеною кратністю. Другої такої гвинтівки в Зоні не знайти.</ukr>
 		<pln>Osobisty karabin Gaussa Potwora, wykonany na specjalne zamówienie przez mistrzów rusznikarstwa z klanu "Ostatni Dzień". Wprowadzono automatyczny tryb strzelania, jak również zamontowano optykę o zwiększonej rozdzielczości. Taki drugi karabin w Zonie nie istnieje.</pln>
+	</string>
+	<string id="enc_arsenal_gauss2a">
+		<rus>Именная Гаусс-винтовка Изверга, изготовленная по спецзаказу у мастеров-оружейников из клана Последний День. Введён автоматический режим стрельбы, а также установлена оптика с повышенной кратностью. Второй такой винтовки в Зоне не найти.\n Модифицированный Гаусс Изверга. Установлен цифровой модуль распознавания целей. Вес винтовки уменьшен. Увеличена кратность оптического прицела.</rus>
+		<eng>===Personal Crudface's Gauss rifle, made by special order from the craftsmen from the clan "Last Day". An automatic fire mode was enabled, and optic sight with increased multiplicity were installed. The second such rifle in the Zone can not be found.\n Модифицированный Гаусс Изверга. Устоновлен цифровой модуль распознавания целей. Вес винтовки уменьшен. Увеличена кратность оптического прицела.</eng>
+		<ukr>Іменна Гаусс-гвинтівка Нелюда, виготовлена за спецзамовленням у майстрів-зброярів з клану Останній День. Введено автоматичний режим стрільби, а також встановлена оптика з підвищеною кратністю. Другої такої гвинтівки в Зоні не знайти.\n Модифікований Гаусс Нелюда. Встоновлено цифровий модуль розпізнавання цілей. Вагу гвинтівки зменшено. Збільшена кратність оптичного приціла.</ukr>
+		<pln>===Osobisty karabin Gaussa Potwora, wykonany na specjalne zamówienie przez mistrzów rusznikarstwa z klanu "Ostatni Dzień". Wprowadzono automatyczny tryb strzelania, jak również zamontowano optykę o zwiększonej rozdzielczości. Taki drugi karabin w Zonie nie istnieje.\n Модифицированный Гаусс Изверга. Устоновлен цифровой модуль распознавания целей. Вес винтовки уменьшен. Увеличена кратность оптического прицела.</pln>
 	</string>
 	<string id="enc_arsenal_ak105">
 		<rus>Новые автоматы "сотой" серии имеют прежнюю, хорошо зарекомендованную конструктивную схему общеизвестных автоматов Калашникова. По устройству и работе основных узлов и механизмов автоматы 100-й серии практически ничем не отличаются от предыдущей модели - АК-74М. На базе автоматов АК-102 и АК-104 для российских вооружённых сил и правоохранительных органов был разработан 5,45-мм малогабаритный автомат АК-105, обладающий всеми достоинствами экспортных моделей автомата Калашникова, но в тоже время многократно превосходящий по боевым характеристикам автомат АКС-74У, для замены которого он предназначался.</rus>
@@ -2637,10 +2661,10 @@
 		<pln>FN SCAR SSR Mk.20 Mod.0 - półautomatyczny karabin snajperski, w 2010 roku przyjęty na uzbrojenie sił Dowództwa Specjalnych Operacji USA (US SOCOM) pod indeksem Mk.20 Mod.0 i jest jedną z modyfikacji broni strzeleckiej systemu SCAR. W odróżnieniu od automatu, karabin snajperski otrzymał przedłużoną górną część komory zamkowej, nową rękojeść, tłumik płomienia i lufę, jak również stałą kolbę (z regulowaną stopką i oparciem pod policzek). Pływający lufa SSR Mk.20 Mod.0 ma pogrubiony profil i została wykonana metodą kucia na zimno. Kanał lufy chromowany. Z karabinu można strzelać ogniem pojedynczym i z odcięciem po dwa naboje.</pln>
 	</string>
 	<string id="enc_arsenal_scar_792">
-		<rus>Модификация штурмовой винтовки FN SCAR-Н под калибр 7,92х33. Кроме смены калибра, был модифицирован подствольный гранатомёт FN40GL под гранаты 20x85HE и кумулятивные заряды Н-82, однако штатные гранаты М209 зарядить, увы, не получится. Также у винтовки был уменьшен вес и повышена износостойкость.\nДанную модификацию произвёл Долговязый.</rus>
-		<eng>Modified FN SCAR-H assault rifle of 7.92x33 caliber. In addition to the change in the caliber, the FN40GL grenade launcher was modified for 20x85HE grenades and the H-82 shaped charges, but the the standard M209 grenades can not be charged. Also, the rifle reduced its weight and increased wear resistance.\nThis modification was made by Lanky.</eng>
-		<ukr>Модифікація штурмової гвинтівки FN SCAR-Н під калібр 7,92х33. Окрім зміни калібру, був модифікований підствольний гранатомет FN40GL під гранати 20x85HE і кумулятивні заряди Н-82, однак штатні гранати М209 зарядити, на жаль, не вийде. Також у гвинтівки була зменшена вага і підвищена зносостійкість.\nДану модифікацію зробив Довгов'язий.</ukr>
-		<pln>Modyfikacja szturmowego karabinu FN SCAR-H pod kaliber 7,92x33. Prócz zmiany kalibru, został zmodyfikowany granatnik podlufowy FN40GL pod ładunki 20x85HE i ładunki kumulacyjne H-82, ale standardowych ładunków M209, niestety, załadować się nie da. Zmniejszono też wagę karabinu i podniesiono jego odporność na zużycie.\n Modyfikacji tej broni dokonał Chudy.</pln>
+		<rus>Модификация штурмовой винтовки FN SCAR-Н под калибр 7,92х33. У винтовки был уменьшен вес и повышена износостойкость.\nДанную модификацию произвёл Долговязый.</rus>
+		<eng>===Modified FN SCAR-H assault rifle of 7.92x33 caliber. In addition to the change in the caliber, the FN40GL grenade launcher was modified for 20x85HE grenades and the H-82 shaped charges, but the the standard M209 grenades can not be charged. Also, the rifle reduced its weight and increased wear resistance.\nThis modification was made by Lanky.</eng>
+		<ukr>Модифікація штурмової гвинтівки FN SCAR-Н під калібр 7,92х33. У гвинтівки була зменшена вага і підвищена зносостійкість.\nДану модифікацію зробив Довгов'язий.</ukr>
+		<pln>===Modyfikacja szturmowego karabinu FN SCAR-H pod kaliber 7,92x33. Prócz zmiany kalibru, został zmodyfikowany granatnik podlufowy FN40GL pod ładunki 20x85HE i ładunki kumulacyjne H-82, ale standardowych ładunków M209, niestety, załadować się nie da. Zmniejszono też wagę karabinu i podniesiono jego odporność na zużycie.\n Modyfikacji tej broni dokonał Chudy.</pln>
 	</string>
 	<string id="enc_arsenal_akm_m3">
 		<rus>Автомат Калашникова модернизированный (АКМ) в модификации, прозванной сталкерами АКМ «Мечта». Имеет дисковый магазин на 75 патронов калибра 7.62х39мм. Уникален ещё и тем, что имеется возможность установить на выбор два разных прицела (в зависимости от разных тактических задач), либо коллиматор «Кобра», либо оптический прицел УСП-1 «Тюльпан». Очень ценится среди сталкеров мастеров и ветеранов.</rus>
@@ -2739,10 +2763,10 @@
 		<pln>Nowy pistolet maszynowy SR-2M "Wrzos" pod potężny przeciwpancerny nabój 9x21 mm SP-10, opracowany w 1999 roku, w Centralnym Instytucie Naukowo-Badawczym Mechaniki Precyzyjnej (CNII TOCzMASz w Klimowsku). SR-2 cechuje niewielki rozmiar, ale posiada znaczną siłę ognia, a w połączeniu z przeciwpancernymi nabojami SP-10, zapewnia skuteczne rażenie przeciwnika w kamizelkach kuloodpornych na dystansie do 100 metrów. SR-2M "Wrzos" jest na uzbrojeniu FSB i FSO Rosji i szeregu innych rosyjskich służb specjalnych.\n Istnieje możliwość montażu tłumika M9-P.</pln>
 	</string>
 	<string id="enc_weapons1_wpn-pb_m1">
-		<rus>Именной ПБ Информатора, переделанный под патрон 9х21мм СП-10/СП-11.\n Данную модификацию пистолета осуществил Долговязый.</rus>
-		<eng>Personalized Informer's PB, reworked for the 9x21mm SP-10/SP-11 cartridge .\n This modification of the pistol was made by Lanky.</eng>
+		<rus>Именной ПБ Осведомителя, переделанный под патрон 9х21мм СП-10/СП-11.\n Данную модификацию пистолета осуществил Долговязый.</rus>
+		<eng>===Personalized Informer's PB, reworked for the 9x21mm SP-10/SP-11 cartridge .\n This modification of the pistol was made by Lanky.</eng>
 		<ukr>Іменний ПБ Інформатора, перероблений під патрон 9х21мм СП-10/СП-11.\nДану модифікацію пістолета здійснив Довгов'язий.</ukr>
-		<pln>Osobisty PB Informatora, przerobiony pod nabój 9x21 mm SP-10/SP-11.\n Modyfikacji tego pistoletu dokonał Chudy.</pln>
+		<pln>===Osobisty PB Informatora, przerobiony pod nabój 9x21 mm SP-10/SP-11.\n Modyfikacji tego pistoletu dokonał Chudy.</pln>
 	</string>
 	<string id="enc_weapons1_wpn-rg6_m2">
 		<rus>Модификация револьверного гранатомёта 6Г30 для ведения огня аномальными подствольными гранатами.</rus>
@@ -3421,6 +3445,18 @@
 		<eng>The multi-caliber MSR (Modular Sniper Rifle) was created in 2009 by the Military Products Pision division of the famous American Remington Arms weapons company. The development of the Remington MSR sniper rifle was conducted specifically to participate in the competition for a high-precision sniper rifle (Precision Sniper Rifle), announced in 2009 by the command of US special operations forces US SOCOM. \nThe Remington MSR sniper rifle was presented in four versions for using caliber cartridges: 338 Lapua Magnum, .338 Norma Magnum, .300 Winchester Magnum, .308 Winchester Magnum (7.62 x 51mm NATO). Moreover, in each caliber, the company offered 4 variants of trunks in length: from 508 to 686 mm. To change the rifle to the required caliber, you only need to replace the barrel, bolt and magazine. \nThe Remington MSR sniper rifle uses manual reloading with a longitudinally sliding rotary bolt. The weapons are fed from detachable box magazines with a capacity of 5 rounds (.338 caliber), 7 rounds (.300 caliber) and 10 rounds (.308 caliber). \nOn the upper surface of the receiver, there is a Picatinny rail guide, which are installed optical sights on quick-release brackets. Foldable sideways (right) buttstock equipped with an adjustable butt pad and stop under the cheek. The claimed accuracy of the Remington MSR sniper rifle in the .338 Lapua Magnum caliber is 1 MOA at a distance of 1500 meters.</eng>
 		<ukr>Мультикаліберна снайперська гвинтівка MSR (Modular Sniper Rifle - модульна снайперська гвинтівка) створена в 2009 році підрозділом «Military products pision» знаменитої американської компанії з виробництва зброї «Remington Arms». Розробка снайперської гвинтівки Remington MSR проводилася спеціально для участі в конкурсі на високоточну снайперську гвинтівку (Precision Sniper Rifle), оголошеного в 2009 році командуванням сил спеціальних операцій США US SOCOM.\n Снайперська гвинтівка Remington MSR була представлена в чотирьох варіантах під використання патронів калібру: .338 Lapua Magnum, .338 Norma Magnum, .300 Winchester Magnum, .308 Winchester Magnum (7.62х51мм NATO). Причому в кожному калібрі компанія запропонувала 4 варіанти стволів по довжині: від 508 до 686 мм. Для зміни гвинтівки під необхідний калібр потрібно всього лише замінити ствол, затвор і магазин.\n Снайперська гвинтівка Remington MSR використовує ручну перезарядку з поздовжньо-ковзаючим поворотним затвором. Живлення зброї здійснюється з відокремлюваних коробчатих магазинів ємністю на 5 патронів (у калібрі .338), 7 патронів (у калібрі .300) і 10 патронів (у калібрі .308).\n На верхній поверхні ствольної коробки розташована напрямна типу Picatinny rail, на яку встановлюються оптичні приціли на швидкознімних кронштейнах. Складаний убік (вправо) приклад обладнаний регульованим потиличником і упором під щоку. Заявлена точність снайперської гвинтівки Remington MSR у калібрі .338 Lapua Magnum на дистанції 1500 метрів становить 1 МОА.</ukr>
 		<pln>Wielokalibrowy karabin snajperski MSR (Modular Sniper Rifle - modułowy karabin snajperski), opracowany w 2009 roku, przez oddział "Military Products Pision" słynnej amerykańskiej firmy zbrojeniowej "Remington Arms". Opracowanie karabinu snajperskiego Remington MSR przeprowadzono w celu wzięcia udziału w konkursie na precyzyjny karabin snajperski (Precision Sniper Rifle), ogłoszonego w 2009 roku, przez dowództwo sił specjalnych USA US SOCOM.\n Karabin snajperski Remington MSR został przedstawiony w czterech wariantach pod nabój kaliber: .338 Lapua Magnum, .338 Norma Magnum, .300 Winchester Magnum, .308 Winchester Magnum (7,62 x 51 mm NATO). Przy czym do każdego kalibru firma zaproponowała cztery warianty luf o długości od 508 do 686 mm. W celu zmiany karabinu pod potrzebny kaliber wystarczy zaledwie wymienić lufę, zamek i magazynek.\n Karabin snajperski Remington MSR stosuje ręczne przeładowanie ze ślizgowo-obrotowym zamkiem. Zasilanie broni następuje z odejmowanych magazynków pudełkowych o pojemności 5 nabojów (kaliber .338), 7 nabojów (kaliber .300) i 10 nabojów (kaliber .308).\n Na górnej płaszczyźnie komory zamkowej znajduje się prowadnica typu Picatinny, na której można montować celowniki optyczne na szybkozmiennych wspornikach. Składana na bok (w prawo) kolba jest wyposażona w regulowaną stopkę i oparcie pod policzek. Zadeklarowana celność karabinu snajperskiego Remington MSR w kalibrze .338 Lapua Magnum na dystansie 1500 metrów wynosi 1 MOA.</pln>
+	</string>
+	<string id="enc_arsenal_wpn_nagan">
+		<rus>Револьвер системы Нагана образца 1895 года - семизарядный револьвер, разработанный и производившийся бельгийскими промышленниками братьями Эмилем и Леоном Наганами (Nagant), для Российской Империи, состоявший на вооружении и выпускавшийся в ряде стран в конце XIX - середине XX века.\n Русско-японская война, Первая Мировая, гражданская, финская, затем Великая Отечественная войны - всегда наган служил верой и правдой. Можно назвать множество причин такой популярности, однако, по мнению военных экспертов, основные - безотказность конструкции и эффективность для ближнего боя. Всего только в нашей стране было выпущено более 2 млн. Оружие до начала 50-х годов было на вооружении в армии и милиции, до недавнего времени им пользовались инкассаторы и бойцы Вневедомственной охраны, причём многие пистолеты старше своих нынешних обладателей в два, а иногда и в три раза.</rus>
+		<eng>===Револьвер системы Нагана образца 1895 года - семизарядный револьвер, разработанный и производившийся бельгийскими промышленниками братьями Эмилем и Леоном Наганами (Nagant), для Российской Империи, состоявший на вооружении и выпускавшийся в ряде стран в конце XIX - середине XX века.\n Русско-японская война, Первая Мировая, гражданская, финская, затем Великая Отечественная войны - всегда наган служил верой и правдой. Можно назвать множество причин такой популярности, однако, по мнению военных экспертов, основные - безотказность конструкции и эффективность для ближнего боя. Всего только в нашей стране было выпущено более 2 млн. Оружие до начала 50-х годов было на вооружении в армии и милиции, до недавнего времени им пользовались инкассаторы и бойцы Вневедомственной охраны, причем многие пистолеты старше своих нынешних обладателей в два, а иногда и в три раза.</eng>
+		<ukr>Револьвер системи Нагана зразка 1895 року - семизарядний револьвер, розроблений і виготовлюваний бельгійськими промисловцями братами Емілем і Леоном Наганами (Nagant), для Російської Імперії, який стояв на озброєнні і випускався в ряді країн в кінці XIX - середині XX століття.\n Російсько-японська війна, Перша Світова, громадянська, фінська, потім Велика Вітчизняна війни - завжди наган служив вірою і правдою. Можна назвати безліч причин такої популярності, проте, на думку військових експертів, основні - безвідмовність конструкції і ефективність для ближнього бою. Лише в Союзі було випущено більше 2 млн. штук. Зброя до початку 50-х років була на озброєнні в армії і міліції, до недавнього часу нею користувалися інкасатори і бійці Позавідомчої охорони, причому багато пістолетів старші своїх нинішніх володарів у два, а іноді і в три рази.</ukr>
+		<pln>===Револьвер системы Нагана образца 1895 года - семизарядный револьвер, разработанный и производившийся бельгийскими промышленниками братьями Эмилем и Леоном Наганами (Nagant), для Российской Империи, состоявший на вооружении и выпускавшийся в ряде стран в конце XIX - середине XX века.\n Русско-японская война, Первая Мировая, гражданская, финская, затем Великая Отечественная войны - всегда наган служил верой и правдой. Можно назвать множество причин такой популярности, однако, по мнению военных экспертов, основные - безотказность конструкции и эффективность для ближнего боя. Всего только в нашей стране было выпущено более 2 млн. Оружие до начала 50-х годов было на вооружении в армии и милиции, до недавнего времени им пользовались инкассаторы и бойцы Вневедомственной охраны, причем многие пистолеты старше своих нынешних обладателей в два, а иногда и в три раза.</pln>
+	</string>
+	<string id="enc_arsenal_wpn_nagan_of">
+		<rus>Револьвер системы Нагана, выпущенный в период разгара гражданской войны (с 1918 по 1920 год).\n На вооружение РККА был принят только самовзводный («офицерский») вариант 7,62-мм револьвера Нагана обр. 1895 г., при этом технологическая документация в 1918 году была переведена на метрическую систему измерений. Во время гражданской войны Тульский оружейный завод продолжал выпуск револьверов - в период с 1918 по 1920 год было изготовлено 175 115 шт. (52 863 шт. в 1918 году, 79 060 шт. в 1919 году и 43 192 шт. в 1920 году). После окончания гражданской войны неоднократно поднимался вопрос о перевооружении РККА, однако даже после принятия на вооружение в 1930 году пистолета ТТ производство револьверов продолжалось.</rus>
+		<eng>===Револьвер системы Нагана, выпущенный в период разгара гражданской войны (с 1918 по 1920 год).\n На вооружение РККА был принят только самовзводный («офицерский») вариант 7,62-мм револьвера Нагана обр. 1895 г., при этом технологическая документация в 1918 году была переведена на метрическую систему измерений. Во время гражданской войны Тульский оружейный завод продолжал выпуск револьверов - в период с 1918 по 1920 год было изготовлено 175 115 шт. (52 863 шт. в 1918 году, 79 060 шт. в 1919 году и 43 192 шт. в 1920 году). После окончания гражданской войны неоднократно поднимался вопрос о перевооружении РККА, однако даже после принятия на вооружение в 1930 году пистолета ТТ производство револьверов продолжалось.</eng>
+		<ukr>Револьвер системи Нагана, випущений у період розпалу громадянської війни (з 1918 по 1920 рік).\n На озброєння РККА був прийнятий тільки самовзводний («офіцерський») варіант 7,62-мм револьвера Нагана зр. 1895 р., при цьому технологічна документація у 1918 році була переведена на метричну систему вимірювань. Під час громадянської війни Тульський збройовий завод продовжував випуск револьверів - у період з 1918 по 1920 рік було виготовлено 175 115 шт. (52 863 шт. у 1918 році, 79 060 шт. у 1919 році і 43 192 шт. у 1920 році). Після закінчення громадянської війни неодноразово піднімалося питання про переозброєння РККА, проте навіть після прийняття на озброєння у 1930 році пістолета ТТ виробництво револьверів тривало.</ukr>
+		<pln>===Револьвер системы Нагана, выпущенный в период разгара гражданской войны (с 1918 по 1922 год).\n На вооружение РККА был принят только самовзводный («офицерский») вариант 7,62-мм револьвера Нагана обр. 1895 г., при этом технологическая документация в 1918 году была переведена на метрическую систему измерений. Во время гражданской войны Тульский оружейный завод продолжал выпуск револьверов - в период с 1918 по 1920 год было изготовлено 175 115 шт. (52 863 шт. в 1918 году, 79 060 шт. в 1919 году и 43 192 шт. в 1920 году). После окончания гражданской войны неоднократно поднимался вопрос о перевооружении РККА, однако даже после принятия на вооружение в 1930 году пистолета ТТ производство револьверов продолжалось.</pln>
 	</string>
 
 
@@ -4377,10 +4413,10 @@
 		<pln>Tłumik M7,62-P</pln>
 	</string>
 	<string id="enc_arsenal_sil_762_p">
-		<rus>Глушитель для пистолетов и ПП, использующих патрон 7.62x25 ТТ.</rus>
-		<eng>Silencer for pistols and SMGs using a 7.62x25 TT cartridge.</eng>
-		<ukr>Глушник для пістолетів і ПК, які використовують патрон 7.62x25 ТТ.</ukr>
-		<pln>Tłumik do pistoletów i PP, używających nabój 7,62x25 TT.</pln>
+		<rus>Глушитель для пистолетов и ПП, использующих патрон 7.62x25 ТТ, а также для револьвера Наган, использующего патрон Нагана 7.62х38мм.</rus>
+		<eng>===Silencer for pistols and SMGs using a 7.62x25 TT cartridge.</eng>
+		<ukr>Глушник для пістолетів і ПК, які використовують патрон 7.62x25 ТТ, а також для револьвера Наган, який використовує патрон Нагана 7.62х38мм.</ukr>
+		<pln>===Tłumik do pistoletów i PP, używających nabój 7,62x25 TT.</pln>
 	</string>
 	<string id="ars_silencer_44">
 		<rus>Глушитель М44-П</rus>
@@ -5273,5 +5309,47 @@
 		<eng>Special cartridge for the photo gun.</eng>
 		<ukr>Спеціальний патрон для фоторушниці.</ukr>
 		<pln>Specjalny nabój do fotobroni.</pln>
+	</string>
+	<string id="ammo-762x38">
+		<rus>Патроны 7.62х38мм Наган</rus>
+		<eng>===Патроны 7.62х38мм Наган</eng>
+		<ukr>Патрони 7.62х38мм Наган</ukr>
+		<pln>===Патроны 7.62х38мм Наган</pln>
+	</string>
+	<string id="ammo-762x38_s">
+		<rus>7.62 Nagant</rus>
+		<eng>7.62 Nagant</eng>
+		<ukr>7.62 Nagant</ukr>
+		<pln>7.62 Nagant</pln>
+	</string>
+	<string id="ars_ammo_762x38">
+		<rus>Штатный патрон 7,62 мм разработал Леон Наган для револьвера своей конструкции в 1887 г. Патрон 7,62 mm Nagant предназначен для стрельбы из револьвера образца 1895 г. и его модификаций.\n Оболочечная тупоконечная пуля со свинцовым сердечником полностью утоплена в гильзе и наружу не выступает. На своём месте она удерживается кернением. Дульце гильзы обкатано до меньшего диаметра, что облегчает заряжание оружия и обеспечивает надёжное функционирование механизма надвигания барабана револьвера на казённую часть ствола.\n Для своего времени, патрон отличался очень высокими баллистическими параметрами.</rus>
+		<eng>===Штатный патрон 7,62 мм разработал Леон Наган для револьвера своей конструкции в 1887 г. Патрон 7,62 mm Nagant предназначен для стрельбы из револьвера образца 1895 г. и его модификаций.\n Оболочечная тупоконечная пуля со свинцовым сердечником полностью утоплена в гильзе и наружу не выступает. На своём месте она удерживается кернением. Дульце гильзы обкатано до меньшего диаметра, что облегчает заряжание оружия и обеспечивает надежное функционирование механизма надвигания барабана револьвера на казённую часть ствола.\n Для своего времени, патрон отличался очень высокими баллистическими параметрами.</eng>
+		<ukr>Штатний патрон 7,62 мм розробив Леон Наган для револьвера своєї конструкції у 1887 р. Патрон 7,62 mm Nagant призначений для стрільби з револьвера зразка 1895 року і його модифікацій.\n Оболонкова тупокінцева куля зі свинцевим сердечником повністю втоплена у гільзі і назовні не виступає. На своєму місці вона утримується керненням. Дульце гільзи обкатане до меншого діаметра, що полегшує заряджання зброї і забезпечує надійне функціонування механізму насування барабана револьвера на казенну частину ствола.\n Для свого часу, патрон відрізнявся дуже високими балістичними параметрами.</ukr>
+		<pln>===Штатный патрон 7,62 мм разработал Леон Наган для револьвера своей конструкции в 1887 г. Патрон 7,62 mm Nagant предназначен для стрельбы из револьвера образца 1895 г. и его модификаций.\n Оболочечная тупоконечная пуля со свинцовым сердечником полностью утоплена в гильзе и наружу не выступает. На своём месте она удерживается кернением. Дульце гильзы обкатано до меньшего диаметра, что облегчает заряжание оружия и обеспечивает надежное функционирование механизма надвигания барабана револьвера на казённую часть ствола.\n Для своего времени, патрон отличался очень высокими баллистическими параметрами.</pln>
+	</string>
+	<string id="st_wpn_pipe">
+		<rus>Обрезок трубы</rus>
+		<eng>===Обрезок трубы</eng>
+		<ukr>Обрізок труби</ukr>
+		<pln>===Обрезок трубы</pln>
+	</string>
+	<string id="enc_weapons1_st_wpn_pipe">
+		<rus>Обрезок обычной водопроводной трубы. Не ахти какое оружие, но, за неимением лучшего, вполне сгодится для ближнего боя.</rus>
+		<eng>===Обрезок обычной водопроводной трубы. Не ахти какое оружие, но, за неимением лучшего, вполне сгодится для ближнего боя.</eng>
+		<ukr>Обрізок звичайної водопровідної труби. Не аби-яка зброя, але, за відсутністю кращої, цілком згодиться для ближнього бою.</ukr>
+		<pln>===Обрезок обычной водопроводной трубы. Не ахти какое оружие, но, за неимением лучшего, вполне сгодится для ближнего боя.</pln>
+	</string>
+	<string id="ars-toz34_m1">
+		<rus>ТОЗ-34 Шершня</rus>
+		<eng>===ТОЗ-34 Шершня</eng>
+		<ukr>ТОЗ-34 Шершня</ukr>
+		<pln>===ТОЗ-34 Шершня</pln>
+	</string>
+	<string id="arsenal_toz34">
+		<rus>До того, как стать бандитом, Шершень был опытным охотником, поэтому свой любимый ТОЗ, доставшийся ему от отца, профессионального егеря, он довёл до ума: на ложу ружья с пистолетной шейкой поставил резиновый затыльник-амортизатор, заменил боевые пружины на более качественные и доработал ударно-спусковой механизм, что положительно сказалось на надёжности ружья. На мушку поставил фосфорную метку, что позволяет комфортно прицелиться даже в сумерках. Несмотря на солидный возраст, благодаря тщательному уходу и бережному содержанию, ружьё сохранилось практически в идеальном состоянии.\n Шершня неоднократно просили продать или поменять его ТОЗ на полуавтоматические и многозарядные современные дробовики, но он наотрез отказывался расставаться со своим "любимчиком". Видимо, чтобы заполучить это ружьё, нужно только снять его с трупа хозяина.</rus>
+		<eng>===До того, как стать бандитом, Шершень был опытным охотником, поэтому свой любимый ТОЗ, доставшийся ему от его отца, профессионального егеря, он довёл до ума: на ложу ружья с пистолетной шейкой поставил резиновый затыльник-амортизатор, заменил боевые пружины на более качественные и доработал ударно-спусковой механизм, что положительно сказалось на надёжности ружья. На мушку поставил фосфорную метку, что позволяет комфортно прицелиться даже в сумерках. Не смотря на солидный возраст, благодаря тщательному уходу и бережному содержанию, ружьё сохранилось практически в идеальном состоянии.\n Шершня неоднократно просили продать или поменять его ТОЗ на полуавтоматические и многозарядные современные дробовики, но он наотрез отказывался расставаться со своим "любимчиком". Видимо, чтобы заполучить это ружьё, нужно только снять его с трупа хозяина.</eng>
+		<ukr>До того, як стати бандитом, Шершень був досвідченим мисливцем, тому свій улюблений ТОЗ, який дістався йому від батька, професійного єгеря, він довів до розуму: на ложу рушниці з пістолетною шийкою поставив гумовий потиличник-амортизатор, замінив бойові пружини на більш якісні і допрацював ударно-спусковий механізм, що позитивно позначилося на надійності рушниці. На мушку поставив фосфорну мітку, що дозволяє комфортно прицілитися навіть у сутінках. Незважаючи на солідний вік, завдяки ретельному догляду і дбайливому утримуванню, рушниця збереглася практично в ідеальному стані.\n Шершня неодноразово просили продати або поміняти його ТОЗ на напівавтоматичні і багатозарядні сучасні дробовики, але він навідріз відмовлявся розлучатися зі своїм "улюбленцем". Мабуть, щоб отримати цю рушницю, потрібно зняти її з трупа господаря.</ukr>
+		<pln>===До того, как стать бандитом, Шершень был опытным охотником, поэтому свой любимый ТОЗ, доставшийся ему от его отца, профессионального егеря, он довёл до ума: на ложу ружья с пистолетной шейкой поставил резиновый затыльник-амортизатор, заменил боевые пружины на более качественные и доработал ударно-спусковой механизм, что положительно сказалось на надёжности ружья. На мушку поставил фосфорную метку, что позволяет комфортно прицелиться даже в сумерках. Не смотря на солидный возраст, благодаря тщательному уходу и бережному содержанию, ружьё сохранилось практически в идеальном состоянии.\n Шершня неоднократно просили продать или поменять его ТОЗ на полуавтоматические и многозарядные современные дробовики, но он наотрез отказывался расставаться со своим "любимчиком". Видимо, чтобы заполучить это ружьё, нужно только снять его с трупа хозяина.</pln>
 	</string>
 </string_table>

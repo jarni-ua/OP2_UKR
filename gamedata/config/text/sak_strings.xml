@@ -247,7 +247,7 @@
 		<pln>Profesorze, wybaczcie, że zawracam wam głowę, ale interesuje mnie jeden bardzo ważny detal. W papierach Ducha było przecież coś o nieoznaczonej drodze, tak?</pln>
 	</string>
 	<string id="find_af_dummy_glassbeads_1">
-		<rus>А вы парень глазастый... Верно, было. Но как говориться - баш на баш. Пока вы были заняты отключением пси-установки, у нас здесь произошёл маленький инцидент. Из нашего бункера сбежали подопытные крысы, на которых мы проводили сверхважные опыты по тестированию новой вакцины. Если грызунов вовремя не вернуть, то несколько недель кропотливой работы пропадут даром. Не могли бы вы поймать беглецов? У них белоснежного цвета шерсть, легко отличите от других грызунов, сталкеры видели подобных на Дикой Территории. Всего крыс шесть, но одна из них старая и больная - поймайте хотя бы пять здоровых.</rus>
+		<rus>А вы парень глазастый... Верно, было. Но как говорится - баш на баш. Пока вы были заняты отключением пси-установки, у нас здесь произошёл маленький инцидент. Из нашего бункера сбежали подопытные крысы, на которых мы проводили сверхважные опыты по тестированию новой вакцины. Если грызунов вовремя не вернуть, то несколько недель кропотливой работы пропадут даром. Не могли бы вы поймать беглецов? У них белоснежного цвета шерсть, легко отличите от других грызунов, сталкеры видели подобных на Дикой Территории. Всего крыс шесть, но одна из них старая и больная - поймайте хотя бы пять здоровых.</rus>
 		<eng>And you're a sharp-eyed guy... Yes, you did. But as they say - quid pro quo. While you were busy shutting down the psi unit, we had a little incident here. Experimental rats escaped from our bunker, in which we conducted extremely important experiments testing a new vaccine. If the rodents are not brought back into the bunker in time, then a few weeks of hard work will be wasted. Could you catch the runaways? They have snow-white fur that makes them easily distinguishable from other rodents, stalkers have seen the rats like these in the Wild Territory. There are six rats in total, but one of them is old and sick - catch at least five healthy ones.</eng>
 		<ukr>А ви хлопець окатий... Вірно, було. Але як говориться - баш на баш. Поки ви були зайняті відключенням псі-установки, у нас тут стався маленький інцидент. З нашого бункера втекли піддослідні щури, на яких ми проводили надважливі досліди з тестування нової вакцини. Якщо гризунів вчасно не повернути, то кілька тижнів клопіткої роботи пропадуть дарма. Чи не могли б ви зловити втікачів? У них білосніжного кольору шерсть, легко відрізните від інших гризунів, сталкери бачили подібних на Дикій Території. Всього щурів шість, але один з них старий і хворий - зловіть хоча б п'ять здорових.</ukr>
 		<pln>Spostrzegawczy z was człowiek... Prawda, było... Ale, jak to się mówi - sztuka za sztukę. Kiedy byliście zajęci wyłączaniem instalacji psionicznej, zdarzył nam się tu mały incydent. Z naszego bunkra uciekły szczury doświadczalne, na których przeprowadzaliśmy bardzo ważne eksperymenty dotyczące testowania nowej szczepionki. Jeśli szybko nie odzyskamy gryzoni, to kilka tygodni żmudnej pracy pójdzie na marne. Moglibyście złapać tych uciekinierów? Mają sierść śnieżnobiałego koloru, łatwo odróżnicie je od innych gryzoni, stalkerzy widzieli podobne na Dziczy. Szczurów jest sześć sztuk, ale jeden z nich jest stary i chory - proszę złapać przynajmniej pięć zdrowych.</pln>
@@ -769,10 +769,10 @@
 		<pln>Dokumenty wojskowe</pln>
 	</string>
 	<string id="item_quest_case_06_desc">
-		<rus>Металлический кейс. По словам солдата-дезертира, содержит данные, присланные командиру базы для ознакомления с природой Зоны. Закрыт. Отрыть можно только с помощью подбора электронного пароля.</rus>
-		<eng>A metal case. According to the deserter, it contains data, sent to the base commander to familiarize with the nature of the Zone. It's locked. It can only be opened with the password guessing.</eng>
-		<ukr>Металевий кейс. За словами солдата-дезертира містить дані, надіслані командиру бази для ознайомлення з природою Зони. Закритий. Відрити можна тільки за допомогою підбору електронного пароля.</ukr>
-		<pln>Metalowy pojemnik. Według słów dezertera zawiera dane, przysłane dowódcy bazy dla zapoznania się z naturą Zony. Zamknięty. Otworzyć można tylko za pomocą elektronicznego hasła.</pln>
+		<rus>Металлический кейс. Закрыт. Отрыть можно только с помощью подбора электронного пароля.</rus>
+		<eng>A metal case. It's locked. It can only be opened with the password guessing.</eng>
+		<ukr>Металевий кейс. Закритий. Відрити можна тільки за допомогою підбору електронного пароля.</ukr>
+		<pln>Metalowy pojemnik. Zamknięty. Otworzyć można tylko za pomocą elektronicznego hasła.</pln>
 	</string>
 	<string id="item_quest_case_06_name">
 		<rus>Документы с базы военных</rus>
@@ -937,7 +937,7 @@
 		<pln>Pojemnik z podwyższonym zabezpieczeniem</pln>
 	</string>
 	<string id="inventory_sakbox_05_desc">
-		<rus>Стальной лабораторный контейнер. Предназначен для хранения и транспортирования опасных или хрупких веществ и предметов. В Зоне используется для транспортирования артефактов с неизвестными свойствами.</rus>
+		<rus>Стальной лабораторный контейнер. Предназначен для хранения и транспортировки опасных или хрупких веществ и предметов. В Зоне используется для транспортировки артефактов с неизвестными свойствами.</rus>
 		<eng>Steel laboratory container. Made for storing and transporting of hazardous or fragile items and substances. In the Zone it is used for transporting artifacts with unknown properties.</eng>
 		<ukr>Сталевий лабораторний контейнер. Призначений для зберігання і транспортування небезпечних або крихких речовин і предметів. У Зоні використовується для транспортування артефактів з невідомими властивостями.</ukr>
 		<pln>Stalowy pojemnik laboratoryjny. Przeznaczony do ochrony i transportu niebezpiecznych lub delikatnych  materiałów i przedmiotów. W Zonie uzywany do transportu artefaktów o nieznanych właściwościach.</pln>
@@ -979,10 +979,10 @@
 		<pln>Z wyglądu - zwykły podręcznik rachunku różniczkowego.</pln>
 	</string>
 	<string id="sak_book_warlab_name">
-		<rus>Книга из Варлаба</rus>
-		<eng>Book from Warlab</eng>
-		<ukr>Книга з Варлаба</ukr>
-		<pln>Książka z Warlabu</pln>
+		<rus>Книга из Военной Лаборатории</rus>
+		<eng>===Book from Warlab</eng>
+		<ukr>Книга з Військової Лабораторії</ukr>
+		<pln>===Książka z Warlabu</pln>
 	</string>
 	<string id="stukach_book_name">
 		<rus>Ежедневник</rus>
@@ -1159,10 +1159,10 @@
 		<pln>Liderowi grupy "Wolność" potrzebny jest dynamit. Przy jego pomocy będzie przebita droga z bazy "Wolności" wprost do Doliny Mroku. Według słów Łukasza, dynamit powinien być w okolicy centralnego kompleksu na Agropromie. Przypuszczalną lokalizację dynamitu mam oznaczoną w moim PDA. Promień poszukiwań - 10 metrów.</pln>
 	</string>
 	<string id="tex_esc_reward_case">
-		<rus>\nВ ящике, украденном Меченым с блокпоста военных, содержатся зашифрованные данные, которые может расшифровать только Бармен.</rus>
-		<eng>\nThe case, stolen from the military checkpoint by Marked One, contains the encrypted data, which only Barkeep is able to retrieve.</eng>
-		<ukr>\nВ ящику, вкраденому Міченим з блок поста військових, містяться зашифровані дані, які може розшифрувати лише Бармен.</ukr>
-		<pln>\nW skrzynce, skradzionej przez Naznaczonego z posterunku wojskowego, znajdują się zaszyfrowane dane, które może rozszyfrować tylko Barman.</pln>
+		<rus>\nВ ящике, украденном мною с блокпоста военных, содержатся зашифрованные данные, которые может расшифровать только Бармен.</rus>
+		<eng>===\nThe case, stolen from the military checkpoint by Marked One, contains the encrypted data, which only Barkeep is able to retrieve.</eng>
+		<ukr>\nУ ящику, вкраденому мною з блок поста військових, містяться зашифровані дані, які може розшифрувати лише Бармен.</ukr>
+		<pln>===\nW skrzynce, skradzionej przez Naznaczonego z posterunku wojskowego, znajdują się zaszyfrowane dane, które może rozszyfrować tylko Barman.</pln>
 	</string>
 	<string id="tex_esc_tolik_five_teily">
 		<rus>\nТолик попросил принести ему пять хвостов слепых собак, они ему нужны для преобразования артефактов.</rus>
@@ -1273,7 +1273,7 @@
 		<pln>\nPietrucha, przewodnik grupy, prosi żeby mu przynieść strzelbę TOZ, która bardzo mu się przyda w misji tępienia wszelkiego paskudztwa.</pln>
 	</string>
 	<string id="artmod_131_dialog_0">
-		<rus>Информация о артмодификации?</rus>
+		<rus>Информация об артмодификации?</rus>
 		<eng>Info on artifacts transmutation?</eng>
 		<ukr>Інформація про артмодифікацію?</ukr>
 		<pln>Informacja o artmodyfikacji?</pln>
@@ -1468,7 +1468,7 @@
 		<pln>A gdzie dziękuję? Uważaj, że z tamtego świata wróciłeś.</pln>
 	</string>
 	<string id="artmod_211_dialog_1">
-		<rus>Да, выручил ты меня. Как мы их, а?! Извини за нескромность, но я вижу, ты - опытный сталкер, а значит, можешь ещё мне кое в чём помочь. Дельце не сложное для тебя. Здесь складов с вооружением не водиться, патронов хороших днём с огнём не найти, а вот к пистолету ПМ патронов немерено... Один умелец и переделал пистолет-пулемёт МР5 под такие патроны. Мне с таким будет легче от всяких тварей отбиваться... Знаю, что сталкер с этим автоматом копыта отбросил в ж/д тоннеле, который вёл на Агропром раньше, да только обвалился... Ну что, возьмёшься? Я в долгу не останусь, интересной штукой поделюсь - как преобразовать артефакт.</rus>
+		<rus>Да, выручил ты меня. Как мы их, а?! Извини за нескромность, но я вижу, ты - опытный сталкер, а значит, можешь ещё мне кое в чём помочь. Дельце не сложное для тебя. Здесь складов с вооружением не водится, патронов хороших днём с огнём не найти, а вот к пистолету ПМ патронов немерено... Один умелец и переделал пистолет-пулемёт МР5 под такие патроны. Мне с таким будет легче от всяких тварей отбиваться... Знаю, что сталкер с этим автоматом копыта отбросил в ж/д тоннеле, который вёл на Агропром раньше, да только обвалился... Ну что, возьмёшься? Я в долгу не останусь, интересной штукой поделюсь - как преобразовать артефакт.</rus>
 		<eng>You've really helped me out. We did them, didn't we?! Forgive my indiscretion, but I see you're an experienced stalker, and that means, you could help me with something else as well. It won't be hard for you. There are no ammunition stores in this area, good ammo is not easy to come by, but for PM there's a shitload of ammo... So, one skilled gunsmith adapted a MP5 submachine gun for that ammo type. It'd be easier for me to fight off beasts with this one... I know one stalker's found his death in the railroad tunnel that once led to Agroprom but was obstructed later on... So, will you do the job for me? I won't stay in debt, instead I'll share an interesting info with you - on how to transform some artifact.</eng>
 		<ukr>Так, виручив ти мене. Як ми їх, а! Вибач за нескромність, але я бачу - ти досвідчений сталкер, а значить, можеш ще мені у дечому допомогти. Дільце не складне для тебе. Тут складів з озброєнням не водиться, патронів хороших вдень з вогнем не знайти, а от до пістолета ПМ патронів незміряно... Один умілець і переробив пістолет-кулемет МР5 під такі набої. Мені з таким буде легше від всяких тварюк відбиватися... Знаю, що сталкер з цим автоматом копита відкинув в залізничному тунелі, який вів на Агропром раніше, та тільки обвалився... Ну, що візьмешся? Я в боргу не залишуся - цікавою штукою поділюся - як перетворити артефакт.</ukr>
 		<pln>No, pomogłeś mi. Ale im daliśmy, ha!!! Wybacz nieskromność ale widzę, że jesteś doświadczonym stalkerem, a to znaczy, że mógłbyś mi jeszcze w czymś pomóc. Dla ciebie to pestka. Tu sklepów z zaopatrzeniem nie ma, dobrych naboi ze świecą szukać, a tylko do pistoletu PM naboi ile chcesz... Jeden majster przerobił pistolet maszynowy MP5 pod takie naboje. Z takim byłoby mi lżej obronić się od wszelkiego draństwa... Wiem, że stalker z tym automatem zginął w tunelu kolejowym, który kiedyś prowadził na Agroprom, ale się zawalił... No co, znajdziesz? Ja dłużnym nie zostanę, ciekawą informacją się podzielę - jak modyfikować artefakt.</pln>
@@ -1576,10 +1576,10 @@
 		<pln>Co za sprawę masz do mnie?</pln>
 	</string>
 	<string id="artmod_831_dialog_1">
-		<rus>Ты слышал, что обнаружили сталкеры в районе акведука в Тёмной Лощине? Целую кладку яиц каких-то тварей, похожих на пауков-переростков! Мы сообщили о находке Воронину - он приказал нам достать одно из яиц в качестве образца для научных исследований, а остальные - уничтожить. Наш отряд ещё не пришёл в норму от прошлого задания в Долине, а начальство уже новое выдаёт. Если сделаешь всё, как велел генерал, то я тебе очень полезный артефакт подарю... Идёт?</rus>
-		<eng>Have you heard what some stalkers have found in the Darkscape near the aquaduct bridge? A whole batch of eggs laid by some creatures resembling overgrown spiders! We told Voronin about the find. He ordered us to get one of these eggs for research and destroy the rest of them. Our squad has not completely recovered from the last mission in the Valley and now we've got a new task. If you do exactly as the general ordered, I'll give you a very useful artifact... Deal?</eng>
-		<ukr>Ти чув, що знайшли сталкери в районі акведука в Темній Балці? Цілу кладку яєць якихось тварин, схожих на павуків-переростків! Ми повідомили про знахідку Вороніну - він наказав нам дістати одне з яєць в якості зразка для наукових досліджень, а решта - знищити. Наш загін ще не прийшов в норму від минулого завдання в Долині, а начальство вже нове видає. Якщо зробиш все, як велів генерал, то я тобі дуже корисний артефакт подарую... Що скажеш?</ukr>
-		<pln>Słyszałeś, co znaleźli stalkerzy w okolicy mostu w Mrocznym Parowie? Cały stos jaj jakichś stworzeń, podobnych do przerośniętych  pająków! Powiadomiliśmy o wszystkim Woronina - rozkazał nam zdobyć jedno jajo jako materiał do badań naukowych, a resztę zniszczyć. Nasz oddział jeszcze nie przyszedł do siebie po poprzednim zadaniu w Dolinie, a władze już nowe dają. Jeśli zrobisz wszystko, zgodnie z rozkazem generała, to dam ci bardzo przydatny artefakt... Zgoda?</pln>
+		<rus>Ты слышал, что обнаружили сталкеры в пещере возле болот в Тёмной Долине? Целую кладку яиц каких-то тварей, похожих на пауков-переростков! Мы сообщили о находке Воронину - он приказал нам достать одно из яиц в качестве образца для научных исследований, а остальные - уничтожить. Наш отряд ещё не пришёл в норму от прошлого задания в Долине, а начальство уже новое выдаёт. Если сделаешь всё, как велел генерал, то я тебе очень полезный артефакт подарю... Идёт?</rus>
+		<eng>===Have you heard what some stalkers have found in the Darkscape near the aquaduct bridge? A whole batch of eggs laid by some creatures resembling overgrown spiders! We told Voronin about the find. He ordered us to get one of these eggs for research and destroy the rest of them. Our squad has not completely recovered from the last mission in the Valley and now we've got a new task. If you do exactly as the general ordered, I'll give you a very useful artifact... Deal?</eng>
+		<ukr>Ти чув, що знайшли сталкери у печері біля боліт у Темній Долині? Цілу кладку яєць якихось тварин, схожих на павуків-переростків! Ми повідомили про знахідку Вороніну - він наказав нам дістати одне з яєць в якості зразка для наукових досліджень, а решта - знищити. Наш загін ще не прийшов в норму від минулого завдання в Долині, а начальство вже нове видає. Якщо зробиш все, як велів генерал, то я тобі дуже корисний артефакт подарую... Що скажеш?</ukr>
+		<pln>===Słyszałeś, co znaleźli stalkerzy w okolicy mostu w Mrocznym Parowie? Cały stos jaj jakichś stworzeń, podobnych do przerośniętych  pająków! Powiadomiliśmy o wszystkim Woronina - rozkazał nam zdobyć jedno jajo jako materiał do badań naukowych, a resztę zniszczyć. Nasz oddział jeszcze nie przyszedł do siebie po poprzednim zadaniu w Dolinie, a władze już nowe dają. Jeśli zrobisz wszystko, zgodnie z rozkazem generała, to dam ci bardzo przydatny artefakt... Zgoda?</pln>
 	</string>
 	<string id="artmod_831_dialog_2">
 		<rus>Ладно, окажу вам услугу.</rus>
@@ -1618,10 +1618,10 @@
 		<pln>A-a, kurde, braciak. Trzymaj od nas podarek... To "Rubinowa Błona" - leczy na hura... I żebyś wiedział, tę "Rubinówkę" można otrzymać ze zwykłej "Błony"... Wrzucasz ją w "Śnieżną" i zaraz jest - ślicznotka... Prawie zapomniałem - "Rubinowa Błona" może anihilować anomalię, tylko zapomniałem jaką...</pln>
 	</string>
 	<string id="tex_val_pula_boar_leg">
-		<rus>Некие сталкеры обнаружили в районе акведука в Тёмной Лощине целую кладку яиц каких-то тварей, похожих на пауков-переростков. Макс Любер просит достать одно из яиц в качестве образца для научных исследований, а остальные - уничтожить. За это обещает необычный артефакт.</rus>
-		<eng>Some stalkers have found a whole batch of eggs in the Darkscape near the aquaduct bridge, laid by some creatures resembling overgrown spiders. Max Luber asked you to get one of these eggs for reasearch and destroy the rest of them. He promised an unusual artifact for that.</eng>
-		<ukr>Деякі сталкери виявили в районі акведука в Темній Долині цілу кладку яєць якихось тварюк, схожих на павуків-переростків. Макс Любер просить дістати одне з яєць у якості зразка для наукових досліджень, а решта - знищити. За це обіцяє незвичайний артефакт.</ukr>
-		<pln>Jacyś stalkerzy znaleźli w okolicy mostu w Mrocznym Parowie cały stos jaj jakichś stworzeń, wyglądających jak przerośnięte pająki. Maks Luber prosi by zdobyć jedno takie jajo jako materiał do badań naukowych, a pozostałe - zniszczyć. Za to obiecał niezwykły artefakt.</pln>
+		<rus>Некие сталкеры обнаружили в пещере возле болот в Тёмной Долине целую кладку яиц каких-то тварей, похожих на пауков-переростков. Макс Любер просит достать одно из яиц в качестве образца для научных исследований, а остальные - уничтожить. За это обещает необычный артефакт.</rus>
+		<eng>===Some stalkers have found a whole batch of eggs in the Darkscape near the aquaduct bridge, laid by some creatures resembling overgrown spiders. Max Luber asked you to get one of these eggs for reasearch and destroy the rest of them. He promised an unusual artifact for that.</eng>
+		<ukr>Деякі сталкери знайшли у печері біля боліт у Темній Долині цілу кладку яєць якихось тварюк, схожих на павуків-переростків. Макс Любер просить дістати одне з яєць у якості зразка для наукових досліджень, а решта - знищити. За це обіцяє незвичайний артефакт.</ukr>
+		<pln>===Jacyś stalkerzy znaleźli w okolicy mostu w Mrocznym Parowie cały stos jaj jakichś stworzeń, wyglądających jak przerośnięte pająki. Maks Luber prosi by zdobyć jedno takie jajo jako materiał do badań naukowych, a pozostałe - zniszczyć. Za to obiecał niezwykły artefakt.</pln>
 	</string>
 	<string id="artmod_221_dialog_0">
 		<rus>Бронежилет новый? Какой?</rus>
@@ -2062,10 +2062,10 @@
 		<pln>No, jeżeli Szerstiuk nim orzechów nie rozbijał, to calutki. Wypadło biegać dla niego za wódką, a jeszcze i pieniądze chciał. Następnym razem uprzedzaj o możliwych problemach, bo tak wykorzystać przyjaciół "na ślepo" to bardzo podłe.</pln>
 	</string>
 	<string id="tex_agr_krot_PDA">
-		<rus>\nКрот просит найти его ПДА, который он выронил в ж/д тоннеле возле входа на Агропром. Он сказал, что там много аномалий. Сдаётся мне, что он что-то не договаривает и кроме аномалий там меня поджидает какой-то сюрприз. Если бы было всё так просто, то сходил бы и сам поискал свой ПДА.</rus>
-		<eng>\nMole asked to bring him his PDA, which he dropped in the railway tunnel near the entrance to Agroprom. He said, there was lots of anomalies there. Seems to me, he's not telling me everything and there's something else there waiting for me. If it were all that easy, he'd go and look for his PDA himself.</eng>
-		<ukr>\nКрот просить знайти його КПК, який він упустив в залізничному тунелі біля входу на Агропром. Він сказав, що там багато аномалій. Здається мені, що він щось не договорює і крім аномалій там на мене чекає якийсь сюрприз. Якби все було так просто, то сходив би і сам пошукав свій КПК.</ukr>
-		<pln>\nKret prosi by odnaleźć jego PDA, które zostawił w tunelu kolejowym obok przejścia na Agroprom. Powiedział, że jest tam wiele anomalii. Wydaje mi się, że nie wszystko mi powiedział i oprócz anomalii tam mnie czeka jeszcze jakaś niespodzianka. Gdyby to było wszystko takie proste, to sam by tam poszedł i poszukał sobie te PDA.</pln>
+		<rus>\nКрот просит найти его ПДА, который он выронил в ж/д тоннеле возле входа на Агропром. Он сказал, что там опасно. Сдаётся мне, он что-то не договаривает, и там меня поджидает какой-то сюрприз. Если бы было всё так просто, то сходил бы и сам поискал свой ПДА.</rus>
+		<eng>===\nMole asked to bring him his PDA, which he dropped in the railway tunnel near the entrance to Agroprom. He said, there was lots of anomalies there. Seems to me, he's not telling me everything and there's something else there waiting for me. If it were all that easy, he'd go and look for his PDA himself.</eng>
+		<ukr>\nКрот просить знайти його КПК, який він упустив в залізничному тунелі біля входу на Агропром. Він сказав, що там небезпечно. Здається мені, що він щось не договорює і там на мене чекає якийсь сюрприз. Якби все було так просто, то сходив би і сам пошукав свій КПК.</ukr>
+		<pln>===\nKret prosi by odnaleźć jego PDA, które zostawił w tunelu kolejowym obok przejścia na Agroprom. Powiedział, że jest tam wiele anomalii. Wydaje mi się, że nie wszystko mi powiedział i oprócz anomalii tam mnie czeka jeszcze jakaś niespodzianka. Gdyby to było wszystko takie proste, to sam by tam poszedł i poszukał sobie te PDA.</pln>
 	</string>
 	<string id="artmod_871_dialog_0">
 		<rus>Привет, Волк! Ты чего здесь?</rus>
@@ -2236,10 +2236,10 @@
 		<pln>A jakie mają właściwości?</pln>
 	</string>
 	<string id="artmod_412_dialog_2">
-		<rus>Позволяют поднимать дополнительно 220 кг, но сами тяжёлые. Да и вредные воздействия из-за них усиливаются.</rus>
-		<eng>They allow to carry extra 220 kg, being very heavy themselves. Besides, they seem to increase negative effects.</eng>
-		<ukr>Дозволяють піднімати додатково 220 кг, але самі важкі. Та й шкідливі впливи через них посилюються.</ukr>
-		<pln>Pozwalają dżwigać dodatkowo 220 kg, ale same są też ciężkie... No i są szkodliwe dla zdrowia.</pln>
+		<rus>Позволяют поднимать дополнительно 220 кг, но сами тяжёлые.</rus>
+		<eng>They allow to carry extra 220 kg, being very heavy themselves.</eng>
+		<ukr>Дозволяють піднімати додатково 220 кг, але самі важкі.</ukr>
+		<pln>Pozwalają dżwigać dodatkowo 220 kg, ale same są też ciężkie.</pln>
 	</string>
 	<string id="artmod_412_dialog_3">
 		<rus>Хорошо, спасибо. Оставь себе один - может пригодится. Да и рецептик запиши...</rus>
@@ -2914,7 +2914,7 @@
 		<pln>Z dobrą mapą - życie uratujesz... Trzymaj...</pln>
 	</string>
 	<string id="artmod_53_61_dialog_92">
-		<rus>Бабки не проблема, главное чтобы всё по понятиям было, держи...</rus>
+		<rus>Бабки не проблема, главное, чтобы всё по понятиям было, держи...</rus>
 		<eng>Cash is not a problem, it is vital that we all act by the rules, here, take it...</eng>
 		<ukr>Бабки не проблема, головне щоб все за поняттями було, тримай...</ukr>
 		<pln>Kasa to nie problem... Najważniejsze, żeby wszystko jak należy było, trzymaj...</pln>
@@ -3178,7 +3178,7 @@
 		<pln>Tak, trzeba to dobrze zbadać... Tak, jest tu dużo ważnych informacji... Opisany jest sposób nastrojenia teleportu... Nieźle, nieźle! \nZapracowaliście na receptę - to pewne... Wprowadźcie do pamięci... Ale tego, chyba za mało, za takie cenne informacje. Idźcie teraz do Wilka, powinien przebywać na Magazynach Wojskowych, powiedzcie mu, że jesteście ode mnie i że prosiłem, by się odwdzięczył. On zrozumie. Wilk jest mi winny przysługę...  Ale to nasze sprawy.</pln>
 	</string>
 	<string id="tex_yan_scientist_books">
-		<rus>\nСахаров просит проверить лаборатории Х-16, Х-18, Х-10 а также какую-то Военную Лабораторию которая находится на Радаре, и принести все рукописи и книги, которые там будут... По предварительным данным, в Х-18 книга должна быть в одном из сейфов. В Х-16 книга может быть в помещении, где в последний раз выходил на связь Призрак. В Х-10 записная книжка может быть возле главного пульта или в соседних помещениях. В Военной Лаборатории следует тщательно обследовать все рюкзаки с тайниками.</rus>
+		<rus>\nСахаров просит проверить лаборатории Х-16, Х-18, Х-10 а также какую-то Военную Лабораторию, которая находится на Радаре, и принести все рукописи и книги, которые там будут... По предварительным данным, в Х-18 книга должна быть в одном из сейфов. В Х-16 книга может быть в помещении, где в последний раз выходил на связь Призрак. В Х-10 записная книжка может быть возле главного пульта или в соседних помещениях. В Военной Лаборатории следует тщательно обследовать все рюкзаки с тайниками.</rus>
 		<eng>\nSakharov asked to check the X-16, X-18, X-10 labs, and also some Military Laboratory, and bring him all the manuscripts and books found there... According to preliminary data, a book in the X-18 lab should be in a safe. In the X-16 lab there may be a book at the place where Ghost last contacted us. A notebook in the X-10 lab may be near the main control panel or in nearby rooms. In the Military Laboratory it is necessary to search all the hidden backpacks.</eng>
 		<ukr>\nСахаров просить перевірити лабораторії Х-16, Х-18, Х-10 а також якусь Військову Лабораторію, що знаходиться на Радарі, і принести всі рукописи і книги які там будуть... За попередніми даними в Х-18 книга повинна бути в одному із сейфів. У Х-16 книга може бути в приміщенні де останній раз виходив на зв'язок Привид. У Х-10 записна книжка може бути біля головного пульта або у сусідніх приміщеннях. У Військовій Лабораторії слід ретельно обстежити всі рюкзаки зі схованками.</ukr>
 		<pln>\nSacharow prosi o przeszukanie laboratoriów X-16, X-18, X-10 a także jakiś Warlab, który podobno znajduje się na Radarze i przyniesienie mu wszystkich rękopisów i książek, które tam znajdę... Według wstępnych danych, w X-18 książka badań powinna być w jednym z sejfów. W X-16 książka może być w pomieszczeniu, w którym Duch ostatni raz łączył się przez radio. W X-10 książka badań może być przy głównym pulpicie sterowniczym albo w sąsiednich pomieszczeniach. W Warlabie trzeba dokładnie przeszukać wszystkie plecaki ze schowkami.</pln>
@@ -3292,7 +3292,7 @@
 		<pln>Pozdrowienia, żołnierzu...</pln>
 	</string>
 	<string id="playboy_dialog_1">
-		<rus>Послушай, ты много, где мотаешься, может найдёшь мне одну вещь...</rus>
+		<rus>Послушай, ты много где мотаешься, может найдёшь мне одну вещь...</rus>
 		<eng>Listen, you travel a lot, maybe you can find a certain thing for me...</eng>
 		<ukr>Послухай, ти багато де мотаєшся, може знайдеш мені одну річ...</ukr>
 		<pln>Posłuchaj, ty dużo podróżujesz, może znajdziesz mi pewną rzecz...</pln>
@@ -3658,7 +3658,7 @@
 		<eng>\n\n"Soul" artifact is created by way of simultaneous transmutation in "Vortex" anomaly of four ingredients: \n \n
 		Snork's leg\n
 		"Slug"\n
-		"Stone Flower\n
+		"Stone Flower"\n
 		"Flash"\n \nTransmutation is complete within 5-10 minutes\n%c[255,255,255,255]Probability of successful transmutation  %c[255,1,255,1]80 %\n%c[255,255,255,255]Probability of degeneration  %c[255,255,1,1]20 %%c[default]</eng>
 		<ukr>\n\nАртефакт "Душа" виходить шляхом спільної трансмутації в аномалії "Воронка" відразу чотирьох інгредієнтів:\n \n
 		 - Нога снорка\n
@@ -4428,9 +4428,9 @@
 		<pln>"Idol Monolitu"</pln>
 	</string>
 	<string id="af_idol_monolita_desc">
-		<rus>\n\nХарактеристики у артефакта отсутствуют, что очень необычно для данной местности. Но, может, это и объясняет истинную природу появления этого артефакта, да и ещё при таких условиях. Возможно, это действительно какое-то древнее творение индейцев майя, и они с помощью его разгоняли тучи на небесах, чтобы наблюдать за звёздами. Это также объясняет, почему Монолит заявил на него свои права. Видимо, им тоже нужно небо без облаков, чтоб они могли связываться через антенны со своим создателем. Но, похоже, что этому артефакту ещё нужна активация - без неё он просто декоративный элемент. В любом случае, всё это довольно странно.\nКроме этого, артефакт имеет еще одно необычное свойство: при одевании на пояс он как бы укрепляет руки владельца. Благораря этому заметно снижается вероятность выронить из рук оружие под воздействием аномальных атак монстров.</rus>
+		<rus>\n\nХарактеристики у артефакта отсутствуют, что очень необычно для данной местности. Но, может, это и объясняет истинную природу появления этого артефакта, да и ещё при таких условиях. Возможно, это действительно какое-то древнее творение индейцев майя, и они с помощью него разгоняли тучи на небесах, чтобы наблюдать за звёздами. Это также объясняет, почему Монолит заявил на него свои права. Видимо, им тоже нужно небо без облаков, чтоб они могли связываться через антенны со своим создателем. Но, похоже, что этому артефакту ещё нужна активация - без неё он просто декоративный элемент. В любом случае, всё это довольно странно.\nКроме этого, артефакт имеет ещё одно необычное свойство: при одевании на пояс он как бы укрепляет руки владельца. Благодаря этому заметно снижается вероятность выронить из рук оружие под воздействием аномальных атак монстров.</rus>
 		<eng>\n\nThis artifact has no distinctive qualities which is very unusual for its place of origin. Yet may be that is what explains the true nature of its creation, especially given such conditions for it. It is possible this is indeed some kind of an ancient creation of Maya people who used it to disperse clouds so as to watch stars. This also explains why Monolithians have claimed their right to it. Seems they need to have the sky cloudless, too, so that they can communicate with their creator by means of aerials. But it looks like this artifact requires activation - without it it's just decoration. This is all somewhat strange anyway.\nBesides, this artifact possesses another unusual quality: when worn on belt it somehow strengthens wearer's hands. Thanks to that the probability of weapon drop caused by mutant's anomalous attack is considerably reduced.</eng>
-		<ukr>\n\nХарактеристики у артефакту відсутні, що дуже незвично для даної місцевості. Але, може, це і пояснює справжню природу появи цього артефакту, та й ще при таких умовах. Можливо, це дійсно якесь древнє творіння індіанців майя, і вони з допомогою нього розганяли хмари на небесах, щоб спостерігати за зірками. Це також пояснює, чому Моноліт заявив на нього свої права. Мабуть, їм теж потрібно небо без хмар, щоб вони могли зв'язуватися через антени зі своїм творцем. Але, схоже, що цьому артефакту ще потрібна активація - без неї він просто декоративний елемент. У кожному разі, все це досить дивно.\nКрім цього, артефакт має ще одну незвичайну властивість: при одяганні на пояс він ніби зміцнює руки власника. Завдяки цьому помітно знижується ймовірність упустити з рук зброю під впливом аномальних атак монстрів.</ukr>
+		<ukr>\n\nХарактеристики у артефакту відсутні, що дуже незвично для даної місцевості. Але, може, це і пояснює справжню природу появи цього артефакту, та й ще при таких умовах. Можливо, це дійсно якесь древнє творіння індіанців майя, і вони за допомогою нього розганяли хмари на небесах, щоб спостерігати за зірками. Це також пояснює, чому Моноліт заявив на нього свої права. Мабуть, їм теж потрібно небо без хмар, щоб вони могли зв'язуватися через антени зі своїм творцем. Але, схоже, що цьому артефакту ще потрібна активація - без неї він просто декоративний елемент. У кожному разі, все це досить дивно.\nКрім цього, артефакт має ще одну незвичайну властивість: при одяганні на пояс він ніби зміцнює руки власника. Завдяки цьому помітно знижується ймовірність упустити з рук зброю під впливом аномальних атак монстрів.</ukr>
 		<pln>\n\nTen artefakt nie ma żadnych właściwości, co jest bardzo nietypowe dla danych przedmiotów. Ale, może to właśnie pokazuje prawdziwą naturę tego artefaktu. Możliwe, że to rzeczywiście jakiś dawny twór Indian Maja, i oni za jego pomocą rozpędzali chmury na niebie, by obserwować gwiazdy. To także wyjaśnia, dlaczego Monolit uzurpuje sobie do niego prawo. Widocznie, oni też potrzebują bezchmurnego nieba, by mogli za pomocą anten łączyć się ze swoim Bogiem. Wszystko wskazuje na to, że ten artefakt potrzebuje jeszcze aktywacji - bez niej jest tylko elementem dekoracyjnym. W każdym razie, to wszystko jest bardzo dziwne.\nPoza tym, artefakt ma jeszcze jedną nadzwyczajną właściwość: po zamocowaniu go na pasie w jakiś sposób wzmacnia ręce posiadacza. Dzięki temu wyraźnie obniża się prawdopodobieństwo wypadnięcia broni z rąk pod wpływem anomalnych ataków mutantów.</pln>
 	</string>
 	<string id="af_art_fenrira">
@@ -5172,9 +5172,9 @@
 		<pln>Słuchaj, a prosto do Sarkofagu można się dostać?</pln>
 	</string>
 	<string id="teleport_06_dialog_1">
-		<rus>Наверное, можно, только данных оттуда нет, и где взять не знаю... А вот, где геологическая съёмка Припяти располагается - знаю.</rus>
+		<rus>Наверное, можно, только данных оттуда нет, и где взять, не знаю... А вот где геологическая съёмка Припяти располагается - знаю.</rus>
 		<eng>Maybe, it is, it's just that I've no data chart for this area and I've no idea where to find it... What I do know is where the geological survey for Pripyat is.</eng>
-		<ukr>Напевно можна, тільки даних звідти немає, і де взяти не знаю... А от де геологічна зйомка Прип'яті розташовується - знаю.</ukr>
+		<ukr>Напевно можна, тільки даних звідти немає, і де взяти, не знаю... А от де геологічна зйомка Прип'яті розташовується - знаю.</ukr>
 		<pln>Na pewno można... Tylko danych stamtąd nie ma, a skąd wziąć, nie wiem... Ale gdzie jest geologiczne zdjęcie Prypeci, to wiem.</pln>
 	</string>
 	<string id="teleport_06_dialog_4">
@@ -6942,9 +6942,9 @@
 		<pln>Oto twój kontener, Ledwo "przekonałem" monolitowców by mi go oddali... Gadaj o "Żywym Sercu"!</pln>
 	</string>
 	<string id="about_life_heart_42_dialog_3">
-		<rus>Призрак искал артефакт "Пустышка", говорил что для Стрелка.</rus>
+		<rus>Призрак искал артефакт "Пустышка", говорил, что для Стрелка.</rus>
 		<eng>Ghost was looking for a "Dummy" artifact, he said it was for Strelok.</eng>
-		<ukr>Привид шукав артефакт "Порожнявка", говорив що для Cтрільця.</ukr>
+		<ukr>Привид шукав артефакт "Порожнявка", говорив, що для Cтрільця.</ukr>
 		<pln>Duch szukał artefaktu "Pustak". Mówił, że dla Striełoka.</pln>
 	</string>
 	<string id="about_life_heart_42_dialog_4">
@@ -7285,16 +7285,16 @@
 		<pln>Dochodzenie</pln>
 	</string>
 	<string id="voronin_about_klik_desc">
-		<rus>По словам Воронина, Клык как-то пересекался с наёмниками. Советует сходить к Информатору. У того должны быть связи с наёмниками. Возможно, от него я смогу узнать больше.</rus>
-		<eng>According to Voronin, Fang somehow crossed paths with mercenaries. He advised to go to the Informer. The latter should have connections with mercenaries. Perhaps I can learn more from him.</eng>
+		<rus>По словам Воронина, Клык как-то пересекался с наёмниками. Советует сходить к Осведомителю. У того должны быть связи с наёмниками. Возможно, от него я смогу узнать больше.</rus>
+		<eng>===According to Voronin, Fang somehow crossed paths with mercenaries. He advised to go to the Informer. The latter should have connections with mercenaries. Perhaps I can learn more from him.</eng>
 		<ukr>За словами Вороніна, Клик якось перетинався з найманцями. Радить сходити до Інформатора. У того повинні бути зв'язку з найманцями. Можливо, від нього я зможу дізнатися більше.</ukr>
-		<pln>Według Woronina, Kieł miał coś wspólnego z najemnikami. Radzi znaleźć informatora. On powinien mieć powiązania z najemnikami. Możliwe, że od niego dowiem się czegoś więcej.</pln>
+		<pln>===Według Woronina, Kieł miał coś wspólnego z najemnikami. Radzi znaleźć informatora. On powinien mieć powiązania z najemnikami. Możliwe, że od niego dowiem się czegoś więcej.</pln>
 	</string>
 	<string id="voronin_about_klik_text">
-		<rus>По словам Воронина, Клык как-то пересекался с наёмниками. Советует сходить к Информатору. У того должны быть связи с наёмниками. Возможно, от него я смогу узнать больше.</rus>
-		<eng>According to Voronin, Fang somehow crossed paths with mercenaries. He advised to go to the Informer. The latter should have connections with mercenaries. Perhaps I can learn more from him.</eng>
+		<rus>По словам Воронина, Клык как-то пересекался с наёмниками. Советует сходить к Осведомителю. У того должны быть связи с наёмниками. Возможно, от него я смогу узнать больше.</rus>
+		<eng>===According to Voronin, Fang somehow crossed paths with mercenaries. He advised to go to the Informer. The latter should have connections with mercenaries. Perhaps I can learn more from him.</eng>
 		<ukr>За словами Вороніна, Клик якось перетинався з найманцями. Радить сходити до Інформатора. У того повинні бути зв'язку з найманцями. Можливо, від нього я зможу дізнатися більше.</ukr>
-		<pln>Według Woronina, Kieł miał coś wspólnego z najemnikami. Radzi znaleźć informatora. On powinien mieć powiązania z najemnikami. Możliwe, że od niego dowiem się czegoś więcej.</pln>
+		<pln>===Według Woronina, Kieł miał coś wspólnego z najemnikami. Radzi znaleźć informatora. On powinien mieć powiązania z najemnikami. Możliwe, że od niego dowiem się czegoś więcej.</pln>
 	</string>
 	<string id="voronin_begin">
 		<rus>Воронин: расследование продолжается</rus>
@@ -7303,16 +7303,16 @@
 		<pln>Woronin. Dochodzenie w toku</pln>
 	</string>
 	<string id="informator_begin">
-		<rus>Информатор: двигаемся дальше</rus>
-		<eng>Informer: moving on</eng>
-		<ukr>Інформатор: Рухаємося далі.</ukr>
-		<pln>Informator. Posuwamy się dalej</pln>
+		<rus>Осведомитель: двигаемся дальше</rus>
+		<eng>===Informer: moving on</eng>
+		<ukr>Інформатор: рухаємося далі.</ukr>
+		<pln>===Informator. Posuwamy się dalej</pln>
 	</string>
 	<string id="informator_about_klik_text">
-		<rus>Между различными кланами наёмников есть существенные разногласия, которые приводят к серьёзным столкновениям. Пришлось добыть для Информатора ПДА главы наёмников Тирана из лап отколовшейся группы наймов. Взамен он договорился о моей встрече с каким-то Гавром. Куда меня заведёт моё расследование дальше - пока совсем не понятно.</rus>
-		<eng>There are substantial differences between various mercenary clans, which lead to serious clashes. I had to get for Informer the PDA of the head of the mercs Tiran, had to steal it from a breakaway mercenary group. In exchange, he arranged for me to meet with some Havre. Where my investigation will lead me further on is not yet clear.</eng>
+		<rus>Между различными кланами наёмников есть существенные разногласия, которые приводят к серьёзным столкновениям. Пришлось добыть для Осведомителя ПДА главы наёмников Тирана из лап отколовшейся группы наймов. Взамен он договорился о моей встрече с каким-то Гавром. Куда меня заведёт моё расследование дальше - пока совсем не понятно.</rus>
+		<eng>===There are substantial differences between various mercenary clans, which lead to serious clashes. I had to get for Informer the PDA of the head of the mercs Tiran, had to steal it from a breakaway mercenary group. In exchange, he arranged for me to meet with some Havre. Where my investigation will lead me further on is not yet clear.</eng>
 		<ukr>Між різними кланами найманців є істотні розбіжності, які призводять до серйозних зіткнень. Для Інформатора довелося добути з лап групи наймів, які відкололися, КПК голови найманців Тирана. В подяку він домовився про мою зустріч з якимось Гавром. Куди мене заведе моє розслідування далі - поки зовсім не зрозуміло.</ukr>
-		<pln>Między różnymi klanami najemników są znaczne rozbieżności, które prowadzą do poważnych konfliktów. Musiałem odzyskać z rąk uciekającej grupy najemników PDA dowódcy najemników Tyrana. W zamian Informator zorganizował mi spotkanie z jakimś Gawrem. Gdzie mnie zaprowadzi to dochodzenie - na razie nie bardzo wiadomo.</pln>
+		<pln>===Między różnymi klanami najemników są znaczne rozbieżności, które prowadzą do poważnych konfliktów. Musiałem odzyskać z rąk uciekającej grupy najemników PDA dowódcy najemników Tyrana. W zamian Informator zorganizował mi spotkanie z jakimś Gawrem. Gdzie mnie zaprowadzi to dochodzenie - na razie nie bardzo wiadomo.</pln>
 	</string>
 	<string id="gavr_begin">
 		<rus>Гавр</rus>
@@ -7392,18 +7392,6 @@
 		<ukr>Еколог: Розмова друга.</ukr>
 		<pln>Ekolog. Rozmowa druga</pln>
 	</string>
-	<string id="yakut_about_prizrak_text">
-		<rus>Якут послал меня в подземелья Агропрома. Я не нашёл там никого, кроме кровососов и каких-то людей, пытавшихся меня убить. Поговорю с ним ещё раз.</rus>
-		<eng>Yakut sent me to the Agroprom underground. I didn't find anyone there, except bloodsuckers and some people who tried to kill me. I'll have to talk to him again.</eng>
-		<ukr>Якут послав мене в підземелля Агропрома. Я не знайшов там нікого, крім кровососів і якихось людей, які намагалися мене вбити. Поговорю з ним ще раз.</ukr>
-		<pln>Jakut wysłał mnie do podziemi Agropromu. Nie znalazłem tam nikogo, oprócz pijawek i jakichś ludzi, próbujących mnie zabić. Porozmawiam z nim jeszcze raz.</pln>
-	</string>
-	<string id="yakut_talk">
-		<rus>Якут: разговор первый</rus>
-		<eng>Yakut: the first conversation</eng>
-		<ukr>Якут: Перша розмова.</ukr>
-		<pln>Jakut. Rozmowa pierwsza</pln>
-	</string>
 	<string id="yakut_about_prizrak2_text">
 		<rus>Наконец-то я нашёл его. Да, эколог оказался прав. Призрак ЖИВ!</rus>
 		<eng>I finally found him. Yes, the ecologist was right. Ghost is ALIVE!</eng>
@@ -7411,10 +7399,10 @@
 		<pln>W końcu go znalazłem. Tak, ekolog miał rację. Duch ŻYJE!</pln>
 	</string>
 	<string id="yakut_talk2">
-		<rus>Якут: разговор второй</rus>
-		<eng>Yakut: the second conversation</eng>
-		<ukr>Якут: Друга розмова.</ukr>
-		<pln>Jakut. Rozmowa druga</pln>
+		<rus>Разговор с Якутом</rus>
+		<eng>===Yakut: the second conversation</eng>
+		<ukr>Розмова з Якутом.</ukr>
+		<pln>===Jakut. Rozmowa druga</pln>
 	</string>
 	<string id="prizrak_about_prizrak_text">
 		<rus>Как я понял, некая организация или группировка охотилась за Призраком. Нанёс им ответный визит. Главарь по прозвищу Зверь бежал. Ничего... Скоро мы найдём его.</rus>
@@ -7457,7 +7445,7 @@ Ta szwajcarska zabawka dobra była na odległość, ale od stada psów mogłem t
 		<pln>Notatka Sowy, adresowana do Ducha</pln>
 	</string>
 	<string id="voen_about_group_text">
-		<rus>Я остался один, задание провалено... Эти записи - единственное, что удерживает мою личность от дальнейшего распада... Память - как решето, но, записывая и перечитывая эти строки, я надеюсь удержаться в сознании и добраться до своих. Главное - дойти, а уж там, под гипнодопросом, я расскажу всё. Надеюсь...  Обычная миссия конвоирования, как сказано в вводной. «Отработка боевых действий в условиях переменной напряжённости пси-полей, тестирование аппаратно-фармацевтического комплекса ментальной защиты», что-то там ещё... Складно поют научники... Хотя, по выправке было видно, двое из них явно наши, армейские... Что там им потребовалось, я не знаю... Вероятно, не убрали за собой в прошлый раз... Не зря говорят, псих с пулемётом не так опасен, как какой-нибудь идеалист в очках и белом халате... Шли в странном темпе, частые остановки... Для замеров, как они говорили... График изменения напряжённости пси-поля заставили выучить наизусть... Шлем тяжеленный, голова гудит, шея гнётся на бок... Тут ещё инъекторы эти, колют каждые два часа... Впрочем, пси-защита не плохая... Забрались далеко, со зрением что-то творится, красок совсем нет, всё жёлтое, зомби шляются... Ну да нам не привыкать, раскатали их... В передовом охранении шла пятёрка Сармата... Снайпера хорошие. Были... Атака контролёра совпала с включением излучателей... Вне графика включились, видать, кто-то там эту шарманку вручную крутит... Захватил он их... Меня хорошо приложили, по касательной в голову... Шлем выдержал, а вот вся электроника - в хлам, да и сотрясение мозга заработал... Очнулся к вечеру, в живых - один Сармат с пустым «Винторезом» кругами вокруг контролёра ходит... Положил я их, обоих... И от сотрясения мозга польза бывает... Наши все полегли... Учёные тоже... Контролёр их между собой стравил... Вторые сутки выбираюсь к своим, голова болит, тошнота наизнанку выворачивает... в аптечке что-то осталось, помогает на пару часов... Тогда сажусь, вспоминаю и записываю... Потом - снова мрак... На Свалке встретил сталкера... Плохо помню, он раненый вроде был... Шуганул бандюка в развалинах, видать это он сталкера зацепил... Странный какой-то, лежал, а потом стволом размахивать начал - стреляться задумал что-ли? Дал по шее, чтоб не дурил... Оставил ему рюкзак свой, бинты, часть аптечки, водку и весь харч - не до еды мне... Договорились, что он, когда отлежится, мой ПДА нашим на блокпост отнесёт, там маршрут отмечен и копия дневника... Боюсь, не дойти мне... надо дойти... любой ценой... Сармат, прости...\n \n \n \n \n</rus>
+		<rus>Я остался один, задание провалено... Эти записи - единственное, что удерживает мою личность от дальнейшего распада... Память - как решето, но, записывая и перечитывая эти строки, я надеюсь удержаться в сознании и добраться до своих. Главное - дойти, а уж там, под гипнодопросом, я расскажу всё. Надеюсь...  Обычная миссия конвоирования, как сказано в вводной. «Отработка боевых действий в условиях переменной напряжённости пси-полей, тестирование аппаратно-фармацевтического комплекса ментальной защиты», что-то там ещё... Складно поют научники... Хотя, по выправке было видно, двое из них явно наши, армейские... Что там им потребовалось, я не знаю... Вероятно, не убрали за собой в прошлый раз... Не зря говорят, псих с пулемётом не так опасен, как какой-нибудь идеалист в очках и белом халате... Шли в странном темпе, частые остановки... Для замеров, как они говорили... График изменения напряжённости пси-поля заставили выучить наизусть... Шлем тяжеленный, голова гудит, шея гнётся на бок... Тут ещё инъекторы эти, колют каждые два часа... Впрочем, пси-защита не плохая... Забрались далеко, со зрением что-то творится, красок совсем нет, всё жёлтое, зомби шляются... Ну да нам не привыкать, раскатали их... В передовом охранении шла пятёрка Сармата... Снайпера хорошие. Были... Атака контролёра совпала с включением излучателей... Вне графика включились, видать, кто-то там эту шарманку вручную крутит... Захватил он их... Меня хорошо приложили, по касательной в голову... Шлем выдержал, а вот вся электроника - в хлам, да и сотрясение мозга заработал... Очнулся к вечеру, в живых - один Сармат с пустым «Винторезом» кругами вокруг контролёра ходит... Положил я их, обоих... И от сотрясения мозга польза бывает... Наши все полегли... Учёные тоже... Контролёр их между собой стравил... Вторые сутки выбираюсь к своим, голова болит, тошнота наизнанку выворачивает... в аптечке что-то осталось, помогает на пару часов... Тогда сажусь, вспоминаю и записываю... Потом - снова мрак... На Свалке встретил сталкера... Плохо помню, он раненый вроде был... Шуганул бандюка в развалинах, видать это он сталкера зацепил... Странный какой-то, лежал, а потом стволом размахивать начал - стреляться задумал что ли? Дал по шее, чтоб не дурил... Оставил ему рюкзак свой, бинты, часть аптечки, водку и весь харч - не до еды мне... Договорились, что он, когда отлежится, мой ПДА нашим на блокпост отнесёт, там маршрут отмечен и копия дневника... Боюсь, не дойти мне... надо дойти... любой ценой... Сармат, прости...\n \n \n \n \n</rus>
 		<eng>I was left alone, the mission failed... These records are the only thing that keeps my personality from further decay... Memory is like a sieve, but, by writing down and re-reading these lines, I hope to stay conscious and get to my own. The most important thing for me now is to get to them, and there, under hypnosis, I'll tell everything. I hope I will... The usual escort mission, as stated in the introductory part. “Developing combat skills in conditions of variable intensity psi-fields, testing the instrument-based pharmacological mental protection system” and something else... Some sweet melody of the scientists... Although, it was obvious from the bearing that two of them were our people, the military... I don’t know what they needed there... Probably, they didn’t do a good job mopping up after themselves the last time... It's not said in vain, a psycho with a machine gun is not as dangerous as some idealist with glasses and a white coat... They were going at a strange pace, stopping frequently... To take measurements, they said... They made me memorize a graph of psi-field intensity change... The helmet is heavy, the head is buzzing, the neck bends on its side... There were also these injectors, giving us injections every two hours... However, the psi-defense thus provided wasn't bad... We got fairly far, something was wrong with the sight, there were colors at all, everything was yellow, zombies hanging around... Well, we were used to them, wiped them out... A group of five headed by Sarmat led the vanguard... They were good snipers. They were until... Controller's attack coincided with the turning on of the emitters... Turned on off schedule, apparently, someone does this manually sometimes... It captured them... I was hit quite badly, the head grazed with the bullet... The helmet didn't fail, but all the electronics was wasted, and I got concussion... I woke up in the evening, only Sarmat was alive circling around the controller with the empty Vintorez in his hands... I took out both of them... Sometimes concussion is useful... All of our men were dead... The scientists too... The controller had set them against each other... For two days have I been trying to get to our people, my head hurts, the nausia made my stomach turn over... what little I'd had left in the first-aid kit kept helping me for a short time only... At those times I'd sit down, remember something and write it down... Then darkness would fall again... I met a stalker at the Dump... I don't remember clearly, it seemed to me he was wounded... I spooked some bandit in the ruins, apparrently it was he who shot that stalker... The stalker was weird, he was lying there still and then he began brandishing his gun - was he about to shoot at me? I hit him hard to stop him from committing any more stupidities... I left him his backpack, some bandages, part of the first-aid kit, vodka and all the grub I had: I couldn't eat anyway... Made a deal with him that once he recovered a bit, he'd take my PDA to our men at the checkpoint, there was my route marked on it and a copy of my diary... I'm afraid I won't be able to get there... I have to get there... no matter the cost... Forgive me, Sarmat...\n \n \n \n \n</eng>
 		<ukr>Я залишився один, завдання провалено... Ці записи - єдине, що утримує мою особистість від подальшого розпаду... Пам'ять - як решето, але, записуючи і перечитуючи ці рядки, я сподіваюся утриматися у свідомості і дістатися до своїх. Головне - дійти, а вже там, під гіпнодопитом, я розповім все. Сподіваюся... Звичайна місія конвоювання, як сказано у вступній. «Відпрацювання бойових дій в умовах змінної напруженості псі-полів, тестування апаратно-фармацевтичного комплексу ментального захисту», щось там ще... Складно співають науковці... Хоча, по поставі було видно, двоє з них явно наші, армійські... Що там їм знадобилося, я не знаю... Ймовірно, не прибрали за собою в минулий раз... Не дарма кажуть, псих з кулеметом не так небезпечний, як який-небудь ідеаліст в окулярах і білому халаті... Йшли в дивному темпі, часті зупинки... Для замірів, як вони говорили... Графік зміни напруженості псі-поля змусили вивчити напам'ять... Шолом важкенний, голова гуде, шия гнеться на бік... Тут ще ін'єктори ці, колють кожні дві години... Втім, псі-захист не поганий... Забрались далеко, із зором щось твориться, фарб зовсім немає, все жовте, зомбі вештаються... Ну так нам не звикати, розкатали їх... У передовій охороні йшла п'ятірка Сармата... Снайпери хороші. Були... Атака контролера збіглася з включенням випромінювачів... Поза графіком ввімкнулися, видно, хтось там цю шарманку вручну крутить... Захопив він їх... Мене добре приклали, по дотичній в голову... Шолом витримав, а от вся електроніка - в мотлох, та й струс мозку заробив... Отямився ввечорі, в живих - один Сармат з порожнім «Гвинторізом» колами навколо контролера ходить... Поклав я їх, обох... І від струсу мозку користь буває... Наші всі полягли... Вчені теж... Контролер їх між собою стравив... Другу добу вибираюся до своїх, голова болить, нудота навиворіт вивертає... в аптечці щось залишилося, допомагає на пару годин... Тоді сідаю, згадую і записую... Потім - знову морок... на Звалищі зустрів сталкера... Погано пам'ятаю, він поранений начебто був... шугонув бандюка в руїнах, видно це він сталкера зачепив... Дивний якийсь, лежав, а потім стволом розмахувати почав - стрілятися задумав чи що? Дав по шиї, щоб не дурив... Залишив йому рюкзак свій, бинти, частину аптечки, горілку і весь харч - не до їжі мені... Домовилися, що він, коли відлежиться, мій КПК нашим на блок-пост віднесе, там маршрут відзначений і копія щоденника... Боюся, не дійти мені... треба дійти... за будь-яку ціну... Сармате, вибач...\n \n \n \n \n</ukr>
 		<pln>Zostałem sam, zadanie nie wypełnione... Te notatki – to jedyne, co powstrzymuje moją osobowość przed dalszym rozpadem... Pamięć jak sito, ale zapisując i czytając później te słowa, mam nadzieję zachować świadomość i dotrzeć do swoich. Najważniejsze - dojść, a tam już, pod hipnozą, opowiem wszystko. Mam nadzieję... To miała być zwyczajna misja konwojowa, jak powiedziano we wprowadzeniu. "Ćwiczenie działań bojowych w warunkach zmiennego natężenia pola psionicznego, testowanie sprzętowo-farmaceutycznego kompleksu ochrony mentalnej", czy co tam jeszcze...  Gładko śpiewają naukowcy... Chociaż po wyposażeniu było widać, że dwóch z nich to nasi, wojskowi... Co im tam było potrzebne, nie wiem... Pewnie nie sprzątnęli po sobie ostatnim razem... Nie bez powodu mówią, że psychol z automatem jest mniej groźny, niż jakikolwiek idealista w okularach i białym fartuchu. Szliśmy w dziwnym tempie, z częstymi postojami... Na pomiary, jak mówili... Grafik zmian natężenia pola psionicznego kazali wykuć na blachę... Hełm ciąży, w głowie huczy, szyja wygina się na boki...  A jeszcze te strzykawki, kłują co każde dwie godziny... Jednak ochrona psioniczna niezła... Zaszliśmy daleko, ze wzrokiem coś się wyprawia, kolorów wcale nie ma, wszystko żółte, zombie się włóczą... Ale to dla nas nie nowina, rozsiekliśmy ich...   W przedniej straży szła piątka Sarmaty... Dobrzy snajperzy. Szlag... Atak kontrolera zbiegł się z włączeniem emiterów... Włączyły się poza rozkładem, widocznie ktoś tam tą szlifierką ręcznie kręci... Dopadł ich... Mnie też nieźle przyłożył, po stycznej do głowy... Hełm wytrzymał, ale cała elektronika - złom,  i jeszcze lekki wstrząs mózgu zarobiłem. Ocknąłem się pod wieczór, żywy - tylko Sarmata z pustym karabinem wokół kontrolera chodzi... Położyłem ich, obydwu... I od wstrząsu mózgu korzyść bywa... Nasi wszyscy polegli... Uczeni też... Kontroler ich na siebie nawzajem napuścił... Drugą dobę idę do swoich, głowa boli, duszność płuca na lewą stronę wywraca... W apteczce coś tam jeszcze zostało, na parę godzin pomaga... Wtedy siadam, wspominam i zapisuję... Potem - znowu mrok... Na Wysypisku stalkera spotkałem... Kiepsko pamiętam, jakby był ranny...  Natknąłem się na bandytę w gruzach, pewnie to on stalkera zahaczył... Dziwny jakiś, leżał, a potem bronią wymachiwać zaczął - strzelać chciał czy co? Dałem po szyi, żeby się nie wygłupiał... Zostawiłem mu swój plecak, bandaże, część apteczki, wódkę i cały prowiant - nie do jedzenia mi teraz... Umówiliśmy się, że jak dojdzie do siebie, odniesie moje PDA do naszych, na posterunek, w nim kopia dziennika i marszruta zaznaczona... Boję się, że nie dojdę... trzeba dojść... za każdą cenę... Sarmata, przebacz...\n \n \n \n \n</pln>
@@ -7687,10 +7675,10 @@ Ta szwajcarska zabawka dobra była na odległość, ale od stada psów mogłem t
 		<pln>Kota niepokoi pojawienie się na Bagnach monolitowców. Prosi żeby znaleźć dwóch monolitowców, posiadających jakiekolwiek informacje, pozwalające jakoś wyjaśnić sytuację i zrozumieć, o co im chodzi. Żeby ich znaleźć, muszę odszukać na bazie "Czystego Nieba" człowieka,  który pomoże mi znaleźć miejsce ich pobytu.</pln>
 	</string>
 	<string id="text_arc_need_televizor">
-		<rus>Чистонебовец может помочь найти монолитовцев, но за это он просит найти ему телевизор. Говорит, что у бандитов в Долине имеется подходящий.</rus>
-		<eng>A Clear Sky man can help find the monolithians, but he asks to find him a TV set for this. He says the bandits in the Valley have the right one.</eng>
-		<ukr>Чістонебівець може допомогти знайти монолітівців, але за це він просить знайти йому телевізор. Каже, що у бандитів у Долині є відповідний.</ukr>
-		<pln>Czystoniebowiec może pomóc mi znaleć monolitowców, ale za to chce żeby zdobyć mu telewizor. Mówi, że znajdę taki na bazie bandytów w Dolinie Mroku.</pln>
+		<rus>Карина может помочь найти монолитовцев, интересующих Кота, но за это она просит принести ей телевизор. Говорит, что у бандитов в Долине имеется подходящий.</rus>
+		<eng>===A Clear Sky man can help find the monolithians, but he asks to find him a TV set for this. He says the bandits in the Valley have the right one.</eng>
+		<ukr>Каріна може допомогти знайти монолітівців, які цікавлять Кота, але за це вона просить принести їй телевізор. Каже, що у бандитів у Долині є відповідний.</ukr>
+		<pln>===Czystoniebowiec może pomóc mi znaleć monolitowców, ale za to chce żeby zdobyć mu telewizor. Mówi, że znajdę taki na bazie bandytów w Dolinie Mroku.</pln>
 	</string>
 	<string id="wpn_awm_new">
 		<rus>Переделанный игломёт</rus>

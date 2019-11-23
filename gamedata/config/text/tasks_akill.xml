@@ -192,20 +192,27 @@
 		<pln>Talia Kuźniecowa</pln>
 	</string>
 	<string id="task_koloda_kuznec_1">
-		<rus>Найти карты колоды и записку-шифр</rus>
-		<eng>Find deck cards and cipher-note</eng>
-		<ukr>Знайти карти колоди та записку-шифр</ukr>
-		<fra>Rechercher des cartes et une note chiffrée</fra>
-		<pln>Znaleźć wszystkie karty z talii i zaszyfrowaną notatkę</pln>
+		<rus>Найти 30+ потерянных карт колоды</rus>
+		<eng>===Find deck cards and cipher-note</eng>
+		<ukr>Знайти 30- втрачених карт колоди</ukr>
+		<fra>===Rechercher des cartes et une note chiffrée</fra>
+		<pln>===Znaleźć wszystkie karty z talii i zaszyfrowaną notatkę</pln>
 	</string>
 	<string id="task_koloda_kuznec_2">
-		<rus>Найти тайник с фотоальбомом</rus>
+		<rus>Отнести записку-шифр и найденные карты майору</rus>
+		<eng>===Отнести записку-шифр и найденные карты майору</eng>
+		<ukr>===Отнести записку-шифр и найденные карты майору</ukr>
+		<fra>===Отнести записку-шифр и найденные карты майору</fra>
+		<pln>===Отнести записку-шифр и найденные карты майору</pln>
+	</string>
+	<string id="task_koloda_kuznec_3">
+		<rus>Отыскать тайник с фотоальбомом</rus>
 		<eng>Find a stash with a photo album</eng>
 		<ukr>Знайти схованку з фотоальбомом</ukr>
 		<fra>Trouver une cache avec un album photo</fra>
 		<pln>Znaleźć schowek z albumem fotograficznym</pln>
 	</string>
-	<string id="task_koloda_kuznec_3">
+	<string id="task_koloda_kuznec_4">
 		<rus>Принести фотоальбом Кузнецову</rus>
 		<eng>Bring photo album to Kuznetsov</eng>
 		<ukr>Принести фотоальбом Кузнєцову</ukr>
@@ -564,18 +571,18 @@
 		<pln>Adres Zbrojmistrza</pln>
 	</string>
 	<string id="task_adres_chertez_1">
-		<rus>Раздобыть кисть чёрного библиотекаря</rus>
-		<eng>Obtain a black librarian's hand</eng>
-		<ukr>Роздобути кисть чорного бібліотекаря</ukr>
-		<fra>Obtenez une main de  Bibliothécaire noir</fra>
-		<pln>Zdobyć dłoń czarnego Bibliotekarza</pln>
+		<rus>Завладеть картой минных полей</rus>
+		<eng>===Obtain a black librarian's hand</eng>
+		<ukr>Заволодіти картою мінних полів</ukr>
+		<fra>===Obtenez une main de  Bibliothécaire noir</fra>
+		<pln>===Zdobyć dłoń czarnego Bibliotekarza</pln>
 	</string>
 	<string id="task_adres_chertez_2">
-		<rus>Принести трофей Осведомителю</rus>
-		<eng>Bring the trophy to the Informer</eng>
-		<ukr>Принести трофей Інформатору</ukr>
-		<fra>Apportez le trophée à l'informateur</fra>
-		<pln>Przynieść trofeum Informatorowi</pln>
+		<rus>Принести карту Осведомителю</rus>
+		<eng>===Bring the trophy to the Informer</eng>
+		<ukr>Принести карту Інформатору</ukr>
+		<fra>===Apportez le trophée à l'informateur</fra>
+		<pln>===Przynieść trofeum Informatorowi</pln>
 	</string>
 
 	<string id="task_mines_dyak_0">
@@ -710,27 +717,20 @@
 		<pln>Próbki naukowe</pln>
 	</string>
 	<string id="task_saharov_obrazec_1">
-		<rus>Сделать фото биомассы</rus>
-		<eng>Take a photo of the biomass</eng>
-		<ukr>Зробити фото біомаси</ukr>
-		<fra>Prendre une photo de la biomasse</fra>
-		<pln>Zrobić zdjęcie biomasy</pln>
-	</string>
-	<string id="task_saharov_obrazec_2">
 		<rus>Раздобыть образцы ткани биомассы</rus>
 		<eng>Obtain samples of biomass tissue</eng>
 		<ukr>Роздобути зразки тканини біомаси</ukr>
 		<fra>Obtenir des échantillons de tissus de biomasse</fra>
 		<pln>Zdobyc próbki tkanki biomasy</pln>
 	</string>
-	<string id="task_saharov_obrazec_3">
+	<string id="task_saharov_obrazec_2">
 		<rus>Найти микроскоп в Х-10</rus>
 		<eng>Find the microscope at X-10</eng>
 		<ukr>Знайти мікроскоп в Х-10</ukr>
 		<fra>Trouver un microscope dans le laboratoire X-10</fra>
 		<pln>Znaleźć mikroskop w X-10</pln>
 	</string>
-	<string id="task_saharov_obrazec_4">
+	<string id="task_saharov_obrazec_3">
 		<rus>Отнести образцы и микроскоп Сахарову</rus>
 		<eng>Bring samples and microscope to Sakharov</eng>
 		<ukr>Віднести зразки і мікроскоп Сахарову</ukr>
@@ -947,7 +947,7 @@
 		<rus>"Чёрный" копатель</rus>
 		<eng>"Black" digger</eng>
 		<ukr>"Чорний" копач</ukr>
-		<fra>"Digger noir" </fra>
+		<fra>"Digger noir"</fra>
 		<pln>"Czarny" kopacz</pln>
 	</string>
 	<string id="task_taynik_bandit_td_1">
@@ -1080,14 +1080,6 @@
 		<ukr>Принести жетони Лукашу</ukr>
 		<fra>Apporter des jetons à Lukas</fra>
 		<pln>Przynieść Łukaszowi zdobyte nieśmiertelniki</pln>
-	</string>
-
-	<string id="task_dragunov_ohota_0">
-		<rus>Заказ от Драгунова</rus>
-		<eng>Order from Dragunov</eng>
-		<ukr>Заказ від Драгунова</ukr>
-		<fra>Commande de Dragunov</fra>
-		<pln>Zlecenie Dragunowa</pln>
 	</string>
 
 	<string id="task_dragunov_aks_0">
@@ -1279,28 +1271,6 @@
 		<pln>Zanieść Fotografowi zrobione zdjęcia</pln>
 	</string>
 
-	<string id="task_klad_labirint_0">
-		<rus>Поиски клада: Лабиринт</rus>
-		<eng>Treasure Hunt: The Labyrinth</eng>
-		<ukr>Пошуки скарбу: Лабіринт</ukr>
-		<fra>Chasse au trésor: Labyrinthe</fra>
-		<pln>Poszukiwania skarbu: Labirynt</pln>
-	</string>
-	<string id="task_klad_labirint_1">
-		<rus>Найти клад в Лабиринте</rus>
-		<eng>Find a treasure in Labyrinth</eng>
-		<ukr>Знайти скарб в Лабіринті</ukr>
-		<fra> Trouvez le trésor dans le Labyrinthe</fra>
-		<pln>Odnaleźć skarb w Labiryncie</pln>
-	</string>
-	<string id="task_klad_labirint_2">
-		<rus>Принести всё найденное Лысому</rus>
-		<eng>Bring everything found to Baldy</eng>
-		<ukr>Принести все знайдене Лисому</ukr>
-		<fra>Apportez tout ce qui a été trouvé à Bald (Chauve) </fra>
-		<pln>Przynieść skarb Łysemu</pln>
-	</string>
-
 	<string id="task_privet_leshyi_0">
 		<rus>"Привет" от Сидоровича</rus>
 		<eng>"Remember me" from Sidorovich</eng>
@@ -1330,6 +1300,13 @@
 		<pln>Znaleźć i zabić Leszego</pln>
 	</string>
 	<string id="task_privet_leshyi_4">
+		<rus>Обыскать труп Лешего</rus>
+		<eng>===Обыскать труп Лешего</eng>
+		<ukr>Обшукати труп Лісовика</ukr>
+		<fra>===Обыскать труп Лешего</fra>
+		<pln>===Обыскать труп Лешего</pln>
+	</string>
+	<string id="task_privet_leshyi_5">
 		<rus>Вернуться к заказчику</rus>
 		<eng>Get back to the customer</eng>
 		<ukr>Повернутися до замовника</ukr>
@@ -1462,18 +1439,18 @@
 		<pln>Prezent dla Druha</pln>
 	</string>
 	<string id="task_drug_food_1">
-		<rus>Завалить жирную плоть</rus>
-		<eng>Take down the fatty flesh</eng>
-		<ukr>Завалити жирну плоть</ukr>
-		<fra>Tuez la chair grasse</fra>
-		<pln>Zabić tłustego mięsacza</pln>
+		<rus>Добыть шесть кусков мяса молодой плоти</rus>
+		<eng>===Take down the fatty flesh</eng>
+		<ukr>Дістати шість шматків м'яса молодої плоті</ukr>
+		<fra>===Tuez la chair grasse</fra>
+		<pln>===Zabić tłustego mięsacza</pln>
 	</string>
 	<string id="task_drug_food_2">
-		<rus>Отнести тушу Максу Люберу</rus>
-		<eng>Take the corpse to Max Luber</eng>
-		<ukr>Віднести тушу Максу Люберу</ukr>
-		<fra>Apportez le cadavre à Max Luber</fra>
-		<pln>Zanieść tuszę Maksowi Luberowi</pln>
+		<rus>Отнести мясо Максу Люберу</rus>
+		<eng>===Take the corpse to Max Luber</eng>
+		<ukr>Віднести м'со Максу Люберу</ukr>
+		<fra>===Apportez le cadavre à Max Luber</fra>
+		<pln>===Zanieść tuszę Maksowi Luberowi</pln>
 	</string>
 
 	<string id="task_izdelie_gp_0">
@@ -2430,13 +2407,6 @@
 		<pln>Stary przyjaciel</pln>
 	</string>
 	<string id="task_arny_kogot_1">
-		<rus>Разузнать у Сахарова местонахождение Когтя</rus>
-		<eng>Learn from Sakharov where Claw is</eng>
-		<ukr>Дізнатися у Сахарова місцезнаходження Кігтя</ukr>
-		<fra>Apprenez de Sakharov où se trouve la Griffe de la Mort</fra>
-		<pln>Spytać Sacharowa o lokalizację Pazura</pln>
-	</string>
-	<string id="task_arny_kogot_2">
 		<rus>Выяснить судьбу Когтя</rus>
 		<eng>Find out Claw's fate</eng>
 		<ukr>З'ясувати долю Кігтя</ukr>
@@ -2920,20 +2890,13 @@
 		<pln>Wilcza natura</pln>
 	</string>
 	<string id="task_aaz_oboroten_1">
-		<rus>Дождаться ночи в деревне Копачи</rus>
-		<eng>Wait for the night in the village of Kopachi</eng>
-		<ukr>Дочекатися ночі в селі Копачі</ukr>
-		<fra>Attendez la nuit dans le village de Kopachi</fra>
-		<pln>Poczekać do nocy w wiosce Kopacze</pln>
-	</string>
-	<string id="task_aaz_oboroten_2">
 		<rus>Убить оборотня-волколака</rus>
 		<eng>Kill the werewolf</eng>
 		<ukr>Вбити перевертня-вовкулаку</ukr>
 		<fra>Tuez le loup-garou</fra>
 		<pln>Zabić wilkołaka</pln>
 	</string>
-	<string id="task_aaz_oboroten_3">
+	<string id="task_aaz_oboroten_2">
 		<rus>Вернуться к Аазу</rus>
 		<eng>Get back to Aaz</eng>
 		<ukr>Повернутися до Ааза</ukr>
@@ -3769,42 +3732,6 @@
 		<pln>Zwrócić spodnie właścicielowi</pln>
 	</string>
 
-	<string id="task_strike_back_0">
-		<rus>Ответный удар</rus>
-		<eng>Counter strike</eng>
-		<ukr>Удар у відповідь</ukr>
-		<fra>Bataille rangée</fra>
-		<pln>Riposta</pln>
-	</string>
-	<string id="task_strike_back_1">
-		<rus>Прибыть в условленное место и занять позицию</rus>
-		<eng>Arrive at pointed place and take a position</eng>
-		<ukr>Прибути в умовлене місце і зайняти позицію</ukr>
-		<fra>Arrivez à l'endroit désigné et prenez position</fra>
-		<pln>Przybyć na wyznaczone miejsce i zająć pozycję</pln>
-	</string>
-	<string id="task_strike_back_2">
-		<rus>Убить Цербера</rus>
-		<eng>Kill Cerberus</eng>
-		<ukr>Убити Цербера</ukr>
-		<fra>Tuer Cerberus</fra>
-		<pln>Zabić Cerbera</pln>
-	</string>
-	<string id="task_strike_back_3">
-		<rus>Выбраться с территории ЧАЭС-1</rus>
-		<eng>Get out of the CNPP-1 territory</eng>
-		<ukr>Вибратися з території ЧАЕС-1</ukr>
-		<fra>Sortez de la Centrale Nucléaire de Chernobyl CNPP-1</fra>
-		<pln>Wydostać się z terytorium CEA-1</pln>
-	</string>
-	<string id="task_strike_back_4">
-		<rus>Доложить о выполнении Воронину</rus>
-		<eng>Report on the accomplishment to Voronin</eng>
-		<ukr>Доповісти про виконання Вороніну</ukr>
-		<fra>Rapport sur la réalisation à Voronin</fra>
-		<pln>Zdać raport Woroninowi</pln>
-	</string>
-
 	<string id="task_foto_ohota_0">
 		<rus>Фотоохота</rus>
 		<eng>Wildlife photography</eng>
@@ -4142,11 +4069,11 @@
 		<pln>Ognisty kontroler</pln>
 	</string>
 	<string id="task_foto_ohota_48">
-		<rus>Псионик</rus>
-		<eng>Psionic</eng>
-		<ukr>Псіонік</ukr>
-		<fra>Psionic</fra>
-		<pln>Psionik</pln>
+		<rus>Электроконтролёр</rus>
+		<eng>Electro-Controller</eng>
+		<ukr>Електроконтролер</ukr>
+		<fra>===Contrôleur incendiaire</fra>
+		<pln>Elektrokontroler</pln>
 	</string>
 	<string id="task_foto_ohota_49">
 		<rus>Псевдогигант</rus>
@@ -4317,11 +4244,11 @@
 		<pln>Kot</pln>
 	</string>
 	<string id="task_foto_ohota_73">
-		<rus>Скорпионница</rus>
-		<eng>Scorpionfly</eng>
-		<ukr>Скорпіонниця</ukr>
-		<fra>Scorpion volant</fra>
-		<pln>Skorpionnica</pln>
+		<rus>Чернобыльская лягушка</rus>
+		<eng>===Чернобыльская лягушка</eng>
+		<ukr>Чорнобильська жаба</ukr>
+		<fra>Чернобыльская лягушка</fra>
+		<pln>Чернобыльская лягушка</pln>
 	</string>
 	<string id="task_foto_ohota_74">
 		<rus>Ротан</rus>
@@ -4331,69 +4258,111 @@
 		<pln>Rotan</pln>
 	</string>
 	<string id="task_foto_ohota_75">
+		<rus>Биомасса</rus>
+		<eng>Биомасса</eng>
+		<ukr>Біомаса</ukr>
+		<fra>===Биомасса</fra>
+		<pln>Biomasa</pln>
+	</string>
+	<string id="task_foto_ohota_76">
+		<rus>Скорпионница</rus>
+		<eng>Scorpionfly</eng>
+		<ukr>Скорпіонниця</ukr>
+		<fra>Scorpion volant</fra>
+		<pln>Skorpionnica</pln>
+	</string>
+	<string id="task_foto_ohota_77">
+		<rus>Чумная муха</rus>
+		<eng>===Чумная муха</eng>
+		<ukr>Чумная муха</ukr>
+		<fra>Чумная муха</fra>
+		<pln>Чумная муха</pln>
+	</string>
+	<string id="task_foto_ohota_78">
+		<rus>Комар</rus>
+		<eng>===Комар</eng>
+		<ukr>Комар</ukr>
+		<fra>Комар</fra>
+		<pln>Комар</pln>
+	</string>
+	<string id="task_foto_ohota_79">
 		<rus>Чумной зомби</rus>
 		<eng>Plagued zombie</eng>
 		<ukr>Чумний зомбі</ukr>
 		<fra>Zombies pestiféré</fra>
 		<pln>Zarażony zombie</pln>
 	</string>
-	<string id="task_foto_ohota_76">
+	<string id="task_foto_ohota_80">
 		<rus>Комариный зомби</rus>
 		<eng>Mosquito zombie</eng>
 		<ukr>Комариний зомбі</ukr>
 		<fra>Zombie Mosquito</fra>
 		<pln>Komarze zombie</pln>
 	</string>
-	<string id="task_foto_ohota_77">
+	<string id="task_foto_ohota_81">
+		<rus>Паразит</rus>
+		<eng>Parasite</eng>
+		<ukr>Паразит</ukr>
+		<fra>Паразит</fra>
+		<pln>Паразит</pln>
+	</string>
+	<string id="task_foto_ohota_82">
 		<rus>Излом</rus>
 		<eng>Izlom</eng>
 		<ukr>Чахлик</ukr>
 		<fra>Izlom</fra>
 		<pln>Połamaniec</pln>
 	</string>
-	<string id="task_foto_ohota_78">
+	<string id="task_foto_ohota_83">
 		<rus>Матёрый излом</rus>
 		<eng>Izlom old-timer</eng>
 		<ukr>Зрілий чахлик</ukr>
 		<fra>Izlom agé</fra>
 		<pln>Dorosły połamaniec</pln>
 	</string>
-	<string id="task_foto_ohota_79">
+	<string id="task_foto_ohota_84">
 		<rus>Карликовый излом</rus>
 		<eng>Midget izlom</eng>
 		<ukr>Карликовий чахлик</ukr>
 		<fra>Izlom nain</fra>
 		<pln>Karlikowy połamaniec</pln>
 	</string>
-	<string id="task_foto_ohota_80">
+	<string id="task_foto_ohota_85">
+		<rus>Псионик</rus>
+		<eng>Psionic</eng>
+		<ukr>Псіонік</ukr>
+		<fra>Psionic</fra>
+		<pln>Psionik</pln>
+	</string>
+	<string id="task_foto_ohota_86">
 		<rus>Библиотекарь</rus>
 		<eng>Librarian</eng>
 		<ukr>Бібліотекар</ukr>
 		<fra>Bibliothécaire</fra>
 		<pln>Bibliotekarz</pln>
 	</string>
-	<string id="task_foto_ohota_81">
+	<string id="task_foto_ohota_87">
 		<rus>Чёрный библиотекарь</rus>
 		<eng>Black librarian</eng>
 		<ukr>Чорний бібліотекар</ukr>
 		<fra>Bibliothécaire noir</fra>
 		<pln>Czarny bibliotekarz</pln>
 	</string>
-	<string id="task_foto_ohota_82">
+	<string id="task_foto_ohota_88">
 		<rus>Коготь смерти</rus>
 		<eng>Death claw</eng>
 		<ukr>Кіготь смерті</ukr>
 		<fra>Griffe de la mort</fra>
 		<pln>Szpon śmierci</pln>
 	</string>
-	<string id="task_foto_ohota_83">
+	<string id="task_foto_ohota_89">
 		<rus>Чешуйчатый коготь смерти</rus>
 		<eng>Scaly death claw</eng>
 		<ukr>Лускатий кіготь смерті</ukr>
 		<fra>Griffe de la mort à écaille</fra>
 		<pln>Łuskowaty szpon śmierci</pln>
 	</string>
-	<string id="task_foto_ohota_84">
+	<string id="task_foto_ohota_90">
 		<rus>Веном</rus>
 		<eng>Venom</eng>
 		<ukr>Веном</ukr>
@@ -5042,13 +5011,6 @@
 		<pln>Przyczepić znacznik na elektro-kontrolerze nr3</pln>
 	</string>
 	<string id="task_kontrik_electro_4">
-		<rus>Сделать фото нового мутанта</rus>
-		<eng>Take a photo of a new mutant</eng>
-		<ukr>Зробити фото нового мутанта</ukr>
-		<fra>Prenez une photo d'un nouveau mutant</fra>
-		<pln>Zrobić zdjęcie nowego mutanta</pln>
-	</string>
-	<string id="task_kontrik_electro_5">
 		<rus>Вернуться к Сахарову</rus>
 		<eng>Get back to Sakharov</eng>
 		<ukr>Повернутися до Сахарова</ukr>

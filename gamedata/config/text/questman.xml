@@ -1848,13 +1848,6 @@
 		<fra>Oeil de Faucon</fra>
 		<pln>Sokole Oko</pln>
 	</string>
-	<string id="cerber_name">
-		<rus>Цербер</rus>
-		<eng>Cerberus</eng>
-		<ukr>Цербер</ukr>
-		<fra>Cerbère</fra>
-		<pln>Cerber</pln>
-	</string>
 	<string id="journalist_name">
 		<rus>Сеня Журналист</rus>
 		<eng>Senya the Journalist</eng>
@@ -3003,7 +2996,7 @@
 		<fra>===Сержант</fra>
 		<pln>Sierżant</pln>
 	</string>
-	<string id="out_mestniy_name">
+	<string id="mestniy_name">
 		<rus>Местный</rus>
 		<eng>Local</eng>
 		<ukr>Місцевий</ukr>
@@ -3094,14 +3087,14 @@
 		<fra>===Дима</fra>
 		<pln>Dima</pln>
 	</string>
-	<string id="dshor_han_name">
+	<string id="han_name">
 		<rus>Хан</rus>
 		<eng>Khan</eng>
 		<ukr>Хан</ukr>
 		<fra>===Хан</fra>
 		<pln>Chan</pln>
 	</string>
-	<string id="dshor_dana_name">
+	<string id="dana_name">
 		<rus>Дана</rus>
 		<eng>Dana</eng>
 		<ukr>Дана</ukr>
@@ -3149,5 +3142,61 @@
 		<ukr>Майор Халецький</ukr>
 		<fra>===Майор Халецкий</fra>
 		<pln>Major Halecki</pln>
+	</string>
+	<string id="name_leon">
+		<rus>Леон</rus>
+		<eng>===Leon</eng>
+		<ukr>Леон</ukr>
+		<fra>===Леон</fra>
+		<pln>===Леон</pln>
+	</string>
+		<string id="homa_name">
+		<rus>Хома</rus>
+		<eng>===Хома</eng>
+		<ukr>Хома</ukr>
+		<fra>===Хома</fra>
+		<pln>===Хома</pln>
+	</string>
+	<string id="chingis_name">
+		<rus>Чингиз</rus>
+		<eng>===Чингиз</eng>
+		<ukr>Чингіз</ukr>
+		<fra>===Чингиз</fra>
+		<pln>===Чингиз</pln>
+	</string>
+	<string id="sutuluy_name">
+		<rus>Сутулый</rus>
+		<eng>===Сутулый</eng>
+		<ukr>Сутулий</ukr>
+		<fra>===Сутулый</fra>
+		<pln>===Сутулый</pln>
+	</string>
+	<string id="sipluy_name">
+		<rus>Сиплый</rus>
+		<eng>===Сиплый</eng>
+		<ukr>Сиплий</ukr>
+		<fra>===Сиплый</fra>
+		<pln>===Сиплый</pln>
+	</string>
+	<string id="pirogov_name">
+		<rus>Пирогов</rus>
+		<eng>===Пирогов</eng>
+		<ukr>Пірогов</ukr>
+		<fra>===Пирогов</fra>
+		<pln>===Пирогов</pln>
+	</string>
+	<string id="dshor_leila_name">
+		<rus>Гульнара</rus>
+		<eng>===Гульнара</eng>
+		<ukr>Гульнара</ukr>
+		<fra>===Гульнара</fra>
+		<pln>===Гульнара</pln>
+	</string>
+	<string id="hornet_name">
+		<rus>Шершень</rus>
+		<eng>===Шершень</eng>
+		<ukr>Шершень</ukr>
+		<fra>===Шершень</fra>
+		<pln>===Шершень</pln>
 	</string>
 </string_table>

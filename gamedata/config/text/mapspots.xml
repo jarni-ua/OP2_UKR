@@ -903,13 +903,6 @@
 		<fra>Cache avec de la Vodka</fra>
 		<pln>Magazyn z wódką</pln>
 	</string>
-	<string id="yakut_treasure_spawn_0">
-		<rus>Ноутбук Архары</rus>
-		<eng>Arkhara's Laptop</eng>
-		<ukr>Ноутбук Архари</ukr>
-		<fra>Portable d'Arkhara</fra>
-		<pln>Notebook Arhary</pln>
-	</string>
 	<string id="tri_tainik_start_0">
 		<rus>Дневник монолитовца №1</rus>
 		<eng>Monolithian's Diary No1</eng>
@@ -1063,13 +1056,6 @@
 		<ukr>Приблизне розташування Темного хутора</ukr>
 		<fra>Emplacement approximatif de la ferme obscure</fra>
 		<pln>Prawdopodobna lokalizacja Czarnego Przysiółka</pln>
-	</string>
-	<string id="set_sych_0">
-		<rus>Группа Сыча</rus>
-		<eng>Owl's Group</eng>
-		<ukr>Група Сича</ukr>
-		<fra>Groupe du Hibou</fra>
-		<pln>Grupa Sowy</pln>
 	</string>
 	<string id="reinforcement_0">
 		<rus>Рюкзак с припасами</rus>
@@ -1603,4 +1589,89 @@
 		<fra>===Предположительное место тайника воришки</fra>
 		<pln>Prawdopodobna lokalizacja schowka złodziejaszka</pln>
 	</string>
+	<string id="mini_alkash_treasure">
+		<rus>Наводка на тайник от маленького контролёра</rus>
+		<eng>===Наводка на тайник от маленького контролёра</eng>
+		<ukr>Наведення на схованку від маленького контролера</ukr>
+		<fra>===Наводка на тайник от маленького контролёра</fra>
+		<pln>===Наводка на тайник от маленького контролёра</pln>
+	</string>
+	<string id="mine_spot">
+		<rus>Мина</rus>
+		<eng>===Мина</eng>
+		<ukr>Міна</ukr>
+		<fra>===Мина</fra>
+		<pln>===Мина</pln>
+	</string>
+	<string id="set_electra_green">
+		<rus>Пещера, где предположительно находится артефакт</rus>
+		<eng>===Пещера, где предположительно находится артефакт</eng>
+		<ukr>Печера, де імовірно знаходиться артефакт</ukr>
+		<fra>===Пещера, где предположительно находится артефакт</fra>
+		<pln>===Пещера, где предположительно находится артефакт</pln>
+	</string>
+	<string id="set_forgetten_station">
+		<rus>Заброшенная стоянка бандитов</rus>
+		<eng>===Заброшенная стоянка бандитов</eng>
+		<ukr>Покинута стоянка бандитів</ukr>
+		<fra>===Заброшенная стоянка бандитов</fra>
+		<pln>===Заброшенная стоянка бандитов</pln>
+	</string>
+	<string id="nagrada_dshor_bandit">
+		<rus>Хабар Сиплого</rus>
+		<eng>===Хабар Сиплого</eng>
+		<ukr>Хабар Сиплого</ukr>
+		<fra>===Хабар Сиплого</fra>
+		<pln>===Хабар Сиплого</pln>
+	</string>
+	<string id="zaton_dshor_sr">
+		<rus>Обследовать место</rus>
+		<eng>===Обследовать место</eng>
+		<ukr>Обстежити місце</ukr>
+		<fra>===Обследовать место</fra>
+		<pln>===Обследовать место</pln>
+	</string>
+	<string id="sokamernik_dshor_sr">
+		<rus>Место, где просил о помощи бандит</rus>
+		<eng>===Место, где просил о помощи бандит</eng>
+		<ukr>Місце, де просив про допомогу бандит</ukr>
+		<fra>===Место, где просил о помощи бандит</fra>
+		<pln>===Место, где просил о помощи бандит</pln>
+	</string>
+	<string id="babuin_bratva_spawn_sr_0">
+		<rus>Предположительное место группы Бабуина</rus>
+		<eng>===Предположительное место группы Бабуина</eng>
+		<ukr>Очікуване місце групи Бабуїна</ukr>
+		<fra>===Предположительное место группы Бабуина</fra>
+		<pln>===Предположительное место группы Бабуина</pln>
+	</string>
+	<string id="set_inventory_box_0015">
+		<rus>Тайник болтуна</rus>
+		<eng>===Тайник болтуна</eng>
+		<ukr>Схованка базіки</ukr>
+		<fra>===Тайник болтуна</fra>
+		<pln>===Тайник болтуна</pln>
+	</string>
+	<string id="set_inventory_box_0002">
+		<rus>Тайник в бочонке</rus>
+		<eng>===Тайник в бочонке</eng>
+		<ukr>Схованка у діжці</ukr>
+		<fra>===Тайник в бочонке</fra>
+		<pln>===Тайник в бочонке</pln>
+	</string>
+	<string id="set_inventory_box_0037">
+		<rus>Хабар в дипломате</rus>
+		<eng>===Хабар в дипломате</eng>
+		<ukr>Хабар у дипломаті</ukr>
+		<fra>===Хабар в дипломате</fra>
+		<pln>===Хабар в дипломате</pln>
+	</string>
+	<string id="alexandrych_treasure">
+		<rus>Тайник Александрыча</rus>
+		<eng>===Тайник Александрыча</eng>
+		<ukr>Схованка Александрича</ukr>
+		<fra>===Тайник Александрыча</fra>
+		<pln>===Тайник Александрыча</pln>
+	</string>
+
 </string_table>

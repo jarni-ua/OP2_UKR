@@ -53,15 +53,11 @@
 		<rus>...</rus>
 		<eng>...</eng>
 		<ukr>...</ukr>
-		<fra>...</fra>
-		<pln>.....</pln>
 	</string>
 	<string id="tips_agr_stalker_help_2">
 		<rus>...</rus>
 		<eng>...</eng>
 		<ukr>...</ukr>
-		<fra>...</fra>
-		<pln>...</pln>
 	</string>
 	<string id="tips_agr_trader_documents">
 		<rus>Меченый, давай ноги в руки и смывайся, военные не дадут тебе просто так уйти. Я сообщил о тебе Бармену - он должен договориться с долговцами чтобы тебя пропустили.</rus>
@@ -1232,6 +1228,20 @@
 		<fra>À la Station Scientifique</fra>
 		<pln>Do Stacji Naukowej</pln>
 	</string>
+	<string id="to_l62u_collector">
+		<rus>В Коллектор</rus>
+		<eng>===В Коллектор</eng>
+		<ukr>У Колектор</ukr>
+		<fra>===В Коллектор</fra>
+		<pln>===В Коллектор</pln>
+	</string>
+	<string id="to_l40_dshor">
+		<rus>В Долину Шорохов</rus>
+		<eng>===В Долину Шорохов</eng>
+		<ukr>У Долину Шурхоту</ukr>
+		<fra>===В Долину Шорохов</fra>
+		<pln>===В Долину Шорохов</pln>
+	</string>
 	<string id="st_helmet_countdown">
 		<rus>Отключение защиты</rus>
 		<eng>Protection disabled</eng>
@@ -1379,6 +1389,13 @@
 		<fra>Éteindre l'émetteur</fra>
 		<pln>Wyłącz nadajnik</pln>
 	</string>
+	<string id="st_dimak_decoder_off">
+		<rus>Передатчик отключён</rus>
+		<eng>===Передатчик отключён</eng>
+		<ukr>Передавач відключений</ukr>
+		<fra>===Передатчик отключён</fra>
+		<pln>===Передатчик отключён</pln>
+	</string>
 	<string id="st_dimak_timer">
 		<rus>Время до взрыва бомбы</rus>
 		<eng>Time to bomb explosion</eng>
@@ -1406,6 +1423,20 @@
 		<ukr>Час до обнулення особистого рахунку Міченого</ukr>
 		<fra>Le temps jusqu’à la réinitialisation du compte personnel de l’étiquette</fra>
 		<pln>Czas do wyzerowania osobistego licznika Naznaczonego</pln>
+	</string>
+	<string id="st_raritet_box">
+		<rus>Откопать ящик</rus>
+		<eng>===Откопать ящик</eng>
+		<ukr>Відкопати ящик</ukr>
+		<fra>===Откопать ящик</fra>
+		<pln>===Откопать ящик</pln>
+	</string>
+	<string id="st_raritet_lock">
+		<rus>Сбить с ящика замок</rus>
+		<eng>===Сбить с ящика замок</eng>
+		<ukr>Збити з ящика замок</ukr>
+		<fra>===Сбить с ящика замок</fra>
+		<pln>===Сбить с ящика замок</pln>
 	</string>
 	<string id="st_time_till_surge">
 		<rus>Время до Выброса</rus>

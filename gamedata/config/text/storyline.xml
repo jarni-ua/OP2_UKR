@@ -308,20 +308,6 @@
 		<fra>Je me demande ce que ce dingue du marécage peut bien savoir. Je vais trouver. Mais il faut à tout prix éviter ces vieilles mines. D'accord, elles sont rouillées, mais ça ne les empêche pas d'exploser.</fra>
 		<pln>Ciekawe, co ten szaleniec z bagna może właściwie wiedzieć. Dowiem się. Ważne, żeby nie wpaść na stare miny. Pewnie rdza je tak przeżarła, że mogą wybuchnąć od uderzenia śrubą.</pln>
 	</string>
-	<string id="bun_code">
-		<rus>Навязчивое число, как будто из прошлой жизни, преследует меня. Я знал его ещё тогда, когда был неверным. Я помню его и сейчас - 342089. Это код от двери, но я не помню дорогу к этой двери.</rus>
-		<eng>A number haunts me, as if it's chasing me from a previous life. I knew it then, when I didn't believe. I remember it now - 342089. It's the code to a door but I do not remember the way to the door.</eng>
-		<ukr>Нав'язливе число, начебто з минулого життя, переслідує мене. Я знав його ще тоді, коли був невірним. Я пам'ятаю його і зараз: 342089. Це код від якихось дверей… але я не пам'ятаю дорогу до них.</ukr>
-		<fra>Un nombre me hante comme venu d'une autre vie. Je m'en souviens maintenant, c'est 342089. C'est le code d'une porte, mais je ne sais plus comment m'y rendre.</fra>
-		<pln>Prześladuje mnie numer, jakby z poprzedniego życia. Znałem go już wtedy, kiedy jeszcze nie wierzyłem. Pamiętam go teraz - 342089. To kod do drzwi, ale nie pamiętam, jak się do nich dostać.</pln>
-	</string>
-	<string id="bun_monolith_pda">
-		<rus>КПК монолитовца</rus>
-		<eng>Monolith soldier's PDA</eng>
-		<ukr>КПК монолітівця</ukr>
-		<fra>PDA du Monolithe</fra>
-		<pln>PDA monolitowca</pln>
-	</string>
 	<string id="rad_code_door_info">
 		<rus>У мёртвого учёного была какая-то карта с отметкой двери. Код - 1287975.</rus>
 		<eng>The dead scientist had a map with a door marked on it. Code 1287975</eng>
@@ -401,7 +387,7 @@
 	</string>
 	<string id="descr_yan_provodnik_task">
 		<rus>Призрак: "Проводник, я отправлю к тебе человека, у нас есть важная информация для Доктора, посодействуй ему".\n\nПроводник: "Хорошо. Только, Призрак, не как в прошлый раз. А лучше сам давай, давно хочу с тобой потолковать. Жду как обычно, в лагере возле моста. Не пропадай и смотри армейским патрулям не попадись".</rus>
-		<eng>Ghost: "Entry #257\n >>Guide, I am sending a man to meet you, we have important information for Doctor, help him out. \n >>Guide: "Good. But, Ghost, let's not repeat what happened last time. You make the trip yourself, I've wanted to have a chat with you for a while. I'll be waiting at the usual place, in the camp by the bridge. Don't get lost and don't let the army patrols get you."</eng>
+		<eng>Ghost: "Entry #257\n Guide, I am sending a man to meet you, we have important information for Doctor, help him out. \n Guide: "Good. But, Ghost, let's not repeat what happened last time. You make the trip yourself, I've wanted to have a chat with you for a while. I'll be waiting at the usual place, in the camp by the bridge. Don't get lost and don't let the army patrols get you."</eng>
 		<ukr>Привид: «Провідниче, я відправлю до тебе людину. Маємо важливу інформацію для Доктора, допоможи йому».\n\nПровідник: «Добре. Тільки одне, Привиде: щоб не було так, як минулого разу. А краще сам давай… давно хочу із тобою побалакати. Чекаю як завжди - у таборі поблизу мосту. Не пропадай… і, дивись, армійським патрулям не дайся.»</ukr>
 		<fra>Spectre: "Entrée n°257\nLe Guide, je t'envoie quelqu'un. On a des infos importantes pour le Doc, aide-le."\n\nLe Guide: "OK, Spectre. Mais, ne refaisons pas la même erreur que la dernière fois. Viens seul, je voudrais discuter un moment avec toi. J'attendrai à l'endroit habituel, au camp, près du pont. Ne te perds pas et essaie de ne pas te faire prendre par les patrouilles armées."</fra>
 		<pln>Duch: "Przewodniku, wysyłam do ciebie człowieka. Mamy ważne informacje dla Doktora, pomóż mu". \n\nPrzewodnik: "Dobrze. Ale Duch, nie tak, jak ostatnim razem. A najlepiej sam przyjdź, już od dawna chcę z tobą porozmawiać. Będę czekać w stałym miejscu, przy moście. Nie zgub się i uważaj na patrole wojskowe".</pln>
@@ -457,8 +443,8 @@
 	</string>
 	<string id="storyline_ghost_info">
 		<rus>Запись N257\n&gt;&gt;Проводник, я отправлю к тебе человека, у нас есть важная информация для Доктора, посодействуй ему\n&gt;&gt;Хорошо. Только, Призрак, не как в прошлый раз. А лучше сам давай, давно хочу с тобой потолковать. Жду как обычно, в лагере возле моста. Не пропадай и смотри армейским патрулям не попадись.\n\nЗапись N384\n...Васильев в последний момент струсил и вместо того, чтобы отключить нижние пульты, просто сбежал, когда открылась дверь. Не надо было на него полагаться, правильно Стрелок не доверял этим лживым собакам. Мой единственный шанс - добраться до двери раньше контролёра...</rus>
-		<eng>Entry #257\n >>Guide, I am sending someone to meet you. We have important information for Doctor, help him out\n >>> Good. But, Ghost, let's not repeat what happened last time. You come yourself, I've wanted to have a chat with you for a while. I'll be waiting at the usual place, in the camp near the bridge. Don't get lost and don't let the army patrols catch you."\n\n Entry #384\n …At the last moment, Vasiliev chickened out and instead of unplugging the lower console, he just ran off when the door opened. I shouldn't have relied on him - Strelok was right not to trust these lying dogs. My only chance is to reach the door before the controller...</eng>
-		<ukr>Запис №257\n &gt;&gt;»Провідниче, я відправлю до тебе людину: в нас є важлива інформація для Доктора, допоможи йому.»\n &gt;&gt;»Добре. Тільки, Привиде, не як минулого разу. А краще сам давай, давно хочу із тобою погомоніти. Чекаю як завжди, у таборі біля мосту. Не пропадай і, дивись, армійським патрулям на очі не трапляй.»\n\n Запис N384\n «…Васильєв в останній момент перепудився і замість того, щоб відключити нижні пульти, просто втік, коли відкрилися двері. Не треба було на нього покладатися, правильно Стрілець не довіряв цим брехливим собакам! Мій єдиний шанс - дістатися дверей раніше за контролера...»</ukr>
+		<eng>Entry #257\n &gt;&gt;Guide, I am sending someone to meet you. We have important information for Doctor, help him out\n &gt;&gt;&gt; Good. But, Ghost, let's not repeat what happened last time. You come yourself, I've wanted to have a chat with you for a while. I'll be waiting at the usual place, in the camp near the bridge. Don't get lost and don't let the army patrols catch you."\n\n Entry #384\n …At the last moment, Vasiliev chickened out and instead of unplugging the lower console, he just ran off when the door opened. I shouldn't have relied on him - Strelok was right not to trust these lying dogs. My only chance is to reach the door before the controller...</eng>
+		<ukr>Запис №257\n &gt;&gt;Провідниче, я відправлю до тебе людину: в нас є важлива інформація для Доктора, допоможи йому.\n &gt;&gt;Добре. Тільки, Привиде, не як минулого разу. А краще сам давай, давно хочу із тобою погомоніти. Чекаю як завжди, у таборі біля мосту. Не пропадай і, дивись, армійським патрулям на очі не трапляй.\n\n Запис N384\n «…Васильєв в останній момент перепудився і замість того, щоб відключити нижні пульти, просто втік, коли відкрилися двері. Не треба було на нього покладатися, правильно Стрілець не довіряв цим брехливим собакам! Мій єдиний шанс - дістатися дверей раніше за контролера...»</ukr>
 		<fra>Entrée n°257\n &gt;&gt; Le Guide, je t'envoie quelqu'un. On a des infos importantes pour le Doc, aide-le.\n &gt;&gt;&gt; OK, Spectre. Mais, ne refaisons pas la même erreur que la dernière fois. Viens seul, je voudrais discuter un moment avec toi. J'attendrai à l'endroit habituel, au camp, près du pont. Ne te perds pas et essaie de ne pas te faire prendre par les patrouilles armées."\n\n Entrée n°384\n ... Au dernier moment, Vasiliev a flanché et au lieu de débrancher la console inférieure, quand la porte s'est ouverte, il s'est enfui. Je n'aurais pas dû lui faire confiance - Strelok avait raison, on ne peut pas se fier à ces menteurs. Ma seule chance est d'atteindre la porte avant le manipulateur...</fra>
 		<pln>Zapis nr257\n&gt;&gt;Przewodnik, wysyłam do ciebie człowieka. Mamy ważne informacje dla Doktora, pomóż mu.\n&gt;&gt;Dobrze. Ale Duch, nie tak, jak ostatnim razem. A najlepiej sam przyjdź, już od dawna chcę z tobą porozmawiać. Będę czekać w stałym miejscu, przy moście. Nie zgub się i uważaj na patrole wojskowe.\n\n Zapis nr384\n ...Wasiliew stchórzył w ostatniej chwili i zamiast odłączyć dolne tablice sterownicze, po prostu uciekł, gdy otworzyły się drzwi. Nie trzeba było na nim polegać. Miał rację Striełok, że nie należy ufać tym kłamliwym psom. Moja jedyna szansa - to dotarcie do drzwi, zanim kontroler...</pln>
 	</string>
@@ -595,6 +581,7 @@
 		<fra>Barman</fra>
 		<pln>Przypuszczenia Barmana</pln>
 	</string>
+	<!-- !!!! Удалить для НИ -->
 	<string id="journal_before_radar_task_name">
 		<rus>После общения с Психом</rus>
 		<eng>After meeting with Psycho</eng>
@@ -609,6 +596,7 @@
 		<fra>Eh bien, je suis prêt à aller jusqu'au lobotomisateur. Psycho m'a indiqué les moments pendant lesquels les niveaux des émissions diminuaient. Il m'a aussi parlé d'un endroit sûr où je pouvais attendre. Ma protection psi ne fonctionnera pas pendant ces moments là, de toute façon. Il faut que je trouve un moyen d'accéder au laboratoire souterrain X-19. Là, je devrais pouvoir mettre la main sur les commandes des antennes du lobotomisateur.</fra>
 		<pln>No, mogę już ruszać do "Zwęglacza". Dowiedziałem się od Barmana, kiedy zmniejsza się poziom emisji. Powiedział mi również o bezpiecznym miejscu, w którym mogę na takie momenty poczekać. O innej porze moja ochrona psioniczna i tak nie będzie działać. Będę musiał znaleźć jakieś wejście do podziemnego bunkra laboratorium X10. Wewnątrz powinienem znaleźć sterowanie anten "Mózgozwęglacza".</pln>
 	</string>
+	<!-- Удалить энд -->
 	<string id="st_gordon_diary">
 		<rus>КПК Гордона</rus>
 		<eng>Gordon's PDA</eng>
@@ -700,6 +688,20 @@
 		<fra>Cette fois, je pars pour ma première mission importante dans la Zone. La cible est l'Institut de Recherche Agroprom. Je dois y récupérer des documents militaires. Le marchand m'a aussi donné des infos sur un secteur, dans le nord, sur la route qui mène au centre de la Zone, là où le "cerveau est en ébullition"... Ce n'est sans doute qu'une légende, mais comme ma tête ne tourne pas très rond, je devrais peut-être en profiter pour aller interroger quelques personnes. On ne sait jamais, je suis peut-être déjà allé là-bas... Le marchand m'a également dit que Strelok avait trouvé un moyen d'entrer dans le secteur et les marchands aimeraient en savoir plus. Leurs motivations sont évidentes : ils veulent accéder à des champs d'artefacts intacts. Eh bien, je vais essayer de les aider.</fra>
 		<pln>No to wybieram się na pierwszy poważny wypad w głąb Zony. Moim celem jest Instytut Badawczy Agroprom. Muszę zdobyć jakieś dokumenty należące do ekspedycji wojskowej. Oprócz zadania dostałem też od handlarza informacje o pewnym terenie na północ, po drodze do centrum Zony, gdzie "gotują się mózgi"... Pewnie więcej w tym legendy niż prawdy, ale skoro bez wątpienia coś jest nie tak z moją głową, chyba powinienem obejrzeć to miejsce i pogadać z ludźmi. Nigdy nie wiadomo - może kiedyś tam byłem... Handlarz powiedział mi również że Striełok odkrył sposób na przedostanie się przez ten teren, oraz że handlarze chcą ten sposób poznać. Ich pobudki są jasne - dostęp do dziewiczych pól artefaktów. No cóż, chyba im pomogę.</pln>
 	</string>
+	<string id="sl_sherstuk_zametka">
+		<rus>Прапорщик с Агропрома</rus>
+		<eng>===Прапорщик с Агропрома</eng>
+		<ukr>Прапорщик з Агропрома</ukr>
+		<fra>===Прапорщик с Агропрома</fra>
+		<pln>===Прапорщик с Агропрома</pln>
+	</string>
+	<string id="sl_sherstuk_zametka_text">
+		<rus>Сидорович предупредил меня, что за документами в бывший НИИ Агропром лучше идти в светлое время суток, так как ночью в казарме отдыхает некий прапорщик, который может мне быть в последствии полезен, а спокойно поговорить с ним и вести дела можно только утром или днём, когда он уходит с базы и встаёт под опору ЛЭП, неподалёку. И, если я полезу за документами ночью, то ненароком могу зацепить коррумпированного прапорщика, тем самым, осложнив с ним дальнейшее нормальное общение.</rus>
+		<eng>===Сидорович предупредил меня, что за документами в бывший НИИ Агропром лучше идти в светлое время суток, так как ночью в казарме отдыхает некий прапорщик, который может мне быть в последствии полезен, а спокойно поговорить с ним и вести дела можно только утром или днём, когда он уходит с базы и встаёт под опору ЛЭП, неподалёку. И, если я полезу за документами ночью, то ненароком могу зацепить коррумпированного прапорщика, тем самым, осложнив с ним дальнейшее нормальное общение.</eng>
+		<ukr>Сидорович попередив мене, що за документами в колишній НДІ Агропром краще йти у світлий час доби, так як вночі у казармі відпочиває якийсь прапорщик, який може мені бути надалі корисний, а спокійно поговорити з ним і вести справи можна тільки вранці або вдень, коли він йде з бази і встає під опору ЛЕП, неподалік. І, якщо я полізу за документами вночі, то ненароком можу зачепити корумпованого прапорщика, тим самим, ускладнивши з ним подальше нормальне спілкування.</ukr>
+		<fra>===Сидорович предупредил меня, что за документами в бывший НИИ Агропром лучше идти в светлое время суток, так как ночью в казарме отдыхает некий прапорщик, который может мне быть в последствии полезен, а спокойно поговорить с ним и вести дела можно только утром или днём, когда он уходит с базы и встаёт под опору ЛЭП, неподалёку. И, если я полезу за документами ночью, то ненароком могу зацепить коррумпированного прапорщика, тем самым, осложнив с ним дальнейшее нормальное общение.</fra>
+		<pln>===Сидорович предупредил меня, что за документами в бывший НИИ Агропром лучше идти в светлое время суток, так как ночью в казарме отдыхает некий прапорщик, который может мне быть в последствии полезен, а спокойно поговорить с ним и вести дела можно только утром или днём, когда он уходит с базы и встаёт под опору ЛЭП, неподалёку. И, если я полезу за документами ночью, то ненароком могу зацепить коррумпированного прапорщика, тем самым, осложнив с ним дальнейшее нормальное общение.</pln>
+	</string>
 	<string id="sl_first_opinions">
 		<rus>Первые впечатления</rus>
 		<eng>First impressions</eng>
@@ -727,6 +729,20 @@
 		<ukr>«Зустрівся із Лисом. Є дві новини, і перша - погана: про Стрільця він знає мало. Друга - гарна: я отримав інформацію, що його брат - Сірим кличуть - знає про Стрільця більше. Сірий, я так зрозумів, сидить кілометра за два на північ, в якомусь ангарі посеред звалища радіоактивних відходів, який тут кличуть Звалищем. Отже, задача тепер така - встигнути із ним зустрітися, доки він не перебрався кудись в інше місце.»</ukr>
 		<fra>J'ai rencontré Fox. Il y a une bonne et une mauvaise nouvelle. La mauvaise, c'est qu'il ne sait pratiquement rien sur Strelok. La bonne, c'est que son frère, un certain Seriy, a l'air d'en savoir un peu plus. Apparemment, Seriy serait dans un hangar à environ 2 kilomètres au nord d'ici, dans une décharge remplie de déchets radioactifs. Mon objectif est clair : le rejoindre avant qu'il ne s'en aille.</fra>
 		<pln>Spotkałem się z Lisem. Oczywiście jest dobra i zła wiadomość. Zła wiadomość to taka, że niewiele wie o Striełoku. Dobra wiadomość to taka, że jego brat, Sieryj, wie więcej. Wygląda na to, że Sieryja znajdę w hangarze, około dwóch kilometrów na północ stąd, na jakimś wysypisku radioaktywnych odpadów. Moje zadanie jest jasne: dotrzeć tam, zanim stamtąd zniknie.</pln>
+	</string>
+	<string id="sl_kuznecov_meet">
+		<rus>Встреча с Кузнецовым</rus>
+		<eng>===Meeting Fox</eng>
+		<ukr>Зустріч з Кузнєцовим</ukr>
+		<fra>===Rencontre avec Fox</fra>
+		<pln>===Spotkanie z Lisem</pln>
+	</string>
+	<string id="sl_kuznecov_meet_text">
+		<rus>Познакомился с майором Кузнецовым, командиром блокпоста под разрушенным мостом на Кордоне. За бутылку водки можно договориться и тебя пропустят. Причём, целый час можно ходить туда-сюда и никто из бойцов тебе слова не скажет. Но после полуночи этот номер не прокатит. Те бойцы, которые охраняют насыпь, приходят к костерку погреться и отдохнуть, а в пять утра снова уходят на свой боевой пост - охранять насыпь. Так вот в этот промежуток, с 12 ночи и до 5 утра, лучше не приближаться к блокпосту, хоть с водкой, хоть без неё.\n Ещё у Кузнецова, судя по всему, есть много заданий для меня, а также можно разжиться армейскими аптечками и патронами к калашу за водку, так что с ним лучше дружить и "пылинки с него сдувать".</rus>
+		<eng>===Познакомился с майором Кузнецовым, командиром блокпоста под разрушенным мостом на Кордоне. За бутылку водки можно договориться и тебя пропустят. Причём, целый час можно ходить туда-сюда и никто из бойцов тебе слова не скажет. Но после полуночи этот номер не прокатит. Те бойцы, которые охраняют насыпь, приходят к костерку погреться и отдохнуть, а в пять утра снова уходят на свой боевой пост - охранять насыпь. Так вот в этот промежуток, с 12 ночи и до 5 утра, лучше не приближаться к блокпосту, хоть с водкой, хоть без неё.\n Ещё у Кузнецова, судя по всему, есть много заданий для меня, а также можно разжиться армейскими аптечками и патронами к калашу за водку, так что с ним лучше дружить и "пылинки с него сдувать".</eng>
+		<ukr>Познайомився з майором Кузнєцовим, командиром блокпоста під зруйнованим мостом на Кордоні. За пляшку горілки можна домовитися і тебе пропустять. Причому, цілу годину можна ходити туди-сюди і ніхто з бійців тобі слова не скаже. Але після опівночі цей номер не пройде. Ті бійці, які охороняють насип, приходять до вогнища погрітися і відпочити, а о п'ятій ранку знову йдуть на свій бойовий пост - охороняти насип. Так ось у цей проміжок, з 12 ночі і до 5 ранку, краще не наближатися до блокпоста, хоч з горілкою, хоч без неї.\n Ще у Кузнєцова, судячи з усього, є багато завдань для мене, а також можна розжитися армійськими аптечками і патронами до калаша за горілку, так що з ним краще дружити і "пилинки з нього здувати".</ukr>
+		<fra>===Познакомился с майором Кузнецовым, командиром блокпоста под разрушенным мостом на Кордоне. За бутылку водки можно договориться и тебя пропустят. Причём, целый час можно ходить туда-сюда и никто из бойцов тебе слова не скажет. Но после полуночи этот номер не прокатит. Те бойцы, которые охраняют насыпь, приходят к костерку погреться и отдохнуть, а в пять утра снова уходят на свой боевой пост - охранять насыпь. Так вот в этот промежуток, с 12 ночи и до 5 утра, лучше не приближаться к блокпосту, хоть с водкой, хоть без неё.\n Ещё у Кузнецова, судя по всему, есть много заданий для меня, а также можно разжиться армейскими аптечками и патронами к калашу за водку, так что с ним лучше дружить и "пылинки с него сдувать".</fra>
+		<pln>===Познакомился с майором Кузнецовым, командиром блокпоста под разрушенным мостом на Кордоне. За бутылку водки можно договориться и тебя пропустят. Причём, целый час можно ходить туда-сюда и никто из бойцов тебе слова не скажет. Но после полуночи этот номер не прокатит. Те бойцы, которые охраняют насыпь, приходят к костерку погреться и отдохнуть, а в пять утра снова уходят на свой боевой пост - охранять насыпь. Так вот в этот промежуток, с 12 ночи и до 5 утра, лучше не приближаться к блокпосту, хоть с водкой, хоть без неё.\n Ещё у Кузнецова, судя по всему, есть много заданий для меня, а также можно разжиться армейскими аптечками и патронами к калашу за водку, так что с ним лучше дружить и "пылинки с него сдувать".</pln>
 	</string>
 	<string id="sl_monolith_off">
 		<rus>Отключение "Монолита"</rus>

@@ -422,9 +422,9 @@
 		<pln>K...a mać... No cóż, załatwili Krysiuka... Taki jego los. Szkoda, że PDA przepadło... Chociaż... Nie, poczekaj! Krysiuk, zanim zniknął, o czymś długo konferował z Żyłą. Może jego spytaj?</pln>
 	</string>
 	<string id="krysyk_pomer_start_dialog_4">
-		<rus>Жила говоришь? Ладно, "поспрошаю"...</rus>
+		<rus>Жила, говоришь? Ладно, "поспрошаю"...</rus>
 		<eng>Vein? Ok, I will...</eng>
-		<ukr>Жила говориш? Гаразд, "порозпитую"...</ukr>
+		<ukr>Жила, говориш? Гаразд, "порозпитую"...</ukr>
 		<fra>Vein? Ok, j'y vais...</fra>
 		<pln>Żyła, mówisz? Dobra, "spytam"...</pln>
 	</string>
@@ -555,18 +555,18 @@
 		<pln>Cześć, Myśliwy! Jest prośba od jednego bandyty...</pln>
 	</string>
 	<string id="krysyk_pomer_13_dialog_1">
-		<rus>От тебя что ли? Более бандитской рожи я ещё не видел...</rus>
-		<eng>From you? I have not seen more thuggish face...</eng>
-		<ukr>Від тебе чи що? Більш бандитської пики я ще не бачив...</ukr>
-		<fra>De toi? Je n'ai pas vu plus de visage voyou...</fra>
-		<pln>Nie od ciebie przypadkiem? Bardziej bandyckiej gęby jeszcze nie widziałem...</pln>
+		<rus>С этой швалью я предпочитаю не связываться, но если просьба сулит солидный куш, то можно и забыть на время некоторые принципы.</rus>
+		<eng>===С этой швалью я предпочитаю не связываться, но если просьба сулит солидный куш, то можно и забыть на время некоторые принципы.</eng>
+		<ukr>===С этой швалью я предпочитаю не связываться, но если просьба сулит солидный куш, то можно и забыть на время некоторые принципы.</ukr>
+		<fra>===С этой швалью я предпочитаю не связываться, но если просьба сулит солидный куш, то можно и забыть на время некоторые принципы.</fra>
+		<pln>===С этой швалью я предпочитаю не связываться, но если просьба сулит солидный куш, то можно и забыть на время некоторые принципы.</pln>
 	</string>
 	<string id="krysyk_pomer_13_dialog_2">
-		<rus>На свою посмотри, алкаш... Короче, урка один - Жила, хочет ствол у тебя купить. Продашь? Если, конечно, уже не пропил его...</rus>
-		<eng>Look at your own, alchy... In short, one thug, Vein wants to buy a gun from you. Will you sell it? If, of course, you did not drink away it...</eng>
-		<ukr>На свою подивися, алкаш... Коротше, урка один - Жила, хоче ствол у тебе купити. Продаси? Якщо, звичайно, вже не пропив його...</ukr>
-		<fra>Regardez-vous, rond comme une queue de pelle... En bref, un voyou, Vein veut vous acheter une arme à feu. Allez-vous la vendre? Si, bien sûr, vous ne l'avez pas encore bu...</fra>
-		<pln>Na swoją popatrz, pijaku... Krótko, jeden urka - Żyła, chce broń od ciebie odkupić. Sprzedasz? Jeśli, oczywiście, jeszcze jej nie przepiłeś...</pln>
+		<rus>Короче, урка один - Жила, хочет ствол у тебя купить. Продашь? Если, конечно, уже не пропил его...</rus>
+		<eng>In short, one thug, Vein wants to buy a gun from you. Will you sell it? If, of course, you did not drink away it...</eng>
+		<ukr>Коротше, урка один - Жила, хоче ствол у тебе купити. Продаси? Якщо, звичайно, вже не пропив його...</ukr>
+		<fra>En bref, un voyou, Vein veut vous acheter une arme à feu. Allez-vous la vendre? Si, bien sûr, vous ne l'avez pas encore bu...</fra>
+		<pln>Krótko, jeden urka - Żyła, chce broń od ciebie odkupić. Sprzedasz? Jeśli, oczywiście, jeszcze jej nie przepiłeś...</pln>
 	</string>
 	<string id="krysyk_pomer_13_dialog_3">
 		<rus>Больше он ничего не хочет? Да я, да за это ружьё... хотя, чёрт с ним, ладно... Пусть... э-э-э, пивка мне достанет... Банок эдак двадцать... нет, сорок! Короче, принеси от него что-то полезное, тогда и поговорим...</rus>
@@ -632,7 +632,7 @@
 		<pln>Bierz swoją...moją...twoją... Krótko, bierz broń i spadaj, mądralo!!</pln>
 	</string>
 	<string id="krysyk_pomer_14_dialog_52">
-		<rus>Хе-хе, оставь конечно, и чёрт с ним, с бандитом твоим...</rus>
+		<rus>Хе-хе, оставь, конечно, и чёрт с ним, с бандитом твоим...</rus>
 		<eng>Ha-ha, of course, leave it, and damn him, that bandit...</eng>
 		<ukr>Хе-хе, залиш звичайно, і чорт з ним, з бандитом твоїм...</ukr>
 		<fra>Ha-ha, bien sûr, laisse-le, et le diable avec lui, ce bandit...</fra>
@@ -920,40 +920,19 @@
 		<fra>Garik a déclaré avoir acheté un thermos à un Stalker, qu'il avait pris sur le cadavre du vengeur dans les Marais. Et pour une bouteille, le Stalker a dit que certains gangsters et même des monolithiens avaient un tel thermos. Donc, dans les endroits de repos de ces monstres, vous pouvez toujours obtenir ces choses. Il est préférable de chercher à la décharge, les marais, l'ATP et le radar.</fra>
 		<pln>Garik opowiadał, że od pewnego stalkera kupił termos, który tenże stalker zabrał z trupa mściciela na bagnach. A za flaszkę stalker jeszcze dodał, że z takimi termosami jak u niektórych bandytów, chodzą także monolitowcy. Dlatego w miejscach, gdzie odpoczywają ci maniacy, można by jakieś sztuki znaleźć. Trzeba popatrzeć  na Wysypisku, Bagnach, ATP i na Radarze.</pln>
 	</string>
-	<string id="skleroz_hunter_text">
-		<rus>Договориться с охотником о покупке его ружья для Жилы.</rus>
-		<eng>Agree with the hunter on the purchase of his gun for Vein.</eng>
-		<ukr>Домовитися з мисливцем про покупку його рушниці для Жили...</ukr>
-		<fra>D'accord avec le chasseur pour l'achat de son arme à feu pour Vein.</fra>
-		<pln>Dogadać się z myśliwym na temat kupna jego broni dla Żyły.</pln>
-	</string>
 	<string id="skleroz_hunter_dogovor_text">
-		<rus>Притащить этому алкашу охотнику два ящика баночного пива... Чтоб он подавился!</rus>
-		<eng>To bring the alcohol hunter two boxes of canned beer... Bad luck to him!</eng>
-		<ukr>Притягнути цьому алкашу мисливцю два ящики баночного пива... Щоб він подавився!</ukr>
-		<fra>Apporter deux boîtes de bière en conserve à cet ivrogne de chasseur... Pas de chance pour lui!</fra>
-		<pln>Przytaszczyc temu alkoholikowi myśliwemu dwa kartony puszkowego piwa... A żeby zdechł!</pln>
-	</string>
-	<string id="skleroz_jila_text">
-		<rus>Поговорить с Жилой и сообщить ему об условиях, предложенных охотником. Только, сдаётся, хрен, где Жила это пиво достанет.</rus>
-		<eng>Talk to Vein and inform him about the conditions offered by the hunter. But I don't think Vein can get beer.</eng>
-		<ukr>Поговорити з Жилою і повідомити йому про умови, запропоновані мисливцем. Тільки, здається, хрін де Жила це пиво дістане...</ukr>
-		<fra>Parlez à Vein et informez-le des conditions demandées par le chasseur. Mais je ne pense pas que Vein puisse avoir de la bière.</fra>
-		<pln>Porozmawiać z Żyłą i przekazać mu warunki myśliwego. Cholera wie, gdzie on to piwo znajdzie...</pln>
+		<rus>Притащить этому алкашу охотнику два ящика баночного пива... Чтоб он подавился! Поговорить с Жилой и сообщить ему об условиях, предложенных охотником. Только, сдаётся, хрен, где Жила это пиво достанет.</rus>
+		<eng>To bring the alcohol hunter two boxes of canned beer... Bad luck to him! Talk to Vein and inform him about the conditions offered by the hunter. But I don't think Vein can get beer.</eng>
+		<ukr>Притягнути цьому алкашу мисливцю два ящики баночного пива... Щоб він подавився! Поговорити з Жилою і повідомити йому про умови, запропоновані мисливцем. Тільки, здається, хрін де Жила це пиво дістане...</ukr>
+		<fra>Apporter deux boîtes de bière en conserve à cet ivrogne de chasseur... Pas de chance pour lui! Parlez à Vein et informez-le des conditions demandées par le chasseur. Mais je ne pense pas que Vein puisse avoir de la bière.</fra>
+		<pln>Przytaszczyc temu alkoholikowi myśliwemu dwa kartony puszkowego piwa... A żeby zdechł! Porozmawiać z Żyłą i przekazać mu warunki myśliwego. Cholera wie, gdzie on to piwo znajdzie...</pln>
 	</string>
 	<string id="skleroz_jila_dogovor_text">
-		<rus>Принести Жиле ружьё охотника-алкоголика, который в Баре ошивается.</rus>
-		<eng>Bring Vein the alcohol hunter's gun that is hanging around in the Bar.</eng>
-		<ukr>Принести Жилі рушницю мисливця - алкоголіка, який в Барі ошивається...</ukr>
-		<fra>Apportez à Vein, l'arme du chasseur alcoolo qui traîne dans le bar.</fra>
-		<pln>Przynieść Żyle broń myśliwego-alkoholika, który pęta się po Barze.</pln>
-	</string>
-	<string id="skleroz_lis_exo_text">
-		<rus>Принести Лису экзоскелет.</rus>
-		<eng>Bring Fox an exoskeleton.</eng>
-		<ukr>Принести Лису екзоскелет.</ukr>
-		<fra>Apportez un exosquelette à Fox.</fra>
-		<pln>Przynieść Lisowi egzoszkielet.</pln>
+		<rus>Принести Жиле ружьё охотника-алкоголика, который в Баре ошивается. Договориться с охотником о покупке его ружья для Жилы.</rus>
+		<eng>Bring Vein the alcohol hunter's gun that is hanging around in the Bar. Agree with the hunter on the purchase of his gun for Vein.</eng>
+		<ukr>Принести Жилі рушницю мисливця - алкоголіка, який в Барі ошивається... Домовитися з мисливцем про покупку його рушниці для Жили...</ukr>
+		<fra>Apportez à Vein, l'arme du chasseur alcoolo qui traîne dans le bar. D'accord avec le chasseur pour l'achat de son arme à feu pour Vein.</fra>
+		<pln>Przynieść Żyle broń myśliwego-alkoholika, który pęta się po Barze. Dogadać się z myśliwym na temat kupna jego broni dla Żyły.</pln>
 	</string>
 	<string id="skleroz_bes_outfit_text">
 		<rus>Принести Бесу укреплённый костюм Стрелка.</rus>
@@ -2359,18 +2338,18 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>No, przyniosłem "Bizony". Zabieraj, wygłodzony rezerwisto...</pln>
 	</string>
 	<string id="m_qeast1_1">
-		<rus>Покоцанные они... Ну да ладно, какие уж принёс. Вот обещанная награда...</rus>
-		<eng>They are broken... Well, okay, let it be. Here is the promised reward...</eng>
-		<ukr>Покоцані вони... Ну та ладно, які вже приніс. Ось обіцяна нагорода...</ukr>
-		<fra>Ils sont cassés... Bon, d'accord... Voici la récompense promise...</fra>
-		<pln>Odrapane jakieś... No trudno, są jakie są. A to obiecana nagroda...</pln>
+		<rus>Они не сильно покоцанные, нет? Ну да ладно, мне в общем-то без разницы. Вот обещанная награда...</rus>
+		<eng>===They are broken... Well, okay, let it be. Here is the promised reward...</eng>
+		<ukr>Вони не сильно покоцані, ні? Ну та ладно, мені якось все одно. Ось обіцяна нагорода...</ukr>
+		<fra>===Ils sont cassés... Bon, d'accord... Voici la récompense promise...</fra>
+		<pln>===Odrapane jakieś... No trudno, są jakie są. A to obiecana nagroda...</pln>
 	</string>
 	<string id="m_qeast1_2">
-		<rus>Покоцанные? Да меня из-за них чуть чести не лишили.</rus>
-		<eng>Broken? I was almost ruined for them.</eng>
-		<ukr>Покоцані? Та мене через них мало честі не позбавили.</ukr>
-		<fra>Cassé? Je suis presque ruiné pour eux.</fra>
-		<pln>Odrapane? Mnie z ich powodu o mało honoru nie pozbawili.</pln>
+		<rus>Я рассчитывал на более солидный куш, учитывая, что меня из-за них чуть чести не лишили.</rus>
+		<eng>===I was almost ruined for them.</eng>
+		<ukr>Я розраховував на більш солідний куш, враховуючи, що мене через них мало честі не позбавили.</ukr>
+		<fra>===Je suis presque ruiné pour eux.</fra>
+		<pln>===Mnie z ich powodu o mało honoru nie pozbawili.</pln>
 	</string>
 	<string id="m_qeast1_3">
 		<rus>Надеюсь, что не лишили... Хотя - вопрос сомнительный...</rus>
@@ -2422,9 +2401,9 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>Sama prawda. To bardzo wygodna rzecz, warto zaryzykować! Jak zrozumiałem, ta grupa wywiadowczo-dywersyjna planuje jakąś operację na nowym terytorium, do którego droga otworzyła się po ostatniej emisji... Wyraz twojej gęby świadczy, że nic o tym nie słyszałeś. Czytaj częściej wiadomości we wspólnej sieci - Łukasz trąbi o tym w dzień i w nocy. Jestem pewien, że nasi spece kierują się właśnie tam - Lis i Bies w tejże sieci także pisali, że widzieli wczoraj wieczorem oddział wojska z takim samym wyposażeniem podążający na północ od Doliny. Postaraj się wydostać od lidera Wolności koordynaty tej ścieżki - i nową lokację poznasz, i na pewno spotkasz tam "naszego" dowódcę.</pln>
 	</string>
 	<string id="s_qeast_6">
-		<rus>Твои запросы со временем становятся всё страннее и страннее.</rus>
+		<rus>Твои запросы со временем становятся всё более странными.</rus>
 		<eng>Your requests become more and more strange over time.</eng>
-		<ukr>Твої запити з часом стають все дивніше і дивніше.</ukr>
+		<ukr>Твої запити з часом стають все дивніші ти дивніші.</ukr>
 		<fra>Vos demandes deviennent de plus en plus étranges avec le temps.</fra>
 		<pln>Twoje zlecenia stają się z czasem coraz dziwniejsze.</pln>
 	</string>
