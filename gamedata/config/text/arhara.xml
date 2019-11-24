@@ -1359,48 +1359,6 @@ Fireball" \n\nC'est bien, il n'a pas avoir besoin de 15 "Scalps de Contrôleurs"
 		<fra>Il faut revenir le plus vite possible au lieu de rendez-vous avec Fang et tâcher de l'aider.</fra>
 		<pln>Trzeba najszybciej jak się tylko da wrócić na miejsce spotkania z Kłem i postarać się mu pomóc.</pln>
 	</string>
-	<string id="det_art_ultra">
-		<rus>Ультрадетектор артефактов</rus>
-		<eng>Ultra Artefact Detector</eng>
-		<ukr>Ультрадетектор артефактів</ukr>
-		<fra>Détecteur d'artefact Ultra </fra>
-		<pln>Ultradetektor artefaktów</pln>
-	</string>
-	<string id="det_art_ultra_info">
-		<rus>Модернизированный детектор артефактов и изоморфов. Чувствительность детектора увеличена до размеров всей территории. Наличие артефактов отображается метками на карте местности. Помимо мест их нахождения, детектор распознаёт типы артефактов, что делает данный прибор самым лучшим из всех серий детекторов. Также способен определять предметы, содержащие частицы чужеродной энергии. Активируется при расположении на поясе.</rus>
-		<eng>An upgraded artefact and isomorphic detector. The sensitivity of the detector is increased to cope with the size of the entire territory. The presence of artefacts is indicated by marks on the map. In addition to their location, the detector recognises the types of artefacts, which makes this device the best of the whole series of detectors. It's also able to detect objects containing foreign energy particles. Activated when placed on the belt.</eng>
-		<ukr>Модернізований детектор артефактів і ізоморфів. Чутливість детектора збільшена до розмірів цілої території. Наявність артефактів відображається мітками на карті місцевості. Крім місць їх знаходження, детектор розпізнає типи артефактів, що робить даний прилад найкращим з усіх серій детекторів. Також здатний визначати предмети, що містять частинки чужорідної енергії. Активується при розташуванні на поясі.</ukr>
-		<fra>Détecteur amélioré d'artefacts et d'isomorphes. La sensibilité du détecteur est augmentée à la taille de tout le territoire. La présence d'artefacts est indiquée par des étiquettes sur la carte de la région. En plus de leurs emplacements, le détecteur reconnaît les types d'artefacts, ce qui fait de ce dispositif le meilleur de toutes les séries de détecteurs. Également capable d'identifier les objets contenant des particules d'énergie étrangère. Activé lorsqu'il est placé à la ceinture. </fra>
-		<pln>Modernizowany detektor artefaktów i izomorfów. Zasięg detektora zwiększony do rozmiarów całej lokacji. Obecność artefaktów oznaczana jest symbolami na mapie okolicy. Oprócz miejsca położenia, detektor rozpoznaje również typy artefaktów, co sprawia, że jest to najlepszy przyrząd pośród całej serii detektorów. Jest też zdolny określać przedmioty, zawierające cząstki energii obcego pochodzenia. Aktywuje się po umieszczeniu go na pasie.</pln>
-	</string>
-	<string id="det_art_indy">
-		<rus>Детектор артефактов</rus>
-		<eng>Artefact Detector</eng>
-		<ukr>Детектор артефактів</ukr>
-		<fra>Détecteur d'artefact</fra>
-		<pln>Detektor artefaktów</pln>
-	</string>
-	<string id="det_art_indy_info">
-		<rus>Простой детектор артефактов. Прибор способен в радиусе 50 метров оповестить владельца о наличии артефактов звуковым сигналом. Местонахождение артефакта на карте отображать не может. Активируется при расположении на поясе.</rus>
-		<eng>A simple artefact detector. The device is able to notify the owner with an audible signal, when it detects the presence of artefacts within a range of 50 metres. The location of the artefact cannot be displayed on the map. It's activated only when placed on the belt.</eng>
-		<ukr>Простий детектор артефактів. Прилад здатний в радіусі 50 метрів сповістити власника про наявність артефактів звуковим сигналом. Місцезнаходження артефакту на мапі відображати не може. Активується при розташуванні на поясі.</ukr>
-		<fra>Détecteur d'artefacts simple. L'appareil est capable d'informer le propriétaire de la présence d'artefacts avec un signal sonore dans un rayon de 50 mètres. L'emplacement de l'artefact sur la carte ne peut pas s'afficher. Activé lorsqu'il est placé à la ceinture.</fra>
-		<pln>Prosty detektor artefaktów. Przyrząd informuje właściciela sygnałem dźwiękowym o obecnośći artefaktu w promieniu 50 metrów. Nie posiada możliwości wskazywania na mapie położenia artefaktu. Uaktywnia się po założeniu go na pasie.</pln>
-	</string>
-	<string id="detektor_amorf">
-		<rus>Детектор изоморфов</rus>
-		<eng>Isomorph Detector</eng>
-		<ukr>Детектор ізоморфів</ukr>
-		<fra>Détecteur d'isomorphe</fra>
-		<pln>Detektor izomorfów</pln>
-	</string>
-	<string id="detektor_amorf_info">
-		<rus>Детектор, способный определять предметы, содержащие частицы чужеродной энергии и отображать эти предметы на карте в радиусе 50-60 метров, а также подавать звуковой сигнал. Также есть возможность определения местонахождения артефактов.</rus>
-		<eng>A detector capable of detecting objects containing foreign energy particles within a range of 50-60 metres and displaying these objects on a map, as well as giving an audible signal. It's also able to locate artefacts.</eng>
-		<ukr>Детектор, здатний визначати предмети, що містять частинки чужорідної енергії і відображати ці предмети на карті в радіусі 50-60 метрів, а також подавати звуковий сигнал. Також є можливість визначення місцезнаходження артефактів.</ukr>
-		<fra>Détecteur capable de détecter des objets contenant des particules d’énergie étrangère et de les afficher sur une carte dans un rayon de 50 à 60 mètres, ainsi que des signaux sonores. Il est également possible de déterminer l'emplacement des artefacts.</fra>
-		<pln>Detektor, będący w stanie w promieniu 50-60 metrów wykrywać obiekty zawierające cząsteczki  obcej energii, pokazywać te przedmioty na mapie oraz informować o tym sygnałem dźwiękowym. Ma także możliwość lokalizacji artefaktów.</pln>
-	</string>
 	<string id="tex_podval_sarkofag">
 		<rus>Разыскать помещение и помочь Молнии, у неё есть полезная информация. Она находится в каком-то центре управления, где много коридоров.</rus>
 		<eng>Find the room where Lightning is and help her out, she has useful information. It's located in the control centre where there are many corridors.</eng>

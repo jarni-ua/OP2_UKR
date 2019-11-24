@@ -3390,11 +3390,11 @@
 		<pln>LCU dla Maksa</pln>
 	</string>
 	<string id="task_max_gunsight_1">
-		<rus>Раздобыть четыре ЛЦУ у снайперов Монолита</rus>
-		<eng>Get four laser designators from Monolith snipers</eng>
-		<ukr>Роздобути чотири ЛЦВ у снайперів Моноліту</ukr>
-		<fra>Obtenez quatre marqueurs laser auprès des tireurs d’élite Monolithe</fra>
-		<pln>Zdobyć cztery LCU od snajperów Monolitu</pln>
+		<rus>Раздобыть ЛЦУ у снайперов Монолита</rus>
+		<eng>Get laser designators from Monolith snipers</eng>
+		<ukr>Роздобути ЛЦВ у снайперів Моноліту</ukr>
+		<fra>Obtenez marqueurs laser auprès des tireurs d’élite Monolithe</fra>
+		<pln>Zdobyć LCU od snajperów Monolitu</pln>
 	</string>
 	<string id="task_max_gunsight_2">
 		<rus>Принести ЛЦУ Максу</rus>
@@ -5135,20 +5135,13 @@
 		<pln>Obrona szpitala</pln>
 	</string>
 	<string id="task_defend_hospital_1">
-		<rus>Занять позицию на вышке баржи</rus>
-		<eng>Take up position on the barge's tower</eng>
-		<ukr>Зайняти позицію на вишці баржі</ukr>
-		<fra>Prenez position sur la tour de la barge</fra>
-		<pln>Zająć pozycję na wieży barki</pln>
+		<rus>Занять позицию на вышке баржи и защитить госпиталь от взрывных зомби</rus>
+		<eng>Take up position on the barge's tower and defend the hospital from explosive zombies</eng>
+		<ukr>Зайняти позицію на вишці баржі і захистити госпіталь від вибухових зомбі</ukr>
+		<fra>===Prenez position sur la tour de la barge Protégez l'hôpital contre les Zombies explosifs</fra>
+		<pln>Zająć pozycję na wieży barki i obronić szpital przed wybuchowymi zombie</pln>
 	</string>
 	<string id="task_defend_hospital_2">
-		<rus>Защитить госпиталь от взрывных зомби</rus>
-		<eng>Defend the hospital from explosive zombies</eng>
-		<ukr>Захистити госпіталь від вибухових зомбі</ukr>
-		<fra>Protégez l'hôpital contre les Zombies explosifs</fra>
-		<pln>Obronić szpital przed wybuchowymi zombie</pln>
-	</string>
-	<string id="task_defend_hospital_3">
 		<rus>Вернуться к Ною</rus>
 		<eng>Get back to Noah</eng>
 		<ukr>Повернутися до Ноя</ukr>

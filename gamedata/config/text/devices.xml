@@ -276,6 +276,13 @@
 		<fra>Jumelles portables de l'armée.</fra>
 		<pln>Wojskowa lornetka.</pln>
 	</string>
+	<string id="st_detector">
+		<rus>Дозиметр</rus>
+		<eng>Dosimeter</eng>
+		<ukr>Дозиметр</ukr>
+		<fra>Dosimètre</fra>
+		<pln>Dozymetr</pln>
+	</string>
 	<string id="enc_equipment_devic_detect1">
 		<rus>Дозиметр - устройство, измеряющее дозу или мощность ионизирующего излучения. Для работы необходимо активировать, разместив прибор в соответствующем слоте.</rus>
 		<eng>===A dosimeter is a device that measures the dosage of ionizing radiation. It must be placed on the belt to function.</eng>
@@ -283,12 +290,26 @@
 		<fra>===Dosimètre - appareil qui mesure la dose ou la puissance des rayonnements ionisants. Pour fonctionner, vous devez l'activer en plaçant l'appareil sur la ceinture.</fra>
 		<pln>===Dozymetr - urządzenie mierzące dawkę lub moc promieniowania jonizującego. Aby działał, konieczna jest aktywacja poprzez umieszczenie przyrządu na pasie.</pln>
 	</string>
+	<string id="st_detector2">
+		<rus>Детектор аномалий</rus>
+		<eng>Anomaly detector</eng>
+		<ukr>Детектор аномалій</ukr>
+		<fra>Détecteur d'anomalie</fra>
+		<pln>Detektor anomalii</pln>
+	</string>
 	<string id="enc_equipment_devic_detect2">
 		<rus>Устройство, определяющее наличие аномальных полей и возмущений и сообщающее о них звуковым сигналом. Для работы необходимо активировать, разместив прибор в соответствующем слоте.</rus>
 		<eng>===A device that determines the presence of anomalous fields and disturbances and informs about them with a sound signal. It must be placed on the belt to function.</eng>
 		<ukr>Пристрій, що визначає наявність аномальних полів і збурювань і повідомляє про них звуковим сигналом. Для роботи необхідно активувати, розмістивши прилад  у відповідному слоті.</ukr>
 		<fra>===Un dispositif qui détermine la présence de champs anormaux et de perturbations et en informe par un signal sonore. Pour fonctionner, vous devez l'activer en plaçant l'appareil sur la ceinture.</fra>
 		<pln>===Urządzenie określające obecność anomalnych pól oraz zakłóceń i sygnalizujące o nich dźwiękiem. Aby działał, konieczna aktywacja poprzez umieszczenie przyrządu na pasie.</pln>
+	</string>
+	<string id="st_detector3">
+		<rus>Элитный детектор аномалий</rus>
+		<eng>Advanced Anomaly Detector</eng>
+		<ukr>Елітний детектор аномалій</ukr>
+		<fra>Détecteur d'anomalie Elite</fra>
+		<pln>Elitarny detektor anomalii</pln>
 	</string>
 	<string id="enc_equipment_devic_detect3">
 		<rus>Элитный детектор аномалий, изобретённый учёными в Зоне. Определяет не только наличие аномальных полей и возмущений, но также показывает на карте их расположение, сообщает о них звуковым сигналом. Для работы необходимо активировать, разместив прибор в соответствующем слоте.</rus>
@@ -507,47 +528,47 @@
 		<fra>Vodka "Buratino"</fra>
 		<pln>Wódka "Kozacy"</pln>
 	</string>
-	<string id="st_detector">
-		<rus>Дозиметр</rus>
-		<eng>Dosimeter</eng>
-		<ukr>Дозиметр</ukr>
-		<fra>Dosimètre</fra>
-		<pln>Dozymetr</pln>
+	<string id="det_art_ultra">
+		<rus>Ультрадетектор артефактов</rus>
+		<eng>Ultra Artefact Detector</eng>
+		<ukr>Ультрадетектор артефактів</ukr>
+		<fra>Détecteur d'artefact Ultra </fra>
+		<pln>Ultradetektor artefaktów</pln>
 	</string>
-	<string id="st_detector2">
-		<rus>Детектор аномалий</rus>
-		<eng>Anomaly detector</eng>
-		<ukr>Детектор аномалій</ukr>
-		<fra>Détecteur d'anomalie</fra>
-		<pln>Detektor anomalii</pln>
+	<string id="det_art_ultra_info">
+		<rus>Модернизированный детектор артефактов и изоморфов. Чувствительность детектора увеличена до размеров всей территории. Наличие артефактов отображается метками на карте местности. Помимо мест их нахождения, детектор распознаёт типы артефактов, что делает данный прибор самым лучшим из всех серий детекторов. Также способен определять предметы, содержащие частицы чужеродной энергии. Для работы необходимо активировать, разместив прибор в соответствующем слоте.</rus>
+		<eng>===An upgraded artefact and isomorphic detector. The sensitivity of the detector is increased to cope with the size of the entire territory. The presence of artefacts is indicated by marks on the map. In addition to their location, the detector recognises the types of artefacts, which makes this device the best of the whole series of detectors. It's also able to detect objects containing foreign energy particles. Activated when placed on the belt.</eng>
+		<ukr>===Модернізований детектор артефактів і ізоморфів. Чутливість детектора збільшена до розмірів цілої території. Наявність артефактів відображається мітками на карті місцевості. Крім місць їх знаходження, детектор розпізнає типи артефактів, що робить даний прилад найкращим з усіх серій детекторів. Також здатний визначати предмети, що містять частинки чужорідної енергії. Активується при розташуванні на поясі.</ukr>
+		<fra>===Détecteur amélioré d'artefacts et d'isomorphes. La sensibilité du détecteur est augmentée à la taille de tout le territoire. La présence d'artefacts est indiquée par des étiquettes sur la carte de la région. En plus de leurs emplacements, le détecteur reconnaît les types d'artefacts, ce qui fait de ce dispositif le meilleur de toutes les séries de détecteurs. Également capable d'identifier les objets contenant des particules d'énergie étrangère. Activé lorsqu'il est placé à la ceinture. </fra>
+		<pln>===Modernizowany detektor artefaktów i izomorfów. Zasięg detektora zwiększony do rozmiarów całej lokacji. Obecność artefaktów oznaczana jest symbolami na mapie okolicy. Oprócz miejsca położenia, detektor rozpoznaje również typy artefaktów, co sprawia, że jest to najlepszy przyrząd pośród całej serii detektorów. Jest też zdolny określać przedmioty, zawierające cząstki energii obcego pochodzenia. Aktywuje się po umieszczeniu go na pasie.</pln>
 	</string>
-	<string id="st_detector3">
-		<rus>Элитный детектор аномалий</rus>
-		<eng>Advanced Anomaly Detector</eng>
-		<ukr>Елітний детектор аномалій</ukr>
-		<fra>Détecteur d'anomalie Elite</fra>
-		<pln>Elitarny detektor anomalii</pln>
+	<string id="det_art_indy">
+		<rus>Детектор артефактов</rus>
+		<eng>Artefact Detector</eng>
+		<ukr>Детектор артефактів</ukr>
+		<fra>Détecteur d'artefact</fra>
+		<pln>Detektor artefaktów</pln>
 	</string>
-	<string id="st_detector_descr1">
-		<rus>Дозиметр - устройство, измеряющее дозу или мощность ионизирующего излучения. Для работы необходимо активировать, разместив прибор на поясе.</rus>
-		<eng>A dosimeter is a device that measures the dossage or level of ionizing radiation. It must be placed on the belt to function.</eng>
-		<ukr>Дозиметр - пристрій, що вимірює дозу або потужність іонізуючого випромінювання. Для роботи необхідно активувати, розмістивши прилад на поясі.</ukr>
-		<fra>Dosimètre - appareil qui mesure la dose ou la puissance des rayonnements ionisants. Pour fonctionner, vous devez l'activer en plaçant l'appareil sur la ceinture.</fra>
-		<pln>Dozymetr - urządzenie, mierzące dawkę lub moc promieniowania jonizującego. Aby działał, konieczna aktywacja poprzez umieszczenie przyrządu na pasie.</pln>
+	<string id="det_art_indy_info">
+		<rus>Простой детектор артефактов. Прибор способен в радиусе 50 метров оповестить владельца о наличии артефактов звуковым сигналом. Местонахождение артефакта на карте отображать не может. Для работы необходимо активировать, разместив прибор в соответствующем слоте.</rus>
+		<eng>===A simple artefact detector. The device is able to notify the owner with an audible signal, when it detects the presence of artefacts within a range of 50 metres. The location of the artefact cannot be displayed on the map. It's activated only when placed on the belt.</eng>
+		<ukr>===Простий детектор артефактів. Прилад здатний в радіусі 50 метрів сповістити власника про наявність артефактів звуковим сигналом. Місцезнаходження артефакту на мапі відображати не може. Активується при розташуванні на поясі.</ukr>
+		<fra>===Détecteur d'artefacts simple. L'appareil est capable d'informer le propriétaire de la présence d'artefacts avec un signal sonore dans un rayon de 50 mètres. L'emplacement de l'artefact sur la carte ne peut pas s'afficher. Activé lorsqu'il est placé à la ceinture.</fra>
+		<pln>===Prosty detektor artefaktów. Przyrząd informuje właściciela sygnałem dźwiękowym o obecnośći artefaktu w promieniu 50 metrów. Nie posiada możliwości wskazywania na mapie położenia artefaktu. Uaktywnia się po założeniu go na pasie.</pln>
 	</string>
-	<string id="st_detector_descr2">
-		<rus>Устройство, определяющее наличие аномальных полей и возмущений и сообщающее о них звуковым сигналом. Для работы необходимо активировать, разместив прибор на поясе.</rus>
-		<eng>A device that determines the presence of anomalous fields and disturbances and informs about them with a sound signal. It must be placed on the belt to function.</eng>
-		<ukr>Пристрій, що визначає наявність аномальних полів і збурювань і повідомляє про них звуковим сигналом. Для роботи необхідно активувати, розмістивши прилад на поясі.</ukr>
-		<fra>Un dispositif qui détermine la présence de champs anormaux et de perturbations et en informe par un signal sonore. Pour fonctionner, vous devez l'activer en plaçant l'appareil sur la ceinture.</fra>
-		<pln>Urządzenie, określające obecność anomalnych pól oraz zakłóceń i sygnalizujące o nich dźwiękiem. Aby działał, konieczna aktywacja poprzez umieszczenie przyrządu na pasie.</pln>
+	<string id="detektor_amorf">
+		<rus>Детектор изоморфов</rus>
+		<eng>Isomorph Detector</eng>
+		<ukr>Детектор ізоморфів</ukr>
+		<fra>Détecteur d'isomorphe</fra>
+		<pln>Detektor izomorfów</pln>
 	</string>
-	<string id="st_detector_descr3">
-		<rus>Элитный детектор аномалий, изобретённый учёными в Зоне. Определяет не только наличие аномальных полей и возмущений, но также показывает на карте их расположение, сообщает о них звуковым сигналом. Для работы необходимо активировать, разместив прибор на поясе.</rus>
-		<eng>Advanced anomaly detector, invented by scientists in the Zone. It determines not only the presence of anomalous fields and disturbances, but also shows their location on the map, and reports them with a sound signal. It must be placed on the belt to function.</eng>
-		<ukr>Елітний детектор аномалій, винайдений вченими в Зоні. Визначає не тільки наявність аномальних полів і збурювань, але також показує на карті їх розташування, повідомляє про них звуковим сигналом. Для роботи необхідно активувати, розмістивши прилад на поясі.</ukr>
-		<fra>Détecteur d'anomalie Elite, inventé par les scientifiques de la zone. Il détermine non seulement la présence de champs et de perturbations anormaux, mais indique également leur emplacement sur la carte, les signale par un signal sonore. Pour fonctionner, vous devez l'activer en plaçant l'appareil sur la ceinture.</fra>
-		<pln>Elitarny detektor anomalii, skonstruowany przez uczonych w Zonie. Określa nie tylko obecność anomalnych pól oraz zakłóceń, ale także pokazuje na mapie ich położenie, sygnalizując o nich dźwiękiem. Aby działał, konieczna aktywacja poprzez umieszczenie przyrządu na pasie.</pln>
+	<string id="detektor_amorf_info">
+		<rus>Детектор, способный определять предметы, содержащие частицы чужеродной энергии и отображать эти предметы на карте в радиусе 50-60 метров, а также подавать звуковой сигнал. Также есть возможность определения местонахождения артефактов.</rus>
+		<eng>A detector capable of detecting objects containing foreign energy particles within a range of 50-60 metres and displaying these objects on a map, as well as giving an audible signal. It's also able to locate artefacts.</eng>
+		<ukr>Детектор, здатний визначати предмети, що містять частинки чужорідної енергії і відображати ці предмети на карті в радіусі 50-60 метрів, а також подавати звуковий сигнал. Також є можливість визначення місцезнаходження артефактів.</ukr>
+		<fra>Détecteur capable de détecter des objets contenant des particules d’énergie étrangère et de les afficher sur une carte dans un rayon de 50 à 60 mètres, ainsi que des signaux sonores. Il est également possible de déterminer l'emplacement des artefacts.</fra>
+		<pln>Detektor, będący w stanie w promieniu 50-60 metrów wykrywać obiekty zawierające cząsteczki  obcej energii, pokazywać te przedmioty na mapie oraz informować o tym sygnałem dźwiękowym. Ma także możliwość lokalizacji artefaktów.</pln>
 	</string>
 	<string id="item_disket">
 		<rus>Компьютерный диск</rus>
@@ -1790,13 +1811,6 @@
 		<fra>Comestible, mais légèrement radioactif.</fra>
 		<pln>Jadalny, lekko radioaktywny.</pln>
 	</string>
-	<string id="detector_elite_john">
-		<rus>Детектор Голограммы</rus>
-		<eng>Hologram's detector</eng>
-		<ukr>Детектор Голограми</ukr>
-		<fra>Détecteur d'Hologramme</fra>
-		<pln>Detektor Holograma</pln>
-	</string>
 	<string id="sandwich">
 		<rus>Бутерброд</rus>
 		<eng>Sandwich</eng>
@@ -2316,11 +2330,11 @@
 		<pln>Notes wartownika. Przekazywany przy zmianie warty. W nim - jedyna zrozumiała informacja - kod do pomieszczenia z więźniem: 208568. Pozostałe strony zapełnione na wpół zatartymi hieroglifami, podobnymi do konspektów modlitw Monolitu.</pln>
 	</string>
 	<string id="item_soap">
-		<rus>Обыкновенное качественное совдеповское банное мыло, какого в старые добрые времена было достаточно. Правда особого разнообразия видов данного продукта не было, зато мыло было натуральным, хоть и пахло не очень... Но, по крайней мере, всяким современным заграничным благоухающим Дуру, Палмоливам и т.д. до него далеко. Столько лет прошло, а оно выглядит как новое...</rus>
-		<eng>Ordinary bath soap. In the good old days, people considered this enough for personal hygiene. There was no real variety for this product, but the soap was naturally made, even though it didn't have any real scent. However, so many years have passed since this was considered the norm for personal cleanness: fragrances, conditioners and moisturizers have changed people's perceptions of what is considered 'clean'. This soap still looks brand new...</eng>
-		<ukr>Звичайне якісне совдепівське банне мило, якого в старі добрі часи було достатньо. Правда особливого розмаїття видів даного продукту не було, зате мило було натуральним, хоч і пахло не дуже... Але, принаймні, всяким сучасним закордонним благоухающим Дуру, Палмолівам і т.д. до нього далеко. Стільки років пройшло, а воно виглядає як нове...</ukr>
-		<fra>Savon de bain ordinaire. Dans le bon vieux temps, les gens considéraient cela comme suffisant pour l'hygiène personnelle. Il n’existait pas de véritable variété pour ce produit, mais le savon était naturellement fabriqué, même s’il n’avait aucun parfum réel. Cependant, de nombreuses années se sont écoulées depuis que cela était considéré comme la norme en matière de propreté personnelle: les parfums, les revitalisants et les hydratants ont changé la perception des gens sur ce qui est considéré comme "propre". Ce savon a l'air tout neuf...</fra>
-		<pln>Zwykłe mydło kąpielowe, jakiego w dawnych czasach było pod dostatkiem. Wprawdzie nie było zbyt dużego wyboru, za to mydło było naturalne, chociaż nie pachniało zbyt ładnie... Co by nie mówić, wszystkim dzisiejszym zagranicznym luksusom jak Duru, Palmolive itp. do niego daleko. Tyle lat minęło, a wygląda jak nowe...</pln>
+		<rus>Особенное, сваренное по старинному рецепту банное мыло.</rus>
+		<eng>===Ordinary bath soap. In the good old days, people considered this enough for personal hygiene. There was no real variety for this product, but the soap was naturally made, even though it didn't have any real scent. However, so many years have passed since this was considered the norm for personal cleanness: fragrances, conditioners and moisturizers have changed people's perceptions of what is considered 'clean'. This soap still looks brand new...</eng>
+		<ukr>===Звичайне якісне совдепівське банне мило, якого в старі добрі часи було достатньо. Правда особливого розмаїття видів даного продукту не було, зате мило було натуральним, хоч і пахло не дуже... Але, принаймні, всяким сучасним закордонним благоухающим Дуру, Палмолівам і т.д. до нього далеко. Стільки років пройшло, а воно виглядає як нове...</ukr>
+		<fra>===Savon de bain ordinaire. Dans le bon vieux temps, les gens considéraient cela comme suffisant pour l'hygiène personnelle. Il n’existait pas de véritable variété pour ce produit, mais le savon était naturellement fabriqué, même s’il n’avait aucun parfum réel. Cependant, de nombreuses années se sont écoulées depuis que cela était considéré comme la norme en matière de propreté personnelle: les parfums, les revitalisants et les hydratants ont changé la perception des gens sur ce qui est considéré comme "propre". Ce savon a l'air tout neuf...</fra>
+		<pln>===Zwykłe mydło kąpielowe, jakiego w dawnych czasach było pod dostatkiem. Wprawdzie nie było zbyt dużego wyboru, za to mydło było naturalne, chociaż nie pachniało zbyt ładnie... Co by nie mówić, wszystkim dzisiejszym zagranicznym luksusom jak Duru, Palmolive itp. do niego daleko. Tyle lat minęło, a wygląda jak nowe...</pln>
 	</string>
 	<string id="item_amulet">
 		<rus>Амулет монолитовцев. Оказывается, совсем необязательно одеть форму монолита, чтобы внешне быть похожим на представителя данной группировки... Достаточно повесить на шею данный медальон - такой имеется только у главарей клана и является своеобразным пропуском.</rus>
@@ -2399,12 +2413,31 @@
 		<fra>Montre de poche en or. La chaîne est perdue. Appartient probablement au vieil homme, car il les cherche et sait où regarder. Malgré tout, la montre est en état de marche.</fra>
 		<pln>Złoty zegarek kieszonkowy. Łańcuszka brak. Prawdopodobnie należy do Starca, skoro go szuka i wie gdzie go znaleźć. Co by nie mówić - zegarek w pełni sprawny.</pln>
 	</string>
+	<string id="detector_elite_john">
+		<rus>Детектор Голограммы</rus>
+		<eng>Hologram's detector</eng>
+		<ukr>Детектор Голограми</ukr>
+		<fra>Détecteur d'Hologramme</fra>
+		<pln>Detektor Holograma</pln>
+	</string>
 	<string id="detect_john">
 		<rus>Детектор, который способен определять все известные аномалии. В Зоне существуют всего несколько таких экземпляров, и даже бывалые сталкеры и предводители кланов о таком и не слышали. Представляет модификацию известного элитного детектора, разработанного учёными и модернизированного профессором Сахаровым. Данные несколько моделей собраны не в НИИ, а в обычной полутёмной пещере, практически без сложных подручных средств одним из бывших экологов по прозвищу Голограмма, который приобрёл свои феноменальные способности при исследовании редкого артефакта, но расплатился за это своей внешностью. Несколько таких ультрадетекторов было просто подарено, часть - украдена, так что найти сейчас подобный образец в Зоне - большая удача.</rus>
 		<eng>A detector that can detect all known anomalies. In the Zone, there are only a few of these devices, and even fewer people know about them - most experienced stalkers and faction leaders have never seen one. It consists of a modified advanced detector developed by scientists that's popular in the Zone, and it has also been modernized by Professor Sakharov.\n \n The data for several models of anomaly detectors are not collected in scientific research institutes, but in a semi-dark cave without any complex tools. A scientist (and former environmentalist) who goes by the name "Hologram" works in that cave in order to compile data for his colleagues. He learned to do so while researching a rare artifact - but he paid for it greatly by becoming horribly disfigured. Several of these ultradetectors were simply donated to various parties that kept things hush-hush, and some were stolen, so finding on of these detectors in the Zone will rely on some luck.</eng>
 		<ukr>Детектор, який здатний визначати всі відомі аномалії. У Зоні існують лише кілька таких екземплярів, і навіть бувалі сталкери і ватажки кланів про таке і не чули. Являє собою модифікацію відомого елітного детектора, розробленого вченими та модернізованого професором Сахаровим. Дані кілька моделей зібрані не в НДІ, а у звичайній напівтемній печері, практично без складних підручних засобів одним з колишніх екологів на прізвисько Голограма, який придбав свої феноменальні здібності при дослідженні рідкісного артефакту, але розплатився за це своєю зовнішністю. Кілька таких ультрадетекторів було просто подаровано, частина - вкрадена, так що знайти зараз подібний зразок в Зоні - велика вдача.</ukr>
 		<fra>Un détecteur capable de détecter toutes les anomalies connues. Il n’ya que quelques cas de ce genre dans la zone, et même des harceleurs expérimentés et des chefs de clan n’en ont pas entendu parler. Représente une modification du célèbre détecteur d'élite développé par les scientifiques et modernisé par le professeur Sakharov. Les données de plusieurs modèles ne sont pas collectées dans l'institut de recherche scientifique, mais dans une grotte semi-sombre habituelle, pratiquement sans moyens compliqués de la part d'un des anciens environnementalistes surnommé l'Hologram, qui a acquis ses capacités phénoménales en recherchant un artefact rare, mais l'a payé de son apparence. Plusieurs de ces ultradétecteurs ont simplement été donnés, certains volés. La découverte d'un échantillon similaire dans la zone est un grand succès.</fra>
 		<pln>Detektor, który jest w stanie określić wszelkie znane anomalie. W Zonie takich detektorów istnieje tylko kilka, i nawet doświadczeni stalkerzy i dowódcy klanów o takich nie słyszeli. Jest modyfikacją typowego elitarnego detektora, opracowanego przez uczonych i zmodernizowanego przez profesora Sacharowa. Te kilka modeli zostało zbudowanych nie w Instytucie Naukowym, a w zwykłej mrocznej pieczarze, praktycznie bez skomplikowanyego oprzyrządowania, przez jednego z byłych ekologów o przezwisku Hologram, który uzyskał swoje fenomenalne zdolności przy badaniu rzadkiego artefaktu, ale zapłacił za to swoim wyglądem zewnętrznym. Kilka takich superdetektorów zostało zwyczajnie rozdanych, część - skradziona, tak że znaleźć teraz podobną sztukę w Zonie - to wielki sukces.</pln>
+	</string>
+	<string id="st_detector_sak">
+		<rus>Универсальный детектор аномалий</rus>
+		<eng>Universal anomaly detector</eng>
+		<ukr>Універсальний детектор аномалій</ukr>
+		<pln>Uniwersalny detektor anomalii</pln>
+	</string>
+	<string id="enc_equipment_devic_detect_sak">
+		<rus>Детектор, последняя разработка в области механизации исследований паранормальных явлений, позволяет обнаруживать и идентифицировать практически любую аномалию Зоны.</rus>
+		<eng>A detector, the latest development in the field of automation of paranormal activity research, allows of detection and recognition of virtually any anomaly in the Zone.</eng>
+		<ukr>Детектор, остання розробка в області механізації досліджень паранормальних явищ, дозволяє виявляти і ідентифікувати практично будь-яку аномалію зони.</ukr>
+		<pln>Detektor, najnowsze osiągnięcie w dziedzinie mechanizacji badań zjawisk paranormalnych, pozwala zlokalizować i zidentyfikować praktycznie każdą anomalię Zony.</pln>
 	</string>
 	<string id="item_britva">
 		<rus>Типичный бритвенный станок с заправленным и достаточно острым лезвием. Ничего особенного, можно разок побриться.</rus>

@@ -1,47 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <string_table>
-	<string id="prinesi_hvost_0">
-		<rus>Здорово! Кто таков? Чего тут забыл?</rus>
-		<eng>Hello! Who are you? What are you doing here?</eng>
-		<ukr>Здорово! Хто такий? Що тут забув?</ukr>
-		<pln>Cześć! Kim jesteś? I czego tu szukasz?</pln>
-	</string>
-	<string id="prinesi_hvost_1">
-		<rus>Привет, Меченый! Да вот, бизнес только налаживаю. Послушай, ты ж по Зоне мотаешься, наверняка живность всякую постреливаешь, принеси мне:\nЛибо 3 хвоста слепых собак,\nЛибо 3 копыта кабанов местных.\nА то у меня заказчик появился на живность всякую, говорит, что он из них лекарства делает. А на местных богодулов разве можно рассчитывать? Где чего стырить - они мастаки! А кабана как увидят - бегут впереди своего поросячьего визга штаны стирать. Достань, а!? Отблагодарю нормально, не обижу.</rus>
-		<eng>Hello, Marked One! Yeah, I'm just setting up a business. Listen, you're running around the Zone a lot, you're probably going to shoot all kinds of animals, bring me:\nEither, three blind dogs' tails,\nOr 3 wild boars' hooves.\nYou see, I've got a customer who collects animal parts, says he's making medicines out of them. Well, we can't count on the local riffraff, now can we? Were they to steal anything - they're experts! But if they were to see a boar running towards them - they'd squeal like pigs and shit their pants. Get it, huh!? I'll thank you properly, you won't be disappointed.</eng>
-		<ukr>Привіт, Мічений! Та от, бізнес тільки налагоджую. Послухай, ти ж по Зоні мотаєшся, напевно живність всяку пострілюєш, принеси мені:\nАбо 3 хвоста сліпих собак,\nАбо 3 копита кабанів місцевих.\nА то у мене замовник з'явився на живність всіляку, каже, що він з них ліки робить. А на місцевих богодулів хіба можна розраховувати? Десь щось поцупити - вони мастаки! А кабана як побачать - біжать попереду свого поросячого вереску штани прати. Дістань, а!? Віддячу нормально, не ображу.</ukr>
-		<pln>Czołem, Naznaczony! Za interesami biegam. Słuchaj, przecież ty po Zonie się kręcisz, na pewno nie raz części mutantów widziałeś. Przyniósłbyś mi:\nAlbo 3 ogony ślepych psów,\nAlbo 3 kopyta miejscowych dzików.\nPojawił się u mnie chętny na wszelkiego rodzaju członki mutantów. Mówi, że on z tego lekarstwa robi. Ale czy to na miejscowych nierobów można liczyć? Gdzie by co ukraść, to oni pierwsi! A jak dzika zobaczą - to zaraz z kwikiem lecą spodnie prać. Zdobędziesz, co!? Odwdzięczę się zwyczajowo, będziesz zadowolony.</pln>
-	</string>
-	<string id="prinesi_hvost_2">
-		<rus>Привет, Дэн, собрал я копыта, держи!</rus>
-		<eng>Hi Dan, I gathered your hooves, take them!</eng>
-		<ukr>Привіт, Ден, зібрав я копита, тримай!</ukr>
-		<pln>Cześć, Dan, zebrałem kopyta, bierz!</pln>
-	</string>
-	<string id="prinesi_hvost_3">
-		<rus>Привет, Дэн, принёс я хвосты, принимай!</rus>
-		<eng>Hi Dan, I brought the dog tails, take them!</eng>
-		<ukr>Привіт, Ден, приніс я хвости, приймай!</ukr>
-		<pln>Cześć, Dan, przyniosłem ogony, masz!</pln>
-	</string>
-	<string id="prinesi_hvost_4">
-		<rus>Копыта принёс? Отлично, получай расчёт!</rus>
-		<eng>You brought the hooves? Great, here's you money!</eng>
-		<ukr>Копита приніс? Відмінно, отримуй розрахунок!</ukr>
-		<pln>Kopyta przyniosłeś? Świetnie, bierz zapłatę!</pln>
-	</string>
-	<string id="prinesi_hvost_5">
-		<rus>Хвосты принёс, молодец!</rus>
-		<eng>You got the tails, good for you!</eng>
-		<ukr>Хвости приніс, молодець!</ukr>
-		<pln>Ogony przyniosłeś, chwat z ciebie!</pln>
-	</string>
-	<string id="prinesi_hvost_6">
-		<rus>К сожалению, ещё не собрал!</rus>
-		<eng>Unfortunately, I haven't collected them yet!</eng>
-		<ukr>На жаль, ще не зібрав!</ukr>
-		<pln>Niestety, jeszcze nie uzbierałem!</pln>
-	</string>
 	<string id="fox_bring_0">
 		<rus>Здорово, Лис, как дела?</rus>
 		<eng>Hey, Fox, how's it going?</eng>
@@ -362,7 +320,7 @@
 		<pln>Tak chłopaki, znalazłem waszego monolitowca. Tylko martwego. I nie monolitowiec on już, a zombie. Kontroler, sukinsyn, popracował. Jeśliby ręka drgnęła, to i ja bym razem z nim leżał, cholera. Trzymaj, to są te dokumenty.</pln>
 	</string>
 	<string id="gavr_doc_radar_bring_1">
-		<rus>Так, так. Ага, именно то, что нужно. Молоток, Меченый, профессионал! Честно боялся, что не пробиться тебе, уж больно монолитовцы серьёзно все подходы охраняют. Ну вот, держи свою заслуженную награду.</rus>
+		<rus>Так, так. Ага, именно то, что нужно. Молоток, Меченый, профессионал! Честно, боялся, что не пробиться тебе, уж больно монолитовцы серьёзно все подходы охраняют. Ну вот, держи свою заслуженную награду.</rus>
 		<eng>Well, well. Yeah, that's exactly what we need. Well done, Marked One, you're truly a professional! Honestly I was afraid that you wouldn't make it, the Monolithians had all the approaches heavily guarded. Well, here's your well-deserved reward.</eng>
 		<ukr>Так, так. Ага, саме те, що потрібно. Молоток, Мічений, професіонал! Чесно, боявся, не пробитися тобі, аж надто монолітівці серйозно всі підходи охороняють. Ну, ось, тримай свою заслужену нагороду.</ukr>
 		<pln>Tak, tak. Dokładnie to, co potrzebne. Ekstra, Naznaczony, profesjonalna robota! Szczerze się bałem, że się nie przebijesz, monolitowcy wszystkie podejścia obstawiają. No więc, trzymaj swoją zasłużoną nagrodę.</pln>
@@ -1713,7 +1671,7 @@
 		<pln>Coś taki ponury?</pln>
 	</string>
 	<string id="prizrak_tainiy_hod_2">
-		<rus>Да не спрашивай, паршиво и всё! Там, в бункере, лежит человек, которого я не успел спасти. Это учёный, он мне сказал, что они пытались отключить Выжигатель, но видимо не судьба.</rus>
+		<rus>Да не спрашивай, паршиво и всё! Там, в бункере, лежит человек, которого я не успел спасти. Это учёный, он мне сказал, что они пытались отключить Выжигатель, но, видимо, не судьба.</rus>
 		<eng>===Don't ask, I feel lousy, that's all. There, in the bunker, lies the body of a man I killed. He was a scientist, he told me that they were trying to turn off the Scorcher, but destiny intervened.</eng>
 		<ukr>Та не питай, паршиво і все! Там, в бункері, лежить людина, яку я не встиг врятувати. Це вчений, він мені сказав, що вони намагалися відключити Випалювач, але мабуть не доля.</ukr>
 		<pln>===Lepiej nie pytaj, parszywe życie. Tam, w bunkrze, leży człowiek, którego zabiłem. To uczony, powiedział mi, że próbowali wyłączyć Zwęglacz, ale widocznie nie było im dane.</pln>
@@ -2223,7 +2181,7 @@
 		<pln>No to poszukam go, zdobędę tę maść dla ciebie.</pln>
 	</string>
 	<string id="vasil_first_9">
-		<rus>Ну если раздобудешь мне 3 баночки мази, тогда я снова в строю и смогу ремонтом заниматься, в том числе и для тебя.</rus>
+		<rus>Ну если раздобудешь мне 3 баночки мази, тогда я снова буду в строю и смогу ремонтом заниматься, в том числе и для тебя.</rus>
 		<eng>Well, if you get me 3 jars of ointment, I'll be back in business and I can do repairs, including yours.</eng>
 		<ukr>Ну якщо роздобудеш мені 3 баночки мазі, тоді я знову в строю і зможу ремонтом займатися, в тому числі і для тебе.</ukr>
 		<pln>Jeśli zdobędziesz dla mnie 3 pudełka maści, wtedy znowu będę na chodzie i mogę zajmować się naprawami, w tym i dla ciebie.</pln>
@@ -2475,16 +2433,16 @@
 		<pln>No i jak poszło?</pln>
 	</string>
 	<string id="sveeblov_weapons_est_2">
-		<rus>Скажем, не совсем так, как мы планировали. В самый интересный момент налетели охотники, так что пришлось немного пострелять. Зато пулемёт у меня.</rus>
-		<eng>Let's say not exactly as we planned. At the most interesting moment the hunters arrived, so we had to shoot a little. But I have the machine gun.</eng>
-		<ukr>Скажімо, не зовсім так, як ми планували. У самий цікавий момент налетіли мисливці, так що довелося трохи постріляти. Зате кулемет у мене.</ukr>
-		<pln>Można powiedzieć, że nie całkiem tak, jak planowaliśmy. W najciekawszym momencie wpadli "Łowcy", dlatego trzeba było trochę postrzelać. Za to mam maszynówkę.</pln>
+		<rus>Всё нормально, пулемёт у меня.</rus>
+		<eng>===Let's say not exactly as we planned. At the most interesting moment the hunters arrived, so we had to shoot a little. But I have the machine gun.</eng>
+		<ukr>===Скажімо не зовсім так як ми планували. У самий цікавий момент налетіли мисливці, так що довелося трохи постріляти. Зате кулемет у мене.</ukr>
+		<pln>===Można powiedzieć, że nie całkiem tak, jak planowaliśmy. W najciekawszym momencie wpadli "Łowcy", dlatego trzeba było trochę postrzelać. Za to mam maszynówkę.</pln>
 	</string>
 	<string id="sveeblov_weapons_est_3">
-		<rus>Ну что, вы как всегда отлично справились. Вот возьмите в качестве презента.</rus>
-		<eng>Well, you did an excellent job, as always. Here, take this as a reward.</eng>
-		<ukr>Ну що, ви як завжди відмінно впоралися. Ось візьміть як презент.</ukr>
-		<pln>No cóż, jak zwykle sprawiłeś się doskonale. Proszę, to w charakterze nagrody.</pln>
+		<rus>Ну что же, отлично. Вот возьмите в качестве презента.</rus>
+		<eng>===Well, you did an excellent job, as always. Here, take this as a reward.</eng>
+		<ukr>===Ну що, ви як завжди відмінно впоралися. Ось візьміть як презент.</ukr>
+		<pln>===No cóż, jak zwykle sprawiłeś się doskonale. Proszę, to w charakterze nagrody.</pln>
 	</string>
 	<string id="dan_speak_about_kot_0">
 		<rus>Чего тебе?</rus>
@@ -3117,7 +3075,7 @@
 		<pln>Cześć, Kot, kiepsko coś wyglądasz.</pln>
 	</string>
 	<string id="kot_need_lekar_1">
-		<rus>Да уж, припёрло меня конкретно. Чувствую сдохну скоро, ломит меня не по-детски.</rus>
+		<rus>Да уж, припёрло меня конкретно. Чувствую, сдохну скоро, ломит меня не по-детски.</rus>
 		<eng>Yeah, it's getting me down. I feel like I'm going to die soon, it's really taking its toll on me.</eng>
 		<ukr>Та вже приперло мене конкретно. Відчуваю здохну скоро, ломить мене не по-дитячому.</ukr>
 		<pln>Bo też przycisnęło mnie mocno. Czuję się tak, jakbym miał się jutro przekręcić, łamie mnie jak diabli.</pln>
@@ -3429,7 +3387,7 @@
 		<pln>Człowieku, ktoś ty?</pln>
 	</string>
 	<string id="gek_and_chuk_first_1">
-		<rus>Блин мужик, давай все подробности потом, здесь, мммать, не безопасно, выведи нас к центральному комплексу, там свои сталкеры, вот там обо всем и перетрём.</rus>
+		<rus>Блин, мужик, давай все подробности потом, здесь, мммать, не безопасно, выведи нас к центральному комплексу, там свои сталкеры, вот там обо всём и перетрём.</rus>
 		<eng>Damn it man, we'll give you all the details later, um, it's not safe here, take us to the central complex, there are stalkers there, then we'll tell you everything.</eng>
 		<ukr>Блін мужик, давай всі подробиці потім, тут, мммать, не є безпечно, виведи нас до центрального комплексу, там свої сталкери, от там про все і перетремо.</ukr>
 		<pln>Cholera chłopie, szczegóły potem, tutaj jest zbyt niebezpiecznie, wyprowadź nas do centralnego kompleksu, tam swoi stalkerzy, tam sobie o wszystkim porozmawiamy.</pln>
@@ -3441,7 +3399,7 @@
 		<pln>No, teraz opowiadaj.</pln>
 	</string>
 	<string id="gek_and_chuk_second_1">
-		<rus>Так чё здесь говорить, мы это... с братом в рейде были в Тёмной Долине, ну а эти черти сумасшедшие хвать нас и сюда. Говорят копай яму глубокую, метра на два.</rus>
+		<rus>Так чё здесь говорить, мы это... с братом в рейде были в Тёмной Долине, ну а эти черти сумасшедшие хвать нас и сюда. Говорят, копай яму глубокую, метра на два.</rus>
 		<eng>So what's there to tell, we... my brother and I, were on the raid in the Dark Valley, well, these crazy devils grabbed us and brought us here. They said dig a pit, about two metres deep.</eng>
 		<ukr>Та що тут говорити, ми це... з братом у рейді були в Темній долині, ну а ці чорти божевільні хвать нас і сюди. Кажуть копай яму глибоку, метра на два.</ukr>
 		<pln>Co tu opowiadać, my... z bratem na wyprawie byliśmy w Dolinie Mroku, no a te diabły szurnięte złapały nas i przyprowadziły tutaj. Mówią, żeby kopać głęboki dół, taki na dwa metry.</pln>
@@ -3453,7 +3411,7 @@
 		<pln>Po co dół kopać?</pln>
 	</string>
 	<string id="gek_and_chuk_second_3">
-		<rus>Так кто ж этих чертей отмороженных поймёт! Мы это, сначала подумали что для нас это копаем, я то со страху в штаны чуть не наложил. А потом кумекаю, на кой ляд им нас сюда вести, убивать и хоронить здесь? Не, они хоть и отмороженные, но не тупые, там бы в Долине и положили. На крайняк бы в аномалию трупы кинули.</rus>
+		<rus>Так кто ж этих чертей отмороженных поймёт! Мы это, сначала подумали, что для нас это копаем, я-то со страху в штаны чуть не наложил. А потом кумекаю, на кой ляд им нас сюда вести, убивать и хоронить здесь? Не, они хоть и отмороженные, но не тупые, там бы в Долине и положили. На крайняк бы в аномалию трупы кинули.</rus>
 		<eng>Who can understand these whacko devils! At first we thought that we were digging it for ourselves, I almost shit my pants in fear. And then I thought, why the hell would they bring us here, just to kill and bury us? No, although they're whacko, they're not stupid, they could have killed us there in the dark Valley. At a pinch, the corpses could be thrown into an anomaly.</eng>
 		<ukr>Так хто ж цих чортів відморожених зрозуміє! Ми це, спочатку подумали що для нас копаємо, я от зі страху в штани ледь не наклав. А потім кумекаю, якого біса їм нас сюди вести, вбивати і ховати тут? Ні, вони хоч і відморожені, але не тупі, там би в долині і поклали. На крайняк би в аномалію трупи кинули.</ukr>
 		<pln>A kto tych świrów zrozumie! My na początku myśleliśmy, że dla siebie kopiemy, ja ze strachu mało w spodnie nie narobiłem. A potem dotarło, że po co im nas prowadzić, zabijać i chować akurat tutaj? Nie, może oni szurnięci, ale nie tępi, od razu tam w Dolinie by nas wykończyli. Na koniec by w anomalię trupy wrzucili i po krzyku.</pln>
@@ -3465,7 +3423,7 @@
 		<pln>No a ty co myślisz?</pln>
 	</string>
 	<string id="gek_and_chuk_second_5">
-		<rus>А что я думаю? Жив и ладно, у этих засранцев особо не забалуешь, спрашивать что и для чего, ну его, себе дороже. Хотя один из них что-то про вышки говорил, какой-то сигнал передавать, агась они ещё какого-то мужика все упоминали, да так уважительно, "ОН" будет недоволен, "ОН" сказал... Всё, больше ничего не знаю.</rus>
+		<rus>А что я думаю? Жив и ладно, у этих засранцев особо не забалуешь, спрашивать что и для чего, ну его, себе дороже. Хотя один из них что-то про вышки говорил, какой-то сигнал передавать, ага, они ещё какого-то мужика всё упоминали, да так уважительно, "ОН" будет недоволен, "ОН" сказал... Всё, больше ничего не знаю.</rus>
 		<eng>What am I thinking? Well,  we're alive and well, so I wasn't prepared to jeopardise that by asking those assholes what and why. Although one of them said something about some towers, to transmit some kind of signal, they also mentioned some other guy, but so respectfully, "HE" would be unhappy, "HE" said... That's all I can tell you.</eng>
 		<ukr>А що я думаю? Живий і гаразд, у цих засранців особливо не забалуєш, питати що і для чого, ну його, собі дорожче. Хоча один з них щось про вишки говорив, якийсь сигнал передавати, агась вони ще якогось мужика все згадували, та так шанобливо, "ВІН" буде незадоволений, "ВІН" сказав... Все, більше нічого не знаю.</ukr>
 		<pln>A co ja myślę? Żyję i dobrze, u tych zasrańców lepiej się nie wychylać, pytać co i dlaczego. Chociaż jeden z nich coś o stawianiu jakichś wież mówił, przekazywaniu jakichś sygnałów. I wszyscy oni jakiegoś człowieka wspominali, ale z takim poważaniem,  "ON" będzie niezadowolony, "ON" powiedział... To wszystko, więcej niczego nie wiem.</pln>
@@ -3585,19 +3543,19 @@
 		<pln>To faktycznie gnida. Sam bym ustrzelił, ale nie mogę, nie mogę. Można powiedzieć, że ma mocne "plecy", sam rozumiesz. My byśmy tutaj długo nie pociągnęli, jeśli by nie pomoc z "Wielkiej Ziemi". Powiem jedno, był tutaj, odszedł wczoraj, dokąd nie wiem, poszukaj Skromnego, on go odprowadzał. Mówią, że wczoraj wieczorem Skromny wrócił i teraz jest w opuszczonej wiosce. Znasz Mruka? To jego kumpel, i u niego właśnie się zadekował.</pln>
 	</string>
 	<string id="joker_first_poisk_trader_need_0">
-		<rus>Здорово, мужик, где Скромного найти не знаешь?</rus>
+		<rus>Здорово, мужик. Где Скромного найти, не знаешь?</rus>
 		<eng>Hey, man, do you know where I can find Modest?</eng>
-		<ukr>Здоров, мужик, де Скромного знайти не знаєш?</ukr>
+		<ukr>Здоров, мужик. Де Скромного знайти не знаєш?</ukr>
 		<pln>Witaj człowieku, nie wiesz, gdzie Skromnego mogę znaleźć?</pln>
 	</string>
 	<string id="joker_first_poisk_trader_need_1">
-		<rus>Ой, слышишь, мужик, есть выпить что? Не могу голова после вчерашнего...</rus>
-		<eng>Oh, listen man, do you have something to drink? I'll help me can't think after yesterday...</eng>
-		<ukr>Ой, чуєш, мужик, є випити що? Не можу голова після вчорашнього...</ukr>
-		<pln>Oższ cholera, masz człowieku co wypić? Nie mogę, głowa po wczorajszym...</pln>
+		<rus>Ой, слышишь, мужик, есть выпить что? Не могу, голова трещит после вчерашнего...</rus>
+		<eng>===Oh, listen man, do you have something to drink? I'll help me can't think after yesterday...</eng>
+		<ukr>Ой, чуєш, мужик, є випити що? Не можу, голова тріщить після вчорашнього...</ukr>
+		<pln>===Oższ cholera, masz człowieku co wypić? Nie mogę, głowa po wczorajszym...</pln>
 	</string>
 	<string id="joker_first_poisk_trader_need_2">
-		<rus>Погодь сейчас принесу.</rus>
+		<rus>Погодь, сейчас принесу.</rus>
 		<eng>I'll bring it over now.</eng>
 		<ukr>Почекай, зараз принесу.</ukr>
 		<pln>Poczekaj, zaraz przyniosę.</pln>
@@ -3615,7 +3573,7 @@
 		<pln>Masz, trzymaj.</pln>
 	</string>
 	<string id="joker_second_poisk_trader_need_1">
-		<rus>Не-не у меня руки дрожат, наливай сам. Налил? Ну, за павших.</rus>
+		<rus>Не-не, у меня руки дрожат, наливай сам. Налил? Ну, за павших.</rus>
 		<eng>No-no, you pour it, my hands are too shaky. Poured? Well, to the fallen.</eng>
 		<ukr>Ні-ні, у мене руки тремтять, наливай сам. Налив? Ну, за полеглих.</ukr>
 		<pln>Nnie, ręce mi się trzęsą, polewaj sam. Nalałeś? No, za poległych.</pln>
@@ -3651,7 +3609,7 @@
 		<pln>No dobra, dawaj ostatni.</pln>
 	</string>
 	<string id="joker_second_poisk_trader_need_7">
-		<rus>О вот, сейчас самое то. Ты меня про Скромного спрашивал? Он малость того свихнулся, мы тут вчера чуток на грудь приняли. Ну значится сидим, тепло, хорошо, на небе звёздочки, вдруг он вскакивает и говорит: вылазь, сука, кому говорю вылазь, я тебя дескать вижу и всё такое. Ага, и пальцем туда показывает в глубь деревни. Ну я смотрю, нет там никого. Я говорю: сядь Колян, успокойся, нет там ни души, на вот ещё малость осталось. Ну он сначала вроде как присесть решил, а потом вдруг рванул и туда. Всё, больше я его и не видел, а меня сморило, ну и отрубился я. Так что если и жив Скромный, ищи его в деревне.</rus>
+		<rus>О вот, сейчас самое то. Ты меня про Скромного спрашивал? Он малость того, свихнулся, мы тут вчера чуток на грудь приняли. Ну значится сидим, тепло, хорошо, на небе звёздочки, вдруг он вскакивает и говорит: "вылазь, сука, кому говорю вылазь, я тебя, дескать, вижу и всё такое." Ага, и пальцем туда показывает, вглубь деревни. Ну я смотрю, нет там никого. Я говорю: "сядь Колян, успокойся, нет там ни души, на вот ещё малость осталось." Ну он сначала вроде как присесть решил, а потом вдруг рванул и туда. Всё, больше я его и не видел, а меня сморило, ну и отрубился я. Так что если и жив Скромный, ищи его в деревне.</rus>
 		<eng>Now, here's the thing. You want to know about Modest? He went a bit crazy, yesterday we had a bit of a binge. Well, we were sitting here, warmly by the fire, the stars were out in the sky, suddenly he jumps up and says: "Get out, bitch, I said get out, I can see you and all the rest." Yeah, and pointing towards the depths of the village. Well, I could see no one there. I said: "Sit down, get hold of yourself, there's no one out there, there's still a bit of vodka left." Well, at first he sort of decided to sit down, and then suddenly jumped up and took off. That was the last I saw of him, I was exhausted, well, I passed out. So if Modest is still alive, look for him in the village.</eng>
 		<ukr>От, зараз саме те. Ти мене про Скромного питав? Він трішки того, звихнувся, ми тут вчора трохи на груди прийняли. Ну значиться сидимо, тепло, добре, на небі зірочки, раптом він схоплюється і каже: вилазь, сука, кому кажу вилазь, я тебе мовляв бачу і все таке. Ага і пальцем туди показує в глиб села. Ну я дивлюся, немає там нікого. Я кажу: сядь Колян, заспокойся, немає там ні душі, на от ще трохи залишилося. Ну він спочатку ніби як присісти вирішив, а потім раптом рвонув і туди. Все, більше я його і не бачив, а мене зморило, ну і відрубався я. Так що якщо і живий Скромний, шукай його в селі.</ukr>
 		<pln>O tak, teraz to właśnie to. O Skromnego mnie pytałeś? On dopiero co się zmył, my tu wczoraj trochę w gardło daliśmy. Siedzimy sobie, ciepło, dobrze, gwiazdy na niebie, nagle on jak nie skoczy i mówi: - wyłaź suko, do kogo mówię wyłaź, ja ciebie i tak widzę i różne takie. No i palcem tam pokazuje w głąb wioski. Patrzę, nie ma nikogo. Mówię: siadaj Kola, uspokój się, tam nie ma żywej duszy, no i jeszcze trochę zostało. On najpierw tak jakby przysiąść postanowił, a potem nagle skoczył i pobiegł tam. Więcej już go nie widziałem, a mnie zmorzyło, no i odpłynąłem. Tak więc jeśli nawet Skromny żyje, szukaj go w wiosce.</pln>
@@ -4893,7 +4851,7 @@
 		<pln>Trzeba spróbować znaleźć mojego człowieka. Możliwe, że jeśli miałem rację, będzie miał z sobą ważne informacje. A ja tymczasem spróbuję nawiązać łączność z Pielgrzymem.</pln>
 	</string>
 	<string id="klyak_need_denis_4">
-		<rus>М-да... От Пантеры - тоже нет известий, где искать девчонку, стащившую арт у О-сознания, тоже не ясно... Где хоть твоего человека-то искать?</rus>
+		<rus>М-да... От Пантеры тоже нет известий, и где искать девчонку, стащившую арт у О-сознания, тоже не ясно... Где хоть твоего человека-то искать?</rus>
 		<eng>Hmm... There's no news from Panther either, what's also not clear is where to look for the girl who stole artefact from C-consciousness... So, where do I search for your man?</eng>
 		<ukr>М-да... Від Пантери - теж немає звісток, де шукати дівчинку, яка стягнула арт у Усвідомлення, теж не ясно... Де хоч твою людину шукати?</ukr>
 		<pln>M-tak... Od Pantery - też brak wieści. Gdzie szukać dziewczynki, która zwinęła art od Świadomości-Z, też nie wiadomo... Gdzie też tego twojego człowieka szukać?</pln>
@@ -4947,7 +4905,7 @@
 		<pln>Dokumenty masz?</pln>
 	</string>
 	<string id="denis_need_denis_5">
-		<rus>Пусто! Пустой тайник оказался. Я только проверить успел, тут меня и "накрыло", первый раз контролёру попался. Эй, дружище, окажи услугу, выведи меня отсюда, а то у меня ноги трясутся, боюсь один не дойду. Мне бы до базы сталкеров добраться, что тут не далеко, я бы у них пару-тройку дней перекантовался, мне сейчас далеко не уйти, а если ещё монстр какой попадётся - всё, пиши пропало. А я тебе за это наводку одну дам на тайник в лесу. Его оставил один опытный сталкер. Сталкер тот сказал, чтоб его никто не трогал, потому что он очень хорошо охраняется. Наши все знают, где он лежит, но никто не отважился его взять. Потому что главная трудность - остаться в живых. Если хочешь - можешь попробовать. Он где-то недалеко от аномалии, что в лесу. Выведешь меня?</rus>
+		<rus>Пусто! Пустой тайник оказался. Я только проверить успел, тут меня и "накрыло", первый раз контролёру попался. Эй, дружище, окажи услугу, выведи меня отсюда, а то у меня ноги трясутся, боюсь один не дойду. Мне бы до базы сталкеров добраться, что тут не далеко, я бы у них пару-тройку дней перекантовался, мне сейчас далеко не уйти, а если ещё монстр какой попадётся - всё, пиши пропало. А я тебе за это наводку одну дам на тайник в лесу. Его оставил один опытный сталкер. Сталкер тот сказал, чтобы тайник никто не трогал, потому что он очень хорошо охраняется. Наши все знают, где он лежит, но никто не отважился его взять. Потому что главная трудность - остаться в живых. Если хочешь - можешь попробовать. Он где-то недалеко от аномалии, что в лесу. Выведешь меня?</rus>
 		<eng>No! The stash was empty. I just had time to check, and that's when I was "jumped", it was the first time I succumbed to a controller. Hey, buddy, do me a favour, get me out of here, my leg are shaking so badly, I'm afraid I won't make it out alone. I would like to get to the stalker's base that's not far from here, I want to hang out there for a couple of days, I'm not going to go anywhere now, and while the monster is still alive, I can't look for the documents. I'll give you a tip for a stash in the woods. It was left there by an experienced stalker. He said it couldn't be touched, because it was very well guarded. Everyone knows where it is, but no one dares to take it. Because the main difficulty is to stay alive. If you want, you can try. It's somewhere near the anomaly in the forest. Will you get me out of here?</eng>
 		<ukr>Пусто! Порожня схованка виявилася. Я тільки перевірити встиг, тут мене і "накрило", перший раз контролеру попався. Гей, друже, хіба не зробиш послугу, виведи мене звідси, а то у мене ноги трясуться, боюся один не дійду. Мені б до бази сталкерів дістатися, яка тут не далеко, я б у них пару-трійку днів перекантувався, мені зараз далеко не піти, а якщо ще монстр який попадеться, все, пиши пропало. А я тобі за це наводку одну дам на схованку в лісі. Її залишив один досвідчений сталкер. Сталкер той сказав, щоб її ніхто не чіпав, томущо вона дуже добре охороняється. Наші всі знають, де вона лежить, але ніхто не наважився її взяти. Тому, що головна проблема - залишитися живим. Якщо хочеш - можеш спробувати. Вона десь недалеко від аномалії, що в лісі. Виведеш мене?</ukr>
 		<pln>Pusto! Schowek był pusty. Ja tylko sprawdzić zdążyłem, i tu mnie "nakryło", udało się kontrolerowi za pierwszym razem. Ej, bracie, pomóż mi, wyprowadź mnie stąd, bo tak mi się nogi trzęsą, chyba sam nie dojdę. Żeby chociaż do bazy stalkerów się dostać, co jest tu niedaleko, to bym u nich ze dwa-trzy dni posiedział. Ja teraz ledwo jestem w stanie iść, a jeśli jeszcze mutant jaki się trafi, to kaplica. A ja ci za to namiar dam na schowek w lesie. Zostawił go jeden doświadczony stalker. Ten stalker powiedział, żeby nikt go nawet nie dotykał, tak dobrze jest chroniony. Nasi dobrze wiedzą, gdzie to jest, ale nikt nie odważył się tam pójść. Dlatego że tam bardzo łatwo zginąć. Jeżeli chcesz - możesz spróbować. Jest gdzieś niedaleko tej anomalii w lesie. To wyprowadzisz mnie?</pln>
