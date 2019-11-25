@@ -394,34 +394,20 @@
 		<pln>Niczego nie potrzebuję...</pln>
 	</string>
 	<string id="krysyk_pomer_start_dialog_0">
-		<rus>Здорово, что за дело хочешь провернуть?</rus>
-		<eng>Hey, what kind of job are you going to do?</eng>
-		<ukr>Вітаю, що за справу хочеш провернути?</ukr>
-		<fra>Hé, quel genre de travail vas-tu faire?</fra>
-		<pln>Witaj, jaką masz do mnie sprawę?</pln>
-	</string>
-	<string id="krysyk_pomer_start_dialog_1">
-		<rus>Ну что, сталкер, нашёл Крысюка? ПДА принёс?</rus>
-		<eng>Well, stalker, you found Krysyuk? Did you bring the PDA?</eng>
-		<ukr>Ну що, сталкер, знайшов Щуряка? КПК приніс?</ukr>
-		<fra>Eh bien, Stalker, vous avez trouvé Krysyuk? Avez-vous apporté le PDA?</fra>
-		<pln>No i co, stalkerze, znalazłeś Krysiuka? PDA przyniosłeś?</pln>
-	</string>
-	<string id="krysyk_pomer_start_dialog_2">
 		<rus>Короче, сдох твой Крыс... ПДА при нём не было... Видать, успел заныкать, гадёныш!</rus>
 		<eng>In short, Krysyuk died... The PDA wasn't with him... Apparently, he managed to hide it, little shit!</eng>
 		<ukr>Коротше, здох твій Щур... КПК при ньому не було... Видно, встиг заникати, гадя таке!</ukr>
 		<fra>En bref, Krysyuk est mort... Le PDA n'était pas avec lui... Apparemment, il a réussi à le planquer, quelle petite merde!</fra>
 		<pln>No cóż, nie ma już twojego Krysiuka... PDA przy nim nie było... Widać zdążył schować, gnida!</pln>
 	</string>
-	<string id="krysyk_pomer_start_dialog_3">
+	<string id="krysyk_pomer_start_dialog_1">
 		<rus>Твою мать... Ну что ж, замочили Крысюка - туда ему и дорога, жаль ПДА пропал... Хотя... Нет, стой! Крысюк перед побегом с Жилой долго тёр чего-то, может у него поспрошать?</rus>
 		<eng>Crap!... So they shwacked Krysyuk, good riddance, it's a pity that the PDA disappeared... Although... wait a sec!  Before running away Krysyuk was talking about something with Vein, maybe you will ask him?</eng>
 		<ukr>Твою матір... Ну що ж, замочили Щуряка - туди йому й дорога, шкода що КПК пропав... Хоча... Ні, стій! Щуряк, перед втечею, з Жилою довго тер щось, може у нього порозпитувати?</ukr>
 		<fra>Merde!... Alors ils ont fait chier Krysyuk, bon débarras, dommage que le PDA ait disparu... Quoique... Attendez une seconde! Avant de vous enfuir, Krysyuk parlait de quelque chose avec Vein, peut-être lui demanderez-vous?</fra>
 		<pln>K...a mać... No cóż, załatwili Krysiuka... Taki jego los. Szkoda, że PDA przepadło... Chociaż... Nie, poczekaj! Krysiuk, zanim zniknął, o czymś długo konferował z Żyłą. Może jego spytaj?</pln>
 	</string>
-	<string id="krysyk_pomer_start_dialog_4">
+	<string id="krysyk_pomer_start_dialog_2">
 		<rus>Жила, говоришь? Ладно, "поспрошаю"...</rus>
 		<eng>Vein? Ok, I will...</eng>
 		<ukr>Жила, говориш? Гаразд, "порозпитую"...</ukr>
@@ -1722,7 +1708,7 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>Nie, mnie tam rybka, co się za Perymetrem wyprawia, ale kasa wszędzie potrzebna - i w Zonie, niestety też.</pln>
 	</string>
 	<string id="trader_toha_5">
-		<rus>Ну, значит берёшься? Только будь осторожнее - не исключено, что твоя задница мне ещё потребуется для заданий.</rus>
+		<rus>Ну, значит, берёшься? Только будь осторожнее - не исключено, что твоя задница мне ещё потребуется для заданий.</rus>
 		<eng>So you take it? Just be careful, it is possible that I will need your ass for other tasks.</eng>
 		<ukr>Ну, значить берешся? Тільки будь обережніший - не виключено, що твоя дупа ще мені буде потрібна для завдань.</ukr>
 		<fra>Alors vous le prenez? Faites attention, il est possible que j'aie besoin de votre cul pour d'autres tâches.</fra>
@@ -1743,7 +1729,7 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>No, patrzcie go - 40 rąk zombie!!! I to na Kordonie!!! Nie, ja nie chirurg, żeby ręce, nogi odrzynać.</pln>
 	</string>
 	<string id="trader_toha1_0">
-		<rus>Вот, принёс тебе эти руки, плохо, что их у одного организма всего по две. Трудно назвать это руками, но принимай товар. Правда пришлось им маникюр сделать - а то из-за длины ногтей в рюкзак не влезали.</rus>
+		<rus>Вот, принёс тебе эти руки, плохо, что их у одного организма всего по две. Трудно назвать это руками, но принимай товар. Правда, пришлось им маникюр сделать - а то из-за длины ногтей в рюкзак не влезали.</rus>
 		<eng>Here you are, I brought you these hands, it is bad that one organism has only two of them. They can be hardly called hands, but take the goods. By the way, I had to get their nails done, as due to the length of the nails I couldn't put them into my backpack.</eng>
 		<ukr>Ось, приніс тобі ці руки, погано, що їх у одного організму всього по дві. Важко назвати це руками, але приймай товар, правда довелося їм манікюр зробити - а то через довжину нігтів в рюкзак не влазили.</ukr>
 		<fra>Voilà, je vous ai apporté ces mains, il est dommage qu'un organisme n'en ait que deux. Ils peuvent être difficilement appelés des mains, mais prenez la marchandise. A propos, ils auraient dû se faire faire les ongles, car à cause de leur longueur, je ne pouvais pas les mettre dans mon sac à dos.</fra>
@@ -1771,11 +1757,11 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>Nie... ja już raczej sam sobie obgryzę, niż tobie dam obcinać - tym zombiakom to aż po nadgarstek przyciąłeś.</pln>
 	</string>
 	<string id="doc_qeast_0">
-		<rus>Я опять насчёт заработка. Как обычно... Ты, помнится, намекал.</rus>
-		<eng>I came again to earn some money. As usual...I remember you hinted.</eng>
-		<ukr>Я знову на рахунок заробітку. Як зазвичай... Ти, пам'ятається, натякав.</ukr>
-		<fra>Je suis revenu pour gagner de l'argent. Comme d'habitude... je me souviens que vous avez laissé entendre.</fra>
-		<pln>Ja znowu w sprawie pracy. Jak zwykle... Pamiętasz, wspominałeś.</pln>
+		<rus>Я насчёт заработка, с деньжатами сейчас туго...</rus>
+		<eng>===I came again to earn some money. As usual...I remember you hinted.</eng>
+		<ukr>===Я знову на рахунок заробітку. Як зазвичай... Ти, пам'ятається, натякав.</ukr>
+		<fra>===Je suis revenu pour gagner de l'argent. Comme d'habitude... je me souviens que vous avez laissé entendre.</fra>
+		<pln>===Ja znowu w sprawie pracy. Jak zwykle... Pamiętasz, wspominałeś.</pln>
 	</string>
 	<string id="doc_qeast_1">
 		<rus>Вот, яркий пример современного сталкера с финансовым уклоном - сталкер-бизнесмен пожаловал... Есть дельце одно. Я тут узнал, что существуют кое-какие документы, которые рассказывают, как создать одну очень важную для меня вещь.</rus>
@@ -1785,7 +1771,7 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>Oto żywy przykład nowoczesnego stalkera z finansowym nastawieniem - stalker-biznesmen z bożej łaski... Jest jedna sprawa. Dowiedziałem się, że istnieją jakieś dokumenty, opisujące jak zrobić pewną bardzo ważną dla mnie rzecz.</pln>
 	</string>
 	<string id="doc_qeast_2">
-		<rus>Сам ты торговец-безнисмен-накольщик... Что за вещь тебе потребовалась?</rus>
+		<rus>Сам ты торговец-бизнесмен-накольщик... Что за вещь тебе потребовалась?</rus>
 		<eng>You are a merchant-businessman-prankster... What do you need?</eng>
 		<ukr>Сам ти торговець-бізнесмен-накольщик... Що за річ тобі потрібна?</ukr>
 		<fra>Vous êtes un marchand/homme d'affaires-farceur... De quoi avez-vous besoin?</fra>
