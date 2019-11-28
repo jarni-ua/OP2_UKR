@@ -668,10 +668,10 @@
 		<pln>===Nie bój się, bracie, ja wiem co mówię. A braciszka mojego, Jakuta, znajdziesz na Magazynach. On tam ostatnio się obija, na postoju stalkerów.</pln>
 	</string>
 	<string id="yakut_done_notebook_0">
-		<rus>Ты Якут? Принёс я ноутбук, принимай.</rus>
-		<eng>Are you Yakut? I brought the laptop, here, take it.</eng>
-		<ukr>Ти Якут? Приніс я ноутбук, приймай.</ukr>
-		<pln>Ty jesteś Jakut? Przyniosłem notebook, zabieraj.</pln>
+		<rus>Как делишки? Принёс я ноутбук, принимай.</rus>
+		<eng>===Are you Yakut? I brought the laptop, here, take it.</eng>
+		<ukr>===Ти Якут? Приніс я ноутбук, приймай.</ukr>
+		<pln>===Ty jesteś Jakut? Przyniosłem notebook, zabieraj.</pln>
 	</string>
 	<string id="yakut_done_notebook_1">
 		<rus>Меченый!!! Живой мать твою! Не ожидал. Да ещё и ноут принёс. Ну, брательник будет рад, здорово ты нас выручил, не зря Архара тебя хвалил, чувствуется профессионализм.</rus>
@@ -957,7 +957,7 @@
 		<pln>Striełok, mać rodzona. Kiedy przepadłeś, nie uwierzyłem, że nie żyjesz. Tyle razem przeżyć, ty przecież zawsze byłeś najlepszy pośród nas. Tak na wyczucie, nie mogłem uwierzyć w to wszystko. Cholera, jak ja się cieszę, że cię widzę!</pln>
 	</string>
 	<string id="talk_prizrak_2">
-		<rus>Вопросов накопилось не мало, но тут не очень спокойно, так что расскажи хоть вкратце, как же тебе удалось выбраться из лаборатории? Меня тут встречали очень "дружно", да и на Агропроме явно кто-то ждал. Кому ты насолил?</rus>
+		<rus>Вопросов накопилось немало, но тут не очень спокойно, так что расскажи хоть вкратце, как же тебе удалось выбраться из лаборатории? Меня тут встречали очень "дружно", да и на Агропроме явно кто-то ждал. Кому ты насолил?</rus>
 		<eng>There are a lot of questions, but this is not the place, so, tell me briefly how did you manage to get out of the lab? I was met there by very "amicable" people, and clearly, someone was waiting for me at the Agroprom Complex. Who did you mess with?</eng>
 		<ukr>Питань накопичилося багато, але тут не дуже спокійно, так що розкажи хоч коротенько, як же тобі вдалося вибратися з лабораторії? Мене тут зустрічали дуже "дружно", та й на Агропромі явно хтось чекав. Кому ти насолив?</ukr>
 		<pln>Pytań uzbierało się niemało, ale tu nie jest za spokojnie, dlatego powiedz chociaż pokrótce, jak ci się udało wydostać z laboratorium? Mnie tam powitano bardzo "przyjacielsko", a i na Agropromie wyraźnie ktoś na mnie czekał. Komu ty tak podpadłeś?</pln>
@@ -2967,7 +2967,7 @@
 		<pln>No nie, nie zrozumiałeś mnie, musisz tylko znaleźć "zagłuszacz". I właśnie tu się zaczyna najciekawsze. Zrobimy monolitowcom małe kuku. Zaniesiesz "zagłuszacz" do Kutwy, on tam odda go specjalistom, w ogóle chcemy zrobić tak, żeby "zagłuszacz" blokował sygnał radiowy samych monolitowców. No a potem odniesiesz "zagłuszacz" na miejsce, tam gdzie go znalazłeś. Niech teraz oni, sukinsyny, się pomęczą.</pln>
 	</string>
 	<string id="borman_glushitel_dialog_need_4">
-		<rus>Не плохой план, только бегать много придётся, да и где искать "глушитель"?</rus>
+		<rus>Неплохой план, только бегать много придётся, да и где искать "глушитель"?</rus>
 		<eng>Not a bad plan, I'll just have cover a lot of territory, and where do I find this "jammer"?</eng>
 		<ukr>Непоганий план, тільки бігати багато доведеться, та й де шукати "глушник"?</ukr>
 		<pln>Nie najgorszy plan, tylko trzeba będzie sporo biegać. A gdzie szukać "zagłuszacza"?</pln>
@@ -2997,13 +2997,13 @@
 		<pln>A to ci niespodzianka, mój stary przyjaciel! Co cię sprowadza? Chcesz coś kupić?</pln>
 	</string>
 	<string id="scryaga_glushitel_dialog_first_2">
-		<rus>Не-не, сейчас тут у меня дело от Бормана, понимаешь о чём я?</rus>
+		<rus>Не-не, у меня дело от Бормана, понимаешь о чём я?</rus>
 		<eng>No-no, I'm here on business from Borman, you know what I mean?</eng>
 		<ukr>Ні-ні, зараз тут у мене справа від Бормана, розумієш про що я?</ukr>
 		<pln>Nie, nie. Teraz mam sprawę od Bormana, rozumiesz o czym mówię?</pln>
 	</string>
 	<string id="scryaga_glushitel_dialog_first_3">
-		<rus>А, всё понял, ну что "глушитель" с собой?</rus>
+		<rus>А, всё понял, ну что, "глушитель" с собой?</rus>
 		<eng>Oh, I get it, do you have the "jammer" with you?</eng>
 		<ukr>А, все зрозумів, ну що "глушник" з собою?</ukr>
 		<pln>A, wszystko rozumiem, no co, masz ze sobą "zagłuszacz"?</pln>
@@ -3015,7 +3015,7 @@
 		<pln>Tu jest, zaraza, ciężki.</pln>
 	</string>
 	<string id="scryaga_glushitel_dialog_first_5">
-		<rus>Ты это погуляй часов пять, пока ребята делают, лады?</rus>
+		<rus>Ты это, погуляй часов пять, пока ребята делают, лады?</rus>
 		<eng>Go and amuse yourself for about five hours while the guys modify it, okay?</eng>
 		<ukr>Ти це погуляй годин п'ять, поки хлопці роблять, гаразд?</ukr>
 		<pln>Pospaceruj sobie z pięć godzin, tymczasem chłopaki go poprawią, dobra?</pln>
@@ -3027,7 +3027,7 @@
 		<pln>No, jak tam "zagłuszacz"?</pln>
 	</string>
 	<string id="scryaga_glushitel_is_not_ready_1">
-		<rus>Рано пришёл, говорю же часов через пять приходи.</rus>
+		<rus>Рано пришёл, говорю же, часов через пять приходи.</rus>
 		<eng>You're early, I said come back after five hours.</eng>
 		<ukr>Рано прийшов, кажу ж годин через п'ять приходь.</ukr>
 		<pln>Za wcześnie przyszedłeś, mówiłem przecież że przynajmniej pięć godzin potrwa.</pln>
@@ -4347,7 +4347,7 @@
 		<pln>Pomóż nam, to ci trochę swoich dam.</pln>
 	</string>
 	<string id="shadowman_most_need_8">
-		<rus>Ну что ж ладно, мне и самому в Лиманск надо.</rus>
+		<rus>Ну что ж, ладно, мне и самому в Лиманск надо.</rus>
 		<eng>Well, okay, I need to get to Limansk anyway.</eng>
 		<ukr>Ну що ж, гаразд, мені й самому в Лиманськ треба.</ukr>
 		<pln>No cóż, dobra, mnie samemu do Limańska trzeba.</pln>
@@ -4809,7 +4809,7 @@
 		<pln>Cześć, stary.</pln>
 	</string>
 	<string id="klyak_est_doc_1">
-		<rus>Здорово, Стрелок, ну что доки у тебя?</rus>
+		<rus>Здорово, Стрелок, ну что, доки у тебя?</rus>
 		<eng>Hello, Strelok, do you have the documents?</eng>
 		<ukr>Вітаю, Стрілець, ну що доки у тебе?</ukr>
 		<pln>Witaj, Striełok, no co, masz dokumenty?</pln>
@@ -4857,7 +4857,7 @@
 		<pln>M-tak... Od Pantery - też brak wieści. Gdzie szukać dziewczynki, która zwinęła art od Świadomości-Z, też nie wiadomo... Gdzie też tego twojego człowieka szukać?</pln>
 	</string>
 	<string id="klyak_need_denis_5">
-		<rus>В Красном Лесу. Знаешь, не далеко от домика лесника есть старая заброшенная шахта. Как вышел из ворот - сразу поворачивай направо. В своё время мы там сделали небольшой тайник. Вот туда-то я его и послал. Давай меточку на заброшенную шахту поставлю.</rus>
+		<rus>В Красном Лесу. Знаешь, недалеко от домика лесника есть старая заброшенная шахта. Как вышел из ворот - сразу поворачивай направо. В своё время мы там сделали небольшой тайник. Вот туда-то я его и послал. Давай меточку на заброшенную шахту поставлю.</rus>
 		<eng>In the Red Forest. There's an old abandoned mine not far from Forester’s house. As you go out of the gate - immediately turn right. We made a small cache there once. That's where I sent him. I'll mark the location of the abandoned mine in your PDA.</eng>
 		<ukr>У Червоному Лісі. Знаєш не далеко від будиночка лісника є стара закинута шахта. Як вийшов з воріт - відразу повертаєш направо. Свого часу ми там зробили невеликий схрон. Ось туди то я його і послав. Давай міточку на занедбану шахту поставлю.</ukr>
 		<pln>W Czerwonym Lesie. Wiesz, niedaleko od siedziby "Leśnika" jest stara, porzucona kopalnia. Jak dojdziesz do bramy wyjściowej, od razu skręcaj w lewo. Swojego czasu zrobiliśmy tam niewielki schowek. Właśnie tam go posłałem. Daj, zaznaczę ci tą opuszczoną kopalnię.</pln>
@@ -4905,7 +4905,7 @@
 		<pln>Dokumenty masz?</pln>
 	</string>
 	<string id="denis_need_denis_5">
-		<rus>Пусто! Пустой тайник оказался. Я только проверить успел, тут меня и "накрыло", первый раз контролёру попался. Эй, дружище, окажи услугу, выведи меня отсюда, а то у меня ноги трясутся, боюсь один не дойду. Мне бы до базы сталкеров добраться, что тут не далеко, я бы у них пару-тройку дней перекантовался, мне сейчас далеко не уйти, а если ещё монстр какой попадётся - всё, пиши пропало. А я тебе за это наводку одну дам на тайник в лесу. Его оставил один опытный сталкер. Сталкер тот сказал, чтобы тайник никто не трогал, потому что он очень хорошо охраняется. Наши все знают, где он лежит, но никто не отважился его взять. Потому что главная трудность - остаться в живых. Если хочешь - можешь попробовать. Он где-то недалеко от аномалии, что в лесу. Выведешь меня?</rus>
+		<rus>Пусто! Пустой тайник оказался. Я только проверить успел, тут меня и "накрыло", первый раз контролёру попался. Эй, дружище, окажи услугу, выведи меня отсюда, а то у меня ноги трясутся, боюсь один не дойду. Мне бы до базы сталкеров добраться, что тут недалеко, я бы у них пару-тройку дней перекантовался, мне сейчас далеко не уйти, а если ещё монстр какой попадётся - всё, пиши пропало. А я тебе за это наводку одну дам на тайник в лесу. Его оставил один опытный сталкер. Сталкер тот сказал, чтобы тайник никто не трогал, потому что он очень хорошо охраняется. Наши все знают, где он лежит, но никто не отважился его взять. Потому что главная трудность - остаться в живых. Если хочешь - можешь попробовать. Он где-то недалеко от аномалии, что в лесу. Выведешь меня?</rus>
 		<eng>No! The stash was empty. I just had time to check, and that's when I was "jumped", it was the first time I succumbed to a controller. Hey, buddy, do me a favour, get me out of here, my leg are shaking so badly, I'm afraid I won't make it out alone. I would like to get to the stalker's base that's not far from here, I want to hang out there for a couple of days, I'm not going to go anywhere now, and while the monster is still alive, I can't look for the documents. I'll give you a tip for a stash in the woods. It was left there by an experienced stalker. He said it couldn't be touched, because it was very well guarded. Everyone knows where it is, but no one dares to take it. Because the main difficulty is to stay alive. If you want, you can try. It's somewhere near the anomaly in the forest. Will you get me out of here?</eng>
 		<ukr>Пусто! Порожня схованка виявилася. Я тільки перевірити встиг, тут мене і "накрило", перший раз контролеру попався. Гей, друже, хіба не зробиш послугу, виведи мене звідси, а то у мене ноги трясуться, боюся один не дійду. Мені б до бази сталкерів дістатися, яка тут не далеко, я б у них пару-трійку днів перекантувався, мені зараз далеко не піти, а якщо ще монстр який попадеться, все, пиши пропало. А я тобі за це наводку одну дам на схованку в лісі. Її залишив один досвідчений сталкер. Сталкер той сказав, щоб її ніхто не чіпав, томущо вона дуже добре охороняється. Наші всі знають, де вона лежить, але ніхто не наважився її взяти. Тому, що головна проблема - залишитися живим. Якщо хочеш - можеш спробувати. Вона десь недалеко від аномалії, що в лісі. Виведеш мене?</ukr>
 		<pln>Pusto! Schowek był pusty. Ja tylko sprawdzić zdążyłem, i tu mnie "nakryło", udało się kontrolerowi za pierwszym razem. Ej, bracie, pomóż mi, wyprowadź mnie stąd, bo tak mi się nogi trzęsą, chyba sam nie dojdę. Żeby chociaż do bazy stalkerów się dostać, co jest tu niedaleko, to bym u nich ze dwa-trzy dni posiedział. Ja teraz ledwo jestem w stanie iść, a jeśli jeszcze mutant jaki się trafi, to kaplica. A ja ci za to namiar dam na schowek w lesie. Zostawił go jeden doświadczony stalker. Ten stalker powiedział, żeby nikt go nawet nie dotykał, tak dobrze jest chroniony. Nasi dobrze wiedzą, gdzie to jest, ale nikt nie odważył się tam pójść. Dlatego że tam bardzo łatwo zginąć. Jeżeli chcesz - możesz spróbować. Jest gdzieś niedaleko tej anomalii w lesie. To wyprowadzisz mnie?</pln>
