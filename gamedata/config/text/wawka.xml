@@ -4,7 +4,6 @@
 		<rus>Слышал, ты редкое оружие собираешь?</rus>
 		<eng>I heard you collect rare weapons, right?</eng>
 		<ukr>Чув, ти рідісну зброю збираєш?</ukr>
-		<fra>Слышал, ты редкое оружие собираешь?</fra>
 		<pln>Słyszałem, że kolekcjonujesz rzadkie okazy broni?</pln>
 	</string>
 	<string id="mosinka_1">
@@ -543,7 +542,7 @@
 	<string id="krysyk_pomer_13_dialog_1">
 		<rus>С этой швалью я предпочитаю не связываться, но если просьба сулит солидный куш, то можно и забыть на время некоторые принципы.</rus>
 		<eng>===С этой швалью я предпочитаю не связываться, но если просьба сулит солидный куш, то можно и забыть на время некоторые принципы.</eng>
-		<ukr>===С этой швалью я предпочитаю не связываться, но если просьба сулит солидный куш, то можно и забыть на время некоторые принципы.</ukr>
+		<ukr>З цієї шушваллю я вважаю за краще не зв'язуватися, але якщо прохання обіцяє солідний куш, то можна і забути на час деякі принципи.</ukr>
 		<fra>===С этой швалью я предпочитаю не связываться, но если просьба сулит солидный куш, то можно и забыть на время некоторые принципы.</fra>
 		<pln>===С этой швалью я предпочитаю не связываться, но если просьба сулит солидный куш, то можно и забыть на время некоторые принципы.</pln>
 	</string>
@@ -2429,18 +2428,18 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>Oto nagroda za bezużyteczną rzecz... Aha, tak myślałem, wewnątrz obudowy jest pieczątka z napisem "Prototyp Nr2". To znaczy, że był też prototyp numer jeden. Jeśli go znajdziesz - jest twój. Sądząc po etykiecie, oba przyrządy zostały zbudowane w którymś laboratorium X-... - numer nie do odczytania. Jest także bardziej konkretna wskazówka - podsłuchałem niedawno przez radio rozmowę przechodzących przez las bandytów. Jeden z ich oddziałów próbował odbić Zakład Metalurgiczny z rąk najemników. Ale przeliczyli się z siłami i najemnicy tak im dołożyli, że ci co przeżyli całą drogę do Zapomnianego Lasu przebyli niemalże lotem koszącym. Ale przed samym starciem bandytom udało się splądrować magazyn wyposażenia najemników i gwizdnąć dziwne urządzenie. Wszystko wskazuje na to, że był to "Prototyp Nr1"... W drodze powrotnej bandyci starli się z grupą ochrony jakichś naukowców, kryjącą się w pobliżu Zakładu. Bandyta z teleporterem zginął w strzelaninie i teraz teleporter powinien być u jajogłowych. Próbuj, szczęście kocha odważnych!</pln>
 	</string>
 	<string id="vtg_0_0">
-		<rus>&#160;сгодится? Редкость в Зоне...</rus>
-		<eng>&#160;will it come in handy? Rarity in the Zone...</eng>
-		<ukr>&#160;згодиться? Рідкість у Зоні...</ukr>
-		<fra>&#160; seriez-vous d'accord? Rareté dans la zone...</fra>
-		<pln>&#160;przyda się? Rzadkość w Zonie...</pln>
+		<rus> сгодится? Редкость в Зоне...</rus>
+		<eng> will it come in handy? Rarity in the Zone...</eng>
+		<ukr> згодиться? Рідкість у Зоні...</ukr>
+		<fra>  seriez-vous d'accord? Rareté dans la zone...</fra>
+		<pln> przyda się? Rzadkość w Zonie...</pln>
 	</string>
 	<string id="vtg_1_0">
-		<rus>А вот интересный экземплярчик -&#160;</rus>
-		<eng>Here is an interesting item -&#160;</eng>
-		<ukr>А от цікавий екземплярчик -&#160;</ukr>
-		<fra>Voici un article intéressant -&#160;</fra>
-		<pln>A oto ciekawy egzemplarz -&#160;</pln>
+		<rus>А вот интересный экземплярчик - </rus>
+		<eng>Here is an interesting item - </eng>
+		<ukr>А от цікавий екземплярчик - </ukr>
+		<fra>Voici un article intéressant - </fra>
+		<pln>A oto ciekawy egzemplarz - </pln>
 	</string>
 	<string id="vtg_1_1">
 		<rus>. Надо?</rus>
@@ -2450,25 +2449,25 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>. Potrzebujesz?</pln>
 	</string>
 	<string id="vtg_2_0">
-		<rus>Вот уникальный&#160;</rus>
-		<eng>Here is a unique&#160;</eng>
-		<ukr>Ось унікальний&#160;</ukr>
-		<fra>Voici un unique&#160;</fra>
-		<pln>Tu unikalny&#160;</pln>
+		<rus>Вот уникальный </rus>
+		<eng>Here is a unique </eng>
+		<ukr>Ось унікальний </ukr>
+		<fra>Voici un unique </fra>
+		<pln>Tu unikalny </pln>
 	</string>
 	<string id="vtg_2_1">
-		<rus>&#160;Эх, так жалко отдавать...</rus>
-		<eng>&#160;Oh, I feel sorry to give...</eng>
-		<ukr>&#160;Ех, так шкода віддавати...</ukr>
-		<fra>&#160;Oh, je suis désolé de donner...</fra>
-		<pln>&#160;Ehh, szkoda oddawać...</pln>
+		<rus> Эх, так жалко отдавать...</rus>
+		<eng> Oh, I feel sorry to give...</eng>
+		<ukr> Ех, так шкода віддавати...</ukr>
+		<fra> Oh, je suis désolé de donner...</fra>
+		<pln> Ehh, szkoda oddawać...</pln>
 	</string>
 	<string id="vtg_3_0">
-		<rus>Как насчёт&#160;</rus>
-		<eng>What about&#160;</eng>
-		<ukr>Як щодо&#160;</ukr>
-		<fra>Qu'en est-il de&#160;</fra>
-		<pln>Co powiesz na&#160;</pln>
+		<rus>Как насчёт </rus>
+		<eng>What about </eng>
+		<ukr>Як щодо </ukr>
+		<fra>Qu'en est-il de </fra>
+		<pln>Co powiesz na </pln>
 	</string>
 	<string id="vtg_3_1">
 		<rus>. Возьмёшь?</rus>
@@ -2478,18 +2477,18 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>. Weźmiesz?</pln>
 	</string>
 	<string id="vtg_4_0">
-		<rus>&#160;- новая модель! Ну как?</rus>
-		<eng>&#160;- new model! How is it?</eng>
-		<ukr>&#160;- нова модель! Ну як?</ukr>
-		<fra>&#160;- nouveau modèle! Comment est-il?</fra>
-		<pln>&#160;- nowy model! To jak?</pln>
+		<rus> - новая модель! Ну как?</rus>
+		<eng> - new model! How is it?</eng>
+		<ukr> - нова модель! Ну як?</ukr>
+		<fra> - nouveau modèle! Comment est-il?</fra>
+		<pln> - nowy model! To jak?</pln>
 	</string>
 	<string id="vtg_5_0">
-		<rus>А вот&#160;</rus>
-		<eng>Here is&#160;</eng>
-		<ukr>А ось&#160;</ukr>
-		<fra>Voici&#160;</fra>
-		<pln>Tu jest&#160;</pln>
+		<rus>А вот </rus>
+		<eng>Here is </eng>
+		<ukr>А ось </ukr>
+		<fra>Voici </fra>
+		<pln>Tu jest </pln>
 	</string>
 	<string id="vtg_5_1">
 		<rus>! Сойдёт?</rus>
@@ -2499,11 +2498,11 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>! Podchodzi?</pln>
 	</string>
 	<string id="vtg_6_0">
-		<rus>Вот интересная модификация:&#160;</rus>
-		<eng>Here is an interesting modification:&#160;</eng>
-		<ukr>Ось цікава модифікація:&#160;</ukr>
-		<fra>Voici une modification intéressante:&#160;</fra>
-		<pln>A to ciekawa modyfikacja:&#160;</pln>
+		<rus>Вот интересная модификация: </rus>
+		<eng>Here is an interesting modification: </eng>
+		<ukr>Ось цікава модифікація: </ukr>
+		<fra>Voici une modification intéressante: </fra>
+		<pln>A to ciekawa modyfikacja: </pln>
 	</string>
 	<string id="vtg_6_1">
 		<rus>! Подходит?</rus>
@@ -2513,11 +2512,11 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>! Nada się?</pln>
 	</string>
 	<string id="vtg_7_0">
-		<rus>Раздобыл&#160;</rus>
-		<eng>I got&#160;</eng>
-		<ukr>Роздобув&#160;</ukr>
-		<fra>j'ai eu&#160;</fra>
-		<pln>Zdobyłem&#160;</pln>
+		<rus>Раздобыл </rus>
+		<eng>I got </eng>
+		<ukr>Роздобув </ukr>
+		<fra>j'ai eu </fra>
+		<pln>Zdobyłem </pln>
 	</string>
 	<string id="vtg_7_1">
 		<rus>! Как тебе?</rus>
@@ -2527,60 +2526,60 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>! Jak myślisz?</pln>
 	</string>
 	<string id="vtg_8_0">
-		<rus>Сбалансированный&#160;</rus>
-		<eng>Balanced&#160;</eng>
-		<ukr>Збалансований&#160;</ukr>
-		<fra>Équilibré&#160;</fra>
-		<pln>Zbalansowany&#160;</pln>
+		<rus>Сбалансированный </rus>
+		<eng>Balanced </eng>
+		<ukr>Збалансований </ukr>
+		<fra>Équilibré </fra>
+		<pln>Zbalansowany </pln>
 	</string>
 	<string id="vtg_8_1">
-		<rus>&#160;- неплохой экземпляр! Надо?</rus>
-		<eng>&#160;- a good item! Do you need it?</eng>
-		<ukr>&#160;- непоганий екземпляр! Треба?</ukr>
-		<fra>&#160;- une bonne copie! En avez-vous besoin?</fra>
-		<pln>&#160;- niezły egzemplarz! Chcesz?</pln>
+		<rus> - неплохой экземпляр! Надо?</rus>
+		<eng> - a good item! Do you need it?</eng>
+		<ukr> - непоганий екземпляр! Треба?</ukr>
+		<fra> - une bonne copie! En avez-vous besoin?</fra>
+		<pln> - niezły egzemplarz! Chcesz?</pln>
 	</string>
 	<string id="vtg_9_0">
-		<rus>А вот&#160;</rus>
-		<eng>Here is&#160;</eng>
-		<ukr>А ось&#160;</ukr>
-		<fra>Voici&#160;</fra>
-		<pln>Tu jest&#160;</pln>
+		<rus>А вот </rus>
+		<eng>Here is </eng>
+		<ukr>А ось </ukr>
+		<fra>Voici </fra>
+		<pln>Tu jest </pln>
 	</string>
 	<string id="vtg_9_1">
-		<rus>&#160;- хорошая вещь! Нравится?</rus>
-		<eng>&#160;- a good thing! Do you like it?</eng>
-		<ukr>&#160;- хороша річ! Подобається?</ukr>
-		<fra>&#160;- une bonne chose! Aimez-vous?</fra>
-		<pln>&#160;- dobra rzecz! Podoba się?</pln>
+		<rus> - хорошая вещь! Нравится?</rus>
+		<eng> - a good thing! Do you like it?</eng>
+		<ukr> - хороша річ! Подобається?</ukr>
+		<fra> - une bonne chose! Aimez-vous?</fra>
+		<pln> - dobra rzecz! Podoba się?</pln>
 	</string>
 	<string id="vtg_10_0">
-		<rus>Вот принёс&#160;</rus>
-		<eng>I brought&#160;</eng>
-		<ukr>Ось приніс&#160;</ukr>
-		<fra>j'ai apporté&#160;</fra>
-		<pln>Przyniosłem&#160;</pln>
+		<rus>Вот принёс </rus>
+		<eng>I brought </eng>
+		<ukr>Ось приніс </ukr>
+		<fra>j'ai apporté </fra>
+		<pln>Przyniosłem </pln>
 	</string>
 	<string id="vtg_10_1">
-		<rus>&#160;- зверь-машина! Возьмёшь?</rus>
-		<eng>&#160;- the beast machine! Will you take it?</eng>
-		<ukr>&#160;- звір-машина! Візьмеш?</ukr>
-		<fra>&#160;- la bête machine! Voulez-vous la prendre?</fra>
-		<pln>&#160;- zwierz-maszyna! Weźmiesz?</pln>
+		<rus> - зверь-машина! Возьмёшь?</rus>
+		<eng> - the beast machine! Will you take it?</eng>
+		<ukr> - звір-машина! Візьмеш?</ukr>
+		<fra> - la bête machine! Voulez-vous la prendre?</fra>
+		<pln> - zwierz-maszyna! Weźmiesz?</pln>
 	</string>
 	<string id="vtg_11_0">
-		<rus>&#160;- мощная игрушка! Ну как?</rus>
-		<eng>&#160;- powerful toy! What do you think?</eng>
-		<ukr>&#160;- потужна іграшка! Ну як?</ukr>
-		<fra>&#160;- jouet puissant! Qu'en pensez-vous?</fra>
-		<pln>&#160;- mocna zabawka! To jak?</pln>
+		<rus> - мощная игрушка! Ну как?</rus>
+		<eng> - powerful toy! What do you think?</eng>
+		<ukr> - потужна іграшка! Ну як?</ukr>
+		<fra> - jouet puissant! Qu'en pensez-vous?</fra>
+		<pln> - mocna zabawka! To jak?</pln>
 	</string>
 	<string id="vtg_12_0">
-		<rus>Редчайший в Зоне -&#160;</rus>
-		<eng>The rarest in the Zone -&#160;</eng>
-		<ukr>Рідкісний в Зоні -&#160;</ukr>
-		<fra>Rare dans la Zone -&#160;</fra>
-		<pln>Rzadkość w Zonie -&#160;</pln>
+		<rus>Редчайший в Зоне - </rus>
+		<eng>The rarest in the Zone - </eng>
+		<ukr>Рідкісний в Зоні - </ukr>
+		<fra>Rare dans la Zone - </fra>
+		<pln>Rzadkość w Zonie - </pln>
 	</string>
 	<string id="vtg_12_1">
 		<rus>! Нужна такая зверюга?</rus>
@@ -2590,11 +2589,11 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>! Potrzebna taka bestia?</pln>
 	</string>
 	<string id="vtg_13_0">
-		<rus>Безжалостный убийца...&#160;</rus>
-		<eng>The ruthless killer...&#160;</eng>
-		<ukr>Безжалісний вбивця...&#160;</ukr>
-		<fra>Le tueur impitoyable...&#160;</fra>
-		<pln>Bezlitosny zabójca...&#160;</pln>
+		<rus>Безжалостный убийца... </rus>
+		<eng>The ruthless killer... </eng>
+		<ukr>Безжалісний вбивця... </ukr>
+		<fra>Le tueur impitoyable... </fra>
+		<pln>Bezlitosny zabójca... </pln>
 	</string>
 	<string id="vtg_13_1">
 		<rus>. Идёт?</rus>
@@ -2604,11 +2603,11 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>. Dobre?</pln>
 	</string>
 	<string id="vtg_14_0">
-		<rus>Отличная игрушка -&#160;</rus>
-		<eng>Great toy -&#160;</eng>
-		<ukr>Відмінна іграшка -&#160;</ukr>
-		<fra>Super jouet -&#160;</fra>
-		<pln>Świetna zabawka -&#160;</pln>
+		<rus>Отличная игрушка - </rus>
+		<eng>Great toy - </eng>
+		<ukr>Відмінна іграшка - </ukr>
+		<fra>Super jouet - </fra>
+		<pln>Świetna zabawka - </pln>
 	</string>
 	<string id="vtg_14_1">
 		<rus>! Как тебе?</rus>
@@ -2618,11 +2617,11 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>! Jak myślisz?</pln>
 	</string>
 	<string id="vtg_15_0">
-		<rus>Принимай&#160;</rus>
-		<eng>Accept&#160;</eng>
-		<ukr>Приймай&#160;</ukr>
-		<fra>Acceptez&#160;</fra>
-		<pln>Bierz&#160;</pln>
+		<rus>Принимай </rus>
+		<eng>Accept </eng>
+		<ukr>Приймай </ukr>
+		<fra>Acceptez </fra>
+		<pln>Bierz </pln>
 	</string>
 	<string id="vtg_15_1">
 		<rus>! Нормально?</rus>
@@ -2632,18 +2631,18 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>! W porządku?</pln>
 	</string>
 	<string id="vtg_16_0">
-		<rus>&#160;- классный ствол! Нужен?</rus>
-		<eng>&#160;- cool gun! Do you need?</eng>
-		<ukr>&#160;- класний ствол! Потрібний?</ukr>
-		<fra>&#160;- arme cool! En avez-vous besoin?</fra>
-		<pln>&#160;- super giwera! Chcesz?</pln>
+		<rus> - классный ствол! Нужен?</rus>
+		<eng> - cool gun! Do you need?</eng>
+		<ukr> - класний ствол! Потрібний?</ukr>
+		<fra> - arme cool! En avez-vous besoin?</fra>
+		<pln> - super giwera! Chcesz?</pln>
 	</string>
 	<string id="vtg_17_0">
-		<rus>Как тебе&#160;</rus>
-		<eng>What do you think about&#160;</eng>
-		<ukr>Як тобі&#160;</ukr>
-		<fra>Qu'en pensez-vous&#160;</fra>
-		<pln>Co myslisz o&#160;</pln>
+		<rus>Как тебе </rus>
+		<eng>What do you think about </eng>
+		<ukr>Як тобі </ukr>
+		<fra>Qu'en pensez-vous </fra>
+		<pln>Co myslisz o </pln>
 	</string>
 	<string id="vtg_17_1">
 		<rus>! Класс, да?</rus>
@@ -2653,25 +2652,25 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>! Niezłe, co?</pln>
 	</string>
 	<string id="vtg_18_0">
-		<rus>Не смотри, что немного помятый, но это же&#160;</rus>
-		<eng>Don't pay attention that it's a bit smushed, but this is&#160;</eng>
-		<ukr>не дивися, що трохи пом'ятий, але ж це&#160;</ukr>
-		<fra>Ne faites pas attention que c'est un peu fatigué, mais c'est&#160;</fra>
-		<pln>To co, że trochę pogięty, ale to przecież&#160;</pln>
+		<rus>Не смотри, что немного помятый, но это же </rus>
+		<eng>Don't pay attention that it's a bit smushed, but this is </eng>
+		<ukr>не дивися, що трохи пом'ятий, але ж це </ukr>
+		<fra>Ne faites pas attention que c'est un peu fatigué, mais c'est </fra>
+		<pln>To co, że trochę pogięty, ale to przecież </pln>
 	</string>
 	<string id="vtg_18_1">
-		<rus>&#160;- отличный ствол! Возьмёшь?</rus>
-		<eng>&#160;- a great gun! Will you take it?</eng>
-		<ukr>&#160;- відмінний ствол! Візьмеш?</ukr>
-		<fra>&#160;- une excellente arme! La prendrez-vous?</fra>
-		<pln>&#160;- światna broń! Bierzesz?</pln>
+		<rus> - отличный ствол! Возьмёшь?</rus>
+		<eng> - a great gun! Will you take it?</eng>
+		<ukr> - відмінний ствол! Візьмеш?</ukr>
+		<fra> - une excellente arme! La prendrez-vous?</fra>
+		<pln> - światna broń! Bierzesz?</pln>
 	</string>
 	<string id="vtg_19_0">
-		<rus>Мощный&#160;</rus>
-		<eng>Powerful&#160;</eng>
-		<ukr>Потужний&#160;</ukr>
-		<fra>Puissant&#160;</fra>
-		<pln>Mocny&#160;</pln>
+		<rus>Мощный </rus>
+		<eng>Powerful </eng>
+		<ukr>Потужний </ukr>
+		<fra>Puissant </fra>
+		<pln>Mocny </pln>
 	</string>
 	<string id="vtg_19_1">
 		<rus>! Ну как тебе?</rus>
@@ -2681,32 +2680,32 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>! Jak myślisz?</pln>
 	</string>
 	<string id="vtg_20_0">
-		<rus>&#160;- очень хорошая вещь! Подходит?</rus>
-		<eng>&#160;- very good thing! Is it suitable?</eng>
-		<ukr>&#160;- дуже хороша річ! Підходить?</ukr>
-		<fra>&#160;- très bonne chose! Est-ce approprié?</fra>
-		<pln>&#160;- bardzo dobra rzecz! Pasuje?</pln>
+		<rus> - очень хорошая вещь! Подходит?</rus>
+		<eng> - very good thing! Is it suitable?</eng>
+		<ukr> - дуже хороша річ! Підходить?</ukr>
+		<fra> - très bonne chose! Est-ce approprié?</fra>
+		<pln> - bardzo dobra rzecz! Pasuje?</pln>
 	</string>
 	<string id="vtg_21_0">
-		<rus>Отличный&#160;</rus>
-		<eng>Excellent&#160;</eng>
-		<ukr>Відмінний&#160;</ukr>
-		<fra>Excellent&#160;</fra>
-		<pln>Świetny&#160;</pln>
+		<rus>Отличный </rus>
+		<eng>Excellent </eng>
+		<ukr>Відмінний </ukr>
+		<fra>Excellent </fra>
+		<pln>Świetny </pln>
 	</string>
 	<string id="vtg_21_1">
-		<rus>&#160;- единственный в Зоне! Ну как?</rus>
-		<eng>&#160;- the only one in the Zone! How is it?</eng>
-		<ukr>&#160;- єдиний у Зоні! Ну як?</ukr>
-		<fra>&#160;- le seul dans la zone! Comment c'est?</fra>
-		<pln>&#160;- jedyny w Zonie! To jak?</pln>
+		<rus> - единственный в Зоне! Ну как?</rus>
+		<eng> - the only one in the Zone! How is it?</eng>
+		<ukr> - єдиний у Зоні! Ну як?</ukr>
+		<fra> - le seul dans la zone! Comment c'est?</fra>
+		<pln> - jedyny w Zonie! To jak?</pln>
 	</string>
 	<string id="vtg_22_0">
-		<rus>Единственный и неповторимый&#160;</rus>
-		<eng>The one and only&#160;</eng>
-		<ukr>Єдиний і неповторний&#160;</ukr>
-		<fra>Le seul et unique&#160;</fra>
-		<pln>Jedyny i niepowtarzalny&#160;</pln>
+		<rus>Единственный и неповторимый </rus>
+		<eng>The one and only </eng>
+		<ukr>Єдиний і неповторний </ukr>
+		<fra>Le seul et unique </fra>
+		<pln>Jedyny i niepowtarzalny </pln>
 	</string>
 	<string id="vtg_22_1">
 		<rus>! Эх... забирай!</rus>
@@ -2716,11 +2715,11 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>! Eh... bierz!</pln>
 	</string>
 	<string id="vtg_23_0">
-		<rus>Уникальный&#160;</rus>
-		<eng>Unique&#160;</eng>
-		<ukr>Унікальний&#160;</ukr>
-		<fra>Unique&#160;</fra>
-		<pln>Unikalny&#160;</pln>
+		<rus>Уникальный </rus>
+		<eng>Unique </eng>
+		<ukr>Унікальний </ukr>
+		<fra>Unique </fra>
+		<pln>Unikalny </pln>
 	</string>
 	<string id="vtg_23_1">
 		<rus>! Редкая вещь! Возьмёшь?</rus>
@@ -2730,11 +2729,11 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>! Rzadka rzecz! Weźmiesz?</pln>
 	</string>
 	<string id="vtg_24_0">
-		<rus>А вот интересный вариант:&#160;</rus>
-		<eng>Here is an interesting option:&#160;</eng>
-		<ukr>А ось цікавий варіант:&#160;</ukr>
-		<fra>Voici une option intéressante:&#160;</fra>
-		<pln>A tu ciekawy wariant:&#160;</pln>
+		<rus>А вот интересный вариант: </rus>
+		<eng>Here is an interesting option: </eng>
+		<ukr>А ось цікавий варіант: </ukr>
+		<fra>Voici une option intéressante: </fra>
+		<pln>A tu ciekawy wariant: </pln>
 	</string>
 	<string id="vtg_24_1">
 		<rus>! Подойдёт?</rus>
@@ -2744,25 +2743,25 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>! Podejdzie?</pln>
 	</string>
 	<string id="vtg_25_0">
-		<rus>&#160;попался мне в руки. Крутая пушка! Надо?</rus>
-		<eng>&#160;fell into my hands. Cool gun! Do you need it?</eng>
-		<ukr>&#160;ще з афганської війни, арабська в'язь на ньому якась! Треба?</ukr>
-		<fra>&#160;est tombé dans mes mains. Pistolet cool! En avez-vous besoin?</fra>
-		<pln>&#160;trafił mi się. Świetna sztuka! Chcesz?</pln>
+		<rus> попался мне в руки. Крутая пушка! Надо?</rus>
+		<eng> fell into my hands. Cool gun! Do you need it?</eng>
+		<ukr> ще з афганської війни, арабська в'язь на ньому якась! Треба?</ukr>
+		<fra> est tombé dans mes mains. Pistolet cool! En avez-vous besoin?</fra>
+		<pln> trafił mi się. Świetna sztuka! Chcesz?</pln>
 	</string>
 	<string id="vtg_26_0">
-		<rus>&#160;- уникальный! Таких в Зоне 1-2. Берёшь?</rus>
-		<eng>&#160;- unique! There is only 1-2 in the Zone. Will you take it?</eng>
-		<ukr>&#160;- унікальний! Таких у Зоні 1-2. Береш?</ukr>
-		<fra>&#160;- unique! Il n'y en a que 1, voire 2 dans la zone. Le prendrez-vous?</fra>
-		<pln>&#160;- unikalny! Takich w Zonie 1-2. Bierzesz?</pln>
+		<rus> - уникальный! Таких в Зоне 1-2. Берёшь?</rus>
+		<eng> - unique! There is only 1-2 in the Zone. Will you take it?</eng>
+		<ukr> - унікальний! Таких у Зоні 1-2. Береш?</ukr>
+		<fra> - unique! Il n'y en a que 1, voire 2 dans la zone. Le prendrez-vous?</fra>
+		<pln> - unikalny! Takich w Zonie 1-2. Bierzesz?</pln>
 	</string>
 	<string id="vtg_27_0">
-		<rus>Вот, нашёл&#160;</rus>
-		<eng>Here is it, I found&#160;</eng>
-		<ukr>Ось, знайшов&#160;</ukr>
-		<fra>Voilà, j'ai trouvé&#160;</fra>
-		<pln>O, znalazłem&#160;</pln>
+		<rus>Вот, нашёл </rus>
+		<eng>Here is it, I found </eng>
+		<ukr>Ось, знайшов </ukr>
+		<fra>Voilà, j'ai trouvé </fra>
+		<pln>O, znalazłem </pln>
 	</string>
 	<string id="vtg_27_1">
 		<rus>. Сойдёт?</rus>
@@ -2772,11 +2771,11 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>. Podchodzi?</pln>
 	</string>
 	<string id="vtg_28_0">
-		<rus>Вот, достал&#160;</rus>
-		<eng>Here is it, I got&#160;</eng>
-		<ukr>Ось, дістав&#160;</ukr>
-		<fra>La voici&#160;</fra>
-		<pln>O, zdobyłem&#160;</pln>
+		<rus>Вот, достал </rus>
+		<eng>Here is it, I got </eng>
+		<ukr>Ось, дістав </ukr>
+		<fra>La voici </fra>
+		<pln>O, zdobyłem </pln>
 	</string>
 	<string id="vtg_28_1">
 		<rus>. Берёшь?</rus>
@@ -2786,11 +2785,11 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>. Bierzesz?</pln>
 	</string>
 	<string id="vtg_29_0">
-		<rus>Нашёл&#160;</rus>
-		<eng>I found&#160;</eng>
-		<ukr>Знайшов&#160;</ukr>
-		<fra>J'ai trouvé&#160;</fra>
-		<pln>Znalazłem&#160;</pln>
+		<rus>Нашёл </rus>
+		<eng>I found </eng>
+		<ukr>Знайшов </ukr>
+		<fra>J'ai trouvé </fra>
+		<pln>Znalazłem </pln>
 	</string>
 	<string id="vtg_29_1">
 		<rus>... Возьмёшь?</rus>
@@ -2800,11 +2799,11 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>... Weźmiesz?</pln>
 	</string>
 	<string id="vtg_30_0">
-		<rus>Раздобыл&#160;</rus>
-		<eng>I got&#160;</eng>
-		<ukr>Роздобув&#160;</ukr>
-		<fra>J'ai eu&#160;</fra>
-		<pln>Zdobyłem&#160;</pln>
+		<rus>Раздобыл </rus>
+		<eng>I got </eng>
+		<ukr>Роздобув </ukr>
+		<fra>J'ai eu </fra>
+		<pln>Zdobyłem </pln>
 	</string>
 	<string id="vtg_30_1">
 		<rus>. Нужен?</rus>
@@ -2814,11 +2813,11 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>. Potrzebny?</pln>
 	</string>
 	<string id="vtg_31_0">
-		<rus>Раритет попался,&#160;</rus>
-		<eng>I've got a rarity&#160;</eng>
-		<ukr>Раритет попався,&#160;</ukr>
-		<fra>J'ai une rareté&#160;</fra>
-		<pln>Rarytas się trafił,&#160;</pln>
+		<rus>Раритет попался, </rus>
+		<eng>I've got a rarity </eng>
+		<ukr>Раритет попався, </ukr>
+		<fra>J'ai une rareté </fra>
+		<pln>Rarytas się trafił, </pln>
 	</string>
 	<string id="vtg_31_1">
 		<rus>. Нравится?</rus>
@@ -2828,25 +2827,25 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>. Ładny?</pln>
 	</string>
 	<string id="vtg_32_0">
-		<rus>Уникальный&#160;</rus>
-		<eng>Unique&#160;</eng>
-		<ukr>Унікальний&#160;</ukr>
-		<fra>Unique&#160;</fra>
-		<pln>Unikalny&#160;</pln>
+		<rus>Уникальный </rus>
+		<eng>Unique </eng>
+		<ukr>Унікальний </ukr>
+		<fra>Unique </fra>
+		<pln>Unikalny </pln>
 	</string>
 	<string id="vtg_32_1">
-		<rus>&#160;одного местного умельца. Возьмёшь?</rus>
-		<eng>&#160;of one local craftsman. Will you take it?</eng>
-		<ukr>&#160;одного місцевого умільця. Візьмеш?</ukr>
-		<fra>&#160;d'un artisan local. Le prendrez-vous?</fra>
-		<pln>&#160;jednego lokalnego mistrza. Weźmiesz?</pln>
+		<rus> одного местного умельца. Возьмёшь?</rus>
+		<eng> of one local craftsman. Will you take it?</eng>
+		<ukr> одного місцевого умільця. Візьмеш?</ukr>
+		<fra> d'un artisan local. Le prendrez-vous?</fra>
+		<pln> jednego lokalnego mistrza. Weźmiesz?</pln>
 	</string>
 	<string id="vtg_33_0">
-		<rus>Нашёл вот раритетный&#160;</rus>
-		<eng>I found a rare&#160;</eng>
-		<ukr>Знайшов ось раритетний&#160;</ukr>
-		<fra>J'ai trouvé une rareté&#160;</fra>
-		<pln>Ot, znalazłem rarytas&#160;</pln>
+		<rus>Нашёл вот раритетный </rus>
+		<eng>I found a rare </eng>
+		<ukr>Знайшов ось раритетний </ukr>
+		<fra>J'ai trouvé une rareté </fra>
+		<pln>Ot, znalazłem rarytas </pln>
 	</string>
 	<string id="vtg_33_1">
 		<rus>. Возьмёшь?</rus>
@@ -2856,11 +2855,11 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>. Weźmiesz?</pln>
 	</string>
 	<string id="vtg_34_0">
-		<rus>Выискал&#160;</rus>
-		<eng>I found&#160;</eng>
-		<ukr>Вишукав&#160;</ukr>
-		<fra>J'ai trouvé&#160;</fra>
-		<pln>Wyszukałem&#160;</pln>
+		<rus>Выискал </rus>
+		<eng>I found </eng>
+		<ukr>Вишукав </ukr>
+		<fra>J'ai trouvé </fra>
+		<pln>Wyszukałem </pln>
 	</string>
 	<string id="vtg_34_1">
 		<rus>. Подойдёт?</rus>
@@ -2870,11 +2869,11 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>. Nada się?</pln>
 	</string>
 	<string id="vtg_35_0">
-		<rus>Чудом нашёл&#160;</rus>
-		<eng>I miraculously found&#160;</eng>
-		<ukr>Чудом знайшов&#160;</ukr>
-		<fra>J'ai trouvé miraculeusement&#160;</fra>
-		<pln>Cudem znalazłem&#160;</pln>
+		<rus>Чудом нашёл </rus>
+		<eng>I miraculously found </eng>
+		<ukr>Чудом знайшов </ukr>
+		<fra>J'ai trouvé miraculeusement </fra>
+		<pln>Cudem znalazłem </pln>
 	</string>
 	<string id="vtg_35_1">
 		<rus>! Классный ствол, жалко расставаться...</rus>

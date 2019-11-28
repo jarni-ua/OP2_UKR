@@ -538,7 +538,7 @@
 	<string id="det_art_ultra_info">
 		<rus>Модернизированный детектор артефактов и изоморфов. Чувствительность детектора увеличена до размеров всей территории. Наличие артефактов отображается метками на карте местности. Помимо мест их нахождения, детектор распознаёт типы артефактов, что делает данный прибор самым лучшим из всех серий детекторов. Также способен определять предметы, содержащие частицы чужеродной энергии. Для работы необходимо активировать, разместив прибор в соответствующем слоте.</rus>
 		<eng>===An upgraded artefact and isomorphic detector. The sensitivity of the detector is increased to cope with the size of the entire territory. The presence of artefacts is indicated by marks on the map. In addition to their location, the detector recognises the types of artefacts, which makes this device the best of the whole series of detectors. It's also able to detect objects containing foreign energy particles. Activated when placed on the belt.</eng>
-		<ukr>===Модернізований детектор артефактів і ізоморфів. Чутливість детектора збільшена до розмірів цілої території. Наявність артефактів відображається мітками на карті місцевості. Крім місць їх знаходження, детектор розпізнає типи артефактів, що робить даний прилад найкращим з усіх серій детекторів. Також здатний визначати предмети, що містять частинки чужорідної енергії. Активується при розташуванні на поясі.</ukr>
+		<ukr>Модернізований детектор артефактів і ізоморфів. Чутливість детектора збільшена до розмірів цілої території. Наявність артефактів відображається мітками на карті місцевості. Крім місць їхнього знаходження, детектор розпізнає типи артефактів, що робить даний прилад найкращим з усіх серій детекторів. Також здатний визначати предмети, які містять частинки чужорідної енергії. Активується при розташуванні на поясі.</ukr>
 		<fra>===Détecteur amélioré d'artefacts et d'isomorphes. La sensibilité du détecteur est augmentée à la taille de tout le territoire. La présence d'artefacts est indiquée par des étiquettes sur la carte de la région. En plus de leurs emplacements, le détecteur reconnaît les types d'artefacts, ce qui fait de ce dispositif le meilleur de toutes les séries de détecteurs. Également capable d'identifier les objets contenant des particules d'énergie étrangère. Activé lorsqu'il est placé à la ceinture. </fra>
 		<pln>===Modernizowany detektor artefaktów i izomorfów. Zasięg detektora zwiększony do rozmiarów całej lokacji. Obecność artefaktów oznaczana jest symbolami na mapie okolicy. Oprócz miejsca położenia, detektor rozpoznaje również typy artefaktów, co sprawia, że jest to najlepszy przyrząd pośród całej serii detektorów. Jest też zdolny określać przedmioty, zawierające cząstki energii obcego pochodzenia. Aktywuje się po umieszczeniu go na pasie.</pln>
 	</string>
@@ -552,7 +552,7 @@
 	<string id="det_art_indy_info">
 		<rus>Простой детектор артефактов. Прибор способен в радиусе 50 метров оповестить владельца о наличии артефактов звуковым сигналом. Местонахождение артефакта на карте отображать не может. Для работы необходимо активировать, разместив прибор в соответствующем слоте.</rus>
 		<eng>===A simple artefact detector. The device is able to notify the owner with an audible signal, when it detects the presence of artefacts within a range of 50 metres. The location of the artefact cannot be displayed on the map. It's activated only when placed on the belt.</eng>
-		<ukr>===Простий детектор артефактів. Прилад здатний в радіусі 50 метрів сповістити власника про наявність артефактів звуковим сигналом. Місцезнаходження артефакту на мапі відображати не може. Активується при розташуванні на поясі.</ukr>
+		<ukr>Простий детектор артефактів. Прилад здатний в радіусі 50 метрів сповістити власника про наявність артефактів звуковим сигналом. Місцезнаходження артефакта на мапі відображати не може. Для роботи необхідно активувати, розмістивши прилад у відповідному слоті.</ukr>
 		<fra>===Détecteur d'artefacts simple. L'appareil est capable d'informer le propriétaire de la présence d'artefacts avec un signal sonore dans un rayon de 50 mètres. L'emplacement de l'artefact sur la carte ne peut pas s'afficher. Activé lorsqu'il est placé à la ceinture.</fra>
 		<pln>===Prosty detektor artefaktów. Przyrząd informuje właściciela sygnałem dźwiękowym o obecnośći artefaktu w promieniu 50 metrów. Nie posiada możliwości wskazywania na mapie położenia artefaktu. Uaktywnia się po założeniu go na pasie.</pln>
 	</string>
@@ -700,8 +700,6 @@
 		<rus>CD-RW</rus>
 		<eng>CD-RW</eng>
 		<ukr>CD-RW</ukr>
-		<fra>CD-RW</fra>
-		<pln>CD-RW</pln>
 	</string>
 	<string id="item_cd_rw">
 		<rus>Обычная перезаписываемая болванка, CD-RW, с записями каких-то фильмов.</rus>
@@ -2332,7 +2330,7 @@
 	<string id="item_soap">
 		<rus>Особенное, сваренное по старинному рецепту банное мыло.</rus>
 		<eng>===Ordinary bath soap. In the good old days, people considered this enough for personal hygiene. There was no real variety for this product, but the soap was naturally made, even though it didn't have any real scent. However, so many years have passed since this was considered the norm for personal cleanness: fragrances, conditioners and moisturizers have changed people's perceptions of what is considered 'clean'. This soap still looks brand new...</eng>
-		<ukr>===Звичайне якісне совдепівське банне мило, якого в старі добрі часи було достатньо. Правда особливого розмаїття видів даного продукту не було, зате мило було натуральним, хоч і пахло не дуже... Але, принаймні, всяким сучасним закордонним благоухающим Дуру, Палмолівам і т.д. до нього далеко. Стільки років пройшло, а воно виглядає як нове...</ukr>
+		<ukr>Особливе, зварене за старовинним рецептом банне мило.</ukr>
 		<fra>===Savon de bain ordinaire. Dans le bon vieux temps, les gens considéraient cela comme suffisant pour l'hygiène personnelle. Il n’existait pas de véritable variété pour ce produit, mais le savon était naturellement fabriqué, même s’il n’avait aucun parfum réel. Cependant, de nombreuses années se sont écoulées depuis que cela était considéré comme la norme en matière de propreté personnelle: les parfums, les revitalisants et les hydratants ont changé la perception des gens sur ce qui est considéré comme "propre". Ce savon a l'air tout neuf...</fra>
 		<pln>===Zwykłe mydło kąpielowe, jakiego w dawnych czasach było pod dostatkiem. Wprawdzie nie było zbyt dużego wyboru, za to mydło było naturalne, chociaż nie pachniało zbyt ładnie... Co by nie mówić, wszystkim dzisiejszym zagranicznym luksusom jak Duru, Palmolive itp. do niego daleko. Tyle lat minęło, a wygląda jak nowe...</pln>
 	</string>
