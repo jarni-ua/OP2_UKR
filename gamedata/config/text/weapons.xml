@@ -115,7 +115,6 @@
 		<rus>.45 ACP</rus>
 		<eng>.45 ACP</eng>
 		<ukr>.45 ACP</ukr>
-		<pln>.45 ACP</pln>
 	</string>
 	<!-- 11.43x23-hydro -->
 	<string id="ammo-11.43x23-hydro">
@@ -128,7 +127,6 @@
 		<rus>.45 ACP HS</rus>
 		<eng>.45 ACP HS</eng>
 		<ukr>.45 ACP HS</ukr>
-		<pln>.45 ACP HS</pln>
 	</string>
 	<!-- 12x76-buck -->
 	<string id="ammo-12x70-buck">
@@ -193,7 +191,6 @@
 		<rus>5.45x39</rus>
 		<eng>5.45x39</eng>
 		<ukr>5.45x39</ukr>
-		<pln>5.45x39</pln>
 	</string>
 	<!-- 5.45x39-ap -->
 	<string id="ammo-5.45x39-ap">
@@ -232,7 +229,6 @@
 		<rus>5.56x45 SS190</rus>
 		<eng>5.56x45 SS190</eng>
 		<ukr>5.56x45 SS190</ukr>
-		<pln>5.56x45 SS190</pln>
 	</string>
 	<!-- 5.56x45-ap -->
 	<string id="ammo-5.56x45-ap">
@@ -245,7 +241,6 @@
 		<rus>5.56x45 AP</rus>
 		<eng>5.56x45 AP</eng>
 		<ukr>5.56x45 AP</ukr>
-		<pln>5.56x45 AP</pln>
 	</string>
 	<!-- 5.7x28-ss190 -->
 	<string id="ammo-5.7x28-ss190">
@@ -258,7 +253,6 @@
 		<rus>5.7x28 SS190</rus>
 		<eng>5.7x28 SS190</eng>
 		<ukr>5.7x28 SS190</ukr>
-		<pln>5.7x28 SS190</pln>
 	</string>
 	<!-- 5.7x28-ap -->
 	<string id="ammo-5.7x28-ap">
@@ -271,7 +265,6 @@
 		<rus>5.7x28 AP</rus>
 		<eng>5.7x28 AP</eng>
 		<ukr>5.7x28 AP</ukr>
-		<pln>5.7x28 AP</pln>
 	</string>
 	<!-- 7.62x54r -->
 	<string id="ammo-7.62x54r">
@@ -284,7 +277,6 @@
 		<rus>7.62x54R</rus>
 		<eng>7.62x54R</eng>
 		<ukr>7.62x54R</ukr>
-		<pln>7.62x54R</pln>
 	</string>
 	<!-- 7.62x54-7h1 -->
 	<string id="ammo-7.62x54-7h1">
@@ -297,7 +289,6 @@
 		<rus>7.62 7H1</rus>
 		<eng>7.62 7N1</eng>
 		<ukr>7.62 7H1</ukr>
-		<pln>7.62 7H1</pln>
 	</string>
 	<!-- 7.62x54-7h14 -->
 	<string id="ammo-7.62x54-7h14">
@@ -349,7 +340,6 @@
 		<rus>9x18</rus>
 		<eng>9x18</eng>
 		<ukr>9x18</ukr>
-		<pln>9x18</pln>
 	</string>
 	<!-- 9x18-pmm -->
 	<string id="ammo-9x18-pmm">
@@ -375,7 +365,6 @@
 		<rus>9x19 FMJ</rus>
 		<eng>9x19 FMJ</eng>
 		<ukr>9x19 FMJ</ukr>
-		<pln>9x19 FMJ</pln>
 	</string>
 	<!-- 9x19-pbp -->
 	<string id="ammo-9x19-pbp">
@@ -388,7 +377,6 @@
 		<rus>9x19 +P+</rus>
 		<eng>9x19 +P+</eng>
 		<ukr>9x19 +P+</ukr>
-		<pln>9x19 +P+</pln>
 	</string>
 	<!-- 9x39-pab9 -->
 	<string id="ammo-9x39-pab9">
@@ -505,7 +493,6 @@
 		<rus>M209</rus>
 		<eng>M209</eng>
 		<ukr>M209</ukr>
-		<pln>M209</pln>
 	</string>
 	<!-- 16 cal-buck -->
 	<string id="ammo-16cal-buck">
@@ -557,7 +544,6 @@
 		<rus>.44 JSP</rus>
 		<eng>.44 JSP</eng>
 		<ukr>.44 JSP</ukr>
-		<pln>.44 JSP</pln>
 	</string>
 	<!-- 44 Magnum JHP -->
 	<string id="ammo-44mag-ap">
@@ -570,7 +556,6 @@
 		<rus>.44 JHP</rus>
 		<eng>.44 JHP</eng>
 		<ukr>.44 JHP</ukr>
-		<pln>.44 JHP</pln>
 	</string>
 	<!-- 50 AE JHP -->
 	<string id="ammo-50ae-jhp">
@@ -583,7 +568,6 @@
 		<rus>.50 AE JHP</rus>
 		<eng>.50 AE JHP</eng>
 		<ukr>.50 AE JHP</ukr>
-		<pln>.50 AE JHP</pln>
 	</string>
 	<!-- 50 AE THV -->
 	<string id="ammo-50ae-thv">
@@ -596,7 +580,6 @@
 		<rus>.50 AE THV</rus>
 		<eng>.50 AE THV</eng>
 		<ukr>.50 AE THV</ukr>
-		<pln>.50 AE THV</pln>
 	</string>
 	<!-- 7.62x25 P -->
 	<string id="ammo-7.62x25-p">
@@ -1085,7 +1068,6 @@
 		<rus>Beretta 92FS</rus>
 		<eng>Beretta 92FS</eng>
 		<ukr>Beretta 92FS</ukr>
-		<pln>Beretta 92FS</pln>
 	</string>
 	<string id="wpn-bm16">
 		<rus>Обрез БМ-16</rus>
@@ -1097,19 +1079,16 @@
 		<rus>Colt M1911</rus>
 		<eng>Colt M1911</eng>
 		<ukr>Colt M1911</ukr>
-		<pln>Colt M1911</pln>
 	</string>
 	<string id="wpn-colt_m1">
 		<rus>FN FNX-40 «Tactical»</rus>
 		<eng>FN FNX-40 «Tactical»</eng>
 		<ukr>FN FNX-40 «Tactical»</ukr>
-		<pln>FN FNX-40 «Tactical»</pln>
 	</string>
 	<string id="wp_desert_eagle">
 		<rus>Desert Eagle (Mark VII)</rus>
 		<eng>Desert Eagle (Mark VII)</eng>
 		<ukr>Desert Eagle (Mark VII)</ukr>
-		<pln>Desert Eagle (Mark VII)</pln>
 	</string>
 	<string id="wpn-eagle_m1">
 		<rus>Большой Бэн</rus>
@@ -1121,7 +1100,6 @@
 		<rus>FN F2000</rus>
 		<eng>FN F2000</eng>
 		<ukr>FN F2000</ukr>
-		<pln>FN F2000</pln>
 	</string>
 	<string id="wpn-fn2000_old">
 		<rus>FN F2000 «Old»</rus>
@@ -1145,13 +1123,11 @@
 		<rus>HK G36</rus>
 		<eng>HK G36</eng>
 		<ukr>HK G36</ukr>
-		<pln>HK G36</pln>
 	</string>
 	<string id="wpn-g36e">
 		<rus>HK G36E</rus>
 		<eng>HK G36E</eng>
 		<ukr>HK G36E</ukr>
-		<pln>HK G36E</pln>
 	</string>
 	<string id="wpn-gauss">
 		<rus>ВГИ «Gauss» M72-GR</rus>
@@ -1181,13 +1157,11 @@
 		<rus>FN Browning HP-SA</rus>
 		<eng>FN Browning HP-SA</eng>
 		<ukr>FN Browning HP-SA</ukr>
-		<pln>FN Browning HP-SA</pln>
 	</string>
 	<string id="wpn-l85">
 		<rus>Enfield L85A2</rus>
 		<eng>Enfield L85A2</eng>
 		<ukr>Enfield L85A2</ukr>
-		<pln>Enfield L85A2</pln>
 	</string>
 	<string id="wpn-l85_m1">
 		<rus>Enfield L85A2 «Баланс»</rus>
@@ -1205,7 +1179,6 @@
 		<rus>LR-300ML</rus>
 		<eng>LR-300ML</eng>
 		<ukr>LR-300ML</ukr>
-		<pln>LR-300ML</pln>
 	</string>
 	<string id="wpn-lr300_m1">
 		<rus>LR-300ML «Снайперская»</rus>
@@ -1217,7 +1190,6 @@
 		<rus>HK MP5A4</rus>
 		<eng>HK MP5A4</eng>
 		<ukr>HK MP5A4</ukr>
-		<pln>HK MP5A4</pln>
 	</string>
 	<string id="wpn-mp5_m1">
 		<rus>HK MP5А3 «9x18»</rus>
@@ -1229,7 +1201,6 @@
 		<rus>HK MP5SD</rus>
 		<eng>HK MP5SD</eng>
 		<ukr>HK MP5SD</ukr>
-		<pln>HK MP5SD</pln>
 	</string>
 	<string id="wpn-mp5_m4">
 		<rus>HK MP5А3 «.357 Magnum»</rus>
@@ -1277,13 +1248,11 @@
 		<rus>SIG Sauer P220</rus>
 		<eng>SIG Sauer P220</eng>
 		<ukr>SIG Sauer P220</ukr>
-		<pln>SIG Sauer P220</pln>
 	</string>
 	<string id="wpn-sig550">
 		<rus>SIG SG-550</rus>
 		<eng>SIG SG-550</eng>
 		<ukr>SIG SG-550</ukr>
-		<pln>SIG SG-550</pln>
 	</string>
 	<string id="wpn-sig_m1">
 		<rus>SIG SG-552 «Commando»</rus>
@@ -1301,7 +1270,6 @@
 		<rus>Franchi SPAS-12</rus>
 		<eng>Franchi SPAS-12</eng>
 		<ukr>Franchi SPAS-12</ukr>
-		<pln>Franchi SPAS-12</pln>
 	</string>
 	<string id="wpn-spas12_m1">
 		<rus>Franchi SPAS-12 «Hunter»</rus>
@@ -1355,7 +1323,6 @@
 		<rus>HK USP P8</rus>
 		<eng>HK USP P8</eng>
 		<ukr>HK USP P8</ukr>
-		<pln>HK USP P8</pln>
 	</string>
 	<string id="wpn-val">
 		<rus>АС «Вал»</rus>
@@ -1385,7 +1352,6 @@
 		<rus>Walther P99</rus>
 		<eng>Walther P99</eng>
 		<ukr>Walther P99</ukr>
-		<pln>Walther P99</pln>
 	</string>
 	<string id="wpn-walther_m1">
 		<rus>Walther «9x18»</rus>
@@ -1397,7 +1363,6 @@
 		<rus>Winchester 1300</rus>
 		<eng>Winchester 1300</eng>
 		<ukr>Winchester 1300</ukr>
-		<pln>Winchester 1300</pln>
 	</string>
 	<string id="wpn-winchester_m1">
 		<rus>Winchester 1300 «Chaser»</rus>
@@ -1911,7 +1876,6 @@
 		<rus>7.62x39</rus>
 		<eng>7.62x39</eng>
 		<ukr>7.62x39</ukr>
-		<pln>7.62x39</pln>
 	</string>
 	<!-- 7.62x39_ap -->
 	<string id="ammo-7.62x39-ap">
@@ -1937,7 +1901,6 @@
 		<rus>Super-Gauss</rus>
 		<eng>Super-Gauss</eng>
 		<ukr>Super-Gauss</ukr>
-		<pln>Super-Gauss</pln>
 	</string>
 	<!-- для бинокля -->
 	<string id="бинокль">
@@ -1982,7 +1945,6 @@
 		<rus>FN P90</rus>
 		<eng>FN P90</eng>
 		<ukr>FN P90</ukr>
-		<pln>FN P90</pln>
 	</string>
 	<string id="wpn-pkm">
 		<rus>ПКМ (6П6)</rus>
@@ -2044,7 +2006,6 @@
 		<rus>HK MP7A1</rus>
 		<eng>HK MP7A1</eng>
 		<ukr>HK MP7A1</ukr>
-		<pln>HK MP7A1</pln>
 	</string>
 	<string id="wpn-bizon">
 		<rus>ПП-19 «Бизон»</rus>
@@ -2074,13 +2035,11 @@
 		<rus>Kriss Super V</rus>
 		<eng>Kriss Super V</eng>
 		<ukr>Kriss Super V</ukr>
-		<pln>Kriss Super V</pln>
 	</string>
 	<string id="kriss_m1">
 		<rus>Kriss Super .40 S&amp;W</rus>
 		<eng>Kriss Super .40 S&amp;W</eng>
 		<ukr>Kriss Super .40 S&amp;W</ukr>
-		<pln>Kriss Super .40 S&amp;W</pln>
 	</string>
 	<string id="wpn_9mm_silencer">
 		<rus>Глушитель 9мм (НАТО)</rus>
@@ -2166,7 +2125,6 @@
 		<rus>Beretta 96FS</rus>
 		<eng>Beretta 96FS</eng>
 		<ukr>Beretta 96FS</ukr>
-		<pln>Beretta 96FS</pln>
 	</string>
 	<string id="wpn-g36_m1">
 		<rus>HK G36 «Кристалл»</rus>
@@ -2401,7 +2359,6 @@
 		<rus>12.7x108</rus>
 		<eng>12.7x108</eng>
 		<ukr>12.7x108</ukr>
-		<pln>12.7x108</pln>
 	</string>
 	<string id="enc_weapons1_ammo_12.7x108_desc">
 		<rus>Крупнокалиберный патрон 12.7x108мм с пулей БС обр. 1972г. Пуля с металлокерамическим сердечником обеспечивает поражение целей за бронеукрытиями толщиной до 15 мм. Для снайперского оружия этот патрон выпускается с высокой точностью изготовления, что обеспечивает наилучшую кучность.\n Применяется в снайперских винтовках Barrett М95, В-94 «Волга», КСВК.</rus>
@@ -2419,7 +2376,6 @@
 		<rus>FMJ (x3)</rus>
 		<eng>FMJ (x3)</eng>
 		<ukr>FMJ (x3)</ukr>
-		<pln>FMJ (x3)</pln>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-minigun">
 		<rus>Ленточный короб на 150 патронов калибра 5.56x45 для М134. Дешёвые патроны не предназначены для целевой стрельбы, кроме того способствуют быстрому износу.\n  Одному патрону в данной модели соответствуют 3 фактически.</rus>
@@ -2449,7 +2405,6 @@
 		<rus>Maschinengewehr 42</rus>
 		<eng>Maschinengewehr 42</eng>
 		<ukr>Maschinengewehr 42</ukr>
-		<pln>Maschinengewehr 42</pln>
 	</string>
 	<string id="enc_weapons1_wpn-mg42">
 		<rus>Maschinengewehr 42 - немецкий единый пулемёт времён Второй Мировой войны. Разработан фирмой «Metall und Lackierwarenfabrik Johannes Grossfuss AG» в 1942 году. Представляет собой дальнейшее развитие пулемёта MG-34. Ящик с такими трофейными пулемётами и несколько ящиков с патронами к ним был обнаружен в одной из пещер, на Неразведанной Земле. Боеприпасами в Зоне торгует Отшельник.</rus>
@@ -2479,7 +2434,6 @@
 		<rus>IMI UZI</rus>
 		<eng>IMI UZI</eng>
 		<ukr>IMI UZI</ukr>
-		<pln>IMI UZI</pln>
 	</string>
 	<string id="uzi_desc">
 		<rus>Пистолет-пулемёт Uzi («Узи») был создан в Израиле лейтенантом армии Узиэлем Галом в 1949 году. Впервые «Узи» проявил себя в действии во время Суэцкого кризиса 1956 года. Именно там он впервые обрёл всемирную славу. Производился пистолет-пулемёт Uzi израильским оружейным предприятием IMI (сейчас - IWI Ltd). В настоящее время выпуск Uzi в Израиле прекращён, выпускаются только его уменьшенные варианты Mini- и Micro-Uzi. Пистолет-пулемёт «Узи» состоял или состоит на вооружении в более чем 90 странах мира, включая Израиль, Германию, Бельгию. Варианты Mini- и Micro-Uzi весьма популярны среди сил спецопераций и охранных служб мира. По лицензии Uzi производился в Бельгии компанией FN Herstal.</rus>
@@ -2857,7 +2811,6 @@
 		<rus>Benelli M4 SUPER 90</rus>
 		<eng>Benelli M4 SUPER 90</eng>
 		<ukr>Benelli M4 SUPER 90</ukr>
-		<pln>Benelli M4 SUPER 90</pln>
 	</string>
 	<string id="enc_weapons_wpn-m4super90">
 		<rus>Дробовик Benelli M4 Super 90 разработан и создан в Италии фирмой Benelli Armi Spa., и импортируется в США (в том числе, и для нужд Вооружённых Сил) компанией «Heckler &amp; Koch» USA,inc. Ружьё создано для применения в самых неблагоприятных условиях и отличается высокой надёжностью. Все детали снабжены антикоррозийным покрытием.</rus>
@@ -2893,7 +2846,6 @@
 		<rus>Colt M4 CQBR</rus>
 		<eng>Colt M4 CQBR</eng>
 		<ukr>Colt M4 CQBR</ukr>
-		<pln>Colt M4 CQBR</pln>
 	</string>
 	<string id="enc_weapons_wpn-m4">
 		<rus>Карабин М4 отличается от винтовки М16А2 только укороченным стволом с соответственно укороченным цевьём, и телескопическим выдвижным прикладом, имеющим 4 фиксированных положения. Данная модель оснащена ресивером CQBR (Close Quarters Battle Receiver - ресивер для ближнего боя) с использованием комплектующих различных фирм по программе «SOPMOD» (Special Operations Peculiar MODification - особая модификация для специальных операций).</rus>
@@ -2911,36 +2863,35 @@
 		<rus>Taurus Raging Bull</rus>
 		<eng>Taurus Raging Bull</eng>
 		<ukr>Taurus Raging Bull</ukr>
-		<pln>Taurus Raging Bull</pln>
 	</string>
 	<string id="enc_detonator-1">
 		<rus>Пульт дистанционного управления, предназначенный для подрыва взрывчатки С-4, а также взрывпакетов различных марок и видов. Радиус действия приблизительно 150 метров.</rus>
 		<eng>===Explosives detonator. Russified by some hackers. Allows to blast explosives of various brands and species within a radius of 50 meters. Trial version, made in the form of a regular flash drive, a bit laggy and glitchy.</eng>
-		<ukr>===Детонатор для вибухівки. Українізований якимись хакерами. Дозволяє підривати вибухові пакети різних марок і видів в радіусі 50 метрів. Пробна версія, виконана у вигляді звичайної флешки, пригальмовує і підглючує.</ukr>
+		<ukr>Пульт дистанційного керування, призначений для підриву вибухівки С-4, а також вибухових пакетів різних марок і видів. Радіус дії приблизно 150 метрів.</ukr>
 		<pln>===Detonator materiału wybuchowego. Zrusyfikowany przez jakichś hakerów. Pozwala detonować ładunki różnych marek i rodzajów w promieniu 50 metrów. Próbna wersja, wykonana w formie zwykłej fleszki, opóźnia się i nie zawsze działa.</pln>
 	</string>
 	<string id="enc_detonator-2">
 		<rus>Пульт дистанционного управления, предназначенный для подрыва взрывчатки С-4, а также взрывпакетов различных марок и видов. Радиус действия приблизительно 150 метров.</rus>
 		<eng>===Improved electronic explosives detonator. Allows the explosion of various brands and species of explosives within a radius of 100 meters. Qualitative russification. Increased speed and reliability.</eng>
-		<ukr>===Покращений електронний детонатор для вибухівки. Дозволяє підривати вибухові пакети різних марок і видів в радіусі 100 метрів. Якісна українізація. Збільшена швидкість роботи і надійність.</ukr>
+		<ukr>Пульт дистанційного керування, призначений для підриву вибухівки С-4, а також вибухових пакетів різних марок і видів. Радіус дії приблизно 150 метрів.</ukr>
 		<pln>===Ulepszony elektroniczny detonator materiału wybuchowego. Pozwala zdetonować ładunki różnych marek i rodzajów w promieniu 100 metrów. Zwiększona prędkość działania i niezawodność.</pln>
 	</string>
 	<string id="enc_bomba-small">
 		<rus>Для взрыва необходим пульт дистанционного управления. Возможно продать и активировать. При детонации враг быстро отправляется на тот свет. %c[255,255,1,1]Внимание! Использовать аккуратно! Пластид может не взорваться на открытом воздухе, но легко может взорваться у Вас в рюкзаке!</rus>
 		<eng>===A detonator is necessary for the explosion. It is possible to sell and activate. When detonated, the enemy quickly goes to the grave. %c[255,255,1,1]Warning! Use neatly! The plastid may not explode in the open air, but it can easily explode in your backpack!</eng>
-		<ukr>===Для вибуху необхідний детонатор. Можливо продати і активувати. При детонації ворог швидко відправляється на той світ. %c[255,255,1,1]Увага! Використовувати акуратно! Пластид може не вибухнути на відкритому повітрі, але легко може вибухнути у Вас в рюкзаку!</ukr>
+		<ukr>Для вибуху необхідний пульт дистанційного керування. Можливо продати і активувати. При детонації ворог швидко відправляється на той світ. %c[255,255,1,1]Увага! Використовувати акуратно! Пластид може не вибухнути на відкритому повітрі, але легко може вибухнути у Вас в рюкзаку!</ukr>
 		<pln>===Do detonacji konieczny jest detonator. Można sprzedać i aktywować. Po wybuchu wróg szybko odchodzi na tamten świat. %c[255,255,1,1]Uwaga! Postępować ostrożnie! Plastyd może nie wybuchnąć na otwartym powietrzu, ale łatwo może eksplodować w twoim plecaku!</pln>
 	</string>
 	<string id="enc_bomba-trotil">
 		<rus>Малая тротиловая шашка. Для взрыва необходим пульт дистанционного управления или усиленная пальба. Лучшее оружие сапёра, киллера или террориста. Уничтожит все в радиусе двух метров и ничего дальше.</rus>
 		<eng>===Small TNT block. The explosion requires a detonator or gunshot. The best weapon of a sapper, killer or terrorist. Destroy everything within a radius of two meters and nothing further.</eng>
-		<ukr>===Мала тротилова шашка. Для вибуху необхідний детонатор або посилена стрільба. Краща зброя сапера, кілера або терориста. Знищить все в радіусі двох метрів і нічого далі.</ukr>
+		<ukr>Мала тротилова шашка. Для вибуху необхідний  пульт дистанційного керування або посилена стрільба. Краща зброя сапера, кілера або терориста. Знищить все в радіусі двох метрів і нічого далі.</ukr>
 		<pln>===Kostka trotylu. Do wybuchu konieczny jest detonator lub celny ostrzał. Najlepsza broń sapera, zabójcy lub terrorysty. Zniszczy wszystko w promieniu dwóch metrów i nic więcej.</pln>
 	</string>
 	<string id="enc_bomba-samodel">
 		<rus>Самодельная бомба средней мощности. Активируется с помощью пульта дистанционного управления или простым выстрелом. Содержит неизвестное количество С-4.</rus>
 		<eng>===A homemade bomb of medium power. Activated by a detonator or a simple gunshot. Contains an unknown number of C-4.</eng>
-		<ukr>===Саморобна бомба середньої потужності. Активується детонатором або простим пострілом. Містить невідому кількість С-4.</ukr>
+		<ukr>Саморобна бомба середньої потужності. Активується за допомогою пульта дистанційного керування або простим пострілом. Містить невідому кількість С-4.</ukr>
 		<pln>===Własnej roboty bomba o średniej mocy. Aktywowana detonatorem albo po prostu celnym strzałem. Zawiera nieznaną ilość C-4.</pln>
 	</string>
 	<string id="enc_mina-n">
@@ -2983,7 +2934,6 @@
 		<rus>HK MP5/40 (.40 S&amp;W)</rus>
 		<eng>HK MP5/40 (.40 S&amp;W)</eng>
 		<ukr>HK MP5/40 (.40 S&amp;W)</ukr>
-		<pln>HK MP5/40 (.40 S&amp;W)</pln>
 	</string>
 	<string id="enc_weapons1_wpn-mp5sd">
 		<rus>MP5/40 - вариант под патрон .40 S&amp;W, выпускался специально для правоохранительных органов США (в том числе ФБР) с 1992 по 2000 гг. Этот вариант легко отличим от 9-мм моделей, благодаря прямым коробчатым магазинам, сделанным из пластика (9-мм модели имеют стальные магазины).\n Небольшая партия таких МП-5 была закуплена Боровым для вооружения своих телохранителей, из-за этого к данным ПП приклеилось название "Гадюка Борова".</rus>
@@ -2995,7 +2945,6 @@
 		<rus>Scorpion Vz.82</rus>
 		<eng>Scorpion Vz.82</eng>
 		<ukr>Scorpion Vz.82</ukr>
-		<pln>Scorpion Vz.82</pln>
 	</string>
 	<string id="enc_weapons_wpn-scorpion">
 		<rus>Разработка нового пистолета-пулемёта для чехословацкой армии, призванного стать оружием самообороны для военнослужащих, была начата в конце пятидесятых годов. В 1959 году появились первые прототипы нового оружия, а в 1961 году пистолет-пулемёт Scorpion Vz.61 был принят на вооружение чехословацкой армии (отсюда обозначение Vz.61 - Vzor 61, то есть образец 1961 года). В 1982 году, в связи с перевооружением Чехословацкой армии на пистолеты калибра 9x18, Скорпион был переконструирован под новый, более мощный патрон и получил название Scorpion Vz.82. Scorpion поставлялся на экспорт в Египет, Ливию, Анголу и ещё ряд стран, а также был использован рядом террористических групп при проведении некоторых громких терактов в 1970-80-х годах.</rus>
@@ -3007,7 +2956,6 @@
 		<rus>HK MG-4</rus>
 		<eng>HK MG-4</eng>
 		<ukr>HK MG-4</ukr>
-		<pln>HK MG-4</pln>
 	</string>
 	<string id="enc_weapons1_wpn-mp5k">
 		<rus>HK MG-4 - ручной пулемёт, производимый компанией «Heckler &amp; Koch GmbH». Разрабатывался со второй половины 1990-х годов. Первый его прототип увидел свет в 2001 году. Новый пулемёт стал прямым конкурентом такому популярному образцу, как бельгийский FN Minimi/M249 SAW, и предназначен на ту же роль - лёгкого и мобильного оружия огневой поддержки уровня пехотного отделения.\n Пулемёт HK MG-4 может вести только автоматический огонь, двусторонний предохранитель расположен над пистолетной рукояткой. Стрельба ведётся с открытого затвора. Рукоятка заряжания расположена справа. Пулемёт имеет складной влево пластиковый приклад, пластиковое лёгкое цевье. Пулемёт сконструирован по схеме штурмовой винтовки G36 и потому отличается высокой точностью, достаточной надёжностью, удобством и сравнительно небольшой отдачей.</rus>
@@ -3397,7 +3345,6 @@
 		<rus>FN Five-seveN USG</rus>
 		<eng>FN Five-seveN USG</eng>
 		<ukr>FN Five-seveN USG</ukr>
-		<pln>FN Five-seveN USG</pln>
 	</string>
 	<string id="enc_arsenal_fn57_m1">
 		<rus>Вариант бельгийского пистолета Five-seveN с увеличенной обоймой на 30 патронов.\n В 1996 году фирма FN представила свой новый пистолет под патрон 5,7х28 FN. Название пистолета - «Файв-Севен» означает его калибр. Малокалиберный патрон 5,7х28 был разработан бельгийской Fabrique Nationale для их пистолета-пулемёта FN P90, созданного в качестве персонального оружия самозащиты военнослужащих, не задействованных в выполнении боевых задач. Водителям, связистам, операторам РЛС, артиллерийским расчётам, экипажам боевых машин, необходимо простое, лёгкое, компактное и не обременяющее оружие, которым они бы могли воспользоваться в случае внезапного боестолкновения с противником.</rus>
