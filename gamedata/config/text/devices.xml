@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <string_table>
-
 #include "text\string_table_ogg_player_ui.xml"
 
 	<string id="sigaret">
-		<rus>Сигареты</rus>
-		<eng>Cigarettes</eng>
-		<ukr>Цигарки</ukr>
-		<fra>Cigarettes</fra>
-		<pln>Papierosy</pln>
-	</string>
-	<string id="sigaret_s">
-		<rus>Сигареты</rus>
-		<eng>Cigarettes</eng>
-		<ukr>Цигарки</ukr>
-		<fra>Cigarettes</fra>
-		<pln>Papierosy</pln>
+		<rus>Сигареты Lucky Strike</rus>
+		<eng>Cigarettes Lucky Strike</eng>
+		<ukr>Цигарки Lucky Strike</ukr>
+		<fra>Cigarettes Lucky Strike</fra>
+		<pln>Papierosy Lucky Strike</pln>
 	</string>
 	<string id="enc_sigaret">
 		<rus>Хорошие, в свою бытность, сигареты Lucky Strike компании American Tobacco Company, попавшие в Зону с помощью адаптации подозрительных личностей из Народной Солянки. Встречаются, в основном, у новичков, недавно попавших внутрь Периметра. У бывалых сталкеров авторитетом не пользуются, так как заматерев, они довольно быстро отучились от этой привычки, чтобы быстро бегать от кровососов, кабанов и прочей мутировавшей живности. Но всё же выкуренная сигарета, хоть и немного, но восстанавливает пси-здоровье.</rus>
@@ -23,6 +15,20 @@
 		<ukr>Хороші, у свій час, сигарети Lucky Strike компанії American Tobacco Company, які потрапили в Зону за допомогою адаптації підозрілих особистостей з Народної солянки.... Зустрічаються, в основному, у новачків, які нещодавно потрапили всередину периметра. У бувалих сталкерів авторитетом не користуються, так як закрутівши, вони досить швидко відучилися від цієї звички, щоб швидко бігати від кровососів, кабанів та іншої змутованої живності. І все ж випалена цигарка, хоч і зовсім трошки, але відновлює псі-здоров'я.</ukr>
 		<fra>Bien, dans son mandat, les cigarettes Lucky Strike de la société américaine Tobacco sont entrées dans la zone en adaptant des personnalités suspectes de Narodnaya Solyanka. Il y a principalement des nouveaux arrivants qui ont récemment pénétré à l'intérieur du périmètre. Les harceleurs expérimentés ne jouissent pas du prestige, car ils s'accouplent, mais ils se sont rapidement sevrés de cette habitude pour fuir rapidement les sangsues, les sangliers et autres créatures vivantes mutantes. Mais toujours une cigarette fumée, bien qu'un peu, mais rétablit la santé psi.</fra>
 		<pln>Niezłe, same w sobie, papierosy Lucky Strike produkcji American Tobacco Company, trafiły do Zony dzięki adaptacji podejrzanych indywiduuów z Narodowej Soljanki. Spotykane, zasadniczo, u nowicjuszy, świeżo przybyłych z poza perymetru. U doświadczonych stalkerów nie cieszą się uznaniem, ponieważ ci, nabrawszy doświadczenia, dość szybko porzucili ten nałóg, żeby móc szybko uciekać przed pijawkami, dzikami i inną zmutowaną zwierzyną. Ale nadal wypalony papieros, chociaż niewiele, ale odnawia zdrowie psioniczne.</pln>
+	</string>
+	<string id="sigaret_a">
+		<rus>Сигарета</rus>
+		<eng>Cigaret</eng>
+		<ukr>Цигарка</ukr>
+		<fra>Cigaret</fra>
+		<pln>Papieros</pln>
+	</string>
+	<string id="enc_sigaret_a">
+		<rus>Сигарета из пачки Lucky Strike компании American Tobacco Company.</rus>
+		<eng>===American Tobacco Company "Lucky Strike" brand cigarettes.</eng>
+		<ukr>===Хороші, у свій час, сигарети Lucky Strike компанії American Tobacco Company.</ukr>
+		<fra>===Bien, dans son mandat, les cigarettes Lucky Strike de la société américaine Tobacco.</fra>
+		<pln>===Niezłe, same w sobie, papierosy Lucky Strike produkcji American Tobacco Company.</pln>
 	</string>
 	<string id="sigaret_petr">
 		<rus>Сигареты Пётр</rus>
@@ -2174,18 +2180,18 @@
 		<pln>Wzmocniona mina przeciwpiechotna</pln>
 	</string>
 	<string id="detonator">
-		<rus>Детонатор NK-50</rus>
-		<eng>NK-50 Detonator</eng>
-		<ukr>Детонатор NK-50</ukr>
-		<fra>Détonateur NK-50</fra>
-		<pln>Detonator NK-50</pln>
+		<rus>Пульт NK-150</rus>
+		<eng>===NK-50 Detonator</eng>
+		<ukr>===Детонатор NK-50</ukr>
+		<fra>===Détonateur NK-50</fra>
+		<pln>===Detonator NK-50</pln>
 	</string>
-	<string id="detonator_2">
-		<rus>Детонатор NK-100</rus>
-		<eng>NK-100 Detonator</eng>
-		<ukr>Детонатор NK-100</ukr>
-		<fra>Détonateur NK-100</fra>
-		<pln>Detonator NK-100</pln>
+	<string id="detonator_s">
+		<rus>Пульт NK-150</rus>
+		<eng>===NK-100 Detonator</eng>
+		<ukr>===Детонатор NK-100</ukr>
+		<fra>===Détonateur NK-100</fra>
+		<pln>===Detonator NK-100</pln>
 	</string>
 	<string id="volna_barrel_name">
 		<rus>Бочка с топливом</rus>
@@ -2620,11 +2626,11 @@
 		<pln>Komputerowy dysk z informacją.</pln>
 	</string>
 	<string id="equipment_bullion_gild">
-		<rus>Золотой слиток Лукаша. Говорят, что это золото - выплавлено одним из жителей Зоны из деталей оборудования, собранных в различных лабораториях. Имеет гравировку, благодаря которой является одним из культовых предметов для бойцов группировки.</rus>
-		<eng>Lukash's gold ingot. It is said that this gold was melted down by one of the residents of the Zone from spare and scrap parts gathered from various laboratories. It has an engraving, thanks to which it is one of the most cherished objects for members of the Freedom faction.</eng>
-		<ukr>Золотий злиток Лукаша. Кажуть, що це золото - виплавлено одним з жителів Зони з деталей обладнання, зібраних в різних лабораторіях. Має гравіювання, завдяки якому є одним з культових предметів для бійців угруповання.</ukr>
-		<fra>Lingot d'or Lukash. On dit que cet or a été fondu par l'un des habitants de la zone à partir de pièces d'équipement assemblées dans divers laboratoires. Il porte une gravure, ce qui en fait l’un des objets de culte pour les combattants du groupe.</fra>
-		<pln>Złota sztabka Łukasza. Mówią, że to złoto wytopił jeden z mieszkańców Zony z elementów oprzyrządowania, zebranych w różnych laboratoriach. Posiada grawerunek, dzięki któremu stała się jednym z kultowych przedmiotów dla bojowników ugrupowania.</pln>
+		<rus>Говорят, что это золото выплавлено одним из жителей Зоны из деталей оборудования, собранных в различных лабораториях. Имеет гравировку, благодаря которой является одним из культовых предметов для бойцов группировки.</rus>
+		<eng>It is said that this gold was melted down by one of the residents of the Zone from spare and scrap parts gathered from various laboratories. It has an engraving, thanks to which it is one of the most cherished objects for members of the Freedom faction.</eng>
+		<ukr>Кажуть, що це золото - виплавлено одним з жителів Зони з деталей обладнання, зібраних в різних лабораторіях. Має гравіювання, завдяки якому є одним з культових предметів для бійців угруповання.</ukr>
+		<fra>On dit que cet or a été fondu par l'un des habitants de la zone à partir de pièces d'équipement assemblées dans divers laboratoires. Il porte une gravure, ce qui en fait l’un des objets de culte pour les combattants du groupe.</fra>
+		<pln>Mówią, że to złoto wytopił jeden z mieszkańców Zony z elementów oprzyrządowania, zebranych w różnych laboratoriach. Posiada grawerunek, dzięki któremu stała się jednym z kultowych przedmiotów dla bojowników ugrupowania.</pln>
 	</string>
 	<string id="item_zapiska_ranennogo">
 		<rus>Пишу заранее, так как не знаю, что ждёт меня завтра. Пришёл в Зону, как и все, подзаработать, но не знал, что здесь, как и за Периметром, царят грязь и предательство. Прошу того, кто найдёт эту записку, передать моей семье, что я их люблю. Вот номер: 89115683244. Заранее благодарен.</rus>
@@ -2641,7 +2647,7 @@
 		<pln>To PDA zostało specjalnie przystosowane do przeprowadzania modyfikacji niektórych artefaktów. Urządzenie samoczynnie rozpoznaje anomalię i podaje ilość komponentów koniecznych do przeprowadzenia artmodyfikacji. Samoczynnie pobiera informacje o receptach z osobistego PDA stalkera. Wyświetlacz artmodyfikatora włącza się jedynie w bezpośrednim sąsiedztwie  anomalii./nZasada działania/nSystem rozpoznaje anomalię w pobliżu i aktywuje przyciski artefaktów, dla których recepty znajdują się w posiadaniu użytkownika./nPo naciśnięciu przycisku żądanego artefaktu, rozpoczyna się proces transmutacji, o ile wymagane komponenty znajdują się w plecaku lub na pasie.</pln>
 	</string>
 	<string id="item_x_ray_antenna">
-		<rus>Переносная пси-антенна. Несколько таких экземпляров было разработано спецами из О-сознания и используется для защиты важных для них объектов и для экспериментов по действию излучения на живые организмы. На самом деле - антенна в течении длительного времени генерирует не только пси-энергию, а ещё обладает и галлюциногенным эффектом. Но самое главное качество этой разработки - способность к телепортации мутантов. Отключить такую антенну без специальных средств защиты практически невозможно. Специальное защитное поле исключает возможность повредить данное устройство. Радиус действия может достигать 70 метров и настраивается по выбору.</rus>
+		<rus>Переносная пси-антенна. Несколько таких экземпляров было разработано спецами из О-Сознания и используется для защиты важных для них объектов и для экспериментов по действию излучения на живые организмы. На самом деле - антенна в течении длительного времени генерирует не только пси-энергию, а ещё обладает и галлюциногенным эффектом. Но самое главное качество этой разработки - способность к телепортации мутантов. Отключить такую антенну без специальных средств защиты практически невозможно. Специальное защитное поле исключает возможность повредить данное устройство. Радиус действия может достигать 70 метров и настраивается по выбору.</rus>
 		<eng>Portable psi antenna. Several such items were developed by specialists from C-Consciousness project and are used to protect important objects for them; they're also used for experiments on the effects of radiation on living organisms. This antenna generates psi energy that has a profound hallucinogenic effect on humans. This device can also teleport mutants: a useful effect that few non-C-Consciousness personnel know about. Disabling such an antenna without special means of protection is almost impossible. A special protective field eliminates the possibility of damaging this device. The range can be up to 70 meters and can be adjusted to be bigger or smaller.</eng>
 		<ukr>Переносна псі-антена. Кілька таких екземплярів було розроблено спецами з Усвідомлення і використовується для захисту важливих для них об'єктів і для експериментів щодо дії випромінювання на живі організми. Насправді - антена на протязі тривалого часу генерує не тільки псі-енергію, а ще володіє і галюциногенним ефектом. Але найголовніша якість цієї розробки - здатність до телепортації мутантів. Відключити таку антену без спеціальних засобів захисту практично неможливо. Спеціальне захисне поле виключає можливість пошкодити даний пристрій. Радіус дії може досягати 70 метрів і налаштовується за вибором.</ukr>
 		<fra>Antenne psi portable. Plusieurs de ces spécimens ont été développés par des spécialistes de la conscience de l'O; ils sont utilisés pour protéger des objets importants pour eux et pour des expériences sur les effets des radiations sur les organismes vivants. En fait, l’antenne génère pendant longtemps non seulement de l’énergie psi, mais également un effet hallucinogène. Mais la qualité la plus importante de ce développement est la capacité de téléporter des mutants. Désactiver une telle antenne sans moyen de protection spécial est presque impossible. Un champ de protection spécial élimine la possibilité d'endommager cet appareil. La portée peut aller jusqu'à 70 mètres et peut être personnalisée.</fra>
@@ -2892,6 +2898,13 @@
 		<ukr>Спати не можна</ukr>
 		<fra>Impossible de dormir</fra>
 		<pln>Nie można spać</pln>
+	</string>
+	<string id="dream_cant_sleep_here">
+		<rus>Здесь спать опастно!</rus>
+		<eng>Sleeping here is dangerous!</eng>
+		<ukr>Тут спати небезпечно!</ukr>
+		<fra>Dormir ici est dangereux!</fra>
+		<pln>Spanie tutaj jest niebezpieczne!</pln>
 	</string>
 	<string id="dream_doesnt_want_to">
 		<rus>Меченый совсем не прочь поспать</rus>

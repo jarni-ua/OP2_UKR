@@ -477,6 +477,7 @@
 		<fra>Furieux, maître</fra>
 		<pln>Furie, mistrz</pln>
 	</string>
+
 	<!-- Монстры -->
 	<string id="skelet_ded">
 		<rus>Лесник</rus>
@@ -1135,5 +1136,26 @@
 		<ukr>Відьма</ukr>
 		<fra>Sorcière</fra>
 		<pln>Wiedźma</pln>
+	</string>
+	<string id="komar">
+		<rus>Комар</rus>
+		<eng>===Комар</eng>
+		<ukr>===Комар</ukr>
+		<fra>===Комар</fra>
+		<pln>===Комар</pln>
+	</string>
+	<string id="fly">
+		<rus>Большая чумная муха</rus>
+		<eng>Big plague fly</eng>
+		<ukr>===Большая чумная муха</ukr>
+		<fra>===Большая чумная муха</fra>
+		<pln>===Большая чумная муха</pln>
+	</string>
+	<string id="fly_small">
+		<rus>Маленькая чумная муха</rus>
+		<eng>Small plague fly</eng>
+		<ukr>===Маленькая чумная муха</ukr>
+		<fra>===Маленькая чумная муха</fra>
+		<pln>===Маленькая чумная муха</pln>
 	</string>
 </string_table>
