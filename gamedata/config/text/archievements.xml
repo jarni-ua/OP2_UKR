@@ -7,6 +7,34 @@
 		<fra>Réalisations</fra>
 		<pln>Osiągnięcia</pln>
 	</string>
+	<string id="acv_hiko">
+		<rus>Завербованный</rus>
+		<eng>===Завербованный</eng>
+		<ukr>===Завербованный</ukr>
+		<fra>===Завербованный</fra>
+		<pln>===Завербованный</pln>
+	</string>
+	<string id="acv_hiko_desc">
+		<rus>===</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+		<fra>===</fra>
+		<pln>===</pln>
+	</string>
+	<string id="acv_treplo">
+		<rus>Трепло</rus>
+		<eng>===Трепло</eng>
+		<ukr>===Трепло</ukr>
+		<fra>===Трепло</fra>
+		<pln>===Трепло</pln>
+	</string>
+	<string id="acv_treplo_desc">
+		<rus>По Зоне пошёл слушок, что появился сталкер, который берётся выполнить задание, а сам потом забивает на это. Причём делает это с завидной регулярностью. Таких людей называют треплом, так как они только и способны что трепаться, а как до дела доходит, так в кусты. Отныне серьёзные циклические задания - цепочки - для Вас закрыты.</rus>
+		<eng>===Ваша месть не знает границ. Вы поквитались со 100 мстителями, чем не мог похвастаться даже сам Танос!</eng>
+		<ukr>===Ваша помста не знає меж. Ви поквитались зі 100 месниками, чим не міг похвалитися навіть сам Танос!</ukr>
+		<fra>===Ваша месть не знает границ. Вы поквитались со 100 мстителями, чем не мог похвастаться даже сам Танос!</fra>
+		<pln>===Ваша месть не знает границ. Вы поквитались со 100 мстителями, чем не мог похвастаться даже сам Танос!</pln>
+	</string>
 	<string id="acv_avenger">
 		<rus>Отомститель</rus>
 		<eng>Avenger</eng>
@@ -15,11 +43,11 @@
 		<pln>===Отомститель</pln>
 	</string>
 	<string id="acv_avenger_desc">
-		<rus>Ваша месть не знает границ. Вы поквитались со 100 мстителями, чем не мог похвастаться даже сам Танос!</rus>
-		<eng>===Ваша месть не знает границ. Вы поквитались со 100 мстителями, чем не мог похвастаться даже сам Танос!</eng>
-		<ukr>Ваша помста не знає меж. Ви поквитались зі 100 месниками, чим не міг похвалитися навіть сам Танос!</ukr>
-		<fra>===Ваша месть не знает границ. Вы поквитались со 100 мстителями, чем не мог похвастаться даже сам Танос!</fra>
-		<pln>===Ваша месть не знает границ. Вы поквитались со 100 мстителями, чем не мог похвастаться даже сам Танос!</pln>
+		<rus>Ваша месть не знает границ. Вы поквитались со 150 мстителями, чем не мог похвастаться даже сам Танос!</rus>
+		<eng>===Ваша месть не знает границ. Вы поквитались со 150 мстителями, чем не мог похвастаться даже сам Танос!</eng>
+		<ukr>Ваша помста не знає меж. Ви поквитались зі 150 месниками, чим не міг похвалитися навіть сам Танос!</ukr>
+		<fra>===Ваша месть не знает границ. Вы поквитались со 150 мстителями, чем не мог похвастаться даже сам Танос!</fra>
+		<pln>===Ваша месть не знает границ. Вы поквитались со 150 мстителями, чем не мог похвастаться даже сам Танос!</pln>
 	</string>
 	<string id="acv_psydog_phantom">
 		<rus>Убийца фантомов</rus>
@@ -379,11 +407,11 @@
 		<pln>Marsjanin</pln>
 	</string>
 	<string id="acv_mars_desc">
-		<rus>Вы съели 20 батончиков "Mars".</rus>
-		<eng>You've eaten 20 bars of "Mars".</eng>
-		<ukr>Ви з'їли 20 батончиків "Mars".</ukr>
-		<fra>Vous avez mangé 20 barres de Mars.</fra>
-		<pln>Zjadłeś 20 batoników "Mars".</pln>
+		<rus>Вы съели 40 батончиков "Mars". Попа не слипнется от такого количества сладкого?</rus>
+		<eng>===You've eaten 40 bars of "Mars".</eng>
+		<ukr>===Ви з'їли 40 батончиків "Mars".</ukr>
+		<fra>===Vous avez mangé 40 barres de Mars.</fra>
+		<pln>===Zjadłeś 40 batoników "Mars".</pln>
 	</string>
 	<string id="acv_kulinar">
 		<rus>Кулинар</rus>
@@ -617,11 +645,11 @@
 		<pln>Bohater Zony</pln>
 	</string>
 	<string id="acv_rank2_desc">
-		<rus>Ваш ранг превысил 30000. Это очень круто!</rus>
-		<eng>Your rating exceeded 30,000. This is very cool!</eng>
-		<ukr>Ваш ранг перевищив 30000. Це дуже круто!</ukr>
-		<fra>Votre rang a dépassé les 30 000. C'est très cool!</fra>
-		<pln>Twoja ranga przekroczyła 30000. Ostro!</pln>
+		<rus>Ваш ранг превысил 30000! Это очень круто!</rus>
+		<eng>Your rating exceeded 30000! This is very cool!</eng>
+		<ukr>Ваш ранг перевищив 30000! Це дуже круто!</ukr>
+		<fra>Votre rang a dépassé les 30 000! C'est très cool!</fra>
+		<pln>Twoja ranga przekroczyła 30000! Ostro!</pln>
 	</string>
 	<string id="acv_rank3">
 		<rus>Легендарный сталкер</rus>
@@ -631,11 +659,11 @@
 		<pln>Legendarny stalker</pln>
 	</string>
 	<string id="acv_rank3_desc">
-		<rus>Ранг 50000. Этого достичь практически невозможно.</rus>
-		<eng>Your rank is past 50000. This is almost impossible to achieve.</eng>
-		<ukr>Ранг 50000. Цього досягти практично неможливо.</ukr>
-		<fra>Rang 50 000. C'est presque impossible à atteindre.</fra>
-		<pln>Ranga 50000. Osiągnięcie tego jest praktycznie niemożliwe.</pln>
+		<rus>Ранг 50000!!! Этого достичь практически невозможно.</rus>
+		<eng>Your rank is past 50000!!! This is almost impossible to achieve.</eng>
+		<ukr>Ранг 50000!!! Цього досягти практично неможливо.</ukr>
+		<fra>Rang 50 000!!! C'est presque impossible à atteindre.</fra>
+		<pln>Ranga 50000!!! Osiągnięcie tego jest praktycznie niemożliwe.</pln>
 	</string>
 	<string id="acv_emb">
 		<rus>Шеф-повар</rus>
@@ -645,11 +673,11 @@
 		<pln>Szef kuchni</pln>
 	</string>
 	<string id="acv_emb_desc">
-		<rus>Вы наконец-то сварили все эмбрионы, какие только можно сварить в игре. Поэтому Вы стали настоящим шеф-поваром, который умеет готовить даже очень редкие и сложные блюда. Такие, например, как эмбрион вульфа!</rus>
-		<eng>You have finally cooked all the embryos you could possibly have cooked in the game. Therefore, you have become a real chef, who knows how to cook even very rare and complex dishes. Such, for example, as a Wulf embryo!</eng>
-		<ukr>Ви нарешті зварили всі ембріони, які тільки можна зварити у грі. Тому Ви стали справжнім шеф-кухарем, який вміє готувати навіть дуже рідкісні і складні страви. Такі, наприклад, як ембріон вульфа!</ukr>
-		<fra>Vous avez finalement soudé tous les embryons que vous pouvez cuisiner dans le jeu. Vous êtes donc devenu un vrai chef capable de cuisiner même des plats très rares et complexes. Par exemple, un embryon de Wulff!</fra>
-		<pln>W końcu stworzyłeś wszystkie embriony, jakie tylko można było stworzyć w grze. Dlatego stałeś się prawdziwym szefem kuchni, który umie przygotowywać nawet bardzo rzadkie i złożone dania. Takie, na przykład, jak embrion wilka!</pln>
+		<rus>Вы наконец-то сварили все эмбрионы, какие только можно сварить в Зоне. Поэтому Вы стали настоящим шеф-поваром, который умеет готовить даже очень редкие и сложные блюда. Такие, например, как эмбрион вульфа!</rus>
+		<eng>You have finally cooked all the embryos you could possibly have cooked in the Zone. Therefore, you have become a real chef, who knows how to cook even very rare and complex dishes. Such, for example, as a Wulf embryo!</eng>
+		<ukr>===Ви нарешті зварили всі ембріони, які тільки можна зварити у грі. Тому Ви стали справжнім шеф-кухарем, який вміє готувати навіть дуже рідкісні і складні страви. Такі, наприклад, як ембріон вульфа!</ukr>
+		<fra>===Vous avez finalement soudé tous les embryons que vous pouvez cuisiner dans le jeu. Vous êtes donc devenu un vrai chef capable de cuisiner même des plats très rares et complexes. Par exemple, un embryon de Wulff!</fra>
+		<pln>===W końcu stworzyłeś wszystkie embriony, jakie tylko można było stworzyć w grze. Dlatego stałeś się prawdziwym szefem kuchni, który umie przygotowywać nawet bardzo rzadkie i złożone dania. Takie, na przykład, jak embrion wilka!</pln>
 	</string>
 	<string id="acv_coll">
 		<rus>Коллекционер</rus>
@@ -757,10 +785,10 @@
 		<pln>Detektyw</pln>
 	</string>
 	<string id="acv_sishik_desc">
-		<rus>Вы нашли все труднодоступные тайники Кости, Старого Жила, Стрелка и Монолита. Молодец.</rus>
-		<eng>You have found all the hard-to-reach stashes of Kostya, Old-timer, Strelok and the Monolith. Well done.</eng>
-		<ukr>Ви знайшли всі важкодоступні схованки Кості, Старого Жила, Стрільця та Моноліту. Молодець.</ukr>
-		<fra>Vous avez trouvé toutes les caches difficiles à atteindre de Bone, Old Vein, Strelka et Monolith. Bien fait.</fra>
+		<rus>Вы нашли все труднодоступные тайники Кости, Старого Жила, Стрелка и Монолита. Молодец!</rus>
+		<eng>You have found all the hard-to-reach stashes of Kostya, Old-timer, Strelok and the Monolith. Well done!</eng>
+		<ukr>Ви знайшли всі важкодоступні схованки Кості, Старого Жила, Стрільця та Моноліту. Молодець!</ukr>
+		<fra>Vous avez trouvé toutes les caches difficiles à atteindre de Bone, Old Vein, Strelka et Monolith. Bien fait!</fra>
 		<pln>Znalazłeś wszystkie trudnodostępne schowki Kostii, Tubylca, Striełoka i Monolitu.</pln>
 	</string>
 	<string id="acv_money1">
@@ -1205,11 +1233,11 @@
 		<pln>Niepohamowany</pln>
 	</string>
 	<string id="acv_unstoppable_desc">
-		<rus>Сколько я зарезал, сколько перерезал... 20000 душ я загубил... Да, такое количество уничтоженных врагов - это что-то. И правда, неудержимый...</rus>
-		<eng>How many I have slaughtered, how many I have cut... 20,000 souls ruined by my hand... Yes, so many enemies destroyed  - it is really something. Truly, you are unstoppable...</eng>
-		<ukr>Скільки я зарізав, скільки перерізав... 20000 душ я занапастив... Так, така кількість знищених ворогів - це щось. І справді, нестримний...</ukr>
-		<fra>Combien j'ai massacré, combien j'ai coupé... J'ai tué 20 000 âmes... Oui, un tel nombre d'ennemis détruits est quelque chose. En effet, irrépressible...</fra>
-		<pln>Ile zarżnąłem, ile pociąłem... 20000 dusz zgubiłem... Tak, taka ilość zabitych wrogów - to jest coś. I prawda to, że niepohamowany...</pln>
+		<rus>Сколько я зарезал, сколько перерезал... 20000 душ я загубил... Да, такое количество уничтоженных врагов - это что-то. И правда, Неудержимый...</rus>
+		<eng>How many I have slaughtered, how many I have cut... 20,000 souls ruined by my hand... Yes, so many enemies destroyed  - it is really something. Truly, you are Unstoppable...</eng>
+		<ukr>Скільки я зарізав, скільки перерізав... 20000 душ я занапастив... Так, така кількість знищених ворогів - це щось. І справді, Нестримний...</ukr>
+		<fra>Combien j'ai massacré, combien j'ai coupé... J'ai tué 20 000 âmes... Oui, un tel nombre d'ennemis détruits est quelque chose. En effet, Irrépressible...</fra>
+		<pln>Ile zarżnąłem, ile pociąłem... 20000 dusz zgubiłem... Tak, taka ilość zabitych wrogów - to jest coś. I prawda to, że Niepohamowany...</pln>
 	</string>
 	<string id="acv_fist">
 		<rus>Синяк</rus>
@@ -1345,7 +1373,7 @@
 		<pln>Wskrzeszający Zmarłych</pln>
 	</string>
 	<string id="acv_resur_desc">
-		<rus>Вы внимательно следили за всеми квестовиками, чтобы они были живы. Конечно, некоторые из них погибали, но Вы их своевременно воскрешали "Живым Сердцем", и на данный момент, практически самый конец игры, они все живы! Это очень здорово!</rus>
+		<rus>Вы внимательно следили за всеми квестовиками, чтобы они были живы. Конечно, некоторые из них погибали, но Вы их своевременно воскрешали "Живым сердцем", и на данный момент, практически самый конец игры, они все живы! Это очень здорово!</rus>
 		<eng>You have thoroughly cared for all the quest characters to keep them alive. Of course, some of them died, but you resurrected them in time with "Living Heart", and now, at the very end of the game, they are all alive! It's great!</eng>
 		<ukr>Ви уважно стежили за всіма квестовиками, щоб вони були живі. Звичайно, деякі з них гинули, але Ви їх своєчасно воскрешали "Живим Серцем", і на даний момент, практично самий кінець гри, вони всі живі! Це дуже здорово!</ukr>
 		<fra>Vous avez suivi de près toutes les quêtes afin qu'elles soient en vie. Bien sûr, certains d’entre eux sont morts, mais vous les avez ressuscités au bon moment avec le Cœur vivant et, pour le moment, presque à la fin du jeu, ils sont tous en vie! C'est très cool!</fra>
@@ -1457,11 +1485,11 @@
 		<pln>Antykiller</pln>
 	</string>
 	<string id="acv_anki_desc">
-		<rus>Наёмники, которые убивают за деньги, делают обычную работу киллера. Уничтожив сотню этих продажных тварей, вы делаете благородную работу, которая достойна награды.</rus>
-		<eng>Mercenaries who kill for money do the usual job of the killer. Destroying a hundred of these corrupt creatures is a noble work that is worthy of a reward.</eng>
-		<ukr>Найманці, які вбивають за гроші, роблять звичайну роботу кілера. Знищивши сотню цих продажних тварюк, ви робите благородну роботу, яка гідна нагороди.</ukr>
-		<fra>Les mercenaires qui tuent pour de l'argent font le travail habituel d'un tueur. En détruisant des centaines de ces bêtes corrompues, vous faites un travail noble qui mérite d'être récompensé.</fra>
-		<pln>Najemnicy, którzy zabijają za pieniądze, wykonują zwyczajną pracę killera. Zlikwidowawszy setkę tych sprzedajnych kreatur, robisz szlachetną rzecz, która jest godna nagrody.</pln>
+		<rus>Наёмники, которые убивают за деньги, делают обычную работу киллера. Уничтожив 150 этих продажных тварей, вы делаете благородную работу, которая достойна награды.</rus>
+		<eng>Mercenaries who kill for money do the usual job of the killer. Destroying 150 of these corrupt creatures is a noble work that is worthy of a reward.</eng>
+		<ukr>Найманці, які вбивають за гроші, роблять звичайну роботу кілера. Знищивши 150 цих продажних тварюк, ви робите благородну роботу, яка гідна нагороди.</ukr>
+		<fra>===Les mercenaires qui tuent pour de l'argent font le travail habituel d'un tueur. En détruisant des centaines de ces bêtes corrompues, vous faites un travail noble qui mérite d'être récompensé.</fra>
+		<pln>===Najemnicy, którzy zabijają za pieniądze, wykonują zwyczajną pracę killera. Zlikwidowawszy setkę tych sprzedajnych kreatur, robisz szlachetną rzecz, która jest godna nagrody.</pln>
 	</string>
 	<string id="acv_ment">
 		<rus>Мент в законе</rus>
@@ -1799,6 +1827,7 @@
 		<fra>Recueillez-vous des masques à gaz pour la collecte ou prévoyez-vous ouvrir un magasin? Ensuite, il est clair que plus de 100 snorks ont été tués: j'aime la livraison gratuite - ils apportent le bon.</fra>
 		<pln>Zbierasz maski przeciwgazowe do kolekcji albo planujesz otworzyć sklep? Wtedy było by zrozumiałe, po co zabijać ponad 100 snorków: marzy ci się bezpłatna dostawa - oni sami przynoszą co potrzebne.</pln>
 	</string>
+	<!-- !!!! Удалить для НИ -->
 	<string id="acv_ele">
 		<rus>Электрик</rus>
 		<eng>Electrician</eng>
@@ -1813,6 +1842,7 @@
 		<fra>Vous êtes tellement tenté de désactiver tout ce que vous pouvez: installations dans des laboratoires, scorcher de cerveau, champ de protection sur des générateurs, à Dead City. Nous espérons que vous avez tout à la maison avec l'électricité.</fra>
 		<pln>Ciągnie cię by wyłączać wszystko co się da: instalacje w laboratoriach, Mózgozwęglacz, pole ochronne na Generatorach, w Martwym Mieście. Mamy nadzieję, że w domu też wszystko wyłączasz z prądu.</pln>
 	</string>
+	<!-- Удалить энд -->
 	<string id="acv_svin">
 		<rus>Свинопас</rus>
 		<eng>Swineherd</eng>
@@ -2759,9 +2789,9 @@
 		<pln>Dublet</pln>
 	</string>
 	<string id="acv_anatomist_desc">
-		<rus>Маниакальная страсть собирать эмбрионы монстров и капсулы аномалий очень заразна. Если для продажи, то есть в Зоне Отчуждения другие способы быстро заработать. Для красоты? Тоже сомнительный факт... Тогда остаётся одно более-менее разумное объяснение: для последующего вскрытия и исследований. А если так, тогда вы - Анатом!</rus>
+		<rus>Маниакальная страсть собирать эмбрионы монстров и капсулы аномалий очень заразна. Если для продажи, то есть в Зоне Отчуждения другие способы быстро заработать. Для красоты? Тоже сомнительный факт... Тогда остаётся одно более-менее разумное объяснение: для последующего вскрытия и исследований. А если так, тогда Вы - Анатом!</rus>
 		<eng>The manic passion to collect monster embryos and anomaly capsules is very contagious. If for sale, then there are other ways to earn quickly in the Exclusion Zone. For beauty? Is also a questionable fact.. Then there is one more or less reasonable explanation: for subsequent autopsy and research. And if so, then you are an Anatomist!</eng>
-		<ukr>Маніакальна пристрасть збирати ембріони монстрів і капсули аномалій дуже заразна. Якщо на продаж, то в Зоні Відчуження є інші способи швидко заробити. Для краси? Теж сумнівний факт... Тоді залишається одне більш-менш розумне пояснення: для подальшого розкриття і досліджень. А якщо так, тоді ви - Анатом!</ukr>
+		<ukr>Маніакальна пристрасть збирати ембріони монстрів і капсули аномалій дуже заразна. Якщо на продаж, то в Зоні Відчуження є інші способи швидко заробити. Для краси? Теж сумнівний факт... Тоді залишається одне більш-менш розумне пояснення: для подальшого розкриття і досліджень. А якщо так, тоді Ви - Анатом!</ukr>
 		<fra>==Маниакальная страсть собирать эмбрионы монстров и капсулы аномалий очень заразна. Если для продажи, то есть в Зоне Отчуждения другие способы быстро заработать. Для красоты? Тоже сомнительный факт.. Тогда остаётся одно более-менее разумное объяснение: для последующего вскрытия и исследований. А если так, тогда вы - Анатом!</fra>
 		<pln>===Маниакальная страсть собирать эмбрионы монстров и капсулы аномалий очень заразна. Если для продажи, то есть в Зоне Отчуждения другие способы быстро заработать. Для красоты? Тоже сомнительный факт.. Тогда остаётся одно более-менее разумное объяснение: для последующего вскрытия и исследований. А если так, тогда вы - Анатом!</pln>
 	</string>
@@ -2815,7 +2845,7 @@
 		<pln>Dublet</pln>
 	</string>
 	<string id="acv_gunner_desc">
-		<rus>Посвятить часть своей жизни в Зоне Отчуждения сбору и ремонту внушительного количества самых разнообразных тяжёлых пулемётов может только истиный фанат данного класса оружия. Не иначе Вы - Пулемётчик!</rus>
+		<rus>Посвятить часть своей жизни в Зоне Отчуждения сбору и ремонту внушительного количества самых разнообразных тяжёлых пулемётов может только истинный фанат данного класса оружия. Не иначе Вы - Пулемётчик!</rus>
 		<eng>Devote part of his life in the Exclusion Zone to the collection and repair of an impressive number of a variety of heavy machine guns can only be a true fan of this class of weapons. Not otherwise you-machine Gunner!</eng>
 		<ukr>Присвятити частину свого життя в Зоні Відчуження збору і ремонту значної кількості найрізноманітніших важких кулеметів може тільки справжній фанат даного класу зброї. Не інакше Ви - Кулеметник!</ukr>
 		<fra>===Посвятить часть своей жизни в Зоне Отчуждения сбору и ремонту внушительного количества самых разнообразных тяжёлых пулемётов может только истиный фанат данного класса оружия. Не иначе вы - Пулемётчик!</fra>
@@ -2983,9 +3013,9 @@
 		<pln>Dublet</pln>
 	</string>
 	<string id="acv_idealist_desc">
-		<rus>Невероятная страсть собирать двуствольные ружья и обрезы ставит под сомнение Вашу адекватность - в Зоне Отчуждения это не то оружие, к которому нужно проявлять нежные чувства, поэтому и достижение, с такой лёгкостью Вами заработанное должно называться необычно: Вы - Дуплет!</rus>
+		<rus>Невероятная страсть собирать двуствольные ружья и обрезы ставит под сомнение Вашу адекватность - в Зоне Отчуждения это не то оружие, к которому нужно проявлять нежные чувства, поэтому и достижение, с такой лёгкостью Вами заработанное, должно называться необычно: Вы - Дуплет!</rus>
 		<eng>The incredible passion to collect double-barreled guns and shotguns casts doubt on your adequacy - in the Exclusion Zone this is not a weapon to which you need to show tender feelings, so the achievement, with such ease you earned should be called unusual: you are the Doublet!</eng>
-		<ukr>Неймовірна пристрасть збирати двостволки рушниці і обрізи ставить під сумнів Вашу адекватність - в Зоні Відчуження це не та зброя, до якого потрібно проявляти ніжні почуття, тому й досягнення, з такою легкістю Вами зароблене має називатися незвично: Ви - Дуплет!</ukr>
+		<ukr>Неймовірна пристрасть збирати двостволки рушниці і обрізи ставить під сумнів Вашу адекватність - в Зоні Відчуження це не та зброя, до якого потрібно проявляти ніжні почуття, тому й досягнення, з такою легкістю Вами зароблене, має називатися незвично: Ви - Дуплет!</ukr>
 		<fra>Une incroyable passion pour la collecte de fusils et de tas à double canon remet en question votre adéquation - dans la Zone d’aliénation n’est pas une arme pour laquelle vous devez faire preuve de tendresse, c’est pourquoi la réussite que vous avez méritée devrait être appelée avec une telle aisance: vous êtes un Doublet!</fra>
 		<pln>Niesamowita pasja zbierania dwulufowych obrzynów i strzelb wzbudza spore wątpliwości co do twojego rozsądku - w Zonie nie jest to broń, której potrzebujesz, by okazywać uczucia, więc osiągnięcie które zdobyłeś, powinno być nazywane niezwykłym: jesteś Dubletem!</pln>
 	</string>
