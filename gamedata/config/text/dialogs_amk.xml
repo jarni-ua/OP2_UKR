@@ -140,41 +140,35 @@
 		<pln>Zobaczymy. Pójdę sprawdzić to miejsce.</pln>
 	</string>
 	<string id="akill_kulinar_3">
-		<rus>Постой! Можешь принести мне часть этого контролёра в качестве трофея? Буду показывать всем новичкам, что приходят с Кордона. Вот обзавидуются!</rus>
-		<eng>Wait! Can you bring me a part of that controller as a trophy? I'll be showing it to all newcomers from Cordon. They'll all be dying of envy!</eng>
-		<ukr>Стривай! Можеш принести мені частину цього контролера у якості трофея? Буду показувати всім новачкам, які приходять з Кордону. От обзаздряться!</ukr>
-		<pln>Chwileczkę! Możesz przynieść mi kawałek tego kontrolera w charakterze trofeum? Będę pokazywać wszystkim nowicjuszom, co przychodzą z Kordonu. Ale będą zazdrościć!</pln>
+		<rus>Постой! Если избавишь нас от соседства с этой тварью, я тебя награжу чем-нибудь. Возвращайся потом за наградой.</rus>
+		<eng>===Wait! Can you bring me a part of that controller as a trophy? I'll be showing it to all newcomers from Cordon. They'll all be dying of envy!</eng>
+		<ukr>===Стривай! Можеш принести мені частину цього контролера у якості трофея? Буду показувати всім новачкам, які приходять з Кордону. От обзаздряться!</ukr>
+		<pln>===Chwileczkę! Możesz przynieść mi kawałek tego kontrolera w charakterze trofeum? Będę pokazywać wszystkim nowicjuszom, co przychodzą z Kordonu. Ale będą zazdrościć!</pln>
 	</string>
-	<string id="akill_kulinar_4">
-		<rus>Хорошо, принесу.</rus>
-		<eng>Ok, I'll bring it.</eng>
-		<ukr>Добре, принесу.</ukr>
-		<pln>Dobrze, przyniosę.</pln>
-	</string>
-	<!-- Отдаём руку Кулинару -->
+	<!-- Возвращаемся к Кулинару -->
 	<string id="akill_give_kulinar_0">
-		<rus>Вот, держи руку контролёра. Еле завалил его.</rus>
-		<eng>Here, take the controller's hand. Had a hard time killing it.</eng>
-		<ukr>Ось, тримай руку контролера. Ледве завалив його.</ukr>
-		<pln>Masz, trzymaj rękę kontrolera. Ledwie go zabiłem.</pln>
+		<rus>Угомонил я контриков, вместе со свитой. Можешь сходить, поглазеть на них, раз не встречал никогда. Нож захватить не забудь, трофей срежешь - руку самого контролёра! Будешь показывать всем новичкам, что приходят с Кордона. Вот они обзавидуются!</rus>
+		<eng>===Wait! Can you bring me a part of that controller as a trophy? I'll be showing it to all newcomers from Cordon. They'll all be dying of envy!</eng>
+		<ukr>===Стривай! Можеш принести мені частину цього контролера у якості трофея? Буду показувати всім новачкам, які приходять з Кордону. От обзаздряться!</ukr>
+		<pln>===Chwileczkę! Możesz przynieść mi kawałek tego kontrolera w charakterze trofeum? Będę pokazywać wszystkim nowicjuszom, co przychodzą z Kordonu. Ale będą zazdrościć!</pln>
 	</string>
 	<string id="akill_give_kulinar_1">
-		<rus>Рука? А на хрена мне рука? Я думал, ты мне голову принесёшь. Что я буду-то с рукой делать?</rus>
-		<eng>The hand? What the fuck do I need the hand for? I thought you'd bring me its head. What do I do with the hand?</eng>
-		<ukr>Рука? А на хріна мені рука? Я думав, ти мені голову принесеш. Що я буду з рукою робити?</ukr>
-		<pln>Ręka? A na cholerę mi ręka? Myślałem, że głowę mi przyniesiesz. Co ja będę robił z ręką?</pln>
+		<rus>Рука? А на хрена мне рука? Я думал сразу голову отсечь! Что я буду с рукой-то делать?</rus>
+		<eng>===The hand? What the fuck do I need the hand for? I thought you'd bring me its head. What do I do with the hand?</eng>
+		<ukr>===Рука? А на хріна мені рука? Я думав, ти мені голову принесеш. Що я буду з рукою робити?</ukr>
+		<pln>===Ręka? A na cholerę mi ręka? Myślałem, że głowę mi przyniesiesz. Co ja będę robił z ręką?</pln>
 	</string>
 	<string id="akill_give_kulinar_2">
-		<rus>А зачем тебе голова? На свою что ль надевать, чтоб новичков пугать? Если нужна голова, то бери в руки топор. Труп до сих пор там валяется. Второй в кустах лежит.</rus>
-		<eng>And what do you need the head for? To put it on your own and go scaring newbies? If you do need the head, then take an ax. The corpse is still there. The second one lies in the bushes.</eng>
-		<ukr>А навіщо тобі голова? На свою чи що надягати, щоб новачків лякати? Якщо потрібна голова, то бери у руки сокиру. Труп досі там валяється. Другий у кущах лежить.</ukr>
-		<pln>A po co ci głowa? Na swoją będziesz nakładać, żeby nowicjuszy straszyć? Jeżeli potrzebujesz głowy, to bierz siekierę. Trup do tej pory tam się poniewiera. Drugi leży w krzakach.</pln>
+		<rus>А зачем тебе голова? На свою что ль надевать, чтоб новичков пугать? Если нужна голова, то бери тогда в руки топор. Трупы до сих пор там валяются: один в лесу, второй в кустах лежит.</rus>
+		<eng>===And what do you need the head for? To put it on your own and go scaring newbies? If you do need the head, then take an ax. The corpse is still there. The second one lies in the bushes.</eng>
+		<ukr>===А навіщо тобі голова? На свою чи що надягати, щоб новачків лякати? Якщо потрібна голова, то бери у руки сокиру. Труп досі там валяється. Другий у кущах лежить.</ukr>
+		<pln>===A po co ci głowa? Na swoją będziesz nakładać, żeby nowicjuszy straszyć? Jeżeli potrzebujesz głowy, to bierz siekierę. Trup do tej pory tam się poniewiera. Drugi leży w krzakach.</pln>
 	</string>
 	<string id="akill_give_kulinar_3">
-		<rus>Ну ты шутник! Ладно, давай эту руку. Вот тебе пара аптечек.</rus>
-		<eng>Well, you're such a joker! Okay, give me this hand. Here's a few first-aid kits.</eng>
-		<ukr>Ну ти жартівник! Гаразд, давай цю руку. Ось тобі пара аптечок.</ukr>
-		<pln>Żartowniś! Dobra, dawaj tę rękę. A dla ciebie kilka apteczek.</pln>
+		<rus>Ну ты шутник! Вот тебе немного медикаментов и патронов.</rus>
+		<eng>===Well, you're such a joker! Here's a few first-aid kits.</eng>
+		<ukr>===Ну ти жартівник! Ось тобі пара аптечок.</ukr>
+		<pln>===Żartowniś! A dla ciebie kilka apteczek.</pln>
 	</string>
 	<!-- Разговор с Крестом -->
 	<string id="akill_krest_0">
@@ -367,7 +361,7 @@
 	</string>
 	<!-- Получение награды у Захара -->
 	<string id="akill_zahar_done_0">
-		<rus>Захар, можешь не беспокоиться, завалил всех контриков. Побегать за ними пришлось не мало. Также нашёл документы, проливающие свет на миграцию контролёров.</rus>
+		<rus>Захар, можешь не беспокоиться, завалил всех контриков. Побегать за ними пришлось немало. Также нашёл документы, проливающие свет на миграцию контролёров.</rus>
 		<eng>Zakhar, you don't have to worry about the controllers no, I shot them all. Took me a lot stalking and chasing them. Also found the documents that'd cast light on the controllers' migration.</eng>
 		<ukr>Захар, можеш не турбуватися, завалив всіх контриків. Побігати за ними довелося чимало. Також знайшов документи, які проливають світло на міграцію контролерів.</ukr>
 		<pln>Zachar, możesz już się nie martwić, zabiłem wszystkich kontrolerów. Sporo trzeba było się za nimi nabiegać. Znalazłem też dokumenty, "rzucające światło" na "migrację" kontrolerów.</pln>
@@ -5053,22 +5047,22 @@
 		<pln>Mam jeszcze fleszkę. Zobacz co na niej jest.</pln>
 	</string>
 	<string id="izdelie_gp_start_5">
-		<rus>Секундочку... Опять какие-то уравнения... Хотя, есть в них неизвестные мне операторы и константы... А вот это интересно! Смотри, здесь есть чертёж пистолета и аккумуляторных блоков к нему. Только чертёж неполный и нет подробных схем отдельных блоков. Видимо, "Изделие №58" - это прототип нового пистолета, действие которого основано на электромагнитном разгоне пули. Проще говоря, в Х-7 разрабатывали прототип нового Гаусс-пистолета.</rus>
-		<eng>Wait a second... Again, some kind of equations... Although, there are operators and constants unknown to me... And this is interesting! Look, there is a drawing of a pistol and battery pack for it. Only the drawing is incomplete and there are no detailed diagrams of separate modules. Apparently, “Product No. 58” is a prototype of a new pistol, whose action is based on electromagnetic bullet acceleration. Simply put, the X-7 lab was developing a prototype of a new Gauss pistol.</eng>
-		<ukr>Секундочку... Знову якісь рівняння... Хоча, є у них невідомі мені оператори та константи... А ось це цікаво! Дивись, тут є креслення пістолета і акумуляторних блоків до нього. Тільки креслення неповне і немає докладних схем окремих блоків. Мабуть, "Виріб № 58" - це прототип нового пістолета, дія якого заснована на електромагнітному розгоні кулі. Простіше кажучи, у Х-7 розробляли прототип нового Гаусс-пістолета.</ukr>
-		<pln>Chwileczkę... Znowu jakieś równania... Chociaż, są w nich nieznane mi operatory i stałe... A to ciekawe! Patrz, tu jest schemat pistoletu i bloków akumulatorowych do niego. Tylko że schemat jest niekompletny i brak szczegółowych schematów poszczególnych bloków. Widocznie, "Produkt nr58" - to prototyp nowego pistoletu, działanie którego jest oparte na elektromagnetyce. Mówiąc prościej, w X-7 opracowywali prototyp nowego pistoletu Gaussa.</pln>
+		<rus>Секундочку... Опять какие-то уравнения... Хотя, есть в них неизвестные мне операторы и константы... А вот это интересно! Смотри, здесь есть чертёж пистолета и аккумуляторных блоков к нему. Только чертёж неполный и нет подробных схем отдельных блоков. Видимо, "Изделие №58" - это прототип нового пистолета, действие которого основано на электромагнитном разгоне пули. Проще говоря, в Х-7 разрабатывали прототип Гаусс-пистолета.</rus>
+		<eng>Wait a second... Again, some kind of equations... Although, there are operators and constants unknown to me... And this is interesting! Look, there is a drawing of a pistol and battery pack for it. Only the drawing is incomplete and there are no detailed diagrams of separate modules. Apparently, “Product No. 58” is a prototype of a new pistol, whose action is based on electromagnetic bullet acceleration. Simply put, the X-7 lab was developing a prototype of a Gauss pistol.</eng>
+		<ukr>Секундочку... Знову якісь рівняння... Хоча, є у них невідомі мені оператори та константи... А ось це цікаво! Дивись, тут є креслення пістолета і акумуляторних блоків до нього. Тільки креслення неповне і немає докладних схем окремих блоків. Мабуть, "Виріб № 58" - це прототип нового пістолета, дія якого заснована на електромагнітному розгоні кулі. Простіше кажучи, у Х-7 розробляли прототип Гаусс-пістолета.</ukr>
+		<pln>Chwileczkę... Znowu jakieś równania... Chociaż, są w nich nieznane mi operatory i stałe... A to ciekawe! Patrz, tu jest schemat pistoletu i bloków akumulatorowych do niego. Tylko że schemat jest niekompletny i brak szczegółowych schematów poszczególnych bloków. Widocznie, "Produkt nr58" - to prototyp nowego pistoletu, działanie którego jest oparte na elektromagnetyce. Mówiąc prościej, w X-7 opracowywali prototyp pistoletu Gaussa.</pln>
 	</string>
 	<string id="izdelie_gp_start_6">
-		<rus>И что же нового в этом прототипе?</rus>
-		<eng>And what's new in this prototype?</eng>
-		<ukr>І що ж нового у цьому прототипі?</ukr>
-		<pln>I co nowego w tym prototypie?</pln>
+		<rus>Ого! Это что-то новенькое!</rus>
+		<eng>===And what's new in this prototype?</eng>
+		<ukr>===І що ж нового у цьому прототипі?</ukr>
+		<pln>===I co nowego w tym prototypie?</pln>
 	</string>
 	<string id="izdelie_gp_start_7">
-		<rus>Пока не знаю. Оставь документацию и флешку, пороюсь в них. Но их будет недостаточно, чтобы узнать особенности нового оружия. Информация с флешки это продолжение информации из документов. Судя по содержанию, существует ещё пять таких частей. Если найдёшь остальные, то, возможно, нам с Долговязым удастся воссоздать такой прототип. Как только найдёшь всю недостающую информацию, то сразу же принеси её мне.</rus>
-		<eng>I don't know yet. Leave the documentation and the flash drive, I'll take a look at them. But they won't be enough to learn the features of the new weapon. The information from the flash drive is sequential to the information from the documents. Judging by the content, there are five more parts like these. If you find the rest, then maybe we, me and Lanky, will be able to create this prototype. As soon as you find all the missing information, bring it to me immediately.</eng>
-		<ukr>Поки що не знаю. Залиш документацію та флешку, пориюсь у них. Але їх буде недостатньо, щоб дізнатися особливості нової зброї. Інформація з флешки це продовження інформації з документів. Судячи зі змісту, існує ще п'ять таких частин. Якщо знайдеш інші, то, можливо, нам з Довгов'язим вдасться відтворити такий прототип. Як тільки знайдеш всю відсутню інформацію, то відразу ж принось її мені.</ukr>
-		<pln>Jeszcze nie wiem. Zostaw mi tę dokumentację i fleszkę, przyjrzę się temu dokładniej. Ale jest tu za mało informacji, by dowiedzieć się właściwości nowej broni. Informacja z fleszki to kontynuacja informacji z dokumentów. Sądząc po treści, istnieje jeszcze pięć takich części. Jeżeli znajdziesz pozostałe, to całkiem możliwe, że razem z Chudym zdołamy odtworzyć taki prototyp. Jak tylko znajdziesz resztę brakującej dokumentacji, to od razu mi ją przynieś.</pln>
+		<rus>Оставь мне документацию и флешку, пороюсь в них. Но их будет недостаточно, чтобы узнать особенности нового оружия. Информация с флешки это продолжение информации из документов. Судя по содержанию, существует ещё пять таких частей. Если найдёшь остальные, то, возможно, нам с Долговязым удастся воссоздать такой прототип. Как только найдёшь всю недостающую информацию, то сразу же принеси её мне.</rus>
+		<eng>Leave the documentation and the flash drive, I'll take a look at them. But they won't be enough to learn the features of the new weapon. The information from the flash drive is sequential to the information from the documents. Judging by the content, there are five more parts like these. If you find the rest, then maybe we, me and Lanky, will be able to create this prototype. As soon as you find all the missing information, bring it to me immediately.</eng>
+		<ukr>Залиш документацію та флешку, пориюсь у них. Але їх буде недостатньо, щоб дізнатися особливості нової зброї. Інформація з флешки це продовження інформації з документів. Судячи зі змісту, існує ще п'ять таких частин. Якщо знайдеш інші, то, можливо, нам з Довгов'язим вдасться відтворити такий прототип. Як тільки знайдеш всю відсутню інформацію, то відразу ж принось її мені.</ukr>
+		<pln>Zostaw mi tę dokumentację i fleszkę, przyjrzę się temu dokładniej. Ale jest tu za mało informacji, by dowiedzieć się właściwości nowej broni. Informacja z fleszki to kontynuacja informacji z dokumentów. Sądząc po treści, istnieje jeszcze pięć takich części. Jeżeli znajdziesz pozostałe, to całkiem możliwe, że razem z Chudym zdołamy odtworzyć taki prototyp. Jak tylko znajdziesz resztę brakującej dokumentacji, to od razu mi ją przynieś.</pln>
 	</string>
 	<string id="izdelie_gp_start_8">
 		<rus>Новое оружие из секретной лаборатории? Думаю, оно того стоит.</rus>
@@ -5157,10 +5151,10 @@
 		<pln>Oto pięć fleszek, na każdej część dokumentacji. Niektóre ważne dane są zaszyfrowane, w tym też na fleszce Leszego. Trzymaj algorytm dekodowania i hasło. Udało mi się też odszukać sam prototyp, który opracowywano w X-7.</pln>
 	</string>
 	<string id="izdelie_gp_done_5">
-		<rus>Не верю своим глазам! Это действительно прототип Гаусс-пистолета. Внешних отличий почти нет, а вот "начинка" немного другая. Где ты его откопал?</rus>
-		<eng>I don't believe my eyes! This is really a prototype Gauss pistol. It's almost the same on the outside, but on the inside it's slightly different. Where'd you get it?</eng>
-		<ukr>Не вірю своїм очам! Це дійсно прототип Гаусс-пістолета. Зовнішніх відмінностей майже немає, а от "начинка" трохи інша. Де ти його відкопав?</ukr>
-		<pln>Nie wierzę własnym oczom! To rzeczywiście prototyp pistoletu Gaussa. Zewnętrznie praktycznie się nie różni, ale "wnętrze" jest inne. Gdzie ty go wykopałeś?</pln>
+		<rus>Не верю своим глазам! Это действительно оружие нового поколения. Где ты его откопал?</rus>
+		<eng>===I don't believe my eyes! This is really a prototype Gauss pistol. It's almost the same on the outside, but on the inside it's slightly different. Where'd you get it?</eng>
+		<ukr>===Не вірю своїм очам! Це дійсно прототип Гаусс-пістолета. Зовнішніх відмінностей майже немає, а от "начинка" трохи інша. Де ти його відкопав?</ukr>
+		<pln>===Nie wierzę własnym oczom! To rzeczywiście prototyp pistoletu Gaussa. Zewnętrznie praktycznie się nie różni, ale "wnętrze" jest inne. Gdzie ty go wykopałeś?</pln>
 	</string>
 	<string id="izdelie_gp_done_6">
 		<rus>Монолитовцы захапали им не принадлежащее. Ты что-нибудь узнал из документации и флешки Лешего?</rus>
@@ -5169,10 +5163,10 @@
 		<pln>Monolitowcy przechowywali to coś, co do nich nie należało. Dowiedziałeś się czegoś z dokumentacji i fleszki Leszego?</pln>
 	</string>
 	<string id="izdelie_gp_done_7">
-		<rus>Да. Мы знаем, как создать блок-аккумулятор, но у нас нет необходимых компонентов. Аккумулятор для такого пистолета создаётся на основе капсулированных фрагментов артефакта «Вспышка». Для создания магнитного поля большей напряжённости нужны артефакты "Батарейка" и "Чёрная энергия"... Постой, в прототипе нет катушек - без них длительность электромагнитного импульса будет практически равна нулю, как и скорость ферромагнитного патрона. Возможно, получится адаптировать катушки от Гаусс-винтовок. Если хочешь заполучить завершённый прототип нового Гаусс-пистолета, то принеси всё вышеперечисленное. Полный список скинул на твой ПДА. Конечно, это не бесплатно. За саму работу я прошу всего лишь 100 тысяч рублей, половина из них Долговязому. Один я не смогу создать такой пистолет, учитывая, что я не имею опыта работы с электромагнитным оружием. Ещё одно условие - вся найденная документация останется у меня. Ну что, договорились?</rus>
-		<eng>Yes. We know now how to create a battery pack, but we don’t have the necessary components. The battery for this gun is based on the encapsulated fragments of "Flash" artifact. To create a magnetic field of greater intensity, we need "Battery" and "Black Energy" artifacts... Wait, there are no coils in the prototype - without them the duration of the electromagnetic pulse will almost equal zero, as well as the speed of the ferromagnetic cartridge. It may be possible to adapt coils from Gauss rifle. If you want to get a completed prototype of a new Gauss pistol, bring me all of the above. I uploaded the full list on your PDA. Of course, it won't be for free. The work itself will cost you only 100 thousand rubles, half of it goes to Lanky. I cannot create a gun like this alone, given that I have no experience with electromagnetic weapons. There's one more condition - all the found documents will remain with me. Well, deal?</eng>
-		<ukr>Так. Ми знаємо, як створити блок-акумулятор, але у нас немає необхідних компонентів. Акумулятор для такого пістолета створюється на основі капсульованих фрагментів артефакту «Спалах». Для створення магнітного поля більшої напруженості потрібні артефакти "Батарейка" і "Чорна енергія"... Стривай, у прототипі немає котушок - без них тривалість електромагнітного імпульсу буде практично рівна нулю, як і швидкість феромагнітного патрона. Можливо, вийде адаптувати котушки від Гаусс-гвинтівок. Якщо хочеш отримати завершений прототип нового Гаусс-пістолета, то принеси все перераховане вище. Повний список скинув на твій КПК. Звичайно, це не безкоштовно. За саму роботу я прошу всього лише 100 тисяч гривень, половина з них Довгов'язому. Один я не зможу створити такий пістолет, враховуючи, що я не маю досвіду роботи з електромагнітною зброєю. Ще одна умова - вся знайдена документація залишиться у мене. Ну що, домовилися?</ukr>
-		<pln>Tak. Wiemy, jak zrobić blok akumulatora, ale nie mamy niezbędnych komponentów. Akumulator do takiego pistoletu jest zbudowany na bazie kapsułowanych fragmentów artefaktu "Błysk". Aby utworzyć większe natężenie pola magnetycznego potrzebne będą artefakty "Bateryjka" i "Czarna Energia"... Poczekaj, w prototypie nie ma cewek. Bez nich czas trwania impulsu elektromagnetycznego będzie niewielki i prędkość ferromagnetycznego pocisku okaże się bardzo mała. Możliwe, że uda się zaadaptować cewki od karabinu Gaussa. Jeśli chcesz otrzymać sprawny prototyp nowego pistoletu Gaussa, to przynieś wszystkie brakujące elementy. Pełny spis zrzuciłem na twoje PDA. Oczywiście, nic za darmo. Za samą pracę proszę o zaledwie 100 tysięcy rubli, połowa z tego dla Chudego. Sam nie dam rady zbudować takiego pistoletu, biorąc pod uwagę, że nie mam doświadczenia z bronią elektromagnetyczną. Jeszcze jedno - cała znaleziona dokumentacja zostanie u mnie. To co, jesteśmy umówieni?</pln>
+		<rus>Да. Мы знаем, как создать блок-аккумулятор, но у нас нет необходимых компонентов. Аккумулятор для такого пистолета создаётся на основе капсулированных фрагментов артефакта «Вспышка». Для создания магнитного поля большей напряжённости нужны артефакты "Батарейка" и "Чёрная энергия"... Постой, в прототипе нет катушек - без них длительность электромагнитного импульса будет практически равна нулю, как и скорость ферромагнитного патрона. Возможно, получится адаптировать катушки от Гаусс-винтовок. Если хочешь заполучить завершённый прототип Гаусс-пистолета, то принеси всё вышеперечисленное. Полный список скинул на твой ПДА. Конечно, это не бесплатно. За саму работу я прошу всего лишь 100 тысяч рублей, половина из них Долговязому. Один я не смогу создать такой пистолет, учитывая, что я не имею опыта работы с электромагнитным оружием. Ещё одно условие - вся найденная документация останется у меня. Ну что, договорились?</rus>
+		<eng>Yes. We know now how to create a battery pack, but we don’t have the necessary components. The battery for this gun is based on the encapsulated fragments of "Flash" artifact. To create a magnetic field of greater intensity, we need "Battery" and "Black Energy" artifacts... Wait, there are no coils in the prototype - without them the duration of the electromagnetic pulse will almost equal zero, as well as the speed of the ferromagnetic cartridge. It may be possible to adapt coils from Gauss rifle. If you want to get a completed prototype of a Gauss pistol, bring me all of the above. I uploaded the full list on your PDA. Of course, it won't be for free. The work itself will cost you only 100 thousand rubles, half of it goes to Lanky. I cannot create a gun like this alone, given that I have no experience with electromagnetic weapons. There's one more condition - all the found documents will remain with me. Well, deal?</eng>
+		<ukr>Так. Ми знаємо, як створити блок-акумулятор, але у нас немає необхідних компонентів. Акумулятор для такого пістолета створюється на основі капсульованих фрагментів артефакту «Спалах». Для створення магнітного поля більшої напруженості потрібні артефакти "Батарейка" і "Чорна енергія"... Стривай, у прототипі немає котушок - без них тривалість електромагнітного імпульсу буде практично рівна нулю, як і швидкість феромагнітного патрона. Можливо, вийде адаптувати котушки від Гаусс-гвинтівок. Якщо хочеш отримати завершений прототип Гаусс-пістолета, то принеси все перераховане вище. Повний список скинув на твій КПК. Звичайно, це не безкоштовно. За саму роботу я прошу всього лише 100 тисяч гривень, половина з них Довгов'язому. Один я не зможу створити такий пістолет, враховуючи, що я не маю досвіду роботи з електромагнітною зброєю. Ще одна умова - вся знайдена документація залишиться у мене. Ну що, домовилися?</ukr>
+		<pln>Tak. Wiemy, jak zrobić blok akumulatora, ale nie mamy niezbędnych komponentów. Akumulator do takiego pistoletu jest zbudowany na bazie kapsułowanych fragmentów artefaktu "Błysk". Aby utworzyć większe natężenie pola magnetycznego potrzebne będą artefakty "Bateryjka" i "Czarna Energia"... Poczekaj, w prototypie nie ma cewek. Bez nich czas trwania impulsu elektromagnetycznego będzie niewielki i prędkość ferromagnetycznego pocisku okaże się bardzo mała. Możliwe, że uda się zaadaptować cewki od karabinu Gaussa. Jeśli chcesz otrzymać sprawny prototyp pistoletu Gaussa, to przynieś wszystkie brakujące elementy. Pełny spis zrzuciłem na twoje PDA. Oczywiście, nic za darmo. Za samą pracę proszę o zaledwie 100 tysięcy rubli, połowa z tego dla Chudego. Sam nie dam rady zbudować takiego pistoletu, biorąc pod uwagę, że nie mam doświadczenia z bronią elektromagnetyczną. Jeszcze jedno - cała znaleziona dokumentacja zostanie u mnie. To co, jesteśmy umówieni?</pln>
 	</string>
 	<string id="izdelie_gp_done_8">
 		<rus>Конечно, скоро вернусь со всем необходимым.</rus>
@@ -5225,16 +5219,16 @@
 		<pln>Tak, nie zmrużyliśmy nawet oka. Za to udało się nam zakończyć pracę nad prototypem. Zostało tylko sprawdzić go w praktyce.</pln>
 	</string>
 	<string id="new_gp_give_2">
-		<rus>Это уже моя забота. Какие у него отличия от старого образца?</rus>
-		<eng>This is my concern. What's the difference between it and the old model?</eng>
-		<ukr>Це вже моя турбота. Які у нього відмінності від старого зразка?</ukr>
-		<pln>To już moja działka. Czym się różni od starego modelu?</pln>
+		<rus>Это уже моя забота. Какие у него характеристики?</rus>
+		<eng>===This is my concern. What's the difference between it and the old model?</eng>
+		<ukr>===Це вже моя турбота. Які у нього відмінності від старого зразка?</ukr>
+		<pln>===To już moja działka. Czym się różni od starego modelu?</pln>
 	</string>
 	<string id="new_gp_give_3">
-		<rus>Не считая повышенной убойности, новый Гаусс-пистолет может стрелять как обычными Гаусс-патронами, так и Супергаусс-патронами. В блок теперь помещается не один ферромагнитный патрон, а сразу восемь. Кстати, в документах он имеет ещё одно название - ПГИ M78-А-GG. Это я так, к сведению.</rus>
-		<eng>Apart from increased damage, the new Gauss pistol can fire both standard Gauss cartridges and Super Gauss cartridges. The clip can now contain not one ferromagnetic cartridge, but eight. By the way, in the documents the pistol has another name - PGI M78-A-GG. This is just FYI.</eng>
-		<ukr>Крім підвищеної вбивчості, новий Гаусс-пістолет може стріляти як звичайними Гаусс-патронами, так і Супергаусс-патронами. У блок тепер поміщається не один феромагнітний патрон, а відразу вісім. До речі, у документах він має ще одну назву - ПГІ M78-А-GG. Це я так, до відома.</ukr>
-		<pln>Nie licząc podwyższonej skuteczności, nowy pistolet Gaussa może strzelać zarówno zwykłą amunicją Gaussa, jak i ładunkami SuperGauss. W magazynku teraz mieści się nie jeden ferromagnetyczny nabój, ale aż osiem. Przy okazji, w dokumentacji ma on jeszcze jedną nazwę - PGI M78-A-GG. To tylko tak, dla informacji.</pln>
+		<rus>Охренительная убойность за счёт использования Супергаусс-патронов. В блок помещается до девяти ферромагнитных патронов. Кстати, в документах он имеет ещё одно название - ПГИ «Gauss» M72-GG. Это так, к сведению.</rus>
+		<eng>===Apart from increased damage, the new Gauss pistol can fire both standard Gauss cartridges and Super Gauss cartridges. The clip can now contain not one ferromagnetic cartridge, but eight. By the way, in the documents the pistol has another name - PGI M78-A-GG. This is just FYI.</eng>
+		<ukr>===Крім підвищеної вбивчості, новий Гаусс-пістолет може стріляти як звичайними Гаусс-патронами, так і Супергаусс-патронами. У блок тепер поміщається не один феромагнітний патрон, а відразу вісім. До речі, у документах він має ще одну назву - ПГІ M78-А-GG. Це я так, до відома.</ukr>
+		<pln>===Nie licząc podwyższonej skuteczności, nowy pistolet Gaussa może strzelać zarówno zwykłą amunicją Gaussa, jak i ładunkami SuperGauss. W magazynku teraz mieści się nie jeden ferromagnetyczny nabój, ale aż osiem. Przy okazji, w dokumentacji ma on jeszcze jedną nazwę - PGI M78-A-GG. To tylko tak, dla informacji.</pln>
 	</string>
 	<string id="new_gp_give_4">
 		<rus>Отличная пушка! Спасибо тебе и Долговязому за работу!</rus>
@@ -5316,7 +5310,7 @@
 		<pln>Niech to diabli! Znaczy się, najemnicy i do niego dotarli... Kontynuuj...</pln>
 	</string>
 	<string id="find_akill_10">
-		<rus>В этом я не уверен, поскольку его тело лежало среди других наймов. Да и в личном ПДА была переписка с командирами разведгрупп наёмников на Складах и Дикой Территории. Я сохранил записи, можешь взглянуть... Из его ПДА я также узнал о тебе и тайнике с флешкой. На ней оказалась инфа о прототипе Гаусс-пистолета, разрабатывавшийся в Х-7.</rus>
+		<rus>В этом я не уверен, поскольку его тело лежало среди других наймов. Да и в личном ПДА была переписка с командирами разведгрупп наёмников на Складах и Дикой Территории. Я сохранил записи, можешь взглянуть... Из его ПДА я также узнал о тебе и тайнике с флешкой. На ней оказалась инфа о прототипе Гаусс-пистолета, разрабатывавшемся в Х-7.</rus>
 		<eng>I'm not sure of it, as his body lay among other mercs. Also, on his PDA there was a conversation with the commanders of the mercs' recon groups in the Army Warehouses and the Wild Territory. I saved the records, you can take a look... From his PDA, I also learned about you and the stash with a flash drive. On this drive there was an info about the prototype Gauss pistol, developed in the X-7 lab.</eng>
 		<ukr>В цьому я не впевнений, оскільки його тіло лежало серед інших наймів. Та й в особистому КПК було листування з командирами розвідгруп найманців на Складах і Дикій Території. Я зберіг записи, можеш глянути... З його КПК я також дізнався про тебе і схованку з флешкою. На ній виявилася інфа про прототип Гаусс-пістолета, який розроблявся у Х-7.</ukr>
 		<pln>Tego nie jestem pewny, ponieważ jego ciało leżało wśród innych najemników. A w jego osobistym PDA znalazłem korespondencję z dowódcami najemniczych grup zwiadowczych na Magazynach i w Dziczy. Zachowałem zapisy, możesz sam przeczytać... Z jego PDA dowiedziałem się też o tobie i o schowku z fleszką. Na niej znalazłem informacje o prototypie pistoletu Gaussa, nad którym pracowano w X-7.</pln>
@@ -5340,7 +5334,7 @@
 		<pln>To już bez sensu. Możesz zakończyć poszukiwania. Wirus jest martwy! Bez jego fleszki i samego prototypu nie uda ci się to.</pln>
 	</string>
 	<string id="find_akill_14">
-		<rus>То есть, прототип существует не только в виде чертежей?</rus>
+		<rus>То есть прототип существует не только в виде чертежей?</rus>
 		<eng>That means the prototype exists not only as a drawing?</eng>
 		<ukr>Тобто, прототип існує не тільки у вигляді креслень?</ukr>
 		<pln>To znaczy, prototyp istnieje nie tylko na schemacie?</pln>
@@ -5382,7 +5376,7 @@
 		<pln>Dlaczego tak postąpiliście?</pln>
 	</string>
 	<string id="find_akill_21">
-		<rus>Дело в том, что у наших заказчиков есть серьёзные конкуренты. Для поиска образцов электромагнитного оружия они наняли наёмников из "Блэквотер", а эти ребята сначала стреляют и лишь потом задают вопросы. Эти парни отлично подготовлены и оснащены самым современным вооружением, в наличии имеются автоматические турели, лёгкие штурмовые вертолёты ОН-6А «Кайюс», десантные вертолёты NH90 TTH и бронетранспортёры «Страйкер», на которых они передвигаются по Зоне...\Была ещё одна причина такой предосторожности. Я не слишком доверял Лешему, темнил он что-то - никаких определённых договорённостей с заказчиком, уклончивые ответы на мои вопросы. У меня было подозрение, что он кинет нас. Поэтому я настоял на том, чтобы прототип остался у Вируса. Как оказалось в итоге, моё чутьё не подвело. Если верить твоим словам, то Леший тоже мёртв и связи с заказчиком больше нет. Впрочем, это неважно, раз Леший оказался предателем, то сделка всё равно бы не состоялась, нас бы просто убрали как ненужных свидетелей.</rus>
+		<rus>Дело в том, что у наших заказчиков есть серьёзные конкуренты. Для поиска образцов электромагнитного оружия они наняли наёмников из "Блэквотер", а эти ребята сначала стреляют и лишь потом задают вопросы. Эти парни отлично подготовлены и оснащены самым современным вооружением, в наличии имеются автоматические турели, лёгкие штурмовые вертолёты ОН-6А «Кайюс», десантные вертолёты NH90 TTH и бронетранспортёры «Страйкер», на которых они передвигаются по Зоне...\nБыла ещё одна причина такой предосторожности. Я не слишком доверял Лешему, темнил он что-то - никаких определённых договорённостей с заказчиком, уклончивые ответы на мои вопросы. У меня было подозрение, что он кинет нас. Поэтому я настоял на том, чтобы прототип остался у Вируса. Как оказалось в итоге, моё чутьё не подвело. Если верить твоим словам, то Леший тоже мёртв и связи с заказчиком больше нет. Впрочем, это неважно, раз Леший оказался предателем, то сделка всё равно бы не состоялась, нас бы просто убрали как ненужных свидетелей.</rus>
 		<eng>The thing is our customers have serious competitors. They hired Blackwater mercs to search for samples of electromagnetic weapons, and these guys shoot first and ask questions later. They are well trained and equipped with the most advanced weaponry, such as automated turrets, light assault helicopters OH-6A "Cayuse", utility helicopters NH90 TTH and armored carriers "Stryker", in which they ride around the Zone...\There was another reason for this precaution. I didn't entirely trust Sylvan, he wasn't telling me something - no any definite agreement with the customer, evasive answers to my questions. I had a suspicion he'd doublecross us. Therefore, I insisted that Virus should keep the prototype. It turned out, my gut hasn't failed me. If you're telling the truth, Sylvan is also dead and there is no longer any connection with the customer. However, it doesn't matter, since Sylvan was a traitor, the deal would not have been completed anyway, we'd simply have been eliminated as undesirable witnesses.</eng>
 		<ukr>Справа в тому, що у наших замовників є серйозні конкуренти. Для пошуку зразків електромагнітної зброї вони найняли найманців з "Блеквотер", а ці хлопці спочатку стріляють і лише потім ставлять запитання. Ці хлопці відмінно підготовлені і оснащені найсучаснішим озброєнням, в наявності є автоматичні турелі, легкі штурмові вертольоти ОН-6А «Кайюс», десантні вертольоти NH90 TTH і бронетранспортери «Страйкер», на яких вони пересуваються по Зоні...\n Була ще одна причина такої обережності. Я не дуже довіряв Лісовику, темнив він щось - ніяких певних домовленостей із замовником, ухильні відповіді на мої запитання. У мене була підозра, що він кине нас. Тому я наполіг на тому, щоб прототип залишився у Віруса. Як виявилося в результаті, моє чуття не підвело. Якщо вірити твоїм словам, то Лісовик теж мертвий і зв'язку з замовником більше немає. Втім, це не має значення, раз Лісовик виявився зрадником, то угода все одно б не відбулася, нас би просто прибрали як непотрібних свідків.</ukr>
 		<pln>Chodzi o to, że nasi zleceniodawcy mieli też poważną konkurencję. Do poszukiwań broni elektromagnetycznej tamci wynajęli najemników z "Blackwater", a ci chłopcy najpierw strzelają i dopiero potem zadają pytania. Są doskonale wyszkoleni i zaopatrzeni w najnowocześniejsze uzbrojenie, takie jak zautomatyzowane wieżyczki, lekkie śmigłowce bojowe OH-6A "Cayuse", śmigłowce desantowe NH90 TTH i transportery opancerzone "Stryker", w których jeżdżą po Zonie... Była jeszcze jedna przyczyna. Niezbyt ufałem Leszemu, coś ściemniał - żadnej konkretnej umowy z klientem, wymijające odpowiedzi na moje pytania. Podejrzewałem, że chce nas porzucić. Dlatego uparłem się, by prototyp pozostał u Wirusa. Jak się okazało, przeczucie mnie nie zawiodło. Jeżeli wierzyć twoim słowom, to Leszy też jest martwy i nie ma teraz kontaktu ze zleceniodawcą. Zresztą, to już nieważne, skoro Leszy okazał się zdrajcą, to kontrakt i tak nie zostałby sfinalizowany, po prostu zlikwidowano by nas jako niepotrzebnych świadków.</pln>
@@ -5394,10 +5388,10 @@
 		<pln>Co się potem stało?</pln>
 	</string>
 	<string id="find_akill_23">
-		<rus>Мы разделились. Леший должен был выйти на связь с заказчиком и передать условия и место сделки. Вирус должен был спрятать прототип в безопасное место. Все остальные, в том числе и я, решили заняться поисками Гаусс-винтовки и Гаусс-пистолета старого образца. Как нам казалось, найти их будет проще, а выручить за них можно было бы ещё несколько сотен тысяч. Каждый член группы не знал, где находятся остальные - это была ещё одна мера предосторожности.</rus>
-		<eng>We split up. Sylvan had to get in touch with the customer and convey the terms of the deal and the place where it is to be completed. Virus should have hidden the prototype in a safe place. All the others, including myself, decided to start looking for the Gauss rifle and the old model Gauss pistol. It seemed to us it would be easier to find them and we could gain a couple hundred thousand more for them. Not all the members of the group knew each member's whereabouts - this was another precaution.</eng>
-		<ukr>Ми розділилися. Лісовик мав вийти на зв'язок із замовником і передати умови і місце угоди. Вірус повинен був заховати прототип у безпечне місце. Всі інші, у тому числі і я, вирішили зайнятися пошуками Гаусс-гвинтівки і Гаусс-пістолета старого зразка. Як нам здавалося, знайти їх буде простіше, а виручити за них можна було б ще кілька сотень тисяч. Кожен член групи не знав, де знаходяться інші - це була ще одна міра перестороги.</ukr>
-		<pln>Rozdzieliliśmy się. Leszy miał skontakować się ze zleceniodawcą i ustalić warunki i miejsce transakcji. Wirus miał schować prototyp w bezpiecznym miejscu. Wszyscy pozostali, w tej liczbie i ja, zajęli się poszukiwaniem karabinu Gaussa i starego modelu pistoletu Gaussa. Jak nam się wydawało, znaleźć je nie będzie trudno, a będzie można za nie wytargować jeszcze kilkaset tysięcy rubli. Żaden członek grupy nie wiedział, gdzie znajdują się pozostali. To było jeszcze jedno zabezpieczenie.</pln>
+		<rus>Мы разделились. Леший должен был выйти на связь с заказчиком и передать условия и место сделки. Вирус должен был спрятать прототип в безопасное место. Все остальные, в том числе и я, решили заняться поисками Гаусс-винтовок. Как нам казалось, найти их будет проще, а выручить за них можно было бы ещё несколько сотен тысяч. Каждый член группы не знал, где находятся остальные - это была ещё одна мера предосторожности.</rus>
+		<eng>We split up. Sylvan had to get in touch with the customer and convey the terms of the deal and the place where it is to be completed. Virus should have hidden the prototype in a safe place. All the others, including myself, decided to start looking for the Gauss rifles. It seemed to us it would be easier to find them and we could gain a couple hundred thousand more for them. Not all the members of the group knew each member's whereabouts - this was another precaution.</eng>
+		<ukr>Ми розділилися. Лісовик мав вийти на зв'язок із замовником і передати умови і місце угоди. Вірус повинен був заховати прототип у безпечне місце. Всі інші, у тому числі і я, вирішили зайнятися пошуками Гаусс-гвинтівок. Як нам здавалося, знайти їх буде простіше, а виручити за них можна було б ще кілька сотень тисяч. Кожен член групи не знав, де знаходяться інші - це була ще одна міра перестороги.</ukr>
+		<pln>Rozdzieliliśmy się. Leszy miał skontakować się ze zleceniodawcą i ustalić warunki i miejsce transakcji. Wirus miał schować prototyp w bezpiecznym miejscu. Wszyscy pozostali, w tej liczbie i ja, zajęli się poszukiwaniem karabinu Gaussa. Jak nam się wydawało, znaleźć je nie będzie trudno, a będzie można za nie wytargować jeszcze kilkaset tysięcy rubli. Żaden członek grupy nie wiedział, gdzie znajdują się pozostali. To było jeszcze jedno zabezpieczenie.</pln>
 	</string>
 	<string id="find_akill_24">
 		<rus>Как же вы общались друг с другом?</rus>
@@ -5418,10 +5412,10 @@
 		<pln>Wam na zwiady trzeba było iść. Słuchaj, w PDA Leszego znalazłem informację o jego udziale w napadzie na kuriera Sidorowicza. Czego od niego chciał?</pln>
 	</string>
 	<string id="find_akill_27">
-		<rus>Мне об этом мало что известно, могу лишь поделиться своей версией случившегося. Вероятно, у курьера была информация о первом и неудачном прототипе Гаусс-пистолете. Что Леший обещал бандитам, мне неизвестно, но они выполнили всю грязную работу за него. Однако бандосы не успели передать ему флешку с данными - кто-то спас курьера и отдал инфу торговцу Сидоровичу. В ответ наёмники организовали нападение на деревню новичков, чтобы завладеть флехой, но сталкеры отбили его.</rus>
-		<eng>I know little about it, I can only share my version of what happened. Probably, the courier had information about the first and failed prototype Gauss pistol. What Sylvan promised the bandits, I don't know, but they did all the dirty work for him. However, the bandits did not have time to hand him the flash drive with the data - someone saved the courier and gave the information to the trader Sidorovich. In retaliation for that, the mercs organized an attack on the village of newbies in order to take possession of the flash drive, but the stalkers fought them off.</eng>
-		<ukr>Мені про це мало що відомо, можу лише поділитися своєю версією того, що сталося. Ймовірно, у кур'єра була інформація про перший і невдалий прототип Гаусс-пістолета. Що Лісовик обіцяв бандитам, мені невідомо, але вони виконали всю брудну роботу за нього. Однак бандоси не встигли передати йому флешку з даними - хтось врятував кур'єра і віддав інфу торговцю Сидоровичу. У відповідь найманці організували напад на село новачків, щоб заволодіти флехой, але сталкери відбили його.</ukr>
-		<pln>W zasadzie nic o tym nie wiem, mogę tylko podzielić się swoimi przypuszczeniami. Prawdopodobnie, kurier niósł informację o pierwszym i nieudanym prototypie pistoletu Gaussa. Co Leszy obiecał bandytom, nie wiem, ale wykonali za niego całą brudną robotę. Jednakże bandyci nie zdążyli przekazać mu fleszki z danymi - ktoś uratował kuriera i oddał fleszkę handlarzowi Sidorowiczowi. W odpowiedzi najemnicy zorganizowali napad na wioskę nowicjuszy, żeby zdobyć tę fleszkę, ale stalkerzy się obronili.</pln>
+		<rus>Мне об этом мало что известно, могу лишь поделиться своей версией случившегося. Вероятно, у курьера была информация о первом и неудачном прототипе ЭМ-оружия. Что Леший обещал бандитам, мне неизвестно, но они выполнили всю грязную работу за него. Однако бандосы не успели передать ему флешку с данными - кто-то спас курьера и отдал инфу торговцу Сидоровичу. В ответ наёмники организовали нападение на деревню новичков, чтобы завладеть флехой, но сталкеры отбили его.</rus>
+		<eng>===I know little about it, I can only share my version of what happened. Probably, the courier had information about the first and failed prototype Gauss pistol. What Sylvan promised the bandits, I don't know, but they did all the dirty work for him. However, the bandits did not have time to hand him the flash drive with the data - someone saved the courier and gave the information to the trader Sidorovich. In retaliation for that, the mercs organized an attack on the village of newbies in order to take possession of the flash drive, but the stalkers fought them off.</eng>
+		<ukr>===Мені про це мало що відомо, можу лише поділитися своєю версією того, що сталося. Ймовірно, у кур'єра була інформація про перший і невдалий прототип Гаусс-пістолета. Що Лісовик обіцяв бандитам, мені невідомо, але вони виконали всю брудну роботу за нього. Однак бандоси не встигли передати йому флешку з даними - хтось врятував кур'єра і віддав інфу торговцю Сидоровичу. У відповідь найманці організували напад на село новачків, щоб заволодіти флехой, але сталкери відбили його.</ukr>
+		<pln>===W zasadzie nic o tym nie wiem, mogę tylko podzielić się swoimi przypuszczeniami. Prawdopodobnie, kurier niósł informację o pierwszym i nieudanym prototypie pistoletu Gaussa. Co Leszy obiecał bandytom, nie wiem, ale wykonali za niego całą brudną robotę. Jednakże bandyci nie zdążyli przekazać mu fleszki z danymi - ktoś uratował kuriera i oddał fleszkę handlarzowi Sidorowiczowi. W odpowiedzi najemnicy zorganizowali napad na wioskę nowicjuszy, żeby zdobyć tę fleszkę, ale stalkerzy się obronili.</pln>
 	</string>
 	<string id="find_akill_28">
 		<rus>Теперь всё стало ясно. Расскажи мне о других членах группы.</rus>
@@ -5517,10 +5511,10 @@
 	</string>
 	<!-- Приносим софт Доценту -->
 	<string id="haker_soft_done_0">
-		<rus>В группе Лешего оказался хакер. В его тайнике я нашёл несколько дисков. Посмотри, что на них.</rus>
-		<eng>Turns out there was a hacker in the Sylvan's group. I found a few disks in his stash. Look at whatever is on them.</eng>
-		<ukr>У групі Лісовика виявився хакер. У його схованці я знайшов кілька дисків. Подивися, що на них.</ukr>
-		<pln>W grupie Leszego był haker. W jego schowku znalazłem kilka dysków. Zobacz, co tam na nich jest.</pln>
+		<rus>В группе Лешего оказался хакер. В его тайнике я нашёл несколько флешек. Посмотри, что на них.</rus>
+		<eng>===Turns out there was a hacker in the Sylvan's group. I found a few disks in his stash. Look at whatever is on them.</eng>
+		<ukr>===У групі Лісовика виявився хакер. У його схованці я знайшов кілька дисків. Подивися, що на них.</ukr>
+		<pln>===W grupie Leszego był haker. W jego schowku znalazłem kilka dysków. Zobacz, co tam na nich jest.</pln>
 	</string>
 	<string id="haker_soft_done_1">
 		<rus>Сейчас... Кстати, я не смог связаться со Скитальцем. Приходит сообщение, что данный аккаунт не существует. Не понимаю, как ему удалось такое провернуть... Ух, ты! Да здесь уже готовые утилиты для взлома любого типа ПДА. Давай-ка свой сюда. Так, ага... ещё несколько секунд... Готово!</rus>
@@ -5836,7 +5830,7 @@
 		<pln>Miła niespodzianka! Co tu właściwie robisz i dlaczego zbudowałeś tę minową zaporę?</pln>
 	</string>
 	<string id="mina_partizan_have_5">
-		<rus>Раз ты встречался с Акиллом, то в курсе про наймов из Блэквотер. Не знаю каким образом, но они знали, куда я направляюсь. Думаю, Леший вёл двойную игру и сдал всю нашу группу конкурирующей корпорации, у Акилла были подобные опасения. Мне лишь чудом удалось не угодить в их лапы. Хорошо, что мины не взорваны, наймиты могут объявится в любой момент.</rus>
+		<rus>Раз ты встречался с Акиллом, то в курсе про наймов из Блэквотер. Не знаю каким образом, но они знали, куда я направляюсь. Думаю, Леший вёл двойную игру и сдал всю нашу группу конкурирующей корпорации, у Акилла были подобные опасения. Мне лишь чудом удалось не угодить в их лапы. Хорошо, что мины не взорваны, наймиты могут объявиться в любой момент.</rus>
 		<eng>Since you met Akill, you must know about Blackwater mercs. I don't know how, but they knew where I was going. I think Sylvan was playing a double game and sold our entire group out to a rival company, and Akill was also having these concerns. I just miraculously managed to not fall into their hands. It's good that the mines ain't blown up, the mercs may appear at any time.</eng>
 		<ukr>Раз ти зустрічався з Акіллом, то в курсі про наймів з Блеквотер. Не знаю яким чином, але вони знали, куди я прямую. Думаю, Лісовик вів подвійну гру і здав всю нашу групу конкуруючій корпорації, у Акілла були подібні побоювання. Мені лише дивом вдалося не потрапити в їхні лапи. Добре, що міни не підірвані, наймити можуть з'явиться в будь-який момент.</ukr>
 		<pln>Skoro spotkałeś się z Akillem, to wiesz o najemnikach z Blackwater. Nie wiem jakim sposobem, ale oni wiedzieli, gdzie się kieruję. Myślę, że Leszy prowadził podwójną grę i sprzedał calą naszą grupę konkurencyjnej korporacji, Akill miał podobne obawy. Tylko cudem udało mi się nie wpaść w ich łapy. Dobrze, że miny nie zostały wysadzone, najemnicy mogą tu się pojawić lada chwila.</pln>
@@ -5848,7 +5842,7 @@
 		<pln>A skąd ich tyle wziąłeś?</pln>
 	</string>
 	<string id="mina_partizan_have_7">
-		<rus>В комплексе наткнулся на ящик с надписью "Не трогать". На нём лежала записка от Борова с приказом не брать мины из ящика. Мол, хоть проблема с ползучими полтерами решена, но они могут объявится вновь. Если такое вдруг случится, то бандитам следует заминировать вход в комплекс. Вот я и решил использовать их - спрятаться здесь на время и держать оборону... Тихо! Кто-то пробрался в зал...</rus>
+		<rus>В комплексе наткнулся на ящик с надписью "Не трогать". На нём лежала записка от Борова с приказом не брать мины из ящика. Мол, хоть проблема с ползучими полтерами решена, но они могут объявиться вновь. Если такое вдруг случится, то бандитам следует заминировать вход в комплекс. Вот я и решил использовать их - спрятаться здесь на время и держать оборону... Тихо! Кто-то пробрался в зал...</rus>
 		<eng>In the complex I came across a box with the words "Do not touch" written on it. On it lay a Borov's note ordering not to take mines from the box. Like, although the problem with creeping poltergeists has been solved, they may show up again. If it happens, the bandits will have to mine the entrance to the complex. So I decided to use them - to hide here for a while and defend this position... Quiet! Someone's sneaked into the hall...</eng>
 		<ukr>У комплексі наткнувся на ящик з написом "Не чіпати". На ньому лежала записка від Кабана із наказом не брати міни з ящика. Мовляв, хоч проблема з повзучими полтерами вирішена, але вони можуть з'явиться знову. Якщо таке раптом трапиться, то бандитам слід замінувати вхід в комплекс. Ось я і вирішив використати їх - сховатися тут на час і тримати оборону... Тихо! Хтось пробрався в зал...</ukr>
 		<pln>W kompleksie natknąłem się na skrzynkę z napisem "nie dotykać". Na niej leżała notatka Borowa z rozkazem nie brać min ze skrzynki. Niby że, chociaż problem z pełzającymi poltergeistami został rozwiązany, ale mogą znowu się pojawić. Jeśli takie coś się zdarzy, to bandyci zdążą zaminować wejście do kompleksu. Więc postanowiłem ich użyć - schować się tu na jakiś czas i trzymać obronę... Cicho! Ktoś przedostał się do hali...</pln>
@@ -6907,10 +6901,10 @@
 		<pln>Mam twoją armatę, złodziej ukarany. Trzeba mu oddać co należne, to mistrz innego wcielenia. W jego PDA będziesz mógł znaleźć wiele ciekawych wpisów o waszym ugrupowaniu i jego członkach.</pln>
 	</string>
 	<string id="svoboda_peremirie_done_1">
-		<rus>Вот уважил, спасибо! Воронину можешь сказать, что мы в расчёте... Да тут даже есть координаты чьего-то схрона! Скидываю их тебе... Теперь по поводу прохода. Слушай внимательно. Этой ночью с полуночи до 4 утра я сниму посты на пути отряда, их задача пройти быстро и без шума. Маршрут пути скинул на твой ПДА.</rus>
-		<eng>Thanks for showing us respect! Tell Voronin we're even now... There's even the coordinates for someone's stash! Uploading them onto your PDA... Now about the passage. Listen carefully. This night, since midnight till 4 am there'll be no sentries along the way of your squad, their task will be to pass quickly and noiselessly. I've just uploaded the route onto your PDA.</eng>
-		<ukr>От уважив, спасибі! Вороніну можеш сказати, що ми у розрахунку... Та тут навіть є координати чийогось схрону! Скидаю їх тобі... Тепер з приводу проходу. Слухай уважно. Цієї ночі з опівночі до 4 ранку я зніму пости на шляху загону, їхнє завдання пройти швидко і без шуму. Маршрут шляху скинув на твій КПК.</ukr>
-		<pln>Szacunek, dziękuję! Woroninowi możesz powiedzieć, że jesteśmy rozliczeni... Tu nawet są współrzędne schowka tego parszywca! Postawię ci na niego znacznik... Teraz w sprawie przejścia. Słuchaj uważnie. Tej w nocy, między północą a 4 rano, zdejmę posterunki na drodze oddziału, ich zadaniem jest przejść szybko i bez hałasu. Trasę zrzuciłem na twoje PDA.</pln>
+		<rus>Вот уважил, спасибо! Воронину можешь сказать, что мы в расчёте... Ты только глянь, у этого засранца имелись координаты тропы с ЧАЭС-2 сразу на Затон, запиши их себе. Сказано, что обратной дороги нет - на высокие холмы никак не забраться... Теперь по поводу прохода. Слушай внимательно. Этой ночью с полуночи до 4 утра я сниму посты на пути отряда, их задача пройти быстро и без шума. Маршрут пути скинул на твой ПДА.</rus>
+		<eng>===Thanks for showing us respect! Tell Voronin we're even now... Now about the passage. Listen carefully. This night, since midnight till 4 am there'll be no sentries along the way of your squad, their task will be to pass quickly and noiselessly. I've just uploaded the route onto your PDA.</eng>
+		<ukr>===От уважив, спасибі! Вороніну можеш сказати, що ми у розрахунку... Тепер з приводу проходу. Слухай уважно. Цієї ночі з опівночі до 4 ранку я зніму пости на шляху загону, їхнє завдання пройти швидко і без шуму. Маршрут шляху скинув на твій КПК.</ukr>
+		<pln>===Szacunek, dziękuję! Woroninowi możesz powiedzieć, że jesteśmy rozliczeni... Teraz w sprawie przejścia. Słuchaj uważnie. Tej w nocy, między północą a 4 rano, zdejmę posterunki na drodze oddziału, ich zadaniem jest przejść szybko i bez hałasu. Trasę zrzuciłem na twoje PDA.</pln>
 	</string>
 	<string id="svoboda_peremirie_done_2">
 		<rus>А почему ночью?</rus>
@@ -8384,10 +8378,10 @@
 		<pln>A czyje to PDA i skąd je wziąłeś?</pln>
 	</string>
 	<string id="arny_kogot_have_11">
-		<rus>Ты думаешь, у меня было время его читать? За нами гналась целая орава фанатиков... Эта вещь, которую ищет Монолит, была на их базе в Припяти. Кто-то вынес всю базу и выкрал её оттуда. Я даже слышал, что ещё был похищен прототип нового Гаусс-пистолета.</rus>
+		<rus>Ты думаешь, у меня было время его читать? За нами гналась целая орава фанатиков... Эта вещь, которую ищет Монолит, была на их базе в Припяти. Кто-то вынес всю базу и выкрал её оттуда. Я даже слышал, что ещё был похищен прототип Гаусс-пистолета.</rus>
 		<eng>Do you think I've had time to read it? A whole horde of fanatics were chasing us... That thing Monolith is looking for was at their base in Pripyat. Someone took out the entire base and stole it from there. I even heard that a prototype Gauss pistol was also stolen.</eng>
-		<ukr>Ти думаєш, у мене був час його читати? За нами гналася ціла орава фанатиків... Ця річ, яку шукає Моноліт, була на їхній базі у Прип'яті. Хтось виніс всю базу і викрав її звідти. Я навіть чув, що ще був викрадений прототип нового Гаусс-пістолета.</ukr>
-		<pln>Myślisz, że miałem czas je przeglądać? Za nami gonił cały tłum fanatyków... Ta rzecz, której szuka Monolit, była na ich bazie w Prypeci. Ktoś rozniósł całą bazę i wykradł ją stamtąd. Nawet słyszałem, że jeszcze ukradziono prototyp nowego pistoletu Gaussa.</pln>
+		<ukr>Ти думаєш, у мене був час його читати? За нами гналася ціла орава фанатиків... Ця річ, яку шукає Моноліт, була на їхній базі у Прип'яті. Хтось виніс всю базу і викрав її звідти. Я навіть чув, що ще був викрадений прототип Гаусс-пістолета.</ukr>
+		<pln>Myślisz, że miałem czas je przeglądać? Za nami gonił cały tłum fanatyków... Ta rzecz, której szuka Monolit, była na ich bazie w Prypeci. Ktoś rozniósł całą bazę i wykradł ją stamtąd. Nawet słyszałem, że jeszcze ukradziono prototyp pistoletu Gaussa.</pln>
 	</string>
 	<string id="arny_kogot_have_12">
 		<rus>Я знаю, кто вынес базу, и мне известно, что кроме прототипа там больше ничего не было.</rus>
