@@ -142,32 +142,32 @@
 	<string id="akill_kulinar_3">
 		<rus>Постой! Если избавишь нас от соседства с этой тварью, я тебя награжу чем-нибудь. Возвращайся потом за наградой.</rus>
 		<eng>===Wait! Can you bring me a part of that controller as a trophy? I'll be showing it to all newcomers from Cordon. They'll all be dying of envy!</eng>
-		<ukr>===Стривай! Можеш принести мені частину цього контролера у якості трофея? Буду показувати всім новачкам, які приходять з Кордону. От обзаздряться!</ukr>
+		<ukr>Стривай! Якщо позбавиш нас від сусідства з цією тварюкою, я тебе нагороджу чимось. Повертайся потім за нагородою.</ukr>
 		<pln>===Chwileczkę! Możesz przynieść mi kawałek tego kontrolera w charakterze trofeum? Będę pokazywać wszystkim nowicjuszom, co przychodzą z Kordonu. Ale będą zazdrościć!</pln>
 	</string>
 	<!-- Возвращаемся к Кулинару -->
 	<string id="akill_give_kulinar_0">
 		<rus>Угомонил я контриков, вместе со свитой. Можешь сходить, поглазеть на них, раз не встречал никогда. Нож захватить не забудь, трофей срежешь - руку самого контролёра! Будешь показывать всем новичкам, что приходят с Кордона. Вот они обзавидуются!</rus>
 		<eng>===Wait! Can you bring me a part of that controller as a trophy? I'll be showing it to all newcomers from Cordon. They'll all be dying of envy!</eng>
-		<ukr>===Стривай! Можеш принести мені частину цього контролера у якості трофея? Буду показувати всім новачкам, які приходять з Кордону. От обзаздряться!</ukr>
+		<ukr>Вгамував я контрика, разом зі свитою. Можеш сходити, подивитися на них, раз не зустрічав ніколи. Ніж захопити не забудь, трофей зріжеш - руку самого контролера! Будеш показувати всім новачкам, які приходять з Кордону. Ото вони обзаздряться!</ukr>
 		<pln>===Chwileczkę! Możesz przynieść mi kawałek tego kontrolera w charakterze trofeum? Będę pokazywać wszystkim nowicjuszom, co przychodzą z Kordonu. Ale będą zazdrościć!</pln>
 	</string>
 	<string id="akill_give_kulinar_1">
 		<rus>Рука? А на хрена мне рука? Я думал сразу голову отсечь! Что я буду с рукой-то делать?</rus>
 		<eng>===The hand? What the fuck do I need the hand for? I thought you'd bring me its head. What do I do with the hand?</eng>
-		<ukr>===Рука? А на хріна мені рука? Я думав, ти мені голову принесеш. Що я буду з рукою робити?</ukr>
+		<ukr>Рука? А на хріна мені рука? Я думав одразу голову відсікти! Що я буду з рукою робити?</ukr>
 		<pln>===Ręka? A na cholerę mi ręka? Myślałem, że głowę mi przyniesiesz. Co ja będę robił z ręką?</pln>
 	</string>
 	<string id="akill_give_kulinar_2">
 		<rus>А зачем тебе голова? На свою что ль надевать, чтоб новичков пугать? Если нужна голова, то бери тогда в руки топор. Трупы до сих пор там валяются: один в лесу, второй в кустах лежит.</rus>
 		<eng>===And what do you need the head for? To put it on your own and go scaring newbies? If you do need the head, then take an ax. The corpse is still there. The second one lies in the bushes.</eng>
-		<ukr>===А навіщо тобі голова? На свою чи що надягати, щоб новачків лякати? Якщо потрібна голова, то бери у руки сокиру. Труп досі там валяється. Другий у кущах лежить.</ukr>
+		<ukr>А навіщо тобі голова? На свою надягати, щоб новачків лякати, чи що? Якщо потрібна голова, то бери тоді у руки сокиру. Трупи досі там валяються: один у лісі, другий у кущах лежить.</ukr>
 		<pln>===A po co ci głowa? Na swoją będziesz nakładać, żeby nowicjuszy straszyć? Jeżeli potrzebujesz głowy, to bierz siekierę. Trup do tej pory tam się poniewiera. Drugi leży w krzakach.</pln>
 	</string>
 	<string id="akill_give_kulinar_3">
 		<rus>Ну ты шутник! Вот тебе немного медикаментов и патронов.</rus>
 		<eng>===Well, you're such a joker! Here's a few first-aid kits.</eng>
-		<ukr>===Ну ти жартівник! Ось тобі пара аптечок.</ukr>
+		<ukr>Ну ти жартівник! Ось тобі трохи медикаментів і патронів.</ukr>
 		<pln>===Żartowniś! A dla ciebie kilka apteczek.</pln>
 	</string>
 	<!-- Разговор с Крестом -->
@@ -5055,13 +5055,13 @@
 	<string id="izdelie_gp_start_6">
 		<rus>Ого! Это что-то новенькое!</rus>
 		<eng>===And what's new in this prototype?</eng>
-		<ukr>===І що ж нового у цьому прототипі?</ukr>
+		<ukr>Ого! Це щось новеньке!</ukr>
 		<pln>===I co nowego w tym prototypie?</pln>
 	</string>
 	<string id="izdelie_gp_start_7">
 		<rus>Оставь мне документацию и флешку, пороюсь в них. Но их будет недостаточно, чтобы узнать особенности нового оружия. Информация с флешки это продолжение информации из документов. Судя по содержанию, существует ещё пять таких частей. Если найдёшь остальные, то, возможно, нам с Долговязым удастся воссоздать такой прототип. Как только найдёшь всю недостающую информацию, то сразу же принеси её мне.</rus>
 		<eng>Leave the documentation and the flash drive, I'll take a look at them. But they won't be enough to learn the features of the new weapon. The information from the flash drive is sequential to the information from the documents. Judging by the content, there are five more parts like these. If you find the rest, then maybe we, me and Lanky, will be able to create this prototype. As soon as you find all the missing information, bring it to me immediately.</eng>
-		<ukr>Залиш документацію та флешку, пориюсь у них. Але їх буде недостатньо, щоб дізнатися особливості нової зброї. Інформація з флешки це продовження інформації з документів. Судячи зі змісту, існує ще п'ять таких частин. Якщо знайдеш інші, то, можливо, нам з Довгов'язим вдасться відтворити такий прототип. Як тільки знайдеш всю відсутню інформацію, то відразу ж принось її мені.</ukr>
+		<ukr>Залиш мені документацію та флешку, пориюсь у них. Але їх буде недостатньо, щоб дізнатися особливості нової зброї. Інформація з флешки це продовження інформації з документів. Судячи зі змісту, існує ще п'ять таких частин. Якщо знайдеш інші, то, можливо, нам з Довгов'язим вдасться відтворити такий прототип. Як тільки знайдеш всю відсутню інформацію, то відразу ж принось її мені.</ukr>
 		<pln>Zostaw mi tę dokumentację i fleszkę, przyjrzę się temu dokładniej. Ale jest tu za mało informacji, by dowiedzieć się właściwości nowej broni. Informacja z fleszki to kontynuacja informacji z dokumentów. Sądząc po treści, istnieje jeszcze pięć takich części. Jeżeli znajdziesz pozostałe, to całkiem możliwe, że razem z Chudym zdołamy odtworzyć taki prototyp. Jak tylko znajdziesz resztę brakującej dokumentacji, to od razu mi ją przynieś.</pln>
 	</string>
 	<string id="izdelie_gp_start_8">
@@ -5153,7 +5153,7 @@
 	<string id="izdelie_gp_done_5">
 		<rus>Не верю своим глазам! Это действительно оружие нового поколения. Где ты его откопал?</rus>
 		<eng>===I don't believe my eyes! This is really a prototype Gauss pistol. It's almost the same on the outside, but on the inside it's slightly different. Where'd you get it?</eng>
-		<ukr>===Не вірю своїм очам! Це дійсно прототип Гаусс-пістолета. Зовнішніх відмінностей майже немає, а от "начинка" трохи інша. Де ти його відкопав?</ukr>
+		<ukr>Не вірю своїм очам! Це дійсно зброя нового покоління. Де ти його відкопав?</ukr>
 		<pln>===Nie wierzę własnym oczom! To rzeczywiście prototyp pistoletu Gaussa. Zewnętrznie praktycznie się nie różni, ale "wnętrze" jest inne. Gdzie ty go wykopałeś?</pln>
 	</string>
 	<string id="izdelie_gp_done_6">
@@ -5221,13 +5221,13 @@
 	<string id="new_gp_give_2">
 		<rus>Это уже моя забота. Какие у него характеристики?</rus>
 		<eng>===This is my concern. What's the difference between it and the old model?</eng>
-		<ukr>===Це вже моя турбота. Які у нього відмінності від старого зразка?</ukr>
+		<ukr>Це вже моя турбота. Які у нього характеристики?</ukr>
 		<pln>===To już moja działka. Czym się różni od starego modelu?</pln>
 	</string>
 	<string id="new_gp_give_3">
 		<rus>Охренительная убойность за счёт использования Супергаусс-патронов. В блок помещается до девяти ферромагнитных патронов. Кстати, в документах он имеет ещё одно название - ПГИ «Gauss» M72-GG. Это так, к сведению.</rus>
 		<eng>===Apart from increased damage, the new Gauss pistol can fire both standard Gauss cartridges and Super Gauss cartridges. The clip can now contain not one ferromagnetic cartridge, but eight. By the way, in the documents the pistol has another name - PGI M78-A-GG. This is just FYI.</eng>
-		<ukr>===Крім підвищеної вбивчості, новий Гаусс-пістолет може стріляти як звичайними Гаусс-патронами, так і Супергаусс-патронами. У блок тепер поміщається не один феромагнітний патрон, а відразу вісім. До речі, у документах він має ще одну назву - ПГІ M78-А-GG. Це я так, до відома.</ukr>
+		<ukr>Офігенна вбивчість за рахунок використання Супергаусс-патронів. У блок поміщається до дев'яти феромагнітних патронів. До речі, в документах він має ще одну назву - ПГІ «Gauss» M72-GG. Це так, до відома.</ukr>
 		<pln>===Nie licząc podwyższonej skuteczności, nowy pistolet Gaussa może strzelać zarówno zwykłą amunicją Gaussa, jak i ładunkami SuperGauss. W magazynku teraz mieści się nie jeden ferromagnetyczny nabój, ale aż osiem. Przy okazji, w dokumentacji ma on jeszcze jedną nazwę - PGI M78-A-GG. To tylko tak, dla informacji.</pln>
 	</string>
 	<string id="new_gp_give_4">
@@ -5336,7 +5336,7 @@
 	<string id="find_akill_14">
 		<rus>То есть прототип существует не только в виде чертежей?</rus>
 		<eng>That means the prototype exists not only as a drawing?</eng>
-		<ukr>Тобто, прототип існує не тільки у вигляді креслень?</ukr>
+		<ukr>Тобто прототип існує не тільки у вигляді креслень?</ukr>
 		<pln>To znaczy, prototyp istnieje nie tylko na schemacie?</pln>
 	</string>
 	<string id="find_akill_15">
@@ -5414,7 +5414,7 @@
 	<string id="find_akill_27">
 		<rus>Мне об этом мало что известно, могу лишь поделиться своей версией случившегося. Вероятно, у курьера была информация о первом и неудачном прототипе ЭМ-оружия. Что Леший обещал бандитам, мне неизвестно, но они выполнили всю грязную работу за него. Однако бандосы не успели передать ему флешку с данными - кто-то спас курьера и отдал инфу торговцу Сидоровичу. В ответ наёмники организовали нападение на деревню новичков, чтобы завладеть флехой, но сталкеры отбили его.</rus>
 		<eng>===I know little about it, I can only share my version of what happened. Probably, the courier had information about the first and failed prototype Gauss pistol. What Sylvan promised the bandits, I don't know, but they did all the dirty work for him. However, the bandits did not have time to hand him the flash drive with the data - someone saved the courier and gave the information to the trader Sidorovich. In retaliation for that, the mercs organized an attack on the village of newbies in order to take possession of the flash drive, but the stalkers fought them off.</eng>
-		<ukr>===Мені про це мало що відомо, можу лише поділитися своєю версією того, що сталося. Ймовірно, у кур'єра була інформація про перший і невдалий прототип Гаусс-пістолета. Що Лісовик обіцяв бандитам, мені невідомо, але вони виконали всю брудну роботу за нього. Однак бандоси не встигли передати йому флешку з даними - хтось врятував кур'єра і віддав інфу торговцю Сидоровичу. У відповідь найманці організували напад на село новачків, щоб заволодіти флехой, але сталкери відбили його.</ukr>
+		<ukr>Мені про це мало що відомо, можу лише поділитися своєю версією того, що сталося. Ймовірно, у кур'єра була інформація про перший і невдалий прототип ЕМ-зброї. Що Лісовик обіцяв бандитам, мені невідомо, але вони виконали всю брудну роботу за нього. Однак бандоси не встигли передати йому флешку з даними - хтось врятував кур'єра і віддав інфу торговцю Сидоровичу. У відповідь найманці організували напад на село новачків, щоб заволодіти флехой, але сталкери відбили його.</ukr>
 		<pln>===W zasadzie nic o tym nie wiem, mogę tylko podzielić się swoimi przypuszczeniami. Prawdopodobnie, kurier niósł informację o pierwszym i nieudanym prototypie pistoletu Gaussa. Co Leszy obiecał bandytom, nie wiem, ale wykonali za niego całą brudną robotę. Jednakże bandyci nie zdążyli przekazać mu fleszki z danymi - ktoś uratował kuriera i oddał fleszkę handlarzowi Sidorowiczowi. W odpowiedzi najemnicy zorganizowali napad na wioskę nowicjuszy, żeby zdobyć tę fleszkę, ale stalkerzy się obronili.</pln>
 	</string>
 	<string id="find_akill_28">
@@ -5513,7 +5513,7 @@
 	<string id="haker_soft_done_0">
 		<rus>В группе Лешего оказался хакер. В его тайнике я нашёл несколько флешек. Посмотри, что на них.</rus>
 		<eng>===Turns out there was a hacker in the Sylvan's group. I found a few disks in his stash. Look at whatever is on them.</eng>
-		<ukr>===У групі Лісовика виявився хакер. У його схованці я знайшов кілька дисків. Подивися, що на них.</ukr>
+		<ukr>У групі Лісовика виявився хакер. У його схованці я знайшов кілька флешок. Подивися, що на них.</ukr>
 		<pln>===W grupie Leszego był haker. W jego schowku znalazłem kilka dysków. Zobacz, co tam na nich jest.</pln>
 	</string>
 	<string id="haker_soft_done_1">
@@ -5832,7 +5832,7 @@
 	<string id="mina_partizan_have_5">
 		<rus>Раз ты встречался с Акиллом, то в курсе про наймов из Блэквотер. Не знаю каким образом, но они знали, куда я направляюсь. Думаю, Леший вёл двойную игру и сдал всю нашу группу конкурирующей корпорации, у Акилла были подобные опасения. Мне лишь чудом удалось не угодить в их лапы. Хорошо, что мины не взорваны, наймиты могут объявиться в любой момент.</rus>
 		<eng>Since you met Akill, you must know about Blackwater mercs. I don't know how, but they knew where I was going. I think Sylvan was playing a double game and sold our entire group out to a rival company, and Akill was also having these concerns. I just miraculously managed to not fall into their hands. It's good that the mines ain't blown up, the mercs may appear at any time.</eng>
-		<ukr>Раз ти зустрічався з Акіллом, то в курсі про наймів з Блеквотер. Не знаю яким чином, але вони знали, куди я прямую. Думаю, Лісовик вів подвійну гру і здав всю нашу групу конкуруючій корпорації, у Акілла були подібні побоювання. Мені лише дивом вдалося не потрапити в їхні лапи. Добре, що міни не підірвані, наймити можуть з'явиться в будь-який момент.</ukr>
+		<ukr>Раз ти зустрічався з Акіллом, то в курсі про наймів з Блеквотер. Не знаю яким чином, але вони знали, куди я прямую. Думаю, Лісовик вів подвійну гру і здав всю нашу групу конкуруючій корпорації, у Акілла були подібні побоювання. Мені лише дивом вдалося не потрапити в їхні лапи. Добре, що міни не підірвані, наймити можуть з'явитися у будь-який момент.</ukr>
 		<pln>Skoro spotkałeś się z Akillem, to wiesz o najemnikach z Blackwater. Nie wiem jakim sposobem, ale oni wiedzieli, gdzie się kieruję. Myślę, że Leszy prowadził podwójną grę i sprzedał calą naszą grupę konkurencyjnej korporacji, Akill miał podobne obawy. Tylko cudem udało mi się nie wpaść w ich łapy. Dobrze, że miny nie zostały wysadzone, najemnicy mogą tu się pojawić lada chwila.</pln>
 	</string>
 	<string id="mina_partizan_have_6">
@@ -5844,7 +5844,7 @@
 	<string id="mina_partizan_have_7">
 		<rus>В комплексе наткнулся на ящик с надписью "Не трогать". На нём лежала записка от Борова с приказом не брать мины из ящика. Мол, хоть проблема с ползучими полтерами решена, но они могут объявиться вновь. Если такое вдруг случится, то бандитам следует заминировать вход в комплекс. Вот я и решил использовать их - спрятаться здесь на время и держать оборону... Тихо! Кто-то пробрался в зал...</rus>
 		<eng>In the complex I came across a box with the words "Do not touch" written on it. On it lay a Borov's note ordering not to take mines from the box. Like, although the problem with creeping poltergeists has been solved, they may show up again. If it happens, the bandits will have to mine the entrance to the complex. So I decided to use them - to hide here for a while and defend this position... Quiet! Someone's sneaked into the hall...</eng>
-		<ukr>У комплексі наткнувся на ящик з написом "Не чіпати". На ньому лежала записка від Кабана із наказом не брати міни з ящика. Мовляв, хоч проблема з повзучими полтерами вирішена, але вони можуть з'явиться знову. Якщо таке раптом трапиться, то бандитам слід замінувати вхід в комплекс. Ось я і вирішив використати їх - сховатися тут на час і тримати оборону... Тихо! Хтось пробрався в зал...</ukr>
+		<ukr>У комплексі наткнувся на ящик з написом "Не чіпати". На ньому лежала записка від Кабана із наказом не брати міни з ящика. Мовляв, хоч проблема з повзучими полтерами вирішена, але вони можуть з'явитися знову. Якщо таке раптом трапиться, то бандитам слід замінувати вхід в комплекс. Ось я і вирішив використати їх - сховатися тут на час і тримати оборону... Тихо! Хтось пробрався в зал...</ukr>
 		<pln>W kompleksie natknąłem się na skrzynkę z napisem "nie dotykać". Na niej leżała notatka Borowa z rozkazem nie brać min ze skrzynki. Niby że, chociaż problem z pełzającymi poltergeistami został rozwiązany, ale mogą znowu się pojawić. Jeśli takie coś się zdarzy, to bandyci zdążą zaminować wejście do kompleksu. Więc postanowiłem ich użyć - schować się tu na jakiś czas i trzymać obronę... Cicho! Ktoś przedostał się do hali...</pln>
 	</string>
 	<string id="mina_partizan_have_8">
@@ -6903,7 +6903,7 @@
 	<string id="svoboda_peremirie_done_1">
 		<rus>Вот уважил, спасибо! Воронину можешь сказать, что мы в расчёте... Ты только глянь, у этого засранца имелись координаты тропы с ЧАЭС-2 сразу на Затон, запиши их себе. Сказано, что обратной дороги нет - на высокие холмы никак не забраться... Теперь по поводу прохода. Слушай внимательно. Этой ночью с полуночи до 4 утра я сниму посты на пути отряда, их задача пройти быстро и без шума. Маршрут пути скинул на твой ПДА.</rus>
 		<eng>===Thanks for showing us respect! Tell Voronin we're even now... Now about the passage. Listen carefully. This night, since midnight till 4 am there'll be no sentries along the way of your squad, their task will be to pass quickly and noiselessly. I've just uploaded the route onto your PDA.</eng>
-		<ukr>===От уважив, спасибі! Вороніну можеш сказати, що ми у розрахунку... Тепер з приводу проходу. Слухай уважно. Цієї ночі з опівночі до 4 ранку я зніму пости на шляху загону, їхнє завдання пройти швидко і без шуму. Маршрут шляху скинув на твій КПК.</ukr>
+		<ukr>Ось уважив, спасибі! Вороніну можеш сказати, що ми в розрахунку... Ти тільки глянь, у цього засранця були координати стежки з ЧАЕС-2 відразу на Затон, запиши їх собі. Сказано, що дороги назад немає - на високі пагорби ніяк не залізти... Тепер з приводу проходу. Слухай уважно. Цієї ночі з опівночі до 4 ранку я зніму пости на шляху загону, їхнє завдання пройти швидко і без шуму. Маршрут шляху скинув на твій КПК.</ukr>
 		<pln>===Szacunek, dziękuję! Woroninowi możesz powiedzieć, że jesteśmy rozliczeni... Teraz w sprawie przejścia. Słuchaj uważnie. Tej w nocy, między północą a 4 rano, zdejmę posterunki na drodze oddziału, ich zadaniem jest przejść szybko i bez hałasu. Trasę zrzuciłem na twoje PDA.</pln>
 	</string>
 	<string id="svoboda_peremirie_done_2">
