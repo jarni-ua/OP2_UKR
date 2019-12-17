@@ -43,10 +43,10 @@
 		<pln>Teleport Fenrira na Zaton</pln>
 	</string>
 	<string id="arhara_obman7">
-		<rus>Телепорт Котобегемота в Бар</rus>
-		<eng>Catbehemoth's teleport to the Bar</eng>
-		<ukr>Телепорт Котобегемота в Бар</ukr>
-		<pln>Teleport Kotobehemota do Baru</pln>
+		<rus>Телепорт в Бар</rus>
+		<eng>Teleport to the Bar</eng>
+		<ukr>Телепорт в Бар</ukr>
+		<pln>Teleport do Baru</pln>
 	</string>
 	<string id="arhara_obman8">
 		<rus>Телепорт Фенрира в Лиманск</rus>
@@ -1190,12 +1190,6 @@
 		<ukr>Шукай на 2 поверсі будинку зі зруйнованим торцем у Центральній Прип'яті.</ukr>
 		<pln>Szukaj na 1 piętrze domu ze zburzonym końcem w Centralnej Prypeci.</pln>
 	</string>
-	<string id="snp_note38_desc">
-		<rus>А ты глазастый... молодец.\n \nОчень не люблю парапеты. Они такие узкие, а я такой большой. Особенно тот, у молоковоза.</rus>
-		<eng>And you're big-eyed... well done.\n \nI really do not like parapets. I'm so big and they are so narrow. Especially the one near a milk truck.</eng>
-		<ukr>А ти окатий... молодець.\n\nДуже не люблю парапети. Вони такі вузькі, а я такий великий. Особливо той, біля молоковоза.</ukr>
-		<pln>Aleś spostrzegawczy... zuch.\n \nBardzo nie lubię parapetów. Są takie wąskie, a ja taki duży. Zwłaszcza ten, przy mlekowozie.</pln>
-	</string>
 	<string id="snp_note39_desc">
 		<rus>Ищи на 3 этаже соседнего дома.</rus>
 		<eng>Search on the 3rd floor of the house next door.</eng>
@@ -1472,10 +1466,10 @@
 		<pln>Skacz w otchłań i słuchaj ryku zwierzęcia na terytorium drugiego kompleksu.</pln>
 	</string>
 	<string id="emb_note11_desc">
-		<rus>Будь внимателен, когда в следующий раз будешь лазить по трубам на Агропроме. Слушай на Генераторах, как за кладбищем льётся вода.</rus>
-		<eng>Be careful next time you climb pipes in Agroprom. In Generators listen to the sound of flowing water behind a cemetery.</eng>
-		<ukr>Будь уважний, коли наступного разу будеш лазити трубами на Агропромі. Слухай на Генераторах, як за кладовищем ллється вода.</ukr>
-		<pln>Bądź uważny, kiedy następnym razem będziesz łazić po kominach na Agropromie. Słuchaj na Generatorach, jak za cmentarzem leje się woda.</pln>
+		<rus>Слушай на Генераторах, как за кладбищем льётся вода.</rus>
+		<eng>In Generators listen to the sound of flowing water behind a cemetery.</eng>
+		<ukr>Слухай на Генераторах, як за кладовищем ллється вода.</ukr>
+		<pln>Słuchaj na Generatorach, jak za cmentarzem leje się woda.</pln>
 	</string>
 	<string id="emb_note12_desc">
 		<rus>Поднимайся.</rus>
@@ -4438,9 +4432,9 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		<ukr>Карта Долини Шурхоту</ukr>
 	</string>
 	<string id="item_karta_dshor">
-		<rus>Подробная карта Долины Шорохов. Правда никаких пометок на неё ещё не нанесено.</rus>
-		<eng>Подробная карта Долины Шорохов. Правда никаких пометок на неё ещё не нанесено.</eng>
-		<ukr>Детальна карта Долини Шурхоту. Правда ніяких позначок на неї ще не нанесено.</ukr>
+		<rus>Подробная карта Долины Шорохов. Правда, никаких пометок на неё ещё не нанесено.</rus>
+		<eng>Подробная карта Долины Шорохов. Правда, никаких пометок на неё ещё не нанесено.</eng>
+		<ukr>Детальна карта Долини Шурхоту. Правда, ніяких позначок на неї ще не нанесено.</ukr>
 	</string>
 		<string id="item_yachik_edy">
 		<rus>Ящик с продуктами</rus>
