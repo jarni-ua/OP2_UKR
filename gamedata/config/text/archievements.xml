@@ -1373,7 +1373,7 @@
 		<pln>Wskrzeszający Zmarłych</pln>
 	</string>
 	<string id="acv_resur_desc">
-		<rus>Вы внимательно следили за всеми квестовиками, чтобы они были живы. Конечно, некоторые из них погибали, но Вы их своевременно воскрешали "Живым сердцем", и на данный момент, практически самый конец игры, они все живы! Это очень здорово!</rus>
+		<rus>Вы внимательно следили за всеми квестовиками, чтобы они были живы. Конечно, некоторые из них погибали, но Вы их своевременно воскрешали "Живым Сердцем", и на данный момент, практически самый конец игры, они все живы! Это очень здорово!</rus>
 		<eng>You have thoroughly cared for all the quest characters to keep them alive. Of course, some of them died, but you resurrected them in time with "Living Heart", and now, at the very end of the game, they are all alive! It's great!</eng>
 		<ukr>Ви уважно стежили за всіма квестовиками, щоб вони були живі. Звичайно, деякі з них гинули, але Ви їх своєчасно воскрешали "Живим Серцем", і на даний момент, практично самий кінець гри, вони всі живі! Це дуже здорово!</ukr>
 		<fra>Vous avez suivi de près toutes les quêtes afin qu'elles soient en vie. Bien sûr, certains d’entre eux sont morts, mais vous les avez ressuscités au bon moment avec le Cœur vivant et, pour le moment, presque à la fin du jeu, ils sont tous en vie! C'est très cool!</fra>
@@ -2257,11 +2257,11 @@
 		<pln>Komandos</pln>
 	</string>
 	<string id="acv_commandos_desc">
-		<rus>Насмотревшись старинных боевиков с Арнольдом Шварценеггером, Вы бросились собирать коллекцию оружия, которая позволяла этому актёру выглядеть на экране непобедимым. Не иначе хотите попробовать себя в роли коммандос?</rus>
-		<eng>After having watched some of the old action movies with Arnold Schwarzenegger, you broke into collecting the weapons of the same kind that had allowed this actor to look invincible on the screen. Do you by chance want to try and play the role of a commando?</eng>
-		<ukr>Надивившись старовинних бойовиків з Арнольдом Шварценеггером, Ви кинулися збирати колекцію зброї, яка дозволяла цьому акторові виглядати на екрані непереможним. Не інакше хочете спробувати себе в ролі командос?</ukr>
-		<fra>En regardant les vieux militants avec Arnold Schwarzenegger, vous vous êtes précipité pour rassembler une collection d'armes qui permettaient à cet acteur de paraître invincible à l'écran. Voulez-vous vous essayer en tant que commando?</fra>
-		<pln>Po obejrzeniu niektórych starych filmów akcji z Arnoldem Schwarzeneggerem, rzuciłeś się do zbierania broni tej samej, która pozwoliła aktorowi wyglądać tak bojowo na ekranie. Czy przypadkiem nie chcesz odgrywać roli komandosa?</pln>
+		<rus>Учитывая популярность пистолетов итальянской марки Beretta во всём мире, всеми подразделениями силовых структур, полиции, военными и даже криминальными элементами трудно одним словом обозначить Вашу страсть к этой марке оружия. Пожалуй, звание Коммандос будет хоть и не совсем точным, зато универсальным.</rus>
+		<eng>===Given the popularity of the Italian brand of Beretta pistols around the world, all units of the security forces, police, military and even criminal elements, it is difficult to describe in one word Your passion for this brand of weapons. Perhaps the rank of Commando will be though not quite accurate, but universal.</eng>
+		<ukr>===Враховуючи популярність пістолетів італійської марки Beretta у всьому світі, усіма підрозділами силових структур, поліції, військовими і навіть кримінальними елементами важко одним словом позначити Вашу пристрасть до цієї марки зброї. Мабуть, звання Коммандос буде хоч і не зовсім точним, зате універсальним.</ukr>
+		<fra>===Compte tenu de la popularité des pistolets de la marque italienne Beretta dans le monde entier, toutes les unités des forces de l'ordre, de la police, de l'armée et même des éléments criminels, il est difficile d'indiquer en un mot Votre passion pour cette marque d'armes. Peut-être que le titre de Commando ne sera pas tout à fait exact, mais universel.</fra>
+		<pln>===Biorąc pod uwagę popularność pistoletów włoskiej marki Beretta na całym świecie, wszystkie jednostki sił zbrojnych, Policja, wojsko, a nawet elementy przestępcze są trudne do określenia w jednym słowie twojej pasji do tej marki broni. Być może Tytuł komandosa będzie, choć nie do końca dokładny, ale uniwersalny.</pln>
 	</string>
 	<string id="acv_korotishka">
 		<rus>Коротышка</rus>
@@ -2755,10 +2755,10 @@
 	</string>
 	<string id="acv_forwarder">
 		<rus>Экспедитор</rus>
-		<eng>===Doublet</eng>
+		<eng>Forwarder</eng>
 		<ukr>Експедитор</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<fra>===Forwarder</fra>
+		<pln>===Forwarder</pln>
 	</string>
 	<string id="acv_forwarder_desc">
 		<rus>Неустанно выполнять заказы странного ресторана, добывая лапки, ножки, шкурки и другие части монстров в огромных количествах, может только прирождённый Экспедитор.</rus>
@@ -2769,10 +2769,10 @@
 	</string>
 	<string id="acv_supplier">
 		<rus>Снабженец</rus>
-		<eng>===Doublet</eng>
+		<eng>Supplier</eng>
 		<ukr>Постачальник</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<fra>===Supplier</fra>
+		<pln>===Supplier</pln>
 	</string>
 	<string id="acv_supplier_desc">
 		<rus>Похоже, вам по силам накормить и напоить всех сталкеров Зоны Отчуждения, которые заглядывают к Бармену. При желании, обладая уникальными способностями собирать крупные, оптовые партии товара, Вы сами могли бы стать барменом, но в Зоне Отчуждения ещё много тайн, требующих разгадок. Тем не менее звание Снабженец хоть и вызывает улыбку, но получено Вами заслужено.</rus>
@@ -2783,10 +2783,10 @@
 	</string>
 	<string id="acv_anatomist">
 		<rus>Анатом</rus>
-		<eng>===Doublet</eng>
+		<eng>Anatomist</eng>
 		<ukr>Анатом</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<fra>===Anatomist</fra>
+		<pln>===Anatomist</pln>
 	</string>
 	<string id="acv_anatomist_desc">
 		<rus>Маниакальная страсть собирать эмбрионы монстров и капсулы аномалий очень заразна. Если для продажи, то есть в Зоне Отчуждения другие способы быстро заработать. Для красоты? Тоже сомнительный факт... Тогда остаётся одно более-менее разумное объяснение: для последующего вскрытия и исследований. А если так, тогда Вы - Анатом!</rus>
@@ -2797,10 +2797,10 @@
 	</string>
 	<string id="acv_kraut">
 		<rus>Немец</rus>
-		<eng>===Doublet</eng>
+		<eng>Kraut</eng>
 		<ukr>Німець</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<fra>===Kraut</fra>
+		<pln>===Kraut</pln>
 	</string>
 	<string id="acv_kraut_desc">
 		<rus>Собирать в огромных количествах оружие исключительно немецких производителей - видимо, какой-то внутренний зов предков. Не иначе Вы - чистокровный Немец.</rus>
@@ -2811,10 +2811,10 @@
 	</string>
 	<string id="acv_bombardier">
 		<rus>Бомбардир</rus>
-		<eng>===Doublet</eng>
+		<eng>Bombardier</eng>
 		<ukr>Бомбардир</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<fra>===Bombardier</fra>
+		<pln>Bombardier</pln>
 	</string>
 	<string id="acv_bombardier_desc">
 		<rus>Вам удалось собрать всё оружие в Зоне Отчуждения, имеющее интегрированные подствольные гранатомёты. Такое событие заслуживает отдельного поощрения. Поздравляем, Вы - Бомбардир!</rus>
@@ -2825,10 +2825,10 @@
 	</string>
 	<string id="acv_lupoglaz">
 		<rus>Лупоглазик</rus>
-		<eng>===Doublet</eng>
+		<eng>Lupoglaz</eng>
 		<ukr>Лупоочко</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<fra>===Lupoglaz</fra>
+		<pln>===Lupoglaz</pln>
 	</string>
 	<string id="acv_lupoglaz_desc">
 		<rus>Сбор всех коллиматорных прицелов, существующих в Зоне Отчуждения, занятие утомительное и весьма затратное. Однако вам удалось покорить и эту высоту. Назвать вас Очкариком было бы более правильным решением, но Лупоглазик это более мягкий, культурный и достойный вариант.</rus>
@@ -2839,10 +2839,10 @@
 	</string>
 	<string id="acv_gunner">
 		<rus>Пулемётчик</rus>
-		<eng>===Doublet</eng>
+		<eng>Gunner</eng>
 		<ukr>Кулеметник</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<fra>===Gunner</fra>
+		<pln>===Gunner</pln>
 	</string>
 	<string id="acv_gunner_desc">
 		<rus>Посвятить часть своей жизни в Зоне Отчуждения сбору и ремонту внушительного количества самых разнообразных тяжёлых пулемётов может только истинный фанат данного класса оружия. Не иначе Вы - Пулемётчик!</rus>
@@ -2853,10 +2853,10 @@
 	</string>
 	<string id="acv_healer">
 		<rus>Целитель</rus>
-		<eng>===Doublet</eng>
+		<eng>Healer</eng>
 		<ukr>Цілитель</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<fra>===Healer</fra>
+		<pln>===Healer</pln>
 	</string>
 	<string id="acv_healer_desc">
 		<rus>В третий раз взяться за сбор большой партии медикаментов и сопутствующих предметов при условии, что запросы растут - дорогого стоит. Признайтесь честно - Вам нравится это занятие? В любом случае прозвище Целитель Вы получаете на законных основаниях.</rus>
@@ -2867,10 +2867,10 @@
 	</string>
 	<string id="acv_technician">
 		<rus>Технарь</rus>
-		<eng>===Doublet</eng>
+		<eng>Technican</eng>
 		<ukr>Технар</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<fra>===Technican</fra>
+		<pln>===Technican</pln>
 	</string>
 	<string id="acv_technician_desc">
 		<rus>В последнее время Вы значительно поднаторели в сборе различных высокотехнологичных девайсов различных категорий, не брезгуя и ПДА с трупов, и тратя приличные средства на приобретение очень дорогих штучек в виде детекторов ручной, эксклюзивной сборки. Наверняка общение с таким количеством сложных предметов наложило свой отпечаток на Ваши познания и умения. Так что теперь Вы - Технарь!</rus>
@@ -2881,10 +2881,10 @@
 	</string>
 	<string id="acv_coreman">
 		<rus>Сердечник</rus>
-		<eng>===Doublet</eng>
+		<eng>Coreman</eng>
 		<ukr>Сердечник</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<fra>===Coreman</fra>
+		<pln>===Coreman</pln>
 	</string>
 	<string id="acv_coreman_desc">
 		<rus>Расстаться с таким количеством хороших боеприпасов, признайтесь, это только полдела. Накопить сотни пачек различных калибров, порою очень редких - гораздо сложнее. Тем не менее Вам удалось это сделать довольно быстро, хотя и стоило наверняка серьёзных переживаний в правильности данного поступка. Сердечко после таких душевных мучений не болит? Болит однозначно! Поэтому Ваше новое тайное прозвище - Сердечник.</rus>
@@ -2895,10 +2895,10 @@
 	</string>
 	<string id="acv_antiquary">
 		<rus>Антиквар</rus>
-		<eng>===Doublet</eng>
+		<eng>Antiquary</eng>
 		<ukr>Антиквар</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<fra>===Antiquary</fra>
+		<pln>===Antiquary</pln>
 	</string>
 	<string id="acv_antiquary_desc">
 		<rus>Кому, как не истинному антиквару нужны ножи, штыки, кинжалы и другие виды холодного оружия, сточенные от интенсивного использования до состояния, когда их уже нигде нельзя применить?</rus>
@@ -2909,10 +2909,10 @@
 	</string>
 	<string id="acv_tutsan">
 		<rus>Зверобой</rus>
-		<eng>===Doublet</eng>
+		<eng>Tutsan</eng>
 		<ukr>Звіробій</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<fra>===Tutsan</fra>
+		<pln>===Tutsan</pln>
 	</string>
 	<string id="acv_tutsan_desc">
 		<rus>Количество дроби, картечи и других боеприпасов для гладкоствольного оружия разных калибров, да и самих ружей собрано столько, что можно вооружить взвод охотников и отправить на пол года в Африку на сафари. Сколько при этом погибнет зверья от их деятельности, остаётся только догадываться. Достижение Зверобой Ваше по праву!</rus>
@@ -2923,10 +2923,10 @@
 	</string>
 	<string id="acv_extreme">
 		<rus>Экстремал</rus>
-		<eng>===Doublet</eng>
+		<eng>Extreme</eng>
 		<ukr>Екстремал</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<fra>===Extreme</fra>
+		<pln>===Extreme</pln>
 	</string>
 	<string id="acv_extreme_desc">
 		<rus>Скука, которую Вы испытываете при использовании огнестрельного оружия по прямому назначению, заставила Вас искать нетривиальные пути уничтожения противников. И если использование арбалета, гранатомёта и противотанкового ружья вопросов не вызывает, то орудовать лопатой может только настоящий Экстремал.</rus>
@@ -2951,10 +2951,10 @@
 	</string>
 	<string id="acv_hireling">
 		<rus>Наймит</rus>
-		<eng>===Doublet</eng>
+		<eng>Hireling</eng>
 		<ukr>Наймит</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<fra>===Hireling</fra>
+		<pln>===Hireling</pln>
 	</string>
 	<string id="acv_hireling_desc">
 		<rus>Тёплые чувства к самому разнообразному оружию под патрон калибра 5.56х45, обвесы для оружия коалиции НАТО, гранаты и патроны к этому оружию присущи только одной категории бравых и воинственных парней - наёмникам. Поэтому теперь Вы - Наймит!</rus>
@@ -2963,12 +2963,26 @@
 		<fra>===Тёплые чувства к самому разнообразному оружию под патрон калибра 5.56х45, обвесы для оружия коалиции НАТО, гранаты и патроны к этому оружию присущи только одной категории бравых и воинственных парней - наёмникам. Поэтому теперь вы - Наймит!</fra>
 		<pln>===Тёплые чувства к самому разнообразному оружию под патрон калибра 5.56х45, обвесы для оружия коалиции НАТО, гранаты и патроны к этому оружию присущи только одной категории бравых и воинственных парней - наёмникам. Поэтому теперь вы - Наймит!</pln>
 	</string>
+	<string id="acv_trubach">
+		<rus>Трубач</rus>
+		<eng>Trubach</eng>
+		<ukr>===Trubach</ukr>
+		<fra>===Trubach</fra>
+		<pln>===Trubach</pln>
+	</string>
+	<string id="acv_trubach_desc">
+		<rus>Страсть собирать изношенные в хлам глушители вряд ли можно назвать полезной! Однако она доставляет Вам какое-то особое удовольствие. Может быть, Вы собираете не глушители, а просто красивые, аккуратные трубки, которые при встряхивании тихо шуршат сгоревшими внутри перегородками? Тогда поздравляем! Вы - Трубач!</rus>
+		<eng>The passion to collect worn-out silencers can hardly be called useful! However, it gives you some special pleasure. Maybe you do not collect silencers, but just beautiful, neat tubes that when shaken quietly rustle burned inside the partitions? Then-congratulations! You're A Trumpeter!</eng>
+		<ukr>===Пристрасть збирати зношені в мотлох глушники навряд чи можна назвати корисною! Однак вона доставляє вам якесь особливе задоволення. Може бути ви збираєте не глушники, а просто красиві, акуратні трубки, які при струшуванні тихо шарудять згорілими всередині перегородками? Тоді-вітаємо! Ви-Трубач!</ukr>
+		<fra>===La passion de recueillir des brouilleurs usés dans les ordures peut difficilement être appelée utile! Cependant, il vous procure un plaisir particulier. Peut-être que vous ne collectez pas de silencieux, mais simplement de beaux tubes soignés qui, lorsqu'ils sont secoués, bruissent silencieusement les cloisons brûlées à l'intérieur? Alors-félicitations! Vous Êtes Un Trompettiste!</fra>
+		<pln>===Pasja zbierania zużytych tłumików nie może być uznana za użyteczną! Jednak daje Ci specjalną przyjemność. Może nie zbierać tłumiki, ale po prostu piękne, schludne rury, które po wstrząśnięciu cicho szeleszczą spalonymi przegrodami wewnątrz? Następnie-gratulacje! Jesteś Trębaczem!</pln>
+	</string>
 	<string id="acv_piston">
 		<rus>Пистон</rus>
-		<eng>===Doublet</eng>
+		<eng>Piston</eng>
 		<ukr>Пістон</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<fra>===Piston</fra>
+		<pln>===Piston</pln>
 	</string>
 	<string id="acv_piston_desc">
 		<rus>Многие сталкеры считают, что пистолетные патроны - самые бесполезные боеприпасы в Зоне Отчуждения, кишащей свирепыми монстрами и хорошо укреплёнными противниками. Однако в детстве Вы так любили лупить булыжником пистоны, что Ваш восторг от этого действа дал Вам силы и мотивацию собрать несколько ящиков самых разнообразных патронов для пистолетов. Поздравляем! Теперь Вы - Пистон!</rus>
@@ -2985,18 +2999,18 @@
 		<pln>===Expert</pln>
 	</string>
 	<string id="acv_expert_desc">
-		<rus>Только истинный эксперт в области стрелкового оружия может пропустить через свои руки сотни стволов самого разнообразного оружия, проникающего в Зону Отчуждения со всех концов света, проверить их в полевых условиях и отобрать 21 образец действительно ценных винтовок, автоматов и дробовиков, которые будут котироваться представителями всех группировок в любое время и при любой цене.</rus>
-		<eng>Only a true expert in the field of small arms can pass through his hands hundreds of barrels of a variety of weapons that penetrate the Exclusion Zone from all over the world, check them in the field and select 21 samples of really valuable rifles, submachine guns and shotguns, which will be quoted by representatives of all groups at any time and at any price.</eng>
-		<ukr>Тільки істинний експерт в області стрілецької зброї може пропустити через свої руки сотні стволів самої різноманітної зброї, яка проникає у Зону Відчуження з усіх кінців світу, перевірити її у польових умовах і відібрати 21 зразок дійсно цінних гвинтівок, автоматів і дробовиків, які будуть котируватися представниками всіх угруповань у будь-який час і при будь-якій ціні.</ukr>
-		<fra>===Только истинный эксперт в области стрелкового оружия может пропустить через свои руки сотни стволов самого разнообразного оружия, проникающего в Зону Отчуждения со всех концов света, проверить их в полевых условиях и отобрать 21 образец действительно ценных винтовок, автоматов и дробовиков, которые будут котироваться представителями всех группировок в любое время и при любой цене.</fra>
-		<pln>===Только истинный эксперт в области стрелкового оружия может пропустить через свои руки сотни стволов самого разнообразного оружия, проникающего в Зону Отчуждения со всех концов света, проверить их в полевых условиях и отобрать 21 образец действительно ценных винтовок, автоматов и дробовиков, которые будут котироваться представителями всех группировок в любое время и при любой цене.</pln>
+		<rus>Только истинный эксперт в области стрелкового оружия может пропустить через свои руки кучу самых разнообразных пистолетов, как проникающих в Зону Отчуждения со всех концов света, так и созданных внутри Периметра народными умельцами, проверить их в полевых условиях и отобрать 18 образцов действительно ценных стволов, которые будут котироваться представителями всех группировок в любое время и при любой цене.</rus>
+		<eng>===Only a true expert in the field of small arms can pass through their hands a bunch of different guns, both penetrating the Exclusion Zone from all over the world, and created inside the Perimeter by craftsmen, check them in the field and select 18 samples of really valuable barrels that will be quoted by representatives of all groups at any time and at any price.</eng>
+		<ukr>===Только истинный эксперт в области стрелкового оружия может пропустить через свои руки кучу самых разнообразных пистолетов, как проникающих в Зону Отчуждения со всех концов света, так и созданных внутри Периметра народными умельцами, проверить их в полевых условиях и отобрать 18 образцов действительно ценных стволов, которые будут котироваться представителями всех группировок в любое время и при любой цене.</ukr>
+		<fra>===Только истинный эксперт в области стрелкового оружия может пропустить через свои руки кучу самых разнообразных пистолетов, как проникающих в Зону Отчуждения со всех концов света, так и созданных внутри Периметра народными умельцами, проверить их в полевых условиях и отобрать 18 образцов действительно ценных стволов, которые будут котироваться представителями всех группировок в любое время и при любой цене.</fra>
+		<pln>===Только истинный эксперт в области стрелкового оружия может пропустить через свои руки кучу самых разнообразных пистолетов, как проникающих в Зону Отчуждения со всех концов света, так и созданных внутри Периметра народными умельцами, проверить их в полевых условиях и отобрать 18 образцов действительно ценных стволов, которые будут котироваться представителями всех группировок в любое время и при любой цене.</pln>
 	</string>
 	<string id="acv_artillerist">
 		<rus>Артиллерист</rus>
-		<eng>===Doublet</eng>
+		<eng>Artillerist</eng>
 		<ukr>Артилерист</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<fra>===Artillerist</fra>
+		<pln>===Artillerist</pln>
 	</string>
 	<string id="acv_artillerist_desc">
 		<rus>Подствольные гранатомёты - не самая большая ценность в Зоне Отчуждения, тем более имеют приличный вес и занимают много места в рюкзаке за счёт существенных габаритов. Однако Вы кропотливо и добросовестно собрали такое количество данного вида обвеса, что им можно бы было до краёв загрузить мартеновскую печь. Такая страсть достойна поощрения. Вы - Артиллерист!</rus>
@@ -3007,31 +3021,31 @@
 	</string>
 	<string id="acv_idealist">
 		<rus>Идеалист</rus>
-		<eng>===Doublet</eng>
+		<eng>Idealist</eng>
 		<ukr>Ідеаліст</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<fra>===Idealist</fra>
+		<pln>===Idealist</pln>
 	</string>
 	<string id="acv_idealist_desc">
-		<rus>Невероятная страсть собирать двуствольные ружья и обрезы ставит под сомнение Вашу адекватность - в Зоне Отчуждения это не то оружие, к которому нужно проявлять нежные чувства, поэтому и достижение, с такой лёгкостью Вами заработанное, должно называться необычно: Вы - Дуплет!</rus>
-		<eng>The incredible passion to collect double-barreled guns and shotguns casts doubt on your adequacy - in the Exclusion Zone this is not a weapon to which you need to show tender feelings, so the achievement, with such ease you earned should be called unusual: you are the Doublet!</eng>
-		<ukr>Неймовірна пристрасть збирати двостволки рушниці і обрізи ставить під сумнів Вашу адекватність - в Зоні Відчуження це не та зброя, до якого потрібно проявляти ніжні почуття, тому й досягнення, з такою легкістю Вами зароблене, має називатися незвично: Ви - Дуплет!</ukr>
-		<fra>Une incroyable passion pour la collecte de fusils et de tas à double canon remet en question votre adéquation - dans la Zone d’aliénation n’est pas une arme pour laquelle vous devez faire preuve de tendresse, c’est pourquoi la réussite que vous avez méritée devrait être appelée avec une telle aisance: vous êtes un Doublet!</fra>
-		<pln>Niesamowita pasja zbierania dwulufowych obrzynów i strzelb wzbudza spore wątpliwości co do twojego rozsądku - w Zonie nie jest to broń, której potrzebujesz, by okazywać uczucia, więc osiągnięcie które zdobyłeś, powinno być nazywane niezwykłym: jesteś Dubletem!</pln>
+		<rus>Утомительный и затратный во всех аспектах поиск артефакта-совершенства заставил Вас найти, достать, купить или выменять не один десяток очень редких аномальных камней в Зоне Отчуждения. Даже если Вам пока не удалось найти идеальный артефакт, достижение Идеалист Ваше по праву!</rus>
+		<eng>The tedious and costly in all aspects search for an artifact-perfection has forced You to find, get, buy or exchange more than a dozen very rare anomalous stones in the exclusion Zone. Even if You haven't found the perfect artifact yet, the Idealist achievement is yours by right!</eng>
+		<ukr>===Виснажливий і витратний у всіх аспектах пошук артефакту-досконалості змусив Вас знайти, дістати, купити або виміняти не один десяток дуже рідкісних аномальних каменів у Зоні відчуження. Навіть якщо вам поки не вдалося знайти ідеальний артефакт, досягнення ідеаліст Ваше по праву!</ukr>
+		<fra>===Fastidieux et coûteux dans tous les aspects, la recherche d'un artefact de perfection vous a obligé à trouver, obtenir, acheter ou échanger plus d'une douzaine de pierres anormales très rares dans la zone d'aliénation. Même Si vous n'avez pas encore réussi à trouver l'artefact parfait, la réalisation de l'Idéaliste est À votre juste titre!</fra>
+		<pln>===Żmudne i kosztowne we wszystkich aspektach poszukiwanie artefaktu-doskonałości sprawiło, że znalazłeś, zdobyłeś, kupiłeś lub wymieniłeś kilkanaście bardzo rzadkich anomalnych kamieni w strefie wykluczenia. Nawet jeśli nie udało Ci się jeszcze znaleźć idealnego artefaktu, osiągnięcie Idealist jest słuszne!</pln>
 	</string>
 	<string id="acv_perfectionist">
 		<rus>Перфекционист</rus>
-		<eng>===Doublet</eng>
-		<ukr>Дуплет</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<eng>Рerfectionist</eng>
+		<ukr>===Рerfectionist</ukr>
+		<fra>===Рerfectionist</fra>
+		<pln>===Рerfectionist</pln>
 	</string>
 	<string id="acv_perfectionist_desc">
-		<rus>Невероятная страсть собирать двуствольные ружья и обрезы ставит под сомнение Вашу адекватность - в Зоне Отчуждения это не то оружие, к которому нужно проявлять нежные чувства, поэтому и достижение, с такой лёгкостью Вами заработанное должно называться необычно: Вы - Дуплет!</rus>
-		<eng>The incredible passion to collect double-barreled guns and shotguns casts doubt on your adequacy - in the Exclusion Zone this is not a weapon to which you need to show tender feelings, so the achievement, with such ease you earned should be called unusual: you are the Doublet!</eng>
-		<ukr>Неймовірна пристрасть збирати двоствольні рушниці і обрізи ставить під сумнів вашу адекватність - в Зоні Відчуження це не та зброя, до якої потрібно проявляти ніжні почуття, тому й досягнення, з такою легкістю вами зароблене має називатися незвично: ви - Дуплет!\n\n\n\n\n</ukr>
-		<fra>Une incroyable passion pour la collecte de fusils et de tas à double canon remet en question votre adéquation - dans la Zone d’aliénation n’est pas une arme pour laquelle vous devez faire preuve de tendresse, c’est pourquoi la réussite que vous avez méritée devrait être appelée avec une telle aisance: vous êtes un Doublet!</fra>
-		<pln>Niesamowita pasja zbierania dwulufowych obrzynów i strzelb wzbudza spore wątpliwości co do twojego rozsądku - w Zonie nie jest to broń, której potrzebujesz, by okazywać uczucia, więc osiągnięcie które zdobyłeś, powinno być nazywane niezwykłym: jesteś Dubletem!</pln>
+		<rus>Скрупулёзность с которой Вы собрали и разложили по группам, свойствам и степени ценности огромную кучу лучших артефактов-модификатов из Зоны Отчуждения вполне соответствует достижению Перфекционист.</rus>
+		<eng>The scrupulousness with which You have collected and decomposed into groups, properties and degrees of value a huge pile of the best artifacts-modifiers from the Exclusion Zone is quite consistent with the achievement of a Perfectionist.</eng>
+		<ukr>===Скрупулёзность с которой Вы собрали и разложили по группам, свойствам и степени ценности огромную кучу лучших артефактов-модификатов из Зоны Отчуждения вполне соответствует достижению Перфекционист.</ukr>
+		<fra>===Скрупулёзность с которой Вы собрали и разложили по группам, свойствам и степени ценности огромную кучу лучших артефактов-модификатов из Зоны Отчуждения вполне соответствует достижению Перфекционист.</fra>
+		<pln>===Скрупулёзность с которой Вы собрали и разложили по группам, свойствам и степени ценности огромную кучу лучших артефактов-модификатов из Зоны Отчуждения вполне соответствует достижению Перфекционист.</pln>
 	</string>
 	<string id="acv_centurion">
 		<rus>Сотник</rus>
@@ -3042,10 +3056,10 @@
 	</string>
 	<string id="acv_centurion_desc">
 		<rus>Вообще-то собрать в Зоне Отчуждения пятьсот кусков мясной вырезки за столь короткий срок заслуживает достижения Мясник, но данное прозвище совсем не отражает тех личных геройских качеств, которые Вы применили, сражаясь с толпами мутантов. Поэтому Ваше новое, более точное прозвище теперь - Сотник.</rus>
-		<eng>===</eng>
+		<eng>===С</eng>
 		<ukr>Взагалі-то зібрати в Зоні Відчуження п'ятсот шматків м'ясної вирізки за такий короткий термін заслуговує досягнення М'ясник, але дане прізвисько зовсім не відображає тих особистих геройських якостей, які Ви застосували, борючись з натовпами мутантів. Тому Ваше нове, більш точне прізвисько тепер - Сотник.</ukr>
-		<fra>===</fra>
-		<pln>===</pln>
+		<fra>===С</fra>
+		<pln>===С</pln>
 	</string>
 	<string id="acv_belgian">
 		<rus>Бельгиец</rus>
@@ -3063,10 +3077,10 @@
 	</string>
 	<string id="acv_debtor">
 		<rus>Должник</rus>
-		<eng>===Doublet</eng>
+		<eng>Debtor</eng>
 		<ukr>Боржник</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<fra>===Debtor</fra>
+		<pln>===Debtor</pln>
 	</string>
 	<string id="acv_debtor_desc">
 		<rus>Вы с невероятным усердием собрали огромное количество артефактов Зоны Отчуждения: некоторые нашли на просторах закрытого периметра, другие пришлось сварить самостоятельно. Каждого сорта камушков было собрано определённое количество, ни больше ни меньше. Это может означать только одно: сами артефакты Вас мало интересуют, это была явная работа на заказ, а значит и скорее всего Вы - должник.</rus>
@@ -3077,10 +3091,10 @@
 	</string>
 	<string id="acv_staffer">
 		<rus>Сотрудник</rus>
-		<eng>===Doublet</eng>
+		<eng>Staffer</eng>
 		<ukr>Співробітник</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<fra>===Staffer</fra>
+		<pln>===Staffer</pln>
 	</string>
 	<string id="acv_staffer_desc">
 		<rus>Несмотря на обилие самого разнообразного оружия в Зоне Отчуждения, включая современные и высокотехнологичные образцы, Вы всё же отдаёте предпочтение продукции одного единственного оружейного производителя - Центрального конструкторского-исследовательского бюро спортивного и охотничьего оружия города Тулы. Отказаться от винтовки марки Barrett, смотреть равнодушно на изящный, полимерный Глок, чихать от скуки, глядя на модульный STEYR AUG, оживая только когда в руках появляются отечественные образцы с буквенной маркировкой "ОЦ" говорит только об одном: Вы - Сотрудник ЦКИБ СОО города Тулы.</rus>
@@ -3091,45 +3105,45 @@
 	</string>
 	<string id="acv_brave">
 		<rus>Храбрец</rus>
-		<eng>===Doublet</eng>
-		<ukr>Сміливець</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<eng>Brave</eng>
+		<ukr>===Brave</ukr>
+		<fra>===Brave</fra>
+		<pln>===Brave</pln>
 	</string>
 	<string id="acv_brave_desc">
-		<rus>Невероятная страсть собирать двуствольные ружья и обрезы ставит под сомнение Вашу адекватность - в Зоне Отчуждения это не то оружие, к которому нужно проявлять нежные чувства, поэтому и достижение, с такой лёгкостью Вами заработанное должно называться необычно: Вы - Дуплет!</rus>
-		<eng>The incredible passion to collect double-barreled guns and shotguns casts doubt on your adequacy - in the Exclusion Zone this is not a weapon to which you need to show tender feelings, so the achievement, with such ease you earned should be called unusual: you are the Doublet!</eng>
-		<ukr>Неймовірна пристрасть збирати двоствольні рушниці і обрізи ставить під сумнів вашу адекватність - в Зоні Відчуження це не та зброя, до якої потрібно проявляти ніжні почуття, тому й досягнення, з такою легкістю вами зароблене має називатися незвично: ви - Дуплет!\n\n\n\n\n</ukr>
-		<fra>Une incroyable passion pour la collecte de fusils et de tas à double canon remet en question votre adéquation - dans la Zone d’aliénation n’est pas une arme pour laquelle vous devez faire preuve de tendresse, c’est pourquoi la réussite que vous avez méritée devrait être appelée avec une telle aisance: vous êtes un Doublet!</fra>
-		<pln>Niesamowita pasja zbierania dwulufowych obrzynów i strzelb wzbudza spore wątpliwości co do twojego rozsądku - w Zonie nie jest to broń, której potrzebujesz, by okazywać uczucia, więc osiągnięcie które zdobyłeś, powinno być nazywane niezwykłym: jesteś Dubletem!</pln>
+		<rus>Расстаться с таким количеством мощного боекомплекта при таком количестве врагов и толп мутантов в Зоне Отчуждения может только самый бесстрашный человек, настоящий Храбрец!</rus>
+		<eng>Part with so much powerful ammunition with so many enemies and crowds of mutants in the Exclusion Zone can only be the most fearless person, a real brave!</eng>
+		<ukr>===Расстаться с таким количеством мощного боекомплекта при таком количестве врагов и толп мутантов в Зоне Отчуждения может только самый бесстрашный человек, настоящий храбрец!</ukr>
+		<fra>===Расстаться с таким количеством мощного боекомплекта при таком количестве врагов и толп мутантов в Зоне Отчуждения может только самый бесстрашный человек, настоящий храбрец!</fra>
+		<pln>===Расстаться с таким количеством мощного боекомплекта при таком количестве врагов и толп мутантов в Зоне Отчуждения может только самый бесстрашный человек, настоящий храбрец!</pln>
 	</string>
 	<string id="acv_mechanic">
 		<rus>Механик</rus>
-		<eng>===Doublet</eng>
-		<ukr>Механік</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<eng>Mechanic</eng>
+		<ukr>===Mechanic</ukr>
+		<fra>===Mechanic</fra>
+		<pln>===Mechanic</pln>
 	</string>
 	<string id="acv_mechanic_desc">
-		<rus>Невероятная страсть собирать двуствольные ружья и обрезы ставит под сомнение Вашу адекватность - в Зоне Отчуждения это не то оружие, к которому нужно проявлять нежные чувства, поэтому и достижение, с такой лёгкостью Вами заработанное должно называться необычно: Вы - Дуплет!</rus>
-		<eng>The incredible passion to collect double-barreled guns and shotguns casts doubt on your adequacy - in the Exclusion Zone this is not a weapon to which you need to show tender feelings, so the achievement, with such ease you earned should be called unusual: you are the Doublet!</eng>
-		<ukr>Неймовірна пристрасть збирати двоствольні рушниці і обрізи ставить під сумнів вашу адекватність - в Зоні Відчуження це не та зброя, до якої потрібно проявляти ніжні почуття, тому й досягнення, з такою легкістю вами зароблене має називатися незвично: ви - Дуплет!\n\n\n\n\n</ukr>
-		<fra>Une incroyable passion pour la collecte de fusils et de tas à double canon remet en question votre adéquation - dans la Zone d’aliénation n’est pas une arme pour laquelle vous devez faire preuve de tendresse, c’est pourquoi la réussite que vous avez méritée devrait être appelée avec une telle aisance: vous êtes un Doublet!</fra>
-		<pln>Niesamowita pasja zbierania dwulufowych obrzynów i strzelb wzbudza spore wątpliwości co do twojego rozsądku - w Zonie nie jest to broń, której potrzebujesz, by okazywać uczucia, więc osiągnięcie które zdobyłeś, powinno być nazywane niezwykłym: jesteś Dubletem!</pln>
+		<rus>Завалить всю подсобку полковнику Петренко ремонтными комплектами разнообразного назначения, а также аккумуляторами для функционирования экзоскелетов и миниганов может только настоящий Механик.</rus>
+		<eng>Only a real Mechanic can fill up the entire back room of Colonel Petrenko with repair kits for various purposes, as well as batteries for the operation of exoskeletons and miniguns.</eng>
+		<ukr>===Завалить всю подсобку полковнику Петренко ремонтными комплектами разнообразного назначения, а также аккумуляторами для функционирования экзоскелетов и миниганов может только настоящий Механик.</ukr>
+		<fra>===Завалить всю подсобку полковнику Петренко ремонтными комплектами разнообразного назначения, а также аккумуляторами для функционирования экзоскелетов и миниганов может только настоящий Механик.</fra>
+		<pln>===Завалить всю подсобку полковнику Петренко ремонтными комплектами разнообразного назначения, а также аккумуляторами для функционирования экзоскелетов и миниганов может только настоящий Механик.</pln>
 	</string>
 	<string id="acv_authority">
 		<rus>Авторитет</rus>
-		<eng>===Doublet</eng>
-		<ukr>Авторитет</ukr>
-		<fra>Doublet</fra>
-		<pln>Dublet</pln>
+		<eng>Authority</eng>
+		<ukr>===Authority</ukr>
+		<fra>===Authority</fra>
+		<pln>===Authority</pln>
 	</string>
 	<string id="acv_authority_desc">
-		<rus>Невероятная страсть собирать двуствольные ружья и обрезы ставит под сомнение Вашу адекватность - в Зоне Отчуждения это не то оружие, к которому нужно проявлять нежные чувства, поэтому и достижение, с такой лёгкостью Вами заработанное должно называться необычно: Вы - Дуплет!</rus>
-		<eng>The incredible passion to collect double-barreled guns and shotguns casts doubt on your adequacy - in the Exclusion Zone this is not a weapon to which you need to show tender feelings, so the achievement, with such ease you earned should be called unusual: you are the Doublet!</eng>
-		<ukr>Неймовірна пристрасть збирати двоствольні рушниці і обрізи ставить під сумнів вашу адекватність - в Зоні Відчуження це не та зброя, до якої потрібно проявляти ніжні почуття, тому й досягнення, з такою легкістю вами зароблене має називатися незвично: ви - Дуплет!\n\n\n\n\n</ukr>
-		<fra>Une incroyable passion pour la collecte de fusils et de tas à double canon remet en question votre adéquation - dans la Zone d’aliénation n’est pas une arme pour laquelle vous devez faire preuve de tendresse, c’est pourquoi la réussite que vous avez méritée devrait être appelée avec une telle aisance: vous êtes un Doublet!</fra>
-		<pln>Niesamowita pasja zbierania dwulufowych obrzynów i strzelb wzbudza spore wątpliwości co do twojego rozsądku - w Zonie nie jest to broń, której potrzebujesz, by okazywać uczucia, więc osiągnięcie które zdobyłeś, powinno być nazywane niezwykłym: jesteś Dubletem!</pln>
+		<rus>Собрать целый шкаф магазинных ружей-полуавтоматов, а также самозарядных ружей, использующих энергию отдачи ствола при его длинном ходе для перезарядки, может только очень авторитетный охотник, специалист и коллекционер данного вида оружия.</rus>
+		<eng>To collect a whole Cabinet of magazine guns-semi-automatic, as well as self-loading guns that use the energy of the recoil of the barrel at its long course for reloading can only be a very authoritative hunter, specialist and collector of this type of weapon.</eng>
+		<ukr>===Собрать целый шкаф магазинных ружей-полуавтоматов, а также самозарядных ружей, использующее энергию отдачи ствола при его длинном ходе для перезарядки может только очень авторитетный охотник, специалист и коллекционер данного вида оружия.</ukr>
+		<fra>===Собрать целый шкаф магазинных ружей-полуавтоматов, а также самозарядных ружей, использующее энергию отдачи ствола при его длинном ходе для перезарядки может только очень авторитетный охотник, специалист и коллекционер данного вида оружия.</fra>
+		<pln>===Собрать целый шкаф магазинных ружей-полуавтоматов, а также самозарядных ружей, использующее энергию отдачи ствола при его длинном ходе для перезарядки может только очень авторитетный охотник, специалист и коллекционер данного вида оружия.</pln>
 	</string>
 	<string id="acv_newgame">
 		<rus>Новая Игра</rus>
