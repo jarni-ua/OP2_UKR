@@ -2642,10 +2642,22 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="money_loot">
 		<rus>Пачка денег</rus>
-		<eng>===Пачка денег</eng>
+		<eng>Pack of money</eng>
 		<ukr>Пачка грошей</ukr>
-		<pln>===Пачка денег</pln>
+		<pln>Pakiet pieniędzy</pln>
 	</string>
+	<string id="money_loot_usa">
+		<rus>Пачка долларов</rus>
+		<eng>Pack of dollars</eng>
+		<ukr>Пачка доларів</ukr>
+		<pln>Paczka dolarów</pln>
+	</string>
+	<string id="money_loot_euro">
+		<rus>Пачка евро</rus>
+		<eng>Pack of euro</eng>
+		<ukr>Пачка євро</ukr>
+		<pln>Paczka euro</pln>
+	</string>	
 	<string id="money_loot_desc">
 		<rus>Небольшая пачка наличных денег. В рублях.</rus>
 		<eng>===Небольшая пачка наличных денег. В рублях.</eng>
