@@ -244,27 +244,27 @@
 	</string>
 	<!-- 5.7x28-ss190 -->
 	<string id="ammo-5.7x28-ss190">
+		<rus>Патроны 5.7x28мм SS195LF</rus>
+		<eng>5.7x28mm SS195LF cartridges</eng>
+		<ukr>Патрони 5.7х28мм SS195LF</ukr>
+		<pln>Naboje 5.7x28 mm SS195LF</pln>
+	</string>
+	<string id="ammo-5.7x28-ss190_s">
+		<rus>5.7x28 SS195LF</rus>
+		<eng>5.7x28 SS195LF</eng>
+		<ukr>5.7x28 SS195LF</ukr>
+	</string>
+	<!-- 5.7x28-ap -->
+	<string id="ammo-5.7x28-ap">
 		<rus>Патроны 5.7x28мм SS190</rus>
 		<eng>5.7x28mm SS190 cartridges</eng>
 		<ukr>Патрони 5.7х28мм SS190</ukr>
 		<pln>Naboje 5.7x28 mm SS190</pln>
 	</string>
-	<string id="ammo-5.7x28-ss190_s">
+	<string id="ammo-5.7x28-ap_s">
 		<rus>5.7x28 SS190</rus>
 		<eng>5.7x28 SS190</eng>
 		<ukr>5.7x28 SS190</ukr>
-	</string>
-	<!-- 5.7x28-ap -->
-	<string id="ammo-5.7x28-ap">
-		<rus>Патроны 5.7x28мм AP</rus>
-		<eng>5.7x28mm AP cartridges</eng>
-		<ukr>Патрони 5.7х28мм АР</ukr>
-		<pln>Naboje 5.7x28 mm AP</pln>
-	</string>
-	<string id="ammo-5.7x28-ap_s">
-		<rus>5.7x28 AP</rus>
-		<eng>5.7x28 AP</eng>
-		<ukr>5.7x28 AP</ukr>
 	</string>
 	<!-- 7.62x54r -->
 	<string id="ammo-7.62x54r">
@@ -718,16 +718,16 @@
 		<pln>Nabój 5.56x45 mm (5.56 mm NATO, .223 Remington) został opracowany przy udziale Eugena Stonera, który pracował w firmie "ArmaLite". Jest to odmiana myśliwskiego naboju .222 Remington (5.56x42 mm). W 1964 roku, armia USA oficjalnie przyjęła na uzbrojenie nabój .223 Remington pod oznaczeniem M193. Stosowany w karabinach szturmowych Enfield L85A2, LR-300, SIG-550, HK G36, FN F2000.</pln>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.7x28-ss190">
-		<rus>Патрон, разработанный для комплекса защиты личного состава бронетехники, состоящего из пистолета Five-Seven и пистолета-пулемёта P90. Является несколько уменьшенным аналогом 5.56 стандарта НАТО, но обладает большей пробивной мощностью, чем другие пистолетные патроны. Эта пуля развивает дульную скорость до 715 м/с и способна пробить бронежилет.</rus>
-		<eng>A cartridge designed for a weapon complex to protect personnel of armored vehicles, consisting of a Five-Seven pistol and a P90 submachine gun. It is somewhat reduced analogue of 5.56 of the NATO standard, but has more penetrating power than other pistol cartridges. This bullet develops a muzzle velocity up to 715 m/s and is able to pierce the bulletproof vest.</eng>
-		<ukr>Патрон, розроблений для комплексу захисту особового складу бронетехніки, що складається з пістолета Five-Seven і пістолета-кулемета P90. Є дещо зменшеним аналогом 5.56 стандарту НАТО, але має більшу пробивну потужність, ніж інші пістолетні патрони. Ця куля розвиває дулову швидкість до 715 м/с і здатна пробити бронежилет.</ukr>
-		<pln>Nabój, opracowany dla kompleksowej ochrony składu osobowego pojazdów opancerzonych, składającego się z pistoletu Five-Seven i pistoletu maszynowego P90. Jest nieco zmniejszonym analogiem 5.56 standardu NATO, ale posiada większą przebijalność, niż inne naboje pistoletowe. Kula rozwija prędkość początkową do 715 m/s i jest zdolna przebić kamizelkę kuloodporną.</pln>
+		<rus>Патрон с экспансивной пулей (JHP) калибра 5.7х28, разработанного бельгийской компанией Fabrique Nationale Herstal (FN) на замену 9х19 мм Парабеллум. Предназначался для комплекса защиты личного состава бронетехники, состоящего из пистолета Five-Seven и пистолета-пулемёта P90 от той же FN. Является несколько уменьшенным аналогом 5.56 стандарта НАТО, но обладает большей пробивной мощностью, чем другие пистолетные патроны. Она чуть меньше, чем у базового патрона 5.7x28 SS190, но останавливающее действие и убойная сила у неё выше. Дульная скорость пули составляет 716 м/с.</rus>
+		<eng>===A cartridge designed for a weapon complex to protect personnel of armored vehicles, consisting of a Five-Seven pistol and a P90 submachine gun. It is somewhat reduced analogue of 5.56 of the NATO standard, but has more penetrating power than other pistol cartridges. This bullet develops a muzzle velocity up to 715 m/s and is able to pierce the bulletproof vest.</eng>
+		<ukr>===Патрон, розроблений для комплексу захисту особового складу бронетехніки, що складається з пістолета Five-Seven і пістолета-кулемета P90. Є дещо зменшеним аналогом 5.56 стандарту НАТО, але має більшу пробивну потужність, ніж інші пістолетні патрони. Ця куля розвиває дулову швидкість до 715 м/с і здатна пробити бронежилет.</ukr>
+		<pln>===Nabój, opracowany dla kompleksowej ochrony składu osobowego pojazdów opancerzonych, składającego się z pistoletu Five-Seven i pistoletu maszynowego P90. Jest nieco zmniejszonym analogiem 5.56 standardu NATO, ale posiada większą przebijalność, niż inne naboje pistoletowe. Kula rozwija prędkość początkową do 715 m/s i jest zdolna przebić kamizelkę kuloodporną.</pln>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.7x28-ap">
-		<rus>Усиленный патрон 5.7x28 SS190. За счёт усиления патрона повысилась пробивная способность пули, но в то же время это приводит к повышенному износу ствола.</rus>
-		<eng>Enforced 5.7x28 SS190 cartridge. Due to the reinforcement of the cartridge, the bullet penetration capacity increased, but at the same time this leads to increased wear of the barrel.</eng>
-		<ukr>Посилений патрон 5.7x28 SS190. За рахунок посилення патрона підвищилася пробивна здатність кулі, але в той же час це призводить до підвищеного зносу ствола.</ukr>
-		<pln>Wzmocniony nabój 5.7x28 SS190. Dzięki wzmocnieniu naboju, zwiększyła się przebijalność kuli, jednak to powoduje szybsze zużycie lufy.</pln>
+		<rus>Базовый тип патронов калибра 5.7x28. Используется с 1993 г. По сравнению с 5.7x28 SS195LF обладает меньшей убойной силой и останавливающим действием, но большей пробивной способностью. Пуля с цельнометаллической оболочкой (FMJ) развивает дульную скорость в 716 м/с и при выстреле из FN P90 способна пробить келаровый бронежилет класса IIIA с 200 м.</rus>
+		<eng>===Enforced 5.7x28 SS190 cartridge. Due to the reinforcement of the cartridge, the bullet penetration capacity increased, but at the same time this leads to increased wear of the barrel.</eng>
+		<ukr>===Посилений патрон 5.7x28 SS190. За рахунок посилення патрона підвищилася пробивна здатність кулі, але в той же час це призводить до підвищеного зносу ствола.</ukr>
+		<pln>===Wzmocniony nabój 5.7x28 SS190. Dzięki wzmocnieniu naboju, zwiększyła się przebijalność kuli, jednak to powoduje szybsze zużycie lufy.</pln>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-7.62x54r">
 		<rus>Патрон 7.62x54мм (7.62x54, 7.62x54R, 7.62x54R Russian) появился в 1891 году. Был принят в качестве боеприпаса к трёхлинейной винтовке Мосина. Русский винтовочный патрон, с гильзой размерностью 7.62x53.72мм, общей максимальной длиной патрона в 77,16 мм, диаметром пули в 7,92мм и энергией в 4416 джоулей. Это один из старейших винтовочных патронов современности и, вероятно, старейший из все ещё широко используемых патронов.\n До сих пор используются в армии, но не для стрельбы из новейших автоматических винтовок, а в качестве боеприпасов к пулемётам ПК, ПКМ.</rus>
@@ -2267,9 +2267,9 @@
 	</string>
 	<string id="enc_weapons1_wpn-toz34_hunter">
 		<rus>Великолепно модифицированный и сбалансированный ТОЗ-34, с удобным прикладом и нарезным стволом. Настоящий клад для профессионального охотника. Снабжён несъёмным оптическим прицелом. Поговаривают, что с этого ствола было сделано всего несколько копий.</rus>
-		<eng>Perfectly modified and balanced TOZ-34, with a comfortable butt and rifled barrel. A real treasure for a professional hunter. It is equipped with a undetachable optical sight. It is rumored that only a few copies have been made from this gun.</eng>
-		<ukr>Чудово модифікована і збалансована ТОЗ-34, зі зручним прикладом і нарізним стволом. Справжній скарб для професійного мисливця. Забезпечений постійним оптичним прицілом. Подейкують, що з цього ствола було зроблено всього кілька копій.</ukr>
-		<pln>Doskonale zmodyfikowany i wyważony TOZ-34, z wygodną kolbą i lufą. Prawdziwy skarb dla profesjonalnego myśliwego. Wyposażony w niezdejmowany celownik optyczny. Podobno zrobiono tylko kilka sztuk tej broni.</pln>
+		<eng>===Perfectly modified and balanced TOZ-34, with a comfortable carved butt and rifled barrel. A real treasure for a professional hunter. It is equipped with a undetachable optical sight. It is rumored that only a few copies have been made from this gun.</eng>
+		<ukr>===Чудово модифікована і збалансована ТОЗ-34, зі зручним різьбленим прикладом і нарізним стволом. Справжній скарб для професійного мисливця. Забезпечений постійним оптичним прицілом. Подейкують, що з цього ствола було зроблено всього кілька копій.</ukr>
+		<pln>===Doskonale zmodyfikowany i wyważony TOZ-34, z wygodną grawerowaną kolbą i lufą. Prawdziwy skarb dla profesjonalnego myśliwego. Wyposażony w niezdejmowany celownik optyczny. Podobno zrobiono tylko kilka sztuk tej broni.</pln>
 	</string>
 	<string id="enc_weapons1_wpn-toz34_short">
 		<rus>Обрез ружья ТОЗ-34, очень хорошо подходит для ближнего боя.</rus>
