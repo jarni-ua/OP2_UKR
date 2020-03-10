@@ -5670,4 +5670,18 @@
 		<fra>Attention! Le détonateur est dans un état critique!</fra>
 		<pln>Uwaga! Detonator jest w stanie krytycznym!</pln>
 	</string>	
+	<string id="ui_options_op21_dynamic_anoms">
+		<rus>Динамические аномалии</rus>
+		<eng>Dynamic anomalies</eng>
+		<ukr>Динамічні аномалії</ukr>
+		<fra>Anomalies dynamiques</fra>
+		<pln>Anomalie dynamiczne</pln>
+	</string>	
+	<string id="ui_dynamic_anoms_hint">
+		<rus>При включенной опции - аномалии пересоздаются (меняют свое положение) при каждой загрузке сейва и после выброса. В противном случае - только после выбороса.\nПосле активации данной опции необходимо загрузить игру для применения изминений.\n%c[red]Внимание! Опция не применяется к текущей загруженной игре!%c[default]</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+		<fra>===</fra>
+		<pln>===</pln>
+	</string>	
 </string_table>
