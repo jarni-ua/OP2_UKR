@@ -932,17 +932,23 @@ Do profesora Sazonowa Mikołaja Dimitrowicza\n\nSzanowny Mikołaju Dimitrowiczu,
 		<pln>Jaki sen?! Jesteś okrążony przez wrogów!</pln>
 	</string>
 	<string id="trans_finished_title">
-		<rus>Результат трансмутации артефакта</rus>
-		<eng>Result of artifact transmutation</eng>
-		<ukr>Результат трансмутації артефакта</ukr>
-		<pln>Rezultat transmutacji artefaktu</pln>
+		<rus>Трансмутация артефакта из %s завершена!</rus>
+		<eng>Transmutation artifact from %s is complete!</eng>
+		<ukr>Трансмутацію артефакту з %s завершено!</ukr>
+		<pln>Artefakt transmutacji z %s zakończony!</pln>
 	</string>
-	<string id="trans_finished_msg">
-		<rus>Результат трансмутации артефакта</rus>
-		<eng>Result of artifact transmutation</eng>
-		<ukr>Результат трансмутації артефакта</ukr>
-		<pln>Rezultat transmutacji artefaktu</pln>
+	<string id="trans_finished_failed">
+		<rus>Трансмутация артефакта утеряна!</rus>
+		<eng>Transmutation artifact lost!</eng>
+		<ukr>Трансмутація артефакту втрачена!</ukr>
+		<pln>Artefakt transmutacji utracony!</pln>
 	</string>
+	<string id="trans_territory">
+		<rus>Территория:</rus>
+		<eng>Territory:</eng>
+		<ukr>Територія:</ukr>
+		<pln>Terytorium:</pln>
+	</string>	
 	<string id="stalker_died">
 		<rus>Погиб сталкер:</rus>
 		<eng>Stalker has died:</eng>
