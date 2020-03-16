@@ -206,7 +206,7 @@
 	<string id="st_load_ammo">
 		<rus>зарядить</rus>
 		<eng>load</eng>
-		<ukr>зарядить</ukr>
+		<ukr>зарядити</ukr>
 		<fra>charger</fra>
 		<pln>załaduj</pln>
 	</string>
@@ -227,14 +227,12 @@
 	<string id="ui_inv_bag">
 		<rus>Рюкзак</rus>
 		<eng>Backpack</eng>
-		<ukr>Рюкзак</ukr>
 		<fra>Sac à dos</fra>
 		<pln>Plecak</pln>
 	</string>
 	<string id="ui_inv_belt">
 		<rus>Пояс</rus>
 		<eng>Belt</eng>
-		<ukr>Пояс</ukr>
 		<fra>Ceinture</fra>
 		<pln>Pas</pln>
 	</string>
@@ -324,10 +322,7 @@
 	</string>
 	<string id="ui_inv_ok">
 		<rus>OK</rus>
-		<eng>OK</eng>
-		<ukr>OK</ukr>
 		<fra>D'accord</fra>
-		<pln>OK</pln>
 	</string>
 	<string id="ui_inv_outfit_burn_protection">
 		<rus>Ожог</rus>
@@ -374,21 +369,18 @@
 	<string id="ui_inv_aw_kg">
 		<rus>кг</rus>
 		<eng>kg</eng>
-		<ukr>кг</ukr>
 		<fra>kg</fra>
 		<pln>kg</pln>
 	</string>
 	<string id="ui_inv_aw_gr">
 		<rus>гр</rus>
 		<eng>gr</eng>
-		<ukr>гр</ukr>
 		<fra>gr</fra>
 		<pln>gr</pln>
 	</string>
 	<string id="ui_inv_m">
 		<rus>м</rus>
 		<eng>m</eng>
-		<ukr>м</ukr>
 		<fra>m</fra>
 		<pln>m</pln>
 	</string>
@@ -423,7 +415,6 @@
 	<string id="ui_inv_outfit_strike_protection">
 		<rus>Удар</rus>
 		<eng>Impact</eng>
-		<ukr>Удар</ukr>
 		<fra>Impact</fra>
 		<pln>Uderzenie</pln>
 	</string>
@@ -493,7 +484,6 @@
 	<string id="ui_inv_shop">
 		<rus>Магазин</rus>
 		<eng>Magazine</eng>
-		<ukr>Магазин</ukr>
 		<fra>Chargeur</fra>
 		<pln>Sklep</pln>
 	</string>
@@ -703,7 +693,7 @@
 	<string id="ui_carbody_move_single">
 		<rus>переместить</rus>
 		<eng>move</eng>
-		<ukr>переместить</ukr>
+		<ukr>пересунути</ukr>
 		<fra>déplacer</fra>
 		<pln>przesuń</pln>
 	</string>
@@ -752,14 +742,12 @@
 	<string id="kb_artefact">
 		<rus>Артефакт</rus>
 		<eng>Artifact</eng>
-		<ukr>Артефакт</ukr>
 		<fra>Artéfact</fra>
 		<pln>Artefakt</pln>
 	</string>
 	<string id="kb_backward">
 		<rus>Назад</rus>
 		<eng>Back</eng>
-		<ukr>Назад</ukr>
 		<fra>Reculer</fra>
 		<pln>Wstecz</pln>
 	</string>
@@ -773,14 +761,12 @@
 	<string id="kb_buy_menu">
 		<rus>Меню покупки</rus>
 		<eng>Buy menu</eng>
-		<ukr>Меню покупки</ukr>
 		<fra>Menu d'achat</fra>
 		<pln>Menu kupna</pln>
 	</string>
 	<string id="kb_chat">
 		<rus>Чат</rus>
 		<eng>Chat</eng>
-		<ukr>Чат</ukr>
 		<fra>Chat</fra>
 		<pln>Czat</pln>
 	</string>
@@ -794,7 +780,6 @@
 	<string id="kb_console">
 		<rus>Консоль</rus>
 		<eng>Console</eng>
-		<ukr>Консоль</ukr>
 		<fra>Console</fra>
 		<pln>Konsola</pln>
 	</string>
@@ -970,7 +955,6 @@
 	<string id="kb_map">
 		<rus>Карта в КПК</rus>
 		<eng>PDA map</eng>
-		<ukr>Карта в КПК</ukr>
 		<fra>Carte PDA</fra>
 		<pln>Mapa w PDA</pln>
 	</string>
@@ -991,14 +975,12 @@
 	<string id="kb_pause">
 		<rus>Пауза</rus>
 		<eng>Pause</eng>
-		<ukr>Пауза</ukr>
 		<fra>Pause</fra>
 		<pln>Pauza</pln>
 	</string>
 	<string id="kb_pda">
 		<rus>КПК</rus>
 		<eng>PDA</eng>
-		<ukr>КПК</ukr>
 		<fra>PDA</fra>
 		<pln>PDA</pln>
 	</string>
@@ -1194,7 +1176,6 @@
 	<string id="kb_weapon3">
 		<rus>Автомат</rus>
 		<eng>Rifle</eng>
-		<ukr>Автомат</ukr>
 		<fra>Fusil</fra>
 		<pln>Automat</pln>
 	</string>
@@ -1208,7 +1189,6 @@
 	<string id="kb_weapon5">
 		<rus>Граната</rus>
 		<eng>Grenade</eng>
-		<ukr>Граната</ukr>
 		<fra>Grenade</fra>
 		<pln>Granat</pln>
 	</string>
@@ -1222,7 +1202,6 @@
 	<string id="kb_weapon7">
 		<rus>Болт</rus>
 		<eng>Bolt</eng>
-		<ukr>Болт</ukr>
 		<fra>Boulon</fra>
 		<pln>Śruba</pln>
 	</string>
@@ -1445,7 +1424,6 @@
 	<string id="st_rank_veteran">
 		<rus>ветеран</rus>
 		<eng>veteran</eng>
-		<ukr>ветеран</ukr>
 		<fra>vétéran</fra>
 		<pln>weteran</pln>
 	</string>
@@ -1459,14 +1437,12 @@
 	<string id="testers_mp_agroprom">
 		<rus>Агропром</rus>
 		<eng>Agroprom</eng>
-		<ukr>Агропром</ukr>
 		<fra>Agroprom</fra>
 		<pln>Agroprom</pln>
 	</string>
 	<string id="testers_mp_atp">
 		<rus>АТП</rus>
 		<eng>ATP</eng>
-		<ukr>АТП</ukr>
 		<fra>ATP</fra>
 		<pln>ATP</pln>
 	</string>
@@ -1528,7 +1504,6 @@
 	<string id="ui_mm_60_hz">
 		<rus>Частота 60Гц</rus>
 		<eng>Frequency 60Hz</eng>
-		<ukr>Частота 60Гц</ukr>
 		<fra>Fréquence 60Hz</fra>
 		<pln>Częstotliwość 60Hz</pln>
 	</string>
@@ -1570,7 +1545,6 @@
 	<string id="ui_mm_back">
 		<rus>Назад</rus>
 		<eng>Back</eng>
-		<ukr>Назад</ukr>
 		<fra>Retour</fra>
 		<pln>Wstecz</pln>
 	</string>
@@ -1605,7 +1579,6 @@
 	<string id="ui_mm_contrast">
 		<rus>Контраст</rus>
 		<eng>Contrast</eng>
-		<ukr>Контраст</ukr>
 		<fra>Contraste</fra>
 		<pln>Kontrast</pln>
 	</string>
@@ -1745,7 +1718,6 @@
 	<string id="ui_mm_respawn">
 		<rus>Респаун</rus>
 		<eng>Respawn</eng>
-		<ukr>Респаун</ukr>
 		<fra>Réapparition</fra>
 		<pln>Respawn</pln>
 	</string>
@@ -1794,10 +1766,6 @@
 	</string>
 	<string id="ui_mm_eax">
 		<rus>EAX</rus>
-		<eng>EAX</eng>
-		<ukr>EAX</ukr>
-		<fra>EAX</fra>
-		<pln>EAX</pln>
 	</string>
 	<string id="ui_mm_fullscreen">
 		<rus>Полный экран</rus>
@@ -1837,7 +1805,6 @@
 	<string id="ui_mm_key">
 		<rus>Кнопка</rus>
 		<eng>Button</eng>
-		<ukr>Кнопка</ukr>
 		<fra>Touche</fra>
 		<pln>Klawisz</pln>
 	</string>
@@ -2068,7 +2035,6 @@
 	<string id="ui_mm_sound">
 		<rus>Звук</rus>
 		<eng>Sound</eng>
-		<ukr>Звук</ukr>
 		<fra>Son</fra>
 		<pln>Dźwięk</pln>
 	</string>
@@ -2448,7 +2414,6 @@
 	<string id="ui_amk_opt_rad_hud">
 		<rus>HUD костюма</rus>
 		<eng>Outfit HUD</eng>
-		<ukr>HUD костюма</ukr>
 		<fra>Combinaison HUD</fra>
 		<pln>HUD kombinezonu</pln>
 	</string>
@@ -2496,8 +2461,6 @@
 	</string>
 	<string id="ui_mm_language">
 		<rus>Язык/Language/Мова</rus>
-		<eng>Язык/Language/Мова</eng>
-		<ukr>Язык/Language/Мова</ukr>
 		<fra>Langage</fra>
 		<pln>Język/Language</pln>
 	</string>
@@ -2511,7 +2474,6 @@
 	<string id="ui_mm_langfont">
 		<rus>Шрифт (тип)</rus>
 		<eng>Font (type)</eng>
-		<ukr>Шрифт (тип)</ukr>
 		<fra>Police de caractère (Type)</fra>
 		<pln>Czcionka (typ)</pln>
 	</string>
@@ -2532,87 +2494,40 @@
 	<!-- BEGIN Do not translate this! English for all languages -->
 	<string id="ui_mm_language_eng">
 		<rus>English [BETA]</rus>
-		<eng>English [BETA]</eng>
-		<ukr>English [BETA]</ukr>
-		<fra>English [BETA]</fra>
-		<pln>English [BETA]</pln>
 	</string>
 	<string id="ui_mm_language_rus">
 		<rus>Russian</rus>
-		<eng>Russian</eng>
-		<ukr>Russian</ukr>
-		<fra>Russian</fra>
-		<pln>Russian</pln>
 	</string>
 	<string id="ui_mm_language_ukr">
 		<rus>Ukrainian</rus>
-		<eng>Ukrainian</eng>
-		<ukr>Ukrainian</ukr>
-		<fra>Ukrainian</fra>
-		<pln>Ukrainian</pln>
 	</string>
 	<string id="ui_mm_language_fra">
 		<rus>French [BETA]</rus>
-		<eng>French [BETA]</eng>
-		<ukr>French [BETA]</ukr>
-		<fra>French [BETA]</fra>
-		<pln>French [BETA]</pln>
 	</string>
 	<string id="ui_mm_language_pln">
 		<rus>Polish</rus>
-		<eng>Polish</eng>
-		<ukr>Polish</ukr>
-		<fra>Polish</fra>
-		<pln>Polish</pln>
 	</string>
 	<string id="ui_mm_langfont_east">
 		<rus>Eastern European</rus>
-		<eng>Eastern European</eng>
-		<ukr>Eastern European</ukr>
-		<fra>Eastern European</fra>
-		<pln>Eastern European</pln>
 	</string>
 	<string id="ui_mm_langfont_cent">
 		<rus>Central European</rus>
-		<eng>Central European</eng>
-		<ukr>Central European</ukr>
-		<fra>Central European</fra>
-		<pln>Central European</pln>
 	</string>
 	<string id="ui_mm_langfont_west">
 		<rus>Western European</rus>
-		<eng>Western European</eng>
-		<ukr>Western European</ukr>
-		<fra>Western European</fra>
-		<pln>Western European</pln>
 	</string>
 	<string id="ui_mm_langcode_1251">
 		<rus>Eastern European</rus>
-		<eng>Eastern European</eng>
-		<ukr>Eastern European</ukr>
-		<fra>Eastern European</fra>
-		<pln>Eastern European</pln>
 	</string>
 	<string id="ui_mm_langcode_1250">
 		<rus>Central European</rus>
-		<eng>Central European</eng>
-		<ukr>Central European</ukr>
-		<fra>Central European</fra>
-		<pln>Central European</pln>
 	</string>
 	<string id="ui_mm_langcode_1252">
 		<rus>Western European</rus>
-		<eng>Western European</eng>
-		<ukr>Western European</ukr>
-		<fra>Western European</fra>
-		<pln>Western European</pln>
 	</string>
 	<!-- END Do not translate this! English for all languages -->
 	<string id="ui_mm_huds_cap">
 		<rus>HUDs:</rus>
-		<eng>HUDs:</eng>
-		<ukr>HUDs:</ukr>
-		<fra>HUD:</fra>
 		<pln>HUDy:</pln>
 	</string>	
 	<string id="ui_mm_crosshairs">
@@ -2653,7 +2568,6 @@
 	<string id="mm_mp_pda_hunt">
 		<rus>Бонус за КПК</rus>
 		<eng>PDA bonus</eng>
-		<ukr>Бонус за КПК</ukr>
 		<fra>Bonus PDA</fra>
 		<pln>Bonus za PDA</pln>
 	</string>
@@ -2730,7 +2644,6 @@
 	<string id="ui_st_btn_ok">
 		<rus>ОК</rus>
 		<eng>OK</eng>
-		<ukr>ОК</ukr>
 		<fra>OK</fra>
 		<pln>OK</pln>
 	</string>
@@ -2779,7 +2692,6 @@
 	<string id="ui_st_days">
 		<rus>дн.</rus>
 		<eng>days</eng>
-		<ukr>дн.</ukr>
 		<fra>jours</fra>
 		<pln>dn.</pln>
 	</string>
@@ -2849,7 +2761,6 @@
 	<string id="ui_st_secs">
 		<rus>сек.</rus>
 		<eng>sec.</eng>
-		<ukr>сек.</ukr>
 		<fra>secondes</fra>
 		<pln>sek.</pln>
 	</string>
@@ -2996,7 +2907,6 @@
 	<string id="st_client_connecting_to">
 		<rus>Прощаюсь		</rus>
 		<eng>Bidding good-bye</eng>
-		<ukr>Прощаюсь		</ukr>
 		<fra>Au revoir</fra>
 		<pln>Pożegnaj się		</pln>
 	</string>
@@ -3122,14 +3032,12 @@
 	<string id="st_game_paused">
 		<rus>Пауза</rus>
 		<eng>Pause</eng>
-		<ukr>Пауза</ukr>
 		<fra>Pause</fra>
 		<pln>Pauza</pln>
 	</string>
 	<string id="st_bolt">
 		<rus>Болт</rus>
 		<eng>Bolt</eng>
-		<ukr>Болт</ukr>
 		<fra>Boulon</fra>
 		<pln>Śruba</pln>
 	</string>
@@ -3157,7 +3065,6 @@
 	<string id="st_audio">
 		<rus>Звук</rus>
 		<eng>Sound</eng>
-		<ukr>Звук</ukr>
 		<fra>Video</fra>
 		<pln>Dźwięk</pln>
 	</string>
@@ -3227,16 +3134,13 @@
 	<string id="ui_st_time_qend">
 		<rus>до</rus>
 		<eng>before</eng>
-		<ukr>до</ukr>
 		<fra>avant</fra>
 		<pln>przed</pln>
 	</string>
 	<string id="ui_st_money_regional">
 		<rus>RU</rus>
-		<eng>RU</eng>
 		<ukr>грн</ukr>
 		<fra>Roubles</fra>
-		<pln>RU</pln>
 	</string>
 	<string id="st_main_on">
 		<rus>Включить</rus>
@@ -3332,7 +3236,6 @@
 	<string id="pda_btn_active">
 		<rus>Сюжет</rus>
 		<eng>Story</eng>
-		<ukr>Сюжет</ukr>
 		<fra>L'histoire</fra>
 		<pln>Fabuła</pln>
 	</string>
@@ -3360,7 +3263,6 @@
 	<string id="pda_btn_diary">
 		<rus>Журнал</rus>
 		<eng>Diary</eng>
-		<ukr>Журнал</ukr>
 		<fra>Journal</fra>
 		<pln>Dziennik</pln>
 	</string>
@@ -3388,7 +3290,6 @@
 	<string id="pda_btn_failed">
 		<rus>Провалено</rus>
 		<eng>Failed</eng>
-		<ukr>Провалено</ukr>
 		<fra>Échoué</fra>
 		<pln>Nieudane</pln>
 	</string>
@@ -3416,7 +3317,6 @@
 	<string id="pda_btn_journal">
 		<rus>Журнал</rus>
 		<eng>Journal</eng>
-		<ukr>Журнал</ukr>
 		<fra>Journal</fra>
 		<pln>Dziennik</pln>
 	</string>
@@ -3430,7 +3330,6 @@
 	<string id="pda_btn_map">
 		<rus>Карта</rus>
 		<eng>Map</eng>
-		<ukr>Карта</ukr>
 		<fra>Carte</fra>
 		<pln>Mapa</pln>
 	</string>
@@ -3500,7 +3399,6 @@
 	<string id="pda_btn_ranking">
 		<rus>Ранги</rus>
 		<eng>Ranks</eng>
-		<ukr>Ранги</ukr>
 		<fra>Rangs</fra>
 		<pln>Rangi</pln>
 	</string>
@@ -3549,7 +3447,6 @@
 	<string id="pda_show_descr_btn_hint">
 		<rus>Перейти</rus>
 		<eng>Go to</eng>
-		<ukr>Перейти</ukr>
 		<fra>Aller à</fra>
 		<pln>Idź do</pln>
 	</string>
@@ -3577,7 +3474,6 @@
 	<string id="Rank">
 		<rus>Ранг</rus>
 		<eng>Rank</eng>
-		<ukr>Ранг</ukr>
 		<fra>Rang</fra>
 		<pln>Ranga</pln>
 	</string>
@@ -3626,7 +3522,6 @@
 	<string id="st_detail_list_for_foo">
 		<rus>Статистика</rus>
 		<eng>Statistics</eng>
-		<ukr>Статистика</ukr>
 		<fra>Statistiques</fra>
 		<pln>Statystyki</pln>
 	</string>
@@ -3730,7 +3625,6 @@
 	<string id="st_pda_statistic_score">
 		<rus>Статистика</rus>
 		<eng>Statistics</eng>
-		<ukr>Статистика</ukr>
 		<fra>Statistiques</fra>
 		<pln>Statystyki</pln>
 	</string>
@@ -3779,14 +3673,12 @@
 	<string id="zoom_in_btn_hint">
 		<rus>Масштаб +</rus>
 		<eng>Zoom +</eng>
-		<ukr>Масштаб +</ukr>
 		<fra>Zoom +</fra>
 		<pln>Skala +</pln>
 	</string>
 	<string id="zoom_out_btn_hint">
 		<rus>Масштаб -</rus>
 		<eng>Zoom -</eng>
-		<ukr>Масштаб -</ukr>
 		<fra>Zoom -</fra>
 		<pln>Skala -</pln>
 	</string>
@@ -4352,15 +4244,10 @@
 	</string>
 	<string id="st_demo_play">
 		<rus>AMK MOD 1.4.1</rus>
-		<eng>AMK MOD 1.4.1</eng>
-		<ukr>AMK MOD 1.4.1</ukr>
-		<fra>AMK MOD 1.4.1</fra>
-		<pln>AMK MOD 1.4.1</pln>
 	</string>
 	<string id="txt_safe_storage_short_name">
 		<rus>Рюкзак</rus>
 		<eng>Backpack</eng>
-		<ukr>Рюкзак</ukr>
 		<fra>Sac à dos</fra>
 		<pln>Plecak</pln>
 	</string>
@@ -4381,7 +4268,6 @@
 	<string id="txt_safe_column1">
 		<rus>Предмет</rus>
 		<eng>Item</eng>
-		<ukr>Предмет</ukr>
 		<fra>Objet</fra>
 		<pln>Przedmiot</pln>
 	</string>
@@ -4430,7 +4316,6 @@
 	<string id="txt_safe_filter_4">
 		<rus>Броня</rus>
 		<eng>Armor</eng>
-		<ukr>Броня</ukr>
 		<fra>Armure</fra>
 		<pln>Pancerz</pln>
 	</string>
@@ -4761,7 +4646,6 @@
 	<string id="ui_slot_name">
 		<rus>слот</rus>
 		<eng>slot</eng>
-		<ukr>слот</ukr>
 		<fra>emplacement</fra>
 		<pln>slot</pln>
 	</string>
@@ -4909,14 +4793,12 @@
 	<string id="ui_stco_kordon">
 		<rus>Кордон</rus>
 		<eng>Cordon</eng>
-		<ukr>Кордон</ukr>
 		<fra>Cordon</fra>
 		<pln>Kordon</pln>
 	</string>
 	<string id="ui_stco_agroprom">
 		<rus>Агропром</rus>
 		<eng>Agroprom</eng>
-		<ukr>Агропром</ukr>
 		<fra>Agroprom</fra>
 		<pln>Agroprom</pln>
 	</string>
@@ -4958,7 +4840,6 @@
 	<string id="ui_stco_lat">
 		<rus>широта:</rus>
 		<eng>latitude:</eng>
-		<ukr>широта:</ukr>
 		<fra>latitude:</fra>
 		<pln>szerokość:</pln>
 	</string>
@@ -5014,14 +4895,12 @@
 	<string id="ui_trans_start">
 		<rus>Запуск</rus>
 		<eng>Start</eng>
-		<ukr>Запуск</ukr>
 		<fra>Démarrer</fra>
 		<pln>Start</pln>
 	</string>
 	<string id="ui_trans_days">
 		<rus>дн</rus>
 		<eng>days</eng>
-		<ukr>дн</ukr>
 		<fra>jours</fra>
 		<pln>dn</pln>
 	</string>
@@ -5070,7 +4949,6 @@
 	<string id="ui_autosave_day">
 		<rus>День</rus>
 		<eng>Day</eng>
-		<ukr>День</ukr>
 		<fra>Jour</fra>
 		<pln>Dzień</pln>
 	</string>
@@ -5224,14 +5102,12 @@
 	<string id="ui_stat_day_0">
 		<rus>день</rus>
 		<eng>day</eng>
-		<ukr>день</ukr>
 		<fra>jour</fra>
 		<pln>dzień</pln>
 	</string>
 	<string id="ui_stat_day_1">
 		<rus>дня</rus>
 		<eng>day</eng>
-		<ukr>дня</ukr>
 		<fra>jour</fra>
 		<pln>dni</pln>
 	</string>
@@ -5399,14 +5275,14 @@
 	<string id="st_charge_exo">
 		<rus>зарядить экзоскелет</rus>
 		<eng>charge exoskeleton</eng>
-		<ukr>зарядити экзоскелет</ukr>
+		<ukr>зарядити екзоскелет</ukr>
 		<fra>charger l'exosquelette</fra>
 		<pln>naładuj egzoszkielet</pln>
 	</string>
 	<string id="st_discharge_exo">
 		<rus>разрядить экзоскелет</rus>
 		<eng>discharge exoskeleton</eng>
-		<ukr>розрядити экзоскелет</ukr>
+		<ukr>розрядити екзоскелет</ukr>
 		<fra>décharger l'exosquelette</fra>
 		<pln>rozładuj egzoszkielet</pln>
 	</string>	
@@ -5553,38 +5429,18 @@
 	</string>
 	<string id="fpslock60">
 		<rus>60</rus>
-		<eng>60</eng>
-		<ukr>60</ukr>
-		<fra>60</fra>
-		<pln>60</pln>
 	</string>
 	<string id="fpslock120">
 		<rus>120</rus>
-		<eng>120</eng>
-		<ukr>120</ukr>
-		<fra>120</fra>
-		<pln>120</pln>
 	</string>
 	<string id="fpslock144">
 		<rus>144</rus>
-		<eng>144</eng>
-		<ukr>144</ukr>
-		<fra>144</fra>
-		<pln>144</pln>
 	</string>	
 	<string id="fpslock180">
 		<rus>180</rus>
-		<eng>180</eng>
-		<ukr>180</ukr>
-		<fra>180</fra>
-		<pln>180</pln>
 	</string>
 	<string id="fpslock240">
 		<rus>240</rus>
-		<eng>240</eng>
-		<ukr>240</ukr>
-		<fra>240</fra>
-		<pln>240</pln>
 	</string>	
 	<string id="ui_options_op21_horror_time_enable">
 		<rus>Разрешить событие 'Час ужаса' в игре</rus>
@@ -5609,37 +5465,26 @@
 	</string>
 	<string id="ui_skip_ammo_word">
 		<rus>патроны</rus>
-		<eng></eng>
 		<ukr>патрони</ukr>
-		<fra></fra>
 		<pln>naboje</pln>
 	</string>
 	<string id="ui_skip_grenade_word">
 		<rus>Граната</rus>
-		<eng></eng>
-		<ukr>Граната</ukr>
-		<fra></fra>
 		<pln>Granaty</pln>
 	</string>
 	<string id="ui_skip_box_word">
 		<rus>Короб с патронами</rus>
-		<eng></eng>
 		<ukr>Короб з патронами</ukr>
-		<fra></fra>
 		<pln>Skrzynka z nabojami</pln>
 	</string>
 	<string id="ui_skip_silencer_word">
 		<rus>глушитель</rus>
-		<eng></eng>
 		<ukr>глушник</ukr>
-		<fra></fra>
 		<pln>tłumik</pln>
 	</string>
 	<string id="ui_skip_scope_word">
 		<rus>прицел</rus>
-		<eng></eng>
 		<ukr>приціл</ukr>
-		<fra></fra>
 		<pln>celownik</pln>
 	</string>
 	<string id="cant_hunger_jump_sprint">
@@ -5679,128 +5524,170 @@
 	</string>	
 	<string id="ui_dynamic_anoms_hint">
 		<rus>При включенной опции - аномалии пересоздаются (меняют свое положение) при каждой загрузке сейва и после выброса. В противном случае - только после выбороса.\nПосле активации данной опции необходимо загрузить игру для применения изминений.\n%c[red]Внимание! Опция не применяется к текущей загруженной игре!%c[default]</rus>
+		<ukr>При ввімкненні опції - аномалії створюються знову (змінюють своє положення) при кожному завантаженні сейва і після викиду. В іншому випадку - тільки після викиду.\nПісля активації даної опції необхідно завантажити гру для застосування змін.\n%c[red]Увага! Опція не застосовується до поточної завантаженої гри!%c[default]</ukr>
 	</string>
 	<string id="ui_mm_autochange_difficulty_hint">
 		<rus>При включении данной опции уровень сложности игры будет автоматически понижаться в зависимости от частой гибели главного героя (после каждой 13-й смерти).</rus>
+		<ukr>При включенні даної опції рівень складності гри буде автоматично знижуватися в залежності від частоти загибелі головного героя (після кожної 13-й смерті).</ukr>
 	</string>
 	<string id="ui_show_enemy_minimap_spot_hint">
 		<rus>При включении данной опции на миникарте будут временно отображаться красные метки врагов. </rus>
+		<ukr>При включенні даної опції на мінікарті будуть тимчасово відображатися червоні мітки ворогів.</ukr>
 	</string>
 	<string id="ui_mm_huds_hint">
 		<rus>Позволяет выбрать игровой худ из доступного списка с предпросмотром внешнего вида.</rus>
+		<ukr>Дозволяє вибрати ігровий худ з доступного списку з попереднім переглядом зовнішнього вигляду.</ukr>
 	</string>	
 	<string id="ui_mm_show_weapon_hint">
 		<rus>При включении данной опции на экране будет отображаться оружие в руках главного героя.</rus>
+		<ukr>При включенні даної опції на екрані буде відображатися зброя в руках головного героя.</ukr>
 	</string>	
 	<string id="ui_mm_autosave_hint">
 		<rus>При включении данной опции при получении или сдаче сюжетных заданий будет автоматически создаваться именное сохранение.</rus>
+		<ukr>При включенні даної опції при отриманні або здачі сюжетних завдань буде автоматично створюватися іменне збереження.</ukr>
 	</string>	
 	<string id="ui_mm_dialog_numbered_hint">
 		<rus>При включении данной опции строки в окне диалогов будут нумероваться по порядку. Соответсвуюшую строку в диалоге можно активировать с клавиатуры, нажав цифру нужной фразы.</rus>
+		<ukr>При включенні даної опції рядки у вікні діалогів нумеруватимуться по порядку. Відповідний рядок в діалозі можна активувати з клавіатури, натиснувши цифру потрібної фрази.</ukr>
 	</string>	
 	<string id="ui_options_horror_time_hint">
 		<rus>При включении данной опции в игре с 22.00 до 23.00 с некоторой вероятностью будет активироваться "Час ужаса".</rus>
+		<ukr>При включенні даної опції в грі з 22.00 до 23.00 з певною ймовірністю буде активуватися "Час жаху".</ukr>
 	</string>	
 	<string id="ui_mm_sms_hint">
 		<rus>При включении данной опции в общем канале смс-уведомлений будут появлятся смс, которые напрямую не затрагивают игру, например смс про форумчан.</rus>
+		<ukr>При включенні даної опції в загальному каналі смс-повідомлень будуть з'являтися смс, які безпосередньо не зачіпають гру, наприклад смс про форумчан.</ukr>
 	</string>	
 	<string id="ui_mm_name_hint">
 		<rus>В данном поле указывается имя игрока, которое в процессе игры будет использовано в смс.</rus>
+		<ukr>В даному полі вказується ім'я гравця, яке в процесі гри буде використано в смс.</ukr>
 	</string>
 	<string id="buy_items_edit_hint">
 		<rus>Используя данное поле, можно получить квестовый предмет, который был утрачен игроком.\nПри использовании данной опции более трех раз игрок получает антидостижение.\nДанная опция предназначена для покупки только квестовых предметов.</rus>
+		<ukr>Використовуючи дане поле, можна отримати квестовий предмет, який був втрачений гравцем.\nПри використанні даної опції більше трьох разів гравець отримує антидосягнення.\nДана опція призначена для покупки тільки квестових предметів.</ukr>
 	</string>
 	<string id="ui_mm_del_hint">
 		<rus>Используя данное поле, можно удалить из игры объекты, которые приводят к стабильному вылету.\n%c[red]Не рекомендуется использовать данную опцию без полного понимания необходимости её применения!%c[default]</rus>
+		<ukr>Використовуючи дане поле, можна видалити з гри об'єкти, які призводять до стабільного вильоту.\n%c[red]Не рекомендується використовувати цю опцію без повного розуміння необхідності її застосування!%c[default]</ukr>
 	</string>	
 	<string id="ui_mm_show_crosshair_hint">
 		<rus>При включении данной опции на экране в центре будет показываться перекрестие.</rus>
+		<ukr>При включенні даної опції на екрані в центрі буде показуватися перехрестя.</ukr>
 	</string>	
 	<string id="ui_mm_dyn_crosshair_hint">
 		<rus>При включении данной опции перекрестие в центре экрана будет менять размер в зависимости от дистанции до объекта, на который наведено перекрестие.</rus>
+		<ukr>При включенні даної опції перехрестя в центрі екрана буде міняти розмір в залежності від дистанції до об'єкта, на який наведено перехрестя.</ukr>
 	</string>
 	<string id="ui_mm_crosshairs_hint">
 		<rus>Позволяет выбрать вид прицела из списка доступных в модификации.</rus>
+		<ukr>Дозволяє вибрати вид прицілу зі списку доступних в модифікації.</ukr>
 	</string>
 	<string id="ui_mm_crosshair_distance_hint">
 		<rus>При включении данной опции рядом с перекрестием в центре экрана будет указываться дистанция до объекта, на который наведено перекрестие.\n%c[yellow]Данная опция активируется не на всех уровнях сложности!%c[default]</rus>
+		<ukr>При включенні даної опції поруч з перехрестям в центрі екрана буде вказуватися відстань до об'єкта, на який наведено перехрестя.\n%c[yellow]Дана опція активується не на всіх рівнях складності!%c[default]</ukr>
 	</string>
 	<string id="ui_mm_tips_hint">
 		<rus>При включении данной опции перекрестие в центре экрана будет менять цвет (желтый, красный, зеленый) в зависимости от того, на кого из НПС наведено перекрестие.\n%c[yellow]Данная опция не работает при использовании кастомных перекрестий!%c[default]</rus>
+		<ukr>При включенні даної опції перехрестя в центрі екрана буде міняти колір (жовтий, червоний, зелений) в залежності від того, на кого з НПС наведено перехрестя.\n%c[yellow]Дана опція не працює при використанні кастомних перехресть!%c[default]</ukr>
 	</string>
 	<string id="hud_min_crosshair_hint">
 		<rus>При включении данной опции при убирании HUD (миникарты, счетчика патронов и т.п.) с экрана, также будет убираться и перекрестие в центре экрана. </rus>
+		<ukr>При включенні даної опції при прибиранні HUD (міні-карти, лічильника патронів і т.п.) з екрану, також буде забиратися і перехрестя в центрі екрану.</ukr>
 	</string>
 	<string id="ui_show_focused_hint">
 		<rus>При включении данной опции, при наведении курсора на предмет в инвентаре, поле данного предмета будет подсвечено сеткой серого цвета.</rus>
+		<ukr>При включенні даної опції, при наведенні курсору на предмет в інвентарі, поле даного предмета буде підсвічено сіткою сірого кольору.</ukr>
 	</string>
 	<string id="ui_show_selected_hint">
 		<rus>При включении данной опции, при выборе предмета в инвентаре, поле данного предмета будет подсвечено сеткой зеленого цвета.</rus>
+		<ukr>При включенні даної опції, при виборі предмета в інвентарі, поле даного предмета буде підсвічено сіткою зеленого кольору.</ukr>
 	</string>
 	<string id="ui_show_extdesc_hint">
 		<rus>При включении данной опции в контекстном меню будут указываться дополнительные данные (название оружия, обвесов и т.п.).</rus>
+		<ukr>При включенні даної опції в контекстному меню будуть вказуватися додаткові дані (назва зброї, навісного і т.п.).</ukr>
 	</string>
 	<string id="ui_show_conditions_hint">
 		<rus>При включении данной опции на иконке предмета в инвентаре будет отображаться шкала его состояния.\n%c[green]Данная шкала отображается только для предметов, имеющих параметр износа.%c[default]</rus>
+		<ukr>При включенні даної опції на іконці предмета в інвентарі буде відображатися шкала його стану.\n%c[green]Дана шкала тільки для предметів, що мають параметр зносу.%c[default]</ukr>
 	</string>
 	<string id="gp_show_modificators_hint">
 		<rus>При включении данной опции в поле отображения защит, которые дают броня и артефакты, будут также указываться и такие модификаторы, как "Здоровье", "Кровотечение", "Облучение", "Высота прыжка" и т.п.</rus>
+		<ukr>При включенні даної опції в поле відображення захистів, які дають броня і артефакти, будуть також вказуватися і такі модифікатори, як "Здоров'я", "Кровотеча", "Опромінення", "Висота стрибка" і т.п.</ukr>
 	</string>
 	<string id="ui_show_trade_sb_hint">
 		<rus>При включении данной опции в окне торговли будут отображаться также и предметы, находящиеся в слотах (артефакты, оружие, броня и т.п.)</rus>
+		<ukr>При включенні даної опції у вікні торгівлі будуть відображатися також і предмети, які знаходяться в слотах (артефакти, зброя, броня і т.п.)</ukr>
 	</string>
 	<string id="ui_allow_operations_tsb_hint">
 		<rus>При включении данной опции будет возможно перемещать предметы, находящиеся в слотах или на поясе, при торговле и обыске стационарных тайников.</rus>
+		<ukr>При включенні даної опції буде можливо переміщати предмети, які знаходяться в слотах або на поясі, при торгівлі і обшуку стаціонарних схованок.</ukr>
 	</string>
 	<string id="gp_deffered_reload_hint">
 		<rus>При включении данной опции будет возможно заряжать "помповое" оружие разным видом патронов. Так же данная опция позволяет выбрать патроны любого доступного вида без необходимости полной перезарядки для другого типа оружия.</rus>
+		<ukr>При включенні даної опції буде можливо заряджати "помпову" зброю різним видом патронів. Так само дана опція дозволяє вибрати патрони будь-якого доступного виду без необхідності повної перезарядки для іншого типу зброї.</ukr>
 	</string>
 	<string id="gp_demand_reload_hint">
 		<rus>При включении данной опции, по окончании патронов в магазине, будет необходимо вручную перезарядить оружие, использовав клавишу перезарядки оружия.</rus>
+		<ukr>При включенні даної опції, після закінчення патронів в магазині, буде необхідно вручну перезарядити зброю, використавши клавішу перезарядки зброї.</ukr>
 	</string>
 	<string id="gp_sticky_scope_hint">
 		<rus>При включении данной опции включение/отключение прицеливания через мушку/прицел будет происходить с фиксацией выбранной позиции. Для возвращения в предыдущее состояние необходимо будет повторно нажать клавишу приближения.</rus>
+		<ukr>При включенні даної опції включення/відключення прицілювання через мушку/приціл буде відбуватися з фіксацією обраної позиції. Для повернення до попереднього стану необхідно буде повторно натиснути клавішу наближення.</ukr>
 	</string>
 	<string id="gp_fixed_reload_hint">
 		<rus>При включении данной опции оружие не будет перезаряжаться доступным другим видом боеприпаса, при окончании используемого в данный момент вида боеприпаса. Для перезарядки на другой вид боеприпасов необходимо будет сделать это вручную, сменив вид боеприпаса клавишей и нажав клавишу перезарядки.</rus>
+		<ukr>При включенні даної опції зброя не буде заряджатися доступним іншим видом боєприпасу, при закінченні використовуваного в даний момент виду боєприпасів. Для перезарядки на інший вид боєприпасів необхідно буде зробити це вручну, змінивши вид боєприпасу клавішею і натиснувши клавішу перезарядки.</ukr>
 	</string>
 	<string id="gp_open_scope_hint">
 		<rus>При включении данной опции в игре будут использоваться "открытые прицелы", когда окружение оптического прицела не будет скрываться черным фоном.</rus>
+		<ukr>При включенні даної опції в грі будуть використовуватися "відкриті приціли", коли оточення оптичного прицілу не буде приховане чорним фоном.</ukr>
 	</string>
 	<string id="ui_mm_god_invul_hint">
 		<rus>При включении данной опции главный герой на некоторое время становится неуязвимым. В правой части экрана отображается надпись "Бессмертие", которая меняет цвет с зеленого до красного в зависимости от окончания времения действия данной опции.</rus>
+		<ukr>При включенні даної опції головний герой на деякий час стає невразливим. У правій частині екрана відображається напис "Безсмертя", який змінює колір з зеленого до червоного в залежності від закінчення часу дії даної опції.</ukr>
 	</string>
 	<string id="ui_mm_god_jump_hint">
 		<rus>При включении данной опции, при использовании назначенной клавиши, игрок может использовать суперпрыжок, позволяющий запрыгивать на любую высоту. Суперпрыжок работает только вверх с некоторой коррекцией, позволяющей цепляться за папапеты, ветки деревьев и т.п. уступы.</rus>
+		<ukr>При включенні даної опції, при використанні призначеної клавіші, гравець може використовувати суперстрибок, який дозволяє застрибувати на будь-яку висоту. Суперстрибок працює тільки вгору з деякою корекцією, що дозволяє чіплятися за парапети, гілки дерев і т.п. виступи.</ukr>
 	</string>
 	<string id="ui_mm_god_coll_hint">
 		<rus>При включении данной опции на тайнике Коллекционера будет установлена стандартная зеленая метка тайника.</rus>
+		<ukr>При включенні даної опції на схованці Колекціонера буде встановлена стандартна зелена мітка схованки.</ukr>
 	</string>
 	<string id="ui_mm_god_docs_hint">
 		<rus>При включении данной опции на документы по заданию Воронина установаливаются метки, облегчающие их нахождение.</rus>
+		<ukr>При включенні даної опції на документи за завданням Вороніна встановлюватимуться мітки, які полегшують їхнє знаходження.</ukr>
 	</string>
 	<string id="ui_mm_god_tele_hint">
 		<rus>При включении данной опции игрок сможет телепортироваться ручным телепортом вне зависимости от загруженности рюкзака главного героя.</rus>
+		<ukr>При включенні даної опції гравець зможе переміщуватися ручним телепортом незалежно від завантаженості рюкзака головного героя.</ukr>
 	</string>
 	<string id="ui_amk_opt_rad_hud_hint">
 		<rus>При включении данной опции на экране будет отображаться маска, соотвествующая одетому бронежилету.</rus>
+		<ukr>При включенні даної опції на екрані буде відображатися маска, відповідна одягненому бронежилету.</ukr>
 	</string>	
 	<string id="amk_option_mus_hint">
 		<rus>При включении данной опции игра будет пытатся включать во время определнных игровых событий музыку, используя мод АМК-music.</rus>
+		<ukr>При включенні даної опції гра буде робити спроби включати під час певних ігрових подій музику, використовуючи мод АМК-music.</ukr>
 	</string>
 	<string id="respawn_type_hint">
 		<rus>Данная опция позволяет выбрать желаемую частоту появления мутантов и НПС в местах их обитания после их зачистки.\nПолный переход с более частого на более редкий респаун происходит через несколько игровых дней.</rus>
+		<ukr>Дана опція дозволяє вибрати бажану частоту появи мутантів і НПС в місцях їхнього проживання після їхньої зачистки.\nПовний перехід з більш частого на більш рідкісний респаун відбувається через кілька ігрових днів.</ukr>
 	</string>
 	<string id="transparent_treasure_hint">
 		<rus>Данная опция делает рюкзаки, в которых выпадают тайники малозаметными, почти прозрачными.</rus>
+		<ukr>Дана опція робить рюкзаки, в яких випадають схованки, малопомітними, майже прозорими.</ukr>
 	</string>
 	<string id="pause_on_load_hint">
 		<rus>При включении данной опции, после загрузки выбранного сейва, игра встанет на паузу.</rus>
+		<ukr>При включенні даної опції, після завантаження обраного сейва, гра стане на паузу.</ukr>
 	</string>
 	<string id="pause_on_load_call_sound_hint">
 		<rus>При включении данной опции и опции паузы после загрузки, голос Сидоровича будет напоминать, что пора приступить к игре.</rus>
+		<ukr>При включенні даної опції і опції паузи після завантаження, голос Сидоровича буде нагадувати, що пора приступити до гри.</ukr>
 	</string>
 	<string id="ls_show_progress_hint">
 		<rus>При включении данной опции на загрузочном экране будет отображаться послоса прогресса загрузки игры.</rus>
+		<ukr>При включенні даної опції на завантажувальному екрані буде відображатися послоса прогресу завантаження гри.</ukr>
 	</string>	
 </string_table>
