@@ -2852,13 +2852,15 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="chertez_fntrooper">
 		<rus>На чертежах подробно изображены детали FN F2000. Они изображены на синем фоне, а схемы и надписи имеют белый цвет. Именно так публикуют чертежи в США и в Европе. Вверху написано название образца - "Рaratrooper". Интересно, откуда этот Оружейник смог его раздобыть. Полный список комплектующих, которые нужно принести Василию:\n \n
-		- 2 FN F2000\n
+		- 1 FN F2000\n
+		- 1 ВСС «Винторез»\n
 		- 1 глушитель 9х39мм\n
 		- 2 арта "Грави"\n
 		- 1 арт "Рубиновая пружина"\n</rus>
 		<eng>===На чертежах подробно изображены детали западного образца оружия. Похоже, что это FN F2000. Чертёж опубликован на синем фоне, а схемы и надписи имеют белый цвет. Именно так часто изображают схемы и чертежи в США и в Европе. Вверху написано название образца - "Рaratrooper". Интересно, откуда этот Оружейник смог его раздобыть. На чертежах много пометок и мелких рисунков.\nВ перечне необходимых комплектующих указан глушитель 9х39мм. Необходимо принести такой же Василию.</eng>
 		<ukr>На кресленнях детально зображені деталі FN F2000. Вони зображені на синьому тлі, а схеми і написи мають білий колір. Саме так публікують креслення у США та Європі. Вгорі написано назву зразка - "Рaratrooper". Цікаво, звідки цей Зброяр зміг його роздобути. Повний список комплектуючих, які потрібно принести Василю:\n \n
-		- 2 FN F2000\n
+		- 1 FN F2000\n
+		- 1 ВСС «Гвинторіз»\n
 		- 1 глушник 9х39мм\n
 		- 2 арту "Граві"\n
 		- 1 арт "Рубінова пружина"\n</ukr>
@@ -2954,12 +2956,14 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="chertez_mossberg">
 		<rus>На чертежах подробно изображены детали модифицированного ружья Mossberg. Внизу имеется надпись - "Особый заказ". Заказчик - некий сталкер Крюк. Полный список комплектующих, которые нужно принести Василию:\n \n
-		- 2 Mossberg 590 12 Gauge\n
+		- 1 Mossberg 590 12 Gauge\n
+		- 1 Winchester 1300 «Chaser»\n
 		- 2 арта "Грави"\n
 		- 1 арт "Рубиновая пружина"\n</rus>
 		<eng>===На чертежах подробно изображены детали модифицированного ружья Mossberg. Внизу имеется надпись - «Custom» (Особый заказ). Заказчик - некий сталкер Крюк. На чертежах много пометок и мелких рисунков.</eng>
 		<ukr>На кресленнях детально зображені деталі модифікованої рушниці Mossberg. Внизу є напис - "Особливе замовлення". Замовник - якийсь сталкер Гак. Повний список комплектуючих, які потрібно принести Василю:\n \n
-		- 2 Mossberg 590 12 Gauge\n
+		- 1 Mossberg 590 12 Gauge\n
+		- 1 Winchester 1300 «Chaser»\n
 		- 2 арта "Граві"\n
 		- 1 арт "Рубінова пружина"\n</ukr>
 		<pln>===Na schematach są dokładnie przedstawione szczegóły modyfikowanej strzelby Mossberg. Na dole jest napis - "Custom" (Zamówienie specjalne). Zleceniodawca - stalker Hak. Na schemacie jest wiele notatek i odręcznych rysunków.</pln>
@@ -3328,16 +3332,16 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		<pln>Lornetka z regulowaną rozdzielczością, należąca do Czapy. Pozwala szczegółowo oglądać okolicę i budynki z dużej odległości.</pln>
 	</string>
 	<string id="helm_teplovizor_name">
-		<rus>Шлем с тепловизором</rus>
-		<eng>Thermal imaging helmet</eng>
-		<ukr>Шолом з тепловізором</ukr>
-		<pln>Hełm z termowizorem</pln>
+		<rus>Шлем с тепловизионными очками</rus>
+		<eng>===Thermal imaging helmet</eng>
+		<ukr>===Шолом з тепловізором</ukr>
+		<pln>===Hełm z termowizorem</pln>
 	</string>
 	<string id="helm_teplovizor">
-		<rus>Тактический шлем, лишённый какой-либо маркировки. Предназначен для обеспечения командира подразделения максимальным количеством тактической информации при установке соответствующей электронной «начинки». Отличается усиленной конструкцией, также оснащён многослойной кевларовой защитой, респиратором и новейшим тепловизором.</rus>
-		<eng>Tactical helmet without any markings. Designed to provide unit commander with the maximum of tactical information by incorporating all the necessary electronics into a single device. It features a reinforced structure, is also equipped with multi-layer Kevlar protection, a respirator and a latest version of thermal imager.</eng>
-		<ukr>Тактичний шолом, позбавлений будь-якого маркування. Призначений для забезпечення командира підрозділу максимальною кількістю тактичної інформації при встановленні відповідної електронної «начинки». Відрізняється посиленою конструкцією, також оснащений багатошаровим кевларовим захистом, респіратором і новітнім тепловізором.</ukr>
-		<pln>Hełm taktyczny, pozbawiony jakichkolwiek oznaczeń. Przeznaczony dla dostarczenia dowódcy oddziału maksymalnej ilości informacji taktycznej dzięki zainstalowaniu odpowiedniego elektronicznego "wkładu". Wyróżnia się wzmocnioną konstrukcją, jest też wyposażony w wielowarstwowy pancerz kevlarowy, respirator i najnowszy termowizor.</pln>
+		<rus>Тактический шлем, лишённый какой-либо маркировки. Предназначен для обеспечения командира подразделения максимальным количеством тактической информации при установке соответствующей электронной «начинки». Отличается усиленной конструкцией, также оснащён многослойной кевларовой защитой и новейшими тепловизионными очками Т-7. Они отличаются продуманным подходом к индивидуальным системам наблюдения. Тепловой псевдобинокуляр T-7 объединяет в себе лучшие черты очков ночного видения и превращает их в полнофункциональный тепловизор.</rus>
+		<eng>===Tactical helmet without any markings. Designed to provide unit commander with the maximum of tactical information by incorporating all the necessary electronics into a single device. It features a reinforced structure, is also equipped with multi-layer Kevlar protection, a respirator and a latest version of thermal imager.</eng>
+		<ukr>===Тактичний шолом, позбавлений будь-якого маркування. Призначений для забезпечення командира підрозділу максимальною кількістю тактичної інформації при встановленні відповідної електронної «начинки». Відрізняється посиленою конструкцією, також оснащений багатошаровим кевларовим захистом, респіратором і новітнім тепловізором.</ukr>
+		<pln>===Hełm taktyczny, pozbawiony jakichkolwiek oznaczeń. Przeznaczony dla dostarczenia dowódcy oddziału maksymalnej ilości informacji taktycznej dzięki zainstalowaniu odpowiedniego elektronicznego "wkładu". Wyróżnia się wzmocnioną konstrukcją, jest też wyposażony w wielowarstwowy pancerz kevlarowy, respirator i najnowszy termowizor.</pln>
 	</string>
 	<string id="virus_soft_name">
 		<rus>Обычный DVD-диск</rus>
@@ -4498,7 +4502,7 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		<eng>ПДА лидера крупной бандитской группировки - Чингиза. Пароля нет. Среди прочей информации, содержит код от его сейфа в Долине Шорохов, где он держит всё особо ценное, а также общак группировки.</eng>
 		<ukr>КПК лідера великого бандитського угруповання - Чингіза. Пароля немає. Серед іншої інформації, містить код від його сейфа у Долині Шурхоту, де він тримає все особливо цінне, а також общак угруповання.</ukr>
 	</string>
-		<string id="item_key_camera">
+	<string id="item_key_camera">
 		<rus>Ключ от камеры</rus>
 		<eng>Ключ от камеры</eng>
 		<ukr>Ключ від камери</ukr>
@@ -4507,5 +4511,15 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		<rus>Ключ, которым можно открыть двери в камерах с заключёнными в Долине Шорохов.</rus>
 		<eng>Ключ, которым можно открыть двери в камерах с заключёнными в Долине Шорохов.</eng>
 		<ukr>Ключ, яким можна відкрити двері в камерах з ув'язненими у Долині Шурхоту.</ukr>
+	</string>
+	<string id="injector">
+		<rus>Инъектор</rus>
+		<eng>===Инъектор</eng>
+		<ukr>===Инъектор</ukr>
+	</string>
+	<string id="injector_descr">
+		<rus>Инъектор с экспериментальной сывороткой страха, разработанной в НИИЧАЗ для подавления агрессии контролёров, которая воздействует непосредственно на мозг жертвы, вызывая зрительные и слуховые галлюцинации, что в свою очередь ведёт к появлению чувства страха, а в дальнейшем к приступу паники.</rus>
+		<eng>===Инъектор с экспериментальной сывороткой страха, разработанной в НИИЧАЗ для подавления агрессии контролёров, которая воздействует непосредственно на мозг жертвы, вызывая зрительные и слуховые галлюцинации, что в свою очередь ведёт к появлению чувства страха, а в дальнейшем к приступу паники.</eng>
+		<ukr>===Инъектор с экспериментальной сывороткой страха, разработанной в НИИЧАЗ для подавления агрессии контролёров, которая воздействует непосредственно на мозг жертвы, вызывая зрительные и слуховые галлюцинации, что в свою очередь ведёт к появлению чувства страха, а в дальнейшем к приступу паники.</ukr>
 	</string>
 </string_table>
