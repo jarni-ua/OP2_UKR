@@ -279,18 +279,18 @@
 		<pln>Zapytać stalkerów o napad na wojskową grupę zwiadowczą</pln>
 	</string>
 	<string id="task_hamster_kuznec2_2">
-		<rus>Разыскать бандитов, укравших шлем с тепловизор</rus>
-		<eng>Search for bandits who stole a helmet with a thermal viewer</eng>
-		<ukr>Розшукати бандитів, які вкрали шолом із тепловізором</ukr>
-		<fra>Localisez les Bandits qui ont volé le casque avec un imageur thermique</fra>
-		<pln>Odnaleźć bandytów, którzy ukradli hełm z termowizorem</pln>
+		<rus>Разыскать банду, укравшую шлем с тепловизор</rus>
+		<eng>===Search for bandits who stole a helmet with a thermal viewer</eng>
+		<ukr>===Розшукати бандитів, які вкрали шолом із тепловізором</ukr>
+		<fra>===Localisez les Bandits qui ont volé le casque avec un imageur thermique</fra>
+		<pln>===Odnaleźć bandytów, którzy ukradli hełm z termowizorem</pln>
 	</string>
 	<string id="task_hamster_kuznec2_3">
-		<rus>Обыскать бандитов</rus>
-		<eng>Search bandits bodies</eng>
-		<ukr>Обшукати бандитів</ukr>
-		<fra>Rechercher dans les corps des Bandits</fra>
-		<pln>Przeszukać ciała bandytów</pln>
+		<rus>Обыскать трупы</rus>
+		<eng>===Search bandits bodies</eng>
+		<ukr>===Обшукати бандитів</ukr>
+		<fra>===Rechercher dans les corps des Bandits</fra>
+		<pln>===Przeszukać ciała bandytów</pln>
 	</string>
 	<string id="task_hamster_kuznec2_4">
 		<rus>Отнести шлем Кузнецову</rus>
@@ -531,28 +531,6 @@
 		<ukr>Принести інструменти Довганю</ukr>
 		<fra>Apportez les outils à Lanky</fra>
 		<pln>Przynieść narzędzia Chudemu</pln>
-	</string>
-
-	<string id="task_dolgovazyi_anomal_0">
-		<rus>Модификация оружия</rus>
-		<eng>Weapon modification</eng>
-		<ukr>Модифікация зброї</ukr>
-		<fra>Modification d'arme</fra>
-		<pln>Modyfikacja broni</pln>
-	</string>
-	<string id="task_dolgovazyi_anomal_1">
-		<rus>Сделать апгрейд нужных образцов оружия</rus>
-		<eng>Make upgrades to the desired weapon examples</eng>
-		<ukr>Зробити апгрейд потрібних зразків зброї</ukr>
-		<fra>Améliorez les bons types d'armes</fra>
-		<pln>Dokonać modyfikacji wskazanych egzemplarzy broni</pln>
-	</string>
-	<string id="task_dolgovazyi_anomal_2">
-		<rus>Отнести оружие Кардану</rus>
-		<eng>Bring the weapon to Cardan</eng>
-		<ukr>Віднести зброю Кардану</ukr>
-		<fra>Porter des armes à Cardan</fra>
-		<pln>Zanieść broń Kardanowi</pln>
 	</string>
 
 	<string id="task_vasily_chertez_0">
@@ -4245,7 +4223,7 @@
 	</string>
 	<string id="task_foto_ohota_73">
 		<rus>Чернобыльская лягушка</rus>
-		<eng>===Чернобыльская лягушка</eng>
+		<eng>Chernobyl frog</eng>
 		<ukr>Чорнобильська жаба</ukr>
 	</string>
 	<string id="task_foto_ohota_74">
@@ -4257,7 +4235,7 @@
 	</string>
 	<string id="task_foto_ohota_75">
 		<rus>Биомасса</rus>
-		<eng>Биомасса</eng>
+		<eng>===Биомасса</eng>
 		<ukr>Біомаса</ukr>
 		<fra>===Биомасса</fra>
 		<pln>Biomasa</pln>
@@ -4271,7 +4249,7 @@
 	</string>
 	<string id="task_foto_ohota_77">
 		<rus>Чумная муха</rus>
-		<eng>===Чумная муха</eng>
+		<eng>Plagued fly</eng>
 		<ukr>Чумная муха</ukr>
 	</string>
 	<string id="task_foto_ohota_78">
@@ -4591,10 +4569,10 @@
 		<pln>Burer</pln>
 	</string>
 	<string id="task_silent_hunt_7">
-		<rus>Кот</rus>
-		<eng>Cat</eng>
-		<ukr>Кіт</ukr>
-		<fra>Chat</fra>
+		<rus>Кот-баюн</rus>
+		<eng>Croon cat</eng>
+		<ukr>Кіт-баюн</ukr>
+		<fra>Chat-Ivoire Bayun</fra>
 		<pln>Kot</pln>
 	</string>
 	<string id="task_silent_hunt_8">
@@ -4982,32 +4960,32 @@
 	</string>
 
 	<string id="task_kontrik_electro_0">
-		<rus>Миграция</rus>
-		<eng>Migration</eng>
-		<ukr>Міграція</ukr>
-		<fra>Migration</fra>
-		<pln>Migracja</pln>
+		<rus>Инъекция</rus>
+		<eng>===Migration</eng>
+		<ukr>===Міграція</ukr>
+		<fra>===Migration</fra>
+		<pln>===Migracja</pln>
 	</string>
 	<string id="task_kontrik_electro_1">
-		<rus>Прицепить маячок на электроконтролёра №1</rus>
-		<eng>Attach the beacon to the electrocontroller #1</eng>
-		<ukr>Причепити маячок на електроконтролера №1</ukr>
-		<fra>Fixez la balise au Contrôleur électrique ?1</fra>
-		<pln>Przyczepić znacznik na elektro-kontrolerze nr1</pln>
+		<rus>Сделать инъекцию сыворотки электроконтролёру №1</rus>
+		<eng>===Attach the beacon to the electrocontroller #1</eng>
+		<ukr>===Причепити маячок на електроконтролера №1</ukr>
+		<fra>===Fixez la balise au Contrôleur électrique ?1</fra>
+		<pln>===Przyczepić znacznik na elektro-kontrolerze nr1</pln>
 	</string>
 	<string id="task_kontrik_electro_2">
-		<rus>Прицепить маячок на электроконтролёра №2</rus>
-		<eng>Attach the beacon to the electrocontroller #2</eng>
-		<ukr>Причепити маячок на електроконтролера №2</ukr>
-		<fra>Fixez la balise au Contrôleur électrique ?2</fra>
-		<pln>Przyczepić znacznik na elektro-kontrolerze nr2</pln>
+		<rus>Сделать инъекцию сыворотки электроконтролёру №2</rus>
+		<eng>===Attach the beacon to the electrocontroller #2</eng>
+		<ukr>===Причепити маячок на електроконтролера №2</ukr>
+		<fra>===Fixez la balise au Contrôleur électrique ?2</fra>
+		<pln>===Przyczepić znacznik na elektro-kontrolerze nr2</pln>
 	</string>
 	<string id="task_kontrik_electro_3">
-		<rus>Прицепить маячок на электроконтролёра №3</rus>
-		<eng>Attach the beacon to the electrocontroller #3</eng>
-		<ukr>Причепити маячок на електроконтролера №3</ukr>
-		<fra>Fixez la balise au Contrôleur électrique ?3</fra>
-		<pln>Przyczepić znacznik na elektro-kontrolerze nr3</pln>
+		<rus>Сделать инъекцию сыворотки электроконтролёру №3</rus>
+		<eng>===Attach the beacon to the electrocontroller #3</eng>
+		<ukr>===Причепити маячок на електроконтролера №3</ukr>
+		<fra>===Fixez la balise au Contrôleur électrique ?3</fra>
+		<pln>===Przyczepić znacznik na elektro-kontrolerze nr3</pln>
 	</string>
 	<string id="task_kontrik_electro_4">
 		<rus>Вернуться к Сахарову</rus>
@@ -5924,6 +5902,35 @@
 		<ukr>Розповісти про виконання Архарі</ukr>
 		<fra>Parlez de l'accomplissement de la tâche à Arhara</fra>
 		<pln>Zdać raport Arharze</pln>
+	</string>
+
+	<string id="task_sak_kukla_0">
+		<rus>Игрушки</rus>
+		<eng>Toys</eng>
+		<ukr>===Игрушки</ukr>
+		<fra>===Игрушки</fra>
+		<pln>===Игрушки</pln>
+	</string>
+	<string id="task_sak_kukla_1">
+		<rus>Отыскать в детском саду Центральной Припяти несколько игрушек</rus>
+		<eng>===Очистить Зону от аномалий "Звезда" и "Хваталка"</eng>
+		<ukr>===Очистити Зону від аномалій "Зірка" і "Хапалка"</ukr>
+		<fra>===Supprimez la zone des anomalies "Étoile" et "Saisir"</fra>
+		<pln>===Oczyścić Zonę z anomalii "Gwiazda" i "Pułapka"</pln>
+	</string>
+	<string id="task_sak_kukla_2">
+		<rus>Оставить игрушки и фото куклы в вагончике у Выжигателя мозгов</rus>
+		<eng>===Очистить Зону от аномалий "Звезда" и "Хваталка"</eng>
+		<ukr>===Очистити Зону від аномалій "Зірка" і "Хапалка"</ukr>
+		<fra>===Supprimez la zone des anomalies "Étoile" et "Saisir"</fra>
+		<pln>===Oczyścić Zonę z anomalii "Gwiazda" i "Pułapka"</pln>
+	</string>
+	<string id="task_sak_kukla_3">
+		<rus>Вернуться к Сяку рано утром</rus>
+		<eng>===Рассказать о выполнении Архаре</eng>
+		<ukr>===Розповісти про виконання Архарі</ukr>
+		<fra>===Parlez de l'accomplissement de la tâche à Arhara</fra>
+		<pln>===Zdać raport Arharze</pln>
 	</string>
 
 </string_table>
