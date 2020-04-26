@@ -23,7 +23,7 @@
 	</string>
 	<string id="tips_rad_switcher_press">
 		<rus>Отключить установку</rus>
-		<eng>Shut down</eng>
+		<eng>===Shut down the facility</eng>
 		<ukr>Відключити установку</ukr>
 		<fra>Désactiver l'installation</fra>
 		<pln>Wyłączyć instalację</pln>
@@ -60,7 +60,7 @@
 		<ukr>...</ukr>
 	</string>
 	<string id="tips_agr_trader_documents">
-		<rus>Меченый, давай ноги в руки и смывайся, военные не дадут тебе просто так уйти. Я сообщил о тебе Бармену - он должен договориться с долговцами чтобы тебя пропустили.</rus>
+		<rus>Меченый, давай ноги в руки и смывайся, военные не дадут тебе просто так уйти. Я сообщил о тебе Бармену - он должен договориться с долговцами, чтобы тебя пропустили.</rus>
 		<eng>Marked One, get the hell outta here. You won't get past those army bastards without a fight. I told the Barkeep about you. He'll strike a deal with Duty, and they'll let you through.</eng>
 		<ukr>Мічений, ноги в руки і змивайся, військові не дадуть тобі просто так піти! Я повідомив про тебе Барменові, він має домовитися із долгівцями, щоб тебе пропустили, тож паняй швиденько до нього.</ukr>
 		<fra>Strelok, laissons les pieds dans les mains et lavez-vous, l'armée ne vous laissera pas partir. J'ai informé le barman de vous - il doit négocier avec les débiteurs pour qu'ils vous laissent passer.</fra>
@@ -193,11 +193,11 @@
 		<pln>Chłopaki, pokonaliśmy ich. Odpocznijcie, a ty, stalkerze, podejdź do mnie, pogadamy.</pln>
 	</string>
 	<string id="tips_gar_hellcar_alarm">
-		<rus>Народ, вызывает командир отряда нейтралов. Мы выбили бандитов со стоянки брошенной техники, предполагаем ответную контратаку. У нас мало сил, так что милости просим на помощь.</rus>
+		<rus>Народ! Вызывает командир отряда нейтралов. Мы выбили бандитов со стоянки брошенной техники, предполагаем ответную контратаку. У нас мало сил, так что милости просим на помощь.</rus>
 		<eng>This is neutrals squad leader, people! We shelled the bandits out of abandoned machinery site and expecting counter-attack. We have thin defense, so you are welcome to help.</eng>
-		<ukr>Люде, викликає командир загону нейтралів! Ми вибили бандитів зі звалища старої техніки, але ймовірна контратака. У нас мало сил, тож уклінно запрошуємо, приходьте на допомогу!</ukr>
-		<fra>Les gars,c'est le commandant de l'équipe des neutres. Nous avons éliminé les bandits du parking des véhicules abandonnés, nous supposons une contre-attaque en réponse. Nous avons peu de force, alors bienvenue à la rescousse.</fra>
-		<pln>Ludzie, wzywa dowódca oddziału neutrałów. Wybiliśmy bandytów z Cmentarzyska Pojazdów, spodziewamy się kontrataku. Mało nas, tak że prosimy o pomoc.</pln>
+		<ukr>Люде! Викликає командир загону нейтралів! Ми вибили бандитів зі звалища старої техніки, але ймовірна контратака. У нас мало сил, тож уклінно запрошуємо, приходьте на допомогу!</ukr>
+		<fra>Les gars! C'est le commandant de l'équipe des neutres. Nous avons éliminé les bandits du parking des véhicules abandonnés, nous supposons une contre-attaque en réponse. Nous avons peu de force, alors bienvenue à la rescousse.</fra>
+		<pln>Ludzie! Wzywa dowódca oddziału neutrałów. Wybiliśmy bandytów z Cmentarzyska Pojazdów, spodziewamy się kontrataku. Mało nas, tak że prosimy o pomoc.</pln>
 	</string>
 	<string id="o_soznanie_text">
 		<rus>Ты всё-таки дошёл, сталкер. А ты оказался намного сильнее, чем нам вначале казалось. Ну что ж, пришло время поговорить. Иди на сигнал, мы будем тебя ждать.</rus>
@@ -277,10 +277,10 @@
 		<pln>Uwaga wszyscy, którzy chcą sobie rozrzedzić mózg: przejścia na Radar broni oddział "Monolitu", a jak pewnie wiecie - ci kolesie najpierw strzelają, a później nie zadają pytań. Powodzenia.</pln>
 	</string>
 	<string id="mil_max_attack_signal">
-		<rus>В атаку, братва. Замочим законников.</rus>
+		<rus>В атаку, братва! Замочим законников.</rus>
 		<eng>Attack, people! Get those lawyers!</eng>
 		<ukr>В атаку, пацани! Замочимо законників!</ukr>
-		<fra>A l'attaque, les gars!!On les massacre!</fra>
+		<fra>A l'attaque, les gars! On les massacre!</fra>
 		<pln>Naprzód! Rozwalić sukinsynów!</pln>
 	</string>
 	<string id="mil_mission_complete">
@@ -291,18 +291,18 @@
 		<pln>Wykonaliśmy swoje zadanie. Wracamy do przysiółka i tam się rozliczymy.</pln>
 	</string>
 	<string id="mil_scull_attack_signal">
-		<rus>Вперёд, ребята. Путь свободен.</rus>
+		<rus>Вперёд, ребята! Путь свободен.</rus>
 		<eng>Into the breach, guys. The path is clear.</eng>
 		<ukr>Вперед, хлопці! Шлях вільний!</ukr>
 		<fra>Allez-y les gars. Le chemin est libre.</fra>
 		<pln>Naprzód, chłopcy. Droga wolna.</pln>
 	</string>
 	<string id="mil_scull_info">
-		<rus>Меченый, займись снайперами!!!</rus>
+		<rus>Меченый, займись снайперами!</rus>
 		<eng>Marked One, take care of snipers!</eng>
 		<ukr>Мічений, займися снайперами!</ukr>
-		<fra>Strelok, prendre des snipers !!!</fra>
-		<pln>Naznaczony, zdejmij tych snajperów!!!</pln>
+		<fra>Strelok, prendre des snipers !</fra>
+		<pln>Naznaczony, zdejmij tych snajperów!</pln>
 	</string>
 	<string id="mil_sniper_to_player_warning">
 		<rus>Меченый, будь осторожен, а то ещё по башке пулей схлопочешь...</rus>
@@ -536,11 +536,11 @@
 		<pln>Uwaga! Uwaga! Za chwilę na Arenie rozpocznie się nowa walka! W lewym narożniku najgorszy koszmar Zony - wiecznie głodna pijawka! A w prawym... Człowiek? Tak, to człowiek! Oklaski dla Naznaczonego!</pln>
 	</string>
 	<string id="bar_arena_fight_burer">
-		<rus>Внимание! Внимание! Скоро на арене начнётся новый бой! В левом углу арены, он знает кунг-фу, он умеет гнуть ложки, это бюрер! В правом углу арены герой, чей поиск никогда не закончится! Все называют его Меченым!</rus>
+		<rus>Внимание! Внимание! Скоро на арене начнётся новый бой! В левом углу арены - он знает кунг-фу, он умеет гнуть ложки - это бюрер! В правом углу арены герой, чей поиск никогда не закончится! Все называют его Меченым!</rus>
 		<eng>Attention! Attention! A new fight will begin in the arena soon! In the left corner of the arena is... He knows kung fu, he knows how to bend spoons, it's burer! In the right corner of the arena is a hero whose quest will never end! They call him Marked One!</eng>
 		<ukr>Увага! Увага! Незабаром на Арені розпочнеться новий бій! У лівому кутку - той, хто знає кунг-фу та вміє гнути ложки… це Бюрер! У правому кутку - герой, чиї пошуки ніколи не скінчаться! Усі називають його… Міченим!</ukr>
-		<fra>Attention! Attention! Bientôt dans l'arène va commencer une nouvelle bataille! Dans le coin gauche de l'arène, il connaît le kung-fu, il sait plier les cuillères, c'est un burier! Dans le coin droit de l'arène se trouve un héros dont la recherche ne finira jamais! Tout le monde l'appelle Le Tatoué!</fra>
-		<pln>Uwaga! Uwaga! Za chwilę na Arenie rozpocznie się nowa walka! W lewym narożniku potrafiący zginać łyżeczki siłą woli, mistrz kung-fu we własnej osobie - burer! A w prawym narożniku - człowiek, który cały czas ma się na baczności! Zwą go Naznaczonym!</pln>
+		<fra>Attention! Attention! Bientôt dans l'arène va commencer une nouvelle bataille! Dans le coin gauche de l'arène - il connaît le kung-fu, il sait plier les cuillères - c'est un burier! Dans le coin droit de l'arène se trouve un héros dont la recherche ne finira jamais! Tout le monde l'appelle Le Tatoué!</fra>
+		<pln>===Uwaga! Uwaga! Za chwilę na Arenie rozpocznie się nowa walka! W lewym narożniku potrafiący zginać łyżeczki siłą woli, mistrz kung-fu we własnej osobie - burer! A w prawym narożniku - człowiek, który cały czas ma się na baczności! Zwą go Naznaczonym!</pln>
 	</string>
 	<string id="bar_arena_fight_dead">
 		<rus>Итак! Противник уложил претендента. Вот так номер!</rus>
@@ -564,17 +564,17 @@
 		<pln>Uwaga! Uwaga! Za chwilę na Arenie rozpocznie się nowa walka! W lewym narożniku... biały, puchaty i wściekły... to nibypies! A w prawym narożniku - przybył znikąd i dokładnie tam zmierza. Zwą go Naznaczonym!</pln>
 	</string>
 	<string id="bar_arena_fight_savage">
-		<rus>Внимание! Внимание! Скоро на арене начнётся новый бой! В левом углу арены, вы знаете его, вы любите его. А он вас ненавидит. Это Зверь! В правом углу арены всё ещё живой Меченый!</rus>
-		<eng>Attention! Attention! A new fight will begin in the arena soon! In the left corner of the arena, you know him, you love him. And he hates you. This is the Beast! In the right corner of the arena there is still alive Marked One!</eng>
+		<rus>Внимание! Внимание! Скоро на арене начнётся новый бой! В левом углу арены - вы знаете его, вы любите его. А он вас ненавидит. Это Зверь! В правом углу арены всё ещё живой Меченый!</rus>
+		<eng>Attention! Attention! A new fight will begin in the arena soon! In the left corner of the arena - you know him, you love him. And he hates you. This is the Beast! In the right corner of the arena there is still alive Marked One!</eng>
 		<ukr>Увага! Увага! Незабаром на Арені розпочнеться новий бій! У лівому кутку… ви всі знаєте його, ви любите його, хоча він вас і ненавидить! Це-е… Звір! У правому кутку - усе ще живий… Мічений!</ukr>
-		<fra>Attention! Attention! Bientôt dans l'arène va commencer une nouvelle bataille! Dans le coin gauche de l'arène, vous le connaissez, vous l'aimez. Et il te déteste. C'est la bête! Dans le coin droit de l'arène est toujours vivant!</fra>
+		<fra>Attention! Attention! Bientôt dans l'arène va commencer une nouvelle bataille! Dans le coin gauche de l'arène - vous le connaissez, vous l'aimez. Et il te déteste. C'est la bête! Dans le coin droit de l'arène est toujours vivant!</fra>
 		<pln>Uwaga! Uwaga! Za chwilę na Arenie rozpocznie się nowa walka! W lewym narożniku - znacie go, kochacie go, a on was za to nienawidzi! To Zwierz! A w prawym narożniku cały i zdrowy - przynajmniej na razie - Naznaczony!</pln>
 	</string>
 	<string id="bar_arena_fight_snork">
-		<rus>Внимание! Внимание! Скоро на арене начнётся новый бой! В левом углу арены знаток восточных единоборств и правильного питания снорк! В правом углу арены человек без прошлого. Все называют его Меченым!</rus>
+		<rus>Внимание! Внимание! Скоро на арене начнётся новый бой! В левом углу арены - знаток восточных единоборств и правильного питания - снорк! В правом углу арены человек без прошлого. Все называют его Меченым!</rus>
 		<eng>Attention! Attention! A new fight will begin in the arena soon! In the left corner of the arena is a connoisseur of oriental martial arts and proper nutrition - a snork! In the right corner of the arena is a man without a past. Everyone calls it Marked One!</eng>
 		<ukr>Увага! Увага! Незабаром на Арені розпочнеться новий бій! У лівому кутку - чудовий знавець східних єдиноборств та правильного харчування… снорк! У правому кутку - людина без минулого, котру всі знають як… Міченого!</ukr>
-		<fra>Attention! Attention! Bientôt dans l'arène va commencer une nouvelle bataille! Dans le coin gauche de l'arène, un connaisseur en arts martiaux et une bonne nutrition snork! Dans le coin droit de l'arène se trouve un homme sans passé. Tout le monde l'appelle Le Tatoué!</fra>
+		<fra>Attention! Attention! Bientôt dans l'arène va commencer une nouvelle bataille! Dans le coin gauche de l'arène - un connaisseur en arts martiaux et une bonne nutrition - snork! Dans le coin droit de l'arène se trouve un homme sans passé. Tout le monde l'appelle Le Tatoué!</fra>
 		<pln>Uwaga! Uwaga! Za chwilę na Arenie rozpocznie się nowa walka! W lewym narożniku guru sztuk walki i specjalista w dziedzinie zdrowia - snork! A w prawym narożniku - człowiek bez przeszłości i bez przyszłości. Zwą go Naznaczonym!</pln>
 	</string>
 	<string id="bar_arena_fight_timeout">
@@ -839,9 +839,9 @@
 	<string id="general_fail_task">
 		<rus>Провалено задание:		</rus>
 		<eng>Task failed:		</eng>
-		<ukr>Завдання провалене:</ukr>
+		<ukr>Завдання провалене:		</ukr>
 		<fra>Missions ratées:		</fra>
-		<pln>Zadanie nie powiodło się:</pln>
+		<pln>Zadanie nie powiodło się:		</pln>
 	</string>
 	<string id="general_help">
 		<rus>Срочно нужна аптечка, помираю!!!</rus>
@@ -853,16 +853,16 @@
 	<string id="general_in_item">
 		<rus>Получен предмет:		</rus>
 		<eng>Received item:		</eng>
-		<ukr>Отримано предмет:</ukr>
+		<ukr>Отримано предмет:		</ukr>
 		<fra>Article reçu:		</fra>
-		<pln>Otrzymany przedmiot:</pln>
+		<pln>Otrzymany przedmiot:		</pln>
 	</string>
 	<string id="general_in_money">
 		<rus>Получены деньги:		</rus>
 		<eng>Received money:		</eng>
-		<ukr>Отримано гроші:</ukr>
+		<ukr>Отримано гроші:		</ukr>
 		<fra>Argent reçu:		</fra>
-		<pln>Otrzymane pieniądze:</pln>
+		<pln>Otrzymane pieniądze:		</pln>
 	</string>
 	<string id="general_new_diary">
 		<rus>Новая запись в дневнике.</rus>
@@ -881,30 +881,30 @@
 	<string id="general_new_task">
 		<rus>Получено задание:		</rus>
 		<eng>Task received:		</eng>
-		<ukr>Нове завдання:</ukr>
+		<ukr>Нове завдання:		</ukr>
 		<fra>Tâche reçue:		</fra>
-		<pln>Nowe zadanie:</pln>
+		<pln>Nowe zadanie:		</pln>
 	</string>
 	<string id="general_out_item">
 		<rus>Потерян предмет:		</rus>
 		<eng>Lost item:		</eng>
-		<ukr>Втрачено предмет:</ukr>
+		<ukr>Втрачено предмет:		</ukr>
 		<fra>Objet perdu:		</fra>
-		<pln>Utracony przedmiot:</pln>
+		<pln>Utracony przedmiot:		</pln>
 	</string>
 	<string id="general_out_money">
 		<rus>Потеряны деньги:		</rus>
 		<eng>Lost money:		</eng>
-		<ukr>Втрачено гроші:</ukr>
+		<ukr>Втрачено гроші:		</ukr>
 		<fra>Argent perdu:		</fra>
-		<pln>Utracone pieniądze:</pln>
+		<pln>Utracone pieniądze:		</pln>
 	</string>
 	<string id="general_update_task">
 		<rus>Обновлено задание:		</rus>
 		<eng>Task updated:		</eng>
-		<ukr>Завдання оновлене:</ukr>
+		<ukr>Завдання оновлене:		</ukr>
 		<fra>Tâche mise à jour:		</fra>
-		<pln>Nowe informacje o zadaniu:</pln>
+		<pln>Nowe informacje o zadaniu:		</pln>
 	</string>
 	<string id="physic_shell_use">
 		<rus>Двигать объект</rus>
@@ -922,49 +922,49 @@
 	</string>
 	<string id="to_aes">
 		<rus>На ЧАЭС-1</rus>
-		<eng>To CNPP-1</eng>
+		<eng>===To CNPP-1</eng>
 		<ukr>На ЧАЕС-1</ukr>
-		<fra>Vers CNPP-1</fra>
+		<fra>===Vers CNT-1</fra>
 		<pln>Na CEA-1</pln>
 	</string>
 	<string id="to_agroprom">
 		<rus>На Агропром</rus>
-		<eng>To Agroprom</eng>
+		<eng>To the Agroprom</eng>
 		<ukr>На Агропром</ukr>
-		<fra>Sur Agroprom</fra>
+		<fra>À Agroprom</fra>
 		<pln>Na Agroprom</pln>
 	</string>
 	<string id="to_agroprom_underground">
 		<rus>В Подземелье Агропрома</rus>
 		<eng>To Agroprom Undergrounds</eng>
 		<ukr>У Підземелля Агропрома</ukr>
-		<fra>Dans le souterrain d'Agroprom</fra>
+		<fra>Dans le Souterrain d'Agroprom</fra>
 		<pln>Do Podziemi Agropromu</pln>
 	</string>
 	<string id="to_bar">
 		<rus>В Бар</rus>
-		<eng>To Bar</eng>
+		<eng>To the Bar</eng>
 		<ukr>В Бар</ukr>
 		<fra>Au Bar</fra>
 		<pln>Do Baru</pln>
 	</string>
 	<string id="to_darkvalley">
 		<rus>В Тёмную Долину</rus>
-		<eng>To Dark Valley</eng>
+		<eng>To the Dark Valley</eng>
 		<ukr>До Темної долини</ukr>
-		<fra>Vers la Vallée Sombre</fra>
+		<fra>À la Vallée Sombre</fra>
 		<pln>Do Doliny Mroku</pln>
 	</string>
 	<string id="to_escape">
 		<rus>На Кордон</rus>
-		<eng>To Cordon</eng>
+		<eng>To the Cordon</eng>
 		<ukr>На Кордон</ukr>
 		<fra>Au Cordon</fra>
 		<pln>Na Kordon</pln>
 	</string>
 	<string id="to_garbage">
 		<rus>На Свалку</rus>
-		<eng>To Dump</eng>
+		<eng>To the Dump</eng>
 		<ukr>На Звалище</ukr>
 		<fra>À la Décharge</fra>
 		<pln>Na Wysypisko</pln>
@@ -978,70 +978,70 @@
 	</string>
 	<string id="to_pripyat">
 		<rus>В Центральную Припять</rus>
-		<eng>To Central Pripyat</eng>
+		<eng>To the Central Pripyat</eng>
 		<ukr>У Центральну Прип'ять</ukr>
-		<fra>Au centre de Pripyat</fra>
+		<fra>À Pripyat Centrale</fra>
 		<pln>Do Centralnej Prypeci</pln>
 	</string>
 	<string id="to_radar">
 		<rus>На Радар</rus>
-		<eng>To Radar</eng>
+		<eng>To the Radar</eng>
 		<ukr>На Радар</ukr>
-		<fra>Sur le radar</fra>
+		<fra>Au Radar</fra>
 		<pln>Na Radar</pln>
 	</string>
 	<string id="to_rostok">
 		<rus>На Дикую Территорию</rus>
-		<eng>To Wild Territory</eng>
+		<eng>To the Wild Territory</eng>
 		<ukr>На Дику територію</ukr>
-		<fra>Sur le Territoire Sauvage</fra>
+		<fra>Au Territoire Sauvage</fra>
 		<pln>Na Dzicz</pln>
 	</string>
 	<string id="to_sarcofag">
 		<rus>В Саркофаг</rus>
-		<eng>To Sarcophagus</eng>
+		<eng>To the Sarcophagus</eng>
 		<ukr>У Саркофаг</ukr>
-		<fra>Dans le Sarcophage</fra>
+		<fra>Au Sarcophage</fra>
 		<pln>Do Sarkofagu</pln>
 	</string>
 	<string id="to_stancia_2">
 		<rus>На ЧАЭС-2</rus>
-		<eng>To CNPP-2</eng>
+		<eng>To the CNPP-2</eng>
 		<ukr>На ЧАЕС-2</ukr>
-		<fra>Vers CNPP-2</fra>
+		<fra>===À la CNT-2</fra>
 		<pln>Na CEA-2</pln>
 	</string>
 	<string id="to_yantar">
-		<rus>На Янтарь</rus>
-		<eng>To Yantar</eng>
-		<ukr>На Янтар</ukr>
-		<fra>A Yantar</fra>
-		<pln>Na Jantar</pln>
+		<rus>На "Янтарь"</rus>
+		<eng>To "Yantar"</eng>
+		<ukr>На "Янтар"</ukr>
+		<fra>À "Yantar"</fra>
+		<pln>Na "Jantar"</pln>
 	</string>
 	<string id="to_forgotten_forest">
 		<rus>В Забытый Лес</rus>
-		<eng>To Forgotten Forest</eng>
+		<eng>To the Forgotten Forest</eng>
 		<ukr>У Забутий Ліс</ukr>
-		<fra>Dans la Forêt Oubliée</fra>
+		<fra>À la Forêt Oubliée</fra>
 		<pln>Do Zapomnianego Lasu</pln>
 	</string>
 	<string id="to_cave">
 		<rus>В Пещеру</rus>
-		<eng>To Cave</eng>
+		<eng>To the Cave</eng>
 		<ukr>У Печеру</ukr>
-		<fra>A la Cave</fra>
+		<fra>À la Caverne</fra>
 		<pln>Do Pieczary</pln>
 	</string>
 	<string id="to_undiscovered_land">
 		<rus>На Неразведанную Землю</rus>
 		<eng>To Unexplored Area</eng>
 		<ukr>На Нерозвідану Землю</ukr>
-		<fra>Vers les Terres Inconnues</fra>
+		<fra>Aux Terres Inconnues</fra>
 		<pln>Na Niezbadane Tereny</pln>
 	</string>
 	<string id="to_labirinth">
 		<rus>В Лабиринт</rus>
-		<eng>To Labyrinth</eng>
+		<eng>To the Labyrinth</eng>
 		<ukr>У Лабіринт</ukr>
 		<fra>Au Labyrinthe</fra>
 		<pln>Do Labiryntu</pln>
@@ -1050,28 +1050,28 @@
 		<rus>В Лиманск</rus>
 		<eng>To Limansk</eng>
 		<ukr>У Лиманськ</ukr>
-		<fra>A Limansk</fra>
+		<fra>À Limansk</fra>
 		<pln>Do Limańska</pln>
 	</string>
 	<string id="to_red_forest">
 		<rus>В Красный Лес</rus>
-		<eng>To Red Forest</eng>
+		<eng>To the Red Forest</eng>
 		<ukr>У Червоний Ліс</ukr>
-		<fra>Dans la Forêt Rouge</fra>
+		<fra>À la Forêt Rouge</fra>
 		<pln>Do Czerwonego Lasu</pln>
 	</string>
 	<string id="to_hospital">
 		<rus>В Госпиталь</rus>
-		<eng>To Hospital</eng>
+		<eng>To the Hospital</eng>
 		<ukr>У Госпіталь</ukr>
-		<fra>À l'hôpital</fra>
+		<fra>À l'Hôpital</fra>
 		<pln>Do Szpitala</pln>
 	</string>
 	<string id="to_army_lab">
 		<rus>В Военную Лабораторию</rus>
 		<eng>To Warlab</eng>
 		<ukr>У Воєнну Лабораторію</ukr>
-		<fra>Au laboratoire militaire</fra>
+		<fra>Au Laboratoire Militaire</fra>
 		<pln>Do Warlabu</pln>
 	</string>
 	<string id="to_x16">
@@ -1085,19 +1085,19 @@
 		<rus>На Генераторы</rus>
 		<eng>To Generators</eng>
 		<ukr>На Генератори</ukr>
-		<fra>Sur les Générateurs</fra>
+		<fra>Aux Générateurs</fra>
 		<pln>Na Generatory</pln>
 	</string>
 	<string id="to_atp">
 		<rus>На АТП</rus>
-		<eng>To ATP</eng>
+		<eng>===To ATP</eng>
 		<ukr>На АТП</ukr>
-		<fra>Sur l'ATP</fra>
+		<fra>===À l'ATP</fra>
 		<pln>Na ATP</pln>
 	</string>
 	<string id="to_old_village">
 		<rus>В Старую Деревню</rus>
-		<eng>To Old Village</eng>
+		<eng>To the Old Village</eng>
 		<ukr>У Старе Село</ukr>
 		<fra>Au Vieux Village</fra>
 		<pln>Do Starej Wsi</pln>
@@ -1106,7 +1106,7 @@
 		<rus>На Болота</rus>
 		<eng>To Swamps</eng>
 		<ukr>На Болота</ukr>
-		<fra>Sur le Marais</fra>
+		<fra>Au Marais</fra>
 		<pln>Na Bagna</pln>
 	</string>
 	<string id="to_x10">
@@ -1118,93 +1118,93 @@
 	</string>
 	<string id="to_central_pripiat">
 		<rus>В Центральную Припять</rus>
-		<eng>To Pripyat</eng>
+		<eng>To the Central Pripyat</eng>
 		<ukr>У Центральну Прип'ять</ukr>
-		<fra>A Pripyat</fra>
+		<fra>À Pripyat Centrale</fra>
 		<pln>Do Centralnej Prypeci</pln>
 	</string>
 	<string id="to_dead_city">
 		<rus>В Мёртвый Город</rus>
-		<eng>To Dead City</eng>
+		<eng>To the Ghost Town</eng>
 		<ukr>У Мертве Місто</ukr>
-		<fra>Dans la Ville Morte</fra>
+		<fra>===À la Ville Morte</fra>
 		<pln>Do Martwego Miasta</pln>
 	</string>
 	<string id="to_zaton">
 		<rus>На Затон</rus>
-		<eng>To Zaton</eng>
+		<eng>To the Backwater</eng>
 		<ukr>На Затон</ukr>
-		<fra>A Zaton</fra>
+		<fra>===À l'Anse d'hivernage</fra>
 		<pln>Do Zatonu</pln>
 	</string>
 	<string id="to_east_pripiat">
 		<rus>В Восточную Припять</rus>
 		<eng>To Eastern Pripyat</eng>
 		<ukr>У Східну Прип'ять</ukr>
-		<fra>Dans Pripyat oriental</fra>
+		<fra>===À Pripyat Orientale</fra>
 		<pln>Do Wschodniej Prypeci</pln>
 	</string>
 	<string id="to_x8">
 		<rus>В Лабораторию Х-8</rus>
 		<eng>To X-8 Laboratory</eng>
 		<ukr>У Лабораторію Х-8</ukr>
-		<fra>Au laboratoire X-8</fra>
+		<fra>Au Laboratoire X-8</fra>
 		<pln>Do Laboratorium X-8</pln>
 	</string>
 	<string id="to_provod_1">
 		<rus>В Путепровод "Припять-1"</rus>
 		<eng>To "Pripyat-1" Underpass</eng>
 		<ukr>У Шляхопровід "Прип'ять-1"</ukr>
-		<fra>Passage supérieur "Pripyat-1"</fra>
+		<fra>===Au Passage souterrain "Pripyat-1"</fra>
 		<pln>Do Podziemi Prypeci</pln>
 	</string>
 	<string id="to_jupiter">
-		<rus>На Юпитер</rus>
-		<eng>To Jupiter</eng>
-		<ukr>На Юпітер</ukr>
-		<fra>A Jupiter</fra>
-		<pln>Do Jupitera</pln>
+		<rus>На "Юпитер"</rus>
+		<eng>To "Jupiter"</eng>
+		<ukr>На "Юпітер"</ukr>
+		<fra>À "Jupiter"</fra>
+		<pln>Do "Jupitera"</pln>
 	</string>
 	<string id="to_chernobyl_1">
 		<rus>В Чернобыль-1</rus>
 		<eng>To Chernobyl-1</eng>
 		<ukr>У Чорнобиль-1</ukr>
-		<fra>Dans Tchernobyl-1</fra>
+		<fra>À Tchernobyl-1</fra>
 		<pln>Na Czernobyl-1</pln>
 	</string>
 	<string id="to_met_plant">
 		<rus>На Металлургический Завод</rus>
 		<eng>To metplant</eng>
 		<ukr>На Металургійний Завод</ukr>
-		<fra>À l'Usine métallurgique</fra>
+		<fra>À l'Usine Métallurgique</fra>
 		<pln>Na Zakład Metalurgiczny</pln>
 	</string>
 	<string id="to_construction_camp">
 		<rus>На Стройплощадку</rus>
 		<eng>To Construction Site</eng>
 		<ukr>На Будмайданчик</ukr>
-		<fra>Sur le Chantier en Construction</fra>
+		<fra>Au Chantier de Construction</fra>
 		<pln>Na Plac Budowy</pln>
 	</string>
 	<string id="to_darkscape">
 		<rus>В Тёмную Лощину</rus>
-		<eng>To Dark Ravine</eng>
+		<eng>To the Dark Ravine</eng>
 		<ukr>У Темну Балку</ukr>
-		<fra>A DarkScape</fra>
+		<fra>Au Ravin Ténébreux</fra>
 		<pln>Do Mrocznego Parowu</pln>
 	</string>
 		<string id="to_bunker_d6">
 		<rus>В Бункер "Д-6"</rus>
 		<eng>To "D-6" bunker</eng>
 		<ukr>В Бункер "Д-6"</ukr>
-		<fra>Dans le bunker "D-6"</fra>
+		<fra>Au Bunker "D-6"</fra>
 		<pln>Do Bunkra "D-6</pln>
 	</string>
 	<string id="to_x17">
 		<rus>В Лабораторию Х-17</rus>
 		<eng>To X-17 Lab</eng>
 		<ukr>В Лабораторію Х-17</ukr>
-		<fra>Au laboratoire X-17</fra>
+		<fra>Au Laboratoire X-17</fra>
 		<pln>Do Laboratorium X-17</pln>
 	</string>
 	<string id="to_kurchatov">
@@ -1218,28 +1218,28 @@
 		<rus>В Лабораторию Х-14</rus>
 		<eng>To X-14 Lab</eng>
 		<ukr>В Лабораторію Х-14</ukr>
-		<fra>Au laboratoire X-14</fra>
+		<fra>Au Laboratoire X-14</fra>
 		<pln>Do Laboratorium X-14</pln>
 	</string>
 	<string id="to_science_station">
 		<rus>На Научную Станцию</rus>
-		<eng>To Science Station</eng>
+		<eng>To the Science Station</eng>
 		<ukr>На Наукову Станцію</ukr>
 		<fra>À la Station Scientifique</fra>
 		<pln>Do Stacji Naukowej</pln>
 	</string>
 	<string id="to_l62u_collector">
 		<rus>В Коллектор</rus>
-		<eng>===В Коллектор</eng>
+		<eng>To the Sewer</eng>
 		<ukr>У Колектор</ukr>
-		<fra>===В Коллектор</fra>
+		<fra>À l'Égout</fra>
 		<pln>===В Коллектор</pln>
 	</string>
 	<string id="to_l40_dshor">
 		<rus>В Долину Шорохов</rus>
-		<eng>===В Долину Шорохов</eng>
+		<eng>To the Valley of the Rustles</eng>
 		<ukr>У Долину Шурхоту</ukr>
-		<fra>===В Долину Шорохов</fra>
+		<fra>À la Vallée des Bruissements</fra>
 		<pln>===В Долину Шорохов</pln>
 	</string>
 	<string id="st_helmet_countdown">
@@ -1250,11 +1250,11 @@
 		<pln>Wyłączenie ochrony</pln>
 	</string>
 	<string id="st_psy_danger">
-		<rus>Критический уровень пси-излучения. Немедленно покиньте опасную зону.</rus>
-		<eng>Psi is critical! Leave the danger area immediately.</eng>
-		<ukr>Критичний рівень псі-випромінювання! Негайно залишіть небезпечну зону!</ukr>
-		<fra>Le niveau critique du rayonnement psi. Quittez la zone de danger immédiatement.</fra>
-		<pln>Krytyczny poziom emisji psionicznych. Natychmiast opuść niebezpieczną strefę.</pln>
+		<rus>Критический уровень пси-излучения. Немедленно покиньте опасную зону!</rus>
+		<eng>Critical level of psi radiation. Leave the danger area immediately!</eng>
+		<ukr>Критичний рівень псі-випромінювання. Негайно залишіть небезпечну зону!</ukr>
+		<fra>Le niveau critique du rayonnement psi. Quittez la zone de danger immédiatement!</fra>
+		<pln>Krytyczny poziom emisji psionicznych. Natychmiast opuść niebezpieczną strefę!</pln>
 	</string>
 	<string id="st_radiation_danger">
 		<rus>Опасный уровень радиации. Необходима защита, чтобы пройти.</rus>
@@ -1266,7 +1266,7 @@
 	<string id="st_found_new_pda">
 		<rus>Найдена информация:		</rus>
 		<eng>Information found:		</eng>
-		<ukr>Знайдено інформацію:</ukr>
+		<ukr>Знайдено інформацію:		</ukr>
 		<fra>Informations trouvées:		</fra>
 		<pln>Zdobyte informacje:</pln>
 	</string>
@@ -1344,7 +1344,7 @@
 		<rus>Включить генератор пси-излучения</rus>
 		<eng>Turn on the psi-generator</eng>
 		<ukr>Ввімкнути генератор псі-випромінювання</ukr>
-		<fra>Activer générateur de psi</fra>
+		<fra>Activer générateur de rayonnement psi</fra>
 		<pln>Włącz generator psioniczny</pln>
 	</string>
 	<string id="st_taynik_oruzeinik_on">
@@ -1365,14 +1365,14 @@
 		<rus>Отключить генератор пси-излучения</rus>
 		<eng>Disable the psi-generator</eng>
 		<ukr>Відключити генератор псі-випромінювання</ukr>
-		<fra>Désactiver le générateur de psi</fra>
+		<fra>Désactiver le générateur de rayonnement psi</fra>
 		<pln>Wyłącz generator psioniczny</pln>
 	</string>
 	<string id="st_taynik_cube">
-		<rus>Забрать секретное оружие Монолита</rus>
+		<rus>Забрать секретное оружие "Монолита"</rus>
 		<eng>Take away the Monolith's secret weapon</eng>
-		<ukr>Забрати секретну зброю Моноліту</ukr>
-		<fra>Ramassez l'arme secrète du monolithe</fra>
+		<ukr>Забрати секретну зброю "Моноліту"</ukr>
+		<fra>Ramassez l'arme secrète du "Monolithe"</fra>
 		<pln>Zabierz tajną broń Monolitu</pln>
 	</string>
 	<string id="st_chertez_zagadka">
@@ -1391,9 +1391,9 @@
 	</string>
 	<string id="st_dimak_decoder_off">
 		<rus>Передатчик отключён</rus>
-		<eng>===Передатчик отключён</eng>
+		<eng>The tramsmitter is turned off</eng>
 		<ukr>Передавач відключений</ukr>
-		<fra>===Передатчик отключён</fra>
+		<fra>===L'émetteur est éteint</fra>
 		<pln>===Передатчик отключён</pln>
 	</string>
 	<string id="st_dimak_timer">
@@ -1421,35 +1421,35 @@
 		<rus>Время до обнуления личного счёта Меченого</rus>
 		<eng>Time estimeate to zero Marked One's account</eng>
 		<ukr>Час до обнулення особистого рахунку Міченого</ukr>
-		<fra>Le temps jusqu’à la réinitialisation du compte personnel de l’étiquette</fra>
+		<fra>===Le temps jusqu’à la réinitialisation du compte personnel de l’étiquette</fra>
 		<pln>Czas do wyzerowania osobistego licznika Naznaczonego</pln>
 	</string>
 	<string id="st_raritet_box">
 		<rus>Откопать ящик</rus>
-		<eng>===Откопать ящик</eng>
+		<eng>Dig out the box</eng>
 		<ukr>Відкопати ящик</ukr>
-		<fra>===Откопать ящик</fra>
+		<fra>===Déterrer la caisse</fra>
 		<pln>===Откопать ящик</pln>
 	</string>
 	<string id="st_raritet_lock">
-		<rus>Сбить с ящика замок</rus>
-		<eng>===Сбить с ящика замок</eng>
+		<rus>Сбить замок с ящика</rus>
+		<eng>Knock the lock off the box</eng>
 		<ukr>Збити з ящика замок</ukr>
-		<fra>===Сбить с ящика замок</fra>
+		<fra>===Retirer le verrou de la caisse</fra>
 		<pln>===Сбить с ящика замок</pln>
 	</string>
 	<string id="st_gunsight_rifle">
 		<rus>Забрать винтовку</rus>
-		<eng>===Забрать винтовку</eng>
+		<eng>Pick up the rifle</eng>
 		<ukr>Забрати гвинтівку</ukr>
-		<fra>===Забрать винтовку</fra>
+		<fra>===Ramasser le fusil</fra>
 		<pln>===Забрать винтовку</pln>
 	</string>
 	<string id="gunsight_rifle_matras">
 		<rus>Лёжка снайпера</rus>
-		<eng>===Лёжка снайпера</eng>
+		<eng>Sniper's lying</eng>
 		<ukr>Лежанка снайпера</ukr>
-		<fra>===Лёжка снайпера</fra>
+		<fra>===Gîte du sniper</fra>
 		<pln>===Лёжка снайпера</pln>
 	</string>
 	<string id="st_time_till_surge">
@@ -1463,7 +1463,7 @@
 		<rus>Время до провала задания</rus>
 		<eng>Time to task fail</eng>
 		<ukr>Час до провалення завдання</ukr>
-		<fra>Temps dépassé:tache échouée</fra>
+		<fra>Temps dépassé: tache échouée</fra>
 		<pln>Czas do zawalenia zadania</pln>
 	</string>
 	<string id="st_time_smert">
@@ -1489,44 +1489,44 @@
 	</string>
 	<string id="nazar_bomba_use">
 		<rus>Заложить взрывчатку</rus>
-		<eng>===Заложить взрывчатку</eng>
+		<eng>===Plant explosives</eng>
 		<ukr>Закласти вибухівку</ukr>
-		<fra>===Заложить взрывчатку</fra>
+		<fra>===Poser les explosifs</fra>
 		<pln>===Заложить взрывчатку</pln>
 	</string>
 	<string id="kontrik_vodka_use">
 		<rus>Положить водку в рюкзак</rus>
-		<eng>===Положить водку в рюкзак</eng>
+		<eng>===Put vodka in the backpack</eng>
 		<ukr>Покласти горілку в рюкзак</ukr>
 		<fra>===Положить водку в рюкзак</fra>
 		<pln>===Положить водку в рюкзак</pln>
 	</string>
 	<string id="kalinin_diversya_use">
 		<rus>Заменить хорошую водку на палёную</rus>
-		<eng>===Заменить хорошую водку на палёную</eng>
+		<eng>Replace good vodka with counterfeit vodka</eng>
 		<ukr>Замінити хорошу горілку на палену</ukr>
-		<fra>===Заменить хорошую водку на палёную</fra>
+		<fra>===Remplacer la bonne vodka par de la fausse vodka</fra>
 		<pln>===Заменить хорошую водку на палёную</pln>
 	</string>
 	<string id="toy1_use">
 		<rus>Чебурашка</rus>
-		<eng>===Заменить хорошую водку на палёную</eng>
+		<eng>===Cheburashka</eng>
 		<ukr>Чебурашка</ukr>
-		<fra>===Заменить хорошую водку на палёную</fra>
+		<fra>===Tchebourachka</fra>
 		<pln>===Заменить хорошую водку на палёную</pln>
 	</string>
 	<string id="toy2_use">
 		<rus>Машинка</rus>
-		<eng>===Заменить хорошую водку на палёную</eng>
+		<eng>Motor vehicle</eng>
 		<ukr>Машинка</ukr>
-		<fra>===Заменить хорошую водку на палёную</fra>
+		<fra>Titine</fra>
 		<pln>===Заменить хорошую водку на палёную</pln>
 	</string>
 	<string id="toy3_use">
 		<rus>Самолётик</rus>
-		<eng>===Заменить хорошую водку на палёную</eng>
+		<eng>Model airplane</eng>
 		<ukr>Літачок</ukr>
-		<fra>===Заменить хорошую водку на палёную</fra>
+		<fra>Avion jouet</fra>
 		<pln>===Заменить хорошую водку на палёную</pln>
 	</string>
 </string_table>
