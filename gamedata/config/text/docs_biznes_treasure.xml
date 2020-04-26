@@ -77,7 +77,7 @@
 	<string id="hamster_kuznec2">
 		<rus>Некая вооружённая группа лиц ночью на Свалке напала на разведгруппу военных, прикарманив себе тактический шлем с новейшими тепловизионными очками. Нужно найти его и вернуть майору. Возможно, кто-нибудь на Свалке знает подробности нападения.</rus>
 		<eng>===At night, some bandits attacked a military reconnaissance squad and stole a tactical helmet with the latest thermal imaging system. I need to find it and return it to the major. Perhaps someone at the Dump knows the details of the attack.</eng>
-		<ukr>===Бандити вночі на Звалищі напали на розвідгрупу військових, привласнивши собі тактичний шолом з новітнім тепловізором. Потрібно знайти його і повернути майору. Можливо, хто-небудь на Звалищі знає подробиці нападу.</ukr>
+		<ukr>Деяка озброєна група лиць вночі на Звалищі напала на розвідгрупу військових, привласнивши собі тактичний шолом з новітніми тепловізійними окулярми. Потрібно знайти його і повернути майору. Можливо, хто-небудь на Звалищі знає подробиці нападу.</ukr>
 		<pln>===Bandyci napadli w nocy na Wysypisku na patrol wojskowy, przywłaszczyli sobie hełm z najnowszym termowizorem. Trzeba go znaleźć i zwrócić majorowi. Możliwe, że ktoś na Wysypisku zna szczegóły napadu.</pln>
 	</string>
 	<string id="hamster_kuznec3">
@@ -171,8 +171,8 @@
 			Two artifacts "Gravi"\n
 			50-100 thousand rubles for the work\n
 			Detailed drawings of the gun (additional components can be written in the description)\n \nVasiliy told me about a certain Gunsmith who was engaged in the development of firearms. The last person he talked to was the informant. I will need to visit him and find out the address of this Gunsmith. Perhaps there are still some drawings in his apartment.</eng>
-		<ukr>===Василь може відтворити унікальні зразки зброї та модифікації, існуючі всього в декількох екземплярах. Для цього йому потрібно:\n \n
-			2 екземпляра модернізовуваної зброї у хорошому стані\n
+		<ukr>Василь може відтворити унікальні зразки зброї та модифікації, існуючі всього в декількох екземплярах. Для цього йому потрібно:\n \n
+			Вказані в кресленні екземпляри зброї у хорошому стані\n
 			1 "Рубінова пружина" (1 "Рубінова батарейка" для ЕМ-зброї)\n
 			2 "Граві" (2 "Спалахи" для ЕМ-зброї)\n
 			100-150 тисяч гривень за роботу\n
@@ -445,7 +445,7 @@
 	<string id="fotograf_pobeg_add">
 		<rus>\nP.P.S. Не забыть найти арт "Младший брат Гиганта" для пилотов вертолёта и отдать его Фотографу.</rus>
 		<eng>===\nP.P.S. Do not forget to find the "Giant's Younger Brother" artifact, for the Photographer.</eng>
-		<ukr>===\nP.P.S. Не забути знайти арт "Молодший брат Гіганта" для Фотографа.</ukr>
+		<ukr>\nP.P.S. Не забути знайти арт "Молодший брат Гіганта" для пілотів вертольота і віддати його Фотографу.</ukr>
 		<pln>===\nP.P.S. Nie zapomnieć znaleźć art "Młodszy brat Giganta" dla Fotografa.</pln>
 	</string>
 	<string id="taynik_fotograf_as">
@@ -864,9 +864,9 @@
 	</string>
 	<string id="anomaly_grenade">
 		<rus>Адреналин готов предоставить боеприпасы и амуницию, необходимые при отражении волны мутантов. Мне лишь нужно найти схему создания аномальных гранат, которую отыскал какой-то сталкер. Вся его история похожа на развод, но Адреналин уверен, что это не так. Потерянный рюкзак сталкера должен быть где-то в административном здании на Металлургическом Заводе.\n \nP.S. Собрать для Седого 500 тысяч рублей.</rus>
-		<eng>Adrenalin is ready to provide ammunition and supplies necessary for the defense against the wave of mutants. I just need to find a schematic for creating anomalous grenades, which some stalker has actually found. His whole story sounds like bullshit, but Adrenaline is sure that it's not. The lost stalker backpack must be somewhere in the administrative building of the Metallurgical Plant.\n \nP.S. Collect 400 thousand rubles for Seriy.</eng>
-		<ukr>Адреналін готовий надати боєприпаси і амуніцію, необхідні при відбитті хвилі мутантів. Мені лише потрібно знайти схему створення аномальних гранат, яку відшукав якийсь сталкер. Вся його історія схожа на розвід, але Адреналін впевнений, що це не так. Втрачений рюкзак сталкера повинен бути десь в адміністративній будівлі на Металургійному Заводі.\n \nP.S. Зібрати для Сивого 400 тисяч гривень.</ukr>
-		<pln>Adrenalina jest gotowy przekazać amunicję i wyposażenie, niezbędne do odparcia fali mutantów. Muszę tylko odzyskać schemat budowy anomalnych granatów, który odszukał jakiś stalker. Cała ta sprawa wygląda na oszustwo, ale Adrenalina jest pewny, że to nie tak. Zagubiony plecak stalkera powinien być gdzieś w budynku administracyjnym w Zakładzie Metalurgicznym.\n \nP.S. Zebrać dla Szarego 400 tysięcy rubli.</pln>
+		<eng>Adrenalin is ready to provide ammunition and supplies necessary for the defense against the wave of mutants. I just need to find a schematic for creating anomalous grenades, which some stalker has actually found. His whole story sounds like bullshit, but Adrenaline is sure that it's not. The lost stalker backpack must be somewhere in the administrative building of the Metallurgical Plant.\n \nP.S. Collect 500 thousand rubles for Seriy.</eng>
+		<ukr>Адреналін готовий надати боєприпаси і амуніцію, необхідні при відбитті хвилі мутантів. Мені лише потрібно знайти схему створення аномальних гранат, яку відшукав якийсь сталкер. Вся його історія схожа на розвід, але Адреналін впевнений, що це не так. Втрачений рюкзак сталкера повинен бути десь в адміністративній будівлі на Металургійному Заводі.\n \nP.S. Зібрати для Сивого 500 тисяч гривень.</ukr>
+		<pln>Adrenalina jest gotowy przekazać amunicję i wyposażenie, niezbędne do odparcia fali mutantów. Muszę tylko odzyskać schemat budowy anomalnych granatów, który odszukał jakiś stalker. Cała ta sprawa wygląda na oszustwo, ale Adrenalina jest pewny, że to nie tak. Zagubiony plecak stalkera powinien być gdzieś w budynku administracyjnym w Zakładzie Metalurgicznym.\n \nP.S. Zebrać dla Szarego 500 tysięcy rubli.</pln>
 	</string>
 	<string id="doctor_pomehi">
 		<rus>В Припяти происходят очень странные дела! Монолитовцы установили в городе шесть генераторов помех, вырубающие всю электронику в радиусе почти всей центральной части города. Они расположили их на самых высоких частях зданий и строений. Чтобы спокойно поговорить с Доком о помощи защитникам, мне придётся уничтожить все генераторы. Если я выберусь за пределы зоны действия глушилок, мой ПДА включится, и я смогу узнать приблизительное местоположение генераторов благодаря пометкам Дока.</rus>
@@ -1211,7 +1211,7 @@
 	<string id="kontrik_electro">
 		<rus>Похоже, Сахаров считает, что я общаюсь с контриками, иначе он не давал бы мне подобного задания. Суть его в том, что я должен сделать инъекцию экспериментальной сыворотки страха трём электроконтролёрам, обитающим на ЧАЭС-1, и понаблюдать за их реакцией. Чтобы сделать это, мне придётся вплотную подобраться к монстрам, при этом стрелять по мутантам запрещено.</rus>
 		<eng>===It seems that Sakharov believes that I can communicate with controllers, otherwise he would'nt have given me this task. I have to attach radio beacons to the three electrical controllers living on ChNPP-1. To do this, I have to get close to the monsters. I can hide behind cover, or I can run up to the target, hook a beacon on it and run back. I can not shoot at the monsters either. In addition, the scientists need a snapshot of the new mutant to file away. Shooting conditions: mutants should be photographed up-close, full-length, fully fit in the frame and without zoom, so the optimal distance to the target is 5-10 meters.</eng>
-		<ukr>===Схоже, Сахаров вважає, що я спілкуюся з контриками, інакше він не давав би мені подібного завдання. Суть його в тому, що я повинен причепити радіомаячки до трьох електроконтролерів, які мешкають на ЧАЕС-1. Щоб зробити це, мені доведеться впритул підібратися до монстрів. Я можу ховатися за укриттями, а можу навпростець підбігти до цілі, причепити маячок і бігти назад. Стріляти по цілях не можна.</ukr>
+		<ukr>Схоже, Сахаров вважає, що я спілкуюся з контриками, інакше він не давав би мені подібного завдання. Суть його в тому, що я повинен зробити ін'єкцію експериментальної сиворотки страху трьом електроконтролерам, які мешкають на ЧАЕС-1, і поспостерігати за їхньою реакцію. Щоб зробити це, мені доведеться впритул підібратися до монстрів, при цьому стріляти по мутантах заборонено.</ukr>
 		<pln>===Wygląda na to, że Sacharow uważa, że przyjaźnię się z kontrolerami, inaczej nie dawałby mi podobnego zadania. Rzecz w tym, że mam przyczepić radionadajniki do trzech elektro-kontrolerów, przebywających na CEA-1. By to zrobić, muszę się zbliżyć do mutantów. Mogę ukrywać się za osłonami, a mogę po prostu podbiec do celu, przyczepić nadajnik i uciec. Strzelać do celów nie wolno. Dodatkowo, naukowcy potrzebują zdjęcia nowego mutanta do swoich kartotek. Dodatkowe warunki: mutanty powinny być sfotografowane z bliska, w całej swojej postaci, całkowicie mieścić się w kadrze, ale bez zoomu, dlatego optymalny dystans do celu to 5-10 metrów.</pln>
 	</string>
 	<string id="kalinin_dog">
@@ -1586,8 +1586,7 @@
 	</string>
 	<string id="sak_kukla">
 		<rus>Сяк предполагает, что старую куклу Мухи мог утащить местный карлик, живущий в лаборатории Х-10. Искать убежище мутанта бессмысленно, поэтому Сяк посоветовал мне произвести с карликом обмен игрушками, которые необходимо отыскать в детском саду Центральной Припяти. Нужны игрушки, сохранившиеся в более-менее приличном состоянии, не сломанные и не потрёпанные. Затем надо вернуться на Радар и оставить подарки в ближайшем к Сяку вагончике вместе с фото утерянной куклы. Если этот мелкий спиногрыз не окажется таким тупым, как его сородичи, и ему понравится один из моих подарков, то он вернёт куклу. Закладку подарков лучше проводить ночью, с полуночи до 4 часов утра, а после этого времени вернуться к Сяку.</rus>
-		<eng>===</eng>
-		<ukr>===</ukr>
+		<ukr>Сяк вважає, що стару ляльку Мухи міг потягти місцевий карлик, який живе в лабораторії Х-10. Шукати притулок мутанта безглуздо, тому Сяк порадив мені зробити з карликом обмін іграшками, які необхідно відшукати в дитячому садку Центральної Прип'яті. Потрібні іграшки, які збереглися в більш-менш пристойному стані, не зламані і не пошарпані. Потім треба повернутися на Радар і залишити подарунки в найближчому до Сяка вагончику разом з фото втраченої ляльки. Якщо цей дрібний спиногриз не виявиться таким тупим, як його родичі, і йому сподобається один з моїх подарунків, то він поверне ляльку. Закладку подарунків краще проводити вночі, з півночі до 4 години ранку, а після цього часу повернутися до Сяка.</ukr>
 	</string>
 	<!-- AKILL end -->
 
