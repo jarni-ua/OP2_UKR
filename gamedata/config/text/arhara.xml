@@ -183,11 +183,11 @@
 		<pln>Taa, a profesor nie za bardzo ceni ludzkie życie...  Z powodu torby w takie zadupie wysyłać... Dobrze, że chociaż przybliżone położenie mobilnego punktu obserwacyjnego żołnierzy zapisano w moim PDA.</pln>
 	</string>
 	<string id="tex_take_arhara_doctor">
-		<rus>Мне надо найти потерянный медальон Доктора. Он находится в рюкзаке на крыше одной из высоток Припяти. Ума не приложу, как я залезу на эти крыши...</rus>
-		<eng>I need to find Doctor's lost medallion. It's in a backpack on the roof of one of Pripyat's skyscrapers. I don't know how I going to get up onto those roofs...</eng>
-		<ukr>Мені треба знайти втрачений медальйон Доктора. Він знаходиться в рюкзаку на даху однієї з висоток Прип'яті. Ніяк не збагну, як я залізу на ці дахи...</ukr>
-		<fra>Je dois trouver le médaillon perdu du Docteur. Il se trouve dans un sac à dos sur le toit d'un des gratte-ciel de Pripyat. Je ne sais que penser, comment je vais faire pour monter sur ces toits... Mais le Docteur a fait allusion sur la possibilité d'un passage de l'ATP vers le gratte-ciel.</fra>
-		<pln>Muszę odnaleźć zagubiony medalion Doktora. Jest w plecaku, na dachu jednego z wieżowców w Prypeci. Nie mam pojęcia, jak ja wlezę na ten dach...</pln>
+		<rus>Мне надо найти потерянный медальон Доктора. Он находится в рюкзаке в большой камере теплотрассы, что рядом с блокпостом Долга на Свалке. Медальон нужно отнести Шахтёру и обменять на осколок "Монолита".</rus>
+		<eng>===I need to find Doctor's lost medallion. It's in a backpack on the roof of one of Pripyat's skyscrapers. I don't know how I going to get up onto those roofs...</eng>
+		<ukr>===Мені треба знайти втрачений медальйон Доктора. Він знаходиться в рюкзаку на даху однієї з висоток Прип'яті. Ніяк не збагну, як я залізу на ці дахи...</ukr>
+		<fra>===Je dois trouver le médaillon perdu du Docteur. Il se trouve dans un sac à dos sur le toit d'un des gratte-ciel de Pripyat. Je ne sais que penser, comment je vais faire pour monter sur ces toits... Mais le Docteur a fait allusion sur la possibilité d'un passage de l'ATP vers le gratte-ciel.</fra>
+		<pln>===Muszę odnaleźć zagubiony medalion Doktora. Jest w plecaku, na dachu jednego z wieżowców w Prypeci. Nie mam pojęcia, jak ja wlezę na ten dach...</pln>
 	</string>
 	<string id="enc_artmod_gusenica_text">
 		<rus>Сахаров продал рецепт артмодификации: из безоара контролёра в аномалии "Жарка" можно получить артефакт "Плазменная гусеница". Время трансмутации - 5 минут, вероятность удачного исхода преобразования - 75%</rus>
@@ -484,6 +484,7 @@ Fireball" \n\nC'est bien, il n'a pas avoir besoin de 15 "Scalps de Contrôleurs"
 		<fra>Adrénaline a soufflé qu'il y a un passage de Yantar vers le Labyrinthe, et l'a marqué sur la carte de mon PDA.</fra>
 		<pln>Adrenalina podpowiedział, że jest przejście z Jantaru do Labiryntu i zaznaczył je na mapie w moim PDA.</pln>
 	</string>
+	<!-- !!!! Удалить для НИ -->
 	<string id="info_way_arhara_atp_pripyat_text">
 		<rus>У меня появилась информация о последнем, и похоже, самом нужном переходе с АТП - в Центральную Припять. Судя по данной картинке, придётся обследовать этот участок разрушенной крыши.</rus>
 		<eng>I have information about the last, and it seems, the most important transition from the ATP to Central Pripyat. Judging by this picture, I'll have to examine this part of the destroyed roof.</eng>
@@ -491,12 +492,13 @@ Fireball" \n\nC'est bien, il n'a pas avoir besoin de 15 "Scalps de Contrôleurs"
 		<fra>===Sakharov donne comme récompense pour le sac, un passage de l'ATP vers Pripyat. Sur une arête brisée d'un toit de l'ATP - le toit d'un gratte-ciel à Pripyat.</fra>
 		<pln>Dostałem informację o ostatnim i prawdopodobnie najbardziej potrzebnym przejściu z ATP do Centralnej Prypeci. Sądząc po zdjęciu, trzeba zbadać ten kawałek zburzonego dachu.</pln>
 	</string>
+	<!-- Удалить энд -->
 	<string id="info_way_arhara_atp_military_text">
-		<rus>У меня появилась информация о ещё одном выходе с АТП - на Армейские Склады. О третьем переходе знает кто-то из учёных.</rus>
-		<eng>I've got information about another exit from the ATP to the Army Warehouses. Some scientist knows about a third transition.</eng>
-		<ukr>У мене з'явилася інформація про ще один вихід з АТП - на Армійські Склади. Про третій перехід знає хтось із вчених.</ukr>
+		<rus>У меня появилась информация о ещё одном выходе с АТП - на Армейские Склады.</rus>
+		<eng>I've got information about another exit from the ATP to the Army Warehouses.</eng>
+		<ukr>У мене з'явилася інформація про ще один вихід з АТП - на Армійські Склади.</ukr>
 		<fra>===J'ai des informations sur une autre sortie de l'ATP vers les Entrepôts de l'armée. Sakharov est au courant de la troisième transition. Je dois  lui rendre visite avant de lui tirer une balle.</fra>
-		<pln>Zdobyłem informację o jeszcze jednym wyjściu z ATP na Magazyny Wojskowe. O trzecim przejściu wie któryś z naukowców.</pln>
+		<pln>Zdobyłem informację o jeszcze jednym wyjściu z ATP na Magazyny Wojskowe.</pln>
 	</string>
 	<string id="info_way_arhara_atp_kordon_text">
 		<rus>Адреналин дал мне информацию об одном из выходов с АТП. Переход на Кордон предположительно находится на этих камнях.</rus>
@@ -575,6 +577,7 @@ Fireball" \n\nC'est bien, il n'a pas avoir besoin de 15 "Scalps de Contrôleurs"
 		<fra>Fanatique a donné les coordonnées d'une transition vers les Marais. Le passage se trouve quelque part près de la clôture, après le camp des débutants, du côté du bunker de Sidorovitch.</fra>
 		<pln>Fanat wrzucił koordynaty przejścia na Bagna. Przejście znajduje się gdzieś w okolicy bunkra Sidorowicza.</pln>
 	</string>
+	<!-- !!!! Удалить для НИ -->
 	<string id="info_way_arhara_chaes2_atp_text">
 		<rus>В ПДА Хамелеона имелись координаты тропы с ЧАЭС-2 на Затон. Она начинается на востоке станции.</rus>
 		<eng>===A senior officer at the Freedom base checkpoint gave me a tip about the transition from the Chernobyl NPP-2 to the ATP.</eng>
@@ -582,6 +585,7 @@ Fireball" \n\nC'est bien, il n'a pas avoir besoin de 15 "Scalps de Contrôleurs"
 		<fra>===L'ancien du barrage routier sur la base de la Liberté a donné une indication sur la transition du Nord de la centrale nucléaire de Tchernobyl vers l'ATP.</fra>
 		<pln>===Dowódca z posterunku na bazie Wolności dał wskazówkę na przejście z CEA-2 na ATP.</pln>
 	</string>
+	<!-- Удалить энд -->
 	<string id="info_way_arhara_pripyt_village_text">
 		<rus>Клык скинул координаты перехода с Припяти в Старую Деревню. Появилась отметка в ПДА.</rus>
 		<eng>Fang has given me the coordinates of the transition from Pripyat to the Old Village. He downloaded it in my PDA.</eng>

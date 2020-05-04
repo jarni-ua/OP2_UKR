@@ -1528,6 +1528,13 @@
 		<fra>Selection du HUD</fra>
 		<pln>Wybór HUD</pln>
 	</string>
+	<string id="ui_mm_inventorys">
+		<rus>Выбрать инвентарь</rus>
+		<eng>===Choose inventory</eng>
+		<ukr>Вибрати інвентар</ukr>
+		<fra>===Choisissez l'inventaire</fra>
+		<pln>===Wybierz zapasy</pln>
+	</string>	
 	<string id="ui_mm_anisotropic">
 		<rus>Фильтрация текстур</rus>
 		<eng>Anisotropic filtration</eng>
@@ -5537,6 +5544,10 @@
 	<string id="ui_mm_huds_hint">
 		<rus>Позволяет выбрать игровой худ из доступного списка с предпросмотром внешнего вида.</rus>
 		<ukr>Дозволяє вибрати ігровий худ з доступного списку з попереднім переглядом зовнішнього вигляду.</ukr>
+	</string>	
+	<string id="ui_mm_inventorys_hint">
+		<rus>Позволяет выбрать внешний вид инвентаря из доступного списка с предпросмотром внешнего вида.</rus>
+		<ukr>Дозволяє вибрати зовнішній вигляд інвентарю з доступного списку з попереднім переглядом зовнішнього вигляду.</ukr>
 	</string>	
 	<string id="ui_mm_show_weapon_hint">
 		<rus>При включении данной опции на экране будет отображаться оружие в руках главного героя.</rus>
