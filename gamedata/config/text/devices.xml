@@ -626,7 +626,7 @@
 		<pln>Medalion Doktora</pln>
 	</string>
 	<string id="item_doc_medal_desc">
-		<rus>Золотой медальон на серебряной цепке, принадлежащий Доктору. Был потерян хозяином несколько лет назад.</rus>
+		<rus>Золотой медальон на серебряной цепочке, принадлежащий Доктору. Был потерян хозяином несколько лет назад.</rus>
 		<eng>A gold medallion on a silver chain belonging to the Doctor. It was lost by him a few years ago.</eng>
 		<ukr>Золотий медальйон на срібному ланцюжку, що належить Доктору. Був втрачений господарем кілька років тому.</ukr>
 		<fra>Médaillon en or sur une chaîne en argent appartenant au docteur. A été perdu par un hôte il y a quelques années.</fra>
@@ -799,7 +799,7 @@
 		<pln>Kostka Rubika</pln>
 	</string>
 	<string id="item_kubik_desc">
-		<rus>Обыкновенный Кубик Рубика, коим лет 20-30 назад многие повально увлекались... В Зону, вероятно, был принесён одним из новичков.</rus>
+		<rus>Обыкновенный кубик Рубика, коим лет 20-30 назад многие повально увлекались... В Зону, вероятно, был принесён одним из новичков.</rus>
 		<eng>An ordinary Rubik's Cube. These came out out 20-30 years ago. It's a very challenging but satisfying and peculiar toy to play with. It was probably brought to the Zone by one of the newbies.</eng>
 		<ukr>Звичайний Кубик Рубіка, яким років 20-30 тому багато хто повально захоплювалися... У Зону, ймовірно, був принесений одним з новачків.</ukr>
 		<fra>Le Rubik's Cube ordinaire, il y a 20-30 ans, était une bonne affaire pour beaucoup de gens ... Il a probablement été apporté à la Zone par l'un des débutants.</fra>
@@ -820,11 +820,11 @@
 		<pln>Książka ojca Górnika. Na oko - zwykły tomik opowiadań o myślistwie... Nie wiadomo, w jaki sposób ta książka zachowała się przez tyle lat pod odkrytym niebem w tak dobrym stanie.</pln>
 	</string>
 	<string id="silver_money_name">
-		<rus>Серебряный рубль</rus>
-		<eng>Silver ruble</eng>
-		<ukr>Срібний карбованець</ukr>
-		<fra>Rouble en argent</fra>
-		<pln>Srebrny rubel</pln>
+		<rus>Золотой рубль</rus>
+		<eng>Gold ruble</eng>
+		<ukr>Золотий карбованець</ukr>
+		<fra>Rouble d'or</fra>
+		<pln>Złoty rubel</pln>
 	</string>
 	<string id="gold_money_name">
 		<rus>Золотой червонец</rus>
@@ -841,11 +841,11 @@
 		<pln>Stary złoty czerwoniec. Znaleziony w Pieczarze...</pln>
 	</string>
 	<string id="enc_equipment_money">
-		<rus>Старинный серебряный русский рубль. За пределами Зоны имел бы хорошую цену.</rus>
-		<eng>An antique silver Russian ruble. It would fetch a good price outside the Zone.</eng>
-		<ukr>Старовинний срібний руський карбованець. За межами Зони мав би гарну ціну.</ukr>
-		<fra>Un antique rouble russe en argent. En dehors de la zone aurait un bon prix.</fra>
-		<pln>Rosyjski srebrny rubel. Poza granicami Zony byłby sporo wart.</pln>
+		<rus>Старинный золотой русский рубль. За пределами Зоны имел бы хорошую цену.</rus>
+		<eng>An antique gold Russian ruble. It would fetch a good price outside the Zone.</eng>
+		<ukr>Старовинний золотий руський карбованець. За межами Зони мав би гарну ціну.</ukr>
+		<fra>Rouble russe doré antique. En dehors de la zone aurait un bon prix.</fra>
+		<pln>Antyczny złoty rubel rosyjski. Poza granicami Zony byłby sporo wart.</pln>
 	</string>
 	<string id="item_arhara_listok">
 		<rus>Странник! Я, Стрелок, уже навряд ли сюда вернусь, поэтому хочу предостеречь тебя: у тебя есть только два пути - первый - идти дальше к секретной двери и второй - воспользоваться моим телепортом и вернуться обратно на Армейские склады и попытаться найти мой ПДА, в котором есть ценные сведения о Зоне и о работе стационарного телепорта, который активируется здесь, у Монолита при помощи артефакта Золотая рыбка - не исключено, что ты захочешь сюда ещё вернуться. Мне он навряд ли уже пригодится... Я оставил ПДА на хранение Шахтёру, который обитает в старой пещере... Но если ты всё же рискнёшь пойти дальше и сумеешь выйти живым на ЧАЭС-2, то вот координаты запасного перехода обратно, на ЧАЭС. Возможно они тебе пригодятся. Удачи тебе, неведомый сталкер.\n Стрелок.</rus>
@@ -2458,7 +2458,7 @@
 		<pln>Pusta kolba</pln>
 	</string>
 	<string id="item_kolba_pustay">
-		<rus>Пустая колба из особого стекла, по слухам, изготовленного из артефакта Слюда. Имеет металлический защитный кожух и специальный клапан. Предназначение неизвестно. Радиоактивна, можно повесить на пояс - но это для пустой колбы - бесполезная трата ячеек.</rus>
+		<rus>Пустая колба из особого стекла, по слухам, изготовленного из артефакта Слюда. Имеет металлический защитный кожух и специальный клапан. Предназначение неизвестно. Радиоактивна, можно повесить на пояс, но для пустой колбы это бесполезная трата ячеек.</rus>
 		<eng>An empty flask that's made out of a special glass, supposedly comprised out of material the "Mica" artifact. It has a metal protective cover and a special valve on top. Its intended destination is unknown. It's radioactive, and you can attach it to your belt in order to use it - but doing this for an empty flask would be a waste of time and greatly detrimental to your health.</eng>
 		<ukr>Порожня колба з особливого скла, за чутками, виготовленого з артефакту Слюда. Має металевий захисний кожух і спеціальний клапан. Призначення невідоме. Радіоактивна, можна повісити на пояс - але це для порожньої колби - марна трата слотів.</ukr>
 		<fra>Flasque vide en verre spécial, selon les rumeurs, fabriquée à partir de l'artefact de Mica. Il a un couvercle de protection en métal et une valve spéciale. Destination inconnue. Radioactif, vous pouvez vous accrocher à la ceinture - mais il s’agit d’un flacon vide - un gâchis de cellules.</fra>
