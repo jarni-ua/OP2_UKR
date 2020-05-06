@@ -205,14 +205,14 @@
 	</string>
 	<string id="name_borov">
 		<rus>БОРОВ</rus>
-		<eng>BOROV</eng>
+		<eng>BAUSON</eng>
 		<ukr>КАБАН</ukr>
 		<fra>BOROV</fra>
 		<pln>BOROW</pln>
 	</string>
 	<string id="name_borov_small">
 		<rus>Боров</rus>
-		<eng>Borov</eng>
+		<eng>Bauson</eng>
 		<ukr>Кабан</ukr>
 		<fra>Borov</fra>
 		<pln>Borow</pln>
@@ -221,14 +221,14 @@
 		<rus>ИСТОЧНИК НЕИЗВЕСТЕН</rus>
 		<eng>SOURCE UNKNOWN</eng>
 		<ukr>ДЖЕРЕЛО НЕВІДОМЕ</ukr>
-		<fra>LA SOURCE EST INCONNUE</fra>
+		<fra>LA SOURCE INCONNUE</fra>
 		<pln>NIEZNANY UŻYTKOWNIK</pln>
 	</string>
 	<string id="name_istochnik_neizvesten_small">
 		<rus>источник неизвестен</rus>
 		<eng>Source unknown</eng>
 		<ukr>джерело невідоме</ukr>
-		<fra>La source est inconnue</fra>
+		<fra>La source inconnue</fra>
 		<pln>nieznany użytkownik</pln>
 	</string>
 	<string id="name_barduty">
@@ -310,14 +310,14 @@
 	</string>
 	<string id="name_operator_svyazi">
 		<rus>ОПЕРАТОР СВЯЗИ</rus>
-		<eng>TELECOMMUNICATIONS OPERATOR</eng>
+		<eng>COMMUNICATIONS PROVIDER</eng>
 		<ukr>ОПЕРАТОР ЗВ'ЯЗКУ</ukr>
 		<fra>OPÉRATEUR DE COMMUNICATION</fra>
 		<pln>OPERATOR SIECI</pln>
 	</string>
 	<string id="name_operator_svyazi_small">
 		<rus>Оператор связи</rus>
-		<eng>Telecommunications operator</eng>
+		<eng>Communications provider</eng>
 		<ukr>Оператор зв'язку</ukr>
 		<fra>Opérateur de communication</fra>
 		<pln>Operator sieci</pln>
@@ -366,14 +366,14 @@
 	</string>
 	<string id="name_komandir_gruppi_monolita">
 		<rus>КОМАНДИР ГРУППЫ МОНОЛИТА</rus>
-		<eng>MONOLITH GROUP COMMANDER</eng>
+		<eng>"MONOLITH" GROUP COMMANDER</eng>
 		<ukr>КОМАНДИР ГРУПИ МОНОЛІТУ</ukr>
 		<fra>COMMANDANT DU GROUPE MONOLITHE</fra>
 		<pln>DOWÓDCA GRUPY MONOLITU</pln>
 	</string>
 	<string id="name_boets_monolita">
 		<rus>БОЕЦ МОНОЛИТА</rus>
-		<eng>MONOLITH FIGHTER</eng>
+		<eng>"MONOLITH" FIGHTER</eng>
 		<ukr>БОЄЦЬ МОНОЛІТУ</ukr>
 		<fra>COMBATTANT MONOLITHE</fra>
 		<pln>BOJOWNIK MONOLITU</pln>
@@ -515,21 +515,21 @@
 		<rus>Мессер</rus>
 		<eng>Messer</eng>
 		<ukr>Мессер</ukr>
-		<fra>===Мессер</fra>
+		<fra>===Messer</fra>
 		<pln>Messer</pln>
 	</string>
 	<string id="name_basti">
 		<rus>БАСТИ</rus>
 		<eng>BUUSTY</eng>
 		<ukr>БАСТІ</ukr>
-		<fra>BASTI</fra>
+		<fra>===BASTI</fra>
 		<pln>BUUSTY</pln>
 	</string>
 	<string id="name_basti_small">
 		<rus>Басти</rus>
 		<eng>Buusty</eng>
 		<ukr>Басті</ukr>
-		<fra>Basti</fra>
+		<fra>===Basti</fra>
 		<pln>Buusty</pln>
 	</string>
 	<string id="name_kalinin">
@@ -634,7 +634,7 @@
 		<rus>Клык</rus>
 		<eng>Fang</eng>
 		<ukr>Клик</ukr>
-		<fra>L</fra>
+		<fra>Le Croc</fra>
 		<pln>Kieł</pln>
 	</string>
 	<string id="name_shalii">
@@ -646,9 +646,9 @@
 	</string>
 	<string id="name_petya_glyuk">
 		<rus>ПЕТЯ ГЛЮК</rus>
-		<eng>ПЕТЯ ГЛЮК</eng>
+		<eng>===PETYA ГЛЮК</eng>
 		<ukr>ПЕТЯ ГЛЮК</ukr>
-		<fra>GLUK</fra>
+		<fra>===PETYA GLUK</fra>
 		<pln>PIETIA GLICZ</pln>
 	</string>
 	<string id="name_pantera">
@@ -674,21 +674,21 @@
 	</string>
 	<string id="name_likvidator">
 		<rus>ЛИКВИДАТОР</rus>
-		<eng>ЛИКВИДАТОР</eng>
+		<eng>LIQUIDATOR</eng>
 		<ukr>ЛІКВІДАТОР</ukr>
 		<fra>LIQUIDATEUR</fra>
 		<pln>LIKWIDATOR</pln>
 	</string>
 	<string id="name_miha">
 		<rus>МИХА</rus>
-		<eng>МИХА</eng>
+		<eng>MIKHA</eng>
 		<ukr>МИХА</ukr>
-		<fra>MIHA</fra>
+		<fra>MIKHA</fra>
 		<pln>MICHA</pln>
 	</string>
 	<string id="name_vitalii_zver">
 		<rus>ВИТАЛИЙ ЗВЕРЬ</rus>
-		<eng>ВИТАЛИЙ ЗВЕРЬ</eng>
+		<eng>VITALY THE BEAST</eng>
 		<ukr>ВІТАЛІЙ ЗВІР</ukr>
 		<fra>VITALY LA BETE</fra>
 		<pln>WITALI ZWIERZ</pln>
@@ -723,30 +723,29 @@
 	</string>
 	<string id="name_klyonov">
 		<rus>КЛЁНОВ</rus>
-		<eng>KLENOV</eng>
+		<eng>KLYONOV</eng>
 		<ukr>КЛЬОНОВ</ukr>
-		<fra>KLENOV</fra>
+		<fra>KLYONOV</fra>
 		<pln>KLONOW</pln>
 	</string>
 	<string id="name_klyonov_small">
 		<rus>Клёнов</rus>
-		<eng>Klenov</eng>
+		<eng>Klyonov</eng>
 		<ukr>Кльонов</ukr>
-		<fra>Klenov</fra>
+		<fra>Klyonov</fra>
 		<pln>Klonow</pln>
 	</string>
 	<string id="name_piligrim">
 		<rus>ПИЛИГРИМ</rus>
 		<eng>PILGRIM</eng>
 		<ukr>ПІЛІГРИМ</ukr>
-		<fra>PILGRIM</fra>
+		<fra>LE PÈLERIN</fra>
 		<pln>PIELGRZYM</pln>
 	</string>
 	<string id="name_piligrim_small">
 		<rus>Пилигрим</rus>
 		<eng>Pilgrim</eng>
-		<ukr>Пілігрим</ukr>
-		<fra>Pilgrim</fra>
+		<ukr>Le Pèlerin</fra>
 		<pln>Pielgrzym</pln>
 	</string>
 	<string id="name_sedoi">
@@ -835,7 +834,7 @@
 	</string>
 	<string id="name_chyornii_doktor_small">
 		<rus>Чёрный Доктор</rus>
-		<eng>Black Doctor</eng>
+		<eng>The Black Doctor</eng>
 		<ukr>Чорний Доктор</ukr>
 		<fra>Le Docteur Noir</fra>
 		<pln>Czarny Doktor</pln>
@@ -947,9 +946,9 @@
 	</string>
 	<string id="name_svobodovets">
 		<rus>СВОБОДОВЕЦ</rus>
-		<eng>FREEDOM</eng>
+		<eng>"FREEDOM" FIGHTER</eng>
 		<ukr>БОЄЦЬ ВОЛІ</ukr>
-		<fra>LIBERTÉ</fra>
+		<fra>SOLDAT DE LA "LIBERTÉ"</fra>
 		<pln>WOLNOŚCIOWIEC</pln>
 	</string>
 	<string id="name_zvezdochyot">
@@ -1019,7 +1018,7 @@
 		<rus>Сообщение центрального процессора</rus>
 		<eng>Central processor message</eng>
 		<ukr>Повідомлення центрального процесора</ukr>
-		<fra>Message CPU</fra>
+		<fra>Message de CPU</fra>
 		<pln>Powiadomienie centralnego procesora</pln>
 	</string>
 	<string id="name_molniya">
@@ -1089,7 +1088,7 @@
 		<rus>ЧАСОВОЙ</rus>
 		<eng>SENTRY</eng>
 		<ukr>ВАРТОВИЙ</ukr>
-		<fra>CHASOVOI</fra>
+		<fra>SENTINELLE</fra>
 		<pln>WARTOWNIK</pln>
 	</string>
 	<string id="name_chernomor">
@@ -1108,16 +1107,16 @@
 	</string>
 	<string id="name_zlobnii">
 		<rus>ЗЛОБНЫЙ</rus>
-		<eng>VICIOUS</eng>
+		<eng>THE BITCHY</eng>
 		<ukr>Злісний</ukr>
-		<fra>COLERE</fra>
+		<fra>LE HAINEUX</fra>
 		<pln>ZŁOŚLIWY</pln>
 	</string>
 	<string id="name_zlobnii_small">
 		<rus>Злобный</rus>
-		<eng>Vicious</eng>
+		<eng>The Bitchy</eng>
 		<ukr>Злісний</ukr>
-		<fra>colère</fra>
+		<fra>Le Haineux</fra>
 		<pln>Złośliwy</pln>
 	</string>
 	<string id="name_parfyumer">
@@ -1205,7 +1204,7 @@
 		<pln>BLENDA</pln>
 	</string>
 	<string id="name_blend_small">
-		<rus>Блэнд</rus>
+		<rus>Бленд</rus>
 		<eng>Blend</eng>
 		<ukr>Бленд</ukr>
 		<fra>Blend</fra>
@@ -1311,7 +1310,7 @@
 	</string>
 	<string id="name_mertsayuschii">
 		<rus>МЕРЦАЮЩИЙ</rus>
-		<eng>SHIMMERING ONE </eng>
+		<eng>SHIMMERING ONE</eng>
 		<ukr>МЕРЕХТЛИВИЙ</ukr>
 		<fra>LE SCINTILLANT</fra>
 		<pln>NIEUCHWYTNY</pln>
@@ -2615,14 +2614,14 @@
 	</string>
 	<string id="name_povar">
 		<rus>ПОВАР</rus>
-		<eng>CHEF</eng>
+		<eng>THE COOK</eng>
 		<ukr>КУХАР</ukr>
 		<fra>===LE CUISTEAU</fra>
 		<pln>KUCHARZ</pln>
 	</string>
 	<string id="name_povar_small">
 		<rus>Повар</rus>
-		<eng>Chef</eng>
+		<eng>The Cook</eng>
 		<ukr>Кухар</ukr>
 		<fra>===Le Cuisteau</fra>
 		<pln>Kucharz</pln>
