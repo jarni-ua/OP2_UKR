@@ -839,7 +839,7 @@
 	<string id="general_fail_task">
 		<rus>Провалено задание:		</rus>
 		<eng>Task failed:		</eng>
-		<ukr>Завдання провалене:	</ukr>
+		<ukr>Завдання провалене:		</ukr>
 		<fra>Missions ratées:		</fra>
 		<pln>Zadanie nie powiodło się:		</pln>
 	</string>
@@ -855,14 +855,14 @@
 		<eng>Received item:		</eng>
 		<ukr>Отримано предмет:		</ukr>
 		<fra>Article reçu:		</fra>
-		<pln>Otrzymany przedmiot:	</pln>
+		<pln>Otrzymany przedmiot:		</pln>
 	</string>
 	<string id="general_in_money">
 		<rus>Получены деньги:		</rus>
 		<eng>Received money:		</eng>
 		<ukr>Отримано гроші:		</ukr>
 		<fra>Argent reçu:		</fra>
-		<pln>Otrzymane pieniądze:	</pln>
+		<pln>Otrzymane pieniądze:		</pln>
 	</string>
 	<string id="general_new_diary">
 		<rus>Новая запись в дневнике.</rus>
@@ -897,7 +897,7 @@
 		<eng>Lost money:		</eng>
 		<ukr>Втрачено гроші:		</ukr>
 		<fra>Argent perdu:		</fra>
-		<pln>Utracone pieniądze:	</pln>
+		<pln>Utracone pieniądze:		</pln>
 	</string>
 	<string id="general_update_task">
 		<rus>Обновлено задание:		</rus>
@@ -1242,6 +1242,13 @@
 		<fra>À la Vallée des Bruissements</fra>
 		<pln>===В Долину Шорохов</pln>
 	</string>
+	<string id="to_l64_railstation">
+		<rus>На Вокзал</rus>
+		<eng>===На Вокзал</eng>
+		<ukr>===На Вокзал</ukr>
+		<fra>===На Вокзал</fra>
+		<pln>===На Вокзал</pln>
+	</string>
 	<string id="st_helmet_countdown">
 		<rus>Отключение защиты</rus>
 		<eng>Protection disabled</eng>
@@ -1266,7 +1273,7 @@
 	<string id="st_found_new_pda">
 		<rus>Найдена информация:		</rus>
 		<eng>Information found:		</eng>
-		<ukr>Знайдено інформацію: 	</ukr>
+		<ukr>Знайдено інформацію:		</ukr>
 		<fra>Informations trouvées:		</fra>
 		<pln>Zdobyte informacje:</pln>
 	</string>
@@ -1371,7 +1378,7 @@
 	<string id="st_taynik_cube">
 		<rus>Забрать секретное оружие "Монолита"</rus>
 		<eng>Take away the Monolith's secret weapon</eng>
-		<ukr>Забрати секретну зброю Моноліту</ukr>
+		<ukr>Забрати секретну зброю "Моноліту"</ukr>
 		<fra>Ramassez l'arme secrète du "Monolithe"</fra>
 		<pln>Zabierz tajną broń Monolitu</pln>
 	</string>
@@ -1511,22 +1518,32 @@
 	<string id="toy1_use">
 		<rus>Чебурашка</rus>
 		<eng>===Cheburashka</eng>
-		<ukr>===Замінити хорошу горілку на палену</ukr>
+		<ukr>Чебурашка</ukr>
 		<fra>===Tchebourachka</fra>
 		<pln>===Заменить хорошую водку на палёную</pln>
 	</string>
 	<string id="toy2_use">
 		<rus>Машинка</rus>
 		<eng>Motor vehicle</eng>
-		<ukr>===Замінити хорошу горілку на палену</ukr>
+		<ukr>Машинка</ukr>
 		<fra>Titine</fra>
 		<pln>===Заменить хорошую водку на палёную</pln>
 	</string>
 	<string id="toy3_use">
 		<rus>Самолётик</rus>
 		<eng>Model airplane</eng>
-		<ukr>===Замінити хорошу горілку на палену</ukr>
+		<ukr>Літачок</ukr>
 		<fra>Avion jouet</fra>
 		<pln>===Заменить хорошую водку на палёную</pln>
+	</string>
+	<string id="gps_use">
+		<rus>Установить радиомаяк</rus>
+		<eng>===Заменить хорошую водку на палёную</eng>
+		<ukr>Встановити радіомаяк</ukr>
+	</string>
+	<string id="gps_used">
+		<rus>Радиомаяк установлен</rus>
+		<eng>===Заменить хорошую водку на палёную</eng>
+		<ukr>Радіомаяк встановлений</ukr>
 	</string>
 </string_table>

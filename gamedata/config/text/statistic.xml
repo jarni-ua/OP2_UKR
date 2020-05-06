@@ -477,6 +477,34 @@
 		<fra>Furieux, maître</fra>
 		<pln>Furie, mistrz</pln>
 	</string>
+	<string id="little_blood_novice">
+		<rus>Малокровки, новичок</rus>
+                <eng>===Малокровки, новичок</eng>
+		<ukr>===Малокровки, новичок</ukr>
+		<fra>===Малокровки, новичок</fra>
+		<pln>===Малокровки, новичок</pln>
+	</string>
+	<string id="little_blood_experienced">
+		<rus>Малокровки, опытный</rus>
+                <eng>===Малокровки, опытный</eng>
+		<ukr>===Малокровки, опытный</ukr>
+		<fra>===Малокровки, опытный</fra>
+		<pln>===Малокровки, опытный</pln>
+	</string>
+	<string id="little_blood_veteran">
+		<rus>Малокровки, ветеран</rus>
+                <eng>===Малокровки, ветеран</eng>
+		<ukr>===Малокровки, ветеран</ukr>
+		<fra>===Малокровки, ветеран</fra>
+		<pln>===Малокровки, ветеран</pln>
+	</string>
+	<string id="little_blood_master">
+		<rus>Малокровки, мастер</rus>
+                <eng>===Малокровки, мастер</eng>
+		<ukr>===Малокровки, мастер</ukr>
+		<fra>===Малокровки, мастер</fra>
+		<pln>===Малокровки, мастер</pln>
+	</string>
 
 	<!-- Монстры -->
 	<string id="skelet_ded">
@@ -1109,6 +1137,13 @@
 		<fra>Zombies en toile de jute</fra>
 		<pln>Zarażony Zombie</pln>
 	</string>
+	<string id="zombie_hell16">
+		<rus>Ошпаренный зомби</rus>
+		<eng>===Burlap zombie</eng>
+		<ukr>===Зомбі у мішковині</ukr>
+		<fra>===Zombies en toile de jute</fra>
+		<pln>===Zarażony Zombie</pln>
+	</string>
 	<string id="zombie_babka_weak">
 		<rus>Свежая зомби-бабка</rus>
 		<eng>Fresh zombie-grandmother</eng>
@@ -1144,12 +1179,12 @@
 		<fra>===Комар</fra>
 		<pln>===Комар</pln>
 	</string>
-	<string id="fly">
-		<rus>Большая чумная муха</rus>
-		<eng>Big plague fly</eng>
-		<ukr>Велика чумна муха</ukr>
-		<fra>===Большая чумная муха</fra>
-		<pln>===Большая чумная муха</pln>
+	<string id="fly_micro">
+		<rus>Чумная мини-муха</rus>
+		<eng>===Mini plague fly</eng>
+		<ukr>Чумна міні-муха</ukr>
+		<fra>===Мини чумная муха</fra>
+		<pln>===Мини чумная муха</pln>
 	</string>
 	<string id="fly_small">
 		<rus>Маленькая чумная муха</rus>
