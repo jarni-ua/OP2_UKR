@@ -66,10 +66,10 @@
 		<pln>Przejdę się do Baru, czegoś się napiję. Coś mnie głowa boli...</pln>
 	</string>
 	<string id="akill_sak_1">
-		<rus>Давай-давай... Кстати, тут недавно сталкерня заходила, они как раз с Бара шли. Сказали, что Захар искал человечка для срочного дела. Зашёл бы ты к нему - узнал бы, что к чему. По ходу, дело действительно важное, так как он даже с Ворониным ругался. Договориться о чём-то никак не могли.</rus>
-		<eng>Ok, go... By the way, recently some stalker lot show up in here, coming from the Bar. They said Zakhar was looking for a man to do an urgent job. You had better to come by and find out what it was about, the matter seems to be really important, since he was even squabbling with Voronin. They couldn't agree on something.</eng>
-		<ukr>Давай-давай... До речі, тут недавно сталкери заходили, вони якраз з Бару йшли. Сказали, що Захар шукав людину для термінової справи. Зайшов би ти до нього - дізнався б, що до чого. По ходу, справа дійсно важлива, оскільки він навіть з Вороніним лаявся. Домовитися про щось ніяк не могли.</ukr>
-		<pln>Idź, idź... Przy okazji, było tu ostatnio kilku stalkerów, akurat z Baru wracali. Mówili, że Zachar szuka kogoś do pewnego zlecenia. Zajdź do niego - sprawa musi być ważna, podobno on nawet z Woroninem się pokłócił. W żaden sposób nie mogli się w czymś tam dogadać.</pln>
+		<rus>Давай-давай... Кстати, тут недавно сталкерня заходила, они как раз с Бара шли. Сказали, что Захар искал человечка для срочного дела. Зашёл бы ты к нему, узнал бы что к чему, по ходу, дело действительно важное, так как он даже с Ворониным ругался. Договориться о чём-то никак не могли.</rus>
+		<eng>Ok, go... By the way, recently some stalker lot show up in here, coming from the Bar. They said Zakhar was looking for a man to do an urgent job. Would you come by and find out what it was about, the matter seems to be really important, since he was even squabbling with Voronin. They couldn't agree on something.</eng>
+		<ukr>Давай-давай... До речі, тут недавно сталкери заходили, вони якраз з Бару йшли. Сказали, що Захар шукав людину для термінової справи. Зайшов би ти до нього, дізнався б що до чого, по ходу, справа дійсно важлива, оскільки він навіть з Вороніним лаявся. Домовитися про щось ніяк не могли.</ukr>
+		<pln>Idź, idź... Przy okazji, było tu ostatnio kilku stalkerów, akurat z Baru wracali. Mówili, że Zachar szuka kogoś do pewnego zlecenia. Zajdź do niego, sprawa musi być ważna, podobno on nawet z Woroninem się pokłócił. W żaden sposób nie mogli się w czymś tam dogadać.</pln>
 	</string>
 	<string id="akill_sak_2">
 		<rus>Ок, зайду. Давай, удачи!</rus>
@@ -12201,10 +12201,10 @@
 		<pln>Zrobiłem zdjęcia instalacji, z różnych perspektyw.</pln>
 	</string>
 	<string id="volna_foto_done_1">
-		<rus>Давай фото сюда, Хребет скоро с тобой свяжется.</rus>
-		<eng>Give the pictures to me, Spine will soon contact you.</eng>
-		<ukr>Давай фото сюди, Хребет скоро з тобою зв'яжеться.</ukr>
-		<pln>Zostaw zdjęcia tutaj, Grzbiet niedługo się z tobą połączy.</pln>
+		<rus>Давай фото сюда, Хребет скоро с тобой свяжется. Никуда из Бара не уходи, жди сообщения.</rus>
+		<eng>===Give the pictures to me, Spine will soon contact you.</eng>
+		<ukr>===Давай фото сюди, Хребет скоро з тобою зв'яжеться.</ukr>
+		<pln>===Zostaw zdjęcia tutaj, Grzbiet niedługo się z tobą połączy.</pln>
 	</string>
 	<string id="volna_foto_done_2">
 		<rus>Понял.</rus>
@@ -16811,8 +16811,8 @@
 	</string>
 	<!-- МЕТАЛЛОЛОМ -->
 	<string id="shurup_metall_start_0">
-		<rus>Так, а всё-таки чем ты тут занимаешься, кроме выдачи смертоубийственных заданий? Торговля и ремонт оружия лежат на Скряге, жратву готовит Повар, когда не пьян, что бывает очень редко, Макс отвечает за безопасность всей базы. А ты?</rus>
-		<ukr>Так, а все-таки чим ти тут займаєшся, крім видачі завдань для самогубців? Торгівля і ремонт зброї лежать на Скнарі, жратву готує Кухар, коли не п'яний, що буває дуже рідко, Макс відповідає за безпеку всієї бази. А ти?</ukr>
+		<rus>Так, а всё-таки чем ты тут занимаешься, кроме выдачи смертоубийственных заданий и редкого ремонта оружия? Торговля лежит на Скряге, жратву готовит Повар, когда не пьян, что бывает крайне редко, Макс отвечает за безопасность всей базы. А ты?</rus>
+		<ukr>===Так, а все-таки чим ти тут займаєшся, крім видачі завдань для самогубців? Торгівля і ремонт зброї лежать на Скнарі, жратву готує Кухар, коли не п'яний, що буває дуже рідко, Макс відповідає за безпеку всієї бази. А ти?</ukr>
 	</string>
 	<string id="shurup_metall_start_1">
 		<rus>Видел танк на входе? Лукаш поручил мне привести эту груду металлолома в божеский вид, чтоб она могла крутить башней и стрелять, снаряды-то у нас имеются - сохранились на одном из складов и в достаточном количестве. Не знаю, что здесь происходило во время отхода военных, но техника повреждена очень сильно, большая часть аппаратуры не работает, включая систему управления огнём танка. Я уже какую неделю пытаюсь починить её, даже "выпотрошил" другой танк, стоящий на дороге за пределами базы, да всё без толку, не хватает многих запчастей.</rus>

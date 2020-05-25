@@ -7,13 +7,53 @@
 		<fra>Réalisations</fra>
 		<pln>Osiągnięcia</pln>
 	</string>
+	<string id="acv_night">
+		<rus>Ночной охотник</rus>
+		<ukr>===Ночной охотник</ukr>
+	</string>
+	<string id="acv_night_desc">
+		<rus>Вы не боитесь ночных вылазок в Зону Отчуждения, и Ваши глаза давно привыкли к кромешной тьме. Вы научились обходиться в таких ситуациях без приборов ночного видения, довольствуясь скудным освещением луны, звёзд и налобного фонарика. Та сотня жертв, погибших от Ваших рук тёмной ночью на просторах Зоны, так и не поняла, откуда исходила угроза.</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="acv_grenade">
+		<rus>Гренадер</rus>
+		<ukr>===Гренадер</ukr>
+	</string>
+	<string id="acv_grenade_desc">
+		<rus>С помощью ручных гранат Вы умертвили уже 50 сталкеров. Возможно, не стоит разбрасываться гранатами направо-налево, ведь от осколков может пострадать невинный человек, который затаит на Вас обиду и в будущем попытается отомстить.</rus>
+		<ukr>===С помощью ручных гранат Вы умертвили уже 50 сталкеров. Возможно, не стоит разбрасываться гранатами направо-налево, ведь от осколков может пострадать невинный человек, который затаит на Вас обиду и в будущем попытается отомстить.</ukr>
+	</string>
+	<string id="acv_caps">
+		<rus>Траппер</rus>
+		<ukr>===Траппер</ukr>
+	</string>
+	<string id="acv_caps_desc">
+		<rus>Использование капсул аномалий как ловушек для убийства сотни врагов очень здравая идея, которая могла прийти на ум лишь изощрённому охотнику-трапперу. Ведь чтобы заманить столько недругов в порождаемые этими капсулами аномалии, Вам самому пришлось стать приманкой.</rus>
+		<ukr>===Использование капсул аномалий как ловушек для убийства сотни врагов очень здравая идея, которая могла прийти на ум лишь изощрённому охотнику-трапперу. Ведь чтобы заманить столько недругов в порождаемые этими капсулами аномалии, Вам самому пришлось стать приманкой.</ukr>
+	</string>
+	<string id="acv_upgrade">
+		<rus>Оружейник</rus>
+		<ukr>===Оружейник</ukr>
+	</string>
+	<string id="acv_upgrade_desc">
+		<rus>Апгрейд оружия у Долговязого - весьма затратное дело, требующее дополнительных ресурсов и времени. При этом вовсе необязательное: высококачественных, точных стволов в Зоне Отчуждения, включая самые современные модели, более чем достаточно. Тем не менее, находятся энтузиасты - настоящие фанаты стрельбы, которые постоянно модернизируют своё оружие. Вы только что превзошли их всех, достигнув отметки в 50 заказов на апгрейд, и Долговязый скромно полагает, что эта цифра не предел. Вы стали самым ценным для него клиентом.</rus>
+		<ukr>===Апгрейд оружия у Долговязого - весьма затратное дело, требующее дополнительных ресурсов и времени. При этом вовсе необязательное: высококачественных, точных стволов в Зоне Отчуждения, включая самые современные модели, более чем достаточно. Тем не менее, находятся энтузиасты - настоящие фанаты стрельбы, которые постоянно модернизируют своё оружие. Вы только что превзошли их всех, достигнув отметки в 50 заказов на апгрейд, и Долговязый скромно полагает, что эта цифра не предел. Вы стали самым ценным для него клиентом.</ukr>
+	</string>
+	<string id="acv_zombied">
+		<rus>Зомбицид</rus>
+		<ukr>===Зомбицид</ukr>
+	</string>
+	<string id="acv_zombied_desc">
+		<rus>Похоже, Вы решили заняться геноцидом зомбированных, так как ликвидировали уже 150 этих несчастных бедолаг. Может быть, не стоит так усердствовать? Когда в следующий раз поймаете в прицел очередного зомбированного сталкера, перед тем как нажать на спусковой крючок, вспомните, что когда-то это был живой и здравомыслящий человек.</rus>
+		<ukr>===Похоже, Вы решили заняться геноцидом зомбированных, так как ликвидировали уже 150 этих несчастных бедолаг. Может быть, не стоит так усердствовать? Когда в следующий раз поймаете в прицел очередного зомбированного сталкера, перед тем как нажать на спусковой крючок, вспомните, что когда-то это был живой и здравомыслящий человек.</ukr>
+	</string>
 	<string id="acv_instr">
 		<rus>Инструктор</rus>
 		<eng>===Инструктор</eng>
 		<ukr>Інструктор</ukr>
 	</string>
 	<string id="acv_instr_desc">
-		<rus>Вы каким-то образом умудрились поразить из пистолета/обреза 50 и более комаров и мелких чумных мух. Как вообще такое возможно? Может быть, Вы раньше были инструктором по практической стрельбе из пистолета и до сего момента скрывали это? Ну, тогда звание Инструктор вполне заслужено Вами.</rus>
+		<rus>Вы каким-то образом умудрились поразить из пистолета/обреза 50 и более комаров и мелких чумных мух. Как такое вообще возможно? Может быть, Вы раньше были инструктором по практической стрельбе из пистолета и до сего момента скрывали это? Ну, тогда звание Инструктор вполне заслужено Вами.</rus>
 		<eng>===Вы каким-то образом умудрились поразить из пистолета/обреза 50 и более комаров и мелких чумных мух. Как вообще такое возможно? Может быть, Вы раньше были инструктором по практической стрельбе из пистолета и до сего момента скрывали это? Ну, тогда звание Инструктор вполне заслужено Вами.</eng>
 		<ukr>Ви якимось чином примудрилися вразити з пістолета/обріза 50 і більше комарів і дрібних чумних мух. Як взагалі таке можливо? Можливо, Ви раніше були інструктором з практичної стрільби з пістолета і до цього моменту приховували це? Ну, тоді звання Інструктор цілком заслужено Вами.</ukr>
 	</string>
@@ -415,11 +455,11 @@
 		<pln>Marsjanin</pln>
 	</string>
 	<string id="acv_mars_desc">
-		<rus>Вы съели 40 батончиков "Mars". Попа не слипнется от такого количества сладкого?</rus>
-		<eng>===You've eaten 40 bars of "Mars".</eng>
-		<ukr>Ви з'їли 40 батончиків "Mars". Дупа не злипнеться від такої кількості солодкого?</ukr>
-		<fra>===Vous avez mangé 40 barres de Mars.</fra>
-		<pln>===Zjadłeś 40 batoników "Mars".</pln>
+		<rus>Вы съели 50 батончиков "Mars". Попа не слипнется от такого количества сладкого?</rus>
+		<eng>===You've eaten 50 bars of "Mars".</eng>
+		<ukr>Ви з'їли 50 батончиків "Mars". Дупа не злипнеться від такої кількості солодкого?</ukr>
+		<fra>===Vous avez mangé 50 barres de Mars.</fra>
+		<pln>===Zjadłeś 50 batoników "Mars".</pln>
 	</string>
 	<string id="acv_kulinar">
 		<rus>Кулинар</rus>
@@ -541,9 +581,9 @@
 		<pln>Mechanik</pln>
 	</string>
 	<string id="acv_rem_desc">
-		<rus>Вы отремонтировали у ремонтников более 50 единиц брони/оружия. Такое щепетильное отношение к своему снаряжению должно быть отмечено отдельным достижением.</rus>
+		<rus>Вы отремонтировали у ремонтников 50 единиц брони/оружия. Такое щепетильное отношение к своему снаряжению должно быть отмечено отдельным достижением.</rus>
 		<eng>===You have found and delivered the necessary tools to everyone who asked for it. With your help, all the masters of the Zone will be much better able to help stalkers survive among the many dangers surrounding them.</eng>
-		<ukr>Ви відремонтували у ремонтників більше 50 одиниць броні/зброї. Таке скрупульозне ставлення до свого спорядження повинне бути відзначене окремим досягненням.</ukr>
+		<ukr>Ви відремонтували у ремонтників 50 одиниць броні/зброї. Таке скрупульозне ставлення до свого спорядження повинне бути відзначене окремим досягненням.</ukr>
 		<fra>===Vous avez trouvé et fourni les outils nécessaires à tous ceux qui vous ont posé des questions à ce sujet. Avec votre aide, tous les maîtres de la zone seront beaucoup mieux à même d’aider les Stalkers à survivre parmi la multitude de dangers qui les entourent.</fra>
 		<pln>===Znalazłeś i dostarczyłeś niezbędne narzędzia wszystkim, którzy cię o to poprosili. Z twoją pomocą wszyscy mechanicy w Zonie znacznie lepiej będą mogli pomagać stalkerom pozostawać przy życiu wśród otaczających ich niebezpieczeństw.</pln>
 	</string>
@@ -1587,8 +1627,8 @@
 		<rus>Ван Хельсинг</rus>
 		<eng>Van Helsing</eng>
 		<ukr>Ван Хельсинг</ukr>
-		<fra>===Ван Хельсинг</fra>
-		<pln>===Ван Хельсинг</pln>
+		<fra>Van Helsing</fra>
+		<pln>Van Helsing</pln>
 	</string>
 	<string id="acv_gum_desc">
 		<rus>Убить более 50 кровососущих тварей холодным оружием - это заслуживает уважения! Теперь в сталкерской крови, разбавленной спиртом, будет больше красных кровяных телец!</rus>
@@ -1675,11 +1715,11 @@
 		<pln>Narkoman</pln>
 	</string>
 	<string id="acv_nar_desc">
-		<rus>Вам надо срочно сходить на УЗИ и проверить состояние печени. Ибо после съедания 20 упаковок сыворотки она уже не в состояния просить. Она только жалобно стонет.</rus>
-		<eng>You need to urgently go to the ultrasound and check the liver. For after eating 20 packs of the serum it is no longer able to beg you to stop. It's just groaning pleadingly.</eng>
-		<ukr>Вам треба терміново сходити на УЗД і перевірити стан печінки. Бо після з'їдання 20 упаковок сироватки вона вже не в стані просити. Вона тільки жалібно стогне.</ukr>
-		<fra>Vous devez de toute urgence passer à l'échographie et vérifier l'état du foie. Après avoir mangé 20 paquets de lactosérum, elle n'est plus en mesure de demander.Plus des gémissements que des plaintes.</fra>
-		<pln>Musisz pilnie zgłosić się do szpitala i sprawdzić stan wątroby. Ponieważ po zjedzeniu 20 opakowań surowicy ona już nie jest w stanie prosić. Ona już tylko żałośnie jęczy.</pln>
+		<rus>Вам надо срочно сходить на УЗИ и проверить состояние печени. Ибо после съедания 25 упаковок сыворотки она уже не в состояния просить. Она только жалобно стонет.</rus>
+		<eng>You need to urgently go to the ultrasound and check the liver. For after eating 25 packs of the serum it is no longer able to beg you to stop. It's just groaning pleadingly.</eng>
+		<ukr>Вам треба терміново сходити на УЗД і перевірити стан печінки. Бо після з'їдання 25 упаковок сироватки вона вже не в стані просити. Вона тільки жалібно стогне.</ukr>
+		<fra>Vous devez de toute urgence passer à l'échographie et vérifier l'état du foie. Après avoir mangé 25 paquets de lactosérum, elle n'est plus en mesure de demander.Plus des gémissements que des plaintes.</fra>
+		<pln>Musisz pilnie zgłosić się do szpitala i sprawdzić stan wątroby. Ponieważ po zjedzeniu 25 opakowań surowicy ona już nie jest w stanie prosić. Ona już tylko żałośnie jęczy.</pln>
 	</string>
 	<string id="acv_ynat">
 		<rus>Юный натуралист</rus>
@@ -1759,11 +1799,11 @@
 		<pln>Konserwatysta</pln>
 	</string>
 	<string id="acv_kons_desc">
-		<rus>Сожрать 40 банок консервов. Так ведь можно легко гастрит заработать. Не пробовали перейти на свежую еду? Если всё же съели консерву, не бросайте пустую банку под ноги, не надо мусорить в Зоне. Зона - она ведь живая и смотрит на Вас.</rus>
-		<eng>Eating 40 cans of food can easily cause gastritis. Did you not try to switch to fresh food? If you do eat canned food, do not throw empty cans on the ground, do not litter in the Zone. Cause the Zone is alive and watching you.</eng>
-		<ukr>Зжерти 40 банок консерви. Так же можна легко гастрит заробити. Не пробували перейти на свіжу їжу? Якщо все ж з'їли консерву, не кидайте порожню банку під ноги, не треба смітити у Зоні. Зона - адже вона жива і дивиться на Вас.</ukr>
-		<fra>===Gobble 40 en conserve. Ainsi, vous pouvez facilement gagner une gastrite. Avez-vous essayé de passer à des aliments frais? Si vous avez toujours consommé de la nourriture en conserve, ne jetez pas un bocal vide sous vos pieds, ne laissez pas de déchets dans la zone. La zone est en vie et vous regarde.</fra>
-		<pln>===Zjeść 40 konserw. Tak można łatwo nieżyt żołądka zarobić. Nie próbowałeś przejść na świeże jedzenie? Jeżeli jednak zjadłeś konserwę, nie rzucaj pustej puszki pod nogi, nie trzeba śmiecić w Zonie. Zona - jest przecież żywa i patrzy na ciebie.</pln>
+		<rus>Сожрать 50 банок консервов. Так ведь можно легко гастрит заработать. Не пробовали перейти на свежую еду? Если всё же съели консерву, не бросайте пустую банку под ноги, не надо мусорить в Зоне. Зона - она ведь живая и смотрит на Вас.</rus>
+		<eng>Eating 50 cans of food can easily cause gastritis. Did you not try to switch to fresh food? If you do eat canned food, do not throw empty cans on the ground, do not litter in the Zone. Cause the Zone is alive and watching you.</eng>
+		<ukr>Зжерти 50 банок консерви. Так же можна легко гастрит заробити. Не пробували перейти на свіжу їжу? Якщо все ж з'їли консерву, не кидайте порожню банку під ноги, не треба смітити у Зоні. Зона - адже вона жива і дивиться на Вас.</ukr>
+		<fra>===Gobble 50 en conserve. Ainsi, vous pouvez facilement gagner une gastrite. Avez-vous essayé de passer à des aliments frais? Si vous avez toujours consommé de la nourriture en conserve, ne jetez pas un bocal vide sous vos pieds, ne laissez pas de déchets dans la zone. La zone est en vie et vous regarde.</fra>
+		<pln>===Zjeść 50 konserw. Tak można łatwo nieżyt żołądka zarobić. Nie próbowałeś przejść na świeże jedzenie? Jeżeli jednak zjadłeś konserwę, nie rzucaj pustej puszki pod nogi, nie trzeba śmiecić w Zonie. Zona - jest przecież żywa i patrzy na ciebie.</pln>
 	</string>
 	<string id="acv_klb">
 		<rus>Колбасник</rus>
@@ -1773,11 +1813,11 @@
 		<pln>Kiełbasiarz</pln>
 	</string>
 	<string id="acv_klb_desc">
-		<rus>Вкусная колбаска? Из чего она сделана, лучше не знать. Чтобы съесть 40 палок колбасы неизвестного происхождения, надо обладать здоровьем псевдогиганта. Кстати, говорят, колбаса тоже из него.</rus>
-		<eng>Some delicious sausage? What it's made of is best left unknown. To eat 40 sausages of unknown origin, one must have the health of a pseudogiant. By the way, that sausage is said to be also made of one of these beasts.</eng>
-		<ukr>Смачна ковбаска? З чого вона зроблена, краще не знати. Щоб з'їсти 40 палиць ковбаси невідомого походження, треба володіти здоров'ям псевдогіганта. До речі, кажуть, ковбаса теж з нього.</ukr>
-		<fra>Délicieuse saucisse? De quoi il est fait, il vaut mieux ne pas savoir. Pour manger 40 bâtonnets de saucisse d'origine inconnue, il faut avoir la santé d'un pseudo géant. À propos, disent-ils, la saucisse en est aussi une.</fra>
-		<pln>Smaczna kiełbaska? Z czego ona jest zrobiona, lepiej nie wiedzieć. By zjeść 40 pęt kiełbasy nieznanego pochodzenia, trzeba posiadać zdrowie pseudogiganta. Przy okazji, mówią, że kiełbasa też z niego.</pln>
+		<rus>Вкусная колбаска? Из чего она сделана, лучше не знать. Чтобы съесть 50 палок колбасы неизвестного происхождения, надо обладать здоровьем псевдогиганта. Кстати, говорят, колбаса тоже из него.</rus>
+		<eng>Some delicious sausage? What it's made of is best left unknown. To eat 50 sausages of unknown origin, one must have the health of a pseudogiant. By the way, that sausage is said to be also made of one of these beasts.</eng>
+		<ukr>Смачна ковбаска? З чого вона зроблена, краще не знати. Щоб з'їсти 50 палиць ковбаси невідомого походження, треба володіти здоров'ям псевдогіганта. До речі, кажуть, ковбаса теж з нього.</ukr>
+		<fra>Délicieuse saucisse? De quoi il est fait, il vaut mieux ne pas savoir. Pour manger 50 bâtonnets de saucisse d'origine inconnue, il faut avoir la santé d'un pseudo géant. À propos, disent-ils, la saucisse en est aussi une.</fra>
+		<pln>Smaczna kiełbaska? Z czego ona jest zrobiona, lepiej nie wiedzieć. By zjeść 50 pęt kiełbasy nieznanego pochodzenia, trzeba posiadać zdrowie pseudogiganta. Przy okazji, mówią, że kiełbasa też z niego.</pln>
 	</string>
 	<string id="acv_bul">
 		<rus>Булочник</rus>
@@ -1787,11 +1827,11 @@
 		<pln>Piekarz</pln>
 	</string>
 	<string id="acv_bul_desc">
-		<rus>За 40 съеденных батонов хлеба все его производители должны занести Вас в список VIP-клиентов и выдавать как бонус кусок свежего масла.</rus>
-		<eng>For the 40 eaten loaves of bread all the bakers that made them must put your name on the list of VIP customers and give you a bonus piece of fresh butter.</eng>
-		<ukr>За з'їдених 40 батонів хліба всі його виробники повинні занести Вас у список VIP клієнтів і видавати як бонус шматок свіжого масла.</ukr>
-		<fra>Pour 40 miches de pain consommées, tous ses fabricants doivent vous inscrire sur la liste des clients VIP et vous fournir un morceau de beurre frais en prime.</fra>
-		<pln>Za zjedzone 40 bochenków chleba jego producent powinien wpisać cię na listę VIPów i wydawać jako premię kawałek świeżego masła.</pln>
+		<rus>За 50 съеденных батонов хлеба все его производители должны занести Вас в список VIP-клиентов и выдавать как бонус кусок свежего масла.</rus>
+		<eng>For the 50 eaten loaves of bread all the bakers that made them must put your name on the list of VIP customers and give you a bonus piece of fresh butter.</eng>
+		<ukr>За з'їдених 50 батонів хліба всі його виробники повинні занести Вас у список VIP клієнтів і видавати як бонус шматок свіжого масла.</ukr>
+		<fra>Pour 50 miches de pain consommées, tous ses fabricants doivent vous inscrire sur la liste des clients VIP et vous fournir un morceau de beurre frais en prime.</fra>
+		<pln>Za zjedzone 50 bochenków chleba jego producent powinien wpisać cię na listę VIPów i wydawać jako premię kawałek świeżego masła.</pln>
 	</string>
 	<string id="acv_mgvd">
 		<rus>Мозговед</rus>
