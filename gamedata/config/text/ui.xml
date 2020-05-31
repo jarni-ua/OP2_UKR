@@ -2498,6 +2498,20 @@
 		<fra>Afficher la ceinture d'Artéfact</fra>
 		<pln>Pokazuj panel artefaktów</pln>
 	</string>
+	<string id="ui_mm_qs_panel_visible">
+		<rus>Отображать панель быстрых слотов</rus>
+		<eng>Show Quick Slots panel</eng>
+		<ukr>Відображати панель швидких слотів</ukr>
+		<fra>===Afficher la ceinture d'Artéfact</fra>
+		<pln>===Pokazuj panel artefaktów</pln>
+	</string>
+	<string id="ui_mm_qsp_empty_visible">
+		<rus>Отображать на панели быстрых слотов пустые ячейки</rus>
+		<eng>Show empty slots on the Quick Slot panel</eng>
+		<ukr>Відображати на панелі швидких слотів порожні клітинки</ukr>
+		<fra>===Afficher la ceinture d'Artéfact</fra>
+		<pln>===Pokazuj panel artefaktów</pln>
+	</string>	
 	<!-- BEGIN Do not translate this! English for all languages -->
 	<string id="ui_mm_language_eng">
 		<rus>English [BETA]</rus>
@@ -2534,8 +2548,8 @@
 	</string>
 	<!-- END Do not translate this! English for all languages -->
 	<string id="ui_mm_huds_cap">
-		<rus>HUDs:</rus>
-		<pln>HUDy:</pln>
+		<rus>Скины:</rus>
+		<pln>===HUDy:</pln>
 	</string>	
 	<string id="ui_mm_crosshairs">
 		<rus>Вид перекрестья</rus>

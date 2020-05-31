@@ -2503,10 +2503,10 @@
 		<pln>Ej, pięknisiu! Tak, to do ciebie, Striełok... Nie poznałeś? Do sztabu nie masz co się spieszyć - i tak nie zdążysz. Czekam na ciebie w budynku naprzeciw sztabu, na pierwszym piętrze. O ile uda ci się tam dotrzeć. Buziaczki.</pln>
 	</string>
 	<string id="sms_zashita_vylozhit_oruzhie_sms_0">
-		<rus>Вы впервые пользуетесь порталом. В целях защиты выложите абсолютно всё оружие и обвесы, ручные телепорты и другие средства телепортации в сейф, который находится за вашей спиной. В противном случае система защиты удалит безвозвратно данную амуницию.</rus>
-		<eng>This is your first time using the portal. To protect yourself, put all your weapons and attachments, hand-held teleports and other means of transport in the safe that's behind you. Otherwise, the protection system will irrevocably remove these munitions.</eng>
-		<ukr>Ви вперше користуєтеся порталом. З метою захисту викладіть абсолютно всю зброю та навісне, ручні телепорти і інші засоби телепортації до сейфу, котрий знаходиться за вашою спиною. В іншому випадку система захисту видалить безповоротно дану амуніцію.</ukr>
-		<pln>Pierwszy raz używasz portalu. W celach bezpieczeństwa - odłóż do sejfu, za twoimi plecami, całą posiadaną automatyczną, snajperską i anomalną broń, a także broń półautomatyczną, wielkokalibrowe pistolety, celowniki optyczne, ręczne teleporty oraz inne środki teleportacji. W przeciwnym wypadku system bezpieczeństwa bezpowrotnie usunie wspomniane uzbrojenie.</pln>
+		<rus>Вы впервые пользуетесь порталом. В целях защиты выложите абсолютно всё в сейф, который находится за вашей спиной.</rus>
+		<eng>===This is your first time using the portal. To protect yourself, put all your weapons and attachments, hand-held teleports and other means of transport in the safe that's behind you. Otherwise, the protection system will irrevocably remove these munitions.</eng>
+		<ukr>===Ви вперше користуєтеся порталом. З метою захисту викладіть абсолютно всю зброю та навісне, ручні телепорти і інші засоби телепортації до сейфу, котрий знаходиться за вашою спиною. В іншому випадку система захисту видалить безповоротно дану амуніцію.</ukr>
+		<pln>===Pierwszy raz używasz portalu. W celach bezpieczeństwa - odłóż do sejfu, za twoimi plecami, całą posiadaną automatyczną, snajperską i anomalną broń, a także broń półautomatyczną, wielkokalibrowe pistolety, celowniki optyczne, ręczne teleporty oraz inne środki teleportacji. W przeciwnym wypadku system bezpieczeństwa bezpowrotnie usunie wspomniane uzbrojenie.</pln>
 	</string>
 	<string id="characters_voice_ozvuchka_molniy_zaxodi_0">
 		<rus>Эй, Стрелок! Не стесняйся, опусти оружие и заходи, я не кусаюсь. Только не надо подходить близко - я тебя и так неплохо вижу.</rus>
@@ -2873,6 +2873,12 @@
 		<eng>Bloody hell, it stinks in here!...</eng>
 		<ukr>Який сморід!...</ukr>
 		<pln>Ależ smród!...</pln>
+	</string>
+	<string id="sms_molniy_goodbye_looser_0">
+		<rus>Пока, неудачник! Больше не увидимся...</rus>
+		<eng>===Пока, неудачник! Больше не увидимся...</eng>
+		<ukr>===Пока, неудачник! Больше не увидимся...</ukr>
+		<pln>===Пока, неудачник! Больше не увидимся...</pln>
 	</string>
 	<string id="lukash_pechatka_proval">
 		<rus>Ваша легенда провалилась! Наёмники теперь знают, кто Вы на самом деле.</rus>

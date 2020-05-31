@@ -2318,6 +2318,33 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 		<ukr>Нема у мене ні горілки, ні капусти, пішов шукати...</ukr>
 		<pln>Nie mam ani wódki, ani kasy, pójdę szukać...</pln>
 	</string>
+
+	<!-- Диалог с бойцами Бражникова -->
+	<string id="daleko_sobralsya_0">
+		<rus>Далеко собрался, сталкер?</rus>
+		<eng>===Далеко собрался, сталкер?</eng>
+		<ukr>===Далеко собрался, сталкер?</ukr>
+		<pln>===Stalkerze! Stój, gdzie stoisz i bez głupot, żadnych gwałtownych ruchów!</pln>
+	</string>
+	<string id="daleko_sobralsya_1">
+		<rus>Да я просто растерялся малость, не понимаю ко тут у вас старший?</rus>
+		<eng>===Да я просто растерялся малость, не понимаю ко тут у вас старший?</eng>
+		<ukr>===Да я просто растерялся малость, не понимаю ко тут у вас старший?</ukr>
+		<pln>===Да я просто растерялся малость, не понимаю ко тут у вас старший?</pln>
+	</string>
+	<string id="daleko_sobralsya_2">
+		<rus>Не тупи, майор по центру стоит, с ним поговори.</rus>
+		<eng>===Не тупи, майор по центру стоит, с ним поговори.</eng>
+		<ukr>===Не тупи, майор по центру стоит, с ним поговори.</ukr>
+		<pln>===Не тупи, майор по центру стоит, с ним поговори.</pln>
+	</string>
+	<string id="daleko_sobralsya_3">
+		<rus>Понял, спасибо, боец.</rus>
+		<eng>===Понял, спасибо, боец.</eng>
+		<ukr>===Понял, спасибо, боец.</ukr>
+		<pln>===Понял, спасибо, боец.</pln>
+	</string>
+
 	<!-- Разборки с Кротом -->
 	<string id="krot_predyava_dialog_0">
 		<rus>Крот, тебе сразу башку открутить или поживёшь ещё немного?</rus>
@@ -4411,10 +4438,10 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 		<pln>===Skoro tak, to takiej szansy nie zlekceważę, wyciągaj długopis i kawałek papieru, lista będzie dluga. Z broni mamy "Wale" i "Grozy", kaliber 9x39mm, każdemu bojownikowi po trzy magazynki, myślę, że wystarczy, razem 480 naboi PAB-9, do "Grozy" będą też potrzebne WOGi, 20 sztuk powinno wystarczyć. Pancerze i broń trzeba doprowadzić do porządku, będą więc potrzebne zestawy remontowe po dziesięć sztuk do broni i pancerzy. No i oczywiście żarcie, głodny bojownik to nie bojownik, sam wiesz. Tuszonka, kiełbasa, chleb, woda w manierkach, z każdej pozycji po 20 sztuk.</pln>
 	</string>
 	<string id="savickiy_first_dialog_15">
-		<rus>Договорились, когда всё принесу, обсудим детали операции более подробно.</rus>
-		<eng>Agreed, we'll discuss the details of the operation in more detail when I return.</eng>
-		<ukr>Домовилися, коли все принесу, обговоримо деталі операції більш докладно.</ukr>
-		<pln>Jesteśmy umówieni, kiedy to wszystko wam przyniosę, omówimy dokładniej szczegóły operacji.</pln>
+		<rus>Договорились, когда всё принесу, обсудим детали операции более подробно. Но быстро не обещаю, список довольно большой, мне потребуется время, чтобы всё это собрать.</rus>
+		<eng>===Agreed, we'll discuss the details of the operation in more detail when I return.</eng>
+		<ukr>===Домовилися, коли все принесу, обговоримо деталі операції більш докладно.</ukr>
+		<pln>===Jesteśmy umówieni, kiedy to wszystko wam przyniosę, omówimy dokładniej szczegóły operacji.</pln>
 	</string>
 	<string id="savickiy_first_dialog_16">
 		<rus>Однако! Я ещё подумаю, может обойдёмся своими силами...</rus>
@@ -4425,10 +4452,10 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 
 <!-- Второй диалог с капитаном Савицким (когда принесли ему заказ) -->
 	<string id="savickiy_second_dialog_0">
-		<rus>Капитан, привет! Принёс я тебе всё, что ты просил.</rus>
-		<eng>Captain, hello! I brought you everything you asked for.</eng>
-		<ukr>Капітан, привіт! Приніс я тобі все, що ти просив.</ukr>
-		<pln>Witaj, kapitanie! Przyniosłem ci wszystko co chciałeś.</pln>
+		<rus>Капитан, привет! Принёс я тебе всё, что ты просил. Пришлось побегать изрядно, чтобы всё это собрать. Как вы тут, живы-здоровы?</rus>
+		<eng>===Captain, hello! I brought you everything you asked for.</eng>
+		<ukr>===Капітан, привіт! Приніс я тобі все, що ти просив.</ukr>
+		<pln>===Witaj, kapitanie! Przyniosłem ci wszystko co chciałeś.</pln>
 	</string>
 	<string id="savickiy_second_dialog_1">
 		<rus>Привет! Вот это дело! Спасибо огромное, сейчас раздам ребятам амуницию и продовольствие. Ты говорил, что у тебя есть план самой атаки базы? Наша роль какая в этом штурме? Мои бойцы имеют хорошую выучку и тактическую подготовку, ты говори что от нас нужно.</rus>

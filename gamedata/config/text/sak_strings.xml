@@ -7682,6 +7682,12 @@ Ta szwajcarska zabawka dobra była na odległość, ale od stada psów mogłem t
 		<ukr>Ігломет, який стріляє голками на кінці яких мікродатчики.</ukr>
 		<pln>Igłowiec strzelający igłami z zamontowanymi mikronadajnikami.</pln>
 	</string>
+	<string id="wpn_awm_m1_desc">
+		<rus>Игломёт, адаптированный для стрельбы отравленными дротиками.</rus>
+		<eng>===Needlegun, shooting needles with microsensors in the tip.</eng>
+		<ukr>===Ігломет, який стріляє голками на кінці яких мікродатчики.</ukr>
+		<pln>===Igłowiec strzelający igłami z zamontowanymi mikronadajnikami.</pln>
+	</string>
 	<string id="ammo_igl_new">
 		<rus>Особые иглы</rus>
 		<eng>Special needles</eng>
@@ -7851,9 +7857,9 @@ Ta szwajcarska zabawka dobra była na odległość, ale od stada psów mogłem t
 		<pln>%c[255,160,160,160]KONTROLA ANTYCZITOWA:\n%c[255,255,128,128]Ups! Stwierdzono nieautoryzowane zdobycie przedmiotu, czego nie wolno robić standardowymi środkami gry. Jeżeli zrobiłeś to przypadkowo i więcej już nie będziesz - po prostu wczytaj ostatni zapis.</pln>
 	</string>
 	<string id="acv_zone_text">
-		<rus>%c[255,160,160,160]АНТИЧИТ КОНТРОЛЬ:\n%c[255,255,128,128]Упс! Обнаружено проникновение в место, в которое в данный момент нельзя проникнуть стандартными средствами игры. Если Вы сделали это случайно и больше этого делать не будете - просто переиграйте c последнего сейва.</rus>
-		<eng>%c[255,160,160,160]ANTICHEAT SYSTEM:\n%c[255,255,128,128]Oops! Transition to a place that cannot be reached using standard means provided at the moment by the game, has been detected. If you have done this by accident and you don't do that again - just replay from the last save.</eng>
-		<ukr>%c[255,160,160,160]АНТИЧІТ КОНТРОЛЬ:\n%c[255,255,128,128]Упс! Виявлено проникнення у місце, в яке на даний момент не можна проникнути стандартними засобами гри. Якщо Ви зробили це випадково і більше цього робити не будете - просто переграйте c останнього сейва.</ukr>
-		<pln>%c[255,160,160,160]KONTROLA ANTYCZITOWA:\n%c[255,255,128,128]Ups! Stwierdzono twoją obecność w miejscu, do którego w danym momencie nie mogłeś przeniknąć standardowymi środkami gry. Jeżeli zrobiłeś to przypadkowo i więcej już tego nie zrobisz - po prostu wczytaj ostatni zapis.</pln>
+		<rus>%c[255,160,160,160]АНТИЧИТ КОНТРОЛЬ:\n%c[255,255,128,128]Упс! Обнаружено проникновение в место, в котором в данный момент игры Вам нечего делать. Если Вы сделали это случайно и больше этого делать не будете - просто переиграйте c последнего сейва.</rus>
+		<eng>===%c[255,160,160,160]ANTICHEAT SYSTEM:\n%c[255,255,128,128]Oops! Transition to a place that cannot be reached using standard means provided at the moment by the game, has been detected. If you have done this by accident and you don't do that again - just replay from the last save.</eng>
+		<ukr>===%c[255,160,160,160]АНТИЧІТ КОНТРОЛЬ:\n%c[255,255,128,128]Упс! Виявлено проникнення у місце, в яке на даний момент не можна проникнути стандартними засобами гри. Якщо Ви зробили це випадково і більше цього робити не будете - просто переграйте c останнього сейва.</ukr>
+		<pln>===%c[255,160,160,160]KONTROLA ANTYCZITOWA:\n%c[255,255,128,128]Ups! Stwierdzono twoją obecność w miejscu, do którego w danym momencie nie mogłeś przeniknąć standardowymi środkami gry. Jeżeli zrobiłeś to przypadkowo i więcej już tego nie zrobisz - po prostu wczytaj ostatni zapis.</pln>
 	</string>
 </string_table>
