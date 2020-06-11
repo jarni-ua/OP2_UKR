@@ -246,9 +246,9 @@
 		<pln>===No, i jak?</pln>
 	</string>
 	<string id="ugrum_perexod_5">
-		<rus>Обменяю, если договоримся... Мне вот, что надо. Средство есть новое от зомбирования - антидот, а я хочу до Радара добраться. В Ржавом лесу, поговаривают, встречаются редкие и дорогие артефакты, но и контролёров там водится немало. При встрече с ними антидот был бы очень кстати.</rus>
+		<rus>Обменяю, если договоримся... Мне вот, что надо. Средство есть новое от зомбирования - антизомбин, а я хочу до Радара добраться. В Ржавом лесу, поговаривают, встречаются редкие и дорогие артефакты, но и контролёров там водится немало. При встрече с ними антизомбин был бы очень кстати.</rus>
 		<eng>===That Monolithian guy put in an order for a media player for meditation... I have a player, but what I need is... Well, there's a new medication that prevents brainwashing. Because I still want to get to Pripyat once again - it would be very useful. Oh, yes, I see you have some in your backpack... Would you part with it? I'll give you the information about the transition - from the Chernobyl NPP-2 to the New Territory. I hardly go there myself but it may come in handy for you. What do you say? </eng>
-		<ukr>Обміняю, якщо домовимося... Мені ось що треба. Засіб є новий від зомбування - антидот, а я хочу до Радара дістатися. У Іржавому лісі, подейкують, зустрічаються рідкісні і дорогі артефакти, але і контролерів там водиться чимало. При зустрічі з ними антидот був би дуже доречним.</ukr>
+		<ukr>Обміняю, якщо домовимося... Мені ось що треба. Засіб є новий від зомбування - антизомбин, а я хочу до Радара дістатися. У Іржавому лісі, подейкують, зустрічаються рідкісні і дорогі артефакти, але і контролерів там водиться чимало. При зустрічі з ними антизомбин був би дуже доречним.</ukr>
 		<pln>===Ten monolitowiec zamówił u mnie odtwarzacz, dla ichniejszych modlitw... Odtwarzacz to ja mam, ale jeszcze coś mi jest potrzebne... Jest nowy środek przeciwko zombifikacji, a ja jeszcze raz chcę do Prypeci dotrzeć - dobrze byłoby go mieć. Poszukasz dla mnie? Popytaj handlarzy... Ja ci dam informację o przejściu z CEA-2 na nowe terytorium. Mnie samemu na cholerę, a tobie - może się przydać. Zgoda?</pln>
 	</string>
 	<string id="ugrum_perexod_6">
@@ -905,7 +905,7 @@
 		<pln>E... jedno rozbiłeś!!! Do cholery... Gdzie cię nosiło, trzeba uważać... A do diabła z nim, i tak do rozbicia... Trzymaj dobry karabin, przyda ci się.</pln>
 	</string>
 
-	<!-- Akill поправил диалог на лекарство -->
+
 	<string id="arhara_omlet_akim_0">
 		<rus>Аким, привет. Ты, говорят, знаешь, где яйца достать можно...</rus>
 		<eng>Akim, hello. I've been told you know where you I get some eggs...</eng>
@@ -925,28 +925,28 @@
 		<pln>Jak to nie? W ogóle? A jak one to... A idź żesz ty, cholera, mnie potrzebne wronie ... Ptaki takie są...</pln>
 	</string>
 	<string id="arhara_omlet_akim_3">
-		<rus>Да, сейчас у ворон самое время нереста... ну, или как там у них называется... Знаю местечко одно, но за инфу ты чуток на меня поработаешь. Заказали мне лекарство для важного человека - одного из лидеров здешнего криминального клана... Простатит у него, по малой нужде сходить не может, хоть и хочет... Бандит не бандит, а человек всё же, да и болеет.</rus>
-		<eng>Yes, now is the time when the crows spawn... well, or whatever they call it... I know of a place, but you'll have to do some work for me for the information. I received an order for some medication for an important person - one of the leaders of a local criminal clan... He has prostatitis, he needs to pee but can only do so in small amounts, he wants to satisfy his needs, but can't... Even though this bandit is a thug, he's still a sick human being.</eng>
-		<ukr>Так, зараз у ворон саме час нересту... ну, чи як там у них це називається... Знаю містечко одне, але за інфу ти трішки на мене попрацюєш. Замовили мені ліки для важливої людини - одного з лідерів тутешнього кримінального клану... Простатит у нього, по малій потребі сходити не може, хоч і хоче... Бандит не бандит, а людина все ж, та й хворіє...</ukr>
-		<pln>Tak, teraz u wron właśnie czas godów... No, czy jak tam u nich się to nazywa... Znam jedno miejsce, ale za informację trochę dla mnie popracujesz. Zamówili u mnie lekarstwo dla ważnego człowieka - jednego z liderów tutejszego światka przestępczego... Prostatę ma, za małą potrzebą iść nie może, chociaż chce... Bandyta nie bandyta, jak by nie było człowiek, i to jeszcze chory.</pln>
+		<rus>Да, сейчас у ворон самое время нереста... ну, или как там у них называется... Знаю местечко одно, но за инфу ты чуток на меня поработаешь. Вчера вечером заявилась ко мне четвёрка бойцов из карательного батальона "Барс" - все в чёрных бронеразгрузках, на голове чёрные шлемаки, морды наглые. Они поставили перед выбором: либо с этого момента я каждую неделю "отстёгиваю" им 25% от доходов с торговли, либо они повесят меня за яйца на ближайшем дереве. Их отправили для усиления южного блокпоста, и теперь типа вся торговая деятельность на Кордоне будет под ними. Не, ну ты прикинь, четверть своих доходов отдавать этим недоноскам - ага, нашли дурака! Конечно же, ничего платить я не собираюсь, но нужно проучить наглецов, чтоб другим повадно не было.</rus>
+		<eng>===Yes, now is the time when the crows spawn... well, or whatever they call it... I know of a place, but you'll have to do some work for me for the information. I received an order for some medication for an important person - one of the leaders of a local criminal clan... He has prostatitis, he needs to pee but can only do so in small amounts, he wants to satisfy his needs, but can't... Even though this bandit is a thug, he's still a sick human being.</eng>
+		<ukr>===Так, зараз у ворон саме час нересту... ну, чи як там у них це називається... Знаю містечко одне, але за інфу ти трішки на мене попрацюєш. Замовили мені ліки для важливої людини - одного з лідерів тутешнього кримінального клану... Простатит у нього, по малій потребі сходити не може, хоч і хоче... Бандит не бандит, а людина все ж, та й хворіє...</ukr>
+		<pln>===Tak, teraz u wron właśnie czas godów... No, czy jak tam u nich się to nazywa... Znam jedno miejsce, ale za informację trochę dla mnie popracujesz. Zamówili u mnie lekarstwo dla ważnego człowieka - jednego z liderów tutejszego światka przestępczego... Prostatę ma, za małą potrzebą iść nie może, chociaż chce... Bandyta nie bandyta, jak by nie było człowiek, i to jeszcze chory.</pln>
 	</string>
 	<string id="arhara_omlet_akim_4">
-		<rus>И где искать лекарство?</rus>
-		<eng>And where do I find this medicine?</eng>
-		<ukr>І де шукати ліки?</ukr>
-		<pln>I gdzie szukać tego lekarstwa?</pln>
+		<rus>И что же ты задумал?</rus>
+		<eng>===And where do I find this medicine?</eng>
+		<ukr>===І де шукати ліки?</ukr>
+		<pln>===I gdzie szukać tego lekarstwa?</pln>
 	</string>
 	<string id="arhara_omlet_akim_5">
-		<rus>Говорят, несколько пузырьков этого снадобья есть у вояк на блокпосту Кордона. Видать, солдафонов иногда тоже прихватывает. Мне нужно всего три. Найдёшь больше - можешь и свой простатит подлечить, если есть, если нет - так будет...</rus>
-		<eng>It's said that there are several bottles of this drug among the warriors at the Cordon roadblock. I seems like the soldiers get afflicted with it as well. I need only three. If you find more, you can treat your own prostatitis, if you have it, if not, so be it...</eng>
-		<ukr>Кажуть, кілька пляшечок цього зілля є у вояк на блокпосту Кордону. Напевно, солдафонів іноді теж ловить. Мені потрібні всього три. Знайдеш більше - можеш і свій простатит підлікувати, якщо є, якщо ні - так буде...</ukr>
-		<pln>Mówią, że kilka buteleczek tego specyfiku jest na wojskowym posterunku na Kordonie. Widać, żołnierzyków też czasem przyciśnie... Mnie trzeba wszystkiego trzy buteleczki. Znajdziesz więcej - możesz i swoją prostatę podleczyć, jeśli masz, jeśli nie - no cóż, będziesz miał...</pln>
+		<rus>Убивать мы их не станем - вместо них попросту пришлют других отморозков, но сделаем так, что эти твари пару недель будут мучиться в военном госпитале. Есть у меня арбалет и болты, наконечники которых смазаны ядом самок арахнидов - Крест подогнал для одного клиента, но тот ещё не успел забрать товар. Ядрёная зараза, вызывает сильные боли во всём теле на длительное время, но не смертельна для таких крепких мужиков. Тебе лишь нужно попасть в каждого карателя один раз из арбалета, дальше яд всё сделает сам. Старайся стрелять по ногам, чтоб случайно не угрохать никого из них, они не достойны такой лёгкой смерти, учитывая все их зверства, совершённые в Зоне... Арбалет потом верни, клиенту он ещё понадобится.</rus>
+		<eng>===It's said that there are several bottles of this drug among the warriors at the Cordon roadblock. I seems like the soldiers get afflicted with it as well. I need only three. If you find more, you can treat your own prostatitis, if you have it, if not, so be it...</eng>
+		<ukr>===Кажуть, кілька пляшечок цього зілля є у вояк на блокпосту Кордону. Напевно, солдафонів іноді теж ловить. Мені потрібні всього три. Знайдеш більше - можеш і свій простатит підлікувати, якщо є, якщо ні - так буде...</ukr>
+		<pln>===Mówią, że kilka buteleczek tego specyfiku jest na wojskowym posterunku na Kordonie. Widać, żołnierzyków też czasem przyciśnie... Mnie trzeba wszystkiego trzy buteleczki. Znajdziesz więcej - możesz i swoją prostatę podleczyć, jeśli masz, jeśli nie - no cóż, będziesz miał...</pln>
 	</string>
 	<string id="arhara_omlet_akim_6">
-		<rus>Мда... Спасибо за прогноз. Сейчас сбегаю туда, попрошу по-доброму, как я умею.</rus>
-		<eng>Hmm... Thanks for the prognosis. Now I'll go there and ask them nicely, if I can have some.</eng>
-		<ukr>Мда... Спасибі за прогноз. Зараз збігаю туди, попрошу по-доброму, як умію.</ukr>
-		<pln>Taa... Dziękuję za prognozę. Zaraz tam pójdę, poproszę najgrzeczniej, jak umiem.</pln>
+		<rus>Мда... Вот ведь, блин, задачка!</rus>
+		<eng>Hmm... Oh, shit, that's going to be a problem!</eng>
+		<ukr>Мда... От же ж блін, задачка!</ukr>
+		<pln>Taa... To ci dopiero zadanie!</pln>
 	</string>
 	<string id="arhara_omlet_akim_7">
 		<rus>Лезть на охраняемый блокпост? Да я лучше от простатита умру, чем вояки оторвут мне то, что я должен повару принести.</rus>
@@ -954,19 +954,18 @@
 		<ukr>Лізти на охоронюваний блокпост? Та я краще від простатиту помру, ніж вояки відірвуть мені те, що я повинен кухареві принести.</ukr>
 		<pln>Pchać się na posterunek wojskowy? To ja już wolę umrzeć na prostatę, zanim wojskowi urwą mi to, co mam kucharzowi przynieść.</pln>
 	</string>
-	<!-- Akill end -->
 
 	<string id="arhara_lekar_akim_0">
-		<rus>Ну, Аким, принёс я лекарство. Понюхал - воняет жутко, им только копыта кабана натирать, да и тот от вони сдохнет.</rus>
-		<eng>Well, Akim, I brought you the medicine. I took a sniff - it smells putrid, if you only rubbed the hooves of a boar with this stuff, it would probably die from the stench.</eng>
-		<ukr>Ну, Яким, приніс я ліки. Понюхав - смердить жахливо, ними тільки копита кабана натирати, та й той від смороду здохне.</ukr>
-		<pln>No, Akim, przyniosłem lekarstwo. Powąchałem - śmierdzi strasznie, że tylko nim kopyta dzika nacierać, a od samej woni zdechnie.</pln>
+		<rus>Ну, Аким, карателей настигла твоя кара! Валяются сейчас на блокпосту, стонут от боли.</rus>
+		<eng>===Well, Akim, I brought you the medicine. I took a sniff - it smells putrid, if you only rubbed the hooves of a boar with this stuff, it would probably die from the stench.</eng>
+		<ukr>===Ну, Яким, приніс я ліки. Понюхав - смердить жахливо, ними тільки копита кабана натирати, та й той від смороду здохне.</ukr>
+		<pln>===No, Akim, przyniosłem lekarstwo. Powąchałem - śmierdzi strasznie, że tylko nim kopyta dzika nacierać, a od samej woni zdechnie.</pln>
 	</string>
 	<string id="arhara_lekar_akim_1">
-		<rus>Э... Да его пить надо по чайной ложке. Но это уже не твоя забота. Воняет, говоришь, а себе-то, наверное, пару пузырей оставил.</rus>
-		<eng>Uh... Yes, it's necessary to drink it by the teaspoon. But this is not your concern. It stinks, you say, but you probably kept a couple of bottles for yourself.</eng>
-		<ukr>Е... Та його пити треба по чайній ложці. Але це вже не твоя турбота. Смердить, кажеш, а собі-то, напевно, пару пляшечок залишив.</ukr>
-		<pln>E... Tylko że to się pije po łyżeczce... Ale to już nie twoje zmartwienie. Śmierdzi, mówisz, ale sobie, na pewno, parę buteleczek zostawiłeś.</pln>
+		<rus>Кесарю кесарево, как говорится! Я тебе даже небольшой презент приготовил за спасение моей репутации.</rus>
+		<eng>===Uh... Yes, it's necessary to drink it by the teaspoon. But this is not your concern. It stinks, you say, but you probably kept a couple of bottles for yourself.</eng>
+		<ukr>===Е... Та його пити треба по чайній ложці. Але це вже не твоя турбота. Смердить, кажеш, а собі-то, напевно, пару пляшечок залишив.</ukr>
+		<pln>===E... Tylko że to się pije po łyżeczce... Ale to już nie twoje zmartwienie. Śmierdzi, mówisz, ale sobie, na pewno, parę buteleczek zostawiłeś.</pln>
 	</string>
 	<string id="arhara_lekar_akim_2">
 		<rus>Ты вот что - скажи, где эти чёртовы, то есть вороньи яйца взять?</rus>

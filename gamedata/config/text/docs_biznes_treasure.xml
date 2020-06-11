@@ -283,10 +283,10 @@
 		<pln>W rozkazie, znalezionym przy dowódcy drugiego plutonu, mówi się o zbieraniu informacji. Dlatego dowódca miał wysłać zwiadowcę. Trzeba go znaleźć i usunąć. Myślę, że najlepiej jest obserwować okolicę z czegoś wysokiego, a takich miejsc na Bagnach jest niewiele.\n \n \n \n \n</pln>
 	</string>
 	<string id="new_gravikostum">
-		<rus>Увидев гравикостюм, Василий рассказал, что в записях бывшего техника ЧН Новикова есть информация о том, где спрятаны чертежи дальнейшей модификации костюма с помощью редкого артефакта "Перо". Вася предложил мне приложить усилия к поиску данных артов и чертежей. Сами чертежи должны храниться в заброшенной лаборатории под городом Курчатов-37, а значит мне снова придётся спуститься в Х-14. Артов "Перо" нужно хотя бы 6 штук, а также "Панцирь" для уплотнения брони и 50 тысяч за работу.</rus>
-		<eng>When Vasiliy saw the gravity suit, he said that the records of Clear Sky's former technician Novikov have information about the location of plans and schematics for further modification of the suit. According to him, I'll need the help of a "Feather" artifact. He suggested that I search for these schematics in an abandoned laboratory near the city of Kurchatov-37, which means I'll have to visit X-14 again. I need at least 6 "Feather" artifacts, as well as a "Shell" to seal the armor, plus 50 thousand for the work itself.</eng>
-		<ukr>Побачивши гравікостюм, Василь розповів, що в записах колишнього техніка ЧН Новікова є інформація про те, де заховані креслення подальшої модифікації костюма за допомогою рідкісного артефакту "Перо". Вася запропонував мені докласти зусиль для пошуку даних артів і креслень. Самі креслення повинні зберігатися у покинутій лабораторії під містом Курчатов-37, а значить мені знову доведеться спуститися в Х-14. Артів "Перо" потрібно хоча б 6 штук, а також "Панцир" для ущільнення броні і 50 тисяч за роботу.</ukr>
-		<pln>Zobaczywszy kombinezon grawitacyjny, Wasyli stwierdził, że w notatkach byłego technika Czystego Nieba Nowikowa są informacje o tym, gdzie schowano schematy dalszej jego modyfikacji  przy pomocy rzadkiego artefaktu "Pióro". Wasia zaproponował mi przystąpienie do poszukiwań danych artów i schematów. Same schematy powinny znajdować się w opuszczonym laboratorium pod miasteczkiem Kurczatow-37, a to znaczy mi znów muszę zejść do X-14. Potrzeba przynajmniej sześć artefaktów "Pióro", a także "Pancerz" dla wzmocnienia kombinezonu i 50 tysięcy za robociznę.</pln>
+		<rus>Увидев гравикостюм, Василий рассказал, что в записях бывшего техника ЧН Новикова есть информация о том, где спрятаны чертежи дальнейшей модификации костюма с помощью редкого артефакта "Перо". Вася предложил мне приложить усилия к поиску данных артов и чертежей. Сами чертежи должны храниться в заброшенной лаборатории под городом Курчатов-37. Артов "Перо" нужно хотя бы 6 штук, а также "Панцирь" для уплотнения брони и 50 тысяч за работу.</rus>
+		<eng>When Vasiliy saw the gravity suit, he said that the records of Clear Sky's former technician Novikov have information about the location of plans and schematics for further modification of the suit. According to him, I'll need the help of a "Feather" artifact. He suggested that I search for these schematics in an abandoned laboratory near the city of Kurchatov-37. I need at least 6 "Feather" artifacts, as well as a "Shell" to seal the armor, plus 50 thousand for the work itself.</eng>
+		<ukr>Побачивши гравікостюм, Василь розповів, що в записах колишнього техніка ЧН Новікова є інформація про те, де заховані креслення подальшої модифікації костюма за допомогою рідкісного артефакту "Перо". Вася запропонував мені докласти зусиль для пошуку даних артів і креслень. Самі креслення повинні зберігатися у покинутій лабораторії під містом Курчатов-37. Артів "Перо" потрібно хоча б 6 штук, а також "Панцир" для ущільнення броні і 50 тисяч за роботу.</ukr>
+		<pln>Zobaczywszy kombinezon grawitacyjny, Wasyli stwierdził, że w notatkach byłego technika Czystego Nieba Nowikowa są informacje o tym, gdzie schowano schematy dalszej jego modyfikacji  przy pomocy rzadkiego artefaktu "Pióro". Wasia zaproponował mi przystąpienie do poszukiwań danych artów i schematów. Same schematy powinny znajdować się w opuszczonym laboratorium pod miasteczkiem Kurczatow-37. Potrzeba przynajmniej sześć artefaktów "Pióro", a także "Pancerz" dla wzmocnienia kombinezonu i 50 tysięcy za robociznę.</pln>
 	</string>
 	<string id="new_radios">
 		<rus>Генерал Воронин рассказал о том, что после одного из Выбросов у Долга вышли из строя все рации. Мне поручено найти новые - нужно восемь штук. Вполне вероятно, Адреналин поможет в решении сложившейся ситуации.</rus>
@@ -409,38 +409,34 @@
 		<pln>Dowiedziawszy się o tym, co znalazłem w schowku Monolitu, Dragunow bardzo się speszył - on jawnie miał nadzieję znaleźć tam coś innego. Znaczy się, wiedział wcześniej, co powinno było leżeć wewnątrz? Czegoś ten chłopak mi nie mówi... Ale tym niemniej moja znajdźka naprowadziła go na pewien pomysł. Poprosił mnie, żebym zlikwidował dynamiczną "Elektrę" na kole Diabelskiego Młyna przy pomocy "Czarnej Dziury":\nProces działania "Elektry" wygląda następująco: anomalia składa się z dwudziestu części składowych, z których dwie pojawiają się i znikają synchronicznie na przeciwległych sobie kabinkach koła. Wszystkie te mini-anomalie są powiązane między sobą. Jeśli rozerwać ten niewidoczny łańcuch, to podobnie jak w przewodzie elektrycznym pojawi się przerwa, tak i "Elektra" powinna się "zatrzymać". Ale mi się wydaje, że pochłonięcie przez artefakt jednej mini-"Elektry" nie wystarczy - trzeba unicestwić przynajmniej sześć sztuk.</pln>
 	</string>
 	<string id="fotograf_pobeg">
-		<rus>Я встретил Фотографа на Неразведанной Земле. Ему срочно нужны деньги, поэтому он подался в Зону. У него есть один из артефактов из списка Драгунова. Если я помогу ему, он готов отдать мне его. Вот что необходимо собрать:\n \n
-			150 тысяч рублей\n
+		<rus>На Неразведанной Земле я встретил Фотографа, ещё одного глупца, подавшегося в Зону ради самоутверждения, но у него есть один из артефактов из списка Драгунова. Если я соберу для него кое-какие арты взамен, то он готов отдать мне его. Вот что необходимо собрать:\n \n
 			Артефакт "Чёрный ангел"\n
 			Артефакт "Серафим"\n
 			Артефакт "Звезда фантома"\n
 			Простой детектор артефактов\n
 			Дозиметр\n
-			К тому же, чтобы вывезти всё своё барахло, нужно 5 рюкзаков.\n \nP.S. Поговорить с Кузнецовым о вертолёте.</rus>
-		<eng>I met the Photographer in the Unexplored Area. He urgently needed money, so he moved to the Zone. He has one of the artifacts from the list Dragunov wants. If I help him, he'll give it to me. Here is what I need to collect:\n \n
-			150 thousand rubles\n
+			3 рюкзака\n \nP.S. Поговорить с Кузнецовым о вертолёте.</rus>
+		<eng>===I met the Photographer in the Unexplored Area. He urgently needed money, so he moved to the Zone. He has one of the artifacts from the list Dragunov wants. If I help him, he'll give it to me. Here is what I need to collect:\n \n
 			"Black Angel"\n
 			"Seraph"\n
 			"Phantom Star"\n
 			Simple artifact detector\n
 			Dosimeter\n
-			5 backpacks.\n \nP.S. Talk with Kuznetsov about the helicopter.</eng>
-		<ukr>Я зустрів Фотографа на Нерозвіданій Землі. Йому терміново потрібні гроші, тому він подався у Зону. У нього є один з артефактів зі списку Драгунова. Якщо я допоможу йому, він готовий віддати мені його. Ось що необхідно зібрати:\n \n
-			 * 150 тисяч гривень\n
+			3 backpacks.\n \nP.S. Talk with Kuznetsov about the helicopter.</eng>
+		<ukr>===Я зустрів Фотографа на Нерозвіданій Землі. Йому терміново потрібні гроші, тому він подався у Зону. У нього є один з артефактів зі списку Драгунова. Якщо я допоможу йому, він готовий віддати мені його. Ось що необхідно зібрати:\n \n
 			 * Артефакт "Чорний ангел"\n
 			 * Артефакт "Серафим"\n
 			 * Артефакт "Зірка фантома"\n
 			 * Простий детектор артефактів\n
 			 * Дозиметр\n
-			До того ж, щоб вивезти все своє барахло, йому потрібно 5 рюкзаків.\n \nP.S. Поговорити з Кузнєцовим про вертоліт.</ukr>
-		<pln>Spotkałem Fotografa na Niezbadanym Terytorium. Pilnie potrzebuje pieniędzy, dlatego wybrał się do Zony. Ma jeden z artefaktów ze spisu Dragunowa. Jeżeli mu pomogę, jest gotowy mi go dać. Oto czego potrzebuje:\n \n
-			150 tysięcy rubli\n
+			До того ж, щоб вивезти все своє барахло, йому потрібно 3 рюкзаків.\n \nP.S. Поговорити з Кузнєцовим про вертоліт.</ukr>
+		<pln>===Spotkałem Fotografa na Niezbadanym Terytorium. Pilnie potrzebuje pieniędzy, dlatego wybrał się do Zony. Ma jeden z artefaktów ze spisu Dragunowa. Jeżeli mu pomogę, jest gotowy mi go dać. Oto czego potrzebuje:\n \n
 			Artefakt "Czarny Anioł"\n
 			Artefakt "Serafim"\n
 			Artefakt "Gwiazda Fantoma"\n
             Zwykły detektor artefaktów\n
             Dozymetr\n
-			Ponadto, by wywieźć wszystkie swoje rzeczy, trzeba mu 5 plecaków.\n \nP.S. Pomówić z Kuźniecowem o helikopterze.</pln>
+			Ponadto, by wywieźć wszystkie swoje rzeczy, trzeba mu 3 plecaków.\n \nP.S. Pomówić z Kuźniecowem o helikopterze.</pln>
 	</string>
 	<string id="fotograf_pobeg_add">
 		<rus>\nP.P.S. Не забыть найти арт "Младший брат Гиганта" для пилотов вертолёта и отдать его Фотографу.</rus>
@@ -455,10 +451,10 @@
 		<pln>Fotograf opowiedział, mi że widział, jak jeden z miejscowych mścicieli znalazł artefakt z listy Dragunowa. Pozostaje tylko znaleźć tego mściciela i odebrać mu artefakt.</pln>
 	</string>
 	<string id="kuznec_dogovor">
-		<rus>Кузнецов сказал, что сможет договориться о предоставлении вертолёта, но не за просто так. Нужно найти пистолет Walther P.38 времён Второй Мировой войны в хорошем состоянии для начальника, выдающего разрешения на вылеты в Зону.\nНу и снова придётся поработать на военных, как же без этого. Последние разведданные говорят о том, что у Монолита появилось химическое оружие. Мне необходимо пробраться в Бункер Управления, чтобы проверить эту информацию. Если факт существования хим.оружия подтвердится, то нужно забрать с собой все образцы и ни в коем случае не допустить их подрыва.</rus>
-		<eng>Kuznetsov said that he would agree to provide a helicopter, but not for nothing. I need to find a Walther P.38 pistol from the Second World War. It needs to be in good condition, as it's for the Chief that issues permits for entrance into the Zone.\nWell, again I need to work with the military. Recent intelligence suggests that the Monolith have chemical weapons. I need to get into the Control Bunker to confirm this information. If the existence of these chemical weapons is factual, then I need to take samples of them with me, to prevent them from undermining the other factions in the Zone.</eng>
-		<ukr>Кузнецов сказав, що зможе домовитися про надання вертольота, але не за просто так. Потрібно знайти пістолет Walther P.38 часів Другої Світової війни в хорошому стані для начальника, який видає дозволи на вильоти в Зону.\nНу і знову доведеться попрацювати на військових, як же без цього. Останні дані розвідки говорять про те, що у Моноліта з'явилася хімічна зброя. Мені необхідно пробратися в Бункер Управління, щоб перевірити цю інформацію. Якщо факт існування хім.зброї підтвердиться, то потрібно забрати з собою всі зразки і ні в якому разі не допустити їхнього підриву.</ukr>
-		<pln>Kuźniecow powiedział, że będzie mógł załatwić helikopter, ale nie za darmo. Trzeba znaleźć pistolet Walther P.38, z czasów II wojny światowej, w dobrym stanie, dla dowódcy wydającego pozwolenia na wyloty w Zonę.\nNo i znów przyjdzie mi tyrać na wojskowych, jakże inaczej. Ostatnie dane wywiadu mówią o tym, że u Monolitu pojawiła się broń chemiczna. Muszę przedostać się do Bunkra Sterowania, żeby sprawdzić tę informację. Jeśli fakt istnienia broni chemicznej się potwierdzi, to trzeba zabrać z sobą wszystkie próbki i w żadnym wypadku nie dopuścić do ich wysadzenia.</pln>
+		<rus>Кузнецов сказал, что сможет договориться о предоставлении вертолёта, но не за просто так. Нужно найти наградной пистолет Walther P.38 времён Второй Мировой войны в хорошем состоянии для начальника, выдающего разрешения на вылеты в Зону.\nНу и снова придётся поработать на военных, как же без этого. Последние разведданные говорят о том, что у Монолита появилось химическое оружие. Мне необходимо пробраться в Бункер Управления, чтобы проверить эту информацию. Если факт существования хим.оружия подтвердится, то нужно забрать с собой все образцы и ни в коем случае не допустить их подрыва.</rus>
+		<eng>===Kuznetsov said that he would agree to provide a helicopter, but not for nothing. I need to find a Walther P.38 pistol from the Second World War. It needs to be in good condition, as it's for the Chief that issues permits for entrance into the Zone.\nWell, again I need to work with the military. Recent intelligence suggests that the Monolith have chemical weapons. I need to get into the Control Bunker to confirm this information. If the existence of these chemical weapons is factual, then I need to take samples of them with me, to prevent them from undermining the other factions in the Zone.</eng>
+		<ukr>===Кузнецов сказав, що зможе домовитися про надання вертольота, але не за просто так. Потрібно знайти пістолет Walther P.38 часів Другої Світової війни в хорошому стані для начальника, який видає дозволи на вильоти в Зону.\nНу і знову доведеться попрацювати на військових, як же без цього. Останні дані розвідки говорять про те, що у Моноліта з'явилася хімічна зброя. Мені необхідно пробратися в Бункер Управління, щоб перевірити цю інформацію. Якщо факт існування хім.зброї підтвердиться, то потрібно забрати з собою всі зразки і ні в якому разі не допустити їхнього підриву.</ukr>
+		<pln>===Kuźniecow powiedział, że będzie mógł załatwić helikopter, ale nie za darmo. Trzeba znaleźć pistolet Walther P.38, z czasów II wojny światowej, w dobrym stanie, dla dowódcy wydającego pozwolenia na wyloty w Zonę.\nNo i znów przyjdzie mi tyrać na wojskowych, jakże inaczej. Ostatnie dane wywiadu mówią o tym, że u Monolitu pojawiła się broń chemiczna. Muszę przedostać się do Bunkra Sterowania, żeby sprawdzić tę informację. Jeśli fakt istnienia broni chemicznej się potwierdzi, to trzeba zabrać z sobą wszystkie próbki i w żadnym wypadku nie dopuścić do ich wysadzenia.</pln>
 	</string>
 	<string id="fotograf_fotik">
 		<rus>Фотограф попросил найти рюкзак своего друга с запасным фотоаппаратом. Он должен быть среди камней, рядом с большим кратером. Нужно быть осторожным! Возле кратера обнаружена толпа псевдогигантов.</rus>
@@ -503,10 +499,10 @@
 		<pln>Nie rozumiem, co to wszystko znaczy, ale odbywa się tu prawdopodobnie jakiś sprawdzian. Tak czy inaczej innego sposobu zdobycia modułu deszyfratora nie ma.</pln>
 	</string>
 	<string id="taynik_leshyi">
-		<rus>На трупе Лешего я нашёл его настоящий ПДА и документы из лаборатории Х-7. Их следует показать Доценту, может, он поймёт, о чём в них говорится. Последнее сообщение в ПДА от Акилла:\n\n"Леший, я некоторое время пробуду в Баре, попробую разыскать остальных. С этого момента держим связь через личные ПДА. Надеюсь, твои заказчики не обманут."\n\nТакже в ПДА имеются координаты личного тайника убитого, надо бы его отыскать.</rus>
-		<eng>On the corpse of Goblin I found his read PDA as well as documents from lab X-7. I should show them to Docent at once, maybe he'll understand the information there. The last post in the PDA is by Akill.\n\n"Goblin, I'll be spending some time at the Bar, trying to find the others. From now in, we'll keep in touch over the PDA. I hope your customers won't be deceived."\n\nAlso on the PDA, are coordinates of the dead stalker's personal stash. I should find it.</eng>
-		<ukr>На трупі Лісовика я знайшов його справжній КПК та документи з лабораторії Х-7. Їх слід показати Доценту, може, він зрозуміє, про що у них йдеться. Останнє повідомлення у КПК від Акілла:\n\n"Лісовик, я деякий час пробуду у Барі. Спробую розшукати інших. З цього моменту тримаємо зв'язок через особисті КПК. Сподіваюся, твої замовники не обдурять. "\n\nТакож в КПК є координати особистої схованки вбитого, треба б її відшукати.</ukr>
-		<pln>Przy trupie Leszego znalazłem jego właściwe PDA i dokumenty z laboratorium X-7. Trzeba je pokazać Docentowi, może, on zrozumie, o czym w nich mowa. Ostatnia wiadomość w PDA od Akilla:\n\n"Leszy, przez pewien czas pobędę w Barze. Spróbuję odszukać pozostałych. Jeżeli będę ci potrzebny, to tam mnie znajdziesz. Mam nadzieję, że twoi zleceniodawcy nie oszukają".\n\nW PDA jest też namiar na osobisty schowek zabitego, trzeba by go przeszukać.</pln>
+		<rus>На трупе Лешего я нашёл его настоящий ПДА с координатами личного тайника убитого, который желательно бы отыскать, и документы из лаборатории Х-7. Также в ПДА есть схема-сборка какого-то оружия и список необходимых модулей-обвесов для него. Всё это следует показать Доценту, думаю, он сможет во всём разобраться. Последнее сообщение в ПДА от Акилла:\n\n"Леший, я некоторое время пробуду в Баре, попробую разыскать остальных. С этого момента держим связь через личные ПДА. Надеюсь, твои заказчики не обманут."</rus>
+		<eng>===On the corpse of Goblin I found his read PDA as well as documents from lab X-7. I should show them to Docent at once, maybe he'll understand the information there. The last post in the PDA is by Akill.\n\n"Goblin, I'll be spending some time at the Bar, trying to find the others. From now in, we'll keep in touch over the PDA. I hope your customers won't be deceived."\n\nAlso on the PDA, are coordinates of the dead stalker's personal stash. I should find it.</eng>
+		<ukr>===На трупі Лісовика я знайшов його справжній КПК та документи з лабораторії Х-7. Їх слід показати Доценту, може, він зрозуміє, про що у них йдеться. Останнє повідомлення у КПК від Акілла:\n\n"Лісовик, я деякий час пробуду у Барі. Спробую розшукати інших. З цього моменту тримаємо зв'язок через особисті КПК. Сподіваюся, твої замовники не обдурять. "\n\nТакож в КПК є координати особистої схованки вбитого, треба б її відшукати.</ukr>
+		<pln>===Przy trupie Leszego znalazłem jego właściwe PDA i dokumenty z laboratorium X-7. Trzeba je pokazać Docentowi, może, on zrozumie, o czym w nich mowa. Ostatnia wiadomość w PDA od Akilla:\n\n"Leszy, przez pewien czas pobędę w Barze. Spróbuję odszukać pozostałych. Jeżeli będę ci potrzebny, to tam mnie znajdziesz. Mam nadzieję, że twoi zleceniodawcy nie oszukają".\n\nW PDA jest też namiar na osobisty schowek zabitego, trzeba by go przeszukać.</pln>
 	</string>
 	<string id="drug_food">
 		<rus>Макс Любер попросил раздобыть еды для собаки Доктора - Дружка. Этот пёс очень прожорлив, поэтому Макс предложил завалить молодых плотей, которых видел недалеко от тропки, ведущей в Тёмную Долину. Шести кусков филе должно хватить этой вечно голодной псине.</rus>
@@ -992,7 +988,7 @@
 	</string>
 	<string id="shurup_shron">
 		<rus>Свобода планирует сделать резервный схрон с различными припасами для будущих операций в Центральной Припяти. Один из отрядов нашёл хорошее место под тайник в детском саду и оставил там рюкзак с маячком. Мне нужно найти его и наполнить следующими вещами:\n \n
-			2 антидота\n
+			2 антизомбина\n
 			4 армейских аптечки\n
 			4 антирада\n
 			8 бинтов\n
@@ -1001,7 +997,7 @@
 			5 пачек патронов 5.56х45мм SS109\n
 			6 консервов\n \nМедикаменты придётся где-то раздобыть. Описание места от командира отряда: "Рюкзак лежит в комнате с упавшей лестницей, на втором этаже".</rus>
 		<eng>Freedom plans to make backup caches with various supplies for future operations in Central Pripyat. One of the detachments found a good place to hide in a kindergarten, and left a backpack there with a beacon. I need to find it and place the following items in it:\n \n
-			2 antidote\n
+			2 Anti-Zombax\n
 			4 military first-aid kits\n
 			4 antirad\n
 			8 bandages\n
@@ -1010,7 +1006,7 @@
 			5 boxes of 5.56x45mm SS109\n
 			6 cans of food\n \nI'll have to get the medicine somewhere. Description of the location: "The backpack lies in a room with a fallen ladder, on the second floor."</eng>
 		<ukr>Воля планує зробити резервний схрон з різними припасами для майбутніх операцій у Центральній Прип'яті. Один із загонів знайшов гарне місце під схованку у дитячому садку і залишив там рюкзак з маячком. Мені потрібно знайти його і наповнити наступними речами:\n \n
-			 * 2 антидота\n
+			 * 2 антизомбіна\n
 			 * 4 армійські аптечки\n
 			 * 4 антирада\n
 			 * 8 бинтів\n
@@ -1245,7 +1241,7 @@
 		<pln>Noe urządził na starej barce szpital polowy dla rannych obrońców. On jest zaniepokojony pojawieniem się w tej okolicy wybuchowych zombie. Zlecono mi się ich pozbyć. Moje główne zadanie - zapobiec zbliżeniu się zombie do wejścia na barkę. Będzie mi do tego potrzebny mocny karabin snajperski z dobrą optyką. Zabronione jest korzystać z granatów i granatników - mogę zranić mieszkańców szpitala.\n \nP.S. Nie zapomnieć zamknąć za sobą drzwi.</pln>
 	</string>
 	<string id="max_camouflage">
-		<rus>Максу поручено подготовить четыре снайперские пары. Он хочет заполучить для своих стрелков маскировочные костюмы, а такие носят снайперы из Блэквотер, которые, по слухам, недавно появились в Зоне. Их можно встретить на Затоне и Юпитере, а также в Забытом Лесу, на Дикой Территории, на Радаре и даже на Складах. К тому же, по непроверенной информации из сети наёмники устроили перевалочную базу на КПП Юпитера. Свободовцам нужно восемь маскхалатов.</rus>
+		<rus>Максу поручено подготовить четыре снайперские пары. Он хочет заполучить для своих стрелков маскировочные костюмы, а такие носят снайперы из Блэквотер, которые, по слухам, недавно появились в Зоне. Их можно встретить на Затоне и Юпитере, а также в Забытом Лесу, на Дикой Территории, на Радаре и даже на Складах. К тому же, по непроверенной информации из сети, наёмники устроили перевалочную базу на КПП Юпитера. Свободовцам нужно восемь маскхалатов.</rus>
 		<eng>===Max is tasked with preparing four pairs of snipers. He wants to get camouflaged suits for his shooters, and they are worn by Blackwater snipers who, according to rumors, have recently appeared in the Zone. They can be found in Zaton and Jupiter, as well as in the Forgotten Forest, in the Wild Territory, on the Radar and even in the Army Warehouses. In addition, according to unverified information from the network, the mercenaries staged a shipment to their base at an abandoned concrete plant. There may be ammunition stored there. Freedom needs eight camo suits.</eng>
 		<ukr>Максу доручено підготувати чотири снайперські пари. Він хоче роздобути для своїх стрільців маскувальні костюми, а такі носять снайпери з Блеквотер, які, за чутками, нещодавно з'явилися у Зоні. Їх можна зустріти на Затоні і Юпітері, а також у Забутому Лісі, на Дикій Території, на Радарі і навіть на Складах. До того ж, за неперевіреною інформацією з мережі найманці влаштували перевалочну базу на КПП Юпітера. Волівцям потрібно вісім маскхалатів.</ukr>
 		<pln>===Maksowi zlecono przygotować cztery snajperskie pary. On chce wyposażyć swoich strzelców w kombinezony maskujące. A takie noszą snajperzy z Blackwater, którzy, podobno, niedawno pojawili się w Zonie. Spotkać ich można na Zatonie i Jupiterze, jak również w Zapomnianym Lesie, na Dziczy, na Radarze, i nawet na Magazynach Wojskowych. Ponadto, według niesprawdzonej informacji z sieci, najemnicy urządzili sobie bazę przeładunkową w Cementowni. Tam mogą przechowywać amunicję. Wolnościowcy potrzebują osiem kombinezonów maskujących.</pln>
@@ -1591,6 +1587,38 @@
 	<string id="shurup_metall">
 		<rus>Шуруп пытается отремонтировать танк на базе Свободы, но без запчастей от других танков у него ничего не выйдет. Он дал мне несколько радиомаяков, которыми я должен пометить брошенные танки позади башни, если такие вдруг повстречаются мне в Зоне, анархисты сделают остальное. А если повезёт добыть танковый аккумулятор в хорошем состоянии, то Шуруп обещал щедрую награду.</rus>
 		<ukr>Шуруп намагається відремонтувати танк на базі Волі, але без запчастин від інших танків у нього нічого не вийде. Він дав мені кілька радіомаяків, якими я повинен позначити покинуті танки позаду вежі, якщо такі раптом зустрінуться мені в Зоні, анархісти зроблять все інше. А якщо пощастить добути танковий акумулятор в хорошому стані, то Шуруп обіцяв щедру нагороду.</ukr>
+	</string>
+	<string id="upgrade_vssm">
+		<rus>В ПДА Лешего имелась схема-сборка ВССМ «Винторез» и список модулей-обвесов для него. По словам Долговязого, подобные аксессуары для оружия можно найти в тайниках, раскиданных сталкерами по всей Зоне. Он сможет собрать для меня винтовку, если я раздобуду необходимые комплектующие. Полный список того, что нужно принести оружейнику:\n \n
+			ВСС «Винторез» в хорошем состоянии\n
+			АС «Вал» в хорошем состоянии\n
+			Крепление ТОЗ 6П29М\n
+			Направляющая "Тактика-Тула" 10000\n
+			4 магазина СР3М.130 9x39\n
+			Рукоятка затвора РП-1 для АК и совместимых\n
+			Пистолетная рукоятка Magpul MOE\n
+			Переходник складной для трубы приклада\n
+			Труба приклада SI "Advanced receiver extension"\n
+			Приклад Magpul MOE Carbine SG\n
+			Затыльник Magpul Rubber Butt-Pad\n
+			Подщёчник Magpul\n
+			Тактический фонарь Steiner LAS/TAC 2\n
+			Крепление 25 мм для установки аксессуаров\n
+			Тактический блок Зенит "Перст-3"\n
+			Тактическая рукоятка Зенит "РК-2"\n
+			Коллиматорный прицел Aimpoint "COMP M4"\n
+			Крепление LRP для прицелов Aimpont "COMP M4"\n
+			Повышающая проставка "Standart Spacer" для прицелов Aimpoint\n
+			Крышка с антибликовой блендой Aimpoint\n
+			Направляющая NcStar MPR45\n
+			Увеличитель Aimpoint\n
+			Крепление Aimpoint Twist Mount\n
+			100 тысяч рублей за работу\n \n \n</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="akill_punisher">
+		<rus>Скоро мне предстоит столкнуться с бойцами из ЧВК "Блэквотер", и, по словам Акилла, они станут серьёзной угрозой для меня. Но главный минус наёмников в том, что они недооценивают мой опыт и моё снаряжение. Чтобы запугать моих врагов, Акилл предложил показать им на примере трупов их товарищей по оружию, что против них работает стрелок-профи. Мне нужно ликвидировать 41 найма одним выстрелом в голову. Не простое испытание!</rus>
+		<ukr>===</ukr>
 	</string>
 	<!-- AKILL end -->
 
