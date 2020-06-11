@@ -1729,13 +1729,6 @@
 		<pln>Respawn</pln>
 	</string>
 	
-	<string id="ui_mm_transparent_treasure">
-		<rus>Малозаметные тайники</rus>
-		<eng>Low-visibility stashes</eng>
-		<ukr>Малопомітні схованки</ukr>
-		<fra>Planques à peine visibles</fra>
-		<pln>Słabo widoczne schowki</pln>
-	</string>
 	<string id="ui_mm_delete">
 		<rus>Удалить</rus>
 		<eng>Delete</eng>
@@ -5537,12 +5530,21 @@
 		<fra>Attention! Le détonateur est dans un état critique!</fra>
 		<pln>Uwaga! Detonator jest w stanie krytycznym!</pln>
 	</string>	
+	<string id="ui_mm_qsp_anim_time">
+		<rus>Время анимации активации слота</rus>
+		<eng>Animation time of slot activation</eng>
+		<ukr>Час анімації активації слота</ukr>
+	</string>	
 	<string id="ui_options_op21_dynamic_anoms">
 		<rus>Динамические аномалии</rus>
 		<eng>Dynamic anomalies</eng>
 		<ukr>Динамічні аномалії</ukr>
 		<fra>Anomalies dynamiques</fra>
 		<pln>Anomalie dynamiczne</pln>
+	</string>	
+	<string id="st_foto_focus">
+		<rus>Цель в фокусе</rus>
+		<ukr>Ціль у фокусі</ukr>
 	</string>	
 	<string id="ui_dynamic_anoms_hint">
 		<rus>При включённой опции - аномалии пересоздаются (меняют своё положение) при каждой загрузке сейва и после Выброса. В противном случае - только после Выброса.\nПосле активации данной опции необходимо загрузить игру для применения изменений.\n%c[red]Внимание! Опция не применяется к текущей загруженной игре!%c[default]</rus>
@@ -5699,10 +5701,6 @@
 	<string id="respawn_type_hint">
 		<rus>Данная опция позволяет выбрать желаемую частоту появления мутантов и НПС в местах их обитания после их зачистки.\nПолный переход с более частого на более редкий респаун происходит через несколько игровых дней.</rus>
 		<ukr>Дана опція дозволяє вибрати бажану частоту появи мутантів і НПС в місцях їхнього проживання після їхньої зачистки.\nПовний перехід з більш частого на більш рідкісний респаун відбувається через кілька ігрових днів.</ukr>
-	</string>
-	<string id="transparent_treasure_hint">
-		<rus>Данная опция делает рюкзаки, в которых выпадают тайники, малозаметными, почти прозрачными.</rus>
-		<ukr>Дана опція робить рюкзаки, в яких випадають схованки, малопомітними, майже прозорими.</ukr>
 	</string>
 	<string id="pause_on_load_hint">
 		<rus>При включении данной опции после загрузки выбранного сейва игра встанет на паузу.</rus>

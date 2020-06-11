@@ -4913,16 +4913,16 @@
 		<pln>Aha, twój tyłek ratować.</pln>
 	</string>
 	<string id="denis_need_denis_3">
-		<rus>Он часто так делает, одно и тоже дело может двум разным людям поручить, для перестраховки.</rus>
-		<eng>He often does that, he sends two different people on the same mission, for insurance.</eng>
-		<ukr>Він часто так робить, одне і теж діло може двом різним людям доручити, для перестраховки.</ukr>
-		<pln>On często tak robi. Tę samą sprawę może dwóm różnym ludziom zlecić, dla zabezpieczenia.</pln>
+		<rus>Он часто так делает, одно и тоже дело может двум разным людям поручить, для перестраховки. Не знаю зачем ты здесь, а меня отправил проверить старый тайник, сказал что документы там какие-то важные в нём.</rus>
+		<eng>===He often does that, he sends two different people on the same mission, for insurance.</eng>
+		<ukr>===Він часто так робить, одне і теж діло може двом різним людям доручити, для перестраховки.</ukr>
+		<pln>===On często tak robi. Tę samą sprawę może dwóm różnym ludziom zlecić, dla zabezpieczenia.</pln>
 	</string>
 	<string id="denis_need_denis_4">
-		<rus>Документы у тебя?</rus>
-		<eng>Do you have the documents?</eng>
-		<ukr>Документи у тебе?</ukr>
-		<pln>Dokumenty masz?</pln>
+		<rus>Ну и как, документы у тебя?</rus>
+		<eng>===Do you have the documents?</eng>
+		<ukr>===Документи у тебе?</ukr>
+		<pln>===Dokumenty masz?</pln>
 	</string>
 	<string id="denis_need_denis_5">
 		<rus>Пусто! Пустой тайник оказался. Я только проверить успел, тут меня и "накрыло", первый раз контролёру попался. Эй, дружище, окажи услугу, выведи меня отсюда, а то у меня ноги трясутся, боюсь один не дойду. Мне бы до базы сталкеров добраться, что тут недалеко, я бы у них пару-тройку дней перекантовался, мне сейчас далеко не уйти, а если ещё монстр какой попадётся - всё, пиши пропало. А я тебе за это наводку одну дам на тайник в лесу. Его оставил один опытный сталкер. Сталкер тот сказал, чтобы тайник никто не трогал, потому что он очень хорошо охраняется. Наши все знают, где он лежит, но никто не отважился его взять. Потому что главная трудность - остаться в живых. Если хочешь - можешь попробовать. Он где-то недалеко от аномалии, что в лесу. Выведешь меня?</rus>
@@ -4931,7 +4931,7 @@
 		<pln>Pusto! Schowek był pusty. Ja tylko sprawdzić zdążyłem, i tu mnie "nakryło", udało się kontrolerowi za pierwszym razem. Ej, bracie, pomóż mi, wyprowadź mnie stąd, bo tak mi się nogi trzęsą, chyba sam nie dojdę. Żeby chociaż do bazy stalkerów się dostać, co jest tu niedaleko, to bym u nich ze dwa-trzy dni posiedział. Ja teraz ledwo jestem w stanie iść, a jeśli jeszcze mutant jaki się trafi, to kaplica. A ja ci za to namiar dam na schowek w lesie. Zostawił go jeden doświadczony stalker. Ten stalker powiedział, żeby nikt go nawet nie dotykał, tak dobrze jest chroniony. Nasi dobrze wiedzą, gdzie to jest, ale nikt nie odważył się tam pójść. Dlatego że tam bardzo łatwo zginąć. Jeżeli chcesz - możesz spróbować. Jest gdzieś niedaleko tej anomalii w lesie. To wyprowadzisz mnie?</pln>
 	</string>
 	<string id="denis_need_denis_6">
-		<rus>Ладно, иди за мной, спешить не буду, доведу до базы сталкеров.</rus>
+		<rus>Да не вопрос, иди за мной, спешить не буду, доведу до базы сталкеров.</rus>
 		<eng>Okay, follow me, I'll go slowly, I'll take you to the stalker's base.</eng>
 		<ukr>Гаразд, іди за мною, поспішати не буду, доведу до бази сталкерів.</ukr>
 		<pln>Dobra, idź za mną, spieszyć się nie będę, doprowadzę cię do bazy stalkerów.</pln>
@@ -4960,29 +4960,70 @@
 		<ukr>Та нема за що, ти нас теж не раз виручав.</ukr>
 		<pln>Nie ma za co, ty nam też nie raz pomagałeś.</pln>
 	</string>
+
+
+
+
+
 	<string id="klyak_est_denis_0">
-		<rus>Пролетели мы с тобой Клык, тайник пуст.</rus>
-		<eng>There was nothing there Fang, the cache was empty.</eng>
-		<ukr>Пролетіли ми з тобою Клик, схованка порожня.</ukr>
-		<pln>Oszukaliśmy się Kieł, schowek był pusty.</pln>
+		<rus>Привет, старина.</rus>
+		<eng>===Привет, старина.</eng>
+		<ukr>===Привет, старина.</ukr>
+		<pln>===Привет, старина.</pln>
 	</string>
 	<string id="klyak_est_denis_1">
-		<rus>Вот блин, не ожидал. Ты сам-то смотрел?</rus>
-		<eng>Damn, I didn't expect that. Did you inspect it yourself?</eng>
-		<ukr>От блін, не очікував. Ти сам то дивився?</ukr>
-		<pln>Ot cholera, nie spodziewałem się. Ty sam sprawdzałeś?</pln>
+		<rus>Здорово, Стрелок, ну что, доки у тебя?</rus>
+		<eng>===Здорово, Стрелок, ну что, доки у тебя?</eng>
+		<ukr>===Здорово, Стрелок, ну что, доки у тебя?</ukr>
+		<pln>===Здорово, Стрелок, ну что, доки у тебя?</pln>
 	</string>
 	<string id="klyak_est_denis_2">
+		<rus>У меня. Как вспомню твои слова - "Да ерунда, плёвое дело"... Вот всегда меня смущали выражения типа "плёвое дело", "небольшая халтурка"... Веет от таких дел обычно большой задницей.</rus>
+		<eng>===У меня. Как вспомню твои слова - "Да ерунда, плёвое дело"... Вот всегда меня смущали выражения типа "плёвое дело", "небольшая халтурка"... Веет от таких дел обычно большой задницей.</eng>
+		<ukr>===У меня. Как вспомню твои слова - "Да ерунда, плёвое дело"... Вот всегда меня смущали выражения типа "плёвое дело", "небольшая халтурка"... Веет от таких дел обычно большой задницей.</ukr>
+		<pln>===У меня. Как вспомню твои слова - "Да ерунда, плёвое дело"... Вот всегда меня смущали выражения типа "плёвое дело", "небольшая халтурка"... Веет от таких дел обычно большой задницей.</pln>
+	</string>
+	<string id="klyak_est_denis_3">
+		<rus>Это бывает, Зона непредсказуема, всё может быть. Давай их сюда.</rus>
+		<eng>===Это бывает, Зона непредсказуема, всё может быть. Давай их сюда.</eng>
+		<ukr>===Это бывает, Зона непредсказуема, всё может быть. Давай их сюда.</ukr>
+		<pln>===Это бывает, Зона непредсказуема, всё может быть. Давай их сюда.</pln>
+	</string>
+	<string id="klyak_est_denis_4">
+		<rus>Ну что интересного в документах?</rus>
+		<eng>===Ну что интересного в документах?</eng>
+		<ukr>===Ну что интересного в документах?</ukr>
+		<pln>===Ну что интересного в документах?</pln>
+	</string>
+	<string id="klyak_est_denis_5">
+		<rus>Ты же знаешь, когда-то давно я работал на наёмников, да и ты с этим ремеслом уже познакомился. Там был один человек, так вот мы с ним вместе собирали информацию о Зоне, но кое-чем мы с наёмниками не делились, и прятали в тайники, часть инфы записана была на флешки, часть прямо документами. После моей размолвки с наёмниками, мне пришлось затихариться и всё бросить. До поры, до времени я думал, что те документы пропали, но вот сейчас я в этом сомневаюсь. Поэтому я и отправил Дениса проверить один знакомый мне тайник. Но прошло два дня, а его всё нет, и его ПДА тоже молчит. Как на зло, и Пилигрим куда-то пропал - ушёл уж давненько проверить тропку в Старую Деревню - и тоже тишина... Поэтому я и попросил тебя найти Дениса, пока ты в тех краях был. Ну как, нашёл Дениса?</rus>
+		<eng>===Ты же знаешь, когда-то давно я работал на наёмников, да и ты с этим ремеслом уже познакомился. Там был один человек, так вот мы с ним вместе собирали информацию о Зоне, но кое-чем мы с наёмниками не делились, и прятали в тайники, часть инфы записана была на флешки, часть прямо документами. После моей размолвки с наёмниками, мне пришлось затихариться и всё бросить. До поры, до времени я думал, что те документы пропали, но вот сейчас я в этом сомневаюсь. Поэтому я и отправил Дениса проверить один знакомый мне тайник. Но прошло два дня, а его всё нет, и его ПДА тоже молчит. Как на зло, и Пилигрим куда-то пропал - ушёл уж давненько проверить тропку в Старую Деревню - и тоже тишина... Поэтому я и попросил тебя найти Дениса, пока ты в тех краях был. Ну как, нашёл Дениса?</eng>
+		<ukr>===Ты же знаешь, когда-то давно я работал на наёмников, да и ты с этим ремеслом уже познакомился. Там был один человек, так вот мы с ним вместе собирали информацию о Зоне, но кое-чем мы с наёмниками не делились, и прятали в тайники, часть инфы записана была на флешки, часть прямо документами. После моей размолвки с наёмниками, мне пришлось затихариться и всё бросить. До поры, до времени я думал, что те документы пропали, но вот сейчас я в этом сомневаюсь. Поэтому я и отправил Дениса проверить один знакомый мне тайник. Но прошло два дня, а его всё нет, и его ПДА тоже молчит. Как на зло, и Пилигрим куда-то пропал - ушёл уж давненько проверить тропку в Старую Деревню - и тоже тишина... Поэтому я и попросил тебя найти Дениса, пока ты в тех краях был. Ну как, нашёл Дениса?</ukr>
+		<pln>===Ты же знаешь, когда-то давно я работал на наёмников, да и ты с этим ремеслом уже познакомился. Там был один человек, так вот мы с ним вместе собирали информацию о Зоне, но кое-чем мы с наёмниками не делились, и прятали в тайники, часть инфы записана была на флешки, часть прямо документами. После моей размолвки с наёмниками, мне пришлось затихариться и всё бросить. До поры, до времени я думал, что те документы пропали, но вот сейчас я в этом сомневаюсь. Поэтому я и отправил Дениса проверить один знакомый мне тайник. Но прошло два дня, а его всё нет, и его ПДА тоже молчит. Как на зло, и Пилигрим куда-то пропал - ушёл уж давненько проверить тропку в Старую Деревню - и тоже тишина... Поэтому я и попросил тебя найти Дениса, пока ты в тех краях был. Ну как, нашёл Дениса?</pln>
+	</string>
+	<string id="klyak_est_denis_6">
+		<rus>Да, нашёл. Его контролёр в штольне пытался в свою свиту прописать, благо я вовремя успел, отбил парня. Отвёл его на стоянку сталкеров, пусть отлёживается пару-тройку дней. Только вот незадача, Денис сказал, что тайник был пустой.</rus>
+		<eng>===Да, нашёл. Его контролёр в штольне пытался в свою свиту прописать, благо я вовремя успел, отбил парня. Отвёл его на стоянку сталкеров, пусть отлёживается пару-тройку дней. Только вот незадача, Денис сказал, что тайник был пустой.</eng>
+		<ukr>===Да, нашёл. Его контролёр в штольне пытался в свою свиту прописать, благо я вовремя успел, отбил парня. Отвёл его на стоянку сталкеров, пусть отлёживается пару-тройку дней. Только вот незадача, Денис сказал, что тайник был пустой.</ukr>
+		<pln>===Да, нашёл. Его контролёр в штольне пытался в свою свиту прописать, благо я вовремя успел, отбил парня. Отвёл его на стоянку сталкеров, пусть отлёживается пару-тройку дней. Только вот незадача, Денис сказал, что тайник был пустой.</pln>
+	</string>
+	<string id="klyak_est_denis_7">
+		<rus>Вот блин, не ожидал. Спасибо, что парня спас, а документы в тайнике сам смотрел?</rus>
+		<eng>===Damn, I didn't expect that. Спасибо, что парня спас, а документы в тайнике сам смотрел?</eng>
+		<ukr>===От блін, не очікував. Спасибо, что парня спас, а документы в тайнике сам смотрел?</ukr>
+		<pln>===Ot cholera, nie spodziewałem się. Спасибо, что парня спас, а документы в тайнике сам смотрел?</pln>
+	</string>
+	<string id="klyak_est_denis_8">
 		<rus>Да нет, Денис сказал..... Или?</rus>
 		<eng>No, Denis said... Or was it?</eng>
 		<ukr>Та ні, Денис сказав..... Чи?</ukr>
 		<pln>No nie, Denis powiedział... Czyżby?</pln>
 	</string>
-	<string id="klyak_est_denis_3">
-		<rus>Без "Или", Денис - парень проверенный. Так что видно кто-то до нас побывал. Ладно, отдохни пока, но не долго - Звездочёт засветился - СМС мне скинул - на Кордоне он, в лагере новичков... До тебя достучаться не может. Я ему сказал, что мы виделись и пообещал, что если тебя увижу - к нему отправлю. Про старую карту он не в курсе. Копию ведь ты сделал - вот и отдай её, иначе разговор у вас может не получиться. Как говорится, доверяй, но проверяй. Я тут справки навёл, с Доктором связался, чтобы он в курсе был, что я жив, а заодно и про Звездочёта спросил... Так вот, оказывается, они познакомились только на Кордоне, после того, как он тебя из Грузовика смерти вытащил, а не раньше... Делай выводы. Парень вроде и неплох, но что-то у него своё на уме, не наше... Короче, сходи в лагерь новичков.</rus>
-		<eng>Forget about "Or was it", Denis is a trustworthy guy. So it seems that someone had been there before us. Okay, rest for now, but not for long - Stargazer has surfaced - he texted me - he's at the Cordon, in the newbie's camp... He can't get through to you. I told him and promised if I saw you, I would send you there. He didn't know about the old map. You made a copy of it, so give it back, otherwise you might not be able to have a conversation. As they say, trust me, but check it out. I checked with the Doctor to make sure he knows I'm alive, but I also asked him about Stargazer... So it turns out they only met at the Cordon after he pulled you out of the Death Truck, not before... Make your own conclusions. The guy seems to be okay, but he has something on his mind, and it's not us... In short, go to the newbie's camp.</eng>
-		<ukr>Без "Чи", Денис - хлопець перевірений. Так що видно хтось до нас побував. Гаразд, відпочинь поки, але не довго - Звіздар засвітився - СМС мені скинув - на Кордоні він, у таборі новачків... До тебе достукатися не може. Я йому сказав, що ми бачилися і пообіцяв, що якщо тебе побачу - до нього відправлю. Про стару карту він не в курсі. Копію же ж ти зробив - от і віддай її, інакше розмова у вас може не вийти. Як кажуть, довіряй, але перевіряй. Я тут довідки навів, з Доктором зв'язався, щоб він у курсі був, що я живий, а заодно і про Звіздаря запитав... Та от, виявляється, вони познайомилися тільки на Кордоні, після того, як він тебе з Вантажівки смерті витягнув, а не раніше... Роби висновки. Хлопець ніби і непоганий, але щось у нього своє на думці, не наше... Коротше, сходи в табір новачків.</ukr>
-		<pln>Bez "czyżby". Denisowi można wierzyć. Tak więc, jak widać, ktoś tam był przed nami. Dobra, odpocznij na razie, ale nie za długo -  Astronom się objawił. Wysłał mi SMS-a - jest na Kordonie, w obozie nowicjuszy... Do ciebie dopukać się nie może. Powiedziałem, że się widzieliśmy i obiecałem, że jeśli cię znowu zobaczę - wyślę cię do niego. O starej mapie on nic nie wie. Kopię przecież zrobiłeś - to ją oddaj, inaczej może nie być u was rozmowy. Jak to się mówi, zaufanie zaufaniem, ale sprawdzać trzeba. Ja tu spraw pilnuję, z Doktorem kontakt nawiązałem, żeby wiedział co się dzieje i że ja żyję. Przy okazji o Astronoma spytałem - no i wyszło, że się poznali na Kordonie dopiero po tym, jak on ciebie z trupiarki wyciągnął - a nie wcześniej... Wyciągnij wnioski - gość niby niezły, ale na myśli ma coś swojego, nie naszego... Krótko, idź do wioski nowicjuszy.</pln>
+	<string id="klyak_est_denis_9">
+		<rus>Без "Или", Денис - парень проверенный. Так что видно кто-то до нас побывал. Ладно, отдохни пока, но не долго - Звездочёт засветился - СМС мне скинул - на Кордоне он, в лагере новичков... До тебя достучаться не может. Я ему сказал, что мы виделись и пообещал, что если тебя увижу - к нему отправлю. Про старую карту он не в курсе. Копию ведь ты сделал - вот и отдай её, иначе разговор у вас может не получиться. Как говорится, доверяй, но проверяй. Я тут справки навёл, с Доктором связался, чтобы он в курсе был, что я жив, а заодно и про Звездочёта спросил... Так вот, оказывается, они познакомились только на Кордоне, после того, как он тебя из Грузовика смерти вытащил, а не раньше... Делай выводы. Парень вроде и неплох, но что-то у него своё на уме, не наше... Короче, сходи в лагерь новичков, а я пока с Пилигримом попробую связь наладить, а то никаких вестей от него.</rus>
+		<eng>===Forget about "Or was it", Denis is a trustworthy guy. So it seems that someone had been there before us. Okay, rest for now, but not for long - Stargazer has surfaced - he texted me - he's at the Cordon, in the newbie's camp... He can't get through to you. I told him and promised if I saw you, I would send you there. He didn't know about the old map. You made a copy of it, so give it back, otherwise you might not be able to have a conversation. As they say, trust me, but check it out. I checked with the Doctor to make sure he knows I'm alive, but I also asked him about Stargazer... So it turns out they only met at the Cordon after he pulled you out of the Death Truck, not before... Make your own conclusions. The guy seems to be okay, but he has something on his mind, and it's not us... In short, go to the newbie's camp, а я пока с Пилигримом попробую связь наладить, а то никаких вестей от него.</eng>
+		<ukr>===Без "Чи", Денис - хлопець перевірений. Так що видно хтось до нас побував. Гаразд, відпочинь поки, але не довго - Звіздар засвітився - СМС мені скинув - на Кордоні він, у таборі новачків... До тебе достукатися не може. Я йому сказав, що ми бачилися і пообіцяв, що якщо тебе побачу - до нього відправлю. Про стару карту він не в курсі. Копію же ж ти зробив - от і віддай її, інакше розмова у вас може не вийти. Як кажуть, довіряй, але перевіряй. Я тут довідки навів, з Доктором зв'язався, щоб він у курсі був, що я живий, а заодно і про Звіздаря запитав... Та от, виявляється, вони познайомилися тільки на Кордоні, після того, як він тебе з Вантажівки смерті витягнув, а не раніше... Роби висновки. Хлопець ніби і непоганий, але щось у нього своє на думці, не наше... Коротше, сходи в табір новачків, а я пока с Пилигримом попробую связь наладить, а то никаких вестей от него.</ukr>
+		<pln>===Bez "czyżby". Denisowi można wierzyć. Tak więc, jak widać, ktoś tam był przed nami. Dobra, odpocznij na razie, ale nie za długo -  Astronom się objawił. Wysłał mi SMS-a - jest na Kordonie, w obozie nowicjuszy... Do ciebie dopukać się nie może. Powiedziałem, że się widzieliśmy i obiecałem, że jeśli cię znowu zobaczę - wyślę cię do niego. O starej mapie on nic nie wie. Kopię przecież zrobiłeś - to ją oddaj, inaczej może nie być u was rozmowy. Jak to się mówi, zaufanie zaufaniem, ale sprawdzać trzeba. Ja tu spraw pilnuję, z Doktorem kontakt nawiązałem, żeby wiedział co się dzieje i że ja żyję. Przy okazji o Astronoma spytałem - no i wyszło, że się poznali na Kordonie dopiero po tym, jak on ciebie z trupiarki wyciągnął - a nie wcześniej... Wyciągnij wnioski - gość niby niezły, ale na myśli ma coś swojego, nie naszego... Krótko, idź do wioski nowicjuszy, а я пока с Пилигримом попробую связь наладить, а то никаких вестей от него.</pln>
 	</string>
 
 </string_table>

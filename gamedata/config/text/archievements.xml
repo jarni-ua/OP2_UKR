@@ -741,6 +741,7 @@
 		<fra>Vous avez trouvé toutes les caches du collectionneur. Le travail était très difficile, mais vous l'avez fait, pour lequel vous obtenez cet exploit!</fra>
 		<pln>Znalazłeś wszystkie schowki Kolekcjonera. Robota była bardzo trudna, ale poradziłeś sobie, za co też otrzymujesz to osiągnięcie!</pln>
 	</string>
+	<!-- !!!! Удалить для НИ -->
 	<string id="acv_food">
 		<rus>Хлеборезка</rus>
 		<eng>Pie Hole</eng>
@@ -769,6 +770,7 @@
 		<fra>Vous avez recueilli 300 bouteilles de vodka. Avoir autant de cette boisson favorite et ne pas en boire - seul un Stalker très codé peut le faire!</fra>
 		<pln>Zebrałeś 300 butelek wódki. Mieć taką ilość tego ukochanego przez wszystkich napoju i nie wypić go  - to się może udać tylko "zaszytemu" stalkerowi!</pln>
 	</string>
+	<!-- Удалить энд -->
 	<string id="acv_buliz">
 		<rus>Каменщик</rus>
 		<eng>Mason</eng>
@@ -1673,11 +1675,11 @@
 		<pln>Piroman</pln>
 	</string>
 	<string id="acv_pir_desc">
-		<rus>Да у вас мания! Сжечь огнём более 100 мутантов - это уже зависимость!</rus>
-		<eng>Yes, you have a craze! Burning more than 100 mutants is an addiction!</eng>
-		<ukr>Та у вас манія! Спалити вогнем більше 100 мутантів - це вже залежність!</ukr>
-		<fra>Oui, vous avez la manie! Brûler plus de 100 mutants avec le feu est déjà une dépendance!</fra>
-		<pln>To chyba jakaś mania! Spalić ogniem ponad 100 mutantów - to już jest uzależnienie!</pln>
+		<rus>Да у вас мания! Сжечь огнём сотню живых существ - это уже зависимость!</rus>
+		<eng>===Yes, you have a craze! Burning more than 100 mutants is an addiction!</eng>
+		<ukr>===Та у вас манія! Спалити вогнем більше 100 мутантів - це вже залежність!</ukr>
+		<fra>===Oui, vous avez la manie! Brûler plus de 100 mutants avec le feu est déjà une dépendance!</fra>
+		<pln>===To chyba jakaś mania! Spalić ogniem ponad 100 mutantów - to już jest uzależnienie!</pln>
 	</string>
 	<string id="acv_mtv">
 		<rus>Монтажник-высотник</rus>

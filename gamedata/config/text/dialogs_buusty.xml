@@ -4438,9 +4438,9 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 		<pln>===Skoro tak, to takiej szansy nie zlekceważę, wyciągaj długopis i kawałek papieru, lista będzie dluga. Z broni mamy "Wale" i "Grozy", kaliber 9x39mm, każdemu bojownikowi po trzy magazynki, myślę, że wystarczy, razem 480 naboi PAB-9, do "Grozy" będą też potrzebne WOGi, 20 sztuk powinno wystarczyć. Pancerze i broń trzeba doprowadzić do porządku, będą więc potrzebne zestawy remontowe po dziesięć sztuk do broni i pancerzy. No i oczywiście żarcie, głodny bojownik to nie bojownik, sam wiesz. Tuszonka, kiełbasa, chleb, woda w manierkach, z każdej pozycji po 20 sztuk.</pln>
 	</string>
 	<string id="savickiy_first_dialog_15">
-		<rus>Договорились, когда всё принесу, обсудим детали операции более подробно. Но быстро не обещаю, список довольно большой, мне потребуется время, чтобы всё это собрать.</rus>
+		<rus>Договорились, когда всё принесу, обсудим детали операции более подробно. Но быстро не обещаю, список довольно большой, мне потребуется время, чтобы всё это собрать. А пока я бегаю и собираю всё для твоих ребят, ты вздремни пару часиков, а то лица на тебе нет.</rus>
 		<eng>===Agreed, we'll discuss the details of the operation in more detail when I return.</eng>
-		<ukr>Домовилися, коли все принесу, обговоримо деталі операції більш докладно. Але не обіцяю що швидко, список доволі довгий, мені буде потрбний час, щоб усе це зібрати.</ukr>
+		<ukr>===Домовилися, коли все принесу, обговоримо деталі операції більш докладно. Але не обіцяю що швидко, список доволі довгий, мені буде потрбний час, щоб усе це зібрати.</ukr>
 		<pln>===Jesteśmy umówieni, kiedy to wszystko wam przyniosę, omówimy dokładniej szczegóły operacji.</pln>
 	</string>
 	<string id="savickiy_first_dialog_16">
@@ -4996,6 +4996,37 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 		<pln>Mam nadzieję, że ci się udało, chodźmy. Tylko proszę byście byli z Normanem ostrożni, nie wiadomo co tam na nas czeka, za przejściem...</pln>
 	</string>
 
+	<string id="parfumer_d63_dialog_2">
+		<rus>Да, скорее всего, это и есть основное лежбище Последнего Дня, огромный подземный бункер, многоуровневый, прекрасно охраняемый, но вот обследовать его полностью пока не представляется возможным, позади меня, на входе в этот тоннель, находится телепорт, который не даёт пройти дальше, а как его отключить, я не знаю. Следов Искры я тут не нашёл, но зато нашёл и прикончил Злобного! А вот Молнии, к сожалению, удалось ускользнуть...</rus>
+		<eng>===Yes, this is most likely the main rookery of Last Day, it's a huge multi-level, underground bunker and well guarded, but it's impossible to fully examine it yet, behind me, at the entrance to this tunnel, there's a teleport that doesn't allow further access, and, I don't know how to disable it. I didn't find any trace of Spark here, but I did find Lightning and finished her off.</eng>
+		<ukr>===Так, швидше за все, це і є основне лігво Останнього Дня, величезний підземний бункер, багаторівневий, прекрасно охороняється, але ось обстежити його повністю поки не представляється можливим, позаду мене, на вході в цей тунель, знаходиться телепорт, який не дає пройти далі, а як його відключити, я не знаю. Слідів Іскри я тут не знайшов, але зате знайшов і вбив Блискавку.</ukr>
+		<pln>===Tak, najprawdopodobniej, jest to główne leże Ostatniego Dnia, ogromny podziemny bunkier, wielopoziomowy, doskonale chroniony, ale na tę chwilę jego dokładne zbadanie wydaje się niemożliwe, za mną, przy wejściu do tego tunelu, znajduje się teleport, który nie pozwala przejść dalej, a jak go wyłączyć, nie wiem. Śladów Iskry tu nie znalazłem, ale za to znalazłem i wykończyłem Błyskawicę.</pln>
+	</string>
+	<string id="parfumer_d63_dialog_3">
+		<rus>Значит этот упырь Злобный склеил ласты, это хорошая новость, одним гадом меньше! Слушай, а при нём не было ничего? Документов, ноутбука, планшета, ПДА...</rus>
+		<eng>===So this bitch Lightning has already met her maker, that's good news, she'll no longer be able to spill any more blood! Look, did she have anything on her? Documents, laptop, tablet, PDA...</eng>
+		<ukr>===Значить ця сучка Блискавка вже склеїла ласти, це хороша новина, більше не буде нічию кров пити! Слухай, а при ній не було нічого? Документів, ноутбука, планшета, КПК...</ukr>
+		<pln>===Więc ta suka Błyskawica już wyciągnęła kopyta, to dobra wiadomość, nie będzie już więcej pić ludzkiej krwi! Słuchaj, a miała coś przy sobie? Dokumenty, notebook, mapnik, PDA...</pln>
+	</string>
+	<string id="parfumer_d63_dialog_4">
+		<rus>Да, был при нём его личный ПДА, только он и был. Вот, посмотри, но только нужен пароль, чтобы войти в него, я уже пытался, но ничего не получилось.</rus>
+		<eng>===Yes, she had her personal PDA with her, and that's all. Here, look, but you need a password to access it, I've already tried, but without success.</eng>
+		<ukr>===Так, був при ній її особистий КПК, тільки він власне і був. Ось, подивися, але тільки потрібний пароль, щоб увійти в нього, я вже намагався, але нічого не вийшло.</ukr>
+		<pln>===Tak, miała przy sobie swoje osobiste PDA i tylko to. Masz, zobacz, ale żeby w nie wejść potrzebne jest hasło, już próbowałem, ale nic z tego nie wyszło.</pln>
+	</string>
+	<string id="parfumer_d63_dialog_5">
+		<rus>Я особо его не обыскивал, прикончил гада да и всё.</rus>
+		<eng>===I didn't bother searching her, I just finished off the bitch.</eng>
+		<ukr>===Я особливо її не обшукував, прикінчив сучку та й все.</ukr>
+		<pln>===Jeszcze jej nie przeszukiwałem, wykończyłem sukę i tyle.</pln>
+	</string>
+	<string id="parfumer_d63_dialog_8">
+		<rus>Да ты чего, дружище, не обшмонать труп твоего врага - это же просто моветон! Дуй к его, ещё не остывшему, телу, да осмотри хорошенько. Ну ты даёшь!</rus>
+		<eng>===Hey, buddy, to not search the corpse of your enemy - is just bad manners! Blow on her still warm body and take a good look. Just kidding!</eng>
+		<ukr>===Та ти чого, чоловіче, не обшмонати труп твого ворога - це ж просто моветон! Дуй до її, ще тепленького, тіла, та оглянь гарненько. Ну ти даєш!</ukr>
+		<pln>===Wiedz, przyjacielu, że nie przeszukać trupa swojego wroga, to jest bardzo w zlym tonie! Idź do niej, póki jeszcze ciało nie ostygło i sprawdź je dobrze. No dalej!</pln>
+	</string>
+
 	<!-- Второй разговор с Парфюмером в Бункере Д6 -->
 	<string id="parfumer_d61_dialog_0">
 		<rus>Ну, что теперь будем делать, может я приведу помощь? Искра сможет идти?</rus>
@@ -5229,10 +5260,10 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 		<pln>Dobrze oczyściłeś nam drogę, natknęliśmy się tylko na dwie pijawki na Radarze, ale Norman szybko sobie z nimi poradził. Ja ani jednego naboju nie wystrzeliłem, niosłem Iskrę. Za maść i artefakt dziękuję!.. Mam nadzieję, że Dok zrobił wszystko jak trzeba i lekarstwo szybko postawi na nogi moją ukochaną.</pln>
 	</string>
 	<string id="parfumer_pripyat_dialog_2">
-		<rus>Ну что, на этом прощаемся? Вы с Норманом позаботитесь о безопасности Искры, а Док о её здоровье. Надеюсь, она быстро поправится под его присмотром. Последнему Дню хорошо наваляли, главаря их "к ногтю прижали", надеюсь, без своего лидера остатки группировки расползутся по Зоне, как тараканы.</rus>
-		<eng>So, is this where we say goodbye? You and Norman can look after Spark's safety, and Doctor will take care of her health. Hopefully, she'll recover quickly under his supervision. The outcome with Last Day was a good one, the leader of the group was "put down", I hope the rest of the group will scurry like cockroaches across the Zone now, without their leader.</eng>
-		<ukr>Ну що, на цьому прощаємося? Ви з Норманом подбаєте про безпеку Іскри, а Док про її здоров'я. Сподіваюся, вона швидко одужає під його наглядом. Останньому Дню добре наваляли, ватажка їхнього "до нігтя притиснули", сподіваюся, без свого лідера залишки угруповання розповзуться по Зоні, як таргани.</ukr>
-		<pln>No to co, żegnamy się? Z Normanem będziecie się troszczyć o bezpieczeństwie Iskry, a Doktor o jej zdrowie. Mam nadzieję, ze szybko jej się poprawi pod jego dozorem. Ostatniemu Dniu porządnie nastukaliśmy, ich lidera posłaliśmy do piachu, mam nadzieję, że bez dowódcy resztki ugrupowania rozpełzną się po Zonie, jak karaluchy.</pln>
+		<rus>Ну что, на этом прощаемся? Вы с Норманом позаботитесь о безопасности Искры, а Док о её здоровье. Надеюсь, она быстро поправится под его присмотром. Последнему Дню хорошо наваляли, главаря их "к ногтю прижали", надеюсь, без одного из своих основных лидеров остатки группировки расползутся по Зоне, как тараканы.</rus>
+		<eng>===So, is this where we say goodbye? You and Norman can look after Spark's safety, and Doctor will take care of her health. Hopefully, she'll recover quickly under his supervision. The outcome with Last Day was a good one, the leader of the group was "put down", I hope the rest of the group will scurry like cockroaches across the Zone now, without their leader.</eng>
+		<ukr>===Ну що, на цьому прощаємося? Ви з Норманом подбаєте про безпеку Іскри, а Док про її здоров'я. Сподіваюся, вона швидко одужає під його наглядом. Останньому Дню добре наваляли, ватажка їхнього "до нігтя притиснули", сподіваюся, без свого лідера залишки угруповання розповзуться по Зоні, як таргани.</ukr>
+		<pln>===No to co, żegnamy się? Z Normanem będziecie się troszczyć o bezpieczeństwie Iskry, a Doktor o jej zdrowie. Mam nadzieję, ze szybko jej się poprawi pod jego dozorem. Ostatniemu Dniu porządnie nastukaliśmy, ich lidera posłaliśmy do piachu, mam nadzieję, że bez dowódcy resztki ugrupowania rozpełzną się po Zonie, jak karaluchy.</pln>
 	</string>
 	<string id="parfumer_pripyat_dialog_3">
 		<rus>Да, будем прощаться, Стрелок. Спасибо за то, что помог вытащить Искру из лап Молнии, да и с самой сукой ты разобрался по-мужски - за всё ей отомстил!.. Пока будем здесь, лечиться у Доктора, а как Искре будет легче, двинем куда-нибудь подальше от центра Зоны, если Норман захочет, то возьмём его с собой, сдружились мы с ним во время этого похода. Он, кстати, тебе сказать что-то хотел, поговори с ним, пока не ушёл.</rus>
@@ -5246,6 +5277,12 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 		<ukr>Тримай мене в курсі. Повідом, коли Іскра одужає, і куди підете теж дай знати, може ще зведе нас Зона. Бувай!</ukr>
 		<pln>Nie zapomnij o mnie. Powiadom mnie, jak Iskra wyzdrowieje i gdzie się udacie, też daj znać, może jeszcze połączy nas Zona. Cześć!</pln>
 	</string>
+	<string id="parfumer_pripyat_dialog_33">
+		<rus>Да, будем прощаться, Стрелок. Спасибо за то, что помог вытащить Искру из лап Последнего Дня. Жаль Молния ускользнула, но что-то мне подсказывает, что сведёт вас ещё Зона... Но зато Злобный больше не будет небо коптить. Пока будем здесь, лечиться у Доктора, а как Искре будет легче, двинем куда-нибудь подальше от центра Зоны, если Норман захочет, то возьмём его с собой, сдружились мы с ним во время этого похода. Он, кстати, тебе сказать что-то хотел, поговори с ним, пока не ушёл.</rus>
+		<eng>===Yeah, it's time to say goodbye, Strelok. Thank you for helping us get Spark away from Lightning's clutches, and taking care of that bitch like a man - seeking vengeance for us all! While we're here, it'll be easier for Doctor to treat Spark, later on, we'll move somewhere far away from the centre of the Zone, if Norman wants to come, we'll take him with us, we became friends with him during this campaign. By the way, he wanted to say something to you, so talk to him before you go.</eng>
+		<ukr>===Так, будемо прощатися, Стрілець. Спасибі за те, що допоміг витягнути Іскру з лап Блискавки, та й з самою сукою ти розібрався по-чоловічому - за все їй помстився!.. Поки що будемо тут, лікуватися у Доктора, а коли Іскрі буде легше, рушимо куди-небудь подалі від центру Зони, якщо Норман захоче, то візьмемо його з собою, здружилися ми з ним під час цього походу. Він, до речі, тобі сказати щось хотів, поговори з ним, поки не пішов.</ukr>
+		<pln>===Tak, będziemy się żegnać, Striełok. Dziękuję ci, że pomogłeś mi wyciągnąć Iskrę z rąk Błyskawicy a i z samą suką się załatwiłeś - za wszystko jej odpłaciliśmy!.. Na razie będziemy się leczyć u Doktora, a jak Iskrze się polepszy, przejdziemy gdzieś dalej od centrum Zony, jeśli Norman zechce, to weźmiemy go z sobą, zaprzyjaźniliśmy się z nim podczas tego marszu. W zasadzie, to on chciał ci coś  powiedzieć, porozmawiaj z nim, przed odejściem.</pln>
+	</string>
 
 	<!-- Разговор с Норманом в Припяти -->
 	<string id="norman_pripyat_dialog_0">
@@ -5255,10 +5292,10 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 		<pln>Chciałem się pożegnać, czas na mnie. Iskra jest teraz względnie bezpieczna, Doktor jej przypilnuje. A wy razem z Perfumiarzem zadbacie, by nikt jej tu nie atakował. Dobrze, że poszedłeś z nami, bez twojej pomocy byłoby ciężko.</pln>
 	</string>
 	<string id="norman_pripyat_dialog_1">
-		<rus>Да нет, это тебе спасибо, что не побоялся идти за Молнией до конца. Ты уж извини, что мы с Парфюмером задержались в Мёртвом Городе и не смогли сразу прыгнуть в телепорт, вслед за тобой. Но обстоятельства...</rus>
-		<eng>No, thank you for not being afraid to follow through with Lightning to the end. I'm sorry that Perfumer and I stayed behind in the Dead City and weren't able to follow you into the teleporter. But circumstances...</eng>
-		<ukr>Та ні, це тобі спасибі, що не побоявся йти за Блискавкою до кінця. Ти вже вибач, що ми з Парфюмером затрималися в Мертвому Місті і не змогли відразу стрибнути в телепорт, слідом за тобою. Але обставини...</ukr>
-		<pln>O nie, to ja ci dziękuję, że nie bałeś się iść za Błyskawicą do końca. Wybacz nam, że razem z Perfumiarzem zatrzymaliśmy się w Martwym Mieście i nie mogliśmy natychmiast wskoczyć w teleport w ślad za tobą. Ale takie były okoliczności...</pln>
+		<rus>Да нет, это тебе спасибо, что не побоялся идти за Искрой до конца. Ты уж извини, что мы с Парфюмером задержались в Мёртвом Городе и не смогли сразу прыгнуть в телепорт, вслед за тобой. Но обстоятельства...</rus>
+		<eng>===No, thank you for not being afraid to follow through with Lightning to the end. I'm sorry that Perfumer and I stayed behind in the Dead City and weren't able to follow you into the teleporter. But circumstances...</eng>
+		<ukr>===Та ні, це тобі спасибі, що не побоявся йти за Блискавкою до кінця. Ти вже вибач, що ми з Парфюмером затрималися в Мертвому Місті і не змогли відразу стрибнути в телепорт, слідом за тобою. Але обставини...</ukr>
+		<pln>===O nie, to ja ci dziękuję, że nie bałeś się iść za Błyskawicą do końca. Wybacz nam, że razem z Perfumiarzem zatrzymaliśmy się w Martwym Mieście i nie mogliśmy natychmiast wskoczyć w teleport w ślad za tobą. Ale takie były okoliczności...</pln>
 	</string>
 	<string id="norman_pripyat_dialog_2">
 		<rus>Да всё нормально, дружище! Зато, когда Искру нашли, вон как мне спину прикрыли.</rus>
@@ -5381,14 +5418,14 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 		<ukr>Привіт, Іскра. Як ти?</ukr>
 	</string>
 	<string id="iskra_zaton_dialog_2">
-		<rus>Спасибо, сейчас уже намного лучше. Новое снадобье Доктора творит чудеса! Даже без артефакта, я думаю, он смог бы вылечить меня. Кстати, "Душу" мы ему вернули, но от денег он наотрез отказался. При случае, передай ему огромную благодарность от нас...\n Спасибо тебе, что не бросил меня искать и помог Парфюмеру вытащить меня из лап Молнии.</rus>
-		<eng>Спасибо, сейчас уже намного лучше. Новое снадобье Доктора творит чудеса! Даже без артефакта, я думаю, он смог бы вылечить меня. Кстати, "Душу" мы ему вернули, но от денег он наотрез отказался. При случае, передай ему огромную благодарность от нас...\n Спасибо тебе, что не бросил меня искать и помог Парфюмеру вытащить меня из лап Молнии.</eng>
-		<ukr>Спасибі, зараз вже набагато краще. Нове зілля Доктора творить чудеса! Навіть без артефакту, я думаю, він зміг би вилікувати мене. До речі, "Душу" ми йому повернули, але від грошей він навідріз відмовився. Принагідно, передай йому величезну подяку від нас...\n Спасибі тобі, що не залишив мої пошуки і допоміг Парфумеру витягнути мене з лап Блискавки.</ukr>
+		<rus>Спасибо, сейчас уже намного лучше. Новое снадобье Доктора творит чудеса! Даже без артефакта, я думаю, он смог бы вылечить меня. Кстати, "Душу" мы ему вернули, но от денег он наотрез отказался. При случае, передай ему огромную благодарность от нас...\n Спасибо тебе, что не бросил меня искать и помог Парфюмеру вытащить меня из "Д-6".</rus>
+		<eng>Спасибо, сейчас уже намного лучше. Новое снадобье Доктора творит чудеса! Даже без артефакта, я думаю, он смог бы вылечить меня. Кстати, "Душу" мы ему вернули, но от денег он наотрез отказался. При случае, передай ему огромную благодарность от нас...\n Спасибо тебе, что не бросил меня искать и помог Парфюмеру вытащить меня из "Д-6".</eng>
+		<ukr>Спасибі, зараз вже набагато краще. Нове зілля Доктора творить чудеса! Навіть без артефакту, я думаю, він зміг би вилікувати мене. До речі, "Душу" ми йому повернули, але від грошей він навідріз відмовився. Принагідно, передай йому величезну подяку від нас...\n Спасибі тобі, що не залишив мої пошуки і допоміг Парфумеру витягнути мене з "Д-6".</ukr>
 	</string>
 	<string id="iskra_zaton_dialog_3">
-		<rus>Да это тебе надо сказать спасибо за то, что отключила защиту, в Мёртвом городе, без твоей помощи я бы ничего не смог сделать. Так что оставить тебя на растерзание этой стерве я просто не имел права... Доку, при случае, передам от вас привет, само собой. Рад что у вас всё хорошо. Пока!</rus>
-		<eng>Да это тебе надо сказать спасибо за то, что отключила защиту, в Мёртвом городе, без твоей помощи я бы ничего не смог сделать. Так что оставить тебя на растерзание этой стерве я просто не имел права... Доку, при случае, передам от вас привет, само собой. Рад что у вас всё хорошо. Пока!</eng>
-		<ukr>Так це тобі треба сказати спасибі за те, що відключила захист, у Мертвому місті, без твоєї допомоги я б нічого не зміг зробити. Так що я залишити тебе на поталу цій стерві я просто не мав права... Доку, при нагоді, передам від вас привіт, само собою. Радий що у вас все добре. Бувай!</ukr>
+		<rus>Да это тебе надо сказать спасибо за то, что отключила защиту, в Мёртвом городе, без твоей помощи я бы ничего не смог сделать. Так что оставить тебя на растерзание этой мрази я просто не имел права... Доку, при случае, передам от вас привет, само собой. Рад что у вас всё хорошо. Пока!</rus>
+		<eng>Да это тебе надо сказать спасибо за то, что отключила защиту, в Мёртвом городе, без твоей помощи я бы ничего не смог сделать. Так что оставить тебя на растерзание этой мрази я просто не имел права... Доку, при случае, передам от вас привет, само собой. Рад что у вас всё хорошо. Пока!</eng>
+		<ukr>===Так це тобі треба сказати спасибі за те, що відключила захист, у Мертвому місті, без твоєї допомоги я б нічого не зміг зробити. Так що я залишити тебе на поталу цій мразі я просто не мав права... Доку, при нагоді, передам від вас привіт, само собою. Радий що у вас все добре. Бувай!</ukr>
 	</string>
 
 	<!-- Квест Винзора на ПЗУ -->
@@ -5618,10 +5655,10 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 		<pln>Oddaj mi ich, co? Zapłacę ci za nich wykup.</pln>
 	</string>
 	<string id="borov_otpusti_dolgarey_5">
-		<rus>Тебе зачем они? Ты что, в мать Терезу решил поиграть? Хотя... дело твоё, гони сороковник и забирай. Только не тяни, забирай их прямо сейчас, я ребят долго сдерживать не смогу, уж больно они злые на долгашей, много наших братков перевалили.</rus>
-		<eng>What do you need them for? Did you decide to play Mother Teresa? Although... It's up to you, go ahead and give me forty thousand. Just don't wait, take them right now, I can't restrain the guys for very long, they're angry at Duty, a lot of our brothers have died because of them.</eng>
-		<ukr>Тобі навіщо вони? Ти що, у матір Терезу вирішив пограти? Хоча... справа твоя, гони сороківник і забирай. Тільки не тягни, забирай їх прямо зараз, я хлопців довго стримувати не зможу, аж надто вони злі на Долгашів, багато наших братків перевалили.</ukr>
-		<pln>A po co ci oni? Ty co, bawisz się w matkę Teresę? Chociaż... twoja sprawa, dawaj 40000 i możesz ich brać. Tylko nie przeciągaj sprawy, bierz ich już teraz, nie dam rady długo powstrzymać chłopaków, są bardzo cięci na powinnościowców, dużo naszych braciaków zabili.</pln>
+		<rus>Тебе зачем они? Ты что, в мать Терезу решил поиграть? Хотя... дело твоё, гони сороковник и забирай. Только не тяни, забирай их прямо сейчас, я ребят долго сдерживать не смогу, уж больно они злые на долгашей, много наших братков перевалили. Только проконтролируй, чтобы убрались совсем из Тёмной долины, а не только с моей базы, т.е. проводи их до самого перехода на Свалку. А то где-нибудь по пути мои ребята завалят их, будешь потом предъявы мне кидать.</rus>
+		<eng>===What do you need them for? Did you decide to play Mother Teresa? Although... It's up to you, go ahead and give me forty thousand. Just don't wait, take them right now, I can't restrain the guys for very long, they're angry at Duty, a lot of our brothers have died because of them.</eng>
+		<ukr>===Тобі навіщо вони? Ти що, у матір Терезу вирішив пограти? Хоча... справа твоя, гони сороківник і забирай. Тільки не тягни, забирай їх прямо зараз, я хлопців довго стримувати не зможу, аж надто вони злі на Долгашів, багато наших братків перевалили.</ukr>
+		<pln>===A po co ci oni? Ty co, bawisz się w matkę Teresę? Chociaż... twoja sprawa, dawaj 40000 i możesz ich brać. Tylko nie przeciągaj sprawy, bierz ich już teraz, nie dam rady długo powstrzymać chłopaków, są bardzo cięci na powinnościowców, dużo naszych braciaków zabili.</pln>
 	</string>
 	<string id="borov_otpusti_dolgarey_6">
 		<rus>Не вопрос, забирай деньги.</rus>
@@ -8459,5 +8496,82 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 		<eng>Нету у меня такой суммы... Пойду лучше экзу тебе искать.</eng>
 		<ukr>Нема у мене такої суми... Піду краще екзу тобі шукати.</ukr>
 	</string>
+
+<!-- Диалог с Долговязым по поводу апгрейда фотика -->
+	<string id="dolgovyazyi_fot_upgrade_0">
+		<rus>Долговязый, а ты только оружие модернизируешь или "мирную технику" тоже можешь улучшить?</rus>
+		<eng>===Долговязый, а ты только оружие модернизируешь или "мирную технику" тоже можешь улучшить?</eng>
+		<ukr>===Долговязый, а ты только оружие модернизируешь или "мирную технику" тоже можешь улучшить?</ukr>
+		<pln>===Долговязый, а ты только оружие модернизируешь или "мирную технику" тоже можешь улучшить?</pln>
+	</string>
+	<string id="dolgovyazyi_fot_upgrade_1">
+		<rus>Про фотоаппарат спрашиваешь? Да, если цифровой, то смогу установить блок распознавания и захвата цели. Здорово облегчает фотографирование монстров, да и другие снимки тоже значительно легче станет делать.</rus>
+		<eng>===Про фотоаппарат спрашиваешь? Да, если цифровой, то смогу установить блок распознавания и захвата цели. Здорово облегчает фотографирование монстров, да и другие снимки тоже значительно легче станет делать.</eng>
+		<ukr>===Про фотоаппарат спрашиваешь? Да, если цифровой, то смогу установить блок распознавания и захвата цели. Здорово облегчает фотографирование монстров, да и другие снимки тоже значительно легче станет делать.</ukr>
+		<pln>===Про фотоаппарат спрашиваешь? Да, если цифровой, то смогу установить блок распознавания и захвата цели. Здорово облегчает фотографирование монстров, да и другие снимки тоже значительно легче станет делать.</pln>
+	</string>
+	<string id="dolgovyazyi_fot_upgrade_2">
+		<rus>А не врёшь?</rus>
+		<eng>===А не врёшь?</eng>
+		<ukr>===А не врёшь?</ukr>
+		<pln>===А не врёшь?</pln>
+	</string>
+	<string id="dolgovyazyi_fot_upgrade_3">
+		<rus>Я пять лет в филиале Canon проработал, зачем мне пургу гнать? Тем более, я всегда здесь, если что, спросить за качество завсегда можно. Моя цена за работу: 50 косарей и деньги вперёд!</rus>
+		<eng>===Я пять лет в филиале Canon проработал, зачем мне пургу гнать? Тем более, я всегда здесь, если что, спросить за качество завсегда можно. Моя цена за работу: 50 косарей и деньги вперёд!</eng>
+		<ukr>===Я пять лет в филиале Canon проработал, зачем мне пургу гнать? Тем более, я всегда здесь, если что, спросить за качество завсегда можно. Моя цена за работу: 50 косарей и деньги вперёд!</ukr>
+		<pln>===Я пять лет в филиале Canon проработал, зачем мне пургу гнать? Тем более, я всегда здесь, если что, спросить за качество завсегда можно. Моя цена за работу: 50 косарей и деньги вперёд!</pln>
+	</string>
+	<string id="dolgovyazyi_fot_upgrade_4">
+		<rus>А не дороговато? Сам фотик в пять раз меньше стоит. А ты за один блок полтос хочешь. По-моему, грубишь, а, Длинный?</rus>
+		<eng>===А не дороговато? Сам фотик в пять раз меньше стоит. А ты за один блок полтос хочешь. По-моему, грубишь, а, Длинный?</eng>
+		<ukr>===А не дороговато? Сам фотик в пять раз меньше стоит. А ты за один блок полтос хочешь. По-моему, грубишь, а, Длинный?</ukr>
+		<pln>===А не дороговато? Сам фотик в пять раз меньше стоит. А ты за один блок полтос хочешь. По-моему, грубишь, а, Длинный?</pln>
+	</string>
+	<string id="dolgovyazyi_fot_upgrade_5">
+		<rus>Нормальная цена за японский блок. Больше нигде тебе такой не смогут установить, работа узкопрофильная. К тому же, сделаю без очереди, отодвину постоянных клиентов и займусь твоим фотиком сейчас же, без проволочек. Сам понимаешь - это стоит денег.</rus>
+		<eng>===Нормальная цена за японский блок. Больше нигде тебе такой не смогут установить, работа узкопрофильная. К тому же, сделаю без очереди, отодвину постоянных клиентов и займусь твоим фотиком сейчас же, без проволочек. Сам понимаешь - это стоит денег.</eng>
+		<ukr>===Нормальная цена за японский блок. Больше нигде тебе такой не смогут установить, работа узкопрофильная. К тому же, сделаю без очереди, отодвину постоянных клиентов и займусь твоим фотиком сейчас же, без проволочек. Сам понимаешь - это стоит денег.</ukr>
+		<pln>===Нормальная цена за японский блок. Больше нигде тебе такой не смогут установить, работа узкопрофильная. К тому же, сделаю без очереди, отодвину постоянных клиентов и займусь твоим фотиком сейчас же, без проволочек. Сам понимаешь - это стоит денег.</pln>
+	</string>
+	<string id="dolgovyazyi_fot_upgrade_6">
+		<rus>Ладно, Длинный, уговорил. Деньги ещё заработаю...</rus>
+		<eng>===Ладно, Длинный, уговорил. Деньги ещё заработаю...</eng>
+		<ukr>===Ладно, Длинный, уговорил. Деньги ещё заработаю...</ukr>
+		<pln>===Ладно, Длинный, уговорил. Деньги ещё заработаю...</pln>
+	</string>
+	<string id="dolgovyazyi_fot_upgrade_7">
+		<rus>Ну не... всё равно - дорого. Денег и так вечно не хватает! Я уж лучше по-старинке как-нибудь, обойдусь...</rus>
+		<eng>===Ну не... всё равно - дорого. Денег и так вечно не хватает! Я уж лучше по-старинке как-нибудь, обойдусь...</eng>
+		<ukr>===Ну не... всё равно - дорого. Денег и так вечно не хватает! Я уж лучше по-старинке как-нибудь, обойдусь...</ukr>
+		<pln>===Ну не... всё равно - дорого. Денег и так вечно не хватает! Я уж лучше по-старинке как-нибудь, обойдусь...</pln>
+	</string>
+	<string id="dolgovyazyi_fot_upgrade_8">
+		<rus>Вот и ладушки, по рукам. Погуляй где-нибудь часик-два... За это время я управлюсь.</rus>
+		<eng>===Вот и ладушки, по рукам. Погуляй где-нибудь часик-два... За это время я управлюсь.</eng>
+		<ukr>===Вот и ладушки, по рукам. Погуляй где-нибудь часик-два... За это время я управлюсь.</ukr>
+		<pln>===Вот и ладушки, по рукам. Погуляй где-нибудь часик-два... За это время я управлюсь.</pln>
+	</string>
+
+<!-- Забираем фотик -->
+	<string id="dolgovyazyi_fot_upgrade1_0">
+		<rus>Ну что, готов мой фотоаппарат?</rus>
+		<eng>===Ну что, готов мой фотоаппарат?</eng>
+		<ukr>===Ну что, готов мой фотоаппарат?</ukr>
+		<pln>===Ну что, готов мой фотоаппарат?</pln>
+	</string>
+	<string id="dolgovyazyi_fot_upgrade1_1">
+		<rus>Конечно. Я же обещал сделать без очереди. Вот, забирай, теперь фотик будет за тебя всё делать, тебе только кнопку останется нажать.</rus>
+		<eng>===Конечно. Я же обещал сделать без очереди. Вот, забирай, теперь фотик будет за тебя всё делать, тебе только кнопку останется нажать.</eng>
+		<ukr>===Конечно. Я же обещал сделать без очереди. Вот, забирай, теперь фотик будет за тебя всё делать, тебе только кнопку останется нажать.</ukr>
+		<pln>===Конечно. Я же обещал сделать без очереди. Вот, забирай, теперь фотик будет за тебя всё делать, тебе только кнопку останется нажать.</pln>
+	</string>
+	<string id="dolgovyazyi_fot_upgrade1_2">
+		<rus>Спасибо за оперативность!</rus>
+		<eng>===Спасибо за оперативность!</eng>
+		<ukr>===Спасибо за оперативность!</ukr>
+		<pln>===Спасибо за оперативность!</pln>
+	</string>
+
 
 </string_table>

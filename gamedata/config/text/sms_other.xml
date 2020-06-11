@@ -281,16 +281,16 @@
 		<pln>Masz silny krwotok. Jeśli dysponujesz preparatami medycznymi, to System Podtrzymania Życia przeprowadzi leczenie.</pln>
 	</string>
 	<string id="new_system_rad_0_0">
-		<rus>Полученная доза радиации близка к критической. Если у Вас есть антидоты, то Система Жизненной Поддержки выведет радиацию из организма.</rus>
-		<eng>The dose of received radiation is close to critical. If you have antidotes, then the Life Support System will deduce radiation from the body.</eng>
-		<ukr>Отримана доза радіації близька до критичної, якщо у вас є антидоти, то Система Життєвої Підтримки виведе радіацію з організму при небезпечній втраті здоров'я</ukr>
-		<fra>La dose de rayonnement reçue est presque critique. Si vous avez des antidotes, le système d'assistance à la vie supprimera les radiations du corps.</fra>
-		<pln>Otrzymana dawka radiacji jest bliska krytycznej. Jeśli dysponujesz antidotum, to System Podtrzymania Życia usunie radiację z organizmu.</pln>
+		<rus>Полученная доза радиации близка к критической. Если у Вас есть антирады, то Система Жизненной Поддержки выведет радиацию из организма.</rus>
+		<eng>===The dose of received radiation is close to critical. If you have antidotes, then the Life Support System will deduce radiation from the body.</eng>
+		<ukr>===Отримана доза радіації близька до критичної, якщо у вас є антидоти, то Система Життєвої Підтримки виведе радіацію з організму при небезпечній втраті здоров'я</ukr>
+		<fra>===La dose de rayonnement reçue est presque critique. Si vous avez des antidotes, le système d'assistance à la vie supprimera les radiations du corps.</fra>
+		<pln>===Otrzymana dawka radiacji jest bliska krytycznej. Jeśli dysponujesz antidotum, to System Podtrzymania Życia usunie radiację z organizmu.</pln>
 	</string>
 	<string id="new_anti_dot_0_0">
 		<rus>Полученная доза пси-излучения привела к Вашему зомбированию. Если у вас есть антизомбины, то Система Жизненной Поддержки выведет пси-излучение из организма.</rus>
 		<eng>The dose of received psi radiation led to your zombification. If you have antizombins, then the Life Support System will remove psi radiation from the body.</eng>
-		<ukr>Отримана доза псі-випромінювання привела до вашого зомбування. Якщо у вас є антидоти, то Система Життєвої Підтримки виведе псі-випромінювання з організму</ukr>
+		<ukr>Отримана доза псі-випромінювання привела до вашого зомбування. Якщо у вас є антизомбіни, то Система Життєвої Підтримки виведе псі-випромінювання з організму</ukr>
 		<fra>La dose de radiation psi quque vous avez reçu va bientôt vous transformer en...Zombie! .Si vous avez des antizombines, le système de soutien vital supprimera les radiations psi du corps.</fra>
 		<pln>Otrzymana dawka promieniowania psionicznego doprowadziła do twojej zombifikacji. Jeśli dysponujesz antidotum, to System Podtrzymania Życia usunie efekty promieniowania psionicznego na twój organizm.</pln>
 	</string>
@@ -603,39 +603,16 @@
 		<pln>Znaleziona informacja</pln>
 	</string>
 	<string id="sms_koloda_kuznec">
-		<rus>Найдена карта из колоды Кузнецова</rus>
-		<eng>===Найдена карта из колоды Кузнецова</eng>
-		<ukr>Знайдена карта з колоди Кузнєцова</ukr>
-		<fra>===Найдена карта из колоды Кузнецова</fra>
-		<pln>===Найдена карта из колоды Кузнецова</pln>
+		<rus>Найдена карта из колоды Кузнецова, %%c[sms_red]%d%%c[default] из %d</rus>
+		<ukr>Знайдена карта з колоди Кузнєцова, %%c[sms_red]%d%%c[default] из %d</ukr>
 	</string>
-	<string id="sms_koloda_kuznec_have_all">
-		<rus>Вся колода Кузнецова собрана</rus>
-		<eng>===Вся колода Кузнецова собрана</eng>
-		<ukr>Вся колода Кузнєцова зібрана</ukr>
-		<fra>===Вся колода Кузнецова собрана</fra>
-		<pln>===Вся колода Кузнецова собрана</pln>
+	<string id="sms_quest_vodka">
+		<rus>Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</rus>
+		<ukr>===Ви поцілили у 50 пляшок, %%c[sms_red]%d%%c[default] из %d</ukr>
 	</string>
-	<string id="sms_quest_vodka_50">
-		<rus>Вы попали в 50 бутылок</rus>
-		<eng>===Найдена карта из колоды Кузнецова</eng>
-		<ukr>Ви поцілили у 50 пляшок</ukr>
-		<fra>===Найдена карта из колоды Кузнецова</fra>
-		<pln>===Найдена карта из колоды Кузнецова</pln>
-	</string>
-	<string id="sms_quest_vodka_100">
-		<rus>Вы попали в 100 бутылок</rus>
-		<eng>===Найдена карта из колоды Кузнецова</eng>
-		<ukr>Ви поцілили у 100 пляшок</ukr>
-		<fra>===Найдена карта из колоды Кузнецова</fra>
-		<pln>===Найдена карта из колоды Кузнецова</pln>
-	</string>
-	<string id="sms_quest_vodka_120">
-		<rus>Вы попали в 120 бутылок</rus>
-		<eng>===Найдена карта из колоды Кузнецова</eng>
-		<ukr>Ви поцілили у 120 пляшок</ukr>
-		<fra>===Найдена карта из колоды Кузнецова</fra>
-		<pln>===Найдена карта из колоды Кузнецова</pln>
+	<string id="sms_akill_punisher">
+		<rus>Хэдшот, %%c[sms_red]%d%%c[default] из %d</rus>
+		<ukr>===Знайдена карта з колоди Кузнєцова, %%c[red]%d%%c[default] из %d</ukr>
 	</string>
 	<string id="sms_info_dead_stalker">
 		<rus>Мёртвый сталкер</rus>

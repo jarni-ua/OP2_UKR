@@ -540,6 +540,11 @@
 		<fra>Dessins de l'Armurier</fra>
 		<pln>Schematy Zbrojmistrza</pln>
 	</string>
+	<string id="task_upgrade_vssm_0">
+		<rus>Сборка ВССМ «Винторез»</rus>
+		<eng>===VSSM «Vintorez»</eng>
+		<ukr>===ВССМ «Гвинторіз»</ukr>
+	</string>
 
 	<string id="task_adres_chertez_0">
 		<rus>Адрес Оружейника</rus>
@@ -1156,11 +1161,11 @@
 		<pln>Umowa z wojskowymi</pln>
 	</string>
 	<string id="task_kuznec_dogovor_1">
-		<rus>Найти пистолет Walther P.38</rus>
-		<eng>Find a Walther P.38 pistol</eng>
-		<ukr>Знайти пістолет Walther P.38</ukr>
-		<fra>Trouvez un pistolet Walther P.38</fra>
-		<pln>Zdobyć pistolet Walther P.38</pln>
+		<rus>Найти наградной пистолет Walther P.38</rus>
+		<eng>Find a Walther P.38 award pistol</eng>
+		<ukr>Знайти нагородний пістолет Walther P.38</ukr>
+		<fra>===Trouvez un pistolet Walther P.38</fra>
+		<pln>Zdobyć nagrodowy pistolet Walther P.38</pln>
 	</string>
 	<string id="task_kuznec_dogovor_2">
 		<rus>Выкрасть баллон из Бункера Управления</rus>
@@ -5952,6 +5957,19 @@
 		<rus>Отнести аккумулятор Шурупу</rus>
 		<eng>===Рассказать о выполнении Архаре</eng>
 		<ukr>Віднести акумулятор Шурупу</ukr>
+	</string>
+
+	<string id="task_akill_punisher_0">
+		<rus>Каратель</rus>
+		<ukr>===Каратель</ukr>
+	</string>
+	<string id="task_akill_punisher_1">
+		<rus>Ликвидировать наёмников Блэквотер одним выстрелом в голову</rus>
+		<ukr>===Відшукати покинутий танк і встановити на нього радіомаяк</ukr>
+	</string>
+	<string id="task_akill_punisher_2">
+		<rus>Вернуться к Акиллу</rus>
+		<ukr>Повернутися до Акіла</ukr>
 	</string>
 
 </string_table>

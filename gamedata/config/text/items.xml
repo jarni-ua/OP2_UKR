@@ -3848,18 +3848,6 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		<ukr>Цей КПК належав Хамелеону - сталкеру, який заробляв на життя крадіжками в Зоні. Серед записів є цікаві подробиці про угруповання, їхніх лідерів, численні схеми патрулів і координати схованок зі спорядженням.</ukr>
 		<pln>Te PDA należało do Kameleona - stalkera zajmującego się złodziejstwem w Zonie. Wśród zapisów są interesujące szczegóły o ugrupowaniach, ich liderach, wielu schematach patroli i współrzędnych schowków z ekwipunkiem.</pln>
 	</string>
-	<string id="klad_vodka_name">
-		<rus>Бутылка из клада</rus>
-		<eng>Treasure bottle</eng>
-		<ukr>Пляшка з скарбу</ukr>
-		<pln>Butelka</pln>
-	</string>
-	<string id="klad_vodka">
-		<rus>Пустая бутылка водки, почерневшая от грязи. Хотя, судя по шуму при встряхивании, внутри что-то есть.</rus>
-		<eng>An empty bottle of vodka blackened from dirt. Although, judging by the noise when shaking, there is something inside.</eng>
-		<ukr>Порожня пляшка горілки, почорніла від бруду. Хоча, судячи з шуму при струшуванні, всередині щось є.</ukr>
-		<pln>Pusta butelka po wódce, cała poczerniała z brudu. Chociaż, sądząc po hałasie przy potrząsaniu, wewnątrz coś jest.</pln>
-	</string>
 	<string id="metall_detector_name">
 		<rus>Металлоискатель</rus>
 		<eng>Metal detector</eng>
@@ -4313,15 +4301,15 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		Nie wiem ile minęło czasu. Bardzo chce mi się pić! Na dole mutanty. Czekam na pomoc!\n \n \n \n \n</pln>
 	</string>
 	<string id="antizombie">
-		<rus>Антидот</rus>
+		<rus>Антизомбин</rus>
 		<eng>Anti-Zombax</eng>
-		<ukr>Антидот</ukr>
+		<ukr>Антизомбін</ukr>
 		<pln>Antyzombin</pln>
 	</string>
 	<string id="enc_equipment_medi_antizombie">
-		<rus>Новейшая разработка от Dharma Initiative. Она сделала прорыв в науке. Антидот полностью лечит от пси-излучения. Возможна также практика на ранних стадиях зомбирования, но для этого нужно произвести две инъекции. Должен иметь при себе КАЖДЫЙ сталкер. Единственный недостаток - цена.</rus>
-		<eng>A latest development from the Dharma Initiative. It made a scientific breakthrough. The antidote cures psi-radiation effects completely. It is also recommended for use in the early stages of zombification, but two injections would be required in that case. Is a 'must have' for every stalker. The only flaw is the price.</eng>
-		<ukr>Новітня розробка від Dharma Initiative. Вона зробила прорив у науці. Антидот повністю лікує від псі-випромінювання. Можлива, також, практика на ранніх стадіях зомбування, але для цього потрібно провести дві ін'єкції. Повинен мати при собі КОЖЕН сталкер. Єдиний недолік - ціна.</ukr>
+		<rus>Новейшая разработка от Dharma Initiative. Она сделала прорыв в науке. Антизомбин полностью снимает  эффекты воздействия пси-излучения. Возможна также практика на ранних стадиях зомбирования, но для этого нужно произвести две инъекции. Должен иметь при себе КАЖДЫЙ сталкер. Единственный недостаток - цена.</rus>
+		<eng>A latest development from the Dharma Initiative. It made a scientific breakthrough. Anti-Zombax cures psi-radiation effects completely. It is also recommended for use in the early stages of zombification, but two injections would be required in that case. Is a 'must have' for every stalker. The only flaw is the price.</eng>
+		<ukr>Новітня розробка від Dharma Initiative. Вона зробила прорив у науці. Антизомбін повністю лікує від псі-випромінювання. Можлива, також, практика на ранніх стадіях зомбування, але для цього потрібно провести дві ін'єкції. Повинен мати при собі КОЖЕН сталкер. Єдиний недолік - ціна.</ukr>
 		<pln>Najnowszy produkt firmy Dharma Initiative, która dokonała przełomu w nauce. Antidotum, które całkowicie leczy efekty promieniowania psionicznego. Można stosować nawet we wczesnych stadiach zombifikacji, jednakże w takim przypadku konieczne jest przyjęcie dwóch dawek. Ten specyfik powinien mieć przy sobie KAŻDY stalker. Jedynym minusem jest cena.</pln>
 	</string>
 	<string id="portable_charger_inv">
@@ -4347,6 +4335,18 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		<eng>A PDA of Lightning's, apparently, contains a lot of valuable information, but it is encrypted.</eng>
 		<ukr>КПК Блискавки, судячи з усього, містить багато цінної інформації, але зашифрований.</ukr>
 		<pln>PDA Błyskawicy, z pewnością zawiera dużo cennych informacji, ale jest zaszyfrowane.</pln>
+	</string>
+		<string id="pda_zlobnuy">
+		<rus>ПДА Злобного</rus>
+		<eng>===Lightning's PDA</eng>
+		<ukr>===КПК Блискавки</ukr>
+		<pln>===PDA Błyskawicy</pln>
+	</string>
+	<string id="item_pda_zlobnuy">
+		<rus>ПДА Злобного, по всей видимости, содержит много ценной информации, но зашифрован.</rus>
+		<eng>===A PDA of Lightning's, apparently, contains a lot of valuable information, but it is encrypted.</eng>
+		<ukr>===КПК Блискавки, судячи з усього, містить багато цінної інформації, але зашифрований.</ukr>
+		<pln>===PDA Błyskawicy, z pewnością zawiera dużo cennych informacji, ale jest zaszyfrowane.</pln>
 	</string>
 	<string id="lekarstvo_for_iskra">
 		<rus>Экспериментальная мазь Доктора</rus>
@@ -4531,6 +4531,206 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		<rus>Танковый аккумулятор 6-СТЭН-140-М повышенной мощности и ёмкости.</rus>
 		<eng>===Танковый аккумулятор 6-СТЭН-140-М повышенной мощности и ёмкости.</eng>
 		<ukr>Танковий акумулятор 6-СТЕН-140-М підвищеної потужності і ємності.</ukr>
+	</string>
+	<string id="vssm_module_name">
+		<rus>Крепление ТОЗ 6П29М</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module">
+		<rus>Крепление ТОЗ 6П29М, разработанное для модернизированной версии снайперской винтовки ВСС. Устанавливается на штатный глушитель ВСС и формирует 3 планки, предназначенные для установки на оружие дополнительного оборудования.</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module2_name">
+		<rus>Пистолетная рукоятка Magpul MOE</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module2">
+		<rus>Полимерная пистолетная рукоятка Magpul MOE (Magpul Original Equipment). Благодаря эргономике и антискользящей текстуре рукоятки, удержание и контроль оружия становится комфортнее. Внутри рукоятки находится место под контейнеры для ЗИП или элементов питания.</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module3_name">
+		<rus>Направляющая NcStar MPR45</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module3">
+		<rus>Универсальная направляющая от компании NcStar, позволяющая установить вспомогательный прицел под углом 45 градусов.</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module4_name">
+		<rus>Направляющая "Тактика-Тула" 10000</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module4">
+		<rus>Универсальная направляющая для крышки ствольной коробки производства компании "Тактика-Тула". Предназначена для установки оптических, коллиматорных прицелов, ЛЦУ и прочих приборов и приспособлений.</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module5_name">
+		<rus>Магазин СР3М.130 9x39</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module5">
+		<rus>30-ти зарядный стальной магазин ЦНИИТОЧМАШ СР3М.130 под патрон 9x39 для CР3М, ВСС «Винторез» и АС «Вал».</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module6_name">
+		<rus>Рукоятка затвора РП-1 для АК и совместимых</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module6">
+		<rus>Рукоятка затвора РП-1 является фрезерованным изделием, изготовленным из сплава алюминия Д16Т с покрытием чёрного цвета, совместима со всеми моделями автомата Калашникова и карабинами, созданными на базе АК. Установка рукоятки РП-1 позволяет увеличить штатную рукоятку затвора и, таким образом, улучшая эргономику оружия, делает обращение с ним более удобным. Монтируется РП-1 на штатную рукоятку затвора посредством входящих в комплект винтов.</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module7_name">
+		<rus>Труба приклада SI "Advanced receiver extension"</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module7">
+		<rus>Труба для установки прикладов производства компании "Strike industries", военного образца, устанавливается на автоматы и карабины семейства AR-15.</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module8_name">
+		<rus>Приклад Magpul MOE Carbine SG</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module8">
+		<rus>Быстросъёмный приклад с телескопической трубкой военного образца. Форма рамки позволяет избежать заклинивая и случайного срабатывания отпирающего рычага, а резиновый затыльник, при стандартной толщине, меньше скользит на броне или модульном снаряжении. Снабжён двумя отверстиями под ремни (до 3 см шириной) и одним под паракордовое кольцо или карабин.</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module9_name">
+		<rus>Затыльник Magpul Rubber Butt-Pad</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module9">
+		<rus>Комплектный затыльник Magpul Rubber Butt-Pad для прикладов серии MOE Carbine, однако может быть установлен и на другие модели серии. Заменяет стандартный затыльник, добавляя при этом около 13 мм толщины. Предназначен для улучшения сцепления с плечом стрелка, а также для снижения влияния отдачи, благодаря своей конструкции.</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module10_name">
+		<rus>Тактический фонарь Steiner LAS/TAC 2</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module10">
+		<rus>Тактический светодиодный фонарь LAS/TAC 2 производства Steiner.</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module11_name">
+		<rus>Тактический блок Зенит "Перст-3"</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module11">
+		<rus>Тактический блок Зенит "Перст-3", совмещающий в себе лазерные целеуказатели в видимом и инфракрасном диапазоне, а также инфракрасный осветитель. Источник света ЛЦУ: совмещённый модуль полупроводниковых лазеров красного цвета (длина волны 635 нм) и ИК (длина волны 850 нм) свечения. Источник света ИК: лазерный диод (длина волны 850 нм). Включение/выключение производится как от кнопок, расположенных на корпусе, так и с помощью выносных тактических кнопок.</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module12_name">
+		<rus>Тактическая рукоятка Зенит "РК-2"</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module12">
+		<rus>Рукоятка РК-2 устанавливается на нижнюю планку Weaver и служит для оперативного управления оружием при стрельбе. Выполнена из алюминиевой заготовки методом фрезеровки, что значительно повышает прочность и износоустойчивость. В нижней части присутствует герметичная крышка, открывающая доступ к довольно объёмном отсеку для хранения различных мелочей вроде батареек, пенала для чистки и т.д.</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module13_name">
+		<rus>Коллиматорный прицел Aimpoint "COMP M4"</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module13">
+		<rus>Коллиматорный прицел "COMP M4" производства компании Aimpoint, поставляется в вооружённые силы стран НАТО с 1997 года. Питанием служит одна "пальчиковая" батарейка (АА) ресурсом работы до 80000 часов (8 лет). Прицельная марка (точка) диаметром 2 МОА имеет 7 режимов яркости (NVD) для ночного видения и 9 режимов яркости для дневной настройки. Коллиматор Comp M4 совместим с любыми поколениями приборов ночного видения и отлично подходит для использования вместе с оптическим увеличителем (x3 Magnifier). Клик ввода поправок равен 16 мм на 100 метров. Прицел выдерживает экстремальные температуры и высочайшие нагрузки, готов к любому обращению, безотказный и надёжный.</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module14_name">
+		<rus>Крепление LRP для прицелов Aimpont "COMP M4"</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module14">
+		<rus>База-крепление Aimpoint LRP для прицелов серии "COMP M4" на планки Weaver и Pikatinny.</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module15_name">
+		<rus>Крепление 25 мм для установки аксессуаров</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module15">
+		<rus>Универсальная база для установки аксессуаров 25 мм на направляющие Weaver.</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module16_name">
+		<rus>Повышающая проставка "Standart Spacer" для прицелов Aimpoint</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module16">
+		<rus>Так называемый "Raiser mount". Повышает линию прицеливания для установленного на него прицела.</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module17_name">
+		<rus>Переходник складной для трубы приклада</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module17">
+		<rus>Адаптер для установки трубы под телескопические приклады на рельсу.</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module18_name">
+		<rus>Крепление Aimpoint Twist Mount</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module18">
+		<rus>База-крепление для установки на основание Picatinny, предусматривает соосное крепление трёх- и шестикратных увеличителей Aimpoint с кольцом под основание Twistmount.</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module19_name">
+		<rus>Крышка с антибликовой блендой Aimpoint</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module19">
+		<rus>Откидная прозрачная крышка со встроенной антибликовой блендой Aimpoint Flip-Up Front Cover With Ard Transparent. Защищает линзу от механических воздействий и препятствует "бликованию".</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module20_name">
+		<rus>Подщёчник Magpul</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+	</string>
+	<string id="vssm_module20">
+		<rus>Подщёчник для телескопических прикладов MOE и CTR высотой 1,9 см. Система быстрого монтажа - изделие просто защёлкивается на прикладе, что позволяет легко и без посторонних инструментов установить его даже в полевых условиях; оборудован рёбрами жёсткости, благодаря чему обладает высокой ударопрочностью и не боится экстремальных нагрузок; шероховатая поверхность не скользит и в то же время не создаёт неприятных тактильных ощущений; обтекаемая форма не даёт конструкции цепляться за одежду, ремни или ветки.</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
 	</string>
 
 	<string id="drug_booster">
