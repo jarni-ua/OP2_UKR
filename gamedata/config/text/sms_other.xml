@@ -283,7 +283,7 @@
 	<string id="new_system_rad_0_0">
 		<rus>Полученная доза радиации близка к критической. Если у Вас есть антирады, то Система Жизненной Поддержки выведет радиацию из организма.</rus>
 		<eng>===The dose of received radiation is close to critical. If you have antidotes, then the Life Support System will deduce radiation from the body.</eng>
-		<ukr>===Отримана доза радіації близька до критичної, якщо у вас є антидоти, то Система Життєвої Підтримки виведе радіацію з організму при небезпечній втраті здоров'я</ukr>
+		<ukr>Отримана доза радіації близька до критичної, якщо у вас є антиради, то Система Життєвої Підтримки виведе радіацію з організму при небезпечній втраті здоров'я</ukr>
 		<fra>===La dose de rayonnement reçue est presque critique. Si vous avez des antidotes, le système d'assistance à la vie supprimera les radiations du corps.</fra>
 		<pln>===Otrzymana dawka radiacji jest bliska krytycznej. Jeśli dysponujesz antidotum, to System Podtrzymania Życia usunie radiację z organizmu.</pln>
 	</string>
@@ -604,15 +604,15 @@
 	</string>
 	<string id="sms_koloda_kuznec">
 		<rus>Найдена карта из колоды Кузнецова, %%c[sms_red]%d%%c[default] из %d</rus>
-		<ukr>Знайдена карта з колоди Кузнєцова, %%c[sms_red]%d%%c[default] из %d</ukr>
+		<ukr>Знайдена карта з колоди Кузнєцова, %%c[sms_red]%d%%c[default] із %d</ukr>
 	</string>
 	<string id="sms_quest_vodka">
 		<rus>Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</rus>
-		<ukr>===Ви поцілили у 50 пляшок, %%c[sms_red]%d%%c[default] из %d</ukr>
+		<ukr>Ви поцілили у пляшку, %%c[sms_red]%d%%c[default] із %d</ukr>
 	</string>
 	<string id="sms_akill_punisher">
 		<rus>Хэдшот, %%c[sms_red]%d%%c[default] из %d</rus>
-		<ukr>===Знайдена карта з колоди Кузнєцова, %%c[red]%d%%c[default] из %d</ukr>
+		<ukr>Хедшот, %%c[red]%d%%c[default] із %d</ukr>
 	</string>
 	<string id="sms_info_dead_stalker">
 		<rus>Мёртвый сталкер</rus>
