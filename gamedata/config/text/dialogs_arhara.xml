@@ -1420,7 +1420,7 @@
 	<string id="lysyi_klad_nayti_5">
 		<rus>Вход находится в туннеле на Свалке, правда, инфа не проверенная... А вознаграждение - денежная компенсация, как сейчас говорят - оплата достойная. Да, ходят разговоры, что в Пещере есть шахтёр или шахтёры - обязательно поговори с ними. Может, подскажут что или выход помогут отыскать.</rus>
 		<eng>===It's said there are two entrances, though the information is not verified... Both are in a tunnel - one at the Dump, the other, at the Agroprom. And the reward - is monetary compensation, as they say now - it pays a decent amount. Well, they say, there's a miner or miners in the Cave - be sure to talk to them. Maybe they'll tell you, or they'll help you to find a way out.</eng>
-		<ukr>===Я знаю цілих 2 входи, правда інфа не перевірена... Обидва знаходяться в тунелі - один на Звалищі, інший на Агропромі. А винагорода - грошова компенсація, як зараз кажуть - оплата гідна. Так, кажуть, в Печері є шахтар чи шахтарі - обов'язково поговори з ними - може що підкажуть, або вихід допоможуть відшукати.</ukr>
+		<ukr>Вхід знаходиться в тунелі на Звалищі, правда, інфа не перевірена... А винагорода - грошова компенсація, як зараз кажуть - оплата гідна. Так, ходять чутки, що в Печері є шахтар чи шахтарі - обов'язково поговори з ними. Може підкажуть щось або вихід допоможуть відшукати.</ukr>
 		<pln>===Znam aż dwa wejścia, chociaż, co prawda, informacja nie jest do końca sprawdzona... Oba znajdują się w tunelach - jedno na Wysypisku, drugie na Agropromie. A wynagrodzenie - rekompensata finansowa, jak teraz to nazywają - solidnej wysokości. Mówią, że w Pieczarze jest górnik czy górnicy - koniecznie z nimi porozmawiaj - może co podpowiedzą, albo wyjście pomogą znaleźć.</pln>
 	</string>
 	<string id="lysyi_klad_nayti_6">
@@ -2830,7 +2830,7 @@
 	</string>
 	<string id="zvezdochet_talk1_1">
 		<rus>Спасибо. Мы с Доком уйдём к центру Зоны. Тебе с нами пока не по пути, дел и без нас хватит... Для дальних походов ты должен освоиться маленько. Мы ещё обязательно увидимся, а пока - держи арт неплохой - на первое время он тебе поможет. И совет: пока не узнаешь обратной дороги с новой территории - многие её АТП называют, туда не ходи - не выберешься.</rus>
-		<eng>Thanks. The Doctor and I will go to the centre of the Zone now. You are not experienced enough to come with us yet, you have enough to do without coming with us... You should get started getting experience for long hikes. We will definitely meet again, but for now - keep this artefact, it's pretty good - for your first one, it will help you. And some advice: until you know the way back from the new territory - many people call it ATP, don't go there - you won't get out.</eng>
+		<eng>Thanks. The Doctor and I will go to the center of the Zone now. You are not experienced enough to come with us yet, you have enough to do without coming with us... You should get started getting experience for long hikes. We will definitely meet again, but for now - keep this artefact, it's pretty good - for your first one, it will help you. And some advice: until you know the way back from the new territory - many people call it ATP, don't go there - you won't get out.</eng>
 		<ukr>Спасибі. Ми з Доком підемо до центру Зони. Тобі з нами поки не по дорозі, справ і без нас вистачить... Для далеких походів ти повинен освоїтися маленько. Ми ще обов'язково побачимося, а покищо - тримай арт непоганий - на перший час він тобі допоможе, і порада: поки не дізнаєшся зворотної дороги з новою території - багато її АТП називають - туди не ходи - не виберешся.</ukr>
 		<pln>Dziękuję. My z Dokiem odejdziemy teraz do centrum Zony. Tobie z nami póki co, nie po drodze. I bez nas będziesz miał dość zajęcia... Przed dalszymi wyprawami powinieneś się trochę oswoić. Jeszcze się na pewno zobaczymy, a na razie - trzymaj art niezły - na początek ci pomoże, i radę: dopóki nie poznasz powrotnej drogi z nowej lokacji - wielu ją ATP nazywa - dopóty tam nie chodź - nie wydostaniesz się.</pln>
 	</string>
@@ -2847,9 +2847,9 @@
 		<pln>Chcę o coś spytać - a na fleszce Gońca nie ma częstotliwości wojskowych?</pln>
 	</string>
 	<string id="kalinin_btr_vzyt_1">
-		<rus>А тебе зачем? Можно попробовать, но в результате не уверен... Хотя нет - вроде поймал сигнал... Ба... Смотри-ка... Военные значит, тропки сюда ещё не разведали, но собираются на вертухах несколько БТРов забросить - для разведки и небольшую группу поддержки. Вот чёрт!</rus>
+		<rus>А тебе зачем? Можно попробовать, но в результате не уверен... Хотя нет - вроде поймал сигнал... Ба... Смотри-ка... Военные, значит, тропки сюда ещё не разведали, но собираются на вертухах несколько БТРов забросить - для разведки и небольшую группу поддержки. Вот чёрт!</rus>
 		<eng>Why you asking? I can look, but I'm not sure about the results... But wait, I've sort of caught a signal... Bah... Look, it means that the military haven't explored the trails here yet, but they are going to drop several BTRs by helicopter to small recon groups. Damn it!</eng>
-		<ukr>А тобі навіщо? Можна спробувати, але в результаті не впевнений.... Хоча ні - начебто зловив сигнал... Ба... Дивись-но... Військові значить, стежинки сюди ще не розвідали, але збираються на вертухах кілька бетеерів закинути - для розвідки і невелику групу підтримки. От чорт!!</ukr>
+		<ukr>А тобі навіщо? Можна спробувати, але в результаті не впевнений.... Хоча ні - начебто зловив сигнал... Ба... Дивись-но... Військові, значить, стежинки сюди ще не розвідали, але збираються на вертухах кілька бетеерів закинути - для розвідки і невелику групу підтримки. От чорт!!</ukr>
 		<pln>A tobie to po co?! Można spróbować, ale w rezultat nie bardzo wierzę.... Chociaż nie - jakbym złapał sygnał... Ba... No popatrz... Wojsko, znaczy się, ścieżki tutaj jeszcze nie wywęszyło, ale planują dla zwiadu podrzucić na helikopterach kilka BTR-ów i niewielką grupę wsparcia. A to ci dopiero!</pln>
 	</string>
 	<string id="kalinin_btr_vzyt_2">
@@ -3071,9 +3071,9 @@
 		<pln>===Poczekaj. Jak wróci mój człowiek - rozeznam się, co z czym - i wtedy ci opowiem. Notatnik, który przyniosłeś, poczytam. Ty sam możesz się od niego to i owo dowiedzieć, ale nie myślę, żeby póki co dużo powiedział, chociaż kto go tam wie... A, otóż i "syn marnotrawny" powrócił...\n \nTak sobie myślę: będę miał do ciebie wielką prośbę. Trzeba uspokoić Cienia Monolitu. Na zawsze. Naciska nas mocno, a ja bym chciał po Labiryncie pochodzić, dużo tam pięknych miejsc. Wiem, że on jest nieśmiertelny. Idź do Zachara, to łowca z Baru, on ci powie, jak się uwolnić od Cienia Monolitu. Odwdzięczę się.</pln>
 	</string>
 	<string id="shax_plennik_prines_4">
-		<rus>Да уж, там был не курорт - камера глухая, без окон, а из обстановки - матрац, миска да отхожее ведро. Немудрено, что в первой нашей беседе я мало чего от него добился. Ладно, пойду, попробую ещё разок.</rus>
+		<rus>Да уж, там был не курорт: камера глухая, без окон, а из обстановки - матрац, миска да отхожее ведро. Немудрено, что в первой беседе я мало чего от него добился. Ладно, пойду, попробую ещё разок.</rus>
 		<eng>===I don't know whether it will work? But I'll try.</eng>
-		<ukr>Та вже, там був не курорт - камера глуха, без вікон, а з обстановки - матрац, миска та відхоже відро. Не дивно, що в першій нашій розмові я мало чого від нього домігся. Гаразд, піду, спробую ще разок.</ukr>
+		<ukr>Та вже, там був не курорт: камера глуха, без вікон, а з обстановки - матрац, миска та відхоже відро. Не дивно, що в першій розмові я мало чого від нього домігся. Гаразд, піду, спробую ще разок.</ukr>
 		<pln>===Nie wiem, uda się? Ale spróbuję.</pln>
 	</string>
 	
@@ -3084,26 +3084,26 @@
 		<pln>===Nie wiem, uda się? Ale spróbuję.</pln>
 	</string>
 	<string id="shax_kill_tm_1">
-		<rus>Да. Я тут подумал: просьба у меня к тебе будет большая - надо Тень Монолита успокоить. Навсегда!!!</rus>
-		<eng>===I don't know whether it will work? But I'll try.</eng>
-		<ukr>Так. Я тут подумав: прохання у мене до тебе буде велике - треба Тінь Моноліту заспокоїти. Назавжди!!!</ukr>
+		<rus>Да. Я тут подумал: просьба у меня к тебе будет большая - надо Тень Монолита успокоить. Навсегда!</rus>
+		<eng>===Yes. After some thought I decided I have one more ask for you - it needs to calm down the Shadow of the Monolith. Forever!</eng>
+		<ukr>Так. Я тут подумав: прохання у мене до тебе буде велике - треба Тінь Моноліту заспокоїти. Назавжди!</ukr>
 		<pln>===Nie wiem, uda się? Ale spróbuję.</pln>
 	</string>
 	<string id="shax_kill_tm_2">
-		<rus>Тень?.. Дедушка, ты, случаем, от костерка своего не угорел? Тени успокаивать - это тебе к экстрасенсам, вроде Чумака, или к шаману какому. Если только найдёшь такого, который в Саркофаг полезет. Нет, у меня, конечно, имеется некоторый опыт в упокоении порождений Зоны и некоторых... неадекватных товарищей, вроде Монолита, но чтоб гоняться за тенями - я ещё не настолько тронулся... Или я чего не понял?</rus>
-		<eng>===I don't know whether it will work? But I'll try.</eng>
-		<ukr>Тінь?.. Дідусь, ти, бува, від вогнища свого не вчадів? Тіні заспокоювати - це тобі до екстрасенсів, на кшталт Чумака, або до шамана якогось. Якщо тільки знайдеш такого, який в Саркофаг полізе. Ні, у мене, звичайно, є певний досвід в заспокоюванні породжень Зони і деяких... неадекватних товаришів, типу Моноліту, але щоб ганятися за тінями - я ще не настільки з'їхав... Або я чогось не зрозумів?</ukr>
+		<rus>Тень?.. Дедушка, ты, случаем, от костерка своего не угорел? Тени успокаивать - это тебе к экстрасенсам, вроде Чумака, или к шаману какому. Если только найдёшь такого, который в Саркофаг полезет. Нет, у меня, конечно, имеется некоторый опыт в упокоении порождений Зоны и некоторых... неадекватных товарищей, вроде монолитовцев, но чтоб гоняться за тенями - я ещё не настолько тронулся... Или я чего не понял?</rus>
+		<eng>===The Shadow?.. Listen, gaffer, haven't you just got poisoned by the fumes of your small bonfire, by any chance? For calming down the Shadows you have to apply to the psychics or to a shaman maybe. If you just find one who will get into the Sarcophagus. Of course, I have some experience in bringing down the brood of the Zone and some... crazy pants, like monolithians, but I'm not so crazy yet to hunt shadows... Or didn't I get something?</eng>
+		<ukr>Тінь?.. Дідусь, ти, бува, від вогнища свого не вчадів? Тіні заспокоювати - це тобі до екстрасенсів, на кшталт Чумака, або до шамана якогось. Якщо тільки знайдеш такого, який в Саркофаг полізе. Ні, у мене, звичайно, є певний досвід в заспокоюванні породжень Зони і деяких... неадекватних товаришів, типу монолітівців, але щоб ганятися за тінями - я ще не настільки з'їхав... Або я чогось не зрозумів?</ukr>
 		<pln>===Nie wiem, uda się? Ale spróbuję.</pln>
 	</string>
 	<string id="shax_kill_tm_3">
 		<rus>Но ты-то сам адекватный товарищ? Тогда дослушай меня и поймёшь. Помнишь, когда я просил тебя сходить в Лабиринт, то предупредил, что главарь тамошних фанатиков бессмертен?</rus>
-		<eng>===I don't know whether it will work? But I'll try.</eng>
+		<eng>===But you aren't crazy pants, right? Than hear me out and you'll get it. Do you remember, when I asked you to go to the Labyrinth, I warned you about the immortal leader of local fanatics?</eng>
 		<ukr>Але ти-то сам адекватний товариш? Тоді дослухай мене і зрозумієш. Пам'ятаєш, коли я просив тебе сходити в Лабіринт, то попередив, що ватажок тамтешніх фанатиків безсмертний?</ukr>
 		<pln>===Nie wiem, uda się? Ale spróbuję.</pln>
 	</string>
 	<string id="shax_kill_tm_4">
 		<rus>Ну да, помню, было дело, но бессмертных я там не встречал. Если только мы с ним не разминулись.</rus>
-		<eng>===I don't know whether it will work? But I'll try.</eng>
+		<eng>===Yep, I remember you did. But I didn't meet any immortals there. Maybe we missed each other, however.</eng>
 		<ukr>Ну да, пам'ятаю, була справа, але безсмертних я там не зустрічав. Якщо тільки ми з ним не розминулися.</ukr>
 		<pln>===Nie wiem, uda się? Ale spróbuję.</pln>
 	</string>
@@ -5283,7 +5283,7 @@
 	<string id="kluk_vstr_after_prizrak_2">
 		<rus>Призрака я видел на территории Радара. Он такой же хитрец, как и ты. Подкинул "куклу" в Х-16, типа погиб, даже аудиосообщение оставил. Еле его разыскал. Ты-то сам как? Бороду отрастил... Почему на связь не выходил?</rus>
 		<eng>===Ghost is now in the Radar territory. He's as cunning as you. He planted a "body double" in the X-16, to look like he died, even left an audio message. I just found him. How are you? I see you grew a beard... Why didn't you get in touch?</eng>
-		<ukr>===Привид зараз на території Радара. Він такий же хитрун, як і ти. Підкинув "ляльку" в Х-16, типу загинув, навіть аудіоповідомлення залишив. Ледве його розшукав. Ти то сам як? Бороду відростив.... Чому на зв'язок не виходив?</ukr>
+		<ukr>Привида я бачив на території Радара. Він такий же хитрун, як і ти. Підкинув "ляльку" в Х-16, типу загинув, навіть аудіоповідомлення залишив. Ледве його розшукав. Ти то сам як? Бороду відростив.... Чому на зв'язок не виходив?</ukr>
 		<pln>===Duch jest teraz na terytorium Radaru. Z niego taki sam spryciarz, jak z ciebie. Podrzucił "kukłę" w X-16, że niby zginął, nawet wiadomość głosową nagrał. Ledwo go znalazłem. A ty jak? Brodę zapuściłeś.... Dlaczego na łączność nie wychodziłeś?</pln>
 	</string>
 	<string id="kluk_vstr_after_prizrak_3">
