@@ -412,6 +412,12 @@
 		\n%c[255,92,222,154]Rekomendacje:%c[255,255,255,255] Pokonać mutanta sam na sam zdolny jest tylko doświadczony stalker, ale czy warto angażować się w taką walkę bez poważnej przyczyny to kontrowersyjne pytanie.
 		\n%c[255,92,222,154]Sposób walki:%c[255,255,255,255] Walka z wilczą chimerą to epickie starcie, zasługujące na oddzielną historię z ust ocalałego szczęśliwca po przyjściu do baru. Będą potrzebne całe umiejętności, doświadczenie i opanowanie człowieka. Śmiercionośne nawyki, rozwinięte drogą ewolucji w rodzinie chimer, ich królowa przejęła w pełnym zakresie, więc doświadczenie walki z mniej rozwiniętymi przedstawicielami tego gatunku niewątpliwie się przyda.</pln>
 	</string>
+	<string id="white_wolf">
+		<rus>Белый Вульф-вожак</rus>
+		<eng>===Белый Вульф-вожак</eng>
+		<ukr>===Белый Вульф-вожак</ukr>
+		<pln>===Белый Вульф-вожак</pln>
+	</string>
 	<string id="poltergeist_build">
 		<rus>Ползучий полтергейст</rus>
 		<eng>Crawling Poltergeist</eng>
@@ -1769,17 +1775,17 @@
 		<ukr>Конструкт</ukr>
 		<pln>===Конструкт</pln>
 	</string>
-	<string id="eltush_normal_name">
+	<string id="eltush_normal">
 		<rus>Кисельная барышня</rus>
 		<eng>===Кисельная барышня</eng>
 		<ukr>Кисельна дама</ukr>
 		<pln>===Кисельная барышня</pln>
 	</string>
-	<string id="eltush_strong_name">
-		<rus>Огненный шарик</rus>
-		<eng>===Огненный шарик</eng>
-		<ukr>Вогняна кулька</ukr>
-		<pln>===Огненный шарик</pln>
+	<string id="eltush_strong">
+		<rus>Шаровая молния</rus>
+		<eng>===Шаровая молния</eng>
+		<ukr>Кульова блискавка</ukr>
+		<pln>===Шаровая молния</pln>
 	</string>
 
 
