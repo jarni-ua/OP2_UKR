@@ -142,60 +142,60 @@
 		<pln>Naukowiec, mistrz</pln>
 	</string>
 	<string id="dolg_novice">
-		<rus>Долг, новичок</rus>
-		<eng>Duty, newbie</eng>
-		<ukr>Долг, новачок</ukr>
-		<fra>Devoir, débutant</fra>
-		<pln>Powinność, nowicjusz</pln>
+		<rus>"Долг", новичок</rus>
+		<eng>"Duty", newbie</eng>
+		<ukr>"Долг", новачок</ukr>
+		<fra>"Devoir", débutant</fra>
+		<pln>"Powinność", nowicjusz</pln>
 	</string>
 	<string id="dolg_experienced">
-		<rus>Долг, опытный</rus>
-		<eng>Duty, experienced</eng>
-		<ukr>Долг, досвідчений</ukr>
-		<fra>Devoir, expérimenté</fra>
-		<pln>Powinność, doświadczony</pln>
+		<rus>"Долг", опытный</rus>
+		<eng>"Duty", experienced</eng>
+		<ukr>"Долг", досвідчений</ukr>
+		<fra>"Devoir", expérimenté</fra>
+		<pln>"Powinność", doświadczony</pln>
 	</string>
 	<string id="dolg_veteran">
-		<rus>Долг, ветеран</rus>
-		<eng>Duty, veteran</eng>
-		<ukr>Долг, ветеран</ukr>
-		<fra>Devoir, vétéran</fra>
-		<pln>Powinność, weteran</pln>
+		<rus>"Долг", ветеран</rus>
+		<eng>"Duty", veteran</eng>
+		<ukr>"Долг", ветеран</ukr>
+		<fra>"Devoir", vétéran</fra>
+		<pln>"Powinność", weteran</pln>
 	</string>
 	<string id="dolg_master">
-		<rus>Долг, мастер</rus>
-		<eng>Duty, master</eng>
-		<ukr>Долг, майстер</ukr>
-		<fra>Devoir, maître</fra>
-		<pln>Powinność, mistrz</pln>
+		<rus>"Долг", мастер</rus>
+		<eng>"Duty", master</eng>
+		<ukr>"Долг", майстер</ukr>
+		<fra>"Devoir", maître</fra>
+		<pln>"Powinność", mistrz</pln>
 	</string>
 	<string id="freedom_novice">
-		<rus>Свобода, новичок</rus>
-		<eng>Freedom, newbie</eng>
-		<ukr>Воля, новачок</ukr>
-		<fra>Liberté, débutant</fra>
-		<pln>Wolność, nowicjusz</pln>
+		<rus>"Свобода", новичок</rus>
+		<eng>"Freedom", newbie</eng>
+		<ukr>"Воля", новачок</ukr>
+		<fra>"Liberté", débutant</fra>
+		<pln>"Wolność", nowicjusz</pln>
 	</string>
 	<string id="freedom_experienced">
-		<rus>Свобода, опытный</rus>
-		<eng>Freedom, experienced</eng>
-		<ukr>Воля, досвідчений</ukr>
-		<fra>Liberté, expérimenté</fra>
-		<pln>Wolność, doświadczony</pln>
+		<rus>"Свобода", опытный</rus>
+		<eng>"Freedom", experienced</eng>
+		<ukr>"Воля", досвідчений</ukr>
+		<fra>"Liberté", expérimenté</fra>
+		<pln>"Wolność", doświadczony</pln>
 	</string>
 	<string id="freedom_veteran">
-		<rus>Свобода, ветеран</rus>
-		<eng>Freedom, veteran</eng>
-		<ukr>Воля, ветеран</ukr>
-		<fra>Liberté, vétéran</fra>
-		<pln>Wolność, weteran</pln>
+		<rus>"Свобода", ветеран</rus>
+		<eng>"Freedom", veteran</eng>
+		<ukr>"Воля", ветеран</ukr>
+		<fra>"Liberté", vétéran</fra>
+		<pln>"Wolność", weteran</pln>
 	</string>
 	<string id="freedom_master">
-		<rus>Свобода, мастер</rus>
-		<eng>Freedom, master</eng>
-		<ukr>Воля, майстер</ukr>
-		<fra>Liberté, maître</fra>
-		<pln>Wolność, mistrz</pln>
+		<rus>"Свобода", мастер</rus>
+		<eng>"Freedom", master</eng>
+		<ukr>"Воля", майстер</ukr>
+		<fra>"Liberté", maître</fra>
+		<pln>"Wolność", mistrz</pln>
 	</string>
 	<string id="bandit_novice">
 		<rus>Бандит, новичок</rus>
@@ -227,30 +227,30 @@
 	</string>
 	<string id="zombied_novice">
 		<rus>Зомбированный, новичок</rus>
-		<eng>Zombied, newbie</eng>
+		<eng>Zombified, newbie</eng>
 		<ukr>Зомбований, новачок</ukr>
-		<fra>Zombie, débutant</fra>
+		<fra>Zombifié, débutant</fra>
 		<pln>Zzombifikowany, nowicjusz</pln>
 	</string>
 	<string id="zombied_experienced">
 		<rus>Зомбированный, опытный</rus>
-		<eng>Zombied, experienced</eng>
+		<eng>Zombified, experienced</eng>
 		<ukr>Зомбований, досвідчений</ukr>
-		<fra>Zombie, expérimenté</fra>
+		<fra>Zombifié, expérimenté</fra>
 		<pln>Zzombifikowany, doświadczony</pln>
 	</string>
 	<string id="zombied_veteran">
 		<rus>Зомбированный, ветеран</rus>
-		<eng>Zombied, veteran</eng>
+		<eng>Zombified, veteran</eng>
 		<ukr>Зомбований, ветеран</ukr>
-		<fra>Zombie, vétéran</fra>
+		<fra>Zombifié, vétéran</fra>
 		<pln>Zzombifikowany, weteran</pln>
 	</string>
 	<string id="zombied_master">
 		<rus>Зомбированный, мастер</rus>
-		<eng>Zombied, master</eng>
+		<eng>Zombified, master</eng>
 		<ukr>Зомбований, майстер</ukr>
-		<fra>Zombie, maître</fra>
+		<fra>Zombifié, maître</fra>
 		<pln>Zzombifikowany, mistrz</pln>
 	</string>
 	<string id="trader_novice">
@@ -320,21 +320,21 @@
 		<rus>Мститель, опытный</rus>
 		<eng>Avenger, experienced</eng>
 		<ukr>Месник, досвідчений</ukr>
-		<fra>Sniper, expérimenté</fra>
+		<fra>Vangeur, expérimenté</fra>
 		<pln>Mściciel, doświadczony</pln>
 	</string>
 	<string id="sniper_veteran">
 		<rus>Мститель, ветеран</rus>
 		<eng>Avenger, veteran</eng>
 		<ukr>Месник, ветеран</ukr>
-		<fra>Sniper, vétéran</fra>
+		<fra>Vangeur, vétéran</fra>
 		<pln>Mściciel, weteran</pln>
 	</string>
 	<string id="sniper_master">
 		<rus>Мститель, мастер</rus>
 		<eng>Avenger, master</eng>
 		<ukr>Месник, майстер</ukr>
-		<fra>Sniper, maître</fra>
+		<fra>Vangeur, maître</fra>
 		<pln>Mściciel, mistrz</pln>
 	</string>
 	<string id="green_novice">
@@ -366,88 +366,88 @@
 		<pln>Łowca, mistrz</pln>
 	</string>
 	<string id="nebo_novice">
-		<rus>Чистое Небо, новичок</rus>
-		<eng>Clear Sky, newbie</eng>
-		<ukr>Чисте Небо, новачок</ukr>
-		<fra>Firmament, débutant</fra>
-		<pln>Czyste Niebo, nowicjusz</pln>
+		<rus>"Чистое Небо", новичок</rus>
+		<eng>"Clear Sky", newbie</eng>
+		<ukr>"Чисте Небо", новачок</ukr>
+		<fra>"Ciel Fin", débutant</fra>
+		<pln>"Czyste Niebo", nowicjusz</pln>
 	</string>
 	<string id="nebo_experienced">
-		<rus>Чистое Небо, опытный</rus>
-		<eng>Clear Sky, experienced</eng>
-		<ukr>Чисте Небо, досвідчений</ukr>
-		<fra>Firmament, expérimenté</fra>
-		<pln>Czyste Niebo, doświadczony</pln>
+		<rus>"Чистое Небо", опытный</rus>
+		<eng>"Clear Sky", experienced</eng>
+		<ukr>"Чисте Небо", досвідчений</ukr>
+		<fra>"Ciel Fin", expérimenté</fra>
+		<pln>"Czyste Niebo", doświadczony</pln>
 	</string>
 	<string id="nebo_veteran">
-		<rus>Чистое Небо, ветеран</rus>
-		<eng>Clear Sky, veteran</eng>
-		<ukr>Чисте Небо, ветеран</ukr>
-		<fra>Firmament, vétéran</fra>
-		<pln>Czyste Niebo, weteran</pln>
+		<rus>"Чистое Небо", ветеран</rus>
+		<eng>"Clear Sky", veteran</eng>
+		<ukr>"Чисте Небо", ветеран</ukr>
+		<fra>"Ciel Fin", vétéran</fra>
+		<pln>"Czyste Niebo", weteran</pln>
 	</string>
 	<string id="nebo_master">
-		<rus>Чистое Небо, мастер</rus>
-		<eng>Clear Sky, Master</eng>
-		<ukr>Чисте Небо, майстер</ukr>
-		<fra>Firmament, maître</fra>
-		<pln>Czyste Niebo, mistrz</pln>
+		<rus>"Чистое Небо", мастер</rus>
+		<eng>"Clear Sky", Master</eng>
+		<ukr>"Чисте Небо", майстер</ukr>
+		<fra>"Ciel Fin", maître</fra>
+		<pln>"Czyste Niebo", mistrz</pln>
 	</string>
 	<string id="lastday_novice">
-		<rus>Последний День, новичок</rus>
-		<eng>Last Day, newbie</eng>
-		<ukr>Останній День, новачок</ukr>
-		<fra>Last Day, débutant</fra>
-		<pln>Ostatni Dzień, nowicjusz</pln>
+		<rus>"Последний День", новичок</rus>
+		<eng>"Last Day", newbie</eng>
+		<ukr>"Останній День", новачок</ukr>
+		<fra>"Last Day", débutant</fra>
+		<pln>"Ostatni Dzień", nowicjusz</pln>
 	</string>
 	<string id="lastday_experienced">
-		<rus>Последний День, опытный</rus>
-		<eng>Last Day, experienced</eng>
-		<ukr>Останній День, досвідчений</ukr>
-		<fra>Last Day, expérimenté</fra>
-		<pln>Ostatni Dzień, doświadczony</pln>
+		<rus>"Последний День", опытный</rus>
+		<eng>"Last Day", experienced</eng>
+		<ukr>"Останній День", досвідчений</ukr>
+		<fra>"Last Day", expérimenté</fra>
+		<pln>"Ostatni Dzień", doświadczony</pln>
 	</string>
 	<string id="lastday_veteran">
-		<rus>Последний День, ветеран</rus>
-		<eng>Last Day, veteran</eng>
-		<ukr>Останній День, ветеран</ukr>
-		<fra>Last Day, vétéran</fra>
-		<pln>Ostatni Dzień, weteran</pln>
+		<rus>"Последний День", ветеран</rus>
+		<eng>"Last Day", veteran</eng>
+		<ukr>"Останній День", ветеран</ukr>
+		<fra>"Last Day", vétéran</fra>
+		<pln>"Ostatni Dzień", weteran</pln>
 	</string>
 	<string id="lastday_master">
-		<rus>Последний День, мастер</rus>
-		<eng>Last Day, master</eng>
-		<ukr>Останній День, майстер</ukr>
-		<fra>Last Day, maître</fra>
-		<pln>Ostatni Dzień, mistrz</pln>
+		<rus>"Последний День", мастер</rus>
+		<eng>"Last Day", master</eng>
+		<ukr>"Останній День", майстер</ukr>
+		<fra>"Last Day", maître</fra>
+		<pln>"Ostatni Dzień", mistrz</pln>
 	</string>
 	<string id="vermaht_novice">
-		<rus>Вермахт, новичок</rus>
-		<eng>Wehrmacht, beginner</eng>
-		<ukr>Вермахт, новачок</ukr>
-		<fra>Wehrmacht, débutant</fra>
-		<pln>Wehrmacht, nowicjusz</pln>
+		<rus>"Вермахт", новичок</rus>
+		<eng>"Wehrmacht", beginner</eng>
+		<ukr>"Вермахт", новачок</ukr>
+		<fra>"Wehrmacht", débutant</fra>
+		<pln>"Wehrmacht", nowicjusz</pln>
 	</string>
 	<string id="vermaht_experienced">
-		<rus>Вермахт, опытный</rus>
-		<eng>Wehrmacht, experienced</eng>
-		<ukr>Вермахт, досвідчений</ukr>
-		<fra>Wehrmacht, expérimenté</fra>
-		<pln>Wehrmacht, doświadczony</pln>
+		<rus>"Вермахт", опытный</rus>
+		<eng>"Wehrmacht", experienced</eng>
+		<ukr>"Вермахт", досвідчений</ukr>
+		<fra>"Wehrmacht", expérimenté</fra>
+		<pln>"Wehrmacht", doświadczony</pln>
 	</string>
 	<string id="vermaht_veteran">
-		<rus>Вермахт, ветеран</rus>
-		<eng>Wehrmacht, veteran</eng>
-		<ukr>Вермахт, ветеран</ukr>
-		<fra>Wehrmacht, vétéran</fra>
-		<pln>Wehrmacht, weteran</pln>
+		<rus>"Вермахт", ветеран</rus>
+		<eng>"Wehrmacht", veteran</eng>
+		<ukr>"Вермахт", ветеран</ukr>
+		<fra>"Wehrmacht", vétéran</fra>
+		<pln>"Wehrmacht", weteran</pln>
 	</string>
 	<string id="vermaht_master">
-		<rus>Вермахт, мастер</rus>
-		<eng>Wehrmacht, master</eng>
-		<ukr>Вермахт, майстер</ukr>
-		<fra>Wehrmacht, maître</fra>
-		<pln>Wehrmacht, mistrz</pln>
+		<rus>"Вермахт", мастер</rus>
+		<eng>"Wehrmacht", master</eng>
+		<ukr>"Вермахт", майстер</ukr>
+		<fra>"Wehrmacht", maître</fra>
+		<pln>"Wehrmacht", mistrz</pln>
 	</string>
 	<string id="furii_novice">
 		<rus>Фурии, новичок</rus>

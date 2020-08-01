@@ -2,122 +2,122 @@
 <!-- При добавлении увеличивать количество в amk_mod.sms_dolg -->
 <string_table>
 	<string id="sms_dolg_1">
-		<rus>%c[sender]"Долг"\n%c[default]Сталкеры! Количество зомби на Янтаре с каждым днём увеличивается, мы не справляемся! Вступайте в наши ряды - защитим родную науку!</rus>
-		<eng>%c[sender]"Duty"\n%c[default] Fellow stalkers! The number of zombies at Yantar is increasing every day, we can not cope! Join us and together we will defend our native science!</eng>
-		<ukr>%c[sender]"Долг"\n%c[default]Сталкери! Кількість зомбі на Янтарі з кожним днем збільшується, ми не впораємося! Вступайте в наші ряди - захистимо рідну науку!</ukr>
-		<fra>%c[sender]"Devoir"\n%c[default]Stalkers! Le nombre de zombies sur Yantar augmente chaque jour, nous ne pouvons plus faire face! Rejoignez nos rangs - Et protégez la Science autochtone!</fra>
-		<pln>%c[sender]"Powinność"\n%c[default]Stalkerzy! Ilość zombie na Jantarze z każdym dniem się powiększa, nie radzimy sobie! Wstępujcie w nasze szeregi - obronimy rodzimą naukę!</pln>
+		<rus>%c[sender]"Долг"\n%c[default]Сталкеры! Количество зомби на "Янтаре" с каждым днём увеличивается, мы не справляемся! Вступайте в наши ряды - защитим родную науку!</rus>
+		<eng>%c[sender]"Duty"\n%c[default]Stalkers! The number of zombies at "Yantar" is increasing every day, we cannot cope! Join us and together we will defend our native science!</eng>
+		<ukr>%c[sender]"Долг"\n%c[default]Сталкери! Кількість зомбі на "Янтарі" з кожним днем збільшується, ми не впораємося! Вступайте в наші ряди - захистимо рідну науку!</ukr>
+		<fra>%c[sender]"Devoir"\n%c[default]Stalkers! Le nombre de zombies au "Yantar" augmente chaque jour, nous ne pouvons plus faire face! Rejoignez nos rangs - défendrons notre chère science native!</fra>
+		<pln>%c[sender]"Powinność"\n%c[default]Stalkerzy! Ilość zombie na "Jantarze" z każdym dniem się powiększa, nie radzimy sobie! Wstępujcie w nasze szeregi - obronimy rodzimą naukę!</pln>
 	</string>
 	<string id="sms_dolg_2">
 		<rus>%c[sender]"Долг"\n%c[default]Так, свободовцы, мать вашу! Если вы, придурки укуренные, ещё раз вздумаете к нам в схроны кабаний навоз ложить - мы вас за ноги перевешаем!</rus>
-		<eng>%c[sender]"Duty"\n%c[default] Allright now, you freedom pricks! If you, drugged assholes, put boar manore in our stash once again - you're dead meat!</eng>
+		<eng>%c[sender]"Duty"\n%c[default]So, you "Freedom" pricks! If you, drugged assholes, put boar manure in our stashes once again - you're dead meat!</eng>
 		<ukr>%c[sender]"Долг"\n%c[default]Так, свободівці, матір вашу! Якщо ви, придурки обкурені, ще раз надумаєте класти нам в схрони кабанячий гній - ми вас за ноги перевішаємо!</ukr>
-		<fra>%c[sender]"Devoir"\n%c[default]Donc,les gars de la Liberté, allez tous vous faire foutre! Imbéciles et stupides, bande de drogués nous nous remettons encore une fois du plomb dans la tête,et nous mettrons du fumier dans vos caches - Nous vous pendrons par les jambes!Vous êtes de la viande morte!!!</fra>
+		<fra>%c[sender]"Devoir"\n%c[default]Alors, les gars de la "Liberté", allez tous vous faire foutre! Si vous, idiots lapidés, décidez encore une fois de mettre du fumier de sangliers dans nos caches, nous vous pendrons par les jambes!</fra>
 		<pln>%c[sender]"Powinność"\n%c[default]Słuchajcie wolnościowcy, kurwa wasza mać! Jeżeli wam, najaranym durniom, jeszcze raz przyjdzie do głowy w nasz bunkier dziczym gównem rzucać - to my was za nogi powywieszamy!</pln>
 	</string>
 	<string id="sms_dolg_3">
 		<rus>%c[sender]"Долг"\n%c[default]Внимание всем квадам, находящимся в квадрате Н-23 или поблизости! Немедленно подтвердить присутствие особо опасных мутантов в данном регионе! Информация поступила из непроверенного источника.</rus>
-		<eng>%c[sender]"Duty"\n%c[default]Attention all squads at square H-23 or nearby! Immediately confirm the presence of extremely dangerous mutants in this sector! Information came from an unverified source.</eng>
+		<eng>%c[sender]"Duty"\n%c[default]Attention to all squads in square H-23 or nearby! Immediately confirm the presence of extremely dangerous mutants in this sector! The information came from an unverified source.</eng>
 		<ukr>%c[sender]"Долг"\n%c[default]Увага всім квадам, що знаходяться в квадраті Н-23 або поблизу! Негайно підтвердити присутність особливо небезпечних мутантів в даному регіоні! Інформація надійшла з неперевіреного джерела.</ukr>
-		<fra>%c[sender]"Devoir"\n%c[default]Attention à toutes les escouades situés sur la place H-23 ou à proximité! Confirmer immédiatement la présence de mutants particulièrement dangereux dans toute la région! Les informations proviennent d'une source non vérifiée...</fra>
+		<fra>%c[sender]"Devoir"\n%c[default]Attention à toutes les escouades situés sur la place H-23 ou à proximité! Confirmer immédiatement la présence de mutants particulièrement dangereux dans cette région! Les informations sont provenus d'une source non vérifiée.</fra>
 		<pln>%c[sender]"Powinność"\n%c[default]Uwaga wszystkie kwady, znajdujące się w kwadracie N-23 albo w pobliżu! Natychmiast potwierdzić obecność wyjątkowo niebezpiecznych mutantów w danym rejonie! Informacja przyszła z niesprawdzonego źródła.</pln>
 	</string>
 	<string id="sms_dolg_4">
 		<rus>%c[sender]"Долг"\n%c[default]Командиры квадов, из неофициальных источников стало известно, что на Кордоне вновь появился так называемый Грузовик Смерти. Более того, стало известно, что в нём нашли выживших. Кто поближе - наведайтесь-ка туда, проверьте что к чему, дело подозрительное.</rus>
-		<eng>%c[sender]"Duty"\n%c[default]Squad commanders, from unofficial sources, we learned that the so-called Death Truck reappeared on Cordone. Moreover, it became known that it was found survivors. Those who is nearby - check it out, the case is suspicious.</eng>
+		<eng>%c[sender]"Duty"\n%c[default]Squad commanders, from unofficial sources we learned that the so-called Death Truck reappeared on the Cordone. Moreover, some survivors were reported to be found inside. Those who are nearby - check it out, the case is suspicious.</eng>
 		<ukr>%c[sender]"Долг"\n%c[default]Командири квадів, з неофіційних джерел стало відомо, що на Кордоні знову з'явилася так звана Вантажівка Смерті. Більш того, стало відомо, що в ній знайшли вцілілих. Хто ближче - навідайтесь-но туди, перевірте що до чого, справа підозріла.</ukr>
-		<fra>%c[sender]"Devoir"\n%c[default]Commandants des escouades, des sources non officielles nous ont appris que le "Camion de la Mort" était réapparu sur le Cordon. De plus, on a appris qu'il y avait au moins un survivant. Qui est le plus proche? Allez-y,et vite et vérifiez ce qu’il y a, ce qui est suspect...</fra>
+		<fra>%c[sender]"Devoir"\n%c[default]Commandants des escouades, des sources non officielles nous ont appris que le "Camion de la Mort" était réapparu au Cordon. De plus, on a appris que des survivants y étaient retrouvés. Qui sont les plus proches - allez-y, vérifiez qu'est ce qui se passe, l'affaire est suspecte.</fra>
 		<pln>%c[sender]"Powinność"\n%c[default]Dowódcy kwadów, z nieoficjalnych źródeł wiadomo, że na Kordonie ponownie pojawiła się tak zwana Trupiarka. Co więcej, wiadomo, że znaleziono w niej kogoś żywego. Kto jest w okolicy - niech tam zajrzy, sprawdzi co jest grane, sprawa jest mocno podejrzana.</pln>
 	</string>
 	<string id="sms_dolg_5">
 		<rus>%c[sender]Жека Староста\n%c[default]Командирам квадов срочно прибыть на инструктаж к генералу Воронину!</rus>
-		<eng>%c[sender]Zheka Praeposter\n%c[default]Squad commanders! Come to the briefing with General Voronin immediately!</eng>
+		<eng>%c[sender]Zheka Starosta\n%c[default]Squad commanders! Come to the briefing with general Voronin immediately!</eng>
 		<ukr>%c[sender]Жека Староста\n%c[default]Командирам квадів терміново прибути на інструктаж до генерала Вороніна!</ukr>
-		<fra>%c[sender]Zheka Starosta\n%c[default]Message important : A tous les Commandants des escouades ...Vous devez vous rendre d’urgence au briefing du général Voronin!Je répète :briefing du général Voronin immédiatement.</fra>
+		<fra>%c[sender]Zheka Starosta\n%c[default]Les commandants des escouades doivent arriver de toute urgence au général Voronin pour un briefing!</fra>
 		<pln>%c[sender]Żeka Starosta\n%c[default]Dowódcy kwadów mają pilnie przybyć na odprawę do generała Woronina!</pln>
 	</string>
 	<string id="sms_dolg_6">
 		<rus>%c[sender]"Долг"\n%c[default]Кто знает, где можно достать старые советские радиостанции и готов поделиться этой информацией - подходите к полковнику Петренко. Для связи блокпостов с главной базой нужны подобные средства радиосвязи. Новые образцы работают в Зоне недолго и только на очень малые расстояния. А старая советская техника - то что нужно. И помните: "Долг" долги возвращает!</rus>
-		<eng>%c[sender]"Duty"\n%c[default]Who knows where to get old Soviet radio stations and is ready to share this information - go to Colonel Petrenko. In order to link outposts with the main base, such radio equipment is needed. New samples work in the Zone for only a short time and distances. Soviet technique is what we need. And remember: "Duty" always pay their debts!</eng>
+		<eng>%c[sender]"Duty"\n%c[default]Who knows where to get old Soviet radio stations and is ready to share this information - go to Colonel Petrenko. In order to link outposts with the main base, such radio equipment is needed. New samples work in the Zone for a short time and distances only. So Soviet technique is what we need. And remember: the "Duty" always pay their debts!</eng>
 		<ukr>%c[sender]"Долг"\n%c[default]Хто знає, де можна дістати старі радянські радіостанції і готовий поділитися цією інформацією - підходьте до полковника Петренка. Для зв'язку блокпостів з головною базою потрібні подібні засоби радіозв'язку. Нові зразки працюють в Зоні недовго і тільки на дуже малі відстані. А стара радянська техніка - те що треба. І пам'ятайте: "Долг" борги повертає!</ukr>
-		<fra>%c[sender]"Devoir"\n%c[default]Qui sait où se procurer de vieilles stations de radio soviétiques et qui est prêt à partager cette information - allez immédiatement au colonel Petrenko.Afin de relier les postes avancés à la base principale, un tel équipement radio est nécessaire. Temps et distances courtes. La technique soviétique est tout ce dont nous avons besoin. Et rappelez-vous: "Le devoir" paie ses dettes!</fra>
+		<fra>%c[sender]"Devoir"\n%c[default]Qui sait où se procurer de vieilles stations de radio soviétiques et qui est prêt à partager cette information - allez immédiatement au colonel Petrenko. Tel équipement radio est nécessaire pour relier les postes avancés à la base principale. Les nouveaux modèles fonctionnent dans la Zone uniquement pendant une courte période et sur de très courtes distances. La technique soviétique est ce que nous avons besoin. Et rappelez-vous: "Le Devoir" paie ses dettes!</fra>
 		<pln>%c[sender]"Powinność"\n%c[default]Kto wie, gdzie można zdobyć stare radzieckie radiostacje i gotowy jest podzielić się tą informacją - niech podejdzie do pułkownika Pietrenko. Dla łączności posterunków z główną bazą potrzebne są podobne środki łączności radiowej. Nowe modele pracują w Zonie niedługo i tylko na bardzo małe odległości. A stara radziecka technika - to jest to co trzeba. I pamiętajcie: "Powinność" spłaca długi!</pln>
 	</string>
 	<string id="sms_dolg_7">
 		<rus>%c[sender]Череп\n%c[default]База, отвечайте, говорит Черепанов. У нас потери, повторяю, у нас потери. Василия зацепило, Михальченко чуть дышит. Передаю координаты.</rus>
-		<eng>%c[sender]Skull\n%c[default]Base, do you copy? This is Cherepanov. We have losses, I repeat, we have losses. Vasily wounded, Mikhalchenko won't gonna make it. Sending coordinates.</eng>
+		<eng>%c[sender]Cherep\n%c[default]Base, give answer, this is Cherepanov. We have losses, I repeat, we have losses. Vasily is wounded, Mikhalchenko is at his last gasp. Sending our coordinates.</eng>
 		<ukr>%c[sender]Череп\n%c[default]База, відповідайте, говорить Черепанов. У нас втрати, повторюю, у нас втрати. Василя зачепило, Михальченко ледь дихає. Передаю координати.</ukr>
-		<fra>%c[sender]Crâne\n%c[default]Base, répondez, ici Cherepanov. Nous avons des pertes, je répète, nous avons beaucoup de pertes... Basil tué, Mikhalchenko respire un peu... Envoi des coordonnées du passage pour aide...</fra>
+		<fra>%c[sender]Tcherep\n%c[default]Base, répondez, ici Tcherepanov. Nous avons des pertes, je répète, nous avons des pertes. Vassil est blessé, Mikhalchenko ne bat plus que d'une aile. J’envoie nos coordonnées.</fra>
 		<pln>%c[sender]Czacha\n%c[default]Baza, odpowiedzcie, mówi Czerepanow. Mamy straty, powtarzam, mamy straty. Wasilij ranny, Michalczenko ledwie dycha. Podaję współrzędne.</pln>
 	</string>
 	<string id="sms_dolg_8">
 		<rus>%c[sender]"Долг"\n%c[default]Серьёзное предупреждение! На Дикой Территории замечены снорки, недалеко от западных ворот. Чего их с болота-то понесло... Братки, вооружаемся получше!</rus>
-		<eng>%c[sender]"Duty"\n%c[default]Warning! There are snorks at the Wild Territory, not far from the western gate. What did they incur from the swamps... Arm yourselves better, bros!</eng>
+		<eng>%c[sender]"Duty"\n%c[default]Serious warning! Snorks have been spotted at the Wild Territory, bear to the western gates. Whe the devil did they come from the swamps... Arm yourselves better, bros!</eng>
 		<ukr>%c[sender]"Долг"\n%c[default]Серйозне попередження! На Дикій Території помічені снорки, недалеко від західних воріт. Чогось їх з болота понесло ... Браття, озброюємось краще!</ukr>
-		<fra>%c[sender]"Devoir"\n%c[default]Avertissement sérieux! Des snorks ont été vus dans le territoire sauvage, non loin de la porte ouest... Certainement en provenance du Marais ... Armez-vous au mieux, frères!!</fra>
+		<fra>%c[sender]"Devoir"\n%c[default]Avertissement sérieux! Des snorks ont été vus dans le Territoire Sauvage, près de la porte ouest.  Pourquoi sont-ils venus des Marais... Armez-vous mieux, frères!</fra>
 		<pln>%c[sender]"Powinność"\n%c[default]Poważne ostrzeżenie! Na Dziczy zauważono snorki, niedaleko od zachodniej bramy. Co ich tu z bagna przygnało... Bratki, lepiej się uzbrojcie!</pln>
 	</string>
 	<string id="sms_dolg_9">
 		<rus>%c[sender]"Долг"\n%c[default]Эфир не забиваем, ваши подвиги по убийству левых мужиков никого не интересуют.</rus>
 		<eng>%c[sender]"Duty"\n%c[default]Stop filling the chat with your bullshit, your feats of strength for the murder of some guys are of no interest to anyone.</eng>
 		<ukr>%c[sender]"Долг"\n%c[default]Ефір не забиваємо, ваші подвиги по вбивству лівих чолов'яг нікого не цікавлять.</ukr>
-		<fra>%c[sender]"Devoir"\n%c[default]Arrêtez avec vos conneries, vos exploits en tuant des hommes gauchers ne présentent d'intérêt pour personne.</fra>
+		<fra>%c[sender]"Devoir"\n%c[default]N'engorgez pas l'éther, vos exploits en tuant des mecs inconnus n'intéressent personne.</fra>
 		<pln>%c[sender]"Powinność"\n%c[default]Nie blokować eteru, wasze sukcesy w zabijaniu bandytów nikogo nie interesują.</pln>
 	</string>
 	<string id="sms_dolg_10">
 		<rus>%c[sender]"Долг"\n%c[default]Заходим в приватный канал, скачиваем обновление защиты. Будет утечка информации из-за того, что вам было лень пропатчить - придушу.</rus>
-		<eng>%c[sender]"Duty"\n%c[default]Go to the private channel and download the updates. If there will be a leak of information due to the fact that you were too lazy to patch it - you're dead.</eng>
+		<eng>%c[sender]"Duty"\n%c[default]Go to the private channel and download the security updates. If there is a leak of information due to the fact you were too lazy to patch it - you're dead.</eng>
 		<ukr>%c[sender]"Долг"\n%c[default]Заходимо в приватний канал, скачуємо оновлення захисту. Буде витік інформації через те, що вам було лінь пропатчити - задушу.</ukr>
-		<fra>%c[sender]"Devoir"\n%c[default]Accédez au canal privé, téléchargez la mise à jour de sécurité.Et si il y a la moindre fuite d'informations en raison du fait que vous êtes trop paresseux pour le corriger - je vous fait massacrer dans l'Arène.</fra>
+		<fra>%c[sender]"Devoir"\n%c[default]Accédez au canal privé, téléchargez la mise à jour de sécurité. Et s'il y a la moindre fuite d'informations en raison du fait que vous êtes trop paresseux pour le corriger - je vous fait massacrer.</fra>
 		<pln>%c[sender]"Powinność"\n%c[default]Idźcie na prywatny kanał, pobierzcie uaktualnienie ochrony. Jeśli będą przecieki informacji, bo wam się nie chciało patchować - uduszę.</pln>
 	</string>
 	<string id="sms_dolg_11">
 		<rus>%c[sender]"Долг"\n%c[default]Ищем умелую контрснайперскую группу для уничтожения противника на Неразведанной Земле. Заинтересованным подходить к полковнику Петренко. Хорошая награда гарантирована!</rus>
 		<eng>%c[sender]"Duty"\n%c[default]We are looking for a skilled counter-sniper group to destroy the enemy on Unexplored Area. If you are interested - visit colonel Petrenko. Good reward guaranteed!</eng>
 		<ukr>%c[sender]"Долг"\n%c[default]Шукаємо вмілу контрснайперську групу для знищення противника на Нерозвіданій Землі. Зацікавленим підходити до полковника Петренка. Хороша винагорода гарантована!</ukr>
-		<fra>%c[sender]"Devoir"\n%c[default]Nous recherchons un groupe de contre-tireurs d'élite qualifié pour détruire l'ennemi sur la Terre Inconnue. Intéressé ,contacter le Colonel Petrenko. Une bonne récompense est garantie!</fra>
+		<fra>%c[sender]"Devoir"\n%c[default]Nous recherchons un groupe qualifié de contre-tireurs d'élite pour détruire l'ennemi sur la Terre Inconnue. Intéressé à contacter le colonel Petrenko. Une bonne récompense est garantie!</fra>
 		<pln>%c[sender]"Powinność"\n%c[default]Szukamy kompetentnej grupy antysnajperskiej dla zlikwidowania przeciwnika na Niezbadanych Terenach. Zainteresowani podchodzić do pułkownika Pietrenko. Dobra nagroda jest gwarantowana!</pln>
 	</string>
 	<string id="sms_dolg_12">
 		<rus>%c[sender]"Долг"\n%c[default]Информацию по спецоперациям - в приватный канал. Не хватало ещё, чтобы утечка была.</rus>
-		<eng>%c[sender]"Duty"\n%c[default]Information about special operations - send to a private channel only. Some leaks - that's all we need!</eng>
+		<eng>%c[sender]"Duty"\n%c[default]Information concerning special operations must be sent to a private channel only. Last thing we need is a data breach!</eng>
 		<ukr>%c[sender]"Долг"\n%c[default]Інформацію по спецопераціям - в приватний канал. Не вистачало ще, щоб відбувся витік.</ukr>
-		<fra>%c[sender]"Devoir"\n%c[default]Les informations sur les opérations spéciales sont envoyées sur un canal privé. Et envoi vers un canal privé uniquement. Quelques fuites, c'est tout ce dont nous avons besoin maintenant.</fra>
+		<fra>%c[sender]"Devoir"\n%c[default]Les informations sur les opérations spéciales sont envoyées sur un canal privé. Et envoi vers un canal privé uniquement. Nous n'avons pas du tout besoin de fuites de données.</fra>
 		<pln>%c[sender]"Powinność"\n%c[default]Informacje o specoperacjach - na prywatnym kanale. Jeszcze tylko przecieków tu brakuje.</pln>
 	</string>
 	<string id="sms_dolg_13">
 		<rus>%c[sender]"Долг"\n%c[default]Сталкеры, вступайте в "Долг". Защитим планету от заразы Зоны!</rus>
 		<eng>%c[sender]"Duty"\n%c[default]Stalkers, join the "Duty". Defend the planet from the Zone contamination!</eng>
 		<ukr>%c[sender]"Долг"\n%c[default]Сталкери, вступайте в "Долг". Захистимо планету від зарази Зони!</ukr>
-		<fra>%c[sender]"Devoir"\n%c[default]Stalkers, rejoignez le "Devoir". Protégez la planète de la contagion de la Zone!!</fra>
+		<fra>%c[sender]"Devoir"\n%c[default]Stalkers, rejoignez le "Devoir". Protégeons la planète de la contagion de la Zone!!</fra>
 		<pln>%c[sender]"Powinność"\n%c[default]Stalkerzy, wstępujcie do "Powinności". Obronimy planetę przed zarazą Zony!</pln>
 	</string>
 	<string id="sms_dolg_14">
 		<rus>%c[sender]"Долг"\n%c[default]Сталкер! Жизнь дарит тебе возможность найти верных товарищей в рядах "Долга"! Только здесь ты найдёшь тех, кто прикроет твою спину и поделится последним куском хлеба!</rus>
-		<eng>%c[sender]"Duty"\n%c[default]Stalker! Life gives you the opportunity to find faithful comrades in the ranks of "Duty"! Only here you will find those who will cover your back and share the last piece of bread!</eng>
+		<eng>%c[sender]"Duty"\n%c[default]Stalker! Life gives you the opportunity to find faithful companions in the ranks of "Duty"! Only here you will find those who will cover your back and share the last piece of bread with you!</eng>
 		<ukr>%c[sender]"Долг"\n%c[default]Сталкер! Життя дарує тобі можливість знайти вірних товаришів у рядах "Долгу"! Тільки тут ти знайдеш тих, хто прикриє твою спину і поділиться останнім шматком хліба!</ukr>
-		<fra>%c[sender]"Devoir"\n%c[default]Stalker! La vie vous offre la possibilité de trouver des camarades fidèles dans les rangs de "Devoir"! Seulement ici, vous trouverez ceux qui couvriront vos arrières et partageront le dernier morceau de pain avec vous!</fra>
+		<fra>%c[sender]"Devoir"\n%c[default]Stalker! La vie te offre la possibilité de trouver des camarades fidèles dans les rangs du "Devoir"! Seulement ici, tu trouveras ceux qui couvriront ton arrière et partageront le dernier morceau de pain avec toi!</fra>
 		<pln>%c[sender]"Powinność"\n%c[default]Stalkerze! Życie daruje ci możliwość znalezienia wiernych towarzyszy w szeregach "Powinności"! Tylko tu znajdziesz takich, którzy osłonią twoje tyły i podzielą się ostatnią kromką chleba!</pln>
 	</string>
 	<string id="sms_dolg_15">
-		<rus>%c[sender]"Долг"\n%c[default]По нашим данным, на новых открытых территориях - Затоне и окрестностях Юпитера, находится огромный рассадник мутантов. Возможны появления неклассифицированных объектов. В скором времени будет проведена массовая зачистка, с применением тяжёлого вооружения, бронетехники и вертолётов, при поддержке военных. Не рекомендуется посещать данные территории до начала и во время зачистки.</rus>
-		<eng>%c[sender]"Duty"\n%c[default]According to our information, at the new opened territories - Zaton and Jupiter, there is a huge breeding ground of mutants. Unclassified objects may appear. There will be a massive sweep soon, with the use of heavy weapons, armored vehicles and helicopters, with the support of the military. It is not recommended to visit these areas before and during operation.</eng>
-		<ukr>%c[sender]"Долг"\n%c[default]За нашими даними, на нових відкритих територіях - Затоні та околицях Юпітера, знаходиться величезний розсадник мутантів. Можливі появи некласифікованих об'єктів. Незабаром буде проведена масова зачистка, із застосуванням важкого озброєння, бронетехніки та вертольотів, за підтримки військових. Не рекомендується відвідувати дані території до початку та під час зачистки.</ukr>
-		<fra>%c[sender]"Devoir"\n%c[default]Selon nos données, il existe un vaste vivier de mutants dans les nouvelles zones ouvertes, à Zaton et dans les environs de Jupiter. Les objets non classés sont possibles et peuvent apparaître. Il y aura bientôt un coup de balai massif avec le soutien de l'Armée avec l'utilisation d'armes lourdes, de véhicules blindés et d'hélicoptères. Il est donc déconseillé de visiter ces territoires avant et pendant les opérations.</fra>
-		<pln>%c[sender]"Powinność"\n%c[default]Według naszych danych, na nowo otwartych terytoriach - Zatonie i okolicach Jupitera, znajduje się ogromne siedlisko mutantów. Możliwość pojawienia się niesklasyfikowanych obiektów. W niedługim czasie będzie przeprowadzone masowe oczyszczenie, z zastosowaniem ciężkiego uzbrojenia, wozów bojowych i helikopterów, przy wsparciu wojska. Nie rekomenduje się odwiedzać danego terytorium do czasu i w czasie oczyszczania.</pln>
+		<rus>%c[sender]"Долг"\n%c[default]По нашим данным, на новых открытых территориях - Затоне и окрестностях "Юпитера", находится огромный рассадник мутантов. Возможны появления неклассифицированных объектов. В скором времени будет проведена массовая зачистка, с применением тяжёлого вооружения, бронетехники и вертолётов, при поддержке военных. Не рекомендуется посещать данные территории до начала и во время зачистки.</rus>
+		<eng>%c[sender]"Duty"\n%c[default]According to our information, at the new opened territories - Zaton and "Jupiter", there is a huge breeding ground of mutants. Unclassified objects may appear. There will be a massive sweep soon, with the use of heavy weapons, armored vehicles and helicopters, with the support of the military. It is not recommended to visit these areas before and during operation.</eng>
+		<ukr>%c[sender]"Долг"\n%c[default]За нашими даними, на нових відкритих територіях - Затоні та околицях "Юпітера", знаходиться величезний розсадник мутантів. Можливі появи некласифікованих об'єктів. Незабаром буде проведена масова зачистка, із застосуванням важкого озброєння, бронетехніки та вертольотів, за підтримки військових. Не рекомендується відвідувати дані території до початку та під час зачистки.</ukr>
+		<fra>%c[sender]"Devoir"\n%c[default]Selon nos données, il existe un vaste vivier de mutants dans les nouvelles zones ouvertes, à Zaton et dans les environs de "Jupiter". Les objets non classés sont possibles et peuvent apparaître. Il y aura bientôt un coup de balai massif avec le soutien de l'Armée avec l'utilisation d'armes lourdes, de véhicules blindés et d'hélicoptères. Il est donc déconseillé de visiter ces territoires avant et pendant les opérations.</fra>
+		<pln>%c[sender]"Powinność"\n%c[default]Według naszych danych, na nowo otwartych terytoriach - Zatonie i okolicach "Jupitera", znajduje się ogromne siedlisko mutantów. Możliwość pojawienia się niesklasyfikowanych obiektów. W niedługim czasie będzie przeprowadzone masowe oczyszczenie, z zastosowaniem ciężkiego uzbrojenia, wozów bojowych i helikopterów, przy wsparciu wojska. Nie rekomenduje się odwiedzać danego terytorium do czasu i w czasie oczyszczania.</pln>
 	</string>
 	<string id="sms_dolg_16">
 		<rus>%c[sender]"Долг"\n%c[default]Нужны опытные сталкеры для рейда на снорков. Оплата соответствующая.</rus>
 		<eng>%c[sender]"Duty"\n%c[default]Looking for experienced stalkers for a raid on snorks. Reward is appropriate.</eng>
 		<ukr>%c[sender]"Долг"\n%c[default]Потрібні досвідчені сталкери для рейду на снорків. Оплата відповідна.</ukr>
-		<fra>%c[sender]"Devoir"\n%c[default]Besoin de Stalkers expérimentés pour un raid contre des Snorks. Le paiement est approprié et ne vous décevra pas!</fra>
+		<fra>%c[sender]"Devoir"\n%c[default]Besoin de stalkers expérimentés pour un raid contre des Snorks. Le paiement est approprié.</fra>
 		<pln>%c[sender]"Powinność"\n%c[default]Potrzebni doświadczeni stalkerzy do rajdu na snorki. Wynagrodzenie odpowiednie.</pln>
 	</string>
 	<string id="sms_dolg_17">
 		<rus>%c[sender]"Долг"\n%c[default]Нужны опытные сталкеры для рейда на мутантов. Оплата соответствующая.</rus>
 		<eng>%c[sender]"Duty"\n%c[default]Looking for experienced stalkers to raid mutants. Reward is appropriate.</eng>
 		<ukr>%c[sender]"Долг"\n%c[default]Потрібні досвідчені сталкери для рейду на мутантів. Оплата відповідна.</ukr>
-		<fra>%c[sender]"Devoir"\n%c[default]Nous avons besoin de Stalkers expérimentés pour un raid contre des mutants.Le paiement est approprié.</fra>
+		<fra>%c[sender]"Devoir"\n%c[default]Nous avons besoin de stalkers expérimentés pour un raid contre des mutants. Le paiement est approprié.</fra>
 		<pln>%c[sender]"Powinność"\n%c[default]Potrzebni doświadczeni stalkerzy do rajdu na mutanty. Wynagrodzenie odpowiednie.</pln>
 	</string>
 	<string id="sms_dolg_18">
@@ -129,93 +129,93 @@
 	</string>
 	<string id="sms_dolg_19">
 		<rus>%c[sender]"Долг"\n%c[default]Информация о появлении неизвестной группы снайперов на Неразведанной Земле подтвердилась. Они убивают всех, кого увидят в прицел. Сталкеров, наёмников, свободовцев и даже монолитовцев. Наш квад тоже попал в засаду и не вернулся. Снайперы хорошо вооружены и экипированы. Не рекомендуется посещать Неразведанную Землю до решения нами этой проблемы. В скором времени мы вычистим этих недоносков.</rus>
-		<eng>%c[sender]"Duty"\n%c[default]Information about the appearance of an unknown group of snipers on Unexoplored Area has been confirmed. They kill everyone they see. Stalkers, mercenaries, Freedom, and even Monolithians. Our squad was also ambushed and we lost them. Snipers are well armed and equipped. It is strongly recommended to avoid moving through the Unexplored Area until we solve this problem. Soon we will clean these jerks.</eng>
+		<eng>%c[sender]"Duty"\n%c[default]Information about the appearance of an unknown group of snipers on Unexoplored Area has been confirmed. They kill everyone they see. Stalkers, mercenaries, "Freedom" fighters and even monolithians. Our squad was also ambushed and we lost them. Snipers are well armed and equipped. It is strongly recommended to avoid moving through the Unexplored Area until we solve this problem. Soon we will clean these jerks.</eng>
 		<ukr>%c[sender]"Долг"\n%c[default]Інформація про появу невідомої групи снайперів на Нерозвіданій Землі підтвердилася. Вони вбивають усіх, кого побачать у приціл. Сталкерів, найманців, свободівців і навіть монолітовців. Наш квад теж потрапив в засідку і не повернувся. Снайпери добре озброєні та екіпіровані. Не рекомендується відвідувати Нерозвідану Землю до вирішення нами цієї проблеми. Незабаром ми вичистимо цих недоносків.</ukr>
-		<fra>%c[sender]"Devoir"\n%c[default]Les informations sur l’apparition d’un groupe inconnu de tireurs d’élite sur une Terre inconnue ont été confirmées. Ils tuent tout le monde qu'ils ont en ligne de mire. Stalkers,Mercenaires, Liberté et même Monolith...Notre escouade a également été pris en embuscade et n'est jamais revenue. Les snipers sont bien armés et équipés. Il n'est pas recommandé de visiter les Terres Inconnues avant d'avoir résolu ce problème. Nous allons bientôt nettoyer ces dingues.</fra>
+		<fra>%c[sender]"Devoir"\n%c[default]Les informations sur l’apparition d’un groupe inconnu de tireurs d’élite sur une Terre inconnue ont été confirmées. Ils tuent tout le monde qu'ils ont en ligne de mire. Les stalkers, les mercenaires, les combattants de "Liberté" et même ceux de "Monolithe". Notre escouade a également été pris en embuscade et n'est jamais revenue. Les snipers sont bien armés et équipés. Il n'est pas recommandé de visiter les Terres Inconnues avant d'avoir résolu ce problème. Nous allons bientôt nettoyer ces dingues.</fra>
 		<pln>%c[sender]"Powinność"\n%c[default]Informacja o pojawieniu się nieznanej grupy snajperów na Niezbadanych Terenach sprawdziła się. Oni zabijają każdego, kogo zobaczą w celowniku. Stalkerów, najemników, wolnościowców i nawet monolitowców. Nasz kwad też wpadł w zasadzkę i nie wrócił. Snajperzy są dobrze uzbrojeni i wyekwipowani. Nie rekomenduje się odwiedzać Niezbadanych Terenów do czasu rozwiązania tego problemu. W niedługim czasie zlikwidujemy tych  bandytów.</pln>
 	</string>
 	<string id="sms_dolg_20">
 		<rus>%c[sender]"Долг"\n%c[default]Петренко, а ну отвечай! Что у нас с приватным каналом?! Опять упал?\n%c[sender]Петренко\n%c[default]Достали. Я связью не занимаюсь, умники. Когда наладят - тогда наладят.</rus>
-		<eng>%c[sender]"Duty"\n%c[default]Petrenko, do you copy!? What the fuck with a private channel? Down again?\n%c[sender]Petrenko\n%c[default]I am tired of it. I am not your sysadmin, smartass. They will fix it first thing tomorrow morning.</eng>
+		<eng>%c[sender]"Duty"\n%c[default]Petrenko, off you answer! What the fuck is happening with the private channel? Down again?\n%c[sender]Petrenko\n%c[default]Enough of this! I'm not your sysadmin, smart-asses. When they fix it, they'll do that.</eng>
 		<ukr>%c[sender]"Долг"\n%c[default]Петренко, а ну відповідай! Що у нас із приватним каналом?! Знову впав?\n%c[sender]Петренко\n%c[default]Дістали. Я зв'язком не займаюся, розумники. Коли налагодять - тоді налагодять.</ukr>
-		<fra>%c[sender]"Devoir"\n%c[default]Petrenko, répondez bien! Qu'est-ce que nous avons avec un canal privé? Est-il tombé à nouveau?\n%c[sender]Petrenko\n%c[default]J'en ai marre...Je ne suis pas votre administrateur système,... Ils vont le réparer dès demain matin...</fra>
+		<fra>%c[sender]"Devoir"\n%c[default]Petrenko, répond bien! Qu'est-ce que nous avons avec le canal privé? Est-il tombé à nouveau?\n%c[sender]Petrenko\n%c[default]J'en ai marre. Je ne suis pas votre administrateur système, les génies. Quand ils le réparent, ils le répareront.</fra>
 		<pln>%c[sender]"Powinność"\n%c[default]Pietrenko, odpowiadaj! Co u nas się dzieje z prywatnym kanałem?! Znowu padł?\n%c[sender]Pietrenko\n%c[default]Nie zajmuję się łącznością, od tego są mądrzy ludzie. Jak naprawią - to naprawią.</pln>
 	</string>
 	<string id="sms_dolg_21">
 		<rus>%c[sender]Петренко\n%c[default]Пуля, где данные о ходе разведрейда? Доложи, есть ли потери в кваде?</rus>
 		<eng>%c[sender]Petrenko\n%c[default]Bullet, where is the data from last intelligence operation? Report whether there is a loss in the squad?</eng>
 		<ukr>%c[sender]Петренко\n%c[default]Куля, де дані про хід розвідрейда? Доповідай, чи є втрати в кваді?</ukr>
-		<fra>%c[sender]Petrenko\n%c[default]Bullet, où se trouvent les informations sur les progrès de la reconnaissance? Signaler s'il y a une perte des éclaireurs?</fra>
+		<fra>%c[sender]Petrenko\n%c[default]Balle, où sont les informations sur les progrès de la reconnaissance? Signaler s'il y a les pertes dans l'escouade?</fra>
 		<pln>%c[sender]Pietrenko\n%c[default]Nabój, gdzie dane o przebiegu zwiadu? Zreferuj, są straty w kwadzie?</pln>
 	</string>
 	<string id="sms_dolg_22">
 		<rus>%c[sender]Петренко\n%c[default]Мы получили несколько миномётов. Командиры блокпостов - срочно ко мне, для усиления своей обороны!</rus>
 		<eng>%c[sender]Petrenko\n%c[default]We got a few mortars. Checkpoint commanders - come to me urgently, to enhance your defense!</eng>
 		<ukr>%c[sender]Петренко\n%c[default]Ми отримали декілька мінометів. Командири блокпостів - терміново до мене, для посилення своєї оборони!</ukr>
-		<fra>%c[sender] Petrenko\n%c[default]Nous avons reçu plusieurs mortiers. Commandants des points de contrôle - venez à moi de toute urgence pour renforcer votre défense!</fra>
+		<fra>%c[sender]Petrenko\n%c[default]Nous avons reçu quelque mortiers. Commandants des points de contrôle - venez à moi de toute urgence pour renforcer votre défense!</fra>
 		<pln>%c[sender]Pietrenko\n%c[default]Otrzymaliśmy kilka moździerzy. Dowódcy posterunków - szybko do mnie, dla wzmocnienia swojej obrony!</pln>
 	</string>
 	<string id="sms_dolg_23">
-		<rus>%c[sender]Петренко\n%c[default]5-й квад! Рейд за монстрами для Арены никто не отменял! А ну, вылезли из бара! К анархистам захотели?!</rus>
-		<eng>%c[sender]Petrenko\n%c[default]5'th squad! Raid for monsters for the Arena has not been canceled! So, gtfo from the bar! </eng>
+		<rus>%c[sender]Петренко\n%c[default]5-й квад! Рейд за монстрами для Арены никто не отменял! А ну, вылезли из бара! Или к анархистам захотели?!</rus>
+		<eng>%c[sender]Petrenko\n%c[default]5'th squad! Raid for monsters for the Arena has not been canceled! So gtfo from the bar! Or did you like to go to the anarchists?!</eng>
 		<ukr>%c[sender]Петренко\n%c[default]5-й квад! Рейд за монстрами для Арени ніхто не відміняв! А ну, вилізли з бару! До анархістів захотіли?!</ukr>
-		<fra>%c[sender]Petrenko\n%c[default]5ème quad! Le raid des monstres pour l’arène n’a pas été annulé! Eh bien, sortez du bar! Les anarchistes veulent?!</fra>
+		<fra>%c[sender]Petrenko\n%c[default]5ème escouade! Le raid pour les monstres pour l'Arène n’a pas été annulé! Sortez du bar, là! Ou vouliez-vous passer vers les anarchistes?!</fra>
 		<pln>%c[sender]Pietrenko\n%c[default]5-ty kwad! Rajdu za mutantami na Arenę nikt nie odwołał! Wyłazić z baru! Anarchii wam się zachciało?!</pln>
 	</string>
 	<string id="sms_dolg_24">
-		<rus>%c[sender]Петренко\n%c[default]К нам поступило несколько списанных БТРов. Бойтесь, свободовские недоноски! Если повезёт выцыганить у вояк вертушку, то наш прошлогодний налёт покажется вам сладким сном!\n%c[sender]"Свобода"\n%c[default]Напугал кота сосиской! У нас тоже несколько БТРов есть! А ещё у нас на базе танк стоит, неподвижный, правда, но снаряды есть, и башня вертится. Консервным банкам вашим хватит за глаза! Да и РПГ в достаточном количестве лежат где-то.</rus>
-		<eng>%c[sender]Petrenko\n%c[default]We received several decommissioned APCs. Fear you, Freedom noobs! If we are lucky to get a copter from a militaries, then our last year's raid will seem to you like a sweet dream!\n%c[sender]"Freedom"\n%c[default]Ooooh, we are so scared! We also have several APCs! And we have a tank at the base, it is whrecked, but there are projectiles, and the turret is operational. Enough for your cans! Btw, we also have RPGs somewhere.</eng>
+		<rus>%c[sender]Петренко\n%c[default]К нам поступило несколько списанных БТРов. Бойтесь, свободовские недоноски! Если повезёт выцыганить у вояк вертушку, то наш прошлогодний налёт покажется вам сладким сном!\n%c[sender]"Свобода"\n%c[default]Напугал кота сосиской! У нас тоже несколько БТРов есть! А ещё у нас на базе танк стоит, неподвижный, правда, но снаряды есть, и башня вертится. Консервным банкам вашим хватит за глаза! Да и РПГ в достаточном количестве лежат... где-то.</rus>
+		<eng>%c[sender]Petrenko\n%c[default]We have received several decommissioned APCs. Fear us, "Freedom" bastards! If we are lucky to wring a copter out from the military, then our last year's raid will seem to you like a sweet dream!\n%c[sender]"Freedom"\n%c[default]Don't try to scare a cat with a sausage! We also have several APCs! And also we have a tank at our base. It's motionless, true, but the projectiles are on hand and the turret can spin freely. That's enough and to spare for your cans! And we have enough RPGs... somewhere.</eng>
 		<ukr>%c[sender]Петренко\n%c[default]До нас надійшло декілька списаних БТРів. Бійтеся, свободівські недоноски! Якщо пощастить вициганити у вояк вертушку, то наш минулорічний наліт здасться вам солодким сном!\n%c[sender]"Воля"\n%c[default]Налякав кота сосискою! У нас теж кілька БТРів є! А ще у нас на базі танк стоїть, нерухомий, правда, але снаряди є, і башта крутиться. Консервним банкам вашим вистачить позаочі! Та й РПГ в достатній кількості лежать десь.</ukr>
-		<fra>%c[sender]Petrenko\n%c[default]Nous avons reçu plusieurs véhicules de transport de troupes blindés déclassés. Les gars de la Liberté vont nous craindre! Si vous avez de la chance d'obtenir un tourne-disque d'un guerrier, le raid de l'année dernière vous semblera être un doux rêve!\n%c[sender]"Liberté"\n%c[default]Effrayez le chat avec une saucisse! Nous avons également plusieurs APC! Nous avons également un char à la base,immobile certes, mais il y a des projectiles et la tourelle tourne. Vos canettes suffisent à vos yeux! Oui, et des RPG en quantité suffisante se situent quelque part.</fra>
+		<fra>%c[sender]Petrenko\n%c[default]Nous avons reçu quelque véhicules de transport blindés de troupes déclassés. Craignez, les bâtards de la "Liberté"! Si nous sommes assez chanceux pour arracher un hélicoptère aux militaires, alors notre raid de l'année dernière vous semblera être un doux rêve!\n%c[sender]"Liberté"\n%c[default]N'essayez pas de faire peur au chat avec une saucisse! Nous avons également quelque APC! Nous avons aussi un char à la base, immobile certes, mais il y a des projectiles et la tourelle tourne. Vos canettes suffiront avec usure! Et il y a assez des RPG... quelque part.</fra>
 		<pln>%c[sender]Pietrenko\n%c[default]Dostaliśmy kilka nowych BTRów. Bójcie się, wolnościowcy! Jeżeli uda się załatwić od wojskowych helikopter, to nasz ubiegłoroczny rajd wyda się wam miłym snem!\n%c[sender]"Wolność"\n%c[default]Nie strasz kota parówką! Też mamy kilka BTRów! A jeszcze na bazie czołg stoi, nieruchomy, co prawda, ale pociski są, i wieża się kręci. Na wasze puszki po konserwach wystarczy w zupełności! I RPG w wystarczającej ilości też się znajdzie.</pln>
 	</string>
 	<string id="sms_dolg_25">
 		<rus>%c[sender]Петренко\n%c[default]У нас временные перебои в работе приватного канала, если что - в личку мне.</rus>
-		<eng>%c[sender]Petrenko\n%c[default]We have some issues with private channel, text me personally if you need.</eng>
+		<eng>%c[sender]Petrenko\n%c[default]We have some temporary interruptions in the work of the private channel. Send me a personal message, if necessary.</eng>
 		<ukr>%c[sender]Петренко\n%c[default]У нас тимчасові перебої в роботі приватного каналу, в разі чого - у приват мені.</ukr>
-		<fra>%c[sender]Petrenko\n%c[default]Nous interrompons temporairement le travail d'un canal privé, si cela est personnel pour moi.</fra>
+		<fra>%c[sender]Petrenko\n%c[default]Nous avons des interruptions temporaires dans le travail du canal privé. Au besoin envoyez un message personnel pour moi.</fra>
 		<pln>%c[sender]Pietrenko\n%c[default]Mamy chwilowe problemy z działaniem prywatnego kanału, jakby co - bezpośrednio do mnie.</pln>
 	</string>
 	<string id="sms_dolg_26">
 		<rus>%c[sender]Петренко\n%c[default]К нам поступила новая партия экзоскелетов и вооружения. Все командиры ударных квадов - подходите ко мне для получения.</rus>
-		<eng>%c[sender]Petrenko\n%c[default]We got a new batch of exoskeletons and weapons. All the shock squads commanders - come to me.</eng>
+		<eng>%c[sender]Petrenko\n%c[default]We've got a new batch of exoskeletons and weapons. All the shock squads' commanders - come to me to get them.</eng>
 		<ukr>%c[sender]Петренко\n%c[default]До нас надійшла нова партія екзоскелетів та озброєння. Всі командири ударних квадів - підходьте до мене для отримання.</ukr>
 		<fra>%c[sender]Petrenko\n%c[default]Nous avons reçu un nouveau lot d'exosquelettes et d'armes. Tous les commandants des escouades en première ligne - venez vite récupérer le matériel.</fra>
 		<pln>%c[sender]Pietrenko\n%c[default]Dostaliśmy nową partię egzoszkieletów i uzbrojenia. Wszyscy dowódcy uderzeniowych kwadów - podchodzić do mnie po sprzęt.</pln>
 	</string>
 	<string id="sms_dolg_27">
 		<rus>%c[sender]Петренко\n%c[default]Повторяю, проход на базу - строго по пропускам или моему распоряжению.</rus>
-		<eng>%c[sender]Petrenko\n%c[default]I repeat, the passage to the base is strictly according to passes or my order.</eng>
+		<eng>%c[sender]Petrenko\n%c[default]I repeat, the passage to the base is strictly according to passes or by my order.</eng>
 		<ukr>%c[sender]Петренко\n%c[default]Повторюю, прохід на базу - суворо за перепустками або за моїм розпорядженням.</ukr>
 		<fra>%c[sender]Petrenko\n%c[default]Je le répète, le passage à la base est strictement conforme aux passes ou à ma commande.</fra>
 		<pln>%c[sender]Pietrenko\n%c[default]Powtarzam, wejście na bazę - wyłącznie za okazaniem przepustki albo na mój rozkaz.</pln>
 	</string>
 	<string id="sms_dolg_28">
-		<rus>%c[sender]Петренко\n%c[default]Для квадов с первого по четвёртый! Повторяю, только для квадов с первого по четвёртый! Квадрат тринадцать, улитка девять, по карте шесть - закрыт до семнадцати часов следующих суток. Ожидается высокая активность мутантов.</rus>
-		<eng>%c[sender]Petrenko\n%c[default]For squads from the first to the fourth! I repeat, only for squads from the first to the fourth! Square thirteen, delta tango 9-5 - closed until seventeen o'clock the following day. High mutants activity expected.</eng>
-		<ukr>%c[sender]Петренко\n%c[default]Для квадів з першого по четвертий! Повторюю, тільки для квадів з першого по четвертий! Квадрат тринадцять, равлик дев'ять, по карті шість - закритий до сімнадцятої години наступної доби. Очікується висока активність мутантів.</ukr>
-		<fra>%c[sender]Petrenko\n%c[default]Pour les quads d'un à quatre! Je répète, seulement pour les quads du premier au quatrième! Place treize, escargot neuf, sur la carte six - fermée à dix-sept heures le lendemain. Une activité élevée des mutants est attendue.</fra>
-		<pln>%c[sender]Pietrenko\n%c[default]Dla kwadów od pierwszego do czwartego! Powtarzam, tylko dla kwadów od pierwszego do czwartego! Kwadrat trzynaście-dziewięć, na mapie sześć - zamknięty do godziny siedemnastej następnej doby. Oczekiwana wysoka aktywność mutantów.</pln>
+		<rus>%c[sender]Петренко\n%c[default]Для квадов с первого по четвёртый! Повторяю, только для квадов с первого по четвёртый! Квадрат 13, по улитке 9, по карте 6 - закрыт до 17 часов следующих суток. Ожидается высокая активность мутантов.</rus>
+		<eng>%c[sender]Petrenko\n%c[default]For squads from the first to the fourth! I repeat, only for squads from the first to the fourth! Square 13, delta tango 9-5, on the map 6 - closed until 5 o'clock the following day. High mutants activity expected.</eng>
+		<ukr>%c[sender]Петренко\n%c[default]Для квадів з першого по четвертий! Повторюю, тільки для квадів з першого по четвертий! Квадрат тринадцять, равлик дев'ять, по карті шість - закритий до 17 години наступної доби. Очікується висока активність мутантів.</ukr>
+		<fra>%c[sender]Petrenko\n%c[default]Pour les escouades d'un à quatre! Je répète, seulement pour les escouades du premier au quatrième! Case 13, escargot 9, sur la carte 6 - fermée à 17 heures le lendemain. Une activité élevée des mutants est attendue.</fra>
+		<pln>%c[sender]Pietrenko\n%c[default]Dla kwadów od pierwszego do czwartego! Powtarzam, tylko dla kwadów od pierwszego do czwartego! Kwadrat 13-9, na mapie 6 - zamknięty do godziny 17 następnej doby. Oczekiwana wysoka aktywność mutantów.</pln>
 	</string>
 	<string id="sms_dolg_29">
 		<rus>%c[sender]Воронин\n%c[default]Кто к нам с мечом придёт, тот в орало и получит!</rus>
-		<eng>%c[sender]Voronin\n%c[default]All who come to us with the sword, by the AK will perish!</eng>
+		<eng>%c[sender]Voronin\n%c[default]Those who come to us with the sword, will be ploughed and beaten!</eng>
 		<ukr>%c[sender]Воронін\n%c[default]Хто до нас з мечем прийде, той по пиці й отримає!</ukr>
 		<fra>%c[sender]Voronin\n%c[default]Qui vient à nous avec une épée, il laboure et obtient!</fra>
 		<pln>%c[sender]Woronin\n%c[default]Kto do nas z mieczem przychodzi, ten lemieszem oberwie!</pln>
 	</string>
 	<string id="sms_dolg_30">
-		<rus>%c[sender]Воронин\n%c[default]Всем квадам срочно на связь!\n%c[sender]"Свобода"\n%c[default]Хе-хе, опять Долг налажал где-то...</rus>
-		<eng>%c[sender]Voronin\n%c[default]All squads contact urgently!\n%c[sender]"Freedom"\n%c[default]Hehe, Duty fucked up somewhere again...</eng>
-		<ukr>%c[sender]Воронін\n%c[default]Всім квадам терміново вийти на зв'язок!\n%c[sender]"Воля"\n%c[default]Хе-хе, знову Долг налажав десь...</ukr>
-		<fra>%c[sender]Petrenko\n%c[default]Tous les quadruples sont des communications urgentes!\n%c[sender]"Liberté"\n%c[default]Hé hé, là encore, la Faction du Devoir est en train de réparer quelque part etfoutu en l'air quelque chose...</fra>
-		<pln>%c[sender]Woronin\n%c[default]Wszystkie kwady pilnie nawiązać łączność!\n%c[sender]"Wolność"\n%c[default]He-he, znowu Powinność coś nabroiła...</pln>
+		<rus>%c[sender]Воронин\n%c[default]Всем квадам срочно на связь!\n%c[sender]"Свобода"\n%c[default]Хе-хе, опять "Долг" налажал где-то...</rus>
+		<eng>%c[sender]Voronin\n%c[default]All squads must go on air urgently!\n%c[sender]"Freedom"\n%c[default]He-he, the "Duty" have fucked up again somewhere...</eng>
+		<ukr>%c[sender]Воронін\n%c[default]Всім квадам терміново вийти на зв'язок!\n%c[sender]"Воля"\n%c[default]Хе-хе, знову "Долг" налажав десь...</ukr>
+		<fra>%c[sender]Voronin\n%c[default]Tous les escouades doivent nous contacter en urgence!\n%c[sender]"Liberté"\n%c[default]Ha-ha, le "Devoir" vient de gaffé encore une fois quelque part...</fra>
+		<pln>%c[sender]Woronin\n%c[default]Wszystkie kwady pilnie nawiązać łączność!\n%c[sender]"Wolność"\n%c[default]He-he, znowu "Powinność" coś nabroiła...</pln>
 	</string>
 	<string id="sms_dolg_31">
 		<rus>%c[sender]Воронин\n%c[default]Всем квадам, сейчас же выйти на связь! Общий сбор на канале!</rus>
-		<eng>%c[sender]Voronin\n%c[default]To all squads, get in touch now! Meet me on the channel!</eng>
+		<eng>%c[sender]Voronin\n%c[default]To all squads, go on air immediately! General assembly on the channel!</eng>
 		<ukr>%c[sender]Воронін\n%c[default]Всім квадам, зараз же вийти на зв'язок! Загальний збір на каналі!</ukr>
-		<fra>%c[sender]Petrenko\n%c[default]Bullet, où se trouvent les informations sur les progrès de la reconnaissance? Signaler s'il y a eu une perte des éclaireurs!</fra>
+		<fra>%c[sender]Voronin\n%c[default]Tous les escouades, contactez-nous tout de suite! L'assemblée générale sur le canal!</fra>
 		<pln>%c[sender]Woronin\n%c[default]Do wszystkich kwadów, natychmiast nawiązać łączność! Ogólna konferencja na kanale!</pln>
 	</string>
 </string_table>
