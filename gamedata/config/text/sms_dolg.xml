@@ -26,14 +26,14 @@
 		<rus>%c[sender]"Долг"\n%c[default]Командиры квадов, из неофициальных источников стало известно, что на Кордоне вновь появился так называемый Грузовик Смерти. Более того, стало известно, что в нём нашли выживших. Кто поближе - наведайтесь-ка туда, проверьте что к чему, дело подозрительное.</rus>
 		<eng>%c[sender]"Duty"\n%c[default]Squad commanders, from unofficial sources we learned that the so-called Death Truck reappeared on the Cordone. Moreover, some survivors were reported to be found inside. Those who are nearby - check it out, the case is suspicious.</eng>
 		<ukr>%c[sender]"Долг"\n%c[default]Командири квадів, з неофіційних джерел стало відомо, що на Кордоні знову з'явилася так звана Вантажівка Смерті. Більш того, стало відомо, що в ній знайшли вцілілих. Хто ближче - навідайтесь-но туди, перевірте що до чого, справа підозріла.</ukr>
-		<fra>%c[sender]"Devoir"\n%c[default]Commandants des escouades, des sources non officielles nous ont appris que le "Camion de la Mort" était réapparu au Cordon. De plus, on a appris que des survivants y étaient retrouvés. Qui sont les plus proches - allez-y, vérifiez qu'est ce qui se passe, l'affaire est suspecte.</fra>
+		<fra>%c[sender]"Devoir"\n%c[default]Commandants d'escouades, des sources non officielles nous ont appris que le "Camion de la Mort" était réapparu au Cordon. De plus, on a appris que des survivants y étaient retrouvés. Qui sont les plus proches - allez-y, vérifiez qu'est ce qui se passe, l'affaire est suspecte.</fra>
 		<pln>%c[sender]"Powinność"\n%c[default]Dowódcy kwadów, z nieoficjalnych źródeł wiadomo, że na Kordonie ponownie pojawiła się tak zwana Trupiarka. Co więcej, wiadomo, że znaleziono w niej kogoś żywego. Kto jest w okolicy - niech tam zajrzy, sprawdzi co jest grane, sprawa jest mocno podejrzana.</pln>
 	</string>
 	<string id="sms_dolg_5">
 		<rus>%c[sender]Жека Староста\n%c[default]Командирам квадов срочно прибыть на инструктаж к генералу Воронину!</rus>
 		<eng>%c[sender]Zheka Starosta\n%c[default]Squad commanders! Come to the briefing with general Voronin immediately!</eng>
 		<ukr>%c[sender]Жека Староста\n%c[default]Командирам квадів терміново прибути на інструктаж до генерала Вороніна!</ukr>
-		<fra>%c[sender]Zheka Starosta\n%c[default]Les commandants des escouades doivent arriver de toute urgence au général Voronin pour un briefing!</fra>
+		<fra>%c[sender]Zheka Starosta\n%c[default]Les commandants d'escouades doivent arriver de toute urgence au général Voronin pour un briefing!</fra>
 		<pln>%c[sender]Żeka Starosta\n%c[default]Dowódcy kwadów mają pilnie przybyć na odprawę do generała Woronina!</pln>
 	</string>
 	<string id="sms_dolg_6">
@@ -61,7 +61,7 @@
 		<rus>%c[sender]"Долг"\n%c[default]Эфир не забиваем, ваши подвиги по убийству левых мужиков никого не интересуют.</rus>
 		<eng>%c[sender]"Duty"\n%c[default]Stop filling the chat with your bullshit, your feats of strength for the murder of some guys are of no interest to anyone.</eng>
 		<ukr>%c[sender]"Долг"\n%c[default]Ефір не забиваємо, ваші подвиги по вбивству лівих чолов'яг нікого не цікавлять.</ukr>
-		<fra>%c[sender]"Devoir"\n%c[default]N'engorgez pas l'éther, vos exploits en tuant des mecs inconnus n'intéressent personne.</fra>
+		<fra>%c[sender]"Devoir"\n%c[default]N'engorgez pas l'air, vos exploits en tuant des mecs inconnus n'intéressent personne.</fra>
 		<pln>%c[sender]"Powinność"\n%c[default]Nie blokować eteru, wasze sukcesy w zabijaniu bandytów nikogo nie interesują.</pln>
 	</string>
 	<string id="sms_dolg_10">
@@ -152,7 +152,7 @@
 		<rus>%c[sender]Петренко\n%c[default]Мы получили несколько миномётов. Командиры блокпостов - срочно ко мне, для усиления своей обороны!</rus>
 		<eng>%c[sender]Petrenko\n%c[default]We got a few mortars. Checkpoint commanders - come to me urgently, to enhance your defense!</eng>
 		<ukr>%c[sender]Петренко\n%c[default]Ми отримали декілька мінометів. Командири блокпостів - терміново до мене, для посилення своєї оборони!</ukr>
-		<fra>%c[sender]Petrenko\n%c[default]Nous avons reçu quelque mortiers. Commandants des points de contrôle - venez à moi de toute urgence pour renforcer votre défense!</fra>
+		<fra>%c[sender]Petrenko\n%c[default]Nous avons reçu quelque mortiers. Commandants de points de contrôle - venez à moi de toute urgence pour renforcer votre défense!</fra>
 		<pln>%c[sender]Pietrenko\n%c[default]Otrzymaliśmy kilka moździerzy. Dowódcy posterunków - szybko do mnie, dla wzmocnienia swojej obrony!</pln>
 	</string>
 	<string id="sms_dolg_23">
@@ -180,7 +180,7 @@
 		<rus>%c[sender]Петренко\n%c[default]К нам поступила новая партия экзоскелетов и вооружения. Все командиры ударных квадов - подходите ко мне для получения.</rus>
 		<eng>%c[sender]Petrenko\n%c[default]We've got a new batch of exoskeletons and weapons. All the shock squads' commanders - come to me to get them.</eng>
 		<ukr>%c[sender]Петренко\n%c[default]До нас надійшла нова партія екзоскелетів та озброєння. Всі командири ударних квадів - підходьте до мене для отримання.</ukr>
-		<fra>%c[sender]Petrenko\n%c[default]Nous avons reçu un nouveau lot d'exosquelettes et d'armes. Tous les commandants des escouades en première ligne - venez vite récupérer le matériel.</fra>
+		<fra>%c[sender]Petrenko\n%c[default]Nous avons reçu un nouveau lot d'exosquelettes et d'armes. Tous les commandants d'escouades en première ligne - venez vite récupérer le matériel.</fra>
 		<pln>%c[sender]Pietrenko\n%c[default]Dostaliśmy nową partię egzoszkieletów i uzbrojenia. Wszyscy dowódcy uderzeniowych kwadów - podchodzić do mnie po sprzęt.</pln>
 	</string>
 	<string id="sms_dolg_27">
