@@ -255,7 +255,7 @@
 	<string id="atp_arhara_secret_3_name">
 		<rus>Хабар Китобоя</rus>
 		<eng>===Kit's stash</eng>
-		<ukr>===Хабар Кита</ukr>
+		<ukr>Хабар Китобоя</ukr>
 		<pln>===Towar Kita</pln>
 	</string>
 	<string id="atp_arhara_secret_3_descr">
@@ -339,7 +339,7 @@
 	<string id="aver_arhara_secret_2_name">
 		<rus>Тайник мстителя</rus>
 		<eng>===Pilgrim's stash</eng>
-		<ukr>===Схованка Пілігрима</ukr>
+		<ukr>Схованка месника</ukr>
 		<pln>===Schowek Pielgrzyma</pln>
 	</string>
 	<string id="aver_arhara_secret_2_descr">
@@ -363,7 +363,7 @@
 	<string id="aver_arhara_secret_4_name">
 		<rus>Тайник в лесу</rus>
 		<eng>===Skygazer's stash</eng>
-		<ukr>===Схованка Звіздаря</ukr>
+		<ukr>Схованка у лісі</ukr>
 		<pln>===Schowek Astronoma</pln>
 	</string>
 	<string id="aver_arhara_secret_4_descr">
@@ -375,13 +375,13 @@
 	<string id="aver_arhara_secret_5_name">
 		<rus>Тайник пожилого сталкера</rus>
 		<eng>===Old Man's stash</eng>
-		<ukr>===Схованка Старого</ukr>
+		<ukr>Схованка літнього сталкера</ukr>
 		<pln>===Schowek Starca</pln>
 	</string>
 	<string id="aver_arhara_secret_5_descr">
 		<rus>Оставлю тут рюкзачок с хабаром, пока у медика лечусь. Поправлю здоровье - заберу.</rus>
 		<eng>===I'll leave a backpack with artifacts here while the doctor treats me. I will take it, when my health is good.</eng>
-		<ukr>===Залишу тут рюкзачок з артами, поки у медика лікуюся. Поправлю здоров'я - заберу.</ukr>
+		<ukr>Залишу тут рюкзачок з хабаром, поки у медика лікуюся. Поправлю здоров'я - заберу.</ukr>
 		<pln>===Zostawię tu plecak z artami, póki leczę się u medyka. Podreperuję zdrowie - zabiorę.</pln>
 	</string>
 	<string id="warlab_arhara_secret_1_name">
@@ -477,7 +477,7 @@
 	<string id="agr_secret_0000_name">
 		<rus>Труба с секретом</rus>
 		<eng>===Seriy's stash</eng>
-		<ukr>===Схованка Сірого</ukr>
+		<ukr>Труба з секретом</ukr>
 		<pln>===Schowek Sieryja</pln>
 	</string>
 	<string id="agr_secret_0001_descr">
@@ -1005,7 +1005,7 @@
 	<string id="bar_secret_0011_name">
 		<rus>Тайник за аномалиями</rus>
 		<eng>===Arnie's stash</eng>
-		<ukr>===Схованка Арні</ukr>
+		<ukr>Схованка за аномаліями</ukr>
 		<pln>===Schowek Arniego</pln>
 	</string>
 	<string id="bar_secret_0012_description">
@@ -2049,7 +2049,7 @@
 	<string id="pri_secret_0004_name">
 		<rus>Запасы "Свободы"</rus>
 		<eng>===Freedom Leader's stocks</eng>
-		<ukr>===Запаси лідера «Волі»</ukr>
+		<ukr>Запаси «Волі»</ukr>
 		<pln>===Zapasy lidera "Wolności"</pln>
 	</string>
 	<string id="rad_secret_0000_description">
@@ -4353,7 +4353,7 @@
 	<string id="red_forest_secret_0035_name">
 		<rus>Вещи прапорщика</rus>
 		<eng>===Sherstyuk's things</eng>
-		<ukr>===Речі Шерстюка</ukr>
+		<ukr>Речі прапорщика</ukr>
 		<pln>===Rzeczy Szerstiuka</pln>
 	</string>
 	<string id="red_forest_secret_0035_descr">
@@ -4437,7 +4437,7 @@
 	<string id="labx8_secret_0000_name">
 		<rus>Вещи лаборанта</rus>
 		<eng>===Volazar's things</eng>
-		<ukr>===Речі Волазара</ukr>
+		<ukr>Речі лаборанта</ukr>
 		<pln>===Rzeczy Wolazara</pln>
 	</string>
 	<string id="labx8_secret_0000_descr">
@@ -4449,7 +4449,7 @@
 	<string id="labx8_secret_0001_name">
 		<rus>Нычка беспредельщика</rus>
 		<eng>===Fenrir's stash</eng>
-		<ukr>===Ничка Фенріра</ukr>
+		<ukr>Ничка безбашенного</ukr>
 		<pln>===Schowek Fenrira</pln>
 	</string>
 	<string id="labx8_secret_0001_descr">
@@ -4497,7 +4497,7 @@
 	<string id="zl_secret_00_name">
 		<rus>Схрон бегунка</rus>
 		<eng>===Chemist's stash</eng>
-		<ukr>===Схрон Хіміка</ukr>
+		<ukr>Схрон бігунця</ukr>
 		<pln>===Schowek Chemika</pln>
 	</string>
 	<string id="zl_secret_00_descr">
@@ -4989,7 +4989,7 @@
 	<string id="vp_secret_24_name">
 		<rus>Тайник пулемётчика</rus>
 		<eng>===Misha Machinegun's stash</eng>
-		<ukr>===Схованка Міші Кулемета</ukr>
+		<ukr>Схованка кулеметника</ukr>
 		<pln>===Schowek Miszy Kanoniera</pln>
 	</string>
 	<string id="vp_secret_24_descr">
@@ -5325,7 +5325,7 @@
 	<string id="zat_secret_19_name">
 		<rus>Лёжка опытного снайпера</rus>
 		<eng>===Fenrir's stash</eng>
-		<ukr>===Лежанка Фенріра</ukr>
+		<ukr>Лежанка досвідченого снайпера</ukr>
 		<pln>===Leże Fenrira</pln>
 	</string>
 	<string id="zat_secret_19_descr">
@@ -5673,7 +5673,7 @@
 	<string id="zat_secret_51_name">
 		<rus>Тайник адепта</rus>
 		<eng>===Stash of the Shadow of the Monolith</eng>
-		<ukr>===Схованка Тіні Моноліту</ukr>
+		<ukr>Схованка адепта</ukr>
 		<pln>===Schowek Cienia Monolitu</pln>
 	</string>
 	<string id="zat_secret_51_descr">
