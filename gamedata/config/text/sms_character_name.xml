@@ -4,14 +4,14 @@
 		<rus>МЕЧЕНЫЙ</rus>
 		<eng>MARKED ONE</eng>
 		<ukr>МІЧЕНИЙ</ukr>
-		<fra>===STRELOK</fra>
+		<fra>LE MARQUÉ</fra>
 		<pln>NAZNACZONY</pln>
 	</string>
 	<string id="name_mechenii_small">
 		<rus>Меченый</rus>
 		<eng>Marked One</eng>
 		<ukr>Мічений</ukr>
-		<fra>Strelok</fra>
+		<fra>Le Marqué</fra>
 		<pln>Naznaczony</pln>
 	</string>
 	<string id="name_zahar">
@@ -32,14 +32,14 @@
 		<rus>КУЗНЕЦОВ</rus>
 		<eng>KUZNETSOV</eng>
 		<ukr>КУЗНЄЦОВ</ukr>
-		<fra>KUZNETSOV</fra>
+		<fra>KOUZNETSOV</fra>
 		<pln>KUŹNIECOW</pln>
 	</string>
 	<string id="name_kuznetsov_small">
 		<rus>Кузнецов</rus>
 		<eng>Kuznetsov</eng>
 		<ukr>Кузнєцов</ukr>
-		<fra>Kuznetsov</fra>
+		<fra>Kouznetsov</fra>
 		<pln>Kuźniecow</pln>
 	</string>
 	<string id="name_sidorovich">
@@ -60,14 +60,14 @@
 		<rus>АДРЕНАЛИН</rus>
 		<eng>ADRENALIN</eng>
 		<ukr>АДРЕНАЛІН</ukr>
-		<fra>ADRENALINE</fra>
+		<fra>ADRÉNALINE</fra>
 		<pln>ADRENALINA</pln>
 	</string>
 	<string id="name_adrenalin_small">
 		<rus>Адреналин</rus>
 		<eng>Adrenalin</eng>
 		<ukr>Адреналін</ukr>
-		<fra>Adrenaline</fra>
+		<fra>Adrénaline</fra>
 		<pln>Adrenalina</pln>
 	</string>
 	<string id="name_obschaya_set">
@@ -137,14 +137,14 @@
 		<rus>ЛЫСЫЙ</rus>
 		<eng>BALDY</eng>
 		<ukr>ЛИСИЙ</ukr>
-		<fra>CHAUVE (Bald lisii)</fra>
+		<fra>LE CHAUVE</fra>
 		<pln>ŁYSY</pln>
 	</string>
 	<string id="name_lisii_small">
 		<rus>Лысый</rus>
 		<eng>Baldy</eng>
 		<ukr>Лисий</ukr>
-		<fra>Chauve</fra>
+		<fra>Le Chauve</fra>
 		<pln>Łysy</pln>
 	</string>
 	<string id="name_general_voronin">
@@ -165,28 +165,28 @@
 		<rus>ЛУКАШ</rus>
 		<eng>LUKASH</eng>
 		<ukr>ЛУКАШ</ukr>
-		<fra>LUKAS</fra>
+		<fra>LOUKACH</fra>
 		<pln>ŁUKASZ</pln>
 	</string>
 	<string id="name_lukash_small">
 		<rus>Лукаш</rus>
 		<eng>Lukash</eng>
 		<ukr>Лукаш</ukr>
-		<fra>Lukas</fra>
+		<fra>Loukach</fra>
 		<pln>Łukasz</pln>
 	</string>
 	<string id="name_arhara">
 		<rus>АРХАРА</rus>
 		<eng>ARKHARA</eng>
 		<ukr>АРХАРА</ukr>
-		<fra>ARHARA</fra>
-		<pln>ARHARA</pln>
+		<fra>ARKHARA</fra>
+		<pln>===ARHARA</pln>
 	</string>
 	<string id="name_arhara_small">
 		<rus>Архара</rus>
 		<eng>Arkhara</eng>
 		<ukr>Архара</ukr>
-		<fra>Arhara</fra>
+		<fra>Arkhara</fra>
 		<pln>Arhara</pln>
 	</string>
 	<string id="name_potap">
@@ -207,28 +207,28 @@
 		<rus>БОРОВ</rus>
 		<eng>BAUSON</eng>
 		<ukr>КАБАН</ukr>
-		<fra>BOROV</fra>
+		<fra>LE RAGOT</fra>
 		<pln>BOROW</pln>
 	</string>
 	<string id="name_borov_small">
 		<rus>Боров</rus>
 		<eng>Bauson</eng>
 		<ukr>Кабан</ukr>
-		<fra>Borov</fra>
+		<fra>Le Ragot</fra>
 		<pln>Borow</pln>
 	</string>
 	<string id="name_istochnik_neizvesten">
 		<rus>ИСТОЧНИК НЕИЗВЕСТЕН</rus>
 		<eng>SOURCE UNKNOWN</eng>
 		<ukr>ДЖЕРЕЛО НЕВІДОМЕ</ukr>
-		<fra>LA SOURCE INCONNUE</fra>
+		<fra>SOURCE INCONNUE</fra>
 		<pln>NIEZNANY UŻYTKOWNIK</pln>
 	</string>
 	<string id="name_istochnik_neizvesten_small">
 		<rus>источник неизвестен</rus>
-		<eng>Source unknown</eng>
+		<eng>source unknown</eng>
 		<ukr>джерело невідоме</ukr>
-		<fra>La source inconnue</fra>
+		<fra>source inconnue</fra>
 		<pln>nieznany użytkownik</pln>
 	</string>
 	<string id="name_barduty">
@@ -263,14 +263,14 @@
 		<rus>СЛЕДОПЫТ</rus>
 		<eng>PATHFINDER</eng>
 		<ukr>СЛІДОПИТ</ukr>
-		<fra>ECLAIREUR</fra>
+		<fra>PISTEUR</fra>
 		<pln>TROPICIEL</pln>
 	</string>
 	<string id="name_sledopit_small">
 		<rus>Следопыт</rus>
 		<eng>Pathfinder</eng>
 		<ukr>Слідопит</ukr>
-		<fra>Éclaireur</fra>
+		<fra>Pisteur</fra>
 		<pln>Tropiciel</pln>
 	</string>
 	<string id="name_strelok">
@@ -296,7 +296,7 @@
 	</string>
 	<string id="name_nayomniki">
 		<rus>НАЁМНИКИ</rus>
-		<eng>MERCENARIES </eng>
+		<eng>MERCENARIES</eng>
 		<ukr>НАЙМАНЦІ</ukr>
 		<fra>MERCENAIRES</fra>
 		<pln>NAJEMNICY</pln>
@@ -326,28 +326,28 @@
 		<rus>ГРАЧ</rus>
 		<eng>ROOK</eng>
 		<ukr>ГРАЧ</ukr>
-		<fra>TOUR</fra>
+		<fra>FREUX</fra>
 		<pln>GAWRON</pln>
 	</string>
 	<string id="name_grach_small">
 		<rus>Грач</rus>
 		<eng>Rook</eng>
 		<ukr>Грач</ukr>
-		<fra>Tour</fra>
+		<fra>Freux</fra>
 		<pln>Gawron</pln>
 	</string>
 	<string id="name_vasilii">
 		<rus>ВАСИЛИЙ</rus>
 		<eng>VASILY</eng>
 		<ukr>ВАСИЛЬ</ukr>
-		<fra>VASILY</fra>
+		<fra>VASSILY</fra>
 		<pln>WASYLI</pln>
 	</string>
 	<string id="name_vasilii_small">
 		<rus>Василий</rus>
 		<eng>Vasily</eng>
 		<ukr>Василь</ukr>
-		<fra>Vasily</fra>
+		<fra>Vassily</fra>
 		<pln>Wasyli</pln>
 	</string>
 	<string id="name_arni">
@@ -365,31 +365,31 @@
 		<pln>Arni</pln>
 	</string>
 	<string id="name_komandir_gruppi_monolita">
-		<rus>КОМАНДИР ГРУППЫ МОНОЛИТА</rus>
+		<rus>КОМАНДИР ГРУППЫ "МОНОЛИТА"</rus>
 		<eng>"MONOLITH" GROUP COMMANDER</eng>
-		<ukr>КОМАНДИР ГРУПИ МОНОЛІТУ</ukr>
-		<fra>COMMANDANT DU GROUPE MONOLITHE</fra>
-		<pln>DOWÓDCA GRUPY MONOLITU</pln>
+		<ukr>КОМАНДИР ГРУПИ "МОНОЛІТУ"</ukr>
+		<fra>COMMANDANT DU GROUPE DE "MONOLITHE"</fra>
+		<pln>DOWÓDCA GRUPY "MONOLITU"</pln>
 	</string>
 	<string id="name_boets_monolita">
-		<rus>БОЕЦ МОНОЛИТА</rus>
+		<rus>БОЕЦ "МОНОЛИТА"</rus>
 		<eng>"MONOLITH" FIGHTER</eng>
-		<ukr>БОЄЦЬ МОНОЛІТУ</ukr>
-		<fra>COMBATTANT MONOLITHE</fra>
-		<pln>BOJOWNIK MONOLITU</pln>
+		<ukr>БОЄЦЬ "МОНОЛІТУ"</ukr>
+		<fra>COMBATTANT DE "MONOLITHE"</fra>
+		<pln>BOJOWNIK "MONOLITU"</pln>
 	</string>
 	<string id="name_kruglov">
 		<rus>КРУГЛОВ</rus>
 		<eng>KRUGLOV</eng>
 		<ukr>КРУГЛОВ</ukr>
-		<fra>KRUGLOV</fra>
+		<fra>KROUGLOV</fra>
 		<pln>KRUGŁOW</pln>
 	</string>
 	<string id="name_kruglov_small">
 		<rus>Круглов</rus>
 		<eng>Kruglov</eng>
 		<ukr>Круглов</ukr>
-		<fra>Kruglov</fra>
+		<fra>Krouglov</fra>
 		<pln>Krugłow</pln>
 	</string>
 	<string id="name_dimak">
@@ -408,16 +408,16 @@
 	</string>
 	<string id="name_shurup">
 		<rus>ШУРУП</rus>
-		<eng>SHURUP</eng>
+		<eng>SCREW</eng>
 		<ukr>ШУРУП</ukr>
-		<fra>SHURUP</fra>
+		<fra>LA VIS</fra>
 		<pln>WKRĘT</pln>
 	</string>
 	<string id="name_shurup_small">
 		<rus>Шуруп</rus>
-		<eng>Shurup</eng>
+		<eng>Screw</eng>
 		<ukr>Шуруп</ukr>
-		<fra>Shurup</fra>
+		<fra>la Vis</fra>
 		<pln>Wkręt</pln>
 	</string>
 	<string id="name_viking">
@@ -515,21 +515,21 @@
 		<rus>Мессер</rus>
 		<eng>Messer</eng>
 		<ukr>Мессер</ukr>
-		<fra>===Messer</fra>
+		<fra>Messer</fra>
 		<pln>Messer</pln>
 	</string>
 	<string id="name_basti">
 		<rus>БАСТИ</rus>
 		<eng>BUUSTY</eng>
 		<ukr>БАСТІ</ukr>
-		<fra>===BASTI</fra>
+		<fra>BUUSTY</fra>
 		<pln>BUUSTY</pln>
 	</string>
 	<string id="name_basti_small">
 		<rus>Басти</rus>
 		<eng>Buusty</eng>
 		<ukr>Басті</ukr>
-		<fra>===Basti</fra>
+		<fra>Buusty</fra>
 		<pln>Buusty</pln>
 	</string>
 	<string id="name_kalinin">
@@ -564,14 +564,14 @@
 		<rus>ВАРГ</rus>
 		<eng>WARG</eng>
 		<ukr>ВАРГ</ukr>
-		<fra>VARG</fra>
+		<fra>WARG</fra>
 		<pln>WARG</pln>
 	</string>
 	<string id="name_varg_small">
 		<rus>Варг</rus>
 		<eng>Warg</eng>
 		<ukr>Варг</ukr>
-		<fra>Varg</fra>
+		<fra>Warg</fra>
 		<pln>Warg</pln>
 	</string>
 	<string id="name_otshelnik">
@@ -604,10 +604,10 @@
 	</string>
 	<string id="name_blatnoi">
 		<rus>БЛАТНОЙ</rus>
-		<eng>THIEVES</eng>
+		<eng>THE CRIMINAL</eng>
 		<ukr>БЛАТНИЙ</ukr>
-		<fra>BLANK</fra>
-		<pln>SZUJA</pln>
+		<fra>LE TRUAND</fra>
+		<pln>===SZUJA</pln>
 	</string>
 	<string id="name_tsiklop">
 		<rus>ЦИКЛОП</rus>
@@ -646,16 +646,16 @@
 	</string>
 	<string id="name_petya_glyuk">
 		<rus>ПЕТЯ ГЛЮК</rus>
-		<eng>===PETYA ГЛЮК</eng>
+		<eng>PETYA THE GLITCH</eng>
 		<ukr>ПЕТЯ ГЛЮК</ukr>
-		<fra>===PETYA GLUK</fra>
+		<fra>PETYA LE GLITCH</fra>
 		<pln>PIETIA GLICZ</pln>
 	</string>
 	<string id="name_pantera">
 		<rus>ПАНТЕРА</rus>
 		<eng>PANTHER</eng>
 		<ukr>ПАНТЕРА</ukr>
-		<fra>PANTHERE</fra>
+		<fra>PANTHÈRE</fra>
 		<pln>PANTERA</pln>
 	</string>
 	<string id="name_pantera_small">
@@ -669,7 +669,7 @@
 		<rus>ИНФОРМАЦИЯ</rus>
 		<eng>INFORMATION</eng>
 		<ukr>ІНФОРМАЦІЯ</ukr>
-		<fra>INFORMATIONS</fra>
+		<fra>INFORMATION</fra>
 		<pln>INFORMACJA</pln>
 	</string>
 	<string id="name_likvidator">
@@ -690,21 +690,21 @@
 		<rus>ВИТАЛИЙ ЗВЕРЬ</rus>
 		<eng>VITALY THE BEAST</eng>
 		<ukr>ВІТАЛІЙ ЗВІР</ukr>
-		<fra>VITALY LA BETE</fra>
+		<fra>VITALY LA BÊTE</fra>
 		<pln>WITALI ZWIERZ</pln>
 	</string>
 	<string id="name_serzhant_kostilnoga">
 		<rus>СЕРЖАНТ КОСТЫЛЬНОГА</rus>
-		<eng>SERGEANT KOSTYLNOGA</eng>
+		<eng>SERGEANT CRUTCHLEG</eng>
 		<ukr>СЕРЖАНТ КОСТИЛЬНОГА</ukr>
-		<fra>SERGENT KOSTYLNOGA</fra>
+		<fra>SERGENT BÉQUILLEJAMBE</fra>
 		<pln>SIERŻANT KOSTYLNOGA</pln>
 	</string>
 	<string id="name_leitenant_vetroplyuev">
 		<rus>ЛЕЙТЕНАНТ ВЕТРОПЛЮЕВ</rus>
-		<eng>LIEUTENANT VETROPLYUEV</eng>
+		<eng>LIEUTENANT WHIRLYBIRDSON</eng>
 		<ukr>ЛЕЙТЕНАНТ ВІТРОПЛЮЄВ</ukr>
-		<fra>LIEUTENANT DU RÉSEAU</fra>
+		<fra>LIEUTENANT HÉLICO</fra>
 		<pln>PORUCZNIK WIETROPLUJEW</pln>
 	</string>
 	<string id="name_kolmogor">
@@ -753,54 +753,54 @@
 		<rus>СЕДОЙ</rus>
 		<eng>GRIZZLED</eng>
 		<ukr>СИВИЙ</ukr>
-		<fra>GRIS</fra>
+		<fra>LE GRISON</fra>
 		<pln>SZARY</pln>
 	</string>
 	<string id="name_sedoi_small">
 		<rus>Седой</rus>
 		<eng>Grizzled</eng>
 		<ukr>Сивий</ukr>
-		<fra>Gris</fra>
+		<fra>Le Grison</fra>
 		<pln>Szary</pln>
 	</string>
 	<string id="name_otsrochennoe_sms">
 		<rus>ОТСРОЧЕННОЕ СМС</rus>
 		<eng>DELAYED SMS</eng>
 		<ukr>ВІДСТРОЧЕНА СМС</ukr>
-		<fra>SMS RETARDÉ</fra>
+		<fra>SMS DIFFÉRÉ</fra>
 		<pln>OPÓŹNIONY SMS</pln>
 	</string>
 	<string id="name_telohranitel_chyornogo_doktora">
 		<rus>ТЕЛОХРАНИТЕЛЬ ЧЁРНОГО ДОКТОРА</rus>
 		<eng>BLACK DOCTOR BODYGUARD</eng>
 		<ukr>ТІЛООХОРОНЕЦЬ ЧОРНОГО ДОКТОРА</ukr>
-		<fra>====LE PRÉTORIEN DU DOCTEUR NOIR</fra>
+		<fra>GARDE DU CORPS DU DOCTEUR NOIR</fra>
 		<pln>OCHRONIARZ CZARNEGO DOKTORA</pln>
 	</string>
 	<string id="name_prizrak">
 		<rus>ПРИЗРАК</rus>
-		<eng>GHOST</eng>
+		<eng>SPECTRE</eng>
 		<ukr>ПРИВИД</ukr>
-		<fra>FANTOME</fra>
-		<pln>DUCH</pln>
+		<fra>FANTÔME</fra>
+		<pln>===DUCH</pln>
 	</string>
 	<string id="name_prizrak_small">
 		<rus>Призрак</rus>
-		<eng>Ghost</eng>
+		<eng>Spectre</eng>
 		<ukr>Привид</ukr>
 		<fra>Fantôme</fra>
-		<pln>Duch</pln>
+		<pln>===Duch</pln>
 	</string>
 	<string id="name_zemlyak">
 		<rus>ЗЕМЛЯК</rus>
-		<eng>COUNTRYMAN</eng>
+		<eng>HOMEBOY</eng>
 		<ukr>ЗЕМЛЯК</ukr>
 		<fra>COMPATRIOTE</fra>
 		<pln>RODAK</pln>
 	</string>
 	<string id="name_zemlyak_small">
 		<rus>Земляк</rus>
-		<eng>Countryman</eng>
+		<eng>Homeboy</eng>
 		<ukr>Земляк</ukr>
 		<fra>Compatriote</fra>
 		<pln>Rodak</pln>
@@ -809,7 +809,7 @@
 		<rus>ОБРЫВОК ДИАЛОГА ПИЛОТОВ</rus>
 		<eng>ОБРЫВОК ДИАЛОГА ПИЛОТОВ</eng>
 		<ukr>ОБРИВОК ДІАЛОГУ ПІЛОТІВ</ukr>
-		<fra>===LE LAMBEAU DU DIALOGUE DES PILOTES</fra>
+		<fra>UN LAMBEAU DU DIALOGUE DES PILOTES</fra>
 		<pln>FRAGMENT ROZMOWY PILOTÓW</pln>
 	</string>
 	<string id="name_frits">
@@ -842,30 +842,30 @@
 	</string>
 	<string id="name_chelovek_chyornogo_doktora">
 		<rus>ЧЕЛОВЕК ЧЁРНОГО ДОКТОРА</rus>
-		<eng>===THE BLACK DOCTOR'S MAN</eng>
+		<eng>THE BLACK DOCTOR'S MAN</eng>
 		<ukr>ЛЮДИНА ЧОРНОГО ДОКТОРА</ukr>
-		<fra>===L'HOMME DU DOCTEUR NOIR</fra>
+		<fra>L'HOMME DU DOCTEUR NOIR</fra>
 		<pln>CZŁOWIEK CZARNEGO DOKTORA</pln>
 	</string>
 	<string id="name_pilot_vertolyota">
 		<rus>ПИЛОТ ВЕРТОЛЁТА</rus>
 		<eng>HELICOPTER PILOT</eng>
 		<ukr>ПІЛОТ ВЕРТОЛЬОТА</ukr>
-		<fra>PILOTE D'HELICOPTERE</fra>
+		<fra>PILOTE D'HÉLICOPTÈRE</fra>
 		<pln>PILOT HELIKOPTERA</pln>
 	</string>
 	<string id="name_botsman">
 		<rus>БОЦМАН</rus>
 		<eng>BOATSWAIN</eng>
 		<ukr>БОЦМАН</ukr>
-		<fra>MANOEUVRIER</fra>
+		<fra>BOSCO</fra>
 		<pln>BOSMAN</pln>
 	</string>
 	<string id="name_botsman_small">
 		<rus>Боцман</rus>
 		<eng>Boatswain</eng>
 		<ukr>Боцман</ukr>
-		<fra>Manœuvrier</fra>
+		<fra>Bosco</fra>
 		<pln>Bosman</pln>
 	</string>
 	<string id="name_solvador">
@@ -949,7 +949,7 @@
 		<rus>СВОБОДОВЕЦ</rus>
 		<eng>"FREEDOM" FIGHTER</eng>
 		<ukr>БОЄЦЬ ВОЛІ</ukr>
-		<fra>SOLDAT DE LA "LIBERTÉ"</fra>
+		<fra>COMBATTANT DE "LIBERTÉ"</fra>
 		<pln>WOLNOŚCIOWIEC</pln>
 	</string>
 	<string id="name_zvezdochyot">
@@ -1047,7 +1047,7 @@
 		<rus>Максимилиан</rus>
 		<eng>Maximillian</eng>
 		<ukr>Максиміліан</ukr>
-		<fra>Maximilian</fra>
+		<fra>Maximillian</fra>
 		<pln>Maksymilian</pln>
 	</string>
 	<string id="name_radist">
@@ -1061,7 +1061,7 @@
 		<rus>Радист</rus>
 		<eng>Radioman</eng>
 		<ukr>Радист</ukr>
-		<fra>Radio</fra>
+		<fra>Sanfiliste</fra>
 		<pln>Radiowiec</pln>
 	</string>
 	<string id="name_lesnik">
@@ -1087,9 +1087,9 @@
 	</string>
 	<string id="name_chasovoi">
 		<rus>ЧАСОВОЙ</rus>
-		<eng>SENTRY</eng>
+		<eng>WATCHMAN</eng>
 		<ukr>ВАРТОВИЙ</ukr>
-		<fra>SENTINELLE</fra>
+		<fra>VEILLEUR</fra>
 		<pln>WARTOWNIK</pln>
 	</string>
 	<string id="name_chernomor">
@@ -1109,15 +1109,15 @@
 	<string id="name_zlobnii">
 		<rus>ЗЛОБНЫЙ</rus>
 		<eng>THE BITCHY</eng>
-		<ukr>Злісний</ukr>
-		<fra>LE HAINEUX</fra>
+		<ukr>ЗЛIСНИЙ</ukr>
+		<fra>LE MALICIEUX</fra>
 		<pln>ZŁOŚLIWY</pln>
 	</string>
 	<string id="name_zlobnii_small">
 		<rus>Злобный</rus>
 		<eng>The Bitchy</eng>
 		<ukr>Злісний</ukr>
-		<fra>Le Haineux</fra>
+		<fra>Le Malicieux</fra>
 		<pln>Złośliwy</pln>
 	</string>
 	<string id="name_parfyumer">
@@ -1150,16 +1150,16 @@
 	</string>
 	<string id="name_obmorok">
 		<rus>ОБМОРОК</rus>
-		<eng>FAINT</eng>
+		<eng>THE FAINT</eng>
 		<ukr>НЕПРИТОМНІСТЬ</ukr>
-		<fra>OBMOROK</fra>
+		<fra>LA PÂMOISON</fra>
 		<pln>OMDLAŁY</pln>
 	</string>
 	<string id="name_obmorok_small">
 		<rus>Обморок</rus>
-		<eng>Faint</eng>
+		<eng>The Faint</eng>
 		<ukr>Непритомність</ukr>
-		<fra>Obmorok</fra>
+		<fra>la Pâmoison</fra>
 		<pln>Omdlały</pln>
 	</string>
 	<string id="name_duda">
@@ -1180,14 +1180,14 @@
 		<rus>ИСКРА</rus>
 		<eng>SPARK</eng>
 		<ukr>ІСКРА</ukr>
-		<fra>ISKRA</fra>
+		<fra>L'ÉTINCELLE</fra>
 		<pln>ISKRA</pln>
 	</string>
 	<string id="name_iskra_small">
 		<rus>Искра</rus>
 		<eng>Spark</eng>
 		<ukr>Іскра</ukr>
-		<fra>Iskra</fra>
+		<fra>l'Étincelle</fra>
 		<pln>Iskra</pln>
 	</string>
 	<string id="name_vhodyaschee_soobschenie">
@@ -1229,28 +1229,28 @@
 		<rus>ХАЛЯВА</rus>
 		<eng>FREEBIE</eng>
 		<ukr>ХАЛЯВА</ukr>
-		<fra>COOL</fra>
+		<fra>LE RESQUILLEUR</fra>
 		<pln>CHALAWA</pln>
 	</string>
 	<string id="name_halyava_small">
 		<rus>Халява</rus>
 		<eng>Freebie</eng>
 		<ukr>Халява</ukr>
-		<fra>Cool</fra>
+		<fra>le Resquilleur</fra>
 		<pln>Chalawa</pln>
 	</string>
 	<string id="name_shedoumen">
 		<rus>ШЕДОУМЕН</rus>
 		<eng>SHADOWMAN</eng>
 		<ukr>ШЕДОУМЕН</ukr>
-		<fra>L'OMBRE</fra>
+		<fra>SHADOWMAN</fra>
 		<pln>SHADOWMAN</pln>
 	</string>
 	<string id="name_shedoumen_small">
 		<rus>Шедоумен</rus>
 		<eng>Shadowman</eng>
 		<ukr>Шедоумен</ukr>
-		<fra>L'Ombre</fra>
+		<fra>Shadowman</fra>
 		<pln>Shadowman</pln>
 	</string>
 	<string id="name_kalmik">
@@ -1271,63 +1271,63 @@
 		<rus>КУЗЬКИНА МАТЬ</rus>
 		<eng>KUZKA'S MOTHER</eng>
 		<ukr>КУЗЬКІНА МАТЬ</ukr>
-		<fra>MÈRE KUZKINA</fra>
+		<fra>MÈRE DE KOUZKA</fra>
 		<pln>MATKA KUŹKINA</pln>
 	</string>
 	<string id="name_kuzkina_mat_small">
 		<rus>Кузькина Мать</rus>
 		<eng>Kuzka's Mother</eng>
 		<ukr>Кузькіна Мать</ukr>
-		<fra>Mère Kuzkina</fra>
+		<fra>Mère de Kouzka</fra>
 		<pln>Matka Kuźkina</pln>
 	</string>
 	<string id="name_sanyok_razboinik">
 		<rus>САНЁК РАЗБОЙНИК</rus>
-		<eng>САНЁК РАЗБОЙНИК</eng>
+		<eng>SANYA THE BRIGAND</eng>
 		<ukr>САШКО РОЗБІЙНИК</ukr>
-		<fra>SANYA LE VOLEUR</fra>
+		<fra>SANYA LE BRIGAND</fra>
 		<pln>SANIA ROZBÓJNIK</pln>
 	</string>
 	<string id="name_sanyok_razboinik_small">
 		<rus>Санёк Разбойник</rus>
-		<eng>Санёк Разбойник</eng>
+		<eng>Sanya the Brigand</eng>
 		<ukr>Сашко Розбійник</ukr>
-		<fra>Sanya le Voleur</fra>
+		<fra>Sanya le Brigand</fra>
 		<pln>Sania Rozbójnik</pln>
 	</string>
 	<string id="name_roma_romale">
 		<rus>РОМА РОМАЛЕ</rus>
 		<eng>ROMA ROMALE</eng>
 		<ukr>РОМА РОМАЛЕ</ukr>
-		<fra>ROMA ROMALE</fra>
+		<fra>ROMA ROMALÉ</fra>
 		<pln>ROMA ROMALE</pln>
 	</string>
 	<string id="name_roma_romale_small">
 		<rus>Рома Ромале</rus>
 		<eng>Roma Romale</eng>
 		<ukr>Рома Ромале</ukr>
-		<fra>Roma Romale</fra>
+		<fra>Roma Romalé</fra>
 		<pln>Roma Romale</pln>
 	</string>
 	<string id="name_mertsayuschii">
 		<rus>МЕРЦАЮЩИЙ</rus>
-		<eng>SHIMMERING ONE</eng>
+		<eng>THE SCINTILLANT</eng>
 		<ukr>МЕРЕХТЛИВИЙ</ukr>
 		<fra>LE SCINTILLANT</fra>
 		<pln>NIEUCHWYTNY</pln>
 	</string>
 	<string id="name_mertsayuschii_small">
 		<rus>Мерцающий</rus>
-		<eng>Shimmering One</eng>
+		<eng>the Scintillant</eng>
 		<ukr>Мерехтливий</ukr>
 		<fra>Le Scintillant</fra>
 		<pln>Nieuchwytny</pln>
 	</string>
 	<string id="name_maior_brazhnikov">
 		<rus>МАЙОР БРАЖНИКОВ</rus>
-		<eng>MAJOR BRAZHNIKOV</eng>
+		<eng>MAJOR BRAJNIKOV</eng>
 		<ukr>МАЙОР БРАЖНИКОВ</ukr>
-		<fra>MAJOR BRAZHNIKOV</fra>
+		<fra>MAJOR BRAJNIKOV</fra>
 		<pln>MAJOR BRAŻNIKOW</pln>
 	</string>
 	<string id="name_hiko">
@@ -1355,14 +1355,14 @@
 		<rus>ДОЦЕНТ</rus>
 		<eng>DOCENT</eng>
 		<ukr>ДОЦЕНТ</ukr>
-		<fra>DOCENT</fra>
+		<fra>LE MAÎTRE DE CONFÉRENCES</fra>
 		<pln>DOCENT</pln>
 	</string>
 	<string id="name_dotsent_small">
 		<rus>Доцент</rus>
 		<eng>Docent</eng>
 		<ukr>Доцент</ukr>
-		<fra>Professeur adjoint Docent</fra>
+		<fra>le Maître de conférences</fra>
 		<pln>Docent</pln>
 	</string>
 	<string id="name_shakal">
@@ -1374,9 +1374,9 @@
 	</string>
 	<string id="name_sivii">
 		<rus>СИВЫЙ</rus>
-		<eng>ASH</eng>
+		<eng>GRAY</eng>
 		<ukr>СИВОЧОЛИЙ</ukr>
-		<fra>TERRIBLE</fra>
+		<fra>LE RUBICAN</fra>
 		<pln>SIWY</pln>
 	</string>
 	<string id="name_dzhoker">
@@ -1397,7 +1397,7 @@
 		<rus>КРАГА</rus>
 		<eng>GAITER</eng>
 		<ukr>КРАГА</ukr>
-		<fra>KRAGA</fra>
+		<fra>GUÊTRE</fra>
 		<pln>KRAGA</pln>
 	</string>
 	<string id="name_kostya">
@@ -1439,7 +1439,7 @@
 		<rus>КОМАНДА СОЗДАТЕЛЕЙ ОП-2</rus>
 		<eng>OP-2 DEVELOPMENT TEAM</eng>
 		<ukr>КОМАНДА ТВОРЦІВ ОП-2</ukr>
-		<fra>ÉQUIPE DE CRÉATEURS DE l'OP-2</fra>
+		<fra>ÉQUIPE DE CRÉATEURS DE L'OP-2</fra>
 		<pln>EKIPA TWÓRCÓW OP-2</pln>
 	</string>
 	<string id="name_komanda_sozdatelei_op_2_small">
@@ -1479,16 +1479,16 @@
 	</string>
 	<string id="name_fanat">
 		<rus>ФАНАТ</rus>
-		<eng>FANAT</eng>
+		<eng>FANBOY</eng>
 		<ukr>ФАНАТ</ukr>
-		<fra>FANATIC</fra>
+		<fra>ACCRO</fra>
 		<pln>FANAT</pln>
 	</string>
 	<string id="name_fanat_small">
 		<rus>Фанат</rus>
-		<eng>Fanat</eng>
+		<eng>Fanboy</eng>
 		<ukr>Фанат</ukr>
-		<fra>Fanatic</fra>
+		<fra>Accro</fra>
 		<pln>Fanat</pln>
 	</string>
 	<string id="name_kartograf">
@@ -1521,37 +1521,37 @@
 	</string>
 	<string id="name_starii_zhil">
 		<rus>СТАРЫЙ ЖИЛ</rus>
-		<eng>OLD TIMER</eng>
+		<eng>OLD-TIMER</eng>
 		<ukr>СТАРИЙ ЖИЛ</ukr>
-		<fra>LE VIEUX</fra>
+		<fra>LE VIEUX-RENARD</fra>
 		<pln>TUBYLEC</pln>
 	</string>
 	<string id="name_starii_zhil_small">
 		<rus>Старый Жил</rus>
-		<eng>Old Timer</eng>
+		<eng>Old-timer</eng>
 		<ukr>Старий Жил</ukr>
-		<fra>Le Vieux</fra>
+		<fra>Le Vieux-Renard</fra>
 		<pln>Tubylec</pln>
 	</string>
 	<string id="name_sistema_zhiznennoi_podderzhki">
 		<rus>СИСТЕМА ЖИЗНЕННОЙ ПОДДЕРЖКИ</rus>
 		<eng>LIFE SUPPORT SYSTEM</eng>
 		<ukr>СИСТЕМА ПІДТРИМКИ ЖИТТЄДІЯЛЬНОСТІ</ukr>
-		<fra>SYSTÈME DE SOUTIEN À LA VIE</fra>
+		<fra>SYSTÈME DE MAINTIEN DE LA VIE</fra>
 		<pln>SYSTEM PODTRZYMANIA ŻYCIA</pln>
 	</string>
 	<string id="name_lentyai">
 		<rus>ЛЕНТЯЙ</rus>
 		<eng>BUM</eng>
 		<ukr>ЛЕДАР</ukr>
-		<fra>PARESSEUX</fra>
+		<fra>LE FAINÉANT</fra>
 		<pln>LENIUCH</pln>
 	</string>
 	<string id="name_lentyai_small">
 		<rus>Лентяй</rus>
 		<eng>Bum</eng>
 		<ukr>Ледар</ukr>
-		<fra>Paresseux</fra>
+		<fra>Le Fainéant</fra>
 		<pln>Leniuch</pln>
 	</string>
 	<string id="name_ruslan_murzov">
@@ -1591,9 +1591,9 @@
 	</string>
 	<string id="name_strelok_(misli_vsluh)">
 		<rus>СТРЕЛОК (мысли вслух)</rus>
-		<eng>STRELOK (Thinking out loud)</eng>
+		<eng>STRELOK (thinking out loud)</eng>
 		<ukr>СТРІЛЕЦЬ (думки вголос)</ukr>
-		<fra>STRELOK (réfléchissant tout haut)</fra>
+		<fra>STRELOK (réfléchissant à voix haute)</fra>
 		<pln>STRIEŁOK (głośno myśli)</pln>
 	</string>
 	<string id="name_obitel_zla">
@@ -1617,16 +1617,14 @@
 		<fra>L'OMBRE DU MONOLITHE</fra>
 		<pln>CIEŃ MONOLITU</pln>
 	</string>
-	
-	<string id="name_ten_monolita_small">
+		<string id="name_ten_monolita_small">
 		<rus>Тень Монолита</rus>
 		<eng>Monolith's Shadow</eng>
 		<ukr>Тінь Моноліту</ukr>
 		<fra>L'ombre du Monolithe</fra>
 		<pln>Cień Monolitu</pln>
 	</string>
-	
-	<string id="name_anna">
+		<string id="name_anna">
 		<rus>АННА</rus>
 		<eng>ANNA</eng>
 		<ukr>АННА</ukr>
@@ -1644,14 +1642,14 @@
 		<rus>КОТОБЕГЕМОТ</rus>
 		<eng>CATBEHEMOTH</eng>
 		<ukr>КОТОБЕГЕМОТ</ukr>
-		<fra>KOTOBEGEMOT</fra>
+		<fra>CHATBÉHÉMOTH</fra>
 		<pln>KOTOBEHEMOT</pln>
 	</string>
 	<string id="name_kotobegemot_small">
 		<rus>Котобегемот</rus>
 		<eng>Catbehemoth</eng>
 		<ukr>Котобегемот</ukr>
-		<fra>Kotobegemot</fra>
+		<fra>Chatbéhémoth</fra>
 		<pln>Kotobehemot</pln>
 	</string>
 	<string id="name_boroda">
@@ -1669,18 +1667,18 @@
 		<pln>Broda</pln>
 	</string>
 	<string id="name_proper_semidesyatii">
-		<rus>ПРОПЕР СЕМИДЕСЯТЫЙ</rus>
+		<rus>ПРОПЕР 70ЫЙ</rus>
 		<eng>PROPER THE 70TH</eng>
-		<ukr>ПРОПЕР СІМДЕСЯТИЙ</ukr>
+		<ukr>ПРОПЕР 70ИЙ</ukr>
 		<fra>PROPER 70</fra>
-		<pln>PROPER</pln>
+		<pln>===PROPER 70</pln>
 	</string>
 	<string id="name_proper_semidesyatii_small">
-		<rus>Пропер Семидесятый</rus>
+		<rus>Пропер 70ый</rus>
 		<eng>Proper the 70th</eng>
-		<ukr>Пропер Сімдесятий</ukr>
+		<ukr>Пропер 70ий</ukr>
 		<fra>Proper 70</fra>
-		<pln>Proper</pln>
+		<pln>===Proper 70</pln>
 	</string>
 	<string id="name_pftp">
 		<rus>ПФТП</rus>
@@ -1698,14 +1696,14 @@
 	</string>
 	<string id="name_brodyaga">
 		<rus>БРОДЯГА</rus>
-		<eng>TRAMP</eng>
+		<eng>VAGABOND</eng>
 		<ukr>ВОЛОЦЮГА</ukr>
 		<fra>LE VAGABOND</fra>
 		<pln>WŁÓCZĘGA</pln>
 	</string>
 	<string id="name_brodyaga_small">
 		<rus>Бродяга</rus>
-		<eng>Tramp</eng>
+		<eng>Vagabond</eng>
 		<ukr>Волоцюга</ukr>
 		<fra>Le Vagabond</fra>
 		<pln>Włóczęga</pln>
@@ -1714,22 +1712,22 @@
 		<rus>ВЕСКЕР</rus>
 		<eng>WESKER</eng>
 		<ukr>ВЕСКЕР</ukr>
-		<fra>VESKER</fra>
+		<fra>WESKER</fra>
 		<pln>WESKER</pln>
 	</string>
 	<string id="name_vesker_small">
 		<rus>Вескер</rus>
 		<eng>Wesker</eng>
 		<ukr>Вескер</ukr>
-		<fra>Vesker</fra>
+		<fra>Wesker</fra>
 		<pln>Wesker</pln>
 	</string>
 	<string id="boec_poslednego_dnia">
-		<rus>БОЕЦ ПОСЛЕДНЕГО ДНЯ</rus>
-		<eng>БОЕЦ ПОСЛЕДНЕГО ДНЯ</eng>
-		<ukr>БОЄЦЬ ОСТАННЬОГО ДНЯ</ukr>
-		<fra> CHASSEUR DU DERNIER JOUR</fra>
-		<pln>BOJOWNIK OSTATNIEGO DNIA</pln>
+		<rus>БОЕЦ "ПОСЛЕДНЕГО ДНЯ"</rus>
+		<eng>FIGHTER OF THE "LAST DAY"</eng>
+		<ukr>БОЄЦЬ "ОСТАННЬОГО ДНЯ"</ukr>
+		<fra>COMBATTANT DU "DERNIER JOUR"</fra>
+		<pln>BOJOWNIK "OSTATNIEGO DNIA"</pln>
 	</string>
 	<string id="name_den">
 		<rus>ДЭН</rus>
@@ -1789,65 +1787,65 @@
 	</string>
 	<string id="name_dyak">
 		<rus>ДЬЯК</rus>
-		<eng>ДЬЯК</eng>
+		<eng>DEACON</eng>
 		<ukr>ДЯК</ukr>
-		<fra>DYAK</fra>
+		<fra>SACRISTAIN</fra>
 		<pln>DIAKON</pln>
 	</string>
 	<string id="name_dyak_small">
 		<rus>Дьяк</rus>
-		<eng>Дьяк</eng>
+		<eng>Deacon</eng>
 		<ukr>Дяк</ukr>
-		<fra>yak</fra>
+		<fra>Sacristain</fra>
 		<pln>Diakon</pln>
 	</string>
 	<string id="name_hrebet">
 		<rus>ХРЕБЕТ</rus>
-		<eng>SPINE</eng>
+		<eng>CHINE</eng>
 		<ukr>ХРЕБЕТ</ukr>
-		<fra>REBET</fra>
+		<fra>ÉCHINE</fra>
 		<pln>GRZBIET</pln>
 	</string>
 	<string id="name_skitalets">
 		<rus>СКИТАЛЕЦ</rus>
-		<eng>WANDERER</eng>
+		<eng>MAVERICK</eng>
 		<ukr>МАНДРІВНИК</ukr>
-		<fra>SKITAL</fra>
+		<fra>FRANC-TIREUR</fra>
 		<pln>WĘDROWIEC</pln>
 	</string>
 	<string id="name_lovkach">
 		<rus>ЛОВКАЧ</rus>
 		<eng>TRICKSTER</eng>
 		<ukr>СПРИТНИК</ukr>
-		<fra>SPIRIT</fra>
+		<fra>MARIOLE</fra>
 		<pln>SPRYCIARZ</pln>
 	</string>
 	<string id="name_lovkach_small">
 		<rus>Ловкач</rus>
 		<eng>Trickster</eng>
 		<ukr>Спритник</ukr>
-		<fra>Spirit</fra>
+		<fra>Mariole</fra>
 		<pln>Spryciarz</pln>
 	</string>
 	<string id="name_feniks">
 		<rus>ФЕНИКС</rus>
 		<eng>PHOENIX</eng>
 		<ukr>ФЕНІКС</ukr>
-		<fra>PHOENIX</fra>
+		<fra>PHÉNIX</fra>
 		<pln>FENIKS</pln>
 	</string>
 	<string id="name_feniks_small">
 		<rus>Феникс</rus>
 		<eng>Phoenix</eng>
 		<ukr>Фенікс</ukr>
-		<fra>Phoenix</fra>
+		<fra>Phénix</fra>
 		<pln>Feniks</pln>
 	</string>
 	<string id="name_slavka_antizombi">
 		<rus>СЛАВКА АНТИЗОМБИ</rus>
-		<eng>SLAVKA ZOMBAX</eng>
+		<eng>SLAVKA ANTIZOMBINE</eng>
 		<ukr>СЛАВКО АНТИЗОМБІ</ukr>
-		<fra>SLAVKA ANTIZOMBIE</fra>
+		<fra>SLAVKA ANTIZOMBINE</fra>
 		<pln>SŁAWIK ANTYZOMBIN</pln>
 	</string>
 	<string id="name_kapitan_filatov">
@@ -1868,21 +1866,21 @@
 		<rus>ЖНЕЦ</rus>
 		<eng>REAPER</eng>
 		<ukr>ЖНЕЦЬ</ukr>
-		<fra>ZHNETS</fra>
+		<fra>MOISSONNEUR</fra>
 		<pln>ŻNIWIARZ</pln>
 	</string>
 	<string id="name_korshun">
 		<rus>КОРШУН</rus>
 		<eng>MILVUS</eng>
 		<ukr>КОРШУН</ukr>
-		<fra>KORSHUN</fra>
+		<fra>MILAN</fra>
 		<pln>KANIA</pln>
 	</string>
 	<string id="name_korshun_small">
 		<rus>Коршун</rus>
 		<eng>Milvus</eng>
 		<ukr>Коршун</ukr>
-		<fra>Korshun</fra>
+		<fra>Milan</fra>
 		<pln>Kania</pln>
 	</string>
 	<string id="name_aaz">
@@ -1901,42 +1899,42 @@
 	</string>
 	<string id="name_aleksandrich">
 		<rus>АЛЕКСАНДРЫЧ</rus>
-		<eng>ALEXANDRICH</eng>
+		<eng>ALEXANDRYCH</eng>
 		<ukr>АЛЕКСАНДРИЧ</ukr>
-		<fra>ALEXANDRITCH</fra>
+		<fra>ALEXANDRYTCH</fra>
 		<pln>ALEKSANDRYCZ</pln>
 	</string>
 	<string id="name_aleksandrich_small">
 		<rus>Александрыч</rus>
-		<eng>Alexandrich</eng>
+		<eng>Alexandrych</eng>
 		<ukr>Александрич</ukr>
-		<fra>Alexandritch</fra>
+		<fra>Alexandrytch</fra>
 		<pln>Aleksandrycz</pln>
 	</string>
 	<string id="name_alpinist">
 		<rus>АЛЬПИНИСТ</rus>
-		<eng>CLIMBER</eng>
+		<eng>ALPINIST</eng>
 		<ukr>АЛЬПІНІСТ</ukr>
 		<fra>ALPINISTE</fra>
 		<pln>ALPINISTA</pln>
 	</string>
 	<string id="name_alpinist_small">
 		<rus>Альпинист</rus>
-		<eng>Climber</eng>
+		<eng>Alpinist</eng>
 		<ukr>Альпініст</ukr>
 		<fra>Alpiniste</fra>
 		<pln>Alpinista</pln>
 	</string>
 	<string id="name_andersen">
 		<rus>АНДЕРСЕН</rus>
-		<eng>ANDERSON</eng>
+		<eng>ANDERSEN</eng>
 		<ukr>АНДЕРСЕН</ukr>
 		<fra>ANDERSEN</fra>
 		<pln>ANDERSEN</pln>
 	</string>
 	<string id="name_andersen_small">
 		<rus>Андерсен</rus>
-		<eng>Anderson</eng>
+		<eng>Andersen</eng>
 		<ukr>Андерсен</ukr>
 		<fra>Andersen</fra>
 		<pln>Andersen</pln>
@@ -1959,98 +1957,98 @@
 		<rus>СЭР БАРМАЛЕЙ</rus>
 		<eng>SIR BOGEYMAN</eng>
 		<ukr>СЕР БАРМАЛЕЙ</ukr>
-		<fra>MR BARMALEY</fra>
+		<fra>SIR BARMALEY</fra>
 		<pln>SIR BARMALEY</pln>
 	</string>
 	<string id="name_ser_barmalei_small">
 		<rus>Сэр Бармалей</rus>
-		<eng>Sir Bogeyman</eng>
+		<eng>Sir Barmaley</eng>
 		<ukr>Сер Бармалей</ukr>
-		<fra>Monsieur Barmaley</fra>
+		<fra>Sir Barmaley</fra>
 		<pln>Sir Barmaley</pln>
 	</string>
 	<string id="name_batya">
 		<rus>БАТЯ</rus>
-		<eng>BATYA</eng>
+		<eng>FULL-BIRD</eng>
 		<ukr>БАТЯ</ukr>
-		<fra>BATYA</fra>
+		<fra>DARON</fra>
 		<pln>BATIA</pln>
 	</string>
 	<string id="name_batya_small">
 		<rus>Батя</rus>
-		<eng>Batya</eng>
+		<eng>Full-bird</eng>
 		<ukr>Батя</ukr>
-		<fra>Batya</fra>
+		<fra>Daron</fra>
 		<pln>Batia</pln>
 	</string>
 	<string id="name_bes">
 		<rus>БЕС</rus>
-		<eng>FIEND</eng>
+		<eng>BES</eng>
 		<ukr>БІС</ukr>
 		<fra>BES</fra>
 		<pln>BIES</pln>
 	</string>
 	<string id="name_bes_small">
 		<rus>Бес</rus>
-		<eng>Fiend</eng>
+		<eng>Bes</eng>
 		<ukr>Біс</ukr>
 		<fra>Bes</fra>
 		<pln>Bies</pln>
 	</string>
 	<string id="name_blondinka">
 		<rus>БЛОНДИНКА</rus>
-		<eng>БЛОНДИНКА</eng>
+		<eng>THE BLONDE</eng>
 		<ukr>БЛОНДИНКА</ukr>
-		<fra>BLONDIN</fra>
+		<fra>LA BLONDE</fra>
 		<pln>BLONDYNKA</pln>
 	</string>
 	<string id="name_blondinka_small">
 		<rus>Блондинка</rus>
-		<eng>Блондинка</eng>
+		<eng>The Blonde</eng>
 		<ukr>Блондинка</ukr>
-		<fra>Blondin</fra>
-		<pln>Blondynka</pln>
+		<fra>La Blonde</fra>
+		<pln>===Blondynka</pln>
 	</string>
 	<string id="name_borman">
 		<rus>БОРМАН</rus>
-		<eng>BORMAN</eng>
+		<eng>BORMANN</eng>
 		<ukr>БОРМАН</ukr>
-		<fra>BORMAN</fra>
-		<pln>BORMAN</pln>
+		<fra>BORMANN</fra>
+		<pln>BORMANN</pln>
 	</string>
 	<string id="name_borman_small">
 		<rus>Борман</rus>
-		<eng>Borman</eng>
+		<eng>Bormann</eng>
 		<ukr>Борман</ukr>
-		<fra>Borman</fra>
-		<pln>Borman</pln>
+		<fra>Bormann</fra>
+		<pln>Bormann</pln>
 	</string>
 	<string id="name_stalker_bubulyuka">
 		<rus>СТАЛКЕР БУБУЛЮКА</rus>
 		<eng>STALKER BUBULYUKA</eng>
 		<ukr>СТАЛКЕР БУБУЛЮКА</ukr>
-		<fra>STALKER BOUBOULYUKA</fra>
+		<fra>STALKER BOUBOULUKA</fra>
 		<pln>STALKER BUBULUKA</pln>
 	</string>
 	<string id="name_stalker_bubulyuka_small">
 		<rus>Сталкер Бубулюка</rus>
 		<eng>Stalker Bubulyuka</eng>
 		<ukr>Сталкер Бубулюка</ukr>
-		<fra>Stalker Bouboulyuka</fra>
+		<fra>Stalker Boubouluka</fra>
 		<pln>Stalker Bubuluka</pln>
 	</string>
 	<string id="name_kollektsioner">
 		<rus>КОЛЛЕКЦИОНЕР</rus>
 		<eng>COLLECTOR</eng>
 		<ukr>КОЛЕКЦІОНЕР</ukr>
-		<fra>COLLECTOR</fra>
+		<fra>COLLECTIONNEUR</fra>
 		<pln>KOLEKCJONER</pln>
 	</string>
 	<string id="name_kollektsioner_small">
 		<rus>Коллекционер</rus>
 		<eng>Collector</eng>
 		<ukr>Колекціонер</ukr>
-		<fra>Collector</fra>
+		<fra>Collectionneur</fra>
 		<pln>Kolekcjoner</pln>
 	</string>
 	<string id="name_dasha">
@@ -2071,7 +2069,7 @@
 		<rus>ДЕЗЕРТИР</rus>
 		<eng>DESERTER</eng>
 		<ukr>ДЕЗЕРТИР</ukr>
-		<fra>LE DESERTEUR</fra>
+		<fra>LE DÉSERTEUR</fra>
 		<pln>DEZERTER</pln>
 	</string>
 	<string id="name_dezertir_small">
@@ -2111,28 +2109,28 @@
 	</string>
 	<string id="name_filin">
 		<rus>ФИЛИН</rus>
-		<eng>FILIN</eng>
+		<eng>EAGLE-OWL</eng>
 		<ukr>СОВА</ukr>
-		<fra>FILIN</fra>
+		<fra>HIBOU</fra>
 		<pln>FILIN</pln>
 	</string>
 	<string id="name_filin_small">
 		<rus>Филин</rus>
-		<eng>Filin</eng>
+		<eng>Eagle-Owl</eng>
 		<ukr>Сова</ukr>
-		<fra>Filin</fra>
+		<fra>Hibou</fra>
 		<pln>Filin</pln>
 	</string>
 	<string id="name_svoboda">
 		<rus>СВОБОДА</rus>
-		<eng>СВОБОДА</eng>
+		<eng>FREEDOM</eng>
 		<ukr>ВОЛЯ</ukr>
 		<fra>LIBERTÉ</fra>
 		<pln>WOLNOŚĆ</pln>
 	</string>
 	<string id="name_svoboda_small">
 		<rus>Свобода</rus>
-		<eng>Свобода</eng>
+		<eng>Freedom</eng>
 		<ukr>Воля</ukr>
 		<fra>Liberté</fra>
 		<pln>Wolność</pln>
@@ -2142,7 +2140,7 @@
 		<eng>FREEMAN</eng>
 		<ukr>ФРІМЕН</ukr>
 		<fra>FREEMAN</fra>
-		<pln>Freeman</pln>
+		<pln>FREEMAN</pln>
 	</string>
 	<string id="name_frimen_small">
 		<rus>Фримен</rus>
@@ -2153,72 +2151,72 @@
 	</string>
 	<string id="name_gavr">
 		<rus>ГАВР</rus>
-		<eng>HAVRE</eng>
+		<eng>GAVR</eng>
 		<ukr>ГАВР</ukr>
 		<fra>GAVR</fra>
 		<pln>GAWR</pln>
 	</string>
 	<string id="name_gavr_small">
 		<rus>Гавр</rus>
-		<eng>Havre</eng>
+		<eng>Gavr</eng>
 		<ukr>Гавр</ukr>
 		<fra>Gavr</fra>
 		<pln>Gawr</pln>
 	</string>
 	<string id="name_zhila">
 		<rus>ЖИЛА</rus>
-		<eng>VEIN</eng>
+		<eng>SKIMPY</eng>
 		<ukr>ЖИЛА</ukr>
-		<fra>ZHILA</fra>
+		<fra>GRIGOU</fra>
 		<pln>ŻYŁA</pln>
 	</string>
 	<string id="name_zhila_small">
 		<rus>Жила</rus>
-		<eng>Vein</eng>
+		<eng>Skimpy</eng>
 		<ukr>Жила</ukr>
-		<fra>Zhila</fra>
+		<fra>Grigou</fra>
 		<pln>Żyła</pln>
 	</string>
 	<string id="name_gologramma">
-		<rus>ГОЛОГРАММА</rus>
-		<eng>ГОЛОГРАММА</eng>
-		<ukr>ГОЛОГРАМА</ukr>
-		<fra>HOLOGRAMME</fra>
-		<pln>HOLOGRAM</pln>
+		<rus>ВИТЯ ГОЛОГРАММА</rus>
+		<eng>VITYA THE HOLOGRAM</eng>
+		<ukr>===ГОЛОГРАМА</ukr>
+		<fra>VITYA L'HOLOGRAMME</fra>
+		<pln>===HOLOGRAM</pln>
 	</string>
 	<string id="name_gologramma_small">
-		<rus>Голограмма</rus>
-		<eng>Голограмма</eng>
-		<ukr>Голограма</ukr>
-		<fra>Hologramme</fra>
-		<pln>Hologram</pln>
+		<rus>Витя Голограмма</rus>
+		<eng>Vitya the Hologram</eng>
+		<ukr>===Голограма</ukr>
+		<fra>Vitya l'Hologramme</fra>
+		<pln>===Hologram</pln>
 	</string>
 	<string id="name_himera">
 		<rus>ХИМЕРА</rus>
 		<eng>CHIMERA</eng>
 		<ukr>ХИМЕРА</ukr>
-		<fra>===LA CHIMERE</fra>
+		<fra>CHIMÈRE</fra>
 		<pln>CHIMERA</pln>
 	</string>
 	<string id="name_himera_small">
 		<rus>Химера</rus>
 		<eng>Chimera</eng>
 		<ukr>Химера</ukr>
-		<fra>===La Chimère</fra>
+		<fra>Chimère</fra>
 		<pln>Chimera</pln>
 	</string>
 	<string id="name_himik">
 		<rus>ХИМИК</rus>
 		<eng>CHEMIST</eng>
 		<ukr>ХІМІК</ukr>
-		<fra>===LE CHIMISTE</fra>
+		<fra>CHIMISTE</fra>
 		<pln>CHEMIK</pln>
 	</string>
 	<string id="name_himik_small">
 		<rus>Химик</rus>
 		<eng>Chemist</eng>
 		<ukr>Хімік</ukr>
-		<fra>===Le Chimiste</fra>
+		<fra>Chimiste</fra>
 		<pln>Chemik</pln>
 	</string>
 	<string id="name_holodov">
@@ -2251,128 +2249,128 @@
 	</string>
 	<string id="name_obschii_kanal">
 		<rus>ОБЩИЙ КАНАЛ</rus>
-		<eng>GENERAL CHANNEL</eng>
+		<eng>COMMON CHANNEL</eng>
 		<ukr>ЗАГАЛЬНИЙ КАНАЛ</ukr>
-		<fra>===LE CANAL PARTAGE</fra>
+		<fra>CANAL COMMUN</fra>
 		<pln>KANAŁ OGÓLNY</pln>
 	</string>
 	<string id="name_obschii_kanal_small">
 		<rus>Общий канал</rus>
-		<eng>General channel</eng>
+		<eng>Common channel</eng>
 		<ukr>Загальний канал</ukr>
-		<fra>===Le Canal partagé</fra>
+		<fra>Canal commun</fra>
 		<pln>Kanał ogólny</pln>
 	</string>
 	<string id="name_kep">
 		<rus>КЭП</rus>
-		<eng>CAP</eng>
+		<eng>CAPTAIN</eng>
 		<ukr>КЕП</ukr>
-		<fra>KEP</fra>
+		<fra>CAPISTON</fra>
 		<pln>CZAPA</pln>
 	</string>
 	<string id="name_kep_small">
 		<rus>Кэп</rus>
-		<eng>Cap</eng>
+		<eng>Captain</eng>
 		<ukr>Кеп</ukr>
-		<fra>Kep</fra>
+		<fra>Capiston</fra>
 		<pln>Czapa</pln>
 	</string>
 	<string id="name_kostilnoga">
 		<rus>КОСТЫЛЬНОГА</rus>
-		<eng>КОСТЫЛЬНОГА</eng>
+		<eng>CRUTCHLEG</eng>
 		<ukr>КОСТИЛЬНОГА</ukr>
-		<fra>KOSTILNOGA</fra>
+		<fra>BÉQUILLEJAMBE</fra>
 		<pln>KOSTYLNOGA</pln>
 	</string>
 	<string id="name_kostilnoga_small">
 		<rus>Костыльнога</rus>
-		<eng>Костыльнога</eng>
+		<eng>Crutchleg</eng>
 		<ukr>Костильнога</ukr>
-		<fra>Kostilnoga</fra>
+		<fra>Béquillejambe</fra>
 		<pln>Kostylnoga</pln>
 	</string>
 	<string id="name_kot">
 		<rus>КОТ</rus>
 		<eng>CAT</eng>
 		<ukr>КІТ</ukr>
-		<fra>===LE CHAT</fra>
+		<fra>CHAT</fra>
 		<pln>KOT</pln>
 	</string>
 	<string id="name_kot_small">
 		<rus>Кот</rus>
 		<eng>Cat</eng>
 		<ukr>Кіт</ukr>
-		<fra>===Le Chat</fra>
+		<fra>Chat</fra>
 		<pln>Kot</pln>
 	</string>
 	<string id="name_krest">
 		<rus>КРЕСТ</rus>
 		<eng>CROSS</eng>
 		<ukr>ХРЕСТ</ukr>
-		<fra>===LA CROIX</fra>
+		<fra>CROIX</fra>
 		<pln>KRZYŻ</pln>
 	</string>
 	<string id="name_krest_small">
 		<rus>Крест</rus>
 		<eng>Cross</eng>
 		<ukr>Хрест</ukr>
-		<fra>===La Croix</fra>
+		<fra>Croix</fra>
 		<pln>Krzyż</pln>
 	</string>
 	<string id="name_krisyuk">
 		<rus>КРЫСЮК</rus>
 		<eng>KRYSYUK</eng>
 		<ukr>ЩУРЯК</ukr>
-		<fra>KRYSYUK</fra>
+		<fra>KRYSSUK</fra>
 		<pln>KRYSIUK</pln>
 	</string>
 	<string id="name_krisyuk_small">
 		<rus>Крысюк</rus>
 		<eng>Krysyuk</eng>
 		<ukr>Щуряк</ukr>
-		<fra>Krysyuk</fra>
+		<fra>Kryssuk</fra>
 		<pln>Krysiuk</pln>
 	</string>
 	<string id="name_kulinar">
 		<rus>КУЛИНАР</rus>
-		<eng>КУЛИНАР</eng>
+		<eng>ARTEM THE COOK</eng>
 		<ukr>КУЛІНАР</ukr>
-		<fra>CUISINIER</fra>
+		<fra>ARTEM LE CUISINIER</fra>
 		<pln>KULINAR</pln>
 	</string>
 	<string id="name_kulinar_small">
 		<rus>Кулинар</rus>
-		<eng>Кулинар</eng>
+		<eng>Artem the Cook</eng>
 		<ukr>Кулінар</ukr>
-		<fra>Cuisinier</fra>
+		<fra>Artem le Cuisinier</fra>
 		<pln>Kulinar</pln>
 	</string>
 	<string id="name_krot">
 		<rus>КРОТ</rus>
 		<eng>MOLE</eng>
 		<ukr>КРІТ</ukr>
-		<fra>MOLE</fra>
+		<fra>TOPE</fra>
 		<pln>KRET</pln>
 	</string>
 	<string id="name_krot_small">
 		<rus>Крот</rus>
 		<eng>Mole</eng>
 		<ukr>Кріт</ukr>
-		<fra>Mole</fra>
+		<fra>Tope</fra>
 		<pln>Kret</pln>
 	</string>
 	<string id="name_lis">
 		<rus>ЛИС</rus>
 		<eng>FOX</eng>
 		<ukr>ЛИС</ukr>
-		<fra>LE RENARD</fra>
+		<fra>RENARD</fra>
 		<pln>LIS</pln>
 	</string>
 	<string id="name_lis_small">
 		<rus>Лис</rus>
 		<eng>Fox</eng>
 		<ukr>Лис</ukr>
-		<fra>Le Renard</fra>
+		<fra>Renard</fra>
 		<pln>Lis</pln>
 	</string>
 	<string id="name_lobsang">
@@ -2393,26 +2391,26 @@
 		<rus>СЕРГЕЙ ЛОХМАТЫЙ</rus>
 		<eng>SERGEY THE SHAGGY</eng>
 		<ukr>СЕРГІЙ КОШЛАТИЙ</ukr>
-		<fra>===SERGEI LE HIRSUTE</fra>
+		<fra>SERGEY L'HIRSUTE</fra>
 		<pln>SIERGIEJ KOSMATY</pln>
 	</string>
 	<string id="name_sergei_lohmatii_small">
 		<rus>Сергей Лохматый</rus>
 		<eng>Sergey the Shaggy</eng>
 		<ukr>Сергій Кошлатий</ukr>
-		<fra>===Sergei le Hirsute</fra>
+		<fra>Sergey l'Hirsute</fra>
 		<pln>Siergiej Kosmaty</pln>
 	</string>
 	<string id="name_lyuber">
 		<rus>МАКС ЛЮБЕР</rus>
-		<eng>MAX LUBER</eng>
+		<eng>MAX LUEBER</eng>
 		<ukr>МАКС ЛЮБЕР</ukr>
 		<fra>MAX LUBER</fra>
 		<pln>MAKS LUBER</pln>
 	</string>
 	<string id="name_lyuber_small">
 		<rus>Макс Любер</rus>
-		<eng>Max Luber</eng>
+		<eng>Max Lueber</eng>
 		<ukr>Макс Любер</ukr>
 		<fra>Max Luber</fra>
 		<pln>Maks Luber</pln>
@@ -2470,7 +2468,7 @@
 		<rus>Маша</rus>
 		<eng>Masha</eng>
 		<ukr>Маша</ukr>
-		<fra>===Macha</fra>
+		<fra>Macha</fra>
 		<pln>Masza</pln>
 	</string>
 	<string id="name_monolit">
@@ -2489,16 +2487,16 @@
 	</string>
 	<string id="name_morozko">
 		<rus>МОРОЗКО</rus>
-		<eng>МОРОЗКО</eng>
+		<eng>MOROZKO</eng>
 		<ukr>МОРОЗКО</ukr>
-		<fra>GIVRE</fra>
+		<fra>MOROZKO</fra>
 		<pln>MOROZKO</pln>
 	</string>
 	<string id="name_morozko_small">
 		<rus>Морозко</rus>
-		<eng>Морозко</eng>
+		<eng>Morozko</eng>
 		<ukr>Морозко</ukr>
-		<fra>===Givré</fra>
+		<fra>Morozko</fra>
 		<pln>Morozko</pln>
 	</string>
 	<string id="name_o_soznanie">
@@ -2517,30 +2515,30 @@
 	</string>
 	<string id="name_professor_ozerskii">
 		<rus>ПРОФЕССОР ОЗЕРСКИЙ</rus>
-		<eng>ПРОФЕССОР ОЗЕРСКИЙ</eng>
+		<eng>PROFESSOR OZERSKY</eng>
 		<ukr>ПРОФЕСОР ОЗЕРСЬКИЙ</ukr>
-		<fra>===PROFESSEUR OZERSKY</fra>
+		<fra>PROFESSEUR OZERSKY</fra>
 		<pln>PROFESOR OZIORSKI</pln>
 	</string>
 	<string id="name_professor_ozerskii_small">
 		<rus>Профессор Озерский</rus>
-		<eng>Профессор Озерский</eng>
+		<eng>Professor Ozersky</eng>
 		<ukr>Професор Озерський</ukr>
-		<fra>===Professeur Ozersky</fra>
+		<fra>Professeur Ozersky</fra>
 		<pln>Profesor Oziorski</pln>
 	</string>
 	<string id="name_peregar">
 		<rus>ПЕРЕГАР</rus>
-		<eng>BOOZE-REEK</eng>
+		<eng>BOOZE BREATH</eng>
 		<ukr>ПЕРЕГАР</ukr>
-		<fra>===PEREGAR</fra>
+		<fra>DÉBOIRE</fra>
 		<pln>PALACZ</pln>
 	</string>
 	<string id="name_peregar_small">
 		<rus>Перегар</rus>
-		<eng>Booze-reek</eng>
+		<eng>Booze Breath</eng>
 		<ukr>Перегар</ukr>
-		<fra>===Peregar</fra>
+		<fra>Déboire</fra>
 		<pln>Palacz</pln>
 	</string>
 	<string id="name_petrenko">
@@ -2575,56 +2573,56 @@
 		<rus>ПЕТРОВИЧ</rus>
 		<eng>PETROVICH</eng>
 		<ukr>ПЕТРОВИЧ</ukr>
-		<fra>===PETROVITCH</fra>
+		<fra>PETROVITCH</fra>
 		<pln>PIETROWICZ</pln>
 	</string>
 	<string id="name_pesovich_small">
 		<rus>Петрович</rus>
 		<eng>Petrovich</eng>
 		<ukr>Петрович</ukr>
-		<fra>===Petrovitch</fra>
+		<fra>Petrovitch</fra>
 		<pln>Pietrowicz</pln>
 	</string>
 	<string id="name_petruha">
 		<rus>ПЕТРУХА</rus>
-		<eng>PETRUHA</eng>
+		<eng>PETRUKHA</eng>
 		<ukr>ПЕТРУХА</ukr>
-		<fra>===PETRUKHA</fra>
+		<fra>PETROUKHA</fra>
 		<pln>PIETRUCHA</pln>
 	</string>
 	<string id="name_petruha_small">
 		<rus>Петруха</rus>
-		<eng>Petruha</eng>
+		<eng>Petrukha</eng>
 		<ukr>Петруха</ukr>
-		<fra>===Petrukha</fra>
+		<fra>Petroukha</fra>
 		<pln>Pietrucha</pln>
 	</string>
 	<string id="name_plichko">
 		<rus>ПЛИЧКО</rus>
-		<eng>ПЛИЧКО</eng>
+		<eng>PLICHKO</eng>
 		<ukr>ПЛИЧКО</ukr>
-		<fra>===PLITCHKO</fra>
+		<fra>PLITCHKO</fra>
 		<pln>PLICZKO</pln>
 	</string>
 	<string id="name_plichko_small">
 		<rus>Пличко</rus>
-		<eng>Пличко</eng>
+		<eng>Plichko</eng>
 		<ukr>Пличко</ukr>
-		<fra>===Plitchko</fra>
+		<fra>Plitchko</fra>
 		<pln>Pliczko</pln>
 	</string>
 	<string id="name_povar">
 		<rus>ПОВАР</rus>
 		<eng>THE COOK</eng>
 		<ukr>КУХАР</ukr>
-		<fra>===LE CUISTEAU</fra>
+		<fra>CUISTOT</fra>
 		<pln>KUCHARZ</pln>
 	</string>
 	<string id="name_povar_small">
 		<rus>Повар</rus>
 		<eng>The Cook</eng>
 		<ukr>Кухар</ukr>
-		<fra>===Le Cuisteau</fra>
+		<fra>Cuistot</fra>
 		<pln>Kucharz</pln>
 	</string>
 	<string id="name_prapor">
@@ -2643,44 +2641,44 @@
 	</string>
 	<string id="name_prigorshnya">
 		<rus>ПРИГОРШНЯ</rus>
-		<eng>THE FISTFUL</eng>
+		<eng>FISTFUL</eng>
 		<ukr>ЖМЕНЯ</ukr>
-		<fra>===LA POIGNÉE</fra>
+		<fra>POIGNÉE</fra>
 		<pln>GARSTKA</pln>
 	</string>
 	<string id="name_prigorshnya_small">
 		<rus>Пригоршня</rus>
-		<eng>The Fistful</eng>
+		<eng>Fistful</eng>
 		<ukr>Жменя</ukr>
-		<fra>===La Poignée</fra>
+		<fra>Poignée</fra>
 		<pln>Garstka</pln>
 	</string>
 	<string id="name_provodnik">
 		<rus>ПРОВОДНИК</rus>
-		<eng>THE GUIDE</eng>
+		<eng>GUIDE</eng>
 		<ukr>ПРОВІДНИК</ukr>
-		<fra>===LE GUIDE</fra>
+		<fra>GUIDE</fra>
 		<pln>PRZEWODNIK</pln>
 	</string>
 	<string id="name_provodnik_small">
 		<rus>Проводник</rus>
-		<eng>The Guide</eng>
+		<eng>Guide</eng>
 		<ukr>Провідник</ukr>
-		<fra>===Le Guide</fra>
+		<fra>Guide</fra>
 		<pln>Przewodnik</pln>
 	</string>
 	<string id="name_pulya">
 		<rus>ПУЛЯ</rus>
 		<eng>BULLET</eng>
 		<ukr>КУЛЯ</ukr>
-		<fra>===LA BALLE</fra>
+		<fra>BALLE</fra>
 		<pln>NABÓJ</pln>
 	</string>
 	<string id="name_pulya_small">
 		<rus>Пуля</rus>
 		<eng>Bullet</eng>
 		<ukr>Куля</ukr>
-		<fra>===La Balle</fra>
+		<fra>Balle</fra>
 		<pln>Nabój</pln>
 	</string>
 	<string id="name_napominaniya">
@@ -2727,58 +2725,58 @@
 	</string>
 	<string id="name_shahtyor">
 		<rus>ШАХТЁР</rus>
-		<eng>THE MINER</eng>
+		<eng>MINER</eng>
 		<ukr>ШАХТАР</ukr>
-		<fra>===LE MINEUR</fra>
+		<fra>MINEUR</fra>
 		<pln>GÓRNIK</pln>
 	</string>
 	<string id="name_shahtyor_small">
 		<rus>Шахтёр</rus>
-		<eng>The Miner</eng>
+		<eng>Miner</eng>
 		<ukr>Шахтар</ukr>
-		<fra>===Le Mineur</fra>
+		<fra>Mineur</fra>
 		<pln>Górnik</pln>
 	</string>
 	<string id="name_shnira">
 		<rus>ШНЫРА</rus>
 		<eng>SLICK</eng>
 		<ukr>ШНИРА</ukr>
-		<fra>===LE FOUINEUR</fra>
+		<fra>FOUINEUR</fra>
 		<pln>SZNYRA</pln>
 	</string>
 	<string id="name_shnira_small">
 		<rus>Шныра</rus>
 		<eng>Slick</eng>
 		<ukr>Шнира</ukr>
-		<fra>===Le Fouineur</fra>
+		<fra>Fouineur</fra>
 		<pln>Sznyra</pln>
 	</string>
 	<string id="name_sherstyuk">
 		<rus>ШЕРСТЮК</rus>
 		<eng>SHERSTYUK</eng>
 		<ukr>ШЕРСТЮК</ukr>
-		<fra>SHERSTYUK</fra>
+		<fra>CHERSTYUK</fra>
 		<pln>SZERSTIUK</pln>
 	</string>
 	<string id="name_sherstyuk_small">
 		<rus>Шерстюк</rus>
 		<eng>Sherstyuk</eng>
 		<ukr>Шерстюк</ukr>
-		<fra>Sherstyuk</fra>
+		<fra>Cherstyuk</fra>
 		<pln>Szerstiuk</pln>
 	</string>
 	<string id="name_shi3">
 		<rus>ШИ3</rus>
 		<eng>SHI3</eng>
 		<ukr>ШИ3</ukr>
-		<fra>SHI3</fra>
+		<fra>CHI3</fra>
 		<pln>SHI3</pln>
 	</string>
 	<string id="name_shi3_small">
 		<rus>Ши3</rus>
-		<eng>Shi3</eng>
+		<eng>SHi3</eng>
 		<ukr>Ши3</ukr>
-		<fra>Shi3</fra>
+		<fra>CHi3</fra>
 		<pln>Shi3</pln>
 	</string>
 	<string id="name_skryaga">
@@ -2811,14 +2809,14 @@
 	</string>
 	<string id="name_starik">
 		<rus>СТАРИК</rus>
-		<eng>THE OLD MAN</eng>
+		<eng>GRAYBEARD</eng>
 		<ukr>СТАРИЙ</ukr>
 		<fra>LE VIEILLARD</fra>
 		<pln>STARZEC</pln>
 	</string>
 	<string id="name_starik_small">
 		<rus>Старик</rus>
-		<eng>The Old Man</eng>
+		<eng>Graybeard</eng>
 		<ukr>Старий</ukr>
 		<fra>Le Vieillard</fra>
 		<pln>Starzec</pln>
@@ -2827,14 +2825,14 @@
 		<rus>СУСЛОВ</rus>
 		<eng>SUSLOV</eng>
 		<ukr>СУСЛОВ</ukr>
-		<fra>SUSLOV</fra>
+		<fra>SOUSLOV</fra>
 		<pln>SUSŁOW</pln>
 	</string>
 	<string id="name_suslov_small">
 		<rus>Суслов</rus>
 		<eng>Suslov</eng>
 		<ukr>Суслов</ukr>
-		<fra>Suslov</fra>
+		<fra>Souslov</fra>
 		<pln>Susłow</pln>
 	</string>
 	<string id="name_tolik">
@@ -2853,72 +2851,72 @@
 	</string>
 	<string id="name_professor_vovochka">
 		<rus>ПРОФЕССОР ВОЛКОВ</rus>
-		<eng>ПРОФЕССОР ВОЛКОВ</eng>
+		<eng>PROFESSOR VOLKOV</eng>
 		<ukr>ПРОФЕСОР ВОЛКОВ</ukr>
-		<fra>LE PROFESSEUR VOLKOV</fra>
+		<fra>PROFESSEUR VOLKOV</fra>
 		<pln>PROFESOR WOŁKOW</pln>
 	</string>
 	<string id="name_professor_vovochka_small">
 		<rus>Профессор Волков</rus>
-		<eng>Профессор Волков</eng>
+		<eng>Professor Volkov</eng>
 		<ukr>Професор Волков</ukr>
 		<fra>Professeur Volkov</fra>
 		<pln>Profesor Wołkow</pln>
 	</string>
 	<string id="name_voron">
 		<rus>ВИТЁК ВОРОН</rus>
-		<eng>VITEK THE RAVEN </eng>
+		<eng>VITYOK THE RAVEN</eng>
 		<ukr>ВІТЬОК ВОРОН</ukr>
-		<fra>VICTOR Le CORBEAU</fra>
+		<fra>VITYOK LE CORBEAU</fra>
 		<pln>WITEK WORON</pln>
 	</string>
 	<string id="name_voron_small">
 		<rus>Витёк Ворон</rus>
-		<eng>Vitek the Raven</eng>
+		<eng>Vityok the Raven</eng>
 		<ukr>Вітьок Ворон</ukr>
-		<fra>Victor le Corbeau</fra>
+		<fra>Vityok le Corbeau</fra>
 		<pln>Witek Woron</pln>
 	</string>
 	<string id="name_vasya_devyatii">
 		<rus>ВАСЯ ДЕВЯТЫЙ</rus>
-		<eng>ВАСЯ ДЕВЯТЫЙ</eng>
+		<eng>VASYA THE NINTH</eng>
 		<ukr>ВАСЯ ДЕВ'ЯТИЙ</ukr>
 		<fra>VASYA LE NEUVIÈME</fra>
 		<pln>WASIA DZIEWIĄTY</pln>
 	</string>
 	<string id="name_vasya_devyatii_small">
 		<rus>Вася Девятый</rus>
-		<eng>Вася Девятый</eng>
+		<eng>Vasya the Ninth</eng>
 		<ukr>Вася Дев'ятий</ukr>
 		<fra>Vasya le Neuvième</fra>
 		<pln>Wasia Dziewiąty</pln>
 	</string>
 	<string id="name_vozhak">
 		<rus>ВОЖАК</rus>
-		<eng>CHIEFTAIN </eng>
+		<eng>CHIEFTAIN</eng>
 		<ukr>ВАТАЖОК</ukr>
-		<fra>===LE CHEF</fra>
+		<fra>CHEF</fra>
 		<pln>WATAŻKA</pln>
 	</string>
 	<string id="name_vozhak_small">
 		<rus>Вожак</rus>
 		<eng>Chieftain</eng>
 		<ukr>Ватажок</ukr>
-		<fra>Le Chef</fra>
+		<fra>Chef</fra>
 		<pln>Watażka</pln>
 	</string>
 	<string id="name_yakut">
 		<rus>ЯКУТ</rus>
 		<eng>YAKUT</eng>
 		<ukr>ЯКУТ</ukr>
-		<fra>YAKUT</fra>
+		<fra>YAKOUTE</fra>
 		<pln>JAKUT</pln>
 	</string>
 	<string id="name_yakut_small">
 		<rus>Якут</rus>
 		<eng>Yakut</eng>
 		<ukr>Якут</ukr>
-		<fra>Yakut</fra>
+		<fra>Yakoute</fra>
 		<pln>Jakut</pln>
 	</string>
 	<string id="name_yurik">
@@ -2939,33 +2937,33 @@
 		<rus>ШУСТРЫЙ</rus>
 		<eng>NIMBLE</eng>
 		<ukr>СПРИТНИК</ukr>
-		<fra>SHUSTRY</fra>
+		<fra>AGILE</fra>
 		<pln>ŻWAWY</pln>
 	</string>
 	<string id="name_shustryi_small">
 		<rus>Шустрый</rus>
 		<eng>Nimble</eng>
 		<ukr>Спритник</ukr>
-		<fra>Shustry</fra>
+		<fra>Agile</fra>
 		<pln>Żwawy</pln>
 	</string>
 	<string id="name_kicenko">
 		<rus>КИЦЕНКО</rus>
-		<eng>КИЦЕНКО</eng>
+		<eng>KITSENKO</eng>
 		<ukr>КИЦЕНКО</ukr>
 		<fra>KITSENKO</fra>
 		<pln>KICENKO</pln>
 	</string>
 	<string id="name_kicenko_small">
 		<rus>Киценко</rus>
-		<eng>Киценко</eng>
+		<eng>Kitsenko</eng>
 		<ukr>Киценко</ukr>
 		<fra>Kitsenko</fra>
 		<pln>Kicenko</pln>
 	</string>
 	<string id="name_aivengo">
 		<rus>ДЕМЬЯН АЙВЕНГО</rus>
-		<eng>DAMIAN IVENHOE</eng>
+		<eng>DEMYAN IVENHOE</eng>
 		<ukr>ДЕМ'ЯН АЙВЕНГО</ukr>
 		<fra>DEMIAN IVENHOÉ</fra>
 		<pln>DEMIAN IVANHOE</pln>
@@ -3005,54 +3003,53 @@
 		<fra>Vanga</fra>
 		<pln>Ванга</pln>
 	</string>
-
 	<string id="name_kalancha">
 		<rus>КАЛАНЧА</rus>
-		<eng>===КАЛАНЧА</eng>
+		<eng>BEANPOLE</eng>
 		<ukr>КАЛАНЧА</ukr>
-		<fra>===КАЛАНЧА</fra>
+		<fra>BEFFROI</fra>
 		<pln>===КАЛАНЧА</pln>
 	</string>
 	<string id="name_kalancha_small">
 		<rus>Каланча</rus>
-		<eng>===Каланча</eng>
+		<eng>Beanpole</eng>
 		<ukr>Каланча</ukr>
-		<fra>===Каланча</fra>
+		<fra>Beffroi</fra>
 		<pln>===Каланча</pln>
 	</string>
 	<string id="name_resident">
 		<rus>РЕЗИДЕНТ</rus>
-		<eng>===РЕЗИДЕНТ</eng>
+		<eng>RESIDENT</eng>
 		<ukr>РЕЗИДЕНТ</ukr>
-		<fra>===РЕЗИДЕНТ</fra>
+		<fra>RÉSIDENT</fra>
 		<pln>===РЕЗИДЕНТ</pln>
 	</string>
 	<string id="name_resident_small">
 		<rus>Резидент</rus>
-		<eng>===Резидент</eng>
+		<eng>Resident</eng>
 		<ukr>Резидент</ukr>
-		<fra>===Резидент</fra>
+		<fra>Résident</fra>
 		<pln>===Резидент</pln>
 	</string>
 	<string id="name_postavshik_kalancha">
 		<rus>ПОСТАВЩИК КАЛАНЧИ</rus>
-		<eng>===ПОСТАВЩИК КАЛАНЧИ</eng>
+		<eng>BEANPOLE'S SUPPLIER</eng>
 		<ukr>ПОСТАЧАЛЬНИК КАЛАНЧІ</ukr>
-		<fra>===ПОСТАВЩИК КАЛАНЧИ</fra>
+		<fra>FOURNISSEUR DE BEFFROI</fra>
 		<pln>===ПОСТАВЩИК КАЛАНЧИ</pln>
 	</string>
 	<string id="name_postavshik_kalancha_small">
 		<rus>Поставщик Каланчи</rus>
-		<eng>===Поставщик Каланчи</eng>
+		<eng>Beanpole's supplier</eng>
 		<ukr>Постачальник Каланчі</ukr>
-		<fra>===Поставщик Каланчи</fra>
+		<fra>Fournisseur de Beffroi</fra>
 		<pln>===Поставщик Каланчи</pln>
 	</string>
 	<string id="name_bandito_lechite">
 		<rus>ВИТЯ ПАЦИФИСТ</rus>
-		<eng>===ВИТЯ ПАЦИФИСТ</eng>
+		<eng>VITYA THE PACIFIST</eng>
 		<ukr>ВІТЯ ПАЦИФІСТ</ukr>
-		<fra>===ВИТЯ ПАЦИФИСТ</fra>
+		<fra>VITYA LE PACIFISTE</fra>
 		<pln>===ВИТЯ ПАЦИФИСТ</pln>
 	</string>
 </string_table>
