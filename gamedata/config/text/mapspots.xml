@@ -213,7 +213,7 @@
 	<string id="val_prisoner_help_main_hint">
 		<rus>Пленённый долговец</rus>
 		<eng>Captive "Duty" member</eng>
-		<ukr>===Полонений долгівець</ukr>
+		<ukr>Полонений долгівець</ukr>
 		<fra>Membre captif du "Devoir"</fra>
 		<pln>Uwięziony powinnościowiec</pln>
 	</string>
@@ -283,7 +283,7 @@
 	<string id="esc_mill">
 		<rus>Заброшенная мельница, на которой последний раз видели пропавшего братка</rus>
 		<eng>The abandoned mill, where the missing bro was last seen</eng>
-		<ukr>===Закинутий млин. Десь тут останній раз бачили зниклого братуху.</ukr>
+		<ukr>Закинутий млин, на котрому востаннє бачили зниклого братуху.</ukr>
 		<fra>Le moulin abandonné, où le frère disparu a été vu pour la dernière fois</fra>
 		<pln>===Opuszczony młyn. Gdzieś tutaj ostatni raz widziano zaginionego braciaka</pln>
 	</string>
@@ -311,14 +311,14 @@
 	<string id="novice_leader">
 		<rus>Лидер деревни новичков</rus>
 		<eng>Newbies village leader</eng>
-		<ukr>===Лідер табору новачків</ukr>
+		<ukr>Лідер селища новачків</ukr>
 		<fra>Chef du Village de novices</fra>
 		<pln>===Dowódca obozu nowicjuszy</pln>
 	</string>
 	<string id="soldiers_bridge">
 		<rus>Пост военных у разрушенного ж/д моста. За проход под мостом берут взятку</rus>
 		<eng>The military security checkpoint at the destroyed railway bridge. They take a bribe for passing under the bridge</eng>
-		<ukr>===Блокпост військових біля зруйнованого мосту. Іноді за прохід через міст беруть хабар.</ukr>
+		<ukr>Блокпост військових біля зруйнованого залізничного мосту. За прохід під мостом беруть хабар.</ukr>
 		<fra>Point de contrôle militaire au pont ferroviaire détruit. Ils prennent un pot-de-vin pour permission de passer sous le pont</fra>
 		<pln>===Posterunek wojskowy przy zawalonym moście; zdarza się, że za przejście żołnierze biorą łapówki</pln>
 	</string>
@@ -353,7 +353,7 @@
 	<string id="tutorial_secret_shustryi">
 		<rus>Тайник Шустрого</rus>
 		<eng>Nimble's stash</eng>
-		<ukr>===Схованка, залишена Спритним</ukr>
+		<ukr>Схованка Спритного</ukr>
 		<fra>Cache de l'Agile</fra>
 		<pln>Schowek Żwawego</pln>
 	</string>
@@ -367,7 +367,7 @@
 	<string id="volk">
 		<rus>Волк, лидер Деревни новичков</rus>
 		<eng>Wolf, the leader of the Newbies village</eng>
-		<ukr>Вовк, лідер табору новачків</ukr>
+		<ukr>Вовк, лідер Села новачків</ukr>
 		<fra>Loup, le chef du Village de novices</fra>
 		<pln>Wilk, dowódca obozu nowicjuszy</pln>
 	</string>
@@ -430,7 +430,7 @@
 	<string id="mil_dolg_khutor">
 		<rus>Хутор, на котором расположились бойцы "Долга"</rus>
 		<eng>Hamlet where the "Duty" fighters stayed</eng>
-		<ukr>===Хутір «Долгу»</ukr>
+		<ukr>Хутір, на якому влаштувались бійці «Долгу»</ukr>
 		<fra>La ferme où se postent les combattants de "Devoir"</fra>
 		<pln>===Przysiółek "Powinności"</pln>
 	</string>
@@ -521,7 +521,7 @@
 	<string id="mil_rg6_hint3">
 		<rus>Забрать РГ-6 из схрона в деревне</rus>
 		<eng>Take RG-6 from the stash in the village</eng>
-		<ukr>===Забрати «Бульдог-6» зі схрона у селищі</ukr>
+		<ukr>Забрати РГ-6 зі схрона у селищі</ukr>
 		<fra>Prendre le RG-6 dans la cache au village</fra>
 		<pln>Zabierz RG-6 ze schowka w wiosce</pln>
 	</string>
@@ -570,7 +570,7 @@
 	<string id="rostok_kruglov">
 		<rus>Профессор Круглов</rus>
 		<eng>Professor Kruglov</eng>
-		<ukr>===Круглов</ukr>
+		<ukr>Професор Круглов</ukr>
 		<fra>Le professeur Krouglov</fra>
 		<pln>Profesor Krugłow</pln>
 	</string>
@@ -710,7 +710,7 @@
 	<string id="agr_give_case_to_barman_hint">
 		<rus>Отдать документы Бармену</rus>
 		<eng>Give the documents to the Barkeep</eng>
-		<ukr>===Віддати Барменові документи</ukr>
+		<ukr>Віддати Барменові документи</ukr>
 		<fra>Donner les documents au Barman</fra>
 		<pln>Oddaj dokumenty Barmanowi</pln>
 	</string>
@@ -1095,7 +1095,7 @@
 	<string id="set_kashei_0">
 		<rus>Кощей</rus>
 		<eng>Koschei</eng>
-		<ukr>===Кащей</ukr>
+		<ukr>Чахлик</ukr>
 		<fra>Kochtcheï</fra>
 		<pln>Kościej</pln>
 	</string>
@@ -1606,7 +1606,7 @@
 	<string id="set_electra_green">
 		<rus>Пещера, в которой предположительно находится артефакт</rus>
 		<eng>The cave in which the artifact is said to be located</eng>
-		<ukr>===Печера, де імовірно знаходиться артефакт</ukr>
+		<ukr>Печера, у якій імовірно знаходиться артефакт</ukr>
 		<fra>La grotte dans laquelle se trouve supposément l'artefact</fra>
 		<pln>===Пещера, где предположительно находится артефакт</pln>
 	</string>
@@ -1697,7 +1697,7 @@
 	<string id="fenrir_treasure_dc">
 		<rus>Тайник Фенрира</rus>
 		<eng>===Тайник Котобегемота</eng>
-		<ukr>===Схованка Котобегемота</ukr>
+		<ukr>Схованка Фенріра</ukr>
 		<fra>===Тайник Котобегемота</fra>
 		<pln>===Тайник Котобегемота</pln>
 	</string>

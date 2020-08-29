@@ -311,7 +311,7 @@
 	<string id="sms_kuznecov_pda_take_1_0">
 		<rus>Меченый, здесь у нас на мосту какие-то наймы объявились. Начальство нам приказало их не трогать - видать, проплачены большие бабки - но я был бы не против от них избавиться. Понимаешь, о чём я? Стоят тут, как бельмо на глазу, следят за нами, со сталкерами не пообщаешься, водочки не попьёшь... эх... Не мог бы ты кардинально решить вопрос?</rus>
 		<eng>Marked One, some mercs have appeared here, under our bridge. We were told not to touch them - they paid a lot, I guess - but I would not mind getting rid of them. Do you get what I mean? They stand here, as an eyesore, watching us, no way to talk to stalkers or drink vodka... oh... Could you solve the problem radically?</eng>
-		<ukr>Мічений, тут у нас на мосту якісь найми з'явилися. Начальство нам наказало їх не чіпати, схоже, проплачені великі бабки, але я був би не проти від них позбутися. Розумієш про що я? Стоять тут, як більмо на оці, стежать за нами, зі сталкерами не поспілкуєшся, горілочки не вип'єш... ех... Не міг би ти кардинально вирішити питання?</ukr>
+		<ukr>Мічений, тут у нас на мосту якісь найми з'явилися. Начальство нам наказало їх не чіпати - схоже, проплачені великі бабки - але я був би не проти від них позбутися. Розумієш про що я? Стоять тут, як більмо на оці, стежать за нами, зі сталкерами не поспілкуєшся, горілочки не вип'єш... ех... Не міг би ти кардинально вирішити питання?</ukr>
 		<fra>Le Marqué, ici, sur notre pont, quelque mercenaires sont apparues. On nous a ordonné de ne pas les toucher - le gros fric a été payé probablement - mais cela ne me dérangerait pas de m'en débarrasser. Comprends-tu ce que je veux dire? Ils se tiennent ici, comme une vraie plaie, nous espionnant, on ne peut ni parler aux harceleurs, ni boire la vodka... ah... Pourrais-tu résoudre le problème de manière radicale?</fra>
 		<pln>Naznaczony, tu u nas na moście jacyś najemnicy się pojawili. Władze poleciły nam ich nie dotykać, widać, poszły w ruch spore pieniądze, ale nie miałbym nic przeciwko gdyby ktoś mnie od nich uwolnił. Sterczą tu, jak bielmo na oku, śledzą nas, ze stalkerami nie pogadasz, wódki się nie napijesz... Nie mógłbyś tak ostatecznie rozwiązać tego problemu?</pln>
 	</string>
@@ -367,7 +367,7 @@
 	<string id="sms_net_safe_pay_day_0">
 		<rus>C вашего счета удержано за охрану рюкзаков: </rus>
 		<eng>Withdrawn from your account for protecting your backpacks: </eng>
-		<ukr>===З вашого рахунку утримана плата за охорону рюкзаків: </ukr>
+		<ukr>З вашого рахунку утримано за охорону рюкзаків: </ukr>
 		<fra>Retiré de votre compte pour la protection de vos sacs à dos: </fra>
 		<pln>===Z twojego konta pobrano opłatę za ochronę plecaków: </pln>
 	</string>
@@ -640,7 +640,7 @@
 	<string id="remove_obj_0">
 		<rus>У объекта [%s] повреждён нетпакет. Это сохранение необратимо повреждено - удалите его, и переиграйте с более раннего. Продолжать игру с этого сохранении категорически запрещено!</rus>
 		<eng>Net packet of [%s] object is damaged. This save is irreversibly damaged, delete it, and replay from an earlier one. It is strictly prohibited to continue the game from this save!</eng>
-		<ukr>===У об'єкта [%s] пошкоджений нетпакет. Це збереження необоротно пошкоджено - видаліть його, і переграйте з більш раннього. Продовжувати гру на цьому збереженні категорично заборонено!</ukr>
+		<ukr>У об'єкта [%s] пошкоджений нетпакет. Це збереження необоротно пошкоджено - видаліть його, і переграйте з більш раннього. Продовжувати гру з цього збереження категорично заборонено!</ukr>
 		<fra>Le net-packet de l'objet [%s] est endommagé. Cette sauvegarde est endommagée de manière irréversible - supprimez-la et rejouez-la à partir d'une précédente. Il est strictement interdit de continuer le jeu de cette sauvegarde!</fra>
 		<pln>===W obiekcie [%s] jest uszkodzony netpakiet. Ten zapis jest nieodwracalnie uszkodzony - usuń go i rozpocznij grę od wcześniejszego zapisu. Kontynuacja gry na tym zapisie jest kategorycznie zabroniona!</pln>
 	</string>
