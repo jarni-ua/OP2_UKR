@@ -5058,6 +5058,12 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 		<ukr>Ну що ж, непоганий план, мені подобається. Висуваємося!</ukr>
 		<pln>Całkiem niezły plan, podoba mi się. Przebijamy się!</pln>
 	</string>
+	<string id="parfumer_d61_dialog_5">
+		<rus>В КПК Злобного, что ты мне отдал, есть координаты перехода в лабу Х-10. А план таков - мы с Норманом идём вперёд и зачищаем дорогу, Искра на тебе, вы идёте за нами и ни в какие заварухи не лезете. Если почувствуешь опасность, просто тормозни Искру - предложи ей отдохнуть, она очень слаба и с удовольствием остановится, чтобы передохнуть немного.</rus>
+		<eng>===The coordinates of the transition to the X-10 lab were in Lightning's PDA that you gave me. The plan is as follows: Norman and I will go ahead and clear the way, Spark will stay with you, you follow us and avoid any trouble. If you feel it's getting too dangerous for Spark, just slow down - let her rest if you must, she is very weak and will gladly stop for a while.</eng>
+		<ukr>====У КПК Блискавки, який ти мені віддав, є координати переходу в лабу Х-10. А план такий - ми з Норманом йдемо вперед і зачищаємо дорогу, Іскра на тобі, ви йдете за нами і ні в які колотнечі не лізете. Якщо відчуєш небезпеку, просто пригальмуй Іскру - запропонуй їй відпочити, вона дуже слабка і з задоволенням зупиниться, щоб перепочити трохи.</ukr>
+		<pln>===W PDA Błyskawicy, które mi dałeś, są współrzędne przejścia do laboratorium X-10. A plan jest taki - Ja z Normanem idziemy przodem i oczyszczamy drogę, Iskra jest na twoje głowie, idziecie za nami i w żadne awantury się nie pakujecie. Jeśli poczujesz niebezpieczeństwo, po prostu zatrzymaj Iskrę - zaproponuj jej odpoczynek, jest bardzo słaba i chętnie się zatrzyma, żeby trochę odetchnąć.</pln>
+	</string>
 
 	<!-- Третий разговор с Парфюмером в Бункере Д6 -->
 	<string id="parfumer_d62_dialog_0">
@@ -5067,10 +5073,10 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 		<pln>Co, doszliśmy?</pln>
 	</string>
 	<string id="parfumer_d62_dialog_1">
-		<rus>Да, судя по информации из ПДА Молнии, за моей спиной переход, который выведет нас в лабораторию Х-10, тебе она должна быть хорошо знакома. Не знаю, какая ситуация сейчас в этой лабе, поэтому переходим в следующем порядке: сначала я, потом Норман, затем Искра, а ты, Стрелок, замыкающий, уходишь самым последним. Проследи, нет ли за нами хвоста.</rus>
-		<eng>Yes, judging by the information from Lightning's PDA, the transition is behind me, it'll take us to the X-10 laboratory, you should be well acquainted with it. I don't know what the situation is in this lab now, so this is what we'll do: I'll go first, Norman will go next, then Spark, and you Strelok, will leave last, taking up the rear to make sure we're not being followed.</eng>
-		<ukr>Так, судячи з інформації з КПК Блискавки, за моєю спиною перехід, який виведе нас в лабораторію Х-10, тобі вона повинна бути добре знайома. Не знаю, яка ситуація зараз в цій лабі, тому переходимо в наступному порядку: спочатку я, потім Норман, потім Іскра, а ти, Стрілець, замикаючий, йдеш найостаннішим. Простеж, чи немає за нами хвоста.</ukr>
-		<pln>Tak, sądząc po informacjach z PDA Błyskawicy, za moimi plecami jest przejście, które wyprowadzi nas do laboratorium X-10, powinno ci być dobrze znane. Nie wiem, jaka jest teraz sytuacja w tym laboratorium, dlatego przejdziemy w następującym porządku: najpierw ja, potem Norman, następnie Iskra, a ty, Striełok, zamykasz, przechodzisz na samym końcu. Patrz, czy nie ciągniemy za sobą ogona.</pln>
+		<rus>Да, судя по информации из КПК, за моей спиной переход, который выведет нас в лабораторию Х-10, тебе она должна быть хорошо знакома. Не знаю, какая ситуация сейчас в этой лабе, поэтому переходим в следующем порядке: сначала я, потом Норман, затем Искра, а ты, Стрелок, замыкающий, уходишь самым последним. Проследи, нет ли за нами хвоста.</rus>
+		<eng>Yes, judging by the information from PDA, the transition is behind me, it'll take us to the X-10 laboratory, you should be well acquainted with it. I don't know what the situation is in this lab now, so this is what we'll do: I'll go first, Norman will go next, then Spark, and you Strelok, will leave last, taking up the rear to make sure we're not being followed.</eng>
+		<ukr>Так, судячи з інформації з КПК, за моєю спиною перехід, який виведе нас в лабораторію Х-10, тобі вона повинна бути добре знайома. Не знаю, яка ситуація зараз в цій лабі, тому переходимо в наступному порядку: спочатку я, потім Норман, потім Іскра, а ти, Стрілець, замикаючий, йдеш найостаннішим. Простеж, чи немає за нами хвоста.</ukr>
+		<pln>Tak, sądząc po informacjach z PDA, za moimi plecami jest przejście, które wyprowadzi nas do laboratorium X-10, powinno ci być dobrze znane. Nie wiem, jaka jest teraz sytuacja w tym laboratorium, dlatego przejdziemy w następującym porządku: najpierw ja, potem Norman, następnie Iskra, a ty, Striełok, zamykasz, przechodzisz na samym końcu. Patrz, czy nie ciągniemy za sobą ogona.</pln>
 	</string>
 	<string id="parfumer_d62_dialog_2">
 		<rus>Идёт! Встретимся в Х-10.</rus>
@@ -8672,5 +8678,38 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 		<ukr>Добре, підемо.</ukr>
 	</string>
 
+	<!-- Диалог со Скрягой об отключении рекламы и музыки из мегафона на Складах (откроется после выноса группы Черепа) -->
+	<string id="skrayga_hochu_tishiny_0">
+		<rus>Скряга, будь человеком, выруби матюгальник на крыше, эта музыка уже в печёнках сидит! Прояви уважение, я как никак с группой Черепа для вас разобрался!</rus>
+		<eng>===Скряга, будь человеком, выруби матюгальник на крыше, эта музыка уже в печёнках сидит! Прояви уважение, я как никак с группой Черепа для вас разобрался!</eng>
+		<ukr>===Скряга, будь человеком, выруби матюгальник на крыше, эта музыка уже в печёнках сидит! Прояви уважение, я как никак с группой Черепа для вас разобрался!</ukr>
+		<pln>===Скряга, будь человеком, выруби матюгальник на крыше, эта музыка уже в печёнках сидит! Прояви уважение, я как никак с группой Черепа для вас разобрался!</pln>
+	</string>
+	<string id="skrayga_hochu_tishiny_1">
+		<rus>Да без проблем, Меченый...</rus>
+		<eng>===Да без проблем, Меченый...</eng>
+		<ukr>===Да без проблем, Меченый...</ukr>
+		<pln>===Да без проблем, Меченый...</pln>
+	</string>
+	<string id="skrayga_hochu_tishiny_2">
+		<rus>Спасибо!</rus>
+		<eng>===Спасибо!</eng>
+		<ukr>===Спасибо!</ukr>
+		<pln>===Спасибо!</pln>
+	</string>
+
+	<!-- Диалог со Скрягой о включении рекламы и музыки из мегафона на Складах -->
+	<string id="skrayga_hochu_music_0">
+		<rus>Скряга, я тут подумал, что-то скучно так стало без музыки, включи обратно свой матюгальник на крыше!</rus>
+		<eng>===Скряга, будь человеком, выруби матюгальник на крыше, эта музыка уже в печёнках сидит! Прояви уважение, я как никак с группой Черепа для вас разобрался!</eng>
+		<ukr>===Скряга, будь человеком, выруби матюгальник на крыше, эта музыка уже в печёнках сидит! Прояви уважение, я как никак с группой Черепа для вас разобрался!</ukr>
+		<pln>===Скряга, будь человеком, выруби матюгальник на крыше, эта музыка уже в печёнках сидит! Прояви уважение, я как никак с группой Черепа для вас разобрался!</pln>
+	</string>
+	<string id="skrayga_hochu_music_1">
+		<rus>Да без проблем, Меченый...</rus>
+		<eng>===Да без проблем, Меченый...</eng>
+		<ukr>===Да без проблем, Меченый...</ukr>
+		<pln>===Да без проблем, Меченый...</pln>
+	</string>
 
 </string_table>

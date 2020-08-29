@@ -663,28 +663,28 @@
 		<pln>===Niestety, nie mogę ci pomóc. Chodzi o to, że ścieżka, z której korzystałem, teraz jest już zamknięta. Musisz odszukać tam jakąś drogę. Coś mi podpowiada, że sobie poradzisz.</pln>
 	</string>
 	<string id="snp_fenrir3_9">
-		<rus>Ах, да, чуть не забыл, тебе нужно пообщаться с моей охраной.</rus>
-		<eng>Oh, yeah, I almost forgot, you need to talk to my security guard.</eng>
-		<ukr>Ага, так, мало не забув, тобі потрібно поспілкуватися з моєю охороною.</ukr>
-		<pln>Ach, tak, prawie zapomniałem, musisz się zapoznać z moją ochroną.</pln>
+		<rus>Ах, да, чуть не забыл, тебе нужно пообщаться с Праймом. Тут люди поговаривают, что на станции зенитно-ракетного комплекса, проще сказать, на ЗРК «Волхов» нашли кодовую дверь. Код не известен, но, думаю, Прайм что-то знает по этому поводу.</rus>
+		<eng>===Ах, да, чуть не забыл, тебе нужно пообщаться с Праймом. Тут люди поговаривают, что на станции зенитно-ракетного комплекса, проще сказать, на ЗРК «Волхов» нашли кодовую дверь. Код не известен, но, думаю, Прайм что-то знает по этому поводу.</eng>
+		<ukr>===Ах, да, чуть не забыл, тебе нужно пообщаться с Праймом. Тут люди поговаривают, что на станции зенитно-ракетного комплекса, проще сказать, на ЗРК «Волхов» нашли кодовую дверь. Код не известен, но, думаю, Прайм что-то знает по этому поводу.</ukr>
+		<pln>===Ах, да, чуть не забыл, тебе нужно пообщаться с Праймом. Тут люди поговаривают, что на станции зенитно-ракетного комплекса, проще сказать, на ЗРК «Волхов» нашли кодовую дверь. Код не известен, но, думаю, Прайм что-то знает по этому поводу.</pln>
 	</string>
 	<string id="snp_fenrir3_10">
-		<rus>С Вульфом, что ли? Он что, говорящий?!</rus>
-		<eng>With Wulf, right? Does he even speak?!</eng>
-		<ukr>З Вульфом, чи що? Він що, говорить?!</ukr>
-		<pln>Z Wilkiem, czy jak? On co, mówi?!</pln>
+		<rus>Благодарю за наводку, сейчас выясним. А почему ты это всё рассказываешь именно мне?</rus>
+		<eng>===Благодарю за наводку, сейчас выясним. А почему ты это всё рассказываешь именно мне?</eng>
+		<ukr>===Благодарю за наводку, сейчас выясним. А почему ты это всё рассказываешь именно мне?</ukr>
+		<pln>===Благодарю за наводку, сейчас выясним. А почему ты это всё рассказываешь именно мне?</pln>
 	</string>
 	<string id="snp_fenrir3_11">
-		<rus>Да, говорящий! После всё узнаешь, как это возможно.</rus>
-		<eng>Yes, he speaks! You'll learn how this is possible later on.</eng>
-		<ukr>Так, говорить! Потім дізнаєшся, як це можливо.</ukr>
-		<pln>Tak, mówi! Po wszystkim dowiesz się, jak to jest możliwe.</pln>
+		<rus>Ты уже неоднократно доказал, что умеешь решать сложные задачи. А за такой ребус не всякий возьмётся.</rus>
+		<eng>===Ты уже неоднократно доказал, что умеешь решать сложные задачи. А за такой ребус не всякий возьмётся.</eng>
+		<ukr>===Ты уже неоднократно доказал, что умеешь решать сложные задачи. А за такой ребус не всякий возьмётся.</ukr>
+		<pln>===Ты уже неоднократно доказал, что умеешь решать сложные задачи. А за такой ребус не всякий возьмётся.</pln>
 	</string>
 	<string id="snp_fenrir3_12">
-		<rus>Очень интересно!</rus>
-		<eng>Very interesting!</eng>
-		<ukr>Дуже цікаво!</ukr>
-		<pln>Bardzo ciekawe!</pln>
+		<rus>Очень интересно! Пойду с Праймом пообщаюсь, с ним я уже знаком.</rus>
+		<eng>===Очень интересно! Пойду с Праймом пообщаюсь, с ним я уже знаком.</eng>
+		<ukr>===Очень интересно! Пойду с Праймом пообщаюсь, с ним я уже знаком.</ukr>
+		<pln>===Очень интересно! Пойду с Праймом пообщаюсь, с ним я уже знаком.</pln>
 	</string>
 
 	<string id="snp_fenrir4_0">
@@ -1010,52 +1010,40 @@
 		<pln>Proszę, trzymaj. Znalazłem to o co prosiłeś. Piękna sztuka!</pln>
 	</string>
 	<string id="snp_fenrir15_1">
-		<rus>Спасибо тебе, брат. Хотя мне уже гораздо лучше... Анна лучше всяких артефактов меня восстанавливает... Вот где настоящее сокровище Зоны. Но все равно спасибо. У меня для тебя тоже подарок есть. Ещё до нашей с тобой встречи, мы с Пропером Семидесятым занимались поисками "Звезды Пророка", и мне это почти удалось. Только вот Проперу Семидесятому я не успел всё рассказать. Ну что, есть желание заиметь себе столь редкий артефакт?</rus>
+		<rus>Спасибо тебе, брат. Хотя мне уже гораздо лучше... Анна лучше всяких артефактов меня восстанавливает... Вот где настоящее сокровище Зоны. Но все равно спасибо. У меня для тебя тоже подарок есть. Но сперва выполни, пожалуйста, мою последнюю просьбу. Обещаю, больше я тебя беспокоить не буду.</rus>
 		<eng>Thank you, brother. Although, I already feel much better... Anna helps me recover quicker than any artefacts... She's the real treasure of the Zone. But thanks anyway. I have a gift for you too. Before we met, Proper Seventieth and I were engaged in the search for the "Prophet's Star" artefact, and I almost succeeded. Only I never got the opportunity to tell Proper Seventieth about it. Well, do you wish to possess such a rare artefact?</eng>
 		<ukr>Спасибі тобі, брате. Хоча мені вже набагато краще... Анна краще всяких артефактів мене відновлює... Ось де справжній скарб Зони. Але все одно спасибі. У мене для тебе теж подарунок є. Ще до нашої з тобою зустрічі, ми з Пропером Сімдесятим займалися пошуками "Зірки Пророка", і мені це майже вдалося. Тільки от Проперу Сімдесятому я не встиг все розповісти. Ну що, є бажання отримати собі настільки рідкісний артефакт?</ukr>
 		<pln>Dziękuję ci, bracie. Chociaż już mi znacznie lepiej... Anna działa na mnie lepiej niż jakikolwiek artefakt... To jest prawdziwy skarb Zony. Ale mimo wszystko dziękuję. Też mam dla ciebie prezent. Jeszcze przed naszym spotkaniem, razem z Properem zajmowaliśmy się poszukiwaniami "Gwiazdy Proroka", i prawie mi się to udało. Tylko że Properowi nie zdążyłem wszystkiego opowiedzieć. No co, masz życzenie posiąść tak rzadki artefakt?</pln>
 	</string>
 	<string id="snp_fenrir15_2">
-		<rus>Ещё спрашиваешь?! Конечно!</rus>
+		<rus>Что за просьба? Слушаю.</rus>
 		<eng>What kind of question is that?! Of course I do!</eng>
 		<ukr>Ще питаєш?! Звичайно!</ukr>
 		<pln>Jeszcze pytasz?! Oczywiście!</pln>
 	</string>
 	<string id="snp_fenrir15_3">
-		<rus>Тогда слушай. Помнишь моего Вульфа? Это не просто Вульф, это вожак стаи. Найди его, поговори с ним. Он раскроет тебе тайну "Звезды Пророка". Скорее всего, ты найдёшь его там, где мы с ним и познакомились, на плато у засохшего дерева здесь же, на Затоне.</rus>
-		<eng>So listen. Do you remember my Wulf? He's no ordinary wolf, he's the leader of the pack. Find him, talk to him. He'll reveal the mystery of the "Prophet's Star" to you. You'll most likely find him where we first met, by the withered tree on the Northern Plateau, here at Zaton.</eng>
-		<ukr>Тоді слухай. Пам'ятаєш мого Вульфа? Це не просто Вульф, це ватажок зграї. Знайди його, поговори з ним. Він розкриє тобі таємницю "Зірки Пророка". Швидше за все, ти знайдеш його там, де ми з ним і познайомилися, на плато біля засохлого дерева тут же, на Затоні.</ukr>
-		<pln>Więc słuchaj. Pamiętasz mojego Wilka? To nie jest zwykły Wilk, to przywódca stada. Znajdź go, porozmawiaj z nim. On odkryje ci tajemnicę "Gwiazdy Proroka". Najprawdopodobniej, znajdziesz go tam, gdzie się z nim poznaliśmy, na Północnym Płaskowyżu przy uschniętym drzewie, tu na Zatonie.</pln>
+		<rus>Примерно за год до нашей с тобой встречи, со мной приключилась одна любопытная история. Я как раз в на Затоне лёжку искал подходящую, вдруг слышу выстрелы. Долговцы пытаются загнать в ловушку вульфа! Для Арни старались и его арены, на потеху толпе. Он их, конечно, порвал, как тузик грелку. Но и его долговцы сильно подранили. Я в оптику своей винтовки присмотрелся, вижу, а там вульф от долговца отползает, морда вся в крови, задние лапы по земле волочатся. Ну, я пошёл поближе посмотреть, нельзя ли долгашам помочь, а они напополам разорванные по всему плато лежат, а кто и на дереве висит. Жуткая картина. Думаю, ща я эту зверюгу успокою, а он на меня посмотрел таким взглядом, что у меня мурашки по всему телу пробежали, прям как человек! И во взгляде такая грусть и безысходность, что у меня рука не поднялась тварь добить, опустил винтовку...\n Короче, пощадил я его, на Скадовск на своём горбу притащил. С лекарствами Калмык помог, на лапы я его поставил. Долго я его лечил, но всё же выходил, и за это время очень к нему привязался. А когда он поправился окончательно, то пришлось его отпустить на волю. Я его не гнал, он сам ушёл. Лизнул на прощанье мою руку посмотрел прямо мне в глаза, в них была безмерная благодарность, склонил голову, а потом ушёл в лес, к своим сородичам.</rus>
+		<eng>===So listen. Do you remember my Wulf? He's no ordinary wolf, he's the leader of the pack. Find him, talk to him. He'll reveal the mystery of the "Prophet's Star" to you. You'll most likely find him where we first met, by the withered tree on the Northern Plateau, here at Zaton.</eng>
+		<ukr>===Тоді слухай. Пам'ятаєш мого Вульфа? Це не просто Вульф, це ватажок зграї. Знайди його, поговори з ним. Він розкриє тобі таємницю "Зірки Пророка". Швидше за все, ти знайдеш його там, де ми з ним і познайомилися, на плато біля засохлого дерева тут же, на Затоні.</ukr>
+		<pln>===Więc słuchaj. Pamiętasz mojego Wilka? To nie jest zwykły Wilk, to przywódca stada. Znajdź go, porozmawiaj z nim. On odkryje ci tajemnicę "Gwiazdy Proroka". Najprawdopodobniej, znajdziesz go tam, gdzie się z nim poznaliśmy, na Północnym Płaskowyżu przy uschniętym drzewie, tu na Zatonie.</pln>
 	</string>
 	<string id="snp_fenrir15_4">
-		<rus>Ну, раз он не просто говорящий, а ещё и в авторитете, в таком случае обязательно надо с ним поговорить. А как ты с ним познакомился? Как Маугли? Или как Тарзан?</rus>
-		<eng>Well, since he's not just able to speak, but is also a figure of authority, then, I should definitely talk to him. And how did you two get acquainted? Like Mowgli? Or was it like Tarzan?</eng>
-		<ukr>Ну, раз він не просто говорить, а ще й у авторитеті, у такому випадку обов'язково треба з ним поговорити. А як ти з ним познайомився? Як Мауглі? Чи як Тарзан?</ukr>
-		<pln>No, w takim przypadku koniecznie trzeba z nim porozmawiać. A jak ty się z nim poznałeś? Jak Mowgli? Albo jak Tarzan?</pln>
+		<rus>История душещипательная, не спорю, но я чем тебе могу помочь?</rus>
+		<eng>===Well, since he's not just able to speak, but is also a figure of authority, then, I should definitely talk to him. And how did you two get acquainted? Like Mowgli? Or was it like Tarzan?</eng>
+		<ukr>===Ну, раз він не просто говорить, а ще й у авторитеті, у такому випадку обов'язково треба з ним поговорити. А як ти з ним познайомився? Як Мауглі? Чи як Тарзан?</ukr>
+		<pln>===No, w takim przypadku koniecznie trzeba z nim porozmawiać. A jak ty się z nim poznałeś? Jak Mowgli? Albo jak Tarzan?</pln>
 	</string>
 	<string id="snp_fenrir15_5">
-		<rus>Слышь, знаток литературы! Здесь юмор не уместен!</rus>
+		<rus>Слышал я, что есть эмбрионы, вылупившиеся из них монстры дружелюбны к людям и не нападают на них, по крайней мере, первыми. Так вот не смог бы ты мне принести эмбрион вульфа? Понятно, что он мне не заменит друга, но всё же я хочу, чтобы он был рядом со мной!</rus>
 		<eng>===I see we have a connoisseur of literature! Do you want to lose some teeth? How many did you count last time?!</eng>
-		<ukr>Чуєш, знавець літератури! Тут не до гумору!</ukr>
+		<ukr>===Чуєш, знавець літератури! Тут не до гумору!</ukr>
 		<pln>===Widzę, że z ciebie znawca literatury! Może, ci jeszcze raz furtkę przesmarować? Poprzednim razem to ilu zębów się nie doliczyłeś?!</pln>
 	</string>
 	<string id="snp_fenrir15_6">
-		<rus>Настроение просто хорошее. Ну, чего насупился? Лучше расскажи, как дело было.</rus>
-		<eng>===Don't get angry, Fenrir! I was just being humorous. Well, tell me about it.</eng>
-		<ukr>Настрій просто хороший. Ну, чого насупився? Краще розкажи, як діло було.</ukr>
-		<pln>===Nie naprężaj się, Fenrir! Po prostu jestem w dobrym nastroju. No przecież, opowiedz.</pln>
-	</string>
-	<string id="snp_fenrir15_7">
-		<rus>Охотники на него охотились. Он их, конечно, порвал, как тузик грелку. Но и его сильно подранили. Я как раз в том районе лёжку искал подходящую, вдруг слышу выстрелы. Смотрю в оптику, а там Вульф от охотника отползает, весь в крови, задние лапы по земле волочатся. Ну, я пошёл поближе посмотреть, нельзя ли охотникам помочь, а они напополам разорванные по всему плато лежат, а кто и на дереве висит. Жуткая картина. Думаю, ща я эту зверюгу успокою, а он мне человеческим голосом говорит:\n \n- Если сильный бьёт слабого - это несправедливость, а если слабый бьёт сильного - это несправедливость и бесчестье. Раненого добить легко, в равном то бою слабо со мной тягаться?\n \nКороче, за живое он меня задел, пощадил я его, на Скадовск на своём горбу притащил. С лекарствами Калмык помог, на лапы я его поставил. Долго я его лечил, а вечерами, когда заняться особо нечем, мы с ним беседовали. Много он мне интересного поведал, многому научил, без его помощи я бы наверное никогда не достиг того, чего достиг сейчас. Поведал он мне, что, когда ещё был маленьким, неожиданно для самого себя обнаружил странную особенность: он понимал этих загадочных двуногих тварей. Его сородичи ему не верили и смеялись над ним, лишь только мать говорила, что он особенный, что он был зачат в ночь красной луны, так они называют полнолуние во время Выброса. И на самом деле, чем он становился старше, тем сильнее, намного сильнее становился он своих сородичей. И в конце концов он стал альфа самцом - вожаком стаи. Те, кто раньше над ним смеялись, теперь перед ним склоняют голову.</rus>
-		<eng>The hunters were hunting him. He tore them to pieces, of course, like a hot-water bottle. But he was also severely injured. I just happened to be in that area at the time, looking for a suitable shooting position, when suddenly I heard shots. I looked through my scope, and there was Wulf, crawling away from the hunters, all covered in blood, with his hind legs dragging along the ground behind him. Well, I went to see if I could help the hunters, but they were torn in half and spread across the plateau, one was even hanging out of a tree. This was a gruesome sight. As I was about to put this animal out of its misery, it says to me in a human voice:\n \n- If the strong beats the weak, it's an injustice, and if the weak beats the strong, it's an injustice and a disgrace. It's easy to kill a wounded person, but would you dare face me in an fair fight?\n \nWhat he said, tugged at my heart strings, so I spared him, I carried him to the Skadovsk on my back. Kalmyk helped me with the medications, I helped get him back on his feet. I nursed him for a long time, and in the evenings, when we had nothing to do, we had long conversations. He told me a lot of interesting things, taught me a lot, and without his help, I would never have achieved what I have now. He told me that when he was little, he suddenly discovered he had a strange gift: he could understand these mysterious two-legged creatures. His siblings didn't believe him and laughed, it was only his mother who realised he was special, because he was conceived on the night of the red moon, that's what they call the full moon during an Emission. In fact, the older he got, the stronger and more powerful he grew. And in the end, he became the alpha male - the leader of the pack. Those who used to laugh at him, now bow their heads in his presence.</eng>
-		<ukr>Мисливці на нього полювали. Він їх, звичайно, порвав, як тузик грілку. Але і його сильно підранили. Я саме у тому районі лежання шукав добре, раптом чую постріли. Дивлюся у оптику, а там Вульф від мисливця відповзає, весь у крові, задні лапи по землі волочаться. Ну, я пішов ближче подивитися, чи не можна мисливцям допомогти, а вони навпіл розірвані по всьому плато лежать, а хтось і на дереві висить. Моторошна картина. Думаю, зара я цю звірюку заспокою, а він мені людським голосом каже:\n\n- Якщо сильний б'є слабкого - це несправедливість, а якщо слабкий б'є сильного - це несправедливість і безчестя. Пораненого добити легко, у рівному ж бою слабо зі мною тягатися?\n\nКоротще, за живе він мене зачепив, пощадив я його, на Скадовськ на своєму горбу притягнув. З ліками Калмик допоміг, на лапи я його поставив. Довго я його лікував, а вечорами, коли зайнятися особливо нічим, ми з ним розмовляли. Багато він мені цікавого повідав, багато чому навчив, без його допомоги я б напевно ніколи не досяг того, чого досяг зараз. Повідав він мені, що, коли ще був маленьким, несподівано для самого себе виявив дивну особливість: він розумів цих загадкових двоногих тварюк. Його родичі йому не вірили й сміялися над ним, лише тільки мати говорила, що він особливий, що він був зачатий у ніч червоного місяця, так вони називають повний місяць під час Викиду. І насправді, чим він ставав старший, тим сильніший, набагато сильніший ставав він від своїх родичів. І врешті-решт він став альфа самцем - ватажком зграї. Ті, хто раніше над ним сміялися, тепер перед ним схиляють голову.</ukr>
-		<pln>Łowcy na niego polowali. On ich, oczywiście, poszarpał jak kot gazetę. Ale oni też go mocno ranili. Ja akurat w tej okolicy stanowiska szukałem odpowiedniego, nagle słyszę strzały. Patrzę w optykę, a tam Wilk od myśliwego odpełza, cały w krwi, tylne łapy wloką się po ziemi. No, podszedłem popatrzeć z bliska, czy nie trzeba myśliwym pomóc, a oni na wpół porozrywani po całym płaskowyżu leżą, a kilku i na drzewie wisi. Okropny widok. Myślę, zaraz tego zwierza uspokoję, a on do mnie ludzkim głosem mówi:\n \n- Jeżeli silny bije słabego - to niesprawiedliwość, a jeżeli słaby bije silnego - to niesprawiedliwość i hańba. Rannego łatwo dobić, a w równej walce odważyłbyś się ze mną zmierzyć?\n \nW sumie, za serce mnie złapał, oszczędziłem go, na Skadowsk na własnych plecach przytaszczyłem. Z lekarstwami Kałmuk pomógł, na łapy go postawiłem. Długo go leczyłem, a wieczorami, kiedy nie było co robić, prowadziliśmy długie rozmowy. Wiele mi ciekawych rzeczy powiedział, dużo nauczył, bez jego pomocy z pewnością nigdy bym nie osiągnął tego, co mam teraz. Powiedział mi, że, kiedy jeszcze był mały, niespodziewanie dla samego siebie odkrył dziwną właściwość: on rozumiał te zagadkowe dwunożne stwory. Jego bracia mu nie wierzyli i śmiali się z niego, tylko matka mówiła, że on jest wyjątkowy, że był poczęty w nocy czerwonego księżyca, tak oni nazywają pełnię księżyca w czasie Emisji. I tak to się toczyło, im był starszy, tym bardziej, o wiele bardziej, przewyższał swoich wspóplemieńców. I w końcu został samcem alfa - przywódcą stada. Ci, którzy wcześniej się z niego śmiali, teraz przed nim schylają głowy.</pln>
-	</string>
-	<string id="snp_fenrir15_8">
-		<rus>Да, не простой волчара, оказывается. Пойду его искать, может меня тоже чему-нибудь научит.</rus>
-		<eng>Yes, I can see that he's not just an ordinary wolf. I'll go look for him, maybe he can teach me something as well.</eng>
-		<ukr>Так, не простий вовчара, виявляється. Піду його шукати, може мене теж чогось навчить.</ukr>
-		<pln>Tak, nie jest to zwykły wilczek, okazuje się. Pójdę go poszukać, może mnie też czegoś nauczy.</pln>
+	        <rus>Да, есть такие. Принесу я тебе такой эмбрион, не переживай.</rus>
+		<eng>===Yes, I can see that he's not just an ordinary wolf. I'll go look for him, maybe he can teach me something as well.</eng>
+		<ukr>===Так, не простий вовчара, виявляється. Піду його шукати, може мене теж чогось навчить.</ukr>
+		<pln>===Tak, nie jest to zwykły wilczek, okazuje się. Pójdę go poszukać, może mnie też czegoś nauczy.</pln>
 	</string>
 
 	<string id="snp_fenrir16_0">
@@ -1189,34 +1177,22 @@
 	</string>
 
 	<string id="snp_wolffrend3_0">
-		<rus>Вот, принёс я тебе эмбрион, как и обещал. Ну, что там за тайна?</rus>
-		<eng>Here, I brought you the embryo as promised. Well, what's the secret?</eng>
-		<ukr>Ось, приніс я тобі ембріон, як і обіцяв. Ну, що там за таємниця?</ukr>
-		<pln>Przyniosłem ci embrion, tak jak obiecałem. No, to co tam z tą tajemnicą?</pln>
+		<rus>Вот, принёс я тебе эмбрион, как и обещал. Из него вылупится именно вульф, как ты и хотел. Ну, что там за награда?</rus>
+		<eng>===Here, I brought you the embryo as promised. Well, what's the secret?</eng>
+		<ukr>===Ось, приніс я тобі ембріон, як і обіцяв. Ну, що там за таємниця?</ukr>
+		<pln>===Przyniosłem ci embrion, tak jak obiecałem. No, to co tam z tą tajemnicą?</pln>
 	</string>
 	<string id="snp_wolffrend3_1">
-		<rus>Я вижу, ты - человек слова, как и Фенрир. Слушай. В Мёртвом Городе в 18:00 твой вожак укажет тебе начало твоих поисков. И возьми с собой артефакт Идол Монолита. Ищи в своём ПДА запись нашего разговора, чтобы ты не забыл, что я тебе сказал, ибо короткая память свойственна двуногим тварям.</rus>
-		<eng>I see you are a man of your word, just like Fenrir. Now listen up. At 18:00 hours, in the Dead City, your leader will tell you the beginning of your search. So take the "Idol of the Monolith" artefact with you. Look in your PDA for a record of our conversation so that you don't forget what I told you, because a short memory is characteristic of two-legged creatures.</eng>
-		<ukr>Я бачу, ти - людина слова, як і Фенрір. Слухай. У Мертвому Місті о 18:00 твій ватажок вкаже тобі початок твоїх пошуків. І візьми з собою артефакт Ідол Моноліту. Шукай у своєму КПК запис нашої розмови, щоб ти не забув, що я тобі сказав, бо коротка пам'ять властива двоногим тварям.</ukr>
-		<pln>Widzę, że jesteś człowiekiem honorowym, jak i Fenrir. Słuchaj. W Martwym Mieście o godzinie 18:00, twój przywódca wskaże ci początek twoich poszukiwań. I weź z sobą artefakt "Idol Monolitu". Szukaj w swoim PDA zapisu naszej rozmowy, byś nie zapomniał, co ci powiedziałem, ponieważ krótka pamięć jest właściwa dwunożnym istotom.</pln>
+		<rus>Я вижу, ты - человек слова, таких теперь днём с огнём не сыщешь. Слушай. В Мёртвом Городе в одной из пятиэтажек, я сделал свою лёжку, резервную. О ней точно никто не знает, гарантирую! В ней и будет твоя награда, думаю, не разочарует тебя.</rus>
+		<eng>===I see you are a man of your word, just like Fenrir. Now listen up. At 18:00 hours, in the Dead City, your leader will tell you the beginning of your search. So take the "Idol of the Monolith" artefact with you. Look in your PDA for a record of our conversation so that you don't forget what I told you, because a short memory is characteristic of two-legged creatures.</eng>
+		<ukr>===Я бачу, ти - людина слова, як і Фенрір. Слухай. У Мертвому Місті о 18:00 твій ватажок вкаже тобі початок твоїх пошуків. І візьми з собою артефакт Ідол Моноліту. Шукай у своєму КПК запис нашої розмови, щоб ти не забув, що я тобі сказав, бо коротка пам'ять властива двоногим тварям.</ukr>
+		<pln>===Widzę, że jesteś człowiekiem honorowym, jak i Fenrir. Słuchaj. W Martwym Mieście o godzinie 18:00, twój przywódca wskaże ci początek twoich poszukiwań. I weź z sobą artefakt "Idol Monolitu". Szukaj w swoim PDA zapisu naszej rozmowy, byś nie zapomniał, co ci powiedziałem, ponieważ krótka pamięć jest właściwa dwunożnym istotom.</pln>
 	</string>
 	<string id="snp_wolffrend3_2">
-		<rus>Это всё?</rus>
-		<eng>Is that all?</eng>
-		<ukr>Це все?</ukr>
-		<pln>To wszystko?</pln>
-	</string>
-	<string id="snp_wolffrend3_3">
-		<rus>Да. Это всё. Больше мне нечего тебе сказать.</rus>
-		<eng>Yes. That's all. I have nothing more to say.</eng>
-		<ukr>Так. Це все. Більше мені нічого тобі сказати.</ukr>
-		<pln>Tak. To wszystko. Więcej nie mam ci nic do powiedzenia.</pln>
-	</string>
-	<string id="snp_wolffrend3_4">
-		<rus>Прощай, Вожак.</rus>
-		<eng>Goodbye, Chieftain.</eng>
-		<ukr>Прощавай, Ватажок.</ukr>
-		<pln>Zegnaj, Watażko.</pln>
+		<rus>Спасибо, дружище. Буду в Мёртвом городе, обязательно твою лёжку проверю.</rus>
+		<eng>===Is that all?</eng>
+		<ukr>===Це все?</ukr>
+		<pln>===To wszystko?</pln>
 	</string>
 
 	<string id="snp_bibliofrend_start_0">
