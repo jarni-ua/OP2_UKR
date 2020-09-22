@@ -3,9 +3,9 @@
 	<!-- Неписи -->
 	<string id="neutral_novice">
 		<rus>Сталкер, новичок</rus>
-		<eng>Stalker, newbie</eng>
+		<eng>Stalker, novice</eng>
 		<ukr>Сталкер, новачок</ukr>
-		<fra>Stalker, débutant</fra>
+		<fra>Stalker, novice</fra>
 		<pln>Stalker, nowicjusz</pln>
 	</string>
 	<string id="neutral_experienced">
@@ -26,42 +26,42 @@
 		<rus>Сталкер, мастер</rus>
 		<eng>Stalker, master</eng>
 		<ukr>Сталкер, майстер</ukr>
-		<fra>Stalker, maître</fra>
+		<fra>Stalker, professionnel</fra>
 		<pln>Stalker, mistrz</pln>
 	</string>
 	<string id="monolith_novice">
-		<rus>Монолит, новичок</rus>
-		<eng>Monolith, newbie</eng>
-		<ukr>Моноліт, новачок</ukr>
-		<fra>Monolithe, débutant</fra>
-		<pln>Monolit, nowicjusz</pln>
+		<rus>"Монолит", новичок</rus>
+		<eng>"Monolith", novice</eng>
+		<ukr>"Моноліт", новачок</ukr>
+		<fra>"Monolithe", novice</fra>
+		<pln>"Monolit", nowicjusz</pln>
 	</string>
 	<string id="monolith_experienced">
-		<rus>Монолит, опытный</rus>
-		<eng>Monolith, experienced</eng>
-		<ukr>Моноліт, досвідчений</ukr>
-		<fra>Monolithe, expérimenté</fra>
-		<pln>Monolit, doświadczony</pln>
+		<rus>"Монолит", опытный</rus>
+		<eng>"Monolith", experienced</eng>
+		<ukr>"Моноліт", досвідчений</ukr>
+		<fra>"Monolithe", expérimenté</fra>
+		<pln>"Monolit", doświadczony</pln>
 	</string>
 	<string id="monolith_veteran">
-		<rus>Монолит, ветеран</rus>
-		<eng>Monolith, veteran</eng>
-		<ukr>Моноліт, ветеран</ukr>
-		<fra>Monolithe, vétéran</fra>
-		<pln>Monolit, weteran</pln>
+		<rus>"Монолит", ветеран</rus>
+		<eng>"Monolith", veteran</eng>
+		<ukr>"Моноліт", ветеран</ukr>
+		<fra>"Monolithe", vétéran</fra>
+		<pln>"Monolit", weteran</pln>
 	</string>
 	<string id="monolith_master">
-		<rus>Монолит, мастер</rus>
-		<eng>Monolith, master</eng>
-		<ukr>Моноліт, майстер</ukr>
-		<fra>Monolithe, maître</fra>
-		<pln>Monolit, mistrz</pln>
+		<rus>"Монолит", мастер</rus>
+		<eng>"Monolith", master</eng>
+		<ukr>"Моноліт", майстер</ukr>
+		<fra>"Monolithe", professionnel</fra>
+		<pln>"Monolit", mistrz</pln>
 	</string>
 	<string id="military_novice">
 		<rus>Военный, новичок</rus>
-		<eng>Military, newbie</eng>
+		<eng>Military, novice</eng>
 		<ukr>Військовий, новачок</ukr>
-		<fra>Militaire, débutant</fra>
+		<fra>Militaire, novice</fra>
 		<pln>Żołnierz, nowicjusz</pln>
 	</string>
 	<string id="military_experienced">
@@ -82,14 +82,14 @@
 		<rus>Военный, мастер</rus>
 		<eng>Military master</eng>
 		<ukr>Військовий, майстер</ukr>
-		<fra>Militaire, maître</fra>
+		<fra>Militaire, professionnel</fra>
 		<pln>Żołnierz, mistrz</pln>
 	</string>
 	<string id="killer_novice">
 		<rus>Наёмник, новичок</rus>
-		<eng>Mercenary, newbie</eng>
+		<eng>Mercenary, novice</eng>
 		<ukr>Найманець, новачок</ukr>
-		<fra>Mercenaire, débutant</fra>
+		<fra>Mercenaire, novice</fra>
 		<pln>Najemnik, nowicjusz</pln>
 	</string>
 	<string id="killer_experienced">
@@ -110,42 +110,42 @@
 		<rus>Наёмник, мастер</rus>
 		<eng>The mercenary, master</eng>
 		<ukr>Найманець, майстер</ukr>
-		<fra>Mercenaire, maître</fra>
+		<fra>Mercenaire, professionnel</fra>
 		<pln>Najemnik, mistrz</pln>
 	</string>
 	<string id="ecolog_novice">
 		<rus>Учёный, новичок</rus>
 		<eng>Scientist, beginner</eng>
 		<ukr>Вчений, новачок</ukr>
-		<fra>Scientifique, débutant</fra>
+		<fra>Savant, novice</fra>
 		<pln>Naukowiec, nowicjusz</pln>
 	</string>
 	<string id="ecolog_experienced">
 		<rus>Учёный, опытный</rus>
 		<eng>Scientist, experienced</eng>
 		<ukr>Вчений, досвідчений</ukr>
-		<fra>Scientifique, expérimenté</fra>
+		<fra>Savant, expérimenté</fra>
 		<pln>Naukowiec, doświadczony</pln>
 	</string>
 	<string id="ecolog_veteran">
 		<rus>Учёный, ветеран</rus>
 		<eng>Scientist, veteran</eng>
 		<ukr>Вчений, ветеран</ukr>
-		<fra>Scientifique, vétéran</fra>
+		<fra>Savant, vétéran</fra>
 		<pln>Naukowiec, weteran</pln>
 	</string>
 	<string id="ecolog_master">
 		<rus>Учёный, мастер</rus>
 		<eng>Scientist, master</eng>
 		<ukr>Вчений, майстер</ukr>
-		<fra>Scientifique, maître</fra>
+		<fra>Savant, professionnel</fra>
 		<pln>Naukowiec, mistrz</pln>
 	</string>
 	<string id="dolg_novice">
 		<rus>"Долг", новичок</rus>
-		<eng>"Duty", newbie</eng>
+		<eng>"Duty", novice</eng>
 		<ukr>"Долг", новачок</ukr>
-		<fra>"Devoir", débutant</fra>
+		<fra>"Devoir", novice</fra>
 		<pln>"Powinność", nowicjusz</pln>
 	</string>
 	<string id="dolg_experienced">
@@ -166,14 +166,14 @@
 		<rus>"Долг", мастер</rus>
 		<eng>"Duty", master</eng>
 		<ukr>"Долг", майстер</ukr>
-		<fra>"Devoir", maître</fra>
+		<fra>"Devoir", professionnel</fra>
 		<pln>"Powinność", mistrz</pln>
 	</string>
 	<string id="freedom_novice">
 		<rus>"Свобода", новичок</rus>
-		<eng>"Freedom", newbie</eng>
+		<eng>"Freedom", novice</eng>
 		<ukr>"Воля", новачок</ukr>
-		<fra>"Liberté", débutant</fra>
+		<fra>"Liberté", novice</fra>
 		<pln>"Wolność", nowicjusz</pln>
 	</string>
 	<string id="freedom_experienced">
@@ -194,14 +194,14 @@
 		<rus>"Свобода", мастер</rus>
 		<eng>"Freedom", master</eng>
 		<ukr>"Воля", майстер</ukr>
-		<fra>"Liberté", maître</fra>
+		<fra>"Liberté", professionnel</fra>
 		<pln>"Wolność", mistrz</pln>
 	</string>
 	<string id="bandit_novice">
 		<rus>Бандит, новичок</rus>
-		<eng>Bandit, newbie</eng>
+		<eng>Bandit, novice</eng>
 		<ukr>Бандит, новачок</ukr>
-		<fra>Bandit, débutant</fra>
+		<fra>Bandit, novice</fra>
 		<pln>Bandyta, nowicjusz</pln>
 	</string>
 	<string id="bandit_experienced">
@@ -222,14 +222,14 @@
 		<rus>Бандит, мастер</rus>
 		<eng>Bandit, master</eng>
 		<ukr>Бандит, майстер</ukr>
-		<fra>Bandit, maître</fra>
+		<fra>Bandit, professionnel</fra>
 		<pln>Bandyta, mistrz</pln>
 	</string>
 	<string id="zombied_novice">
 		<rus>Зомбированный, новичок</rus>
-		<eng>Zombified, newbie</eng>
+		<eng>Zombified, novice</eng>
 		<ukr>Зомбований, новачок</ukr>
-		<fra>Zombifié, débutant</fra>
+		<fra>Zombifié, novice</fra>
 		<pln>Zzombifikowany, nowicjusz</pln>
 	</string>
 	<string id="zombied_experienced">
@@ -250,42 +250,42 @@
 		<rus>Зомбированный, мастер</rus>
 		<eng>Zombified, master</eng>
 		<ukr>Зомбований, майстер</ukr>
-		<fra>Zombifié, maître</fra>
+		<fra>Zombifié, professionnel</fra>
 		<pln>Zzombifikowany, mistrz</pln>
 	</string>
 	<string id="trader_novice">
 		<rus>Торговец, новичок</rus>
-		<eng>Trader, newbie</eng>
+		<eng>Trader, novice</eng>
 		<ukr>Торговець, новачок</ukr>
-		<fra>Marchand, débutant</fra>
+		<fra>Marchand, novice</fra>
 		<pln>Handlarz, nowicjusz</pln>
 	</string>
 	<string id="trader_experienced">
 		<rus>Торговец, опытный</rus>
-		<eng>Trader, experienced</eng>
+		<eng>Merchant, experienced</eng>
 		<ukr>Торговець, досвідчений</ukr>
 		<fra>Marchand, expérimenté</fra>
 		<pln>Handlarz, doświadczony</pln>
 	</string>
 	<string id="trader_veteran">
 		<rus>Торговец, ветеран</rus>
-		<eng>Trader, veteran</eng>
+		<eng>Merchant, veteran</eng>
 		<ukr>Торговець, ветеран</ukr>
 		<fra>Marchand, vétéran</fra>
 		<pln>Handlarz, weteran</pln>
 	</string>
 	<string id="trader_master">
 		<rus>Торговец, мастер</rus>
-		<eng>Trader, master</eng>
+		<eng>Merchant, master</eng>
 		<ukr>Торговець, майстер</ukr>
-		<fra>Marchand, maître</fra>
+		<fra>Marchand, professionnel</fra>
 		<pln>Handlarz, mistrz</pln>
 	</string>
 	<string id="arena_enemy_novice">
 		<rus>Арена, новичок</rus>
-		<eng>Arena, newbie</eng>
+		<eng>Arena, novice</eng>
 		<ukr>Арена, новачок</ukr>
-		<fra>Arène, débutant</fra>
+		<fra>Arène, novice</fra>
 		<pln>Arena, nowicjusz</pln>
 	</string>
 	<string id="arena_enemy_experienced">
@@ -306,14 +306,14 @@
 		<rus>Арена, мастер</rus>
 		<eng>Arena, master</eng>
 		<ukr>Арена, майстер</ukr>
-		<fra>Arène, maître</fra>
+		<fra>Arène, professionnel</fra>
 		<pln>Arena, mistrz</pln>
 	</string>
 	<string id="sniper_novice">
 		<rus>Мститель, новичок</rus>
-		<eng>Avenger, newbie</eng>
+		<eng>Avenger, novice</eng>
 		<ukr>Месник, новачок</ukr>
-		<fra>Sniper, débutant</fra>
+		<fra>Sniper, novice</fra>
 		<pln>Mściciel, nowicjusz</pln>
 	</string>
 	<string id="sniper_experienced">
@@ -334,14 +334,14 @@
 		<rus>Мститель, мастер</rus>
 		<eng>Avenger, master</eng>
 		<ukr>Месник, майстер</ukr>
-		<fra>Vangeur, maître</fra>
+		<fra>Vangeur, professionnel</fra>
 		<pln>Mściciel, mistrz</pln>
 	</string>
 	<string id="green_novice">
 		<rus>Охотник, новичок</rus>
-		<eng>Hunter, newbie</eng>
+		<eng>Hunter, novice</eng>
 		<ukr>Мисливець, новачок</ukr>
-		<fra>Chasseur, débutant</fra>
+		<fra>Chasseur, novice</fra>
 		<pln>Łowca, nowicjusz</pln>
 	</string>
 	<string id="green_experienced">
@@ -362,14 +362,14 @@
 		<rus>Охотник, мастер</rus>
 		<eng>Hunter, master</eng>
 		<ukr>Мисливець, майстер</ukr>
-		<fra>Chasseur, maître</fra>
+		<fra>Chasseur, professionnel</fra>
 		<pln>Łowca, mistrz</pln>
 	</string>
 	<string id="nebo_novice">
 		<rus>"Чистое Небо", новичок</rus>
-		<eng>"Clear Sky", newbie</eng>
+		<eng>"Clear Sky", novice</eng>
 		<ukr>"Чисте Небо", новачок</ukr>
-		<fra>"Ciel Fin", débutant</fra>
+		<fra>"Ciel Fin", novice</fra>
 		<pln>"Czyste Niebo", nowicjusz</pln>
 	</string>
 	<string id="nebo_experienced">
@@ -390,42 +390,42 @@
 		<rus>"Чистое Небо", мастер</rus>
 		<eng>"Clear Sky", Master</eng>
 		<ukr>"Чисте Небо", майстер</ukr>
-		<fra>"Ciel Fin", maître</fra>
+		<fra>"Ciel Fin", professionnel</fra>
 		<pln>"Czyste Niebo", mistrz</pln>
 	</string>
 	<string id="lastday_novice">
 		<rus>"Последний День", новичок</rus>
-		<eng>"Last Day", newbie</eng>
+		<eng>"Last Day", novice</eng>
 		<ukr>"Останній День", новачок</ukr>
-		<fra>"Last Day", débutant</fra>
+		<fra>"Dernier Jour", novice</fra>
 		<pln>"Ostatni Dzień", nowicjusz</pln>
 	</string>
 	<string id="lastday_experienced">
 		<rus>"Последний День", опытный</rus>
 		<eng>"Last Day", experienced</eng>
 		<ukr>"Останній День", досвідчений</ukr>
-		<fra>"Last Day", expérimenté</fra>
+		<fra>"Dernier Jour", expérimenté</fra>
 		<pln>"Ostatni Dzień", doświadczony</pln>
 	</string>
 	<string id="lastday_veteran">
 		<rus>"Последний День", ветеран</rus>
 		<eng>"Last Day", veteran</eng>
 		<ukr>"Останній День", ветеран</ukr>
-		<fra>"Last Day", vétéran</fra>
+		<fra>"Dernier Jour", vétéran</fra>
 		<pln>"Ostatni Dzień", weteran</pln>
 	</string>
 	<string id="lastday_master">
 		<rus>"Последний День", мастер</rus>
 		<eng>"Last Day", master</eng>
 		<ukr>"Останній День", майстер</ukr>
-		<fra>"Last Day", maître</fra>
+		<fra>"Dernier Jour", professionnel</fra>
 		<pln>"Ostatni Dzień", mistrz</pln>
 	</string>
 	<string id="vermaht_novice">
 		<rus>"Вермахт", новичок</rus>
 		<eng>"Wehrmacht", beginner</eng>
 		<ukr>"Вермахт", новачок</ukr>
-		<fra>"Wehrmacht", débutant</fra>
+		<fra>"Wehrmacht", novice</fra>
 		<pln>"Wehrmacht", nowicjusz</pln>
 	</string>
 	<string id="vermaht_experienced">
@@ -446,64 +446,64 @@
 		<rus>"Вермахт", мастер</rus>
 		<eng>"Wehrmacht", master</eng>
 		<ukr>"Вермахт", майстер</ukr>
-		<fra>"Wehrmacht", maître</fra>
+		<fra>"Wehrmacht", professionnel</fra>
 		<pln>"Wehrmacht", mistrz</pln>
 	</string>
 	<string id="furii_novice">
 		<rus>Фурии, новичок</rus>
-		<eng>Furii, beginner</eng>
-		<ukr>Фурії, новачок</ukr>
-		<fra>Furieux, débutant</fra>
-		<pln>Furie, nowicjusz</pln>
+		<eng>Fury, novice</eng>
+		<ukr>===Фурії, новачок</ukr>
+		<fra>Furie, novice</fra>
+		<pln>Furia, nowicjusz</pln>
 	</string>
 	<string id="furii_experienced">
-		<rus>Фурии, опытный</rus>
-		<eng>Furii, experienced</eng>
-		<ukr>Фурії, досвідчений</ukr>
-		<fra>Furieux, expérimenté</fra>
-		<pln>Furie, doświadczony</pln>
+		<rus>Фурия, опытная</rus>
+		<eng>Fury, experienced</eng>
+		<ukr>===Фурії, досвідчений</ukr>
+		<fra>Furie, expérimentée</fra>
+		<pln>Furia, doświadczony</pln>
 	</string>
 	<string id="furii_veteran">
-		<rus>Фурии, ветеран</rus>
-		<eng>Furii, veteran</eng>
-		<ukr>Фурії, ветеран</ukr>
-		<fra>Furieux, vétéran</fra>
-		<pln>Furie, weteran</pln>
+		<rus>Фурия, ветеран</rus>
+		<eng>Fury, veteran</eng>
+		<ukr>===Фурії, ветеран</ukr>
+		<fra>Furie, vétérane</fra>
+		<pln>Furia, weteran</pln>
 	</string>
 	<string id="furii_master">
-		<rus>Фурии, мастер</rus>
-		<eng>Furii, master</eng>
-		<ukr>Фурії, майстер</ukr>
-		<fra>Furieux, maître</fra>
-		<pln>Furie, mistrz</pln>
+		<rus>Фурия, мастер</rus>
+		<eng>Fury, master</eng>
+		<ukr>===Фурії, майстер</ukr>
+		<fra>Furie, professionnelle</fra>
+		<pln>Furia, mistrz</pln>
 	</string>
 	<string id="little_blood_novice">
 		<rus>Малокровки, новичок</rus>
-		<eng>===Малокровки, новичок</eng>
+		<eng>Anaemic, novice</eng>
 		<ukr>Малокровки, новачок</ukr>
-		<fra>===Малокровки, новичок</fra>
-		<pln>===Малокровки, новичок</pln>
+		<fra>Anémique, novice</fra>
+		<pln>===Малокровки, nowicjusz</pln>
 	</string>
 	<string id="little_blood_experienced">
 		<rus>Малокровки, опытный</rus>
-		<eng>===Малокровки, опытный</eng>
+		<eng>Anaemic, experienced</eng>
 		<ukr>Малокровки, досвідчений</ukr>
-		<fra>===Малокровки, опытный</fra>
-		<pln>===Малокровки, опытный</pln>
+		<fra>Anémique, expérimenté</fra>
+		<pln>===Малокровки, doświadczony</pln>
 	</string>
 	<string id="little_blood_veteran">
 		<rus>Малокровки, ветеран</rus>
-		<eng>===Малокровки, ветеран</eng>
+		<eng>Anaemic, veteran</eng>
 		<ukr>Малокровки, ветеран</ukr>
-		<fra>===Малокровки, ветеран</fra>
-		<pln>===Малокровки, ветеран</pln>
+		<fra>Anémique, vétéran</fra>
+		<pln>===Малокровки, weteran</pln>
 	</string>
 	<string id="little_blood_master">
 		<rus>Малокровки, мастер</rus>
-		<eng>===Малокровки, мастер</eng>
+		<eng>Anaemic, master</eng>
 		<ukr>Малокровки, майстер</ukr>
-		<fra>===Малокровки, мастер</fra>
-		<pln>===Малокровки, мастер</pln>
+		<fra>Anémique, professionnel</fra>
+		<pln>===Малокровки, mistrz</pln>
 	</string>
 
 	<!-- Монстры -->
@@ -518,98 +518,98 @@
 		<rus>Вертолёт</rus>
 		<eng>Helicopter</eng>
 		<ukr>Вертоліт</ukr>
-		<fra>Hélicopter</fra>
+		<fra>Hélicoptère</fra>
 		<pln>Helikopter</pln>
 	</string>
 	<string id="vehicle_btr">
 		<rus>БТР</rus>
 		<eng>APC</eng>
 		<ukr>БТР</ukr>
-		<fra>BTR Transport de troupes blindé</fra>
+		<fra>VTT</fra>
 		<pln>BTR</pln>
 	</string>
 	<string id="vehicle_apc">
 		<rus>БТР «Страйкер»</rus>
-		<eng>APC Stryker</eng>
+		<eng>ICV Stryker</eng>
 		<ukr>БТР «Страйкер»</ukr>
-		<fra>BTR «Stryker»</fra>
+		<fra>IAV Stryker</fra>
 		<pln>BTR "Stryker"</pln>
 	</string>
 	<string id="auto_turret_2">
 		<rus>Турель «Тайфун»</rus>
-		<eng>Typhoon Turret</eng>
+		<eng>Typhoon turret</eng>
 		<ukr>Турель «Тайфун»</ukr>
-		<fra>Tourelle "Typhoon"</fra>
+		<fra>Tourelle Typhoon</fra>
 		<pln>Wieżyczka "Tajfun"</pln>
 	</string>
 	<string id="arahnid_strong">
 		<rus>Жёлтый арахнид</rus>
 		<eng>Yellow arachnid</eng>
 		<ukr>Жовтий арахнід</ukr>
-		<fra>Araignée jaune</fra>
+		<fra>Arachnide jaune</fra>
 		<pln>Żółty Arachnid</pln>
 	</string>
 	<string id="fracture_weak">
 		<rus>Молодой излом</rus>
-		<eng>Young fracture</eng>
+		<eng>Young crippled-arm</eng>
 		<ukr>Молодий чахлик</ukr>
-		<fra>Jeune Izlom</fra>
+		<fra>Bras-courbé Izlom</fra>
 		<pln>Młody Połamaniec</pln>
 	</string>
 	<string id="fracture_normal">
 		<rus>Взрослый излом</rus>
-		<eng>Adult fracture</eng>
+		<eng>Mature crippled-arm</eng>
 		<ukr>Досвідчений чахлик</ukr>
-		<fra>Izlom adulte</fra>
+		<fra>Bras-courbé adulte</fra>
 		<pln>Dorosły Połamaniec</pln>
 	</string>
 	<string id="fracture_strong">
 		<rus>Излом-охотник</rus>
-		<eng>Fracture-hunter</eng>
+		<eng>Crippled-arm hunter</eng>
 		<ukr>Чахлик-мисливець</ukr>
-		<fra>Izlom chasseur fort</fra>
+		<fra>Bras-courbé chasseur</fra>
 		<pln>Połamaniec Łowca</pln>
 	</string>
 	<string id="fracture_master">
 		<rus>Матёрый излом</rus>
-		<eng>Old-timer fracture</eng>
+		<eng>Robust crippled-arm</eng>
 		<ukr>Зрілий чахлик</ukr>
-		<fra>Izlom Maitre</fra>
+		<fra>Bras-courbé acharné</fra>
 		<pln>Doświadczony Połamaniec</pln>
 	</string>
 	<string id="carlic_weak">
 		<rus>Молодой карлик</rus>
-		<eng>The young midget</eng>
+		<eng>Young midget</eng>
 		<ukr>Молодий карлик</ukr>
-		<fra>Jeune nain</fra>
+		<fra>Jeune nabot</fra>
 		<pln>Młody Karlik</pln>
 	</string>
 	<string id="carlic_strong">
 		<rus>Матёрый карлик</rus>
-		<eng>Old-timer midget</eng>
+		<eng>Robust midget</eng>
 		<ukr>Зрілий карлик</ukr>
-		<fra>Vieux nain</fra>
+		<fra>Nabot acharné</fra>
 		<pln>Dorosły Karlik</pln>
 	</string>
 	<string id="pseudodog_weak">
 		<rus>Молодая псевдособака</rus>
 		<eng>Young pseudodog</eng>
 		<ukr>Молода псевдособака</ukr>
-		<fra>Jeune Pseudo-chien</fra>
+		<fra>Jeune pseudo-chien</fra>
 		<pln>Młody Pseudopies</pln>
 	</string>
 	<string id="pseudodog_normal">
 		<rus>Матёрая псевдособака</rus>
-		<eng>Old-timer pseudodog</eng>
+		<eng>Robust pseudodog</eng>
 		<ukr>Зріла псевдособака</ukr>
-		<fra>Vieux Pseudo-chien</fra>
+		<fra>Pseudo-chien acharné</fra>
 		<pln>Dorosły Pseudopies</pln>
 	</string>
 	<string id="pseudodog_strong">
 		<rus>Серая псевдособака</rus>
-		<eng>Gray pseudodog</eng>
+		<eng>Grey pseudodog</eng>
 		<ukr>Сіра псевдособака</ukr>
-		<fra>Pseudo chien gris</fra>
+		<fra>Pseudo-chien gris</fra>
 		<pln>Szary Pseudopies</pln>
 	</string>
 	<string id="pseudodog_big">
@@ -623,28 +623,28 @@
 		<rus>Молодой кровосос</rus>
 		<eng>Young bloodsucker</eng>
 		<ukr>Молодий кровосос</ukr>
-		<fra>Jeune sangsue</fra>
+		<fra>Jeune sang-suceur</fra>
 		<pln>Młoda Pijawka</pln>
 	</string>
 	<string id="bloodsucker_normal">
 		<rus>Тёмный кровосос</rus>
 		<eng>Dark bloodsucker</eng>
 		<ukr>Темний кровосос</ukr>
-		<fra>Sangsue Sombre</fra>
+		<fra>Sang-suceur sombre</fra>
 		<pln>Ciemna Pijawka</pln>
 	</string>
 	<string id="bloodsucker_strong">
 		<rus>Матёрый кровосос</rus>
-		<eng>Old-timer bloodsucker</eng>
+		<eng>Robust bloodsucker</eng>
 		<ukr>Зрілий кровосос</ukr>
-		<fra>Vieille Sangsue</fra>
+		<fra>Sang-suceur acharné</fra>
 		<pln>Dorosła Pijawka</pln>
 	</string>
 	<string id="bloodsucker_child">
 		<rus>Мелкий кровосос</rus>
 		<eng>Small bloodsucker</eng>
 		<ukr>Дрібний кровосос</ukr>
-		<fra>Petite Sangsue</fra>
+		<fra>Petite sang-suceur</fra>
 		<pln>Skarlała Pijawka</pln>
 	</string>
 	<string id="m_controller_normal">
@@ -663,9 +663,9 @@
 	</string>
 	<string id="m_controller_old">
 		<rus>Матёрый контролёр</rus>
-		<eng>Old-timer controller</eng>
+		<eng>Robust controller</eng>
 		<ukr>Зрілий контролер</ukr>
-		<fra>Très Vieux Contrôleur</fra>
+		<fra>Contrôleur acharné</fra>
 		<pln>Dorosły Kontroler</pln>
 	</string>
 	<string id="m_controller_old_fat">
@@ -691,9 +691,9 @@
 	</string>
 	<string id="gigant_strong">
 		<rus>Матёрый псевдогигант</rus>
-		<eng>Old-timer pseudogiant</eng>
+		<eng>Robust pseudogiant</eng>
 		<ukr>Зрілий псевдогігант</ukr>
-		<fra>Pseudo-géant agé</fra>
+		<fra>Pseudo-géant acharné</fra>
 		<pln>Dorosły Pseudogigant</pln>
 	</string>
 	<string id="gigant_red_strong">
@@ -712,17 +712,17 @@
 	</string>
 	<string id="gigant_virus_strong">
 		<rus>Мегапсевдогигант</rus>
-		<eng>Mega Pseudogiant</eng>
+		<eng>Megapseudogiant</eng>
 		<ukr>Мегапсевдогігант</ukr>
-		<fra>Mega Pseudo-géant</fra>
-		<pln>Mega Pseudogigant</pln>
+		<fra>Mégapseudo-géant</fra>
+		<pln>Megapseudogigant</pln>
 	</string>
 	<string id="gigant_jumper_strong">
-		<rus>Матёрый псевдогигант-прыгун</rus>
-		<eng>Old-timer pseudogiant jumper</eng>
-		<ukr>Зрілий псевдогігант-стрибун</ukr>
-		<fra>Cavalier Pseudo-géant agé</fra>
-		<pln>Dorosły Pseudogigant-skoczek</pln>
+		<rus>Матёрый прыгающий псевдогигант</rus>
+		<eng>Robust leaping pseudogiant</eng>
+		<ukr>===Зрілий псевдогігант-стрибун</ukr>
+		<fra>Pseudo-géant sautant acharné</fra>
+		<pln>===Dorosły Pseudogigant-skoczek</pln>
 	</string>
 	<string id="burer_weak">
 		<rus>Молодой бюрер</rus>
@@ -733,16 +733,16 @@
 	</string>
 	<string id="burer_normal">
 		<rus>Взрослый бюрер</rus>
-		<eng>Adult burer</eng>
+		<eng>Mature burer</eng>
 		<ukr>Дорослий бюрер</ukr>
 		<fra>Burer adulte</fra>
 		<pln>Doświadczony Burer</pln>
 	</string>
 	<string id="burer_strong">
 		<rus>Матёрый бюрер</rus>
-		<eng>Old-timer burer</eng>
+		<eng>Robust burer</eng>
 		<ukr>Зрілий бюрер</ukr>
-		<fra>Burer agé</fra>
+		<fra>Burer acharné</fra>
 		<pln>Dorosły Burer</pln>
 	</string>
 	<string id="chimera_weak">
@@ -753,11 +753,11 @@
 		<pln>Młoda Chimera</pln>
 	</string>
 	<string id="tarakan_strong">
-		<rus>Тёмный таракан</rus>
-		<eng>Dark cockroach</eng>
-		<ukr>Темний тарган</ukr>
-		<fra>Cafard noir</fra>
-		<pln>Czarny Karaluch</pln>
+		<rus>Чёрный таракан</rus>
+		<eng>Black cockroach</eng>
+		<ukr>===Темний тарган</ukr>
+		<fra>Blatte orientale</fra>
+		<pln>===Czarny Karaluch</pln>
 	</string>
 	<string id="m_poltergeist_normal_tele">
 		<rus>Пси-полтергейст</rus>
@@ -768,44 +768,44 @@
 	</string>
 	<string id="m_poltergeist_tele_outdoor">
 		<rus>Матёрый пси-полтергейст</rus>
-		<eng>Old-timer psi-poltergeist</eng>
+		<eng>Robust psi-poltergeist</eng>
 		<ukr>Зрілий псі-полтергейст</ukr>
-		<fra>Poltergeist Psi agé</fra>
+		<fra>Poltergeist Psi acharné</fra>
 		<pln>Dorosły Psioniczny Poltergeist</pln>
 	</string>
 	<string id="m_poltergeist_normal_flame">
-		<rus>Пиро-полтергейст</rus>
+		<rus>Пирополтергейст</rus>
 		<eng>Pyro-poltergeist</eng>
-		<ukr>Піро-полтергейст</ukr>
-		<fra>Poltergeist Pyromane</fra>
+		<ukr>Пірополтергейст</ukr>
+		<fra>Pyro-poltergeist</fra>
 		<pln>Ognisty Poltergeist</pln>
 	</string>
 	<string id="m_poltergeist_strong_flame">
-		<rus>Матёрый пиро-полтергейст</rus>
-		<eng>Old-timer pyro-poltergeist</eng>
-		<ukr>Зрілий піро-полтергейст</ukr>
-		<fra>Poltergeist Pyromane puissant</fra>
+		<rus>Матёрый пирополтергейст</rus>
+		<eng>Robust pyro-poltergeist</eng>
+		<ukr>Зрілий пірополтергейст</ukr>
+		<fra>Pyro-poltergeist acharné</fra>
 		<pln>Dorosły Ognisty Poltergeist</pln>
 	</string>
 	<string id="deathclaw_weak">
 		<rus>Чешуйчатый коготь смерти</rus>
 		<eng>Scaly deathclaw</eng>
 		<ukr>Лускатий кіготь смерті</ukr>
-		<fra>Griffe de la mort écailleux</fra>
+		<fra>Griffemort squamifère</fra>
 		<pln>Łuskowaty Szpon Śmierci</pln>
 	</string>
 	<string id="deathclaw_normal">
 		<rus>Молодой коготь смерти</rus>
 		<eng>Young deathclaw</eng>
 		<ukr>Молодий кіготь смерті</ukr>
-		<fra>Jeune griffe de la mort</fra>
+		<fra>Jeune griffemort</fra>
 		<pln>Młody Szpon Śmierci</pln>
 	</string>
 	<string id="deathclaw_strong">
 		<rus>Матёрый коготь смерти</rus>
-		<eng>Old-rimer deathclaw</eng>
+		<eng>Robust deathclaw</eng>
 		<ukr>Зрілий кіготь смерті</ukr>
-		<fra>Griffe de la mort</fra>
+		<fra>Griffemort acharné</fra>
 		<pln>Dorosły Szpon Śmierci</pln>
 	</string>
 	<string id="flesh_weak">
@@ -824,9 +824,9 @@
 	</string>
 	<string id="flesh_strong">
 		<rus>Матёрая плоть</rus>
-		<eng>Old-timer flesh</eng>
+		<eng>Robust flesh</eng>
 		<ukr>Зріла плоть</ukr>
-		<fra>Chair fort</fra>
+		<fra>Chair acharnée</fra>
 		<pln>Dorosły Mięsacz</pln>
 	</string>
 	<string id="boar_weak">
@@ -840,7 +840,7 @@
 		<rus>Поросёнок</rus>
 		<eng>Piglet</eng>
 		<ukr>Поросятко</ukr>
-		<fra>Petit sanglier</fra>
+		<fra>Porcelet</fra>
 		<pln>Warchlak</pln>
 	</string>
 	<string id="boar_normal">
@@ -852,9 +852,9 @@
 	</string>
 	<string id="boar_strong">
 		<rus>Матёрый кабан</rus>
-		<eng>Old-timer boar</eng>
+		<eng>Robust boar</eng>
 		<ukr>Зрілий кабан</ukr>
-		<fra>Sanglier fort</fra>
+		<fra>Sanglier acharné</fra>
 		<pln>Dorosły Dzik</pln>
 	</string>
 	<string id="boar_kachok">
@@ -880,30 +880,30 @@
 	</string>
 	<string id="snork_strong">
 		<rus>Матёрый снорк</rus>
-		<eng>Old-timer snork</eng>
+		<eng>Robust snork</eng>
 		<ukr>Зрілий снорк</ukr>
-		<fra>Snork fort</fra>
+		<fra>Snork acharné</fra>
 		<pln>Dorosły Snork</pln>
 	</string>
 	<string id="snork_outdoor">
 		<rus>Снорк-охотник</rus>
 		<eng>Snork-hunter</eng>
 		<ukr>Снорк-мисливець</ukr>
-		<fra>Chasseur de snork</fra>
+		<fra>Snork-chasseur</fra>
 		<pln>Snork Łowca</pln>
 	</string>
 	<string id="snork_indoor">
 		<rus>Подземный снорк</rus>
 		<eng>Underground snork</eng>
 		<ukr>Підземний снорк</ukr>
-		<fra>Snork des souterrains</fra>
+		<fra>Snork souterrain</fra>
 		<pln>Podziemny Snork</pln>
 	</string>
 	<string id="aes_snork">
 		<rus>Чернобыльский снорк</rus>
 		<eng>Chernobyl snork</eng>
 		<ukr>Чорнобильський снорк</ukr>
-		<fra>Snork de Chernobyl</fra>
+		<fra>Snork de Tchernobyl</fra>
 		<pln>Czarnobylski Snork</pln>
 	</string>
 	<string id="rat_weak">
@@ -922,44 +922,44 @@
 	</string>
 	<string id="rat_strong">
 		<rus>Матёрая крыса</rus>
-		<eng>Old-timer rat</eng>
+		<eng>Robust rat</eng>
 		<ukr>Зрілий щур</ukr>
-		<fra>Rat agressif</fra>
+		<fra>Rat acharné</fra>
 		<pln>Dorosły Szczur</pln>
 	</string>
 	<string id="cat_weak">
 		<rus>Молодой кот-баюн</rus>
 		<eng>Young croon-cat</eng>
 		<ukr>Молодий кіт-баюн</ukr>
-		<fra>Jeune chat-Bayun</fra>
+		<fra>Jeune chat-baioun</fra>
 		<pln>Młody Kot</pln>
 	</string>
 	<string id="cat_normal">
 		<rus>Взрослый кот-баюн</rus>
 		<eng>Adult croon-cat</eng>
 		<ukr>Дорослий кіт-баюн</ukr>
-		<fra>Chat adulte Bayun</fra>
+		<fra>Chat-baioun adulte</fra>
 		<pln>Doświadczony Kot</pln>
 	</string>
 	<string id="cat_strong">
 		<rus>Матёрый кот-баюн</rus>
-		<eng>Old-timer croon-cat</eng>
+		<eng>Robust croon-cat</eng>
 		<ukr>Зрілий кіт-баюн</ukr>
-		<fra>Vieux Chat Bayun</fra>
+		<fra>Chat-baioun acharné</fra>
 		<pln>Dorosły Kot</pln>
 	</string>
 	<string id="dog_weak">
 		<rus>Светло-коричневая собака</rus>
-		<eng>Lightly-brown dog</eng>
+		<eng>Light-brown dog</eng>
 		<ukr>Світло-коричнева собака</ukr>
-		<fra>===Chien brun foncé</fra>
-		<pln>Jasnobrązowy Pies</pln>
+		<fra>Chien beige marron</fra>
+		<pln>===Jasnobrązowy Pies</pln>
 	</string>
 	<string id="dog_normal">
 		<rus>Тёмно-коричневая собака</rus>
-		<eng>Dark brown dog</eng>
+		<eng>Dark-brown dog</eng>
 		<ukr>Темно-коричнева собака</ukr>
-		<fra>Chien brun foncé</fra>
+		<fra>Chien marron foncé</fra>
 		<pln>Ciemnobrązowy Pies</pln>
 	</string>
 	<string id="dog_strong">
@@ -971,16 +971,16 @@
 	</string>
 	<string id="dog_skeleton">
 		<rus>Рыжая призрачная собака</rus>
-		<eng>Red ghost dog</eng>
+		<eng>Red spectral dog</eng>
 		<ukr>Руда примарна собака</ukr>
-		<fra>Chien fantôme rouge</fra>
+		<fra>Chien spectral roux</fra>
 		<pln>Rudy Upiorny Pies</pln>
 	</string>
 	<string id="dog_green">
 		<rus>Зелёная призрачная собака</rus>
-		<eng>Green ghost dog</eng>
+		<eng>Green spectral dog</eng>
 		<ukr>Зелена примарна собака</ukr>
-		<fra>Chien fantôme vert</fra>
+		<fra>Chien spectral vert</fra>
 		<pln>Zielony Upiorny Pies</pln>
 	</string>
 	<string id="dog_sil_hill">
@@ -992,9 +992,9 @@
 	</string>
 	<string id="zombie_weak">
 		<rus>Свежий зомби</rus>
-		<eng>Fresh zombie</eng>
+		<eng>Recent zombie</eng>
 		<ukr>Свіжий зомбі</ukr>
-		<fra>Zombie jeune</fra>
+		<fra>Zombie récent</fra>
 		<pln>Świeży Zombie</pln>
 	</string>
 	<string id="zombie_normal">
@@ -1006,35 +1006,35 @@
 	</string>
 	<string id="zombie_strong">
 		<rus>Матёрый зомби</rus>
-		<eng>Old-timer zombie</eng>
+		<eng>Robust zombie</eng>
 		<ukr>Зрілий зомбі</ukr>
-		<fra>Zombie mature</fra>
+		<fra>Zombie acharné</fra>
 		<pln>Dorosły Zombie</pln>
 	</string>
 	<string id="zombie_trup">
 		<rus>Зомби-труп</rus>
-		<eng>Zombie-corpse</eng>
+		<eng>Zombie-carrion</eng>
 		<ukr>Зомбі-труп</ukr>
-		<fra>Cadavre zombie</fra>
+		<fra>Zombie-charogne</fra>
 		<pln>Zombie-trup</pln>
 	</string>
 	<string id="zombie_trup2">
 		<rus>Полуразложившийся зомби</rus>
-		<eng>Semi-decomposed zombie</eng>
+		<eng>Semi-rotten zombie</eng>
 		<ukr>Напіврозкладений зомбі</ukr>
-		<fra>Zombie semi-décomposé</fra>
+		<fra>Zombie semi-pourri</fra>
 		<pln>Na wpół rozłożony Zombie</pln>
 	</string>
 	<string id="zombie_beee">
 		<rus>Взрывающийся зомби</rus>
-		<eng>Exploding zombie</eng>
+		<eng>Explosive zombie</eng>
 		<ukr>Вибухаючий зомбі</ukr>
-		<fra>Zombie explosif</fra>
+		<fra>Zombie explosible</fra>
 		<pln>Wybuchowy Zombie</pln>
 	</string>
 	<string id="zombie_hell">
 		<rus>Адский зомби</rus>
-		<eng>Hell zombie</eng>
+		<eng>Infernal zombie</eng>
 		<ukr>Пекельний зомбі</ukr>
 		<fra>Zombie infernal</fra>
 		<pln>Piekielny Zombie</pln>
@@ -1043,42 +1043,42 @@
 		<rus>Зомби-странник</rus>
 		<eng>Zombie-wanderer</eng>
 		<ukr>Зомбі-мандрівник</ukr>
-		<fra>Zombie Wanderer</fra>
+		<fra>Zombie-pèlerin</fra>
 		<pln>Zombie Wędrowiec</pln>
 	</string>
 	<string id="zombie_hell2">
 		<rus>Зомби-мумия</rus>
 		<eng>Zombie-mummy</eng>
 		<ukr>Зомбі-мумія</ukr>
-		<fra>Grang-mère Zombie</fra>
+		<fra>Zombie-momie</fra>
 		<pln>Zombie Mumia</pln>
 	</string>
 	<string id="zombie_hell3">
 		<rus>Зомби-зэк</rus>
-		<eng>Zombie-prisoner</eng>
+		<eng>Zombie-convict</eng>
 		<ukr>Зомбі-зек</ukr>
-		<fra>Zombie-prisonnier</fra>
+		<fra>Zombie-taulard</fra>
 		<pln>Zombie Więzień</pln>
 	</string>
 	<string id="zombie_hell4">
 		<rus>Зомби-подопытный</rus>
-		<eng>Zombie-experimental</eng>
+		<eng>Zombie-subject of experiments</eng>
 		<ukr>Зомбі-піддослідний</ukr>
-		<fra>Zombie expérimenté</fra>
+		<fra>Zombie soumis à l'expérience</fra>
 		<pln>Zombie-obiekt doświadczalny</pln>
 	</string>
 	<string id="zombie_hell5">
 		<rus>Зомби-рабочий</rus>
 		<eng>Zombie-worker</eng>
 		<ukr>Зомбі-робочий</ukr>
-		<fra>Travailleur zombie</fra>
+		<fra>Zombie-ouvrier</fra>
 		<pln>Zombie Robotnik</pln>
 	</string>
 	<string id="zombie_hell6">
 		<rus>Жареный зомби</rus>
-		<eng>Fried zombie</eng>
+		<eng>Roasted zombie</eng>
 		<ukr>Смажений зомбі</ukr>
-		<fra>Zombie gelé</fra>
+		<fra>Zombie rôti</fra>
 		<pln>Przysmażony Zombie</pln>
 	</string>
 	<string id="zombie_hell7">
@@ -1090,37 +1090,37 @@
 	</string>
 	<string id="zombie_hell8">
 		<rus>Зомби-алкаш</rus>
-		<eng>Zombie-rummie</eng>
+		<eng>Zombie-drunkard</eng>
 		<ukr>Зомбі-алкаш</ukr>
-		<fra>Zombie ivre</fra>
+		<fra>Zombie-alcoolique</fra>
 		<pln>Zombie Alkoholik</pln>
 	</string>
 	<string id="zombie_hell9">
 		<rus>Зомби-шахтёр</rus>
-		<eng>Zombie miner</eng>
+		<eng>Zombie-miner</eng>
 		<ukr>Зомбі-шахтар</ukr>
-		<fra>Zombie mineur</fra>
+		<fra>Zombie-mineur</fra>
 		<pln>Zombie Górnik</pln>
 	</string>
 	<string id="zombie_hell10">
 		<rus>Зомби-врач</rus>
 		<eng>Zombie-doctor</eng>
 		<ukr>Зомбі-лікар</ukr>
-		<fra>Médecin zombie</fra>
+		<fra>Zombie-médecin</fra>
 		<pln>Zombie Lekarz</pln>
 	</string>
 	<string id="zombie_hell11">
 		<rus>Зомби-инвалид</rus>
-		<eng>Zombie disabled</eng>
+		<eng>Disabled zombie</eng>
 		<ukr>Зомбі-інвалід</ukr>
 		<fra>Zombie handicapé</fra>
 		<pln>Zombie Inwalida</pln>
 	</string>
 	<string id="zombie_hell12">
 		<rus>Зомби-лаборант</rus>
-		<eng>Zombie-lab-assistant</eng>
+		<eng>Zombie-laboratorian</eng>
 		<ukr>Зомбі-лаборант</ukr>
-		<fra>Zombie-assistant de laboratoire</fra>
+		<fra>Zombie-laborantin</fra>
 		<pln>Zombie Laborant</pln>
 	</string>
 	<string id="zombie_hell13">
@@ -1132,37 +1132,37 @@
 	</string>
 	<string id="zombie_hell14">
 		<rus>Зомби в мешковине</rus>
-		<eng>Burlap zombie</eng>
+		<eng>Bagged zombie</eng>
 		<ukr>Зомбі у мішковині</ukr>
-		<fra>Zombies en toile de jute</fra>
+		<fra>Zombie en toile de jute</fra>
 		<pln>Zarażony Zombie</pln>
 	</string>
 	<string id="zombie_hell16">
 		<rus>Ошпаренный зомби</rus>
-		<eng>===Burlap zombie</eng>
+		<eng>Scalded zombie</eng>
 		<ukr>Ошпарений зомбі</ukr>
-		<fra>===Zombies en toile de jute</fra>
+		<fra>Zombie échaudé</fra>
 		<pln>===Zarażony Zombie</pln>
 	</string>
 	<string id="zombie_babka_weak">
 		<rus>Свежая зомби-бабка</rus>
-		<eng>Fresh zombie-grandmother</eng>
+		<eng>Recent zombie-granny</eng>
 		<ukr>Свіжа зомбі-бабка</ukr>
-		<fra>Jeune Grand-mère Zombie</fra>
+		<fra>Récente-zombie grand-mère</fra>
 		<pln>Świeża Kobieta Zombie</pln>
 	</string>
 	<string id="zombie_babka_normal">
 		<rus>Опытная зомби-бабка</rus>
-		<eng>Experienced zombie-grandmother</eng>
+		<eng>Experienced zombie-granny</eng>
 		<ukr>Досвідчена зомбі-бабка</ukr>
-		<fra>Grand-mère Zombie expérimentée</fra>
+		<fra>Zombie-grand-mère expérimentée</fra>
 		<pln>Doświadczona Kobieta Zombie</pln>
 	</string>
 	<string id="zombie_babka_strong">
 		<rus>Матёрая зомби-бабка</rus>
-		<eng>Old-timer Zombie-granny</eng>
+		<eng>Rubust zombie-granny</eng>
 		<ukr>Зріла зомбі-бабка</ukr>
-		<fra>Grand-mère zombie agée</fra>
+		<fra>Zombie-grand-mère acharnée</fra>
 		<pln>Dojrzała Kobieta Zombie</pln>
 	</string>
 	<string id="zombie_immortal">
@@ -1174,24 +1174,30 @@
 	</string>
 	<string id="komar">
 		<rus>Комар</rus>
-		<eng>===Комар</eng>
+		<eng>Mosquito</eng>
 		<ukr>Комар</ukr>
-		<fra>===Комар</fra>
+		<fra>Moustique</fra>
 		<pln>===Комар</pln>
 	</string>
 	<string id="fly_small">
 		<rus>Чумная муха</rus>
-		<eng>Plagued fly</eng>
+		<eng>Plague fly</eng>
 		<ukr>Чумна муха</ukr>
+		<fra>Mouche pesteuse</fra>
+		<pln>===Комар</pln>
 	</string>
 	<string id="fly_micro">
 		<rus>Чумная мини-муха</rus>
 		<eng>Plagued mini-fly</eng>
 		<ukr>Чумна міні-муха</ukr>
+		<fra>Mini-mouche pesteuse</fra>
+		<pln>===Комар</pln>
 	</string>
 	<string id="fly_ghost">
 		<rus>Призрачная муха</rus>
-		<eng>Ghost fly</eng>
+		<eng>Spectre fly</eng>
 		<ukr>Примарна муха</ukr>
+		<fra>Mouche spectrale</fra>
+		<pln>===Комар</pln>
 	</string>
 </string_table>
