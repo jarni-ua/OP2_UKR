@@ -163,10 +163,10 @@
 		<pln>AK-101 "Custom"</pln>
 	</string>
 	<string id="ars-ak47_sh">
-		<rus>АК «Штурмовик»</rus>
-		<eng>AK «Stormtrooper»</eng>
-		<ukr>АК «Штурмовик»</ukr>
-		<pln>AK "Szturmowy"</pln>
+		<rus>АКС «Штурмовик»</rus>
+		<eng>AKS «Stormtrooper»</eng>
+		<ukr>АКС «Штурмовик»</ukr>
+		<pln>AKS "Szturmowy"</pln>
 	</string>
 	<string id="ars_ak_md">
 		<rus>АК «Мини-Драгунов»</rus>
@@ -1660,10 +1660,10 @@
 		<pln>Bezgłośny wielkokalibrowy karabin snajperski "Wydech", opracowany w CKIB SOO w 2002 roku, na specjalne zamówienie CSN FSB Rosji. Karabin (zestaw snajperski WKS/WSSK "Wydech") po raz pierwszy został zaprezentowany jesienią 2005 roku, na wystawie "Interpolitech" w Moskwie. WSSK "Wydech" zbudowano w układzie bullpup i posiada zintegrowany tłumik, zdejmowany na czas transportu lub czyszczenia broni. Podstawowym przeznaczeniem karabinu jest ciche i bezpłomienne rażenie osłoniętych celów (siły żywej w ciężkich kamizelkach kuloodpornych lub w środkach transportu) na dystansie do 600 metrów. O ile wiadomo, zestaw snajperski "Wydech" został wyprodukowany w niedużej ilości i jest na wyposażeniu oddziałów CSN FSB Rosji.</pln>
 	</string>
 	<string id="enc_arsenal_ak47_sh">
-		<rus>Модификация Автомата Калашникова - АК «Штурмовик» под калибр 7.62х39мм. Интегрированный коллиматор «Кобра», ёмкий рожок от РПК на 40 патронов, повышенная скорострельность и возможность установки ПГ, все эти качества делают автомат прекрасным оружием для боя на близких и средних дистанциях. Изначально, такими автоматами вооружались штурмовые сквады Долга, но затем стали встречаться и у некоторых сталкеров-одиночек.</rus>
-		<eng>Modification of the Kalashnikov assault rifle - AK "Stormtrooper" for the caliber of 7.62x39mm. The integrated collimator "Cobra" sight, the capacious 40-round magazine from the RPK, increased rate of fire and the possibility of installing barrel-attached grenade launcher, all these qualities make this devicde an excellent weapon for close combat fight and firing at medium distances. Initially, such assault rifles were armed with the assault squads of the Duty, but then they began to be used by some loner stalkers.</eng>
-		<ukr>Модифікація Автомату Калашникова - АК «Штурмовик» під калібр 7.62х39мм. Інтегрований коліматор «Кобра», великий ріжок від РПК на 40 патронів, підвищена скорострільність і можливість установки ПГ, всі ці якості роблять автомат прекрасною зброєю для бою на близьких і середніх дистанціях. Спочатку, такими автоматами озброювалися штурмові сквади Долгу, але потім стали зустрічатися і у деяких сталкерів-одинаків.</ukr>
-		<pln>Modyfikacja Automatu Kałasznikowa - AK "Szturmowy" pod kaliber 7.62x39 mm. Zintegrowany kolimator "Kobra", pojemny magazynek z RPK na 40 naboi, podwyższona szybkostrzelność i możliwość montażu PG, wszystkie te cechy czynią automat doskonałą bronią do walki na bliskich i średnich dystansach. Początkowo w takie automaty były uzbrojone grupy szturmowe Powinności, ale coraz częściej spotyka się je wśród stalkerów samotników.</pln>
+		<rus>Модификация Автомата Калашникова - АКС «Штурмовик» под калибр 7.62х39мм. Интегрированный коллиматор «ОКП-7», ёмкий рожок от РПК на 40 патронов, повышенная скорострельность и возможность установки ПГ, все эти качества делают автомат прекрасным оружием для боя на близких и средних дистанциях. Изначально, такими автоматами вооружались штурмовые сквады Долга, но затем стали встречаться и у некоторых сталкеров-одиночек.</rus>
+		<eng>===Modification of the Kalashnikov assault rifle - AK "Stormtrooper" for the caliber of 7.62x39mm. The integrated collimator "Cobra" sight, the capacious 40-round magazine from the RPK, increased rate of fire and the possibility of installing barrel-attached grenade launcher, all these qualities make this devicde an excellent weapon for close combat fight and firing at medium distances. Initially, such assault rifles were armed with the assault squads of the Duty, but then they began to be used by some loner stalkers.</eng>
+		<ukr>===Модифікація Автомату Калашникова - АК «Штурмовик» під калібр 7.62х39мм. Інтегрований коліматор «Кобра», великий ріжок від РПК на 40 патронів, підвищена скорострільність і можливість установки ПГ, всі ці якості роблять автомат прекрасною зброєю для бою на близьких і середніх дистанціях. Спочатку, такими автоматами озброювалися штурмові сквади Долгу, але потім стали зустрічатися і у деяких сталкерів-одинаків.</ukr>
+		<pln>===Modyfikacja Automatu Kałasznikowa - AK "Szturmowy" pod kaliber 7.62x39 mm. Zintegrowany kolimator "Kobra", pojemny magazynek z RPK na 40 naboi, podwyższona szybkostrzelność i możliwość montażu PG, wszystkie te cechy czynią automat doskonałą bronią do walki na bliskich i średnich dystansach. Początkowo w takie automaty były uzbrojone grupy szturmowe Powinności, ale coraz częściej spotyka się je wśród stalkerów samotników.</pln>
 	</string>
 	<string id="enc_arsenal_aa12">
 		<rus>AA-12 (Auto Assault-12) - автоматическое ружьё, созданное Макселлом Атчиссоном на базе более ранней разработки Atchisson Assault Shotgun.</rus>
