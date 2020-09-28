@@ -31,14 +31,14 @@
 	<string id="tips_agr_krot_sos">
 		<rus>Всем, кто меня слышит - мужики, помогите! Военные режут нашего брата сталкера!</rus>
 		<eng>Anyone who can hear me - bros, help! The militaries are slaughtering our fellow stalkers!</eng>
-		<ukr>Мужики, усі хто мене чує, допоможіть! Військові загнали нас у куток на фабриці!</ukr>
+		<ukr>Всім, хто мене чує, мужики, допоможіть! Військові ріжуть нашого брата сталкера!</ukr>
 		<fra>Tous ceux qui peuvent m'entendre - les gars, aide! Les militaires abattent nos stalkers!</fra>
 		<pln>Do wszystkich, którzy mnie słyszą! Wojsko osaczyło nas w fabryce!</pln>
 	</string>
 	<string id="tips_agr_krot_sos1">
 		<rus>Вояки зажали меня во дворе. Выручайте братцы!</rus>
 		<eng>War dogs got me cornered in the yard. Help, guys!</eng>
-		<ukr>Лягаві затисли мене у дворі. Допоможіть, братчики!</ukr>
+		<ukr>Вояки затисли мене у дворі. Виручайте, братчики!</ukr>
 		<fra>La soldatesque m'a piégé dans la cour. Aide, les gars!</fra>
 		<pln>Wojacy przycisnęli mnie na podwórzu. Bracia, pomocy!</pln>
 	</string>
@@ -49,6 +49,28 @@
 		<fra>Tous mes hommes sont déjà tombés!</fra>
 		<pln>Wszyscy moi ludzie zginęli!</pln>
 	</string>
+        <string id="tips_krot_soldiers_1">
+		<rus>Тебе кранты! Вылезай, гад!!</rus>
+		<eng>===Тебе кранты! Вылезай, гад!!</eng>
+		<ukr>Тобі кранти! Вилазь, гад!!</ukr>
+		<fra>===Тебе кранты! Вылезай, гад!!</fra>
+		<pln>===Тебе кранты! Вылезай, гад!!</pln>
+	</string>
+        <string id="tips_krot_soldiers_2">
+		<rus>Огонь по его позиции, не дать ему уйти!!</rus>
+		<eng>===Огонь по его позиции, не дать ему уйти!!</eng>
+		<ukr>Вогонь по його позиції, не дати йому піти!!</ukr>
+		<fra>===Огонь по его позиции, не дать ему уйти!!</fra>
+		<pln>===Огонь по его позиции, не дать ему уйти!!</pln>
+	</string>
+        <string id="tips_krot_soldiers_3">
+		<rus>Вылазь, тварь! Тебе не долго осталось, сейчас спецназ тут будет!</rus>
+		<eng>===Вылазь, тварь! Тебе не долго осталось, сейчас спецназ тут будет!</eng>
+		<ukr>Вилазь, тварюка! Тобі не довго залишилося, зараз спецназ тут буде!</ukr>
+		<fra>===Вылазь, тварь! Тебе не долго осталось, сейчас спецназ тут будет!</fra>
+		<pln>===Вылазь, тварь! Тебе не долго осталось, сейчас спецназ тут будет!</pln>
+	</string>
+
 	<string id="tips_agr_stalker_help_1">
 		<rus>...</rus>
 		<eng>...</eng>
