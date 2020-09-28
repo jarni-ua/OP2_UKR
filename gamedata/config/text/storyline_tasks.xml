@@ -2,21 +2,21 @@
 <string_table>
 	<string id="sar_monolith">
 		<rus>Исполнитель Желаний</rus>
-		<eng>Wish granter</eng>
+		<eng>The Wish Granter</eng>
 		<ukr>Виконавець Бажань</ukr>
-		<fra>L'Exauceur de Voeux</fra>
+		<fra>L'Exauceur de Vœux</fra>
 		<pln>Spełniacz Życzeń</pln>
 	</string>
 	<string id="sar_monolith_0">
-		<rus>Прийти к "Монолиту"</rus>
-		<eng>Get to "Monolith"</eng>
+		<rus>Прийти к Монолиту</rus>
+		<eng>Get to Monolith</eng>
 		<ukr>Прийти до Моноліта</ukr>
-		<fra>Aller au  "Monolithe"</fra>
+		<fra>Venir au Monolithe</fra>
 		<pln>Dotrzyj do Monolitu</pln>
 	</string>
 	<string id="sar_monolith_1">
 		<rus>Проникнуть в саркофаг</rus>
-		<eng>Sneak in to the sarcophagus</eng>
+		<eng>Sneak in to the Sarcophagus</eng>
 		<ukr>Проникнути до Саркофага</ukr>
 		<fra>Fouiller le Sarcophage</fra>
 		<pln>Dostań się do Sarkofagu</pln>
@@ -25,83 +25,83 @@
 		<rus>Найти Исполнитель Желаний</rus>
 		<eng>Find the Wish Granter</eng>
 		<ukr>Знайти Виконавець Бажань</ukr>
-		<fra>Trouver l'Exauceur de Voeux</fra>
+		<fra>Trouver l'Exauceur de Vœux</fra>
 		<pln>Znajdź Spełniacz Życzeń</pln>
 	</string>
 	<string id="sar_monolith_destroy">
-		<rus>Загадка "Монолита"</rus>
-		<eng>The "Monolith's" secret</eng>
+		<rus>Загадка Монолита</rus>
+		<eng>The mystery of the Monolith</eng>
 		<ukr>Загадка Моноліту</ukr>
-		<fra>Trouver l'Exauceur de Voeux</fra>
+		<fra>Le mystère du Monolithe</fra>
 		<pln>Tajemnica Monolitu</pln>
 	</string>
 	<string id="sar_monolith_destroy_0">
 		<rus>Проникнуть в секретную лабораторию</rus>
-		<eng>Infiltrate the secret lab</eng>
+		<eng>Infiltrate the secret laboratory</eng>
 		<ukr>Проникнути до секретної лабораторії</ukr>
-		<fra>Pénétrez dans le laboratoire secret</fra>
+		<fra>Pénétrer dans le laboratoire secret</fra>
 		<pln>Dostań się do tajnego laboratorium</pln>
 	</string>
 	<string id="sar_monolith_destroy_1">
-		<rus>Разгадать загадку "Монолита"</rus>
-		<eng>Solve the "Monolith's" secret</eng>
+		<rus>Разгадать загадку Монолита</rus>
+		<eng>Reveal the mystery of the Monolith</eng>
 		<ukr>Розгадати загадку Моноліту</ukr>
-		<fra>Résoudre le secret du "Monolithe"</fra>
+		<fra>Révéler le mystère du Monolithe</fra>
 		<pln>Rozwiąż zagadkę Monolitu</pln>
 	</string>
 	<string id="sar_monolith_destroy_2">
-		<rus>Уничтожить генераторы питания "Монолита"</rus>
-		<eng>Destroy the "Monolith's" power generators</eng>
+		<rus>Уничтожить генераторы питания Монолита</rus>
+		<eng>Destroy the Monolith's power generators</eng>
 		<ukr>Знищити генератори живлення Моноліту</ukr>
-		<fra>Détruire le générateur de puissance du "Monolithe"</fra>
+		<fra>Détruire le générateur de puissance du Monolithe</fra>
 		<pln>Zniszcz generatory zasilania Monolitu</pln>
 	</string>
 	<string id="sar_perception">
 		<rus>Загадка Зоны</rus>
-		<eng>The Zone's secret</eng>
+		<eng>The mystery of the Zone</eng>
 		<ukr>Загадка Зони</ukr>
-		<fra>Les Secrets de la Zone</fra>
+		<fra>Le mystère de la Zone</fra>
 		<pln>Tajemnica Zony</pln>
 	</string>
 	<string id="sar_perception_1">
-		<rus>Встретится с теми, кто стоял за "Монолитом"</rus>
-		<eng>Meet whoever is behind the "Monolith"</eng>
+		<rus>Встретится с теми, кто стоял за Монолитом</rus>
+		<eng>Meet those who are the mastermind of the Monolith</eng>
 		<ukr>Зустрітися із тими, хто стояв за Монолітом</ukr>
-		<fra>Découvrir qui se cache derrière le "Monolithe"</fra>
+		<fra>Rencontrer ceux qui sont derrière le Monolithe</fra>
 		<pln>Spotkaj się z tymi, którzy stoją za Monolitem</pln>
 	</string>
 	<string id="sar_perception_2">
 		<rus>Найти секретную лабораторию и встретить "кукловодов"</rus>
-		<eng>Find the secret lab and meet the "puppeteers"</eng>
+		<eng>Find the secret laboratory and find the "string-pullers"</eng>
 		<ukr>Знайти секретну лабораторію та побачити «ляльковиків»</ukr>
-		<fra>Découvrir le secret du laboratoire et qui sont les "manipulateurs"</fra>
+		<fra>Trouver le laboratoire secret et rencontrer ceux qui sont les "manipulateurs"</fra>
 		<pln>Znajdź tajne laboratorium i spotkaj się z "lalkarzami"</pln>
 	</string>
 	<string id="sar_secret_lab">
 		<rus>Секретная лаборатория</rus>
-		<eng>Secret lab</eng>
+		<eng>Secret laboratory</eng>
 		<ukr>Секретна лабораторія</ukr>
-		<fra>Laboratoire Secret</fra>
+		<fra>Laboratoire secret</fra>
 		<pln>Tajne laboratorium</pln>
 	</string>
 	<string id="sar_secret_lab_0">
 		<rus>Попасть в секретный бункер</rus>
 		<eng>Enter the secret bunker</eng>
 		<ukr>Потрапити до секретного бункера</ukr>
-		<fra>Entrer dans le laboratoire Secret</fra>
+		<fra>Entrer dans le bunker secret</fra>
 		<pln>Wejdź do tajnego bunkra</pln>
 	</string>
 	<string id="sar_secret_lab_1">
 		<rus>Найти тайную дверь</rus>
 		<eng>Find the hidden door</eng>
 		<ukr>Знайти таємні двері</ukr>
-		<fra>Trouver la porte dérobée</fra>
+		<fra>Trouver la porte secrète</fra>
 		<pln>Znajdź ukryte drzwi</pln>
 	</string>
 	<string id="sar_secret_lab_2">
-		<rus>Открыть её с помощью декодера</rus>
-		<eng>Open it using the decoder</eng>
-		<ukr>Відкрити їх за допомогою декодера</ukr>
+		<rus>Открыть дверь с помощью декодера</rus>
+		<eng>Open the door using the decoder</eng>
+		<ukr>===Відкрити їх за допомогою декодера</ukr>
 		<fra>Ouvrir la porte avec le décodeur</fra>
 		<pln>Otwórz drzwi z pomocą dekodera</pln>
 	</string>
@@ -114,177 +114,177 @@
 	</string>
 	<string id="mil_courier">
 		<rus>Стукач</rus>
-		<eng>Snitch</eng>
+		<eng>Whistler</eng>
 		<ukr>Стукач</ukr>
-		<fra>Taupe</fra>
+		<fra>Mouchard</fra>
 		<pln>Donosiciel Pawlik</pln>
 	</string>
 	<string id="mil_courier_job">
 		<rus>Разобраться со стукачом</rus>
-		<eng>Deal with the snitch</eng>
+		<eng>Deal with the whistler</eng>
 		<ukr>Розібратися зі стукачем</ukr>
-		<fra>Traiter avec la Taupe</fra>
+		<fra>Traiter avec le mouchard</fra>
 		<pln>Zajmij się donosicielem</pln>
 	</string>
 	<string id="mil_courier_phase1">
 		<rus>Добраться до хутора</rus>
-		<eng>Get to the Farm</eng>
+		<eng>Get to the hamlet</eng>
 		<ukr>Дістатися хутора</ukr>
-		<fra>Aller à la ferme</fra>
-		<pln>Dotrzyj do przysiółka w ślad za Pawlikiem</pln>
+		<fra>Accéder au hameau</fra>
+		<pln>===Dotrzyj do przysiółka w ślad za Pawlikiem</pln>
 	</string>
 	<string id="mil_courier_phase2">
 		<rus>Дождаться, пока стукач вызовет информатора</rus>
-		<eng>Wait until the snitch calls the informant</eng>
+		<eng>Wait until the whistler calls the informer</eng>
 		<ukr>Дочекатися, поки стукач викличе збирача інформації</ukr>
-		<fra>Attendre jusqu'à ce que la Taupe contacte l'espion</fra>
+		<fra>Attendre jusqu'à ce que le mouchard contacte l'espion</fra>
 		<pln>Poczekaj, aż Pawlik ujawni swojego agenta</pln>
 	</string>
 	<string id="mil_courier_phase3">
 		<rus>Уничтожить стукача</rus>
-		<eng>Kill the snitch</eng>
+		<eng>Destroy the whistler</eng>
 		<ukr>Знищити стукача</ukr>
-		<fra>Tuer la Taupe</fra>
+		<fra>Détruire le mouchard</fra>
 		<pln>Załatw donosiciela Pawlika</pln>
 	</string>
 	<string id="mil_courier_phase4">
 		<rus>Уничтожить информатора</rus>
-		<eng>Kill the informant</eng>
+		<eng>Destroy the informer</eng>
 		<ukr>Знищити збирача інформації</ukr>
-		<fra>Tuer l'espion</fra>
+		<fra>Détruire l'espion</fra>
 		<pln>Załatw agenta</pln>
 	</string>
 	<string id="mil_courier_phase5">
-		<rus>Доложить Лукашу о выполнении</rus>
-		<eng>Report to Lukash about accomplishment</eng>
+		<rus>Доложить Лукашу о выполнении задания</rus>
+		<eng>Report to Lukash about the task completion</eng>
 		<ukr>Доповісти Лукашеві про виконання</ukr>
-		<fra>Rendez-compte à Lukas de votre mission</fra>
+		<fra>Rapporter à Loukach de l'achèvement de la tâche</fra>
 		<pln>Zdaj Łukaszowi raport z wypełnienia zadania</pln>
 	</string>
 	<string id="mil_crazy">
 		<rus>Безумный сталкер</rus>
-		<eng>Crazy Stalker</eng>
+		<eng>Crazy stalker</eng>
 		<ukr>Божевільний сталкер</ukr>
-		<fra>Stalker Fou</fra>
+		<fra>Stalker fou</fra>
 		<pln>Szalony stalker</pln>
 	</string>
 	<string id="mil_dolg">
-		<rus>Группа Долга</rus>
-		<eng>Duty Squad</eng>
+		<rus>Группа "Долга"</rus>
+		<eng>"Duty" Squad</eng>
 		<ukr>Група «Долгу»</ukr>
-		<fra>Escouade du Devoir</fra>
+		<fra>Escouade du "Devoir"</fra>
 		<pln>Oddział "Powinności"</pln>
 	</string>
 	<string id="mil_dolg_assault_freedom">
-		<rus>Помочь отряду Долга в устранении Лукаша</rus>
-		<eng>Help the Duty Squad in the Elimination of Lukash</eng>
+		<rus>Помочь отряду "Долга" в устранении Лукаша</rus>
+		<eng>Help the "Duty" Squad in the elimination of Lukash</eng>
 		<ukr>Допомогти загону «Долгу» усунути Лукаша</ukr>
-		<fra>Aider l'escouade du Devoir à éliminer Lukas</fra>
+		<fra>Aider l'escouade du "Devoir" à éliminer Loukach</fra>
 		<pln>Pomóż oddziałowi "Powinności" zlikwidować Łukasza</pln>
 	</string>
 	<string id="mil_kill_lukash">
 		<rus>Убить Лукаша</rus>
 		<eng>Eliminate Lukash</eng>
 		<ukr>Убити Лукаша</ukr>
-		<fra>Eliminer Lukas</fra>
+		<fra>Eliminer Loukach</fra>
 		<pln>Zabij Łukasza</pln>
 	</string>
 	<string id="mil_dolg_assault_support">
 		<rus>Уничтожить снайпера</rus>
 		<eng>Neutralize the sniper</eng>
 		<ukr>Знищити снайпера</ukr>
-		<fra>Neutraliser le tireur d'élite</fra>
+		<fra>Neutraliser le sniper</fra>
 		<pln>Zlikwiduj snajpera</pln>
 	</string>
 	<string id="mil_dolg_return_to_khutor">
-		<rus>Вернуться на хутор Долга и получить гонорар</rus>
-		<eng>Get back to the Duty's Farm and get a fee</eng>
+		<rus>Вернуться на хутор "Долга" и получить гонорар</rus>
+		<eng>Get back to the Duty's hamlet and get the fee</eng>
 		<ukr>Повернутися на хутір «Долгу» та отримати гонорар</ukr>
-		<fra>Retourner à la ferme du Devoir et recevoir ma récompense</fra>
+		<fra>Revenir au hameau du "Devoir" et recevoir la récompense</fra>
 		<pln>Wróć na przysiółek "Powinności" i odbierz nagrodę</pln>
 	</string>
 	<string id="mil_dolg_return_to_skull">
 		<rus>Вернуться к Черепу</rus>
-		<eng>Get back to the Skull</eng>
+		<eng>Rerturn to Cherep</eng>
 		<ukr>Повернутися до Черепа</ukr>
-		<fra>Rejoindre Kran</fra>
+		<fra>Revenir à Tcherep</fra>
 		<pln>Wróć do Czachy</pln>
 	</string>
 	<string id="mil_fblockpost_commander">
 		<rus>Командир блокпоста Кэп</rus>
-		<eng>Roadblock commander Cap</eng>
+		<eng>Captain, the commander of a security checkpoint</eng>
 		<ukr>Командир блокпоста Кеп</ukr>
-		<fra>Casquette du Commandant du point de contrôle</fra>
+		<fra>Capiston, le commandant du point de contrôle</fra>
 		<pln>Dowódca posterunku, Czapa</pln>
 	</string>
 	<string id="mil_fblockpost_phase2">
-		<rus>Помочь в уничтожении прорывающегося отряда Монолита</rus>
-		<eng>Help in elimination of the breakthrough Monolith squad</eng>
+		<rus>Помочь в уничтожении прорывающегося отряда "Монолита"</rus>
+		<eng>Help in elimination of the breaking through "Monolith" squad</eng>
 		<ukr>Допомогти у знищенні загону «Моноліту», що йде на прорив</ukr>
-		<fra>Participer à l'élimination du Monolithe</fra>
+		<fra>Aider à l'élimination de l'escouade de "Monolithe" faisant une percée</fra>
 		<pln>Pomóż zniszczyć oddział uderzeniowy "Monolitu"</pln>
 	</string>
 	<string id="mil_fblockpost_phase3">
 		<rus>Поговорить с командиром Барьера</rus>
-		<eng>Talk to the Barrier commander</eng>
+		<eng>Speak to the Barrier commander</eng>
 		<ukr>Поговорити із командиром Бар'єру</ukr>
-		<fra>Parler au Commandant de l'avant-poste de la Barrière</fra>
+		<fra>Parler au Commandant de la Barrière</fra>
 		<pln>Porozmawiaj z dowódcą posterunku na Barierze</pln>
 	</string>
 	<string id="mil_find_cook">
-		<rus>Найти Повара на базе Свободы</rus>
-		<eng>Find Chef at Freedom Base</eng>
+		<rus>Найти Повара на базе "Свободы"</rus>
+		<eng>Find Chef at the "Freedom" base</eng>
 		<ukr>Знайти Кухаря на базі «Волі»</ukr>
-		<fra>Trouver le Cuisinier de la base Liberté</fra>
+		<fra>Trouver le Cuistot à la base de la "Liberté"</fra>
 		<pln>Znajdź Kucharza w bazie "Wolności"</pln>
 	</string>
 	<string id="mil_freedom_rg6_task">
-		<rus>Достать РГ-6 у Свободы</rus>
-		<eng>Get RG-6 from Freedom</eng>
-		<ukr>Дістати «Бульдог-6» у «Волі»</ukr>
-		<fra>Se procurer un Bulldog 6 de la Liberté</fra>
+		<rus>Достать РГ-6 у "Свободы"</rus>
+		<eng>Get RG-6 from "Freedom"</eng>
+		<ukr>===Дістати РГ-6 у «Волі»</ukr>
+		<fra>Se procurer un RG-6 de la "Liberté"</fra>
 		<pln>Wydobądź RG-6 od "Wolności"</pln>
 	</string>
 	<string id="mil_go_max">
 		<rus>Доложить Максу</rus>
 		<eng>Report to Max</eng>
 		<ukr>Докласти Максові</ukr>
-		<fra>Faire un rapport à Max</fra>
+		<fra>Rapporter à Max</fra>
 		<pln>Zgłoś się do Maksa</pln>
 	</string>
 	<string id="mil_go_to_miser_task">
-		<rus>Сходить на базу Свободы к Скряге за наградой</rus>
-		<eng>Go to the Freedom Base to the Skinflint for the award</eng>
+		<rus>Сходить на базу "Свободы" к Скряге за наградой</rus>
+		<eng>Go to the "Freedom" base to the Skinflint for the award</eng>
 		<ukr>Сходити на базу «Волі» до Скнари за винагородою</ukr>
-		<fra>Rejoindre la base de Liberté pour voir le Radin et obtenir une récompense</fra>
+		<fra>Visiter l'Avare à la base de la "Liberté" pour obtenir la récompense</fra>
 		<pln>Idź do bazy "Wolności", żeby spotkać się z Kutwą i odebrać nagrodę</pln>
 	</string>
 	<string id="mil_go_to_miser_task_main">
 		<rus>Получить награду за убитых кровососов</rus>
 		<eng>Get a reward for the killed bloodsuckers</eng>
 		<ukr>Отримати нагороду за вбитих кровососів</ukr>
-		<fra>Recevoir une recompense pour les sangsues éliminées</fra>
+		<fra>Recevoir la récompense pour les sang-suceurs éliminés</fra>
 		<pln>Odbierz nagrodę za zabicie pijawek</pln>
 	</string>
 	<string id="mil_hunters_phase1">
 		<rus>Найти Угрюмого в деревне</rus>
-		<eng>Find the Morose in the Village</eng>
+		<eng>Find the Morose in the village</eng>
 		<ukr>Знайти Похмурого у селищі</ukr>
-		<fra>Trouver le Magouilleur au village</fra>
+		<fra>Trouver le Grimaud dans le village</fra>
 		<pln>Znajdź Mruka w wiosce</pln>
 	</string>
 	<string id="mil_hunters_phase2">
 		<rus>Уничтожить кровососов</rus>
 		<eng>Eliminate bloodsuckers</eng>
 		<ukr>Знищити кровососів</ukr>
-		<fra>Tuer les sangsues</fra>
+		<fra>Éliminer les sang-suceurs</fra>
 		<pln>Zabij pijawki</pln>
 	</string>
 	<string id="mil_hunters_phase3">
 		<rus>Вернуться к Скряге за артефактом</rus>
-		<eng>Get back to Skinflint for an artifact</eng>
+		<eng>Return to the Skinflint for the artifact</eng>
 		<ukr>Повернутися до Скнари за артефактом</ukr>
-		<fra>Retourner voir le Radin pour l'Artéfact</fra>
+		<fra>Revenir à l'Avare pour l’artefact</fra>
 		<pln>Wróć do Kutwy po artefakt</pln>
 	</string>
 	<string id="mil_hunters_task">
@@ -296,9 +296,9 @@
 	</string>
 	<string id="mil_kill_controller">
 		<rus>Убить кровососов</rus>
-		<eng>Eliminate bloodsuckers</eng>
+		<eng>Kill the bloodsuckers</eng>
 		<ukr>Убити кровососів</ukr>
-		<fra>Tuer les sangsues</fra>
+		<fra>Tuer les sang-suceurs</fra>
 		<pln>Zabij pijawki</pln>
 	</string>
 	<string id="mil_kill_controller_main">
@@ -310,16 +310,16 @@
 	</string>
 	<string id="mil_kill_dolg">
 		<rus>Уничтожить группу</rus>
-		<eng>Destroy the Squad</eng>
+		<eng>Destroy the squad</eng>
 		<ukr>Знищити групу</ukr>
-		<fra>Eliminer l'escouade</fra>
+		<fra>Éliminer l'escouade</fra>
 		<pln>Zlikwiduj oddział "Powinności"</pln>
 	</string>
 	<string id="mil_lukash">
 		<rus>Лукаш</rus>
 		<eng>Lukash</eng>
 		<ukr>Лукаш</ukr>
-		<fra>Lukas</fra>
+		<fra>Loukach</fra>
 		<pln>Łukasz</pln>
 	</string>
 	<string id="mil_max">
@@ -333,56 +333,56 @@
 		<rus>Отдать флешку Максу</rus>
 		<eng>Give the USB flash drive to Max</eng>
 		<ukr>Віддати флешку Максові</ukr>
-		<fra>Donnez à Max la clé USB</fra>
+		<fra>Remettre la clé USB à Max</fra>
 		<pln>Oddaj Maksowi fleszkę</pln>
 	</string>
 	<string id="mil_kill_sniper">
 		<rus>Убить снайпера на вышке</rus>
-		<eng>Eliminate the sniper on the tower</eng>
+		<eng>Kill the sniper on the tower</eng>
 		<ukr>Убити снайпера на вишці</ukr>
 		<fra>Tuer le sniper de la tour</fra>
 		<pln>Zabij snajpera na wieży</pln>
 	</string>
 	<string id="mil_quest_report_dolg">
-		<rus>Сообщить о выполнении группе Долга</rus>
-		<eng>Report to the Duty Squad about accomplishment</eng>
+		<rus>Сообщить о выполнении группе "Долга"</rus>
+		<eng>Report to the "Duty" squad about accomplishment</eng>
 		<ukr>Повідомити про виконання групі «Долгу»</ukr>
-		<fra>Faire un rapport sur la mission à l'équipe du Devoir</fra>
+		<fra>Faire un rapport sur la mission à l'escouade du "Devoir"</fra>
 		<pln>Zdaj raport z zadania oddziałowi "Powinności"</pln>
 	</string>
 	<string id="mil_return_lukash">
 		<rus>Вернуться к Лукашу</rus>
 		<eng>Return to Lukash</eng>
 		<ukr>Повернутися до Лукаша</ukr>
-		<fra>Retourner voir Lukas</fra>
+		<fra>Revenir à Loukach</fra>
 		<pln>Wróć do Łukasza</pln>
 	</string>
 	<string id="mil_return_to_ugrumy">
 		<rus>Сообщить Угрюмому о выполнении</rus>
 		<eng>Tell Morose about the accomplishment</eng>
 		<ukr>Повідомити Похмурому про виконання завдання</ukr>
-		<fra>Faire un rapport au Magouilleur sur la mission</fra>
+		<fra>Faire un rapport au Grimaud sur la mission</fra>
 		<pln>Zdaj raport z zadania Mrukowi</pln>
 	</string>
 	<string id="mil_return_to_voronin">
 		<rus>Отнести РГ-6 генералу Воронину</rus>
 		<eng>Take RG-6 to General Voronin</eng>
-		<ukr>Віднести «Бульдог-6» генералові Вороніну</ukr>
+		<ukr>===Віднести РГ-6 генералові Вороніну</ukr>
 		<fra>Apporter le Bulldog RG-6 au Général Voronin</fra>
 		<pln>Przynieś RG-6 generałowi Woroninowi</pln>
 	</string>
 	<string id="mil_rg6">
 		<rus>Найти РГ-6</rus>
 		<eng>Find RG-6</eng>
-		<ukr>Знайти «Бульдог-6»</ukr>
-		<fra>Trouver un Bulldog RG-6</fra>
+		<ukr>===Знайти РГ-6</ukr>
+		<fra>Trouver un RG-6</fra>
 		<pln>Znajdź RG-6</pln>
 	</string>
 	<string id="mil_secret">
 		<rus>Схрон бандитов</rus>
 		<eng>Bandits stash</eng>
 		<ukr>Схрон бандитів</ukr>
-		<fra>Cachette des Bandits.</fra>
+		<fra>Cache des Bandits.</fra>
 		<pln>Magazyn bandytów</pln>
 	</string>
 	<string id="mil_sniper">
@@ -396,7 +396,7 @@
 		<rus>Получить флешку у безумного снайпера</rus>
 		<eng>Get a USB flash from a crazy sniper</eng>
 		<ukr>Отримати флешку в божевільного снайпера</ukr>
-		<fra>Obtenir une clé USB du Stalker Fou.</fra>
+		<fra>Obtenir une clé USB du Stalker fou.</fra>
 		<pln>Zdobądź fleszkę szalonego snajpera</pln>
 	</string>
 	<string id="mil_talk_cook">
@@ -407,10 +407,10 @@
 		<pln>Porozmawiaj z Kucharzemm</pln>
 	</string>
 	<string id="mil_talk_with_cap">
-		<rus>Поговорить с командиром блокпоста Свободы Кепом</rus>
-		<eng>Talk to the Freedom roadblock commander Cap</eng>
-		<ukr>Поговорити із командиром блокпоста «Волі» Кепом</ukr>
-		<fra>Parler à Cap, le Commandant de l'avant-poste de la Faction de la Liberté</fra>
+		<rus>Поговорить с Кэпом, командиром блокпоста "Свободы"</rus>
+		<eng>Speak to Captain, the commander of the "Freedom" security checkpoint</eng>
+		<ukr>===Поговорити із Кепом, командиром блокпоста «Волі»</ukr>
+		<fra>Parler à Capiston, le commandant du point de contrôle de la "Liberté"</fra>
 		<pln>Porozmawiaj z Czapą, dowódcą posterunku "Wolności"</pln>
 	</string>
 	<string id="mil_test_task_phase1">
@@ -445,168 +445,168 @@
 		<rus>Угрюмый</rus>
 		<eng>Morose</eng>
 		<ukr>Похмурий</ukr>
-		<fra>Le Magouilleur</fra>
+		<fra>Grimaud</fra>
 		<pln>Mruk</pln>
 	</string>
 	<string id="mil_lukash_job">
-		<rus>Уничтожить группу Долга</rus>
-		<eng>Eliminate the Duty Squad</eng>
+		<rus>Уничтожить группу "Долга"</rus>
+		<eng>Eliminate the "Duty" squad</eng>
 		<ukr>Знищити групу «Долгу»</ukr>
-		<fra>Eliminer l'escouade du Devoir</fra>
+		<fra>Éliminer l'escouade du "Devoir"</fra>
 		<pln>Zlikwiduj oddział "Powinności"</pln>
 	</string>
 	<string id="esc_bandits_on_factory">
 		<rus>Уничтожить бандитов на фабрике</rus>
 		<eng>Eliminate the bandits at the factory</eng>
 		<ukr>Знищити бандитів на фабриці</ukr>
-		<fra>Eliminer les bandits de l'usine</fra>
+		<fra>Éliminer les bandits à l'usine</fra>
 		<pln>Zabij bandytów w fabryce</pln>
 	</string>
 	<string id="esc_bandits_on_factory_0">
 		<rus>Уничтожить бандитов, засевших на фабрике</rus>
 		<eng>Eliminate the bandits settled at the factory</eng>
 		<ukr>Знищити бандитів, що засіли на фабриці</ukr>
-		<fra>Eliminer les bandits qui campent à l'usine</fra>
+		<fra>Éliminer les bandits qui campent à l'usine</fra>
 		<pln>Zabij ukrywających się w fabryce bandytów</pln>
 	</string>
 	<string id="esc_bandits_on_factory_1">
 		<rus>Убить всех бандитов на фабрике</rus>
 		<eng>Kill all the bandits in the factory</eng>
 		<ukr>Убити всіх бандитів на фабриці</ukr>
-		<fra>Tuer les bandits de l'usine</fra>
+		<fra>Tuer les bandits à l'usine</fra>
 		<pln>Zabij wszystkich bandytów w fabryce</pln>
 	</string>
 	<string id="esc_bandits_on_factory_2">
 		<rus>Поговорить с торговцем</rus>
-		<eng>Talk to merchant</eng>
+		<eng>Speak to the merchant</eng>
 		<ukr>Поговорити із Крамаром</ukr>
-		<fra>Parler avec le marchand</fra>
+		<fra>Parler au marchand</fra>
 		<pln>Porozmawiaj z handlarzem</pln>
 	</string>
 	<string id="esc_bandits_on_factory_3">
 		<rus>Поговорить с Волком</rus>
-		<eng>Talk to the Wolf</eng>
+		<eng>Speak to the Wolf</eng>
 		<ukr>Поговорити із Вовком</ukr>
-		<fra>Parler avec le Loup</fra>
+		<fra>Parler au Loup</fra>
 		<pln>Porozmawiaj z Wilkiem</pln>
 	</string>
 	<string id="esc_blockpost_case_to_trader">
 		<rus>Украсть ящик с блокпоста</rus>
-		<eng>Steal a box from a roadblock</eng>
+		<eng>Steal the box from a security checkpoint</eng>
 		<ukr>Викрасти ящик із блокпоста</ukr>
-		<fra>Voler la mallette du barrage</fra>
+		<fra>Voler la mallette du point de contrôle</fra>
 		<pln>Ukraść walizkę z posterunku</pln>
 	</string>
 	<string id="esc_blockpost_case_to_trader_0">
 		<rus>Украсть с блокпоста ящик с важными документами</rus>
-		<eng>Steal a box with important documents from a roadblock</eng>
+		<eng>Steal a box with important documents from a security checkpoint</eng>
 		<ukr>Викрасти із блокпоста ящик із важливими документами</ukr>
 		<fra>Voler la mallette contenant des documents importants au point de contrôle</fra>
 		<pln>Ukradnij walizkę z posterunku wojskowego</pln>
 	</string>
 	<string id="esc_blockpost_case_to_trader_1">
 		<rus>Украсть ящик с блокпоста</rus>
-		<eng>Steal a box from a roadblock</eng>
+		<eng>Steal a box from a security checkpoint</eng>
 		<ukr>Викрасти ящик із блокпоста</ukr>
 		<fra>Voler la mallette du point de contrôle</fra>
 		<pln>Ukradnij z posterunku wojskowego walizkę z ważnymi dokumentami</pln>
 	</string>
 	<string id="esc_blockpost_case_to_trader_2">
 		<rus>Принести ящик торговцу</rus>
-		<eng>Bring box to merchant</eng>
+		<eng>Bring the box to the merchant</eng>
 		<ukr>Принести ящик Крамарові</ukr>
-		<fra>Ramener la mallette au marchand</fra>
+		<fra>Apporter la mallette au marchand</fra>
 		<pln>Zanieś walizkę do handlarza</pln>
 	</string>
 	<string id="esc_defend_lager">
 		<rus>Защитить лагерь новичков от наёмников</rus>
-		<eng>Protect the newbie camp from mercenaries</eng>
+		<eng>Protect the novices camp from the mercenaries</eng>
 		<ukr>Захистити табір новачків від найманців</ukr>
-		<fra>Protéger le camp des débutants d'une attaque des Mercenaires</fra>
+		<fra>Protéger le camp des novices d'une attaque des mercenaires</fra>
 		<pln>Obroń obóz nowicjuszy przed najemnikami</pln>
 	</string>
 	<string id="esc_defend_lager_from_killers">
 		<rus>Защитить лагерь новичков от наёмников</rus>
-		<eng>Protect the newbie camp from mercenaries</eng>
+		<eng>Protect the novices camp from the mercenaries</eng>
 		<ukr>Захистити табір новачків від найманців</ukr>
-		<fra>Protéger le camp des bleus contre les Mercenaires</fra>
+		<fra>Protéger le camp des novices contre les mercenaires</fra>
 		<pln>Obroń obóz nowicjuszy przed najemnikami</pln>
 	</string>
 	<string id="esc_defend_lager_from_killers_0">
 		<rus>Защитить лагерь новичков от наёмников</rus>
-		<eng>Protect the newbie camp from mercenaries</eng>
+		<eng>Protect the newbie camp from the mercenaries</eng>
 		<ukr>Захистити табір новачків від найманців</ukr>
-		<fra>Protéger le camp des bleus contre les Mercenaires</fra>
+		<fra>Protéger le camp des bleus contre les mercenaires</fra>
 		<pln>Obroń obóz nowicjuszy przed najemnikami</pln>
 	</string>
 	<string id="esc_defend_lager_from_killers_1">
 		<rus>Уничтожить отряд наёмников</rus>
-		<eng>Destroy the squad of mercenaries</eng>
+		<eng>Destroy the squad of the mercenaries</eng>
 		<ukr>Знищити загін найманців</ukr>
-		<fra>Détruire le commando des Mercenaires</fra>
+		<fra>Détruire le escouade des mercenaires</fra>
 		<pln>Zlikwiduj najemników</pln>
 	</string>
 	<string id="esc_defend_lager_from_killers_2">
 		<rus>Поговорить с командиром новичков</rus>
-		<eng>Talk to the newbies commander</eng>
+		<eng>Speak to the novices commander</eng>
 		<ukr>Поговорити із командиром новачків</ukr>
-		<fra>Parler au chef des débutants</fra>
+		<fra>Parler au chef des novices</fra>
 		<pln>Porozmawiaj z dowódcą nowicjuszy</pln>
 	</string>
 	<string id="esc_dinamit_to_volk">
 		<rus>Уничтожить бандитов на АТП</rus>
-		<eng>Destroy the bandits at Motor Vehicle Depot</eng>
+		<eng>Destroy the bandits at the MTE</eng>
 		<ukr>Знищити бандитів на АТП</ukr>
-		<fra>Tuer les bandits à l'ATP</fra>
+		<fra>Éliminer les bandits à l'ETR</fra>
 		<pln>Zabij bandytów w bazie transportowej ATP</pln>
 	</string>
 	<string id="esc_dinamit_to_volk_0">
 		<rus>Уничтожить бандитов на АТП и отчитаться перед Волком</rus>
-		<eng>Eliminate the bandits at the ATE and report to the Wolf</eng>
+		<eng>Eliminate the bandits at the MTE and report to the Wolf</eng>
 		<ukr>Знищити бандитів на АТП і відзвітувати перед Вовком</ukr>
-		<fra>Tuer les bandits de l'ATP et faite un compte rendu au Loup</fra>
+		<fra>Éliminer les bandits de l'ETR et faire un compte rendu au Loup</fra>
 		<pln>Zabij bandytów w bazie transportowej ATP i zgłoś się do Wilka</pln>
 	</string>
 	<string id="esc_dinamit_to_volk_1">
 		<rus>Встретиться с людьми Волка</rus>
 		<eng>Meet the Wolf's people</eng>
 		<ukr>Зустрітися із людьми Вовка</ukr>
-		<fra>Rencontrer les amis du Loup</fra>
+		<fra>Rencontrer les gens du Loup</fra>
 		<pln>Spotkaj się z ludźmi Wilka</pln>
 	</string>
 	<string id="esc_dinamit_to_volk_2">
 		<rus>Уничтожить всех бандитов</rus>
 		<eng>Eliminate all the bandits</eng>
 		<ukr>Знищити всіх бандитів</ukr>
-		<fra>Eliminer les bandits</fra>
+		<fra>Éliminer tous les bandits</fra>
 		<pln>Zabij wszystkich bandytów</pln>
 	</string>
 	<string id="esc_dinamit_to_volk_3">
 		<rus>Поговорить с Волком</rus>
-		<eng>Talk to the Wolf</eng>
+		<eng>Speak to the Wolf</eng>
 		<ukr>Поговорити з Вовком</ukr>
 		<fra>Parler au Loup</fra>
 		<pln>Porozmawiaj z Wilkiem</pln>
 	</string>
 	<string id="esc_help_wounded_from_raid">
 		<rus>Узнать у Лиса о Стрелке</rus>
-		<eng>Enquire about Strelok from Fox</eng>
+		<eng>Ask the Fox about Strelok</eng>
 		<ukr>Довідатися в Лиса про Стрільця</ukr>
-		<fra>Demander à Fox des renseignements sur Strelok</fra>
+		<fra>Interroger le Renard sur Strelok</fra>
 		<pln>Pogadaj z Lisem o Striełoku</pln>
 	</string>
 	<string id="esc_help_wounded_from_raid_0">
 		<rus>Оказать помощь раненому сталкеру</rus>
-		<eng>Help an injured stalker</eng>
+		<eng>Help the injured stalker</eng>
 		<ukr>Надати допомогу пораненому сталкерові</ukr>
-		<fra>Aider un Stalker blessé</fra>
+		<fra>Aider le stalker blessé</fra>
 		<pln>Pomóż rannemu stalkerowi</pln>
 	</string>
 	<string id="esc_help_wounded_from_raid_1">
 		<rus>Помочь Лису</rus>
 		<eng>Help the Fox</eng>
 		<ukr>Допомогти Лисові</ukr>
-		<fra>Aider Fox</fra>
+		<fra>Aider le Renard</fra>
 		<pln>Pomóż Lisowi</pln>
 	</string>
 	<string id="esc_help_wounded_from_raid_2">
@@ -618,52 +618,52 @@
 	</string>
 	<string id="esc_wounded_to_trader_gift">
 		<rus>Доставить пакет торговцу</rus>
-		<eng>Deliver package to merchant</eng>
+		<eng>Deliver package to the merchant</eng>
 		<ukr>Доставити пакет Крамарові</ukr>
 		<fra>Livrer le colis au marchand</fra>
 		<pln>Dostarcz paczkę handlarzowi</pln>
 	</string>
 	<string id="esc_wounded_to_trader_gift_0">
 		<rus>Доставить пакет торговцу; он сможет помочь</rus>
-		<eng>Deliver package to merchant; he can help</eng>
+		<eng>Deliver a package to the merchant; he can help</eng>
 		<ukr>Доставити пакет Крамарові. Він зможе тобі допомогти.</ukr>
-		<fra>Livrer le colis au marchand car il peut vous aider</fra>
+		<fra>Livrer le colis au marchand; il peut aider</fra>
 		<pln>Dostarcz paczkę handlarzowi. On ci pomoże</pln>
 	</string>
 	<string id="garbage_meet_stalker">
 		<rus>Встретиться с Серым</rus>
-		<eng>Meet with Seriy</eng>
+		<eng>Meet the Grey</eng>
 		<ukr>Зустрітися із Сірим</ukr>
-		<fra>Rencontrer Seriy</fra>
+		<fra>Rencontrer le Gris</fra>
 		<pln>Spotkaj się z Sieryjem</pln>
 	</string>
 	<string id="garbage_meet_stalker_0">
 		<rus>Встретиться с Серым на Свалке</rus>
-		<eng>Meet with Seriy at the Dump</eng>
+		<eng>Meet the Grey at the Dump</eng>
 		<ukr>Зустрітися із Сірим на Звалищі</ukr>
-		<fra>Rencontrer Seriy à la Décharge</fra>
+		<fra>Rencontrer le Gris à la Décharge</fra>
 		<pln>Spotkaj się z Sieryjem na Wysypisku</pln>
 	</string>
 	<string id="meet_with_doctor">
 		<rus>Встретиться с Доктором</rus>
-		<eng>Meet with the Doctor</eng>
+		<eng>Meet the Doctor</eng>
 		<ukr>Зустрітися із Доктором</ukr>
 		<fra>Rencontrer le Docteur</fra>
 		<pln>Spotkaj się z Doktorem</pln>
 	</string>
 	<string id="meet_with_doctor_1">
 		<rus>Встретиться с Доктором</rus>
-		<eng>Meet with the Doctor</eng>
+		<eng>Meet the Doctor</eng>
 		<ukr>Зустрітися із Доктором</ukr>
-		<fra>Rencontre avec le Docteur</fra>
+		<fra>Rencontre le Docteur</fra>
 		<pln>Spotkaj się z Doktorem</pln>
 	</string>
 	<string id="meet_with_doctor_2">
-		<rus>Встретиться с Доктором в тайнике Стрелка</rus>
-		<eng>Meet with the Doctor in the Strelok's hiding</eng>
-		<ukr>Зустрітися із Доктором у схованці Стрільця</ukr>
-		<fra>Rencontrer le Docteur dans la cachette secrète de Strelok</fra>
-		<pln>Spotkaj się z Doktorem w kryjówce Striełoka</pln>
+		<rus>Встретиться с Доктором в тайном убежище Стрелка</rus>
+		<eng>Meet the Doctor in the Strelok's hiding</eng>
+		<ukr>===Зустрітися із Доктором у схованці Стрільця</ukr>
+		<fra>Rencontrer le Docteur dans la retraite secrète de Strelok</fra>
+		<pln>===Spotkaj się z Doktorem w kryjówce Striełoka</pln>
 	</string>
 	<string id="storyline_escape_eliminate_gunslinger">
 		<rus>Убить Стрелка</rus>
@@ -674,7 +674,7 @@
 	</string>
 	<string id="storyline_escape_find_gunslinger">
 		<rus>Найти Стрелка</rus>
-		<eng>Find the Strelok</eng>
+		<eng>Find Strelok</eng>
 		<ukr>Знайти Стрільця</ukr>
 		<fra>Trouver Strelok</fra>
 		<pln>Znajdź Striełoka</pln>
@@ -683,70 +683,70 @@
 		<rus>Найти артефакт</rus>
 		<eng>Find the artifact</eng>
 		<ukr>Знайти артефакт</ukr>
-		<fra>Trouver l'Artéfact</fra>
+		<fra>Trouver l’artefact</fra>
 		<pln>Znajdź artefakt</pln>
 	</string>
 	<string id="tutorial_find_artefact_0">
 		<rus>Найти свой первый артефакт</rus>
 		<eng>Find your first artifact</eng>
 		<ukr>Знайти свій перший артефакт</ukr>
-		<fra>Trouver votre premier Artéfact</fra>
+		<fra>Trouver votre premier artefact</fra>
 		<pln>Znajdź swój pierwszy artefakt</pln>
 	</string>
 	<string id="tutorial_find_artefact_1">
 		<rus>Найти артефакт</rus>
-		<eng>Find Artifact</eng>
+		<eng>Find the artifact</eng>
 		<ukr>Знайти артефакт</ukr>
-		<fra>Trouver l'Artéfact</fra>
+		<fra>Trouver l’artefact</fra>
 		<pln>Znajdź artefakt</pln>
 	</string>
 	<string id="tutorial_find_artefact_2">
 		<rus>Принести артефакт торговцу</rus>
 		<eng>Bring an artifact to the merchant</eng>
 		<ukr>Принести артефакт Крамарові</ukr>
-		<fra>Apporter l'Artéfact au marchand</fra>
+		<fra>Apporter l’artefact au marchand</fra>
 		<pln>Zanieś artefakt do handlarza</pln>
 	</string>
 	<string id="tutorial_help_wounded">
 		<rus>Забрать информацию у разведчика</rus>
 		<eng>Take the information from the scout</eng>
 		<ukr>Забрати інформацію в розвідника</ukr>
-		<fra>Obtenir des infos auprès de l'Eclaireur</fra>
+		<fra>Obtenir des infos auprès de l’éclaireur</fra>
 		<pln>Zdobądź informacje od zwiadowcy</pln>
 	</string>
 	<string id="tutorial_help_wounded_0">
 		<rus>Принести информацию торговцу</rus>
-		<eng>Bring information to merchant</eng>
+		<eng>Bring the information to the merchant</eng>
 		<ukr>Принести інформацію Крамарові</ukr>
 		<fra>Rapporter les infos au marchand</fra>
 		<pln>Dostarcz informacje handlarzowi</pln>
 	</string>
 	<string id="tutorial_help_wounded_1">
 		<rus>Поговорить с Волком</rus>
-		<eng>Talk to the Wolf</eng>
+		<eng>Speak to the Wolf</eng>
 		<ukr>Поговорити з Вовком</ukr>
 		<fra>Parler au Loup</fra>
 		<pln>Porozmawiaj z Wilkiem</pln>
 	</string>
 	<string id="tutorial_help_wounded_2">
 		<rus>Взять у Шустрого флешку</rus>
-		<eng>Take a Flash drive from Nimble</eng>
+		<eng>Take a flash drive from the Nimble</eng>
 		<ukr>Взяти у Спритного флешку</ukr>
-		<fra>Prendre la clé USB à Tolik</fra>
+		<fra>Prendre la clé USB de l'Agile</fra>
 		<pln>Zdobądź fleszkę od Żwawego</pln>
 	</string>
 	<string id="tutorial_help_wounded_3">
 		<rus>Принести флешку торговцу</rus>
-		<eng>Bring a Flash drive to a merchant</eng>
+		<eng>Bring the flash drive to the merchant</eng>
 		<ukr>Принести флешку Крамарові</ukr>
-		<fra>Apporter la clé au marchand</fra>
+		<fra>Apporter la clé USB au marchand</fra>
 		<pln>Zanieś fleszkę handlarzowi</pln>
 	</string>
 	<string id="esc_trader_job">
 		<rus>Работа на торговца</rus>
 		<eng>Work for a merchant</eng>
 		<ukr>Робота на Крамара</ukr>
-		<fra>Travailler pour le marchand.</fra>
+		<fra>Travaille pour le marchand</fra>
 		<pln>Praca dla handlarza</pln>
 	</string>
 	<string id="esc_trader_job_text">
@@ -760,7 +760,7 @@
 		<rus>Работа на Бармена</rus>
 		<eng>Work for the Barman</eng>
 		<ukr>Робота на Бармена</ukr>
-		<fra>Travailler pour le Barman</fra>
+		<fra>Travaille pour le Barman</fra>
 		<pln>Praca dla Barmana</pln>
 	</string>
 	<string id="bar_barman_job_text">
@@ -774,56 +774,56 @@
 		<rus>Помощь учёным</rus>
 		<eng>Help the scientists</eng>
 		<ukr>Допомога вченим</ukr>
-		<fra>Aider les Scientifiques</fra>
+		<fra>Aider les savants</fra>
 		<pln>Pomóż naukowcom</pln>
 	</string>
 	<string id="yan_scientist_job_text">
 		<rus>Предложить свою помощь учёным</rus>
-		<eng>Offer your help to scientists</eng>
+		<eng>Offer your help to the scientists</eng>
 		<ukr>Запропонувати свою допомогу вченим</ukr>
-		<fra>Offrir votre aide aux scientifiques</fra>
+		<fra>Offrir votre aide aux savants</fra>
 		<pln>Zaoferuj pomoc naukowcom</pln>
 	</string>
 	<string id="find_railroad_passage">
 		<rus>Пробраться за железнодорожную насыпь</rus>
-		<eng>Find way through the railway embankment</eng>
+		<eng>Find a way through the railway embankment</eng>
 		<ukr>Пробратися за залізничний насип</ukr>
-		<fra>Trouver le passage au remblai de chemin de fer</fra>
+		<fra>Trouver le passage à travers le remblai du chemin de fer</fra>
 		<pln>Idź za nasyp kolejowy</pln>
 	</string>
 	<string id="find_railroad_passage_1">
 		<rus>Встретиться с провожатым</rus>
-		<eng>Meet the guide</eng>
+		<eng>Meet the accompanier</eng>
 		<ukr>Зустрітися із проводирем</ukr>
-		<fra>Rencontrer le Guide</fra>
+		<fra>Rencontrer l'accompagnant</fra>
 		<pln>Spotkaj się z przewodnikiem</pln>
 	</string>
 	<string id="find_railroad_passage_2">
 		<rus>Пересечь железнодорожную насыпь</rus>
 		<eng>Cross the railway embankment</eng>
 		<ukr>Перетнути залізничний насип</ukr>
-		<fra>Traverser le remblai</fra>
+		<fra>Traverser le remblai du chemin de fer</fra>
 		<pln>Przejdź przez nasyp kolejowy</pln>
 	</string>
 	<string id="find_railroad_passage_text">
-		<rus>Прежде чем углубиться в Зону, необходимо пересечь старую железнодорожную насыпь. Единственный безопасный проход в ней охраняется военным. Однако есть небольшой тоннель слева, новички обычно ходят через него. Там тебя будет ждать один из моих должников.</rus>
-		<eng>Before you deepen into the Zone, you must cross the old railway embankment. The only safe passage is guarded by the military. However, there is a small tunnel on the left, beginners usually walk through it. There you will be one of my debtors waiting for you.</eng>
+		<rus>Прежде чем углубиться в Зону, необходимо пересечь старую железнодорожную насыпь. Единственный безопасный проход в ней охраняется военными. Однако есть небольшой тоннель слева, новички обычно ходят через него. Там тебя будет ждать один из моих должников.</rus>
+		<eng>Before deepen into the Zone, one must cross the old railway embankment. The only safe passage is guarded by the militaries. However, there is a small tunnel on the left, novices usually walk through it. There will be one of my debtors waiting for you.</eng>
 		<ukr>Перш ніж заглибитися у Зону, необхідно перетнути старий залізничний насип. Єдиний безпечний прохід у ньому охороняється військовими. Однак є невеликий тунель ліворуч, новачки зазвичай ходять через нього. Там тебе чекатиме один з моїх боржників.</ukr>
-		<fra>Avant de s'enfoncer dans la Zone il faut traverser le remblai du chemin de fer.Il n'y a qu'un seul passage sur, tenu par les militaires. Sur la gauche il y a un tunnel que les novices utilisent parfois.L'un de mes clients vous y attendra.</fra>
+		<fra>Avant de s'enfoncer dans la Zone il faut traverser le remblai du chemin de fer. Le seul passage sur est gardé par les militaires. Mais il y a un petit tunnel à la gauche, les débutants le traversent généralement. L'un de mes obligés t'y attendra.</fra>
 		<pln>Zanim zagłębisz się w Zonę, musisz przejść przez stary nasyp kolejowy. Jedynego bezpiecznego przejścia strzegą wojskowi. Ale na lewo jest niewielki tunel, z którego zazwyczaj korzystają nowicjusze. Tam będzie na ciebie czekał jeden z moich dłużników.</pln>
 	</string>
 	<string id="esc_test_prinesti_britvu">
 		<rus>Принести бритву</rus>
 		<eng>Bring the razor</eng>
 		<ukr>Принести бритву</ukr>
-		<fra>Trouver un rasoir</fra>
+		<fra>Apporter le rasoir</fra>
 		<pln>Przynieś brzytwę</pln>
 	</string>
 	<string id="esc_test_prinesti_britvu_1">
 		<rus>Найти бритву в нычке у Волка</rus>
 		<eng>Find the razor in the Wolf's stash</eng>
 		<ukr>Знайти бритву в ничці у Вовка</ukr>
-		<fra>Trouver un rasoir dans la cache du Loup</fra>
+		<fra>Trouver le rasoir dans la cache du Loup</fra>
 		<pln>Znajdź brzytwę w schowku Wilka</pln>
 	</string>
 	<string id="esc_test_prinesti_britvu_2">
@@ -834,10 +834,10 @@
 		<pln>Zanieś brzytwę Wilkowi</pln>
 	</string>
 	<string id="bar_bring_hunter_rifle">
-		<rus>Вернуть охотнику фамильное ружьё</rus>
+		<rus>Вернуть Охотнику фамильное ружьё</rus>
 		<eng>Return the Hunter's family gun</eng>
 		<ukr>Повернути мисливцеві фамільну рушницю</ukr>
-		<fra>Rendre son fusil de famille au Chasseur</fra>
+		<fra>Rendre au Chasseur son fusil de famille</fra>
 		<pln>Oddaj Łowcy rodową broń</pln>
 	</string>
 	<string id="bar_bring_PDA_lucky">
@@ -855,38 +855,38 @@
 		<pln>Zabij oszalałych weteranów</pln>
 	</string>
 	<string id="bar_dolg_base_rules">
-		<rus>Отметиться у начальника охраны Долга</rus>
-		<eng>Check with the Duty security chief officer</eng>
+		<rus>Отметиться у начальника охраны "Долга"</rus>
+		<eng>Check in with the chief of the "Duty" security</eng>
 		<ukr>Відмітитися в начальника охорони «Долгу»</ukr>
-		<fra>S'engager auprès du Commandant des gardes du Devoir</fra>
+		<fra>S'enregistrer avec le commandant des gardes du "Devoir"</fra>
 		<pln>Zgłoś się do dowódcy straży "Powinności"</pln>
 	</string>
 	<string id="bar_dolg_base_rules_fin">
 		<rus>Вернуться к Бармену</rus>
-		<eng>Get back to the Barkeep</eng>
+		<eng>Return to the Barkeep</eng>
 		<ukr>Повернутися до Бармена</ukr>
-		<fra>Retourner auprès du Barman</fra>
+		<fra>Revenir au Barman</fra>
 		<pln>Wróć do Barmana</pln>
 	</string>
 	<string id="bar_dolg_base_rules_talk">
-		<rus>Найти начальника охраны Долга и отметиться у него</rus>
-		<eng>Find the Duty security chief officer and check in with him</eng>
+		<rus>Найти начальника охраны "Долга" и отметиться у него</rus>
+		<eng>Find the "Duty" security chief officer and check in with him</eng>
 		<ukr>Знайти начальника охорони «Долгу» і відмітитися в нього</ukr>
-		<fra>Trouver le commandant des gardes du Devoir et s'entretenir avec lui</fra>
+		<fra>Trouver le commandant des gardes du "Devoir" et s'enregistrer avec lui</fra>
 		<pln>Znajdź dowódcę straży "Powinności" i zamelduj się</pln>
 	</string>
 	<string id="bar_dolg_bring_rg6">
 		<rus>Добыть РГ-6 для генерала Воронина</rus>
-		<eng>Obtain RG-6 for General Voronin</eng>
-		<ukr>Здобути «Бульдог-6» для генерала Вороніна</ukr>
-		<fra>Se procurer un Bulldog 6 pour le Général Voronin</fra>
+		<eng>Obtain RG-6 for general Voronin</eng>
+		<ukr>===Здобути РГ-6 для генерала Вороніна</ukr>
+		<fra>Se procurer un RG-6 pour le général Voronin</fra>
 		<pln>Zdobądź RG-6 dla Woronina</pln>
 	</string>
 	<string id="bar_dolg_community_quest">
-		<rus>Вступление в группировку Долг</rus>
-		<eng>Joining the Duty</eng>
+		<rus>Вступление в группировку "Долг"</rus>
+		<eng>Joining the "Duty"</eng>
 		<ukr>Вступ до угруповання «Долг»</ukr>
-		<fra>Rejoindre la Faction du Devoir</fra>
+		<fra>Rejoindre la faction du "Devoir"</fra>
 		<pln>Wstąp do ugrupowania "Powinność"</pln>
 	</string>
 	<string id="bar_dolg_community_quest_prisyaga">
@@ -898,86 +898,86 @@
 	</string>
 	<string id="bar_dolg_community_quest_recomendation">
 		<rus>Получить рекомендацию капитана Иванцова</rus>
-		<eng>Get the recommendation of Captain Ivantsov</eng>
+		<eng>Get the recommendation of captain Ivantsov</eng>
 		<ukr>Отримати рекомендацію капітана Іванцова</ukr>
-		<fra>Obtenir une référence du Capitaine Ivantsov</fra>
+		<fra>Obtenir une référence du capitaine Ivantsov</fra>
 		<pln>Zdobądź referencje od kapitana Iwancowa</pln>
 	</string>
 	<string id="bar_dolg_community_quest_vernost">
-		<rus>Доказать свою верность Долгу</rus>
-		<eng>Prove your loyalty to Duty</eng>
+		<rus>Доказать свою верность "Долгу"</rus>
+		<eng>Prove your loyalty to the "Duty"</eng>
 		<ukr>Довести свою вірність «Долгу»</ukr>
-		<fra>Prouver votre loyauté au Devoir</fra>
+		<fra>Prouver votre loyauté au "Devoir"</fra>
 		<pln>Udowodnij swoją lojalność wobec "Powinności"</pln>
 	</string>
 	<string id="bar_dolg_find_cook">
-		<rus>Втереться в доверие к Повару из Свободы и узнать, где хранится РГ-6</rus>
-		<eng>Wriggle into favour of the Chef from Liberty and find out where the RG-6 is hidden</eng>
-		<ukr>Увійти в довіру до кухаря «Волі» й довідатися, де зберігається «Бульдог-6»</ukr>
-		<fra>Gagner la confiance du Cuisinier de la Liberté et découvrir où se trouve le Bulldog 6</fra>
+		<rus>Втереться в доверие к Повару из "Свободы" и узнать, где хранится РГ-6</rus>
+		<eng>Wriggle into favour of the Chef from the "Liberty" and find out where the RG-6 is hidden</eng>
+		<ukr>===Увійти в довіру до кухаря «Волі» й довідатися, де зберігається РГ-6</ukr>
+		<fra>Gagner la confiance du Cuistot de la "Liberté" et découvrir où se trouve le RG-6</fra>
 		<pln>Wkradnij się w zaufanie Kucharza z "Wolności" i dowiedz się, gdzie trzymają RG-6</pln>
 	</string>
 	<string id="bar_dolg_find_rg6">
-		<rus>Проникнуть на территорию группировки Свобода, найти и выкрасть РГ-6</rus>
-		<eng>Infiltrate into the territory of the Freedom, find and steal RG-6</eng>
-		<ukr>Проникнути на територію угруповання «Волі», знайти і вкрасти «Бульдог-6»</ukr>
-		<fra>Infiltrer la base de la Liberté, trouver et voler un Bulldog 6</fra>
+		<rus>Проникнуть на территорию группировки "Свобода", найти и выкрасть РГ-6</rus>
+		<eng>Infiltrate into the territory of the "Freedom", find and steal RG-6</eng>
+		<ukr>===Проникнути на територію угруповання «Волі», знайти і вкрасти РГ-6</ukr>
+		<fra>Infiltrer la base de la "Liberté", trouver et voler un RG-6</fra>
 		<pln>Zbadaj bazę "Wolności", znajdź i ukradnij RG-6</pln>
 	</string>
 	<string id="bar_dolg_info_gain">
 		<rus>Найти перехваченную информацию о лаборатории X-18</rus>
 		<eng>Find intercepted information about the X-18 lab</eng>
 		<ukr>Знайти перехоплену інформацію про лабораторію X-18</ukr>
-		<fra>Trouver les informations interceptées sur le Laboratoire X18</fra>
+		<fra>Trouver les informations interceptées sur le Laboratoire X-18</fra>
 		<pln>Znajdź przechwycone informacje o laboratorium X-18</pln>
 	</string>
 	<string id="bar_dolg_kill_tiran">
 		<rus>Убить Тирана, предводителя отряда</rus>
-		<eng>Kill Tiran, the squad leader</eng>
+		<eng>Kill the Tyrant, the squad leader</eng>
 		<ukr>Убити Тирана, проводиря загону</ukr>
-		<fra>Tuer Tyran, le chef d'équipe</fra>
+		<fra>Tuer le Tyran, le chef d'escouade</fra>
 		<pln>Zabij Tyrana, dowódcę oddziału</pln>
 	</string>
 	<string id="bar_dolg_return_info">
 		<rus>Вернуть информацию о лаборатории X-18 генералу Воронину</rus>
-		<eng>Retake information about the X-18 laboratory to General Voronin</eng>
+		<eng>Return information about the X-18 laboratory to general Voronin</eng>
 		<ukr>Повернути інформацію про лабораторію X-18 генералові Вороніну</ukr>
-		<fra>Apporter les informations relatives au Labo X18 au Général Voronin</fra>
+		<fra>Rendre les informations relatives au laboratoire X-18 au général Voronin</fra>
 		<pln>Zwróć informacje o laboratorium X-18 generałowi Woroninowi</pln>
 	</string>
 	<string id="bar_dolg_return_rg6">
 		<rus>Принести РГ-6 генералу Воронину</rus>
 		<eng>Bring RG-6 to General Voronin</eng>
 		<ukr>Принести «Бульдог-6» генералові Вороніну</ukr>
-		<fra>Apporter le Bulldog 6 au Général Voronin</fra>
+		<fra>Apporter le RG-6 au Général Voronin</fra>
 		<pln>Przynieś RG-6 generałowi Woroninowi</pln>
 	</string>
 	<string id="bar_dolg_rg6_quest">
-		<rus>Задание для вступления в Долг</rus>
-		<eng>Task for join to Duty</eng>
+		<rus>Задание для вступления в "Долг"</rus>
+		<eng>Task for join the "Duty"</eng>
 		<ukr>Завдання для вступу до угруповання «Долг»</ukr>
-		<fra>Mission requise pour rejoindre le Devoir</fra>
+		<fra>Mission requise pour rejoindre le "Devoir"</fra>
 		<pln>Misja wymagana, aby wstąpić do "Powinności"</pln>
 	</string>
 	<string id="bar_dolg_svoboda_ambush_quest">
 		<rus>Уничтожить наёмников</rus>
 		<eng>Eliminate the mercenaries</eng>
 		<ukr>Знищити найманців</ukr>
-		<fra>Eliminer les Mercenaires</fra>
+		<fra>Éliminer les mercenaires</fra>
 		<pln>Zlikwiduj najemników</pln>
 	</string>
 	<string id="bar_dolg_svoboda_ambush_return">
 		<rus>Отдать нашивки генералу Воронину</rus>
-		<eng>Give the patches to General Voronin</eng>
+		<eng>Give the patches to general Voronin</eng>
 		<ukr>Віддати нашивки генералові Вороніну</ukr>
-		<fra>Donner les Ecussons au Général Voronin</fra>
+		<fra>Remettre les écussons au général Voronin</fra>
 		<pln>Oddaj naszywki generałowi Woroninowi</pln>
 	</string>
 	<string id="bar_dolg_tiran_PDA">
 		<rus>Взять КПК Тирана</rus>
-		<eng>Take the Tiran's PDA</eng>
+		<eng>Take the Tyrant's PDA</eng>
 		<ukr>Узяти КПК Тирана</ukr>
-		<fra>Prendre le PDA de Tyran</fra>
+		<fra>Ramasser le PDA du Tyran</fra>
 		<pln>Zabierz PDA Tyrana</pln>
 	</string>
 	<string id="bar_hunter_find_rifle">
@@ -988,10 +988,10 @@
 		<pln>Znajdź rodową broń</pln>
 	</string>
 	<string id="bar_hunter_return_rifle">
-		<rus>Вернуть ружьё охотнику в баре</rus>
-		<eng>Return the shotgun to the hunter in the bar</eng>
+		<rus>Вернуть ружьё Охотнику в баре</rus>
+		<eng>Return the shotgun to the Hunter in the Bar</eng>
 		<ukr>Повернути рушницю мисливцеві у Барі</ukr>
-		<fra>Rendre le fusil au Chasseur du Bar</fra>
+		<fra>Rendre le fusil au Chasseur au Bar</fra>
 		<pln>Zwróć Łowcy jego rodową broń</pln>
 	</string>
 	<string id="bar_hunter_rifle">
@@ -1012,12 +1012,12 @@
 		<rus>Взять КПК их лидера</rus>
 		<eng>Take the PDA of their leader</eng>
 		<ukr>Узяти КПК їхнього лідера</ukr>
-		<fra>Prendre le PDA du Chef</fra>
+		<fra>Récupérer le PDA de leur chef</fra>
 		<pln>Zabierz PDA ich przywódcy</pln>
 	</string>
 	<string id="bar_kill_veterans">
 		<rus>Уничтожить лагерь сумасшедших ветеранов</rus>
-		<eng>Destroy the camp of crazy veterans</eng>
+		<eng>Destroy the camp of the crazy veterans</eng>
 		<ukr>Знищити табір божевільних ветеранів</ukr>
 		<fra>Détruire le camp des vétérans fous</fra>
 		<pln>Zniszcz obóz oszalałych weteranów</pln>
@@ -1026,14 +1026,14 @@
 		<rus>Отключить Выжигатель мозгов</rus>
 		<eng>Shut down the Brain Scorcher</eng>
 		<ukr>Відключити Випалювач Мізків</ukr>
-		<fra>Désactiver le lobotomisateur</fra>
+		<fra>Désactiver le Brûleur de cerveaux</fra>
 		<pln>Wyłącz "Mózgozwęglacz"</pln>
 	</string>
 	<string id="bar_resque_information">
 		<rus>Встретиться с Кругловым</rus>
-		<eng>Meet with Kruglov</eng>
+		<eng>Meet Kruglov</eng>
 		<ukr>Зустрітися із Кругловим</ukr>
-		<fra>Rencontrer Kruglov</fra>
+		<fra>Rencontrer Krouglov</fra>
 		<pln>Spotkaj się z Krugłowem</pln>
 	</string>
 	<string id="bar_resque_information_2">
@@ -1058,42 +1058,42 @@
 	</string>
 	<string id="bar_resque_scientific_information_bring">
 		<rus>Поговорить с Кругловым</rus>
-		<eng>Talk with Kruglov</eng>
+		<eng>Speak to Kruglov</eng>
 		<ukr>Поговорити із Кругловим</ukr>
-		<fra>Parler à Kruglov</fra>
+		<fra>Parler à Krouglov</fra>
 		<pln>Porozmawiaj z Krugłowem</pln>
 	</string>
 	<string id="bar_resque_scientific_information_get">
 		<rus>Пробиться к Круглову</rus>
 		<eng>Break through to Kruglov</eng>
 		<ukr>Пробитися до Круглова</ukr>
-		<fra>Rejoindre Kruglov</fra>
+		<fra>Forcer le passage à Krouglov</fra>
 		<pln>Przebij się do Krugłowa</pln>
 	</string>
 	<string id="bar_resque_scientific_information_get_2">
 		<rus>Поговорить с профессором Кругловым</rus>
-		<eng>Talk with Professor Kruglov</eng>
+		<eng>Speak to professor Kruglov</eng>
 		<ukr>Поговорити із професором Кругловим</ukr>
-		<fra>Parler au Professeur Kruglov</fra>
+		<fra>Parler au professeur Krouglov</fra>
 		<pln>Porozmawiaj z profesorem Krugłowem</pln>
 	</string>
 	<string id="bar_x16_documents">
 		<rus>Найти документы в лаборатории X-16</rus>
 		<eng>Find documents in the laboratory X-16</eng>
 		<ukr>Знайти документи у лабораторії X-16</ukr>
-		<fra>Trouver les documents du laboratoire X-16</fra>
+		<fra>Trouver les documents dans le laboratoire X-16</fra>
 		<pln>Odszukaj dokumenty w laboratorium X-16</pln>
 	</string>
 	<string id="bring_x16_documents">
 		<rus>Принести документы Бармену</rus>
-		<eng>Bring documents to the Barkeep</eng>
+		<eng>Bring the documents to the Barkeep</eng>
 		<ukr>Принести документи Барменові</ukr>
 		<fra>Apporter les documents au Barman</fra>
 		<pln>Przynieś dokumenty Barmanowi</pln>
 	</string>
 	<string id="deactivate_radar_now">
 		<rus>Отключить установку</rus>
-		<eng>Shut down the facility</eng>
+		<eng>Switch off the device</eng>
 		<ukr>Відключити установку</ukr>
 		<fra>Désactiver la machine</fra>
 		<pln>Wyłącz instalację</pln>
@@ -1102,49 +1102,49 @@
 		<rus>Найти вход в бункер управления</rus>
 		<eng>Find the entrance to the control bunker</eng>
 		<ukr>Знайти вхід до бункера управління</ukr>
-		<fra>Trouver l'entrée du Bunker de contrôle</fra>
+		<fra>Trouver l'entrée du bunker de contrôle</fra>
 		<pln>Znajdź wejście do bunkra sterowania</pln>
 	</string>
 	<string id="get_to_antennas">
 		<rus>Добраться до антенн</rus>
 		<eng>Get to the antennas</eng>
 		<ukr>Дістатися антен</ukr>
-		<fra>Rejoindre les Antennes</fra>
+		<fra>Accéder aux antennes</fra>
 		<pln>Dotrzyj do anten</pln>
 	</string>
 	<string id="Kruglov_research">
 		<rus>Исследования Круглова</rus>
 		<eng>Kruglov's researches</eng>
 		<ukr>Дослідження Круглова</ukr>
-		<fra>Recherche de Kruglov</fra>
+		<fra>Recherches de Krouglov</fra>
 		<pln>Badania Krugłowa</pln>
 	</string>
 	<string id="look_for_x16_lab">
 		<rus>Найти документы в Х-16</rus>
 		<eng>Find documents in X-16 </eng>
 		<ukr>Знайти документи з Х-16</ukr>
-		<fra>Trouver les documents dans le laboratoire X-16</fra>
+		<fra>Trouver les documents dans X-16</fra>
 		<pln>Znajdź dokumenty z laboratorium X-16</pln>
 	</string>
 	<string id="x16_yantar">
 		<rus>Поговорить с учёными</rus>
-		<eng>Talk with scientists</eng>
+		<eng>Speak to the scientists</eng>
 		<ukr>Поговорити з ученими</ukr>
-		<fra>Parler avec les Scientifiques</fra>
+		<fra>Parler avec les savants</fra>
 		<pln>Porozmawiaj z naukowcami</pln>
 	</string>
 	<string id="yan_find_ghost">
 		<rus>Взять документы у Призрака</rus>
-		<eng>Take the documents from the Ghost's body</eng>
+		<eng>Take the documents from the Spectre</eng>
 		<ukr>Узяти документи в Привида</ukr>
-		<fra>Prendre les documents cachés dans le corps de Spectre</fra>
+		<fra>Récupérer les documents du Spectre</fra>
 		<pln>Weź dokumenty od Ducha</pln>
 	</string>
 	<string id="yan_find_ghost_task">
 		<rus>Взять документы</rus>
-		<eng>Take documents</eng>
+		<eng>Take the documents</eng>
 		<ukr>Узяти документи</ukr>
-		<fra>Prendre les documents</fra>
+		<fra>Récupérer les documents</fra>
 		<pln>Weź dokumenty</pln>
 	</string>
 	<string id="yan_find_lab">
@@ -1170,142 +1170,142 @@
 	</string>
 	<string id="yan_find_vasilyev_task">
 		<rus>Проникнуть в лабораторию</rus>
-		<eng>Find way to the laboratory</eng>
+		<eng>Penetrate into the laboratory</eng>
 		<ukr>Проникнути у лабораторію</ukr>
-		<fra>Trouver un chemin vers le laboratoire</fra>
+		<fra>Pénétrer dans le laboratoire</fra>
 		<pln>Odszukaj wejście do laboratorium X-16</pln>
 	</string>
 	<string id="yan_find_vasilyev">
 		<rus>Обыскать труп Васильева</rus>
-		<eng>Search the Vasiliev's body</eng>
+		<eng>Search Vassiliev's body</eng>
 		<ukr>Обшукати труп Васильєва</ukr>
-		<fra>Trouver le corps de Vasiliev</fra>
+		<fra>Fouiller le corps de Vassiliev</fra>
 		<pln>Znajdź i przeszukaj zwłoki Wasiliewa</pln>
 	</string>
 	<string id="yan_kill_brain">
 		<rus>Отключить пси-излучение</rus>
-		<eng>Disable psi-radiation</eng>
+		<eng>Switch off psi-radiation</eng>
 		<ukr>Відключити псі-випромінювання</ukr>
 		<fra>Désactiver les émissions psi</fra>
 		<pln>Wyłącz emisję psioniczną</pln>
 	</string>
 	<string id="yan_kill_brain_task">
 		<rus>Отключить питание установки</rus>
-		<eng>Shut down the facility</eng>
+		<eng>Switch off the device</eng>
 		<ukr>Відключити живлення установки</ukr>
-		<fra>Coupez l'alimentation de l'installation</fra>
+		<fra>Couper l'alimentation de l'appareil</fra>
 		<pln>Odłącz zasilanie instalacji</pln>
 	</string>
 	<string id="yan_kill_brain_task_2">
 		<rus>Выбраться из лаборатории</rus>
-		<eng>Get out of the lab</eng>
+		<eng>Get out of the laboratory</eng>
 		<ukr>Вибратися з лабораторії</ukr>
-		<fra>Sortir du laboratoire</fra>
+		<fra>S'extirper du laboratoire</fra>
 		<pln>Wydostań się z laboratorium X-16</pln>
 	</string>
 	<string id="yan_provodnik_about_doctor">
 		<rus>Поговорить с Проводником</rus>
-		<eng>Talk to the Guide</eng>
+		<eng>Speak to the Guide</eng>
 		<ukr>Поговорити із Провідником</ukr>
-		<fra>Parler au Pionnier</fra>
+		<fra>Parler au Guide</fra>
 		<pln>Porozmawiaj z Przewodnikiem</pln>
 	</string>
 	<string id="yan_provodnik_task">
 		<rus>Встретиться с Проводником</rus>
 		<eng>Meet the Guide</eng>
 		<ukr>Зустрітися із Провідником</ukr>
-		<fra>Rencontrer le Pionnier</fra>
+		<fra>Rencontrer le Guide</fra>
 		<pln>Spotkaj się z Przewodnikiem</pln>
 	</string>
 	<string id="yan_psi_zone_find">
 		<rus>Сопроводить Круглова к месту замера</rus>
 		<eng>Escort Kruglov to the measurement location</eng>
 		<ukr>Супроводити Круглова до місця проведення вимірювань</ukr>
-		<fra>Escorter Kruglov pour aller prendre des mesures</fra>
+		<fra>Escorter Krouglov jusqu'au site de mesure</fra>
 		<pln>Eskortuj Krugłowa na miejsce pomiarów</pln>
 	</string>
 	<string id="yan_psi_zone_find_semenov">
 		<rus>Сопроводить Семёнова к месту замера</rus>
 		<eng>Escort Semyonov to the measurement location</eng>
 		<ukr>Супроводити Семенова до місця проведення вимірювань</ukr>
-		<fra>Escorter Semenov pour aller prendre des mesures</fra>
+		<fra>Escorter Semyonov jusqu'au site de mesure</fra>
 		<pln>Eskortuj Siemionowa na miejsce pomiaru</pln>
 	</string>
 	<string id="yan_find_scientist_semenov">
 		<rus>Сопроводить Семёнова к месту замера</rus>
 		<eng>Escort Semyonov to the measurement location</eng>
 		<ukr>Супроводити Семенова до місця проведення вимірювань</ukr>
-		<fra>Accompagner Semonov sur la Zone à étudier</fra>
+		<fra>Escorter Semyonov jusqu'au site de mesure</fra>
 		<pln>Eskortuj Siemionowa na miejsce pomiaru</pln>
 	</string>
 	<string id="yan_return_to_bunker">
 		<rus>Принести результаты Сахарову</rus>
-		<eng>Bring results to Sakharov</eng>
+		<eng>Bring the results to Sakharov</eng>
 		<ukr>Принести результати Сахарову</ukr>
 		<fra>Apporter les résultats à Sakharov</fra>
 		<pln>Dostarcz wyniki Sacharowowi</pln>
 	</string>
 	<string id="yan_scientist_return">
 		<rus>Поговорить с Сахаровым</rus>
-		<eng>Talk with Sakharov</eng>
+		<eng>Speak to Sakharov</eng>
 		<ukr>Поговорити із Сахаровим</ukr>
 		<fra>Parler à Sakharov</fra>
 		<pln>Porozmawiaj z Sacharowem</pln>
 	</string>
 	<string id="yan_scientist_return_task">
 		<rus>Поговорить с Сахаровым</rus>
-		<eng>Talk with Sakharov</eng>
+		<eng>Speak to Sakharov</eng>
 		<ukr>Поговорити із Сахаровим</ukr>
 		<fra>Parler à Sakharov</fra>
 		<pln>Porozmawiaj z Sacharowem</pln>
 	</string>
 	<string id="yan_secret_tonnel">
 		<rus>Выбраться через секретный тоннель</rus>
-		<eng>Get out through the secret tunnel</eng>
+		<eng>Get out through a secret tunnel</eng>
 		<ukr>Вибратися через секретний тунель</ukr>
-		<fra>Sortir par le tunnel secret</fra>
+		<fra>S'extirper par un tunnel secret</fra>
 		<pln>Wydostań się ukrytym tunelem</pln>
 	</string>
 	<string id="yan_switcher_off_1">
 		<rus>Отключить 1-ый блок управления</rus>
 		<eng>Disable the 1-st control unit</eng>
 		<ukr>Відключити першиий блок керування</ukr>
-		<fra>Désactiver le 1er module</fra>
+		<fra>Désactiver la 1ère unité de contrôle</fra>
 		<pln>Wyłącz pierwszy moduł kontrolny</pln>
 	</string>
 	<string id="yan_switcher_off_2">
 		<rus>Отключить 2-ой блок управления</rus>
 		<eng>Disable the 2-nd control unit</eng>
 		<ukr>Відключити другиий блок керування</ukr>
-		<fra>Désactiver le 2ème module</fra>
+		<fra>Désactiver la 2ème unité de contrôle</fra>
 		<pln>Wyłącz drugi moduł kontrolny</pln>
 	</string>
 	<string id="yan_switcher_off_3">
 		<rus>Отключить 3-ий блок управления</rus>
 		<eng>Disable the 3-rd control unit</eng>
 		<ukr>Відключити третій блок керування</ukr>
-		<fra>Désactiver le 3ème module</fra>
+		<fra>Désactiver la 3ème unité de contrôle</fra>
 		<pln>Wyłącz trzeci moduł kontrolny</pln>
 	</string>
 	<string id="yan_talk_to_kruglov">
 		<rus>Поговорить с Кругловым</rus>
-		<eng>Talk with Kruglov</eng>
+		<eng>Speak to Kruglov</eng>
 		<ukr>Поговорити із Кругловим</ukr>
-		<fra>Parler à Kruglov</fra>
+		<fra>Parler à Krouglov</fra>
 		<pln>Porozmawiaj z Krugłowem</pln>
 	</string>
 	<string id="yan_talk_to_semenov">
 		<rus>Поговорить с Семёновым</rus>
-		<eng>Talk with Semenov</eng>
+		<eng>Speak to Semyonov</eng>
 		<ukr>Поговорити із Семеновим</ukr>
 		<fra>Parler à Semenov</fra>
 		<pln>Porozmawiaj z Siemionowem</pln>
 	</string>
 	<string id="yan_vasilyev_pda">
 		<rus>КПК Васильева</rus>
-		<eng>Vasilyev's PDA </eng>
+		<eng>Vassilyev's PDA </eng>
 		<ukr>КПК Васильєва</ukr>
-		<fra>PDA de Vasiliev</fra>
+		<fra>PDA de Vassiliev</fra>
 		<pln>PDA Wasiliewa</pln>
 	</string>
 	<string id="yan_zombie_zone">
@@ -1317,135 +1317,135 @@
 	</string>
 	<string id="gar_car_graveyard_quest">
 		<rus>Ответить на призыв о помощи</rus>
-		<eng>Respond to a distress call</eng>
+		<eng>Respond to a call for help</eng>
 		<ukr>Відповісти на заклик про допомогу</ukr>
-		<fra>Répondez à l'appel à l'aide</fra>
+		<fra>Répondre à l'appel au secours</fra>
 		<pln>Zareaguj na wołanie o pomoc</pln>
 	</string>
 	<string id="gar_defend_garbage">
-		<rus>Уничтожить рейд бандитов</rus>
-		<eng>Repel the bandits raid</eng>
-		<ukr>Знищити групу бандитів</ukr>
-		<fra>Repoussez le raid des Bandits</fra>
-		<pln>Odeprzyj atak bandytów</pln>
+		<rus>Уничтожить атакующих бандитов</rus>
+		<eng>Destroy the attacking bandits</eng>
+		<ukr>===Знищити групу бандитів</ukr>
+		<fra>Éliminer des bandits attaquants</fra>
+		<pln>===Odeprzyj atak bandytów</pln>
 	</string>
 	<string id="gar_dialog_hellcar">
 		<rus>Предложить свою помощь лидеру нейтралов</rus>
-		<eng>Offer your help to the neutral leader</eng>
+		<eng>Offer your help to the neutrals leader</eng>
 		<ukr>Запропонувати свою допомогу лідерові нейтралів</ukr>
-		<fra>Proposez votre aide au leader neutre</fra>
+		<fra>Offrir votre aide au leader des neutres</fra>
 		<pln>Zaproponuj pomoc przywódcy oddziału neutrałów</pln>
 	</string>
 	<string id="gar_dialog_hellcar_1">
 		<rus>Предложить свою помощь Бесу</rus>
-		<eng>Offer your help to Fiend</eng>
+		<eng>Offer your help to Bes</eng>
 		<ukr>Запропонувати свою допомогу Бісові</ukr>
-		<fra>Proposez votre aide à Bes</fra>
+		<fra>Offrir votre aide à Bes</fra>
 		<pln>Zaoferuj pomoc Biesowi</pln>
 	</string>
 	<string id="gar_hellcar_alive">
 		<rus>Поговорить с Бесом</rus>
-		<eng>Talk to Fiend</eng>
+		<eng>Speak to Bes</eng>
 		<ukr>Поговорити із Бісом</ukr>
-		<fra>Parlez à Bes</fra>
+		<fra>Parler à Bes</fra>
 		<pln>Porozmawiaj z Biesem</pln>
 	</string>
 	<string id="gar_help_dymon">
 		<rus>Отбить рейд бандитов</rus>
-		<eng>Repel a raid of bandits</eng>
+		<eng>Repel a bandits raid</eng>
 		<ukr>Відбити рейд бандитів</ukr>
-		<fra>Repoussez le raid des Bandits</fra>
+		<fra>Repousser le raid des bandits</fra>
 		<pln>Odeprzyj atak bandytów</pln>
 	</string>
 	<string id="gar_help_tunnel_newbie">
 		<rus>Помочь новичку со Свалки</rus>
-		<eng>Help a newbie from the Dump</eng>
+		<eng>Help a novice from the Dump</eng>
 		<ukr>Допомогти новачку зі Звалища</ukr>
-		<fra>Aidez un débutant à la Décharge</fra>
+		<fra>Aider un novice de la Décharge</fra>
 		<pln>Pomóż nowicjuszowi z Wysypiska</pln>
 	</string>
 	<string id="gar_kill_bandits">
-		<rus>Уничтожить рейд бандитов</rus>
-		<eng>Destroy the bandits raid</eng>
+		<rus>Уничтожить атакующих бандитов</rus>
+		<eng>Destroy the attacking bandits</eng>
 		<ukr>Знищити рейд бандитів</ukr>
-		<fra>Repoussez le raid des Bandits</fra>
-		<pln>Powstrzymaj atak bandytów</pln>
+		<fra>Éliminer des bandits attaquants</fra>
+		<pln>===Powstrzymaj atak bandytów</pln>
 	</string>
 	<string id="gar_kill_boars">
-		<rus>Помочь заставе Долга</rus>
-		<eng>Help the Duty's outpost</eng>
+		<rus>Помочь заставе "Долга"</rus>
+		<eng>Help the outpost of the "Duty"</eng>
 		<ukr>Допомогти заставі «Долгу»</ukr>
-		<fra>Aidez l'avant-poste du Devoir</fra>
+		<fra>Aider l'avant-poste du "Devoir"</fra>
 		<pln>Udziel wsparcia posterunkowi "Powinności"</pln>
 	</string>
 	<string id="gar_kill_boars_1">
 		<rus>Убить кабанов</rus>
-		<eng>Kill boars</eng>
+		<eng>Kill the boars</eng>
 		<ukr>Убити кабанів</ukr>
-		<fra>Tuez les sangliers</fra>
+		<fra>Tuer les sangliers</fra>
 		<pln>Zabij dziki</pln>
 	</string>
 	<string id="gar_kill_boars_2">
 		<rus>Поговорить с командиром заставы</rus>
-		<eng>Talk to the commander of the outpost</eng>
+		<eng>Speak to the commander of the outpost</eng>
 		<ukr>Поговорити із командиром застави</ukr>
-		<fra>Parlez au commandant de l'avant-poste</fra>
-		<pln>Porozmawiaj z dowódcą "Powinności"</pln>
+		<fra>Parler au commandant de l'avant-poste</fra>
+		<pln>===Porozmawiaj z dowódcą "Powinności"</pln>
 	</string>
 	<string id="gar_kill_boars_descr">
-		<rus>Долг: "Всем приём, говорит застава Долга на Свалке. Из Тёмной Долины по направлению к Бару идёт волна мутантов. Всем, кто поможет отстрелять нечисть, признательность с нашей стороны гарантируем. Слово Долга".</rus>
-		<eng>Duty: "All-call!!! This is the Duty outpost on Dump. There is a wave of mutants coming from the Dark Valley towards the Bar. To all who help to shoot the scum - gratitude on our part is guaranteed. Word of Duty."</eng>
+		<rus>"Долг": "Всем приём, говорит застава "Долга" на Свалке. Из Тёмной Долины по направлению к Бару идёт волна мутантов. Всем, кто поможет отстрелять нечисть, признательность с нашей стороны гарантируем. Слово "Долга"".</rus>
+		<eng>Duty: "All-call! This is the "Duty" outpost at the Dump. A wave of mutants is coming from the Dark Valley towards the Bar. Everybody who will help to shoot the scum - gratitude on our part is guaranteed. Word of "Duty"."</eng>
 		<ukr>«Долг»: «Прийом! Говорить застава «Долгу» на Звалищі. Із Темної долини у напрямку на Бар іде хвиля мутантів. Усім, хто допоможе відстріляти погань, вдячність із нашого боку гарантуємо. Слово «Долгу»!</ukr>
-		<fra>Devoir: "Attention !Message à tous.Ici l'avant-poste du Devoir à la Décharge. Une vague de mutants se dirige vers le Bar. Quiconque aidera à tuer ces mutants démoniaques, nous garantirons notre gratitude. Message de la Faction du Devoir."</fra>
+		<fra>"Devoir": "Attention! Message à tous. Ici l'avant-poste du "Devoir" à la Décharge. Une vague de mutants se dirige vers le Bar. Quiconque aidera à tuer ces mutants démoniaques, nous garantirons notre gratitude. Parole du "Devoir"."</fra>
 		<pln>Powinność: "Do wszystkich, tu frakcja "Powinność" z Wysypiska. Od strony Doliny Mroku w kierunku Baru nadciąga fala mutantów. Gwarantujemy uznanie wszystkim, którzy pomogą nam te bestie wybić. Słowo "Powinności"".</pln>
 	</string>
 	<string id="gar_kill_boars_main">
 		<rus>Квест для прохода в Бар</rus>
 		<eng>Quest for the passage to the Bar</eng>
 		<ukr>Квест для проходу на Бар</ukr>
-		<fra>Quête du passage au Bar :Aider la faction du Devoir à éliminer les Sangliers</fra>
+		<fra>Quête pour le passage au Bar</fra>
 		<pln>Zadanie na przejście do Baru</pln>
 	</string>
 	<string id="garbage_meet_stalker_1">
 		<rus>Узнать у Серого о Стрелке</rus>
 		<eng>Learn from Gray about Strelka</eng>
 		<ukr>Довідатися в Сірого про Стрільця</ukr>
-		<fra>Découvrir ce que sait Seriy au sujet de Strelok</fra>
+		<fra>Découvrir ce que sait le Gris au sujet de Strelok</fra>
 		<pln>Dowiedz się od Sieryja czegoś o Striełoku</pln>
 	</string>
 	<string id="graveyard_raid_text">
 		<rus>Бес: "Бандитское отродье пытается получить контроль над Свалкой. Здесь полчаса назад была драка. Троих уродов мы положили. Остальные братки отступили, но явно вот-вот вернутся с подкреплением. Нас мало, и лишний ствол не помешает. Если поможешь нам уничтожить их подкрепление, то я в долгу не останусь".</rus>
-		<eng>Fiend: "Bandit scum tries to get control of the Dump, there was a fight half an hour ago, we put the three freaks out, and the other gangs retreated, but they're obviously coming back with reinforcements. We are few, and the extra heat does not hurt. If you help us eliminate their reinforcements, then I will not stay in debt."</eng>
+		<eng>Bes: "Bandit scum tries to get control over the Dump. There was a fight half an hour ago, we put the three freaks out. The other mobsters retreated, but they're obviously coming back with reinforcements. We are few, and the extra gun does not hurt. If you help us eliminate their reinforcements, then I won't stay in debt."</eng>
 		<ukr>Біс: «Бандитське поріддя намагається отримати контроль над Звалищем. Тут півгодини тому стався бій. Трьох виродків ми поклали, інші братухи відступили, але явно швиденько повернуться із підкріпленням. Нас мало і зайвий ствол не завадить. Якщо допоможеш нам знищити їхнє підкріплення, то я в боргу не залишуся.»</ukr>
-		<fra>Bes: Ces maudits Bandits tentent à nouveau de prendre le contrôle de la Décharge. Environ une demi-heure auparavant, ils nous ont attaqués. Nous avons réussi à tuer trois de ces salauds. Certains de mes hommes sont allés chercher des renforts. Nous ne sommes pas assez nombreux,et nous avons vraiment besoin d'aide. Si vous combattez à nos côtes, frère... Je ferai en sorte que vous n'ayez pas perdu votre temps...</fra>
+		<fra>Bes: "Ces maudits bandits tentent de prendre le contrôle de la Décharge. Environ une demi-heure auparavant, ils nous ont attaqués. Nous avons réussi à tuer trois de ces salauds. Le reste des gangsters s'est retiré, mais ils sont clairement sur le point de revenir avec des renforts. Nous ne sommes pas assez nombreux, et un arme supplémentaire serait très utile. Si tu nous aides à détruire leurs renforts, je ne resterai pas endetté."</fra>
 		<pln>Bies: "Te bandyckie szumowiny próbują przejąć kontrolę nad Wysypiskiem. Pół godziny temu miała tu miejsce jatka. Zabiliśmy trzech bandziorów, reszta się wycofała, ale mam przeczucie, że lada chwila wrócą tu z posiłkami. Nie jest nas wielu, więc dodatkowa spluwa nie zaszkodzi. Jeśli pomożesz nam ich pokonać, odwdzięczę ci się".</pln>
 	</string>
 	<string id="help_for_neitrals_text">
 		<rus>На кладбище машин произошла перестрелка между нейтралами и бандитами. Нейтралы отбились, но зовут на помощь.</rus>
 		<eng>There was a gunfight between the neutrals and the bandits at the machinery scrapyard. Neutrals fought off, but they call for help.</eng>
 		<ukr>На кладовищі машин сталася перестрілка між нейтралами та бандитами. Нейтрали відбилися, але прохають про допомогу.</ukr>
-		<fra>Au Cimetière d'engins, il y avait un terrible combat entre les Neutres et les Bandits. Il y aura bientôt une autre attaque, et les Neutres auront besoin de toute l'aide possible...</fra>
+		<fra>Au cimetière de véhicules il y avait une escarmouche entre les neutres et les bandits. Les neutres ont gagné, mais ils appellent à l'aide.</fra>
 		<pln>Na opuszczonym złomowisku pojazdów doszło do strzelaniny pomiędzy neutrałami a bandytami. Neutrałom udało się odeprzeć bandytów, ale wzywają pomocy.</pln>
 	</string>
 	<string id="pripyat_task_objective_1">
 		<rus>Следовать за группой сталкеров</rus>
 		<eng>Follow the group of stalkers</eng>
 		<ukr>Іти слідом за групою сталкерів</ukr>
-		<fra>Suivre le groupe de  Stalkers</fra>
+		<fra>Suivre le groupe des stalkers</fra>
 		<pln>Idź za grupą stalkerów</pln>
 	</string>
 	<string id="pripyat_task_objective_2">
 		<rus>Найти выход на ЧАЭС</rus>
-		<eng>Find the path to the Chernobyl NPP</eng>
+		<eng>Find the path to the CNPP</eng>
 		<ukr>Знайти вихід на ЧАЕС</ukr>
-		<fra>Trouver une route vers Chernobyl</fra>
+		<fra>Trouver une chemin vers la CNT</fra>
 		<pln>Znajdź przejście na CEA</pln>
 	</string>
 	<string id="pripyat_task_title">
 		<rus>Встретиться с группой сталкеров</rus>
 		<eng>Meet the group of stalkers</eng>
 		<ukr>Зустрітися із групою сталкерів</ukr>
-		<fra>Rencontrer le groupe de  Stalkers</fra>
+		<fra>Rencontrer le groupe des stalkers</fra>
 		<pln>Spotkaj się z grupą stalkerów</pln>
 	</string>
 	<string id="rad_antenna">
@@ -1457,63 +1457,63 @@
 	</string>
 	<string id="rad_get_to_aes">
 		<rus>Найти вход в Саркофаг на ЧАЭС</rus>
-		<eng>Find the entrance to the sarcophagus on Chernobyl NPP</eng>
+		<eng>Find the entrance to the Sarcophagus at the CNPP</eng>
 		<ukr>Знайти вхід до Саркофагу на ЧАЕС</ukr>
-		<fra>Trouver l'accès du Sarcophage à Chernobyl</fra>
+		<fra>Trouver l'accès du Sarcophage à la CNT</fra>
 		<pln>Znajdź wejście do Sarkofagu na CEA</pln>
 	</string>
 	<string id="rad_get_to_aes_0">
 		<rus>Пройти на территорию станции</rus>
-		<eng>Enter the power plant</eng>
+		<eng>Enter the power plant territory</eng>
 		<ukr>Пройти на територію станції</ukr>
-		<fra>Aller à la Centrale</fra>
-		<pln>Przejdź na terytorium elektrowni</pln>
+		<fra>Entrer à la territoire de la Centrale</fra>
+		<pln>===Przejdź na terytorium elektrowni</pln>
 	</string>
 	<string id="rad_get_to_aes_1">
 		<rus>Найти вход в Саркофаг</rus>
-		<eng>Find the entrance to the sarcophagus</eng>
+		<eng>Find the entrance to the Sarcophagus</eng>
 		<ukr>Знайти вхід до Саркофагу</ukr>
-		<fra>Trouver l'entrée du Sarcophage</fra>
+		<fra>Trouver l'entrée au Sarcophage</fra>
 		<pln>Znajdź wejście do Sarkofagu</pln>
 	</string>
 	<string id="agr_find_ghost">
 		<rus>Узнать о судьбе Призрака</rus>
-		<eng>Enquire about the fate of Ghost</eng>
+		<eng>Enquire about the fate of the Spectre</eng>
 		<ukr>Довідатися про долю Привида</ukr>
-		<fra>Trouver ce qui est arrivé à Spectre</fra>
+		<fra>Trouver ce qui est arrivé au Spectre</fra>
 		<pln>Dowiedz się czegoś o losach Ducha</pln>
 	</string>
 	<string id="agr_gunslinger_cache">
-		<rus>Тайник Стрелка</rus>
+		<rus>Тайное убежище Стрелка</rus>
 		<eng>Strelok's Hiding</eng>
-		<ukr>Схованка Стрільця</ukr>
-		<fra>Planque de Strelok</fra>
-		<pln>Kryjówka Striełoka</pln>
+		<ukr>===Схованка Стрільця</ukr>
+		<fra>Retraite secrète de Strelok</fra>
+		<pln>===Kryjówka Striełoka</pln>
 	</string>
 	<string id="agr_help_krot">
 		<rus>Спасти Крота</rus>
-		<eng>Save Mole</eng>
+		<eng>Rescue the Mole</eng>
 		<ukr>Врятувати Крота</ukr>
 		<fra>Sauver la Taupe</fra>
 		<pln>Uratuj Kreta</pln>
 	</string>
 	<string id="agr_help_krot_0">
 		<rus>Помочь Кроту отбиться от военных</rus>
-		<eng>Help Mole to fight off the military</eng>
+		<eng>Help the Mole to fight off the militaries</eng>
 		<ukr>Допомогти Кротові відбитися від військових</ukr>
-		<fra>Aider la Taupe à repousser les soldats</fra>
+		<fra>Aider la Taupe à repousser les militaires</fra>
 		<pln>Pomóż Kretowi odeprzeć żołnierzy</pln>
 	</string>
 	<string id="agr_help_krot_1">
 		<rus>Уничтожить военных</rus>
 		<eng>Eliminate the military</eng>
 		<ukr>Знищити військових</ukr>
-		<fra>Tuer les soldats</fra>
+		<fra>Tuer les militaires</fra>
 		<pln>Zabij żołnierzy</pln>
 	</string>
 	<string id="agr_help_krot_2">
 		<rus>Спасти Крота</rus>
-		<eng>Rescue Mole</eng>
+		<eng>Rescue the Mole</eng>
 		<ukr>Врятувати Крота</ukr>
 		<fra>Sauver la Taupe</fra>
 		<pln>Uratuj Kreta</pln>
@@ -1522,35 +1522,35 @@
 		<rus>Помочь сталкерам</rus>
 		<eng>Help the stalkers</eng>
 		<ukr>Допомогти сталкерам</ukr>
-		<fra>Aider les Stalkers</fra>
+		<fra>Aider les stalkers</fra>
 		<pln>Pomóż stalkerom</pln>
 	</string>
 	<string id="agr_help_stalkers_0">
 		<rus>Помочь сталкерам отбиться от военных</rus>
-		<eng>Help stalkers fight off the military</eng>
+		<eng>Help stalkers fight off the militaries</eng>
 		<ukr>Допомогти сталкерам відбитися від військових</ukr>
-		<fra>Aider les Stalkers à combattre les Militaires</fra>
+		<fra>Aider les stalkers à combattre les militaires</fra>
 		<pln>Pomóż stalkerom odeprzeć żołnierzy</pln>
 	</string>
 	<string id="agr_help_stalkers_1">
 		<rus>Уничтожить военных</rus>
 		<eng>Eliminate the military</eng>
 		<ukr>Знищити військових</ukr>
-		<fra>Tuer les soldats</fra>
+		<fra>Éliminer les militaires</fra>
 		<pln>Zabij żołnierzy</pln>
 	</string>
 	<string id="agr_help_stalkers_2">
 		<rus>Помочь сталкерам отбиться от военных</rus>
-		<eng>Help stalkers fight off the military</eng>
+		<eng>Help stalkers fight off the militaries</eng>
 		<ukr>Допомогти сталкерам відбитися від військових</ukr>
-		<fra>Aider les Stalkers à repousser les soldats</fra>
+		<fra>Aider les stalkers à repousser les militaires</fra>
 		<pln>Pomóż stalkerom odeprzeć żołnierzy</pln>
 	</string>
 	<string id="agr_krot">
 		<rus>Встретиться со сталкерами</rus>
 		<eng>Meet the stalkers</eng>
 		<ukr>Зустрітися зі сталкерами</ukr>
-		<fra>Rencontrer les Stalkers</fra>
+		<fra>Rencontrer les stalkers</fra>
 		<pln>Spotkaj się ze stalkerami</pln>
 	</string>
 	<string id="agr_meet_krot_band">
@@ -1562,52 +1562,52 @@
 	</string>
 	<string id="agr_meet_krot_band_0">
 		<rus>Получить от Крота информацию</rus>
-		<eng>Get information from Mole</eng>
+		<eng>Get information from the Mole</eng>
 		<ukr>Отримати від Крота інформацію</ukr>
 		<fra>Obtenir des informations auprès de la Taupe</fra>
 		<pln>Zdobądź informacje od Kreta</pln>
 	</string>
 	<string id="agr_meet_krot_band_1">
-		<rus>Встретиться с группировкой Крота</rus>
-		<eng>Meet with the Mole's squad</eng>
-		<ukr>Зустрітися з угрупованням Крота</ukr>
+		<rus>Встретиться с группой Крота</rus>
+		<eng>Meet the Mole's group</eng>
+		<ukr>===Зустрітися з угрупованням Крота</ukr>
 		<fra>Rencontrer le groupe de la Taupe</fra>
 		<pln>Spotkaj się z grupą Kreta</pln>
 	</string>
 	<string id="agr_meet_krot_band_2">
 		<rus>Получить информацию от Крота</rus>
-		<eng>Get information from Mole</eng>
+		<eng>Get information from the Mole</eng>
 		<ukr>Отримати інформацію від Крота</ukr>
 		<fra>Obtenir des informations de la Taupe</fra>
 		<pln>Zdobądź informacje od Kreta</pln>
 	</string>
 	<string id="agroprom_find_gunslinger_cache">
-		<rus>Найти тайник группировки Стрелка</rus>
-		<eng>Find the Hiding of Strelok's squad</eng>
-		<ukr>Знайти схованку угруповання Стрільця</ukr>
-		<fra>Trouver la planque du groupe de Strelok</fra>
-		<pln>Znajdź kryjówkę grupy Striełoka</pln>
+		<rus>Найти тайное убежище группы Стрелка</rus>
+		<eng>Find the Hiding of Strelok's group</eng>
+		<ukr>===Знайти схованку угруповання Стрільця</ukr>
+		<fra>Trouver la retraite secrète du groupe de Strelok</fra>
+		<pln>===Znajdź kryjówkę grupy Striełoka</pln>
 	</string>
 	<string id="agroprom_find_gunslinger_cache_0">
-		<rus>Найти тайник группировки Стрелка</rus>
-		<eng>Find the hiding of Strelok's squad</eng>
-		<ukr>Знайти схованку угруповання Стрільця</ukr>
-		<fra>Trouver la planque du groupe de Strelok</fra>
-		<pln>Znajdź kryjówkę grupy Striełoka</pln>
+		<rus>Найти тайное убежище группы Стрелка</rus>
+		<eng>Find the hiding of Strelok's group</eng>
+		<ukr>===Знайти схованку угруповання Стрільця</ukr>
+		<fra>Trouver la retraite secrète du groupe de Strelok</fra>
+		<pln>===Znajdź kryjówkę grupy Striełoka</pln>
 	</string>
 	<string id="agroprom_find_gunslinger_cache_1">
-		<rus>Найти тайник</rus>
+		<rus>Найти тайное убежище</rus>
 		<eng>Find a hiding</eng>
-		<ukr>Знайти схованку</ukr>
-		<fra>Trouver la planque</fra>
-		<pln>Znajdź kryjówkę</pln>
+		<ukr>===Знайти схованку</ukr>
+		<fra>Trouver la retraite secrète</fra>
+		<pln>===Znajdź kryjówkę</pln>
 	</string>
 	<string id="agroprom_find_gunslinger_cache_2">
-		<rus>Найти в тайнике информацию о Стрелке</rus>
-		<eng>Find information about Strelok in the hiding</eng>
-		<ukr>Знайти у схованці інформацію про Стрільця</ukr>
-		<fra>Trouver des informations sur Strelok dans la planque</fra>
-		<pln>Znajdź w kryjówce informacje o Striełoku</pln>
+		<rus>Найти в тайном убежище информацию о Стрелке</rus>
+		<eng>Find some information about Strelok in the hiding</eng>
+		<ukr>===Знайти у схованці інформацію про Стрільця</ukr>
+		<fra>Trouver l'information sur Strelok dans la retraite secrète</fra>
+		<pln>===Znajdź w kryjówce informacje o Striełoku</pln>
 	</string>
 	<string id="agroprom_find_gunslinger_cache_3">
 		<rus>Выбраться из подземелья</rus>
@@ -1618,23 +1618,23 @@
 	</string>
 	<string id="agroprom_find_stalker_phantom">
 		<rus>Найти Призрака</rus>
-		<eng>Find Ghost</eng>
+		<eng>Find the Spectre</eng>
 		<ukr>Знайти Привида</ukr>
-		<fra>Trouver Spectre</fra>
+		<fra>Trouver le Spectre</fra>
 		<pln>Znajdź Ducha</pln>
 	</string>
 	<string id="agroprom_find_stalker_phantom_0">
 		<rus>Призрак знает, где Стрелок</rus>
-		<eng>The Ghost knows where is Strelok</eng>
+		<eng>The Spectre knows where is Strelok</eng>
 		<ukr>Привид знає, де Стрілець</ukr>
 		<fra>Spectre sait où se trouve Strelok</fra>
 		<pln>Duch wie, gdzie jest Striełok</pln>
 	</string>
 	<string id="agroprom_get_military_documents">
 		<rus>Найти документы военных</rus>
-		<eng>Find military documents</eng>
+		<eng>Find documents of the military</eng>
 		<ukr>Знайти документи військових</ukr>
-		<fra>Trouver les documents militaires</fra>
+		<fra>Trouver les documents des militaires</fra>
 		<pln>Znajdź dokumenty wojskowe</pln>
 	</string>
 	<string id="agroprom_get_military_documents_0">
@@ -1645,10 +1645,10 @@
 		<pln>Instytut Agroprom</pln>
 	</string>
 	<string id="agroprom_get_military_documents_1">
-		<rus>Выкрасть военные документы</rus>
-		<eng>Steal military documents</eng>
-		<ukr>Викрасти військові документи</ukr>
-		<fra>Voler les documents militaires</fra>
+		<rus>Выкрасть документы военных</rus>
+		<eng>Steal the documents of the militaries</eng>
+		<ukr>===Викрасти військові документи</ukr>
+		<fra>Voler les documents des militaires</fra>
 		<pln>Ukradnij dokumenty wojskowe</pln>
 	</string>
 	<string id="agroprom_get_military_documents_2">
@@ -1660,16 +1660,16 @@
 	</string>
 	<string id="cit_doctor_task">
 		<rus>Тайник в Припяти</rus>
-		<eng>Hiding at Pripyat</eng>
+		<eng>Stash at Pripyat</eng>
 		<ukr>Схованка в Прип'яті</ukr>
-		<fra>Planque secrète de Pripyat</fra>
+		<fra>Cache à Pripyat</fra>
 		<pln>Schowek w Prypeci</pln>
 	</string>
 	<string id="cit_doctor_task_0">
 		<rus>Найти тайник Стрелка в Припяти</rus>
-		<eng>Find the Strelok's hiding at Pripyat</eng>
+		<eng>Find the Strelok's stash at Pripyat</eng>
 		<ukr>Знайти схованку Стрільця в Прип'яті</ukr>
-		<fra>Trouver la planque secrète du tireur de Pripyat</fra>
+		<fra>Trouver la cache de Strelok à Pripyat</fra>
 		<pln>Znajdź schowek Striełoka w Prypeci</pln>
 	</string>
 	<string id="cit_doctor_task_1">
@@ -1681,31 +1681,31 @@
 	</string>
 	<string id="cit_doctor_task_2">
 		<rus>Найти комнату с тайником</rus>
-		<eng>Find a room with a hiding</eng>
+		<eng>Find the stash room</eng>
 		<ukr>Знайти кімнату зі схованкою</ukr>
-		<fra>Trouver la chambre abritant la planque secrète</fra>
+		<fra>Trouver la chambre avec la cache</fra>
 		<pln>Znajdź pokój ze schowkiem</pln>
 	</string>
 	<string id="cit_doctor_task_3">
 		<rus>Обследовать тайник</rus>
-		<eng>Explore the hiding</eng>
+		<eng>Explore the stash</eng>
 		<ukr>Обстежити схованку</ukr>
-		<fra>Examiner la cachette</fra>
+		<fra>Examiner la cache</fra>
 		<pln>Zbadaj schowek</pln>
 	</string>
 	<string id="bar_darklab_documents">
 		<rus>Найти вход в лабораторию</rus>
 		<eng>Find the entrance to the laboratory</eng>
 		<ukr>Знайти вхід до лабораторії</ukr>
-		<fra>Trouver l'entrée du laboratoire souterrain</fra>
+		<fra>Trouver l'entrée du laboratoire</fra>
 		<pln>Znajdź wejście do laboratorium</pln>
 	</string>
 	<string id="bar_darklab_documents_1">
-		<rus>Забрать у Борова ключ от лаборатории</rus>
-		<eng>Take the laboratory entrance key from Borov</eng>
-		<ukr>Забрати в Кабана ключ від лабораторії</ukr>
-		<fra>Prendre la clé du laboratoire à Borov</fra>
-		<pln>Weź od Borowa klucz do laboratorium</pln>
+		<rus>Забрать у Борова ключ от входа в лабораторию</rus>
+		<eng>Take the laboratory entrance key from Bauson</eng>
+		<ukr>===Забрати в Кабана ключ від лабораторії</ukr>
+		<fra>Récupérer la clé l'entrée du laboratoire du Ragot</fra>
+		<pln>===Weź od Borowa klucz do laboratorium</pln>
 	</string>
 	<string id="bar_darklab_documents_2">
 		<rus>Выбраться с базы бандитов</rus>
@@ -1718,19 +1718,19 @@
 		<rus>Пробраться на базу</rus>
 		<eng>Sneak in the base</eng>
 		<ukr>Пробратися на базу</ukr>
-		<fra>S'introduire sur la base</fra>
+		<fra>Pénétrer à la base</fra>
 		<pln>Zakradnij się na bazę</pln>
 	</string>
 	<string id="bar_darklab_documents2">
 		<rus>Найти документы в Х-18</rus>
-		<eng>Find documents in X-18</eng>
+		<eng>Find the documents in X-18</eng>
 		<ukr>Знайти документи в Х-18</ukr>
-		<fra>Trouver les documents dans le laboratoire X-18</fra>
+		<fra>Trouver les documents dans X-18</fra>
 		<pln>Znajdź dokumenty w X-18</pln>
 	</string>
 	<string id="bar_darklab_documents2_1">
 		<rus>Найти документы</rus>
-		<eng>Find documents</eng>
+		<eng>Find the documents</eng>
 		<ukr>Знайти документи</ukr>
 		<fra>Trouver les documents</fra>
 		<pln>Znajdź dokumenty</pln>
@@ -1746,26 +1746,26 @@
 		<rus>Открыть кодовую дверь</rus>
 		<eng>Open the code door</eng>
 		<ukr>Відкрити кодові двері</ukr>
-		<fra>Trouver le code de la porte</fra>
+		<fra>Ouvrir la porte à code</fra>
 		<pln>Otwórz drzwi z zamkiem kodowym</pln>
 	</string>
 	<string id="dar_codedoor_1_1">
 		<rus>Найти код к двери</rus>
 		<eng>Find code to the door</eng>
 		<ukr>Знайти код до дверей</ukr>
-		<fra>Découvrir le code ouvrant la porte</fra>
+		<fra>Trouver le code ouvrant la porte</fra>
 		<pln>Znajdź kod do drzwi</pln>
 	</string>
 	<string id="dar_codedoor_1_2">
 		<rus>Открыть дверь с помощью кода</rus>
-		<eng>Open the door with code</eng>
+		<eng>Open the door with the code</eng>
 		<ukr>Відкрити двері за допомогою коду</ukr>
 		<fra>Ouvrir la porte à l'aide du code</fra>
 		<pln>Otwórz drzwi przy pomocy kodu</pln>
 	</string>
 	<string id="dar_codedoor_2">
 		<rus>Открыть дверь в командный центр</rus>
-		<eng>Open the door to command center</eng>
+		<eng>Open the door to the command center</eng>
 		<ukr>Відкрити двері до командного центру</ukr>
 		<fra>Ouvrir la porte du centre de contrôle</fra>
 		<pln>Otwórz drzwi do centrum sterowania</pln>
@@ -1774,119 +1774,119 @@
 		<rus>Найти код к двери</rus>
 		<eng>Find code to the door</eng>
 		<ukr>Знайти код до дверей</ukr>
-		<fra>Découvrir le code ouvrant la porte</fra>
+		<fra>Trouver le code ouvrant la porte</fra>
 		<pln>Znajdź kod do drzwi</pln>
 	</string>
 	<string id="dar_codedoor_2_2">
 		<rus>Открыть дверь с помощью кода</rus>
-		<eng>Open the door with code</eng>
+		<eng>Open the door with the code</eng>
 		<ukr>Відкрити двері за допомогою коду</ukr>
 		<fra>Ouvrir la porte à l'aide du code</fra>
 		<pln>Otwórz drzwi przy pomocy kodu</pln>
 	</string>
 	<string id="val_captive_help">
 		<rus>Отбить долговца</rus>
-		<eng>Save the Duty guy</eng>
+		<eng>Liberate the "Duty" member</eng>
 		<ukr>Відбити «долгівця»</ukr>
-		<fra>Libérer le membre du Devoir</fra>
+		<fra>Libérer le membre du "Devoir"</fra>
 		<pln>Odbij powinnościowca</pln>
 	</string>
 	<string id="val_captive_help_1">
 		<rus>Следовать за Пулей к месту засады</rus>
 		<eng>Follow Bullet to the ambush site</eng>
 		<ukr>Йти за Кулею до місця засідки</ukr>
-		<fra>Suivre Cartouche jusqu'au lieu de l'embuscade</fra>
+		<fra>Suivre la Balle jusqu'au lieu de l'embuscade</fra>
 		<pln>Idź za Nabojem na miejsce zasadzki</pln>
 	</string>
 	<string id="val_captive_help_2">
 		<rus>Уничтожить бандитов и спасти долговца</rus>
-		<eng>Eliminate the bandits and save the Duty guy</eng>
+		<eng>Eliminate the bandits and rescue the "Duty" member</eng>
 		<ukr>Знищити бандитів і врятувати «долгівця»</ukr>
-		<fra>Tuer les bandits et libérer le membre du Devoir</fra>
+		<fra>Éliminer les bandits et sauver le membre du "Devoir"</fra>
 		<pln>Zabij bandytów i uratuj powinnościowca</pln>
 	</string>
 	<string id="val_come_to_trader">
 		<rus>Выбраться через южные ворота</rus>
 		<eng>Get out through the southern gate</eng>
 		<ukr>Вибратися через південні ворота</ukr>
-		<fra>Sortez par la porte Sud</fra>
+		<fra>Sortir par la porte du Sud</fra>
 		<pln>Wydostań się przez południową bramę</pln>
 	</string>
 	<string id="val_come_to_trader_0">
 		<rus>Вернуться к торговцу</rus>
-		<eng>Get back to merchant</eng>
-		<ukr>Повернутися до Крамара</ukr>
-		<fra>Retourner voir le marchand</fra>
+		<eng>Get back to the merchant</eng>
+		<ukr>===Повернутися до Крамара</ukr>
+		<fra>Revenir au marchand</fra>
 		<pln>Wróć do handlarza</pln>
 	</string>
 	<string id="val_come_to_trader_1">
 		<rus>Выбраться из Тёмной Долины</rus>
 		<eng>Get out of the Dark Valley</eng>
 		<ukr>Вибратися з Темної долини</ukr>
-		<fra>Quitter la Vallée Obscure</fra>
+		<fra>Quitter la Vallée Sombre</fra>
 		<pln>Wydostań się z Doliny Mroku</pln>
 	</string>
 	<string id="val_come_to_trader_2">
 		<rus>Показать документы торговцу</rus>
-		<eng>Show documents to merchant</eng>
+		<eng>Show the documents to the merchant</eng>
 		<ukr>Показати документи Крамарові</ukr>
 		<fra>Montrer les documents au marchand</fra>
 		<pln>Pokaż dokumenty handlarzowi</pln>
 	</string>
 	<string id="val_prisoner_help">
 		<rus>Спасти долговца</rus>
-		<eng>Rescue Duty guy</eng>
+		<eng>Rescue "Duty" member</eng>
 		<ukr>Врятувати «долгівця»</ukr>
-		<fra>Sauver le membre du Devoir</fra>
+		<fra>Sauver le membre du "Devoir"</fra>
 		<pln>Uwolnij powinnościowca</pln>
 	</string>
 	<string id="val_prisoner_help_0">
 		<rus>Вытащить долговца из плена бандитов</rus>
-		<eng>Rescue the Duty guy from the bandits captivity</eng>
+		<eng>Rescue the "Duty" guy from the bandits captivity</eng>
 		<ukr>Витягти «долгівця» із полону в бандитів</ukr>
-		<fra>Libérer de prison le membre du Devoir</fra>
+		<fra>Libérer le membre du "Devoir" de prison des bandits</fra>
 		<pln>Wyciągnij powinnościowca z niewoli u bandytów</pln>
 	</string>
 	<string id="val_prisoner_help_main">
 		<rus>Освободить долговца из тюрьмы бандитов</rus>
-		<eng>Free the Duty guy from bandit prison</eng>
+		<eng>Free the "Duty" member from bandits prison</eng>
 		<ukr>Звільнити «долгівця» із в'язниці бандитів</ukr>
-		<fra>Libérer le membre du Devoir de la prison des bandits</fra>
+		<fra>Libérer le membre du "Devoir" de la prison des bandits</fra>
 		<pln>Uwolnij powinnościowca z więzienia bandytów</pln>
 	</string>
 	<string id="aes_military_task_1">
 		<rus>Захватить ворота</rus>
 		<eng>Capture the gate</eng>
 		<ukr>Захопити ворота</ukr>
-		<fra>Capturer la zone du Portail</fra>
+		<fra>Capturer la zone du porte</fra>
 		<pln>Przechwyć bramę</pln>
 	</string>
 	<string id="aes_military_task_10">
 		<rus>Группа "Сокол"</rus>
-		<eng>"Sokol" group</eng>
+		<eng>"Falcon" group</eng>
 		<ukr>Група «Сокіл»</ukr>
-		<fra>Groupe "Sokol"</fra>
+		<fra>Groupe "Faucon"</fra>
 		<pln>Grupa "Sokół"</pln>
 	</string>
 	<string id="aes_military_task_11">
 		<rus>Группа "Гриф"</rus>
-		<eng>"Grif" group</eng>
+		<eng>"Vulture" group</eng>
 		<ukr>Група «Гриф»</ukr>
-		<fra>Groupe "Grif"</fra>
+		<fra>Groupe "Vautour"</fra>
 		<pln>Grupa "Gryf"</pln>
 	</string>
 	<string id="aes_military_task_12">
 		<rus>Группа "Сова"</rus>
-		<eng>"Sova" group</eng>
+		<eng>"Owl" group</eng>
 		<ukr>Група «Сова»</ukr>
-		<fra>Groupe "Sova"</fra>
+		<fra>Groupe "Chouette"</fra>
 		<pln>Grupa "Sowa"</pln>
 	</string>
 	<string id="aes_military_task_13">
 		<rus>Группа "Лунь"</rus>
-		<eng>"Lun" group</eng>
+		<eng>"Harrier" group</eng>
 		<ukr>Група «Лунь»</ukr>
-		<fra>Groupe "Lun"</fra>
+		<fra>Groupe "Busard"</fra>
 		<pln>Grupa "Błotniak"</pln>
 	</string>
 	<string id="aes_military_task_2">
@@ -1907,42 +1907,42 @@
 		<rus>Уничтожить укрепления "Монолита 1"</rus>
 		<eng>Destroy the defences of "Monolith 1"</eng>
 		<ukr>Знищити укріплення Моноліту 1</ukr>
-		<fra>Détruire les fortifications du Monolithe 1</fra>
+		<fra>Détruire les fortifications du "Monolithe 1"</fra>
 		<pln>Zniszcz umocnienia "Monolit 1"</pln>
 	</string>
 	<string id="aes_military_task_5">
 		<rus>Уничтожить укрепления "Монолита 2"</rus>
 		<eng>Destroy the defences of "Monolith 2"</eng>
 		<ukr>Знищити укріплення Моноліту 2</ukr>
-		<fra>Détruire les fortifications du Monolithe 2</fra>
+		<fra>Détruire les fortifications du "Monolithe 2"</fra>
 		<pln>Zniszcz umocnienia "Monolit 2"</pln>
 	</string>
 	<string id="aes_military_task_6">
 		<rus>Группа "Сапсан"</rus>
-		<eng>"Sapsan" group</eng>
+		<eng>"Peregrine" group</eng>
 		<ukr>Група «Сапсан»</ukr>
-		<fra>Groupe "Sapsan"</fra>
+		<fra>Groupe "Pèlerin"</fra>
 		<pln>Grupa "Krogulec"</pln>
 	</string>
 	<string id="aes_military_task_7">
 		<rus>Группа "Коршун"</rus>
-		<eng>"Korshun" group</eng>
+		<eng>"Kite" group</eng>
 		<ukr>Група «Шуліка»</ukr>
-		<fra>Groupe "Korshun"</fra>
+		<fra>Groupe "Milan"</fra>
 		<pln>Grupa "Orzeł"</pln>
 	</string>
 	<string id="aes_military_task_8">
 		<rus>Группа "Ястреб"</rus>
-		<eng>"Yastreb" group</eng>
+		<eng>"Hawk" group</eng>
 		<ukr>Група «Яструб»</ukr>
-		<fra>Groupe "Yastreb"</fra>
+		<fra>Groupe "Autour"</fra>
 		<pln>Grupa "Jastrząb"</pln>
 	</string>
 	<string id="aes_military_task_9">
 		<rus>Группа "Пустельга"</rus>
-		<eng>"Pustelga" group</eng>
+		<eng>"Kestrel" group</eng>
 		<ukr>Група «Боривітер»</ukr>
-		<fra>Groupe "Pustelga"</fra>
+		<fra>Groupe "Crécerelle"</fra>
 		<pln>Grupa "Pustułka"</pln>
 	</string>
 </string_table>
