@@ -4457,32 +4457,6 @@
 		<ukr>Гіперабсолют. Результат роботи групи вчених, що займаються розробкою нових абсолютів і гіпермодифікатів артефактів. За виглядом нагадує утворення з безліччю переплетених променів які виходять з нього, які швидше за все і забезпечують таке значне виведення радіації, а також захист від неї, підйом життєвих сил і тонусу у власника артефакту, але головна його властивість: він, як "Камінь Удачі" і "Живе Серце", здатний воскрешати мертвих. Рідкісна субстанція, у вільному обігу й продажу не зустрічається. Є припущення, що існує рецепт на даний артефакт, але хто ним володіє, залишається загадкою, так як бачили це утворення всього кілька вчених, яких нині, швидше за все, немає в живих. В силу великого числа складових компонентів для виготовлення цього артефакту його вага перевищує всі відомі артефакти Зони. Ціна не визначена.</ukr>
 		<pln>Hiperabsolut. Rezultat pracy grupy naukowców, zajmujących się opracowaniem nowych absolutów i hipermodyfikatów. Na pierwszy rzut oka przypomina twór z mnóstwem wychodzących z niego, wijących się promieni, które najprawdopodobniej są odpowiedzialne za znaczne odprowadzanie radiacji, a tym samym obronę przed nią i wzrost witalności posiadacza artefaktu. Ale jego najważniejszą cechą jest to, że podobnie jak "Kamień Powodzenia" i "Żywe Serce", zdolny jest wskrzeszać zmarłych. Rzadka substancja, w wolnym obrocie i sprzedaży nie występuje. Przypuszcza się, że istnieje recepta na dany artefakt, lecz kto ją posiada, pozostaje zagadką, ponieważ przy jego wykształceniu było tylko kilku naukowców, których obecnie, najprawdopodobniej, nie ma już wśród żywych. Ze względu na dużą liczbę składników koniecznych do wytworzenia tego artefaktu jego waga przekracza ciężar wszystkich znanych artefaktów w Zonie. Cena nie jest określona.</pln>
 	</string>
-	<!-- !!!! Удалить для НИ -->
-	<string id="af_zvezda_proroka2">
-		<rus>"Модифицированная Звезда Пророка"</rus>
-		<eng>"Modified Prophet's Star"</eng>
-		<ukr>"Модифікована Зірка Пророка"</ukr>
-		<pln>"Zmodyfikowana Gwiazda Proroka"</pln>
-	</string>
-	<string id="af_zvezda_proroka2_desc">
-		<rus>Невероятная модификация. Единственная такая в Зоне. Ибо оригинальный артефакт "Звезда Пророка" был каким-то образом изменён Вожаком так, что получил практически идеальные свойства. Он даёт абсолютную защиту от основных повреждений и при этом позволяет обходить ограничение на макcимально возможную защиту артефактами на поясе. Плюс к этому он стал в полтора раза легче оригинала. Вожак просто Мастер, что тут скажешь!</rus>
-		<eng>An unbelievable modification. One of the kind in the Zone. The original "Prophet's Star" artifact has somehow been so altered by Chieftain, that it received almost all the positive qualities. It renders complete protection from most of injuries and also lifts the restriction on maximum on-belt artifact protection. In addition to that, it weighs one and a half times less than the original artifact. What can I say? Chieftain is a real master!</eng>
-		<ukr>Неймовірна модифікація. Єдина така в Зоні. Бо оригінальний артефакт "Зірка Пророка" був якимось чином змінений Ватажком так, що отримав практично ідеальні властивості. Він дає абсолютний захист від основних пошкоджень і при цьому дозволяє обходити обмеження на макcимально можливий захист артефактами на поясі. Плюс до цього він став у півтора рази легший оригіналу. Ватажок просто Майстер, що тут скажеш!</ukr>
-		<pln>Niewiarygodna modyfikacja. Jedyna taka w Zonie. Oryginalny artefakt "Gwiazda Proroka" został w jakiś sposób tak przemieniony przez Watażkę, że otrzymał praktycznie idealne właściwości. Teraz zapewnia absolutną ochronę przed większością obrażeń a także omija ograniczenie maksymalnej możliwej ochrony artefaktów na pasie. I do tego jest półtora raza lżejszy od oryginału. Watażka to po prostu Mistrz, co tu mówić!</pln>
-	</string>
-	<string id="af_zvezda_proroka3">
-		<rus>"Модифицированная Звезда Пророка 2"</rus>
-		<eng>"Modified Prophet's Star II"</eng>
-		<ukr>"Модифікована Зірка Пророка 2"</ukr>
-		<pln>"Zmodyfikowana Gwiazda Proroka 2"</pln>
-	</string>
-	<string id="af_zvezda_proroka3_desc">
-		<rus>Обитель Зла немного улучшил и без того великолепный артефакт, дополнительно снизив его вес ещё в полтора раза.</rus>
-		<eng>Resident Evil slightly improved already excellent artifact by making it one and a half times lighter in weight.</eng>
-		<ukr>Обитель Зла трохи поліпшив і без того чудовий артефакт, додатково знизивши його вагу ще в півтора рази.</ukr>
-		<pln>Resident Evil trochę udoskonalił i tak już wspaniały artefakt, dodatkowo obniżywszy jego wagę o półtora raza.</pln>
-	</string>
-	<!-- Удалить энд -->
 	<string id="af_gelion">
 		<rus>"Гелион"</rus>
 		<eng>"Hellion"</eng>
@@ -7040,15 +7014,15 @@
 		<pln>Stacjonarny teleport przy Monolicie aktywowany jest "Złotą Rybką". Trzeba stanąć na wprost Monolitu i wyrzucić artefakt. Otworzy się teleport, który przeniesie cię do hangaru na CEA...\nPowodzenia, nieznajomy stalkerze.\n\nStriełok.</pln>
 	</string>
 	<string id="strelok_pda_info2_name">
-		<rus>Секретные переходы Стрелка</rus>
-		<eng>===Секретные переходы Стрелка</eng>
-		<ukr>Секретні переходи Стрільця</ukr>
-		<pln>===Секретные переходы Стрелка</pln>
+		<rus>Секретные переходы торговцев</rus>
+		<eng>===Секретные переходы торговцев</eng>
+		<ukr>===Секретные переходы торговцев</ukr>
+		<pln>===Секретные переходы торговцев</pln>
 	</string>
 	<string id="strelok_pda_info2_text">
-		<rus>Записал на ПДА наводки, чтобы не забыть.\n \n Бар-Кордон: Чёрный ход из Бара за подсобкой Бармена,\n Бар-Припять: Кладовка рядом с подсобкой Бармена,\n Кордон-Бар: В бункере у Сидоровича,\n Припять-Бар: Дверь в углу дома за Доктором.\n \n Чтобы попасть в подсобку и кладовку Бара, нужно переговорить с Барменом. \n Чтобы попасть в каморку Сидоровича, нужно переговорить с ним. \n Чтобы открыть дверь в углу дома в Ц.Припяти, нужно переговорить с Доктором, ключи у него.</rus>
+		<rus>Записал на ПДА наводки, чтобы не забыть.\n \n Бар-Кордон: Чёрный ход из Бара за подсобкой Бармена,\n Бар-Припять: Кладовка рядом с подсобкой Бармена,\n Кордон-Бар: В бункере у Сидоровича,\n Припять-Бар: Дверь в углу дома за Доктором.\n \n Чтобы попасть в подсобку и кладовку Бара, нужно переговорить с Барменом. \n Чтобы попасть в каморку Сидоровича, нужно переговорить с ним. \n Чтобы открыть дверь в углу дома в Ц.Припяти, нужно переговорить с Доктором.</rus>
 		<eng>===There's only one note in the PDA:\n \n"In one of the labs I found a diagram of the reserve tunnels for emergency evacuation. The entrances to these tunnels have been disguised as ordinary doors and basements. The only paths I could've figured out and tested are the paths from Pripyat and Cordon straight to the Bar and back. I wrote down the tips to them so as not to forget.\n \nBar-Cordon: back entrance to the bar behind Barkeep's counter,\nBar-Pripyat: the closet next to the back entrance to the bar,\nCordon-Bar: in the basement of a house in the rookie village,\nPripyat-Bar: the door in the corner of the building behind Doctor.\n \nI hope no one knows about them.</eng>
-		<ukr>Записав на КПК наведення, щоб не забути.\n \n Бар-Кордон: Чорний хід з Бара за підсобною Бармена,\n Бар-Прип'ять: Комора поруч з підсобною Бармена,\n Кордон-Бар: У бункері у Сидоровича,\n Прип'ять-Бар: Двері в кутку будинку за Доктором.\n \n Щоб потрапити у підсобку і комору Бара, потрібно переговорити з Барменом. \n Щоб потрапити в комірчину Сидоровича, потрібно переговорити з ним. \n Щоб відкрити двері в кутку будинку в Ц.Прип'яті, потрібно переговорити з Доктором, ключі у нього.</ukr>
+		<ukr>===На КПК одна замітка:\n\n"В одній з лабораторій знайшов схему резервних тунелів для аварійної евакуації. Входи у ці тунелі замасковані під звичайні двері або підвали. Єдине, що зміг розібрати та перевірити - це шляхи з Прип'яті та Кордону прямо у Бар і назад. Записав на КПК наводки, щоб не забути.\n\nБар-Кордон: Чорний хід з Бара за стійкою Бармена,\nБар-Прип'ять: Комора поруч з чорним ходом з Бара,\nКордон-Бар: у підвалі будинку у Селі Новачків,\nПрип'ять-Бар: Двері у кутку будинку за Доктором.\n\nСподіваюсь, що про них ніхто більше не знає.</ukr>
 		<pln>===W PDA jest jedna notatka:\n \n"W jednym z laboratoriów znalazłem schemat rezerwowych tuneli do awaryjnej ewakuacji. Wejścia w te tunele są zamaskowane jak zwyczajne drzwi albo piwnice. Jedyne, co zdołałem rozebrać i sprawdzić - to drogi z Prypeci i Kordonu prosto do Baru i z powrotem. Zapisałem na PDA namiary, by nie zapomnieć.\n \nBar-Kordon: Tylne wyjście z Baru za bufetem Barmana,\nBar-Prypeć: Spiżarnia przy tylnym wyjściu z Baru,\nKordon-Bar: W piwnicy domu w wiosce Nowicjuszy,\nPrypeć-Bar: Drzwi w rogu domu za Doktorem.\n \nMam nadzieję, że nikt więcej o nich nie wie".</pln>
 	</string>
 	<string id="tex_about_life_heart">
@@ -7226,14 +7200,6 @@
 		<ukr>Бандит</ukr>
 		<pln>Bandyta</pln>
 	</string>
-	<!-- !!!! удалить для ни -->
-	<string id="ecolog_wound_bunker_group">
-		<rus>Группа учёных</rus>
-		<eng>Group of scientists</eng>
-		<ukr>Група вчених</ukr>
-		<pln>Grupa naukowców</pln>
-	</string>
-	<!-- энд -->
 	<string id="dyak_captive">
 		<rus>Пленный разведчик</rus>
 		<eng>Captured scout</eng>
