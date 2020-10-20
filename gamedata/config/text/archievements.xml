@@ -761,36 +761,6 @@
 		<fra>Vous avez trouvé toutes les caches du collectionneur. Le travail était très difficile, mais vous l'avez fait, pour lequel vous obtenez cet exploit!</fra>
 		<pln>Znalazłeś wszystkie schowki Kolekcjonera. Robota była bardzo trudna, ale poradziłeś sobie, za co też otrzymujesz to osiągnięcie!</pln>
 	</string>
-	<!-- !!!! Удалить для НИ -->
-	<string id="acv_food">
-		<rus>Хлеборезка</rus>
-		<eng>Pie Hole</eng>
-		<ukr>Хліборізка</ukr>
-		<fra>Trancheur à pain</fra>
-		<pln>Pasibrzuch</pln>
-	</string>
-	<string id="acv_food_desc">
-		<rus>Вы собрали 200 съедобных предметов. Совершенно очевидно, что Вы очень любите есть, иначе зачем Вам сразу столько?</rus>
-		<eng>You have collected 200 edible items. It is obvious that you are very fond of eating, otherwise why would you need so much food at once?</eng>
-		<ukr>Ви зібрали 200 їстівних предметів. Цілком очевидно, що Ви дуже любите їсти, інакше навіщо Вам одразу стільки?</ukr>
-		<fra>Vous avez collecté 200 articles comestibles. Il est évident que vous aimez vraiment manger, sinon pourquoi avez-vous besoin de beaucoup à la fois?</fra>
-		<pln>Zebrałeś 200 jadalnych przedmiotów. To oczywiste, że bardzo kochasz jedzenie, inaczej po co by ci tego tyle było?</pln>
-	</string>
-	<string id="acv_vodka">
-		<rus>Закодированный</rus>
-		<eng>Alcoholism-Coded</eng>
-		<ukr>Закодований</ukr>
-		<fra>Codé</fra>
-		<pln>Esperal</pln>
-	</string>
-	<string id="acv_vodka_desc">
-		<rus>Вы собрали 300 бутылок водки. Иметь такое количество этого всеми любимого напитка и не выпить его - под силу только очень крепко закодированному сталкеру!</rus>
-		<eng>You have collected 300 bottles of vodka. To have this quantity of this favorite drink without drinking it is in power of only a very hard-coded stalker!</eng>
-		<ukr>Ви зібрали 300 пляшок горілки. Мати таку кількість цього всіма улюбленого напою і не випити його - під силу тільки дуже міцно закодованому сталкеру!</ukr>
-		<fra>Vous avez recueilli 300 bouteilles de vodka. Avoir autant de cette boisson favorite et ne pas en boire - seul un Stalker très codé peut le faire!</fra>
-		<pln>Zebrałeś 300 butelek wódki. Mieć taką ilość tego ukochanego przez wszystkich napoju i nie wypić go  - to się może udać tylko "zaszytemu" stalkerowi!</pln>
-	</string>
-	<!-- Удалить энд -->
 	<string id="acv_buliz">
 		<rus>Каменщик</rus>
 		<eng>Mason</eng>
@@ -1897,22 +1867,6 @@
 		<fra>Recueillez-vous des masques à gaz pour la collecte ou prévoyez-vous ouvrir un magasin? Ensuite, il est clair que plus de 100 snorks ont été tués: j'aime la livraison gratuite - ils apportent le bon.</fra>
 		<pln>Zbierasz maski przeciwgazowe do kolekcji albo planujesz otworzyć sklep? Wtedy było by zrozumiałe, po co zabijać ponad 100 snorków: marzy ci się bezpłatna dostawa - oni sami przynoszą co potrzebne.</pln>
 	</string>
-	<!-- !!!! Удалить для НИ -->
-	<string id="acv_ele">
-		<rus>Электрик</rus>
-		<eng>Electrician</eng>
-		<ukr>Електрик</ukr>
-		<fra>Électricien</fra>
-		<pln>Elektryk</pln>
-	</string>
-	<string id="acv_ele_desc">
-		<rus>Вас так и тянет отключать всё, что можно: установки в лабораториях, Выжигатель мозгов, защитное поле на Генераторах, в Мёртвом Городе. Надеемся, дома у вас всё в порядке с электричеством.</rus>
-		<eng>You always feel like switching something off, whatever it is: devices in laboratories, the Brain Scorcher, the protective field on Generators, in the Dead City. We hope you have no problems with electricity at home.</eng>
-		<ukr>Вас так і тягне відключати все, що можна: установки у лабораторіях, Випалювач мізків, захисне поле на Генераторах, у Мертвому Місті. Сподіваємося, вдома у вас все в порядку з електрикою.</ukr>
-		<fra>Vous êtes tellement tenté de désactiver tout ce que vous pouvez: installations dans des laboratoires, scorcher de cerveau, champ de protection sur des générateurs, à Dead City. Nous espérons que vous avez tout à la maison avec l'électricité.</fra>
-		<pln>Ciągnie cię by wyłączać wszystko co się da: instalacje w laboratoriach, Mózgozwęglacz, pole ochronne na Generatorach, w Martwym Mieście. Mamy nadzieję, że w domu też wszystko wyłączasz z prądu.</pln>
-	</string>
-	<!-- Удалить энд -->
 	<string id="acv_svin">
 		<rus>Свинопас</rus>
 		<eng>Swineherd</eng>
