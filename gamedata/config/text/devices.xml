@@ -1102,11 +1102,11 @@
 		<pln>Dyskietka</pln>
 	</string>
 	<string id="ekza_akkumul">
-		<rus>Блок питания</rus>
-		<eng>Power Supply</eng>
-		<ukr>Блок живлення</ukr>
-		<fra>Alimentation</fra>
-		<pln>Blok zasilania</pln>
+		<rus>Аккумулятор повышенной мощности</rus>
+		<eng>===Power Supply</eng>
+		<ukr>===Блок живлення</ukr>
+		<fra>===Alimentation</fra>
+		<pln>===Blok zasilania</pln>
 	</string>
 	<string id="elek_plata">
 		<rus>Плата</rus>
@@ -2479,11 +2479,11 @@
 		<pln>%c[default]Otrzymana drogą transmutacji kolba z absolutnie nowymi właściwościami. Po umieszczeniu jej na pasie niezwykle efektywnie wyprowadza całą radiację z nosiciela. Dodatkowo jeszcze tworzy nadzwyczaj efektywną ochronę przed zewnętrznymi źródłami radiacji.</pln>
 	</string>
 	<string id="item_ekza_akkumul">
-		<rus>Блок питания для зкзоскелетов сталкеров группировки Свобода. Отличается от подобных моделей для других зкзоскелетов повышенной ёмкостью и характером разъёмов.</rus>
-		<eng>An exoskeleton power supply for the stalkers of the Freedom faction. It differs from similar models for other exoskeletons by having increased battery capacity and a number of additional connectors.</eng>
-		<ukr>Блок живлення для екзоскелетів сталкерів угрупування "Воля". Відрізняється від подібних моделей для інших екзоскелетів підвищеною ємністю і характером роз'ємів.</ukr>
-		<fra>Alimentation électrique pour les stalker du groupe La Liberté. Il diffère des modèles similaires pour d'autres squelettes avec une capacité accrue et le caractère des connecteurs.</fra>
-		<pln>Blok zasilania do egzoszkieletów stalkerów ugrupowania "Wolność". Odróżnia się od podobnych modeli do innych egzoszkieletów podwyższoną pojemnością i rodzajem podłączeń.</pln>
+		<rus>Аккумулятор повышенной мощности для питания зкзоскелетов сталкеров группировки Свобода. Отличается от подобных моделей для других зкзоскелетов повышенной ёмкостью и мощностью. Данный аккумулятор имеет более мощные контактные соединения, обеспечивающие большие токи отдачи, что может быть использовано в других изделиях, требующих большие токи для нагрузки. Для зарядки данного аккумулятора в условиях Зоны необходимо использование специальных устройств, подпитываемых энергетическими артефактами.</rus>
+		<eng>===An exoskeleton power supply for the stalkers of the Freedom faction. It differs from similar models for other exoskeletons by having increased battery capacity and a number of additional connectors.</eng>
+		<ukr>===Блок живлення для екзоскелетів сталкерів угрупування "Воля". Відрізняється від подібних моделей для інших екзоскелетів підвищеною ємністю і характером роз'ємів.</ukr>
+		<fra>===Alimentation électrique pour les stalker du groupe La Liberté. Il diffère des modèles similaires pour d'autres squelettes avec une capacité accrue et le caractère des connecteurs.</fra>
+		<pln>===Blok zasilania do egzoszkieletów stalkerów ugrupowania "Wolność". Odróżnia się od podobnych modeli do innych egzoszkieletów podwyższoną pojemnością i rodzajem podłączeń.</pln>
 	</string>
 	<string id="item_elek_plata">
 		<rus>Плата с деталями от бобинного магнитофона прошлых лет. Элементы платы хоть и большие по размерам, но сделаны с доперестроечной совдеповской добротностью и надёжностью.</rus>

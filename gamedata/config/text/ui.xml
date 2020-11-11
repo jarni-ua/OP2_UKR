@@ -1068,6 +1068,13 @@
 		<fra>Super saut</fra>
 		<pln>Superskok</pln>
 	</string>
+	<string id="ui_outfit_funcs">
+		<rus>Управление модулями брони</rus>
+		<eng>Armor modules management</eng>
+		<ukr>Управління модулями броні</ukr>
+		<fra>Gestion des modules d'armure</fra>
+		<pln>Zarządzanie modułami pancerza</pln>
+	</string>
 	<string id="kb_save_on_level">
 		<rus>Сохранить на территории</rus>
 		<eng>Save at level</eng>
@@ -5559,6 +5566,20 @@
 	<string id="st_foto_focus">
 		<rus>Цель в фокусе</rus>
 		<ukr>Ціль у фокусі</ukr>
+	</string>
+	<string id="ui_hud_inviz_on">
+		<rus>Невидимость активирована</rus>
+		<ukr>Невидимість активована</ukr>
+		<eng>Invisibility activated</eng>
+		<fra>Invisibilité activée</fra>
+		<pln>Aktywowano niewidzialność</pln>
+	</string>	
+	<string id="ui_hud_inviz_off">
+		<rus>Невидимость деактивирована</rus>
+		<ukr>Невидимість деактивовано</ukr>
+		<eng>Invisibility deactivated</eng>
+		<fra>Invisibilité désactivée</fra>
+		<pln>Wyłączono niewidzialność</pln>
 	</string>	
 	<string id="ui_dynamic_anoms_hint">
 		<rus>При включённой опции - аномалии пересоздаются (меняют своё положение) при каждой загрузке сейва и после Выброса. В противном случае - только после Выброса.\nПосле активации данной опции необходимо загрузить игру для применения изменений.\n%c[red]Внимание! Опция не применяется к текущей загруженной игре!%c[default]</rus>
