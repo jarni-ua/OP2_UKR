@@ -69,7 +69,7 @@
 
 	<string id="snp_kotobegemot1_0">
 		<rus>Здорово, Котопёс! Я к тебе по делу.</rus>
-		<eng>===Hello, CatDog! Я к тебе по делу.</eng>
+		<eng>Hello, CatDog! I'm here on business.</eng>
 		<ukr>Здорово, Котопес! Я до тебе по ділу.</ukr>
 		<pln>===Cześć, Kotopies! Я к тебе по делу.</pln>
 	</string>
@@ -99,7 +99,7 @@
 	</string>
 	<string id="snp_kotobegemot1_5">
 		<rus>Хамить завязывай, я Котобегемот, не коверкай моё имя, будь добр. Выкладывай, что у тебя?</rus>
-		<eng>===Хамить завязывай, я Котобегемот, не коверкай моё имя, будь добр. Выкладывай, что у тебя?</eng>
+		<eng>Stop being rude, I'm Catbehemoth, don't misrepresent my name, please. What do you want?</eng>
 		<ukr>Грубіянити зав'язуй, я Котобегемот, не перекручуй моє ім'я, будь добрий. Викладай, що у тебе?</ukr>
 		<pln>===Хамить завязывай, я Котобегемот, не коверкай моё имя, будь добр. Выкладывай, что у тебя?</pln>
 	</string>
@@ -159,7 +159,7 @@
 	</string>
 	<string id="snp_kotobegemot1_15">
 		<rus>Тут недалече есть Дикая Территория. Пойдёшь туда и найдёшь мой тайник - совсем недалеко от недостроя, за зелёным сарайчиком. То, что в тайнике, можешь себе оставить.</rus>
-		<eng>===It's not far from here, in the Wild Territory. You go there and find my stash - it's behind a broken gate. You can keep what's in it.</eng>
+		<eng>Nearby, there's the Wild Territory. You go there and find my cache - it's not far from the unfinished building, behind a green shed. You can keep what's in the cache for yourself.</eng>
 		<ukr>Тут недалечко є Дика Територія. Підеш туди і знайдеш мою схованку - зовсім недалеко від недобудови, за зеленим сарайчиком. Те, що у схованці, можеш собі залишити.</ukr>
 		<pln>===Tu niedaleko jest Dzicz. Pójdziesz tam i znajdziesz mój schowek - za rozwaloną bramą. To co znajdziesz w schowku, możesz sobie wziąść.</pln>
 	</string>
@@ -585,13 +585,13 @@
 	</string>
 	<string id="snp_fenrir2_7">
 		<rus>Красава, Братишка! Тебе надо сходить в Восточную часть Припяти, здесь недалеко. Там, где лоза обвивает дом, и есть моя лёжка. Я с этой лёжки на площади у памятника полковника зажмурил. И не забудь там ликвидировать тех, кто тебя ждать там будет.</rus>
-		<eng>===Terrific, Brother! Do you want some "weed" to smoke? You need to go to the Eastern part of Pripyat, it's not far from here. I have a "sniper's post" in a building with a huge vine wrapped around it. I liquidated a colonel in the square next to Lenin's statue from there. And don't forget to eliminate anyone that's waiting for you.</eng>
+		<eng>Terrific, Brother! You need to go to the Eastern part of Pripyat, it's not far from here. I have a "sniper's post" in a building with a huge vine wrapped around it. I liquidated a colonel in the square next to Lenin's statue from there. And don't forget to eliminate anyone that's waiting for you.</eng>
 		<ukr>Красава, Братику! Тобі треба сходити у Східну частину Прип'яті, тут недалеко. Там, де лоза обвиває будинок, і є моє лежання. Я з цього лежання на площі біля пам'ятника полковника зажмурив. І не забудь там ліквідувати тих, хто тебе чекати там буде.</ukr>
 		<pln>===Pięknie, Braciszku! Sziszy chcesz pociągnąć? Musisz iść do Wschodniej części Prypeci, tu niedaleko. Tam, gdzie łoza owija dom, jest moje leże. Z tego leża, na placu przy pomniku, pułkownika zgasiłem. I nie zapomnij zlikwidować tych, którzy będą tam na ciebie czekać.</pln>
 	</string>
 	<string id="snp_fenrir2_8">
 		<rus>Опять лезть. Я на Кордоне на дерево кое-как забрался, а тут по лозе карабкаться. Ладно, отправляюсь в Восточную Припять.</rus>
-		<eng>===Climbing again. I barely made it up the tree at the Cordon, and now you want me to somehow climb up a vine while I'm stoned. I'll go to Eastern Pripyat.</eng>
+		<eng>Climbing again. I somehow climbed a tree at the Cordon, and now you want me to climb up a vine. Okay, I'm going to Eastern Pripyat.</eng>
 		<ukr>Знову лізти. Я на Кордоні на дерево ледве виліз, а тут по лозі дертися. Гаразд, йду у Східну Прип'ять.</ukr>
 		<pln>===Znowu wspinaczka. Już na Kordonie ledwo na drzewo wlazłem, a teraz chcesz, bym upalony po łozie się wspinał. Pójdę do Wschodniej Prypeci.</pln>
 	</string>
@@ -616,7 +616,7 @@
 	</string>
 	<string id="snp_fenrir3_3">
 		<rus>Да, охота за мной ведётся серьёзная. Но ничё - прорвёмся. Судя по тому, что ты здесь и живой - ты настоящий мастер!</rus>
-		<eng>===Yup, they're really serious about hunting me. But it doesn't matter - you killed them all, judging by the fact that you're still alive.</eng>
+		<eng>Yes, the hunt for me is serious. But never mind - we'll get through this. Judging by the fact that you're here and alive - you're a real master!</eng>
 		<ukr>Так, полювання за мною ведеться серйозне. Але нічо - прорвемося. Судячи з того, що ти тут і живий - ти справжній майстер!.</ukr>
 		<pln>===Tak, polowanie na mnie robi się coraz ostrzejsze. Ale to nic - przedrzemy się. Sądząc po tym, że ciągle żyjesz.</pln>
 	</string>
@@ -652,37 +652,37 @@
 	</string>
 	<string id="snp_fenrir3_66">
 		<rus>Ты меня недооцениваешь, Фенрир! Кран я найду. Да и тропку в Лиманск я знаю.</rus>
-		<eng>===Don't underestimate me, Fenrir! I'll find the crane. But I don't know the way into Limansk.</eng>
+		<eng>You underestimate me, Fenrir! I'll find the crane. And I know the way to Limansk.</eng>
 		<ukr>Ти мене недооцінюєш, Фенрір! Кран я знайду. Та й стежинку у Лиманськ я знаю.</ukr>
 		<pln>===Nie doceniasz mnie, Fenrir! Dźwig znajdę. Tylko drogi do Limańska nie znam.</pln>
 	</string>
 	<string id="snp_fenrir3_77">
 		<rus>Ну раз тропку знаешь, то ещё проще. Что-то мне подсказывает, что ты справишься и с этим моим заданием.</rus>
-		<eng>===Unfortunately, I can't help you. The fact is that the path I used is now impassable. You need to find another way there. Something tells me that you can handle it.</eng>
+		<eng>Well, since you know the path, it's even easier. Something tells me that you can handle it.</eng>
 		<ukr>Ну раз стежку знаєш, то ще простіше. Щось мені підказує, що ти впораєшся і з цим моїм завданням.</ukr>
 		<pln>===Niestety, nie mogę ci pomóc. Chodzi o to, że ścieżka, z której korzystałem, teraz jest już zamknięta. Musisz odszukać tam jakąś drogę. Coś mi podpowiada, że sobie poradzisz.</pln>
 	</string>
 	<string id="snp_fenrir3_9">
 		<rus>Ах, да, чуть не забыл, тебе нужно пообщаться с Праймом. Тут люди поговаривают, что на станции зенитно-ракетного комплекса, проще сказать, на ЗРК «Волхов» нашли кодовую дверь. Код не известен, но, думаю, Прайм что-то знает по этому поводу.</rus>
-		<eng>===Ах, да, чуть не забыл, тебе нужно пообщаться с Праймом. Тут люди поговаривают, что на станции зенитно-ракетного комплекса, проще сказать, на ЗРК «Волхов» нашли кодовую дверь. Код не известен, но, думаю, Прайм что-то знает по этому поводу.</eng>
+		<eng>Oh yeah, I almost forgot, you need to talk to Prime. People around here are saying that a coded door has been found at the Anti-aircraft Missile Complex, or should I say, at the "Volkhov" SAM site, it's much easier. The code isn't known, but I think Prime might know something about it.</eng>
 		<ukr>Ах, так, мало не забув, тобі потрібно поспілкуватися з Праймом. Тут люди подейкують, що на станції зенітно-ракетного комплексу, простіше сказати, на ЗРК «Волхов» знайшли кодові двері. Код не відомий, але, думаю, Прайм щось знає з цього приводу.</ukr>
 		<pln>===Ах, да, чуть не забыл, тебе нужно пообщаться с Праймом. Тут люди поговаривают, что на станции зенитно-ракетного комплекса, проще сказать, на ЗРК «Волхов» нашли кодовую дверь. Код не известен, но, думаю, Прайм что-то знает по этому поводу.</pln>
 	</string>
 	<string id="snp_fenrir3_10">
 		<rus>Благодарю за наводку, сейчас выясним. А почему ты это всё рассказываешь именно мне?</rus>
-		<eng>===Благодарю за наводку, сейчас выясним. А почему ты это всё рассказываешь именно мне?</eng>
+		<eng>Thank you for the tip, we'll find out. So why are you telling me all this?</eng>
 		<ukr>Дякую за наводку, зараз з'ясуємо. А чому ти це все розповідаєш саме мені?</ukr>
 		<pln>===Благодарю за наводку, сейчас выясним. А почему ты это всё рассказываешь именно мне?</pln>
 	</string>
 	<string id="snp_fenrir3_11">
 		<rus>Ты уже неоднократно доказал, что умеешь решать сложные задачи. А за такой ребус не всякий возьмётся.</rus>
-		<eng>===Ты уже неоднократно доказал, что умеешь решать сложные задачи. А за такой ребус не всякий возьмётся.</eng>
+		<eng>You have proven many times that you can solve complex problems. And not everyone will take on such a rebus.</eng>
 		<ukr>Ти вже неодноразово довів, що вмієш вирішувати складні завдання. А за такий ребус не всякий візьметься.</ukr>
 		<pln>===Ты уже неоднократно доказал, что умеешь решать сложные задачи. А за такой ребус не всякий возьмётся.</pln>
 	</string>
 	<string id="snp_fenrir3_12">
 		<rus>Очень интересно! Пойду с Праймом пообщаюсь, с ним я уже знаком.</rus>
-		<eng>===Очень интересно! Пойду с Праймом пообщаюсь, с ним я уже знаком.</eng>
+		<eng>Very interesting! I'm going to talk to Prime, I've already met him.</eng>
 		<ukr>Дуже цікаво! Піду з Праймом поспілкуюся, з ним я вже знайомий.</ukr>
 		<pln>===Очень интересно! Пойду с Праймом пообщаюсь, с ним я уже знаком.</pln>
 	</string>
@@ -695,25 +695,25 @@
 	</string>
 	<string id="snp_fenrir4_1">
 		<rus>Значит, не вычислили мою лёжку в Лиманске - это хорошо. Про балкон я чё-то запамятовал. Контролёры, говоришь? Ну извини, они меня не спрашивают, где им селиться.</rus>
-		<eng>===So, they didn't know about my sniper's post in Limansk - that's good. I forgot about the balcony. Controllers, you say? You must have climbed so high that they spotted you and crawled out of their burrows, ha-ha.</eng>
+		<eng>So, they didn't know about my sniper's post in Limansk - that's good. I forgot about the balcony. Controllers, you say? Well, sorry, they don't ask me where to stay.</eng>
 		<ukr>Значить, не вирахували моє лежання у Лиманську - це добре. Про балкон я щось забув. Контролери, кажеш? Ну вибачай,.вони мене не питають, де їм селитися.</ukr>
 		<pln>===Znaczy, nie wykryli mojego leża w Limańsku - to dobrze. Z tym balkonem, to coś sobie przypominam. Kontrolerzy, mówisz? Skoro tak wysoko wlazłeś - to cię takiego słodkiego zauważyli, i ze swoich nor powyłazili, ha-ha.</pln>
 	</string>
 	<string id="snp_fenrir4_2">
 		<rus>Хорош зубы мне заговаривать. Ещё что-то от меня нужно?</rus>
-		<eng>===Stop smiling. Come on, I need a smoke, you sent me all over the Zone and now I need to relax.</eng>
+		<eng>Stop talking to me. Anything else you need from me?</eng>
 		<ukr>Вистачить зуби мені заговорювати. Ще щось від мене потрібно?</ukr>
 		<pln>===Przestań zęby suszyć. Dawaj, jeszcze raz się zaciągnę, przegoniłeś mnie po całej Zonie, trzeba się odprężyć.</pln>
 	</string>
 	<string id="snp_fenrir4_3">
 		<rus>Вот ещё что: план кончается, а без него я совсем хреново себя чувствую. Поговори с Бубулюкой, у него с этим делом должен быть порядок. Думаю, он его где-то в нычке держит. Спроси у него.</rus>
-		<eng>===What a question! Of course, take it. By the way: I've running low, and I feel shitty without it. Talk to Bubulyuka, he should have some for you. I know he keeps some weed in his stash. Go ask him.</eng>
+		<eng>There is something else: I'm running out of weed, and without it I feel completely shitty. Talk to Bubulyuka, he must have some for you. I think he's hiding it somewhere. Ask him.</eng>
 		<ukr>Та ось ще що: план кінчається, а без нього я зовсім хріново себе почуваю. Поговори з Бубулюкою, у нього з цією справою повинен бути порядок. Думаю, він його десь у ничці тримає. Запитай у нього.</ukr>
 		<pln>===Nie ma sprawy! Oczywiście, trzymaj. Przy okazji: ziele się kończy, a bez tego bardzo źle się czuję. Pomów z Bubuluką, u niego w tej sprawie powinien być porządek. Myślę, że trzyma je gdzieś w schowku. Zapytaj go.</pln>
 	</string>
 	<string id="snp_fenrir4_4">
 		<rus>Зря ты на это дерьмо подсел... Лады.</rus>
-		<eng>===Alright.</eng>
+		<eng>You shouldn't have gotten hooked on this shit... Okay.</eng>
 		<ukr>Даремно ти на це лайно підсів... Гаразд.</ukr>
 		<pln>===Dobra.</pln>
 	</string>
@@ -726,7 +726,7 @@
 	</string>
 	<string id="snp_fenrir5_1">
 		<rus>Да, ты угадал - по пути. В Старой Деревне есть магазин, за магазином - дерево, вот на этом дереве моя лёжка. Место видное, думаю, разберёшься. И про план не забудь!</rus>
-		<eng>===We need to take it up a notch here. There's a shop in the Old Village, and behind the shop - there's a tree, that's my firing position. It's in a prominent place, I think you'll figure it out. And don't forget the weed!</eng>
+		<eng>Yes, you guessed it - it's on the way. There's a store in the Old Village, and behind the store - there's a tree, that's my firing position. It's in a prominent place, I think you'll figure it out. And don't forget the weed!</eng>
 		<ukr>Так, ти вгадав - по дорозі. У Старому Селі є магазин, за магазином - дерево, ось на цьому дереві моє лежання. Місце видне, думаю, розберешся. І про план не забудь!</ukr>
 		<pln>===Zbliż się. W Starej Wsi jest sklep, za sklepem - drzewo, a na tym drzewie moje leże. Miejsce widoczne, myślę, że nie będziesz miał problemów. I o zielsku nie zapomnij!</pln>
 	</string>
@@ -769,37 +769,37 @@
 	</string>
 	<string id="snp_fenrir6_5">
 		<rus>За чёрта и перо можно в пузо получить, если пояснить не сможешь. Ты врагом моим не был, вот отсюда и непонятки. Прощу тебя на первый раз, всё-таки братом тебя назвал, человека в тебе увидел. В дальнейшем базар фильтруй. Я в Зоне всех бандитов закошмарил, и ты мне - не такой страшный! Ладно, замяли! Отсидишь с моё, поймёшь. А нет - значит не дано тебе понять.</rus>
-		<eng>Such words will come back to bite you, if you can't justify what you say. You were not my enemy, it was a misunderstanding. I forgive you this time, after all, I called you brother, I saw a man in you. But be careful. All the bandits in the Zone give me nightmares, but you - you're not so scary at all! All right, enough of that! If you sit with me, you'll understand. If not, it means you don't.</eng>
+		<eng>Such words will come back to bite you, if you can't justify what you say. You were not my enemy, hence the misunderstanding. I forgive you this time, after all, I called you brother, I saw a man in you. But be careful. All the bandits in the Zone give me nightmares, but you - you're not so scary at all! All right, enough of that! If you sit with me, you'll understand. If not, it means you don't.</eng>
 		<ukr>За чорта і перо можна в пузо отримати, якщо пояснити не зможеш. Ти ворогом моїм не був, от звідси і непонятки. Прощу тебе на перший раз, все-таки братом тебе назвав, людину у тобі побачив. Надалі базар фільтруй. Я у Зоні всіх бандитів закошмарив, і ти мені - не такий страшний! Гаразд, зам'яли! Відсидиш з моє, зрозумієш. А ні - значить не дано тобі зрозуміти.</ukr>
 		<pln>Za takie słowa można oberwać, jeżeli nie będziesz mógł ich usprawiedliwić. Wrogiem moim nie byłeś, stąd i nieporozumienia. Przebaczę ci tym razem, w końcu bratem cię nazwałem, człowieka w tobie zobaczyłem. Ale pilnuj się. Ja w Zonie wszystkich bandytów załatwiłem, i przy tobie się nie zawaham! Dobra, odpuśćmy! Posiedzisz ze mną, zrozumiesz. A nie - znaczy że nie było ci dane.</pln>
 	</string>
 	<string id="snp_fenrir6_6">
 		<rus>Ты мне тут зубами не скрипи, мне твоего прощения не нужно. Укурыш недоделанный. Пока ты тут свой зад в тепле держишь, я из-за твоих лёжек голову под пули подставляю. А ты ещё и за базар меня решил подтянуть? А по сопатке давно не получал?</rus>
-		<eng>===Sorry, I didn't mean to upset you.</eng>
+		<eng>Don't gnash your teeth, I don't need your forgiveness. Finish your smoke. While you're keeping your ass warm here, I'm getting shot at over your sniping posts. And you want me to justify what I said? Haven't you received a smack in the mouth for a while?</eng>
 		<ukr>Ти мені тут зубами не скрипи, мені твого вибачення не потрібно. Укуриш недороблений. Поки ти тут свій зад в теплі тримаєш, я через твої лежанки голову під кулі підставляю. А ти ще й за базар мене вирішив підтягнути? По сопатці давно не отримував?</ukr>
 		<pln>===Wybacz, nie chciałem cię obrazić.</pln>
 	</string>
 	<string id="snp_fenrir6_7">
 		<rus>Ладно-ладно, проехали, это план, походу, мой разум затуманил. Не хотел тебя обидеть. Давай выпьем за дружбу и чтобы непоняток больше меж нами не возникало. Что скажешь?</rus>
-		<eng>===Forget it, the weed has probably addled your mind about the campaign. Well, are you going to the next sniping position? Or do want to recover your senses first?</eng>
+		<eng>Okay, okay, never mind, it's the weed, I guess it clouded my mind. I didn't mean to offend you. Let's drink to our friendship and avoid any misunderstandings between us. What do you say?</eng>
 		<ukr>Гаразд-гаразд, проїхали, це план, походу, мій розум затуманив. Не хотів тебе образити. Давай вип'ємо за дружбу і щоб непорозумінь більше між нами не виникало. Що скажеш?</ukr>
 		<pln>===Było, minęło. Pewnie zioło cię trochę otumaniło. Co, idziemy do następnego leża? Albo chcesz najpierw dojść do siebie?</pln>
 	</string>
 	<string id="snp_fenrir6_8">
 		<rus>Наливай. И чтобы больше никаких наездов. Уяснил?</rus>
-		<eng>===Let's drink to our friendship and make sure we don't have any more misunderstandings.</eng>
+		<eng>Pour. And no more arguments. You got it?</eng>
 		<ukr>Наливай. І щоб більше ніяких наїздів. Усвідомив?</ukr>
 		<pln>===Dawaj, wypijemy za przyjaźń i by więcej nie było między nami żadnych nieporozumień.</pln>
 	</string>
 	<string id="snp_fenrir6_9">
 		<rus>Базару ноль. Я всё понял. Такого больше не повторится. Слово даю... Что, идём на следующее место лёжки?</rus>
-		<eng>===That's a good idea.</eng>
+		<eng>Got it. It goes without saying. This won't happen again. I give you my word... Well, are you going to the next sniper's post?</eng>
 		<ukr>Базару нуль. Я все зрозумів. Такого більше не повториться. Слово даю... Що, йдемо на наступне місце лежання?</ukr>
 		<pln>===To dobry pomysł.</pln>
 	</string>
 	<string id="snp_fenrir6_10">
 		<rus>Ну, где там твоя лёжка? Толкуй.</rus>
-		<eng>Well, where's the next sniper's position? Speak.</eng>
+		<eng>Well, where's the next sniper's nest? Tell me.</eng>
 		<ukr>Ну, де там твоє лежання? Кажи.</ukr>
 		<pln>===No, to gdzie jest te twoje leże?</pln>
 	</string>
@@ -830,25 +830,25 @@
 	</string>
 	<string id="snp_fenrir7_1">
 		<rus>Постой, погоди, давай проясним ситуацию. Мы с тобой договорились, что ты убьёшь всех контрснайперов, что за мной охотятся, а я, в свою очередь, отдам тебе свою волыну и костюм подскажу не хилый где раздобыть. А за хабар, что на моих лёжках, разговора не было. Верно? Нашёл - молодец, нет - значит нет.</rus>
-		<eng>===Hold on, wait a minute. You're so messed up. Don't make a fuss - let me clarify the situation. We agreed that you would kill all the soldiers from the counter-sniper squad who were hunting me, and in return, I'd give you my weapon and tell you where to find some unique armour. There was no discussion about the stash at my sniping positions. If you find them - good for you, if not - that's your bad luck.</eng>
+		<eng>Wait, wait, let's clear things up. You and I agreed that you would kill all the counter-snipers who were hunting me, and in return, I'd give you my weapon and tell you where to find some unique armour. There was no discussion about the stash at my sniping positions. If you find them - well done, if not - too bad.</eng>
 		<ukr>Постривай, постривай, давай проясню ситуацію. Ми з тобою домовилися, що ти вб'єш всіх контрснайперів, які за мною полюють, а я, у свою чергу, віддам тобі свою волину і костюм підкажу не слабий де роздобути. А за хабар, який на моїх лежаннях, розмови не було. Правильно? Знайшов - молодець, ні - значить ні.</ukr>
 		<pln>===Chwilka, poczekaj. Co tak warczysz. Nie dąsaj się - zaraz wyjaśnię sytuację. Umawialiśmy się, że zabijesz wszystkich żołnierzy z oddziału antysnajperskiego, co na mnie polują, a ja z kolei, oddam ci swoją broń i powiem gdzie można znaleźć unikatowy pancerz. A o towarze, co jest w moich leżach, rozmowy nie było. Znalazłeś - zuch, nie - twój problem.</pln>
 	</string>
 	<string id="snp_fenrir7_2">
 		<rus>Справедливо. Говори, где следующая лёжка.</rus>
-		<eng>===Alright Fenrir, tell me where the next sniping position is at.</eng>
+		<eng>Fair enough, tell me where the next sniping position is at.</eng>
 		<ukr>Справедливо. Говори, де наступне лежання.</ukr>
 		<pln>===Dobra Fenrir, mów gdzie następne leże.</pln>
 	</string>
 	<string id="snp_fenrir7_3">
 		<rus>Как это не прискорбно, но придётся тебе вновь в Старую Деревню сходить. Дело в том, что, когда я там работал, там был ещё один выстрел из снайперки. Я не знаю, кто стрелял - это тебе и надо выяснить. Походу, конкурент объявился. После того, как я отработал, вояки рванули вглубь деревни и, видимо, завалили второго стрелка, потому что быстро успокоились. Сходи, найди его.</rus>
-		<eng>===Don't flare your nostrils. You'll have to go to Old Village again. The point is, that when I worked there, I heard a shot from another sniper. I don't know who fired the shot - that's what you need to find out. It looks like a competitor showed up. As soon as I finished, the soldiers ran deep into the village. Apparently, they got the other shooter, because they quickly settled down. Go there and find him.</eng>
+		<eng>It's sad, but you'll have to go to the Old Village again. The fact is that when I worked there, there was another shot from a sniper rifle. I don't know who was shooting — that's what you need to find out. I guess, a competitor showed up. After I finished working, the soldiers rushed into the depths of the village and, apparently, overwhelmed the second shooter, because they quickly calmed down. Go find him.</eng>
 		<ukr>Як це не сумно, але доведеться тобі знову у Старе Село сходити. Справа у тому, що, коли я там працював, там був ще один постріл зі снайперки. Я не знаю, хто стріляв - це тобі й треба з'ясувати. Походу, конкурент об'явився. Після того, як я відпрацював, вояки рвонули вглиб села і, мабуть, завалили другого стрілка, бо швидко заспокоїлися. Сходи, знайди його.</ukr>
 		<pln>Zbliż się. Będziesz musiał jeszcze raz iść do Starej Wsi. Chodzi o to, że kiedy tam pracowałem, słyszałem tam jeszcze jeden strzał ze snajperki. Nie wiem, kto strzelał - i to musisz wyjaśnić. Wygląda na to, że pojawiła się jakaś konkurencja. Zaraz jak skończyłem, żołnierze pobiegli w głąb wsi. Widocznie, dorwali tego drugiego strzelca, bo szybko się uspokoili. Idź tam i go znajdź.</pln>
 	</string>
 	<string id="snp_fenrir7_4">
 		<rus>Ясно, попробую. Бывай.</rus>
-		<eng>okay, I'll try. I'll leave now.</eng>
+		<eng>Okay, I'll try. I'll leave now.</eng>
 		<ukr>Ясно, спробую. Бувай.</ukr>
 		<pln>Jasne, spróbuję. Bywaj.</pln>
 	</string>
@@ -880,7 +880,7 @@
 	</string>
 	<string id="snp_fenrir9_1">
 		<rus>Вот грубить не надо. Ты больше на Пуаро похож! Гладко прошло?</rus>
-		<eng>===Don't insult me! You're more like Poirot than me! Did it go smoothly?</eng>
+		<eng>You don't have to be rude. You look more like Poirot! Did it go smoothly?</eng>
 		<ukr>Бути грубим не треба. Ти більше на Пуаро схожий! Гладко пройшло?</ukr>
 		<pln>===Nie obrażaj mnie! Ty bardziej jesteś podobny do Poirota! Gładko poszło?</pln>
 	</string>
@@ -1023,25 +1023,25 @@
 	</string>
 	<string id="snp_fenrir15_3">
 		<rus>Примерно за год до нашей с тобой встречи, со мной приключилась одна любопытная история. Я как раз в на Затоне лёжку искал подходящую, вдруг слышу выстрелы. Долговцы пытаются загнать в ловушку вульфа! Для Арни старались и его арены, на потеху толпе. Он их, конечно, порвал, как тузик грелку. Но и его долговцы сильно подранили. Я в оптику своей винтовки присмотрелся, вижу, а там вульф от долговца отползает, морда вся в крови, задние лапы по земле волочатся. Ну, я пошёл поближе посмотреть, нельзя ли долгашам помочь, а они напополам разорванные по всему плато лежат, а кто и на дереве висит. Жуткая картина. Думаю, ща я эту зверюгу успокою, а он на меня посмотрел таким взглядом, что у меня мурашки по всему телу пробежали, прям как человек! И во взгляде такая грусть и безысходность, что у меня рука не поднялась тварь добить, опустил винтовку...\n Короче, пощадил я его, на Скадовск на своём горбу притащил. С лекарствами Калмык помог, на лапы я его поставил. Долго я его лечил, но всё же выходил, и за это время очень к нему привязался. А когда он поправился окончательно, то пришлось его отпустить на волю. Я его не гнал, он сам ушёл. Лизнул на прощанье мою руку посмотрел прямо мне в глаза, в них была безмерная благодарность, склонил голову, а потом ушёл в лес, к своим сородичам.</rus>
-		<eng>===So listen. Do you remember my Wulf? He's no ordinary wolf, he's the leader of the pack. Find him, talk to him. He'll reveal the mystery of the "Prophet's Star" to you. You'll most likely find him where we first met, by the withered tree on the Northern Plateau, here at Zaton.</eng>
+		<eng>About a year before we met, an interesting thing happened to me. I was looking for a suitable shooting position in Zaton, when suddenly I heard shots. Duty soldiers were trying to trap a wolf! It was for Arnie, for the amusement of the crowd in his arena. Of course, he tore them to shreds, like a hot water bottle. But the Duty guys also severely wounded him. I looked through the scope of my rifle, and there was Wulf, crawling away from them, all covered in blood, with his hind legs dragging along the ground behind him. Well, I went to see if I could help Duty, but they were torn in half and spread across the plateau, one was even hanging out of a tree.. It was a gruesome sight. As I was about to put this animal out of its misery, just like a man, it looked at me with such a look that goosebumps formed all over me! There was such sadness and hopelessness in its eyes that I didn't have the heart to finish off the creature, I lowered the rifle ...\n In short, I spared him, dragged him to the Skadovsk on my back. Kalmyk helped out with the medicine, I got him back on his feet. I nursed him for a long time, but still went out, and during this time I became very attached to him. And when he finally recovered, he had to be released. I didn't chase him away, he left of his own accord. He licked my hand in farewell, looked me straight in the eye, they were immensely grateful, bowed his head, and then went off into the woods, back to his relatives.</eng>
 		<ukr>Приблизно за рік до нашої з тобою зустрічі, зі мною трапилася одна цікава історія. Я якраз на Затоні лежання шукав відповідне, раптом чую постріли. Долгівці намагаються загнати в пастку вульфа! Для Арні старалися, і його арени, на потіху юрбі. Він їх, звичайно, порвав, як тузик грілку. Але і його долгівці сильно підранили. Я в оптику своєї гвинтівки придивився, бачу, а там вульф від долгівця відповзає, морда вся в крові, задні лапи по землі волочаться. Ну, я пішов ближче подивитися, чи не можна долгівцям допомогти, а вони навпіл розірвані по всьому плато лежать, а хто й на дереві висить. Страшна картина. Думаю, зара я цю звірюгу заспокою, а він на мене подивився таким поглядом, що у мене мурашки по всьому тілу пробігли, прям як людина! І в погляді такий сум і безвихідь, що у мене рука не піднялася тварюку добити, опустив гвинтівку...\n Коротше, пощадив я його, на Скадовськ на своєму горбу притягнув. З ліками Калмик допоміг, на лапи я його поставив. Довго я його лікував, але все ж виходив, і за цей час дуже до нього прив'язався. А коли він одужав остаточно, то довелося його відпустити на волю. Я його не гнав, він сам пішов. Лизнув на прощання мою руку подивився прямо мені в очі, в них була безмірна вдячність, схилив голову, а потім пішов у ліс, до своїх родичів.</ukr>
 		<pln>===Więc słuchaj. Pamiętasz mojego Wilka? To nie jest zwykły Wilk, to przywódca stada. Znajdź go, porozmawiaj z nim. On odkryje ci tajemnicę "Gwiazdy Proroka". Najprawdopodobniej, znajdziesz go tam, gdzie się z nim poznaliśmy, na Północnym Płaskowyżu przy uschniętym drzewie, tu na Zatonie.</pln>
 	</string>
 	<string id="snp_fenrir15_4">
 		<rus>История душещипательная, не спорю, но я чем тебе могу помочь?</rus>
-		<eng>===Well, since he's not just able to speak, but is also a figure of authority, then, I should definitely talk to him. And how did you two get acquainted? Like Mowgli? Or was it like Tarzan?</eng>
+		<eng>The story is heartbreaking, I must agree, but how can I help you?</eng>
 		<ukr>Історія жаліслива, не сперечаюся, але я чим тобі можу допомогти?</ukr>
 		<pln>===No, w takim przypadku koniecznie trzeba z nim porozmawiać. A jak ty się z nim poznałeś? Jak Mowgli? Albo jak Tarzan?</pln>
 	</string>
 	<string id="snp_fenrir15_5">
 		<rus>Слышал я, что есть эмбрионы, вылупившиеся из них монстры дружелюбны к людям и не нападают на них, по крайней мере, первыми. Так вот не смог бы ты мне принести эмбрион вульфа? Понятно, что он мне не заменит друга, но всё же я хочу, чтобы он был рядом со мной!</rus>
-		<eng>===I see we have a connoisseur of literature! Do you want to lose some teeth? How many did you count last time?!</eng>
+		<eng>I've heard that there are embryos, and the monsters that hatch from them are friendly to humans and don't attack them, at least not at first. Now, could you bring me a wolf embryo? It's clear that he won't replace my friend, but still, I want him to be near me!</eng>
 		<ukr>Чув я, що є ембріони, а монстри які з них вилупилися доброзичливі до людей і не нападають на них, по крайній мірі, першими. Так от не зміг би ти мені принести ембріон вульфа? Зрозуміло, що він мені не замінить друга, але все ж я хочу, щоб він був поруч зі мною!</ukr>
 		<pln>===Widzę, że z ciebie znawca literatury! Może, ci jeszcze raz furtkę przesmarować? Poprzednim razem to ilu zębów się nie doliczyłeś?!</pln>
 	</string>
 	<string id="snp_fenrir15_6">
 		<rus>Да, есть такие. Принесу я тебе такой эмбрион, не переживай.</rus>
-		<eng>===Yes, I can see that he's not just an ordinary wolf. I'll go look for him, maybe he can teach me something as well.</eng>
+		<eng>Yes, there are. I'll bring you such an embryo, don't worry.</eng>
 		<ukr>Так, є такі. Принесу я тобі такий ембріон, не переживай.</ukr>
 		<pln>===Tak, nie jest to zwykły wilczek, okazuje się. Pójdę go poszukać, może mnie też czegoś nauczy.</pln>
 	</string>
@@ -1178,19 +1178,19 @@
 
 	<string id="snp_wolffrend3_0">
 		<rus>Вот, принёс я тебе эмбрион, как и обещал. Из него вылупится именно вульф, как ты и хотел. Ну, что там за награда?</rus>
-		<eng>===Here, I brought you the embryo as promised. Well, what's the secret?</eng>
+		<eng>Here, I brought you the embryo as promised. A wolf will hatch from it, as you wanted. Well, what's the reward?</eng>
 		<ukr>Ось, приніс я тобі ембріон, як і обіцяв. З нього вилупиться саме вульф, як ти і хотів. Ну, що там за нагорода?</ukr>
 		<pln>===Przyniosłem ci embrion, tak jak obiecałem. No, to co tam z tą tajemnicą?</pln>
 	</string>
 	<string id="snp_wolffrend3_1">
 		<rus>Я вижу, ты - человек слова, таких теперь днём с огнём не сыщешь. Слушай. В Мёртвом Городе в одной из пятиэтажек, я сделал свою лёжку, резервную. О ней точно никто не знает, гарантирую! В ней и будет твоя награда, думаю, не разочарует тебя.</rus>
-		<eng>===I see you are a man of your word, just like Fenrir. Now listen up. At 18:00 hours, in the Dead City, your leader will tell you the beginning of your search. So take the "Idol of the Monolith" artefact with you. Look in your PDA for a record of our conversation so that you don't forget what I told you, because a short memory is characteristic of two-legged creatures.</eng>
+		<eng>I can see that you're a man of your word, people like you are very hard to find. Listen. I made a sniper's nest in one of the five storey buildings in the Dead City, it's a reserve cache. Nobody knows about it, that's for sure. I can guarantee it! Your reward will be there, I don't think you'll be disappointed.</eng>
 		<ukr>Я бачу, ти - людина слова, таких тепер вдень з вогнем не знайдеш. Слухай. У Мертвому Місті в одній з п'ятиповерхівок, я зробив своє лежання, резервне. Про нього точно ніхто не знає, гарантую! У ньому і буде твоя нагорода, думаю, не розчарує тебе.</ukr>
 		<pln>===Widzę, że jesteś człowiekiem honorowym, jak i Fenrir. Słuchaj. W Martwym Mieście o godzinie 18:00, twój przywódca wskaże ci początek twoich poszukiwań. I weź z sobą artefakt "Idol Monolitu". Szukaj w swoim PDA zapisu naszej rozmowy, byś nie zapomniał, co ci powiedziałem, ponieważ krótka pamięć jest właściwa dwunożnym istotom.</pln>
 	</string>
 	<string id="snp_wolffrend3_2">
 		<rus>Спасибо, дружище. Буду в Мёртвом городе, обязательно твою лёжку проверю.</rus>
-		<eng>===Is that all?</eng>
+		<eng>Thanks, buddy. I'll make sure that I check your sniper's nest, next time I'm in the Dead City.</eng>
 		<ukr>Дякую, друже. Буду в Мертвому місті, обов'язково твоє лежання перевірю.</ukr>
 		<pln>===To wszystko?</pln>
 	</string>
@@ -1209,7 +1209,7 @@
 	</string>
 	<string id="snp_bibliofrend_start_2">
 		<rus>Признаюсь честно, другой реакции я и не ожидал. Я - Прайм, местный торговец.</rus>
-		<eng>===Frankly, I didn't expect any other reaction. I'm Prime, the librarian.</eng>
+		<eng>To be honest, I didn't expect any other reaction. I'm Prime, the local merchant.</eng>
 		<ukr>Зізнаюся чесно, іншої реакції я і не очікував. Я - Прайм, місцевий крамар.</ukr>
 		<pln>===Przyznaję się uczciwie, innej reakcji nie oczekiwałem. Jestem Prime, bibliotekarz.</pln>
 	</string>
@@ -1221,7 +1221,7 @@
 	</string>
 	<string id="snp_bibliofrend_start_4">
 		<rus>Зона часто творит с её обитателями различные чудеса, вот и в моём случае произошло чудо. Клетки моего мозга мутировали под действием факторов, которые скрывает Зона, и я стал умным и говорящим животным, во многом даже более умным, чем некоторые представители рода человеческого.</rus>
-		<eng>===The zone often works miracles with its inhabitants, so in my case a miracle happened. The cells of my brain have changed under the influence of the factors that the Zone hides, and I have become a clever and speaking animal, much more clever than some members of the human race.</eng>
+		<eng>The Zone often works various miracles with its inhabitants, so in my case a miracle happened. My brain cells have changed under the influence of factors that the Zone hides, and I became an intelligent and speaking animal, in many ways even more intelligent than some members of the human race.</eng>
 		<ukr>Зона часто творить з її мешканцями різні чудеса, ось і у моєму випадку сталося диво. Клітини мого мозку змутували під дією факторів, які приховує Зона, і я став розумною і розмовляючою твариною, багато у чому навіть більш розумною, ніж деякі представники роду людського.</ukr>
 		<pln>===Zona często tworzy z jej mieszkańcami różne cuda, ot i w moim wypadku zdarzył się cud. Komórki mojego mózgu zmieniły się pod działaniem czynników, które skrywa Zona, i stałem się mądrym i mówiącym zwierzęciem, w sumie nawet mądrzejszym, niż niektórzy przedstawiciele rodzaju ludzkiego.</pln>
 	</string>
@@ -1233,7 +1233,7 @@
 	</string>
 	<string id="snp_bibliofrend_start_6">
 		<rus>При каких обстоятельствах, я не знаю, но меня ещё совсем маленьким нашёл Обитель Зла и отбил от библиотекарей, которые пытались затоптать меня, они сразу поняли, что я среди них "белая ворона". Выходил, поставил на ноги, сшил мне одежду под мой "размерчик". А когда я окончательно вырос и развился, мне предложили заняться торговлей, так как на людях я показаться не могу, сам понимаешь, чем это грозит. Придя на Скадовск, мы обнаружили, что все, кто раньше здесь был, ушли, и вместе с ними ушёл торговец. Вот, я и занял свободную нишу, так сказать.</rus>
-		<eng>===I can't remember what the circumstances were, but when I was still young, Resident Evil found me and raised me, he help me find my feet in life. And when I grew up and matured, it was suggested I become a trader, because I couldn't be seen among people, you know what the danger was. When we arrived at the Skadovsk, we discovered that the previous occupants, including the trader, had left. So I took up the vacant position, so to speak.</eng>
+		<eng>I can't remember what the circumstances were, but Resident Evil found me when I was still very young and beat off the librarians who were trying to trample me, because they realised immediately that I was a "white crow" among them. He raised me, and he helped me find my feet in life, he even sewed clothes for me to fit my "size". And when I grew up and matured, it was suggested I become a trader, because I couldn't be seen among people, you know what the danger was. When we arrived at the Skadovsk, we discovered that the previous occupants, including the trader, had left. So I took up the vacant position, so to speak.</eng>
 		<ukr>За яких обставин, я не знаю, але мене ще зовсім маленьким знайшов Обитель Зла і відбив від бібліотекарів, які намагалися затоптати мене, вони одразу зрозуміли, що я серед них "біла ворона". Виходив, поставив на ноги, пошив мені одяг під мій розмір. А коли я повністю виріс і розвинувся, мені запропонували зайнятися торгівлею, так як на людях я показуватися не можу, сам розумієш, чим це загрожує. Прийшовши на Скадовськ, ми виявили, що всі, хто раніше тут був, пішли, і разом з ними пішов торговець. Ось, я і зайняв вільну нішу, так би мовити.</ukr>
 		<pln>===W jakich okolicznościach, nie wiem, ale kiedy byłem jeszcze mały, znalazł mnie Resident Evil i wychował, postawił mnie na nogi. A kiedy wyrosłem i się rozwinąłem, zaproponowano mi zająć się handlem, ponieważ nie mogę pokazywać się wśród ludzi, sam rozumiesz, czym to grozi. Kiedy przybyliśmy na Skadowsk, stwierdziliśmy, że wszyscy, którzy tu wcześniej byli, odeszli, i razem z nimi odszedł handlarz. Więc zająłem wolną niszę, że tak powiem.</pln>
 	</string>
@@ -1357,7 +1357,7 @@
 
 	<string id="snp_bibliofrend_black1_0">
 		<rus>Ой-ёй-ёй! Что это с тобой случилось? Ты весь чёрный! Обгорел, что ли?</rus>
-		<eng>Uh-Oh! What happened to you? You're all black! did you get burned?</eng>
+		<eng>Uh-Oh! What happened to you? You're all black! Did you get burned?</eng>
 		<ukr>Ой-ей-ей! Що це з тобою сталося? Ти весь чорний! Обгорів, чи що?</ukr>
 		<pln>Oj-joj-joj! Co ci się przydarzyło? Jesteś cały czarny! Spaliłeś się, czy co?</pln>
 	</string>
@@ -1449,7 +1449,7 @@
 	</string>
 	<string id="snp_resident_evil1_3">
 		<rus>Я его нашёл ещё совсем маленьким, из бутылочки выкормил. А после решил у себя оставить, не выгонять же такую добрую животину на улицу. Тем более, что сородичи его тут же загрызли бы.</rus>
-		<eng>===I found him when he still quite small and bottle-fed him. Then afterwards, I decided to keep him, I wouldn't just toss such a good beast out onto the street.</eng>
+		<eng>I found him when he still quite small and bottle-fed him. Then afterwards, I decided to keep him, I wouldn't just toss such a good beast out onto the street. All the more, his relatives would have immediately killed him.</eng>
 		<ukr>Я його знайшов ще зовсім маленьким, з пляшечки вигодував. А потім вирішив у себе залишити, не виганяти ж таку добру животину на вулицю. Тим більше, що рідня його вмить би загризла.</ukr>
 		<pln>===Znalazłem go jak był całkiem mały, karmiłem go butelką. A później postanowiłem go przy sobie zostawić, nie wypędzę przecież dobrego stworzenia na ulicę.</pln>
 	</string>
@@ -2110,19 +2110,19 @@
 	</string>
 	<string id="snp_proper701_4">
 		<rus>Ты в своём уме, у тебя сын почти на том свете, а ты похохотать предлагаешь?!</rus>
-		<eng>===I think I know who it is!</eng>
+		<eng>You are out of your mind, we have a "son" almost in the next world, and you want me to laugh?</eng>
 		<ukr>Ти при своєму розумі, у тебе син майже на тому світі, а ти посміятися пропонуєш?!</ukr>
 		<pln>===Zdaje się, że się domyślam, o kim mowa!</pln>
 	</string>
 	<string id="snp_proper701_5">
 		<rus>Не обращай внимания, стресс у меня. Вот тебе артефакт "Телепорт", чтобы на Затон побыстрее попал, поговори со сталкером Бубулюкой на Скадовске.</rus>
-		<eng>===That's right, talk to Stalker Bubulyuka.</eng>
+		<eng>Never mind, I'm stressed out. Here's a "Teleport" artefact, so that you can get to Zaton quickly, talk to Bubulyuka, a stalker at the Skadovsk.</eng>
 		<ukr>Не звертай уваги, стрес у мене. Ось тобі артефакт "Телепорт", щоб на Затон швидше потрапив, поговори зі сталкером Бубулюкою на Скадовську.</ukr>
 		<pln>===Z pewnością, pogadaj ze Stalkerem Bubuluką.</pln>
 	</string>
 	<string id="snp_proper701_6">
 		<rus>Ладно, спишем это на твоё шоковое состояние. Спасибо хоть за артефакт!</rus>
-		<eng>===With pleasure!</eng>
+		<eng>Okay, let's put it down to your state of shock. Thank you at least for the artefact!</eng>
 		<ukr>Гаразд, спишемо це на твій шоковий стан. Спасибі хоч за артефакт!</ukr>
 		<pln>===Z przyjemnością!</pln>
 	</string>
@@ -2147,13 +2147,13 @@
 	</string>
 	<string id="snp_proper702_3">
 		<rus>Думаю, недолго. Как закончу - сообщу. Сходи пока пообщайся с нашим общим другом на Скадовске. Вот тебе ещё один артефакт "Телепорт".</rus>
-		<eng>===Not long, I think. I'll let you know as soon as I'm finished. Go have a laugh.</eng>
+		<eng>Not long, I think. Go and talk with our mutual friend at the Skadovsk. Here's another Teleport artefact for you.</eng>
 		<ukr>Думаю, недовго. Як закінчу - повідомлю. Сходи поки поспілкуйся з нашим спільним другом на Скадовську. Ось тобі ще один артефакт "Телепорт".</ukr>
 		<pln>===Myślę, że niedługo. Jak zakończę - powiadomię. Na razie idź, pośmiej się jeszcze trochę.</pln>
 	</string>
 	<string id="snp_proper702_4">
 		<rus>Опять к Бубулюке?!! Твою ж....</rus>
-		<eng>===Great! I'll go have a laugh with the joker.</eng>
+		<eng>To Bubulyuka again?!! You mother...</eng>
 		<ukr>Знову до Бубулюки?!! Твою ж....</ukr>
 		<pln>===Świetnie! Pójdę jeszcze pogadać ze śmiechorobem.</pln>
 	</string>
@@ -2184,7 +2184,7 @@
 	</string>
 	<string id="snp_proper703_4">
 		<rus>Не вопрос, я мигом. Спасибо за артефакт!</rus>
-		<eng>===No problem, I'll be right back.</eng>
+		<eng>No problem, I'll be right back.Thanks for the artefact!</eng>
 		<ukr>Не питання, я миттю. Дякую за артефакт!</ukr>
 		<pln>===W porządku, zaraz wrócę.</pln>
 	</string>
@@ -4181,19 +4181,19 @@ Mężów potraciły w stalkerskiej Zonie!</pln>
 	</string>
 	<string id="snp_bubulyka_start_33">
 		<rus>Я - Меченый, и смеяться над твоими шутками у меня нет никакого желания. Давай тут же и попрощаемся!</rus>
-		<eng>===Я - Меченый, и смеяться над твоими шутками у меня нет никакого желания. Давай тут же и попрощаемся!</eng>
+		<eng>I'm Marked One, and I have no desire to laugh at your jokes. Let's say goodbye right there and then!</eng>
 		<ukr>Я - Мічений, і сміятися над твоїми жартами у мене немає ніякого бажання. Давай тут же і попрощаємося!</ukr>
 		<pln>===Я - Меченый, и смеяться над твоими шутками у меня нет никакого желания. Давай тут же и попрощаемся!</pln>
 	</string>
 	<string id="snp_bubulyka_start_34">
 		<rus>Грубый ты, ну, нет, так нет. Пока!</rus>
-		<eng>===Stop laughing, or I'll die of laughter without finishing OP-2.1! They say that there's so much in it, that it's possible to play for a year or even two! I want to deal with all of it!</eng>
+		<eng>You're so rude, well, no, so no. Bye!</eng>
 		<ukr>Грубий ти, ну, ні, так ні. Бувай!</ukr>
 		<pln>===Kończ już, bo umrę ze śmiechu, i nie przejdę przez to OP-2.1! Mówią, że w nim tyle wszystkiego nawymyślali, że na rok, albo i na dwa wpaść można! Idę dalej rozeznać się w tym wszystkim!</pln>
 	</string>
 	<string id="snp_bubulyka_start_35">
 		<rus>Пока, комик!</rus>
-		<eng>===Пока, комик!</eng>
+		<eng>Bye, comedian!</eng>
 		<ukr>Бувай, комік!</ukr>
 		<pln>===Пока, комик!</pln>
 	</string>
@@ -4406,43 +4406,43 @@ Mężów potraciły w stalkerskiej Zonie!</pln>
 	</string>
 	<string id="snp_bubulyka1_122">
 		<rus>Давай сразу к делу! Фенрир сказал, я могу к тебе обратиться за помощью по поводу пакета плана.</rus>
-		<eng>===Ha-ha You're deliberately making fun of me. You saw me have a smoke with Fenrir, I've already forgotten why I came to see you. Listen, ha-ha-ha! Fenrir said I could turn to you for help with a bag of weed.</eng>
+		<eng>Let's get straight to the point! Fenrir said I could turn to you for help with a bag of weed.</eng>
 		<ukr>Давай відразу до справи! Фенрір сказав, я можу до тебе звернутися за допомогою з приводу пакету плану.</ukr>
 		<pln>===Ha-haa! Specjalnie się tak nade mną znęcasz. Widziałeś, jak z Fenrirem jarałem, aż zapomniałem, po co do ciebie przyszedłem. Słuchaj, Ha-haa! Fenrir powiedział, że mogę się do ciebie zwrócić o pomoc w związku z paczką zioła.</pln>
 	</string>
 	<string id="snp_bubulyka1_133">
 		<rus>А с чего ты решил, что я тебе помогу? Просто так ничего не делается. Да и вообще, после последних героических подвигов Фенрира поставки этого зелья в Зону сильно поубавились. А для местной травы сейчас не сезон. Так что за здорово живёшь я тебе ничего не дам.</rus>
-		<eng>==="Sleep my tired toys..." - the controller sang tenderly to the zombies at night. What makes you think I'll help you? Nothing is done just like that. And in general, after Fenrir's last heroic exploits, the supply of this potion has dramatically reduced in the Zone. And it's not the season for the local grass. So I won't give you anything for a great life.</eng>
+		<eng>What makes you think I'll help you? Nothing is done just like that. Anyway, after Fenrir's last heroic exploits, the supply of this potion has dramatically reduced in the Zone. And it's not the season for the local grass. So I won't give you anything for a great life.</eng>
 		<ukr>А з чого ти вирішив, що я тобі допоможу? Просто так нічого не робиться. Та й взагалі, після останніх героїчних подвигів Фенріра поставки цього зілля в Зону сильно зменшилися. А для місцевої трави зараз не сезон. Так що за здорово живеш я тобі нічого не дам.</ukr>
 		<pln>==="Śpijcie zmęczone zabawki"... - pieszczotliwie śpiewał na dobranoc swoim zombiakom kontroler. A z czego wnosisz, że ci pomogę? Tak po prostu nic się nie dzieje. I w ogóle, po ostatnich bohaterskich czynach Fenrira dostawy tych ziół do Zony mocno się zmniejszyły. A na miejscową trawę teraz nie sezon. Tak że za "dziękuję" niczego nie dostaniesz.</pln>
 	</string>
 	<string id="snp_bubulyka1_144">
 		<rus>Ну, судя по твоим шуточкам, ты регулярно употребляешь. Говори своё условие. Я Фенриру обещал.</rus>
-		<eng>===Tell me what you want. I promised Fenrir.</eng>
+		<eng>Well, judging by your jokes, you're a regular user. Tell me what you want. I promised Fenrir.</eng>
 		<ukr>Ну, судячи з твоїх жартів, ти регулярно вживаєш. Говори свої умова. Я Фенріру обіцяв.</ukr>
 		<pln>===Podaj swoje warunki. Obiecałem Fenrirowi.</pln>
 	</string>
 	<string id="snp_bubulyka1_155">
 		<rus>Есть у меня информация, будто бы в одной из лабораторий Зоны есть большая завязанная в узел труба. Так вот: там где-то должен быть тайник. Хабар мне без надобности, а вот книжку этого смельчака мне принеси, это должен быть сборник анекдотов. Хоть у меня их и достаточно, но лишний юмор не помешает.</rus>
-		<eng>===I've have information, that, there's a big pipe tied in a knot, in one of the Zone labs. So: there must be a stash somewhere nearby. I don't need the swag, but there should be a book with a collection of jokes in there, belonging to this daredevil, bring it to me. Though I have enough jokes, some extra humour wouldn't go astray.</eng>
+		<eng>I have information that one of the laboratories in the Zone has a large pipe tied in a knot. So: there must be a hiding place somewhere. I don't need the swag, but bring me this brave man's book, it should be a collection of anecdotes. Although I have enough of them, extra humour wouldn't hurt.</eng>
 		<ukr>Є у мене інформація, нібито в одній з лабораторій Зони є велика зав'язана у вузол труба. Так ось: там десь повинна бути схованка. Хабар мені без потреби, а ось книжку цього сміливця мені принеси, це повинен бути збірник анекдотів. Хоч у мене їх і досить, але зайвий гумор не завадить.</ukr>
 		<pln>===Mam pewną informację, podobno w jednym z laboratoriów w Zonie jest duża zawiązana w węzeł rura. Otóż: tam gdzieś powinien być schowek. Towar mi niepotrzebny, ale książkę tego śmiałka mi przynieś, to powinien być zbiór anegdot. Choć mam ich dosyć, ale więcej humoru nie zaszkodzi.</pln>
 	</string>
 	<string id="snp_bubulyka1_166">
 		<rus>В какой хоть лаборатории искать-то?</rus>
-		<eng>===Marked One wants to hit the road - he's washed, shaved, had a drink... At least tell me, in what laboratory should I search?</eng>
+		<eng>At least tell me, in what laboratory should I search?</eng>
 		<ukr>В який хоч лабораторії шукати-то?</ukr>
 		<pln>===Naznaczony wybierał się w drogę - umył się, ogolił się, popił... W jakim laboratorium tego szukać?</pln>
 	</string>
 	<string id="snp_bubulyka1_177">
 		<rus>Если бы я знал, зачем мне тогда, скажи на милость, ты нужен?\n Тут Анна что-то хочет тебе сказать.</rus>
-		<eng>===If I knew that, then please, tell me, why would I need you?</eng>
+		<eng>If I knew that, then please, tell me, why would I need you?\n There's something Anna wants to tell you.</eng>
 		<ukr>Якби я знав, навіщо мені тоді, скажи на милість, ти потрібний?\n Тут Анна щось хоче тобі сказати.</ukr>
 		<pln>===Gdybym wiedział, po co byłbyś mi wtedy potrzebny?</pln>
 	</string>
 	<string id="snp_bubulyka1_188">
 		<rus>Ща узнаем, что Анна хотела!</rus>
-		<eng>===Ща узнаем, что Анна хотела!</eng>
+		<eng>Let's find out what Anna wanted!</eng>
 		<ukr>Зара дізнаємося, що Анна хотіла!</ukr>
 		<pln>===Ща узнаем, что Анна хотела!</pln>
 	</string>
@@ -4747,13 +4747,13 @@ Mężów potraciły w stalkerskiej Zonie!</pln>
 	</string>
 	<string id="snp_bubulyka2_222">
 		<rus>Понятно, опять на полчаса сопли будешь разводить. Вот твой сборник анекдотов. Где план?</rus>
-		<eng>===Понятно, опять на полчаса сопли будешь разводить. Вот твой сборник анекдотов. Где план?</eng>
+		<eng>I can see you'll be drooling for the next half  hour. Here's your collection of jokes. Where's the weed?</eng>
 		<ukr>Зрозуміло, знову на півгодини соплі будеш розводити. Ось твій збірник анекдотів. Де план?</ukr>
 		<pln>===Понятно, опять на полчаса сопли будешь разводить. Вот твой сборник анекдотов. Где план?</pln>
 	</string>
 	<string id="snp_bubulyka2_333">
 		<rus>Какой ты грубый всё-таки... Тайник с планом у меня есть в Старой Деревне, в домике на опушке. Да, и с Фенриром поговори.</rus>
-		<eng>===Did you know that stalkers, count dogs to fall asleep, bloodsuckers - count stalkers, and I - smoke weed? So, I have very little on me at the moment, I hadn't counted on you. I have a stash with some weed in the Old Village, it's in a small house on the edge of a cliff. Yes, and talk to Fenrir.</eng>
+		<eng>Now you're being rude... I have a stash with some weed in the Old Village, it's in a small house on the edge of a cliff. Yes, and talk to Fenrir.</eng>
 		<ukr>Який ти грубий все-таки... Схованка з планом у мене є в Старому Селі, в будиночку на узліссі. Так, і з Фенріром поговори.</ukr>
 		<pln>===A wiesz, że stalkerzy, by zasnąć, psy liczą, pijawki - stalkerów, a ja - zioło? Otóż, przy sobie mam bardzo mało, nie wystarczy dla ciebie. Schowek z moim ziołem jest w Starej Wsi, w domu na skraju lasu. A przedtem z Fenrirem porozmawiaj.</pln>
 	</string>
@@ -4844,7 +4844,7 @@ Mężów potraciły w stalkerskiej Zonie!</pln>
 - What, are you completely blind? A tushkano just ran past!\nAfter a while, the old stalker asks again:\n
 - Did you see that?\nThe young stalker, starting to feel awkward, decides to answer in the affirmative:\n
 - Yes, I did.\n
-- "Then why did you step in it?"?</eng>
+- Then why did you step in it?</eng>
 		<ukr>Йдуть по лісу двоє сталкерів, старий і молодий. Раптом старий запитує:\n
 - Ти бачив?\n
 - Ні.\n
@@ -4923,7 +4923,7 @@ Mężów potraciły w stalkerskiej Zonie!</pln>
 
 	<string id="snp_bubulyka3_222">
 		<rus>Давай сразу к делу. Люди добрые поведали, что ты владеешь информацией, где можно найти одну из частей странного рецепта?</rus>
-		<eng>===Funny joke, but let's get down to business. I've heard from reliable sources, that you have information, where can I find one of the parts of the strange recipe, is that right?</eng>
+		<eng>Let's get straight to the point. I've heard from reliable sources, that you have information, where can I find one of the parts of the strange recipe, is that right?</eng>
 		<ukr>Давай відразу до справи. Люди добрі розповіли, що ти володієш інформацією, де можна знайти одну з частин дивного рецепту?</ukr>
 		<pln>===Niezły żart, ale wracajmy do sprawy. Dobrzy ludzie powiedzieli, że posiadasz informację, gdzie można znaleźć jedną z części dziwnej recepty?</pln>
 	</string>
@@ -5020,7 +5020,7 @@ Mężów potraciły w stalkerskiej Zonie!</pln>
 	</string>
 	<string id="snp_bubulyka4_15">
 		<rus>Шёл я как-то по Зоне, и вижу: сидит контролёр, грустный-грустный, чуть ли не плачет. Я собрался было завалить его, но тут дай, думаю, спрошу сначала. Подхожу и спрашиваю: «Чего грустный такой?»\nОн и отвечает: «Да вот, думаю о людях - и понять их не могу.»\n«А что так?» - спрашиваю.\nОн и говорит: «Почему я за всю свою жизнь убил пять человек, и меня все боятся и ненавидят, а Меченый - несколько сотен за месяц и его все любят и уважают?»\nЯ подумал: а ведь он прав по своему... И мне его так что-то жалко стало, что отпустил я его...</rus>
-		<eng>One day, I was walking around the Zone, and I see: a controller sitting there, he looked very sad - almost crying. I was going to kill him, but then, he let me I think, talk to him first. I went over and asked: "Why are you so sad?"\nHe answers: "Why, I think about people - and I cannot understand them."\n"Why's that?" - I ask.\He says: "I have killed only five people in my entire life, and everyone fears and hates me, and Marked One - kills several hundred in a month, so why does everyone love and respect him?"\nI pondered about what he said: after all, he was right, in his own way... Well, I felt so sorry for him that I let him live...</eng>
+		<eng>One day, I was walking around the Zone, and I see: a controller sitting there, he looked very sad - almost crying. I was going to kill him, but then, he let me I think, talk to him first. I went over and asked: "Why are you so sad?"\nHe answers: "Why, I think about people - and I cannot understand them."\n"Why's that?" - I ask.\nHe says: "I have killed only five people in my entire life, and everyone fears and hates me, and Marked One - kills several hundred in a month, so why does everyone love and respect him?"\nI pondered about what he said: after all, he was right, in his own way... Well, I felt so sorry for him that I let him live...</eng>
 		<ukr>Йшов я якось по Зоні, і бачу: сидить контролер, сумний-сумний, мало не плаче. Я зібрався було завалити його, але тут дай, думаю, запитаю спочатку. Підходжу і запитую: «Чого сумний такий?»\nВін і відповідає: «Та от, думаю про людей - і зрозуміти їх не можу.»\n«А що так?» - Запитую.\nВін і каже: «Чому я за все своє життя вбив п'ятьох людей, і мене всі бояться і ненавидять, а Мічений - кілька сотень за місяць і його всі люблять і поважають?»\nЯ подумав: а він правий по своєму... І мені його так щось шкода стало, що відпустив я його...</ukr>
 		<pln>Szedłem sobie kiedyś przez Zonę, i patrzę: siedzi kontroler, smutny, prawie płacze. Już chciałem go rozwalić, ale sobie myślę, najpierw zapytam w czym rzecz. Podchodzę i pytam: "Coś taki smutny?"\nA on odpowiada: "Tak sobie myślę o ludziach - i zrozumieć ich nie mogę."\n"Dlaczego?" - pytam.\nA on mówi: "Dlaczego ja przez całe swoje życie zabiłem pięciu ludzi, a wszyscy się mnie boją i mnie nienawidzą, a Naznaczony - kilkaset w ciągu miesiąca a jego wszyscy kochają i go szanują?"\nTak sobie pomyślałem: przecież on w sumie ma rację... I żal mi się go zrobiło, więc go zostawiłem...</pln>
 	</string>
@@ -5104,7 +5104,7 @@ Mężów potraciły w stalkerskiej Zonie!</pln>
 	</string>
 	<string id="snp_bubulyka4_29">
 		<rus>Ты сказал, что тайник в карьере, а он в экскаваторе был. Ещё раз так "пошутишь", сам у меня землекопом заделаешься. Всё уяснил? Ладно, как рецепт надыбаю, стукну в личку.</rus>
-		<eng>===You said that the stash was in the quarry, but it was in the excavator. I spent half a day looking for it, just like that rookie. It wasn't a good thing to do. Why did you tell me? You swore by the Zone! You're also an experienced stalker!</eng>
+		<eng>You said that the cache was in the quarry, but it was in the excavator. If you "joke" like that again, you'll become a digger yourself. Do you understand? Okay, when I find the recipe, I'll send you a private SMS.</eng>
 		<ukr>Ти сказав, що схованка в кар'єрі, а вона в екскаваторі була. Ще раз так "пожартуєш", сам у мене землекопом станеш. Все усвідомив? Гаразд, коли рецепт надибаю, постукаю в приват.</ukr>
 		<pln>===Powiedziałeś, że schowek w Kamienołomach, a on był na pogłębiarce. Pół dnia go szukałem, jak ten dureń. To nie jest dobre. I co? Przysięgałeś na Zonę! A jeszcze doświadczony stalker!</pln>
 	</string>
@@ -5124,7 +5124,7 @@ Mężów potraciły w stalkerskiej Zonie!</pln>
 	</string>
 	<string id="snp_bubulyka5_2">
 		<rus>Прикольно! Картины сам пишешь?</rus>
-		<eng>Cool! Did you paint yourself?</eng>
+		<eng>Cool! Did you paint it yourself?</eng>
 		<ukr>Прикольно! Картини сам пишеш?</ukr>
 		<pln>Fajne! Obrazy sam malujesz?</pln>
 	</string>
@@ -5323,13 +5323,13 @@ Mężów potraciły w stalkerskiej Zonie!</pln>
 
 	<string id="snp_bubulyka5_35">
 		<rus>Прикольно! Пожалуй, с меня хватит. Теперь по делу. Пропер Семидесятый сказал, что ты про схрон с дешифратором знаешь.</rus>
-		<eng>===Пожалуй, с меня хватит. Теперь по делу. Пропер Семидесятый сказал, что ты про схрон с дешифратором знаешь.</eng>
+		<eng>Cool! I think I've had enough. Now back to business. Proper the Seventieth said you know about the cache with the decoder.</eng>
 		<ukr>Прикольно! Мабуть, з мене вистачить. Тепер по ділу. Пропер Сімдесятий сказав, що ти про схрон з дешифратором знаєш.</ukr>
 		<pln>===Пожалуй, с меня хватит. Теперь по делу. Пропер Семидесятый сказал, что ты про схрон с дешифратором знаешь.</pln>
 	</string>
 	<string id="snp_bubulyka5_36">
 		<rus>А-а, это мне в те выходные сталк один про него рассказал. Он ценности для большинства сталкеров не представляет, а вот тебе в самый раз будет, там как раз та вещица есть, с помощью которой можно твои абракадабры расшифровать. В Лиманске он находится, в гастрономе.</rus>
-		<eng>===А-а, это мне в те выходные сталк один про него рассказал. Он ценности для большинства сталкеров не представляет, а вот тебе в самый раз будет, там как раз та вещица есть, с помощью которой можно твои абракадабры расшифровать. В Лиманске он находится, в гастрономе.</eng>
+		<eng>Ah, that was the one a stalker me told about over the weekend. It doesn't represent much value to most stalkers, but it will be just fine for you, it contains just the right thing, with which you can decipher your gibberish. It's in the grocery store in Limansk.</eng>
 		<ukr>А-а, це мені в ті вихідні сталк один про нього розповів. Він цінності для більшості сталкерів не представляє, а ось тобі в самий раз буде, там якраз та річ є, за допомогою якої можна твої абракадабри розшифрувати. У Лиманську він знаходиться, в гастрономі.</ukr>
 		<pln>===А-а, это мне в те выходные сталк один про него рассказал. Он ценности для большинства сталкеров не представляет, а вот тебе в самый раз будет, там как раз та вещица есть, с помощью которой можно твои абракадабры расшифровать. В Лиманске он находится, в гастрономе.</pln>
 	</string>
@@ -7389,7 +7389,7 @@ Who hunger for fame or some riches.\n
 But after making a wish, the stalker\n
 Is led to the slaughter.\n \n
 The zombies, controllers and mutants\n
-Are ll feeling pretty good in here,\n
+Are all feeling pretty good in here,\n
 Because of all the space, it's apparent.\n
 The radiation inside nurtures them there,\n
 As if - it was one their parents.\n \n
@@ -7579,19 +7579,19 @@ Napiszą nasze imiona!</pln>
 
 	<string id="snp_bubulyka6_777">
 		<rus>Как же ты мне дорог со своими шутками. Но давай сделаем вид, что мы с тобой уже обо всём поговорили?!</rus>
-		<eng>===Давай сделаем вид, что мы с тобой уже обо всём поговорили?!</eng>
+		<eng>I love hearing your jokes so much. But can we pretend that we've already talked about everything?!</eng>
 		<ukr>Який же ти мені дорогий зі своїми жартами. Але давай зробимо вигляд, що ми з тобою вже про все поговорили?!</ukr>
 		<pln>===Давай сделаем вид, что мы с тобой уже обо всём поговорили?!</pln>
 	</string>
 	<string id="snp_bubulyka6_888">
 		<rus>Давай!</rus>
-		<eng>===Давай!</eng>
+		<eng>Okay then!</eng>
 		<ukr>Давай!</ukr>
 		<pln>===Давай!</pln>
 	</string>
 	<string id="snp_bubulyka6_999">
 		<rus>Вот и чудесно! Пойду, а то заждались уже, наверное, меня.</rus>
-		<eng>===Вот и чудесно! Пойду, а то заждались уже, наверное, меня.</eng>
+		<eng>That's good! I'll go, because they've probably been waiting for me.</eng>
 		<ukr>Ось і чудово! Піду, а то зачекалися вже, мабуть, мене.</ukr>
 		<pln>===Вот и чудесно! Пойду, а то заждались уже, наверное, меня.</pln>
 	</string>
@@ -8462,7 +8462,7 @@ I tu: patrzy - pseudogigant!! Wszędzie wszystko się trzęsie, butelki puste si
 
 	<string id="snp_bubulyka7_103">
 		<rus>Расскажи мне про тайник, который ты в карты выиграл, и разбежались.</rus>
-		<eng>===Расскажи мне про тайник, который ты в карты выиграл и разбежались.</eng>
+		<eng>Tell me about the stash which you won at cards, and then ran away.</eng>
 		<ukr>Розкажи мені про схованку, яку ти в карти виграв, і розбіглися.</ukr>
 		<pln>===Расскажи мне про тайник, который ты в карты выиграл и разбежались.</pln>
 	</string>
@@ -8488,7 +8488,7 @@ I tu: patrzy - pseudogigant!! Wszędzie wszystko się trzęsie, butelki puste si
 	</string>
 	<string id="snp_sviblov1_2">
 		<rus>Потому что чистюля ты. Стоишь тут и не видишь, что у тебя под носом делается. Из своей конуры не хочешь лишний раз нос высунуть.</rus>
-		<eng>Because you are clean. You stand here and don't see what is being done under your nose. You don't want to stick your nose out of your kennel again.</eng>
+		<eng>Because you are clean. You stand there and can't see what's happening right under your nose. You don't want to stick your nose out of your kennel again.</eng>
 		<ukr>Тому що чистюля ти. Стоїш тут і не бачиш, що у тебе під носом робиться. Зі своєї буди не хочещ зайвий раз носа висунути.</ukr>
 		<pln>Dlatego że czyścioszek z ciebie. Stoisz tu i nie widzisz, co się u ciebie pod nosem dzieje. Ze swojej budy nie chcesz nawet nosa wysunąć, żeby się nie ubrudzić.</pln>
 	</string>
@@ -8512,7 +8512,7 @@ I tu: patrzy - pseudogigant!! Wszędzie wszystko się trzęsie, butelki puste si
 	</string>
 	<string id="snp_sviblov1_6">
 		<rus>У тебя под носом, в подвале его каморки. Вы чем тут занимаетесь? Дальше своего носа не видите! Слушай, он просил, чтобы ты его родным сообщил о случившемся и сказал, чтобы помнили его и что он их сильно любил. Вы тут все передохнете, и последний даже не заметит, что больше нет никого. Повнимательней будь, Свиблов! Девушка у тебя в лагере - её береги! Спустись с небес на землю! Ладно, я ухожу. Приду - проверю! Я ещё вернусь.</rus>
-		<eng>Under your very nose, in the basement of his shop. What are you doing here? You can't see past your nose! Look, he wanted you to tell his family what happened and tell them to remember him and that he loved them very much. You could all die here, and the last one wouldn't even notice that there was no one else left. Be careful, Sviblov! The girl in your camp - take care of her! Get back down to earth! Okay, I'm leaving. I'll come and check! I'll be back again.</eng>
+		<eng>Under your very nose, in the basement of his shop. What are you doing here? You can't see past your nose! Look, he wanted you to tell his family what happened and tell them to remember him and that he loved them very much. You could all die here, and the last one wouldn't even notice that there was no one else left. Be careful, Sviblov! The girl in your camp - take good care of her! Get back down to earth! Okay, I'm leaving. I'll come and check! I'll be back again.</eng>
 		<ukr>У тебе під носом, у підвалі його комірчини. Ви чим тут займаєтеся? Далі свого носа не бачите! Слухай, він просив, щоб ти його рідним повідомив про подію і сказав, щоб пам'ятали його і що він їх сильно любив. Ви тут всі передохнете, і останній навіть не помітить, що більше немає нікого. Уважнішим будь, Свиблов! Дівчина у тебе у таборі - її бережи! Спустися з небес на землю! Гаразд, я йду. Прийду - перевірю! Я ще повернуся.</ukr>
 		<pln>U ciebie pod nosem, w piwnicy jego kantorka. Czym wy się tu zajmujecie? Dalej swojego nosa nie widzicie! Słuchaj, on prosił, byś ty jego krewnych powiadomił o tym zdarzeniu i powiedział, by go pamiętali i że ich bardzo kochał. Wy tu wszyscy zdechniecie, i ostatni nawet nie zauważy, że nikogo już nie ma. Uważniejszy bądź, Swibłow! Dziewczynę masz w obozie - to ją strzeż! Zejdź z nieba na ziemię! Dobra, odchodzę. Przyjdę - sprawdzę! Jeszcze wrócę.</pln>
 	</string>
@@ -9056,7 +9056,7 @@ I tu: patrzy - pseudogigant!! Wszędzie wszystko się trzęsie, butelki puste si
 	</string>
 	<string id="snp_ciklop_start_13">
 		<rus>Эх... хорошо рассказал. Жалко мужика... ты выпей ещё, что ли, за упокой души... Да. Это АТП к себе смерть тянет. Была там у меня перестрелка, с группой Петрухи, бандитов пасли... Ладно. Ты давай, не горюй, что ж поделаешь, все бывает. Свидимся ещё, может к этому времени оклемаешься как раз.</rus>
-		<eng>Oh, uh... well told. Pity about the man... have another drink to appease your soul... Yes. It's ATP that pulls death to itself. I had a gunfight there with Petruha's group once, bandits were passing through... Okay. Come on, don't worry, what you can do, shit happens. I'll see you again, maybe you'll be okay by then.</eng>
+		<eng>Oh, uh... well told. Pity about the man... have another drink to appease your soul... Yes. It's ATP that pulls death to itself. I had a gunfight there with Petruha's group once, bandits were passing through... Okay. Come on, don't worry, what can you do, shit happens. I'll see you again, maybe you'll be okay by then.</eng>
 		<ukr>Ех... добре розповів. Шкода мужика... ти випий ще, чи що, за упокій душі... Так. Це АТП до себе смерть тягне. Була там у мене перестрілка, з групою Петрухи, бандитів пасли... Гаразд. Ти давай, не сумуй, що ж поробиш, все буває. Побачимося ще, може до цього часу оклигаєш якраз.</ukr>
 		<pln>Ech... dobrze opowiadasz. Żal chłopa... wypij jeszcze za spokój duszy... Tak. To ATP do siebie śmierć ciągnie. Przeżyłem tam swoją strzelaninę, z grupą Pietruchy, bandytów pogoniliśmy... Dobra. Ty przestań, nie zamartwiaj się, nic nie zrobisz, tak bywa. Zobaczymy się jeszcze, może do tego czasu dojdziesz do siebie.</pln>
 	</string>
@@ -10529,7 +10529,7 @@ I tu: patrzy - pseudogigant!! Wszędzie wszystko się trzęsie, butelki puste si
 	</string>
 	<string id="gena_sakharov1_10">
 		<rus>Хорошо, проверю по возможности.</rus>
-		<eng>Okay, I'll check if I can.</eng>
+		<eng>Okay, I'll check it out if I can.</eng>
 		<ukr>Добре, перевірю по можливості.</ukr>
 		<pln>Dobrze, sprawdzę to najszybciej jak to możliwe.</pln>
 	</string>
@@ -10585,7 +10585,7 @@ I tu: patrzy - pseudogigant!! Wszędzie wszystko się trzęsie, butelki puste si
 	</string>
 	<string id="gena_oso1_3">
 		<rus>Я ищу женщину, и ты знаешь, о ком я!</rus>
-		<eng>I'm looking for a woman, and you know who I am talking about!</eng>
+		<eng>I'm looking for a woman, and you know who I'm talking about!</eng>
 		<ukr>Я шукаю жінку, і ти знаєш, про кого я!</ukr>
 		<pln>Szukam jednej kobiety, i ty wiesz o kim mówię!</pln>
 	</string>
@@ -10628,7 +10628,7 @@ I tu: patrzy - pseudogigant!! Wszędzie wszystko się trzęsie, butelki puste si
 	</string>
 	<string id="gena_elsa1_2">
 		<rus>Совершенно верно, я участвовала в научной экспедиции к центру Зоны, но наш вертолёт сбили в районе блокпоста Свободы на Армейских Складах, это рядом с переходом на Радар. Я посылала радиосигнал SOS с интервалом в 15 секунд, но результат был один - радиоэфир молчал. Видимо, какие-то аномальные помехи случились в этот период в Зоне, такое бывает. Дальше мы решили отправиться пешком, но в ходе экспедиции я предусмотрительно оставляла за собой информацию в различных местах Зоны, потому что чувствовала неладное и надеялась, что при плохом развитии событий найдётся человек, который сможет разыскать меня. Так и случилось. На Генераторах, когда мы изучали аномальные деревья, как раз в тот момент, когда мы только расставили научное оборудование по периметру испытуемого объекта, к нам подошли люди в странных научных костюмах, я раньше таких не видела, и приказали проследовать за ними. Мы вышли за периметр Генераторов и дальше я ничего не помню. В общем, нас взяли в заложники и удерживали в каком-то здании. Как уже потом стало ясно, нас держали в Мёртвом Городе. В один из дней, при смене часовых, мне удалось бежать, в результате чего я оказалась здесь.</rus>
-		<eng>That's right, I took part in a scientific expedition to the centre of the Zone, but our helicopter was shot down near the Freedom checkpoint at the Army Warehouses, near the transition to the Radar. I sent a SOS radio signal at 15 seconds intervals, but there was no result - the radio was silent. Apparently, some anomalous interference occurred during this period in the Zone. It happens. We then decided to proceed on foot, but during the trek, I carefully left information about where I was, in various places of the Zone, because I felt uneasy and hoped that if a bad turn of events occurred, someone could find me. Well, that's what happened. We were studying anomalous trees at the Generators, we had just placed our scientific equipment around the perimeter of the objects to be tested, when people in strange scientific costumes approached us, I had not seen them before, and they ordered us to follow them. We went beyond the perimeter of the Generators but I don't remember anything further. In general, we were taken hostage and held captive in a building. One day, when they were changing the sentries, I managed to escape, as a result of which I ended up here.</eng>
+		<eng>That's right, I took part in a scientific expedition to the centre of the Zone, but our helicopter was shot down near the Freedom checkpoint at the Army Warehouses, near the transition to the Radar. I sent a SOS radio signal at 15 seconds intervals, but there was no result - the radio was silent. Apparently, some anomalous interference occurred during this period in the Zone. It happens. We then decided to proceed on foot, but during the trek, I carefully left information about where I was, in various places of the Zone, because I felt uneasy and hoped that if a bad turn of events occurred, someone could find me. Well, that's what happened. We were studying anomalous trees at the Generators, we had just placed our scientific equipment around the perimeter of the objects to be tested, when people in strange scientific costumes approached us, I hadn't seen them before, and they ordered us to follow them. We went beyond the perimeter of the Generators but I don't remember anything further. In general, we were taken hostage and held captive in a building. One day, when they were changing the sentries, I managed to escape, as a result of which I ended up here.</eng>
 		<ukr>Абсолютно вірно, я брала участь у науковій експедиції до центру Зони, але наш вертоліт збили у районі блокпоста Волі на Армійських Складах, це поруч з переходом на Радар. Я посилала радіосигнал SOS з інтервалом у 15 секунд, але результат був один - радіоефір мовчав. Мабуть, якісь аномальні перешкоди трапилися у цей період у Зоні, таке буває. Далі ми вирішили відправитися пішки, але у ході експедиції я завбачливо залишала за собою інформацію у різних місцях Зони, бо відчувала недобре і сподівалася, що при поганому розвитку подій знайдеться людина, яка зможе розшукати мене. Так і сталося. На Генераторах, коли ми вивчали аномальні дерева, саме у той момент, коли ми тільки розставили наукове обладнання по периметру випробовуваного об'єкта, до нас підійшли люди у дивних наукових костюмах, я раніше таких не бачила, і наказали прослідувати за ними. Ми вийшли за периметр Генераторів і далі я нічого не пам'ятаю. Загалом, нас взяли у заручники і утримували у якомусь будинку. Як вже потім стало ясно, нас тримали у Мертвому Місті. В один із днів, при зміні вартових, мені вдалося втекти, у результаті чого я опинилася тут.</ukr>
 		<pln>Wszystko się zgadza, brałam udział w naukowej ekspedycji do centrum Zony, ale nasz helikopter strącono w okolicy posterunku Wolności na Magazynach Wojskowych, tym przy przejściu na Radar. Posyłałam sygnał radiowy SOS w odstępach 15 sekund, ale rezultat był jeden - cisza. Widocznie, jakieś anomalie zakłócały łączność, tak bywa w Zonie. Postanowiliśmy dalej udać się pieszo, ale w czasie marszu przezornie zostawiałam za sobą wskazówki w różnych miejscach Zony. Prześladowały mnie złe przeczucia i miałam nadzieję, że przy złym rozwoju zdarzeń znajdzie się człowiek, który będzie mógł mnie odszukać. Tak i się stało. Na Generatorach, kiedy badaliśmy anomalne drzewa, akurat w tej chwili, kiedy tylko rozstawiliśmy nasze naukowe wyposażenie naokoło badanego obiektu, podeszli do nas ludzie w dziwnych naukowych kombinezonach, wcześniej takich nigdy nie widziałam, i polecili iść za nimi. Opuściliśmy Generatory i dalej niczego już nie pamiętam. W sumie, wzięto nas jako zakładników i przetrzymywano w jakimś budynku. Jak już potem stało się jasne, trzymano nas w Martwym Mieście. Pewnego dnia, przy zmianie warty, udało mi się uciec, w rezultacie czego znalazłam się tutaj.</pln>
 	</string>
@@ -10664,7 +10664,7 @@ I tu: patrzy - pseudogigant!! Wszędzie wszystko się trzęsie, butelki puste si
 	</string>
 	<string id="gena_elsa1_8">
 		<rus>Ну вот, Стрелок, теперь Вы всё знаете. И, кстати, спасибо Вам огромное, что откликнулись на просьбу моего мужа и начали мои поиски. Ведь исход мог бы быть разным, и могла бы понадобиться Ваша помощь.</rus>
-		<eng>===Okay, Strelok, now you know everything. And, by the way, thank you so much for responding to Professor Sakharov's request and searching for me. After all, the outcome may be have been different, and I could have needed your help.</eng>
+		<eng>Okay, Strelok, now you know everything. And, by the way, thank you so much for responding to my husband's request and searching for me. After all, the outcome may be have been different, and I could have needed your help.</eng>
 		<ukr>Ну ось, Стрілець, тепер Ви все знаєте. І, до речі, спасибі Вам величезне, що відгукнулися на прохання мого чоловіка і почали мої пошуки. Адже результат міг би бути різним, і могла би знадобитися Ваша допомога.</ukr>
 		<pln>===No, Striełok, teraz Wy wszystko wiecie. I, przy okazji, dziękuję Wam bardzo, że odezwaliście się na prośbę profesora Sacharowa i zaczęliście mnie szukać. Przecież wszystko mogło potoczyć się inaczej, i mogłabym potrzebować Waszej pomocy.</pln>
 	</string>
@@ -10676,7 +10676,7 @@ I tu: patrzy - pseudogigant!! Wszędzie wszystko się trzęsie, butelki puste si
 	</string>
 	<string id="gena_elsa1_10">
 		<rus>До свидания. Подойдите к мужу, он проводит Вас.</rus>
-		<eng>===Goodbye. Go to the professor, he will show you the way out.</eng>
+		<eng>Goodbye. Go to my husband, he'll show you the way out.</eng>
 		<ukr>До побачення. Підійдіть до чоловіка, він проводить Вас.</ukr>
 		<pln>===Do zobaczenia. Podejdźcie do profesora, on Was przeprowadzi.</pln>
 	</string>
