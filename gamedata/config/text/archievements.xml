@@ -15,6 +15,22 @@
 		<rus>Вы не боитесь ночных вылазок в Зону Отчуждения, и Ваши глаза давно привыкли к кромешной тьме. Вы научились обходиться в таких ситуациях без приборов ночного видения, довольствуясь скудным освещением луны, звёзд и налобного фонарика. Та сотня жертв, погибших от Ваших рук тёмной ночью на просторах Зоны, так и не поняла, откуда исходила угроза.</rus>
 		<ukr>Ви не боїтеся нічних вилазок в Зону Відчуження, і Ваші очі давно звикли до непроглядної пітьми. Ви навчилися обходитися в таких ситуаціях без приладів нічного бачення, задовольняючись мізерним освітленням місяця, зірок і налобного ліхтарика. Та сотня жертв, загиблих від Ваших рук темної ночі на просторах Зони, так і не зрозуміла, звідки виходила загроза.</ukr>
 	</string>
+	<string id="acv_sweet">
+		<rus>Сладкоежка</rus>
+		<ukr>Ласун</ukr>
+	</string>
+	<string id="acv_sweet_desc">
+		<rus>Собрать десять банок самого редкого продукта Зоны Отчуждения - сгущёнки - дорогого стоит! Ведь этот консервированный деликатес не встретить в продаже даже у самых крутых торговцев, и сталкеры ни при каких обстоятельствах его не меняют и не продают. Похоже, сгущёнка незаметно стала валютой внутри Периметра. Но если её не менять и не продавать, тогда для чего так упорно собирать? Правильно - кушать! Значит Вы - Сладкоежка.</rus>
+		<ukr>===Собрать десять банок самого редкого продукта Зоны Отчуждения - сгущёнки - дорогого стоит! Ведь этот консервированный деликатес не встретить в продаже даже у самых крутых торговцев и сталкеры ни при каких обстоятельствах его не меняют и не продают. Похоже сгущёнка незаметно стала валютой внутри Периметра? Но если её не менять и не продавать, тогда для чего так упорно собирать? Правильно! Кушать! Значит Вы - сладкоежка.</ukr>
+	</string>
+	<string id="acv_firefly">
+		<rus>Светлячок</rus>
+		<ukr>Світлячок</ukr>
+	</string>
+	<string id="acv_firefly_desc">
+		<rus>Похоже, Вы всерьёз озабочены поиском альтернативных источников света взамен классическим фонарям, раз так быстро собрали десять фосфорных палок. Это большая редкость в Зоне Отчуждения. Теперь, выполнив просьбу Шахтёра, обитатели Пещеры будут называть Вас ласковым прозвищем Светлячок.</rus>
+		<ukr>===Похоже Вы всерьёз озабочены поиском альтернативных источников света взамен классическим фонарям раз так быстро собрали десять фосфорных палок. Это большая редкость в Зоне Отчуждения. Теперь, выполнив просьбу Шахтёра, обитатели пещеры будут называть Вас ласковым прозвищем Светлячок.</ukr>
+	</string>	
 	<string id="acv_grenade">
 		<rus>Гренадер</rus>
 		<ukr>Гренадер</ukr>
@@ -48,14 +64,14 @@
 		<ukr>Схоже, Ви вирішили зайнятися геноцидом зомбованих, оскільки ліквідували вже 150 цих нещасних бідолах. Можливо, не варто так старатися? Коли наступного разу зловите в приціл чергового зомбованого сталкера, перед тим як натиснути на спусковий гачок, згадайте, що колись це була жива і розсудлива людина.</ukr>
 	</string>
 	<string id="acv_instr">
-		<rus>Инструктор</rus>
-		<eng>===Инструктор</eng>
-		<ukr>Інструктор</ukr>
+		<rus>Повелитель мух</rus>
+		<eng>===Повелитель мух</eng>
+		<ukr>===Повелитель мух</ukr>
 	</string>
 	<string id="acv_instr_desc">
-		<rus>Вы каким-то образом умудрились поразить из пистолета/обреза 50 и более комаров и мелких чумных мух. Как такое вообще возможно? Может быть, Вы раньше были инструктором по практической стрельбе из пистолета и до сего момента скрывали это? Ну, тогда звание Инструктор вполне заслужено Вами.</rus>
+		<rus>Вы каким-то образом умудрились поразить из пистолета/обреза 50 и более комаров и мелких чумных мух. Как такое вообще возможно? Даже инструктор по практической стрельбе из пистолета не способен на это. После такого мухи и комары, завидев Ваш силуэт, предпочтут улетать от Вас как можно дальше. Вы стали Повелителем мух!</rus>
 		<eng>===Вы каким-то образом умудрились поразить из пистолета/обреза 50 и более комаров и мелких чумных мух. Как вообще такое возможно? Может быть, Вы раньше были инструктором по практической стрельбе из пистолета и до сего момента скрывали это? Ну, тогда звание Инструктор вполне заслужено Вами.</eng>
-		<ukr>Ви якимось чином примудрилися вразити з пістолета/обріза 50 і більше комарів і дрібних чумних мух. Як таке взагалі можливо? Можливо, Ви раніше були інструктором з практичної стрільби з пістолета і до цього моменту приховували це? Ну, тоді звання Інструктор цілком заслужено Вами.</ukr>
+		<ukr>===Ви якимось чином примудрилися вразити з пістолета/обріза 50 і більше комарів і дрібних чумних мух. Як таке взагалі можливо? Можливо, Ви раніше були інструктором з практичної стрільби з пістолета і до цього моменту приховували це? Ну, тоді звання Інструктор цілком заслужено Вами.</ukr>
 	</string>	
 	<string id="acv_alumiking">
 		<rus>Алюминиевый король</rus>
@@ -63,7 +79,7 @@
 		<ukr>Алюмінієвий король</ukr>
 	</string>
 	<string id="acv_alumiking_desc">
-		<rus>В последнее время сталкеры замечают, что все ваши карманы, рюкзак, подсумок и разгрузка забыты алюминиевыми жетонами. Им остаётся только гадать, добыли ли вы их в бою, снимая с противников, как скальпы, скупили или просто нашли? Впрочем, - не важно! Прозвище "Алюминиевый король" закрепилось за Вами надолго!</rus>
+		<rus>В последнее время сталкеры замечают, что все Ваши карманы, рюкзак, подсумок и разгрузка забиты алюминиевыми жетонами. Им остаётся только гадать: добыли ли Вы их в бою, снимая с противников, как скальпы, скупили или просто нашли? Впрочем, не важно! Прозвище "Алюминиевый король" закрепится за Вами надолго!</rus>
 		<eng>Recently, stalkers notice that all your pockets, backpack, pouch and unloading forgotten aluminum tokens. They can only guess whether you got them in battle, removing them from opponents like scalps, bought them or just found them? However, it doesn't matter! The nickname "Aluminum king" has stuck with You for a long time!</eng>
 		<ukr>Останнім часом сталкери помічають, що всі ваші кишені, рюкзак, підсумок і розвантаження забиті алюмінієвими жетонами. Їм залишається тільки гадати, добули ви їх в бою, знімаючи з супротивників, як скальпи, скупили або просто знайшли? Втім, не важливо! Прізвисько "Алюмінієвий король" закріпилося за Вами надовго!</ukr>
 	</string>	
@@ -461,11 +477,11 @@
 		<pln>Smakosz</pln>
 	</string>
 	<string id="acv_gurman_desc">
-		<rus>Несмотря на то, что в Зоне полно всякой гадости, Вы не жалеете себя и стремитесь испытать всё. Но нужно быть настоящим гурманом, чтобы втолкать в себя то, что Вы сейчас съели. Как самочувствие? Доктора позвать срочно не надо?</rus>
-		<eng>Despite the fact that the Zone is full of all sorts of muck, you do not feel sorry for yourself and are eager to experience everything. But you need to be a real gourmet, to push further into yourself what you've just swallowed. How are you feeling? Don't you urgently need to call a doctor?</eng>
-		<ukr>Незважаючи на те, що в Зоні повно всякої гидоти, Ви не шкодуєте себе і прагнете випробувати все. Але потрібно бути справжнім гурманом, щоб заштовхати в себе те, що Ви зараз з'їли. Як самопочуття? Болотного Доктора покликати терміново не треба?</ukr>
-		<fra>Malgré le fait que la Zone regorge de toutes les mauvaises choses, vous ne vous regrettez pas et ne vous efforcez pas de tout expérimenter. Mais vous devez être un vrai gourmet pour pouvoir mettre en vous ce que vous venez de manger. Comment vous sentez-vous? Avez-vous un besoin urgent d'appeler le médecin?</fra>
-		<pln>Mimo tego, że w Zonie jest dosyć wszelkiego świństwa, ty sobie nie żałujesz i dążysz do spróbowania wszystkiego. Ale trzeba być prawdziwym smakoszem, by pchać w siebie to, co ty teraz zjadłeś. Jak samopoczucie? Doktora wezwać pilnie nie trzeba?</pln>
+		<rus>Несмотря на то, что в Зоне полно всякой гадости, Вы не жалеете себя и стремитесь испытать всё. Но нужно быть настоящим гурманом, чтобы втолкать в себя то, что Вы съели за проведённое здесь время. Как самочувствие? Доктора позвать срочно не надо?</rus>
+		<eng>===Despite the fact that the Zone is full of all sorts of muck, you do not feel sorry for yourself and are eager to experience everything. But you need to be a real gourmet, to push further into yourself what you've just swallowed. How are you feeling? Don't you urgently need to call a doctor?</eng>
+		<ukr>===Незважаючи на те, що в Зоні повно всякої гидоти, Ви не шкодуєте себе і прагнете випробувати все. Але потрібно бути справжнім гурманом, щоб заштовхати в себе те, що Ви зараз з'їли. Як самопочуття? Болотного Доктора покликати терміново не треба?</ukr>
+		<fra>===Malgré le fait que la Zone regorge de toutes les mauvaises choses, vous ne vous regrettez pas et ne vous efforcez pas de tout expérimenter. Mais vous devez être un vrai gourmet pour pouvoir mettre en vous ce que vous venez de manger. Comment vous sentez-vous? Avez-vous un besoin urgent d'appeler le médecin?</fra>
+		<pln>===Mimo tego, że w Zonie jest dosyć wszelkiego świństwa, ty sobie nie żałujesz i dążysz do spróbowania wszystkiego. Ale trzeba być prawdziwym smakoszem, by pchać w siebie to, co ty teraz zjadłeś. Jak samopoczucie? Doktora wezwać pilnie nie trzeba?</pln>
 	</string>
 	<string id="acv_mars">
 		<rus>Марсианин</rus>
@@ -769,11 +785,11 @@
 		<pln>Kamieniarz</pln>
 	</string>
 	<string id="acv_buliz_desc">
-		<rus>Вы собрали 40 "Булыжников". Учитывая острый дефицит и практически полную бесполезность данных предметов в Зоне - это весьма неординарный поступок, заслуживающий особого внимания.</rus>
-		<eng>You have collected 40 "Cobblestones". Given the acute shortage and almost total uselessness of these items in the Zone - this is quite an extraordinary act, deserving special attention.</eng>
-		<ukr>Ви зібрали 40 "Булижників". Враховуючи гострий дефіцит і практично повну відсутність користі з даних предметів у Зоні - це досить неординарний вчинок, що заслуговує на особливу увагу.</ukr>
-		<fra>Vous avez collecté 40 "pavés". Compte tenu de la pénurie aiguë et de l'inutilité presque complète de ces articles dans la zone, il s'agit d'un acte très inhabituel qui mérite une attention particulière.</fra>
-		<pln>Zebrałeś 40 "Brukowców". Biorąc pod uwagę ostry deficyt i praktycznie całkowitą bezużyteczność danych przedmiotów w Zonie - to bardzo dziwny postępek, zasługujący na szczególną uwagę.</pln>
+		<rus>Вы уже в 25-й раз попадаете в аномальную зону, в которой вырождаются артефакты, и не абы какие, а различные модификаты и абсолюты, стоящие не малых денег. Учитывая острый дефицит и практически полную бесполезность "Булыжников" в Зоне - это весьма неординарное "везение", заслуживающее особого внимания.</rus>
+		<eng>===You have collected 40 "Cobblestones". Given the acute shortage and almost total uselessness of these items in the Zone - this is quite an extraordinary act, deserving special attention.</eng>
+		<ukr>===Ви зібрали 40 "Булижників". Враховуючи гострий дефіцит і практично повну відсутність користі з даних предметів у Зоні - це досить неординарний вчинок, що заслуговує на особливу увагу.</ukr>
+		<fra>===Vous avez collecté 40 "pavés". Compte tenu de la pénurie aiguë et de l'inutilité presque complète de ces articles dans la zone, il s'agit d'un acte très inhabituel qui mérite une attention particulière.</fra>
+		<pln>===Zebrałeś 40 "Brukowców". Biorąc pod uwagę ostry deficyt i praktycznie całkowitą bezużyteczność danych przedmiotów w Zonie - to bardzo dziwny postępek, zasługujący na szczególną uwagę.</pln>
 	</string>
 	<string id="acv_weapon">
 		<rus>Терминатор</rus>
@@ -1483,11 +1499,11 @@
 		<pln>Pogotowie ratunkowe</pln>
 	</string>
 	<string id="acv_sos_desc">
-		<rus>Вам удалось спасти от верной смерти тех, кого спасти уже не было практически никакой возможности. Вам удалось полностью сохранить в живых квад Долга, который попал в плен к бандитам в Тёмной Долине, а также отбить из лап монстров сумасшедшего сталкера на болоте возле базы Свободы. Конечно, этот сталкер всё равно погиб, но Вы по крайней мере попытались его спасти и сделали для этого всё возможное. Это говорит о том, что Ваша любовь к людям не знает границ. Это качество настолько редко встречается в Зоне, что оно достойно отдельного достижения!</rus>
-		<eng>You have managed to save those who had no chance to be saved, from the certain death. You have managed to completely save a Duty quad who were captured by the bandits in the Dark Valley and also to snatch a crazy stalker away from the monsters in the swamp near the Freedom base. Of course, this stalker's died all the same, but you at least tried to save him and you did your best in trying to succeed in this. This shows that your love for people knows no bounds. This quality is so rare in the Zone that it is worthy of a special achievement!</eng>
-		<ukr>Вам вдалося врятувати від вірної смерті тих, кого врятувати вже не було практично ніякої можливості. Вам вдалося повністю зберегти у живих квад Долгу, який потрапив у полон до бандитів у Темній Долині, а також відбити з лап монстрів божевільного сталкера на болоті біля бази Волі. Звичайно, цей сталкер все одно загинув, але Ви принаймні спробували його врятувати і зробили для цього все можливе. Це говорить про те, що Ваша любов до людей не знає меж. Ця якість настільки рідко зустрічається у Зоні, що вона гідна окремого досягнення!</ukr>
-		<fra>Vous avez réussi à sauver d'une mort certaine ceux qui ne pouvaient plus être sauvés. Vous avez réussi à sauver complètement le quad de Duty, qui a été capturé par les bandits à Dark Valley, et à battre le Stalker fou dans le marais près de la base de Liberty des griffes de monstres. Bien sûr, ce Stalker est mort de toute façon, mais au moins, vous avez essayé de le sauver et vous avez fait tout ce qui était en votre pouvoir. Cela suggère que votre amour pour les gens ne connaît pas de limites. Cette qualité est si rare dans la zone qu'elle mérite un exploit séparé!</fra>
-		<pln>Udało ci się uratować od pewnej śmierci tych, kogo uratować już nie było praktycznie żadnej możliwości. Udało ci się utrzymać przy życiu cały kwad Powinności, który dostał się do niewoli bandytów w Dolinie Mroku, jak również odbić z łap mutantów obłąkanego stalkera na bagnie obok bazy Wolności. Oczywiście, ten stalker i tak zginął, ale przynajmniej próbowałeś go uratować i zrobiłeś w tym kierunku wszystko co możliwe. To mówi, że twoja miłość do ludzi nie zna granic. Takie postępowanie tak rzadko spotyka się w Zonie, że jest ono godne szczególnego osiągnięcia!</pln>
+		<rus>Вам удалось спасти от верной смерти тех, кого спасти уже не было практически никакой возможности. Вам удалось полностью сохранить в живых квад Долга, который попал в плен к бандитам в Тёмной Долине, а также "пролечить" сумасшедшего сталкера на болоте возле базы Свободы. Конечно, этот сталкер всё равно погиб, но Вы по крайней мере попытались его спасти и сделали для этого всё возможное. Это говорит о том, что Ваша любовь к людям не знает границ. Это качество настолько редко встречается в Зоне, что оно достойно отдельного достижения!</rus>
+		<eng>===You have managed to save those who had no chance to be saved, from the certain death. You have managed to completely save a Duty quad who were captured by the bandits in the Dark Valley and also to snatch a crazy stalker away from the monsters in the swamp near the Freedom base. Of course, this stalker's died all the same, but you at least tried to save him and you did your best in trying to succeed in this. This shows that your love for people knows no bounds. This quality is so rare in the Zone that it is worthy of a special achievement!</eng>
+		<ukr>===Вам вдалося врятувати від вірної смерті тих, кого врятувати вже не було практично ніякої можливості. Вам вдалося повністю зберегти у живих квад Долгу, який потрапив у полон до бандитів у Темній Долині, а також відбити з лап монстрів божевільного сталкера на болоті біля бази Волі. Звичайно, цей сталкер все одно загинув, але Ви принаймні спробували його врятувати і зробили для цього все можливе. Це говорить про те, що Ваша любов до людей не знає меж. Ця якість настільки рідко зустрічається у Зоні, що вона гідна окремого досягнення!</ukr>
+		<fra>===Vous avez réussi à sauver d'une mort certaine ceux qui ne pouvaient plus être sauvés. Vous avez réussi à sauver complètement le quad de Duty, qui a été capturé par les bandits à Dark Valley, et à battre le Stalker fou dans le marais près de la base de Liberty des griffes de monstres. Bien sûr, ce Stalker est mort de toute façon, mais au moins, vous avez essayé de le sauver et vous avez fait tout ce qui était en votre pouvoir. Cela suggère que votre amour pour les gens ne connaît pas de limites. Cette qualité est si rare dans la zone qu'elle mérite un exploit séparé!</fra>
+		<pln>===Udało ci się uratować od pewnej śmierci tych, kogo uratować już nie było praktycznie żadnej możliwości. Udało ci się utrzymać przy życiu cały kwad Powinności, który dostał się do niewoli bandytów w Dolinie Mroku, jak również odbić z łap mutantów obłąkanego stalkera na bagnie obok bazy Wolności. Oczywiście, ten stalker i tak zginął, ale przynajmniej próbowałeś go uratować i zrobiłeś w tym kierunku wszystko co możliwe. To mówi, że twoja miłość do ludzi nie zna granic. Takie postępowanie tak rzadko spotyka się w Zonie, że jest ono godne szczególnego osiągnięcia!</pln>
 	</string>
 	<string id="acv_profi">
 		<rus>Профессионал</rus>
@@ -1595,11 +1611,11 @@
 		<pln>Grzybiarz</pln>
 	</string>
 	<string id="acv_grib_desc">
-		<rus>Чтобы найти и собрать 40 мухоморов, нужно иметь много свободного времени, которого в Зоне очень не хватает. Будем считать, что это ваше хобби.</rus>
-		<eng>Finding and collecting 40 fly amanitas takes a lot of free time, which one is always short of in the Zone. We will regard that as your hobby.</eng>
-		<ukr>Щоб знайти і зібрати 40 мухоморів, потрібно мати багато вільного часу, якого у Зоні дуже не вистачає. Будемо вважати, що це ваше хобі.</ukr>
-		<fra>Pour trouver et collecter 40 amanites, vous devez disposer de beaucoup de temps libre, ce qui manque beaucoup dans la Zone. Nous supposons que c'est votre passe-temps.</fra>
-		<pln>By znaleźć i zebrać 40 muchomorów, trzeba mieć dużo wolnego czasu, którego w Zonie ciągle brakuje. Będziemy uważać, że to jest twoje hobby.</pln>
+		<rus>Чтобы найти и собрать 50 мухоморов, нужно иметь много свободного времени, которого в Зоне очень не хватает. Будем считать, что это ваше хобби.</rus>
+		<eng>Finding and collecting 50 fly amanitas takes a lot of free time, which one is always short of in the Zone. We will regard that as your hobby.</eng>
+		<ukr>Щоб знайти і зібрати 50 мухоморів, потрібно мати багато вільного часу, якого у Зоні дуже не вистачає. Будемо вважати, що це ваше хобі.</ukr>
+		<fra>Pour trouver et collecter 50 amanites, vous devez disposer de beaucoup de temps libre, ce qui manque beaucoup dans la Zone. Nous supposons que c'est votre passe-temps.</fra>
+		<pln>By znaleźć i zebrać 50 muchomorów, trzeba mieć dużo wolnego czasu, którego w Zonie ciągle brakuje. Będziemy uważać, że to jest twoje hobby.</pln>
 	</string>
 	<string id="acv_krs">
 		<rus>Крысолов</rus>
