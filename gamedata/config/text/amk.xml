@@ -25,7 +25,7 @@
 		<pln>To ci mogę zagwarantować.</pln>
 	</string>
 	<string id="trader_beads_1">
-		<rus>Ну, а помимо того барахла, что я тут тебе в награду дал, держи рецепт, как из одного артефакта другой сотворить. Да, ты не ослышался, такое можно провернуть. Ну чего ты вылупился, аки дитятко невинное? Доставай свой ПДА, скину тебе информацию.</rus>
+		<rus>Ну, а помимо того барахла, что я тут тебе в награду дал, держи рецепт, как из одного артефакта другой сотворить. Да, ты не ослышался, такое можно провернуть. Ну чего ты вылупился, аки дитятко невинное? Доставай свой КПК, скину тебе информацию.</rus>
 		<eng>Well, besides that junk that I gave you as a reward, keep a recipe for creating one artifact from another. Yes, you've heard me right: this could well be accomplished. What you staring at me like an innocent child? Take out your PDA, I'll upload the info into it.</eng>
 		<ukr>Ну, а крім того барахла, що я тут тобі в нагороду дав, тримай рецепт, як з одного артефакту другий створити. Так, ти не недочув, таке можна провернути. Ну чого ти вилупився, як дитятко безневинне? Діставай свій КПК, скину тобі інформацію.</ukr>
 		<pln>No, a oprócz tego chłamu, który ci dałem w nagrodę, trzymaj receptę, jak z jednego artefaktu drugi stworzyć. Tak, tak,  nie przesłyszałeś się, taka rzecz jest możliwa. No co się tak patrzysz, jak jakie dziecię niewinne? Dawaj swój PDA, przerzucę ci informację.</pln>
@@ -353,10 +353,10 @@ Do profesora Sazonowa Mikołaja Dimitrowicza\n\nSzanowny Mikołaju Dimitrowiczu,
 		<pln>%c[255,255,255,255]Radiacja  %c[255,1,255,1]-40\n%c[255,255,255,255]Wytrzymałość %c[255,255,1,1]-200\n%c[255,255,255,255]Elektryczność  %c[255,255,1,1]-10 %\n%c[255,255,255,255]Telepatia  %c[255,1,255,1]+10 %\n\n%c[255,224,224,160]Mezomodyfikat "Elektryczny Jeżozwierz" posiada wyraźny współczynnik blokowania radiacji, zmniejsza zmęczenie, ale, niestety, podwyższa wrażliwość na szok elektryczny. Oprócz tego w pewnym stopniu zabezpiecza przed oddziaływaniem telepatycznym\n\nModyfikat "Jeżozwierz" wrzuca się w anomalię "Elektra".\n%c[255,255,255,255]Czas transmutacji  %c[255,224,224,160]5 godzin Zony\n%c[255,255,255,255]Prawdopodobieństwo powodzenia transmutacji %c[255,1,255,1]80 %\n%c[255,255,255,255]Prawdopodobieństwo zwyrodnienia  %c[255,255,1,1]20 %%c[default]</pln>
 	</string>
 	<string id="enc_amk_recipt_sopl_dikoobraz_text">
-		<rus>%c[255,255,255,255]Радиация  %c[255,1,255,1]-45\n%c[255,255,255,255]Выносливость  %c[255,255,1,1]-218 %\n%c[255,255,255,255]Электрошок  %c[255,255,1,1]-10 %\n%c[255,255,255,255]Химический ожог  %c[255,1,255,1]+5 %\n \n%c[255,224,224,160]Этот гипермодификат имеет редкий показатель по блокировке радиации - человек получает меньше половины от того количества рентген, которого он получил бы, не одев на пояс этот гипермодификат. Помимо этого он также добавляет выносливости. Неприятной стороной "Сопливого дикобраза" является то, что он повышает чувствительность человека к электрошоку и его неудобно носить из-за всё время сочащейся непонятной слизи. Субстанция безвредная, но до жути неприятная. Помимо этого, артефакт также уменьшает выносливость организма. Несмотря на свою непрезентабельность, гипермодификат очень ценится в Зоне.\n \nМезомодификат "Электрический дикобраз" бросается в аномалию "Холодец".\n \n%c[255,255,255,255]Время трансмутации  %c[255,224,224,160]2 часа Зоны\n%c[255,255,255,255]Вероятность удачной трансмутации  %c[255,1,255,1]80 %\n%c[255,255,255,255]Вероятность вырождения  %c[255,255,1,1]20 %%c[default]</rus>
-		<eng>%c[255,255,255,255]Radiation  %c[255,1,255,1]-45\n%c[255,255,255,255]Endurance  %c[255,255,1,1]-218 %\n%c[255,255,255,255]Electric shock  %c[255,255,1,1]-10 %\n%c[255,255,255,255]Chemical burn  %c[255,1,255,1]+5 %\n \n%c[255,224,224,160]This hypermodificate possesses the rare rate of blocking radiation - a human receives less than half the radiation he would've received had he not put that hypermodificate on the belt. Apart from that, it also adds to endurance. The downside of "Snotty Porcupine" is that it increases sensitivity to electric shock, and it is uncomfortable to carry around because of its constant oozing of strange slime. This substance is harmless, yet awfully unpleasant. In addition, this artifact reduces stamina. Despite the lack of presentability, the hypermodificate is of great value in the Zone.\n \n"Electric Porcupine" mesomodificate is to be thrown in "Fruit Punch" anomaly.\n \n%c[255,255,255,255]Transmutation time  %c[255,224,224,160]2 Zone hours\n%c[255,255,255,255]Probability of successful transmutation  %c[255,1,255,1]80 %\n%c[255,255,255,255]Probability of degeneration  %c[255,255,1,1]20 %%c[default]</eng>
-		<ukr>%c[255,255,255,255]Радіація  %c[255,1,255,1]-45\n%c[255,255,255,255]Витривалість  %c[255,255,1,1]-218 %\n%c[255,255,255,255]Електрошок  %c[255,255,1,1]-10 %\n%c[255,255,255,255]Хімічний опік  %c[255,1,255,1]+5 %\n \n%c[255,224,224,160]Цей гіпермодифікат має рідкісний показник по блокуванню радіації - людина отримує менше половини від тієї кількості рентген, які він отримав би, не одягнувши на пояс цей гіпермодифікат. Крім цього він також додає витривалості. Неприємною стороною "Сопливого дикобраза" є те, що він підвищує чутливість людини до електрошоку і його незручно носити через незрозумілий слиз який постійно виділяється. Субстанція нешкідлива, але до усрачки неприємна. Крім цього, артефакт також зменшує витривалість організму. Незважаючи на свою непрезентабельність, гіпермодифікат дуже цінується в Зоні.\n \nМезомодифікат "Електричний дикобраз" кидається в аномалію "Холодець".\n \n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]2 години Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]80 %\n%c[255,255,255,255]Ймовірність виродження  %c[255,255,1,1]20 %%c[default]</ukr>
-		<pln>%c[255,255,255,255]Radiacja  %c[255,1,255,1]-45\n%c[255,255,255,255]Wytrzymałość %c[255,255,1,1]-218\n%c[255,255,255,255]Elektryczność  %c[255,255,1,1]-10  %\n%c[255,255,255,255]Oparzenia chemiczne  %c[255,1,255,1]+5 %\n\n%c[255,224,224,160]Ten hipermodyfikat posiada rzadki współczynnik blokowania radiacji, człowiek otrzymuje około połowy tej dawki rentgenów, którą otrzymałby, bez zawieszenie na pasie tego hipermodyfikatu. Oprócz tego, niestety obniża wytrzymałość. Nieprzyjemną cechą "Kwaśnego Jeżozwierza" jest to, że podwyższa się wrażliwość człowieka na szok elektryczny i niewygodnie jest go nosić, z powodu sączącego się stale kwaśnego śluzu. Substancja nieszkodliwa, ale do obrzydzenia nieprzyjemna. Niezależnie od wspomnianych niewygód, hipermodyfikat jest bardzo ceniony w Zonie.\n\nMezomodyfikat "Elektryczny Jeżozwierz" wrzuca się w anomalię "Galareta".\n%c[255,255,255,255]Czas transmutacji  %c[255,224,224,160]2 godziny Zony\n%c[255,255,255,255]Prawdopodobieństwo powodzenia transmutacji %c[255,1,255,1]80 %\n%c[255,255,255,255]Prawdopodobieństwo zwyrodnienia  %c[255,255,1,1]20 %%c[default]</pln>
+		<rus>%c[255,255,255,255]Радиация  %c[255,1,255,1]-45\n%c[255,255,255,255]Выносливость  %c[255,255,1,1]-218 %\n%c[255,255,255,255]Электрошок  %c[255,255,1,1]-10 %\n%c[255,255,255,255]Химический ожог  %c[255,1,255,1]+5 %\n \n%c[255,224,224,160]Этот гипермодификат имеет редкий показатель по блокировке радиации - человек получает меньше половины от того количества рентген, которого он получил бы, не одев на пояс этот гипермодификат. Неприятной стороной "Сопливого дикобраза" является то, что он повышает чувствительность человека к электрошоку и его неудобно носить из-за всё время сочащейся непонятной слизи. Субстанция безвредная, но до жути неприятная. Помимо этого, артефакт также уменьшает выносливость организма. Несмотря на свою непрезентабельность, гипермодификат очень ценится в Зоне.\n \nМезомодификат "Электрический дикобраз" бросается в аномалию "Холодец".\n \n%c[255,255,255,255]Время трансмутации  %c[255,224,224,160]2 часа Зоны\n%c[255,255,255,255]Вероятность удачной трансмутации  %c[255,1,255,1]80 %\n%c[255,255,255,255]Вероятность вырождения  %c[255,255,1,1]20 %%c[default]</rus>
+		<eng>%c[255,255,255,255]Radiation  %c[255,1,255,1]-45\n%c[255,255,255,255]Endurance  %c[255,255,1,1]-218 %\n%c[255,255,255,255]Electric shock  %c[255,255,1,1]-10 %\n%c[255,255,255,255]Chemical burn  %c[255,1,255,1]+5 %\n \n%c[255,224,224,160]This hypermodificate possesses the rare rate of blocking radiation - a human receives less than half the radiation he would've received had he not put that hypermodificate on the belt. The downside of "Snotty Porcupine" is that it increases sensitivity to electric shock, and it is uncomfortable to carry around because of its constant oozing of strange slime. This substance is harmless, yet awfully unpleasant. In addition, this artifact reduces stamina. Despite the lack of presentability, the hypermodificate is of great value in the Zone.\n \n"Electric Porcupine" mesomodificate is to be thrown in "Fruit Punch" anomaly.\n \n%c[255,255,255,255]Transmutation time  %c[255,224,224,160]2 Zone hours\n%c[255,255,255,255]Probability of successful transmutation  %c[255,1,255,1]80 %\n%c[255,255,255,255]Probability of degeneration  %c[255,255,1,1]20 %%c[default]</eng>
+		<ukr>%c[255,255,255,255]Радіація  %c[255,1,255,1]-45\n%c[255,255,255,255]Витривалість  %c[255,255,1,1]-218 %\n%c[255,255,255,255]Електрошок  %c[255,255,1,1]-10 %\n%c[255,255,255,255]Хімічний опік  %c[255,1,255,1]+5 %\n \n%c[255,224,224,160]Цей гіпермодифікат має рідкісний показник по блокуванню радіації - людина отримує менше половини від тієї кількості рентген, які він отримав би, не одягнувши на пояс цей гіпермодифікат. Неприємною стороною "Сопливого дикобраза" є те, що він підвищує чутливість людини до електрошоку і його незручно носити через незрозумілий слиз який постійно виділяється. Субстанція нешкідлива, але до усрачки неприємна. Крім цього, артефакт також зменшує витривалість організму. Незважаючи на свою непрезентабельність, гіпермодифікат дуже цінується в Зоні.\n \nМезомодифікат "Електричний дикобраз" кидається в аномалію "Холодець".\n \n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]2 години Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]80 %\n%c[255,255,255,255]Ймовірність виродження  %c[255,255,1,1]20 %%c[default]</ukr>
+		<pln>%c[255,255,255,255]Radiacja  %c[255,1,255,1]-45\n%c[255,255,255,255]Wytrzymałość %c[255,255,1,1]-218\n%c[255,255,255,255]Elektryczność  %c[255,255,1,1]-10  %\n%c[255,255,255,255]Oparzenia chemiczne  %c[255,1,255,1]+5 %\n\n%c[255,224,224,160]Ten hipermodyfikat posiada rzadki współczynnik blokowania radiacji, człowiek otrzymuje około połowy tej dawki rentgenów, którą otrzymałby, bez zawieszenie na pasie tego hipermodyfikatu. Nieprzyjemną cechą "Kwaśnego Jeżozwierza" jest to, że podwyższa się wrażliwość człowieka na szok elektryczny i niewygodnie jest go nosić, z powodu sączącego się stale kwaśnego śluzu. Substancja nieszkodliwa, ale do obrzydzenia nieprzyjemna. Niezależnie od wspomnianych niewygód, hipermodyfikat jest bardzo ceniony w Zonie.\n\nMezomodyfikat "Elektryczny Jeżozwierz" wrzuca się w anomalię "Galareta".\n%c[255,255,255,255]Czas transmutacji  %c[255,224,224,160]2 godziny Zony\n%c[255,255,255,255]Prawdopodobieństwo powodzenia transmutacji %c[255,1,255,1]80 %\n%c[255,255,255,255]Prawdopodobieństwo zwyrodnienia  %c[255,255,1,1]20 %%c[default]</pln>
 	</string>
 	<string id="enc_amk_recipt_stone_dikoobraz_text">
 		<rus>%c[255,255,255,255]Радиация  %c[255,1,255,1]-50\n%c[255,255,255,255]Электрошок  %c[255,1,255,1]+10 %\n \n%c[255,224,224,160]Данный абсолют снижает полученную дозу радиации более чем в 2 раза! Помимо этого редчайшего качества, "Каменный дикобраз" снижает чувствительность к электрошоку. Очень ценится не только учёными, но и среди сталкеров.\n \nГипермодификат "Сопливый дикобраз" бросается в аномалию "Трамплин".\n \n%c[255,255,255,255]Время трансмутации  %c[255,224,224,160]7 часов Зоны\n%c[255,255,255,255]Вероятность удачной трансмутации  %c[255,1,255,1]100 %%c[default]</rus>
@@ -483,22 +483,22 @@ Do profesora Sazonowa Mikołaja Dimitrowicza\n\nSzanowny Mikołaju Dimitrowiczu,
 		"Медуза"\n
 		"Капля"\n
 		"Кровь камня"\n
-		"Колючка".\n \n%c[255,255,255,255]Время трансмутации  %c[255,224,224,160]5 часов Зоны\n%c[255,255,255,255]Вероятность удачной трансмутации  %c[255,1,255,1]80 %\n%c[255,255,255,255]Вероятность вырождения  %c[255,255,1,1]20 %%c[default]</rus>
+		"Колючка"\n \n%c[255,255,255,255]Время трансмутации  %c[255,224,224,160]5 часов Зоны\n%c[255,255,255,255]Вероятность удачной трансмутации  %c[255,1,255,1]80 %\n%c[255,255,255,255]Вероятность вырождения  %c[255,255,1,1]20 %%c[default]</rus>
 		<eng>%c[255,255,255,255]Endurance  %c[255,255,1,1]-18\n%c[255,255,255,255]Bleeding  %c[255,255,1,1]+84 %\n%c[255,255,255,255]Rupture  %c[255,255,1,1]-15 %\n%c[255,255,255,255]Telepathy  %c[255,1,255,1]+30 %\n \n%c[255,224,224,160]Unique "Symbion" modificate provides one bearing it on the belt with rather significant shielding from psy-emission, but at the same time it intensifies the bleeding, reduces endurance and resistance to rupture.\n \nThis artifact is created by joint transmutation in "Fruit Punch" of four artifacts:\n \n
 		"Jellyfish"\n
 		"Droplet"\n
 		"Stone's blood"\n
-		"Thorn".\n \n%c[255,255,255,255]Transmutation time  %c[255,224,224,160]5 Zone hours\n%c[255,255,255,255]Probability of successful transmutation  %c[255,1,255,1]80 %\n%c[255,255,255,255]Probability of degeneration  %c[255,255,1,1]20 %%c[default]</eng>
+		"Thorn"\n \n%c[255,255,255,255]Transmutation time  %c[255,224,224,160]5 Zone hours\n%c[255,255,255,255]Probability of successful transmutation  %c[255,1,255,1]80 %\n%c[255,255,255,255]Probability of degeneration  %c[255,255,1,1]20 %%c[default]</eng>
 		<ukr>%c[255,255,255,255]Витривалість  %c[255,255,1,1]-18\n%c[255,255,255,255]Кровотеча  %c[255,255,1,1]+84 %\n%c[255,255,255,255]Розрив  %c[255,255,1,1]-15 %\n%c[255,255,255,255]Телепатія  %c[255,1,255,1]+30 %\n \n%c[255,224,224,160]Унікальний модифікат "Симбіон" дає людині яка носить його на поясі досить чутливе екранування від псі-випромінювання, але при цьому він підсилює кровотечу, знижує витривалість і стійкість до розриву.\n \nАртефакт виходить шляхом спільної трансмутації в аномалії "Холодець" відразу чотирьох артефактів:\n \n
 		 - "Медуза"\n
 		 - "Крапля"\n
 		 - "Кров каменя"\n
-		 - "Колючка".\n \n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]5 годин Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]80 %\n%c[255,255,255,255]Ймовірність виродження  %c[255,255,1,1]20 %%c[default]</ukr>
+		 - "Колючка"\n \n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]5 годин Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]80 %\n%c[255,255,255,255]Ймовірність виродження  %c[255,255,1,1]20 %%c[default]</ukr>
 		<pln>%c[255,255,255,255]Wytrzymałość  %c[255,255,1,1]-18\n%c[255,255,255,255]Krwawienie  %c[255,255,1,1]+84 %\n%c[255,255,255,255]Rozerwanie  %c[255,255,1,1]-15 %\n%c[255,255,255,255]Telepatia  %c[255,1,255,1]+30 %\n \n%c[255,224,224,160]Unikatowy modyfikat "Symbion" daje noszącemu go na pasie człowiekowi dość dobre ekranowanie od promieniowania psionicznego, ale przy tym podwyższa krwawienie, obniża wytrzymałość i odporność skóry na rozerwanie.\n\nArtefakt otrzymujemy drogą równoczesnej transmutacji w anomalii "Galareta" czterech artefaktów:\n \n
 		"Meduza"\n 
 		"Kropla"\n 
 		"Kamienna Krew"\n 
-		"Kolczatka".\n \n%c[255,255,255,255]Czas transmutacji  %c[255,224,224,160]5 godzin Zony\n%c[255,255,255,255]Prawdopodobieństwo powodzenia transmutacji  %c[255,1,255,1]80 %\n%c[255,255,255,255]Prawdopodobieństwo zwyrodnienia  %c[255,255,1,1]20 %%c[default]</pln>
+		"Kolczatka"\n \n%c[255,255,255,255]Czas transmutacji  %c[255,224,224,160]5 godzin Zony\n%c[255,255,255,255]Prawdopodobieństwo powodzenia transmutacji  %c[255,1,255,1]80 %\n%c[255,255,255,255]Prawdopodobieństwo zwyrodnienia  %c[255,255,1,1]20 %%c[default]</pln>
 	</string>
 	<string id="enc_amk_recipt_dummy_fire_text">
 		<rus>%c[255,255,255,255]Радиация  %c[255,255,1,1]+2 %\n%c[255,255,255,255]Выносливость  %c[255,1,255,1]+27\n%c[255,255,255,255]Удар  %c[255,1,255,1]+5 %\n%c[255,255,255,255]Электрошок  %c[255,255,1,1]-10 %\n \n%c[255,224,224,160]Данный модификат, кроме снижения негативного влияния ударных воздействий, добавляет носящему его на поясе человеку выносливости. Но при этом делает организм более подверженным к воздействию аномалии "Электра". Слабо радиоактивен.\n \nАртефакт "Пустышка" кидается в аномалию "Электра".\n \n%c[255,255,255,255]Время трансмутации  %c[255,224,224,160]3 часа Зоны\n%c[255,255,255,255]Вероятность удачной трансмутации  %c[255,1,255,1]80 %\n%c[255,255,255,255]Вероятность вырождения  %c[255,255,1,1]20 %%c[default]</rus>
@@ -525,66 +525,66 @@ Do profesora Sazonowa Mikołaja Dimitrowicza\n\nSzanowny Mikołaju Dimitrowiczu,
 		<pln>%c[255,255,255,255]Radiacja  %c[255,255,1,1]+7\n%c[255,255,255,255]Wytrzymałość  %c[255,1,255,1]+18\n%c[255,255,255,255]Uderzenie  %c[255,1,255,1]+15 %\n%c[255,255,255,255]Elektryczność  %c[255,1,255,1]+20 %\n\n%c[255,224,224,160]Absolut dobrze neutralizuje uderzenia i elektryczność. Do tego nieco podwyższa wytrzymałość. Umiarkowanie radioaktywny.\n\n"Księżyc" wrzuca się w anomalię "Galareta"\n%c[255,255,255,255]Czas transmutacji  %c[255,224,224,160]7 godzin Zony\n%c[255,255,255,255]Prawdopodobieństwo powodzenia transmutacji  %c[255,1,255,1]100 %%c[default]</pln>
 	</string>
 	<string id="enc_amk_recipt_power_1_text">
-		<rus>Данный модификат усиливает выносливость обладателя, придавая ему дополнительные силы.\n \nАртефакт "Снежок" кидается в аномалию "Снежная". Дополнительно к нему в аномалию кидаются: \n
+		<rus>%c[255,255,255,255]Выносливость  %c[255,1,255,1]+1000\n \n%c[255,224,224,160]Данный модификат усиливает выносливость обладателя, придавая ему дополнительные силы.\n \nАртефакт "Снежок" кидается в аномалию "Снежная". Дополнительно к нему в аномалию кидаются:\n \n
 		"Булыжник"\n
 		"Кровь камня"\n
 		"Огненная пустышка"\n
 		"Слизняк"\n \n%c[255,255,255,255]Время трансмутации  %c[255,224,224,160]5 минут Зоны\n%c[255,255,255,255]Вероятность удачной трансмутации  %c[255,1,255,1]100 %%c[default]</rus>
-		<eng>This modificate boosts owner's endurance, adding to their powers.\n \n"Snowball" artifact is to be thrown in "Snow" anomaly. In addition to it, to be thrown in the anomaly are: \n
+		<eng>===This modificate boosts owner's endurance, adding to their powers.\n \n"Snowball" artifact is to be thrown in "Snow" anomaly. In addition to it, to be thrown in the anomaly are: \n
 		"Boulder"\n
 		"Stone's blood"\n
 		"Fiery dummy"\n
 		"Slug"\n \n%c[255,255,255,255]Transmutation time  %c[255,224,224,160]5 Zone minutes\n%c[255,255,255,255]Probability of successful transmutation  %c[255,1,255,1]100 %%c[default]</eng>
-		<ukr>Даний модифікат підсилює витривалість власника, додаючи йому додаткові сили.\n \nАртефакт "Сніжка" кидається в аномалію "Сніжна". Додатково до нього в аномалію кидаються: \n
+		<ukr>===Даний модифікат підсилює витривалість власника, додаючи йому додаткові сили.\n \nАртефакт "Сніжка" кидається в аномалію "Сніжна". Додатково до нього в аномалію кидаються: \n
 		 - "Каменюка"\n
 		 - "Кров каменя"\n
 		 - "Вогняна Порожнявка"\n
 		 - "Слимак"\n \n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]5 хвилин Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]100 %%c[default]</ukr>
-		<pln>Dany modyfikat wzmacnia wytrzymałość posiadacza, dając mu dodatkowe siły.\n \nArtefakt "Śnieżka" wrzuca się w anomalię "Śnieżna". Dodatkowo w anomalię należy wrzucić: \n
+		<pln>===Dany modyfikat wzmacnia wytrzymałość posiadacza, dając mu dodatkowe siły.\n \nArtefakt "Śnieżka" wrzuca się w anomalię "Śnieżna". Dodatkowo w anomalię należy wrzucić: \n
 		"Brukowiec"\n
 		"Kamienna Krew"\n
 		"Płomień"\n
 		"Śluzowiec"\n \n%c[255,255,255,255]Czas transmutacji  %c[255,224,224,160]5 minut Zony\n%c[255,255,255,255]Prawdopodobieństwo powodzenia transmutacji  %c[255,1,255,1]100 %%c[default]</pln>
 	</string>
 	<string id="enc_amk_recipt_power_2_text">
-		<rus>Гипермодификат замечательно повышает выносливость, позволяя преодолевать бегом большие расстояния.\n \nМодификат "Репей" кидается в аномалию "Воронка". Дополнительно к нему в аномалию кидаются: \n
+		<rus>%c[255,255,255,255]Выносливость  %c[255,1,255,1]+1500\n \n%c[255,224,224,160]Гипермодификат замечательно повышает выносливость, позволяя преодолевать бегом большие расстояния.\n \nМодификат "Репей" кидается в аномалию "Воронка". Дополнительно к нему в аномалию кидаются:\n \n
 		"Булыжник"\n
 		"Грави"\n
 		"Яркая пустышка"\n
 		"Колючка"\n \n%c[255,255,255,255]Время трансмутации  %c[255,224,224,160]1 час Зоны\n%c[255,255,255,255]Вероятность удачной трансмутации  %c[255,1,255,1]100 %%c[default]</rus>
-		<eng>This hypermodificate greatly increases endurance, allowing of running long distances.\n \n"Bur" modificate is to be thrown in "Vortex" anomaly. In addition to it, to be thrown in the anomaly are: \n
+		<eng>===This hypermodificate greatly increases endurance, allowing of running long distances.\n \n"Bur" modificate is to be thrown in "Vortex" anomaly. In addition to it, to be thrown in the anomaly are: \n
 		"Boulder"\n
 		"Gravie"\n
 		"Bright Dummy"\n
 		"Thorn"\n \n%c[255,255,255,255]Transmutation time  %c[255,224,224,160]1 Zone hour\n%c[255,255,255,255]Probability of successful transmutation  %c[255,1,255,1]100 %%c[default]</eng>
-		<ukr>Гіпермодифікат чудово підвищує витривалість, дозволяючи долати бігом великі відстані.\n \nМодифікат "Ріп'ях" кидається в аномалію "Воронка". Додатково до нього в аномалію кидаються:
+		<ukr>===Гіпермодифікат чудово підвищує витривалість, дозволяючи долати бігом великі відстані.\n \nМодифікат "Ріп'ях" кидається в аномалію "Воронка". Додатково до нього в аномалію кидаються:
 		 \n - "Каменюка"\n
 		 - "Граві"\n
 		 - "Яскрава Порожнявка"\n
 		 - "Колючка"\n \n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]1 година Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]100 %%c[default]</ukr>
-		<pln>Hipermodyfikat świetnie podnosi wytrzymałość, pozwalając szybko pokonywać duże odległości.\n \nModyfikat "Rzep" wrzuca się w anomalię "Lejek". Dodatkowo w anomalię należy wrzucić: \n
+		<pln>===Hipermodyfikat świetnie podnosi wytrzymałość, pozwalając szybko pokonywać duże odległości.\n \nModyfikat "Rzep" wrzuca się w anomalię "Lejek". Dodatkowo w anomalię należy wrzucić: \n
 		"Brukowiec"\n
 		"Grawi"\n
 		"Blask"\n
 		"Kolczatka"\n \n%c[255,255,255,255]Czas transmutacji  %c[255,224,224,160]1 godzina Zony\n%c[255,255,255,255]Prawdopodobieństwo powodzenia transmutacji  %c[255,1,255,1]100 %%c[default]</pln>
 	</string>
 	<string id="enc_amk_recipt_power_3_text">
-		<rus>Абсолют повышает выносливость до максимума, позволяя обладателю абсолютно не уставать при беге, даже будучи сильно нагруженным.\n \nГипермодификат "Ухо" кидается в аномалию "Фонтан". Дополнительно к нему в аномалию кидаются: \n
+		<rus>%c[255,255,255,255]Выносливость  %c[255,1,255,1]+2000\n \n%c[255,224,224,160]Абсолют повышает выносливость до максимума, позволяя обладателю абсолютно не уставать при беге, даже будучи сильно нагруженным.\n \nГипермодификат "Ухо" кидается в аномалию "Фонтан". Дополнительно к нему в аномалию кидаются:\n \n
 		"Булыжник"\n
 		"Слёзы Электры"\n
 		"Лунная пустышка"\n
 		"Электрический дикобраз"\n \n%c[255,255,255,255]Время трансмутации  %c[255,224,224,160]5 часов Зоны\n%c[255,255,255,255]Вероятность удачной трансмутации  %c[255,1,255,1]100 %%c[default]</rus>
-		<eng>This absolute increases endurance to the maximum, allowing owner to run without getting tired, even when overladen.\n \n"Ear" hypermodificate is to be thrown in "Fountain" anomaly. In addition to it, to be thrown in the anomaly are: \n
+		<eng>===This absolute increases endurance to the maximum, allowing owner to run without getting tired, even when overladen.\n \n"Ear" hypermodificate is to be thrown in "Fountain" anomaly. In addition to it, to be thrown in the anomaly are: \n
 		"Boulder"\n
 		"Tears of Electra"\n
 		"Lunar Dummy"\n
 		"Electric Porcupine"\n \n%c[255,255,255,255]Transmutation time  %c[255,224,224,160]5 Zone hours\n%c[255,255,255,255]Probability of successful transmutation  %c[255,1,255,1]100 %%c[default]</eng>
-		<ukr>Абсолют підвищує витривалість до максимуму, дозволяючи власникові зовсім не втомлюватися при бігу, навіть будучи сильно навантаженим.\n \nГіпермодифікат "Вухо" кидається в аномалію "Фонтан". Додатково до нього в аномалію кидаються: \n
+		<ukr>===Абсолют підвищує витривалість до максимуму, дозволяючи власникові зовсім не втомлюватися при бігу, навіть будучи сильно навантаженим.\n \nГіпермодифікат "Вухо" кидається в аномалію "Фонтан". Додатково до нього в аномалію кидаються: \n
 		 - "Каменюка"\n
 		 - "Сльози Електри"\n
 		 - "Місячна Порожнявка"\n
 		 - "Електричний Дикобраз"\n \n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]5 годин Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255,1,255,1]100 %%c[default]</ukr>
-		<pln>Absolut podnosi wytrzymałość do maksimum, pozwalając posiadaczowi zupełnie nie męczyć się w czasie biegu, nawet będąc mocno obciążonym.\n \nHipermodyfikat "Ucho" wrzuca się w anomalię "Fontanna". Dodatkowo w anomalię należy wrzucić: \n
+		<pln>===Absolut podnosi wytrzymałość do maksimum, pozwalając posiadaczowi zupełnie nie męczyć się w czasie biegu, nawet będąc mocno obciążonym.\n \nHipermodyfikat "Ucho" wrzuca się w anomalię "Fontanna". Dodatkowo w anomalię należy wrzucić: \n
 		"Brukowiec"\n
 		"Łzy Elektry"\n
 		"Księżyc"\n
@@ -888,7 +888,7 @@ Do profesora Sazonowa Mikołaja Dimitrowicza\n\nSzanowny Mikołaju Dimitrowiczu,
 		<ukr>%c[default]Один з небагатьох артефактів, що мають властивість самотелепортаціі. Яким чином це відбувається? Не зрозуміло, але факт - річ уперта. Через величезну кількість голок на зовнішній оболонці артефакту, які пронизують наскрізь майже будь-який бронекостюм, викликає сильну кровотечу у свого власника. Умови утворення невідомі.</ukr>
 		<pln>%c[default]Jeden z niewielu artefaktów posiadających właściwość samoteleportacji. W jaki sposób to się dzieje? Nie jest jasne, ale faktycznie tak się dzieje. Ze względu na ogromną liczbę igieł na zewnętrznej powłoce artefaktu, przenika niemal każdy pancerz, powodując poważne krwawienie u jego właściciela. Warunki wytworzenia nieznane.</pln>
 	</string>
-	<!-- AKILL end -->
+
 	<string id="blowout_not_sleep">
 		<rus>Выброс - не время для сна!</rus>
 		<eng>Blowout is not a time for a sleep!</eng>
@@ -1142,25 +1142,25 @@ Do profesora Sazonowa Mikołaja Dimitrowicza\n\nSzanowny Mikołaju Dimitrowiczu,
 		<pln>Wyjątkowa odmiana "Kotleta". Można go znaleźć tylko w pobliżu CEA. Oprócz zalet i wad "Kotleta", ma szereg swoich własnych pozytywnych właściwości. W szczególności, broni przed oparzeniami chemicznymi i dodaje niewielką ochronę przed telepatią.</pln>
 	</string>
 	<string id="voen_pda_name">
-		<rus>ПДА спецназовца Андрея</rus>
+		<rus>КПК спецназовца Андрея</rus>
 		<eng>PDA of Andrei the spec ops soldier </eng>
 		<ukr>КПК спецназівця Андрія.</ukr>
 		<pln>PDA specnazowca Andrieja</pln>
 	</string>
 	<string id="voen_pda_desc">
-		<rus>ПДА спецназовца Андрея, требующий серьёзного ремонта.</rus>
+		<rus>КПК спецназовца Андрея, требующий серьёзного ремонта.</rus>
 		<eng>PDA of Andrei the spec ops soldier, requiring serious repairs.</eng>
 		<ukr>КПК спецназівця Андрія, що вимагає серйозного ремонту.</ukr>
 		<pln>PDA specnazowca Andrieja, wymaga poważnej naprawy.</pln>
 	</string>
 	<string id="siv_pda_name">
-		<rus>ПДА наёмника Сивого</rus>
+		<rus>КПК наёмника Сивого</rus>
 		<eng>PDA of Ash the merc</eng>
 		<ukr>КПК найманця Сивого.</ukr>
 		<pln>PDA najemnika Siwego</pln>
 	</string>
 	<string id="siv_pda_desc">
-		<rus>ПДА наёмника Сивого, в нём его личный дневник.</rus>
+		<rus>КПК наёмника Сивого, в нём его личный дневник.</rus>
 		<eng>PDA of Ash the merc with his personal diary on it.</eng>
 		<ukr>КПК найманця Сивого, в ньому його особистий щоденник.</ukr>
 		<pln>PDA najemnika Siwego, zawierające jego osobisty dziennik.</pln>
@@ -1178,25 +1178,25 @@ Do profesora Sazonowa Mikołaja Dimitrowicza\n\nSzanowny Mikołaju Dimitrowiczu,
 		<pln>Fleszka najemnika Ary, na niej jego osobisty dziennik.</pln>
 	</string>
 	<string id="fraer_pda_name">
-		<rus>ПДА Фраера</rus>
+		<rus>КПК Фраера</rus>
 		<eng>PDA of Friar</eng>
 		<ukr>КПК Фраєра.</ukr>
 		<pln>PDA Frajera</pln>
 	</string>
 	<string id="fraer_pda_desc">
-		<rus>ПДА Фраера, в нём его личный дневник.</rus>
+		<rus>КПК Фраера, в нём его личный дневник.</rus>
 		<eng>PDA of Friar with his personal diary on it.</eng>
 		<ukr>КПК Фраєра, в ньому його особистий щоденник.</ukr>
 		<pln>PDA Frajera, w nim jego osobisty dziennik.</pln>
 	</string>
 	<string id="bandranen_pda_name">
-		<rus>ПДА раненого бандита</rus>
+		<rus>КПК раненого бандита</rus>
 		<eng>PDA of a wounded bandit</eng>
 		<ukr>КПК пораненого бандита.</ukr>
 		<pln>PDA rannego bandyty</pln>
 	</string>
 	<string id="bandranen_pda_desc">
-		<rus>ПДА раненого бандита со Свалки.</rus>
+		<rus>КПК раненого бандита со Свалки.</rus>
 		<eng>PDA of a wounded bandit from the Dump.</eng>
 		<ukr>КПК пораненого бандита зі Звалища.</ukr>
 		<pln>PDA rannego bandyty z Wysypiska.</pln>
@@ -1346,13 +1346,13 @@ Do profesora Sazonowa Mikołaja Dimitrowicza\n\nSzanowny Mikołaju Dimitrowiczu,
 		<pln>Notebook w dobrym stanie, ani jednego zadrapania. Zabezpieczony hasłem.</pln>
 	</string>
 	<string id="pda_priz_name">
-		<rus>ПДА Призрака</rus>
+		<rus>КПК Призрака</rus>
 		<eng>Ghost's PDA</eng>
 		<ukr>КПК Привида</ukr>
 		<pln>PDA Ducha</pln>
 	</string>
 	<string id="pda_priz_desc">
-		<rus>В ПДА различные данные по артефактам и местам их появления. Также, упоминается разгром группировки Последний День и убийство её лидера. Есть немного информации о Клыке и Стрелке. Данные зашифрованы.</rus>
+		<rus>В КПК различные данные по артефактам и местам их появления. Также, упоминается разгром группировки Последний День и убийство её лидера. Есть немного информации о Клыке и Стрелке. Данные зашифрованы.</rus>
 		<eng>The PDA contains various data on artifacts and places where they appear. Also the defeat of the Last Day group and the murder of its leader are mentioned. There is some information about Fang and Strelok. The data is encrypted.</eng>
 		<ukr>КПК Привида. У ньому різні дані по артефактах та місцях їх появи. Також, згадується розгром угрупування Останній День і вбивство її лідера. Є трохи інформації про Клика і Cтрільця. Дані зашифровані.</ukr>
 		<pln>W PDA różne dane o artefaktach i miejscach ich występowania. Jest tam także wzmianka o rozgromieniu ugrupowania "Ostatni Dzień" i śmierci jego lidera. Trochę informacji o Kle i Striełoku. Dane zaszyfrowane.</pln>
@@ -1382,25 +1382,25 @@ Do profesora Sazonowa Mikołaja Dimitrowicza\n\nSzanowny Mikołaju Dimitrowiczu,
 		<pln>Cyfry, cyfry... Nic nie rozumiem... Tu potrzebny jest kompetentny matematyk.</pln>
 	</string>
 	<string id="item_pda_tiran_name">
-		<rus>ПДА Тирана</rus>
+		<rus>КПК Тирана</rus>
 		<eng>Tiran's PDA</eng>
 		<ukr>КПК Тирана</ukr>
 		<pln>PDA Tyrana</pln>
 	</string>
 	<string id="item_pda_tiran_desc">
-		<rus>В ПДА различные суммы, счета, записи, упоминаются какие-то клички, имена.</rus>
+		<rus>В КПК различные суммы, счета, записи, упоминаются какие-то клички, имена.</rus>
 		<eng>On the PDA there are various totals, bills, records, some nicknames, names are mentioned.</eng>
 		<ukr>У КПК ньому різні суми, рахунки, записи, згадуються якісь клички, імена.</ukr>
 		<pln>W PDA różne sumy, wyliczenia, notatki, wymienione jakieś ksywki, imiona.</pln>
 	</string>
 	<string id="item_pda_lucky_name">
-		<rus>ПДА Болта</rus>
+		<rus>КПК Болта</rus>
 		<eng>Bolt's PDA</eng>
 		<ukr>КПК Болта</ukr>
 		<pln>PDA Śruby</pln>
 	</string>
 	<string id="item_pda_lucky_desc">
-		<rus>В ПДА хранится переписка Болта и его сообщников.</rus>
+		<rus>В КПК хранится переписка Болта и его сообщников.</rus>
 		<eng>On the PDA there's a correspondence of Bolt with his accomplices.</eng>
 		<ukr>У КПК ньому зберігається листування Болта і його спільників.</ukr>
 		<pln>W PDA znajduje się korespondencja Śruby i jego współpracowników.</pln>

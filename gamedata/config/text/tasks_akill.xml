@@ -912,18 +912,18 @@
 		<pln>Przysługa za przysługę</pln>
 	</string>
 	<string id="task_sherstuk_ammo_1">
-		<rus>Найти тайник на Дикой Территории</rus>
-		<eng>Find a stash at the Wild Territory</eng>
-		<ukr>Знайти схованку на Дикій Території</ukr>
-		<fra>Trouver une cache dans les Territoire Sauvages</fra>
-		<pln>Znaleźć schowek w Dziczy</pln>
+		<rus>Замаскировать три бомбы на территории электроподстанции</rus>
+		<eng>===Find a stash at the Wild Territory</eng>
+		<ukr>===Знайти схованку на Дикій Території</ukr>
+		<fra>===Trouver une cache dans les Territoire Sauvages</fra>
+		<pln>===Znaleźć schowek w Dziczy</pln>
 	</string>
 	<string id="task_sherstuk_ammo_2">
-		<rus>Отнести артефакт Шерстюку</rus>
-		<eng>Bring the artifact to Sherstyuk</eng>
-		<ukr>Віднести артефакт Шерстюку</ukr>
-		<fra>Apporter l'Artéfact à Sherstyuk</fra>
-		<pln>Odnieść artefakt Szerstiukowi</pln>
+		<rus>Вернуться к Шерстюку</rus>
+		<eng>===Bring the artifact to Sherstyuk</eng>
+		<ukr>===Віднести артефакт Шерстюку</ukr>
+		<fra>===Apporter l'Artéfact à Sherstyuk</fra>
+		<pln>===Odnieść artefakt Szerstiukowi</pln>
 	</string>
 
 	<string id="task_taynik_bandit_td_0">
@@ -1029,16 +1029,16 @@
 		<pln>Znaleźć schowek Ducha</pln>
 	</string>
 	<string id="task_ohota_burer_2">
-		<rus>Снять с бюрера халат с ПДА</rus>
+		<rus>Снять с бюрера халат с КПК</rus>
 		<eng>Remove a robe with PDA from the burer</eng>
-		<ukr>Зняти з бюрера халат із ПДА</ukr>
+		<ukr>Зняти з бюрера халат із КПК</ukr>
 		<fra>Retirer du Burer le PDA</fra>
 		<pln>Zdjąć z burera płaszcz z PDA</pln>
 	</string>
 	<string id="task_ohota_burer_3">
-		<rus>Вернуть ПДА Призраку</rus>
+		<rus>Вернуть КПК Призраку</rus>
 		<eng>Return the PDA to Ghost</eng>
-		<ukr>Повернути ПДА Привиду</ukr>
+		<ukr>Повернути КПК Привиду</ukr>
 		<fra>Remettre le PDA au Fantôme</fra>
 		<pln>Oddać Duchowi PDA</pln>
 	</string>
@@ -1298,16 +1298,16 @@
 	</string>
 
 	<string id="task_docent_art_0">
-		<rus>Дешифровка ПДА</rus>
+		<rus>Дешифровка КПК</rus>
 		<eng>Decrypting the PDA</eng>
-		<ukr>Дешифровка ПДА</ukr>
+		<ukr>Дешифровка КПК</ukr>
 		<fra>Décryptage des PDA</fra>
 		<pln>Odszyfrowanie PDA</pln>
 	</string>
 	<string id="task_docent_art_1">
-		<rus>Раздобыть модуль-дешифратор и ПДА</rus>
+		<rus>Раздобыть модуль-дешифратор и КПК</rus>
 		<eng>Obtain the decryptor module and PDAs</eng>
-		<ukr>Роздобути модуль-дешифратор і ПДА</ukr>
+		<ukr>Роздобути модуль-дешифратор і КПК</ukr>
 		<fra>Obtenez un décodeur de module et un PDA</fra>
 		<pln>Zdobyć moduł deszyfrujący i PDA</pln>
 	</string>
@@ -2368,14 +2368,14 @@
 		<pln>Zabijać fantomy psów psionicznych do ukończenia zapisu danych</pln>
 	</string>
 	<string id="task_fantoms_pda_3">
-		<rus>Отнести Сахарову спецустройство и забрать ПДА с восстановленной информацией</rus>
+		<rus>Отнести Сахарову спецустройство и забрать КПК с восстановленной информацией</rus>
 		<eng>Bring Sakharov a special device and take the PDA with the restored information</eng>
 		<ukr>Віднести Сахарову спецпристрій і забрати КПК з відновленою інформацією</ukr>
 		<fra>Emmenez Sakharov à l'équipement spécial et récupérez le PDA avec les informations restaurées</fra>
 		<pln>Zanieść Sacharowowi specjalne urządzenie i odebrać PDA z odzyskanymi informacjami</pln>
 	</string>
 	<string id="task_fantoms_pda_4">
-		<rus>Вернуть ПДА Акиллу</rus>
+		<rus>Вернуть КПК Акиллу</rus>
 		<eng>Return PDA to Akill</eng>
 		<ukr>Повернути КПК Акіллу</ukr>
 		<fra>Renvoyer le PDA à Akill</fra>
@@ -2426,9 +2426,9 @@
 		<pln>Zabić Pejcza jednym strzałem w głowę</pln>
 	</string>
 	<string id="task_mera_kogot_4">
-		<rus>Забрать ПДА у Арни</rus>
+		<rus>Забрать КПК у Арни</rus>
 		<eng>Pick up the PDA from Arnie</eng>
-		<ukr>Забрати ПДА у Арні</ukr>
+		<ukr>Забрати КПК у Арні</ukr>
 		<fra>Prenez le PDA d'Arnie</fra>
 		<pln>Odebrać PDA od Arniego</pln>
 	</string>
@@ -3113,20 +3113,13 @@
 		<pln>Tajemnica Kutwy</pln>
 	</string>
 	<string id="task_skryga_taina_1">
-		<rus>Найти брошенный рюкзак Новикова</rus>
-		<eng>Find the abandoned Novikov's backpack</eng>
-		<ukr>Знайти кинутий рюкзак Новікова</ukr>
-		<fra>Trouver le sac à dos abandonné de Novikov</fra>
-		<pln>Znaleźć porzucony plecak Nowikowa</pln>
-	</string>
-	<string id="task_skryga_taina_2">
 		<rus>Применить "Психоделин" на Славке</rus>
 		<eng>Apply "Psychedelin" on Slavka</eng>
 		<ukr>Застосувати "Психоделін" на Славкові</ukr>
 		<fra>Appliquez "Psychedelin" sur Slavka</fra>
 		<pln>Podać "Psychodelin" Sławikowi</pln>
 	</string>
-	<string id="task_skryga_taina_3">
+	<string id="task_skryga_taina_2">
 		<rus>Поговорить со Скрягой</rus>
 		<eng>Talk to Skinflint</eng>
 		<ukr>Поговорити зі Скнарою</ukr>
@@ -3149,6 +3142,13 @@
 		<pln>Znaleźć doktora Nowikowa na Zatonie</pln>
 	</string>
 	<string id="task_volna_plen_2">
+		<rus>Найти рюкзак с препаратом</rus>
+		<eng>===Find the Novikov's backpack</eng>
+		<ukr>===Знайти рюкзак Новікова</ukr>
+		<fra>===Trouver le sac à dos abandonné de Novikov</fra>
+		<pln>===Znaleźć plecak Nowikowa</pln>
+	</string>
+	<string id="task_volna_plen_3">
 		<rus>Сопроводить доктора в безопасное место</rus>
 		<eng>Escort doctor to a safe place</eng>
 		<ukr>Супроводити доктора в безпечне місце</ukr>
@@ -5703,7 +5703,7 @@
 		<pln>Zniszczyć trzeci moździerz i skrzynkę z minami</pln>
 	</string>
 	<string id="task_fanat_minomet_5">
-		<rus>Заполучить ПДА командира блокпоста наёмников с кодом к двери</rus>
+		<rus>Заполучить КПК командира блокпоста наёмников с кодом к двери</rus>
 		<eng>Obtain the mercenary checkpoint commander's PDA with code to the door</eng>
 		<ukr>Роздобути КПК командира блокпоста найманців з кодом до дверей</ukr>
 		<fra>Obtenez le PDA du commandant des mercenaires du point de contrôle avec un code pour la porte</fra>
@@ -5963,6 +5963,80 @@
 	<string id="task_akill_punisher_2">
 		<rus>Вернуться к Акиллу</rus>
 		<ukr>Повернутися до Акілла</ukr>
+	</string>
+
+	<string id="task_long_shot_0">
+		<rus>Дальний выстрел</rus>
+		<ukr>===Дальний выстрел</ukr>
+	</string>
+	<string id="task_long_shot_1">
+		<rus>Ликвидировать 10 танков Монолита с дальней дистанции</rus>
+		<ukr>===Ликвидировать 10 танков Монолита с дальней дистанции</ukr>
+	</string>
+	<string id="task_long_shot_2">
+		<rus>Вернуться к Бармену</rus>
+		<ukr>===Повернутися до Акілла</ukr>
+	</string>
+
+	<string id="task_akim_test_0">
+		<rus>Приманка</rus>
+		<ukr>===Приманка</ukr>
+	</string>
+	<string id="task_akim_test_1">
+		<rus>Провести испытания капсулы "Трамплин"</rus>
+		<ukr>===Провести испытания капсулы "Трамплин"</ukr>
+	</string>
+	<string id="task_akim_test_2">
+		<rus>Провести испытания капсулы "Воронка"</rus>
+		<ukr>===Провести испытания капсулы "Воронка"</ukr>
+	</string>
+	<string id="task_akim_test_3">
+		<rus>Провести испытания капсулы "Карусель"</rus>
+		<ukr>===Провести испытания капсулы "Карусель"</ukr>
+	</string>
+	<string id="task_akim_test_4">
+		<rus>Провести испытания капсулы "Электра"</rus>
+		<ukr>===Провести испытания капсулы "Электра"</ukr>
+	</string>
+	<string id="task_akim_test_5">
+		<rus>Провести испытания капсулы "Жарка"</rus>
+		<ukr>===Провести испытания капсулы "Жарка"</ukr>
+	</string>
+	<string id="task_akim_test_6">
+		<rus>Провести испытания капсулы "Снежная"</rus>
+		<ukr>===Провести испытания капсулы "Снежная"</ukr>
+	</string>
+	<string id="task_akim_test_7">
+		<rus>Передать отснятое видео Акиму</rus>
+		<ukr>===Передать отснятое видео Акиму</ukr>
+	</string>
+
+	<string id="task_fanat_saper_0">
+		<rus>Сапёр</rus>
+		<ukr>===Сапёр</ukr>
+	</string>
+	<string id="task_fanat_saper_1">
+		<rus>Раздобыть 8 кусков пластида и детонатор</rus>
+		<ukr>===Раздобыть 8 кусков пластида и детонатор</ukr>
+	</string>
+	<string id="task_fanat_saper_2">
+		<rus>Заложить взрывчатку на минном поле у блокпоста</rus>
+		<ukr>===Заложить взрывчатку на минном поле у блокпоста</ukr>
+	</string>
+	<string id="task_fanat_saper_3">
+		<rus>Отойти на безопасное расстояние</rus>
+		<ukr>===Отойти на безопасное расстояние</ukr>
+	</string>
+	<string id="task_fanat_saper_4">
+		<rus>Активировать детонатор</rus>
+		<eng>Activate detonator</eng>
+		<ukr>Активувати детонатор</ukr>
+		<fra>Activez le détonateur</fra>
+		<pln>Aktywować detonator</pln>
+	</string>
+	<string id="task_fanat_saper_5">
+		<rus>Вернуться к Фанату</rus>
+		<ukr>===Повернутися до Акілла</ukr>
 	</string>
 
 </string_table>
