@@ -169,7 +169,7 @@
 		<pln>Chłopaki na barierze mówili, że szukasz odpowiedzialnego człowieka?</pln>
 	</string>
 	<string id="freedom_dinamit_1">
-		<rus>Ищу... Мои хлопцы недавно случайно наткнулись на подземный туннель в одном из гаражей для техники, который уходит на юг от базы. Пройдя по нему около полукилометра, они уткнулись в завал - хотим его расчистить, но для завершения работы нам необходим динамит. Судя по всему, тайный ход должен вести в Тёмную Долину. Я знаю, что взрывчатку можно найти на территории центрального комплекса Агропрома. Ходят слухи, что существует ещё один тоннель под военной базой. После аварии вход в него законсервировали, взорвав часть прохода. А остатки взрывчатки спрятали неподалёку. Сможешь найти? Общее дело делаем, и тебе польза будет. Загляни в свой ПДА, поставил метку на приблизительное место поиска, радиус - 10 метров.</rus>
+		<rus>Ищу... Мои хлопцы недавно случайно наткнулись на подземный туннель в одном из гаражей для техники, который уходит на юг от базы. Пройдя по нему около полукилометра, они уткнулись в завал - хотим его расчистить, но для завершения работы нам необходим динамит. Судя по всему, тайный ход должен вести в Тёмную Долину. Я знаю, что взрывчатку можно найти на территории центрального комплекса Агропрома. Ходят слухи, что существует ещё один тоннель под военной базой. После аварии вход в него законсервировали, взорвав часть прохода. А остатки взрывчатки спрятали неподалёку. Сможешь найти? Общее дело делаем, и тебе польза будет. Загляни в свой КПК, поставил метку на приблизительное место поиска, радиус - 10 метров.</rus>
 		<eng>I am... My boys have almost dug a passage through to the Dark Valley, but to complete the work we need some dynamite. I know, it can be found at the central complex in Agroprom. Rumor has it, there's another tunnel below the military base. After the disaster the entrance to that tunnel was sealed by exploding a portion of the passage. And the rest of the explosives were hidden not far away. Can you find it? We're working for one cause, you'll make use of it, too. Check your PDA: I've marked the approximate place of search, the search radius - 10 meters.</eng>
 		<ukr>Шукаю... Мої хлопці недавно випадково натрапили на підземний тунель в одному з гаражів для техніки, який йде на південь від бази. Пройшовши по ньому близько півкілометра, вони вперлися в завал - хочемо його розчистити, але для завершення роботи нам необхідний динаміт. Судячи з усього, таємний хід повинен вести в Темну Долину. Я знаю, що вибухівку можна знайти на території центрального комплексу Агропрома. Ходять чутки, що існує ще один тунель під військовою базою. Після аварії вхід в нього законсервували, підірвавши частина проходу. А залишки вибухівки сховали неподалік. Зможеш знайти? Спільну справу робимо, і тобі користь буде. Зазирни у свій КПК, поставив мітку на приблизне місце пошуку, радіус - 10 метрів.</ukr>
 		<pln>Szukam... Moi chłopcy niedawno przypadkiem się natknęli na podziemny tunel w jednym z garaży, który prowadzi na południe od bazy. Przeszli nim około pół kilometra i doszli do zawału - chcemy go oczyścić, ale do tego potrzebny nam jest dynamit. Prawdopodobnie, tajny tunel powinien prowadzić do Doliny Mroku. Wiem, że dynamit można znaleźć na terenie centralnego kompleksu na Agropromie. Chodzą pogłoski, że jest jeszcze jeden tunel pod bazą wojskową. Po awarii wejście do niego zablokowano, wysadzając część przejścia. A resztę materiału wybuchowego schowano nieopodal. Mógłbyś go znaleźć? Robimy to dla wszystkich... I ty będziesz miał z tego korzyść. Zajrzyj w swoje PDA, postawiłem ci znacznik na przybliżone miejsce poszukiwań, promień - 10 metrów.</pln>
@@ -349,9 +349,9 @@
 		<pln>Proszę...</pln>
 	</string>
 	<string id="yan_scientist_find_case_have_3">
-		<rus>Да, точно. Это то, что мы искали. Вот и отметки начала пути на Агропром. Отметьте у себя, пожалуйста... Поможете ещё?</rus>
+		<rus>Да, точно. Это то, что мы искали. Вот и отметка начала пути на Агропром. Отметьте у себя, пожалуйста... Поможете ещё?</rus>
 		<eng>Yes, precisely. This is what we were looking for. There's the mark of the beginning of the path to Agroprom. Copy that mark for yourself, please... Will you help us more?</eng>
-		<ukr>Так, точно. Це те що ми шукали. Ось і позначки початку шляху на Агропром. Відзначте у себе будь ласка... Поможете ще?</ukr>
+		<ukr>Так, точно. Це те що ми шукали. Ось і позначка початку шляху на Агропром. Відзначте у себе будь ласка... Поможете ще?</ukr>
 		<pln>Tak, dokładnie, właśnie tego szukaliśmy... A tu oznaczenie początku drogi na Agroprom... Zaznaczcie u siebie, proszę.... Pomożecie nam jeszcze?</pln>
 	</string>
 	<string id="yan_scientist_find_case_have_4">
@@ -403,25 +403,25 @@
 		<pln>Remzestaw broni białej</pln>
 	</string>
 	<string id="device_pda1">
-		<rus>ПДА</rus>
+		<rus>КПК</rus>
 		<eng>PDA</eng>
 		<ukr>КПК</ukr>
 		<pln>PDA</pln>
 	</string>
 	<string id="enc_equipment_device_pda1">
-		<rus>Индивидуальный ПДА сталкера. Хранилище личной информации и необходимых для выживания данных.</rus>
+		<rus>Индивидуальный КПК сталкера. Хранилище личной информации и необходимых для выживания данных.</rus>
 		<eng>Stalker's Personal Digital Assistant. Storage for personal information and data essential to survival.</eng>
 		<ukr>Індивідуальний КПК сталкера. Сховище особистої інформації та необхідних для виживання даних.</ukr>
 		<pln>Indywidualny PDA stalkera. Magazyn osobistych informacji i niezbędnych dla przeżycia danych.</pln>
 	</string>
 	<string id="strelok_pda_name">
-		<rus>ПДА Стрелка</rus>
+		<rus>КПК Стрелка</rus>
 		<eng>Strelok's PDA</eng>
 		<ukr>КПК Cтрільця</ukr>
 		<pln>PDA Striełoka</pln>
 	</string>
 	<string id="strelok_pda_desc">
-		<rus>Это личный ПДА легендарного Стрелка! В нём масса информации, но, к сожалению, почти вся она зашифрована.</rus>
+		<rus>Это личный КПК легендарного Стрелка! В нём масса информации, но, к сожалению, почти вся она зашифрована.</rus>
 		<eng>This is the PDA of legendary Strelok! There's a lot of info on it, but, unfortunately, almost all of it is encrypted.</eng>
 		<ukr>Це особистий КПК легендарного Cтрільця! У ньому маса інформації, але, на жаль, майже вся вона зашифрована.</ukr>
 		<pln>Osobiste PDA legendarnego Striełoka! W nim masa informacji, ale niestety, prawie wszystko zaszyfrowane.</pln>
@@ -871,13 +871,13 @@
 		<pln>Dokumenty i nieodczytywalny dysk</pln>
 	</string>
 	<string id="garbage_pda_desc">
-		<rus>ПДА, найденный на Свалке, в лагере бандитов. Среди прочей информации в нём есть способ преобразования артефакта.</rus>
+		<rus>КПК, найденный на Свалке, в лагере бандитов. Среди прочей информации в нём есть способ преобразования артефакта.</rus>
 		<eng>PDA, found in Dump, at the bandit camp. Among other data in it, there is a recipe for transforming an artifact.</eng>
 		<ukr>КПК, знайдений на звалищі, в таборі бандитів. Серед іншої інформації в ньому є спосіб перетворення артефакту.</ukr>
 		<pln>PDA znalezione na Wysypisku, w obozie bandytów. Pomiędzy różnymi informacjami jest w nim sposób transmutacji artefaktu.</pln>
 	</string>
 	<string id="garbage_pda_name">
-		<rus>ПДА с информацией</rus>
+		<rus>КПК с информацией</rus>
 		<eng>PDA with information</eng>
 		<ukr>КПК з інформацією</ukr>
 		<pln>PDA z informacją</pln>
@@ -1020,18 +1020,20 @@
 		<ukr>Дипломат, знайдений в лабораторії Х-16 містить докладні сейсмологічні та геологічні карти Янтаря.</ukr>
 		<pln>Dyplomatka, znaleziona w laboratorium X-16. Zawiera szczegółowe mapy sejsmologiczne i geologiczne Jantaru.</pln>
 	</string>
+	<!-- !!!! Удалить для НИ -->
 	<string id="scaintist_pda_name">
-		<rus>ПДА учёного</rus>
+		<rus>КПК учёного</rus>
 		<eng>Scientist's PDA</eng>
 		<ukr>КПК вченого</ukr>
 		<pln>PDA uczonego</pln>
 	</string>
 	<string id="scaintist_pda_desc">
-		<rus>ПДА погибшего в Припяти учёного, содержит информацию, которая интересует Бармена.</rus>
+		<rus>КПК погибшего в Припяти учёного, содержит информацию, которая интересует Бармена.</rus>
 		<eng>A PDA of a scientist killed in Pripyat, containing information which interests Barkeep.</eng>
 		<ukr>КПК загиблого в Прип'яті вченого, містить інформацію, яка цікавить Бармена.</ukr>
 		<pln>PDA zmarłego w Prypeci uczonego, zawiera informację, która interesuje Barmana.</pln>
 	</string>
+	<!-- Удалить энд -->
 	<string id="item_diplomat_name">
 		<rus>Дипломат с документами</rus>
 		<eng>Briefcase with documents</eng>
@@ -1069,31 +1071,31 @@
 		<pln>Skomplikowany elektroniczny miernik-przetwornik.</pln>
 	</string>
 	<string id="agroprom_pda_name">
-		<rus>ПДА Крота</rus>
+		<rus>КПК Крота</rus>
 		<eng>Mole's PDA</eng>
 		<ukr>КПК Крота</ukr>
 		<pln>PDA Kreta</pln>
 	</string>
 	<string id="agroprom_pda_desc">
-		<rus>Простой ПДА, который принадлежал сталкеру по прозвищу Крот.</rus>
+		<rus>Простой КПК, который принадлежал сталкеру по прозвищу Крот.</rus>
 		<eng>An ordinary PDA, that belonged to the stalker nicknamed Mole.</eng>
 		<ukr>Простий КПК, який належав сталкеру на прізвисько Кріт</ukr>
 		<pln>Zwykłe PDA, należące do stalkera zwanego Kret.</pln>
 	</string>
 	<string id="und_pda_name">
-		<rus>ПДА Макса Любера</rus>
+		<rus>КПК Макса Любера</rus>
 		<eng>Max Luber's PDA</eng>
 		<ukr>КПК Макса Любера</ukr>
 		<pln>PDA Maksa Lubera</pln>
 	</string>
 	<string id="und_pda_desc">
-		<rus>Приятель Пули, Макс Любер, утверждает, что в данном ПДА скрыты многие секреты Долга.</rus>
+		<rus>Приятель Пули, Макс Любер, утверждает, что в данном КПК скрыты многие секреты Долга.</rus>
 		<eng>Bullet's pal, Max Luber, claims, there are many secrets of Duty hidden in this PDA.</eng>
 		<ukr>Приятель Кулі, Макс Любер, стверджує, що в даному КПК приховано багато секретів Долгу.</ukr>
 		<pln>Przyjaciel Naboja, Maks Luber, twierdzi, że w danym PDA ukryto wiele tajemnic Powinności.</pln>
 	</string>
 	<string id="volkodav_pda_name">
-		<rus>ПДА Волкодава</rus>
+		<rus>КПК Волкодава</rus>
 		<eng>Volkodav's PDA</eng>
 		<ukr>КПК Вовкодава</ukr>
 		<pln>PDA Wilczarza</pln>
@@ -1105,7 +1107,7 @@
 		<pln>Pośród zaszyfrowanych danych jest opisana modyfikacja artefaktów.</pln>
 	</string>
 	<string id="ara_pda_name">
-		<rus>ПДА наёмника Джокера</rus>
+		<rus>КПК наёмника Джокера</rus>
 		<eng>Joker's PDA</eng>
 		<ukr>КПК Найманця Джокера</ukr>
 		<pln>PDA najemnika Dżokera</pln>
@@ -1117,13 +1119,13 @@
 		<pln>Dżoker, najemnik, strzegł wielu tajemnic swojego ugrupowania, w tym opisu tajnego przejścia między Magazynami Wojskowymi i Dziczą.</pln>
 	</string>
 	<string id="rad_pda_name">
-		<rus>ПДА неизвестного монолитовца</rus>
+		<rus>КПК неизвестного монолитовца</rus>
 		<eng>PDA of an unknown Monolithian</eng>
 		<ukr>КПК невідомого монолітівця</ukr>
 		<pln>PDA nieznanego Monolitowca</pln>
 	</string>
 	<string id="rad_pda_desc">
-		<rus>Найденный вблизи Мозговыжигателя ПДА. Среди откровенного бреда обнаружен рецепт артмодификации.</rus>
+		<rus>Найденный вблизи Мозговыжигателя КПК. Среди откровенного бреда обнаружен рецепт артмодификации.</rus>
 		<eng>PDA found near the Brain Scorcher. Amongst the downright nonsense, a recipe for artifact transmutation was retrieved.</eng>
 		<ukr>Знайдений поблизу Мізковипалювача КПК. Серед відвертої маячні виявлений рецепт артмодифікації.</ukr>
 		<pln>PDA znalezione w pobliżu "Mózgozwęglacza" ... Pośród prawdziwych bredni odnaleziono receptę artmodyfikacji.</pln>
@@ -1153,7 +1155,7 @@
 		<pln>\nGenerałowi Woroninowi jest pilnie potrzebna metalowa skrzynka z dokumentami, która została zgubiona w Dolinie Mroku. Co jest w tej skrzynce - nie wiadomo. Szukać trzeba "w tym miejscu, gdzie wciąż można załapać chemiczne oparzenie".</pln>
 	</string>
 	<string id="tex_mil_lukash_find_dinamit">
-		<rus>Лидеру группы Свобода необходим динамит. Возможно, с его помощью будет проложена дорога в Тёмную Долину. По словам Лукаша, динамит был на территории центрального комплекса Агропрома. Возможное местоположение ящика обозначено в моём ПДА. Радиус поиска - 10 метров.</rus>
+		<rus>Лидеру группы Свобода необходим динамит. Возможно, с его помощью будет проложена дорога в Тёмную Долину. По словам Лукаша, динамит был на территории центрального комплекса Агропрома. Возможное местоположение ящика обозначено в моём КПК. Радиус поиска - 10 метров.</rus>
 		<eng>The leader of Freedom needs dynamite. It is possible, a path to Dark Valley will be made with it. According to Lukash, the dynamite was in the Agroprom central complex territory. The possible location of the box is marked on the map in my PDA. Search range - 10 meters.</eng>
 		<ukr>Лідеру групи Воля, необхідний динаміт. Можливо з його допомогою буде прокладена дорога в Темну Долину. За словами Лукаша, динаміт був на території центрального комплексу Агропрома. Можливе місцезнаходження ящика позначене у моєму КПК. Радіус пошуку - 10 метрів.</ukr>
 		<pln>Liderowi grupy "Wolność" potrzebny jest dynamit. Przy jego pomocy będzie przebita droga z bazy "Wolności" wprost do Doliny Mroku. Według słów Łukasza, dynamit powinien być w okolicy centralnego kompleksu na Agropromie. Przypuszczalną lokalizację dynamitu mam oznaczoną w moim PDA. Promień poszukiwań - 10 metrów.</pln>
@@ -1369,7 +1371,7 @@
 		<pln>Tak, tu jest dziesięć flaszeczek... Nie chrzczona... Bez obawy.</pln>
 	</string>
 	<string id="artmod_142_dialog_3">
-		<rus>Ну, удружил... Запомню я тебя. Вот тебе две... нет, даже три пачки... и не простых, а бронебойных. Да, вот и рецептик... Давай ПДА, чтобы не болтать много...\nБудет желание, подходи - может чего ещё сторгуем...\nКстати, мне тут ворона на хвосте принесла, что где-то в комплексе на Агропроме наши технари заныкали какие-то особенные костюмы. Деталей не знаю, просто делюсь в честь юбилея, морда лица мне твоя понравилась. Только я тебе ничего не говорил, на меня и так косо наши отцы-командиры смотрят...\nДа, ещё есть дельце, но об этом - после перекура.</rus>
+		<rus>Ну, удружил... Запомню я тебя. Вот тебе две... нет, даже три пачки... и не простых, а бронебойных. Да, вот и рецептик... Давай КПК, чтобы не болтать много...\nБудет желание, подходи - может чего ещё сторгуем...\nКстати, мне тут ворона на хвосте принесла, что где-то в комплексе на Агропроме наши технари заныкали какие-то особенные костюмы. Деталей не знаю, просто делюсь в честь юбилея, морда лица мне твоя понравилась. Только я тебе ничего не говорил, на меня и так косо наши отцы-командиры смотрят...\nДа, ещё есть дельце, но об этом - после перекура.</rus>
 		<eng>Well, you did me a good turn... I'll remember you. Here are two... no, even three packs... and not the standard, but the armor-piercing ones. And also a recipe... Give me you PDA, so as not for me to just blab about it...\nYou ever wish for more, come - maybe we'll strike a bargain over something else... By the way, a little crow told me our techs had stashed some special suits somewhere in the Agroprom facility. I don't know the specifics, just telling you that because of the jubilee and because I kind of liked your countenance. Only you didn't hear it from me, our fatherly commanders already have a bad way of looking at me... Oh, I have one more task for you, but we'll talk about it after a smoke break.</eng>
 		<ukr>Ну удружив... Запам'ятаю я тебе. Тримай ось тобі дві... ні, навіть три пачки... і не простих, а бронебійних. Так, от і рецептик... Давай КПК, щоб не базікати багато...\nБуде бажання, підходь - може ще сторгуємося...\nДо речі, мені тут ворона на хвості принесла, що десь в комплексі на Агропромі наші технарі заникали якісь особливі костюми. Деталей не знаю, просто ділюся в честь ювілею, морда лиця мені твоя сподобалася. Тільки я тобі нічого не говорив, на мене і так косо наші батьки-командири дивляться...\nТак, ще є дільце, але про це - після перекуру.</ukr>
 		<pln>No to pięknie... Będę o tobie pamiętał... Jeśli coś będzie trzeba... Masz tu dwie.. nie, nawet trzy paczki... I to nie zwykłych, a przeciwpancernych... Tak, no i recepta... Daj PDA, żeby nie gadać dużo...\nBędziesz czegoś potrzebował, to przychodź, może jeszcze coś stargujemy...\nPrzy okazji, ptaszki ćwierkają, że gdzieś w kompleksie na Agropromie nasi technicy schowali jakieś wyjątkowe kombinezony. Szczegółów nie znam, po prostu dzielę się z okazji jubileuszu, twoja gęba tak mi się spodobała. Tylko ja nic ci nie mówiłem, na mnie i tak krzywo nasi dowódcy patrzą...\nTak, jeszcze jest jedna sprawa, ale o tym za chwilę.</pln>
@@ -1504,7 +1506,7 @@
 		<pln>Znalazłem, wypróbowałem, niezła maszynka, trzymaj...</pln>
 	</string>
 	<string id="artmod_212_dialog_3">
-		<rus>Да с такой машинкой, я - король Свалки! Спасибом сыт не будешь - давай солью тебе на ПДА рецептик... Пользуйся...\nПослушай, Меченый, можно тебя ещё попросить?</rus>
+		<rus>Да с такой машинкой, я - король Свалки! Спасибом сыт не будешь - давай солью тебе на КПК рецептик... Пользуйся...\nПослушай, Меченый, можно тебя ещё попросить?</rus>
 		<eng>Wow, with this thing I'll be a king of Dump! Thanks won't fill the belly - let me upload a recipe to your PDA... Feel free to use it...\nListen, Marked One, may I ask you to do more for me?</eng>
 		<ukr>Та з такою машинкою, я - король Звалища! Спасибі ситий не будеш - давай злию тобі на КПК рецептик... Користуйся...\n Послухай, Мічений, можна тебе ще попросити?</ukr>
 		<pln>Tak, z taką maszynką jestem królem Wysypiska... Ale za samo dziękuję nic nie kupisz. Daj, wrzucę ci na PDA receptę... Niech ci służy... \n Posłuchaj, Naznaczony... można cię jeszcze o coś poprosić?</pln>
@@ -1774,7 +1776,7 @@
 		<pln>Bierz macki, ale według mnie, tylko gorzej sobie zrobisz.</pln>
 	</string>
 	<string id="artmod_322_dialog_3">
-		<rus>Куда уж хуже-то, может поможет... Давай ПДА, я перекачаю информацию о преобразовании "Выверта" в "Вспышку".</rus>
+		<rus>Куда уж хуже-то, может поможет... Давай КПК, я перекачаю информацию о преобразовании "Выверта" в "Вспышку".</rus>
 		<eng>Can't be worse than it is now, maybe it'll help... Give me your PDA, I'll send the info about transforming "Wrenched" to "Flash" onto it.</eng>
 		<ukr>Куди ж вже гірше, може допоможе... Давай КПК, я перекачаю інформацію про перетворення "Виверта" у "Спалах".</ukr>
 		<pln>Gorzej to już jest, a może pomoże... Daj PDA, przerzucę ci informację o modyfikacji "Skrętaka" w "Błysk".</pln>
@@ -2014,7 +2016,7 @@
 		<pln>Co jest grane? Nie ściemniaj.</pln>
 	</string>
 	<string id="artmod_251_dialog_1">
-		<rus>Я пару часов назад отсиживался в ж/д тоннеле, в том, что напротив входа на завод. Получил SOS от здешних ребят и рванул на выручку, но в суматохе сборов выронил ПДА свой. Тут вояки налетели... Не до того мне было. Может, обернёшься туда-сюда по быстрому, найдёшь его?</rus>
+		<rus>Я пару часов назад отсиживался в ж/д тоннеле, в том, что напротив входа на завод. Получил SOS от здешних ребят и рванул на выручку, но в суматохе сборов выронил КПК свой. Тут вояки налетели... Не до того мне было. Может, обернёшься туда-сюда по быстрому, найдёшь его?</rus>
 		<eng>For a couple hours I've been sitting in the railway tunnel, the one opposite the entrance to the factory. Got an SOS from the local guys and ran to the rescue and dropped my PDA in a hurry. Then suddenly the military arrived... So, I had no time for this. Maybe you can get there fast, in and out, and fetch it for me?</eng>
 		<ukr>Я пару годин тому відсиджувався у залізничному тунелі, в тому, що навпроти входу на завод. Отримав SOS від тутешніх хлопців і рвонув на виручку, але у метушні зборів упустив КПК свій. Тут вояки налетіли... Не до того мені було. Може, змотаєшся туди-сюди по швидкому, знайдеш його?</ukr>
 		<pln>Kilka dni temu siedziałem w tunelu przy torach kolejowych, w tym naprzeciwko wejścia do fabryki. Odebrałem SOS od tutejszych chłopaków i pobiegłem na pomoc, ale w zamieszaniu upuściłem swoje PDA. Wtedy wojsko nadleciało... Nie miałem głowy szukać... Może skoczysz raz-dwa i je znajdziesz?</pln>
@@ -2032,7 +2034,7 @@
 		<pln>Nie, pójdę swoją drogą.</pln>
 	</string>
 	<string id="artmod_252_dialog_0">
-		<rus>Нашёл я твой ПДА.</rus>
+		<rus>Нашёл я твой КПК.</rus>
 		<eng>I found your PDA.</eng>
 		<ukr>Знайшов я твій КПК.</ukr>
 		<pln>Znalazłem twoje PDA.</pln>
@@ -2044,13 +2046,13 @@
 		<pln>Nie uszkodzone?</pln>
 	</string>
 	<string id="artmod_252_dialog_2">
-		<rus>Повреждён?!! Ты лучше спроси не повреждён ли я! Знал бы я, что твой ПДА пасёт взвод спецназовцев, в жизни бы не полез в этот тоннель! Забирай свой кусок пластика и гони награду!</rus>
+		<rus>Повреждён?!! Ты лучше спроси не повреждён ли я! Знал бы я, что твой КПК пасёт взвод спецназовцев, в жизни бы не полез в этот тоннель! Забирай свой кусок пластика и гони награду!</rus>
 		<eng>Damaged?!! You better ask me if I'm damaged! If I'd known, your PDA was being traced by a special forces squad, I'd never have set foot in that tunnel! Take your piece of plastic and give me my reward!</eng>
 		<ukr>Пошкоджений?!! Ти краще запитай чи не пошкоджений я! Знав би я, що твій КПК пасе загін спецназівців, у житті би не поліз у цей тунель! Забирай свій шматок пластику і гони нагороду!</ukr>
 		<pln>Uszkodzone?!! Ty lepiej spytaj czy ja nie jestem uszkodzony! Wiedziałbym, że twojego PDA pilnuje pluton specnazowców, w życiu bym nie poszedł do tego tunelu! Zabieraj swój kawałek plastiku i dawaj nagrodę!</pln>
 	</string>
 	<string id="artmod_252_dialog_3">
-		<rus>Да, целенький, даже аккумуляторы не разрядились. Давай свой - я тебе обещанные рецептики перекачаю, а как бонус за твои нервы, которые ты потратил на меня, поделюсь информацией об одной тропке, ведущей в Пещеру прямо из того туннеля, где ты и нашёл мой ПДА. Ты уж извини, что так получилось.</rus>
+		<rus>Да, целенький, даже аккумуляторы не разрядились. Давай свой - я тебе обещанные рецептики перекачаю, а как бонус за твои нервы, которые ты потратил на меня, поделюсь информацией об одной тропке, ведущей в Пещеру прямо из того туннеля, где ты и нашёл мой КПК. Ты уж извини, что так получилось.</rus>
 		<eng>Yes, it's intact, even the battery's not dead. Give me your PDA, I'll send the promised recipes onto it, and as a bonus for your nerves you spent on me, I’ll share information about a trail leading to the Cave directly from the tunnel where you found my PDA. Sorry about that.</eng>
 		<ukr>Так, ціленький, навіть акумулятори не розряджені. Давай свій - я тобі обіцяні рецептики перекачаю, а як бонус за твої нерви, які ти витратив на мене, поділюся інформацією про одну стежку, яка веде в Печеру прямо з того тунелю, де ти і знайшов мій КПК. Ти вже вибач, що так вийшло.</ukr>
 		<pln>Tak, calutki, nawet akumulatory się nie rozładowały. Dawaj swoje - prześlę ci obiecane recepty, a jako bonus za twój czas, który na mnie straciłeś, podzielę się informacją o pewnej ścieżce, prowadzącej do Pieczary bezpośrednio z tego tunelu, gdzie znalazłeś moje PDA. Przepraszam, że tak wyszło.</pln>
@@ -2062,7 +2064,7 @@
 		<pln>No, jeżeli Szerstiuk nim orzechów nie rozbijał, to calutki. Wypadło biegać dla niego za wódką, a jeszcze i pieniądze chciał. Następnym razem uprzedzaj o możliwych problemach, bo tak wykorzystać przyjaciół "na ślepo" to bardzo podłe.</pln>
 	</string>
 	<string id="tex_agr_krot_PDA">
-		<rus>\nКрот просит найти его ПДА, который он выронил в ж/д тоннеле возле входа на Агропром. Он сказал, что там опасно. Сдаётся мне, он что-то не договаривает, и там меня поджидает какой-то сюрприз. Если бы было всё так просто, то сходил бы и сам поискал свой ПДА.</rus>
+		<rus>\nКрот просит найти его КПК, который он выронил в ж/д тоннеле возле входа на Агропром. Он сказал, что там опасно. Сдаётся мне, он что-то не договаривает, и там меня поджидает какой-то сюрприз. Если бы было всё так просто, то сходил бы и сам поискал свой КПК.</rus>
 		<eng>===\nMole asked to bring him his PDA, which he dropped in the railway tunnel near the entrance to Agroprom. He said, there was lots of anomalies there. Seems to me, he's not telling me everything and there's something else there waiting for me. If it were all that easy, he'd go and look for his PDA himself.</eng>
 		<ukr>\nКрот просить знайти його КПК, який він упустив в залізничному тунелі біля входу на Агропром. Він сказав, що там небезпечно. Здається мені, що він щось не договорює і там на мене чекає якийсь сюрприз. Якби все було так просто, то сходив би і сам пошукав свій КПК.</ukr>
 		<pln>===\nKret prosi by odnaleźć jego PDA, które zostawił w tunelu kolejowym obok przejścia na Agroprom. Powiedział, że jest tam wiele anomalii. Wydaje mi się, że nie wszystko mi powiedział i oprócz anomalii tam mnie czeka jeszcze jakaś niespodzianka. Gdyby to było wszystko takie proste, to sam by tam poszedł i poszukał sobie te PDA.</pln>
@@ -2152,7 +2154,7 @@
 		<pln>Cześć! Znajdzie się coś do roboty dla mnie?</pln>
 	</string>
 	<string id="artmod_431_dialog_1">
-		<rus>Хех... Есть кое-что, но не знаю, выполнима ли. Пошёл слух, что в Зону попала информация о последних разработках в сфере индивидуальной защиты, то бишь брони на основе искусственно выращенных кристаллах сапфира. Возможно, брешут, но не хотелось бы упустить такие сведения. Они могут хранится в ПДА, на карте памяти. Я бы проверил базу военных на Агропроме, базу бандитов в Тёмной Долине и базу монолитовцев в Припяти. Пошарь в личных ящиках, наверняка такие данные под замком хранятся. Сможешь найти? Да не за просто так. Тут ко мне со всех сторон сведения стекаются, есть несколько необычных рецептиков.</rus>
+		<rus>Хех... Есть кое-что, но не знаю, выполнима ли. Пошёл слух, что в Зону попала информация о последних разработках в сфере индивидуальной защиты, то бишь брони на основе искусственно выращенных кристаллах сапфира. Возможно, брешут, но не хотелось бы упустить такие сведения. Они могут хранится в КПК, на карте памяти. Я бы проверил базу военных на Агропроме, базу бандитов в Тёмной Долине и базу монолитовцев в Припяти. Пошарь в личных ящиках, наверняка такие данные под замком хранятся. Сможешь найти? Да не за просто так. Тут ко мне со всех сторон сведения стекаются, есть несколько необычных рецептиков.</rus>
 		<eng>Heh... There is one although I'm not sure it's practicable. The rumor began, the information about the last development in the field of personal protection equipment, that is body armor based on cultured sapphire crystals. It may easily be a joke but in case it's true one wouldn't want to fail in getting this info. It may be on a PDA, on a memory card. If I were you, I'd check the military base in Agroprom, the bandit camp in Dark Valley and the Monolithian base in Pripyat. Rifle through personal drawers, such info as this would rather be kept locked away. Can you find it? Not for nothing, of course. Data is flowing here from all directions, so I've got a few interesting recipes.</eng>
 		<ukr>Хех... Є дещо, але не знаю, чи здійсненна. Пішов слух, що у Зону потрапила інформація про останні розробки у сфері індивідуального захисту, чи то пак броні на основі штучно вирощених кристалах сапфіру. Можливо, брешуть, але не хотілося б упустити такі відомості. Вони можуть зберігатися у КПК, на карті пам'яті. Я б перевірив базу військових на Агропромі, базу бандитів у Темній Долині та базу монолітівців у Прип'яті. Понишпори у особистих ящиках, напевно такі дані під замком зберігаються. Зможеш знайти? Та не за просто так.. Тут до мене з усіх боків відомості стікаються, є кілька незвичайних рецептиків.</ukr>
 		<pln>Heh... Jest coś, Jest coś, ale nie wiem, czy to możliwe do wykonania. Poszła plotka, że do Zony dostały się dane o najnowszych osiągnięciach w dziedzinie środków ochrony osobistej, czyli o pancerzu na podstawie sztucznie hodowanych kryształów szafiru. Możliwe, że to zwykłe brednie, ale nie chciałbym przegapić takich informacji. Mogą one być przechowywane na PDA, na karcie pamięci. Ja bym sprawdził bazę wojskową na Agropromie, bazę bandytów w Dolinie Mroku i bazę monolitowców w Prypeci. Poszperaj w osobistych szafkach, na pewno takie dane są przechowywane pod kluczem. Poszukasz? Oczywiście nie za darmo. Do mnie spływają wiadomości ze wszystkich stron, znajdzie się kilka nadzwyczajnych recept.</pln>
@@ -2188,13 +2190,13 @@
 		<pln>To nie śpij!</pln>
 	</string>
 	<string id="artmod_432_dialog_3">
-		<rus>Давай свой ПДА, я тебе обещанный рецептик артмода перекачаю. Если интересно, у меня и другие рецептики есть.</rus>
+		<rus>Давай свой КПК, я тебе обещанный рецептик артмода перекачаю. Если интересно, у меня и другие рецептики есть.</rus>
 		<eng>Give me your PDA, I'll upload the promised recipe of artifact modification. I've got other recipes in case you're interested.</eng>
 		<ukr>Давай свій КПК - я тобі обіцяний рецептик артмода перекачаю. Якщо цікаво, у мене ще й інші рецептики є.</ukr>
 		<pln>Dawaj swoje PDA, wrzucę ci obiecaną receptę. Jeśli jesteś zainteresowany, mam jeszcze inne recepty.</pln>
 	</string>
 	<string id="tex_mil_Svoboda_trader_ammo">
-		<rus>Скряга попросил найти данные о новейших разработках брони. Они могут хранится в ПДА, на карте памяти. Торговец посоветовал проверить базу военных на Агропроме, базу бандитов в Тёмной Долине и базу монолитовцев в Припяти. Нужно осмотреть личные ящики, наверняка такие данные под замком хранятся.</rus>
+		<rus>Скряга попросил найти данные о новейших разработках брони. Они могут хранится в КПК, на карте памяти. Торговец посоветовал проверить базу военных на Агропроме, базу бандитов в Тёмной Долине и базу монолитовцев в Припяти. Нужно осмотреть личные ящики, наверняка такие данные под замком хранятся.</rus>
 		<eng>Skinflint asked to get the data on the latest body armor development. It could be stored on a PDA or on a memory card. The trader suggested searching the military base in Agroprom, the bandit camp in Dark Valley and the Monolithian base in Pripyat. It'd be better to rifle through personal drawers, this kind of info would rather be kept locked away.</eng>
 		<ukr>Скнара попросив знайти дані про новітні розробки броні. Вони можуть зберігатися у КПК, на карті пам'яті. Торговець порадив перевірити базу військових на Агропромі, базу бандитів у Темній Долині та базу монолітівців у Прип'яті. Потрібно оглянути особисті ящики, напевно такі дані під замком зберігаються.</ukr>
 		<pln>Kutwa poprosił by znaleźć dane o o najnowszych osiągnięciach w dziedzinie pancerzy. Te dane mogą być przechowywane w PDA, na karcie pamięci. Handlarz poradził by sprawdzić bazę wojskową na Agropromie, bazę bandytów w Dolinie Mroku i bazę monolitowców w Prypeci. Trzeba sprawdzić osobiste skrzynki, na pewno takie dane są przechowywane pod kluczem.</pln>
@@ -2392,7 +2394,7 @@
 		<pln>Coś taki skwaszony? Z niewoli się wyrwałeś, powinieneś się cieszyć, że się z takich tarapatów wykaraskałeś.</pln>
 	</string>
 	<string id="artmod_461_dialog_00">
-		<rus>Бандосы при обыске мой ПДА себе забрали, но не эти из эскорта, кого ты подстрелил - обыскивавший меня ушлёпок на базе остался...</rus>
+		<rus>Бандосы при обыске мой КПК себе забрали, но не эти из эскорта, кого ты подстрелил - обыскивавший меня ушлёпок на базе остался...</rus>
 		<eng>The bandits took my PDA when they searched me, not those from the escort whom you shot - the bastard who searched me stayed at the base...</eng>
 		<ukr>Бандюки при обшуку мій КПК собі забрали, але не ці з ескорту, якіх ти підстрілив - той гад що мене обшукував на базі залишився...</ukr>
 		<pln>Bandyci przy rewizji zabrali mi moje PDA, ale nie ci z eskorty, których zastrzeliłeś - przeszukujący mnie dresiarz został na bazie...</pln>
@@ -2404,7 +2406,7 @@
 		<pln>No i kto je teraz ma? Jak wyglądał ten bandyta?</pln>
 	</string>
 	<string id="artmod_461_dialog_1">
-		<rus>Да их разве различишь? Все в трениках ходят, будто поголовно у одного дизайнера одеваются. Без ПДА чувствую себя крайне неуютно, в нём есть информация, которая не должна попасть в руки главаря бандитов... Верни, а? Я в благодарность рецептиком преобразования артефакта поделюсь: как из "Огненного шара" - "Душу" получить.</rus>
+		<rus>Да их разве различишь? Все в трениках ходят, будто поголовно у одного дизайнера одеваются. Без КПК чувствую себя крайне неуютно, в нём есть информация, которая не должна попасть в руки главаря бандитов... Верни, а? Я в благодарность рецептиком преобразования артефакта поделюсь: как из "Огненного шара" - "Душу" получить.</rus>
 		<eng>Would you tell one of them from the other? All wear sport pants, as if they all buy their clothes at the same couturier. I feel very uncomfortable without my PDA, there's the info on it, that must not fall into the hands of the bandits leader... Bring it back to me, will you? In gratitude I'll share a recipe of artifact modification with you: the way of getting "Soul" out of "Fireball".</eng>
 		<ukr>Та хіба їх розрізниш? Всі в трениках ходять, так ніби поголовно у одного дизайнера одягаються. Без КПК почуваю себе вкрай незручно, а у ньому є інформація, яка не повинна попасти в руки ватажка бандитів... Поверни, га? Я в подяку рецептиком перетворення артефакту поділюся: як з "Вогняної кулі" - "Душу" отримати.</ukr>
 		<pln>A bo to ich odróżnisz? Wszyscy w dresach chodzą, jakby w jednym sklepie się ubierali. Bez PDA czuję się skrajnie niekomfortowo, są w nim informacje, które nie powinny się dostać w ręce prowodyra bandytów... Znajdź je, co? Ja się za to podzielę receptą transmutacji artefaktu: jak z "Ognistej Kuli" "Duszę" otrzymać.</pln>
@@ -2422,7 +2424,7 @@
 		<pln>Muszę szukać laboratorium.</pln>
 	</string>
 	<string id="artmod_462_dialog_0">
-		<rus>Еле отыскал твой ПДА.</rus>
+		<rus>Еле отыскал твой КПК.</rus>
 		<eng>I nearly failed in finding your PDA.</eng>
 		<ukr>Ледве знайшов твій КПК</ukr>
 		<pln>Właśnie odzyskałem twoje PDA.</pln>
@@ -2446,9 +2448,9 @@
 		<pln>Moja wdzięczność nie ma granic! Daj PDA, wrzucę ci sposób transmutacji... \nMógłbyś jeszcze jedną sprawę załatwić?</pln>
 	</string>
 	<string id="tex_val_escort_PDA">
-		<rus>\nНадо вернуть ПДА спасённого долговца, который забрал себе один из бандитов. Сейчас этот бандос должен быть на главной базе...\nХм, а если мне удастся каким-то образом договориться с бандитами о нейтралитете, то что тогда? Не нарушать же договор и не убивать местных братков. Возможно, мне повезёт выкупить наладонник, не прибегая к крайним мерам.</rus>
+		<rus>\nНадо вернуть КПК спасённого долговца, который забрал себе один из бандитов. Сейчас этот бандос должен быть на главной базе...\nХм, а если мне удастся каким-то образом договориться с бандитами о нейтралитете, то что тогда? Не нарушать же договор и не убивать местных братков. Возможно, мне повезёт выкупить наладонник, не прибегая к крайним мерам.</rus>
 		<eng>\nYou need to retrieve the PDA of the rescued Duty member, that was taken by one of the bandits. This bandit should now be at the main base...\nHmm, what if I manage to agree with the bandits upon neutrality? Then what? Then I shouldn't break the agreement and start killing local mobsters, should I? Maybe I'll get lucky enough to buy the palmtop out without resorting to extreme measures.</eng>
-		<ukr>\nТреба повернути ПДА врятованого долгівця, котрий забрав собі один з бандитів. Зараз цей бандос повинен бути на головній базі... \nХм, а якщо мені вдасться якимось чином домовитися з бандитами про нейтралітет, то що тоді? Не порушувати ж договір і не вбивати місцевих братків. Можливо, мені пощастить викупити КПК, не вдаючись до крайніх заходів.</ukr>
+		<ukr>\nТреба повернути КПК врятованого долгівця, котрий забрав собі один з бандитів. Зараз цей бандос повинен бути на головній базі... \nХм, а якщо мені вдасться якимось чином домовитися з бандитами про нейтралітет, то що тоді? Не порушувати ж договір і не вбивати місцевих братків. Можливо, мені пощастить викупити КПК, не вдаючись до крайніх заходів.</ukr>
 		<pln>\nTrzeba odzyskać PDA uratowanego powinnościowca, które zabrał sobie jeden z bandytów. Teraz ten bandyta powinien przebywać na głównej bazie...\nHmm, a jeśli uda mi się jakoś zawrzeć z bandytami pakt o neutralności, to co wtedy? By nie zerwać umowy lepiej nie zabijać miejscowych bratków. Może, uda mi się wykupić PDA, bez uciekania się do ekstremalnych środków.</pln>
 	</string>
 	<string id="artmod_351_dialog_0">
@@ -2602,7 +2604,7 @@
 		<pln>Dobra, zabieraj swoją skrzynkę.</pln>
 	</string>
 	<string id="artmod_522_dialog_3">
-		<rus>Ух-х, тяжёлый... Есть куда рецептик записать? Вот он, на экране моего ПДА...\nЕсли понадобится спрятать что-либо, или там, от непогоды укрыться - пользуйся небольшим убежищем, которое находится напротив поворота на Припять. Там раньше начинался вход в лабораторию Х-10, но во время одного из Выбросов перекосило шлюз и вглубь не пробраться. Код к внешней двери - 1287975.</rus>
+		<rus>Ух-х, тяжёлый... Есть куда рецептик записать? Вот он, на экране моего КПК...\nЕсли понадобится спрятать что-либо, или там, от непогоды укрыться - пользуйся небольшим убежищем, которое находится напротив поворота на Припять. Там раньше начинался вход в лабораторию Х-10, но во время одного из Выбросов перекосило шлюз и вглубь не пробраться. Код к внешней двери - 1287975.</rus>
 		<eng>Ooh, it's heavy... Is there a way to write down a recipe? Here it is, on my PDA's screen...\nIf you ever need to hide anything, or like shelter from bad weather - use that little place of refuge, located across from the turn to Pripyat. There once was an entrance to the X-10 lab, but during one of the blowouts the airlock door got warped and jammed, so, no entry through there. The code for the outer door is 1287975.</eng>
 		<ukr>Ух-х, важкий... Є куди рецептик записати, ось він, на екрані мого КПК...\nЯкщо знадобиться заховати що-небудь, або там, від негоди сховатися - користуйся невеликим притулком, який знаходиться навпроти повороту на Прип'ять. Там раніше починався вхід в лабораторію Х-10, але під час одного з викидів перекосило шлюз і вглиб не пробитися. Код до зовнішніх дверей - 1287975.</ukr>
 		<pln>O żesz ty, ale ciężka... Jeśli masz gdzie receptę zapisać, to jest tu, na ekranie mojego PDA... \nJak będziesz chciał coś schować, albo, ja wiem, schować się przed deszczem - korzystaj z pewnego ukrycia, które znajduje się naprzeciw zakrętu na Prypeć. Tam kiedyś zaczynało się wejście do laboratorium X-10, ale w czasie jednej z emisji uszkodziła się śluza i już nie można tam teraz wejść... Kod do zewnętrznych drzwi to 1287975.</pln>
@@ -2662,7 +2664,7 @@
 		<pln>Uczciwie powiem, było wesoło!</pln>
 	</string>
 	<string id="artmod_562_dialog_3">
-		<rus>А то! Доставай свой ПДА, подключайся, качну тебе рецептик преобразования "Медузы" в "Золотую рыбку".</rus>
+		<rus>А то! Доставай свой КПК, подключайся, качну тебе рецептик преобразования "Медузы" в "Золотую рыбку".</rus>
 		<eng>You bet! Take out your PDA, get connected, I'm gonna upload the recipe of "Jellyfish" to "Goldfish" transmutation.</eng>
 		<ukr>А то! Діставай свій КПК, підключайся, качну тобі рецептик перетворення "Медузи" у "Золоту рибку".</ukr>
 		<pln>No tak! Wyciągaj PDA, wrzucę ci receptę przeobrażenia "Meduzy" w "Złotą Rybkę".</pln>
@@ -2986,7 +2988,7 @@
 		<pln>Zgoda...</pln>
 	</string>
 	<string id="artmod_53_61_dialog_15">
-		<rus>Скинул данные на ПДА.</rus>
+		<rus>Скинул данные на КПК.</rus>
 		<eng>I've uploaded it to your PDA.</eng>
 		<ukr>Скинув дані на PDA.</ukr>
 		<pln>Wrzuciłem ci dane na PDA.</pln>
@@ -3028,7 +3030,7 @@
 		<pln>Dowiedzieliście się, kto ich zaatakował?</pln>
 	</string>
 	<string id="artmod_541_dialog_12">
-		<rus>Буквально через пять минут мы перехватили сигнал бедствия с вертолёта - они влетели в какое-то голубоватое облако, после чего электроника на борту начала сбоить, а через несколько секунд связь совсем прекратилась. Последнее, что они успели передать - это сообщение о том, что вертушка терпит крушение над Болотами. Напавшие на учёных явно были не военными - пилот говорил на английском. Предполагаю, что это были наёмники, и летели они на свою базу, что на Металлургическом Заводе. Нужно разыскать место падения и вернуть декодер, это устройство представляет большую ценность для нас. Судя по краткому описанию облака, это была неизвестная нам электромагнитная аномалия. Отсюда следует, что все их электронные устройства, включая ПДА, вышли из строя - они не смогут вызвать помощь со своей базы. Если наёмники ещё живы, а упавший вертолёт цел, то уничтожьте и наймов, и технику - всё должно выглядеть так, будто он разбился, чтобы пресечь дальнейшие поиски декодера - никто не должен выбраться оттуда живым. Вы поняли?!</rus>
+		<rus>Буквально через пять минут мы перехватили сигнал бедствия с вертолёта - они влетели в какое-то голубоватое облако, после чего электроника на борту начала сбоить, а через несколько секунд связь совсем прекратилась. Последнее, что они успели передать - это сообщение о том, что вертушка терпит крушение над Болотами. Напавшие на учёных явно были не военными - пилот говорил на английском. Предполагаю, что это были наёмники, и летели они на свою базу, что на Металлургическом Заводе. Нужно разыскать место падения и вернуть декодер, это устройство представляет большую ценность для нас. Судя по краткому описанию облака, это была неизвестная нам электромагнитная аномалия. Отсюда следует, что все их электронные устройства, включая КПК, вышли из строя - они не смогут вызвать помощь со своей базы. Если наёмники ещё живы, а упавший вертолёт цел, то уничтожьте и наймов, и технику - всё должно выглядеть так, будто он разбился, чтобы пресечь дальнейшие поиски декодера - никто не должен выбраться оттуда живым. Вы поняли?!</rus>
 		<eng>Five minutes later we intercepted a distress call from the helicopter - they entered some bluish cloud and the onboard electronics started to fail, after a few seconds the contact was lost. The last thing they managed to transmit was the message saying the helicopter was about to crash in the Swamps. Those who attacked the scientists were clearly not military men - the pilot spoke in English. I assume those were some mercenaries flying to their base at the Ironworks. We need to find the crash site and bring back the decoder, this device is of great value to us. Judging by the brief description of the cloud, it was an electromagnetic anomaly unknown to us. This means all their electronic devices, including PDAs, had failed - they couldn't have called their base for help. If the mercs are still alive, and the fallen helicopter is intact, destroy both the mercs and the helicopter - everything must look as if it crashed, in order for the further search for the decoder to be stopped, no one should get out of there alive. Do you understand?!</eng>
 		<ukr>Буквально через п'ять хвилин ми перехопили сигнал лиха з вертольота - вони влетіли в якусь блакитну хмару, після чого електроніка на борту почала давати збої, а через кілька секунд зв'язок зовсім припинився. Останнє, що вони встигли передати - це повідомлення про те, що вертушка зазнає аварії над Болотами. Нападники на вчених явно були військовими - пілот говорив англійською. Припускаю, що це були найманці, і летіли вони на свою базу, що на Металургійному Заводі. Потрібно розшукати місце падіння і повернути декодер, цей пристрій є великою цінністю для нас. Судячи з короткого опису хмари, це була невідома нам електромагнітна аномалія. Звідси випливає, що всі їхні електронні пристрої, включаючи КПК, вийшли з ладу - вони не зможуть викликати допомогу зі своєї бази. Якщо найманці ще живі, а вертоліт ще цілий, то знищіть і наймів, і техніку - все повинно виглядати так, ніби він розбився, щоб припинити подальші пошуки декодера - ніхто не повинен вибратися звідти живим. Ви зрозуміли?!</ukr>
 		<pln>Dosłownie po pięciu minutach przechwyciliśmy sygnał awarii z helikoptera - wlecieli w jakiś niebieskawy obłok, po czym elektronika pokładowa zaczęła szaleć, a po kilku sekunduch łączność całkiem zanikła. Ostatnie, co zdążyli przekazać - to wiadomość o tym, że helikopter rozbił się nad Bagnami.  Atakujący naukowców z pewnością nie byli żołnierzami - pilot mówił po angielsku. Przypuszczam, że to byli najemnicy i lecieli na swoją bazę w Zakładzie Metalurgicznym. Trzeba odnaleźć miejsce katastrofy i odzyskać dekoder, to urządzenie ma dla nas wielką wartość. Sądząc po krótkim opisie obłoku, była to nieznana nam elektromagnetyczna anomalia. Stąd wniosek, że wszystkie ich elektroniczne urządzenia, włączając w to PDA, przestały działać - nie byli w stanie wezwać pomocy ze swojej bazy. Jeśli najemnicy są jeszcze żywi, a helikopter jest cały, to proszę zniszczyć i najemników i sprzęt - wszystko powinno wyglądać tak, jakby naprawdę się rozbił, żeby uniemożliwić późniejsze poszukiwania dekodera - nikt nie powinien wyjść stamtąd żywym. Zrozumieliście?!</pln>
@@ -3208,13 +3210,13 @@
 		<pln>Poszukaj kogoś innego.</pln>
 	</string>
 	<string id="artmod_662_dialog_0">
-		<rus>Я Вас категорически приветствую...</rus>
+		<rus>Я вас категорически приветствую...</rus>
 		<eng>I strongly welcome you...</eng>
-		<ukr>Я Вас категорично вітаю...</ukr>
+		<ukr>Я вас категорично вітаю...</ukr>
 		<pln>Zdecydowanie Was pozdrawiam...</pln>
 	</string>
 	<string id="artmod_662_dialog_1">
-		<rus>Оп-па, наш гонец... Как экзы?</rus>
+		<rus>Оп-па, наш гонец... Что с экзоскелетами?</rus>
 		<eng>Lookie here, that's our courier... What about the exos?</eng>
 		<ukr>Оп-па, наш гонець... Як екзи?</ukr>
 		<pln>Op-pa, nasz goniec... Jak egzy?</pln>
@@ -6575,90 +6577,7 @@
 		<ukr>Спасибі тобі за твою людяність...</ukr>
 		<pln>Dziękuję ci za twoje poświęcenie...</pln>
 	</string>
-	<string id="about_life_heart_21_dialog_0">
-		<rus>Привет, Бармен, есть разговор.</rus>
-		<eng>Hi, Barkeep, we need to talk.</eng>
-		<ukr>Привіт Бармен, є розмова.</ukr>
-		<pln>Cześć, Barman. Jest sprawa.</pln>
-	</string>
-	<string id="about_life_heart_21_dialog_1">
-		<rus>И тебе привет... Я слышал, ты в Саркофаге побывал? "Монолит" видел?</rus>
-		<eng>Hi to you too... I heard, you'd been in the Sarcophagus? Seen "Monolith"?</eng>
-		<ukr>І тобі привіт... Я чув - ти в Саркофагу побував? "Моноліт" бачив?</ukr>
-		<pln>Witaj... Słyszałem, że byłeś w Sarkofagu? Monolit widziałeś?</pln>
-	</string>
-	<string id="about_life_heart_21_dialog_2">
-		<rus>Видел я этот "Монолит", ничего особенного - каменюка светится и в голове шумит.</rus>
-		<eng>I'd seen "Monolith", nothing special - a glowing rock that causes noise in the head.</eng>
-		<ukr>Бачив я цей "Моноліт", нічого особливого - каменюка світиться і в голові шумить..</ukr>
-		<pln>Widziałem ten Monolit, nic szczególnego - kamień świeci a w głowie szumi.</pln>
-	</string>
-	<string id="about_life_heart_21_dialog_3">
-		<rus>А желание-то загадал?</rus>
-		<eng>Did you make your wish?</eng>
-		<ukr>А бажання то загадав?</ukr>
-		<pln>A życzenie powiedziałeś?</pln>
-	</string>
-	<string id="about_life_heart_21_dialog_4">
-		<rus>Нет, отговорили мудрые люди... Я к тебе по другому поводу.</rus>
-		<eng>No, some wise men talked me out of that... Look, I'm here for a reason.</eng>
-		<ukr>Ні, відрадили мудрі люди... Я до тебе з іншого приводу.</ukr>
-		<pln>Nie, mądrzy ludzie wytłumaczyli... Ja do ciebie w innej sprawie.</pln>
-	</string>
-	<string id="about_life_heart_21_dialog_5">
-		<rus>И по какому же?</rus>
-		<eng>What reason?</eng>
-		<ukr>І з якого ж?</ukr>
-		<pln>Słucham cię?</pln>
-	</string>
-	<string id="about_life_heart_21_dialog_6">
-		<rus>Слух прошёл, что ты знаешь компоненты рецепта преобразования артефакта "Живое сердце".</rus>
-		<eng>Rumor was you knew the components for the transmutation of "Living Heart" artifact.</eng>
-		<ukr>Слух пройшов, що ти знаєш компоненти рецепта створення артефакта "Живе серце"?</ukr>
-		<pln>Podobno znasz składniki recepty transmutacji artefaktu "Żywe Serce".</pln>
-	</string>
-	<string id="about_life_heart_21_dialog_7">
-		<rus>Слышал я краем уха кое-что, не про весь рецепт, но один компонент мне точно известен.</rus>
-		<eng>I overheard something about it, but not the whole thing, so I only know what one of the components is.</eng>
-		<ukr>Чув я краєм вуха дещо, не про увесь рецепт, але один компонент мені точно відомий.</ukr>
-		<pln>Coś mi się obiło o uszy o tym artefakcie. Że niby coś trzeba gdzieś wrzucić... \nNo! Ale jeden składnik jest pewny.</pln>
-	</string>
-	<string id="about_life_heart_21_dialog_8">
-		<rus>И что за компонент?</rus>
-		<eng>And what is this component?</eng>
-		<ukr>І що за компонент?</ukr>
-		<pln>I co to za składnik?</pln>
-	</string>
-	<string id="about_life_heart_21_dialog_9">
-		<rus>Ну... Информация просто так не даётся... Хочешь узнать - поработай.</rus>
-		<eng>Well... Information is not for free... You want it - earn it.</eng>
-		<ukr>Ну... Інформація просто так не дається... Хочеш дізнатися - попрацюй.</ukr>
-		<pln>He... Informacji tak po prostu się nie dostaje... Chcesz się dowiedzieć? Zapracuj.</pln>
-	</string>
-	<string id="about_life_heart_21_dialog_10">
-		<rus>А что нужно?</rus>
-		<eng>What do I have to do?</eng>
-		<ukr>А що потрібно?</ukr>
-		<pln>A co chcesz?</pln>
-	</string>
-	<string id="about_life_heart_21_dialog_11">
-		<rus>Меня просили найти человека одного... Учёного... Пропал он где-то в Припяти с важными данными. Есть вероятность, что он находится в плену у монолитовцев. Всем известно, что фанатики стараются не убивать яйцеголовых, чтобы привлекать их к своим научным работам. Если ты разузнаешь о судьбе пропавшего и вернёшь эти данные, то сможешь узнать о компоненте.</rus>
-		<eng>I was asked to find one person... A scientist... He'd got lost somewhere in Pripyat with the important data. There's a chance he is now a prisoner of Monolithians. It is known to everyone, that these fanatics don't usually kill eggheads rather than make them do research work for them. If you find out what happened to the lost person and retrieve the data, I'll tell you what that component is.</eng>
-		<ukr>Мене просили знайти людину одну... Вченого... Пропав він десь у Прип'яті з важливими даними. Є ймовірність, що він знаходиться у полоні у монолітівців. Усім відомо, що фанатики намагаються не вбивати яйцеголових, щоб задіювати їх у своїх наукових експериментах. Якщо ти дізнаєшся про його долю і повернеш ці дані, то зможеш дізнатися про необхідний артефакт.</ukr>
-		<pln>Poproszono mnie o znalezienie pewnego człowieka... Naukowca... Zaginął gdzieś w Prypeci... I do tego z ważnymi danymi. Jest taka możliwość, że monolitowcy wzięli go do niewoli. Wszyscy wiedzą, że fanatycy starają się nie zabijać jajogłowych, żeby wykorzystywać ich w swoich projektach naukowych. Jeśli dowiesz się czegoś o jego losach i dostarczysz te dane, to ci powiem, co wiem o niezbędnym artefakcie.</pln>
-	</string>
-	<string id="about_life_heart_21_dialog_12">
-		<rus>Ладно, найду я этого учёного.</rus>
-		<eng>Ok, I'll find that scientist.</eng>
-		<ukr>Гаразд, знайду я цього вченого.</ukr>
-		<pln>Dobra, znajdę tego naukowca.</pln>
-	</string>
-	<string id="about_life_heart_21_dialog_13">
-		<rus>Давай позже вернёмся к этому разговору.</rus>
-		<eng>Let's go back to that later.</eng>
-		<ukr>Давай пізніше повернемося до цієї розмови.</ukr>
-		<pln>Wróćmy później do tej rozmowy.</pln>
-	</string>
+	<!-- !!!! Удалить для НИ -->
 	<string id="about_life_heart_22_dialog_0">
 		<rus>Вот я и вернулся...</rus>
 		<eng>Here, I'm back...</eng>
@@ -6672,7 +6591,7 @@
 		<pln>Co tam z naukowcem?</pln>
 	</string>
 	<string id="about_life_heart_22_dialog_2">
-		<rus>Нашёл я его на базе Монолита, он действительно угодил в плен. Но, видать, несговорчивым оказался, и фанатики дали ему время на раздумье. Они держали его под присмотром двух турелей - чтоб никуда не убежал. Учёный погиб от взрыва турелей, мне ни за что не удалось бы его спасти. С трупа я снял этот ПДА...</rus>
+		<rus>Нашёл я его на базе Монолита, он действительно угодил в плен. Но, видать, несговорчивым оказался, и фанатики дали ему время на раздумье. Они держали его под присмотром двух турелей - чтоб никуда не убежал. Учёный погиб от взрыва турелей, мне ни за что не удалось бы его спасти. С трупа я снял этот КПК...</rus>
 		<eng>I found him at the Monolithian base, he, indeed, became their prisoner. But he seems to have been uncooperative and the fanatics gave him some time to think about it. They were keeping him under the guard of the two turrets so that he could not escape. The scientist died of the turrets explosion, there was no way I could've saved him. I picked that PDA off his corpse...</eng>
 		<ukr>Знайшов я його на базі Моноліту, він дійсно потрапив у полоно. Але, мабуть, не хотів співпрацювати і фанатики дали йому час на роздуми. Вони тримали його під наглядом двох турелей - щоб нікуди не втік. Вчений загинув від вибудуху турелей, мені нізащо не вдалося б його врятувати. З тіла я зняв КПК...</ukr>
 		<pln>Znalazłem go na bazie Monolitu, rzeczywiście dostał się do niewoli. Ale, najwidoczniej się nie poddał i fanatycy dali mu czas do namysłu. Trzymali go pod dozorem dwóch automatycznych wieżyczek - żeby nigdzie nie uciekł. Naukowiec zginął przy eksplozji wieżyczki, w żaden sposób nie udałoby mi się go uratować. Przy jego zwłokach znalazłem te PDA...</pln>
@@ -6689,6 +6608,7 @@
 		<ukr>"Нічна зірка" значить. Гаразд, щасливо.</ukr>
 		<pln>A więc to "Gwiazda Wieczorna". Dobra, do szczęśliwego.</pln>
 	</string>
+	<!-- Удалить энд -->
 	<string id="about_life_heart_31_dialog_0">
 		<rus>Здравствуйте, профессор. Можно вас кое о чём спросить?</rus>
 		<eng>Hello, professor. May I ask you something?</eng>
@@ -6714,7 +6634,7 @@
 		<pln>Szkoda, nie ma stamtąd żadnej informacji... A co chcieliście wiedzieć?</pln>
 	</string>
 	<string id="about_life_heart_31_dialog_4">
-		<rus>В Саркофаге я нашёл ПДА опытного сталкера, и в этом ПДА говорится о воскрешающем артефакте...</rus>
+		<rus>В Саркофаге я нашёл КПК опытного сталкера, и в этом КПК говорится о воскрешающем артефакте...</rus>
 		<eng>I found the PDA of a veteran stalker in Sarcophagus, and in that PDA there was info on resurecting artifact...</eng>
 		<ukr>У Саркофагу я знайшов КПК досвідченого сталкера, і в цьому КПК йдеться про воскрешаючий артефакт...</ukr>
 		<pln>W Sarkofagu znalazłem PDA doświadczonego stalkera, i w tym PDA mówi się o wskrzeszającym artefakcie...</pln>
@@ -6936,19 +6856,19 @@
 		<pln>Ta-a-a... Szkoda, że nie można zwrócić im życia...</pln>
 	</string>
 	<string id="strelok_pda1_dialog_3">
-		<rus>Вообще-то, ходит упорный слух - есть особенный чудо-артефакт, "Живое сердце" называется... И вроде бы у тебя в ПДА даже способ его получения был.</rus>
+		<rus>Вообще-то, ходит упорный слух - есть особенный чудо-артефакт, "Живое сердце" называется... И вроде бы у тебя в КПК даже способ его получения был.</rus>
 		<eng>Well, according to some strong rumors - there's a truly miraculous artifact called "Living Heart"... And you even have a recipe for creating it, in your PDA.</eng>
 		<ukr>Взагалі, ходить завзята чутка - є особливий чудо-артефакт, "Живе серце" називається... І начебто у тебе в КПК навіть спосіб його отримання був.</ukr>
 		<pln>A jednak, chodzą różne plotki, że jest szczególny, cudowny artefakt, nazywa się "Żywe Serce"... I podobno w twoim PDA był nawet sposób jego otrzymania.</pln>
 	</string>
 	<string id="strelok_pda1_dialog_4">
-		<rus>У меня?! В этом ПДА?</rus>
+		<rus>У меня?! В этом КПК?</rus>
 		<eng>I have a recipe?! In my PDA?</eng>
 		<ukr>У мене?! У цьому КПК?</ukr>
 		<pln>U mnie?! W tym PDA?</pln>
 	</string>
 	<string id="strelok_pda1_dialog_5">
-		<rus>Нет, не в этом, в том, который ты с собой в последнюю вылазку на ЧАЭС брал! Может быть, сумеешь его найти... И, ещё... Я точно не знаю, где твой старый ПДА - в Саркофаге или нет... По крайней мере поискать его надо именно там. \nКогда собираешься-то в Саркофаг?</rus>
+		<rus>Нет, не в этом, в том, который ты с собой в последнюю вылазку на ЧАЭС брал! Может быть, сумеешь его найти... И, ещё... Я точно не знаю, где твой старый КПК - в Саркофаге или нет... По крайней мере поискать его надо именно там. \nКогда собираешься-то в Саркофаг?</rus>
 		<eng>No, not in that one, in the one you took with you when we made our last sally to CNPP! Maybe you'll find it... And one more thing... I'm not sure where your old PDA might be - whether in Sarcophagus or not... At least you gotta look for it there. \nWhen are you planning to go to Sarcophagus anyway?</eng>
 		<ukr>Ні не в цьому, в тому який ти з собою в останню вилазку на ЧАЕС брав! Може зумієш його знайти... І, ще.. Я точно не знаю, де твій старий КПК - в Саркофагу чи ні... Принаймні пошукати його треба саме там.\nКоли збираєшся в Саркофаг?</ukr>
 		<pln>Nie, nie w tym. W tym, który wziąłeś z sobą na ostatnią wyprawę do CEA! Dasz radę go odnaleźć? I jeszcze jedno.. Ja nie wiem gdzie dokładnie jest twoje stare PDA - w Sarkofagu czy też gdzieś indziej... W każdym razie, trzeba by go poszukać właśnie tam. \nKiedy zamierzasz wybrać się do Sarkofagu?</pln>
@@ -6990,7 +6910,7 @@
 		<pln>Dobrze, nie zapomnę.. Ruszam...</pln>
 	</string>
 	<string id="strelok_pda3_dialog_0">
-		<rus>Доктор, нашёл я ПДА, он оказывается был у Шахтёра! Только прочитать не могу.</rus>
+		<rus>Доктор, нашёл я КПК, он оказывается был у Шахтёра! Только прочитать не могу.</rus>
 		<eng>Doctor, I found the PDA, it turns out to have been with Miner! Can't read it though.</eng>
 		<ukr>Доктор, знайшов я КПК, він виявляється був у Шахтаря! Тільки прочитати не можу.</ukr>
 		<pln>Doktorze, znalazłem PDA. Okazało się, że było u Górnika! Tylko odczytać nie mogę.</pln>
@@ -7020,13 +6940,13 @@
 		<pln>===Секретные переходы торговцев</pln>
 	</string>
 	<string id="strelok_pda_info2_text">
-		<rus>Записал на ПДА наводки, чтобы не забыть.\n \n Бар-Кордон: Чёрный ход из Бара за подсобкой Бармена,\n Бар-Припять: Кладовка рядом с подсобкой Бармена,\n Кордон-Бар: В бункере у Сидоровича,\n Припять-Бар: Дверь в углу дома за Доктором.\n \n Чтобы попасть в подсобку и кладовку Бара, нужно переговорить с Барменом. \n Чтобы попасть в каморку Сидоровича, нужно переговорить с ним. \n Чтобы открыть дверь в углу дома в Ц.Припяти, нужно переговорить с Доктором.</rus>
+		<rus>Записал на КПК наводки, чтобы не забыть.\n \n Бар-Кордон: Чёрный ход из Бара за подсобкой Бармена,\n Бар-Припять: Кладовка рядом с подсобкой Бармена,\n Кордон-Бар: В бункере у Сидоровича,\n Припять-Бар: Дверь в углу дома за Доктором.\n \n Чтобы попасть в подсобку и кладовку Бара, нужно переговорить с Барменом. \n Чтобы попасть в каморку Сидоровича, нужно переговорить с ним. \n Чтобы открыть дверь в углу дома в Ц.Припяти, нужно переговорить с Доктором.</rus>
 		<eng>===There's only one note in the PDA:\n \n"In one of the labs I found a diagram of the reserve tunnels for emergency evacuation. The entrances to these tunnels have been disguised as ordinary doors and basements. The only paths I could've figured out and tested are the paths from Pripyat and Cordon straight to the Bar and back. I wrote down the tips to them so as not to forget.\n \nBar-Cordon: back entrance to the bar behind Barkeep's counter,\nBar-Pripyat: the closet next to the back entrance to the bar,\nCordon-Bar: in the basement of a house in the rookie village,\nPripyat-Bar: the door in the corner of the building behind Doctor.\n \nI hope no one knows about them.</eng>
 		<ukr>Записав на КПК наведення, щоб не забути.\n \n Бар-Кордон: Чорний хід з Бара за підсобною Бармена,\n Бар-Прип'ять: Комора поруч з підсобною Бармена,\n Кордон-Бар: У бункері у Сидоровича,\n Прип'ять-Бар: Двері в кутку будинку за Доктором.\n \n Щоб потрапити у підсобку і комору Бара, потрібно переговорити з Барменом. \n Щоб потрапити в комірчину Сидоровича, потрібно переговорити з ним. \n Щоб відкрити двері в кутку будинку в Ц.Прип'яті, потрібно переговорити з Доктором.</ukr>
 		<pln>===W PDA jest jedna notatka:\n \n"W jednym z laboratoriów znalazłem schemat rezerwowych tuneli do awaryjnej ewakuacji. Wejścia w te tunele są zamaskowane jak zwyczajne drzwi albo piwnice. Jedyne, co zdołałem rozebrać i sprawdzić - to drogi z Prypeci i Kordonu prosto do Baru i z powrotem. Zapisałem na PDA namiary, by nie zapomnieć.\n \nBar-Kordon: Tylne wyjście z Baru za bufetem Barmana,\nBar-Prypeć: Spiżarnia przy tylnym wyjściu z Baru,\nKordon-Bar: W piwnicy domu w wiosce Nowicjuszy,\nPrypeć-Bar: Drzwi w rogu domu za Doktorem.\n \nMam nadzieję, że nikt więcej o nich nie wie".</pln>
 	</string>
 	<string id="tex_about_life_heart">
-		<rus>В ПДА Стрелка есть упоминание о том, что ингредиенты чудо-артефакта "Живое сердце" могут знать торговцы. Нужно попытаться выяснить все у Бармена, Сахарова и Сидоровича. Затем поговорить с Доктором.</rus>
+		<rus>В КПК Стрелка есть упоминание о том, что ингредиенты чудо-артефакта "Живое сердце" могут знать торговцы. Нужно попытаться выяснить все у Бармена, Сахарова и Сидоровича. Затем поговорить с Доктором.</rus>
 		<eng>In the Strelok's PDA there is information that traders might know the ingredients for the miraculous "Living Heart" artifact. It is necessary to try to find out everything from Barkeep, Sakharov and Sidorovich. Then talk to Doctor.</eng>
 		<ukr>У КПК Cтрільця є згадка про те, що інгредієнти чудоартефакта "Живе серце" можуть знати торговці. Потрібно спробувати з'ясувати все у Бармена, Сахарова та Сидоровича. Потім поговорити з Доктором.</ukr>
 		<pln>W PDA Striełoka jest wzmianka o tym, że składniki cudownego artefaktu "Żywe Serce" mogą znać handlarze. Trzeba spróbować popytać u Barmana, Sacharowa i Sidorowicza. Potem porozmawiać z Doktorem.</pln>
@@ -7043,14 +6963,16 @@
 		<ukr>Сидорович нічого не дає задарма.. Він згоден обміняти наявну в нього інформацію про "Живе серце" на контейнер з артефактом, який був загублений на Радарі. Сталкера, який ніс цей контейнер, вбили монолітівці, тому варто обшукати їхні стоянки.</ukr>
 		<pln>Sidorowicz niczego nie daje darmo.. Zgodził się wymienić posiadaną informację o "Żywym Sercu" na kontener z artefaktem, który zagubiono na Radarze. Stalker, przenoszący ten kontener został zabity przez monolitowców, dlatego trzeba przeszukać ich posterunki.</pln>
 	</string>
+	<!-- !!!! Удалить для НИ -->
 	<string id="tex_life_heart_barman">
 		<rus>Бармен может сообщить ингредиент рецепта чудо-артефакта "Живое сердце", но ему нужно узнать судьбу учёного, который пропал вместе с собранными данными в Припяти. Есть вероятность, что он находится в плену у монолитовцев.</rus>
 		<eng>Barkeep may tell what one of the ingredients of the recipe for miraculous "Living Heart" artifact is, but he needs to know what's become of a scientist who's gone missing in Pripyat with the collected data. There is a probability that he is held captive by Monolithians.</eng>
 		<ukr>Бармен може повідомити інгредієнт рецепта чудоартефакта "Живе серце", але йому потрібно знати про долю вченого, який зник разом із зібраними даними в Прип'яті. Існує ймовірність, що він знаходиться в полоні у монолітівців.</ukr>
 		<pln>Barman może wyjawić składnik recepty cudownego artefaktu "Żywe Serce", ale chce poznać losy naukowca, który przepadł razem z zebranymi danymi w Prypeci. Istnieje możliwość że naukowca wzięli do niewoli monolitowcy.</pln>
 	</string>
+	<!-- Удалить энд -->
 	<string id="tex_strelok_pda">
-		<rus>У Доктора есть информация, что Стрелок знал о способе получения чудо-артефакта "Живое сердце". Эта информация должна быть в ПДА Стрелка. ПДА, возможно, остался в Саркофаге, где-то возле знаменитого "Монолита", но информация может быть неточная.</rus>
+		<rus>У Доктора есть информация, что Стрелок знал о способе получения чудо-артефакта "Живое сердце". Эта информация должна быть в КПК Стрелка. КПК, возможно, остался в Саркофаге, где-то возле знаменитого "Монолита", но информация может быть неточная.</rus>
 		<eng>Doctor has an info that Strelok knew about the way to produce "Living Heart". This info's got to be in his PDA. The PDA was probably left in Sarcophagus, somewhere not far from the famous "Monolith", but this information may be incorrect.</eng>
 		<ukr>У Доктора є інформація, що Стрілець знав про спосіб отримання чудоартефакта "Живе серце". Ця інформація повинна бути в КПК Cтрільця. КПК можливо залишився в Саркофагу, десь біля знаменитого "Моноліту", але інформація може бути неточна.</ukr>
 		<pln>Doktor ma informację, że "tamten" Striełok znał sposób otrzymania cudownego artefaktu "Żywe Serce". Ta informacja powinna być w PDA Striełoka. PDA prawdopodobnie pozostało w Sarkofagu, gdzieś koło słynnego Monolitu, ale ta informacja może być nieaktualna.</pln>
@@ -7279,7 +7201,7 @@
 		<pln>===Informator. Posuwamy się dalej</pln>
 	</string>
 	<string id="informator_about_klik_text">
-		<rus>Между различными кланами наёмников есть существенные разногласия, которые приводят к серьёзным столкновениям. Пришлось добыть для Осведомителя ПДА главы наёмников Тирана из лап отколовшейся группы наймов. Взамен он договорился о моей встрече с каким-то Гавром. Куда меня заведёт моё расследование дальше - пока совсем не понятно.</rus>
+		<rus>Между различными кланами наёмников есть существенные разногласия, которые приводят к серьёзным столкновениям. Пришлось добыть для Осведомителя КПК главы наёмников Тирана из лап отколовшейся группы наймов. Взамен он договорился о моей встрече с каким-то Гавром. Куда меня заведёт моё расследование дальше - пока совсем не понятно.</rus>
 		<eng>===There are substantial differences between various mercenary clans, which lead to serious clashes. I had to get for Informer the PDA of the head of the mercs Tiran, had to steal it from a breakaway mercenary group. In exchange, he arranged for me to meet with some Havre. Where my investigation will lead me further on is not yet clear.</eng>
 		<ukr>Між різними кланами найманців є істотні розбіжності, які призводять до серйозних зіткнень. Для Інформатора довелося добути з лап групи наймів, які відкололися, КПК голови найманців Тирана. В подяку він домовився про мою зустріч з якимось Гавром. Куди мене заведе моє розслідування далі - поки зовсім не зрозуміло.</ukr>
 		<pln>===Między różnymi klanami najemników są znaczne rozbieżności, które prowadzą do poważnych konfliktów. Musiałem odzyskać z rąk uciekającej grupy najemników PDA dowódcy najemników Tyrana. W zamian Informator zorganizował mi spotkanie z jakimś Gawrem. Gdzie mnie zaprowadzi to dochodzenie - na razie nie bardzo wiadomo.</pln>
@@ -7415,7 +7337,7 @@ Ta szwajcarska zabawka dobra była na odległość, ale od stada psów mogłem t
 		<pln>Notatka Sowy, adresowana do Ducha</pln>
 	</string>
 	<string id="voen_about_group_text">
-		<rus>Я остался один, задание провалено... Эти записи - единственное, что удерживает мою личность от дальнейшего распада... Память - как решето, но, записывая и перечитывая эти строки, я надеюсь удержаться в сознании и добраться до своих. Главное - дойти, а уж там, под гипнодопросом, я расскажу всё. Надеюсь...  Обычная миссия конвоирования, как сказано в вводной. «Отработка боевых действий в условиях переменной напряжённости пси-полей, тестирование аппаратно-фармацевтического комплекса ментальной защиты», что-то там ещё... Складно поют научники... Хотя, по выправке было видно, двое из них явно наши, армейские... Что там им потребовалось, я не знаю... Вероятно, не убрали за собой в прошлый раз... Не зря говорят, псих с пулемётом не так опасен, как какой-нибудь идеалист в очках и белом халате... Шли в странном темпе, частые остановки... Для замеров, как они говорили... График изменения напряжённости пси-поля заставили выучить наизусть... Шлем тяжеленный, голова гудит, шея гнётся на бок... Тут ещё инъекторы эти, колют каждые два часа... Впрочем, пси-защита не плохая... Забрались далеко, со зрением что-то творится, красок совсем нет, всё жёлтое, зомби шляются... Ну да нам не привыкать, раскатали их... В передовом охранении шла пятёрка Сармата... Снайпера хорошие. Были... Атака контролёра совпала с включением излучателей... Вне графика включились, видать, кто-то там эту шарманку вручную крутит... Захватил он их... Меня хорошо приложили, по касательной в голову... Шлем выдержал, а вот вся электроника - в хлам, да и сотрясение мозга заработал... Очнулся к вечеру, в живых - один Сармат с пустым «Винторезом» кругами вокруг контролёра ходит... Положил я их, обоих... И от сотрясения мозга польза бывает... Наши все полегли... Учёные тоже... Контролёр их между собой стравил... Вторые сутки выбираюсь к своим, голова болит, тошнота наизнанку выворачивает... в аптечке что-то осталось, помогает на пару часов... Тогда сажусь, вспоминаю и записываю... Потом - снова мрак... На Свалке встретил сталкера... Плохо помню, он раненый вроде был... Шуганул бандюка в развалинах, видать это он сталкера зацепил... Странный какой-то, лежал, а потом стволом размахивать начал - стреляться задумал что ли? Дал по шее, чтоб не дурил... Оставил ему рюкзак свой, бинты, часть аптечки, водку и весь харч - не до еды мне... Договорились, что он, когда отлежится, мой ПДА нашим на блокпост отнесёт, там маршрут отмечен и копия дневника... Боюсь, не дойти мне... надо дойти... любой ценой... Сармат, прости...\n \n \n \n \n</rus>
+		<rus>Я остался один, задание провалено... Эти записи - единственное, что удерживает мою личность от дальнейшего распада... Память - как решето, но, записывая и перечитывая эти строки, я надеюсь удержаться в сознании и добраться до своих. Главное - дойти, а уж там, под гипнодопросом, я расскажу всё. Надеюсь...  Обычная миссия конвоирования, как сказано в вводной. «Отработка боевых действий в условиях переменной напряжённости пси-полей, тестирование аппаратно-фармацевтического комплекса ментальной защиты», что-то там ещё... Складно поют научники... Хотя, по выправке было видно, двое из них явно наши, армейские... Что там им потребовалось, я не знаю... Вероятно, не убрали за собой в прошлый раз... Не зря говорят, псих с пулемётом не так опасен, как какой-нибудь идеалист в очках и белом халате... Шли в странном темпе, частые остановки... Для замеров, как они говорили... График изменения напряжённости пси-поля заставили выучить наизусть... Шлем тяжеленный, голова гудит, шея гнётся на бок... Тут ещё инъекторы эти, колют каждые два часа... Впрочем, пси-защита не плохая... Забрались далеко, со зрением что-то творится, красок совсем нет, всё жёлтое, зомби шляются... Ну да нам не привыкать, раскатали их... В передовом охранении шла пятёрка Сармата... Снайпера хорошие. Были... Атака контролёра совпала с включением излучателей... Вне графика включились, видать, кто-то там эту шарманку вручную крутит... Захватил он их... Меня хорошо приложили, по касательной в голову... Шлем выдержал, а вот вся электроника - в хлам, да и сотрясение мозга заработал... Очнулся к вечеру, в живых - один Сармат с пустым «Винторезом» кругами вокруг контролёра ходит... Положил я их, обоих... И от сотрясения мозга польза бывает... Наши все полегли... Учёные тоже... Контролёр их между собой стравил... Вторые сутки выбираюсь к своим, голова болит, тошнота наизнанку выворачивает... в аптечке что-то осталось, помогает на пару часов... Тогда сажусь, вспоминаю и записываю... Потом - снова мрак... На Свалке встретил сталкера... Плохо помню, он раненый вроде был... Шуганул бандюка в развалинах, видать это он сталкера зацепил... Странный какой-то, лежал, а потом стволом размахивать начал - стреляться задумал что ли? Дал по шее, чтоб не дурил... Оставил ему рюкзак свой, бинты, часть аптечки, водку и весь харч - не до еды мне... Договорились, что он, когда отлежится, мой КПК нашим на блокпост отнесёт, там маршрут отмечен и копия дневника... Боюсь, не дойти мне... надо дойти... любой ценой... Сармат, прости...\n \n \n \n \n</rus>
 		<eng>I was left alone, the mission failed... These records are the only thing that keeps my personality from further decay... Memory is like a sieve, but, by writing down and re-reading these lines, I hope to stay conscious and get to my own. The most important thing for me now is to get to them, and there, under hypnosis, I'll tell everything. I hope I will... The usual escort mission, as stated in the introductory part. “Developing combat skills in conditions of variable intensity psi-fields, testing the instrument-based pharmacological mental protection system” and something else... Some sweet melody of the scientists... Although, it was obvious from the bearing that two of them were our people, the military... I don’t know what they needed there... Probably, they didn’t do a good job mopping up after themselves the last time... It's not said in vain, a psycho with a machine gun is not as dangerous as some idealist with glasses and a white coat... They were going at a strange pace, stopping frequently... To take measurements, they said... They made me memorize a graph of psi-field intensity change... The helmet is heavy, the head is buzzing, the neck bends on its side... There were also these injectors, giving us injections every two hours... However, the psi-defense thus provided wasn't bad... We got fairly far, something was wrong with the sight, there were colors at all, everything was yellow, zombies hanging around... Well, we were used to them, wiped them out... A group of five headed by Sarmat led the vanguard... They were good snipers. They were until... Controller's attack coincided with the turning on of the emitters... Turned on off schedule, apparently, someone does this manually sometimes... It captured them... I was hit quite badly, the head grazed with the bullet... The helmet didn't fail, but all the electronics was wasted, and I got concussion... I woke up in the evening, only Sarmat was alive circling around the controller with the empty Vintorez in his hands... I took out both of them... Sometimes concussion is useful... All of our men were dead... The scientists too... The controller had set them against each other... For two days have I been trying to get to our people, my head hurts, the nausia made my stomach turn over... what little I'd had left in the first-aid kit kept helping me for a short time only... At those times I'd sit down, remember something and write it down... Then darkness would fall again... I met a stalker at the Dump... I don't remember clearly, it seemed to me he was wounded... I spooked some bandit in the ruins, apparrently it was he who shot that stalker... The stalker was weird, he was lying there still and then he began brandishing his gun - was he about to shoot at me? I hit him hard to stop him from committing any more stupidities... I left him his backpack, some bandages, part of the first-aid kit, vodka and all the grub I had: I couldn't eat anyway... Made a deal with him that once he recovered a bit, he'd take my PDA to our men at the checkpoint, there was my route marked on it and a copy of my diary... I'm afraid I won't be able to get there... I have to get there... no matter the cost... Forgive me, Sarmat...\n \n \n \n \n</eng>
 		<ukr>Я залишився один, завдання провалено... Ці записи - єдине, що утримує мою особистість від подальшого розпаду... Пам'ять - як решето, але, записуючи і перечитуючи ці рядки, я сподіваюся утриматися у свідомості і дістатися до своїх. Головне - дійти, а вже там, під гіпнодопитом, я розповім все. Сподіваюся... Звичайна місія конвоювання, як сказано у вступній. «Відпрацювання бойових дій в умовах змінної напруженості псі-полів, тестування апаратно-фармацевтичного комплексу ментального захисту», щось там ще... Складно співають науковці... Хоча, по поставі було видно, двоє з них явно наші, армійські... Що там їм знадобилося, я не знаю... Ймовірно, не прибрали за собою в минулий раз... Не дарма кажуть, псих з кулеметом не так небезпечний, як який-небудь ідеаліст в окулярах і білому халаті... Йшли в дивному темпі, часті зупинки... Для замірів, як вони говорили... Графік зміни напруженості псі-поля змусили вивчити напам'ять... Шолом важкенний, голова гуде, шия гнеться на бік... Тут ще ін'єктори ці, колють кожні дві години... Втім, псі-захист не поганий... Забрались далеко, із зором щось твориться, фарб зовсім немає, все жовте, зомбі вештаються... Ну так нам не звикати, розкатали їх... У передовій охороні йшла п'ятірка Сармата... Снайпери хороші. Були... Атака контролера збіглася з включенням випромінювачів... Поза графіком ввімкнулися, видно, хтось там цю шарманку вручну крутить... Захопив він їх... Мене добре приклали, по дотичній в голову... Шолом витримав, а от вся електроніка - в мотлох, та й струс мозку заробив... Отямився ввечорі, в живих - один Сармат з порожнім «Гвинторізом» колами навколо контролера ходить... Поклав я їх, обох... І від струсу мозку користь буває... Наші всі полягли... Вчені теж... Контролер їх між собою стравив... Другу добу вибираюся до своїх, голова болить, нудота навиворіт вивертає... в аптечці щось залишилося, допомагає на пару годин... Тоді сідаю, згадую і записую... Потім - знову морок... на Звалищі зустрів сталкера... Погано пам'ятаю, він поранений начебто був... шугонув бандюка в руїнах, видно це він сталкера зачепив... Дивний якийсь, лежав, а потім стволом розмахувати почав - стрілятися задумав чи що? Дав по шиї, щоб не дурив... Залишив йому рюкзак свій, бинти, частину аптечки, горілку і весь харч - не до їжі мені... Домовилися, що він, коли відлежиться, мій КПК нашим на блок-пост віднесе, там маршрут відзначений і копія щоденника... Боюся, не дійти мені... треба дійти... за будь-яку ціну... Сармате, вибач...\n \n \n \n \n</ukr>
 		<pln>Zostałem sam, zadanie nie wypełnione... Te notatki – to jedyne, co powstrzymuje moją osobowość przed dalszym rozpadem... Pamięć jak sito, ale zapisując i czytając później te słowa, mam nadzieję zachować świadomość i dotrzeć do swoich. Najważniejsze - dojść, a tam już, pod hipnozą, opowiem wszystko. Mam nadzieję... To miała być zwyczajna misja konwojowa, jak powiedziano we wprowadzeniu. "Ćwiczenie działań bojowych w warunkach zmiennego natężenia pola psionicznego, testowanie sprzętowo-farmaceutycznego kompleksu ochrony mentalnej", czy co tam jeszcze...  Gładko śpiewają naukowcy... Chociaż po wyposażeniu było widać, że dwóch z nich to nasi, wojskowi... Co im tam było potrzebne, nie wiem... Pewnie nie sprzątnęli po sobie ostatnim razem... Nie bez powodu mówią, że psychol z automatem jest mniej groźny, niż jakikolwiek idealista w okularach i białym fartuchu. Szliśmy w dziwnym tempie, z częstymi postojami... Na pomiary, jak mówili... Grafik zmian natężenia pola psionicznego kazali wykuć na blachę... Hełm ciąży, w głowie huczy, szyja wygina się na boki...  A jeszcze te strzykawki, kłują co każde dwie godziny... Jednak ochrona psioniczna niezła... Zaszliśmy daleko, ze wzrokiem coś się wyprawia, kolorów wcale nie ma, wszystko żółte, zombie się włóczą... Ale to dla nas nie nowina, rozsiekliśmy ich...   W przedniej straży szła piątka Sarmaty... Dobrzy snajperzy. Szlag... Atak kontrolera zbiegł się z włączeniem emiterów... Włączyły się poza rozkładem, widocznie ktoś tam tą szlifierką ręcznie kręci... Dopadł ich... Mnie też nieźle przyłożył, po stycznej do głowy... Hełm wytrzymał, ale cała elektronika - złom,  i jeszcze lekki wstrząs mózgu zarobiłem. Ocknąłem się pod wieczór, żywy - tylko Sarmata z pustym karabinem wokół kontrolera chodzi... Położyłem ich, obydwu... I od wstrząsu mózgu korzyść bywa... Nasi wszyscy polegli... Uczeni też... Kontroler ich na siebie nawzajem napuścił... Drugą dobę idę do swoich, głowa boli, duszność płuca na lewą stronę wywraca... W apteczce coś tam jeszcze zostało, na parę godzin pomaga... Wtedy siadam, wspominam i zapisuję... Potem - znowu mrok... Na Wysypisku stalkera spotkałem... Kiepsko pamiętam, jakby był ranny...  Natknąłem się na bandytę w gruzach, pewnie to on stalkera zahaczył... Dziwny jakiś, leżał, a potem bronią wymachiwać zaczął - strzelać chciał czy co? Dałem po szyi, żeby się nie wygłupiał... Zostawiłem mu swój plecak, bandaże, część apteczki, wódkę i cały prowiant - nie do jedzenia mi teraz... Umówiliśmy się, że jak dojdzie do siebie, odniesie moje PDA do naszych, na posterunek, w nim kopia dziennika i marszruta zaznaczona... Boję się, że nie dojdę... trzeba dojść... za każdą cenę... Sarmata, przebacz...\n \n \n \n \n</pln>
@@ -7433,31 +7355,31 @@ Ta szwajcarska zabawka dobra była na odległość, ale od stada psów mogłem t
 		<pln>Poszukiwania zaginionej grupy naukowej</pln>
 	</string>
 	<string id="bandranen_about_group_text">
-		<rus>Вчера, как всегда, мы с корешом сидели в засаде, я притворялся раненым. Никого не было, скучно, постреляли местных псов. Вмазали по стаканчику, думали уже всё, облом на сегодня, как вдруг заметили вояку. Этот погонник пёр со стороны Долины. Обычно с вояками стараемся не связываться, хабара у них с собой нет, а вооружены неплохо. Но этот еле ковылял. Видно, был ранен, мотало его здорово. Сначала он шёл в мою сторону, но потом, по видимому, заметил кореша моего. Сука, сколько раз ему говорил, не высовывайся раньше времени. Вот и получил маслину в плечо, хорошо ещё, живой остался. Чёрт, хорошо их там готовят - я волыну не успел достать, а уж он мне врезал. Держись, говорит, сталкер, не хрен стреляться из-за мелочи, не время нам умирать. Ну, я роль играл до конца, развёл лоха на хабар, без стрельбы обошлось. Он мне даже компьютер отдал, отнеси, говорит, туда-то, скажешь, лейтенант такой-то прислал. Ага, ищи дураков. Не, ну как ребёнок прямо. Я даже в спину ему стрелять постеснялся. Ушёл он, я кореша своего с карниза еле стащил, перевязал да по шее врезал. По делу, без обид, есть за что. Раздербанили мы хабар на двоих, водка там, консервы. Не успели... Явился, сволочь... Смотрящий от Борова, сука... Забрал ПДА воякин, половину хабара нашего и двинул на Агропром. Вот кому бы я с удовольствием в спину пальнул...</rus>
+		<rus>Вчера, как всегда, мы с корешом сидели в засаде, я притворялся раненым. Никого не было, скучно, постреляли местных псов. Вмазали по стаканчику, думали уже всё, облом на сегодня, как вдруг заметили вояку. Этот погонник пёр со стороны Долины. Обычно с вояками стараемся не связываться, хабара у них с собой нет, а вооружены неплохо. Но этот еле ковылял. Видно, был ранен, мотало его здорово. Сначала он шёл в мою сторону, но потом, по видимому, заметил кореша моего. Сука, сколько раз ему говорил, не высовывайся раньше времени. Вот и получил маслину в плечо, хорошо ещё, живой остался. Чёрт, хорошо их там готовят - я волыну не успел достать, а уж он мне врезал. Держись, говорит, сталкер, не хрен стреляться из-за мелочи, не время нам умирать. Ну, я роль играл до конца, развёл лоха на хабар, без стрельбы обошлось. Он мне даже компьютер отдал, отнеси, говорит, туда-то, скажешь, лейтенант такой-то прислал. Ага, ищи дураков. Не, ну как ребёнок прямо. Я даже в спину ему стрелять постеснялся. Ушёл он, я кореша своего с карниза еле стащил, перевязал да по шее врезал. По делу, без обид, есть за что. Раздербанили мы хабар на двоих, водка там, консервы. Не успели... Явился, сволочь... Смотрящий от Борова, сука... Забрал КПК воякин, половину хабара нашего и двинул на Агропром. Вот кому бы я с удовольствием в спину пальнул...</rus>
 		<eng>Yesterday, as always, I was sitting in an ambush with my bud, playing wounded. There was no one around, it was boring, so, we shot some local dogs. As we knocked back a few, we thought all we'd get before the end of the day, would be bummer, but suddenly we noticed some military. This brass was coming from the direction of the Valley. Usually we avoid messing with the military, they don’t have any loot on them and are armed well. But that one was barely walking. Apparently, he was wounded, cause he was staggering as if he was drunk. At first he was walking in my direction, but then he apparently noticed my bud. Crap, how many times I have told him not to show himself too early. So he got a bullet in his shoulder, good he stayed alive. Damn, they train them well there - I couldn't even draw the gun before he punched me. Hold on, stalker, he said, shooting each other over small stuff is not worth it, it's not time yet for us to die. Well, I played the role to the end, scammed that sucker out of his loot, managed without shooting. He even gave me his computer, take it there, he said, tell them lieutenant so-and-so sent you. He must have been kidding me. Or he was plain naive like a child. I couldn't even shoot him in the back. He left, then I barely dragged my bud off the ledge, bandaged up his wound and punched his neck. And deservedly so, so no offense, he did deserve it. We divided the loot between us, including vodka, canned food. We did not have time to hide it... That bastard showed up... Borov's underboss, that piece of shit... Took the military's PDA, half of our loot and went to Agroprom. That's whom I'd gladly shoot in the back...</eng>
 		<ukr>Вчора, як завжди, ми з корешами сиділи в засідці, я прикидався пораненим. Нікого не було, нудно, постріляли місцевих псів. Вмазали по стаканчику, думали вже все, облом на сьогодні, як раптом помітили вояку. Цей погонник пер з боку Долини, зазвичай з вояками намагаємося не зв'язуватися, хабара у них з собою немає, а озброєні непогано. Але цей ледве шкутильгав. Видно, був поранений, мотало його здорово. Спочатку він йшов в мою сторону, але потім, очевидно, зауважив кореша мого. Сука, скільки разів йому говорив, не висовуйся завчасно. Ось і отримав маслину в плече, добре ще, живий залишився. Чорт, добре їх там готують - я волину не встиг дістати, а вже він мені врізав. Тримайся, каже, сталкер, ніхрін стрілятися через дрібницю, не час нам вмирати. Ну, я роль грав до кінця, розвів лоха на хабар, без стрілянини обійшлося. Він мені навіть комп'ютер віддав, віднеси, каже, туди-то, скажеш, лейтенант такий-то надіслав. Ага, шукай дурнів. Ні, ну як дитина прямо. Я навіть в спину йому стріляти посоромився. Пішов він, я кореша свого з карниза ледве стягнув, перев'язав та по шиї врізав. По ділу, без образ, є за що. Роздеребанили ми хабар на двох, горілка там, консерви. Не встигли... З'явився, сволота... Смотрящий від Кабана, сука... Забрав КПК вояки, половину хабара нашого і посунув на Агропром. Ось кому б я з задоволенням у спину пальнув...</ukr>
 		<pln>Wczoraj, jak zwykle, siedzieliśmy z kumplem w zasadzce, ja udawałem rannego. Nikogo nie było, nuda, postrzelaliśmy do miejscowych psów. Wprowadziliśmy po szklaneczce, myśleliśmy, że to wszystko, koniec na dziś, aż tu nagle widzimy żołnierza. Paruje od strony Doliny. Normalnie, z wojskowymi staramy się nie zadzierać, towaru  żadnego nie targają, a uzbrojeni nieźle. Ale ten ledwo się wlókł. Musiał być ranny, zarzucało nim zdrowo. Z początku szedł w moją stronę, ale potem widocznie mojego koleżkę zobaczył. Mówiłem sukinsynowi tyle razy, nie wyłaź przed czasem. No i zaliczył pestkę w ramię, dobrze, że żywym został. Diabli, dobrze ich tam szkolą – nawet spluwy nie zdążyłem wyciągnąć, jak dostałem. Trzymaj się, mówi, stalkerze, nie ma co strzelać się o głupstwa, jeszcze nie czas nam umierać. No, ja swoją rolę grałem do końca, podpuściłem go na sprzęt, bez strzelania się obeszło. On mi jeszcze komputer oddał - odnieś, mówi, tu a tu, powiesz, że porucznik taki a taki przysłał. Aha, szukaj głupiego. Nie, no zupełnie jak małe dziecko. Ja nawet strzelić mu w plecy nie mogłem. Poszedł, a ja koleżkę swojego ledwo z gruzów zwlokłem, opatrzyłem i po ryju wytłukłem. Bez obrazy, wiedział za co. Rozdzieliliśmy towar na dwóch, wódka, konserwy. Nie zdążyliśmy... Wparował, swołocz jedna... Nadzorca od Borowa, sukinsyn... Zabrał PDA wojaka, połowę naszego towaru i zawinął się na Agroprom. Jemu to bym z przyjemnością w plecy...</pln>
 	</string>
 	<string id="bandranen_talk">
-		<rus>ПДА раненого бандита</rus>
+		<rus>КПК раненого бандита</rus>
 		<eng>PDA of a wounded bandit</eng>
 		<ukr>КПК пораненого бандита</ukr>
 		<pln>PDA rannego bandyty</pln>
 	</string>
 	<string id="fraer_about_group_text">
-		<rus>ЗАПИСЬ за вчерашний день. "Чёрт, вчера бухали весь день. Водка рано кончилась. Ну, я и пошёл к Борову, занять из общака. А эта сука наорала на меня. Сказал, чтобы я убрался с глаз долой. Ну, я и ушёл с базы. Решил пойти на Агропром, зачем? А черт знает, думал по дороге водкой разживусь. На Свалке встретил этих двух придурков. Вся Зона знает про эту засаду. Бывает, лохи залетают, ну так на то они и лохи. Что с них взять-то десяток патронов да пару консервов. Правда в этот раз им повезло. Точнее, мне... У этих идиотов был рюкзак с водкой, да и закусь. Подогрели они меня... Пойду с пацанами бухну. Не люблю один. Рюкзак отдал одной шавке, там ПДА был, сказал чтобы на базу отнёс. Черт, с пьяну-то не подумал, может информация интересная была. Ладно завтра найду его". Меченый: Где же я найду этого молокососа? Остаётся только поспрашивать кого-нибудь на Свалке. Может, кто из постоянных её обитателей сможет мне помочь.</rus>
+		<rus>ЗАПИСЬ за вчерашний день. "Чёрт, вчера бухали весь день. Водка рано кончилась. Ну, я и пошёл к Борову, занять из общака. А эта сука наорала на меня. Сказал, чтобы я убрался с глаз долой. Ну, я и ушёл с базы. Решил пойти на Агропром, зачем? А черт знает, думал по дороге водкой разживусь. На Свалке встретил этих двух придурков. Вся Зона знает про эту засаду. Бывает, лохи залетают, ну так на то они и лохи. Что с них взять-то десяток патронов да пару консервов. Правда в этот раз им повезло. Точнее, мне... У этих идиотов был рюкзак с водкой, да и закусь. Подогрели они меня... Пойду с пацанами бухну. Не люблю один. Рюкзак отдал одной шавке, там КПК был, сказал чтобы на базу отнёс. Черт, с пьяну-то не подумал, может информация интересная была. Ладно завтра найду его". Меченый: Где же я найду этого молокососа? Остаётся только поспрашивать кого-нибудь на Свалке. Может, кто из постоянных её обитателей сможет мне помочь.</rus>
 		<eng>Entry for yesterday. "Damn, we were drinking all day yesterday. Ran out of vodka too early. So, I went to Borov, to borrow from the common fund. And this bitch yelled at me. Told me to get out of sight. I decided to go to Agroprom. Why? God knows why, I thought I’d get some vodka on the way. I met those two assholes at the Dump. Everyone in the Zone knows about this ambush. Sometimes some shims get fooled by that but that's why they're called shims, after all. What can one get from them? A dozen of ammo rounds and a couple of canned food. But this time they were lucky. Or rather it was me who got lucky... Those idiots had a backpack full of vodka and some snacks. Gave me something to warm myself with... I'll go get drunk with the boys. I don’t like to drink alone. Gave the backpack to one of the minions, there was a PDA in it, I told him to take it to the base. Damn it, drunk, I haven't thought, maybe there's been some interesting info on it. Never mind, I'll find him tomorrow". Marked One: Where can I find this sucker? It only remains to ask some people at the Dump. Maybe one of its permanent inhabitants will be able to help me.</eng>
 		<ukr>ЗАПИС за вчорашній день. "Чорт, вчора бухали весь день. Горілка рано скінчилася. Ну, я й пішов до Кабана, зайняти з общака. А ця сука накричав на мене. Сказав, щоб я забрався геть з очей. Ну, я й пішов з бази. Вирішив піти на Агропром, навіщо? А біс його знає, думав по дорозі горілкою розживуся. На звалищі зустрів цих двох придурків. Мля, вся Зона знає про цю засідку. Буває, лохи залітають, ну так на те вони і лохи. Що ж з них взяти, десяток патронів та пару консерв. Щоправда цього разу їм пощастило. Точніше, мені... У цих ідіотів був рюкзак з горілкою, та й закуска. Підігріли вони мене... Піду з пацанами бухнемо. Не люблю один. Рюкзак віддав одній шавці, там КПК був, сказав щоб на базу відніс. Чорт, з п'яну ж не подумав, може інформація цікава була. Гаразд завтра знайду його". Мічений: Де ж я знайду цього молокососа? Залишається тільки попитати кого-небудь на Звалищі. Може, хто з його постійних мешканців зможе мені допомогти.</ukr>
 		<pln>ZAPIS z dnia wczorajszego.  "Szlag, wczoraj chlaliśmy cały dzień. Wódka się szybko skończyła. No, to poszedłem do Borowa, wziąć z ogólnego. A ten sukinsyn na mnie z ryjem. Powiedział, żebym ludziom z oczu zszedł. No to, pomyślałem, pójdę na Agroprom. Po co? A diabli wiedzą, myślałem, że gdzieś po drodze gorzałę znajdę. Na Wysypisku spotkałem tych dwóch palantów. Heh, cała Zona zna ten numer z zasadzką. Czasem jakiś naiwniak wpadnie, ale od tego są naiwniacy. A co z nich można mieć - tuzin nabojów, albo parę konserw. Ale tym razem im się poszczęściło. A właściwie to mnie... Ci idioci mieli plecak z wódką, a i zakąska też była. Rozgrzali mnie... Pójdę z chłopaczkami chlapnąć. Sam nie lubię. Plecak oddałem jednemu szczeniakowi, tam było PDA, kazałem odnieść na bazę. Cholera, po pijanemu nawet nie pomyślałem, może tam jakaś ciekawa informacja była. Dobra, jutro go znajdę". Naznaczony: Gdzież ja znajdę tego młodziaka? Zostaje tylko popytać na Wysypisku. Może któryś ze stałych bywalców będzie mógł mi pomóc.</pln>
 	</string>
 	<string id="fraer_talk">
-		<rus>ПДА Фраера</rus>
+		<rus>КПК Фраера</rus>
 		<eng>Friar's PDA</eng>
 		<ukr>КПК Фраєра</ukr>
 		<pln>PDA Frajera</pln>
 	</string>
 	<string id="prapor_about_group_text">
-		<rus>Так, я нашёл ПДА вояки с Кордона. Долговцы поймали этого бандита, которому Фраер передал рюкзак. Остаётся только найти десяток научных аптечек.</rus>
+		<rus>Так, я нашёл КПК вояки с Кордона. Долговцы поймали этого бандита, которому Фраер передал рюкзак. Остаётся только найти десяток научных аптечек.</rus>
 		<eng>So, I found the PDA of the military from Cordon. Duty men have caught this gangster, to whom Friar gave the backpack. It only remains to get ten scientific first-aid kits.</eng>
 		<ukr>Так, я знайшов КПК вояки з Кордону. Долгівці зловили цього бандита, якому Фраєр передав рюкзак. Залишається тільки знайти десяток наукових аптечок.</ukr>
 		<pln>Tak, znalazłem PDA żołnierza z Kordonu. Powinnościowcy złapali tego bandytę, któremu Frajer przekazał plecak, pozostaje tylko znaleźć dziesięć apteczek naukowców.</pln>
@@ -7469,7 +7391,7 @@ Ta szwajcarska zabawka dobra była na odległość, ale od stada psów mogłem t
 		<pln>Pierwsza rozmowa z Praporem</pln>
 	</string>
 	<string id="prapor_about_group2_text">
-		<rus>Принёс Прапору десять аптечек научных. Он отдал мне ПДА. Да уж, десять жёлтеньких за разбитый девайс. Пойду к Бармену что ли схожу, найдёт может кого, кто сможет мне его отремонтировать.</rus>
+		<rus>Принёс Прапору десять аптечек научных. Он отдал мне КПК. Да уж, десять жёлтеньких за разбитый девайс. Пойду к Бармену что ли схожу, найдёт может кого, кто сможет мне его отремонтировать.</rus>
 		<eng>Brought ten scientific first-aid kits to Prapor. He gave me the PDA. Yeah, ten yellow ones for an apparently broken device. Perhaps, I'm going to go to Barkeep, maybe he'll find someone who can repair it for me.</eng>
 		<ukr>Приніс прапору 10 аптечок наукових. Він віддав мені КПК. От же ж, 10 жовтеньких за розбитий девайс. Сходжу но до Бармена, знайде може кого, хто зможе мені його відремонтувати.</ukr>
 		<pln>Przyniosłem Praporowi 10 apteczek naukowców. On oddał mi PDA. Cholera, 10 żółciutkich za rozwalone urządzenie. Pójdę chyba do Barmana, może znajdzie kogoś, kto będzie umiał to naprawić.</pln>
@@ -7511,7 +7433,7 @@ Ta szwajcarska zabawka dobra była na odległość, ale od stada psów mogłem t
 		<pln>Wiadomość data... numer : Nasz człowiek u uczonych przekazał, że jakaś grupa wyruszyła na ekspedycję. Dokąd, nie powiedział, więc zalegliśmy na Rostoku, niedaleko od tunelu. Czekaliśmy niedługo, pod wieczór pojawił się pierwszy oddział wojska, a za nim główna grupa. Jean radził atakować, miejsce dobre, wąskie, wygodne dla nas. Ale, biorąc pod uwagę różnicę sił: tam 15-20 żołnierzy, nie mniej, a nas wszystkiego pięciu, nakazałem tylko ich śledzić. Szliśmy za nimi aż do samego lasu na Radarze, no a dalej... Dalej nie było sensu iść. Wkrótce miała się zacząć emisja, a i Mózgozwęglacz blisko. Zdecydowałem się wrócic na Magazyny i tam na nich czekać, chociaż nadziei na to, że wrócą, właściwie nie miałem. Ja bym za żadne pieniądze tam nie poszedł, droższa mi moja głowa. Ale ci uczeni... Jest tam coś, dla nich bardzo ważne. Przeczekaliśmy emisję, na Magazynach poczekaliśmy jeszcze parę dni i zdecydowaliśmy się wracać. Tym bardziej, że Jeana i jeszcze jednego postrzelili stalkerzy. Jean - wyrywny kretyn, nie umie czekać, porwał się na obóz stalkerów. Załatwił dwóch, a trzeci, sprytny, sukinsyn się okazał, załatwił i Jeana i jeszcze jednego (jak mu było? Fiedia chyba). Nawet nie starałem się wyjaśniać, i tak kilka dni straciliśmy przez tą cholerną grupę uczonych.</pln>
 	</string>
 	<string id="siv_talk">
-		<rus>ПДА наёмника Сивого</rus>
+		<rus>КПК наёмника Сивого</rus>
 		<eng>PDA of the mercenary Ash</eng>
 		<ukr>КПК найманця Сивого</ukr>
 		<pln>PDA Siwego</pln>
@@ -7687,13 +7609,13 @@ Ta szwajcarska zabawka dobra była na odległość, ale od stada psów mogłem t
 		<pln>Według Zimnego, na Agropromie pojawił się unikalny - "czerwony pseudogigant". Prosi cię o "zaznaczenie" tego zwierza przy pomocy przerobionego igłowca, strzelającego igłami zakończonymi mikronadajnikami. W żadnym przypadku nie należy zabijać "czerwonego pseudogiganta".</pln>
 	</string>
 	<string id="pda_francuz_desc">
-		<rus>ПДА посредника. Обычный личный ПДА, который есть у многих сталкеров.</rus>
+		<rus>КПК посредника. Обычный личный КПК, который есть у многих сталкеров.</rus>
 		<eng>Intermediary's PDA. A usual personal PDA that many stalkers have.</eng>
 		<ukr>КПК посередника, звичайний особистий КПК, який є у багатьох сталкерів.</ukr>
 		<pln>PDA pośrednika. Zwykłe PDA jakie posiada wielu stalkerów.</pln>
 	</string>
 	<string id="pda_francuz">
-		<rus>ПДА Француза</rus>
+		<rus>КПК Француза</rus>
 		<eng>Frenchman's PDA</eng>
 		<ukr>КПК Француза</ukr>
 		<pln>PDA Francuza</pln>

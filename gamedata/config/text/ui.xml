@@ -3881,7 +3881,7 @@
 		<pln>Obrzeża fabryki "Rostok", zanim zjawiła się tu "Powinność". Na tym zniszczonym terenie znaleźć można mnóstwo artefaktów.</pln>
 	</string>
 	<string id="item_timer">
-		<rus>Электронные часы, переделанные умельцами Зоны. Специфика разработки заключается в возможности сего приспособления отсчитывать время до Выброса и заблаговременно предупреждать владельца о такой опасности как сигналом на циферблате, так и звуком. Снабжены таймером и секундомером. Кроме того - удобная в обращении вещь - не надо ползти в ПДА, чтобы посмотреть время. Легки в настройке.</rus>
+		<rus>Электронные часы, переделанные умельцами Зоны. Специфика разработки заключается в возможности сего приспособления отсчитывать время до Выброса и заблаговременно предупреждать владельца о такой опасности как сигналом на циферблате, так и звуком. Снабжены таймером и секундомером. Кроме того - удобная в обращении вещь - не надо ползти в КПК, чтобы посмотреть время. Легки в настройке.</rus>
 		<eng>Electronic watch readjusted by Zone handy men. The specifics of this item is the ability of this device to count the time to the Emission and provide early warning of the owner of such hazards by a signal on the dial, and by sound. Equipped with a timer, and a stopwatch. In addition - a user-friendly thing - do not have to crawl on the PDA to view the time. Easy to set up.</eng>
 		<ukr>Електронний годинник, перероблений умільцями Зони. Специфіка розробки полягає в можливості цього пристосування відраховувати час до викиду і завчасно попереджати власника про таку небезпеку як сигналом на циферблаті, так і звуком. Забезпечений таймером і секундоміром. Крім того - зручна в обігу річ - не треба повзти у КПК, щоб подивитися час. Легкий в налаштуванні.</ukr>
 		<fra>Horloge électronique, reconvertie par les artisans de la zone. La spécificité du développement réside dans la possibilité pour cet appareil de compter le temps qui précède l'arrivée d'une émission et d’avertir à l’avance son propriétaire du danger, tant par le signal sur le cadran que par le son. Elle est équipée d'une minuterie et d'un chronomètre. De plus, c’est pratique, vous n’avez pas besoin de ramper vers le PDA pour voir l’heure. Facile à mettre en place.</fra>
@@ -5546,11 +5546,11 @@
 		<pln>===Распаковать одну пачку</pln>
 	</string>
 	<string id="ui_detonator_critical">
-		<rus>Внимание! Детонатор в критическом состоянии!</rus>
-		<eng>Attention! The detonator is in critical condition!</eng>
-		<ukr>Увага! Детонатор у критичному стані!</ukr>
-		<fra>Attention! Le détonateur est dans un état critique!</fra>
-		<pln>Uwaga! Detonator jest w stanie krytycznym!</pln>
+		<rus>Внимание! У детонатора низкий заряд батареи!</rus>
+		<eng>===Attention! The detonator is in critical condition!</eng>
+		<ukr>===Увага! Детонатор у критичному стані!</ukr>
+		<fra>===Attention! Le détonateur est dans un état critique!</fra>
+		<pln>===Uwaga! Detonator jest w stanie krytycznym!</pln>
 	</string>	
 	<string id="ui_mm_qsp_anim_time">
 		<rus>Время анимации активации слота</rus>
@@ -5568,13 +5568,27 @@
 		<rus>Цель в фокусе</rus>
 		<ukr>Ціль у фокусі</ukr>
 	</string>
+	<string id="ui_hud_health_system_off">
+		<rus>Система жизненной поддержки деактивирована</rus>
+		<ukr>Систему життєвої підтримки деактивовано</ukr>
+		<eng>Life support system deactivated</eng>
+		<fra>Système de survie désactivé</fra>
+		<pln>System podtrzymywania życia wyłączony</pln>
+	</string>
+	<string id="ui_hud_health_system_on">
+		<rus>Система жизненной поддержки активирована</rus>
+		<ukr>Систему життєвої підтримки активовано</ukr>
+		<eng>Life support system activated</eng>
+		<fra>Système de survie activé</fra>
+		<pln>Aktywowano system podtrzymywania życia</pln>
+	</string>	
 	<string id="ui_hud_inviz_on">
 		<rus>Невидимость активирована</rus>
 		<ukr>Невидимість активована</ukr>
 		<eng>Invisibility activated</eng>
 		<fra>Invisibilité activée</fra>
 		<pln>Aktywowano niewidzialność</pln>
-	</string>	
+	</string>
 	<string id="ui_hud_inviz_off">
 		<rus>Невидимость деактивирована</rus>
 		<ukr>Невидимість деактивована</ukr>

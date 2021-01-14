@@ -348,7 +348,7 @@
 		<pln>No i co to za interes?</pln>
 	</string>
 	<string id="borov_21_dialog_1">
-		<rus>Был тут у нас один уркаган, Крыса его погоняло. Как есть крыса... Лазил тут, вынюхивал, высматривал... Короче, есть у меня сведения, что он многие наши внутренние секреты себе на ПДА писал.\nКогда я хотел его взять за мягкое - он слинял... Теперь дело - найди эту крысу и забери у него ПДА. Как - это твои проблемы. Вернёшь, тогда поговорим о наградах.</rus>
+		<rus>Был тут у нас один уркаган, Крыса его погоняло. Как есть крыса... Лазил тут, вынюхивал, высматривал... Короче, есть у меня сведения, что он многие наши внутренние секреты себе на КПК писал.\nКогда я хотел его взять за мягкое - он слинял... Теперь дело - найди эту крысу и забери у него КПК. Как - это твои проблемы. Вернёшь, тогда поговорим о наградах.</rus>
 		<eng>We had a thug here who went by the name of Krysyuk. Some of us called him Rat... always sneaking around, listening, sticking his nose in things.. In short, I know for a fact he had swiped a PDA with alot of intel on our most secretive dealings.\n When I wanted to take it from him, he scurried off.. Now you're gonna do it. Find this Rat, and take the PDA from him. How you do that is your problem... Bring it back, and then we'll talk about your reward.</eng>
 		<ukr>Був тут у нас один уркаган, Щур його поганяло... Справжнісінький щур... Лазив тут, винюхував, видивлявся... Коротше, є у мене відомості, що він багато наших внутрішніх секретів собі на КПК писав...\nКоли я хотів його взяти за м'яке - він злиняв... Тепер справа - Знайди цього щура і забери у нього КПК. Як, це твої проблеми... Повернеш, тоді поговоримо про нагороди...</ukr>
 		<fra>Il y avait un urkagan ici, le Rat le pourchassait. Comment est le rat ... J'ai grimpé ici, reniflé, regardé ... En bref, j'ai des informations selon lesquelles il a écrit beaucoup de nos secrets intérieurs sur le PDA. \ NQuand je voulais le prendre ... - il s'est évanoui ... Maintenant, la chose est Trouvez ce Rat et prenez le PDA. Comment sont vos problèmes. Revenez, puis parlez des récompenses.</fra>
@@ -390,7 +390,7 @@
 		<pln>Czołem, Borow. Znalazłem Krysiuka.</pln>
 	</string>
 	<string id="borov_22_dialog_1">
-		<rus>Ну и... где ПДА?</rus>
+		<rus>Ну и... где КПК?</rus>
 		<eng>Well... where is the PDA?</eng>
 		<ukr>Ну і.. Де КПК?</ukr>
 		<fra>Eh bien ... où est le PDA?</fra>
@@ -411,7 +411,7 @@
 		<pln>Będzie dola, jeśli normalnie się zachowasz.</pln>
 	</string>
 	<string id="borov_22_dialog_4">
-		<rus>Ладно, поверю. Вот ПДА...</rus>
+		<rus>Ладно, поверю. Вот КПК...</rus>
 		<eng>Alright, I'm trusting you. Here is your PDA...</eng>
 		<ukr>Гаразд, повірю... Ось КПК...</ukr>
 		<fra>D'accord, crois. Voici le PDA...</fra>
@@ -474,7 +474,7 @@
 		<pln>Co znowu za sprawa? Nie przypominam sobie, żebym miał z tobą jakieś interesy?</pln>
 	</string>
 	<string id="krysyk_11_dialog_2">
-		<rus>Про Борова слышал? Он бочку на тебя катит, хочет что бы ты свой ПДА отдал ему...</rus>
+		<rus>Про Борова слышал? Он бочку на тебя катит, хочет что бы ты свой КПК отдал ему...</rus>
 		<eng>Ever heard of Borov? He's looking for you. Wants his PDA back...</eng>
 		<ukr>Про Кабана чув? Він бочку на тебе котить, хоче що б ти свій КПК віддав йому...</ukr>
 		<fra>Jamais entendu parler de Borov? Il te cherche. Veut que son PDA lui revienne...</fra>
@@ -502,7 +502,7 @@
 		<pln>Zlecenie? A na czym ono ma polegać?</pln>
 	</string>
 	<string id="krysyk_11_dialog_51">
-		<rus>Сверни, только это тебе не поможет, ПДА я в тайном месте заныкал. Так что смотри сам...</rus>
+		<rus>Сверни, только это тебе не поможет, КПК я в тайном месте заныкал. Так что смотри сам...</rus>
 		<eng>You could, but it won't help you find the PDA... I stashed it away somewhere. Your call...</eng>
 		<ukr>Зкрути, тільки це тобі не допоможе, КПК я в таємному місці заникав. Так що дивися сам...</ukr>
 		<fra>Retourne-toi, seulement ça ne t'aidera pas, j'ai caché le PDA dans un lieu secret. Alors voyez vous-même...</fra>
@@ -565,11 +565,11 @@
 		<pln>Ja sprawdzę! I odniosę Barmanowi wszystko co znajdę...</pln>
 	</string>
 	<string id="krysyk_12_dialog_3">
-		<rus>Ну ладно, записывай координаты схрона в Тёмной Долине. Там лежат три "Лунных света" и "Мамины бусы". Отнеси всё Бармену. Если я смогу дойти до Бара, то я тебе скажу, где ПДА и ещё кое-что...</rus>
-		<eng>Alright, I'll write down the coordinates of the stashes in the Dark Valley. There are three "Moonlights" and "Mama's Beads" artifacts.. Take them to the Barkeep. If I can get in with them, I'll tell you where to find Borov's PDA and something else too...</eng>
-		<ukr>Ну гаразд, записуй координати схрону в Темній долині. Там лежать три Місячних світла і Мамине намисто. Віднеси все Бармену, якщо я зможу дійти до Бара, то я тобі скажу де КПК і ще дещо...</ukr>
-		<fra>Eh bien, écrivez les coordonnées des caches de la vallée sombre. Il y a trois "Clair de lune (Moonlight)" et "Perles de Mama(Mom's Beads)". Apporte tout au barman. Si je peux me rendre au barreau, je vous dirai où se trouve le PDA et autre chose...</fra>
-		<pln>No dobra, zapisuj koordynaty schowka w Dolinie Mroku. Tam leżą trzy "Blaski Księżyca" i "Korale Mamusi". Odnieś wszystko Barmanowi. Jeśli dam radę dojść do Baru, to ci powiem gdzie jest PDA. I jeszcze coś górką...</pln>
+		<rus>Ну ладно, запоминай. Рюкзак с артами сбросил в Тёмной Лощине, когда шёл из Долины на Кордон. Ищи на лесопилке, на самой пиле, заныкал повыше от любопытных глаз. Там лежат три "Лунных света" и "Мамины бусы", отнеси всё Бармену. Если я смогу дойти до Бара, то скажу тебе, где КПК и ещё кое-что...</rus>
+		<eng>===Alright, I'll write down the coordinates of the stashes in the Dark Valley. There are three "Moonlights" and "Mama's Beads" artifacts.. Take them to the Barkeep. If I can get in with them, I'll tell you where to find Borov's PDA and something else too...</eng>
+		<ukr>===Ну гаразд, записуй координати схрону в Темній долині. Там лежать три Місячних світла і Мамине намисто. Віднеси все Бармену, якщо я зможу дійти до Бара, то я тобі скажу де КПК і ще дещо...</ukr>
+		<fra>===Eh bien, écrivez les coordonnées des caches de la vallée sombre. Il y a trois "Clair de lune (Moonlight)" et "Perles de Mama(Mom's Beads)". Apporte tout au barman. Si je peux me rendre au barreau, je vous dirai où se trouve le PDA et autre chose...</fra>
+		<pln>===No dobra, zapisuj koordynaty schowka w Dolinie Mroku. Tam leżą trzy "Blaski Księżyca" i "Korale Mamusi". Odnieś wszystko Barmanowi. Jeśli dam radę dojść do Baru, to ci powiem gdzie jest PDA. I jeszcze coś górką...</pln>
 	</string>
 	<string id="krysyk_13_dialog_0">
 		<rus>Здорово, Бармен! Есть просьба от одного бандита...</rus>
@@ -778,21 +778,21 @@
 		<pln>Docent, nie mogę kogoś znaleźć, pomóż.</pln>
 	</string>
 	<string id="bar_docent_npc_dialog_1">
-		<rus>В принципе мы отслеживаем все некодированные маячки с личных ПДА, и я мог бы вывести отметку определённого ПДА на твою карту. \nНо всякие знания в Зоне добываются с трудом, и я прошу тебя за эту услугу отблагодарить меня новой информацией. \nДовольно часто в личных ПДА имеются уникальные данные, которые для неспециалиста выглядят просто абракадаброй. \nПринеси пять любых ПДА и я отмечу местонахождение нужного человека.</rus>
+		<rus>В принципе мы отслеживаем все некодированные маячки с личных КПК, и я мог бы вывести отметку определённого КПК на твою карту. \nНо всякие знания в Зоне добываются с трудом, и я прошу тебя за эту услугу отблагодарить меня новой информацией. \nДовольно часто в личных КПК имеются уникальные данные, которые для неспециалиста выглядят просто абракадаброй. \nПринеси пять любых КПК и я отмечу местонахождение нужного человека.</rus>
 		<eng>As a matter of principle, we track all non-encrypted signals from the personal PDAs of stalkers in the Zone, so I could display the mark of a certain PDA on your map.. \nBut knowledge in the zone is never free, so I'll be asking something in return. \nMore and more, personal PDAs containing unique data have been popping up in the Zone, and to the layman the information appears to be nothing but jibberish. \nBring me any five PDAs you find out there, and I'll find the location of the person you're looking for.</eng>
 		<ukr>В принципі ми відстежуємо всі некодовані маячки з особистих КПК, і я міг би вивести позначку певного КПК на твою карту.\nАле всілякі знання в Зоні видобуваються важко і я прошу тебе за цю послугу віддячити мене новою інформацією.\nДосить часто в особистих КПК є унікальні дані, які для неспеціаліста виглядають просто абракадаброю.\nПринеси п'ять будь-яких КПК і я зазначу місцезнаходження потрібної людини.</ukr>
 		<fra>En principe, nous suivons toutes les balises non codées des PDA personnels et je pourrais afficher la marque d'un certain PDA sur votre carte. \ nMais toutes les connaissances dans la zone sont difficiles à obtenir, et je vous demande ce service pour me remercier avec de nouvelles informations. \ nTrès souvent, dans les assistants personnels personnels, il existe des données uniques qui, pour un non-spécialiste, ressemblent à du charabia. \ nAmenez cinq PDA et marquez l'emplacement de la bonne personne.</fra>
 		<pln>W zasadzie śledzimy wszystkie niekodowane znaczniki z osobistych PDA, i mógłbym wyprowadzić znacznik konkretnego PDA na twoją mapę. \nAle wszelką wiedzę w Zonie zdobywa się z trudem i chciałbym za tę usługę uzyskać od ciebie nowe informacje. \nBardzo często w osobistych PDA znajdują się unikalne dane, które dla amatora wyglądają po prostu jak abrakadabra. \nPrzynieś pięć dowolnych PDA a ja zaznaczę ci położenie potrzebnej osoby.</pln>
 	</string>
 	<string id="bar_docent_npc_dialog_2">
-		<rus>У меня есть ПДА, давай настроимся...</rus>
+		<rus>У меня есть КПК, давай настроимся...</rus>
 		<eng>I have a PDA. Let's tune in...</eng>
 		<ukr>У мене є КПК, давай налаштуємося...</ukr>
 		<fra>J'ai un PDA, accordons-nous...</fra>
 		<pln>Mam PDA, możemy się zestroić...</pln>
 	</string>
 	<string id="bar_docent_npc_dialog_3">
-		<rus>Согласен, соберу ПДА и вернусь...</rus>
+		<rus>Согласен, соберу КПК и вернусь...</rus>
 		<eng>Alright. I'll be back with the PDAs you want.</eng>
 		<ukr>Згоден, зберу КПК і повернуся...</ukr>
 		<fra>Je suis d'accord, je vais récupérer le PDA et revenir...</fra>
@@ -813,7 +813,7 @@
 		<pln>A kto konkretnie?</pln>
 	</string>
 	<string id="bar_docent_npc_dialog_8">
-		<rus>Готово! Теперь у тебя на ПДА есть на него отметка!</rus>
+		<rus>Готово! Теперь у тебя на КПК есть на него отметка!</rus>
 		<eng>Done! Now you have a mark on your map!</eng>
 		<ukr>Готово! Тепер у тебе на КПК є на нього відмітка!</ukr>
 		<fra>Fait! Vous avez maintenant une marque sur le PDA!</fra>
@@ -3985,7 +3985,7 @@
 		<pln>Borow wysłał mnie by zbadać miejsce katastrofy helikoptera, który spadł za bagnem w Dolinie Mroku. Wszystko co tam znajdę trzeba odnieść Borowowi...</pln>
 	</string>
 	<string id="tex_bandit_krisyk">
-		<rus>\nБандит по прозвищу Крыса записал много секретов на свой ПДА. Боров хочет вернуть этот ПДА. Любым способом. Отметку на карте, где скрывается Крыса, можно получить у Доцента из бара "100 рентген".</rus>
+		<rus>\nБандит по прозвищу Крыса записал много секретов на свой КПК. Боров хочет вернуть этот КПК. Любым способом. Отметку на карте, где скрывается Крыса, можно получить у Доцента из бара "100 рентген".</rus>
 		<eng>\nThe bandit Krysyuk who also goes by "Rat", has a PDA with many secrets belonging to Borov. He wants me to find him, and acquire it by whatever means necessary. I might be able to obtain his exact location if I visit Docent, in the back room of the 100 Rads Bar.</eng>
 		<ukr>\nБандит на прізвисько Щур записав багато секретів на свій КПК. Кабан хоче повернути цей КПК. Будь-яким способом. Позначку на карті, де ховається Щур, можна отримати у Доцента з бару "100 рентген".</ukr>
 		<fra>\nLe bandit Krysyuk (Rat)a volé le PDA de Borov (dans lequel sont écrit de nombreux secrets). Hog veut revoir ce PDA. De n'importe quelle façons. Une marque sur la carte où se cache le rat peut être obtenue auprès du Professeur Docent au Bar "100 roentgens".</fra>
