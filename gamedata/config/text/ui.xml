@@ -5548,7 +5548,7 @@
 	<string id="ui_detonator_critical">
 		<rus>Внимание! У детонатора низкий заряд батареи!</rus>
 		<eng>===Attention! The detonator is in critical condition!</eng>
-		<ukr>===Увага! Детонатор у критичному стані!</ukr>
+		<ukr>Увага! У детонатора низький заряд батареї!</ukr>
 		<fra>===Attention! Le détonateur est dans un état critique!</fra>
 		<pln>===Uwaga! Detonator jest w stanie krytycznym!</pln>
 	</string>	
@@ -5570,15 +5570,15 @@
 	</string>
 	<string id="ui_hud_health_system_off">
 		<rus>Система жизненной поддержки деактивирована</rus>
-		<ukr>Систему життєвої підтримки деактивовано</ukr>
 		<eng>Life support system deactivated</eng>
+		<ukr>Систему життєвої підтримки деактивовано</ukr>
 		<fra>Système de survie désactivé</fra>
 		<pln>System podtrzymywania życia wyłączony</pln>
 	</string>
 	<string id="ui_hud_health_system_on">
 		<rus>Система жизненной поддержки активирована</rus>
-		<ukr>Систему життєвої підтримки активовано</ukr>
 		<eng>Life support system activated</eng>
+		<ukr>Систему життєвої підтримки активовано</ukr>
 		<fra>Système de survie activé</fra>
 		<pln>Aktywowano system podtrzymywania życia</pln>
 	</string>	
