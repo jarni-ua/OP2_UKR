@@ -295,7 +295,7 @@
 		<pln>Kołmogor, wioska przeszukana. Wracamy.</pln>
 	</string>
 	<string id="sms_pantera_village_pantera_otvet_0">
-		<rus>Привет, красавчик. У меня проблемы, пришлось срочно делать ноги. Я на Болотах, на каком-то мысе. Где именно - не знаю, но отсюда видна какая-то смотровая вышка. Скидываю примерные координаты места в твой ПДА - смотри карту Болот.</rus>
+		<rus>Привет, красавчик. У меня проблемы, пришлось срочно делать ноги. Я на Болотах, на каком-то мысе. Где именно - не знаю, но отсюда видна какая-то смотровая вышка. Скидываю примерные координаты места в твой КПК - смотри карту Болот.</rus>
 		<eng>Hey, handsome. I had some problems, so I had to cut and run. I'm at the Swamps, at some cape. I don't know where exactly - but you can see some observation tower from here. I'll drop the approximate coordinates of the place into your PDA - see the map of the Swamps.</eng>
 		<ukr>Привіт, красунчик. У мене проблеми, довелося терміново робити ноги. Я на Болотах, на якомусь мисі. Де саме - не знаю, але звідсіля видно якусь оглядову вежу. Скидаю приблизні координати місця в твій КПК - дивись мапу Боліт.</ukr>
 		<pln>Cześć, pięknisiu. Mam problemy, trzeba było szybko zwiewać. Jestem na Bagnach, na jakimś przylądku. Gdzie konkretnie - nie wiem, ale widać stąd jakąś wieżę obserwacyjną. Wrzucam orientacyjne koordynaty tego miejsca do twojego PDA - obejrzyj mapę Bagien.</pln>
@@ -943,7 +943,7 @@
 		<pln>No, generale, to mamy kłopot. Cholera wie, co teraz zrobić. W tym rejonie od radiacji lampki świecą bez prądu...</pln>
 	</string>
 	<string id="sms_voronin_voronin_voen_sms4_0">
-		<rus>Решай сам. Если пойдёшь, никто героем считать тебя не будет - скорее сумасшедшим назовут. Ты хоть намекни, где девчонка, если всё же решишься на это безумство. На всякий случай скидываю в твой ПДА фото этого вертолёта.</rus>
+		<rus>Решай сам. Если пойдёшь, никто героем считать тебя не будет - скорее сумасшедшим назовут. Ты хоть намекни, где девчонка, если всё же решишься на это безумство. На всякий случай скидываю в твой КПК фото этого вертолёта.</rus>
 		<eng>It's up to you. If you go, no one will consider you a hero, they'll just think you're crazy. At least give us a hint to where the girl is if you decide to go. Just in case, I'm sending a photo of this helicopter to your PDA.</eng>
 		<ukr>Вирішуй сам. Якщо підеш, ніхто героєм вважати тебе не буде - швидше божевільним назвуть. Ти хоч натякни, де дівчинка, якщо все ж наважишся на це божевілля. На всілякий випадок скидаю в твій КПК фото цього вертольота.</ukr>
 		<pln>Decyduj sam. Jeśli pójdziesz, nikt cię nie będzie uważać za bohatera - prędzej wariatem nazwą. Daj choć jakąś wskazówkę, gdzie jest dziewczynka, jeśli mimo wszystko zdecydujesz się na to szaleństwo. Na wszelki wypadek wrzucam w twoje PDA zdjęcie tego helikoptera.</pln>
@@ -1111,7 +1111,7 @@
 		<pln>Pantera, odpowiedz.</pln>
 	</string>
 	<string id="mono_netu_sms6_0_0">
-		<rus>ПДА абонента выключен или находится вне зоны действия сети.</rus>
+		<rus>КПК абонента выключен или находится вне зоны действия сети.</rus>
 		<eng>The subscriber's PDA is turned off or is outside the network coverage area.</eng>
 		<ukr>КПК абонента вимкнений або знаходиться поза зоною дії мережі.</ukr>
 		<pln>PDA abonenta wyłączone albo znajduje się poza zasięgiem działania sieci.</pln>
@@ -1519,13 +1519,13 @@
 		<pln>Moduł nawigacyjny twojego PDA uległ uszkodzeniu. Wyświetlanie na ekranie mapy i oznaczeń chwilowo nie jest możliwe.</pln>
 	</string>
 	<string id="sms_strelok_pda_slom_sms2_0">
-		<rus>Вот чёрт! Как вовремя... Бармен, выручай, ПДА грохнулось. Навигация не работает и карта не открывается.</rus>
+		<rus>Вот чёрт! Как вовремя... Бармен, выручай, КПК грохнулось. Навигация не работает и карта не открывается.</rus>
 		<eng>Oh, shit! How timely... Bartender, help me out, my PDA is dead. Navigation doesn't work and the map doesn't display.</eng>
 		<ukr>До біса! Як невчасно... Бармен, виручай , КПК здох. Навігація не працює і мапа не відкривається.</ukr>
 		<pln>Cholera... Zupełnie nie w porę... Barman, pomóż - PDA mi padło. Nawigacja nie działa i nie można otworzć mapy.</pln>
 	</string>
 	<string id="sms_barman_pda_slom_sms4_0">
-		<rus>Я перетёр с Доцентом. Будешь в Баре - зайди к нему, посмотрит, что с твоим ПДА. За разумную плату, конечно.</rus>
+		<rus>Я перетёр с Доцентом. Будешь в Баре - зайди к нему, посмотрит, что с твоим КПК. За разумную плату, конечно.</rus>
 		<eng>I knock around with the Associate Professor. If you're at the Bar, go see him, he'll take a look at your PDA. For a reasonable fee, of course.</eng>
 		<ukr>Я перетер з Доцентом. Будеш в Барі - зайди до нього, подивиться, що з твоїм КПК. За розумну оплату, звичайно.</ukr>
 		<pln>Obgadałem to z Docentem. Jak będziesz w Barze - zajdź do niego - popatrzy, co z twoim PDA. Za niewielką opłatą, oczywiście.</pln>
@@ -1549,13 +1549,13 @@
 		<pln>Moduł nawigacyjny twojego PDA gotów do pracy. Fatalny błąd został usunięty.</pln>
 	</string>
 	<string id="sms_molniy_girl3_nachalo_sms_0">
-		<rus>Привет. Не удивляйся, это не твоя Пантера. Мне известен твой последний диалог с Клыком. Думаю, наша встреча будет полезна для обоих, но прежде, чем сказать о месте - достань жучок из своего ПДА - тебя давно прослушивают, и не только я. На связь раньше, чем решишь эту проблему не выходи.</rus>
+		<rus>Привет. Не удивляйся, это не твоя Пантера. Мне известен твой последний диалог с Клыком. Думаю, наша встреча будет полезна для обоих, но прежде, чем сказать о месте - достань жучок из своего КПК - тебя давно прослушивают, и не только я. На связь раньше, чем решишь эту проблему не выходи.</rus>
 		<eng>Hey. Don't be surprised, it's not your Panther. I know your last dialogue with Fang. I think our meeting will be beneficial for both of us, but before we discuss a meeting place - get the bug removed from your PDA - you've been bugged for a long time, and not just by me. Don't try to get in touch before you resolve this problem.</eng>
 		<ukr>Привіт. Не дивуйся, це не твоя Пантера. Мені відомий твій останній діалог з Кликом. Думаю, наша зустріч буде корисна для обох, але перш ніж сказати про місце - дістань жучок зі свого КПК - тебе давно прослуховують, і не тільки я. На зв'язок раніше, ніж вирішиш цю проблему не виходь.</ukr>
 		<pln>Cześć. Nie zdziw się, to nie twoja Pantera. Znam twoją ostatnią rozmowę z Kłem. Myślę, że spotkanie będzie korzystne dla nas obojga, ale najpierw, zanim pomówimy o miejscu - usuń pluskwę ze swojego PDA - jesteś od dawna podsłuchiwany, i to nie tylko przeze mnie. Nie łącz się ze mną, zanim nie załatwisz tej sprawy.</pln>
 	</string>
 	<string id="sms_strelok_girl3_nachalo_sms1_0">
-		<rus>Доктор, здравствуйте. Как-то нехорошо получается... В моём ПДА ваш жучок... Мы же, вроде, решили все основные вопросы...</rus>
+		<rus>Доктор, здравствуйте. Как-то нехорошо получается... В моём КПК ваш жучок... Мы же, вроде, решили все основные вопросы...</rus>
 		<eng>Doctor, hello. It doesn't look good... My PDA has your bug... I think we've solved all the main issues...</eng>
 		<ukr>Доктор, здрастуйте. Якось негарно виходить... У моєму КПК ваш жучок... Ми ж, начебто, вирішили всі основні питання...</ukr>
 		<pln>Doktorze, dzień dobry. Kiepska sprawa wyszła... W moim PDA jest wasza pluskwa... Myślałem, że się dogadaliśmy...</pln>
@@ -1567,13 +1567,13 @@
 		<pln>Tak, był plan umieszczenia pluskwy w waszym PDA, jeszcze przed słynną przejażdżką w trupiarce. Ale odstąpiliśmy od tego pomysłu - wówczas w pełni wystarczała obserwacja ze strony niesławnego Astronoma. Czyli, ta pluskwa - nie jest moja. Przypomnijcie sobie, komu oddawaliście swoje PDA - i jego pytajcie.</pln>
 	</string>
 	<string id="sms_strelok_girl3_nachalo_sms3_0">
-		<rus>Ясно, Док. Я вспомнил - один Кулибин в Баре ремонтировал мне ПДА... Сейчас я его и навещу.</rus>
+		<rus>Ясно, Док. Я вспомнил - один Кулибин в Баре ремонтировал мне КПК... Сейчас я его и навещу.</rus>
 		<eng>Okay, Doctor. I've remembered - an amateur repairman in the Bar was fixing my PDA... Now I'll visit him.</eng>
 		<ukr>Ясно, Док. Я згадав - один Кулібін в Барі ремонтував мені КПК... Зараз я його і відвідаю.</ukr>
 		<pln>Dok, dziękuję. Przypomniałem sobie - pewien docencik w Barze naprawiał mi PDA... Zaraz złożę mu wizytę.</pln>
 	</string>
 	<string id="sms_strelok_molniy_bar_sms_0">
-		<rus>Всё, ПДА чист. Правда, выяснить, кто за всей этой прослушкой стоит - пока не удалось.</rus>
+		<rus>Всё, КПК чист. Правда, выяснить, кто за всей этой прослушкой стоит - пока не удалось.</rus>
 		<eng>Okay, the PDA's clean. However, it hasn't been possible to find out who's behind all this bugging yet.</eng>
 		<ukr>Все, КПК чистий. Правда, з'ясувати, хто за всім цим прослуховуванням стоїть - покищо не вдалося.</ukr>
 		<pln>To wszystko. PDA jest czyste. Co prawda, wyjaśnić, kto za tym całym podsłuchiwaniem stoi, na razie mi się nie udało.</pln>
@@ -2227,7 +2227,7 @@
 		<pln>Ej, koleś! Opuść broń, i tak na nic ci się nie przyda i podejdź tutaj. I nie próbuj żadnych sztuczek, tu nie wioska nowicjuszy.</pln>
 	</string>
 	<string id="sms_parfumer_sms_parfumer1_0">
-		<rus>Эй, Сталкер! Не знаю, как тебя звать... Посмотри в ПДА - найдёшь меня по метке - у выхода старой ливнёвки. Жду.</rus>
+		<rus>Эй, Сталкер! Не знаю, как тебя звать... Посмотри в КПК - найдёшь меня по метке - у выхода старой ливнёвки. Жду.</rus>
 		<eng>Hey, Stalker! I don't know your name... Look in your PDA - you will find my label - at the exit of the storm water drain. I'll be waiting.</eng>
 		<ukr>Ей, Сталкер! Не знаю, як тебе звати... Подивися в КПК - знайдеш мене по мітці - біля виходу старої ливнівки. Чекаю.</ukr>
 		<pln>Ej, Stalkerze! Nie wiem, jak się nazywasz... Zajrzyj w PDA - znajdziesz mój znacznik przy wyjściu ze starych kanałów burzowych. Czekam.</pln>
@@ -2888,16 +2888,16 @@
 	</string>
 
 	<string id="sms_denis_wound_start_0">
-		<rus>Стрелок, ты еще в Красном лесу? Там где-то Денис должен быть, тоже моё поручение выполняет. Найди его, пожалуйста, что-то душа у меня за него не спокойная. Поищи в районе заброшенной штольни.</rus>
+		<rus>Стрелок, ты ещё в Красном Лесу? Там где-то Денис должен быть, тоже моё поручение выполняет. Найди его, пожалуйста, что-то душа у меня за него не спокойная. Поищи в районе заброшенной штольни.</rus>
 		<eng>Strelok, are you still in the Red Forest? Denis should be there somewhere, also fulfilling my assignment. Find him, please, because I'm worried about him. Look around the abandoned mine.</eng>
 		<ukr>Стрілець, ти ще в Червоному лісі? Там десь Денис повинен бути, теж моє доручення виконує. Знайди його, будь ласка, щось душа у мене за нього не спокійна. Пошукай в районі покинутої штольні.</ukr>
 		<pln>===Стрелок, ты еще в Красном лесу? Там где-то Денис должен быть, тоже моё поручение выполняет. Найди его пожалуйста, что-то душа у меня не спокойная за него. Поищи в районе заброшенной штольни.</pln>
 	</string>
 	<string id="sms_dragunov_release">
-		<rus>Я свалил из Зоны. Кому должен - всем прощаю!...Всё, удачи, мужики!</rus>
+		<rus>Я свалил из Зоны. Кому должен - всем прощаю!.. Всё, удачи, мужики!</rus>
 		<eng>I left the Zone. I forgive everyone - who is responsible!... That's it, good luck, guys!</eng>
-		<ukr>Я звалив із Зони. Кому винен - всім пробачаю!...Все, удачі, мужики!</ukr>
-		<pln>===Я свалил из Зоны. Кому должен - всем прощаю!...Всё, удачи, мужики!</pln>
+		<ukr>Я звалив із Зони. Кому винен - всім пробачаю!.. Все, удачі, мужики!</ukr>
+		<pln>===Я свалил из Зоны. Кому должен - всем прощаю!.. Всё, удачи, мужики!</pln>
 	</string>
 	<string id="sms_lechite_bandito">
 		<rus>Прикиньте, мужики, неделю назад подлечил братка в Тёмной Долине, так теперь тамошняя братва ко мне со всем уважением. С Жилой выгодный бартер наладил, да и с самим Боровым, вроде, делюга намечается. Вывод: даже если и бандит лежит и стонет, проявите сострадание, дайте аптечку, не обеднеете.</rus>

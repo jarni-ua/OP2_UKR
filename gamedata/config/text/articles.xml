@@ -325,7 +325,7 @@
 		<pln>Poprosić Powinność o pomoc</pln>
 	</string>
 	<string id="docent_art_name">
-		<rus>Раздобыть модуль-дешифратор и ПДА</rus>
+		<rus>Раздобыть модуль-дешифратор и КПК</rus>
 		<eng>Get the decoder module and PDA</eng>
 		<ukr>Роздобути модуль-дешифратор і КПК</ukr>
 		<pln>Zdobyć moduł deszyfratora i PDA</pln>
@@ -1279,7 +1279,7 @@
 		<pln>Znaleźć 4 dokumenty w X-18</pln>
 	</string>
 	<string id="tex_take_doc4_name">
-		<rus>Найти 4 броника, записку и ПДА в  Х-16</rus>
+		<rus>Найти 4 броника, записку и КПК в  Х-16</rus>
 		<eng>Find 4 sets of armour, a note and a PDA in X-16</eng>
 		<ukr>Знайти 4 броника, записку і КПК в Х-16</ukr>
 		<pln>Znaleźć 4 pancerze, notatkę i PDA w X-16</pln>
@@ -2089,7 +2089,7 @@
 		<pln>Zapiski na fleszce Psychola</pln>
 	</string>
 	<string id="amk_recipt_stone_dikoobraz_2_name">
-		<rus>Записи в ПДА Психа</rus>
+		<rus>Записи в КПК Психа</rus>
 		<eng>Psycho's PDA records</eng>
 		<ukr>Записи в КПК Психа</ukr>
 		<pln>Notatka w PDA Psychola</pln>
@@ -2101,7 +2101,7 @@
 		<pln>Nagroda za strzelbę</pln>
 	</string>
 	<string id="amk_recipt_titan_kolobok_name">
-		<rus>Запись из ПДА наёмника</rus>
+		<rus>Запись из КПК наёмника</rus>
 		<eng>Records from a mercenary's PDA</eng>
 		<ukr>Запис з КПК найманця</ukr>
 		<pln>Notatka w PDA najemnika?</pln>
@@ -2113,7 +2113,7 @@
 		<pln>Dane od Krugłowa</pln>
 	</string>
 	<string id="amk_recipt_controller_skalp_name">
-		<rus>Запись в ПДА, найденном у монолитовца</rus>
+		<rus>Запись в КПК, найденном у монолитовца</rus>
 		<eng>Records found on a Monolith's PDA</eng>
 		<ukr>Запис в КПК, знайденому у монолітівця</ukr>
 		<pln>Notatka w PDA monolitowca</pln>
@@ -3290,7 +3290,7 @@
 		<pln>Porozmawiać z Kostią</pln>
 	</string>
 	<string id="sacharov_pda_name">
-		<rus>Найти ПДА Васильева</rus>
+		<rus>Найти КПК Васильева</rus>
 		<eng>Find Vasiliev's PDA</eng>
 		<ukr>Знайти КПК Васильєва</ukr>
 		<pln>Znaleźć PDA Wasiliewa</pln>
@@ -3422,7 +3422,7 @@
 		<pln>Sprawdzić miejsce upadku helikoptera</pln>
 	</string>
 	<string id="tex_bandit_krisyk_name">
-		<rus>Вернуть ПДА Крысюка</rus>
+		<rus>Вернуть КПК Крысюка</rus>
 		<eng>Return Krysyuk's PDA</eng>
 		<ukr>Повернути КПК Щуряка</ukr>
 		<pln>Zwrócić PDA Krysiuka</pln>
@@ -3445,14 +3445,8 @@
 		<ukr>Добути контейнер з артефактом</ukr>
 		<pln>Zdobyć kontener z artefaktem</pln>
 	</string>
-	<string id="tex_life_heart_barman_name">
-		<rus>Найти ПДА в Припяти</rus>
-		<eng>Find a PDA in Pripyat</eng>
-		<ukr>Знайти КПК в Прип'яті</ukr>
-		<pln>Znaleźć PDA w Prypeci</pln>
-	</string>
 	<string id="tex_strelok_pda_name">
-		<rus>Найти ПДА Стрелка</rus>
+		<rus>Найти КПК Стрелка</rus>
 		<eng>Find Strelok's PDA</eng>
 		<ukr>Знайти КПК Стрільця</ukr>
 		<pln>Znaleźć PDA Striełoka</pln>
@@ -3662,7 +3656,7 @@
 		<pln>Wykraść unikalne kombinezony</pln>
 	</string>
 	<string id="tex_mil_Svoboda_trader_ammo_name">
-		<rus>Найти карту памяти для ПДА</rus>
+		<rus>Найти карту памяти для КПК</rus>
 		<eng>Find a memory card for the PDA</eng>
 		<ukr>Знайти карту пам'яті для КПК</ukr>
 		<pln>Znaleźć kartę pamięci do PDA</pln>
@@ -3674,7 +3668,7 @@
 		<pln>Popracować jako narkokurier</pln>
 	</string>
 	<string id="tex_agr_krot_PDA_name">
-		<rus>Найти ПДА Крота</rus>
+		<rus>Найти КПК Крота</rus>
 		<eng>Find Mole's PDA</eng>
 		<ukr>Знайти КПК Крота</ukr>
 		<pln>Znaleźć PDA Kreta</pln>
@@ -3686,7 +3680,7 @@
 		<pln>Dostarczyć amunicję</pln>
 	</string>
 	<string id="tex_val_escort_PDA_name">
-		<rus>Вернуть ПДА</rus>
+		<rus>Вернуть КПК</rus>
 		<eng>Return the PDA</eng>
 		<ukr>Повернути КПК</ukr>
 		<pln>Zwrócić PDA</pln>
@@ -4322,7 +4316,7 @@
 		<pln>Znaleźć telewizor w Jubilejnym</pln>
 	</string>
 	<string id="tex_dimak_pda_naity_task_name">
-		<rus>Найти место, где Димак потерял ПДА</rus>
+		<rus>Найти место, где Димак потерял КПК</rus>
 		<eng>Find the place where Dimak lost his PDA</eng>
 		<ukr>Знайти місце, де Дімак загубив КПК</ukr>
 		<pln>Znaleźć miejsce, gdzie Dimak zgubił PDA</pln>
@@ -4478,13 +4472,13 @@
 		<pln>Ten idiota zabrał mi sejf i powiedział, że w zamian muszę popracować dla jego braciszka, wtedy on zwróci mi sejf z powrotem. Widocznie, jego braciszek taki sam idiota jak i on - przecież sejf mimo wszystko otrzymam. To znaczy, że oszukam i Cień Monolitu, i jego braciszka, he-he. Braciszka trzeba szukać na CEA-2.</pln>
 	</string>
 	<string id="stealth_find_pda_name">
-		<rus>Собрать ПДА стукача Монолита</rus>
+		<rus>Собрать КПК стукача Монолита</rus>
 		<eng>Collect the Monolith informer's PDA</eng>
 		<ukr>Зібрати КПК стукача Моноліту</ukr>
 		<pln>Zdobyć PDA donosiciela Monolitu</pln>
 	</string>
 	<string id="stealth_find_pda_text">
-		<rus>Кащей №2 попросил меня собрать в Зоне и принести ему ПДА сталкера-стукача, который сливает Монолиту инфу. Нужно выполнить это задание, обязательно красуясь с амулетом во всё пузо. И при этом ещё и не убив никого из людей. Братец Тени Монолита сказал, что перестанет уважать меня, если я буду пользоваться маскировочным экзоскелетом. Но так ли мне нужно уважение этого утырка? В общем, задание по своему идиотизму чисто в духе Монолита. А кто бы сомневался?</rus>
+		<rus>Кащей №2 попросил меня собрать в Зоне и принести ему КПК сталкера-стукача, который сливает Монолиту инфу. Нужно выполнить это задание, обязательно красуясь с амулетом во всё пузо. И при этом ещё и не убив никого из людей. Братец Тени Монолита сказал, что перестанет уважать меня, если я буду пользоваться маскировочным экзоскелетом. Но так ли мне нужно уважение этого утырка? В общем, задание по своему идиотизму чисто в духе Монолита. А кто бы сомневался?</rus>
 		<eng>Kashchey №2 asked me to look around the Zone and bring him the PDA of a stalker-informer who sells information to the Monolith. This task must be fulfilled by obligatorily flashing around the amulet, and at the same time, without killing anyone. The Monolith's Shadow's brother said that he would cease to respect me if I used a camouflage exoskeleton. The question is this, do I even need the respect of this scumbag? In general, the task in its idiocy is purely in the spirit of the Monolith. And who would doubt that?</eng>
 		<ukr>Чахлик №2 попросив мене зібрати в Зоні і принести йому КПК сталкера-стукача, який зливає Моноліту інфу. Потрібно виконати це завдання, обов'язково красуючись з амулетом на все пузо. І при цьому ще й не вбивши нікого з людей. Братик Тіні Моноліту сказав, що перестане поважати мене, якщо я буду користуватися маскувальним екзоскелетом. Питання, а потрібна мені взагалі повага цього відморозка? Загалом, завдання за своїм ідіотизмом чисто в дусі Моноліту. А хто б сумнівався?</ukr>
 		<pln>Kościej nr2 poprosił mnie by rozejrzeć się po Zonie i przynieść mu PDA stalkera donosiciela, który to sprzedaje Monolitowi informacje. Trzeba wypełnić to zadanie, obowiązkowo świecąc naokoło amuletem. I przy tym jeszcze nikogo nie zabić. Przy tym Brat Cienia Monolitu powiedział, że przestanie mnie szanować, jeśli posłużę się egzoszkieletem maskującym. Tak jakby mi zależało na szacunku tego palanta. Zadanie w swoim idiotyzmie bardzo pasuje do stylu Monolitu. Ale czy ktoś w to wątpi?</pln>
@@ -4496,7 +4490,7 @@
 		<pln>Wysadzić Sidorowicza</pln>
 	</string>
 	<string id="stealth_blow_sidor_text">
-		<rus>Из собранных мной ПДА стало ясно, что заговор против Монолита мутит Сидор. И правильно делает. Чтобы хоть как-то оправдаться в собственных глазах, Брат Тени Монолита попросил меня взорвать его "дубликат", его второе "Я", которое обитает на ЧАЭС-2. Но это его всё равно не спасёт. Кащей №2 сказал, что нужно использовать телепорт с ЧАЭС-2 в каморку к Сидору. Чтобы взорвать его, достаточно одной гранаты Ф1. Телепорт задержит меня у Сидора ненадолго, но я должен успеть.\n \n \n \n \n</rus>
+		<rus>Из собранных мной КПК стало ясно, что заговор против Монолита мутит Сидор. И правильно делает. Чтобы хоть как-то оправдаться в собственных глазах, Брат Тени Монолита попросил меня взорвать его "дубликат", его второе "Я", которое обитает на ЧАЭС-2. Но это его всё равно не спасёт. Кащей №2 сказал, что нужно использовать телепорт с ЧАЭС-2 в каморку к Сидору. Чтобы взорвать его, достаточно одной гранаты Ф1. Телепорт задержит меня у Сидора ненадолго, но я должен успеть.\n \n \n \n \n</rus>
 		<eng>It's became clear from the PDA I collected, that the conspiracy against the Monolith was disturbing Sidorovich. And rightly so. In order to somehow justify myself in their eyes, the Monolith's Shadow's Brother has asked me to blow up this "duplicate", his second "self", which lives at Chernobyl-2. But it still won't save him. Kashchey №2 said that I need to use the teleport from the CNPP-2 to get to Sidorovich in the closet. I need just one F1 grenade to blow him up. The teleport will hold me by Sidorovich for a short while, but I must be quick.\n \n \n \n \n</eng>
 		<ukr>Із зібраних мною КПК стало ясно, що змову проти Моноліту каламутить Сидор. І правильно робить. Щоб хоч якось виправдатися у власних очах, Брат Тіні Моноліту попросив мене підірвати його "дублікат", його друге "Я", яке мешкає на ЧАЕС-2. Але це його все одно не врятує. Чахлик №2 сказав, що потрібно використати телепорт з ЧАЕС-2 у комірчину до Сидора. Щоб підірвати його, досить однієї гранати Ф1. Телепорт затримає мене у Сидора ненадовго, але я повинен встигнути.\n \n \n \n \n</ukr>
 		<pln>Z zebranych przeze mnie PDA stało się jasne, że spisek przeciw Monolitowi kręci Sidor. I dobrze robi. By choć trochę usprawiedliwić się we własnych oczach, Brat Cienia Monolitu poprosił mnie by wysadzić w powietrze jego "duplikat", jego drugie "JA", które mieszka na CEA-2. Lecz to go i tak nie uratuje. Kościej nr2 powiedział, że trzeba wykorzystać teleport z CEA-2 do siedziby Sidora. By go wykończyć, wystarczy jednego granatu F1. Teleport zatrzyma mnie u Sidora na kilka sekund, ale powinienem zdążyć.\n \n \n \n \n</pln>
@@ -4520,7 +4514,7 @@
 		<pln>Znaleźć snajpera</pln>
 	</string>
 	<string id="snp_find_sniper1_text">
-		<rus>На Кордоне я чуть не получил пулю от какого-то крутого стрелка из военных, причём абсолютно ни за что. Чтобы разобраться в этом деле, мне нужно найти снайпера по прозвищу Фенрир. О нём упоминается в ПДА, который я снял со стрелка. Где искать его, я не знаю, думаю, нужно поспрашивать у народа, может, кто что подскажет.</rus>
+		<rus>На Кордоне я чуть не получил пулю от какого-то крутого стрелка из военных, причём абсолютно ни за что. Чтобы разобраться в этом деле, мне нужно найти снайпера по прозвищу Фенрир. О нём упоминается в КПК, который я снял со стрелка. Где искать его, я не знаю, думаю, нужно поспрашивать у народа, может, кто что подскажет.</rus>
 		<eng>At the Cordon, I almost caught a bullet from some cool military shooter, and for absolutely no reason. To find out what all this is about, I need to find a sniper nicknamed Fenrir. He's mentioned in the PDA, which I removed from the shooter. I don't know where to find him, so I think I'll need to ask around, maybe someone will know something.</eng>
 		<ukr>На Кордоні я мало не отримав кулю від якогось крутого стрільця з військових, причому абсолютно ні за що. Щоб розібратися в цій справі, мені потрібно знайти снайпера на прізвисько Фенрір. Про нього згадується в КПК, який я зняв зі стрілка. Де шукати його, я не знаю, думаю, потрібно розпитати у народу, може, хто що підкаже.</ukr>
 		<pln>Na Kordonie o mało co nie zebrałem kulki od jakiegoś dzikiego wojskowego strzelca, przy czym absolutnie za nic. By zorientować się w tej sprawie muszę znaleźć snajpera o przezwisku Fenrir. Była o nim wzmianka w PDA, które znalazłem przy strzelcu. Gdzie go szukać, nie wiem. Myślę, że trzeba popytać ludzi, może ktoś coś podpowie.</pln>
@@ -4562,13 +4556,13 @@
 		<pln>Kotobehemot zaproponował mi zbudowanie uniwersalnego bioradaru. Muszę zebrać trofea ze wszystkich znanych mutantów, zdobyć dwa prototypy bioradaru, cztery moduły, schemat, opis działania i instrukcję montażu. Następnie to wszystko trzeba zanieść do Docenta a on zbuduje dwa egzemplarze uniwersalnego bioradaru. Jeden dla mnie, drugi dla Kotobehemota.</pln>
 	</string>
 	<string id="snpt_kordon1_name">
-		<rus>Найти ПДА Фенрира</rus>
+		<rus>Найти КПК Фенрира</rus>
 		<eng>Find Fenrir's PDA</eng>
 		<ukr>Знайти КПК Фенріра</ukr>
 		<pln>Znaleźć PDA Fenrira</pln>
 	</string>
 	<string id="snpt_kordon1_text">
-		<rus>Фенрир попросил принести ему ПДА с его лёжки на Кордоне. Лёжка находится за границей территории, на дереве, недалеко от бункера Сидоровича, рядом с аномальной зоной. Место отмечено на карте. Фенрир предупредил, что меня там будут ждать.</rus>
+		<rus>Фенрир попросил принести ему КПК с его лёжки на Кордоне. Лёжка находится за границей территории, на дереве, недалеко от бункера Сидоровича, рядом с аномальной зоной. Место отмечено на карте. Фенрир предупредил, что меня там будут ждать.</rus>
 		<eng>Fenrir asked to bring him the PDA from his sniper's nest at the Cordon. It's located outside the territory, on a tree, not far from Sidorovich's bunker, adjacent the anomalous zone. The location is marked on the map. Fenrir warned we that there would someone waiting for me there.</eng>
 		<ukr>Фенрір попросив принести йому КПК з його сховка на Кордоні. Сховок знаходиться за кордоном території, на дереві, недалеко від бункера Сидоровича, поруч з аномальною зоною. Місце відзначено на карті. Фенрір попередив, що мене там будуть чекати.</ukr>
 		<pln>Fenrir poprosił mnie by przynieść mu PDA z jego leża na Kordonie. Leże znajduje się za granicą lokacji, na drzewie, niedaleko bunkra Sidorowicza, przy anomaliach. Miejsce jest zaznaczone na mapie. Fenrir uprzedził, że będą tam na mnie czekać.</pln>
@@ -4772,19 +4766,19 @@
 		<pln>Znaleźć drugą część recepty</pln>
 	</string>
 	<string id="snpt_cp2_text">
-		<rus>Вторая часть рецепта на этот чудодейственный артефакт записана в ПДА учёного Клёнова. Он оставил свой ПДА в гостинице в Центральной Припяти. Номер он не помнит, но помнит, что жил он не высоко. Учёных обычно селили на нижних этажах.</rus>
+		<rus>Вторая часть рецепта на этот чудодейственный артефакт записана в КПК учёного Клёнова. Он оставил свой КПК в гостинице в Центральной Припяти. Номер он не помнит, но помнит, что жил он не высоко. Учёных обычно селили на нижних этажах.</rus>
 		<eng>The second part of the recipe for this miraculous artefact is recorded in the PDA of Klenov the scientist. He left his PDA in a hotel in Central Pripyat. He doesn't remember the room number, but he does remember that he didn't live high up. Scientists usually occupied the lower floors.</eng>
 		<ukr>Друга частина рецепта на цей чудодійний артефакт записана в КПК вченого Кльонова. Він залишив свій КПК в готелі у Центральній Прип'яті. Номер він не пам'ятає, але пам'ятає, що жив він не високо. Вчених зазвичай селили на нижніх поверхах.</ukr>
 		<pln>Druga część recepty na ten cudowny artefakt zapisana jest w PDA naukowca Klonowa. Klonow zostawił swoje PDA w hotelu w Centralnej Prypeci. Numeru nie pamięta, lecz pamięta, że nie było tam wysoko. Naukowców zazwyczaj umieszczali na dolnych piętrach.</pln>
 	</string>
 	<string id="snpt_pp1_name">
-		<rus>Добыть ПДА Монолитовца</rus>
+		<rus>Добыть КПК Монолитовца</rus>
 		<eng>Get the Monolithian's PDA</eng>
 		<ukr>Добути КПК Монолітівця</ukr>
 		<pln>Zdobyć PDA Monolitowca</pln>
 	</string>
 	<string id="snpt_pp1_text">
-		<rus>Фенрир попросил найти его лёжку в Путепроводе, а затем ликвидировать сходку монолитовцев, которая будет там проходить. Там будет присутствовать монолитовец, который дал приказ на ликвидацию Фенрира в Старой Деревне. Нужно добыть этот ПДА и принести его Фенриру.</rus>
+		<rus>Фенрир попросил найти его лёжку в Путепроводе, а затем ликвидировать сходку монолитовцев, которая будет там проходить. Там будет присутствовать монолитовец, который дал приказ на ликвидацию Фенрира в Старой Деревне. Нужно добыть этот КПК и принести его Фенриру.</rus>
 		<eng>Fenrir asked me to find his sniper's post in the Underpass, and then eliminate the Monolithians at the meeting of that will take place there. The Monolithian who gave the order to eliminate Fenrir in the Old Village will be there. I need to get this PDA and bring it to Fenrir.</eng>
 		<ukr>Фенрір попросив знайти його сховок у Шляхопроводі, а потім ліквідувати сходку монолітівців, яка буде там проходити. Там буде присутній монолітівець, який дав наказ на ліквідацію Фенріра в Старому Селі. Потрібно добути його КПК і принести його Фенріру.</ukr>
 		<pln>Fenrir poprosił by znaleźć jego leże w Podziemiach Prypeci, a następnie zlikwidować zebranie monolitowców, które ma się tam odbyć. Będzie tam obecny monolitowiec, który dał zlecenie na likwidację Fenrira w Starej Wsi. Trzeba zdobyć jego PDA i przynieść je Fenrirowi.</pln>
@@ -5388,7 +5382,7 @@ A w swiat ludzi bariera wejść nie pozwoli.</pln>
 		<pln>Dane od Weskera</pln>
 	</string>
 	<string id="snp_profi_info_text">
-		<rus>Вот что Вескер сказал мне:\n \n"Я скину тебе координаты сразу всех мест и поставлю на каждое метку на карте. Эти тайники искать не нужно. Их нужно только собрать. Но: все эти тайники можно собрать, только используя различные, скорее всего, ещё не известные тебе трюки и фокусы, основанные на некоторых особенностях движка игры, зная которые, можно забираться в ещё гораздо более недоступные места. В игровом мире это называется Cheats and Tricks, или трюки и фокусы. Без них ты ни одного из этих тайников не возьмёшь. Тебе надо открыть для себя эти трюки и фокусы и научиться пользоваться ими, если ты этого ещё не сделал. Иначе у тебя ничего не получится. Некоторые из этих трюков и фокусов ты уже использовал в упрощённом варианте. Теперь пришла пора научиться пользоваться ими по взрослому.\nВсе эти трюки и фокусы абсолютно нестандартны. Они не имеют логического объяснения. Найти их можно или случайно, или думая нестандартно и пробуя самые невероятные и необычные сочетания клавиш перемещения и используя их в самые разные, зачастую очень точные моменты времени. Это задание невероятно сложное. Самое сложное из того, что есть в Зоне. Поэтому оно сделано, как бонусное, в самом конце, ни на что не влияющее. Ибо справиться с ним смогут только настоящие профи, которых единицы. Но у тебя есть шанс стать одним из них.\nХочу сказать ещё вот что: когда ты увидишь эти места, у тебя сразу появится желание залезть туда нечестным путём: используя гравипушку или подкладывая под ноги различные предметы. Поэтому гравипушка на время выполнения этого задания работать не будет. Что касается предметов, то в пару мест они тебе, может, и помогут залезть, но тогда ты не научишься тем трюкам и фокусам, о которых мы сейчас говорим. А без них все тайники ты не соберёшь. Также, чтобы не портить твою статистику, никакого задания в ПДА не будет, поэтому, если ты не справишься с этими тайниками, то на твою статистику это никак не повлияет и никак не скажется на твоих Достижениях.\nЧтобы немного разнообразить задание, на ЧАЭС-2 будет пять меток на тайники, но одна из них относится к ЧАЭС-1, не забудь. Как соберёшь все тайники, в последнем откроешь для себя кое-что интересное.\nИ последнее: если у тебя не получится собрать все тайники - не расстраивайся. Это по настоящему сложные и необычные перемещения. У тебя они очень долго не будут получаться даже тогда, когда ты внимательно изучишь в ГИДе видео по взятию каждого из них. Поэтому не унывай. Уже одно то, что ты не бросил на полпути сюжет "Снайпер" и добрался до самого конца, говорит о том, что ты - настоящий S.T.A.L.K.E.R., способный проявлять недюжинное терпение, упорство, настойчивость и огромное стремление достигать поставленной цели, какой бы сложной она ни была!".\n \n \n \n \n</rus>
+		<rus>Вот что Вескер сказал мне:\n \n"Я скину тебе координаты сразу всех мест и поставлю на каждое метку на карте. Эти тайники искать не нужно. Их нужно только собрать. Но: все эти тайники можно собрать, только используя различные, скорее всего, ещё не известные тебе трюки и фокусы, основанные на некоторых особенностях движка игры, зная которые, можно забираться в ещё гораздо более недоступные места. В игровом мире это называется Cheats and Tricks, или трюки и фокусы. Без них ты ни одного из этих тайников не возьмёшь. Тебе надо открыть для себя эти трюки и фокусы и научиться пользоваться ими, если ты этого ещё не сделал. Иначе у тебя ничего не получится. Некоторые из этих трюков и фокусов ты уже использовал в упрощённом варианте. Теперь пришла пора научиться пользоваться ими по взрослому.\nВсе эти трюки и фокусы абсолютно нестандартны. Они не имеют логического объяснения. Найти их можно или случайно, или думая нестандартно и пробуя самые невероятные и необычные сочетания клавиш перемещения и используя их в самые разные, зачастую очень точные моменты времени. Это задание невероятно сложное. Самое сложное из того, что есть в Зоне. Поэтому оно сделано, как бонусное, в самом конце, ни на что не влияющее. Ибо справиться с ним смогут только настоящие профи, которых единицы. Но у тебя есть шанс стать одним из них.\nХочу сказать ещё вот что: когда ты увидишь эти места, у тебя сразу появится желание залезть туда нечестным путём: используя гравипушку или подкладывая под ноги различные предметы. Поэтому гравипушка на время выполнения этого задания работать не будет. Что касается предметов, то в пару мест они тебе, может, и помогут залезть, но тогда ты не научишься тем трюкам и фокусам, о которых мы сейчас говорим. А без них все тайники ты не соберёшь. Также, чтобы не портить твою статистику, никакого задания в КПК не будет, поэтому, если ты не справишься с этими тайниками, то на твою статистику это никак не повлияет и никак не скажется на твоих Достижениях.\nЧтобы немного разнообразить задание, на ЧАЭС-2 будет пять меток на тайники, но одна из них относится к ЧАЭС-1, не забудь. Как соберёшь все тайники, в последнем откроешь для себя кое-что интересное.\nИ последнее: если у тебя не получится собрать все тайники - не расстраивайся. Это по настоящему сложные и необычные перемещения. У тебя они очень долго не будут получаться даже тогда, когда ты внимательно изучишь в ГИДе видео по взятию каждого из них. Поэтому не унывай. Уже одно то, что ты не бросил на полпути сюжет "Снайпер" и добрался до самого конца, говорит о том, что ты - настоящий S.T.A.L.K.E.R., способный проявлять недюжинное терпение, упорство, настойчивость и огромное стремление достигать поставленной цели, какой бы сложной она ни была!".\n \n \n \n \n</rus>
 		<eng>Here's what Wesker told me:\n \n"I'll send you the coordinates of all the places at once and put a mark of each one on your map. You don't need to look for these caches. You only need to collect them. But: you can only collect all these caches by using various tips and tricks based on some features of the game engine, mostly unknown to you, after knowing which, you can climb into much more inaccessible places. In the game world, this is called Cheats and Tricks, or tips and tricks. You can't take any of these caches without them. You need to discover these tips and tricks and learn how to use them, if you haven't already done so. Otherwise, you will not succeed. You have already used some of these tips and tricks in a simplified form. Now it's time to learn how to use them in an adult way.\nAll these tips and tricks are completely non-standard. They have no logical explanation. You can find them either by chance or by thinking outside the box and trying the most incredible and unusual combinations of navigation keys and using them at very different, often very precise times. This task is incredibly difficult. The most difficult of what's in the Zone. Therefore, it's made as a bonus, at the very end, not affecting anything. It's only for only real pros, of whom there are only a few, that can cope with it. But you have a chance to become one of them.\nI want to say one more thing: when you see these places, you will immediately have a desire to get there dishonestly: using a gravity gun or placing various objects under your feet. Therefore, at the time of completion of this task,  the gravity gun will not work. As for the items, they may help you get into a couple of places, but then you will not learn the tips and tricks that we are talking about now. And without them, you can't collect all the caches. Also, in order not to spoil your statistics, there will be no task in the PDA, so if you don't cope with these caches, it won't affect your statistics and Achievements in any way.\nTo diversify the task a little, there'll be five tags for caches at the CNPP-2, but one of them belongs to the CNPP-1, so don't forget. As soon as you collect all the caches, you will discover something interesting in the last one.\nAnd one last thing: if you can't collect all the caches - don't worry. These are really complex and unusual movements. You won't be able get them for a very long time, even when you carefully study the video Guide for taking each one of them. So don't be discouraged. Just the mere fact that you didn't give up the plot of the "Sniper" halfway through and got to the very end, suggests that you're a real S. T. A. L. K. E. R., able to show remarkable patience, persistence, perseverance and a great desire to achieve the goal, no matter how difficult it may be!".\n \n \n \n \n</eng>
 		<ukr>Ось що Вескер сказав мені:\n \n"Я скину тобі координати відразу всіх місць і поставлю на кожне місце мітку на карті. Ці схованки шукати не потрібно. Їх потрібно тільки зібрати. Але: всі ці схованки можна зібрати, тільки використовуючи різні, швидше за все, ще не відомі тобі трюки і фокуси, засновані на деяких особливостях двигуна гри, знаючи які, можна забиратися в ще набагато більш недоступні місця. В ігровому світі це називається Cheats and Tricks, або трюки і фокуси. Без них ти жодну з цих схованок не візьмеш. Тобі треба відкрити для себе ці трюки і фокуси і навчитися користуватися ними, якщо ти цього ще не зробив. Інакше у тебе нічого не вийде. Деякі з цих трюків і фокусів ти вже використав у спрощеному варіанті. Тепер прийшла пора навчитися користуватися ними по дорослому.\nВсі ці трюки і фокуси абсолютно нестандартні. Вони не мають логічного пояснення. Знайти їх можна або випадково, або думаючи нестандартно і пробуючи найнеймовірніші і незвичайні поєднання клавіш переміщення і використовуючи їх у самі різні, часто дуже точні моменти часу. Це завдання неймовірно складне. Найскладніше з того, що є в Зоні. Тому воно зроблено, як бонусне, на самому кінці, воно ні на що не впливає. Бо впоратися з ним зможуть тільки справжні профі, яких одиниці. Але у тебе є шанс стати одним з них.\nХочу сказати ще ось що: коли ти побачиш ці місця, у тебе відразу з'явиться бажання залізти туди нечесним шляхом: використовуючи гравіпушку або підкладаючи під ноги різні предмети. Тому гравіпушка на час виконання цього завдання працювати не буде. Що стосується предметів, то в пару місць вони тобі, може, і допоможуть залізти, але тоді ти не навчишся тим трюкам і фокусам, про які ми зараз говоримо. А без них всі схованки ти не збереш. Також, щоб не псувати твою статистику, ніякого завдання в КПК не буде, тому, якщо ти не впораєшся з цією схованкою, то на твою статистику це ніяк не вплине і ніяк не позначиться на твоїх досягненях.\nЩоб трохи урізноманітнити завдання, на ЧАЕС-2 буде п'ять міток на схованки, але одна з них відноситься до ЧАЕС-1, не забудь. Коли збереш всі схованки, в останній відкриєш для себе щось цікаве.\nІ останнє: якщо у тебе не вийде зібрати всі схованки - не переймайся. Це по справжньому складні і незвичайні переміщення. У тебе вони дуже довго не будуть виходити навіть тоді, коли ти уважно вивчиш в гіді відео з узяття кожного з них. Тому не сумуй. Вже одне те, що ти не кинув на півдорозі сюжет "Снайпер" і дістався до самого кінця, говорить про те, що ти - справжній S.T.A.L.K.E.R., здатний проявляти незвичайне терпіння, завзятість, наполегливість і велике прагнення досягати поставленої мети, якою б складною вона не була!".\n \n \n \n \n</ukr>
 		<pln>Oto co Wesker mi powiedział:\n \n"Wrzucę ci współrzędne wszystkich miejsc i postawię na każde z nich znacznik na mapie. Nie trzeba szukać tych schowków. Je trzeba tylko zebrać. Ale: do każdego z tych schowków można się dostać tylko wykorzystując różne, prawdopodobnie jeszcze ci nieznane tricki, wykorzystujące pewne właściwości silnika gry, wiedząc o których można dostać się w znacznie więcej pozornie niedostępnych lokalizacji. W światku gier to się nazywa Cheats and Tricks. Bez nich nie dostaniesz się do ani jednego schowka. Musisz odkryć te tricki i nauczyć się z nich korzystać, jeżeli dotychczas tego jeszcze nie zrobiłeś. Inaczej nic z tego nie wyjdzie. Z niektórych tych tricków już korzystałeś w uproszczonym wariancie. Teraz przyszła pora nauczyć się z nich korzystać po dorosłemu.\nWszystkie te tricki są absolutnie nietypowe. Nie mają logicznego wyjaśnienia. Znaleźć je można przypadkowo lub myśląc niestereotypowo i próbując najbardziej nieprawdopodobnych połączeń klawiszy ruchu i korzystając z nich w najróżniejszych, a często bardzo precyzyjnie określonych momentach gry. To zadanie nieprawdopodobnie skomplikowane. Dlatego występuje ono jako bonusowe, na samym końcu, nie wpływając na statystyki. Ponieważ poradzić sobie z nim będą mogli tylko najwięksi mistrzowie. Ale masz szansę być jednym z nich.\nChcę ci powiedzieć jeszcze jedno: kiedy zobaczysz te miejsca z schowkiem, od razu pojawi ci się myśl by wejść tam nieuczciwą drogą: korzystając z karabinu grawitacyjnego lub podkładając sobie pod nogi różne przedmioty. Dlatego karabin grawitacyjny na czas realizacji tego zadania nie będzie działać. Co się tyczy przedmiotów, to w danej lokalizacji może i pomogą ci wejść, ale wtedy nie nauczysz się tych tricków o których teraz mówimy. A bez nich wszystkich schowków nie zbierzesz. By nie psuć twojej statystyki żadnego zadania w PDA nie będzie, dlatego jeżeli sobie nie poradzisz z tymi schowkami, to na twoją statystykę to w żaden sposób nie wpłynie i w żaden sposób nie odbije się to na twoich Osiągnięciach.\nŻeby trochę urozmaicić zadanie, na CEA-2 będzie pięć znaczników na schowki, ale jeden z nich odnosi się do CEA-1, NIE ZAPOMNIJ. Jak zbierzesz wszystkie schowki, w ostatnim znajdziesz dla siebie coś atrakcyjnego.\n I na koniec: jeżeli nie uda ci się zebrać wszystkich schowków - nie denerwuj się. To jest nieprawdopodobnie złożone i trudne zadanie. Tricki bardzo długo nie będą ci wychodzić, nawet wtedy gdy zapoznasz się z poradnikami wideo. Dlatego nie martw się. Już to, że nie porzuciłeś w połowie drogi fabuły "Snajpera" i dotarłeś do samego końca, mówi, że jesteś prawdziwym STALKEREM, zdolnym wykazać nietuzinkową cierpliwość, upór i ogromne dążenie do osiągnięcia postawionego celu, jakkolwiek by złożony nie był!".\n \n \n \n \n</pln>
@@ -5413,7 +5407,7 @@ A w swiat ludzi bariera wejść nie pozwoli.</pln>
 В части, где служил Марк, всем солдатам после завершения службы, перед отправкой домой, предлагали подписать контракт на продолжение службы в Зоне Отчуждения. Тогда Марк не знал, что собой представляет Зона Отчуждения и не согласился. Несколько солдат тогда приняли предложение.\n
 Однажды, сидя в кафе, он встретил своего сослуживца, который был его тогдашним лучшим другом, и который согласился выполнить условия контракта. Они выпили за встречу, завязался разговор. Марк спросил его о Зоне. Со слов его собеседника он понял, что Зона - это закрытая территория и информация о реальной картине всего происходящего внутри её секретна. Он сказал, что на её территории работают учёные и что-то там изучают. Также на территории Зоны Отчуждения были замечены неопознанные и крайне агрессивные и опасные животные и аномальные места. Кроме того, учёные сообщили им о неких необычных предметах, которые они стали находить. Они назвали их Артефактами, потому что эти предметы обладали необыкновенными и удивительными свойствами, которые необходимо было изучить. В общем, они попросили всех при нахождении таких предметов передавать их им за хорошую плату. Помимо этого, на территории Зоны начали появляться люди, именуемые себя Сталкерами. Их цель пребывания на закрытой территории и назначение пока не известны, но предполагалось, что это обычные искатели, занятые поиском артефактов, которые они впоследствии продают учёным. Проводились задержания таких личностей. Как правило, при себе у них не было документов, но практически все они имели при себе холодное или огнестрельное оружие. В основном это были преступники, на которых числились грабежи, убийства, побеги из мест заключения, и которые скрывались от правосудия. Они рассказывали крайне интересные и необыкновенные истории и легенды о том, что происходит в глубине Зоны Отчуждения. Самой частой и самой	 загадочной историей всех пойманных Сталкеров была легенда об Исполнителе Желаний, или Монолите.\n
 После того разговора Марк долго думал и в итоге решил отправиться в Зону и попытаться самому разгадать загадку Исполнителя Желаний. Он продал всё, что у него было, купил всю необходимое обмундирование и узнал более подробно о Зоне и о том, как туда проникнуть. Благополучно миновав блокпост военных и пробравшись через Периметр, он пришёл в Деревню Новичков, где встретил Доктора. Так как в Деревне Новичков никто не назывался своим настоящим именем, то Марк представился Доктору Стрелком и попросил его, чтобы он подробнее рассказал о Монолите и том, как туда можно проникнуть. Доктор поделился с ним тем, что знал сам. Вскоре Доктор познакомил его с хорошими людьми: Клыком и Призраком. Они тоже заинтересовались предложением Стрелка. Группа Стрелка начала собирать всю необходимую информацию, которая могла бы помочь им в их деле.\n
-Когда они отправились в путь и были уже на полпути к Монолиту, вдруг всё пошло наперекосяк. С Призраком пропала связь, пришла информация, что убили Клыка. Стрелку ничего не оставалось, как идти одному. По никому не известной тропе он упорно шёл на север и добрался до Саркофага. Стрелок спустился внутрь, и перед самым Монолитом произошло то, от чего он потерял сознание. Нет, это было не излучение, это было что-то другое, необъяснимое... После того, как Стрелок потерял сознание, его доставили в Бункер Управления Монолитом и там решалась его судьба. Как и во всех подобных случаях, было принято решение запрограммировать Стрелка на служение Монолиту и выполнение заданий О-Сознания. Они "пометили" Стрелка и отправили его на грузовике смерти обратно в Зону. О-Сознание надеялось, что он выведет их на след его друзей, которые тоже были необходимы им для дальнейшего контроля и расширения Зоны. Но даже если всё пойдёт не так, как задумывалось, то есть ещё один, стопроцентно верный вариант. Они занесли в его ПДА задание: "Убить Стрелка".\n \n \n \n \n</rus>
+Когда они отправились в путь и были уже на полпути к Монолиту, вдруг всё пошло наперекосяк. С Призраком пропала связь, пришла информация, что убили Клыка. Стрелку ничего не оставалось, как идти одному. По никому не известной тропе он упорно шёл на север и добрался до Саркофага. Стрелок спустился внутрь, и перед самым Монолитом произошло то, от чего он потерял сознание. Нет, это было не излучение, это было что-то другое, необъяснимое... После того, как Стрелок потерял сознание, его доставили в Бункер Управления Монолитом и там решалась его судьба. Как и во всех подобных случаях, было принято решение запрограммировать Стрелка на служение Монолиту и выполнение заданий О-Сознания. Они "пометили" Стрелка и отправили его на грузовике смерти обратно в Зону. О-Сознание надеялось, что он выведет их на след его друзей, которые тоже были необходимы им для дальнейшего контроля и расширения Зоны. Но даже если всё пойдёт не так, как задумывалось, то есть ещё один, стопроцентно верный вариант. Они занесли в его КПК задание: "Убить Стрелка".\n \n \n \n \n</rus>
 		<eng>Gromov Sergey Yakovlevich and his family lived in the small town of Kamensk-Shakhtinsky, in the Rostov region. He was married to Valeria Gromov, who worked as a nurse in the local hospital. They had a 10-year-old son, Gromov Mark Sergeevich. Life didn't work out too well for them. Sergey had a higher technical education, and after a long and fruitless search for work in his speciality in his native city, living on casual earnings, he was already thinking about getting another trade. While the husband was looking for a job, his wife Valeria worked in the city hospital as a part-time nurse. The salary was barely enough to support two people, and with the birth of a child, the situation deteriorated greatly, and so she began to work the night shift, for which an increase in salary was accrued.\n 
 A year later, Sergey received a letter stating that a worker with his qualifications was required at the Chernobyl Nuclear Power Plant. If he accepted the offer, he would receive a good salary, his family would be allocated a separate apartment for living in the working city of Pripyat, and his wife would be offered a job.\n
 Without hesitation, Sergey agreed and the family moved to Pripyat in the Ukraine. As stated in the letter, they were given a two-room apartment, Sergey got a job at the Chernobyl NPP, and Valery was first offered a job at the "Firefly" store. Sergey worked in the sub-reactor room of the fourth power unit. Once a year, Sergey took a vacation and went hunting with his work colleagues and friends. His son Mark, asked his father to take him with him, but his father was strongly against it. Instead of allowing his son to shoot a real animal with a real gun, he instead took Mark to the shooting range. "It's better than nothing son, believe me." - his father told him, and Mark soon come to terms with it.\n
@@ -6146,7 +6140,7 @@ Kiedy ruszyli i byli już w połowie drogi do Monolitu, nagle wszystko zaczęło
 		<pln>Zlecenie Dragunowa</pln>
 	</string>
 	<string id="tex_bandit_krisyk_pomer_name">
-		<rus>Вернуть ПДА Крысюка</rus>
+		<rus>Вернуть КПК Крысюка</rus>
 		<eng>Return Krysyuk's PDA</eng>
 		<ukr>Повернути КПК Крисюка</ukr>
 		<pln>Zwrócić PDA Krysiuka</pln>

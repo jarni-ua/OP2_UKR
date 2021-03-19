@@ -866,11 +866,11 @@
 		<pln>Zadanie nie powiodło się:		</pln>
 	</string>
 	<string id="general_help">
-		<rus>Срочно нужна аптечка, помираю!!</rus>
-		<eng>I urgently need a medkit, I'm dying!!</eng>
+		<rus>Срочно нужна аптечка, помираю!</rus>
+		<eng>I urgently need a medkit, I'm dying!</eng>
 		<ukr>Терміново потрібна аптечка, помираю!</ukr>
-		<fra>J'ai besoin de toute urgence d'une trousse de secours, je vais mourir!!</fra>
-		<pln>Szybko! Potrzebuję apteczki! Umieram!!</pln>
+		<fra>J'ai besoin de toute urgence d'une trousse de secours, je vais mourir!</fra>
+		<pln>Szybko! Potrzebuję apteczki! Umieram!</pln>
 	</string>
 	<string id="general_in_item">
 		<rus>Получен предмет:		</rus>
@@ -1571,6 +1571,26 @@
 		<ukr>Радіомаяк встановлений</ukr>
 		<fra>La balise radio est installée</fra>
 		<pln>===Заменить хорошую водку на палёную</pln>
+	</string>
+	<string id="plastid_use">
+		<rus>Установить взрывчатку</rus>
+		<eng>===Install a radio beacon</eng>
+		<ukr>Встановити вибухівку</ukr>
+	</string>
+	<string id="plastid_used">
+		<rus>Взрывчатка установлена</rus>
+		<eng>===The radio beacon has been placed</eng>
+		<ukr>Вибухівка встановлена</ukr>
+	</string>
+	<string id="sherstuk_bomba_use">
+		<rus>Начать маскировку бомбы</rus>
+		<eng>===The radio beacon has been placed</eng>
+		<ukr>Почати маскування бомби</ukr>
+	</string>
+	<string id="st_sherstuk_bomba">
+		<rus>До окончания маскировки</rus>
+		<eng>===The radio beacon has been placed</eng>
+		<ukr>До закінчення маскування</ukr>
 	</string>
 	<string id="st_time_mina_bum">
 		<rus>Приблизительное время до взрыва</rus>

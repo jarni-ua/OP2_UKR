@@ -804,6 +804,18 @@
 		<ukr>Інвентар слюсаря</ukr>
 		<pln>Schowek ślusarza</pln>
 	</string>
+	<string id="agr_secret_0028_descr">
+		<rus>Нашёл недавно брошенный кем-то рюкзак. Место неприметное, можно и тайник здесь устроить.</rus>
+		<eng>===Convenient box for small things, I kept bench work tools in such one at home.</eng>
+		<ukr>Знайшов нещодавно кинутий кимось рюкзак. Місце непримітне, можна і схованку тут влаштувати.</ukr>
+		<pln>===Skrzynia do przechowywania niewielkich przedmiotów. W domu trzymam w takiej narzędzia.</pln>
+	</string>
+	<string id="agr_secret_0028_name">
+		<rus>Бесхозный рюкзак</rus>
+		<eng>===Locksmith's inventory</eng>
+		<ukr>Нічийний рюкзак</ukr>
+		<pln>===Schowek ślusarza</pln>
+	</string>
 	<string id="agr_u_secret_0000_descr">
 		<rus>Бандиты что-то прячут под трубой, надо наведаться. Из разговора ясно, что там их запасы.</rus>
 		<eng>The bandits are hiding something under the pipe, we should check it. According to the conversation there are their stocks there.</eng>
@@ -2832,6 +2844,16 @@
 		<ukr>Схованка у машині</ukr>
 		<pln>Schowek w samochodzie</pln>
 	</string>
+	<string id="val_secret_0033_description">
+		<rus>Боров, жирная свинья, забирает в общак слишком много, поэтому припрячу-ка здесь для себя кое-какие припасы.</rus>
+		<eng>===There must be Krysyuk's PDA here</eng>
+		<ukr>Кабан, жирна свиня, забирає в общак занадто багато, тому приховаю-но тут для себе деякі припаси.</ukr>
+	</string>
+	<string id="val_secret_0033_name">
+		<rus>Временная нычка</rus>
+		<eng>===Krysyuk's stash</eng>
+		<ukr>Тимчасова ничка</ukr>
+	</string>
 	<string id="x16_secret_0000_description">
 		<rus>Слухи ходят, что был сталкер, который в эту лабораторию проник и припрятал свой хабар в электрощиток в шахте лифта. А забрать его уже не смог.</rus>
 		<eng>There say there was a stalker who got into the laboratory and hid his loot in a power panel in the elevator shaft. I could not take it.</eng>
@@ -3625,7 +3647,7 @@
 		<pln>Towar przy trupie</pln>
 	</string>
 	<string id="marsh_secret_0047_descr">
-		<rus>Нашёл тухлый труп с не обысканным хабаром. Сделаю здесь схрон, раз ту-ту никто не ходит.</rus>
+		<rus>Нашёл тухлый труп с не обысканным хабаром. Сделаю здесь схрон, раз тут никто не ходит.</rus>
 		<eng>I found a rotten corpse with not searched loot. I will make a stash here, since no one walks that way.</eng>
 		<ukr>Знайшов тухлий труп з необшуканим хабаром. Зроблю тут схрон, раз тут ніхто не ходить.</ukr>
 		<pln>Znalazłem stęchłego trupa z wyposażeniem. Zrobię tu sobie schowek, skoro najwidoczniej nikt tu nie chodzi.</pln>
@@ -4933,7 +4955,7 @@
 		<pln>Wojskowy towar</pln>
 	</string>
 	<string id="vp_secret_19_descr">
-		<rus>Господи, только не это! Кажется, я умудрился заблудиться в этом страшном городе! ПДА вырубился, капитан не отвечает на запросы. Куда идти - непонятно. Кругом мутанты, из каждого окна выглядывают зомби. Нет, если буду просто так бродить по Припяти, не зная дороги, то точно влечу в аномалию или на минное поле. Лучше окопаюсь здесь и буду держать оборону до прилёта вертолётов эвакуации. Полковник обещал, что в случае чего они нас заберут. Хочется верить его словам...</rus>
+		<rus>Господи, только не это! Кажется, я умудрился заблудиться в этом страшном городе! КПК вырубился, капитан не отвечает на запросы. Куда идти - непонятно. Кругом мутанты, из каждого окна выглядывают зомби. Нет, если буду просто так бродить по Припяти, не зная дороги, то точно влечу в аномалию или на минное поле. Лучше окопаюсь здесь и буду держать оборону до прилёта вертолётов эвакуации. Полковник обещал, что в случае чего они нас заберут. Хочется верить его словам...</rus>
 		<eng>Lord, please no! It seems I got lost in this terrible city! PDA died, the captain does not respond to requests. I have no idea where to go. There are mutants everywhere, zombies are peeping through every window. No, if I keep wandering around Pripyat without knowing the way, I will definitely get into an anomaly or a minefield. I'd better dig in here and hold the fort until the evacuation helicopters arrive. The colonel promised they would take us if something happens. I want to believe his words...</eng>
 		<ukr>Господи, тільки не це! Здається, я примудрився заблукати у цьому страшному місті! КПК вирубався, капітан не відповідає на запити. Куди йти - незрозуміло. Кругом мутанти, з кожного вікна визирають зомбі. Ні, якщо буду просто так бродити по Прип'яті, не знаючи дороги, то точно влечу у аномалію або на мінне поле. Краще окопаюсь тут і буду тримати оборону до прильоту вертольотів евакуації. Полковник обіцяв, що у разі чого вони нас заберуть. Хочеться вірити його словам...</ukr>
 		<pln>Boże, tylko nie to! Zdaje się, że udało mi się zabłądzić w tym strasznym mieście! PDA się zepsuło, kapitan nie odpowiada na wezwanie. Dokąd iść - nie wiadomo. Dookoła mutanty, z każdego okna wyglądają zombie. Nie, jeżeli tak po prostu będę łazić po Prypeci, nie znając drogi, to z pewnością wpadnę w anomalię albo na pole minowe. Dobrego okopię się tu i będę się bronił do przylotu helikopterów ewakuacyjnych. Pułkownik obiecał, że w razie czego nas zabiorą. Chciałbym wierzyć jego słowom...</pln>
@@ -5581,7 +5603,7 @@
 		<pln>Drzewo na rozwidleniu</pln>
 	</string>
 	<string id="zat_secret_43_descr">
-		<rus>Нашёл ПДА, разбитый пулей. Удалось расшифровать лишь одну запись: "Отдыхал около аномалии "Цирк", любовался огнями. Вдруг из кустов выполз израненный монолитовец. Эти фанатики, выйдя из-под действия Радара, почти всегда становятся невменяемыми. По сути, я только нескольких правильных монолитовцев знал - Брода и его группу. А этот начал на меня кидаться и пытаться пистолет из кобуры достать. Я, ясное дело, завалил его. Ствол забрал с собой, а всё остальное спрятал не дереве неподалёку. Вряд ли пригодится, но, может быть, продам кому-нибудь. Древолаз". Кстати, владелец явно живой остался - неподалёку нашёл выпотрошенную аптечку, бинты и пару использованных артефактов "Душа".</rus>
+		<rus>Нашёл КПК, разбитый пулей. Удалось расшифровать лишь одну запись: "Отдыхал около аномалии "Цирк", любовался огнями. Вдруг из кустов выполз израненный монолитовец. Эти фанатики, выйдя из-под действия Радара, почти всегда становятся невменяемыми. По сути, я только нескольких правильных монолитовцев знал - Брода и его группу. А этот начал на меня кидаться и пытаться пистолет из кобуры достать. Я, ясное дело, завалил его. Ствол забрал с собой, а всё остальное спрятал не дереве неподалёку. Вряд ли пригодится, но, может быть, продам кому-нибудь. Древолаз". Кстати, владелец явно живой остался - неподалёку нашёл выпотрошенную аптечку, бинты и пару использованных артефактов "Душа".</rus>
 		<eng>I found a PDA broken by a bullet. I managed to decode only one record: “I rested around the Circus anomaly, admired the lights. Suddenly a wounded Monolithian crawled out of the bushes. These fanatics, coming out from the action of Radar, almost always become crazy. In fact, I knew only a few normal Monolithians, Brod and his group. And this one started to attack me and try to get a gun from the holster. Of course, I killed him. I took the gun with me, and hid all the rest on a tree nearby. I won't really need it, but maybe I can sell it to someone. Climber." By the way, the owner must be alive. I found a cleaned out first-aid kit, bandages and a couple of used "Soul" artifacts nearby.</eng>
 		<ukr>Знайшов КПК, розбитий кулею. Вдалося розшифрувати лише один запис: "Відпочивав біля аномалії "Цирк", милувався вогнями. Раптом з кущів виповз поранений Монолітівець. Ці фанатики, вийшовши з-під дії Радару, майже завжди стають неосудними. По суті, я тільки кількох правильних монолітівців знав - Брода і його групу. А цей почав на мене кидатися і намагатися пістолет з кобури дістати. Я, певна річ, завалив його. Ствол забрав із собою, а все інше сховав на дереві неподалік. Навряд чи знадобиться, але, може бути, продам кому-небудь. Дереволаз". До речі, власник явно живий залишився - неподалік знайшов випотрошену аптечку, бинти та пару використаних артефактів "Душа".</ukr>
 		<pln>Znalazłem PDA, rozbite przez kulę. Udało się odzyskać tylko jeden zapis: "Odpoczywałem przy anomalii Cyrk, cieszyłem się ogniami. Nagle z krzaków wyczołgał się ranny monolitowiec. Ci fanatycy, wychodząc spod działania Mózgozwęglacza, prawie zawsze stają się niepoczytalni. W istocie, ja tylko kilku normalnych monolitowców widziałem - Brodę i jego grupę. I ten chciał się na mnie rzucić i już próbował pistolet z kabury wyciągnąć. Ja, jasna sprawa, rozwaliłem go. Broń zabrałem z sobą, a całą resztę schowałem na drzewie nieopodal. Chyba nie przyda się, ale, być może, sprzedam to komuś. Drzewołaz". Przy okazji, właściciel z pewnością przeżył - nieopodal znalazłem pustą apteczkę, bandaże i kilka zużytych artefaktów "Dusza"</pln>
@@ -6526,10 +6548,10 @@
 
 	<!-- На этой территории скорее всего поискать стоит. -->
 	<string id="treasure_hint">
-		<rus>скорее всего поискать стоит. Где-то там он, точно говорю.</rus>
-		<eng>most likely it is worth searching. Somewhere there, I'm sure.</eng>
-		<ukr>швидше за все пошукати варто. Десь там він, точно кажу.</ukr>
-		<pln>najprawdopodobniej warto poszukać. On tam gdzieś jest, na pewno.</pln>
+		<rus>, где-то там он, точно говорю.</rus>
+		<eng>, somewhere there, I'm sure.</eng>
+		<ukr>, десь там він, точно кажу.</ukr>
+		<pln>, on tam gdzieś jest, na pewno.</pln>
 	</string>
 	<string id="treasure_stolen">
 		<rus>С тайника убрали замок.</rus>

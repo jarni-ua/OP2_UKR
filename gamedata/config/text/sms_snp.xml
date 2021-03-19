@@ -15,7 +15,7 @@
 		<pln>Proper, idę do was. Zaniosło mnie na CEA-2. Ale są postępy!</pln>
 	</string>
 	<string id="sms_strelok_snp_pda8_0">
-		<rus>Бродяга, я выполнил заказ. У меня ПДА клиента. Отправляю тебе с него несколько файлов в качестве доказательства, что дело сделано.</rus>
+		<rus>Бродяга, я выполнил заказ. У меня КПК клиента. Отправляю тебе с него несколько файлов в качестве доказательства, что дело сделано.</rus>
 		<eng>Tramp, I fulfilled the order. I have the client's PDA. I'm sending you several files from it as proof that the task is done.</eng>
 		<ukr>Волоцюга, я виконав замовлення. У мене КПК клієнта. Відправляю тобі з нього кілька файлів як докази, що справу зроблено.</ukr>
 		<fra>Tramp, j'ai complété la commande. J'ai un client PDA. Je vous envoie plusieurs fichiers de sa part pour prouver que l'acte est accompli.</fra>
@@ -29,7 +29,7 @@
 		<pln>Otrzymałem! Dziękuję za pomoc, Striełok. Czekam na ciebie na Skadowsku.</pln>
 	</string>
 	<string id="checking_taken_item_snp_4_0">
-		<rus>Э, нет, братец! Если бы это было так просто, я бы тебя не просил! Этот ПДА я специально оставил здесь, чтобы проверить, не попытаешься ли ты меня провести. Лёжка моя совсем в другом месте. Ищи её!</rus>
+		<rus>Э, нет, братец! Если бы это было так просто, я бы тебя не просил! Этот КПК я специально оставил здесь, чтобы проверить, не попытаешься ли ты меня провести. Лёжка моя совсем в другом месте. Ищи её!</rus>
 		<eng>Oh, no, brother! If it were so simple, I would not ask you! I left this PDA here on purpose to see if you would try to cheat me. My lair is in a completely different place. Look for it!</eng>
 		<ukr>Е, ні, братику! Якби це було так просто, я б тебе не просив! Цей КПК я спеціально залишив тут, щоб перевірити, чи не спробуєш ти мене провести. Лежанка моя зовсім в іншому місці. Шукай її!</ukr>
 		<fra>Euh, non, mon frère! Si c'était si simple, je ne vous le demanderais pas! J'ai spécifiquement laissé ce PDA ici pour voir si vous voulez me guider. Mon lit est dans un endroit complètement différent. La chercher!</fra>
@@ -218,7 +218,7 @@
 		<pln>Funkcja ustalania pozycji cienia dla posiadacza PUPC aktywowana. Dla uniknięcia niepożądanych błędów nie usuwaj przyrządu z aktywnego slotu. Następny punkt pozycji cienia - Jupiter, wieża, wskazująca na wagon. Czas: 16.30.</pln>
 	</string>
 	<string id="check_treasure_item_5">
-		<rus>Файл с найденного ПДА скопирован в раздел "Журнал\Данные на КПК."</rus>
+		<rus>Файл с найденного КПК скопирован в раздел "Журнал\Данные на КПК."</rus>
 		<eng>The file from the found PDA is copied to the section "Log \ Data on the PDA."</eng>
 		<ukr>Файл зі знайденого КПК зкопійований у розділ "Журнал\Дані на КПК."</ukr>
 		<fra>Le fichier du PDA trouvé est copié dans la section "Journal \ Données sur le PDA."</fra>
@@ -393,11 +393,11 @@
 		<pln>Otrzymana nowa recepta</pln>
 	</string>
 	<string id="gena_start_0_0">
-		<rus>Спасите, нахожусь в здании шко...</rus>
+		<rus>Помогите, я в здании шко...</rus>
 		<eng>Help me, I am in the scho...</eng>
-		<ukr>Рятуйте, перебуваю у будівлі шко...</ukr>
-		<fra>Aidez-moi, je suis dans le...bâtiment de l'école...</fra>
-		<pln>Ratujcie, znajduję się w budynku szko...</pln>
+		<ukr>Рятуйте, я в будівлі шко...</ukr>
+		<fra>===Aidez-moi, je suis dans le...bâtiment de l'école...</fra>
+		<pln>===Ratujcie, znajduję się w budynku szko...</pln>
 	</string>
 	<string id="sms_strelok_gena_start_2_0">
 		<rus>Профессор, кое-что появилось по вашему вопросу. Я только что получил сообщение непонятное, но думаю, оно отправлено интересующей вас личностью.</rus>
@@ -477,7 +477,7 @@
 		<pln>Jak to się stało?</pln>
 	</string>
 	<string id="sms_strelok_suslov_marsh_sms2_3_0">
-		<rus>Без понятия. Он лежит в подвале своей каморки. Причём уже довольно давно. В его ПДА записано, что он убирался на складе и попал в неизвестно откуда взявшийся телепорт, который закинул его сюда. Выбраться обратно он не смог... Свиблову сказал, что уехал, поэтому его и не искали... Кричал - но, видимо, не услышали...</rus>
+		<rus>Без понятия. Он лежит в подвале своей каморки. Причём уже довольно давно. В его КПК записано, что он убирался на складе и попал в неизвестно откуда взявшийся телепорт, который закинул его сюда. Выбраться обратно он не смог... Свиблову сказал, что уехал, поэтому его и не искали... Кричал - но, видимо, не услышали...</rus>
 		<eng>I have no idea. He lies in the basement of his den. And for quite some time. It is recorded in his PDA that he was cleaning up the depot and got into an unknown teleport that threw him here. He could not get back... He said to Sviblov that he had left, so they did not look for him... He shouted, but, apparently, they did not hear...</eng>
 		<ukr>Без поняття. Він лежить у підвалі своєї комірчини. Причому вже досить давно. У його КПК записано, що він прибирав на складі і потрапив у телепорт який невідомо взявся звідки і закинув його сюди. Вибратися назад він не зміг ... Свиблову сказав, що поїхав, тому його й не шукали ... Кричав - але, мабуть, не почули...</ukr>
 		<fra>Aucune idée. Il est couché dans le sous-sol de son placard. Et pendant pas mal de temps. Son PDA indique qu’il a nettoyé l’entrepôt et qu’il est entré dans un téléport inconnu, qui l’a jeté ici. Il ne pouvait pas rentrer ... Sviblov a déclaré qu'il était parti, ils ne l'ont donc pas cherché ... Il a crié - mais, apparemment, ils n'ont pas entendu...</fra>
