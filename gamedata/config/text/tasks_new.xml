@@ -197,25 +197,32 @@
 		<pln>Przynieść fleszkę Freemanowi</pln>
 	</string>
 	<string id="task_dan_pda_0">
-		<rus>КПК для Дэна</rus>
-		<eng>PDA for Dan</eng>
-		<ukr>КПК для Дена</ukr>
-		<fra>PDA pour Dan</fra>
-		<pln>PDA dla Dana</pln>
+		<rus>Сияние</rus>
+		<eng>===PDA for Dan</eng>
+		<ukr>===КПК для Дена</ukr>
+		<fra>===PDA pour Dan</fra>
+		<pln>===PDA dla Dana</pln>
 	</string>
 	<string id="task_dan_pda_1">
-		<rus>Собрать 40 КПК</rus>
-		<eng>Collect 40 PDAs</eng>
-		<ukr>Знайти 40 КПК</ukr>
-		<fra>Récupérer 40 PDA</fra>
-		<pln>Zebrać 40 PDA</pln>
+		<rus>Раздобыть фосфорную палку</rus>
+		<eng>===Collect 40 PDAs</eng>
+		<ukr>===Знайти 40 КПК</ukr>
+		<fra>===Récupérer 40 PDA</fra>
+		<pln>===Zebrać 40 PDA</pln>
 	</string>
 	<string id="task_dan_pda_2">
-		<rus>Отнести КПК Дэну</rus>
-		<eng>Bring the PDAs to Dan</eng>
-		<ukr>Принести 40 КПК Дену</ukr>
-		<fra>Apporter les PDA à Dan</fra>
-		<pln>Odnieść PDA Danowi</pln>
+		<rus>Наловить светлячков ночью в Тёмной Лощине</rus>
+		<eng>===Collect 40 PDAs</eng>
+		<ukr>===Знайти 40 КПК</ukr>
+		<fra>===Récupérer 40 PDA</fra>
+		<pln>===Zebrać 40 PDA</pln>
+	</string>
+	<string id="task_dan_pda_3">
+		<rus>Отнести Дэну рюкзак со светлячками</rus>
+		<eng>===Bring the PDAs to Dan</eng>
+		<ukr>===Принести 40 КПК Дену</ukr>
+		<fra>===Apporter les PDA à Dan</fra>
+		<pln>===Odnieść PDA Danowi</pln>
 	</string>
 	<string id="task_dan_grab_0">
 		<rus>Необычная посылка</rus>
@@ -379,11 +386,11 @@
 		<pln>Przynieść komputer uczonemu</pln>
 	</string>
 	<string id="task_yakut_true_0">
-		<rus>Поиск Призрака</rus>
-		<eng>Finding the Spectre</eng>
-		<ukr>Пошуки Привида</ukr>
-		<fra>Recherche du Spetre</fra>
-		<pln>Poszukiwanie Ducha</pln>
+		<rus>Призрачная надежда</rus>
+		<eng>===Finding the Spectre</eng>
+		<ukr>===Пошуки Привида</ukr>
+		<fra>===Recherche du Spetre</fra>
+		<pln>===Poszukiwanie Ducha</pln>
 	</string>
 	<string id="task_yakut_true_1">
 		<rus>Найти Призрака</rus>
@@ -477,11 +484,11 @@
 		<pln>Porozmawiać z Jakutem</pln>
 	</string>
 	<string id="task_treasure_sysh_0">
-		<rus>Тайник Сыча</rus>
-		<eng>The Owl's stash</eng>
-		<ukr>Схованка Сича</ukr>
-		<fra>Cache de la Chevêche</fra>
-		<pln>Schowek Sowy</pln>
+		<rus>Прощальная записка</rus>
+		<eng>===The Owl's stash</eng>
+		<ukr>===Схованка Сича</ukr>
+		<fra>===Cache de la Chevêche</fra>
+		<pln>===Schowek Sowy</pln>
 	</string>
 	<string id="task_treasure_sysh_1">
 		<rus>Найти записку Сыча на Заводе</rus>
@@ -491,7 +498,7 @@
 		<pln>Znaleźć notatkę Sowy w Zakładzie Metalurgicznym</pln>
 	</string>
 	<string id="task_treasure_sysh_2">
-		<rus>Принести записку Призраку</rus>
+		<rus>Отнести записку Призраку</rus>
 		<eng>Bring the note to the Spectre</eng>
 		<ukr>Принести записку Привиду</ukr>
 		<fra>Apporter la note au Spectre</fra>
@@ -618,10 +625,10 @@
 	</string>
 	<string id="task_barrem_talk_3">
 		<rus>Убить существо, контролирующее зомбированных</rus>
-		<eng>Kill the creature that controls zombies</eng>
+		<eng>===Kill the psychic that controls zombies</eng>
 		<ukr>Вбити створіння, яке контролює зомбованих</ukr>
-		<fra>Tuer la créature qui contrôle les zombies</fra>
-		<pln>===Zabić osobnika, kontrolującego zzombifikowanych</pln>
+		<fra>===Tuer le psionique qui contrôle les zombies</fra>
+		<pln>===Zabić psionika, kontrolującego zzombifikowanych</pln>
 	</string>
 	<string id="task_barrem_talk_4">
 		<rus>Отнести насадки Бармену</rus>
@@ -764,7 +771,7 @@
 		<pln>Schwytany zwiadowca</pln>
 	</string>
 	<string id="task_dyak_help_1">
-		<rus>Помочь бойцам "Чистого Неба" освободить своего лазутчика</rus>
+		<rus>Помочь бойцам Чистого Неба освободить своего лазутчика</rus>
 		<eng>Help the "Clear Sky" fighters to free their scout</eng>
 		<ukr>Допомогти бійцям "Чистого неба" звільнити свого шпигуна</ukr>
 		<fra>Aider les combattants de "Ciel Fin" à libérer leur éclaireur</fra>
@@ -1128,14 +1135,14 @@
 		<pln>Wrócić do Zachara</pln>
 	</string>
 	<string id="task_kot_find_rabi_0">
-		<rus>Поиск Рабиновича</rus>
+		<rus>Розыск Рабиновича</rus>
 		<eng>Finding Rabinovich</eng>
 		<ukr>Пошуки Рабиновича</ukr>
 		<fra>Recherche de Rabinovitch</fra>
 		<pln>Poszukiwanie Rabinowicza</pln>
 	</string>
 	<string id="task_kot_find_rabi_1">
-		<rus>Найти торговца Рабиновича</rus>
+		<rus>Разыскать торговца Рабиновича</rus>
 		<eng>Find the trader Rabinovich</eng>
 		<ukr>Знайти торговця Рабиновича</ukr>
 		<fra>Trouver le marchand Rabinovitch</fra>
@@ -1149,11 +1156,11 @@
 		<pln>Wrócić do Kota</pln>
 	</string>
 	<string id="task_kurier_first_0">
-		<rus>Встреча со Свибловым</rus>
-		<eng>Meeting with Sviblov</eng>
-		<ukr>Зустріч зі Свибловим</ukr>
-		<fra>Rencontre avec Sviblov</fra>
-		<pln>Spotkanie ze Swibłowem</pln>
+		<rus>Серьёзный разговор</rus>
+		<eng>===Meeting with Sviblov</eng>
+		<ukr>===Зустріч зі Свибловим</ukr>
+		<fra>===Rencontre avec Sviblov</fra>
+		<pln>===Spotkanie ze Swibłowem</pln>
 	</string>
 	<string id="task_kurier_first_1">
 		<rus>Встретиться со Свибловым</rus>

@@ -926,6 +926,97 @@
 		<fra>Apportez la combinaison fortifiée de Strelok.</fra>
 		<pln>Przynieść Biesowi wzmocniony kombinezon Striełoka.</pln>
 	</string>
+	<string id="skleroz_petruha_chain_text">
+		<rus>Список изношенных стволов для образовательного учреждения:\n \n
+			4х АКС-74У\n
+			4х АКС-74\n
+			4х АК-74\n
+			3х АК-104\n
+			3х АК-105\n
+			3х АН-94 «Абакан»\n
+			3х АК-74М «Кобра»\n
+			3х АК\n
+			3х АКМ\n
+			3х РПК\n
+			3х ОЦ-14-4 «Гроза»\n
+			3х РПК-74\n
+			3х АК-103\n
+			3х АК-74М\n
+			3х ПП-19-01 «Витязь»\n
+			3х ПП-19 «Бизон»\n
+			3х Colt M16A4\n
+			2х АЕК-971\n
+			2х АК-9\n
+			2х СВД\n
+			2х РПГ-7\n
+			1х ВСС «Винторез»\n
+			1х ПКП «Печенег»\n \n \n \n \n</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+		<pln>===</pln>
+	</string>
+	<string id="skleroz_shurup_chain_text">
+		<rus>Список оружия для апгрейда Шурупу:\n \n
+		1. Облегчённый АС «Вал»\n
+		2. Облегчённая Сайга-12К «Тактика»\n
+		3. Облегчённая СВД\n
+		4. Облегчённый ПКМ\n
+		5. Облегчённый FN P90\n \n
+		6. АК-74М «Кобра» под патрон 5.56х45\n
+		7. ПП-19 «Бизон» под патрон 9х19\n
+		8. АК-74 под патрон 5.56х45\n
+		9. HK G36 под патрон 5.45х39\n
+		10. SIG SG-550 под патрон 5.45х39\n \n
+		11. FA MAS G2 улучшенной кучности стрельбы\n
+		12. SIG SG-551 LB улучшенной кучности стрельбы\n
+		13. АК-74М улучшенной кучности стрельбы\n
+		14. Enfield L85A2 улучшенной кучности стрельбы\n
+		15. IMI UZI улучшенной кучности стрельбы\n \n
+		16. Облегчённый Scorpion Vz.82 под патрон 9х19\n
+		17. Облегчённый Tavor CTAR-21 под патрон 5.45х39\n
+		18. Облегчённый Colt M16A4 под патрон 5.45х39\n
+		19. Облегчённый АН-94 «Абакан» под патрон 5.56x45\n
+		20. Облегчённый FN F2000 под патрон 5.45х39\n \n
+		21. Облегчённая LR-300ML улучшенной кучности стрельбы\n
+		22. Облегчённый Colt M4 CQBR улучшенной кучности боя\n
+		23. Облегчённый АЕК-972 улучшенной кучности боя\n
+		24. Облегчённый HK MG-4 улучшенной кучности боя\n
+		25. Облегчённый Knight's SR-25 улучшенной кучности стрельбы\n \n \n \n \n</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+		<pln>===</pln>
+	</string>
+	<string id="skleroz_sak_chain_text">
+		<rus>Список изношенных стволов для экспериментов учёным:\n \n
+			5х обрез Winchester 101\n
+            5х HK USP-45 «Tactical»\n
+            4х HK MP7A1\n
+            3х АКС\n
+            3х Tavor CTAR-21\n
+            3х HK XM8\n
+            3х ПКМ\n
+            3х АЕК-971\n
+            3х P90\n
+            3х Colt M16A2 «Аномалия»\n
+            3х Galil AR\n
+            3х SIG SG-551 LB\n
+            3х Сайга-12K «Тактика»\n
+            3х «Протекта»\n
+            3х ружьё ИЖ-27\n
+            3х АК-108\n
+            3х РПД-44\n
+            2х M60\n
+            2х HK SL-8\n
+            2х SIG SG-552 «Commando»\n
+            2х СВУ\n
+            2х HK UMP-45\n
+            1х M14\n
+            1х HK 417 «Sniper»\n
+            1х ВССК «Выхлоп»\n \n \n \n \n</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+		<pln>===</pln>
+	</string>
 	<string id="tex_bandit_krisyk_pomer">
 		<rus>Бандит по прозвищу Крыса при жизни записал много секретов на свой КПК. Но не так давно был найден мёртвым... Боров хочет вернуть этот КПК и предполагает, что Жила может что-то знать об этом.</rus>
 		<eng>The bandit nicknamed Krysyuk wrote many secrets on his PDA in his lifetime. But recently he has been found dead... Borov wants to return this PDA and assumes that Vein may know something about it.</eng>
@@ -1163,58 +1254,58 @@
 	<!-- Реализация апгрейда  -->
 	<string id="upgrade_tabl_stvol">
 		<rus>Варианты апгрейда и ограничения:\n
-	1. После снижения веса все дальнейшие апгрейды невозможны.\n\n
+	1. После снижения веса все дальнейшие апгрейды невозможны.\n \n
 	2. Оружие, которому можно сменить калибр (только для базовых моделей):\n
 	* АК-74М, AK-74М «Кобра», АКС-74У, АН-94 «Абакан» - с 5.45х39 на 5.56x45\n
 	* ПП-19 «Бизон», Scorpion SA Vz 82 - с 9х18 на 9х19\n
 	* HK MP5A4, HK MP7A1, IMI UZI - с 9х19 на 9х18\n
-	* FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK MG-4 - с 5.56x45 на 5.45х39\n\n
+	* FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK MG-4 - с 5.56x45 на 5.45х39\n \n
 	3. Оружие, которому можно снизить отдачу и увеличить кучность (только для базовых моделей):\n
-	АК-74, АК-74М, AK-74М «Кобра», АКС-74У, АН-94 «Абакан», АН-94 «Снайперский», АК, АКМ, АЕК-971, АЕК-972, АЕК-973, ПП-19 «Бизон», ScorpionVz.61, HK MP5A4, HK MG-4, HK MP7A1, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK 417 «Sniper», Knight's SR-25\n\n
+	АК-74, АК-74М, AK-74М «Кобра», АКС-74У, АН-94 «Абакан», АН-94 «Снайперский», АК, АКМ, АЕК-971, АЕК-972, АЕК-973, ПП-19 «Бизон», ScorpionVz.61, HK MP5A4, HK MG-4, HK MP7A1, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK 417 «Sniper», Knight's SR-25\n \n
 	4. Оружие, которому можно снизить вес (доступно для всех модификаций):\n
 	АК-74, АК-74М, AK-74М «Кобра», АКС-74У, АН-94 «Абакан», АН-94 «Снайперский», АК, АКМ, АЕК-971, АЕК-972, АЕК-973, ПП-19 «Бизон», ScorpionVz.61, OЦ-14-4 «Гроза», АС «Вал», ВСС «Винторез», СВД, СВУ-А, винтовка Мосина, Barrett М95, «Игломёт», HK MP5A4, HK MG-4, HK MP7A1, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK 417 «Sniper», Knight's SR-25, Сайга-12К, Winchester 1300, Franchi SPAS-12, Обрез БМ16, ТОЗ-34, Benelli M4 SUPER 90, «Протекта», ППШ-41, Kriss super V, FN P90, ПКМ, ПТРД, M60, Ружьё-гранатомёт M79\n \n \n \n \n</rus>
 		<eng>Upgrade options and limitations:\n
-	1. After weight reduction, no further upgrades are possible.\n\n
+	1. After weight reduction, no further upgrades are possible.\n \n
 	2. Weapons whose caliber can be changed (only for basic models):\n
 	* AK-74M, AK-74M Cobra, AKS-74U, AN-94 Abakan - from 5.45x39 to 5.56x45\n
 	* PP-19 "Bizon", Scorpion SA Vz 82 - from 9x18 to 9x19\n
 	* HK MP5A4, HK MP7A1, IMI UZI - from 9x19 to 9x18\n
-	* FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK MG-4 - from 5.56x45 to 5.45 x39\n\n
+	* FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK MG-4 - from 5.56x45 to 5.45 x39\n \n
 	3. Weapons whose recoil can be reduced and accuracy can be increased (only for basic models):\n
-	AK-74, AK-74M, AK-74M Cobra, AKS-74U, AN-94 Abakan, AN-94 Sniper, AK, AKM, AEK-971, AEK-972, AEK-973, PP -19 Bizon, ScorpionVz.61, HK MP5A4, HK MG-4, HK MP7A1, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK 417 Sniper, Knight's SR-25\n\n
+	AK-74, AK-74M, AK-74M Cobra, AKS-74U, AN-94 Abakan, AN-94 Sniper, AK, AKM, AEK-971, AEK-972, AEK-973, PP -19 Bizon, ScorpionVz.61, HK MP5A4, HK MG-4, HK MP7A1, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK 417 Sniper, Knight's SR-25\n \n
 	4. Weapons whose weight can be reduced (available for all modifications):\n
 	AK-74, AK-74M, AK-74M "Cobra", AKS-74U, AN-94 "Abakan" NA-94 "Sniper", AK, AKM, AJC-971, AEK-972, AEK-973, PP -19 "Bizon», ScorpionVz.61, OZ-14-4 "Groza" AK "Val" BCC "Vintorez" SVD SVU-A, Mosin-Nagant, Barrett M95, Nail gun, HK MP5A4, HK MG -4, HK MP7A1, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK 417 «Sniper», Knight's SR-25, Saiga-12K, Winchester 1300, Franchi SPAS-12, Sawed-off shotgun BM16, TOZ-34, Benelli M4 SUPER 90, "Protecta", PPSh-41, Kriss super V, FN P90, PKM, PTRD, M60, M79 grenade launcher\n \n \n \n \n</eng>
 		<ukr>Варіанти апгрейда і обмеження:\n
-	1. Після зниження ваги всі подальші апгрейди неможливі.\n\n
+	1. Після зниження ваги всі подальші апгрейди неможливі.\n \n
 	2. Зброя, якій можна змінити калібр (тільки для базових моделей):\n
 	* АК-74М, AK-74М «Кобра», АКС-74У, АН-94 «Абакан» - з 5.45х39 на 5.56x45\n
 	* ПК-19 «Бізон», Scorpion SA Vz 82 - з 9х18 на 9х19\n
 	* HK MP5A4, HK MP7A1, IMI UZI - з 9х19 на 9х18\n
-	* FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK MG-4 - з 5.56x45 на 5.45х39\n\n
+	* FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK MG-4 - з 5.56x45 на 5.45х39\n \n
 	3. Зброя, якій можна знизити віддачу і збільшити кучність (тільки для базових моделей):\n
-	АК-74, АК-74М, AK-74М «Кобра», АКС-74У, АН-94 «Абакан», АН-94 «Снайперський», АК, АКМ, АЕК-971, АЕК-972, АЕК-973, ПК-19 «Бізон», ScorpionVz.61, HK MP5A4, HK MG-4, HK MP7A1, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK 417 «Sniper», Knight's SR-25\n\n
+	АК-74, АК-74М, AK-74М «Кобра», АКС-74У, АН-94 «Абакан», АН-94 «Снайперський», АК, АКМ, АЕК-971, АЕК-972, АЕК-973, ПК-19 «Бізон», ScorpionVz.61, HK MP5A4, HK MG-4, HK MP7A1, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK 417 «Sniper», Knight's SR-25\n \n
 	4. Зброя, якій можна знизити вагу (доступно для всіх модифікацій):\n
 	АК-74, АК-74М, AK-74М «Кобра», АКС-74У, АН-94 «Абакан», АН-94 «Снайперський», АК, АКМ, АЕК-971, АЕК-972, АЕК-973, ПК-19 «Бизон», ScorpionVz.61, OЦ-14-4 «Гроза», АС «Вал», ВСС «Гвинторіз», СВД, СВУ-А, гвинтівка Мосіна, Barrett М95, «Ігломет», HK MP5A4, HK MG-4, HK MP7A1, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK 417 «Sniper», Knight's SR-25, Сайга-12К, Winchester 1300, Franchi SPAS-12, Обріз БМ16, ТОЗ-34, Benelli M4 SUPER 90, «Протекта», ППШ-41, Kriss super V, FN P90, ПКМ, ПТРД, M60, Рушниця-гранатомет M79\n \n \n \n \n</ukr>
 		<fra>Options de mise à niveau et limitations:\n
-1. Après réduction du poids, aucune autre mise à niveau n’est possible.\n\n
+1. Après réduction du poids, aucune autre mise à niveau n’est possible.\n \n
 2. Armes dont le calibre peut être changé (uniquement pour les modèles de base):\n
 * AK-74M, AK-74M Cobra, AKS-74U, AN-94 Abakan - de 5,45x39 à 5,56x45\n
 * PP-19 "Bizon", Scorpion SA Vz 82 - du 9x18 au 9x19\n
 * HK MP5A4, HK MP7A1, IMI UZI - du 9x19 au 9x18\n
-* FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK MG-4 - de 5,56x45 à 5,45 x39\n\n
+* FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK MG-4 - de 5,56x45 à 5,45 x39\n \n
 3. Armes dont le recul peut être réduit et la précision améliorée (uniquement pour les modèles de base):\n
-AK-74, AK-74M, AK-74M Cobra, AKS-74U, AN-94 Abakan, AN-94 Sniper, AK, AKM, AEK-971, AEK-972, AEK-973, PP -19 Bizon, ScorpionVz. 61, HK MP5A4, HK MG-4, HK MP7A1, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR , Tavor CTAR 21, Sniper HK 417, Chevalier SR-25\n\n
+AK-74, AK-74M, AK-74M Cobra, AKS-74U, AN-94 Abakan, AN-94 Sniper, AK, AKM, AEK-971, AEK-972, AEK-973, PP -19 Bizon, ScorpionVz. 61, HK MP5A4, HK MG-4, HK MP7A1, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR , Tavor CTAR 21, Sniper HK 417, Chevalier SR-25\n \n
 4. Armes dont le poids peut être réduit (disponible pour toutes les modifications):\n
 AK-74, AK-74M, AK-74M "Cobra", AKS-74U, AN-94 "Abakan" NA-94 "Sniper", AK, AKM, AJC-971, AEK-972, AEK-973, PP - 19 "Bizon", ScorpionVz.61, OZ-14-4 "Groza" AK "Val" BCC "Vintorez" SVD SVU-A, Mosin-Nagant, Barrett M95, Pistolet à clous, HK MP5A4, HK MG -4, HK MP7A1 , IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK 417 «Sniper», Knight's SR-25, Saiga-12K, Winchester 1300, Franchi SPAS-12, Fusil à canon scié BM16, TOZ-34, Benelli M4 SUPER 90, "Protecta", PPSh-41, Kriss super V, FN P90, PKM, PTRD, M60, Lance-grenades M79\n \n \n \n \n \n</fra>
 		<pln>Warianty ulepszeń i ich ograniczenia.\n
-1. Po obniżeniu wagi żadne inne ulepszenia nie są możliwe.\n\n
+1. Po obniżeniu wagi żadne inne ulepszenia nie są możliwe.\n \n
 2. Broń, w której można zmienić kaliber (tylko dla podstawowych modeli):\n
    * AK-74M, AK-74M "Kobra", AKS-74U, AN-94 "Abakan" - z 5.45x39 na 5.56x45\n
    * PP-19 "Bizon", Scorpion SA Wz 82 - z 9x18 na 9x19\n
    * HK MP5A4, HK MP7A1, IMI UZI - z 9z19 na 9z18\n
-   * FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK MG-4 - z 5.56x45 na 5.45x39\n\n
+   * FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK MG-4 - z 5.56x45 na 5.45x39\n \n
 3. Broń, w której można zmniejszyć odrzut i poprawić celność (tylko dla podstawowych modeli):\n
-AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, AKM, AEK-971, AEK-972, AEK-973, PP-19 "Bizon, ScorpionVz.61, HK MP5A4, HK MG-4, HK MP7A1, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK 417 "Sniper", Knight's SR-25\n\n
+AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, AKM, AEK-971, AEK-972, AEK-973, PP-19 "Bizon, ScorpionVz.61, HK MP5A4, HK MG-4, HK MP7A1, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK 417 "Sniper", Knight's SR-25\n \n
 4. Broń, której można zmniejszyć wagę (dostępne dla wszystkich modeli):\n
 AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, AKM, AEK-971, AEK-972, AEK-973, PP-19 "Bizon", ScorpionVz.61, OC-14-4 "Groza", AS "Wał", WSS "Wintorez", SWD, SWU-A, karabin Mosina, Barrett M95, "Igłowiec, HK MP5A4, HK MG-4, HK MP7A1, IMI UZI, FN F2000, HK G36, LR-300ML, SIG SG-550, SIG SG-551 LB, Enfield L85A2, FA MAS G2, Colt M16A4, Colt M4 CQBR, Tavor CTAR 21, HK 417 "Sniper", Knight's SR-25, Sajga-12K, Winchester 1300, Franchi SPAS-12, Obrzyn BM-16, TOZ-34, Benelli M4 SUPER 90, "Protekta", PPSz-41, Kriss super V, FN P90, PKM, PTRD, M60, Granatnik M79\n \n \n \n \n</pln>
 	</string>
