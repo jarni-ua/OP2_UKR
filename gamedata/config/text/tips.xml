@@ -1592,6 +1592,21 @@
 		<eng>===The radio beacon has been placed</eng>
 		<ukr>До закінчення маскування</ukr>
 	</string>
+	<string id="dolg_btr_found">
+		<rus>Осмотреть БТР и оценить его техническое состояние</rus>
+		<eng>===The radio beacon has been placed</eng>
+		<ukr>===До закінчення маскування</ukr>
+	</string>
+	<string id="dolg_btr_fault">
+		<rus>БТР повреждён, топлива нет, двигатель не заводится</rus>
+		<eng>===The radio beacon has been placed</eng>
+		<ukr>===До закінчення маскування</ukr>
+	</string>
+	<string id="dolg_btr_kanistra">
+		<rus>Залить топливо из канистры в бак</rus>
+		<eng>===The radio beacon has been placed</eng>
+		<ukr>===До закінчення маскування</ukr>
+	</string>
 	<string id="st_time_mina_bum">
 		<rus>Приблизительное время до взрыва</rus>
 		<eng>Estimated time until the explosion</eng>

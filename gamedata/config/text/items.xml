@@ -2944,13 +2944,13 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="chertez_mossberg">
 		<rus>На чертежах подробно изображены детали модифицированного ружья Mossberg. Внизу имеется надпись - "Особый заказ". Заказчик - некий сталкер Крюк. Полный список комплектующих, которые нужно принести Василию:\n \n
-		- 1 Mossberg 590 12 Gauge\n
+		- 1 Mossberg 590 A1\n
 		- 1 Winchester 1300 «Chaser»\n
 		- 2 арта "Грави"\n
 		- 1 арт "Рубиновая пружина"\n</rus>
 		<eng>===На чертежах подробно изображены детали модифицированного ружья Mossberg. Внизу имеется надпись - «Custom» (Особый заказ). Заказчик - некий сталкер Крюк. На чертежах много пометок и мелких рисунков.</eng>
 		<ukr>На кресленнях детально зображені деталі модифікованої рушниці Mossberg. Внизу є напис - "Особливе замовлення". Замовник - якийсь сталкер Гак. Повний список комплектуючих, які потрібно принести Василю:\n \n
-		- 1 Mossberg 590 12 Gauge\n
+		- 1 Mossberg 590 A1\n
 		- 1 Winchester 1300 «Chaser»\n
 		- 2 арта "Граві"\n
 		- 1 арт "Рубінова пружина"\n</ukr>
@@ -3017,6 +3017,18 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		<eng>Designed for adjustment and calibration of military equipment.</eng>
 		<ukr>Призначені для налаштування і калібрування військового обладнання.</ukr>
 		<pln>Przeznaczone do strojenia i kalibracji wojskowego wyposażenia.</pln>
+	</string>
+	<string id="voen3_toolkit_name">
+		<rus>Армейские инструменты ОРК-27м</rus>
+		<eng>===RKB-86u army tool kit</eng>
+		<ukr>===Армійські інструменти РКБ-86у</ukr>
+		<pln>===Wojskowe narzędzia RKB-86u</pln>
+	</string>
+	<string id="voen3_toolkit">
+		<rus>Предназначены для проведения качественного походного ремонта военной бронетехники.</rus>
+		<eng>===Designed for adjustment and calibration of military equipment.</eng>
+		<ukr>===Призначені для налаштування і калібрування військового обладнання.</ukr>
+		<pln>===Przeznaczone do strojenia i kalibracji wojskowego wyposażenia.</pln>
 	</string>
 	<string id="grub_toolkit_name">
 		<rus>Инструменты для грубой работы</rus>
@@ -3786,7 +3798,7 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		<rus>Орден учреждён 14 апреля 1939 г. Он назначался для награждения личного состава германского легиона «Кондор», воевавшего в Испании в 1936-1939 гг. на стороне франкистов. Имелось четыре степени креста: Бронзовый, Серебряный, Золотой и Золотой с бриллиантами. Бронзовый и Серебряный в свою очередь подразделялись ещё на два вида: с мечами и без них. Крест без мечей вручался за три месяца службы в Испании (на море или на суше). В основном эту награду получали медперсонал и технические службы Люфтваффе. Бронзовый крест фигурировал в качестве награды 7869 раз.</rus>
 		<eng>The order was instituted on April 14, 1939. It was intended to be awarded to the soldiers of the German Legion Condor, who fought in Spain in 1936-1939 on the side of Franco's men. The order was awarded in four classes: Bronze, Silver, Gold and Gold with diamonds. The Bronze and Silver classes were awarded with and without swords. A cross without swords was awarded for three months of service in Spain (at sea or on the ground). This award was mainly given to the medical staff and Luftwaffe technical services personnel. 7869 bronze crosses were total awarded.</eng>
 		<ukr>Орден заснований 14 квітня 1939 року. Він призначався для нагородження особового складу німецького легіону «Кондор», що воював у Іспанії в 1936-1939 рр. на стороні франкістів. Було чотири ступені хреста: Бронзовий, Срібний, Золотий та Золотий з діамантами. Бронзовий і Срібний у свою чергу поділялися ще на два види: з мечами і без них. Хрест без мечів вручався за три місяці служби у Іспанії (на морі або на суші). В основному цю нагороду отримували медперсонал і технічні служби Люфтваффе. Бронзовий хрест фігурував у якості нагороди 7869 разів.</ukr>
-		<pln>Order ustanowiony 14 kwietnia 1939 r. Przeznaczony dla odznaczania składu osobowego niemieckiego legionu "Kondor", który walczył w Hiszpanii w latach 1936-1939, po stronie frankistów. Krzyż został ustanowiony w czterech klasach: Brązowy, Srebrny, Złoty i Złoty z brylantami. Brązowy i Srebrny mają jeszcze po dwie wersje – z mieczami i bez nich. Krzyż bez mieczy był nadawany za trzy miesiące służby w Hiszpanii ( na morzu i na lądzie). Te odznaczenie otrzymywał tez personel medyczny i służby techniczne Luftwaffe. Brązowy krzyż nadano 7869 razy.</pln>
+		<pln>Order ustanowiony 14 kwietnia 1939 r. Przeznaczony dla odznaczania składu osobowego niemieckiego legionu "Kondor", który walczył w Hiszpanii w latach 1936-1939, po stronie frankistów. Krzyż został ustanowiony w czterech klasach: Brązowy, Srebrny, Złoty i Złoty z brylantami. Brązowy i Srebrny mają jeszcze po dwie wersje - z mieczami i bez nich. Krzyż bez mieczy był nadawany za trzy miesiące służby w Hiszpanii ( na morzu i na lądzie). Te odznaczenie otrzymywał tez personel medyczny i służby techniczne Luftwaffe. Brązowy krzyż nadano 7869 razy.</pln>
 	</string>
 	<string id="kulon_name">
 		<rus>Золотая цепочка с кулоном</rus>
@@ -4295,10 +4307,10 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		<pln>Antyzombin</pln>
 	</string>
 	<string id="enc_equipment_medi_antizombie">
-		<rus>Новейшая разработка от Dharma Initiative. Она сделала прорыв в науке. Антизомбин полностью снимает  эффекты воздействия пси-излучения. Возможна также практика на ранних стадиях зомбирования, но для этого нужно произвести две инъекции. Должен иметь при себе КАЖДЫЙ сталкер. Единственный недостаток - цена.</rus>
-		<eng>A latest development from the Dharma Initiative. It made a scientific breakthrough. Anti-Zombax cures psi-radiation effects completely. It is also recommended for use in the early stages of zombification, but two injections would be required in that case. Is a 'must have' for every stalker. The only flaw is the price.</eng>
-		<ukr>Новітня розробка від Dharma Initiative. Вона зробила прорив у науці. Антизомбін повністю лікує від псі-випромінювання. Можлива, також, практика на ранніх стадіях зомбування, але для цього потрібно провести дві ін'єкції. Повинен мати при собі КОЖЕН сталкер. Єдиний недолік - ціна.</ukr>
-		<pln>Najnowszy produkt firmy Dharma Initiative, która dokonała przełomu w nauce. Antidotum, które całkowicie leczy efekty promieniowania psionicznego. Można stosować nawet we wczesnych stadiach zombifikacji, jednakże w takim przypadku konieczne jest przyjęcie dwóch dawek. Ten specyfik powinien mieć przy sobie KAŻDY stalker. Jedynym minusem jest cena.</pln>
+		<rus>Новейшая разработка от Dharma Initiative. Она сделала прорыв в науке. Антизомбин полностью снимает эффекты воздействия пси-излучения. Возможна также практика на поздних стадиях зомбирования, но для этого нужно выпить две таблетки. Должен иметь при себе КАЖДЫЙ сталкер. Единственный недостаток - цена.</rus>
+		<eng>===A latest development from the Dharma Initiative. It made a scientific breakthrough. Anti-Zombax cures psi-radiation effects completely. It is also recommended for use in the early stages of zombification, but two injections would be required in that case. Is a 'must have' for every stalker. The only flaw is the price.</eng>
+		<ukr>===Новітня розробка від Dharma Initiative. Вона зробила прорив у науці. Антизомбін повністю лікує від псі-випромінювання. Можлива, також, практика на ранніх стадіях зомбування, але для цього потрібно провести дві ін'єкції. Повинен мати при собі КОЖЕН сталкер. Єдиний недолік - ціна.</ukr>
+		<pln>===Najnowszy produkt firmy Dharma Initiative, która dokonała przełomu w nauce. Antidotum, które całkowicie leczy efekty promieniowania psionicznego. Można stosować nawet we wczesnych stadiach zombifikacji, jednakże w takim przypadku konieczne jest przyjęcie dwóch dawek. Ten specyfik powinien mieć przy sobie KAŻDY stalker. Jedynym minusem jest cena.</pln>
 	</string>
 	<string id="portable_charger_inv">
 		<rus>Портативное зарядное устройство</rus>
@@ -4757,5 +4769,31 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	<string id="action_camera">
 		<rus>Экшен-камера с ремнём и креплением под любой тип шлемов и касок или для размещения на непокрытой голове. Крепление изготавливается из прочного материала и регулируется с учётом необходимого размера. Сама камера записывает видео в высоком разрешении в формате 720p, а также позволяет получать снимки 12 Мп в условиях дневной, слабой и ахроматической освещённости.</rus>
 		<ukr>Екшн-камера з ременем і кріпленням під будь-який тип шоломів і касок або для розміщення на непокритій голові. Кріплення виготовляється з міцного матеріалу і регулюється з урахуванням необхідного розміру. Сама камера записує відео у високій роздільній здатності у форматі 720p, а також дозволяє отримувати знімки 12 Мп в умовах денної, слабкої і ахроматичної освітленості.</ukr>
+	</string>
+	<string id="car_akb_name">
+		<rus>Автомобильный аккумулятор</rus>
+		<ukr>===Нашоломна камера</ukr>
+	</string>
+	<string id="car_akb">
+		<rus>Самый обыкновенный свинцово-кислотный автомобильный аккумулятор. Именно такой нужно принести Петренко, чтобы он его зарядил для запуска БТР.</rus>
+		<ukr>===Екшн-камера з ременем і кріпленням під будь-який тип шоломів і касок або для розміщення на непокритій голові. Кріплення виготовляється з міцного матеріалу і регулюється з урахуванням необхідного розміру. Сама камера записує відео у високій роздільній здатності у форматі 720p, а також дозволяє отримувати знімки 12 Мп в умовах денної, слабкої і ахроматичної освітленості.</ukr>
+	</string>
+	<string id="compas_petrenko_name">
+		<rus>Магнитный компас</rus>
+		<ukr>===Нашоломна камера</ukr>
+	</string>
+	<string id="compas_petrenko">
+		<rus>Старый наручный компас. Похоже, сломан, так как стрелка не указывает на магнитные полюса Земли, а постоянно вращается вокруг своей оси. Хм, очень странно!</rus>
+		<ukr>===Екшн-камера з ременем і кріпленням під будь-який тип шоломів і касок або для розміщення на непокритій голові. Кріплення виготовляється з міцного матеріалу і регулюється з урахуванням необхідного розміру. Сама камера записує відео у високій роздільній здатності у форматі 720p, а також дозволяє отримувати знімки 12 Мп в умовах денної, слабкої і ахроматичної освітленості.</ukr>
+	</string>
+	<string id="microshema_construct">
+		<rus>Плата с микросхемами</rus>
+		<eng>===Плата с микросхемами</eng>
+		<ukr>===Плата с микросхемами</ukr>
+	</string>
+	<string id="desc_microshema_construct">
+		<rus>Электронная плата с микросхемами.\n Вполне может заинтересовать техников в ЗО, да и простые торговцы дадут за неё вполне приличные деньги.</rus>
+		<eng>===Электронная плата с микросхемами.\n Вполне может заинтересовать техников в ЗО, да и простые торговцы дадут за неё вполне приличные деньги.</eng>
+		<ukr>===Электронная плата с микросхемами.\n Вполне может заинтересовать техников в ЗО, да и простые торговцы дадут за неё вполне приличные деньги.</ukr>
 	</string>
 </string_table>

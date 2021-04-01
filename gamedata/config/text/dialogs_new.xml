@@ -533,28 +533,35 @@
 		<pln>===Słuchaj, Dan, powiadają, że handlem wymiennym się zajmujesz? Za części mutantów amunicję i artefakty dajesz?</pln>
 	</string>
 	<string id="dan_priremont_dialog_1">
-		<rus>В принципе, могу. Принеси мне 40 любых КПК, тогда и поговорим.</rus>
-		<eng>Basically, I can. Bring me 40 body parts and any PDA, then we'll talk.</eng>
-		<ukr>В принципі, можу. Принеси мені 40 будь-яких КПК, тоді і поговоримо.</ukr>
-		<pln>W zasadzie tak. Przynieś mi 40 dowolnych PDA, wtedy porozmawiamy.</pln>
+		<rus>В принципе, могу, но для начала помоги двум моим охотникам выполнить небольшой заказ от Калмыка. Они на днях были ранены кровососом, другие охотники присматривают за ними или охраняют территорию, поэтому послать мне больше некого, а задание выполнить надо, сроки уже поджимают - это ведь и наша репутация, и неплохая прибыль. Тем более, что само задание - сущий пустяк! Калмыку нужны не менее 15 светлячков, которых можно найти ночью в Тёмной Лощине, примерно с полуночи до пяти часов утра, затем они прячутся в тёмных местах до следующей ночи. Что знахарь с ними делать собрался, мне по боку, дам лишь совет, как их лучше ловить. Как всем известно, этих насекомых привлекают источники света, твой слабенький фонарик не подойдёт, а вот активированная фосфорная палка - самое то. Раздобудь такую и держи в руках, когда будешь заниматься ловлей. Всех пойманных светляков помести в отдельный рюкзак и принеси сюда. Да пребудет с тобой терпение!</rus>
+		<eng>===Basically, I can. Bring me 40 body parts and any PDA, then we'll talk.</eng>
+		<ukr>===В принципі, можу. Принеси мені 40 будь-яких КПК, тоді і поговоримо.</ukr>
+		<pln>===W zasadzie tak. Przynieś mi 40 dowolnych PDA, wtedy porozmawiamy.</pln>
 	</string>
 	<string id="dan_priremont_dialog_2">
-		<rus>Ладно, пойду искать КПК. А то иногда бывает, что патронов нет, а всякие рога и копыта девать некуда.</rus>
-		<eng>Okay, I'll go look for a PDA. It happens sometimes, I run out of cartridges, or there's nowhere to take the horns and hooves.</eng>
-		<ukr>Гаразд, піду шукати КПК. А то іноді буває, що патронів немає, а всякі роги і копита дівати нікуди.</ukr>
-		<pln>Dobra, pójdę szukać PDA. Bywa czasem, że amunicji nie ma, a części mutantów upchać nie ma gdzie.</pln>
+		<rus>Ладно, пойду ловить насекомых. А то иногда бывает, что патронов нет, а всякие рога и копыта девать некуда.</rus>
+		<eng>===Okay, I'll go look for a PDA. It happens sometimes, I run out of cartridges, or there's nowhere to take the horns and hooves.</eng>
+		<ukr>===Гаразд, піду шукати КПК. А то іноді буває, що патронів немає, а всякі роги і копита дівати нікуди.</ukr>
+		<pln>===Dobra, pójdę szukać PDA. Bywa czasem, że amunicji nie ma, a części mutantów upchać nie ma gdzie.</pln>
+	</string>
+	<!-- Ловим светлячка -->
+	<string id="fyrefly_use">
+		<rus>Поймать светлячка</rus>
+		<eng>===Поймать кошака</eng>
+		<ukr>===Спіймати кошака</ukr>
+		<pln>===Поймать кошака</pln>
 	</string>
 	<string id="dan_bring_pda_0">
-		<rus>Ну что, Дэн, принёс я КПК, как и обещал.</rus>
-		<eng>Well, Dan, I brought you a PDA, as promised.</eng>
-		<ukr>Ну що, Ден, приніс я КПК, як і обіцяв.</ukr>
-		<pln>No co, Dan, przyniosłem PDA, jak obiecałem.</pln>
+		<rus>Ну что, Дэн, вот рюкзак, набитый пойманными светлячками, как и обещал.</rus>
+		<eng>===Well, Dan, I brought you a PDA, as promised.</eng>
+		<ukr>===Ну що, Ден, приніс я КПК, як і обіцяв.</ukr>
+		<pln>===No co, Dan, przyniosłem PDA, jak obiecałem.</pln>
 	</string>
 	<string id="dan_bring_pda_1">
-		<rus>Молоток! Теперь можно и бартером заняться, если есть в достаточном количестве нужные мне части мутантов.\n Здесь в округе, кроме меня, эти руки, ноги, хвосты, глаза и даром никому не нужны, ни Сидору, ни местным сталкерам! Ближайшее место, куда ты можешь за деньги их отдать - на Свалке, сталкеру по имени Артём, он в ангаре обитает. Зачем они ему - не ясно - ха, консервы, видать, из них делает! Но всё же лучше всего нести учёным в бункер, на озеро Янтарь, говорят, для каких-то исследований им нужны части тел мутантов со всех уголков Зоны, для сравнения что ли - скупают втридорога! Дефицит у них там - ведь мало кто рискует соваться в это гиблое место, кишащее мутантами и зомби... Ещё я бы советовал заглянуть к Ворону - он там же, на Свалке...\nКороче, Меченый, что-то я заболтался, давай по делу:\nЗа 5 хвостов слепых псов - отдам 2 пачки дробовых патронов 410-го калибра.\nЗа 5 голов тушканов - пачку дроби 12-го калибра.\nНу а если принесёшь 2 руки контролёра - получишь 2 пачки картечи.</rus>
-		<eng>Well done! Now it's possible to barter, if there are sufficient quantities of mutant parts I need.\n Here in the district, no one except for me, will take these hands, legs, tails, eyes, you can't even give them away, no one wants them, neither Sidorovich nor the local stalkers! The nearest place you can sell them, is at the Dump, a stalker named Artem, he lives in the hangar. It's not clear why he wants them - ha, maybe for canned food! Still, it's best to take them to the scientists bunker, at Lake Yantar. They say, they need parts of the bodies of mutants from all over the Zone for some research, by comparison, they are paying exorbitant prices! There is a shortage of them there - after all, few people dare risk being thrown into this dismal place, teeming with mutants and zombies... I would also advise you to seek out Raven as well - he's also there, at the Dump... \nAnyway, Marked One, I've got something on my mind, so let's get on with it:\nFor 5 blind dog tails - I'll give you 2 packs of 410 calibre shotgun cartridges. \nFor 5 tushkano heads - a pack of 12-gauge shot.\nWell, if you bring 2 hands of the controller, you'll get 2 packs of buckshot.</eng>
-		<ukr>Молоток! Тепер можна і бартером зайнятися, якщо є в достатній кількості потрібні мені частини мутантів.\n Тут в околиці, крім мене, ці руки, ноги, хвости, очі і задарма нікому не потрібні, ні Сидору, ні місцевим сталкерам! Найближче місце, куди ти можеш за гроші їх віддати - на Звалищі, сталкеру на ім'я Артем, він в Ангарі мешкає. Навіщо вони йому - не ясно - ха, консерви, мабуть, з них робить! Але все ж найкраще нести вченим в бункер, на озеро Янтар, кажуть, для якихось досліджень їм потрібні частини тіл мутантів з усіх куточків Зони, для порівняння чи що - скуповують втридорога! Дефіцит у них там - адже мало хто ризикує сунутися в це згубне місце, яке кишить мутантами і зомбі... Ще я б радив заглянути до Ворона - він там же, на Звалищі...\nКоротше, Мічений, щось я забалакався, давай по ділу:\nЗа 5 хвостів сліпих псів - віддам 2 пачки дробових патронів 410-го калібру.\nЗа 5 голів тушканів - пачку дробу 12-го калібру.\nНу а якщо принесеш 2 руки контролера - отримаєш 2 пачки картечі.</ukr>
-		<pln>Dobra. Teraz można wymianą się zająć, jeśli masz w odpowiedniej ilości potrzebne mi części mutantów.\n Tu w okolicy, oprócz mnie, tych rąk, nóg, ogonów, oczu, nikt nawet za darmo nie weźmie, ani Sidor, ani miejscowi stalkerzy! Najbliższe miejsce, gdzie możesz je spieniężyć - to Wysypisko, tam w hangarze mieszka stalker o imieniu Artiom. Po co mu one - nie mam pojęcia - konserwy, widać, z nich robi! Ale najlepiej zanieść je uczonym do bunkra, nad jezioro Jantar, mówią, że dla jakichś badań są im potrzebne części ciał mutantów ze wszystkich kątów Zony, dla porównania, czy co - skupują wszystko! Deficyt tam mają - przecież mało kto zaryzykuje wejście w te przeklęte miejsce, rojące się od mutantów i zombie... Jeszcze radziłbym zajrzeć do Worona - on też przebywa na Wysypisku...\nDo rzeczy, Naznaczony, zagadałem się, wracajmy do interesów:\nZa 5 ogonów ślepych psów - dam 2 paczki śrutu kaliber 410.\nZa 5 głów tuszkanów - paczkę śrutu kaliber 12.\nNo, a jeśli przyniesiesz 2 ręce kontrolera - otrzymasz 2 paczki kartaczy.</pln>
+		<rus>Молоток! Теперь можно и бартером заняться, если есть в достаточном количестве нужные мне части мутантов.\n Здесь в округе эти руки, ноги, хвосты, глаза мало кому нужны. Ближайшее место, куда ты можешь за деньги их отдать - учёные в бункере на озере Янтарь, говорят, для каких-то исследований им нужны части тел мутантов со всех уголков Зоны, для сравнения что ли - скупают втридорога! Дефицит у них там - ведь мало кто рискует соваться в это гиблое место, кишащее мутантами и зомби...\nКороче, Меченый, что-то я заболтался, давай по делу:\nЗа 5 хвостов слепых псов - отдам 2 пачки дробовых патронов 410-го калибра.\nЗа 5 голов тушканов - пачку дроби 12-го калибра.\nНу а если принесёшь 2 руки контролёра - получишь 2 пачки картечи.</rus>
+		<eng>===Well done! Now it's possible to barter, if there are sufficient quantities of mutant parts I need.\n Here in the district, no one except for me, will take these hands, legs, tails, eyes, you can't even give them away, no one wants them, neither Sidorovich nor the local stalkers! The nearest place you can sell them, is at the Dump, a stalker named Artem, he lives in the hangar. It's not clear why he wants them - ha, maybe for canned food! Still, it's best to take them to the scientists bunker, at Lake Yantar. They say, they need parts of the bodies of mutants from all over the Zone for some research, by comparison, they are paying exorbitant prices! There is a shortage of them there - after all, few people dare risk being thrown into this dismal place, teeming with mutants and zombies... I would also advise you to seek out Raven as well - he's also there, at the Dump... \nAnyway, Marked One, I've got something on my mind, so let's get on with it:\nFor 5 blind dog tails - I'll give you 2 packs of 410 calibre shotgun cartridges. \nFor 5 tushkano heads - a pack of 12-gauge shot.\nWell, if you bring 2 hands of the controller, you'll get 2 packs of buckshot.</eng>
+		<ukr>===Молоток! Тепер можна і бартером зайнятися, якщо є в достатній кількості потрібні мені частини мутантів.\n Тут в околиці, крім мене, ці руки, ноги, хвости, очі і задарма нікому не потрібні, ні Сидору, ні місцевим сталкерам! Найближче місце, куди ти можеш за гроші їх віддати - на Звалищі, сталкеру на ім'я Артем, він в Ангарі мешкає. Навіщо вони йому - не ясно - ха, консерви, мабуть, з них робить! Але все ж найкраще нести вченим в бункер, на озеро Янтар, кажуть, для якихось досліджень їм потрібні частини тіл мутантів з усіх куточків Зони, для порівняння чи що - скуповують втридорога! Дефіцит у них там - адже мало хто ризикує сунутися в це згубне місце, яке кишить мутантами і зомбі... Ще я б радив заглянути до Ворона - він там же, на Звалищі...\nКоротше, Мічений, щось я забалакався, давай по ділу:\nЗа 5 хвостів сліпих псів - віддам 2 пачки дробових патронів 410-го калібру.\nЗа 5 голів тушканів - пачку дробу 12-го калібру.\nНу а якщо принесеш 2 руки контролера - отримаєш 2 пачки картечі.</ukr>
+		<pln>===Dobra. Teraz można wymianą się zająć, jeśli masz w odpowiedniej ilości potrzebne mi części mutantów.\n Tu w okolicy, oprócz mnie, tych rąk, nóg, ogonów, oczu, nikt nawet za darmo nie weźmie, ani Sidor, ani miejscowi stalkerzy! Najbliższe miejsce, gdzie możesz je spieniężyć - to Wysypisko, tam w hangarze mieszka stalker o imieniu Artiom. Po co mu one - nie mam pojęcia - konserwy, widać, z nich robi! Ale najlepiej zanieść je uczonym do bunkra, nad jezioro Jantar, mówią, że dla jakichś badań są im potrzebne części ciał mutantów ze wszystkich kątów Zony, dla porównania, czy co - skupują wszystko! Deficyt tam mają - przecież mało kto zaryzykuje wejście w te przeklęte miejsce, rojące się od mutantów i zombie... Jeszcze radziłbym zajrzeć do Worona - on też przebywa na Wysypisku...\nDo rzeczy, Naznaczony, zagadałem się, wracajmy do interesów:\nZa 5 ogonów ślepych psów - dam 2 paczki śrutu kaliber 410.\nZa 5 głów tuszkanów - paczkę śrutu kaliber 12.\nNo, a jeśli przyniesiesz 2 ręce kontrolera - otrzymasz 2 paczki kartaczy.</pln>
 	</string>
 	<string id="dan_trade_buck_0">
 		<rus>Дэн, как насчёт обмена?</rus>
@@ -1115,16 +1122,16 @@
 		<pln>Dobra, pójdę, mam nadzieję, że tym razem nam nie ucieknie.</pln>
 	</string>
 	<string id="talk_prizrak_after_zver_0">
-		<rus>Ну чего, Призрак, грустный, нет больше Зверя, вот, кстати, список заказчиков.</rus>
+		<rus>Ну чего, Призрак, грустный? Нет больше Зверя, вот, кстати, список заказчиков.</rus>
 		<eng>Well, what, Ghost, cheer up, no more Beast, by the way, here's the list of customers.</eng>
 		<ukr>Ну що, Привид, сумний, нема більше Звіра, ось до речі список замовників.</ukr>
 		<pln>No i co się tak smucisz, Duch, nie ma już Zwierza, a tu masz spis zleceniodawców.</pln>
 	</string>
 	<string id="talk_prizrak_after_zver_1">
-		<rus>Да, Стрелок, ты всегда был лучшим, вот возьми немного патронов. Ну, тебе, брат, пора, "Монолит" ждёт тебя. Удачи!</rus>
-		<eng>Yes, Strelok, you've always been the best, so take some cartridges. Well brother, it's time for you to go, the "Monolith" is waiting for you. Good luck!</eng>
-		<ukr>Так Стрілець, ти завжди був кращим, ось візьми трохи патронів. Ну тобі, брат, пора, "Моноліт" чекає на тебе. Удачі!</ukr>
-		<pln>Tak Striełok, ty zawsze byłeś lepszy, weź trochę amunicji. Przyszła pora bracie, "Monolit" na ciebie czeka. Powodzenia!</pln>
+		<rus>Да, Стрелок, ты всегда был лучшим, возьми за свою помощь... Ну, тебе, брат, пора, "Монолит" ждёт тебя. Удачи!</rus>
+		<eng>===Yes, Strelok, you've always been the best, so take some cartridges. Well brother, it's time for you to go, the "Monolith" is waiting for you. Good luck!</eng>
+		<ukr>===Так Стрілець, ти завжди був кращим, ось візьми трохи патронів. Ну тобі, брат, пора, "Моноліт" чекає на тебе. Удачі!</ukr>
+		<pln>===Tak Striełok, ty zawsze byłeś lepszy, weź trochę amunicji. Przyszła pora bracie, "Monolit" na ciebie czeka. Powodzenia!</pln>
 	</string>
 
 
@@ -1823,10 +1830,10 @@
 		<pln>===Lepiej nie pytaj, parszywe życie. Tam, w bunkrze, leży człowiek, którego zabiłem. To uczony, powiedział mi, że próbowali wyłączyć Zwęglacz, ale widocznie nie było im dane.</pln>
 	</string>
 	<string id="prizrak_tainiy_hod_3">
-		<rus>И ты им веришь? Знаешь, для чего они сюда ломанулись? Знаешь, что искал здесь Гавр? Сказать? Здесь есть тайный проход к самому "Монолиту". Они ведь понимали, что им не пройти через Припять. Там монолитовцев, что муравьёв в муравейнике, а здесь раз, и ты уже у "Монолита". Понял, что им всем здесь надо?</rus>
-		<eng>And you believed him? Do you know why they rushed there? You know what Havre was looking for here? What do you have to say? There's a secret path to the very "Monolith". After all, they knew that they couldn't get through Pripyat. The place if full of Monolithians, like ants in an anthill, and here, you have a direct path there. Do you know what they wanted there?</eng>
-		<ukr>І ти їм віриш? Знаєш для чого вони сюди ломанулись? Знаєш що шукав тут Гавр? Сказати? Тут є таємний прохід до самого "Моноліту". Адже вони розуміли, що їм не пройти через Прип'ять. Там монолітівців, що мурах у мурашнику, а тут раз, і ти вже біля "Моноліту". Зрозумів що їм усім тут треба?</ukr>
-		<pln>I ty im wierzysz? Wiesz po co oni tam poszli? Wiesz czego szukał tutaj Gawr? Powiedzieć? Tu jest tajne przejście do samego Monolitu. Oni dobrze wiedzieli, że przez Prypeć nie przejdą. Tam monolitowców, jak mrówek w mrowisku, a tutaj raz, i już jesteś przy Monolicie. Zrozumiałeś, czego oni tu szukają?</pln>
+		<rus>И ты им веришь? Знаешь, для чего они туда ломанулись? Знаешь, что искал там Гавр? Сказать? В Х-10 есть тайный проход к самому "Монолиту". Они ведь понимали, что им не пройти через Припять. Там монолитовцев, что муравьёв в муравейнике, а тут раз, и ты уже у "Монолита". Понял, что им всем надо в этой лаборатории?</rus>
+		<eng>===And you believed him? Do you know why they rushed there? You know what Havre was looking for here? What do you have to say? There's a secret path to the very "Monolith". After all, they knew that they couldn't get through Pripyat. The place if full of Monolithians, like ants in an anthill, and here, you have a direct path there. Do you know what they wanted there?</eng>
+		<ukr>===І ти їм віриш? Знаєш для чого вони сюди ломанулись? Знаєш що шукав тут Гавр? Сказати? Тут є таємний прохід до самого "Моноліту". Адже вони розуміли, що їм не пройти через Прип'ять. Там монолітівців, що мурах у мурашнику, а тут раз, і ти вже біля "Моноліту". Зрозумів що їм усім тут треба?</ukr>
+		<pln>===I ty im wierzysz? Wiesz po co oni tam poszli? Wiesz czego szukał tutaj Gawr? Powiedzieć? Tu jest tajne przejście do samego Monolitu. Oni dobrze wiedzieli, że przez Prypeć nie przejdą. Tam monolitowców, jak mrówek w mrowisku, a tutaj raz, i już jesteś przy Monolicie. Zrozumiałeś, czego oni tu szukają?</pln>
 	</string>
 	<string id="prizrak_tainiy_hod_4">
 		<rus>Знал и молчал? Как-то это не совсем по-дружески.</rus>
@@ -2080,6 +2087,13 @@
 		<ukr>Мало не забув, ось тримай.</ukr>
 		<pln>Prawie zapomniałem, trzymaj.</pln>
 	</string>
+
+	<string id="kalmyak_vstrecha_first_00">
+		<rus>Ну, привет, ворюга!</rus>
+		<eng>===Ну, привет, ворюга!</eng>
+		<ukr>===Ну, привет, ворюга!</ukr>
+		<pln>===Ну, привет, ворюга!</pln>
+	</string>
 	<string id="kalmyak_vstrecha_first_0">
 		<rus>Чёрт, что за...?</rus>
 		<eng>Damn, what the...?</eng>
@@ -2087,7 +2101,7 @@
 		<pln>Co do diabła...?</pln>
 	</string>
 	<string id="kalmyak_vstrecha_first_1">
-		<rus>Ещё один воришка попался, хорошая идея положить растяжку. Ну что, твою мать, ещё один халявщик попался, если нет дверей, то значит заходи и бери?</rus>
+		<rus>Ещё один "умник" попался, хорошая идея положить растяжку. Ну что, твою мать, ещё один халявщик попался, если нет дверей, то значит заходи и бери?</rus>
 		<eng>Another thief caught, good idea to put an end to this. Well, you motherfucker, we caught another freeloader, do you think if there are no doors, then you can just come in and take what you want?</eng>
 		<ukr>Ще один злодюжка попався, хороша ідея покласти розтяжку. Ну що, твою мать, ще один халявщик попався, якщо немає дверей, то значить заходь і бери?</ukr>
 		<pln>Jeszcze jeden złodziejaszek się trafił, taka rozpięta linka to dobry pomysł. No co, twoja mać, kolejny amatorze darmochy, jeśli nie ma drzwi, to znaczy wchodź i bierz?</pln>
@@ -2177,10 +2191,10 @@
 		<pln>Kałmuk, czarci pomiocie, zabieraj swój "lekki" pojemnik.</pln>
 	</string>
 	<string id="kalmyak_vstrecha_second_1">
-		<rus>Смотри, сучара, живой, не ожидал.</rus>
-		<eng>Look, the bitch is alive, I didn't expect that.</eng>
-		<ukr>Дивись, сучара, живий, несподівано.</ukr>
-		<pln>Popatrz, to ci diabeł - przeżył, nawet nie myślałem.</pln>
+		<rus>Смотри-ка, живой, не ожидал.</rus>
+		<eng>===Look, the bitch is alive, I didn't expect that.</eng>
+		<ukr>===Дивись, сучара, живий, несподівано.</ukr>
+		<pln>===Popatrz, to ci diabeł - przeżył, nawet nie myślałem.</pln>
 	</string>
 	<string id="kalmyak_vstrecha_second_2">
 		<rus>Я и тебя, и всю твою братву переживу. Надеюсь, мы теперь в расчёте?</rus>

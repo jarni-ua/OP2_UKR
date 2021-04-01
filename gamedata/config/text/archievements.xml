@@ -7,6 +7,14 @@
 		<fra>Réalisations</fra>
 		<pln>Osiągnięcia</pln>
 	</string>
+	<string id="acv_sloth">
+		<rus>Ленивец</rus>
+		<ukr>===Ленивец</ukr>
+	</string>
+	<string id="acv_sloth_desc">
+		<rus>При наличии в Зоне большого разнообразия способов ликвидации монстров Вам, похоже, удалось найти самый оптимальный. Никаких расходов и усилий прикладывать не надо: ни патронов тратить, ни гранат, да вообще можно теперь не двигаться, а стоять и только смотреть, покуривая сигару в сторонке, как турель делает за Вас всю работу. Истребив таким образом 500 монстров, Вы заслуженно заработали прозвище Ленивец. Но не злоупотребляйте этим оружием, ибо ленивый сталкер - мёртвый сталкер!</rus>
+		<ukr>===При наличии в Зоне большого разнообразия способов ликвидации монстров Вам, похоже, удалось найти самый оптимальный. Никаких расходов и усилий прикладывать не надо: ни патронов тратить, ни гранат, да вообще можно теперь не двигаться, а стоять и только смотреть, покуривая сигару в сторонке, как турель делает за Вас всю работу. Истребив таким образом 500 монстров, Вы заслуженно заработали прозвище Ленивец. Но не злоупотребляйте этим оружием, ибо ленивый сталкер - мёртвый сталкер!</ukr>
+	</string>
 	<string id="acv_spartak">
 		<rus>Спартак</rus>
 		<ukr>Спартак</ukr>
@@ -137,9 +145,9 @@
 		<pln>===Трепло</pln>
 	</string>
 	<string id="acv_treplo_desc">
-		<rus>По Зоне пошёл слушок, что появился сталкер, который берётся выполнить задание, а сам потом забивает на это. Причём делает это с завидной регулярностью. Таких людей называют треплом, так как они только и способны, что трепаться, а как до дела доходит - так в кусты. Отныне серьёзные циклические задания - цепочки - для Вас закрыты.</rus>
+		<rus>По Зоне пошёл слушок, что появился сталкер, который берётся выполнить задание, а сам потом забивает на это. Причём делает это с завидной регулярностью. Таких людей называют треплом, так как они только и способны, что трепаться, а как до дела доходит - так в кусты. Отныне серьёзные циклические задания - Цепочки - для Вас закрыты.</rus>
 		<eng>===Ваша месть не знает границ. Вы поквитались со 100 мстителями, чем не мог похвастаться даже сам Танос!</eng>
-		<ukr>По Зоні пішла чутка, що з'явився сталкер, який береться виконати завдання, а сам потім забиває на це. Причому робить це з завидною регулярністю. Таких людей називають тріпло, оскільки вони тільки й здатні, що тріпатися, а як до справи доходить - так у кущі. Відтепер серйозні циклічні завдання - ланцюжки - для Вас закриті.</ukr>
+		<ukr>По Зоні пішла чутка, що з'явився сталкер, який береться виконати завдання, а сам потім забиває на це. Причому робить це з завидною регулярністю. Таких людей називають тріпло, оскільки вони тільки й здатні, що тріпатися, а як до справи доходить - так у кущі. Відтепер серйозні циклічні завдання - Ланцюжки - для Вас закриті.</ukr>
 		<fra>===Ваша месть не знает границ. Вы поквитались со 100 мстителями, чем не мог похвастаться даже сам Танос!</fra>
 		<pln>===Ваша месть не знает границ. Вы поквитались со 100 мстителями, чем не мог похвастаться даже сам Танос!</pln>
 	</string>
@@ -263,11 +271,11 @@
 		<pln>Zdobywca</pln>
 	</string>
 	<string id="acv_acv_desc">
-		<rus>Вы достигли 100 достижений. Это достижение.</rus>
-		<eng>You have earned 100 achievements. That's an achievement.</eng>
-		<ukr>Ви досягли 100 досягнень. Це досягнення.</ukr>
-		<fra>Vous avez atteint 100 réalisations. C'est un exploit.</fra>
-		<pln>Zdobyłeś 100 osiągnięć. To osiągnięcie.</pln>
+		<rus>Вы достигли 100 достижений. Это достижение!</rus>
+		<eng>You have earned 100 achievements. That's an achievement!</eng>
+		<ukr>Ви досягли 100 досягнень. Це досягнення!</ukr>
+		<fra>Vous avez atteint 100 réalisations. C'est un exploit!</fra>
+		<pln>Zdobyłeś 100 osiągnięć. To osiągnięcie!</pln>
 	</string>
 	<string id="acv_fighter">
 		<rus>Драчун</rus>
@@ -851,11 +859,11 @@
 		<pln>Znawca Zony</pln>
 	</string>
 	<string id="acv_cognized_zone_desc">
-		<rus>Вы нашли все ручные телепорты на все территории Зоны. Чтобы выполнить эту самую сложную во всей игре задачу, Вам пришлось проявить недюжинное старание и крайне внимательно и тщательно исследовать каждый уголок Зоны. После выполнения этой работы Вас можно смело назвать Познавшим Зону, ибо не осталось в Зоне мест, куда бы не заглянул Ваш внимательный и скрупулёзный взгляд. При этом Вам очень часто приходилось застревать в текстурах и проваливаться сквозь них. Но ничего страшного. Ведь главное - результат!</rus>
-		<eng>You have found all the hand teleporters throughout the Zone. To perform this most difficult task in the entire game, you had to show remarkable diligence and thoroughly search every nook and cranny in the Zone. After having done this work, you can be rightfully called 'Intimate with the Zone', for there's not a single place left in the Zone that your attentive and scrupulous look has not penetrated. Whilst you were at it, very often you were getting stuck in the textures and falling through them. But everything's okay now. After all, the results is all that matters!</eng>
-		<ukr>Ви знайшли всі ручні телепорти на всі території Зони. Щоб виконати цю найскладнішу у всій грі задачу, Вам довелося проявити незвичайну старанність і вкрай уважно і ретельно досліджувати кожен куточок Зони. Після виконання цієї роботи Вас можна сміливо назвати Тим що пізнав Зону, бо не залишилося у Зоні місць, куди б не заглянув Ваш уважний і скрупульозний погляд. При цьому Вам дуже часто доводилося застрягати у текстурах і провалюватися крізь них. Але нічого страшного. Адже головне - результат!</ukr>
-		<fra>Vous avez trouvé tous les téléporteurs manuels sur tout le territoire de la Zone. Pour accomplir cette tâche la plus difficile du jeu, il a fallu déployer des efforts remarquables et examiner chaque détail de la Zone avec la plus grande attention. Après avoir effectué ce travail, vous pouvez être appelé en toute sécurité Celui qui a appris la Zone, car il ne reste plus d’endroits dans la Zone où votre regard attentif et scrupuleux n’aurait pas semblé. Pour ce faire, il fallait très souvent rester coincé dans des textures et y tomber. Mais ça va. Après tout, l’essentiel est le résultat!</fra>
-		<pln>Znalazłeś wszystkie ręczne teleporty na wszystkie lokacje Zony. By wykonać te najbardziej złożone w całej grze zadanie wypadło ci się wykazać wyjątkową cierpliwością. Nadzwyczaj uważnie i dokładnie badać każdy zakątek Zony. Po wykonaniu tego zadania śmiało można cię nazwać Znawcą Zony, ponieważ nie ma już w Zonie miejsc, gdzie by nie zajrzało twoje uważne i skrupulatne spojrzenie. Przy tym bardzo często wypadło ci więznąć w teksturach i zapadać się przez nie. Ale to nic nie szkodzi. Przecież najważniejsze to wynik końcowy!</pln>
+		<rus>Вы нашли все ручные телепорты на все территории Зоны. Чтобы выполнить эту сложную задачу, Вам пришлось проявить недюжинное старание. После выполнения этой работы Вас можно смело назвать Познавшим Зону.</rus>
+		<eng>===You have found all the hand teleporters throughout the Zone. To perform this most difficult task in the entire game, you had to show remarkable diligence and thoroughly search every nook and cranny in the Zone. After having done this work, you can be rightfully called 'Intimate with the Zone', for there's not a single place left in the Zone that your attentive and scrupulous look has not penetrated. Whilst you were at it, very often you were getting stuck in the textures and falling through them. But everything's okay now. After all, the results is all that matters!</eng>
+		<ukr>===Ви знайшли всі ручні телепорти на всі території Зони. Щоб виконати цю найскладнішу у всій грі задачу, Вам довелося проявити незвичайну старанність і вкрай уважно і ретельно досліджувати кожен куточок Зони. Після виконання цієї роботи Вас можна сміливо назвати Тим що пізнав Зону, бо не залишилося у Зоні місць, куди б не заглянув Ваш уважний і скрупульозний погляд. При цьому Вам дуже часто доводилося застрягати у текстурах і провалюватися крізь них. Але нічого страшного. Адже головне - результат!</ukr>
+		<fra>===Vous avez trouvé tous les téléporteurs manuels sur tout le territoire de la Zone. Pour accomplir cette tâche la plus difficile du jeu, il a fallu déployer des efforts remarquables et examiner chaque détail de la Zone avec la plus grande attention. Après avoir effectué ce travail, vous pouvez être appelé en toute sécurité Celui qui a appris la Zone, car il ne reste plus d’endroits dans la Zone où votre regard attentif et scrupuleux n’aurait pas semblé. Pour ce faire, il fallait très souvent rester coincé dans des textures et y tomber. Mais ça va. Après tout, l’essentiel est le résultat!</fra>
+		<pln>===Znalazłeś wszystkie ręczne teleporty na wszystkie lokacje Zony. By wykonać te najbardziej złożone w całej grze zadanie wypadło ci się wykazać wyjątkową cierpliwością. Nadzwyczaj uważnie i dokładnie badać każdy zakątek Zony. Po wykonaniu tego zadania śmiało można cię nazwać Znawcą Zony, ponieważ nie ma już w Zonie miejsc, gdzie by nie zajrzało twoje uważne i skrupulatne spojrzenie. Przy tym bardzo często wypadło ci więznąć w teksturach i zapadać się przez nie. Ale to nic nie szkodzi. Przecież najważniejsze to wynik końcowy!</pln>
 	</string>
 	<string id="acv_sishik">
 		<rus>Сыщик</rus>
@@ -865,11 +873,11 @@
 		<pln>Detektyw</pln>
 	</string>
 	<string id="acv_sishik_desc">
-		<rus>Вы нашли все труднодоступные тайники Кости, Старого Жила, Стрелка и Монолита. Молодец!</rus>
-		<eng>You have found all the hard-to-reach stashes of Kostya, Old-timer, Strelok and the Monolith. Well done!</eng>
-		<ukr>Ви знайшли всі важкодоступні схованки Кості, Старого Жила, Стрільця та Моноліту. Молодець!</ukr>
-		<fra>Vous avez trouvé toutes les caches difficiles à atteindre de Bone, Old Vein, Strelka et Monolith. Bien fait!</fra>
-		<pln>Znalazłeś wszystkie trudnodostępne schowki Kostii, Tubylca, Striełoka i Monolitu.</pln>
+		<rus>Вы нашли все труднодоступные тайники Кости, Старого Жила и Стрелка. Молодец!</rus>
+		<eng>You have found all the hard-to-reach stashes of Kostya, Old-timer and Strelok. Well done!</eng>
+		<ukr>Ви знайшли всі важкодоступні схованки Кості, Старого Жила та Стрільця. Молодець!</ukr>
+		<fra>Vous avez trouvé toutes les caches difficiles à atteindre de Bone, Old Vein et Strelka. Bien fait!</fra>
+		<pln>Znalazłeś wszystkie trudnodostępne schowki Kostii, Tubylca i Striełoka.</pln>
 	</string>
 	<string id="acv_money1">
 		<rus>Нумизмат</rus>
@@ -977,25 +985,25 @@
 		<pln>Młociarz</pln>
 	</string>
 	<string id="acv_kuv_desc">
-		<rus>Даже не верится. Семикилограммовой кувалдой Вы забили насмерть более 100 монстров, каждый из которых опаснее другого. После такой тренировки плечи у Вас уже давно должны быть как у грузчика, и сейчас самое время попробовать себя на ближайшем чемпионате мира по лёгкой атлетике в дисциплине метание молота. Что думаете?</rus>
-		<eng>I cannot believe it. With a seven kilogram sledgehammer you have killed more than 100 monsters, each of them was more dangerous than the other. After this training your shoulders should have been like those of a loader for a long time, and now it's time for you to try your hand at the next World Athletics Championship in a hammer throwing competition. What do you think?</eng>
-		<ukr>Навіть не віриться. Семикілограмовою кувалдою Ви забили насмерть більше 100 монстрів, кожний з яких небезпечніший за іншого. Після такого тренування плечі у Вас вже давно повинні бути як у будівельника, і зараз якраз час спробувати себе на найближчому чемпіонаті світу з легкої атлетики в дисципліні метання молота. Що думаєте?</ukr>
-		<fra>Je ne peux pas le croire. Masse de sept kilogrammes Vous avez battu à mort plus de 100 monstres, tous plus dangereux les uns que les autres. Après un tel entraînement, vos épaules doivent rester longtemps comme un chargeur et le moment est venu de vous essayer au championnat du monde d'athlétisme le plus proche dans la discipline du lancer du marteau. Qu'en pensez vous?</fra>
-		<pln>Nie mogę uwierzyć. Siedmiokilogramowym młotem zabiłeś ponad 100 mutantów, jeden większy od drugiego. Po takim treningu ramiona powinieneś mieć jak u tragarza. Najwyższy czas spróbować się na najbliższych mistrzostwach swiata w lekkiej atletyce w rzucie młotem. Co myślisz? Może warto zaryzykować?</pln>
+		<rus>Даже не верится. Семикилограммовой кувалдой Вы забили насмерть более 300 противников, каждый из которых опаснее другого. После такой тренировки плечи у Вас уже давно должны быть как у грузчика, и сейчас самое время попробовать себя на ближайшем чемпионате мира по лёгкой атлетике в дисциплине метание молота. Что думаете? Если не хотите уйти в большой спорт, тогда, может, согласитесь на работу в кузнице? Ведь качественно выкованные изделия ручной работы на современном рынке ценятся очень высоко. Гораздо дороже, чем все найденные Вами артефакты. И риска никакого...</rus>
+		<eng>===I cannot believe it. With a seven kilogram sledgehammer you have killed more than 300 monsters, each of them was more dangerous than the other. After this training your shoulders should have been like those of a loader for a long time, and now it's time for you to try your hand at the next World Athletics Championship in a hammer throwing competition. What do you think? If you do not want to go to a big sport, then, perhaps, you'll agree to work in the smithy? After all, high quality forged handmade products are highly valued in the modern market. Much more than all the artifacts you ever found. And no risk at all...</eng>
+		<ukr>===Навіть не віриться. Семикілограмовою кувалдою Ви забили насмерть більше 300 монстрів, кожний з яких небезпечніший за іншого. Після такого тренування плечі у Вас вже давно повинні бути як у будівельника, і зараз якраз час спробувати себе на найближчому чемпіонаті світу з легкої атлетики в дисципліні метання молота. Що думаєте? Якщо не хочете піти у великий спорт, тоді, можливо, погодитесь на роботу в кузні? Адже якісно викувані вироби ручної роботи на сучасному ринку цінуються дуже високо. Набагато дорожче, ніж всі знайдені Вами артефакти. І ризику ніякого...</ukr>
+		<fra>===Je ne peux pas le croire. Masse de sept kilogrammes Vous avez battu à mort plus de 300 monstres, tous plus dangereux les uns que les autres. Après un tel entraînement, vos épaules doivent rester longtemps comme un chargeur et le moment est venu de vous essayer au championnat du monde d'athlétisme le plus proche dans la discipline du lancer du marteau. Qu'en pensez vous? Si vous ne voulez pas aller dans un grand sport, vous accepterez peut-être de travailler dans la forge? Après tout, les produits artisanaux forgés de haute qualité sont très prisés sur le marché moderne. Beaucoup plus cher que tous les artefacts que vous avez trouvés. Et il n'y a pas de risque...</fra>
+		<pln>===Nie mogę uwierzyć. Siedmiokilogramowym młotem zabiłeś ponad 300 mutantów, jeden większy od drugiego. Po takim treningu ramiona powinieneś mieć jak u tragarza. Najwyższy czas spróbować się na najbliższych mistrzostwach swiata w lekkiej atletyce w rzucie młotem. Co myślisz? Może warto zaryzykować? Skoro nie chcesz odejść do wielkiego sportu, to może, zgodzisz się na pracę w kuźni? Przecież porządnie wykute wyroby rekodzielnicze na nowoczesnym rynku są bardzo wysoko cenione. Znacznie drożej, niż wszystkie znalezione przez ciebie artefakty. I ryzyka żadnego...</pln>
 	</string>
 	<string id="acv_kuv2">
-		<rus>Кузнец</rus>
-		<eng>Blacksmith</eng>
-		<ukr>Коваль</ukr>
-		<fra>Forgeron</fra>
-		<pln>Kowal</pln>
+		<rus>Дворник</rus>
+		<eng>===Blacksmith</eng>
+		<ukr>===Коваль</ukr>
+		<fra>===Forgeron</fra>
+		<pln>===Kowal</pln>
 	</string>
 	<string id="acv_kuv2_desc">
-		<rus>Видимо, на чемпионат по тяжёлой атлетике Вы не поехали, раз продолжаете тренироваться в Зоне, и количество жертв Вашей кувалды перевалило за 300. Если не хотите уйти в большой спорт, тогда, может, согласитесь на работу в кузнице? Ведь качественно выкованные изделия ручной работы на современном рынке ценятся очень высоко. Гораздо дороже, чем все найденные Вами артефакты. И риска никакого...</rus>
-		<eng>Apparently, you did not go to the weightlifting championship, since you continue to train in the Zone, and the number of victims of your hammer exceeded 300. If you do not want to go to a big sport, then, perhaps, you'll agree to work in the smithy? After all, high quality forged handmade products are highly valued in the modern market. Much more than all the artifacts you ever found. And no risk at all...</eng>
-		<ukr>Мабуть, на чемпіонат з важкої атлетики Ви не поїхали, раз продовжуєте тренуватися в Зоні, і кількість жертв Вашої кувалди перевалило за 300. Якщо не хочете піти у великий спорт, тоді, можливо, погодитесь на роботу в кузні? Адже якісно викувані вироби ручної роботи на сучасному ринку цінуються дуже високо. Набагато дорожче, ніж всі знайдені Вами артефакти. І ризику ніякого...</ukr>
-		<fra>Apparemment, vous n’êtes pas allé au championnat d’haltérophilie, puisque vous continuez à vous entraîner dans la Zone et que le nombre de victimes de votre sledgehammer a dépassé les 300. Si vous ne voulez pas aller dans un grand sport, vous accepterez peut-être de travailler dans la forge? Après tout, les produits artisanaux forgés de haute qualité sont très prisés sur le marché moderne. Beaucoup plus cher que tous les artefacts que vous avez trouvés. Et il n'y a pas de risque...</fra>
-		<pln>Widocznie, na mistrzostwa w lekkoatletyce się nie załapałeś, skoro kontynuujesz trening w Zonie, i ilość ofiar twojego młota przekroczyła 300 sztuk. Skoro nie chcesz odejść do wielkiego sportu, to może, zgodzisz się na pracę w kuźni? Przecież porządnie wykute wyroby rekodzielnicze na nowoczesnym rynku są bardzo wysoko cenione. Znacznie drożej, niż wszystkie znalezione przez ciebie artefakty. I ryzyka żadnego...</pln>
+		<rus>Вы выбрали весьма нетривиальный способ умерщвления врагов - лопату. Причём, судя по количеству жертв, а их уже перевалило за 300, Вы достигли уникальных навыков владения данным инструментом, граничащим с профессионализмом. А кто владеет лопатой и совком профессионально? Правильно - Дворник!</rus>
+		<eng>===Apparently, you did not go to the weightlifting championship, since you continue to train in the Zone, and the number of victims of your hammer exceeded 300.</eng>
+		<ukr>===Мабуть, на чемпіонат з важкої атлетики Ви не поїхали, раз продовжуєте тренуватися в Зоні, і кількість жертв Вашої кувалди перевалило за 300.</ukr>
+		<fra>===Apparemment, vous n’êtes pas allé au championnat d’haltérophilie, puisque vous continuez à vous entraîner dans la Zone et que le nombre de victimes de votre sledgehammer a dépassé les 300.</fra>
+		<pln>===Widocznie, na mistrzostwa w lekkoatletyce się nie załapałeś, skoro kontynuujesz trening w Zonie, i ilość ofiar twojego młota przekroczyła 300 sztuk.</pln>
 	</string>
 	<string id="acv_top">
 		<rus>Раскольников</rus>
@@ -1005,25 +1013,25 @@
 		<pln>Raskolnikow</pln>
 	</string>
 	<string id="acv_top_desc">
-		<rus>Вы зарубили топором более 100 монстров. Особенно Вы любили применять этот инструмент к зомбированным врагам, и, в частности, к беззащитным бабулькам. Хочешь не хочешь, а всё равно невольно вспоминается Раскольников. Не жалко было старушек-то?</rus>
-		<eng>You hacked to death over 100 monsters with an ax. Especially you liked to use this tool for killing zombified enemies, and defenseless grannies in particular. Willy-nilly the one that comes to mind at that is Raskolnikov. Did you not ever feel sorry for the old women?</eng>
-		<ukr>Ви зарубали сокирою більше 100 монстрів. Особливо Ви полюбляли застосовувати цей інструмент до зомбованих ворогів, і, зокрема, до беззахисних бабусь. Хочеш не хочеш, але все одно мимоволі згадується Раскольніков. Не шкода було стареньких то?</ukr>
-		<fra>Vous avez tué avec une hache plus de 100 monstres. Vous avez particulièrement aimé appliquer cet outil aux ennemis zombies, et en particulier aux mamies sans défense. Vous voulez, vous ne voulez pas, mais on se souvient toujours de Raskolnikov involontairement. Ne vous sentez pas désolé pour les vieilles femmes, alors?</fra>
-		<pln>Zarżnąłeś siekierą ponad 100 mutantów. Przede wszystkim kochałeś stosować to narzędzie w stosunku do zombie,a w szczególności na bezbronnych babciach. Chcesz, czy nie chcesz, ale to wszystko przypomina Raskolnikowa. Nie żal było staruszek, co?</pln>
+		<rus>Вы зарубили топором более 300 живых существ. Особенно Вы любили применять этот инструмент к зомбированным врагам, и, в частности, к беззащитным бабулькам. Хочешь не хочешь, а всё равно невольно вспоминается Раскольников. Не жалко было старушек-то?</rus>
+		<eng>===You hacked to death over 300 monsters with an ax. Especially you liked to use this tool for killing zombified enemies, and defenseless grannies in particular. Willy-nilly the one that comes to mind at that is Raskolnikov. Did you not ever feel sorry for the old women?</eng>
+		<ukr>===Ви зарубали сокирою більше 300 монстрів. Особливо Ви полюбляли застосовувати цей інструмент до зомбованих ворогів, і, зокрема, до беззахисних бабусь. Хочеш не хочеш, але все одно мимоволі згадується Раскольніков. Не шкода було стареньких то?</ukr>
+		<fra>===Vous avez tué avec une hache plus de 300 monstres. Vous avez particulièrement aimé appliquer cet outil aux ennemis zombies, et en particulier aux mamies sans défense. Vous voulez, vous ne voulez pas, mais on se souvient toujours de Raskolnikov involontairement. Ne vous sentez pas désolé pour les vieilles femmes, alors?</fra>
+		<pln>===Zarżnąłeś siekierą ponad 300 mutantów. Przede wszystkim kochałeś stosować to narzędzie w stosunku do zombie,a w szczególności na bezbronnych babciach. Chcesz, czy nie chcesz, ale to wszystko przypomina Raskolnikowa. Nie żal było staruszek, co?</pln>
 	</string>
 	<string id="acv_top2">
-		<rus>Дровосек</rus>
-		<eng>Woodcutter</eng>
-		<ukr>Дровосік</ukr>
-		<fra>Bûcheron</fra>
-		<pln>Drwal</pln>
+		<rus>Скалолаз</rus>
+		<eng>===Woodcutter</eng>
+		<ukr>===Дровосік</ukr>
+		<fra>===Bûcheron</fra>
+		<pln>===Drwal</pln>
 	</string>
 	<string id="acv_top2_desc">
-		<rus>От Вашего топора погибло более 300 врагов. Скажите, Вы его хоть иногда моете? Или так и ходите по рукоять в крови? Запах, наверное, ужасный...</rus>
-		<eng>More than 300 enemies have been killed by you using your ax. Tell me, do you ever clean it? Or do you keep it covered in blood to the hilt? The smell must be awful...</eng>
-		<ukr>Від Вашої сокири загинуло більше 300 ворогів. Скажіть, Ви її хоч іноді миєте? Чи так і ходите по руків'я в крові? Запах, напевно, жахливий...</ukr>
-		<fra>Plus de 300 ennemis sont morts de votre hache. Dis-moi, est-ce que tu la laves parfois? Ou alors allez sur le manche dans le sang? L'odeur est probablement terrible...</fra>
-		<pln>Od twojej siekiery zginęło ponad 300 wrogów. Powiedz, myjesz ją chociaż czasem? Albo tak chodzisz po łokcie we krwi? Zapach, z pewnością, okropny...</pln>
+		<rus>От Вашего ледоруба погибло более 300 врагов. Скажите, Вы его хоть иногда моете? Или так и ходите по рукоять в крови и с кусочками мяса на зубьях? Запах, наверное, ужасный...</rus>
+		<eng>===More than 300 enemies have been killed by you using your ax. Tell me, do you ever clean it? Or do you keep it covered in blood to the hilt? The smell must be awful...</eng>
+		<ukr>===Від Вашої сокири загинуло більше 300 ворогів. Скажіть, Ви її хоч іноді миєте? Чи так і ходите по руків'я в крові? Запах, напевно, жахливий...</ukr>
+		<fra>===Plus de 300 ennemis sont morts de votre hache. Dis-moi, est-ce que tu la laves parfois? Ou alors allez sur le manche dans le sang? L'odeur est probablement terrible...</fra>
+		<pln>===Od twojej siekiery zginęło ponad 300 wrogów. Powiedz, myjesz ją chociaż czasem? Albo tak chodzisz po łokcie we krwi? Zapach, z pewnością, okropny...</pln>
 	</string>
 	<string id="acv_mach">
 		<rus>Хирург</rus>
@@ -1033,25 +1041,25 @@
 		<pln>Chirurg</pln>
 	</string>
 	<string id="acv_mach_desc">
-		<rus>Мясники на всех мясных рынках молча завидуют Вам. Ваше искусство разделки туш с помощью мачете достигло хирургического мастерства. Шутка ли - 100 препарированных трупов. Может, подумаете о смене профессии? Хорошие хирурги всегда очень востребованы. И им всегда хорошо платят. Гораздо больше, чем Вы сможете нарубить здесь, в Зоне...</rus>
-		<eng>Butchers in all meat markets envy you silently. Your art of cutting carcasses with a machete has achieved surgical grade. 100 cut corpses is no laughing matter. Maybe you should think about changing your occupation? Good surgeons are always very much in demand. And they are always well paid. Much more than you can gain by the carcass cutting here in the Zone...</eng>
-		<ukr>М'ясники на всіх м'ясних ринках мовчки заздрять Вам. Ваше мистецтво оброблення туш за допомогою мачете досягло хірургічної майстерності. Це не жарт - 100 препарованих трупів. Може, подумаєте про зміну професії? Хороші хірурги завжди дуже затребувані. І їм завжди добре платять. Набагато більше, ніж Ви зможете нарубати тут, у Зоні...</ukr>
-		<fra>Les bouchers de tous les marchés de la viande vous envient silencieusement. Votre art du mascara a atteint vos compétences chirurgicales. Sans blague - 100 cadavres disséqués. Peut-être penser à changer de profession? Les bons chirurgiens sont toujours très demandés. Et ils sont toujours bien payés. Beaucoup plus que ce que vous pouvez couper ici dans la zone...</fra>
-		<pln>Rzeźnicy na wszystkich mięsnych targach milcząco ci zazdroszczą. Twoja sztuka rozbiórki tuszy za pomocą maczety osiągnęła mistrzostwo. Może pomyślisz o zmianie zawodu? Dobrzy chirurdzy zawsze są bardzo pożądani. I dobrze im płacą. Znacznie więcej niż możesz wyrąbać w Zonie...</pln>
+		<rus>Мясники на всех мясных рынках молча завидуют Вам. Ваше искусство разделки туш с помощью мачете достигло хирургического мастерства. Шутка ли - 300 препарированных трупов. Может, подумаете о смене профессии? Хорошие хирурги всегда очень востребованы, и им всегда хорошо платят. Гораздо больше, чем Вы сможете нарубить здесь, в Зоне... С другой стороны, можно подумать о гораздо более квалифицированной работе. Например, патологоанатомом. Эта наука гораздо сложнее, чем хирургия, и испытывает постоянный дефицит качественных специалистов. А уж знаток внутренностей всех аномальных монстров Зоны - так вообще пока существует в единственном экземпляре! И неизвестно, сколько ещё просуществует в этом враждебном мире. Не зарывайте талант в землю!</rus>
+		<eng>===Butchers in all meat markets envy you silently. Your art of cutting carcasses with a machete has achieved surgical grade. 300 cut corpses is no laughing matter. Maybe you should think about changing your occupation? Good surgeons are always very much in demand. And they are always well paid. Much more than you can gain by the carcass cutting here in the Zone... Here you can think of a much more skilled work. For example, that of a pathologist. This science is much more complicated than surgery, and is experiencing a permanent shortage of qualified specialists. But a connoisseur of the entrails of all the anomalous monsters of the Zone is only one in the Zone! And it is unknown how much longer he will exist in this hostile world. Do not hide your talent in a napkin!</eng>
+		<ukr>===М'ясники на всіх м'ясних ринках мовчки заздрять Вам. Ваше мистецтво оброблення туш за допомогою мачете досягло хірургічної майстерності. Це не жарт - 300 препарованих трупів. Може, подумаєте про зміну професії? Хороші хірурги завжди дуже затребувані. І їм завжди добре платять. Набагато більше, ніж Ви зможете нарубати тут, у Зоні... Тут можна подумати про набагато більш кваліфіковану роботу. Наприклад, патологоанатомом. Ця наука набагато складніша, ніж хірургія, і відчуває постійний дефіцит якісних фахівців. А вже знавець нутрощів всіх аномальних монстрів Зони - так взагалі поки існує в єдиному екземплярі! І невідомо, скільки ще проіснує в цьому ворожому світі. Не заривайте талант у землю!</ukr>
+		<fra>===Les bouchers de tous les marchés de la viande vous envient silencieusement. Votre art du mascara a atteint vos compétences chirurgicales. Sans blague - 300 cadavres disséqués. Peut-être penser à changer de profession? Les bons chirurgiens sont toujours très demandés. Et ils sont toujours bien payés. Beaucoup plus que ce que vous pouvez couper ici dans la zone... Ici, vous pouvez penser à un travail beaucoup plus qualifié. Par exemple, un pathologiste. Cette science est beaucoup plus compliquée que la chirurgie et il y a une pénurie constante de spécialistes de grande qualité. Et déjà un connaisseur des entrailles de tous les monstres anormaux de la Zone - tant qu’il existe en un seul exemplaire! Et on ne sait pas combien de temps il existera dans ce monde hostile. Ne pas enterrer le talent dans le sol!</fra>
+		<pln>===Rzeźnicy na wszystkich mięsnych targach milcząco ci zazdroszczą. Twoja sztuka rozbiórki tuszy za pomocą maczety osiągnęła mistrzostwo. Może pomyślisz o zmianie zawodu? Dobrzy chirurdzy zawsze są bardzo pożądani. I dobrze im płacą. Znacznie więcej niż możesz wyrąbać w Zonie... Tu można pomyśleć o znacznie bardziej wymagającej pracy. Na przykład, anatomopatologa. To nauka znacznie cięższa, niż chirurgia, i wykazuje stały deficyt doświadczonych specjalistów. A już znawca wnętrz wszystkich anomalnych stworów Zony - to na razie istnieje w jedynym egzemplarzu! I nie wiadomo, ile jeszcze pożyje w tym wrogim świecie. Nie marnuj talentu!</pln>
 	</string>
 	<string id="acv_mach2">
-		<rus>Патологоанатом</rus>
-		<eng>Pathologist</eng>
-		<ukr>Патологоанатом</ukr>
-		<fra>Pathologiste</fra>
-		<pln>Anatomopatolog</pln>
+		<rus>Хулиган</rus>
+		<eng>===Pathologist</eng>
+		<ukr>===Патологоанатом</ukr>
+		<fra>===Pathologiste</fra>
+		<pln>===Anatomopatolog</pln>
 	</string>
 	<string id="acv_mach2_desc">
-		<rus>Увы, хирургом Вам уже не стать. Ибо Ваша квалификация намного превысила необходимую для данной профессии. Потому что 300 разделанных мачете туш, это Вам не фурункул кое-где вырезать! Тут можно подумать о гораздо более квалифицированной работе. Например, патологоанатомом. Эта наука гораздо сложнее, чем хирургия, и испытывает постоянный дефицит качественных специалистов. А уж знаток внутренностей всех аномальных монстров Зоны - так вообще пока существует в единственном экземпляре! И неизвестно, сколько ещё просуществует в этом враждебном мире. Не зарывайте талант в землю!</rus>
-		<eng>Alas, you'll never be a surgeon. For your skill is much higher than necessary for this occupation. Because 300 machete-cut carcasses is not just excising a furuncle here and there! Here you can think of a much more skilled work. For example, that of a pathologist. This science is much more complicated than surgery, and is experiencing a permanent shortage of qualified specialists. But a connoisseur of the entrails of all the anomalous monsters of the Zone is only one in the Zone! And it is unknown how much longer he will exist in this hostile world. Do not hide your talent in a napkin!</eng>
-		<ukr>На жаль, хірургом Вам вже не стати. Бо Ваша кваліфікація набагато перевищила необхідну для даної професії. Тому що 300 розділених мачете туш, це Вам не фурункул десь вирізати! Тут можна подумати про набагато більш кваліфіковану роботу. Наприклад, патологоанатомом. Ця наука набагато складніша, ніж хірургія, і відчуває постійний дефіцит якісних фахівців. А вже знавець нутрощів всіх аномальних монстрів Зони - так взагалі поки існує в єдиному екземплярі! І невідомо, скільки ще проіснує в цьому ворожому світі. Не заривайте талант у землю!</ukr>
-		<fra>Hélas, vous ne devenez plus chirurgien. Pour votre qualification est beaucoup plus élevé que nécessaire pour cette profession. Parce que 300 carcasses de machettes sculptées, ce n’est pas un furoncle à couper ici et là! Ici, vous pouvez penser à un travail beaucoup plus qualifié. Par exemple, un pathologiste. Cette science est beaucoup plus compliquée que la chirurgie et il y a une pénurie constante de spécialistes de grande qualité. Et déjà un connaisseur des entrailles de tous les monstres anormaux de la Zone - tant qu’il existe en un seul exemplaire! Et on ne sait pas combien de temps il existera dans ce monde hostile. Ne pas enterrer le talent dans le sol!</fra>
-		<pln>Niestety, chirurgiem już nie zostaniesz, ponieważ twoje kwalifikacje znacznie przewyższają te niezbędne dla danego zawodu. Dlatego że 300 rozczłonkowanych maczetą tusz, to nie w kij dmuchał! Tu można pomyśleć o znacznie bardziej wymagającej pracy. Na przykład, anatomopatologa. To nauka znacznie cięższa, niż chirurgia, i wykazuje stały deficyt doświadczonych specjalistów. A już znawca wnętrz wszystkich anomalnych stworów Zony - to na razie istnieje w jedynym egzemplarzu! I nie wiadomo, ile jeszcze pożyje w tym wrogim świecie. Nie marnuj talentu!</pln>
+		<rus>Пока весь мир использует биту, как ручной спортивный снаряд и играет с её помощью в бейсбол и крикет, Вы нашли ей другое применение - уничтожение врагов в промышленных масштабах, и 300 треснутых черепов тому подтверждение. Поэтому Вы по праву получаете ещё одно новое прозвище - Хулиган. Сколько их уже у Вас, десятки?</rus>
+		<eng>===Alas, you'll never be a surgeon. For your skill is much higher than necessary for this occupation. Because 300 machete-cut carcasses is not just excising a furuncle here and there!</eng>
+		<ukr>===На жаль, хірургом Вам вже не стати. Бо Ваша кваліфікація набагато перевищила необхідну для даної професії. Тому що 300 розділених мачете туш, це Вам не фурункул десь вирізати!</ukr>
+		<fra>===Hélas, vous ne devenez plus chirurgien. Pour votre qualification est beaucoup plus élevé que nécessaire pour cette profession. Parce que 300 carcasses de machettes sculptées, ce n’est pas un furoncle à couper ici et là!</fra>
+		<pln>===Niestety, chirurgiem już nie zostaniesz, ponieważ twoje kwalifikacje znacznie przewyższają te niezbędne dla danego zawodu. Dlatego że 300 rozczłonkowanych maczetą tusz, to nie w kij dmuchał!</pln>
 	</string>
 	<string id="acv_kuk">
 		<rus>Гуркх</rus>
@@ -1061,25 +1069,25 @@
 		<pln>Gurkh</pln>
 	</string>
 	<string id="acv_kuk_desc">
-		<rus>100 убийств кукри. Непальские гуркхи смотрят сейчас на Вас как на великое божество и поклоняются исключительно Вам. Но не обольщайтесь. Для Зоны это ничего не значит.</rus>
-		<eng>100 kills with kukri. Nepalese Gurkhas now look at you as their great deity and worship you exclusively. But do not flatter yourself. It means nothing in the Zone.</eng>
-		<ukr>100 вбивств кукрі. Непальські гуркхи дивляться зараз на Вас як на велике божество і поклоняються виключно Вам. Але не спокушайтеся. Для Зони це нічого не значить.</ukr>
-		<fra>100 kookri tué. Les Gurkhas népalais vous considèrent maintenant comme une grande divinité et n'adorent que vous. Mais ne vous y trompez pas. Pour la Zone cela ne veut rien dire.</fra>
-		<pln>100 mordów kukri. Nepalscy gurkhowie patrzą teraz na ciebie jak na wielkie bóstwo i czczą cię. Ale nie łudź się. Dla Zony to nic nie znaczy.</pln>
+		<rus>300 убийств кукри. Непальские гуркхи смотрят сейчас на Вас как на великое божество и поклоняются исключительно Вам. Но не обольщайтесь! Для Зоны это ничего не значит.</rus>
+		<eng>300 kills with kukri. Nepalese Gurkhas now look at you as their great deity and worship you exclusively. But do not flatter yourself! It means nothing in the Zone.</eng>
+		<ukr>300 вбивств кукрі. Непальські гуркхи дивляться зараз на Вас як на велике божество і поклоняються виключно Вам. Але не спокушайтеся! Для Зони це нічого не значить.</ukr>
+		<fra>300 kookri tué. Les Gurkhas népalais vous considèrent maintenant comme une grande divinité et n'adorent que vous. Mais ne vous y trompez pas! Pour la Zone cela ne veut rien dire.</fra>
+		<pln>300 mordów kukri. Nepalscy gurkhowie patrzą teraz na ciebie jak na wielkie bóstwo i czczą cię. Ale nie łudź się! Dla Zony to nic nie znaczy.</pln>
 	</string>
 	<string id="acv_kuk2">
-		<rus>Самурай</rus>
-		<eng>Samurai</eng>
-		<ukr>Самурай</ukr>
-		<fra>Samouraï</fra>
-		<pln>Samuraj</pln>
+		<rus>Рыцарь</rus>
+		<eng>===Samurai</eng>
+		<ukr>===Самурай</ukr>
+		<fra>===Samouraï</fra>
+		<pln>===Samuraj</pln>
 	</string>
 	<string id="acv_kuk2_desc">
-		<rus>От Вашего кукри погибло более 300 врагов. Сидорович сказал, что через неделю элита японских самураев прибудет в Зону, чтобы взять у Вас мастер-класс. Может, не нужно их учить этому? Зачем в обычной жизни такие навыки?</rus>
-		<eng>More than 300 enemies perished from your kukri. Sidorovich said that in a week the elite of Japanese samurais would come to the Zone to take a master class from you. Maybe you should not teach them this? What's one need these skills in everyday life for?</eng>
-		<ukr>Від Вашої кукрі загинуло більше 300 ворогів. Сидорович сказав, що через тиждень еліта японських самураїв прибуде в Зону, щоб взяти у Вас майстер-клас. Може, не треба їх вчити цьому? Навіщо в звичайному житті такі навички?</ukr>
-		<fra>De votre kukri tué plus de 300 ennemis. Sidorovich a déclaré que dans une semaine l'élite des samouraïs japonais arriverait dans la zone pour vous prendre un cours de maître. Peut-être que vous n'avez pas besoin d'eux pour enseigner cela? Pourquoi dans la vie quotidienne de telles compétences?</fra>
-		<pln>Od twojego kukri zginęło ponad 300 wrogów. Sidorowicz powiedział, że za tydzień elita japońskich samurajów przybędzie do Zony, by wziąć u ciebie lekcje mistrzostwa. Może, nie trzeba ich tego uczyć? Po co w zwykłym życiu takie nawyki?</pln>
+		<rus>От Вашего меча погибло более 300 врагов. Сидорович сказал, что через неделю реконструкторы средневековых ристалищ прибудут в Зону, чтобы взять у Вас мастер-класс. Может, не нужно их учить этому? Зачем в обычной жизни такие навыки?</rus>
+		<eng>===More than 300 enemies perished from your kukri. Sidorovich said that in a week the elite of Japanese samurais would come to the Zone to take a master class from you. Maybe you should not teach them this? What's one need these skills in everyday life for?</eng>
+		<ukr>===Від Вашої кукрі загинуло більше 300 ворогів. Сидорович сказав, що через тиждень еліта японських самураїв прибуде в Зону, щоб взяти у Вас майстер-клас. Може, не треба їх вчити цьому? Навіщо в звичайному житті такі навички?</ukr>
+		<fra>===De votre kukri tué plus de 300 ennemis. Sidorovich a déclaré que dans une semaine l'élite des samouraïs japonais arriverait dans la zone pour vous prendre un cours de maître. Peut-être que vous n'avez pas besoin d'eux pour enseigner cela? Pourquoi dans la vie quotidienne de telles compétences?</fra>
+		<pln>===Od twojego kukri zginęło ponad 300 wrogów. Sidorowicz powiedział, że za tydzień elita japońskich samurajów przybędzie do Zony, by wziąć u ciebie lekcje mistrzostwa. Może, nie trzeba ich tego uczyć? Po co w zwykłym życiu takie nawyki?</pln>
 	</string>
 	<string id="acv_crow">
 		<rus>Дальнобойщик</rus>
@@ -1089,11 +1097,11 @@
 		<pln>Kierowca</pln>
 	</string>
 	<string id="acv_crow_desc">
-		<rus>Знаете, какая самая лёгкая смерть? Внезапная. От ударов Вашей монтировки лишилось жизни более 100 живых существ. Причём большинство из них умерли внезапно, не успев понять, что это было. Потому что монтировкой можно убивать на расстоянии.</rus>
-		<eng>Do you know what the easiest death is? The sudden one. From the blows with your crowbar more than 100 living creatures lost their lives. And most of them died suddenly, not having had time to understand what it was. Because with a crowbar you can kill at a distance.</eng>
-		<ukr>Знаєте, яка найлегша смерть? Раптова. Від ударів Вашого монтувального лому позбулося життя більше 100 живих істот. Причому більшість з них померли раптово, не встигнувши зрозуміти, що це було. Тому що монтувальним ломом можна вбивати на відстані.</ukr>
-		<fra>Savez-vous quelle est la mort la plus facile? Soudain Sous les coups de votre monture, plus de 100 créatures vivantes ont perdu la vie. Et la plupart d'entre eux sont morts soudainement, n'ayant pas le temps de comprendre ce que c'était. Parce que le mont peut être tué à distance.</fra>
-		<pln>Wiesz, jaka jest najlżejsza śmierć? Nagła. Od uderzenia twoim łomem straciło życie ponad 100 żywych istot. Przy czym większość z nich umarła nagle, nie zdążywszy pojąć, co się stało. Dlatego że łomem można zabić na odległość.</pln>
+		<rus>Знаете, какая самая лёгкая смерть? Внезапная. От ударов Вашей монтировки лишилось жизни более 300 живых существ. Причём большинство из них умерли внезапно, не успев понять, что это было. Потому что монтировкой можно убивать на расстоянии.</rus>
+		<eng>Do you know what the easiest death is? The sudden one. From the blows with your crowbar more than 300 living creatures lost their lives. And most of them died suddenly, not having had time to understand what it was. Because with a crowbar you can kill at a distance.</eng>
+		<ukr>Знаєте, яка найлегша смерть? Раптова. Від ударів Вашого монтувального лому позбулося життя більше 300 живих істот. Причому більшість з них померли раптово, не встигнувши зрозуміти, що це було. Тому що монтувальним ломом можна вбивати на відстані.</ukr>
+		<fra>Savez-vous quelle est la mort la plus facile? Soudain Sous les coups de votre monture, plus de 300 créatures vivantes ont perdu la vie. Et la plupart d'entre eux sont morts soudainement, n'ayant pas le temps de comprendre ce que c'était. Parce que le mont peut être tué à distance.</fra>
+		<pln>Wiesz, jaka jest najlżejsza śmierć? Nagła. Od uderzenia twoim łomem straciło życie ponad 300 żywych istot. Przy czym większość z nich umarła nagle, nie zdążywszy pojąć, co się stało. Dlatego że łomem można zabić na odległość.</pln>
 	</string>
 	<string id="acv_crow2">
 		<rus>Гордон Фримен</rus>
@@ -1103,11 +1111,11 @@
 		<pln>Gordon Freeman</pln>
 	</string>
 	<string id="acv_crow2_desc">
-		<rus>Вы получаете это достижение за то, что смогли умертвить монтировкой более 300 врагов. Будете в Баре - передавайте привет её первому хозяину.</rus>
-		<eng>You earn this achievement for having been able to kill more than 300 enemies with the crowbar. Next time you visit the Bar, send greetings to its first master.</eng>
-		<ukr>Ви отримуєте це досягнення за те, що змогли умертвити монтувальним ломом більше 300 ворогів. Будете в Барі - передавайте привіт його першому господареві.</ukr>
-		<fra>Vous obtenez cette réalisation pour avoir pu tuer plus de 300 ennemis avec une monture. Sera au bar, dites bonjour à son premier propriétaire.</fra>
-		<pln>Otrzymujesz to osiągnięcie za to, że udało ci się uśmiercić łomem ponad 300 wrogów. Będziesz w Barze, pozdrów jego pierwszego właściciela.</pln>
+		<rus>Вы получаете это достижение за то, что смогли умертвить монтировкой Фримена более 300 врагов. Будете в Баре - передавайте привет её первому хозяину.</rus>
+		<eng>===You earn this achievement for having been able to kill more than 300 enemies with the crowbar. Next time you visit the Bar, send greetings to its first master.</eng>
+		<ukr>===Ви отримуєте це досягнення за те, що змогли умертвити монтувальним ломом більше 300 ворогів. Будете в Барі - передавайте привіт його першому господареві.</ukr>
+		<fra>===Vous obtenez cette réalisation pour avoir pu tuer plus de 300 ennemis avec une monture. Sera au bar, dites bonjour à son premier propriétaire.</fra>
+		<pln>===Otrzymujesz to osiągnięcie za to, że udało ci się uśmiercić łomem ponad 300 wrogów. Będziesz w Barze, pozdrów jego pierwszego właściciela.</pln>
 	</string>
 	<string id="acv_slp">
 		<rus>Засоня</rus>
@@ -1509,9 +1517,9 @@
 		<pln>Szachista</pln>
 	</string>
 	<string id="acv_shax_desc">
-		<rus>То, что в Зоне гибнут люди, вовсе не означает, что преступники, прячась здесь от правосудия, могут чувствовать себя в безопасности. И вы им это хорошо показали. Хотя Затворник и не пойман, но Вы приложили все усилия, чтобы избавить Зону от него. За что и получаете это достижение!</rus>
+		<rus>То, что в Зоне гибнут люди, вовсе не означает, что преступники, прячась здесь от правосудия, могут чувствовать себя в безопасности. И Вы им это хорошо показали. Яркий пример тому - Шахматист и Затворник, пойманы и обезврежены, и именно Вы приложили все усилия, чтобы избавить Зону от этих подонков. За что и получаете это достижение!</rus>
 		<eng>===The fact that people are dying in the Zone doesn't necessarily mean that criminals, hiding here from justice, can feel safe. And you made it very clear to them. Although Chesser is not caught, but you did your best to save the Zone from him. For which you earn this achievement!</eng>
-		<ukr>Те, що у Зоні гинуть люди, зовсім не означає, що злочинці, ховаючись тут від правосуддя, можуть відчувати себе у безпеці. І ви їм це добре показали. Хоча Затворник і не пійманий, але Ви доклали всіх зусиль, щоб позбавити Зону від нього. За що і отримуєте це досягнення!</ukr>
+		<ukr>===Те, що у Зоні гинуть люди, зовсім не означає, що злочинці, ховаючись тут від правосуддя, можуть відчувати себе у безпеці. І ви їм це добре показали. Хоча Затворник і не пійманий, але Ви доклали всіх зусиль, щоб позбавити Зону від нього. За що і отримуєте це досягнення!</ukr>
 		<fra>===Le fait que des personnes meurent dans la zone ne signifie pas que les criminels, se cachant de la justice ici, peuvent se sentir en sécurité. Et vous le leur avez bien montré. Bien que le joueur d'échecs ne soit pas attrapé, vous avez fait tout votre possible pour la débarrasser de la Zone. Pour lequel vous obtenez cette réalisation!</fra>
 		<pln>===To że w Zonie giną ludzie, wcale nie oznacza, że przestępcy, ukrywając się tu przed prawem, mogą czuć się bezkarni. I ty im to dobrze pokazałeś. Chociaż Szachista nie jest złapany, ale dołożyłeś wszelkich starań, by uwolnić Zonę od niego. Za co i otrzymujesz to osiągnięcie!</pln>
 	</string>
@@ -1551,9 +1559,9 @@
 		<pln>===Titan</pln>
 	</string>
 	<string id="acv_gob_desc">
-		<rus>Поздравляем! Чтобы убить 100 и больше огромных здоровенных псевдогигантов, нужно самому быть здоровенным Титаном!</rus>
+		<rus>Поздравляем! Чтобы убить 100 и более огромных псевдогигантов, нужно самому быть здоровенным Титаном!</rus>
 		<eng>Congratulations! To kill 100 or more biggest pseudogiants, you had to become a huge Titan yourself!</eng>
-		<ukr>Вітаємо! Щоб убити 50 і більше величезних здоровенних псевдогігантів, треба самому бути здоровенним Титаном!</ukr>
+		<ukr>Вітаємо! Щоб убити 100 і більше величезних псевдогігантів, треба самому бути здоровенним Титаном!</ukr>
 		<fra>===Félicitations! Pour tuer au moins 100 énormes pseudo géants, vous devez être vous-même un gobelin costaud!</fra>
 		<pln>===Gratulujemy! By zabić ponad 100 ogromnych pseudogigantóww, trzeba samemu być niezłym goblinem!</pln>
 	</string>
@@ -1607,7 +1615,7 @@
 		<pln>Partyzant</pln>
 	</string>
 	<string id="acv_prtz_desc">
-		<rus>Ваш дед может Вами гордиться. Уничтожив более 50 фашистов Вы продолжили славное дело партизанского отряда С.А. Ковпака. Продолжайте в том же духе, чтобы ни одного фашиста не осталось на родной земле!</rus>
+		<rus>Ваш дед может Вами гордиться. Уничтожив более 50 фашистов, Вы продолжили славное дело партизанского отряда С.А. Ковпака. Продолжайте в том же духе, чтобы ни одного фашиста не осталось на родной земле!</rus>
 		<eng>Your grandfather might be proud of you. Having destroyed more than 50 fascists, you continued the glorious cause of the S. A. Kovpak's partisan detachment. Keep it up, so that not a single fascist is left on our homeland!</eng>
 		<ukr>Ваш дід може Вами пишатись. Знищивши понад 50 фашистів Ви продовжили славну справу партизанського загону С. А. Ковпака. Продовжуйте у тому ж дусі, щоб жодного фашиста не залишилося на рідній землі!</ukr>
 		<fra>Votre grand-père peut être fier de vous. En détruisant plus de 50 fascistes, vous avez poursuivi l'œuvre glorieuse du détachement de partisans S.А. Kovpaka. Continuez dans la même veine, afin qu'aucun fasciste ne reste dans son pays natal!</fra>
@@ -1621,7 +1629,7 @@
 		<pln>Poskramiacz drapieżników</pln>
 	</string>
 	<string id="acv_ukro_desc">
-		<rus>Чтобы убить более 50 химер холодным оружием, надо быть очень смелым человеком. Если надумаете сменить профессию, то цирк вас обеспечит отличной работой.</rus>
+		<rus>Чтобы убить более 50 химер холодным оружием, надо быть очень смелым человеком. Если надумаете сменить профессию, то цирк Вас обеспечит отличной работой.</rus>
 		<eng>Killing more than 50 chimeras with cold steel indicates you are a very brave person. If you decide to change your vocation, circus will provide you with an excellent job.</eng>
 		<ukr>Щоб убити більше 50 химер холодною зброєю, треба бути дуже сміливою людиною. Якщо надумаєте змінити професію, то цирк вас забезпечить відмінною роботою.</ukr>
 		<fra>Pour tuer plus de 50 chimères avec des armes froides, vous devez être un homme très courageux. Si vous décidez de changer de profession, le cirque vous fournira un excellent travail.</fra>
@@ -1635,7 +1643,7 @@
 		<pln>Grzybiarz</pln>
 	</string>
 	<string id="acv_grib_desc">
-		<rus>Чтобы найти и собрать 50 мухоморов, нужно иметь много свободного времени, которого в Зоне очень не хватает. Будем считать, что это ваше хобби.</rus>
+		<rus>Чтобы найти и собрать 50 мухоморов, нужно иметь много свободного времени, которого в Зоне очень не хватает. Будем считать, что это Ваше хобби.</rus>
 		<eng>Finding and collecting 50 fly amanitas takes a lot of free time, which one is always short of in the Zone. We will regard that as your hobby.</eng>
 		<ukr>Щоб знайти і зібрати 50 мухоморів, потрібно мати багато вільного часу, якого у Зоні дуже не вистачає. Будемо вважати, що це ваше хобі.</ukr>
 		<fra>Pour trouver et collecter 50 amanites, vous devez disposer de beaucoup de temps libre, ce qui manque beaucoup dans la Zone. Nous supposons que c'est votre passe-temps.</fra>
@@ -1649,11 +1657,11 @@
 		<pln>Szczurołap</pln>
 	</string>
 	<string id="acv_krs_desc">
-		<rus>Вы круче любого кота! Вы не поймали ни одной крысы, но убили их аж 100! Теперь крысоловка в вашем доме не нужна, мыши и крысы в ужасе сбежали с Вашего района!</rus>
-		<eng>You are cooler than any cat! You haven't caught a single rat, but killed as much as 100 of them! Now you don't need any rat-trap in your house, the mice and rats have escaped from your neighborhood in horror!</eng>
-		<ukr>Ви крутіший за будь-якого кота! Ви не зловили жодного щура, але вбили їх аж 100! Тепер щуроловка у вашому будинку не потрібна, миші та щури в жаху втекли з вашого району!</ukr>
-		<fra>Tu es plus cool que n'importe quel chat! Vous n'avez pas attrapé un seul rat, mais vous en avez tué 100! Maintenant, le rat-receveur dans votre maison n'est pas nécessaire, les souris et les rats ont fui terrorisés de votre région!</fra>
-		<pln>Jesteś lepszy od każdego kota! Nie złapałeś ani jednego szczura, ale zabiłeś ich ponad 100! Teraz pułapka na szczury w twoim domu nie jest potrzebna, myszy i szczury w zgrozie uciekły z twojej okolicy!</pln>
+		<rus>Вы круче любого кота! Вы не поймали ни одной крысы, но убили их аж 100 из пистолета/обреза, что довольно-таки тяжело сделать, учитывая быстроту и юркость этих животных! Теперь крысоловка в Вашем доме не нужна, мыши и крысы в ужасе сбежали с Вашего района!</rus>
+		<eng>===You are cooler than any cat! You haven't caught a single rat, but killed as much as 100 of them! Now you don't need any rat-trap in your house, the mice and rats have escaped from your neighborhood in horror!</eng>
+		<ukr>===Ви крутіший за будь-якого кота! Ви не зловили жодного щура, але вбили їх аж 100! Тепер щуроловка у вашому будинку не потрібна, миші та щури в жаху втекли з вашого району!</ukr>
+		<fra>===Tu es plus cool que n'importe quel chat! Vous n'avez pas attrapé un seul rat, mais vous en avez tué 100! Maintenant, le rat-receveur dans votre maison n'est pas nécessaire, les souris et les rats ont fui terrorisés de votre région!</fra>
+		<pln>===Jesteś lepszy od każdego kota! Nie złapałeś ani jednego szczura, ale zabiłeś ich ponad 100! Teraz pułapka na szczury w twoim domu nie jest potrzebna, myszy i szczury w zgrozie uciekły z twojej okolicy!</pln>
 	</string>
 	<string id="acv_gum">
 		<rus>Ван Хельсинг</rus>
@@ -1705,9 +1713,9 @@
 		<pln>Piroman</pln>
 	</string>
 	<string id="acv_pir_desc">
-		<rus>Да у вас мания! Сжечь огнём сотню живых существ - это уже зависимость!</rus>
+		<rus>Да у вас мания! Сжечь огнём три сотни живых существ - это уже зависимость!</rus>
 		<eng>===Yes, you have a craze! Burning more than 100 mutants is an addiction!</eng>
-		<ukr>Та у вас манія! Спалити вогнем сотню живих створінь - це вже залежність!</ukr>
+		<ukr>===Та у вас манія! Спалити вогнем сотню живих створінь - це вже залежність!</ukr>
 		<fra>===Oui, vous avez la manie! Brûler plus de 100 mutants avec le feu est déjà une dépendance!</fra>
 		<pln>===To chyba jakaś mania! Spalić ogniem ponad 100 mutantów - to już jest uzależnienie!</pln>
 	</string>
@@ -1775,7 +1783,7 @@
 		<pln>Bul-bul karasie</pln>
 	</string>
 	<string id="acv_bbk_desc">
-		<rus>Вас что, раздражает бульканье зомби? Обязательно было убивать 50 таких милых созданий? Ходят себе и ходят. Почти никого не трогают.</rus>
+		<rus>Вас что, раздражает бульканье зомби? Обязательно было убивать 50 таких милых созданий? Ходят себе и ходят, почти никого не трогают.</rus>
 		<eng>Are you annoyed by the gurgling of zombies? Was it necessary to kill 50 of these lovely creatures? Let them wander where they want. They're almost harmless.</eng>
 		<ukr>Вас що, дратує булькання зомбі? Обов'язково було вбивати 40 таких милих створінь? Ходять собі і ходять. Майже нікого не чіпають.</ukr>
 		<fra>Êtes-vous agacé par un zombie? Était-il nécessaire de tuer 50 créatures aussi mignonnes? Marcher et marcher. Presque personne ne touche.</fra>
@@ -1915,7 +1923,7 @@
 		<pln>Świniopas</pln>
 	</string>
 	<string id="acv_svin_desc">
-		<rus>Убийство 100 и более плотей хозяева стада вам не простят. Придётся покрыть недостачу со своего кармана. Если хозяева, конечно, доживут до этого.</rus>
+		<rus>Убийство 100 и более плотей хозяева стада Вам не простят. Придётся покрыть недостачу со своего кармана. Если хозяева, конечно, доживут до этого.</rus>
 		<eng>You will not be forgiven for killing 100 or more fleshes. You'll have to make up for the shortage by paying out of your own pocket. That is if the owners will live long enough to see this.</eng>
 		<ukr>Вбивство 50 і більше плотей господарі стада вам не пробачать. Доведеться покрити недостачу зі своєї кишені. Якщо господарі, звичайно, доживуть до цього.</ukr>
 		<fra>Tuer au moins 100 propriétaires de troupeaux de chair ne vous pardonnera pas. Nous devrons couvrir la pénurie de votre poche. Si les propriétaires, bien sûr, vivront à cela.</fra>
@@ -2004,20 +2012,6 @@
 - Znalazłeś wszystkie trudno dostępne i bonusowe schowki, jak również wszystkie podstawowe schowki, na których nie było namiarów, tak zwane Easter Eggs.\n
 - W czasie pobytu w Zonie nie przepuściłeś żadnej możliwości pomocy innym, byłeś w wystarczającym stopniu dobry, szlachetny i nie nazbyt chciwy.\n
 - Nigdy nie czitowałeś. Przynajmniej, takimi sposobami które były śledzone w czasie gry, Ty nigdy z nich nie skorzystałeś.\n \nInnymi słowy, to najrzadsze osiągnięcie mówi o tym, że osiągnąłeś mistrzostwo w Zonie i poznałeś praktycznie wszystkie jej tajemnice. Dlatego można z całą pewnością powiedzieć, że jesteś prawdziwym S.T.A.L.K.E.R.em.!!!</pln>
-	</string>
-	<string id="acv_prorok">
-		<rus>Пророк</rus>
-		<eng>Prophet</eng>
-		<ukr>Пророк</ukr>
-		<fra>Le prophète</fra>
-		<pln>Prorok</pln>
-	</string>
-	<string id="acv_prorok_desc">
-		<rus>Повторить всю цепочку по изготовлению эмбриона вульфа для какого-то зверя, ещё и за неизвестную заранее награду может только настоящий сталкер, умеющий видеть далеко вперёд.</rus>
-		<eng>Repeating all the steps in the manufacture of a Wulf embryo for some beast and even for a reward unknown beforehand, is something only a real stalker can accomplish, one that is able to see far ahead.</eng>
-		<ukr>Повторити весь ланцюжок по виготовленню ембріона Вульфа для якогось звіра, ще й за невідому заздалегідь нагороду може тільки справжній сталкер, що вміє бачити далеко вперед.</ukr>
-		<fra>Répétez toute la chaîne pour la production d’un embryon de loup pour une bête, et même pour une récompense inconnue à l’avance, seul un véritable harceleur peut voir de loin.</fra>
-		<pln>Powtórzyć cały łańcuch wytworzenia embrionu wilka dla jakiegoś zwierzaka, do tego za nieznaną wcześniej nagrodę, może tylko prawdziwy stalker, umiejący patrzeć daleko w przyszłość.</pln>
 	</string>
 	<string id="acv_sunlight">
 		<rus>Солнцедар</rus>
@@ -2783,7 +2777,7 @@
 		<pln>Antykolekcjoner</pln>
 	</string>
 	<string id="acv_anticollector_desc">
-		<rus>Устроить повторный сбор артефактов Коллекционера мог только страстный его поклонник или жуткий фанат. Но вы собрали 20 артефактов не для себя, и с лёгкостью сбыли их на сторону. Теперь Вы Антиколлекционер!</rus>
+		<rus>Устроить повторный сбор артефактов Коллекционера мог только страстный его поклонник или жуткий фанат. Но Вы собрали 20 артефактов не для себя, и с лёгкостью сбыли их на сторону. Теперь Вы Антиколлекционер!</rus>
 		<eng>Re-collecting all the artifacts of Collector is what only his ardent admirer or hardcore fan could do. But you've collected 20 artifacts not for yourself but easily sold them on the side. Now you are an anti-collector!</eng>
 		<ukr>Влаштувати повторний збір артефактів Колекціонера міг тільки пристрасний його шанувальник або моторошний фанат. Але ви зібрали 20 артефактів не для себе, та з легкістю збули їх на сторону. Тепер Ви Антіколлекціонер!</ukr>
 		<fra>Organiser une collection répétée d'objets du collectionneur ne pouvait que son fan passionné ou un fan terrible. Mais vous avez collecté 20 objets pas pour vous-même et vous les avez facilement vendus sur le côté. Maintenant, vous êtes l'anti-collectionneur!</fra>
@@ -2825,25 +2819,25 @@
 		<pln>===Supplier</pln>
 	</string>
 	<string id="acv_supplier_desc">
-		<rus>Похоже, вам по силам накормить и напоить всех сталкеров Зоны Отчуждения, которые заглядывают к Бармену. При желании, обладая уникальными способностями собирать крупные, оптовые партии товара, Вы сами могли бы стать барменом, но в Зоне Отчуждения ещё много тайн, требующих разгадок. Тем не менее звание Снабженец хоть и вызывает улыбку, но получено Вами заслужено.</rus>
+		<rus>Похоже, Вам по силам накормить и напоить всех сталкеров Зоны Отчуждения, которые заглядывают к Бармену. При желании, обладая уникальными способностями собирать крупные, оптовые партии товара, Вы сами могли бы стать барменом, но в Зоне Отчуждения ещё много тайн, требующих разгадок. Тем не менее звание Снабженец хоть и вызывает улыбку, но получено Вами заслужено.</rus>
 		<eng>It seems you can feed and drink all the stalkers of the Exclusion Zone, who look to the bartender. If you wish, having unique abilities to collect large, wholesale batches of goods you could become a bartender yourself, but in the Exclusion Zone there are still many mysteries that require solutions. Nevertheless, the title of "Supplier", although it causes a smile, but you have earned it</eng>
 		<ukr>Схоже, вам під силу нагодувати і напоїти всіх сталкерів Зони Відчуження, які заглядають до Бармена. При бажанні, володіючи унікальними здібностями збирати великі, оптові партії товару, Ви самі могли б стати барменом, але в Зоні Відчуження ще багато таємниць, які потребують розгадок. Проте звання Постачальник хоч і викликає посмішку, але отримано Вами заслужено.</ukr>
 		<fra>===Похоже вам по силам накормить и напоить всех сталкеров Зоны Отчуждения, которые заглядывают к бармену. При желании, обладая уникальными способностями собирать крупные, оптовые партии товара вы сами могли бы стать барменом, но в Зоне Отчуждения ещё много тайн, требующих разгадок. Тем не менее звание "Снабженец" хоть и вызывает улыбку, но получено вами заслужено</fra>
 		<pln>===Похоже вам по силам накормить и напоить всех сталкеров Зоны Отчуждения, которые заглядывают к бармену. При желании, обладая уникальными способностями собирать крупные, оптовые партии товара вы сами могли бы стать барменом, но в Зоне Отчуждения ещё много тайн, требующих разгадок. Тем не менее звание "Снабженец" хоть и вызывает улыбку, но получено вами заслужено</pln>
 	</string>
 	<string id="acv_anatomist">
-		<rus>Анатом</rus>
-		<eng>Anatomist</eng>
-		<ukr>Анатом</ukr>
-		<fra>===Anatomist</fra>
-		<pln>===Anatomist</pln>
+		<rus>Патологоанатом</rus>
+		<eng>===Pathologist</eng>
+		<ukr>===Патологоанатом</ukr>
+		<fra>===Pathologiste</fra>
+		<pln>===Anatomopatolog</pln>
 	</string>
 	<string id="acv_anatomist_desc">
-		<rus>Маниакальная страсть собирать эмбрионы монстров и капсулы аномалий очень заразна. Если для продажи, то есть в Зоне Отчуждения и другие способы быстро заработать. Для красоты? Тоже сомнительный факт... Тогда остаётся одно более-менее разумное объяснение: для последующего вскрытия и исследований. А если так, тогда Вы - Анатом!</rus>
-		<eng>The manic passion to collect monster embryos and anomaly capsules is very contagious. If for sale, then there are other ways to earn quickly in the Exclusion Zone. For beauty? Is also a questionable fact.. Then there is one more or less reasonable explanation: for subsequent autopsy and research. And if so, then you are an Anatomist!</eng>
-		<ukr>Маніакальна пристрасть збирати ембріони монстрів і капсули аномалій дуже заразна. Якщо на продаж, то в Зоні Відчуження є інші способи швидко заробити. Для краси? Теж сумнівний факт... Тоді залишається одне більш-менш розумне пояснення: для подальшого розкриття і досліджень. А якщо так, тоді Ви - Анатом!</ukr>
-		<fra>Маниакальная страсть собирать эмбрионы монстров и капсулы аномалий очень заразна. Если для продажи, то есть в Зоне Отчуждения и другие способы быстро заработать. Для красоты? Тоже сомнительный факт.. Тогда остаётся одно более-менее разумное объяснение: для последующего вскрытия и исследований. А если так, тогда вы - Анатом!</fra>
-		<pln>Маниакальная страсть собирать эмбрионы монстров и капсулы аномалий очень заразна. Если для продажи, то есть в Зоне Отчуждения и другие способы быстро заработать. Для красоты? Тоже сомнительный факт.. Тогда остаётся одно более-менее разумное объяснение: для последующего вскрытия и исследований. А если так, тогда вы - Анатом!</pln>
+		<rus>Маниакальная страсть собирать эмбрионы монстров и капсулы аномалий очень заразна. Если для продажи, то в Зоне Отчуждения есть и другие способы быстро заработать. Для красоты? Тоже сомнительный факт... Тогда остаётся одно более-менее разумное объяснение: для последующего вскрытия и исследований. А если так, тогда Вы - Патологоанатом!</rus>
+		<eng>The manic passion to collect monster embryos and anomaly capsules is very contagious. If for sale, then there are other ways to earn quickly in the Exclusion Zone. For beauty? Is also a questionable fact.. Then there is one more or less reasonable explanation: for subsequent autopsy and research. And if so, then you are an Pathologist!</eng>
+		<ukr>Маніакальна пристрасть збирати ембріони монстрів і капсули аномалій дуже заразна. Якщо на продаж, то в Зоні Відчуження є інші способи швидко заробити. Для краси? Теж сумнівний факт... Тоді залишається одне більш-менш розумне пояснення: для подальшого розкриття і досліджень. А якщо так, тоді Ви - Патологоанатом!</ukr>
+		<fra>===Маниакальная страсть собирать эмбрионы монстров и капсулы аномалий очень заразна. Если для продажи, то есть в Зоне Отчуждения и другие способы быстро заработать. Для красоты? Тоже сомнительный факт.. Тогда остаётся одно более-менее разумное объяснение: для последующего вскрытия и исследований. А если так, тогда вы - Анатом!</fra>
+		<pln>===Маниакальная страсть собирать эмбрионы монстров и капсулы аномалий очень заразна. Если для продажи, то есть в Зоне Отчуждения и другие способы быстро заработать. Для красоты? Тоже сомнительный факт.. Тогда остаётся одно более-менее разумное объяснение: для последующего вскрытия и исследований. А если так, тогда вы - Анатом!</pln>
 	</string>
 	<string id="acv_kraut">
 		<rus>Немец</rus>
@@ -2881,7 +2875,7 @@
 		<pln>===Lupoglaz</pln>
 	</string>
 	<string id="acv_lupoglaz_desc">
-		<rus>Сбор всех коллиматорных прицелов, существующих в Зоне Отчуждения, занятие утомительное и весьма затратное. Однако вам удалось покорить и эту высоту. Назвать вас Очкариком было бы более правильным решением, но Лупоглазик это более мягкий, культурный и достойный вариант.</rus>
+		<rus>Сбор всех коллиматорных прицелов, существующих в Зоне Отчуждения, занятие утомительное и весьма затратное. Однако Вам удалось покорить и эту высоту. Назвать Вас Очкариком было бы более правильным решением, но Лупоглазик это более мягкий, культурный и достойный вариант.</rus>
 		<eng>Collecting all collimator sights existing in the Exclusion Zone is tedious and very costly. However, you managed to conquer this height. Calling you "bespectacled" would be a better solution, but Popeye is a softer, more cultured and dignified option.</eng>
 		<ukr>Збір всіх коліматорних прицілів, які існують у Зоні Відчуження, заняття виснажливе і вельми витратне. Однак вам вдалося підкорити і цю висоту. Назвати вас Очкариком було б більш правильним рішенням, але Лупоочко це більш м'який, культурний і гідний варіант.</ukr>
 		<fra>===Сбор всех коллиматорных прицелов, существующих в Зоне Отчуждения занятие утомительное и весьма затратное. Однако вам удалось покорить и эту высоту. Назвать вас "очкариком" было бы более правильным решением, но  Лупоглазик это более мягкий, культурный и достойный вариант.</fra>
@@ -2909,7 +2903,7 @@
 		<pln>===Healer</pln>
 	</string>
 	<string id="acv_healer_desc">
-		<rus>В третий раз взяться за сбор большой партии медикаментов и сопутствующих предметов при условии, что запросы растут - дорогого стоит. Признайтесь честно - Вам нравится это занятие? В любом случае прозвище Целитель Вы получаете на законных основаниях.</rus>
+		<rus>В третий раз взяться за сбор большой партии медикаментов и сопутствующих предметов при условии, что запросы растут - дорогого стоит. Признайтесь честно, Вам нравится это занятие? В любом случае прозвище Целитель Вы получаете на законных основаниях.</rus>
 		<eng>The third time to take up the collection of a large batch of medicines and related items, provided that the requests are growing-worth it. Be honest - do you like this activity? In any case, the nickname Healer you get legally.</eng>
 		<ukr>Втретє взятися за збір великої партії медикаментів і супутніх предметів за умови, що запити ростуть - дорого коштує. Зізнайтеся чесно - Вам подобається це заняття? У будь-якому випадку прізвисько Цілитель Ви отримуєте на законних підставах.</ukr>
 		<fra>===В третий раз взяться за сбор большой партии медикаментов и сопутствующих предметов при условии, что запросы растут - дорогого стоит. Признайтесь честно  - вам нравится это занятие? В любом случае прозвище Целитель вы получаете на законных основаниях.</fra>
@@ -2926,8 +2920,8 @@
 		<rus>В последнее время Вы значительно поднаторели в сборе различных высокотехнологичных девайсов различных категорий, не брезгуя и КПК с трупов, и тратя приличные средства на приобретение очень дорогих штучек в виде детекторов ручной, эксклюзивной сборки. Наверняка общение с таким количеством сложных предметов наложило свой отпечаток на Ваши познания и умения. Так что теперь Вы - Технарь!</rus>
 		<eng>In the last time you significantly podnatoreli in collects various high-tech devices various categories not squeamish and PDA with corpses, and spending decent means on purchases of very expensive stuff in the form of detectors manual, exclusive Assembly. Surely communication with so many complex subjects has left its mark on your knowledge and skills. So now you are a Techie!</eng>
 		<ukr>Останнім часом Ви значно набили руку в зборі різних високотехнологічних девайсів різних категорій, не гребуючи і КПК з трупів, і витрачаючи пристойні кошти на придбання дуже дорогих штучок у вигляді детекторів ручної, ексклюзивної збірки. Напевно спілкування з такою кількістю складних предметів наклало свій відбиток на Ваші знання і вміння. Так що тепер Ви - Технар!</ukr>
-		<fra>===В последнее время вы значительно поднаторели в сборе различных высокотехнологичных девайсов различных категорий не брезгуя и КПК с трупов, и трача приличные средства на приобретение очень дорогих штучек в виде детекторов ручной, эксклюзивной сборки. Наверняка общение с таким количеством сложных предметов наложило свой отпечаток на ваши познания и умения. Так что теперь вы - Технарь!</fra>
-		<pln>===В последнее время вы значительно поднаторели в сборе различных высокотехнологичных девайсов различных категорий не брезгуя и КПК с трупов, и трача приличные средства на приобретение очень дорогих штучек в виде детекторов ручной, эксклюзивной сборки. Наверняка общение с таким количеством сложных предметов наложило свой отпечаток на ваши познания и умения. Так что теперь вы - Технарь!</pln>
+		<fra>===В последнее время вы значительно поднаторели в сборе различных высокотехнологичных девайсов различных категорий не брезгуя и КПК с трупов, и тратя приличные средства на приобретение очень дорогих штучек в виде детекторов ручной, эксклюзивной сборки. Наверняка общение с таким количеством сложных предметов наложило свой отпечаток на ваши познания и умения. Так что теперь вы - Технарь!</fra>
+		<pln>===В последнее время вы значительно поднаторели в сборе различных высокотехнологичных девайсов различных категорий не брезгуя и КПК с трупов, и тратя приличные средства на приобретение очень дорогих штучек в виде детекторов ручной, эксклюзивной сборки. Наверняка общение с таким количеством сложных предметов наложило свой отпечаток на ваши познания и умения. Так что теперь вы - Технарь!</pln>
 	</string>
 	<string id="acv_coreman">
 		<rus>Сердечник</rus>
@@ -3106,10 +3100,10 @@
 	</string>
 	<string id="acv_centurion_desc">
 		<rus>Вообще-то собрать в Зоне Отчуждения пятьсот кусков мясной вырезки за столь короткий срок заслуживает достижения Мясник, но данное прозвище совсем не отражает тех личных геройских качеств, которые Вы применили, сражаясь с толпами мутантов. Поэтому Ваше новое, более точное прозвище теперь - Сотник.</rus>
-		<eng>Вообще-то собрать в Зоне Отчуждения пятьсот кусков мясной вырезки за столь короткий срок заслуживает достижения Мясник, но данное прозвище совсем не отражает тех личных геройских качеств, которые Вы применили, сражаясь с толпами мутантов. Поэтому Ваше новое, более точное прозвище теперь - Сотник.</eng>
+		<eng>===Вообще-то собрать в Зоне Отчуждения пятьсот кусков мясной вырезки за столь короткий срок заслуживает достижения Мясник, но данное прозвище совсем не отражает тех личных геройских качеств, которые Вы применили, сражаясь с толпами мутантов. Поэтому Ваше новое, более точное прозвище теперь - Сотник.</eng>
 		<ukr>Взагалі-то зібрати в Зоні Відчуження п'ятсот шматків м'ясної вирізки за такий короткий термін заслуговує досягнення М'ясник, але дане прізвисько зовсім не відображає тих особистих геройських якостей, які Ви застосували, борючись з натовпами мутантів. Тому Ваше нове, більш точне прізвисько тепер - Сотник.</ukr>
-		<fra>Вообще-то собрать в Зоне Отчуждения пятьсот кусков мясной вырезки за столь короткий срок заслуживает достижения Мясник, но данное прозвище совсем не отражает тех личных геройских качеств, которые Вы применили, сражаясь с толпами мутантов. Поэтому Ваше новое, более точное прозвище теперь - Сотник.</fra>
-		<pln>Вообще-то собрать в Зоне Отчуждения пятьсот кусков мясной вырезки за столь короткий срок заслуживает достижения Мясник, но данное прозвище совсем не отражает тех личных геройских качеств, которые Вы применили, сражаясь с толпами мутантов. Поэтому Ваше новое, более точное прозвище теперь - Сотник.</pln>
+		<fra>===Вообще-то собрать в Зоне Отчуждения пятьсот кусков мясной вырезки за столь короткий срок заслуживает достижения Мясник, но данное прозвище совсем не отражает тех личных геройских качеств, которые Вы применили, сражаясь с толпами мутантов. Поэтому Ваше новое, более точное прозвище теперь - Сотник.</fra>
+		<pln>===Вообще-то собрать в Зоне Отчуждения пятьсот кусков мясной вырезки за столь короткий срок заслуживает достижения Мясник, но данное прозвище совсем не отражает тех личных геройских качеств, которые Вы применили, сражаясь с толпами мутантов. Поэтому Ваше новое, более точное прозвище теперь - Сотник.</pln>
 	</string>
 	<string id="acv_belgian">
 		<rus>Бельгиец</rus>
@@ -3122,8 +3116,8 @@
 		<rus>Наверняка Ваш прадед причастен к основанию в прошлом веке знаменитой на весь мир фабрики стрелкового оружия в Бельгии Fabrique Nationale d’Herstal. Иначе чем ещё объяснить Вашу неуёмную страсть коллекционировать автоматическое оружие этой марки. Как бы то ни было, прозвище Бельгиец Вы заслужили.</rus>
 		<eng>Surely Your great-grandfather was involved in the founding of the world-famous small arms factory in Belgium Fabrique Nationale d'herstal in the last century. Otherwise, how else to explain Your insatiable Stas to collect automatic weapons the brands. Anyway, the nickname of the Belgian You deserve.</eng>
 		<ukr>Напевно Ваш прадід причетний до заснування у минулому столітті знаменитої на весь світ фабрики стрілецької зброї в Бельгії Fabrique Nationale d'Herstal. Інакше чим ще пояснити Вашу невгамовну пристрасть колекціонувати автоматичну зброю цієї марки. Як би там не було, прізвисько Бельгієць Ви заслужили.</ukr>
-		<fra>Наверняка Ваш прадед причастен к основанию в прошлом веке знаменитой на весь мир фабрики стрелкового оружия в Бельгии Fabrique Nationale d’Herstal. Иначе чем ещё объяснить Вашу неуёмную страсть коллекционировать автоматическое оружие этой марки. Как бы то ни было, прозвище Бельгиец Вы заслужили.</fra>
-		<pln>Наверняка Ваш прадед причастен к основанию в прошлом веке знаменитой на весь мир фабрики стрелкового оружия в Бельгии Fabrique Nationale d’Herstal. Иначе чем ещё объяснить Вашу неуёмную страсть коллекционировать автоматическое оружие этой марки. Как бы то ни было, прозвище Бельгиец Вы заслужили.</pln>
+		<fra>===Наверняка Ваш прадед причастен к основанию в прошлом веке знаменитой на весь мир фабрики стрелкового оружия в Бельгии Fabrique Nationale d’Herstal. Иначе чем ещё объяснить Вашу неуёмную страсть коллекционировать автоматическое оружие этой марки. Как бы то ни было, прозвище Бельгиец Вы заслужили.</fra>
+		<pln>===Наверняка Ваш прадед причастен к основанию в прошлом веке знаменитой на весь мир фабрики стрелкового оружия в Бельгии Fabrique Nationale d’Herstal. Иначе чем ещё объяснить Вашу неуёмную страсть коллекционировать автоматическое оружие этой марки. Как бы то ни было, прозвище Бельгиец Вы заслужили.</pln>
 	</string>
 	<string id="acv_debtor">
 		<rus>Должник</rus>
@@ -3136,8 +3130,8 @@
 		<rus>Вы с невероятным усердием собрали огромное количество артефактов Зоны Отчуждения: некоторые нашли на просторах закрытого Периметра, другие пришлось сварить самостоятельно. Каждого сорта камушков было собрано определённое количество, ни больше ни меньше. Это может означать только одно: сами артефакты Вас мало интересуют, это была явная работа на заказ, а значит и скорее всего Вы - Должник.</rus>
 		<eng>===You and You with incredible diligence collected a huge number of artifacts Exclusion Zone: some found in the vastness of the closed perimeter, others had to cook yourself. Each variety of pebbles was collected a certain amount, neither more nor less. This can only mean one thing: they are artifacts of little interest to You, it was an obvious work to order, and mean and probably You are the debtor.incredible diligence collected a huge number of artifacts Exclusion Zone: some found in the vastness of the closed perimeter, others had to cook yourself. Each variety of pebbles was collected a certain amount, neither more nor less. This can only mean one thing: the artifacts themselves are of little interest to You, it was an obvious work to order, and therefore most likely You-the debtor.</eng>
 		<ukr>Ви з неймовірною ретельністю зібрали величезну кількість артефактів Зони Відчуження: деякі знайшли на просторах закритого периметра, інші довелося зварити самостійно. Кожного сорту камінчиків було зібрано певну кількість, ні більше ні менше. Це може означати тільки одне: самі артефакти Вас мало цікавлять, це була явна робота на замовлення, а значить, швидше за все Ви - боржник.</ukr>
-		<fra>Вы с невероятным усердием собрали огромное количество артефактов Зоны Отчуждения: некоторые нашли на просторах закрытого Периметра, другие пришлось сварить самостоятельно. Каждого сорта камушков было собрано определённое количество, ни больше ни меньше. Это может означать только одно: сами артефакты Вас мало интересуют, это была явная работа на заказ, а значит и скорее всего Вы - Должник.</fra>
-		<pln>Вы с невероятным усердием собрали огромное количество артефактов Зоны Отчуждения: некоторые нашли на просторах закрытого Периметра, другие пришлось сварить самостоятельно. Каждого сорта камушков было собрано определённое количество, ни больше ни меньше. Это может означать только одно: сами артефакты Вас мало интересуют, это была явная работа на заказ, а значит и скорее всего Вы - Должник.</pln>
+		<fra>===Вы с невероятным усердием собрали огромное количество артефактов Зоны Отчуждения: некоторые нашли на просторах закрытого Периметра, другие пришлось сварить самостоятельно. Каждого сорта камушков было собрано определённое количество, ни больше ни меньше. Это может означать только одно: сами артефакты Вас мало интересуют, это была явная работа на заказ, а значит и скорее всего Вы - Должник.</fra>
+		<pln>===Вы с невероятным усердием собрали огромное количество артефактов Зоны Отчуждения: некоторые нашли на просторах закрытого Периметра, другие пришлось сварить самостоятельно. Каждого сорта камушков было собрано определённое количество, ни больше ни меньше. Это может означать только одно: сами артефакты Вас мало интересуют, это была явная работа на заказ, а значит и скорее всего Вы - Должник.</pln>
 	</string>
 	<string id="acv_staffer">
 		<rus>Сотрудник</rus>
@@ -3150,8 +3144,8 @@
 		<rus>Несмотря на обилие самого разнообразного оружия в Зоне Отчуждения, включая современные и высокотехнологичные образцы, Вы всё же отдаёте предпочтение продукции одного единственного оружейного производителя - Центрального конструкторского-исследовательского бюро спортивного и охотничьего оружия города Тулы. Отказаться от винтовки марки Barrett, смотреть равнодушно на изящный полимерный Glock, чихать от скуки, глядя на модульный Steyr AUG, оживая только тогда, когда в руках появляются отечественные образцы с буквенной маркировкой "ОЦ" - на всё это способен только тот, о ком можно однозначно сказать: Вы - Сотрудник ЦКИБ СОО города Тулы.</rus>
 		<eng>===Despite the abundance of the most diverse weapons in the Exclusion Zone, including modern and high-tech samples, You still prefer the products of a single weapons manufacturer-the Central design and research Bureau of sports and hunting weapons of the city of Tula. To abandon the Barrett rifle brand, to look with indifference on a fine, polymer Glock, sneezing boredom, looking at modular Steyr AUG, reviving only when his hands appear domestic samples with letter marked "OC" says only one thing: You are an Employee CKIB COO of the city of Tula.</eng>
 		<ukr>Незважаючи на велику кількість найрізноманітнішої зброї у Зоні Відчуження, включаючи сучасні і високотехнологічні зразки, Ви все ж віддаєте перевагу продукції одного єдиного збройового виробника - Центрального конструкторського-дослідного бюро спортивної та мисливської зброї міста Тули. Відмовитися від гвинтівки марки Barrett, дивитися байдуже на витончений, полімерний Glock, чхати від нудьги, дивлячись на модульний Steyr AUG, оживаючи тільки тоді, коли в руках з'являються вітчизняні зразки з буквенним маркуванням "ОЦ" - на все це здатний тільки той, про кого можна однозначно сказати: Ви - Співробітник ЦКДБ СМЗ міста Тули.</ukr>
-		<fra>Несмотря на обилие самого разнообразного оружия в Зоне Отчуждения, включая современные и высокотехнологичные образцы, Вы всё же отдаёте предпочтение продукции одного единственного оружейного производителя - Центрального конструкторского-исследовательского бюро спортивного и охотничьего оружия города Тулы. Отказаться от винтовки марки Barrett, смотреть равнодушно на изящный полимерный Glock, чихать от скуки, глядя на модульный Steyr AUG, оживая только тогда, когда в руках появляются отечественные образцы с буквенной маркировкой "ОЦ" - на всё это способен только тот, о ком можно однозначно сказать: Вы - Сотрудник ЦКИБ СОО города Тулы.</fra>
-		<pln>Несмотря на обилие самого разнообразного оружия в Зоне Отчуждения, включая современные и высокотехнологичные образцы, Вы всё же отдаёте предпочтение продукции одного единственного оружейного производителя - Центрального конструкторского-исследовательского бюро спортивного и охотничьего оружия города Тулы. Отказаться от винтовки марки Barrett, смотреть равнодушно на изящный полимерный Glock, чихать от скуки, глядя на модульный Steyr AUG, оживая только тогда, когда в руках появляются отечественные образцы с буквенной маркировкой "ОЦ" - на всё это способен только тот, о ком можно однозначно сказать: Вы - Сотрудник ЦКИБ СОО города Тулы.</pln>
+		<fra>===Несмотря на обилие самого разнообразного оружия в Зоне Отчуждения, включая современные и высокотехнологичные образцы, Вы всё же отдаёте предпочтение продукции одного единственного оружейного производителя - Центрального конструкторского-исследовательского бюро спортивного и охотничьего оружия города Тулы. Отказаться от винтовки марки Barrett, смотреть равнодушно на изящный полимерный Glock, чихать от скуки, глядя на модульный Steyr AUG, оживая только тогда, когда в руках появляются отечественные образцы с буквенной маркировкой "ОЦ" - на всё это способен только тот, о ком можно однозначно сказать: Вы - Сотрудник ЦКИБ СОО города Тулы.</fra>
+		<pln>===Несмотря на обилие самого разнообразного оружия в Зоне Отчуждения, включая современные и высокотехнологичные образцы, Вы всё же отдаёте предпочтение продукции одного единственного оружейного производителя - Центрального конструкторского-исследовательского бюро спортивного и охотничьего оружия города Тулы. Отказаться от винтовки марки Barrett, смотреть равнодушно на изящный полимерный Glock, чихать от скуки, глядя на модульный Steyr AUG, оживая только тогда, когда в руках появляются отечественные образцы с буквенной маркировкой "ОЦ" - на всё это способен только тот, о ком можно однозначно сказать: Вы - Сотрудник ЦКИБ СОО города Тулы.</pln>
 	</string>
 	<string id="acv_brave">
 		<rus>Храбрец</rus>
