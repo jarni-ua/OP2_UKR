@@ -249,7 +249,7 @@
 	<string id="find_af_dummy_glassbeads_1">
 		<rus>А вы парень глазастый... Верно, было. Но как говорится - баш на баш. Пока вы были заняты отключением пси-установки, у нас здесь произошёл маленький инцидент. Из нашего бункера сбежали подопытные крысы, на которых мы проводили сверхважные опыты по тестированию новой вакцины. Если грызунов вовремя не вернуть, то несколько недель кропотливой работы пропадут даром. Не могли бы вы поймать беглецов? У них белоснежного цвета шерсть, легко отличите от других грызунов, сталкеры видели подобных на Дикой Территории. Всего крыс шесть, но одна из них старая и больная, да и к тому же она постоянно таскает различные мелкие предметы из моей лаборатории в свой уголок, у неё на этом прям "бзик" какой-то. В прошлый раз я целых три дня искал флешку с данными. Так что поймайте хотя бы пять здоровых, от шестой я не прочь бы избавиться.</rus>
 		<eng>===And you're a sharp-eyed guy... Yes, you did. But as they say - quid pro quo. While you were busy shutting down the psi unit, we had a little incident here. Experimental rats escaped from our bunker, in which we conducted extremely important experiments testing a new vaccine. If the rodents are not brought back into the bunker in time, then a few weeks of hard work will be wasted. Could you catch the runaways? They have snow-white fur that makes them easily distinguishable from other rodents, stalkers have seen the rats like these in the Wild Territory. There are six rats in total, but one of them is old and sick - catch at least five healthy ones.</eng>
-		<ukr>===А ви хлопець окатий... Вірно, було. Але як говориться - баш на баш. Поки ви були зайняті відключенням псі-установки, у нас тут стався маленький інцидент. З нашого бункера втекли піддослідні щури, на яких ми проводили надважливі досліди з тестування нової вакцини. Якщо гризунів вчасно не повернути, то кілька тижнів клопіткої роботи пропадуть дарма. Чи не могли б ви зловити втікачів? У них білосніжного кольору шерсть, легко відрізните від інших гризунів, сталкери бачили подібних на Дикій Території. Всього щурів шість, але один з них старий і хворий - зловіть хоча б п'ять здорових.</ukr>
+		<ukr>А ви хлопець окатий... Вірно, було. Але як говориться - баш на баш. Поки ви були зайняті відключенням псі-установки, у нас тут стався маленький інцидент. З нашого бункера втекли піддослідні щури, на яких ми проводили надважливі досліди з тестування нової вакцини. Якщо гризунів вчасно не повернути, то кілька тижнів клопіткої роботи пропадуть дарма. Чи не могли б ви зловити втікачів? У них білосніжного кольору шерсть, легко відрізните від інших гризунів, сталкери бачили подібних на Дикій Території. Всього щурів шість, але один з них старий і хворий, та й до того ж він постійно тягає різні дрібнички з моєї лабораторії у свій куточок, у нього на це прямо "бзик" якийсь. Останнього разу я цілих три дні шукав флешку з даними. Так що впіймайте хоча би п'ять здорових, від шостої я би не проти позбавитись.</ukr>
 		<pln>===Spostrzegawczy z was człowiek... Prawda, było... Ale, jak to się mówi - sztuka za sztukę. Kiedy byliście zajęci wyłączaniem instalacji psionicznej, zdarzył nam się tu mały incydent. Z naszego bunkra uciekły szczury doświadczalne, na których przeprowadzaliśmy bardzo ważne eksperymenty dotyczące testowania nowej szczepionki. Jeśli szybko nie odzyskamy gryzoni, to kilka tygodni żmudnej pracy pójdzie na marne. Moglibyście złapać tych uciekinierów? Mają sierść śnieżnobiałego koloru, łatwo odróżnicie je od innych gryzoni, stalkerzy widzieli podobne na Dziczy. Szczurów jest sześć sztuk, ale jeden z nich jest stary i chory - proszę złapać przynajmniej pięć zdrowych.</pln>
 	</string>
 	<string id="find_af_dummy_glassbeads_2">
@@ -1514,7 +1514,7 @@
 	<string id="tex_gar_dram_novice_mp5_m1">
 		<rus>Юрик, новичок со Свалки, просит найти модифицированный под пистолетные патроны автомат МР5 в ж/д тоннеле, который раньше вёл на Агропром.</rus>
 		<eng>===Yurik, a novice from Dump, asks to bring him an MP5 adapted for pistol type rounds.</eng>
-		<ukr>===Юрик, новачок зі звалища, просить знайти модифікований під пістолетні патрони автомат МР5</ukr>
+		<ukr>Юрик, новачок зі звалища, просить знайти модифікований під пістолетні патрони автомат МР5 у залізничному тунелі, які раніше вів на Агропром.</ukr>
 		<pln>===Jurik, nowicjusz z Wysypiska, prosi o znalezienie automatu MP5, zmodyfikowanego pod naboje pistoletowe.</pln>
 	</string>
 	<string id="artmod_811_dialog_0">
@@ -1784,7 +1784,7 @@
 	<string id="artmod_322_dialog_4">
 		<rus>Ну, поправляйся...</rus>
 		<eng>Well, get better then...</eng>
-		<ukr>Ну поправляйся...</ukr>
+		<ukr>Ну, поправляйся...</ukr>
 		<pln>Cóż, oby ci się polepszyło...</pln>
 	</string>
 	<string id="tex_gar_dolg_krovosos_jaw">
@@ -2156,7 +2156,7 @@
 	<string id="artmod_431_dialog_1">
 		<rus>Хех... Есть кое-что, но не знаю, выполнима ли. Пошёл слух, что в Зону попала информация о последних разработках в сфере индивидуальной защиты, то бишь брони на основе искусственно выращенных кристаллах сапфира. Возможно, брешут, но не хотелось бы упустить такие сведения. Они могут хранится в КПК, на карте памяти. Я бы проверил военную базу на Агропроме, базу бандитов на АТП и базу монолитовцев в Припяти. Пошарь в столах и личных ящичках, наверняка такие данные под замком хранятся. Сможешь найти? Да не за просто так. Тут ко мне со всех сторон сведения стекаются, есть несколько необычных рецептиков.</rus>
 		<eng>===Heh... There is one although I'm not sure it's practicable. The rumor began, the information about the last development in the field of personal protection equipment, that is body armor based on cultured sapphire crystals. It may easily be a joke but in case it's true one wouldn't want to fail in getting this info. It may be on a PDA, on a memory card. If I were you, I'd check the military base in Agroprom, the bandit camp in Dark Valley and the Monolithian base in Pripyat. Rifle through personal drawers, such info as this would rather be kept locked away. Can you find it? Not for nothing, of course. Data is flowing here from all directions, so I've got a few interesting recipes.</eng>
-		<ukr>===Хех... Є дещо, але не знаю, чи здійсненна. Пішов слух, що у Зону потрапила інформація про останні розробки у сфері індивідуального захисту, чи то пак броні на основі штучно вирощених кристалах сапфіру. Можливо, брешуть, але не хотілося б упустити такі відомості. Вони можуть зберігатися у КПК, на карті пам'яті. Я б перевірив базу військових на Агропромі, базу бандитів у Темній Долині та базу монолітівців у Прип'яті. Понишпори у особистих ящиках, напевно такі дані під замком зберігаються. Зможеш знайти? Та не за просто так.. Тут до мене з усіх боків відомості стікаються, є кілька незвичайних рецептиків.</ukr>
+		<ukr>Хех... Є дещо, але не знаю, чи здійсненна. Пішов слух, що у Зону потрапила інформація про останні розробки у сфері індивідуального захисту, чи то пак броні на основі штучно вирощених кристалах сапфіру. Можливо, брешуть, але не хотілося б упустити такі відомості. Вони можуть зберігатися у КПК, на карті пам'яті. Я би перевірив військову базу на Агропромі, базу бандитів на АТП та базу монолітівців у Прип'яті. Понишпори у столах і особистих ящичках, напевно такі дані під замком зберігаються. Зможеш знайти? Та не за просто так.. Тут до мене з усіх боків відомості стікаються, є кілька незвичайних рецептиків.</ukr>
 		<pln>===Heh... Jest coś, Jest coś, ale nie wiem, czy to możliwe do wykonania. Poszła plotka, że do Zony dostały się dane o najnowszych osiągnięciach w dziedzinie środków ochrony osobistej, czyli o pancerzu na podstawie sztucznie hodowanych kryształów szafiru. Możliwe, że to zwykłe brednie, ale nie chciałbym przegapić takich informacji. Mogą one być przechowywane na PDA, na karcie pamięci. Ja bym sprawdził bazę wojskową na Agropromie, bazę bandytów w Dolinie Mroku i bazę monolitowców w Prypeci. Poszperaj w osobistych szafkach, na pewno takie dane są przechowywane pod kluczem. Poszukasz? Oczywiście nie za darmo. Do mnie spływają wiadomości ze wszystkich stron, znajdzie się kilka nadzwyczajnych recept.</pln>
 	</string>
 	<string id="artmod_431_dialog_2">
@@ -2198,7 +2198,7 @@
 	<string id="tex_mil_Svoboda_trader_ammo">
 		<rus>Скряга попросил найти данные о новейших разработках брони. Они могут хранится в КПК, на карте памяти. Торговец посоветовал проверить военную базу на Агропроме, базу бандитов на АТП и базу монолитовцев в Припяти. Нужно осмотреть столы и личные ящички, наверняка такие данные под замком хранятся.</rus>
 		<eng>===Skinflint asked to get the data on the latest body armor development. It could be stored on a PDA or on a memory card. The trader suggested searching the military base in Agroprom, the bandit camp in Dark Valley and the Monolithian base in Pripyat. It'd be better to rifle through personal drawers, this kind of info would rather be kept locked away.</eng>
-		<ukr>===Скнара попросив знайти дані про новітні розробки броні. Вони можуть зберігатися у КПК, на карті пам'яті. Торговець порадив перевірити базу військових на Агропромі, базу бандитів у Темній Долині та базу монолітівців у Прип'яті. Потрібно оглянути особисті ящики, напевно такі дані під замком зберігаються.</ukr>
+		<ukr>Скнара попросив знайти дані про новітні розробки броні. Вони можуть зберігатися у КПК, на карті пам'яті. Торговець порадив перевірити військову базу на Агропромі, базу бандитів на АТП та базу монолітівців у Прип'яті. Потрібно оглянути столи і особисті ящички, напевно такі дані під замком зберігаються.</ukr>
 		<pln>===Kutwa poprosił by znaleźć dane o o najnowszych osiągnięciach w dziedzinie pancerzy. Te dane mogą być przechowywane w PDA, na karcie pamięci. Handlarz poradził by sprawdzić bazę wojskową na Agropromie, bazę bandytów w Dolinie Mroku i bazę monolitowców w Prypeci. Trzeba sprawdzić osobiste skrzynki, na pewno takie dane są przechowywane pod kluczem.</pln>
 	</string>
 	<string id="artmod_411_dialog_0">
@@ -2612,7 +2612,7 @@
 	<string id="tex_sak_repair_box">
 		<rus>Сяк, торговец с Радара, сможет заняться ремонтом, но для этого нужно принести от Сидоровича ящик с необходимым инструментом.</rus>
 		<eng>Syak, the trader at Radar, is able to do repairs, but he needs necessary tools to be brought to him from Sidorovich.</eng>
-		<ukr>Сяк, торговець з Радара, може робити ремонт бронекостюмів, але для цього потрібно принести від Сидоровича ящик з необхідним інструментом.</ukr>
+		<ukr>Сяк, торговець з Радара, зможе зайнятися ремонтом, але для цього потрібно принести від Сидоровича ящик з необхідним інструментом.</ukr>
 		<pln>Siak, handlarz z Radaru, może wykonywać naprawy, ale do tego trzeba przynieść od Sidorowicza skrzynkę z niezbędnymi narzędziami.</pln>
 	</string>
 	<string id="artmod_561_dialog_0">
@@ -3386,7 +3386,7 @@
 	<string id="sak_hello_dialog_5">
 		<rus>Не так быстро, дружище...</rus>
 		<eng>===I'll give it later...</eng>
-		<ukr>===Пізніше віддам...</ukr>
+		<ukr>Не так швидко, друже...</ukr>
 		<pln>===Później oddam...</pln>
 	</string>
 	<string id="sak_hello_dialog_6">
@@ -7676,13 +7676,13 @@ That swiss crap was good for long-range shooting, but all you could do to a pack
 	<string id="text_arc_brat_luis">
 		<rus>По словам Захара, на базе мстителей на Болотах сейчас как раз находится Брат Луис, один из руководителей мстителей. Надо узнать у него, где находится Француз.</rus>
 		<eng>According to Zakhar, Brother Louis, one of the leaders of the avengers, is now on the base of the Avengers in the Swamps. We need to find out from him where the Frenchman is.</eng>
-		<ukr>За словами Захара, на базі месників на болотах, якраз зараз знаходитися Брат Луїс, один з керівників месників, треба дізнатися від нього, де знаходитися Француз.</ukr>
+		<ukr>За словами Захара, на базі месників на болотах зараз якраз зараз знаходитися Брат Луїс, один з керівників месників, треба дізнатися від нього, де знаходитися Француз.</ukr>
 		<pln>Według Zachara, w bazie mścicieli na bagnach, aktualnie znajduje się Brat Luis, jeden z przywódców mścicieli. Trzeba dowiedzieć się od niego, gdzie znajduje się Francuz.</pln>
 	</string>
 	<string id="text_arc_francuz_start">
 		<rus>Француз прячется от мстителей на Армейских Складах, на базе Свободы. Надо поторопиться, пока его не достали эти мстители.</rus>
 		<eng>===Frenchman is hiding from the avengers in the Warehouses, on the Freedom base. We must hurry until the avengers get him.</eng>
-		<ukr>===Француз ховається на складах, на базі волі від месників, треба поквапитися, поки його не дістали месники.</ukr>
+		<ukr>Француз ховається від месників на Армійських Складах, на базі Волі. Треба поквапитися, поки його не дістали ці месники.</ukr>
 		<pln>===Francuz ukrywa się przed mścicielami na Magazynach Wojskowych, w bazie "Wolności". Trzeba się pośpieszyć, zanim mściciele go dopadną.</pln>
 	</string>
 	<string id="text_arc_kot_find_rabi">

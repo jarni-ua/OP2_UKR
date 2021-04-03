@@ -914,28 +914,28 @@
 	<string id="task_sherstuk_ammo_1">
 		<rus>Замаскировать бомбу на втором этаже электроподстанции</rus>
 		<eng>===Find a stash at the Wild Territory</eng>
-		<ukr>===Знайти схованку на Дикій Території</ukr>
+		<ukr>Замаскувати бомбу на другому поверсі електропідстанції</ukr>
 		<fra>===Trouver une cache dans les Territoire Sauvages</fra>
 		<pln>===Znaleźć schowek w Dziczy</pln>
 	</string>
 	<string id="task_sherstuk_ammo_2">
 		<rus>Замаскировать бомбу на первом этаже электроподстанции</rus>
 		<eng>===Find a stash at the Wild Territory</eng>
-		<ukr>===Знайти схованку на Дикій Території</ukr>
+		<ukr>Замаскувати бомбу на першому поверсі електропідстанції</ukr>
 		<fra>===Trouver une cache dans les Territoire Sauvages</fra>
 		<pln>===Znaleźć schowek w Dziczy</pln>
 	</string>
 	<string id="task_sherstuk_ammo_3">
 		<rus>Замаскировать бомбу в подвале электроподстанции</rus>
 		<eng>===Find a stash at the Wild Territory</eng>
-		<ukr>===Знайти схованку на Дикій Території</ukr>
+		<ukr>Замаскувати бомбу у підвалі електропідстанції</ukr>
 		<fra>===Trouver une cache dans les Territoire Sauvages</fra>
 		<pln>===Znaleźć schowek w Dziczy</pln>
 	</string>
 	<string id="task_sherstuk_ammo_4">
 		<rus>Доложить о выполнении Шерстюку</rus>
 		<eng>===Bring the artifact to Sherstyuk</eng>
-		<ukr>===Віднести артефакт Шерстюку</ukr>
+		<ukr>Доповісти про виконання Шерстюку</ukr>
 		<fra>===Apporter l'Artéfact à Sherstyuk</fra>
 		<pln>===Odnieść artefakt Szerstiukowi</pln>
 	</string>
@@ -1052,7 +1052,7 @@
 	<string id="task_ohota_burer_3">
 		<rus>Вернуть КПК и артефакт "Песчаник" Призраку</rus>
 		<eng>===Return the PDA to Ghost</eng>
-		<ukr>===Повернути КПК Привиду</ukr>
+		<ukr>Повернути КПК і артефакт "Піщаник" Привиду</ukr>
 		<fra>===Remettre le PDA au Fantôme</fra>
 		<pln>===Oddać Duchowi PDA</pln>
 	</string>
@@ -2031,7 +2031,7 @@
 	<string id="task_taynik_gila_2">
 		<rus>Раздобыть лопату</rus>
 		<eng>===Find a metal detector at Freedom's base</eng>
-		<ukr>===Знайти металошукач на базі Свободи</ukr>
+		<ukr>Роздобути лопату</ukr>
 		<fra>===Rechercher un détecteur de métaux sur la base de la Liberté</fra>
 		<pln>===Znaleźć na bazie Wolności wykrywacz metali</pln>
 	</string>
@@ -3344,7 +3344,7 @@
 	<string id="task_volna_petrenko_2">
 		<rus>Раздобыть три дальномера для снайперов Долга</rus>
 		<eng>===Get laser rangefinders</eng>
-		<ukr>Виявити снайперську позицію і заволодіти гвинтівкою з далекоміром</ukr>
+		<ukr>Роздобути 3 далекоміра для снайперів Долгу</ukr>
 		<fra>===Récupérez les télémètres laser</fra>
 		<pln>===Zdobyć laserowe dalmierze</pln>
 	</string>
@@ -3366,7 +3366,7 @@
 	<string id="task_volna_zahar_1">
 		<rus>Найти старую икону в заброшенной церкви</rus>
 		<eng>===Find the old icon in kindergarten</eng>
-		<ukr>===Знайти стару ікону в дитячому садку</ukr>
+		<ukr>Знайти стару ікону у покинутій церкві</ukr>
 		<fra>===Trouvez une vieille icône à la maternelle</fra>
 		<pln>===Znaleźć w przedszkolu starą ikonę</pln>
 	</string>
@@ -4194,7 +4194,7 @@
 	<string id="task_foto_ohota_63">
 		<rus>Светлошёрстная химера</rus>
 		<eng>===Albino chimera</eng>
-		<ukr>===Химера-альбінос</ukr>
+		<ukr>Світлошерста химера</ukr>
 		<fra>===Chimère-albinos</fra>
 		<pln>===Chimera albinos</pln>
 	</string>
@@ -5322,14 +5322,14 @@
 	<string id="task_volna_arhara_0">
 		<rus>Водитель со стажем</rus>
 		<eng>===Intoxication</eng>
-		<ukr>===Інтоксикація</ukr>
+		<ukr>Водій зі стажем</ukr>
 		<fra>===Intoxication</fra>
 		<pln>===Intoksykacja</pln>
 	</string>
 	<string id="task_volna_arhara_1">
 		<rus>Перегнать с Юпитера ЗИЛ-130 Самосвал</rus>
 		<eng>===Extract samples of mucus from large biomasses</eng>
-		<ukr>===Добути зразки слизу великих біомас</ukr>
+		<ukr>Перегнати з Юпітера ЗІЛ-130 Самоскид</ukr>
 		<fra>===Obtenez des échantillons de mucus d'une grande biomasse</fra>
 		<pln>===Zdobyć próbki sluzu wielkich biomas</pln>
 	</string>
@@ -5344,21 +5344,21 @@
 	<string id="task_kalinin_box_1">
 		<rus>Найти и взорвать первый грузовик с боеприпасами</rus>
 		<eng>===deliver ammunition in time before the attack</eng>
-		<ukr>===Встигнути доставити патрони до нападу</ukr>
+		<ukr>Знайти і підірвати першу вантажівку з боєприпасами</ukr>
 		<fra>===Attrapez les munitions avant l'attaque</fra>
 		<pln>===Zdążyć dostarczyć amunicję przed atakiem</pln>
 	</string>
 	<string id="task_kalinin_box_2">
 		<rus>Угнать второй грузовик, перегнав его к лагерю Калинина</rus>
 		<eng>===deliver ammunition in time before the attack</eng>
-		<ukr>===Встигнути доставити патрони до нападу</ukr>
+		<ukr>Викрасти другу вантажівку, перегнавши її до табору Калиніна</ukr>
 		<fra>===Attrapez les munitions avant l'attaque</fra>
 		<pln>===Zdążyć dostarczyć amunicję przed atakiem</pln>
 	</string>
 	<string id="task_kalinin_box_3">
 		<rus>Переговорить с Калининым</rus>
 		<eng>===Take the boxes to Kalinin</eng>
-		<ukr>===Відвезти ящики Калініну</ukr>
+		<ukr>Переговорити з Калиніним</ukr>
 		<fra>===Prenez les boîtes pour Kalinin</fra>
 		<pln>===Odwieźć skrzynki Kalininowi</pln>
 	</string>
@@ -6091,85 +6091,85 @@
 
 	<string id="task_dolg_btr_0">
 		<rus>Брошенный БТР</rus>
-		<ukr>===Брошенный БТР</ukr>
+		<ukr>Покинутий БТР</ukr>
 	</string>
 	<string id="task_dolg_btr_1">
 		<rus>Отыскать брошенный БТР, прикрепить к нему радиомаяк и осмотреть</rus>
-		<ukr>===Отыскать брошенный БТР, прикрепить к нему радиомаяк и осмотреть</ukr>
+		<ukr>Відшукати покинутий БТР, прикріпити до нього радіомаяк і оглянути</ukr>
 	</string>
 	<string id="task_dolg_btr_2">
 		<rus>Доложить о результатах генералу</rus>
-		<ukr>===Доложить о результатах генералу</ukr>
+		<ukr>Доповісти про результати генералу</ukr>
 	</string>
 
 	<string id="task_remont_btr_0">
 		<rus>Ремонт БТР</rus>
-		<ukr>===Ремонт БТР</ukr>
+		<ukr>Ремонт БТР</ukr>
 	</string>
 	<string id="task_remont_btr_1">
 		<rus>Отыскать армейские инструменты ОРК-27м</rus>
-		<ukr>===Отыскать армейские инструменты ОРК-27м</ukr>
+		<ukr>Відшукати армійські інструменти ЗРК-27м</ukr>
 	</string>
 	<string id="task_remont_btr_2">
 		<rus>Раздобыть 4 канистры с топливом</rus>
-		<ukr>===Раздобыть 4 канистры с топливом</ukr>
+		<ukr>Роздобути 4 каністри з паливом</ukr>
 	</string>
 	<string id="task_remont_btr_3">
 		<rus>Найти старый аккумулятор на мех.дворе</rus>
-		<ukr>===Найти старый аккумулятор на мех.дворе</ukr>
+		<ukr>Знайти старий акумулятор на мех.дворі</ukr>
 	</string>
 	<string id="task_remont_btr_4">
 		<rus>Отнести аккумулятор Петренко на зарядку</rus>
-		<ukr>===Отнести аккумулятор Петренко на зарядку</ukr>
+		<ukr>Віднести акумулятор Петренко на зарядку</ukr>
 	</string>
 	<string id="task_remont_btr_5">
 		<rus>Забрать заряженный аккумулятор</rus>
-		<ukr>===Забрать заряженный аккумулятор</ukr>
+		<ukr>Забрати заряджений акумулятор</ukr>
 	</string>
 	<string id="task_remont_btr_6">
 		<rus>Заделать трещину в топливном баке</rus>
-		<ukr>===Заделать трещину в топливном баке</ukr>
+		<ukr>Закрити тріщину у паливному баку</ukr>
 	</string>
 	<string id="task_remont_btr_7">
 		<rus>Залить топливо в бак</rus>
-		<ukr>===Залить топливо в бак</ukr>
+		<ukr>Залити паливо у бак</ukr>
 	</string>
 	<string id="task_remont_btr_8">
 		<rus>Установить заряженный аккумулятор в БТР</rus>
-		<ukr>===Установить заряженный аккумулятор в БТР</ukr>
+		<ukr>Встановити заряджений акумулятор у БТР</ukr>
 	</string>
 	<string id="task_remont_btr_9">
 		<rus>Перегнать БТР на Янтарь</rus>
-		<ukr>===Перегнать БТР на Янтарь</ukr>
+		<ukr>Перегнати БТР на Янтар</ukr>
 	</string>
 	<string id="task_remont_btr_10">
 		<rus>Поговорить с учёным о передаче БТР и отдать инструменты</rus>
-		<ukr>===Поговорить с учёным о передаче БТР и отдать инструменты</ukr>
+		<ukr>Поговорити з ученим про передачу БТР і віддати інструменти</ukr>
 	</string>
 	<string id="task_remont_btr_11">
 		<rus>Вернуться к Воронину за наградой</rus>
-		<ukr>===Вернуться к Воронину за наградой</ukr>
+		<ukr>Повернутися до Вороніна за нагородою</ukr>
 	</string>
 
 	<string id="task_petrenko_compas_0">
 		<rus>Слежка</rus>
-		<ukr>===Слежка</ukr>
+		<ukr>Стеження</ukr>
 	</string>
 	<string id="task_petrenko_compas_1">
 		<rus>Прибыть после полуночи в подсобку</rus>
-		<ukr>===Прибыть после полуночи в подсобку</ukr>
+		<ukr>Прибути після півночі у підсобку</ukr>
 	</string>
 	<string id="task_petrenko_compas_2">
 		<rus>Проследить за белой крысой до её логова</rus>
-		<ukr>===Проследить за белой крысой до её логова</ukr>
+		<ukr>Простежити за білим щуром до його лігва</ukr>
 	</string>
 	<string id="task_petrenko_compas_3">
 		<rus>Отыскать старинный компас</rus>
-		<ukr>===Отыскать старинный компас</ukr>
+		<ukr>Відшукати старовинний компас</ukr>
 	</string>
 	<string id="task_petrenko_compas_4">
 		<rus>Вернуть компас Петренко</rus>
-		<ukr>===Вернуть компас Петренко</ukr>
+		<ukr>Повернути компас Петренко</ukr>
 	</string>
 
 </string_table>
