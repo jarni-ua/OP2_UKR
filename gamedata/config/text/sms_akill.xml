@@ -2,16 +2,16 @@
 <string_table>
 	<string id="sms_strelok_sms_ot_strelka_0">
 		<rus>Захар, я вышел на одного сдвинутого доктора, у парня башню снесло напрочь. При себе у него важные документы, нужно любой ценой заполучить их, иначе результаты экспериментов попадут не в те руки!</rus>
-		<eng>Zakhar, I found one crazy doctor, the guy is completely out of control. He has important documents, you need to get them at all hazards, otherwise the results of the experiments will fall into the wrong hands!</eng>
+		<eng>Zakhar, I found a crazy doctor, the guy is completely out of control. He has important documents, you need to get them at all hazards, otherwise the results of the experiments will fall into the wrong hands!</eng>
 		<ukr>Захар, я вийшов на одного зхибленого доктора, у хлопця вежу знесло геть. При собі у нього важливі документи, потрібно за будь-яку ціну дістати їх, інакше результати експериментів потраплять не в ті руки!</ukr>
-		<fra>Zakhar,j'ai trouvé le docteur fou, le gars est complètement hors de contrôle. Si les documents importants sont avec lui, on doit les obtenir à tout prix, sinon les résultats des expériences tomberont entre de mauvaises mains!</fra>
+		<fra>Zakhar, j'ai trouvé un docteur fou, le gars est complètement hors de contrôle. Si les documents importants sont avec lui, on doit les obtenir à tout prix, sinon les résultats des expériences tomberont entre de mauvaises mains!</fra>
 		<pln>Zachar, znalazłem jednego dziwnego doktora, gość ma nieźle pomieszane w głowie. Ma przy sobie ważne dokumenty, trzeba za wszelką cenę je odzyskać, inaczej rezultaty eksperymentów wpadną nie w te ręce co trzeba!</pln>
 	</string>
 	<string id="sms_zahar_sms_ot_strelka1_0">
 		<rus>Меченый, вали этого доктора и забери документы!</rus>
 		<eng>Marked One, kill this doctor and take the documents!</eng>
 		<ukr>Мічений, вали цього доктора і забери документи!</ukr>
-		<fra>Strelok,tuez ce médecin et prenez les documents!</fra>
+		<fra>Strelok, tuez ce docteur et prenez les documents!</fra>
 		<pln>Naznaczony, rozwal tego doktora i zabierz dokumenty!</pln>
 	</string>
 	<string id="sms_strelok_hor_npc_dead1_0">
@@ -81,7 +81,7 @@
 		<rus>Адреналин, мне нужны надёжные рации, 8 штук. У тебя есть такие?</rus>
 		<eng>Adrenaline, I need reliable radios, 8 pieces. Do you have any?</eng>
 		<ukr>Адреналін, мені потрібні надійні рації, 8 штук. У тебе є такі?</ukr>
-		<fra>Adrenaline, j’ai besoin de radios fiables, 8 pièces. Avez-vous des radios?</fra>
+		<fra>Adrénaline, j’ai besoin de radios fiables, 8 pièces. Avez-vous des radios?</fra>
 		<pln>Adrenalina, potrzebuję sprawnych radiostacji, 8 sztuk. Masz takie?</pln>
 	</string>
 	<string id="sms_adrenalin_new_radios_sms_0">
@@ -165,7 +165,7 @@
 		<rus>Наконец-то, а то ни фига не знаешь, что там в Зоне творится. Волк, подтверди приём.</rus>
 		<eng>Finally, I'm sick of having no clue what the hell is going on in the Zone. Wolf, acknowledge the receipt.</eng>
 		<ukr>Нарешті, а то біс його знає, що там у Зоні коїться. Вовк, підтвердь прийом.</ukr>
-		<fra>Enfin, sinon vous ne savez pas ce qui se passe dans la Zone.Loup, confirmer la réception.</fra>
+		<fra>Enfin, sinon vous ne savez pas ce qui se passe dans la Zone. Loup, confirmer la réception.</fra>
 		<pln>W sumie, to i tak nigdy  nie wiadomo, że tam w Zonie się dzieje. Wilk, potwierdź odbiór.</pln>
 	</string>
 	<string id="docent_silence_done_3_0">
@@ -395,7 +395,7 @@
 		<rus>Василий, я разгадал загадку, но глушителя не нашёл. Вместо него у меня ПДА с кучей цифр, похожих на координаты.</rus>
 		<eng>Vasily, I solved the riddle, but did not find the silencer. Instead of it, I have a PDA with a bunch of numbers similar to coordinates.</eng>
 		<ukr>Василь, я розгадав загадку, але глушника не знайшов. Замість нього в мене КПК з купою цифр, схожих на координати.</ukr>
-		<fra>Vasily, j'ai résolu l'énigme, mais je n'ai pas trouvé le silencieux. Au lieu de cela, j'ai un PDA avec un tas de chiffres qui ressemblent à des coordonnées.</fra>
+		<fra>Vassili, j'ai résolu l'énigme, mais je n'ai pas trouvé le silencieux. Au lieu de cela, j'ai un PDA avec un tas de chiffres qui ressemblent à des coordonnées.</fra>
 		<pln>Wasyli, rozwiązałem zagadkę, ale tłumika nie znalazłem. Zamiast niego mam PDA z kupą cyfr, wyglądających na współrzędne.</pln>
 	</string>
 	<string id="sms_vasiliy_chertez_zagadka_have_0">
@@ -407,9 +407,9 @@
 	</string>
 	<string id="sms_strelok_pda_zagadka_torch_broken_0">
 		<rus>Твою мать! Фонарик сдох и в самый нужный момент! Боров, у тебя лишний фонарик не завалялся?</rus>
-		<eng>Fuck! Flashlight died at such an important moment! Borov, do you have an extra flashlight?</eng>
+		<eng>Fuck! Flashlight died at such an important moment! Bauson, do you have an extra flashlight?</eng>
 		<ukr>Твою мать! Ліхтарик здох і в самий потрібний момент! Кабан, у тебе зайвий ліхтарик не завалявся?</ukr>
-		<fra>Putain! La lampe de poche est morte à un moment aussi important! Borov, avez-vous une lampe de poche supplémentaire?</fra>
+		<fra>Putain! La lampe de poche est morte à un moment aussi important! Ragot, avez-vous une lampe de poche supplémentaire?</fra>
 		<pln>Kurwa mać! Latarka zdechła i to w najmniej odpowiednim momencie! Borow, nie poniewiera się u ciebie zbyteczna latarka?</pln>
 	</string>
 	<string id="sms_borov_checking_taken_item79_2_0">
@@ -675,7 +675,7 @@
 		<rus>Волк, твоё чутьё тебя не обмануло. Я нашёл Сеню. В подземке Агропрома. Парень мертвее некуда... Я не эксперт, но похоже, что он застрелился. По крайней мере, я не вижу следов насилия на его теле. Волк, мне неудобно просить тебя, но... я хотел бы завершить начатое парнем. Кому я могу сдать фотографии, если я выполню его контракт?</rus>
 		<eng>Wolf, your gut didn't fool you. I found Senya. In the Agroprom underground. The guy is dead... I'm not an expert, but it looks like he shot himself. At least I don’t see any signs of violence on his body. Wolf, I am uncomfortable asking you, but... I would like to complete the job started by the guy. Who can I give photos if I fulfill his contract?</eng>
 		<ukr>Вовк, твоє чуття тебе не підвело. Я знайшов Сеню. У підземці Агропрома. Хлопець мертвіше нікуди... Я не експерт, але схоже, що він застрелився. Принаймні, я не бачу слідів насильства на його тілі. Вовк, мені незручно просити тебе, але... я хотів би завершити розпочате хлопцем. Кому я можу здати фотографії, якщо я виконаю його контракт?</ukr>
-		<fra>Le Loup, ton instinct ne t'a pas dupé. J'ai trouvé Senya. Dans le métro Agroprom. Le gars est mort ... Je ne suis pas un expert, mais on dirait qu'il s'est tiré une balle dans la tête. Au moins, je ne vois aucun signe de violence sur son corps. Loup, je suis mal à l'aise de te demander, mais ... j'aimerais compléter le travail commencé par le gars. À qui puis-je donner des photos si je remplis son contrat?</fra>
+		<fra>Loup, ton instinct ne t'a pas dupé. J'ai trouvé Senya. Dans le métro Agroprom. Le gars est mort ... Je ne suis pas un expert, mais on dirait qu'il s'est tiré une balle dans la tête. Au moins, je ne vois aucun signe de violence sur son corps. Loup, je suis mal à l'aise de te demander, mais ... j'aimerais compléter le travail commencé par le gars. À qui puis-je donner des photos si je remplis son contrat?</fra>
 		<pln>Wilk, twoja intuicja cię nie zawiodła. Znalazłem Sienię. W Podziemiach Agropromu. Chłopak bardziej martwy juz być nie może... Nie jestem ekspertem, ale prawdopodobnie, się zastrzelił. A przynajmniej, nie widzę żadnych śladów przemocy na jego ciele. Wilk, niezręcznie mi to mówić, ale... chciałbym dokończyć kontrakt chłopaka. Komu mogę przekazać fotografie, jeśli wykonam jego zadanie?</pln>
 	</string>
 	<string id="sms_volk_foto_ohota_sms_0">
@@ -995,9 +995,9 @@
 	</string>
 	<string id="sms_trofim_trofim_sms_2_0">
 		<rus>Да не ссы ты! Я тут ширинку застегнуть не могу, а он - какие-то мутанты... Откуда только нашёл их... Пивасик тут рядом совсем - в вагончике, мы там спецом с пацанами подальше от Борова квасим... Ты давай быстрее, а! Вот ты тормоз-то, в натуре!</rus>
-		<eng>Take it easy! I can't zip up here and you are talking about mutants... Where did you find them... Beer is not far from here, in the trailer, boys and I always get hammered there, as it's far away from Borov... Come on, hurry! You are a slow poke!</eng>
+		<eng>Take it easy! I can't zip up here and you are talking about mutants... Where did you find them... Beer is not far from here, in the trailer, boys and I always get hammered there, as it's far away from Bauson... Come on, hurry! You are a slow poke!</eng>
 		<ukr>Та не сси ти! Я тут ширіньку застебнути не можу, а він - якісь мутанти... Де ти їх тільки надибав... Пивасик тут поруч зовсім - у вагончику, ми там спеціально з хлопчаками подалі від Кабана очі заливаємо... Ти давай швидше, а! Ну ти і гальмо-то, в натурі!</ukr>
-		<fra> Oui, vous ne l'êtes pas! Je ne peux pas attacher ma braguette ici, mais il y a des mutants ... Où est-ce que je les ai trouvés ... La bière est assez proche d'ici - dans la caravane, nous sommes spéciaux avec les garçons éloignés du Borov ... Vous venez plus vite, mais! Ici vous êtes un frein, en nature!</fra>
+		<fra> Oui, vous ne l'êtes pas! Je ne peux pas attacher ma braguette ici, mais il y a des mutants ... Où est-ce que je les ai trouvés ... La bière est assez proche d'ici - dans la caravane, nous sommes spéciaux avec les garçons éloignés du Ragot... Vous venez plus vite, mais! Ici vous êtes un frein, en nature!</fra>
 		<pln>Przestań stękać! Ja tu rozporka zapiąć nie mogę, a ten o jakichś mutantach... Gdzie je tu widzisz... Piwo jest tu całkiem niedaleko - w wagoniku, często tam popijamy z chłopakami, daleko od Borowa... Rusz się, co! Zawsze jesteś taki powolny!</pln>
 	</string>
 	<string id="sms_trofim_trofim_sms2_0">
@@ -1176,9 +1176,9 @@
 	</string>
 	<string id="sms_strelok_smska_borova2">
 		<rus>Боров, этот засранец Крысюк сдох и ПДА при нём не было. Что будем делать?</rus>
-		<eng>===Боров, этот засранец Крысюк сдох и ПДА при нём не было. Что будем делать?</eng>
+		<eng>===Bauson, этот засранец Крысюк сдох и ПДА при нём не было. Что будем делать?</eng>
 		<ukr>Кабан, цей засранець Щуряк здох і КПК при ньому не було. Що будемо робити?</ukr>
-		<fra>===Боров, этот засранец Крысюк сдох и ПДА при нём не было. Что будем делать?</fra>
+		<fra>===Ragot, этот засранец Крысюк сдох и ПДА при нём не было. Что будем делать?</fra>
 		<pln>===Боров, этот засранец Крысюк сдох и ПДА при нём не было. Что будем делать?</pln>
 	</string>
 	<string id="sms_sherstuk_conserva">
