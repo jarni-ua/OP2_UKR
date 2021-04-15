@@ -57,13 +57,13 @@
 	</string>
 	<string id="sms_uniq_10">
 		<rus>Лукаш, тут опять на хутор Долг пришёл. Зачем?\n%c[sender]Лукаш\n%c[default]Задолбали уже. Что им нужно? Опять ведь получат...\n%c[sender]Петренко\n%c[default]А это и не наши. Ослушались прямого приказа генерала Воронина и вылетели из группировки. Так что нам всё равно, делайте с ними, что хотите.</rus>
-		<eng>Lukash, Duty have returned to the farm again. Why?\n%c[sender]Lukash\n%c[default]I'm sick of this. What do they want? Here we go again...\n%c[sender]Petrenko\n%c[default]These aren't ours. They disobeyed the direct orders of General Voronin and deserted the group. So we don't care, do what you want with them.</eng>
+		<eng>Lukash, Duty have returned to the farm again. Why?\n%c[sender]Lukash\n%c[default]I'm sick of this. What do they want? Here we go again...\n%c[sender]Petrenko\n%c[default]These aren't ours. They disobeyed the direct orders of general Voronin and deserted the group. So we don't care, do what you want with them.</eng>
 		<ukr>Лукаш, тут знову на хутір Долг прийшов. Навіщо?\n%c[sender]Лукаш\n%c[default]Задовбали вже. Що їм потрібно? Знову отримають по...\n%c[sender]Петренко\n%c[default]А це вже не наші. Вони не виконали прямого наказу генерала Вороніна і вилетіли з угрупування. Так що нам все одно, робіть з ними, що хочете.</ukr>
 		<pln>Łukasz, tu znowu na chutor "Powinność" przyszła. Po co?\n%c[sender]Łukasz\n%c[default]Zapomnieli już. Czego im trzeba? Z pewnością to dostaną...\n%c[sender]Pietrenko\n%c[default]A to nie nasi. Nie posłuchali prostego rozkazu generała Woronina i wylecieli z ugrupowania. Tak że nam wszystko jedno, róbcie z nimi, co chcecie.</pln>
 	</string>
 	<string id="sms_uniq_11">
 		<rus>Нужен выход в интернет. В Баре есть, или к Сидоровичу плестись?\n%c[sender]Потап\n%c[default]Вроде у Бармена есть. В принципе, можешь попробовать пойти к связистам Долга, у них точно доступ имеется.</rus>
-		<eng>I need an Internet connection. Do you have one at the Bar, or do I need to go to Sidorovich?\n%c[sender]Potap\n%c[default]I think Barkeep does. Otherwise, you can try to go to the Duty signallers, they definitely have access.</eng>
+		<eng>I need an Internet connection. Do you have one at the Bar, or do I need to go to Sidorovich?\n%c[sender]Potap\n%c[default]I think the Barkeep does. Otherwise, you can try to go to the Duty signallers, they definitely have access.</eng>
 		<ukr>Потрібен вихід в інтернет. У Барі є, чи аж до Сидоровича плентатися?\n%c[sender]Потап\n%c[default]Начебто у Бармена є. Взагалі то, можеш спробувати піти до зв'язківців Долгу, у них точно доступ є.</ukr>
 		<pln>Potrzebne wyjście w internet. W barze jest, czy do Sidorowicza się wlec?\n%c[sender]Potap\n%c[default]Niby u barmana jest. W zasadzie, możesz spróbować pójść do łącznościowca "Powinności", u nich na pewno jest dostęp.</pln>
 	</string>
@@ -75,7 +75,7 @@
 	</string>
 	<string id="sms_uniq_13">
 		<rus>На Свалке засёк SOS Жоры Санитара! Двигаюсь по пеленгу на Росток, желающие вытащить Жорку - жду сообщений. Предупреждаю - Жору взяли военные, количеством не меньше червонца, так что жара будет.</rus>
-		<eng>I received an SOS message from Zhora the Orderly at the Dump! I'm moving along the bearing to Rostok, hoping to rescue Zhora - waiting for replies. I must warn you - Zhora was taken by the military, there were no less than ten, so it'll be hot.</eng>
+		<eng>I received an SOS message from Zhora the Corpsman at the Dump! I'm moving along the bearing to Rostok, hoping to rescue Zhora - waiting for replies. I must warn you - Zhora was taken by the military, there were no less than ten, so it'll be hot.</eng>
 		<ukr>На Звалищі засік SOS Жори Санітара! Рухаюся по пеленгу на Росток, бажаючі витягнути Жорку - чекаю повідомлень. Попереджаю - Жору взяли військові, кількістю не менше десяти, так що буде спекотно.</ukr>
 		<pln>Na Wysypisku odebrałem SOS Żory Sanitariusza! Ruszam po namiarze na Rostok, spróbuję uratować Żorkę - czekam na wiadomości. Uprzedzam - Żorę wzięli wojskowi, tak że gorąco będzie.</pln>
 	</string>
@@ -129,7 +129,7 @@
 	</string>
 	<string id="sms_uniq_22">
 		<rus>Хе-хе, Жила, я подогнал денежного клиента, срочно выйди на связь!</rus>
-		<eng>Ha-ha, guide, I've brought in a paying client, get in touch right away!</eng>
+		<eng>Ha-ha, Skimpy, I've brought in a paying client, get in touch right away!</eng>
 		<ukr>Хе-хе, Жила, я скерував до тебе грошовитого клієнта, терміново вийди на зв'язок!</ukr>
 		<pln>He-he, Żyła, popędziłem zasobnego klienta, pilnie nawiąż łączność!</pln>
 	</string>
@@ -237,15 +237,15 @@
 	</string>
 	<string id="sms_uniq_40">
 		<rus>Мужики, слыхали? Говорят, Сидорович решил газетёнку выпускать - "Вестник Зоны" называется. И не хило за новости платит!\n%c[sender]Скряга\n%c[default]Врёшь, поди? Чтобы Сидорович?! Да кому-то?! Да за такую фигню платил?! Ну ты фантазёр!</rus>
-		<eng>Guys, have you heard? They say that Sidorovich decided to publish a newspaper - it's called the "Zone Herald". You don't to pay much for the news!\n%c[sender]Skinflint\n%c[default]Are you shitting me? Sidorovich?! Says who?! Do you have to pay for this shit?! Well, you're a dreamer!</eng>
+		<eng>Guys, have you heard? They say that Sidorovich decided to publish a newspaper - it's called the "Herald of the Zone". You don't to pay much for the news!\n%c[sender]Skinflint\n%c[default]Are you shitting me? Sidorovich?! Says who?! Do you have to pay for this shit?! Well, you're a dreamer!</eng>
 		<ukr>Мужики, чули? Кажуть, Сидорович вирішив газету випускати - "Вісник Зони" називається. І пристойно за новини платить!\n%c[sender]Скнара\n%c[default]Брешеш, мабуть? Щоб Сидорович комусь за таку фігню платив?! Ну ти фантазер!</ukr>
 		<pln>Chłopaki, słyszeliście? Mówią, że Sidorowicz postanowił gazetę wydawać - "Wieści z Zony" się nazywa. I nieźle za wiadomości płaci!\n%c[sender]Kutwa\n%c[default]Zmyślasz, co? Żeby Sidorowicz?! I to komuś?! Za takie bzdury płacił?! Marzyciel z ciebie!</pln>
 	</string>
 	<string id="sms_uniq_41">
-		<rus>Жила, твою бабушку через колено! Ты где опять прохлаждаешься?!\n%c[sender]Сталкер Бубулюка\n%c[default]Ясно, где: опять поди в карты с кровососами на присоски играет. У него мечта - присосаться к кассе Бармена.</rus>
-		<eng>Hey Vein, I screwed your old lady! Where are you chilling out now?!\n%c[sender]Stalker Bubulyuka\n%c[default] It's clear where: he's playing cards with the local bloodsuckers and playing them for suckers. He has a dream - to get hold of all Barkeep's money.</eng>
-		<ukr>Жила, твою бабусю через коліно! Ти де знову прохолоджуєшся?!\n%c[sender]Сталкер Бубулюка\n%c[default]Відомо де: знову мабуть в карти з кровососами на присоски грає. У нього мрія - присмоктатися до каси Бармена.</ukr>
-		<pln>Żyła, gdzie znowu przepadłeś?!\n%c[sender]Stalker Bubuluka\n%c[default]To przecież jasne: znowu poszedł w karty z pijawkami na przyssawki grać. On ma jedno marzenie - przyssać się do kasy Barmana.</pln>
+		<rus>Жила, твою бабушку через колено!.. Ты где опять прохлаждаешься?!\n%c[sender]Сталкер Бубулюка\n%c[default]Ясно, где: опять поди в карты с кровососами на присоски играет. У него мечта - присосаться к кассе Бармена.</rus>
+		<eng>Skimpy, I screwed your old lady!.. Where are you chilling out now?!\n%c[sender]Stalker Bubulyuka\n%c[default] It's clear where: he's playing cards with the local bloodsuckers and playing them for suckers. He has a dream - to get hold of all the Barkeep's money.</eng>
+		<ukr>Жила, твою бабусю через коліно!.. Ти де знову прохолоджуєшся?!\n%c[sender]Сталкер Бубулюка\n%c[default]Відомо де: знову мабуть в карти з кровососами на присоски грає. У нього мрія - присмоктатися до каси Бармена.</ukr>
+		<pln>===Żyła, gdzie znowu przepadłeś?!\n%c[sender]Stalker Bubuluka\n%c[default]To przecież jasne: znowu poszedł w karty z pijawkami na przyssawki grać. On ma jedno marzenie - przyssać się do kasy Barmana.</pln>
 	</string>
 	<string id="sms_uniq_42">
 		<rus>Народ, а правда, что в Зоне кто-то умудряется по дорогам на псевдогигантах раскатывать?\n%c[sender]Потап\n%c[default]Нет, неправда. Нету в Зоне дорог...</rus>
@@ -278,10 +278,10 @@
 		<pln>Uff, jakiego strasznego potwora dopiero co zobaczyłem! Zgroza!! Do tej pory kolana mi się trzęsą! Nie ma co, idę się schlać!</pln>
 	</string>
 	<string id="sms_uniq_47">
-		<rus>Эх, Виталик... Вляпался в кисель. Я ноги его щупаю, а там только коленная чашечка прощупывается. Ниже, до самых ступней, ноги как резиновая палка, их в узел завязать можно. Надеюсь, доктор всё же что-то сделает...</rus>
+		<rus>Эх, Виталик... Вляпался в кисель. Я ноги его щупаю, а там только коленная чашечка прощупывается. Ниже, до самых ступней, ноги как резиновая палка, их в узел завязать можно. Надеюсь, Доктор всё же что-то сделает...</rus>
 		<eng>Uh, Vitalik... Got himself into a "Fruit Punch". I felt his legs, and there was only his knee caps. Below that, from his feet up, his legs were like rubber, you could tie them in a knot. I hope the Doctor can do something...</eng>
-		<ukr>Ех, Віталік... Вляпався у кисіль. Я ноги його мацаю, а там тільки колінна чашечка прощупується. Нижче, до самих ступнів, ноги як гумовий кийок, їх у вузол зав'язати можна. Сподіваюся, доктор все-таки щось зробить...</ukr>
-		<pln>Ech, Witalik... Wdepnął w Galaretę. Obmacuję jego nogi, a tam tylko rzepka trzeszczy. Poniżej, do samych stóp, nogi jak z gumy, można je w węzeł zawiązać. Mam nadzieję, że doktor jednak coś pomoże...</pln>
+		<ukr>Ех, Віталік... Вляпався у кисіль. Я ноги його мацаю, а там тільки колінна чашечка прощупується. Нижче, до самих ступнів, ноги як гумовий кийок, їх у вузол зав'язати можна. Сподіваюся, Доктор все-таки щось зробить...</ukr>
+		<pln>Ech, Witalik... Wdepnął w Galaretę. Obmacuję jego nogi, a tam tylko rzepka trzeszczy. Poniżej, do samych stóp, nogi jak z gumy, można je w węzeł zawiązać. Mam nadzieję, że Doktor jednak coś pomoże...</pln>
 	</string>
 	<string id="sms_uniq_48">
 		<rus>Мужики, у меня зуб болит. Стоматолога в Зоне, как я понимаю, нет. Что делать?\n%c[sender]Сталкер Бубулюка\n%c[default]Ну, в общем, есть один способ. Приди в Бар часов этак в одиннадцать, и накати анестезию. А потом запусти в кого-нибудь бутылкой... зуб должны выбить.</rus>
@@ -381,7 +381,7 @@
 	</string>
 	<string id="sms_uniq_64">
 		<rus>Тут Сидоровичу стволы трофейные продавал... Кажется, обсчитал он меня, старый хрен... Народ! Ходите лучше к Бармену!</rus>
-		<eng>Sidorovich sold me some trophy gun here... It seems that he cheated me, the old bastard... People! You're better off going to Barkeep!</eng>
+		<eng>Sidorovich sold me some trophy gun here... It seems that he cheated me, the old bastard... People! You're better off going to the Barkeep!</eng>
 		<ukr>Тут Сидоровичу зброю трофейну продавав... Здається, обрахував він мене, старий хрін... Народ! Йдіть краще до Бармена!</ukr>
 		<pln>Tu Sidorowicz podejrzane karabiny sprzedawał... Zdaje się, że oszukał mnie, stary łotr... Ludzie! Idźcie lepiej do Barmana!</pln>
 	</string>
@@ -524,8 +524,8 @@
 		<pln>Dlaczego anomalię "Sosnodąb" właśnie tak nazwali?\n%c[sender]Wesker\n%c[default]Dlatego że "Dębosos" - jakoś głupio brzmiało.</pln>
 	</string>
 	<string id="sms_uniq_88">
-		<rus>Камрады, подскажите, кто делает апгрейд Печенега? Долговязый почему-то отказывается...\n%c[sender]Сталкер Бубулюка\n%c[default]Та то вы, пацаны, не умеете просить! А делать надо так: приходишь к нему, берёшь Печенега за ствол, и прикладом по спине - хрясь! Сразу берет и кричит ещё: - Дополнительный ствол не надо, у меня уже есть!</rus>
-		<eng>Comrades, tell me, who upgrades the Pecheneg? For some reason, Lanky refuses...\n%c[sender]Stalker Bubulyuka\n%c[default]You guys don't know how to ask! You have to do it this way: you go to him, grab the Pecheneg by the barrel, and pat him on the back with the buttstock - bang! Immediately take it back and shout again: - "You don't need an extra barrel, you already have one!"</eng>
+		<rus>Камрады, подскажите, кто делает апгрейд Печенега? Долговязый почему-то отказывается...\n%c[sender]Сталкер Бубулюка\n%c[default]Та то вы, пацаны, не умеете просить! А делать надо так: приходишь к нему, берёшь Печенега за ствол, и прикладом по спине - хрясь! Сразу берет и кричит ещё: Дополнительный ствол не надо, у меня уже есть!</rus>
+		<eng>Comrades, tell me, who can upgrade the Pecheneg? The Lanky refuses for some reason...\n%c[sender]Stalker Bubulyuka\n%c[default]You guys don't know how to ask! You have to do it this way: you go to him, grab the Pecheneg by the barrel, and pat him on the back with the buttstock - bang! Immediately take it back and shout again: "No need in an extra barrel, I've just got one!"</eng>
 		<ukr>Камради, підкажіть, хто робить апгрейд Печеніга? Довгань чомусь відмовляється...\n%c[sender]Сталкер Бубулюка\n%c[default]Так ви ж, пацани, не вмієте просити! А робити треба так: приходиш до нього, береш Печеніга за дуло, і прикладом по спині - хрясь! Відразу бере і кричить ще: - Додатковий ствол не треба, у мене вже є!</ukr>
 		<pln>Koledzy, podpowiedzcie, kto robi upgrade Pieczynga? Chudy jakoś nie chce się podjąć...\n%c[sender]Stalker Bubuluka\n%c[default]Bo wy, pacany, nie umiecie prosić! A zrobić trzeba tak: przychodzisz do niego, bierzesz Pieczynga za lufę, i kolbą przez plecy - chlast! Od razu bierzesz i krzyczysz: - Dodatkowej broni nie trzeba, już mam!</pln>
 	</string>
@@ -657,7 +657,7 @@
 	</string>
 	<string id="sms_uniq_110">
 		<rus>Боров, слышь, мы вчера арт надыбали, с мужиками обмыли, а утром нос синий... Я не понял в натуре, это от арта или от водки?\n%c[sender]Боров\n%c[default]Ещё раз подобное спросишь, идиот - будет от моего сапога.</rus>
-		<eng>Hey, Borov, yesterday, we got hold of some artefacts, so I decided to celebrate with the guys, but in the morning my nose was blue... I don't understand how it happened, was it the from artefacts or vodka?\n%c[sender]Borov\n%c[default]If you ask me that again, you idiot, it'll be my boot.</eng>
+		<eng>Oy, Bauson, yesterday we got hold of an artefact, so we decided to celebrate with the guys, but in the morning my nose was blue... I don't understand how it happened, was it the from artefacts or vodka?\n%c[sender]Bauson\n%c[default]If you ask me that again, you idiot, it'll be from my boot.</eng>
 		<ukr>Кабан, чуєш, ми вчора арт знайшли, з мужиками обмили, а вранці ніс синій... Я не зрозумів в натурі, це від арту чи від горілки?\n%c[sender]Кабан\n%c[default]Ще раз подібне запитаєш, ідіот - буде від мого чобота.</ukr>
 		<pln>Borow, słuchaj, wczoraj artefakt znaleźliśmy, z chłopakami popiliśmy, a rano nos siny... W sumie to ja nie wiem, to od artefaktu czy od wódki?\n%c[sender]Borow\n%c[default]Jeszcze raz zadasz takie głupie pytanie, idioto - będzie siny od mojego buta.</pln>
 	</string>
@@ -771,7 +771,7 @@
 	</string>
 	<string id="sms_uniq_129">
 		<rus>Кстати, народ, видели Угрюмого? Ну это тот мужик, который раньше в основном по окраинам шарился, вооружённый только ПБ и обрезом. Очень долго шарился, сбывал хабар Бармену, ни в какие тёрки не лез, не светился нигде. Но однажды психанул и решил с товарищем своим, Скромным, да каким-то очкариком рвануть к Монолиту. Про Скромного ничего не знаю, но Угрюмого недавно видел на Складах, в деревне сосычей. Он и так нелюдимый мужик был, а теперь так вообще замкнулся, даже не пьёт ни с кем. Не знаю, дошёл ли он до Монолита, но сильно его Зона изменила... Раз он в Свободу вступил, хотя раньше вообще группировки не признавал.</rus>
-		<eng>By the way, have you guys seen Morose? Well, this is the guy who used to wander mostly along the outskirts, armed only with PB and a sawn-off shotgun. He was wandering around for a very long time, selling his loot to Barkeep, just keeping to himself and never getting into any trouble. But one day he freaked out and decided to go to the Monolith with his bespectacled friend, Modest. I don't know what happened to Modest, but I saw Morose in the bloodsucker's village at the Army Warehouses. He was an unsociable man before, but now he's completely withdrawn, he doesn't even drink with anyone. I don't know if he reached the Monolith, but the Zone has changed him greatly... Once he entered Freedom, he never acknowledge his previous group.</eng>
+		<eng>By the way, have you guys seen Morose? Well, this is the guy who used to wander mostly along the outskirts, armed only with PB and a sawn-off shotgun. He was wandering around for a very long time, selling his loot to the Barkeep, just keeping to himself and never getting into any trouble. But one day he freaked out and decided to go to the Monolith with his bespectacled friend, Modest. I don't know what happened to Modest, but I saw Morose in the bloodsucker's village at the Army Warehouses. He was an unsociable man before, but now he's completely withdrawn, he doesn't even drink with anyone. I don't know if he reached the Monolith, but the Zone has changed him greatly... Once he entered Freedom, he never acknowledge his previous group.</eng>
 		<ukr>До речі, народ, бачили Похмурого? Ну це той мужик, який раніше в основному по околицях тинявся, озброєний тільки ПБ і обрізом. Дуже довго сновигав, збував хабар Бармену, ні в які конфлікти не ліз, не світився ніде. Але одного разу розлютився і вирішив з товаришем своїм, Скромним, та якимось очкариком рвонути до Моноліту. Про Скромного нічого не знаю, але Похмурого недавно бачив на складах, в селі сосичів. Він і так відлюдкуватий мужик був, а тепер так взагалі замкнувся в собі, навіть не п'є ні з ким. Не знаю, чи дійшов він до Моноліту, але сильно його Зона змінила... Якщо він у Волю вступив, хоча раніше взагалі жодні угрупування не визнавав.</ukr>
 		<pln>Przy okazji, ludzie, widzieliście Ponurego? No, to ten chłop, który wcześniej głównie po pograniczu się kręcił, uzbrojony tylko w PB i obrzyna. Bardzo długo się tak kręcił, zbywał towar Barmanowi, w nic się nie mieszał. Ale pewnego razu mu odbiło i postanowił ze swym kumplem, Skromnym, takim jednym okularnikiem, ruszyć do Monolitu. O Skromnym niczego nie wiem, ale Ponurego niedawno widziałem, na Magazynach, w wiosce pijawek. On i tak był bardzo nietowarzyski, a teraz to w ogóle się zamknął w sobie, nawet z nikim nie pije. Nie wiem, czy doszedł do Monolitu, ale mocno go Zona zmieniła... Teraz wstąpił do Wolności, chociaż wcześniej w ogóle nie uznawał tego ugrupowania.</pln>
 	</string>
@@ -855,7 +855,7 @@
 	</string>
 	<string id="sms_uniq_143">
 		<rus>Сегодня Доктора видел... Прикиньте, что учудил: сидит на камнях и пришивает кровососу его щупальца! Сосыч кряхтит, но не дёргается почти. Доктор, как меня увидел - сказал, чтобы я топал подальше отсюда, раз у меня проблем со здоровьем нету. Нет, ну я могу понять, как Док на расстоянии определил, что у меня всё в порядке. Могу даже понять, почему он щупальца сосычу пришивал - у старожил Зоны свои причуды. Но какой дурак умудрился срезать щупальца у кровососа, пока тот в отключке лежал?!</rus>
-		<eng>I saw Doctor today... Guess what he was doing: sitting on the rocks and sewing the tentacles back on a bloodsucker! The creature groans, but it doesn't twitch much. As soon as he saw me, Doctor told me to leave because I didn't have any health problems. Well, I can understand why Doctor determined that I was okay from a distance. I can even understand why he was sewing back the tentacle to the bastard - the old Zone had its own quirks. But what kind of fool cuts off the tentacles of a bloodsucker while it's sleeping?</eng>
+		<eng>I saw the Doctor today... Guess what he was doing: sitting on the rocks and sewing the tentacles back on a bloodsucker! The creature groans, but it doesn't twitch much. As soon as he saw me, the Doctor told me to leave because I didn't have any health problems. Well, I can understand why the Doc determined that I was okay from a distance. I can even understand why he was sewing back the tentacle to the bastard - the old Zone had its own quirks. But what kind of fool cuts off the tentacles of a bloodsucker while it's sleeping?</eng>
 		<ukr>Сьогодні Доктора бачив... Уявіть, що він учудив: сидить на камені і пришиває кровососові його щупальця! Сосич крекче, але не смикається майже. Доктор, як мене побачив - сказав, щоб я йшов подалі звідси, раз у мене проблем зі здоров'ям немає. Ні, ну я можу зрозуміти, як Док на відстані визначив, що у мене все в порядку. Можу навіть зрозуміти, чому він щупальця сосичу пришивав - у старожилів Зони свої примхи. Але який дурень примудрився зрізати щупальця у кровососа, поки той у відключці лежав?!</ukr>
 		<pln>Dzisiaj widziałem Doktora... Wyobraźcie sobie, co on wydziwiał: siedział sobie na kamieniu i przyszywał pijawce jej macki! Pijawka stękała, ale prawie się nie poruszała. Doktor, jak mnie zobaczył - powiedział, bym poszedł sobie gdzieś dalej, skoro żadnych problemów ze zdrowiem nie mam. No nie, w sumie mogę zrozumieć, jak Dok na odległość określił, że ze mną wszystko w porządku. Mogę też zrozumieć, dlaczego on macki pijawce przyszywał - tubylcy z Zony mają swoje dziwactwa. Ale co za głupiec wpadł na pomysł ucinania macek pijawce, kiedy ona była nieprzytomna?!</pln>
 	</string>
@@ -927,7 +927,7 @@
 	</string>
 	<string id="sms_uniq_155">
 		<rus>Твою-ж... Вадима Белого нашёл. Агропром, у болота. Ноги правой нет, голова отдельно... Чего ж КПК-то его не сработал, посмертной в сети вроде не было.</rus>
-		<eng>Damn... Vadim White's been found. Near the swamp, at the Agroprom. Right leg missing, has had his head cut off... Why didn't his PDA work, the SMS was not sent  over the network.</eng>
+		<eng>Damn... Vadim the White has been found. Near the swamp, at the Agroprom. Right leg missing, has had his head cut off... Why didn't his PDA work, the SMS was not sent  over the network.</eng>
 		<ukr>Чорт забирай... Вадима Білого знайшов. Агропром, біля болота. Правої ноги немає, голова окремо... Чому ж його КПК не спрацював, СМС про його загибель в мережі начебто не було.</ukr>
 		<pln>Twoja mmać... Wadima Białego znalazłem. Agroprom, przy bagnie. Nogi prawej brak, głowa gdzieś obok... Coś jego PDA nie zadziałało, nie było w sieci pośmiertnej wiadomości.</pln>
 	</string>
@@ -987,7 +987,7 @@
 	</string>
 	<string id="sms_uniq_165">
 		<rus>Никогда не покупайте беляши у Бармена. Как-никак Зона. Нормальных собак тут не водится...</rus>
-		<eng>Never buy meat pies from Barkeep. This is the Zone, after all. There are no normal dogs to be found here...</eng>
+		<eng>Never buy meat pies from the Barkeep. This is the Zone, after all. There are no normal dogs to be found here...</eng>
 		<ukr>Ніколи не купуйте біляші у Бармена. Як-не-як Зона. Нормальних собак тут не знайдеш....</ukr>
 		<pln>Nigdy nie kupujcie krokietów u Barmana. Bądź co bądź to Zona. Nie ma tu normalnych psów...</pln>
 	</string>
@@ -1149,7 +1149,7 @@
 	</string>
 	<string id="sms_uniq_192">
 		<rus>Сегодня встретил Генку Сапёра с примотанной скотчем к ноге миной. Объяснил, что напоролся на неё случайно. Теперь он с ней так и ходит. Вот умора! Если встретите горе-сапёра, близко к нему не подходите - рванёт ещё.</rus>
-		<eng>I bumped into Gena the Sapper today, he had a land mine duct-taped to his leg. He explained that he came across it by accident. Now he's walking around like that. That's hilarious! If you run into this pseudo-sapper, don't get too close to him - you could set it off.</eng>
+		<eng>I bumped into Genka the Sapper today, he had a land mine duct-taped to his leg. He explained that he came across it by accident. Now he's walking around like that. That's hilarious! If you run into this poor excuse for a sapper, don't get too close to him - you could set it off.</eng>
 		<ukr>Сьогодні зустрів Гєнку Сапера. Уявіть, він міну до ноги примотав скотчем. Каже, що напоровся на неї випадково. Тепер він з нею так і ходить. Оце сміхота! Якщо зустрінете горе-сапера, близько до нього не підходьте - раптом ще рвоне.</ukr>
 		<pln>Dzisiaj spotkałem Gienię Sapera z przymocowaną scotchem do nogi miną. Wyjaśnił, że nadział się na nią przypadkowo. Teraz on z nią tak chodzi. To ci dopiero! Jeżeli go spotkacie, blisko do niego nie podchodźcie - jeszcze wybuchnie.</pln>
 	</string>
@@ -1269,7 +1269,7 @@
 	</string>
 	<string id="sms_uniq_212">
 		<rus>Торговцы - это зло. Вечно просят о какой-нибудь услуге. Просто продать религия не позволяет, что ли? Деньги уже не нужны?\n%c[sender]Сидорович\n%c[default]Ты сам-то понял, что сказал? На самом деле, деньги - вот настоящее зло! За Периметром они уже давно заменили людям религию. У них там в головах одни деньги, ничего более важного в жизни не осталось! Лишь бы бабла где напилить, чтоб цацку новую купить.\n%c[sender]Боров\n%c[default]Ну всё, Остапа понесло. Стихами заговорил...\n%c[sender]Димак\n%c[default]Он прав, как ни крути. И барыги в Зоне, кстати - да и не только они, если уж честно - самые правильные: чтобы получить у них что-то, тебе придётся попотеть. А ты как хотел? Все по чесноку. Зато награда может быть такая, что тебе никаких денег не хватило бы, чтобы купить её. Правда, это как договоришься. Фейс-контроль, понимаешь? Так что ты напраслину-то на барыг наших не гони...</rus>
-		<eng>Traders are evil. Always asking for a favour. Doesn't their religion just allow you to sell it? You don't need money anymore?\n%c[sender]Sidorovich\n%c[default]Do you know what you said? In fact, money is the real evil! Behind the Perimeter, the people replaced religion for it long ago. They only think about money now, nothing is more important in their lives! As long as there's money, they can go anywhere and buy anything they desire..\n%c[sender]Borov\n%c[default]All right, don't get carried away. He was speaking poetically...\n%c[sender]Dimak\n%c[default]He's right, regardless what you may think. By the way, all the traders in the Zone - and not only they, need to be honest - but also the best: in order to get them something from them, you'll have to sweat. What do you want in return? Just money. But the reward may be such that the money wouldn't be enough to buy it. True, it's a contractual thing. But this is how it works, you understand? So don't slander our traders...</eng>
+		<eng>Traders are evil. Always asking for a favour. Doesn't their religion just allow you to sell it? You don't need money anymore?\n%c[sender]Sidorovich\n%c[default]Do you know what you said? In fact, money is the real evil! Behind the Perimeter, the people replaced religion for it long ago. They only think about money now, nothing is more important in their lives! As long as there's money, they can go anywhere and buy anything they desire..\n%c[sender]Bauson\n%c[default]All right, don't get carried away. He was speaking poetically...\n%c[sender]Dimak\n%c[default]He's right, regardless what you may think. By the way, all the traders in the Zone - and not only they, need to be honest - but also the best: in order to get them something from them, you'll have to sweat. What do you want in return? Just money. But the reward may be such that the money wouldn't be enough to buy it. True, it's a contractual thing. But this is how it works, you understand? So don't slander our traders...</eng>
 		<ukr>Крамарі - це зло. Завжди звертаються з проханням зробити для них якусь послугу. А просто продати товар релігія не дозволяє, чи що? Гроші вже не потрібні?\n%c[sender]Сидорович\n%c[default]Ти сам хочт зрозумів, що сказав? Гроші - ось справжнє зло! За Периметром вони вже давно замінили людям релігію. У них там в головах одні гроші, нічого важливішого в житті не залишилося! Думають лише, де би бабла накосити, щоб потішити себе новою цяцькою.\n%c[sender]Кабан\n%c[default]Ну все, Остапа понесло...\n%c[sender]Дімак\n%c[default]Він має рацію. Бариги в Зоні, та й не тільки вони, якщо чесно - самі правильні: щоб отримати у них щось, тобі доведеться попітніти. А ти як хотів? Все чесно. Зате нагорода може бути така, що в тебе грошей не вистачить, щоб купити її. Правда, це як домовишся. Фейс-контроль, розумієш? Так що не тримай на крамарів камінь за пазухою...</ukr>
 		<pln>Handlarze - to zło. Wiecznie proszą o jakieś przysługi. Po prostu sprzedać religia nie pozwala, czy co? Pieniądze już nie są potrzebne?\n%c[sender]Sidorowicz\n%c[default]Ty sam rozumiesz, co powiedziałeś? Tak naprawdę, pieniądze to jest prawdziwe zło! Za Perymetrem już dawno zastąpiły ludziom religię. W ich w głowach tylko pieniądze, nic innego ważnego w życiu im nie zostało! Byle pieniądze gdzieś zdobyć, żeby nowe cacko sobie kupić.\n%c[sender]Borow\n%c[default]No i koniec, Ostapa poniosło...\n%c[sender]Dimak\n%c[default]Ma rację, chociaż za bardzo kręci. A handlarze w Zonie, przy okazji - nie tylko oni, jeżeli już uczciwie - najlepsi: by coś od nich otrzymać, musisz się pomęczyć. A jak chciałeś? Wszystko za gotówkę? Wtedy mogło by być tak, że tobie żadnych pieniędzy by nie wystarczyło, by coś kupić. Prawda, to rzecz umowna. Tak że na naszych handlarzy tu nie bluzgaj...</pln>
 	</string>
@@ -1545,7 +1545,7 @@
 	</string>
 	<string id="sms_uniq_258">
 		<rus>А можно как-то КПК проапгрейдить, чтобы он не так быстро разряжался?\n%c[sender]Доцент\n%c[default]Можно. Подходи в Бар, решим твою проблему.</rus>
-		<eng>Is there any way to upgrade your PDA so that it doesn't discharge so quickly?\n%c[sender]Professor\n%c[default]Yes, there is. Come to the Bar, we'll solve your problem.</eng>
+		<eng>Is there any way to upgrade your PDA so that it doesn't discharge so quickly?\n%c[sender]Docent\n%c[default]Yes, there is. Come to the Bar, we'll solve your problem.</eng>
 		<ukr>Чи можна якось КПК проапгрейдити, щоб він не так швидко розряджався?\n%c[sender]Доцент\n%c[default]Можна. Приходь до мене в Бар, вирішимо твою проблему.</ukr>
 		<pln>A można sobie jakoś PDA podkręcić, żeby się szybciej włączało?\n%c[sender]Docent\n%c[default]Można. Podejdź do Baru, rozwiążemy twój problem.</pln>
 	</string>
@@ -1605,7 +1605,7 @@
 	</string>
 	<string id="sms_uniq_268">
 		<rus>Бармен, для человека, спрятавшего свой хабар в ящиках за баром, поставь, пожалуйста, за мой счёт какую-нибудь хорошую песню.</rus>
-		<eng>Bartender, please put on a good song at my expense, for a man who hides his loot in the crates behind a bar.</eng>
+		<eng>Barkeep, please put on a good song at my expense, for a man who hides his loot in the crates behind a bar.</eng>
 		<ukr>Бармен, постав, будь ласка, для людини, яка сховала свій хабар в ящиках за баром, за мій рахунок якусь хорошу пісню.</ukr>
 		<pln>Barman, człowiekowi, który schował swój towar w skrzynkach za barem, puść, proszę, na mój rachunek jakąś dobrą piosenkę.</pln>
 	</string>
@@ -1665,7 +1665,7 @@
 	</string>
 	<string id="sms_uniq_278">
 		<rus>Только что вернулся от Долговязого. Он сумел переделать мой Глок 41 под автоматический режим стрельбы. Золотые руки у мастера! Никак не нарадуюсь своему новому пистолету!</rus>
-		<eng>Just got back from Lanky. He managed to convert my Glock 41 to automatic fire. Golden hands of a master! I can't wait to try out my new gun!</eng>
+		<eng>Just got back from the Lanky. He managed to convert my Glock 41 to automatic fire. Golden hands of a master! I can't wait to try out my new gun!</eng>
 		<ukr>Щойно повернувся від Довганя. Він зумів переробити мій Глок 41 під автоматичний режим стрільби. Золоті руки у майстра! Ніяк не натішусь своїм новим пістолетом!</ukr>
 		<pln>Dopiero co wróciłem od Chudego. Przerobił mojego Glocka 41 pod automatyczny tryb strzelania. Mistrz ma złote ręce! Nie mogę się nacieszyć swoim nowym pistoletem!</pln>
 	</string>
