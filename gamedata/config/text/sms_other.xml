@@ -630,6 +630,13 @@
 		<fra>Anomalies anéanties: %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Аномалий аннигилировано: %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
+	<string id="sms_long_shot">
+		<rus>Подтверждённых убийств с дальней дистанции, %%c[sms_red]%d%%c[default] из %d</rus>
+		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<ukr>Підтверджених вбивств з дальної дистанції, %%c[sms_red]%d%%c[default] із %d</ukr>
+		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
+		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
+	</string>
 	<string id="sms_info_dead_stalker">
 		<rus>Мёртвый сталкер</rus>
 		<eng>Dead stalker</eng>

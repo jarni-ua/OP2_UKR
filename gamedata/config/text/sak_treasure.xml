@@ -15,14 +15,14 @@
 		<pln>Sądząc po wpisach, uczeni wieźli jakiś bardzo niezwykły artefakt.</pln>
 	</string>
 	<string id="pda_krysyka_name">
-		<rus>ПДА Крысюка</rus>
+		<rus>КПК Крысюка</rus>
 		<eng>Krysyuk's PDA </eng>
 		<ukr>КПК Щуряка</ukr>
 		<fra>PDA Krysyuk</fra>
 		<pln>PDA Krysiuka</pln>
 	</string>
 	<string id="pda_krysyka_desc">
-		<rus>Крысюк много чего вынюхал и записал в свой ПДА. Боров за него глотку порвёт.</rus>
+		<rus>Крысюк много чего вынюхал и записал в свой КПК. Боров за него глотку порвёт.</rus>
 		<eng>Krysyuk sniffed out a lot and recorded everything in his PDA. Bauson can rip a throat out for it. </eng>
 		<ukr>Щуряк багато чого винюхав і записав у свій КПК... Кабан за нього глотку порве...</ukr>
 		<fra>Krysyuk a détecté beaucoup de choses et les a écrites dans son PDA. Le Ragot veut récupérer les données et le massacrer.</fra>
@@ -69,34 +69,6 @@
 		<ukr>Колись був нормальний хліб, тепер радіоактивний хліб... Якщо набридло життя - можна з'їсти...</ukr>
 		<fra>Il était une fois un pain normal, maintenant un pain radioactif ... Si vous en avez marre de la vie, vous pouvez en manger.</fra>
 		<pln>Kiedyś to był normalny chleb... Teraz to radioaktywny chleb... Jeśli masz dosyć życia - możesz zjeść.</pln>
-	</string>
-	<string id="agr_krysyk_secret_name">
-		<rus>Нычка Крысюка</rus>
-		<eng>Krysyuk's stash</eng>
-		<ukr>Ничка Щуряка</ukr>
-		<fra>La réserve de Krysyuk</fra>
-		<pln>Skrytka Krysiuka</pln>
-	</string>
-	<string id="agr_krysyk_secret_descr">
-		<rus>Крысюк заныкал здесь кое-какой хабар</rus>
-		<eng>Krysyuk stashed some loot here</eng>
-		<ukr>Щуряк заникав тут деякий хабар.</ukr>
-		<fra>Krysyuk a caché du butin ici</fra>
-		<pln>Krysiuk ukrył tu jakiś towar</pln>
-	</string>
-	<string id="val_krysyk_secret_name">
-		<rus>Тайник Крысюка</rus>
-		<eng>Krysyuk's stash</eng>
-		<ukr>Схованка Щуряка</ukr>
-		<fra>Cache de Krysyuk</fra>
-		<pln>Schowek Krysiuka</pln>
-	</string>
-	<string id="val_krysyk_secret_descr">
-		<rus>Здесь должен быть ПДА Крысюка</rus>
-		<eng>There must be Krysyuk's PDA here</eng>
-		<ukr>Тут має бути КПК Щуряка</ukr>
-		<fra>Il devrait y avoir le PDA de Krysyuk ici</fra>
-		<pln>Tu powinnno być PDA Krysiuka</pln>
 	</string>
 	<string id="bandit_treasure_1_dialog_0">
 		<rus>Здорово, братела... Перетрём базар?</rus>
@@ -1415,7 +1387,7 @@
 		<pln>Opowiedz coś ciekawego...</pln>
 	</string>
 	<string id="stalk_garb_treasure_4_dialog_71">
-		<rus>Поинтереснее? Хм... Что бы соврать то... А! Ладно, расскажу как есть... Юрика знаешь? Малёк совсем, попытался за хабаром наравне с опытными сталкерами ломануться... Голова у него на выпивку совсем слабая, на пробку наступит - а несёт его как от ведра... Вчера сидел тут с нами, языком мел, как помелом... Разошёлся, типа он всем старикам нос утрёт, потому как знает, где хабар заныкан. Мы его на смех подняли, так он ерепениться начал - тыкать всем свой ПДА с отметкой на месте нычки. Не поверил никто, конечно - откуда у сопли с Кордона такая инфа может быть... Типа вот здесь какой то хабар... Ты бы поверил?</rus>
+		<rus>Поинтереснее? Хм... Что бы соврать то... А! Ладно, расскажу как есть... Юрика знаешь? Малёк совсем, попытался за хабаром наравне с опытными сталкерами ломануться... Голова у него на выпивку совсем слабая, на пробку наступит - а несёт его как от ведра... Вчера сидел тут с нами, языком мел, как помелом... Разошёлся, типа он всем старикам нос утрёт, потому как знает, где хабар заныкан. Мы его на смех подняли, так он ерепениться начал - тыкать всем свой КПК с отметкой на месте нычки. Не поверил никто, конечно - откуда у сопли с Кордона такая инфа может быть... Типа вот здесь какой то хабар... Ты бы поверил?</rus>
 		<eng>More interesting? Hmm... What should I lie... Ah! Ok, I'll tell you how it is... Do you know Yurik? He's very little, but tried to get loot along with experienced stalkers... He gets drunk quite easily, even when he drinks little, he smells like he's drunk a bucket... Yesterday he sat here with us and talked a lot... As a result he said he would get the edge over the experienced, as he knew where loot was. We began to laugh at him, which made him stubborn. He began to show his PDA with the mark of the loot place. Of course, nobody believed him, how could that kid from Cordon get the information... Like here is some loot... Would you believe it?</eng>
 		<ukr>Поцікавіше? Хм... Що ж би це збрехати... А! Гаразд, розповім як є... Юрка знаєш? Мальок зовсім, спробував за хабаром нарівні з досвідченими сталкерами ломанутися... Голова у нього на випивку зовсім слабка, на пробку наступить - а несе його як від відра... Вчора сидів тут з нами, язиком плів, як помелом... Розійшовся, типу він усім старим ніс втре, томущо знає де хабар заниканий. Ми його на сміх підняли, так він комизитись почав - тикати всім свій КПК з відміткою на місці хованки. Не повірив ніхто, звичайно - звідки у соплі з Кордону така інфра може бути... Типу ось тут якийсь хабар... Ти б повірив?</ukr>
 		<fra>Plus intéressant? Hmm ... Que mentirais-tu ... Ah! D'accord, je vais vous dire comment manger ... Yuri sait? La frite du tout, a essayé de traîner avec les harceleurs expérimentés avec le butin ... Sa tête était très faible pour boire, il viendrait au bouchon - et il le portait comme un seau ... comme s’il essuierait son nez pour toutes les personnes âgées, car il sait où se trouve le butin. Nous l’avons fait rire, alors il a commencé à jouer: piquer tout le monde avec son PDA avec une marque à la place de la cache.Bien sûr, personne ne croyait - d'où vient la morve de Cordon? Cet infa peut être ... Comme quoi, qu'est-ce qu'un butin ici ... le croiriez-vou?</fra>
@@ -1499,7 +1471,7 @@
 		<pln>A jakie słuchy chodzą, co ludzie ciekawego mówią?</pln>
 	</string>
 	<string id="stalk_bar_treasure_1_dialog_71">
-		<rus>Да много чего... Вроде есть телепорт прямо к МОНОЛИТу, правда мест называют не меньше десятка. Появилась новая разновидность монстров - электричеством бьются, вообще атас... Долговцы со свободовцами всё не поделят Зону, то и дело слышно - то эти тех завалили, то те этих, а чё делить-то? Зоны на всех хватит... Недавно поймали свободовца и вели перевоспитывать к себе с подвал - психиатры тоже мне... Так тот свободовец кинул хрень какую то в кусты, я потом слазил, нашёл ПДА его, а в нем координаты тайничка. Вот. Давай вместе посмотрим - что там? Вот здесь вроде он находится...</rus>
+		<rus>Да много чего... Вроде есть телепорт прямо к МОНОЛИТу, правда мест называют не меньше десятка. Появилась новая разновидность монстров - электричеством бьются, вообще атас... Долговцы со свободовцами всё не поделят Зону, то и дело слышно - то эти тех завалили, то те этих, а чё делить-то? Зоны на всех хватит... Недавно поймали свободовца и вели перевоспитывать к себе с подвал - психиатры тоже мне... Так тот свободовец кинул хрень какую то в кусты, я потом слазил, нашёл КПК его, а в нем координаты тайничка. Вот. Давай вместе посмотрим - что там? Вот здесь вроде он находится...</rus>
 		<eng>Many things... Like there is a teleport directly to the MONOLITH, but nobody know where is it exactly. A new variety of monsters has appeared that give an electric shock, watch out!... Duty and Freedom fighters can't share Zone, now and then they say these are taken out, then those are killed, but what do they share? Zone is enough for everyone... Recently, the Freedom soldier was caught, they decided to put him to the basement and re-educate...some psychiatrists... So that fighter threw something to bushes, then I checked and found his PDA, and there were coordinates of the stash in it. Here it is. Let's see together what's there? It seems to be here...</eng>
 		<ukr>Та багато чого... Начебто є телепорт прямо до Моноліту, правда місць називають не менше десятка. З'явився новий різновид монстрів - електрикою б'ються, взагалі атас... Долг все з волівцями не поділять Зону, увесь час чути - то ці тих завалили, то ті цих, а що ділити то? Зони на всіх вистачить... Нещодавно зловили волівця і вели перевиховувати до себе в підвал - психіатри теж мені... Так той волівець кинув хрінь якусь в кущі, я потім злазив, знайшов КПК його, а в ньому координати схованок. Ось. Давай разом подивимося - що там? Ось тут начебто він перебуває...</ukr>
 		<fra>Oui, beaucoup de choses ... Il semble qu'il y ait un téléport directement vers MONOLITH, bien qu'il y ait au moins une douzaine d'endroits. Un nouveau type de monstres est apparu - ils se battent avec l'électricité, généralement les atas ... Devoir ne partage pas la zone avec Liberté, de temps en temps, vous pouvez l'entendre - alors ceux-ci se sont remplis, puis ceux-ci, mais qu'en est-il du partage? Il y aura assez de zones pour tout le monde ... Récemment, un gars de la Liberté a été attrapé et ils étaient rééduqués du sous-sol - des psychiatres aussi pour moi ... Pour que les Liberté aient jeté de la merde dans les buissons, j'ai ensuite slazit, trouvé son PDA et les coordonnées du secret. La voici Voyons ensemble qu'est-ce qu'il y a? Ici, il semble qu'il soit...</fra>
@@ -1835,7 +1807,7 @@
 		<pln>Wiadomo, że nie Smirnoff! Co słychać w Zonie?</pln>
 	</string>
 	<string id="stalk_sim_treasure_1_dialog_71">
-		<rus>Ну, слышно кое-что... Вроде есть тайники богатые, остались от сталкеров погибших... Есть тайные схроны клановых группировок, но никто не говорил что нашёл такой... Мне совершенно случайно попался ПДА в котором отмечено место тайника, могу поделиться с тобой... Сам я наверно не дойду уже...</rus>
+		<rus>Ну, слышно кое-что... Вроде есть тайники богатые, остались от сталкеров погибших... Есть тайные схроны клановых группировок, но никто не говорил что нашёл такой... Мне совершенно случайно попался КПК в котором отмечено место тайника, могу поделиться с тобой... Сам я наверно не дойду уже...</rus>
 		<eng>Well, I heard something... It seems there are huge stashes left from the dead stalkers... There are stashes of clan groups, but nobody said that they found them... I accidentally got a PDA in which the loot place is marked, I can share with you... I guess I won't go there...</eng>
 		<ukr>Ну, чути дещо... Начебто є схованки багаті, залишилися від сталкерів загиблих... Є таємні схрони кланових угруповань, але ніхто не говорив що знайшов такий... Мені зовсім випадково попався КПК в якому зазначено місце схованки, можу поділитися з тобою... Сам я напевно не дійду вже...</ukr>
 		<fra>Eh bien, vous pouvez entendre quelque chose ... Il semble qu'il existe de riches caches, laissées par les harceleurs des victimes ... Il existe des caches secrètes de groupes de clans, mais personne n'a dit qu'il en avait trouvé ... J'ai accidentellement eu un PDA dans lequel le lieu de la cache a été marqué , Je peux partager avec vous ... Je ne vais probablement pas y arriver déjà...</fra>
@@ -2164,7 +2136,7 @@
 		<pln>Ech, wypadła, nie zauważyłem.</pln>
 	</string>
 	<string id="freedom_1_dialog_6">
-		<rus>Ты слыхал - сталкер какой-то на днях в Бар пришёл. Говорят, нычку авторитетного наёмника обчистил. Радостный был, всем рассказывал, как он подобрал ПДА этого наёмника где-то здесь, на Складах. На следующие сутки он куда-то пропал, и до сих пор его никто не видел, видать наёмники убрали. Вот так вот.</rus>
+		<rus>Ты слыхал - сталкер какой-то на днях в Бар пришёл. Говорят, нычку авторитетного наёмника обчистил. Радостный был, всем рассказывал, как он подобрал КПК этого наёмника где-то здесь, на Складах. На следующие сутки он куда-то пропал, и до сих пор его никто не видел, видать наёмники убрали. Вот так вот.</rus>
 		<eng>Did you hear that a stalker came to the Bar some time ago. They say he robbed a high-powered contractor's stash. He was happy, telling everyone how he found that guy's PDA somewhere here, around Warehouses. The next day, he disappeared, and nobody has seen him, the contractors must have mopped. This is it.</eng>
 		<ukr>Ти чув - сталкер какойто днями в Бар прийшов... Кажуть ничку авторитетного найманця обчистив. Радісний був, всім розповідав як він підібрав PDA цього найманця десь сдесь, на складах... На наступну добу він кудато пропав, і до цих пір його ніхто не бачив, видать найманці прибрали... Ось так ось</ukr>
 		<fra>Vous avez entendu - un stalker est venu au bar l’autre jour. Ils disent qu'ils ont nettoyé le pseudo d'un mercenaire de bonne réputation. Il était joyeux, il a raconté à tout le monde comment il avait récupéré le PDA de ce mercenaire quelque part dans les entrepôts. Le lendemain, il a disparu quelque part, et toujours personne ne l'a vu, les mercenaires ont été vus. C'est comme ça.</fra>

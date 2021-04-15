@@ -348,7 +348,7 @@
 		<pln>No i co to za interes?</pln>
 	</string>
 	<string id="borov_21_dialog_1">
-		<rus>Был тут у нас один уркаган, Крыса его погоняло. Как есть крыса... Лазил тут, вынюхивал, высматривал... Короче, есть у меня сведения, что он многие наши внутренние секреты себе на ПДА писал.\nКогда я хотел его взять за мягкое - он слинял... Теперь дело - найди эту крысу и забери у него ПДА. Как - это твои проблемы. Вернёшь, тогда поговорим о наградах.</rus>
+		<rus>Был тут у нас один уркаган, Крыса его погоняло. Как есть крыса... Лазил тут, вынюхивал, высматривал... Короче, есть у меня сведения, что он многие наши внутренние секреты себе на КПК писал.\nКогда я хотел его взять за мягкое - он слинял... Теперь дело - найди эту крысу и забери у него КПК. Как - это твои проблемы. Вернёшь, тогда поговорим о наградах.</rus>
 		<eng>We had a thug here who went by the name of Krysyuk. Some of us called him Rat... always sneaking around, listening, sticking his nose in things.. In short, I know for a fact he had swiped a PDA with alot of intel on our most secretive dealings.\n When I wanted to take it from him, he scurried off.. Now you're gonna do it. Find this Rat, and take the PDA from him. How you do that is your problem... Bring it back, and then we'll talk about your reward.</eng>
 		<ukr>Був тут у нас один уркаган, Щур його поганяло... Справжнісінький щур... Лазив тут, винюхував, видивлявся... Коротше, є у мене відомості, що він багато наших внутрішніх секретів собі на КПК писав...\nКоли я хотів його взяти за м'яке - він злиняв... Тепер справа - Знайди цього щура і забери у нього КПК. Як, це твої проблеми... Повернеш, тоді поговоримо про нагороди...</ukr>
 		<fra>Il y avait un urkagan ici, le Rat le pourchassait. Comment est le rat ... J'ai grimpé ici, reniflé, regardé ... En bref, j'ai des informations selon lesquelles il a écrit beaucoup de nos secrets intérieurs sur le PDA. \ NQuand je voulais le prendre ... - il s'est évanoui ... Maintenant, la chose est Trouvez ce Rat et prenez le PDA. Comment sont vos problèmes. Revenez, puis parlez des récompenses.</fra>
@@ -390,7 +390,7 @@
 		<pln>Czołem, Borow. Znalazłem Krysiuka.</pln>
 	</string>
 	<string id="borov_22_dialog_1">
-		<rus>Ну и... где ПДА?</rus>
+		<rus>Ну и... где КПК?</rus>
 		<eng>Well... where is the PDA?</eng>
 		<ukr>Ну і.. Де КПК?</ukr>
 		<fra>Eh bien ... où est le PDA?</fra>
@@ -411,7 +411,7 @@
 		<pln>Będzie dola, jeśli normalnie się zachowasz.</pln>
 	</string>
 	<string id="borov_22_dialog_4">
-		<rus>Ладно, поверю. Вот ПДА...</rus>
+		<rus>Ладно, поверю. Вот КПК...</rus>
 		<eng>Alright, I'm trusting you. Here is your PDA...</eng>
 		<ukr>Гаразд, повірю... Ось КПК...</ukr>
 		<fra>D'accord, crois. Voici le PDA...</fra>
@@ -474,7 +474,7 @@
 		<pln>Co znowu za sprawa? Nie przypominam sobie, żebym miał z tobą jakieś interesy?</pln>
 	</string>
 	<string id="krysyk_11_dialog_2">
-		<rus>Про Борова слышал? Он бочку на тебя катит, хочет что бы ты свой ПДА отдал ему...</rus>
+		<rus>Про Борова слышал? Он бочку на тебя катит, хочет что бы ты свой КПК отдал ему...</rus>
 		<eng>Ever heard of Bauson? He's looking for you. Wants his PDA back...</eng>
 		<ukr>Про Кабана чув? Він бочку на тебе котить, хоче що б ти свій КПК віддав йому...</ukr>
 		<fra>Jamais entendu parler du Ragot? Il te cherche. Veut que son PDA lui revienne...</fra>
@@ -502,7 +502,7 @@
 		<pln>Zlecenie? A na czym ono ma polegać?</pln>
 	</string>
 	<string id="krysyk_11_dialog_51">
-		<rus>Сверни, только это тебе не поможет, ПДА я в тайном месте заныкал. Так что смотри сам...</rus>
+		<rus>Сверни, только это тебе не поможет, КПК я в тайном месте заныкал. Так что смотри сам...</rus>
 		<eng>You could, but it won't help you find the PDA... I stashed it away somewhere. Your call...</eng>
 		<ukr>Зкрути, тільки це тобі не допоможе, КПК я в таємному місці заникав. Так що дивися сам...</ukr>
 		<fra>Retourne-toi, seulement ça ne t'aidera pas, j'ai caché le PDA dans un lieu secret. Alors voyez vous-même...</fra>
@@ -565,11 +565,11 @@
 		<pln>Ja sprawdzę! I odniosę Barmanowi wszystko co znajdę...</pln>
 	</string>
 	<string id="krysyk_12_dialog_3">
-		<rus>Ну ладно, записывай координаты схрона в Тёмной Долине. Там лежат три "Лунных света" и "Мамины бусы". Отнеси всё Бармену. Если я смогу дойти до Бара, то я тебе скажу, где ПДА и ещё кое-что...</rus>
-		<eng>Alright, I'll write down the coordinates of the stashes in the Dark Valley. There are three "Moonlights" and "Mama's Beads" artifacts.. Take them to the Barkeep. If I can get in with them, I'll tell you where to find Borov's PDA and something else too...</eng>
-		<ukr>Ну гаразд, записуй координати схрону в Темній долині. Там лежать три Місячних світла і Мамине намисто. Віднеси все Бармену, якщо я зможу дійти до Бара, то я тобі скажу де КПК і ще дещо...</ukr>
-		<fra>Eh bien, écrivez les coordonnées des caches de la vallée sombre. Il y a trois "Clair de lune (Moonlight)" et "Perles de Mama(Mom's Beads)". Apporte tout au Barman. Si je peux me rendre au barreau, je vous dirai où se trouve le PDA et autre chose...</fra>
-		<pln>No dobra, zapisuj koordynaty schowka w Dolinie Mroku. Tam leżą trzy "Blaski Księżyca" i "Korale Mamusi". Odnieś wszystko Barmanowi. Jeśli dam radę dojść do Baru, to ci powiem gdzie jest PDA. I jeszcze coś górką...</pln>
+		<rus>Ну ладно, запоминай. Рюкзак с артами сбросил в Тёмной Лощине, когда шёл из Долины на Кордон. Ищи на лесопилке, на самой пиле, заныкал повыше от любопытных глаз. Там лежат три "Лунных света" и "Мамины бусы", отнеси всё Бармену. Если я смогу дойти до Бара, то скажу тебе, где КПК и ещё кое-что...</rus>
+		<eng>===Alright, I'll write down the coordinates of the stashes in the Dark Valley. There are three "Moonlights" and "Mama's Beads" artifacts.. Take them to the Barkeep. If I can get in with them, I'll tell you where to find Borov's PDA and something else too...</eng>
+		<ukr>Ну гаразд, запам'ятовуй. Рюкзак з артами скинув у Темній Лощині, коли йшов з Долини на Кордон. Шукай на лісопилці, на самій пилі, заникав повище від цікавих очей. Там лежать три "Місячних світла" і "Мамині намиста", віднеси все Бармену. Якщо я зможу дійти до Бара, то скажу тобі, де КПК і ще дещо...</ukr>
+		<fra>===Eh bien, écrivez les coordonnées des caches de la vallée sombre. Il y a trois "Clair de lune (Moonlight)" et "Perles de Mama(Mom's Beads)". Apporte tout au barman. Si je peux me rendre au barreau, je vous dirai où se trouve le PDA et autre chose...</fra>
+		<pln>===No dobra, zapisuj koordynaty schowka w Dolinie Mroku. Tam leżą trzy "Blaski Księżyca" i "Korale Mamusi". Odnieś wszystko Barmanowi. Jeśli dam radę dojść do Baru, to ci powiem gdzie jest PDA. I jeszcze coś górką...</pln>
 	</string>
 	<string id="krysyk_13_dialog_0">
 		<rus>Здорово, Бармен! Есть просьба от одного бандита...</rus>
@@ -778,21 +778,21 @@
 		<pln>Docent, nie mogę kogoś znaleźć, pomóż.</pln>
 	</string>
 	<string id="bar_docent_npc_dialog_1">
-		<rus>В принципе мы отслеживаем все некодированные маячки с личных ПДА, и я мог бы вывести отметку определённого ПДА на твою карту. \nНо всякие знания в Зоне добываются с трудом, и я прошу тебя за эту услугу отблагодарить меня новой информацией. \nДовольно часто в личных ПДА имеются уникальные данные, которые для неспециалиста выглядят просто абракадаброй. \nПринеси пять любых ПДА и я отмечу местонахождение нужного человека.</rus>
+		<rus>В принципе мы отслеживаем все некодированные маячки с личных КПК, и я мог бы вывести отметку определённого КПК на твою карту. \nНо всякие знания в Зоне добываются с трудом, и я прошу тебя за эту услугу отблагодарить меня новой информацией. \nДовольно часто в личных КПК имеются уникальные данные, которые для неспециалиста выглядят просто абракадаброй. \nПринеси пять любых КПК и я отмечу местонахождение нужного человека.</rus>
 		<eng>As a matter of principle, we track all non-encrypted signals from the personal PDAs of stalkers in the Zone, so I could display the mark of a certain PDA on your map.. \nBut knowledge in the zone is never free, so I'll be asking something in return. \nMore and more, personal PDAs containing unique data have been popping up in the Zone, and to the layman the information appears to be nothing but jibberish. \nBring me any five PDAs you find out there, and I'll find the location of the person you're looking for.</eng>
 		<ukr>В принципі ми відстежуємо всі некодовані маячки з особистих КПК, і я міг би вивести позначку певного КПК на твою карту.\nАле всілякі знання в Зоні видобуваються важко і я прошу тебе за цю послугу віддячити мене новою інформацією.\nДосить часто в особистих КПК є унікальні дані, які для неспеціаліста виглядають просто абракадаброю.\nПринеси п'ять будь-яких КПК і я зазначу місцезнаходження потрібної людини.</ukr>
 		<fra>En principe, nous suivons toutes les balises non codées des PDA personnels et je pourrais afficher la marque d'un certain PDA sur votre carte. \ nMais toutes les connaissances dans la zone sont difficiles à obtenir, et je vous demande ce service pour me remercier avec de nouvelles informations. \ nTrès souvent, dans les assistants personnels personnels, il existe des données uniques qui, pour un non-spécialiste, ressemblent à du charabia. \ nAmenez cinq PDA et marquez l'emplacement de la bonne personne.</fra>
 		<pln>W zasadzie śledzimy wszystkie niekodowane znaczniki z osobistych PDA, i mógłbym wyprowadzić znacznik konkretnego PDA na twoją mapę. \nAle wszelką wiedzę w Zonie zdobywa się z trudem i chciałbym za tę usługę uzyskać od ciebie nowe informacje. \nBardzo często w osobistych PDA znajdują się unikalne dane, które dla amatora wyglądają po prostu jak abrakadabra. \nPrzynieś pięć dowolnych PDA a ja zaznaczę ci położenie potrzebnej osoby.</pln>
 	</string>
 	<string id="bar_docent_npc_dialog_2">
-		<rus>У меня есть ПДА, давай настроимся...</rus>
+		<rus>У меня есть КПК, давай настроимся...</rus>
 		<eng>I have a PDA. Let's tune in...</eng>
 		<ukr>У мене є КПК, давай налаштуємося...</ukr>
 		<fra>J'ai un PDA, accordons-nous...</fra>
 		<pln>Mam PDA, możemy się zestroić...</pln>
 	</string>
 	<string id="bar_docent_npc_dialog_3">
-		<rus>Согласен, соберу ПДА и вернусь...</rus>
+		<rus>Согласен, соберу КПК и вернусь...</rus>
 		<eng>Alright. I'll be back with the PDAs you want.</eng>
 		<ukr>Згоден, зберу КПК і повернуся...</ukr>
 		<fra>Je suis d'accord, je vais récupérer le PDA et revenir...</fra>
@@ -813,7 +813,7 @@
 		<pln>A kto konkretnie?</pln>
 	</string>
 	<string id="bar_docent_npc_dialog_8">
-		<rus>Готово! Теперь у тебя на ПДА есть на него отметка!</rus>
+		<rus>Готово! Теперь у тебя на КПК есть на него отметка!</rus>
 		<eng>Done! Now you have a mark on your map!</eng>
 		<ukr>Готово! Тепер у тебе на КПК є на нього відмітка!</ukr>
 		<fra>Fait! Vous avez maintenant une marque sur le PDA!</fra>
@@ -3985,7 +3985,7 @@
 		<pln>Borow wysłał mnie by zbadać miejsce katastrofy helikoptera, który spadł za bagnem w Dolinie Mroku. Wszystko co tam znajdę trzeba odnieść Borowowi...</pln>
 	</string>
 	<string id="tex_bandit_krisyk">
-		<rus>\nБандит по прозвищу Крыса записал много секретов на свой ПДА. Боров хочет вернуть этот ПДА. Любым способом. Отметку на карте, где скрывается Крыса, можно получить у Доцента из бара "100 рентген".</rus>
+		<rus>\nБандит по прозвищу Крыса записал много секретов на свой КПК. Боров хочет вернуть этот КПК. Любым способом. Отметку на карте, где скрывается Крыса, можно получить у Доцента из бара "100 рентген".</rus>
 		<eng>\nThe bandit Krysyuk who also goes by "Rat", has a PDA with many secrets belonging to Bauson. He wants me to find him, and acquire it by whatever means necessary. I might be able to obtain his exact location if I visit the Docent, in the back room of the "100 Rads" bar.</eng>
 		<ukr>\nБандит на прізвисько Щур записав багато секретів на свій КПК. Кабан хоче повернути цей КПК. Будь-яким способом. Позначку на карті, де ховається Щур, можна отримати у Доцента з бару "100 рентген".</ukr>
 		<fra>\nLe bandit Krysyuk (Rat)a volé le PDA du Ragot (dans lequel sont écrit de nombreux secrets). Le Ragot veut revoir ce PDA. De n'importe quelle façons. Une marque sur la carte où se cache le rat peut être obtenue auprès du Maître de conférences au Bar "100 roentgens".</fra>
@@ -4020,7 +4020,7 @@
 		<pln>Lista Pietrenko:\n\n1. Naboje 7,62x54mm - 2 paczki zwykłych lub snajperskich, lub paczkę przeciwpancernych za "Kroplę";\n2. Ładunki do granatnika podwieszonego WOG-25 - 4szt., lub 3 WOG-25P za "Kamienną Krew";\n3. Naboje 7,62x39mm mm 3 paczki zwykłych, lub 2 przeciwpancernych za "Meduzę";\n4. Specpancerz Powinności PS3-9Md za 2 "Miki", "Egzoszkielet Powinności" - za 3 "Miki" .\n\n5. Snajperski Karabin Dragunowa (SWD) za 2 "Jeżowce";\n6. Snajperski Karabin Skrócony (SWU) za 2 "Dusze".\n\n7.Wojskowe apteczki - 2szt. za "Kryształowy Kwiat".</pln>
 	</string>
 	<string id="price_scraga_text">
-		<rus>Список Скряги:\n\n1. Патроны 5,56x45мм 2 пачки простых или 1 экспансивных за "Слизь";\n2. Гранаты Ф-1 - 2шт. за "Колючку";\n3. Патроны для пулемёта ПКМ - короб за "Кристальную колючку";\n4. Патроны 5.7x28мм к FN Р90 - 2 пачки за "Грави";\n5. Бельгийский FN Р90 за "Золотую рыбку";\n6. FN F2000 - 3шт. "Душа";\n7. Аптечки - 3шт. за "Медузу";\n8. Антирады - 3шт. за "Выверт";\n9. Ремкомплекты для оружия - 3шт. за "Каменный цветок".</rus>
+		<rus>Список Скряги:\n\n1. Патроны 5,56x45мм 2 пачки простых или 1 экспансивных за "Слизь";\n2. Гранаты Ф-1 - 2шт. за "Колючку";\n3. Патроны для пулемёта ПКМ - короб за "Кристальную колючку";\n4. Патроны 5,7x28мм к FN Р90 - 2 пачки за "Грави";\n5. Бельгийский FN Р90 за "Золотую рыбку";\n6. FN F2000 - 3шт. "Душа";\n7. Аптечки - 3шт. за "Медузу";\n8. Антирады - 3шт. за "Выверт";\n9. Ремкомплекты для оружия - 3шт. за "Каменный цветок".</rus>
 		<eng>Skinflint's list:\n\n1. 5.56x45mm 2 packs of standard or 1 expansive for "Slime";\n2. Grenades F-1 - 2pcs. for "Thorn";\n3. 7.62x54mm  - 1 box for "Crystal Thorn";\n4. 5.7x28mm - 2 packs for "Gravi";\n5. FN P90 for the "Goldfish";\n6. FN F2000 - 3 pcs. "Soul";\n7. First-aid kit - 3pcs. for the "Jellyfish";\n8. Antirads - 3pcs. for "Wrenched";\n9. Repair kits for weapons - 3 pcs. for "Stone Flower".</eng>
 		<ukr>Список Скнари:\n\n1. Патрони 5,56x45мм 2 пачки простих або 1 експансивних за "Слиз";\n2. Гранати Ф-1 - 2шт. за "Колючку";\n3. Патрони для кулемета ПКМ - короб за "Кришталеву колючку";\n4. Патрони 5.7x28мм до FN Р90 - 2 пачки за "Граві";\n5. Бельгійський FN Р90 за "Золоту рибку";\n6. FN F2000 - 3шт. "Душа";\n7. Аптечки - 3шт. за "Медузу";\n8. Антирад - 3шт. за "Виверт";\n9. Ремкомплекти для зброї - 3шт. за "Кам'яну квітку".</ukr>
 		<fra>Liste de Skinflint: \n\n1. 5.56x45mm 2 packs de standard ou 1 expansif pour "Slime";\n2. Grenades F-1 - 2pièces pour "Thorn";\n3. 7.62x54mm - 1 boîte pour "Crystal Thorn";\n4. 5.7x28mm - 2 packs pour "Gravi";\n5. FN P90 pour le "Goldfish";\n6. FN F2000 - 3 pièces "Âme";\n7. Trousse de secours - 3pièces. pour les "méduses";\n8. Antirads - 3pièces. pour "Wrenched";\n9. Kits de réparation pour armes - 3 pièces. pour "Stone Flower".</fra>
@@ -4055,7 +4055,7 @@
 		<pln>Lista Kuźniecowa:\n\n1. Naboje 5,45x39mm do AK-74 - 3 flaszki za 5 zwykłych lub 3 przeciwpancernych paczek;\n2. Granaty RGD - 2 szt za flaszkę;\n3. Naboje 9x18 PBM - 2 butelki za 5 paczek przeciwpancernych;\n4. Naboje snajperskie - 3 butelki za paczkę.\n\n5. "Abakan" za 10 butelek;\n6. AK-74M za 8 butelek.\n\n7. Wojskowa apteczka za butelkę.</pln>
 	</string>
 	<string id="price_sherstuk_text">
-		<rus>Список Шерстюка:\n\n1. Патроны 5,45х39мм к АК-74 - 3 пузыря за 5 простых или 3 бронебойных пачки;\n2. Граната Ф-1 за бутылку водки;\n3. К пулемёту ПКМ патроны 7.62 - коробка за 7 бутылок;\n4. Броник - СКАТ-9М за 15 бутылок;\n5. «Абакан» «Снайперский» - 15 бутылок;\n6. Пулемёт ПКМ за ящик;\n7. АКМ за 10 бутылок;\n8. Армейская аптечка за бутылку.</rus>
+		<rus>Список Шерстюка:\n\n1. Патроны 5,45х39мм к АК-74 - 3 пузыря за 5 простых или 3 бронебойных пачки;\n2. Граната Ф-1 за бутылку водки;\n3. К пулемёту ПКМ патроны 7,62 - коробка за 7 бутылок;\n4. Броник - СКАТ-9М за 15 бутылок;\n5. «Абакан» «Снайперский» - 15 бутылок;\n6. Пулемёт ПКМ за ящик;\n7. АКМ за 10 бутылок;\n8. Армейская аптечка за бутылку.</rus>
 		<eng>Sherstyuk's list:\n\n1. Cartridges 5.45x39mm - 3 bottles for 5 standard or 3 armor-piercing packs;\n2. F-1 Grenade for a bottle of vodka;\n3. 7.62x54mm - box for 7 bottles;\n4. Armor - SCAT-9M for 15 bottles;\n5. "Abakan Sniper" - 15 bottles;\n6. PKM for 20 bottles;\n7. AKM for 10 bottles;\n8. Army first-aid kit for a bottle.</eng>
 		<ukr>Список Шерстюка:\n\n1. Патрони 5,45x39мм до АК-74 - 3 пляшки за 5 простих або 3 бронебійних пачки;\n2. Граната Ф-1 за пляшку горілки;\n3. До кулемета ПКМ патрони 7.62 - коробка за 7 пляшок;\n4. Броник - СКАТ-9М за 15 пляшок;\n5. «Абакан» «Снайперський» - 15 пляшок;\n6. Кулемет ПКМ за ящик;\n7. АКМ за 10 пляшок;\n8. Армійська аптечка за пляшку.</ukr>
 		<fra>Liste Sherstyuk:\n\n1. Cartouches 5,45x39 mm pour AK-74 - 3 bouteilles pour 5 packs simples ou 3 packs anti-blindage;\n2. Grenade F-1 pour une bouteille de vodka;\n3. Pour les cartouches de mitrailleuses PKM 7.62 - boîte pour 7 bouteilles;\n4. Bronik - SCAT-9M pour 15 bouteilles;\n5. "Abakan" "Sniper" - 15 bouteilles;\n6. Mitrailleuse PKM par boîte;\n7. AKM pour 10 bouteilles;\n8. Kit de l'armée pour une bouteille.</fra>
@@ -4069,14 +4069,14 @@
 		<pln>Lista Sacharowa:\n\n1. Ładunki 9mm M72-M "Gauss" - 10 ładunków za "Gwiazdę Wieczorną";\n2. Ładunki 9mm M72-M "Super-Gauss" - 3 ładunki za "Sprężynę";\n3. Kombinezon SSP-99M "Wega" za 2 "Kryształy";\n4. Ładunki 12x70 mm: "Śrut" - 5 paczek, lub "Strzałka" - 3 paczki, lub "Czekan" - 2 paczki za "Świecidełko".\n\n5. Gładkolufowa strzelba SPAS 12 za "Śluzowiec";\n6. M72-M "Karabin Gaussa" za 3 "Korale Mamusi".\n\n7. Apteczki naukowe - 2szt. za "Kolczatkę";\n8. Antyrady - 3szt. za "Śluz".\n\n9. Zestawy naprawcze dla pancerzy - 3szt. za "Grawi".\n\n Oferta bonusowa \n Za 10 artefaktów "Dusza" - 4 paczki nabojów 12.7x108mm albo 4 paczki snajperskich 12.7x55mm albo przeciwpancernych 12.7x55mm</pln>
 	</string>
 	<string id="price_dimak_text">
-		<rus>Список Димака:\n1. Патроны 23х76 «Шрапнель 25» - пачка за 10 рюкзаков;\n2. Патроны 12.7x55мм СЦ-130 ПТ - пачка за 5 рюкзаков;\n3. Баллон с огнесмесью - баллон за 12 рюкзаков;\n4. БС 12.7х108мм - пачка за 6 рюкзаков;\n5. Патроны к штуцеру .700 Nitro Express - пачка за 10 рюкзаков.</rus>
+		<rus>Список Димака:\n1. Патроны 23х76 «Шрапнель 25» - пачка за 10 рюкзаков;\n2. Патроны 12,7x55мм СЦ-130 ПТ - пачка за 5 рюкзаков;\n3. Баллон с огнесмесью - баллон за 12 рюкзаков;\n4. БС 12,7х108мм - пачка за 6 рюкзаков;\n5. Патроны к штуцеру .700 Nitro Express - пачка за 10 рюкзаков.</rus>
 		<eng>Dimak's list:\n1. 23x76 "Shrapnel 25" - 1 pack for 10 backpacks;\n2.12.7x55mm STs-130 PT - 1 pack for 5 backpacks;\n3. Cylinder for flamethrower - 1 cylinder for 12 backpacks;\n4. BS 12.7x108mm - 1 pack for 6 backpacks;\n5.  .700 Nitro Express - 1 pack for 10 backpacks.</eng>
 		<ukr>Список Дімака:\n1. Патрони 23х76 «Шрапнель 25» - пачка за 10 рюкзаків;\n2. Патрони 12.7x55мм СЦ-130 ПТ - пачка за 5 рюкзаків;\n3. Балон з вогнесумішшю - балон за 12 рюкзаків;\n4. БС 12.7х108мм - пачка за 6 рюкзаків;\n5. Патрони до штуцера .700 Nitro Express - пачка за 10 рюкзаків.</ukr>
 		<fra>La liste de Dimak:\n1. Cartouches 23x76 "Shrapnel 25" - un pack pour 10 sacs à dos;\n2. Munitions 12.7x55mm SC-130 PT - sac à dos pour 5 sacs à dos;\n3. Le réservoir d’incendie est un sac à dos de 12;\n4. BS 12.7?108mm - pack pour 6 sacs à dos;\n5. Cartouches de montage pour .700 Nitro Express - pack de 10 sacs à dos.</fra>
 		<pln>Lista Dimaka:\n1. Naboje 23x76 "Szrapnel 25" - paczka za 10 plecaków;\n2. Naboje 12,7x55mm SC-130 PT - paczka za 5 plecaków;\n3. Butla z mieszanką paliwową - butla za 12 plecaków;\n4. BS 12.7x108mm - paczka za 6 plecaków;\n5. Naboje do sztucera .700 Nitro Express - paczka za 10 plecaków.</pln>
 	</string>
 	<string id="price_grib_marsh_xolod_text">
-		<rus>Список Холода:\n\n1. За 3 мухомора:\n - четыре пачки патронов 7,62x25мм ПС для ППШ-41;\n - один короб 7.62x51мм для MG-42;\n - две армейские аптечки;\n - три антирада;\n - две пачки патронов 5,45x39мм;\n - две пачки патронов 5.56х45мм SS109;\n - две пачки патронов 9х39мм ПАБ-9.\n2. Три гранаты Ф-1 за "Грави" или за "Ломоть мяса" или за два "Выверта".\n3. Четыре аптечки за "Слизняк" или за два "Бенгальских огня" или за две "Крови камня".</rus>
+		<rus>Список Холода:\n\n1. За 3 мухомора:\n - четыре пачки патронов 7,62x25мм ПС для ППШ-41;\n - один короб 7,62x51мм для MG-42;\n - две армейские аптечки;\n - три антирада;\n - две пачки патронов 5,45x39мм;\n - две пачки патронов 5,56х45мм SS109;\n - две пачки патронов 9х39мм ПАБ-9.\n2. Три гранаты Ф-1 за "Грави" или за "Ломоть мяса" или за два "Выверта".\n3. Четыре аптечки за "Слизняк" или за два "Бенгальских огня" или за две "Крови камня".</rus>
 		<eng>Cold's List:\n\n1. For 3 mushrooms:\n - four packs of 7.62x25mm PS;\n - one box 7.62x51mm;\n - two military first-aid kits;\n - three anti-rads;\n - two packs of 5.45x39mm;\n - two packs of 5.56x45mm SS109;\n - two packs of 9x39mm PUB-9.\n2. Three F-1 grenades for "Gravi" or for "Meat Chunk" or for two "Wrenched."\n3. Four first-aid kits for "Slug" or for two "Sparkler" or for two "Stone Blood".</eng>
 		<ukr>Список Холода:\n\n1 За 3 мухомора:\n - чотири пачки патронів 7,62x25мм ПС для ППШ-41;\n - один короб 7.62x51мм для MG-42;\n - дві армійські аптечки;\n - три антирада;\n - дві пачки патронів 5,45x39мм;\n - дві пачки патронів 5.56х45мм SS109;\n - дві пачки патронів 9х39мм ПАБ-9.\n2. Три гранати Ф-1 за "Граві" або за "Шмат м'яса" або за два "Виверта".\n3. Чотири аптечки за "Слимака" або за два "Бенгальських вогня" або за дві "Крові каменя".</ukr>
 		<fra>Liste de Cold:\n\n1. Pour 3 agarics volants: \n - quatre paquets de cartouches de 7,62 x 25 mm de diamètre pour PPSh-41; \n - un boîtier de 7,62 x 51 mm pour MG-42; \n - deux kits de premiers secours de l'armée; \n - trois antirads; \n - deux paquets de cartouches 5.45x39mm; \n - deux paquets de cartouches de 5,56x45mm SS109; \ n - deux paquets de cartouches PUB-9 de 9x39mm. \n2. Trois grenades F-1 pour "Gravi" ou pour "Morceau de viande" ou pour deux "Twisted". \n3. Quatre trousses de premiers soins pour "Slug" ou pour deux "Flammes du Bengale" ou pour deux "Sang de pierre".</fra>
@@ -4090,7 +4090,7 @@
 		<pln>Lista Sepatora:\n\n Za 3 ogony pseudopsa:\n - dwie paczki śrutu kaliber 12;\n - dwie paczki strzałek;\n - dwie paczki śrutu kaliber .410;\n - dwie paczki kuli kaliber .410.</pln>
 	</string>
 	<string id="price_alexandrych_text">
-		<rus>Список Александрыча:\n\n За 10 лягушачьих лапок:\n - три пачки бронебойных 5,45x39мм или бронебойных 5.56х45мм.</rus>
+		<rus>Список Александрыча:\n\n За 10 лягушачьих лапок:\n - три пачки бронебойных 5,45x39мм или бронебойных 5,56х45мм.</rus>
 		<eng>===Alexandrych's List:\n\n For 5 zombie hands:\n - three packs of armor-piercing 5.45x39mm or armor-piercing 5.56x45mm.</eng>
 		<ukr>Список Александрича:\n\n За 10 жаб'ячих лапок:\n - три пачки бронебійних 5,45x39мм або бронебійних 5.56х45мм.</ukr>
 		<fra>===Liste d'Alexandrytch:\n\n Pour 5 mains zombies: \n - trois packs de blindage anti-blindage de 5,45x39 mm ou de 5,56x45 mm.</fra>

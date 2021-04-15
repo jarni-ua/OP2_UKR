@@ -980,13 +980,6 @@
 		<fra>Emplacement approximatif du sniper de "Monolithe"</fra>
 		<pln>===Lokalizacja snajpera Monolitu</pln>
 	</string>
-	<string id="spot_textolite_box">
-		<rus>Радиодетали?</rus>
-		<eng>Radio components?</eng>
-		<ukr>Радіодеталі?</ukr>
-		<fra>Composants de radio?</fra>
-		<pln>Komponenty radiowe?</pln>
-	</string>
 	<string id="spot_ohota_kogot">
 		<rus>Невидимый коготь смерти</rus>
 		<eng>Invisible deathclaw</eng>
@@ -1295,12 +1288,12 @@
 		<fra>Lieu de rencontre avec les mercenaires</fra>
 		<pln>Miejsce spotkania z najemnikami</pln>
 	</string>
-	<string id="moving_detector_sr1_0">
-		<rus>Место установки детектора движения</rus>
-		<eng>Installation location of the motion detector</eng>
-		<ukr>Місце установки детектора руху</ukr>
-		<fra>Lieu d'installation du détecteur de mouvement</fra>
-		<pln>Miejsce ustawienia detektora ruchu</pln>
+	<string id="moving_detector_use">
+		<rus>Установить детектор движения</rus>
+		<eng>===Installation location of the motion detector</eng>
+		<ukr>Встановити детектор руху</ukr>
+		<fra>===Lieu d'installation du détecteur de mouvement</fra>
+		<pln>===Miejsce ustawienia detektora ruchu</pln>
 	</string>
 	<string id="dimak_toolkit_sr1_0">
 		<rus>Отыскать Грешника на КПП</rus>
@@ -1413,41 +1406,6 @@
 		<ukr>Прибути вночі на кладовище техніки</ukr>
 		<fra>Arriver la nuit au cimetière de véhicules</fra>
 		<pln>Przyjśc w nocy na Cmentarzysko Pojazdów</pln>
-	</string>
-	<string id="kalinin_box1_sr1_0">
-		<rus>Ящик с патронами №1</rus>
-		<eng>Box with ammunition No1</eng>
-		<ukr>Ящик з патронами №1</ukr>
-		<fra>Caisse de munitions No1</fra>
-		<pln>Skrzynia z amunicją nr1</pln>
-	</string>
-	<string id="kalinin_box2_sr1_0">
-		<rus>Ящик с патронами №2</rus>
-		<eng>Box with ammunition No2</eng>
-		<ukr>Ящик з патронами №2</ukr>
-		<fra>Caisse de munitions No2</fra>
-		<pln>Skrzynia z amunicją nr2</pln>
-	</string>
-	<string id="kalinin_box3_sr1_0">
-		<rus>Ящик с патронами №3</rus>
-		<eng>Box with ammunition No3</eng>
-		<ukr>Ящик з патронами №3</ukr>
-		<fra>Caisse de munitions No3</fra>
-		<pln>Skrzynia z amunicją nr3</pln>
-	</string>
-	<string id="kalinin_box4_sr1_0">
-		<rus>Ящик с патронами №4</rus>
-		<eng>Box with ammunition No4</eng>
-		<ukr>Ящик з патронами №4</ukr>
-		<fra>Caisse de munitions No4</fra>
-		<pln>Skrzynia z amunicją nr4</pln>
-	</string>
-	<string id="kalinin_box5_sr1_0">
-		<rus>Ящик с патронами №5</rus>
-		<eng>Box with ammunition No5</eng>
-		<ukr>Ящик з патронами №5</ukr>
-		<fra>Caisse de munitions No5</fra>
-		<pln>Skrzynia z amunicją nr5</pln>
 	</string>
 	<string id="trofim_joke_sr1_0">
 		<rus>Разыскать бандита</rus>

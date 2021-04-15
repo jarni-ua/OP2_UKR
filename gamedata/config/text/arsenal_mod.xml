@@ -1599,7 +1599,7 @@
 	</string>
 	<string id="ars-hk417_gl">
 		<rus>HK 417 «Штурмовой»</rus>
-		<eng>HK 417 «Штурмовой»</eng>
+		<eng>HK 417 «Assault»</eng>
 		<ukr>HK 417 «Штурмовий»</ukr>
 		<pln>HK 417 "Szturmowy"</pln>
 	</string>
@@ -3553,10 +3553,10 @@
 		<pln>Granat z napalmem.\n Napalm uzyskuje się poprzez dodanie do paliwa płynnego (benzyna, nafta i innych produktów naftowych) specjalnych środków zagęszczających, składających się z mieszaniny soli glinu kwasów organicznych - naftenowego, palmitynowego itp. Ilość zagęszczacza w stosunku do ilości paliwa stanowi dla benzyny (gazolina) 4-11 %. Konsystencja powstałego napalmu zmienia się z lepkiego płynu do prawie gęstej galarety.\n Promień rażenia granatu to około 15-20 metrów.</pln>
 	</string>
 	<string id="ammo-vog-25sn">
-		<rus>Подствольная граната «Снежинка»</rus>
-		<eng>Underbarrel "Snowflake" grenade</eng>
-		<ukr>Підствольна граната «Сніжинка»</ukr>
-		<pln>Ładunek "Śnieżynka"</pln>
+		<rus>Заряд ВОГ-25 «Снежинка»</rus>
+		<eng>VOG-25 charge "Snowflake"</eng>
+		<ukr>Заряд ВОГ-25 «Сніжинка»</ukr>
+		<pln>Ładunek WOG-25 "Śnieżynka"</pln>
 	</string>
 	<string id="ammo-vog-25sn_s">
 		<rus>«Снежинка»</rus>
@@ -3571,10 +3571,10 @@
 		<pln>Ładunek WOG-25 "Śnieżynka" do granatnika podlufowego. Przy eksplozji tworzy anomalię "Śnieżna". Ładunek posiada podwójne działanie - w epicentrum eksplozji (koło 15-20 metrów) momentalnie zamarza wszystko co żywe, bo temperatura raptownie spada do -236 °C (porównywalna z temperaturą na powierzchni planety Neptun), ponadto korpus granatu jest wypełniony drobnymi szrapnelami, które przy detonacji rozlatują się w promieniu 50 metrów, raniąc wszelkie istoty żywe, które znalazły się w polu rażenia.\n Ci, którzy znajdą się w promieniu 50 metrów od epicentrum - będą mieli pecha...\n Używać z ostrożnością, bo można razić także przyjaciół.</pln>
 	</string>
 	<string id="ammo-vog-25fb">
-		<rus>Подствольная граната «Электричка»</rus>
-		<eng>Underbarrel "Elektrica" grenade</eng>
-		<ukr>Підствольна граната «Електричка»</ukr>
-		<pln>Ładunek "Impuls"</pln>
+		<rus>Заряд ВОГ-25 «Электричка»</rus>
+		<eng>VOG-25 charge "Elektrica"</eng>
+		<ukr>Заряд ВОГ-25 «Електричка»</ukr>
+		<pln>Ładunek WOG-25 "Impuls"</pln>
 	</string>
 	<string id="ammo-vog-25fb_s">
 		<rus>«Электричка»</rus>
@@ -3589,10 +3589,10 @@
 		<pln>Ładunek WOG-25 "Impuls" do granatnika podlufowego. Przy eksplozji tworzy anomalię "Elektra". Ładunek posiada podwójne działanie - w epicentrum eksplozji ginie wszystko co żywe od bardzo potężnego wyładowania elektrycznego, ponadto korpus granatu jest wypełniony drobnymi szrapnelami, które przy detonacji rozlatują się w promieniu 45-50 metrów, raniąc wszelkie istoty żywe, które znalazły się w polu rażenia.\n Używać z ostrożnością, bo można razić także przyjaciół.</pln>
 	</string>
 	<string id="ammo-vog-25he">
-		<rus>Подствольная граната «Зажигалка»</rus>
-		<eng>Underbarrel "Lighter" grenade</eng>
-		<ukr>Підствольна граната «Запальничка»</ukr>
-		<pln>Ładunek "Zapalniczka"</pln>
+		<rus>Заряд ВОГ-25 «Зажигалка»</rus>
+		<eng>VOG-25 charge "Lighter"</eng>
+		<ukr>Заряд ВОГ-25 «Запальничка»</ukr>
+		<pln>Ładunek WOG-25 "Zapalniczka"</pln>
 	</string>
 	<string id="ammo-vog-25he_s">
 		<rus>«Зажигалка»</rus>
@@ -3607,10 +3607,10 @@
 		<pln>Ładunek WOG-25 "Zapalniczka" do granatnika podlufowego. Przy eksplozji tworzy anomalię "Spalacz". Ładunek posiada podwójne działanie - w epicentrum eksplozji ginie wszystko co żywe od bardzo potężnego płomienia, którego temperatura osiąga 10 000 °C, ponadto korpus granatu jest wypełniony drobnymi szrapnelami, które przy detonacji rozlatują się w promieniu 50 metrów, raniąc wszelkie istoty żywe, które znalazły się w polu rażenia.\n Używać z ostrożnością, bo można razić także przyjaciół.</pln>
 	</string>
 	<string id="ammo-vog-25sg">
-		<rus>Подствольная граната «Воронёнок»</rus>
-		<eng>Underbarrel grenade launcher round "Vortex"</eng>
-		<ukr>Підствольна граната «Вороненя»</ukr>
-		<pln>Ładunek "Wsysacz"</pln>
+		<rus>Заряд ВОГ-25 «Воронёнок»</rus>
+		<eng>VOG-25 charge "Vortex"</eng>
+		<ukr>Заряд ВОГ-25 «Вороненя»</ukr>
+		<pln>Ładunek WOG-25 "Wsysacz"</pln>
 	</string>
 	<string id="ammo-vog-25sg_s">
 		<rus>«Воронёнок»</rus>
