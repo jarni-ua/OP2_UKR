@@ -143,9 +143,9 @@
 	</string>
 	<string id="sms_modders_21">
 		<rus>%c[sender]Потап\n%c[default]Всем! На Дикой с бандюка снял КПК Гриши Лысого, забит не отправленными SOSами, в связи с перегрузкой сети. Жаль парня. Народ, не забивайте эфир мутью, можете оказаться на его месте. Особо непонятливым заблокирую КПК. Сидор, Бармен и Очкарик также в курсе - не помогут.</rus>
-		<eng>%c[sender]Potap\n%c[default]Attention everyone! About Dikaya, he took a PDA from Grisha Lysy off a bandit, filled with unsent SOS messages, due to network overload. I feel bad for the guy. People, do not clog the network with messages, or you may end up in his place. Particularly dull block PDA. Sidorovich, The Barkeep and Four-Eyes are aware of this, and cannot help.</eng>
+		<eng>%c[sender]Potap\n%c[default]Attention everyone! On the Wild Territory I've taken a PDA from Grisha the Baldy off a bandit, filled with SOS messages, unsent due to network overload. I feel bad for the guy. People, do not clog the network with messages, or you may end up in his place. Particularly dull block PDA. Sidorovich, Barkeep and Four-Eyes are aware of this, and cannot help.</eng>
 		<ukr>%c[sender]Потап\n%c[default]Всім! На Дикій з бандюка зняв КПК Гриші Лисого, забитий не відправленими SOSами, у зв'язку з перевантаженням мережі. Шкода хлопця. Народ, не забивайте ефір муттю, можете опинитися на його місці. Особливо нетямущим заблокую КПК. Сидор, Бармен і Очкарик також у курсі - не допоможуть.</ukr>
-		<fra>%c[sender]Potap\n%c[default]Tout le monde Sur Dikaya, il a pris un PDA de Grisha Lysy sur un Bandit, bouché avec non envoyé par SOS, en raison de la surcharge du réseau. Désolé pour le gars. Les gens, ne pas obstruer l'air avec de la boue, vous pourriez être à sa place. Bloc PDA particulièrement émoussé. Sydor, le Barman et le Binoclard savent aussi que cela ne va pas aider.</fra>
+		<fra>%c[sender]Potap\n%c[default]Tout le monde! Sur Dikaya, il a pris un PDA de Gricha le Chauve d'un bandit, bouché avec non envoyé par SOS, en raison de la surcharge du réseau. Désolé pour le gars. Les gens, ne pas obstruer l'air avec de la boue, vous pourriez être à sa place. Bloc PDA particulièrement émoussé. Sydor, le Barman et le Binoclard savent aussi que cela ne va pas aider.</fra>
 		<pln>%c[sender]Potap\n%c[default]Do wszystkich! Na Dziczy znaleźliśmy PDA Griszy Łysego, zapełnione niewysłanymi SOSami, w związku z przeładowaniem sieci. Żal chłopaka. Ludzie, nie blokujcie eteru gównem, możecie znaleźć się na jego miejscu. Najbardziej nierozgarniętym zablokuję PDA. Sidor, Barman i Okularnik wiedzą w czym rzecz - nie pomogą.</pln>
 	</string>
 	<string id="sms_modders_22">
@@ -157,7 +157,7 @@
 	</string>
 	<string id="sms_modders_23">
 		<rus>%c[sender]Лысый\n%c[default]В Тёмной Долине опять бандиты объявились. Нехорошо. Будем искоренять.</rus>
-		<eng>%c[sender]Bald\n%c[default]In the Dark Valley again, the bandits turned up. Not good. We will eradicate them.</eng>
+		<eng>%c[sender]Baldy\n%c[default]In the Dark Valley again, the bandits turned up. Not good. We will eradicate them.</eng>
 		<ukr>%c[sender]Лисий\n%c[default]У Темній Долині знову бандити з'явилися. Недобре. Будемо викорінювати.</ukr>
 		<fra>%c[sender]Chauve\n%c[default]De nouveau dans la Vallée sombre, les bandits sont arrivés. Pas bon ...Nous allons éradiquer.</fra>
 		<pln>%c[sender]Łysy\n%c[default]W Dolinie Mroku znowu pojawili się bandyci. Niedobrze. Będziemy wykorzeniać.</pln>
@@ -166,14 +166,14 @@
 		<rus>%c[sender]Крот\n%c[default]Набираю людей для вылазки в катакомбы.</rus>
 		<eng>%c[sender]Mole\n%c[default]I'm recruiting people for a raid on the catacombs.</eng>
 		<ukr>%c[sender]Кріт\n%c[default]Набираю людей для вилазки в катакомби.</ukr>
-		<fra>%c[sender]La taupe\n%c[default]Je recrute des gens pour des attaques dans les catacombes.</fra>
+		<fra>%c[sender]Taupe\n%c[default]Je recrute des gens pour des attaques dans les catacombes.</fra>
 		<pln>%c[sender]Kret\n%c[default]Zbieram ludzi do zejścia w katakumby.</pln>
 	</string>
 	<string id="sms_modders_25">
 		<rus>%c[sender]Крот\n%c[default]Нужны двое сталкеров для вылазки в катакомбы.</rus>
 		<eng>%c[sender]Mole\n%c[default]We need two stalkers for raids in the catacombs.</eng>
 		<ukr>%c[sender]Кріт\n%c[default]Потрібні двоє сталкерів для вилазки в катакомби.</ukr>
-		<fra>%c[sender]La Taupe\n%c[default]Nous avons besoin de deux Stalkers pour les attaques dans les catacombes.</fra>
+		<fra>%c[sender]Taupe\n%c[default]Nous avons besoin de deux Stalkers pour les attaques dans les catacombes.</fra>
 		<pln>%c[sender]Kret\n%c[default]Potrzebnych dwóch stalkerów do zejścia w katakumby.</pln>
 	</string>
 	<string id="sms_modders_26">
@@ -271,7 +271,7 @@
 		<rus>%c[sender]Реклама\n%c[default]Всегда самая свежая снаряга, стволы и маслины! Прямая поставка со склада Долга. Без посредников. Тёмная Долина, спросить Жилу. Гы-ы.</rus>
 		<eng>%c[sender]Advertising\n%c[default]Always the freshest equipment, guns, and food! Direct delivery from the stock of Duty. Without intermediaries. Dark Valley, ask for Skimpy. Tee-hee.</eng>
 		<ukr>%c[sender]Реклама\n%c[default]Завжди найсвіжіша снаряга, стволи і маслини! Пряме постачання зі складу Долгу. Без посередників. Темна Долина, запитати Жилу. Гы-ы.</ukr>
-		<fra>%c[sender]La publicité\n%c[default]Toujours l'équipement le plus frais, les malles et les olives! Livraison directe à partir du stock du Devoir. Sans intermédiaires. Vallée sombre, demandez le Grigou. Ha-ha.</fra>
+		<fra>%c[sender]La publicité\n%c[default]Toujours l'équipement le plus frais, les malles et les olives! Livraison directe à partir du stock du Devoir. Sans intermédiaires. Vallée sombre, demandez Grigou. Ha-ha.</fra>
 		<pln>%c[sender]Reklama\n%c[default]Zawsze najświeższe wyposażenie, broń i prowiant! Prosto z magazynu Powinności. Bez pośredników. Dolina Mroku, pytać o Żyłę. Hyy.</pln>
 	</string>
 	<string id="sms_modders_40">
@@ -514,9 +514,9 @@
 	</string>
 	<string id="sms_modders_74">
 		<rus>%c[sender]Крысюк\n%c[default]Когда смотришь на Меченого с ножом, говорить как-то сложно. Такое ощущение, что он может не дослушать до конца.</rus>
-		<eng>%c[sender] Krysyuk\n%c[default]When you look at Marked One with a knife, it’s somehow difficult to talk. It seems that he can't listen to the end.</eng>
+		<eng>%c[sender]Krysyuk\n%c[default]When you look at Marked One with a knife, it’s somehow difficult to talk. It seems that he can't listen to the end.</eng>
 		<ukr>%c[sender]Щуряк\n%c[default]Коли дивишся на Міченого з ножем, говорити якось складно. Таке відчуття, що він може не дослухати до кінця.</ukr>
-		<fra>%c[sender]Krysyuk\n%c[default]Lorsque vous regardez Strelok avec un couteau, il est difficile de parler. Il semble qu'il ne peut pas écouter la fin.</fra>
+		<fra>%c[sender]Kryssiouk\n%c[default]Lorsque vous regardez Strelok avec un couteau, il est difficile de parler. Il semble qu'il ne peut pas écouter la fin.</fra>
 		<pln>%c[sender]Krysiuk\n%c[default]Kiedy patrzysz na Naznaczonego z nożem, mówić jest jakoś trudno. Takie jest odczucie, że on może nie doczekać do końca.</pln>
 	</string>
 	<string id="sms_modders_75">
@@ -738,7 +738,7 @@
 	</string>
 	<string id="sms_modders_106">
 		<rus>%c[sender]Кузнецов\n%c[default]Шерстюк, отзовись. Доктор просил передать - тебе 5 лет осталось максимум. Он сказал, ты поймёшь.</rus>
-		<eng>%c[sender]Kuznetsov\n%c[default]Sherstyuk, please respond. The doctor asked me to tell you that you have 5 years left. He said you will understand.</eng>
+		<eng>%c[sender]Kuznetsov\n%c[default]Sherstyuk, please respond. Doctor asked me to tell you that you have 5 years left. He said you will understand.</eng>
 		<ukr>%c[sender]Кузнєцов\n%c[default]Шерстюк, відгукнися. Доктор просив передати - тобі 5 років залишилося максимум. Він сказав, ти зрозумієш.</ukr>
 		<fra>%c[sender]Kuznetsov\n%c[default]Sherstyuk, réponds. Le médecin m'a demandé de vous dire - vous avez un maximum de 5 ans. Il a dit que vous allez comprendre.</fra>
 		<pln>%c[sender]Kuźniecow\n%c[default]Szerstiuk, posłuchaj. Doktor prosił ci przekazać - zostało ci pięć lat maksimum. On powiedział, że zrozumiesz.</pln>
@@ -803,14 +803,14 @@
 		<rus>%c[sender]Костя\n%c[default]Эх, юмориста бы в Зону хорошего. Анекдотов бы новых понарассказывал... А то все одно и то же, ничего нового.</rus>
 		<eng>%c[sender]Kostya\n%c[default]Oh, comedian would be in the zone of good. Anecdotes would ponarasskazyval new... And then all the same, nothing new.</eng>
 		<ukr>%c[sender]Костя\n%c[default]Ех, гумориста би в Зону хорошого. Анекдотів би нових понарозповідав... А то все одне і те ж, нічого нового.</ukr>
-		<fra>%c[sender]Kostya\n%c[default]Oh, le comédien serait dans la zone du bien. Les anecdotes seraient ponarasskazyval nouvelles... Et puis tout de même, rien de nouveau.</fra>
+		<fra>%c[sender]Kostia\n%c[default]Oh, le comédien serait dans la zone du bien. Les anecdotes seraient ponarasskazyval nouvelles... Et puis tout de même, rien de nouveau.</fra>
 		<pln>%c[sender]Kostia\n%c[default]Ech, przydał by się w Zonie dobry kabareciarz. Opowiedział by trochę nowych kawałów... Bo tu wszystko jedno i to samo, nic nowego.</pln>
 	</string>
 	<string id="sms_modders_116">
 		<rus>%c[sender]Костя\n%c[default]Только что видел, как один мужик понёс мешок плана на базу Свободы. Думаю, дня на три группировка будет выведена из строя.</rus>
 		<eng>%c[sender]Kostya\n%c[default]Just saw one man carry a plan bag to the base of Freedon. I think the day for three group will be disabled.</eng>
 		<ukr>%c[sender]Костя\n%c[default]Тільки що бачив, як один мужик поніс мішок плану на базу Волі. Думаю, дня на три угруповання буде виведене з ладу.</ukr>
-		<fra>%c[sender]Kostya\n%c[default]Je viens de voir un homme porter un sac à la base de Liberty. Je pense que la journée pour trois groupes sera désactivée.</fra>
+		<fra>%c[sender]Kostia\n%c[default]Je viens de voir un homme porter un sac à la base de Liberty. Je pense que la journée pour trois groupes sera désactivée.</fra>
 		<pln>%c[sender]Kostia\n%c[default]Dopiero co widziałem, jak jeden gość przyniósł worek zioła na bazę Wolności. Myślę, że na jakieś trzy dni Wolność zawiesi swoją działalność.</pln>
 	</string>
 	<string id="sms_modders_117">
@@ -859,7 +859,7 @@
 		<rus>%c[sender]Костя\n%c[default]Боров, ты чего творишь? Твои уроды Дикого тормознули на Свалке, а он от меня шёл, по делу! Короче - плеер верни!</rus>
 		<eng>%c[sender]Kostya\n%c[default]Bauson, what are you doing? Your freak Wild braked on the dump, and he walked away from me, in the case! In short, bring the MP3 player back to me!</eng>
 		<ukr>%c[sender]Костя\n%c[default]Кабан, ти що твориш? Твої виродки Дикого тормознули на Звалищі, а він від мене йшов, по справі! Коротше - плеєр поверни!</ukr>
-		<fra>%c[sender]Kostya\n%c[default]Ragot, que fais-tu? Vos freaks Wild ont freiné sur la Décharge, et il s'est éloigné de moi, dans le cas! En bref, ramenez-moi le lecteur MP3!</fra>
+		<fra>%c[sender]Kostia\n%c[default]Ragot, que fais-tu? Vos freaks Wild ont freiné sur la Décharge, et il s'est éloigné de moi, dans le cas! En bref, ramenez-moi le lecteur MP3!</fra>
 		<pln>%c[sender]Kostia\n%c[default]Borow, co ty tworzysz? Twoje łajzy Wieprza obrobili na Wysypisku, a on ode mnie szedł, z zadaniem! Krótko - oddaj player!</pln>
 	</string>
 	<string id="sms_modders_124">
@@ -899,7 +899,7 @@
 	</string>
 	<string id="sms_modders_129">
 		<rus>%c[sender]Юрий Семецкий\n%c[default]Во блин, напоролся на какого-то хвостато-рогато-чешуйчато-когтистого монстрика! 15 грен с подствола, а ему хоть бы хны!\n%c[sender]Сообщение сети\n%c[default]Погиб сталкер: Юрий Семецкий, Юпитер, коготь смерти.</rus>
-		<eng>%c[sender]Yuri Semetsky\n%c[default]In the shit, ran into some kind of tailed-horny-scaly-clawed monsters! 15 shots with a pistol, and he kept coming!\n%c[sender]Network message\n%c[default]Stalker was killed: Yuri Semetsky, Jupiter, the claw of death.</eng>
+		<eng>%c[sender]Yuri Semetsky\n%c[default]In the shit, ran into some kind of tailed-horny-scaly-clawed monsters! 15 shots with a pistol, and he kept coming!\n%c[sender]Network message\n%c[default]Stalker was killed: Yuri Semetsky, Jupiter, deathclaw.</eng>
 		<ukr>%c[sender]Юрій Семецький\n%c[default]От блін, напоровся на якогось хвостато-рогато-лускато-пазуристого монстрика! 15 грін з підствола, а йому хоч би хни!\n%c[sender]Повідомлення мережі\n%c[default]Загинув сталкер: Юрій Семецький, Юпітер, кіготь смерті.</ukr>
 		<fra>%c[sender]Yury Semetsky\n%c[default]Dans le pancake, a rencontré une sorte de monstres à la queue-cornes et aux griffes squameuses! 15 gren avec podstvola, et même au henné!\n%c[sender]Message réseau\n%c[default]Stalker a été tué: Yuri Semetsky, Jupiter, Griffe de la mort.</fra>
 		<pln>%c[sender]Jurij Siemiecki\n%c[default]Cholera, nadziałem się na jakiegoś ogoniastego-rogatego-łuskowego-zębatego potworka! 15 granatów, a on nawet nie jęknął!\n%c[sender]Wiadomość sieciowa\n%c[default]Zginął stalker: Jurij Siemiecki, Jupiter, szpon śmierci.</pln>
@@ -922,21 +922,21 @@
 		<rus>%c[sender]Лукаш\n%c[default]Зубр, ты куда груз скинул? У тебя мозги есть вообще? Вот теперь сам топай туда и забирай, я не собираюсь ребят на убой посылать!</rus>
 		<eng>%c[sender]Lukash\n%c[default]Bison, where did you drop the load? Do you have brains at all? Now move yourself there and take it, I'm not going to send the guys to be slaughtered!</eng>
 		<ukr>%c[sender]Лукаш\n%c[default]Зубр, ти куди вантаж скинув? У тебе мізки є взагалі? Ось тепер сам топай туди і забирай, я не збираюся хлопців на забій посилати!</ukr>
-		<fra>%c[sender]Lukas\n%c[default]Bison, où as-tu laissé tomber la charge? Avez-vous des cerveaux? Maintenant, vous vous piétinez et vous le prenez, je ne vais pas envoyer les gars au massacre!</fra>
+		<fra>%c[sender]Loukache\n%c[default]Bison, où as-tu laissé tomber la charge? Avez-vous des cerveaux? Maintenant, vous vous piétinez et vous le prenez, je ne vais pas envoyer les gars au massacre!</fra>
 		<pln>%c[sender]Łukasz\n%c[default]Żubr, gdzie ty towar zrzuciłeś? Masz ty w ogóle mózg? To teraz sam tam idź i i to zbieraj, ja nie zamierzam chłopaków na śmierć posyłać!</pln>
 	</string>
 	<string id="sms_modders_133">
 		<rus>%c[sender]Лукаш\n%c[default]Везде обман! Купил у вояк мешок травы, написано: "Сто грамм бесплатно". Открываю - а там только трава!</rus>
 		<eng>%c[sender]Lukash\n%c[default]Everywhere there is a scam! I bought a bag of grass from the Warriors, they said: "One hundred grams for free." I open it...and there is only grass!</eng>
 		<ukr>%c[sender]Лукаш\n%c[default]Скрізь обман! Купив у вояк мішок трави, написано: "Сто грам безкоштовно". Відкриваю - а там тільки трава!</ukr>
-		<fra>%c[sender]Lukas\n%c[default]Partout est un canular! J'ai acheté un sac d'herbe aux guerriers, il est écrit: "Cent grammes gratuitement." Ouvrez - et il n'y a que de l'herbe!</fra>
+		<fra>%c[sender]Loukache\n%c[default]Partout est un canular! J'ai acheté un sac d'herbe aux guerriers, il est écrit: "Cent grammes gratuitement." Ouvrez - et il n'y a que de l'herbe!</fra>
 		<pln>%c[sender]Łukasz\n%c[default]Wszędzie oszustwo! Kupiłem od wojskowych woreczek trawki, napisane: "Sto gram gratis". Otwieram - a tam tylko trawka!</pln>
 	</string>
 	<string id="sms_modders_134">
 		<rus>%c[sender]Лукаш\n%c[default]Повар, когда обед будет? Небось, опять набухался с кем-нибудь и дрыхнешь, скотина! Быстро взял ноги в руки, скипидарчику на попу и на кухню! Если через 5 минут обеда не будет - скажу знакомому контролёру, чтоб закодировал тебя, недоумок!</rus>
 		<eng>%c[sender]Lukash\n%c[default]Cook, when will lunch be?  I bet you're drunk again and sleeping with someone, you bastard! Quickly, take the legs in hand, turpentine on the ass and drag him to the kitchen! If after 5 minutes there is still no dinner - I will tell a familiar controller to come after you, imbecile!</eng>
 		<ukr>%c[sender]Лукаш\n%c[default]Кухар, коли обід буде? Мабуть, знову набухався з ким-небудь і дрихнеш, скотина! Швидко взяв ноги в руки і на рокетджампі на кухню! Якщо через 5 хвилин обіду не буде - скажу знайомому контролеру, щоб закодував тебе, недоумок!</ukr>
-		<fra>%c[sender]Lukas\n%c[default]Cuisinier, quand sera le déjeuner? Je suppose, encore une fois gonfler avec quelqu'un et dormir, le bétail! Prends vite les jambes en main, la térébenthine sur le cul et la cuisine! Si après 5 minutes il n'y aura pas de dîner - je dirai à un contrôleur familier de vous coder, imbécile!</fra>
+		<fra>%c[sender]Loukache\n%c[default]Cuisinier, quand sera le déjeuner? Je suppose, encore une fois gonfler avec quelqu'un et dormir, le bétail! Prends vite les jambes en main, la térébenthine sur le cul et la cuisine! Si après 5 minutes il n'y aura pas de dîner - je dirai à un contrôleur familier de vous coder, imbécile!</fra>
 		<pln>%c[sender]Łukasz\n%c[default]Kucharz, kiedy będzie obiad? Pewnie, znowu się z kimś schlałeś i śpisz, bydlaku! Biegiem na kuchnię! Jeżeli za 5 minut obiadu nie będzie - powiem znajomemu kontrolerowi, żeby cię zakodował, tłumoku!</pln>
 	</string>
 	<string id="sms_modders_135">
@@ -969,16 +969,16 @@
 	</string>
 	<string id="sms_modders_139">
 		<rus>%c[sender]Котобегемот\n%c[default]Чтобы нож не ржавел - его нужно хранить в большом куске сала.</rus>
-		<eng>%c[sender]Kotogegemot\n%c[default]So that the knife does not rust it must be stored in a large piece of bacon.</eng>
+		<eng>%c[sender]Catbehemoth\n%c[default]So that the knife does not rust it must be stored in a large piece of bacon.</eng>
 		<ukr>%c[sender]Котобегемот\n%c[default]Щоб ніж не іржавів - його потрібно зберігати у великому шматку сала.</ukr>
-		<fra>%c[sender]Kotogegemot\n%c[default]Pour que le couteau ne rouille pas, vous devez le conserver dans un gros morceau de bacon.</fra>
+		<fra>%c[sender]Chatbéhémoth\n%c[default]Pour que le couteau ne rouille pas, vous devez le conserver dans un gros morceau de bacon.</fra>
 		<pln>%c[sender]Kotobehemot\n%c[default]By nóż nie zardzewiał - trzeba go przechowywać w dużym kawałku sadła.</pln>
 	</string>
 	<string id="sms_modders_140">
 		<rus>%c[sender]Котобегемот\n%c[default]Меняю ковёр 2х3 на такой же кусок сала. Нахожусь в Баре.</rus>
-		<eng>%c[sender]Kotogegemot\n%c[default]I change the carpet 2x3 on the same piece of bacon. I am in Bar.</eng>
+		<eng>%c[sender]Catbehemoth\n%c[default]I change the carpet 2x3 on the same piece of bacon. I am in Bar.</eng>
 		<ukr>%c[sender]Котобегемот\n%c[default]Міняю килим 2х3 на такий же шматок сала. Знаходжусь у Барі.</ukr>
-		<fra>%c[sender]Kotogegemot\n%c[default]Je remplace un tapis 2x3 par le même morceau de bacon. Je suis au bar</fra>
+		<fra>%c[sender]Chatbéhémoth\n%c[default]Je remplace un tapis 2x3 par le même morceau de bacon. Je suis au bar</fra>
 		<pln>%c[sender]Kotobehemot\n%c[default]Zamienię dywan 2x3 na taki sam kawał słoniny. Przebywam w Barze.</pln>
 	</string>
 	<string id="sms_modders_141">
@@ -1265,7 +1265,7 @@
 		<rus>%c[sender]Вескер\n%c[default]Сяк, ты когда мне "Золотую рыбку" отдашь? Обещал ещё неделю назад.\n%c[sender]Сяк\n%c[default]Не время сейчас о рыбе думать. О душе подумай. У Кости вроде есть, поспрашивай.</rus>
 		<eng>%c[sender]Wesker\n%c[default]Syak, when will you give me the Goldfish? You promised you'd give it to me a week ago.\n%c[sender]Syak\n%c[default]This is not the time to think about fish. Think about the soul. Kostya seems to have one, ask around.</eng>
 		<ukr>%c[sender]Вескер\n%c[default]Сяк, ти коли мені "Золоту рибку" віддаси? Обіцяв ще тиждень тому.\n%c[sender]Сяк\n%c[default]Не час зараз про рибу думати. Про душу подумай. У Кості начебто є, розпитай.</ukr>
-		<fra>%c[sender]Wesker\n%c[default]Syak, quand allez-vous me donner le poisson d'or? Il a promis il y a une semaine.\n%c[sender]Syak\n%c[default]Ce n'est pas le moment de penser au poisson. Pensez à l'âme. Kostya semble avoir, demandez autour de vous.</fra>
+		<fra>%c[sender]Wesker\n%c[default]Syak, quand allez-vous me donner le poisson d'or? Il a promis il y a une semaine.\n%c[sender]Syak\n%c[default]Ce n'est pas le moment de penser au poisson. Pensez à l'âme. Kostia semble avoir, demandez autour de vous.</fra>
 		<pln>%c[sender]Wesker\n%c[default]Siak, kiedy ty mi "Złotą Rybkę" oddasz? Obiecałeś jeszcze tydzień temu.\n%c[sender]Siak\n%c[default]Nie czas teraz o rybkach myśleć. O duszy pomyśl. Kostia pewnie ma, spytaj.</pln>
 	</string>
 	<string id="sms_modders_182">
@@ -1389,9 +1389,9 @@
 	</string>
 	<string id="sms_modders_199">
 		<rus>%c[sender]Витязь\n%c[default]Коршун, я Витязь. Как слышишь? Приём.\n%c[sender]Коршун\n%c[default]Витязь, я Коршун. Стоим у объекта. Какие-то странные помехи. Вся аппаратура кроме рации полностью вышла из строя. Полчаса назад отбили нападение монстров. Совсем неизвестных монстров и... остальное потом. Есть потери. Запрашиваю срочную эвакуацию. Приём... Сообщение прервано.</rus>
-		<eng>%c[sender]Витязь\n%c[default]Коршун, я Витязь. Как слышишь? Приём.\n%c[sender]Коршун\n%c[default]Витязь, я Коршун. Стоим у объекта. Какие-то странные помехи. Вся аппаратура кроме рации полностью вышла из строя. Полчаса назад отбили нападение монстров. Совсем неизвестных монстров и... остальное потом. Есть потери. Запрашиваю срочную эвакуацию. Приём... Сообщение прервано.</eng>
+		<eng>%c[sender]Vityaz\n%c[default]Milvus, я Vityaz. Как слышишь? Приём.\n%c[sender]Milvus\n%c[default]Vityaz, я Milvus. Стоим у объекта. Какие-то странные помехи. Вся аппаратура кроме рации полностью вышла из строя. Полчаса назад отбили нападение монстров. Совсем неизвестных монстров и... остальное потом. Есть потери. Запрашиваю срочную эвакуацию. Приём... Сообщение прервано.</eng>
 		<ukr>%c[sender]Витязь\n%c[default]Шуліка, я Витязь. Як чуєш? Прийом.\n%c[sender]Шуліка\n%c[default]Витязь, я Шуліка. Стоїмо біля об'єкта. Якісь дивні перешкоди. Вся апаратура крім рації повністю вийшла з ладу. Півгодини тому відбили напад монстрів. Зовсім невідомих монстрів і... інше потім. Є втрати. Запитую термінову евакуацію. Прийом... [Повідомлення перервано].</ukr>
-		<fra>%c[sender]Vityaz\n%c[default]Cerf-volant, je Vityaz. Comment entendez-vous? La réception\n%c[sender]Cerf-volant\n%c[default]Vityaz, je suis un cerf-volant. Nous sommes à la facilité. Un bruit étrange. Tous les équipements sauf la radio sont complètement hors d'usage. Il y a une demi-heure, repoussé l'attaque de monstres. Monstres totalement inconnus et... le reste plus tard. Il y a des pertes. Je demande une évacuation urgente. Réception... Message annulé.</fra>
+		<fra>%c[sender]Vitiaz\n%c[default]Milan, je suis Vitiaz. Comment entendez-vous? La réception\n%c[sender]Milan\n%c[default]Vitiaz, je suis un Milan. Nous sommes à la facilité. Un bruit étrange. Tous les équipements sauf la radio sont complètement hors d'usage. Il y a une demi-heure, repoussé l'attaque de monstres. Monstres totalement inconnus et... le reste plus tard. Il y a des pertes. Je demande une évacuation urgente. Réception... Message annulé.</fra>
 		<pln>%c[sender]Witeź\n%c[default]Kania, tu Witeź. Jak mnie słyszysz? Odbiór.\n%c[sender]Kania\n%c[default]Witeź, tu Kania. Stoimy przy obiekcie. Jakieś dziwne zakłócenia. Cała aparatura oprócz radiostacji przestała działać. Pół godziny temu odparliśmy atak mutantów. Zupełnie nieznanych mutantów i... reszta potem. Są straty. Zarządzam szybką ewakuację. Odbiór... Wiadomość przerwana.</pln>
 	</string>
 	<string id="sms_modders_200">
@@ -1515,9 +1515,9 @@
 	</string>
 	<string id="sms_modders_217">
 		<rus>%c[sender]Сидорович\n%c[default]Тут ко мне один учёный из-за Периметра припёрся. Говорит, из секретного института. Правда, у его института такое смешное название: НИИ ЧАВО. Что за хрень? Подстава?\n%c[sender]Воронин\n%c[default]По любому подстава. Это из Стругацких. "Институт Чародейства и Волшебства". Какое на хрен в Зоне волшебство?\n%c[sender]Лукаш\n%c[default]Темень ты, генерал. Это НИИ Чернобыльского Аномального Военного Оборудования. Был такой до первой катастрофы. Страшно засекреченный. И вроде как где-то под землёй до сих пор существует. То ли Х-6, то ли Х-4...</rus>
-		<eng>%c[sender]Сидорович\n%c[default]Тут ко мне один учёный из-за Периметра припёрся. Говорит, из секретного института. Правда, у его института такое смешное название: НИИ ЧАВО. Что за хрень? Подстава?\n%c[sender]Voronin\n%c[default]По любому подстава. Это из Стругацких. "Институт Чародейства и Волшебства". Какое на хрен в Зоне волшебство?\n%c[sender]Лукаш\n%c[default]Темень ты, генерал. Это НИИ Чернобыльского Аномального Военного Оборудования. Был такой до первой катастрофы. Страшно засекреченный. И вроде как где-то под землёй до сих пор существует. То ли Х-6, то ли Х-4...</eng>
+		<eng>%c[sender]Сидорович\n%c[default]Тут ко мне один учёный из-за Периметра припёрся. Говорит, из секретного института. Правда, у его института такое смешное название: НИИ ЧАВО. Что за хрень? Подстава?\n%c[sender]Voronin\n%c[default]По любому подстава. Это из Стругацких. "Институт Чародейства и Волшебства". Какое на хрен в Зоне волшебство?\n%c[sender]Loukache\n%c[default]Темень ты, генерал. Это НИИ Чернобыльского Аномального Военного Оборудования. Был такой до первой катастрофы. Страшно засекреченный. И вроде как где-то под землёй до сих пор существует. То ли Х-6, то ли Х-4...</eng>
 		<ukr>%c[sender]Сидорович\n%c[default]Тут до мене один вчений з-за Периметра приперся. Каже, з секретного інституту. Правда, у його інституту така смішна назва: НДІ ЧАЧА. Що за хрінь? Підстава?\n%c[sender]Воронін\n%c[default]По любому підстава. Це зі Стругацьких. "Інститут Чародійства і Чаклунства". Яке нахрін у Зоні чаклунство?\n%c[sender]Лукаш\n%c[default]Темрява ти, генерал. Це НДІ Чорнобильських Аномальних Чистильних Агрегатів. Був такий до першої катастрофи. Страшно засекречений. І ніби як десь під землею досі існує. Чи то Х-6, чи то Х-4...</ukr>
-		<fra>%c[sender]Sidorovich\n%c[default]Voici pour moi un scientifique du Périmètre épinglé. Il dit d'une institution secrète. Certes, son institut a un nom tellement amusant: NII FAQ. Qu'est-ce que c'est que ça? Substitut?\n%c[sender]Voronine\n%c[default]Pour toute installation. Ceci est du Strugatsky. "Institut de sorcellerie et de magie". Qu'est-ce que la magie est dans la zone?\n%c[sender]Lukas\n%c[default]Les ténèbres vous, général. Il s'agit d'un institut de recherche sur l'équipement militaire anormal de Chernobyl. Il y en avait un avant le premier désastre. Effrayant classé. Et il semble que quelque part sous terre existe toujours. Que ce soit X-6 ou X-4...</fra>
+		<fra>%c[sender]Sidorovich\n%c[default]Voici pour moi un scientifique du Périmètre épinglé. Il dit d'une institution secrète. Certes, son institut a un nom tellement amusant: NII FAQ. Qu'est-ce que c'est que ça? Substitut?\n%c[sender]Voronine\n%c[default]Pour toute installation. Ceci est du Strugatsky. "Institut de sorcellerie et de magie". Qu'est-ce que la magie est dans la zone?\n%c[sender]Loukache\n%c[default]Les ténèbres vous, général. Il s'agit d'un institut de recherche sur l'équipement militaire anormal de Chernobyl. Il y en avait un avant le premier désastre. Effrayant classé. Et il semble que quelque part sous terre existe toujours. Que ce soit X-6 ou X-4...</fra>
 		<pln>%c[sender]Sidorowicz\n%c[default]Tu do mnie jeden naukowiec zza Perymetru przyszedł. Mówi, że z tajnego instytutu. Po prawdzie, ten jego instytut ma  taką dziwną nazwę: Instytut Badawczy CzAMa. Co to za gówno? Szpieg?\n%c[sender]Woronin\n%c[default]Pewnie szpieg. To ze Strugackich. "Instytut Badania Czarów i Magii". Jakie do cholery w Zonie czary?\n%c[sender]Łukasz\n%c[default]Dureń jesteś, generale. To Instytut Badawczy Czarnobylskich Anomalnych Materiałów. Był taki przed pierwszą katastrofą. Strasznie utajniony. I podobno gdzieś pod ziemią istnieje do tej pory. X-6, a może X-4...</pln>
 	</string>
 	<string id="sms_modders_218">
@@ -1816,9 +1816,9 @@
 	</string>
 	<string id="sms_modders_260">
 		<rus>%c[sender]Лукаш\n%c[default]Повар, Что сегодня жрать будем?\n%c[sender]Повар\n%c[default]Ничего.\n%c[sender]Лукаш\n%c[default]Вчера тоже было ничего!\n%c[sender]Повар\n%c[default]Приготовил на два дня.</rus>
-		<eng>%c[sender]Лукаш\n%c[default]Повар, Что сегодня жрать будем?\n%c[sender]Повар\n%c[default]Ничего.\n%c[sender]Лукаш\n%c[default]Вчера тоже было ничего!\n%c[sender]Повар\n%c[default]Приготовил на два дня.</eng>
+		<eng>%c[sender]Lukash\n%c[default]Повар, Что сегодня жрать будем?\n%c[sender]Повар\n%c[default]Ничего.\n%c[sender]Lukash\n%c[default]Вчера тоже было ничего!\n%c[sender]Повар\n%c[default]Приготовил на два дня.</eng>
 		<ukr>%c[sender]Лукаш\n%c[default]Повар, що сьогодні жерти будемо?\n%c[sender]Повар\n%c[default]Нічого.\n%c[sender]Лукаш\n%c[default]Вчора теж було нічого!\n%c[sender]Повар\n%c[default]Приготував на два дні.</ukr>
-		<fra>%c[sender]Lukas\n%c[default]Cook, Que mangerons-nous aujourd'hui?\n%c[sender]Faire cuire\n%c[default]Rien\n%c[sender]Lukas\n%c[default]Hier non plus n'était rien!\n%c[sender]Faire cuire\n%c[default]Cuit pendant deux jours.</fra>
+		<fra>%c[sender]Loukache\n%c[default]Cook, Que mangerons-nous aujourd'hui?\n%c[sender]Faire cuire\n%c[default]Rien\n%c[sender]Loukache\n%c[default]Hier non plus n'était rien!\n%c[sender]Faire cuire\n%c[default]Cuit pendant deux jours.</fra>
 		<pln>%c[sender]Łukasz\n%c[default]Kucharz, co dzisiaj będziemy jeść?\n%c[sender]Kucharz\n%c[default]Nic.\n%c[sender]Łukasz\n%c[default]Wczoraj też było nic!\n%c[sender]Kucharz\n%c[default]Przygotowałem na dwa dni.</pln>
 	</string>
 	<string id="sms_modders_261">
@@ -1837,9 +1837,9 @@
 	</string>
 	<string id="sms_modders_263">
 		<rus>%c[sender]Коллекционер\n%c[default]Всем, кто меня слышит... я стар и умираю... времени мало... две вертушки... я их сбил... но... всё пошло не так... я последний... это были... испытания прототипа... очень мощного... огнемёт... всего три экземпляра... один у меня в руках... кто успеет... подберите... а заодно... письмо моим родным... в кармане... это... просьба... я... на Радаре... кажется... вот... и все...</rus>
-		<eng>%c[sender]Коллекционер\n%c[default]Всем, кто меня слышит... я стар и умираю... времени мало... две вертушки... я их сбил... но... всё пошло не так... я последний... это были... испытания прототипа... очень мощного... огнемёт... всего три экземпляра... один у меня в руках... кто успеет... подберите... а заодно... письмо моим родным... в кармане... это... просьба... я... на Радаре... кажется... вот... и все...</eng>
+		<eng>%c[sender]Collector\n%c[default]Всем, кто меня слышит... я стар и умираю... времени мало... две вертушки... я их сбил... но... всё пошло не так... я последний... это были... испытания прототипа... очень мощного... огнемёт... всего три экземпляра... один у меня в руках... кто успеет... подберите... а заодно... письмо моим родным... в кармане... это... просьба... я... на Радаре... кажется... вот... и все...</eng>
 		<ukr>%c[sender]Колекціонер\n%c[default]Всім, хто мене чує... я старий і помираю... часу мало... дві вертушки... я їх збив... але... все пішло не так... я останній... це були... випробування прототипу... дуже потужного... вогнемета... всього три екземпляри... один у мене в руках... хто встигне... підберіть... а заодно... лист моїм рідним... у кишені... це... прохання... я... на Радарі... здається... ось... і все...</ukr>
-		<fra>%c[sender]Collecteur\n%c[default]Quiconque m'entend… je suis vieux et mourant… le temps presse… deux platines… je les ai assommées… mais… tout s'est mal passé… j'étais le dernier… c'était. .. tests du prototype... très puissant... lance-flammes... seulement trois exemplaires... un dans mes mains... qui aura le temps... ramasser... et en même temps... une lettre à ma famille... dans votre poche... cette... demande... je... sur Radar... il semble... ici... et c'est tout...</fra>
+		<fra>%c[sender]Collectionneur\n%c[default]Quiconque m'entend… je suis vieux et mourant… le temps presse… deux platines… je les ai assommées… mais… tout s'est mal passé… j'étais le dernier… c'était. .. tests du prototype... très puissant... lance-flammes... seulement trois exemplaires... un dans mes mains... qui aura le temps... ramasser... et en même temps... une lettre à ma famille... dans votre poche... cette... demande... je... sur Radar... il semble... ici... et c'est tout...</fra>
 		<pln>%c[sender]Kolekcjoner\n%c[default]Do wszystkich, którzy mnie słyszą... jestem stary i umieram... czasu mało... dwa helikoptery... strąciłem je... ale... wszystko poszło nie tak... ja ostatni... to były... próby prototypu... bardzo potężnego... miotacza ognia... tylko trzy egzemplarze... jeden w moich rękach... kto zdąży... zabierzcie... a przy okazji... list moim krewnym... w kieszeni... to... prośba... ja... na Radarze... chyba... no... i wszystko...</pln>
 	</string>
 	<string id="sms_modders_264">
@@ -1872,16 +1872,16 @@
 	</string>
 	<string id="sms_modders_268">
 		<rus>%c[sender]Источник неизвестен\n%c[default]Группировка Калинина на АТП существует. Личного состава 7 человек. Вооружение: СВД, «Винторезы», РПГ. Для её уничтожения бронетехнику использовать считаю нецелесообразным: местность ровная - сожгут ещё на подходе. Предлагаю внедрить в эту группировку для уничтожения изнутри двух наших агентов под видом сталкеров-одиночек: лейтенанта Мих...</rus>
-		<eng>%c[sender]Источник неизвестен\n%c[default]Группировка Калинина на АТП существует. Личного состава 7 человек. Вооружение: СВД, «Винторезы», РПГ. Для её уничтожения бронетехнику использовать считаю нецелесообразным: местность ровная - сожгут ещё на подходе. Предлагаю внедрить в эту группировку для уничтожения изнутри двух наших агентов под видом сталкеров-одиночек: лейтенанта Мих...</eng>
+		<eng>%c[sender]Источник неизвестен\n%c[default]Группировка Kalinin на АТП существует. Личного состава 7 человек. Вооружение: СВД, «Винторезы», РПГ. Для её уничтожения бронетехнику использовать считаю нецелесообразным: местность ровная - сожгут ещё на подходе. Предлагаю внедрить в эту группировку для уничтожения изнутри двух наших агентов под видом сталкеров-одиночек: лейтенанта Мих...</eng>
 		<ukr>%c[sender]Джерело невідоме\n%c[default]Угруповання Калиніна на АТП існує. Особового складу 7 осіб. Озброєння: СВД, «Гвинторізи», РПГ. Для його знищення бронетехніку використовувати вважаю недоцільним: місцевість рівна - спалять ще на підході. Пропоную впровадити в це угрупування, для знищення зсередини, двох наших агентів під виглядом сталкерів-одинаків: лейтенанта Мих...</ukr>
-		<fra>%c[sender]Source inconnue\n%c[default]Le regroupement de Kalinin sur l'ATP existe. Personnel 7 personnes. Armement: SVD, “Vintorezy”, RPG. Pour le détruire, j'estime qu'il est inapproprié d'utiliser des véhicules blindés: le terrain est plat - ils vont les brûler en cours de route. Je propose d'introduire dans ce groupe la destruction de l'intérieur de nos deux agents sous le couvert d'un seul Stalker: le lieutenant Mih...</fra>
+		<fra>%c[sender]Source inconnue\n%c[default]Le regroupement de Kalinine sur l'ATP existe. Personnel 7 personnes. Armement: SVD, “Vintorezy”, RPG. Pour le détruire, j'estime qu'il est inapproprié d'utiliser des véhicules blindés: le terrain est plat - ils vont les brûler en cours de route. Je propose d'introduire dans ce groupe la destruction de l'intérieur de nos deux agents sous le couvert d'un seul Stalker: le lieutenant Mih...</fra>
 		<pln>%c[sender]Nieznany użytkownik\n%c[default]Ugrupowanie Kalinina na ATP ma się dobrze.  Skład osobowy 7 ludzi. Uzbrojenie: SWD, "Wintorezy", RPG. Wykorzystanie wozów bojowych dla jego zniszczenia uważam za niecelowe: okolica jest równa - spalą jeszcze na podejściu. Proponuję wprowadzić w to ugrupowanie dla zniszczenia od wewnątrz dwóch naszych agentów pod przykrywką stalkerów-samotników: porucznika Mich...</pln>
 	</string>
 	<string id="sms_modders_269">
 		<rus>%c[sender]Источник неизвестен\n%c[default]Лукаш, скоро наш отряд будет штурмовать вашу базу на Армейских Складах. Старший у нас полковник Черепанов, командир разведки. Базироваться будем предположительно возле хутора. Где конкретно - пока не знаю. Надеюсь, с оплатой не обидишь.</rus>
-		<eng>%c[sender]Источник неизвестен\n%c[default]Лукаш, скоро наш отряд будет штурмовать вашу базу на Армейских Складах. Старший у нас полковник Черепанов, командир разведки. Базироваться будем предположительно возле хутора. Где конкретно - пока не знаю. Надеюсь, с оплатой не обидишь.</eng>
+		<eng>%c[sender]Источник неизвестен\n%c[default]Lukash, скоро наш отряд будет штурмовать вашу базу на Армейских Складах. Старший у нас полковник Черепанов, командир разведки. Базироваться будем предположительно возле хутора. Где конкретно - пока не знаю. Надеюсь, с оплатой не обидишь.</eng>
 		<ukr>%c[sender]Джерело невідоме\n%c[default]Лукаш, скоро наш загін буде штурмувати вашу базу на армійських складах. Старший у нас полковник Черепанов, командир розвідки. Базуватися будемо ймовірно біля хутора. Де конкретно - поки не знаю. Сподіваюся, з оплатою не образиш.</ukr>
-		<fra>===%c[sender]Source inconnue\n%c[default]Lukash, notre équipe prendra bientôt d'assaut votre base à Army Depot. Notre lieutenant colonel Cherepanov, le commandant des services de renseignement. Nous serons probablement basés près de la ferme. Je ne sais pas où exactement. J'espère que vous n'offusquerez pas du paiement.</fra>
+		<fra>===%c[sender]Source inconnue\n%c[default]Loukache, notre équipe prendra bientôt d'assaut votre base à Army Depot. Notre lieutenant colonel Cherepanov, le commandant des services de renseignement. Nous serons probablement basés près de la ferme. Je ne sais pas où exactement. J'espère que vous n'offusquerez pas du paiement.</fra>
 		<pln>===%c[sender]Nieznany użytkownik\n%c[default]Łukasz, niedługo nasz oddział będzie szturmować waszą bazę na Magazynach Wojskowych. Nasz starszy - podpułkownik Czerepanow, dowódca zwiadu. Obozować będziemy niewątpliwie przy chutorze. Gdzie konkretnie - jeszcze nie wiem. Mam nadzieję, odwdzięczysz się godziwie.</pln>
 	</string>
 	<string id="sms_modders_270">
@@ -1900,9 +1900,9 @@
 	</string>
 	<string id="sms_modders_272">
 		<rus>%c[sender]Котобегемот\n%c[default]Эх, сейчас бы сала домашнего! С картошечкой жареной...</rus>
-		<eng>%c[sender]Котобегемот\n%c[default]Эх, сейчас бы сала домашнего! С картошечкой жареной...</eng>
+		<eng>%c[sender]Catbehemoth\n%c[default]Эх, сейчас бы сала домашнего! С картошечкой жареной...</eng>
 		<ukr>%c[sender]Котобегемот\n%c[default]Ех, зараз би сала домашнього! Та з картопелькою смаженою...</ukr>
-		<fra>%c[sender]Kotogegemot\n%c[default]Eh, maintenant ce serait du bacon fait maison! Avec des pommes de terre frites...</fra>
+		<fra>%c[sender]Chatbéhémoth\n%c[default]Eh, maintenant ce serait du bacon fait maison! Avec des pommes de terre frites...</fra>
 		<pln>%c[sender]Kotobehemot\n%c[default]Ech, teraz by domowej słoninki! Z kartofelkami smażonej...</pln>
 	</string>
 	<string id="sms_modders_273">
@@ -1914,9 +1914,9 @@
 	</string>
 	<string id="sms_modders_274">
 		<rus>%c[sender]Котобегемот\n%c[default]Эхх, блин, вчера появилось у меня желание выдать в эфир хорошую новость, да подумал - завтра выдам. А сегодня уже не помню, что вчера хотел. Мда, склероз начинается.\nСпиртное вчера не употреблял.</rus>
-		<eng>%c[sender]Котобегемот\n%c[default]Эхх, блин, вчера появилось у меня желание выдать в эфир хорошую новость, да подумал - завтра выдам. А сегодня уже не помню, что вчера хотел. Мда, склероз начинается.\nСпиртное вчера не употреблял.</eng>
+		<eng>%c[sender]Catbehemoth\n%c[default]Эхх, блин, вчера появилось у меня желание выдать в эфир хорошую новость, да подумал - завтра выдам. А сегодня уже не помню, что вчера хотел. Мда, склероз начинается.\nСпиртное вчера не употреблял.</eng>
 		<ukr>%c[sender]Котобегемот\n%c[default]Ехх, блін, вчора з'явилося у мене бажання видати в ефір гарну новину, та подумав - завтра видам. А сьогодні вже не пам'ятаю, що вчора хотів. Мда, склероз починається.\nСпиртне вчора не вживав.</ukr>
-		<fra>%c[sender]Kotogegemot\n%c[default]Euh, bon sang, hier j'avais envie de diffuser de bonnes nouvelles, mais j'ai pensé - je les donnerai demain. Et aujourd'hui, je ne me souviens plus de ce que je voulais hier. Hmm, la sclérose commence.\nL'alcool hier n'a pas utilisé.</fra>
+		<fra>%c[sender]Chatbéhémoth\n%c[default]Euh, bon sang, hier j'avais envie de diffuser de bonnes nouvelles, mais j'ai pensé - je les donnerai demain. Et aujourd'hui, je ne me souviens plus de ce que je voulais hier. Hmm, la sclérose commence.\nL'alcool hier n'a pas utilisé.</fra>
 		<pln>%c[sender]Kotobehemot\n%c[default]Ech, cholera, wczoraj miałem zamiar wysłać w eter dobrą nowinę, tak sobie pomyślałem - jutro wyślę. A dzisiaj już nie pamiętam, co wczoraj chciałem. Mdaa, tak zaczyna się skleroza.\nSpirytusu wczoraj nie piłem.</pln>
 	</string>
 	<string id="sms_modders_275">
@@ -1984,9 +1984,9 @@
 	</string>
 	<string id="sms_modders_284">
 		<rus>%c[sender]Лукаш\n%c[default]Прапор, ты когда очередные кабаньи бега устраивать будешь?\n%c[sender]Прапор\n%c[default]Скоро. Как только Меченый уйдёт подальше в рейд, так и устрою. А то опять всех кабанов на старте постреляет. Совсем он шуток не понимает.</rus>
-		<eng>%c[sender]Лукаш\n%c[default]Прапор, ты когда очередные кабаньи бега устраивать будешь?\n%c[sender]Прапор\n%c[default]Скоро. Как только Меченый уйдёт подальше в рейд, так и устрою. А то опять всех кабанов на старте постреляет. Совсем он шуток не понимает.</eng>
+		<eng>%c[sender]Lukash\n%c[default]Прапор, ты когда очередные кабаньи бега устраивать будешь?\n%c[sender]Прапор\n%c[default]Скоро. Как только Меченый уйдёт подальше в рейд, так и устрою. А то опять всех кабанов на старте постреляет. Совсем он шуток не понимает.</eng>
 		<ukr>%c[sender]Лукаш\n%c[default]Прапор, ти коли чергові кабанячі біги влаштовувати будеш?\n%c[sender]Прапор\n%c[default]Скоро. Як тільки Мічений піде подалі в рейд, так і влаштую. А то знову всіх кабанів на старті постріляє. Зовсім він жартів не розуміє.</ukr>
-		<fra>%c[sender]Lukas\n%c[default]Prapor, quand vas-tu arranger un autre sanglier?\n%c[sender]Prapor\n%c[default]Bientôt Dès que Tagged partira dans le raid, je l'organiserai. Et puis encore tous les sangliers au début du tournage. Il ne comprend pas du tout les blagues.</fra>
+		<fra>%c[sender]Loukache\n%c[default]Prapor, quand vas-tu arranger un autre sanglier?\n%c[sender]Prapor\n%c[default]Bientôt Dès que Tagged partira dans le raid, je l'organiserai. Et puis encore tous les sangliers au début du tournage. Il ne comprend pas du tout les blagues.</fra>
 		<pln>%c[sender]Łukasz\n%c[default]Prapor, kiedy kolejne wyścigi dzików będziesz urządzać?\n%c[sender]Prapor\n%c[default]Niedługo. Jak tylko Naznaczony pójdzie na dalszy rajd, to urządzę. A bo on znowu wszystkie dziki na starcie zastrzeli. Zupełnie się na żartach nie zna.</pln>
 	</string>
 	<string id="sms_modders_285">
@@ -2026,14 +2026,14 @@
 	</string>
 	<string id="sms_modders_290">
 		<rus>%c[sender]Кузькина Мать\n%c[default]Продаю старую гитару. Цена договорная. Хоть и старая, но играет хорошо. Писать в личку.</rus>
-		<eng>%c[sender]Кузькина Мать\n%c[default]Продаю старую гитару. Цена договорная. Хоть и старая, но играет хорошо. Писать в личку.</eng>
+		<eng>%c[sender]Kuzka's Mother\n%c[default]Продаю старую гитару. Цена договорная. Хоть и старая, но играет хорошо. Писать в личку.</eng>
 		<ukr>%c[sender]Кузькіна Мати\n%c[default]Продаю стару гітару. Ціна договірна. Хоч і стара, але грає добре. Писати в особисті.</ukr>
-		<fra>%c[sender]Kuzkina mère\n%c[default]Je vends une vieille guitare. Le prix est négociable. Bien que vieux, il joue bien. Écrivez en lichku.</fra>
+		<fra>%c[sender]Mère de Kuzma\n%c[default]Je vends une vieille guitare. Le prix est négociable. Bien que vieux, il joue bien. Écrivez en lichku.</fra>
 		<pln>%c[sender]Matka Kuźkina\n%c[default]Sprzedam starą gitarę. Cena do uzgodnienia. Chociaż stara, to gra jeszcze dobrze. Pisać na priv.</pln>
 	</string>
 	<string id="sms_modders_291">
 		<rus>%c[sender]Лысый\n%c[default]Куплю старые советские деньги. Найти меня можно в Баре. Плачу хорошо.</rus>
-		<eng>%c[sender]Лысый\n%c[default]Куплю старые советские деньги. Найти меня можно в Баре. Плачу хорошо.</eng>
+		<eng>%c[sender]Baldy\n%c[default]Куплю старые советские деньги. Найти меня можно в Баре. Плачу хорошо.</eng>
 		<ukr>%c[sender]Лисий\n%c[default]Куплю старі радянські гроші. Знайти мене можна в Барі. Плачу добре.</ukr>
 		<fra>%c[sender]Chauve\n%c[default]Achetez de la vieille monnaie soviétique. Vous pouvez me trouver au bar. Je pleure bien.</fra>
 		<pln>%c[sender]Łysy\n%c[default]Kupię stare radzieckie pieniądze. Znaleźć można mnie w Barze. Dobrze zapłacę.</pln>
@@ -2068,9 +2068,9 @@
 	</string>
 	<string id="sms_modders_296">
 		<rus>%c[sender]Лукаш\n%c[default]Бармен, нам срочно нужна новая поставка продовольствия, а то последнюю поставку Повар в одно рыло ухомячил.\n%c[sender]Бармен\n%c[default]Так вы ему рот, что ли, зашейте.\n%c[sender]Повар\n%c[default]А я, ййкк, и клизменно питаться умею.</rus>
-		<eng>===%c[sender]Лукаш\n%c[default]Бармен, нам срочно нужна новая поставка продовольствия, а то последнюю поставку Повар в одно рыло ухомячил.\n%c[sender]Бармен\n%c[default]Так вы ему рот, что ли, зашейте.\n%c[sender]Повар\n%c[default]А я, ййкк, и клизменно питаться умею.</eng>
+		<eng>===%c[sender]Lukash\n%c[default]Бармен, нам срочно нужна новая поставка продовольствия, а то последнюю поставку Повар в одно рыло ухомячил.\n%c[sender]Бармен\n%c[default]Так вы ему рот, что ли, зашейте.\n%c[sender]Повар\n%c[default]А я, ййкк, и клизменно питаться умею.</eng>
 		<ukr>%c[sender]Лукаш\n%c[default]Бармен, нам терміново потрібна нова поставка продовольства, а то останню поставку Кухар в одне рило захомячив.\n%c[sender]Бармен\n%c[default]Так ви йому рот, зашийте, чи що.\n%c[sender]Кухар\n%c[default]А я, ййкк, і через клізму харчуватися вмію.</ukr>
-		<fra>%c[sender]Lukas\n%c[default]Barman, il nous faut de toute urgence un nouveau stock de nourriture, puis le dernier stock: cuire dans un museau est très bon.\n%c[sender]Le Barman\n%c[default]Alors vous le cousez ou quelque chose comme ça.\n%c[sender]Faire cuire\n%c[default]Et moi, yykk, et je peux manger en lavement.</fra>
+		<fra>%c[sender]Loukache\n%c[default]Barman, il nous faut de toute urgence un nouveau stock de nourriture, puis le dernier stock: cuire dans un museau est très bon.\n%c[sender]Le Barman\n%c[default]Alors vous le cousez ou quelque chose comme ça.\n%c[sender]Faire cuire\n%c[default]Et moi, yykk, et je peux manger en lavement.</fra>
 		<pln>%c[sender]Łukasz\n%c[default]Barman, pilnie potrzebujemy nowej dostawy żywności, tę ostatnią dostawę Kucharz sam zeżarł.\n%c[sender]Barman\n%c[default]To może mu gębę zaszyjcie, albo co.\n%c[sender]Kucharz\n%c[default]A ja, hikk i dożylnie odżywiać się umiem.</pln>
 	</string>
 	<string id="sms_modders_297">
@@ -2082,9 +2082,9 @@
 	</string>
 	<string id="sms_modders_298">
 		<rus>%c[sender]Кузькина Мать\n%c[default]Меняю ценные артефакты на гигиенические средства.\n%c[sender]Сидорович\n%c[default]Есть памперсы. Новые, не б/у. Если устраивает, жду в гости.</rus>
-		<eng>%c[sender]Кузькина Мать\n%c[default]Меняю ценные артефакты на гигиенические средства.\n%c[sender]Сидорович\n%c[default]Есть памперсы. Новые, не б/у. Если устраивает, жду в гости.</eng>
+		<eng>%c[sender]Kuzka's Mother\n%c[default]Меняю ценные артефакты на гигиенические средства.\n%c[sender]Сидорович\n%c[default]Есть памперсы. Новые, не б/у. Если устраивает, жду в гости.</eng>
 		<ukr>%c[sender]Кузькіна Мати\n%c[default]Міняю цінні артефакти на гігієнічні засоби.\n%c[sender]Сидорович\n%c[default]Є памперси. Нові, не б/в. Якщо влаштовує, чекаю в гості.</ukr>
-		<fra>%c[sender]Kuzkina mère\n%c[default]Je change d'objets précieux pour des produits d'hygiène.\n%c[sender]Sidorovich\n%c[default]Il y a des couches. Neuf, pas utilisé. Si vous êtes satisfait, attendez une visite.</fra>
+		<fra>%c[sender]Mère de Kuzma\n%c[default]Je change d'objets précieux pour des produits d'hygiène.\n%c[sender]Sidorovich\n%c[default]Il y a des couches. Neuf, pas utilisé. Si vous êtes satisfait, attendez une visite.</fra>
 		<pln>%c[sender]Matka Kuźkina\n%c[default]Wymieniam cenne artefakty na środki higieniczne.\n%c[sender]Sidorowicz\n%c[default]Mam pampersy. Nowe, nie z odzysku. Jeśli cię to urządza, czekam w bunkrze.</pln>
 	</string>
 	<string id="sms_modders_299">
@@ -2313,9 +2313,9 @@
 	</string>
 	<string id="sms_modders_331">
 		<rus>%c[sender]Калинин\n%c[default]Бандиты совсем задрали уже! Чтоб вы сдохли, твари!</rus>
-		<eng>%c[sender]Калинин\n%c[default]Бандиты совсем задрали уже! Чтоб вы сдохли, твари!</eng>
+		<eng>%c[sender]Kalinin\n%c[default]Бандиты совсем задрали уже! Чтоб вы сдохли, твари!</eng>
 		<ukr>%c[sender]Калинін\n%c[default]Бандити зовсім задрали вже! Щоб ви здохли, тварі!</ukr>
-		<fra>%c[sender]Kalinin\n%c[default]Les gangsters sont déjà complètement tirés! Pour que tu sois mort, la créature!</fra>
+		<fra>%c[sender]Kalinine\n%c[default]Les gangsters sont déjà complètement tirés! Pour que tu sois mort, la créature!</fra>
 		<pln>%c[sender]Kalinin\n%c[default]Bandyci całkiem już poszaleli! Żebyście zdechli, dranie!</pln>
 	</string>
 	<string id="sms_modders_332">

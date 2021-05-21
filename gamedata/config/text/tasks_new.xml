@@ -25,7 +25,7 @@
 		<rus>Пушка Лиса</rus>
 		<eng>Fox's gun</eng>
 		<ukr>Пушка Лиса</ukr>
-		<fra>L'arme du Renard</fra>
+		<fra>L'arme de Renard</fra>
 		<pln>Strzelba Lisa</pln>
 	</string>
 	<string id="task_fox_kriss_1">
@@ -39,7 +39,7 @@
 		<rus>Принести ствол Лису</rus>
 		<eng>Bring the gun to Fox</eng>
 		<ukr>Принести ствол Лису</ukr>
-		<fra>Apporter l'arme au Renard</fra>
+		<fra>Apporter l'arme à Renard</fra>
 		<pln>Przynieć Lisowi strzelbę</pln>
 	</string>
 	<string id="task_prapor_jaw_0">
@@ -79,14 +79,14 @@
 	</string>
 	<string id="task_informator_pda_2">
 		<rus>Заполучить КПК Тирана</rus>
-		<eng>Get the Tyrant's PDA</eng>
+		<eng>Get Tyrant's PDA</eng>
 		<ukr>Роздобути КПК Тирана</ukr>
 		<fra>Obtenir le PDA du Tyran</fra>
 		<pln>Zdobyć PDA Tyrana</pln>
 	</string>
 	<string id="task_informator_pda_3">
 		<rus>Отдать КПК Тирана Осведомителю</rus>
-		<eng>Give the Tyrant's PDA to the Informant</eng>
+		<eng>Give Tyrant's PDA to Informant</eng>
 		<ukr>Віддати КПК Тирана Інформатору</ukr>
 		<fra>Remettre le PDA du Tyran à l'Informateur</fra>
 		<pln>Oddać PDA Tyrana Informatorowi</pln>
@@ -352,7 +352,7 @@
 	</string>
 	<string id="task_barmen_simbion_2">
 		<rus>Принести пластинки Бармену</rus>
-		<eng>Bring the phonorecords to the Barkeep</eng>
+		<eng>Bring the phonorecords to Barkeep</eng>
 		<ukr>Принести пластинки Бармену</ukr>
 		<fra>Apporter les disques au Barman</fra>
 		<pln>Przynieść płyty Barmanowi</pln>
@@ -401,7 +401,7 @@
 	</string>
 	<string id="task_prizrak_zver_0">
 		<rus>Капкан для Зверя</rus>
-		<eng>Trap for the Brute</eng>
+		<eng>Trap for Beast</eng>
 		<ukr>Пастка для Звіра</ukr>
 		<fra>Piège pour l'Animal</fra>
 		<pln>Pułapka na Zwierza</pln>
@@ -415,21 +415,21 @@
 	</string>
 	<string id="task_prizrak_zver_2">
 		<rus>Найти Зверя</rus>
-		<eng>Find the Brute</eng>
+		<eng>Find Beast</eng>
 		<ukr>Знайти Звіра</ukr>
 		<fra>Trouver l'Animal</fra>
 		<pln>Znaleźć Zwierza</pln>
 	</string>
 	<string id="task_prizrak_zver_3">
 		<rus>Принести флешку Зверя Призраку</rus>
-		<eng>Bring the Brute's flash drive to the Spectre</eng>
+		<eng>Bring Beast's flash drive to the Spectre</eng>
 		<ukr>Принести флешку Звіра Привиду</ukr>
 		<fra>Apporter la clé USB de l'Animal au Spectre</fra>
 		<pln>Przynieść fleszkę Zwierza Duchowi</pln>
 	</string>
 	<string id="task_prizrak_finalzver_0">
 		<rus>Капкан для Зверя, часть 2</rus>
-		<eng>Trap for the Brute II</eng>
+		<eng>Trap for Beast II</eng>
 		<ukr>Пастка для Звіра, частина 2</ukr>
 		<fra>Piège pour l'Animal, partie 2</fra>
 		<pln>Pułapka na Zwierza, część 2</pln>
@@ -443,14 +443,14 @@
 	</string>
 	<string id="task_prizrak_finalzver_2">
 		<rus>Найти Зверя</rus>
-		<eng>Find the Brute</eng>
+		<eng>Find Beast</eng>
 		<ukr>Знайти Звіра</ukr>
 		<fra>Trouver l'Animal</fra>
 		<pln>Znaleźć Zwierza</pln>
 	</string>
 	<string id="task_prizrak_finalzver_3">
 		<rus>Принести документы Зверя Призраку</rus>
-		<eng>Bring the Brute's documents to the Spectre</eng>
+		<eng>Bring Beast's documents to the Spectre</eng>
 		<ukr>Принести документи Звіра Привиду</ukr>
 		<fra>Apporter les documents de l'Animal au Spectre</fra>
 		<pln>Przynieść Duchowi dokumenty Zwierza</pln>
@@ -632,7 +632,7 @@
 	</string>
 	<string id="task_barrem_talk_4">
 		<rus>Отнести насадки Бармену</rus>
-		<eng>Bring the chokes to the Barkeep</eng>
+		<eng>Bring the chokes to Barkeep</eng>
 		<ukr>Віднести насадки Бармену</ukr>
 		<fra>Apporter les chokes au Barman</fra>
 		<pln>Odnieść czoki do Barmana</pln>
@@ -779,9 +779,9 @@
 	</string>
 	<string id="task_dyak_help_2">
 		<rus>Доложить о выполнении Дьяку</rus>
-		<eng>Report about acknowledgement to the Deacon</eng>
+		<eng>Report about acknowledgement to Deacon</eng>
 		<ukr>Доповісти про виконання Дяку</ukr>
-		<fra>Rapporter sur la performance au Sacristain</fra>
+		<fra>Rapporter sur la performance à Sacristain</fra>
 		<pln>Złożyć raport o wykonaniu Diakonowi</pln>
 	</string>
 	<string id="task_kalmyak_need_0">
@@ -856,7 +856,7 @@
 	</string>
 	<string id="task_sveeblov_ferma_1">
 		<rus>Поговорить с Кощеем, разведчиком Чистого Неба</rus>
-		<eng>Speak to Koschei, the scout of "Clear Sky"</eng>
+		<eng>Speak to Koshchei, the scout of "Clear Sky"</eng>
 		<ukr>Поговорити з Кащеєм, розвідником "Чистого неба"</ukr>
 		<fra>Parler à Kochtcheï, l'éclaireur de "Ciel Fin"</fra>
 		<pln>Porozmawiać z Kościejem, zwiadowcą Czystego Nieba</pln>
@@ -1248,7 +1248,7 @@
 	</string>
 	<string id="task_klyak_forest_doc_0">
 		<rus>Документы для Клыка</rus>
-		<eng>Documents for the Fang</eng>
+		<eng>Documents for Fang</eng>
 		<ukr>Документи для Клика</ukr>
 		<fra>Documents pour le Croc</fra>
 		<pln>Dokumenty dla Kła</pln>
@@ -1262,7 +1262,7 @@
 	</string>
 	<string id="task_klyak_forest_doc_2">
 		<rus>Вернуть документы Клыку</rus>
-		<eng>Return documents to the Fang</eng>
+		<eng>Return documents to Fang</eng>
 		<ukr>Повернути документи Клику</ukr>
 		<fra>Rendre les documents au Croc</fra>
 		<pln>Oddać dokumenty Kłowi</pln>
@@ -1304,7 +1304,7 @@
 	</string>
 	<string id="task_denis_wound_3">
 		<rus>Вернуться к Клыку</rus>
-		<eng>Get back to the Fang</eng>
+		<eng>Get back to Fang</eng>
 		<ukr>Повернутися до Клика</ukr>
 		<fra>Revenir au Croc</fra>
 		<pln>Wrócić do Kła</pln>
@@ -1327,7 +1327,7 @@
 		<rus>КПК покойного Крысюка</rus>
 		<eng>PDA of deceased Krysyuk</eng>
 		<ukr>КПК покійного Щуряка</ukr>
-		<fra>PDA du Kryssuk défunt</fra>
+		<fra>PDA de Kryssiouk défunt</fra>
 		<pln>PDA martwego Krysiuka</pln>
 	</string>
 	<string id="task_bandit_krisyk_pomer_1">
