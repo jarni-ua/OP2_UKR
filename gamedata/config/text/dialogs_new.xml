@@ -564,10 +564,10 @@
 		<pln>===Dobra. Teraz można wymianą się zająć, jeśli masz w odpowiedniej ilości potrzebne mi części mutantów.\n Tu w okolicy, oprócz mnie, tych rąk, nóg, ogonów, oczu, nikt nawet za darmo nie weźmie, ani Sidor, ani miejscowi stalkerzy! Najbliższe miejsce, gdzie możesz je spieniężyć - to Wysypisko, tam w hangarze mieszka stalker o imieniu Artiom. Po co mu one - nie mam pojęcia - konserwy, widać, z nich robi! Ale najlepiej zanieść je uczonym do bunkra, nad jezioro Jantar, mówią, że dla jakichś badań są im potrzebne części ciał mutantów ze wszystkich kątów Zony, dla porównania, czy co - skupują wszystko! Deficyt tam mają - przecież mało kto zaryzykuje wejście w te przeklęte miejsce, rojące się od mutantów i zombie... Jeszcze radziłbym zajrzeć do Worona - on też przebywa na Wysypisku...\nDo rzeczy, Naznaczony, zagadałem się, wracajmy do interesów:\nZa 5 ogonów ślepych psów - dam 2 paczki śrutu kaliber 410.\nZa 5 głów tuszkanów - paczkę śrutu kaliber 12.\nNo, a jeśli przyniesiesz 2 ręce kontrolera - otrzymasz 2 paczki kartaczy.</pln>
 	</string>
 	<string id="dan_trade_buck_0">
-		<rus>Дэн, как насчёт обмена?</rus>
-		<eng>Dan, how about an exchange? </eng>
-		<ukr>Ден, як на рахунок обміну?</ukr>
-		<pln>Dan, jak z tą wymianą?</pln>
+		<rus>%c[255,235,95,125]Дэн, как насчёт обмена?</rus>
+		<eng>%c[255,235,95,125]Dan, how about an exchange? </eng>
+		<ukr>%c[255,235,95,125]Ден, як на рахунок обміну?</ukr>
+		<pln>%c[255,235,95,125]Dan, jak z tą wymianą?</pln>
 	</string>
 	<string id="dan_trade_buck_1">
 		<rus>О чём речь, дружище?! Показывай, что притащил.</rus>
@@ -1741,7 +1741,7 @@
 	<string id="yantar_saharov_next_0">
 		<rus>Профессор, здравствуйте! Я принёс то, что вы просили.</rus>
 		<eng>Professor, hello! I brought what you asked for.</eng>
-		<ukr>===Профессор, здрастуйте! Я приніс те, що ви просили.</ukr>
+		<ukr>Профессор, здрастуйте! Я приніс те, що ви просили.</ukr>
 		<pln>Profesorze, dzień dobry, przyniosłem to, o co prosiliście.</pln>
 	</string>
 	<string id="yantar_saharov_next_1">
@@ -4579,10 +4579,10 @@
 		<pln>A ty sobie to przemyśl. Ja za trzy grzyby daję: albo 4 paczki do pistoletu maszynowego PPSz-41,albo 1 skrzynkę naboi do niemieckiego maszynowca Maschinengewehr 42, albo 2 wojskowe apteczki, albo 3 antyrady, albo 2 paczki natowskich naboi, albo 2 paczki do AK-74, albo 2 paczki naboi do Grozy. Tylko te grzyby są trochę radioaktywne.</pln>
 	</string>
 	<string id="grib_ghange_0">
-		<rus>Грибы принимай. Даже азарт появился - давно по грибы не ходил... Одно но - портятся они быстро.</rus>
-		<eng>Take the mushrooms. Even the excitement returned - it's been a long time since I went looking for mushrooms... One thing though - they spoil quickly.</eng>
-		<ukr>Гриби приймай. Навіть азарт з'явився - давно по гриби не ходив... Одне але - псуються вони швидко.</ukr>
-		<pln>Przyjmuj grzyby, Zimny. Przypomniały mi się stare czasy - dawno na grzyby nie chodziłem... Tylko jedno ale - szybko się psują.</pln>
+		<rus>%c[255,235,95,125]Грибы принимай. Даже азарт появился - давно по грибы не ходил... Одно но - портятся они быстро.</rus>
+		<eng>%c[255,235,95,125]Take the mushrooms. Even the excitement returned - it's been a long time since I went looking for mushrooms... One thing though - they spoil quickly.</eng>
+		<ukr>%c[255,235,95,125]Гриби приймай. Навіть азарт з'явився - давно по гриби не ходив... Одне але - псуються вони швидко.</ukr>
+		<pln>%c[255,235,95,125]Przyjmuj grzyby, Zimny. Przypomniały mi się stare czasy - dawno na grzyby nie chodziłem... Tylko jedno ale - szybko się psują.</pln>
 	</string>
 	<string id="grib_ghange_1">
 		<rus>Давай показывай.</rus>

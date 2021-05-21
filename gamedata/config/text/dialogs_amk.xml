@@ -4850,7 +4850,7 @@
 	<string id="drug_food_start_3">
 		<rus>Это ты в точку попал. Здешние ребята подкармливают Дружка, Артём Кулинар и Бармен иногда что-нибудь присылают, но псу всё мало. Может раздобудешь немного свежатинки для собаки? Возле тропки, ведущей в Тёмную Долину, я заметил большую стаю плотей. Среди них есть молодые особи, а их мясо самое нежное и вкусное. Неплохо бы подстрелить их, шести кусков филе должно хватить псине на пару дней. Хотя... с его аппетитом это всё за день уйдёт.</rus>
 		<eng>===You've got a point there. Local guys keep feeding Buddy, Artyom the Cook and Barkeep sometimes send something, but the dog just can't get enough. Could you get some fresh food for the dog? Near the path leading to the Dark Valley, I noticed a flock of flesh. Among them stood out one particularly fat individual. It would be nice to shoot it. I hope that'll be enough for Buddy for two weeks. Although, with his appetite, this will all go in a week.</eng>
-		<ukr>===Це ти в точку попав. Тутешні хлопці підгодовують Дружка, Кулінар і Бармен іноді що-небудь надсилають, але псові все мало. Може роздобудеш трохи свіжини для собаки? Біля стежки, яка веде в Темну Долину, я помітив велику зграю плотей. Серед них є молоді особини, а їхнє м'ясо найніжніше і смачне. Непогано б підстрелити їх, шести шматків філе повинно вистачити псяюзі на пару днів. Хоча... з його апетитом це все за день піде.</ukr>
+		<ukr>===Це ти в точку попав. Тутешні хлопці підгодовують Дружка, Артем Кулінар і Бармен іноді що-небудь надсилають, але псові все мало. Може роздобудеш трохи свіжини для собаки? Біля стежки, яка веде в Темну Долину, я помітив велику зграю плотей. Серед них є молоді особини, а їхнє м'ясо найніжніше і смачне. Непогано б підстрелити їх, шести шматків філе повинно вистачити псяюзі на пару днів. Хоча... з його апетитом це все за день піде.</ukr>
 		<pln>===Trafiłeś w sedno. Tutejsze chłopaki podkarmiają Druha, Kulinar i Barman czasem coś przyślą, lecz temu psu ciągle mało. Może wystarasz się o trochę świeżego mięska dla psa? Obok ścieżki do Doliny Mroku, zauważyłem stado mięsaczy. Wśród nich była jedna wyjątkowo dorodna sztuka. Nieźle byłoby ją odstrzelić. Mam nadzieję, wystarczyło by to psinie na dwa tygodnie. Chociaż, z jego apetytem to może jednak na tydzień.</pln>
 	</string>
 	<string id="drug_food_start_4">
@@ -8591,10 +8591,10 @@
 	</string>
 	<!-- ОБМЕН РЮКЗАКОВ У ДИМАКА -->
 	<string id="obmen_rukzak_0">
-		<rus>Слушай, мне нужны боеприпасы определённого типа, которые, к сожалению, не встретить у многих торговцев.</rus>
-		<eng>Listen, I'm in need of a certain type of ammo, which, unfortunately, most traders don't have.</eng>
-		<ukr>Слухай, мені потрібні боєприпаси певного типу, які, на жаль, не зустріти у багатьох торговців.</ukr>
-		<pln>Słuchaj, potrzebuję amunicję określonego typu, której, niestety, nie spotyka się u handlarzy.</pln>
+		<rus>%c[255,235,95,125]Слушай, мне нужны боеприпасы определённого типа, которые, к сожалению, не встретить у многих торговцев.</rus>
+		<eng>%c[255,235,95,125]Listen, I'm in need of a certain type of ammo, which, unfortunately, most traders don't have.</eng>
+		<ukr>%c[255,235,95,125]Слухай, мені потрібні боєприпаси певного типу, які, на жаль, не зустріти у багатьох торговців.</ukr>
+		<pln>%c[255,235,95,125]Słuchaj, potrzebuję amunicję określonego typu, której, niestety, nie spotyka się u handlarzy.</pln>
 	</string>
 	<string id="obmen_rukzak_1">
 		<rus>Я понял, что ты имеешь в виду. Есть у меня кое-что, но запас ограниченный, их и за Периметром тяжело достать, не говоря уж о Зоне. Как ты знаешь, многие сталкеры рванули на эту территорию, как только была найдена тропа сюда. Многим из них нужны рюкзаки для хранения хабара, и сталкеры отдают за них очень дорогие артефакты. Поэтому я предлагаю тебе такой обмен: ты приносишь мне рюкзаки, я снабжаю тебя определёнными типами боеприпасов. Вот, что я могу тебе предложить:\nПатроны 23х76 «Шрапнель 25» - пачка за 10 рюкзаков\nПатроны 12.7x55мм СЦ-130 ПТ - пачка за 5 рюкзаков\nБаллон с огнесмесью - баллон за 12 рюкзаков\nБС 12.7х108мм - пачка за 6 рюкзаков\nПатроны к штуцеру .700 Nitro Express - пачка за 10 рюкзаков</rus>
@@ -9300,10 +9300,10 @@
 		<pln>Ja chyba mam napisane na czole: "rozwiązuję wszelkie problemy". Dwa pytania - co i gdzie.</pln>
 	</string>
 	<string id="dimak_toolkit_start_3">
-		<rus>Не всё так просто как обычно, дружище. Это дело и твоей персоны касается между прочим. Начну повествование, пожалуй, с идеи... Посетила мою голову чудная идея отремонтировать "Буханку", которую я заприметил, когда впервые добрался сюда. А как её починить, если инструментов под рукой нет? Ну я, недолго думая, бросил клич в общую сеть - ищу, мол, ремонтный набор. И вот вчера отозвался один парнишка - написал, что видел на Юпитере, в грузовике на КПП армейские инструменты ОРК-42. Тот сталкер сам забрать их не успел - стая химер неслась в его сторону, он и дал оттуда дёру. Поэтому сегодня утром мне пришлось отправить за набором своего курьера - Грешника. Надёжный малый, редко когда меня подводил, а в этот раз что-то не заладилось с самого начала. По прибытии на место курьер скинул сообщение, что доставить заказанное не получится, ибо серьёзно ранен, выбраться с КПП самостоятельно не сможет, требуется помощь и чтобы помог именно сталкер Меченый, потому как ты личность широко известная и водишь со мной дружбу. Я попытался выяснить что случилось и потребовал объясниться яснее, но... ответа не последовало. Странно всё это! Надо разобраться и прояснить ситуацию. И раз уж речь зашла про тебя, то тебе и карты в руки! Найди курьера и выясни, что с ним произошло. И про инструменты не забудь!</rus>
-		<eng>It's not that simple, buddy. This concerns you too, by the way. I'll start my story, perhaps, with an idea... A wonderful idea got into my head to repair a "Bukhanka", which I spotted when I first got here. But how do I fix it without any tools at hand? Well, without thinking twice, I called to the users of the public network for suggestions as to how I can a repair kit. And then, yesterday, one guy replied - he claimed he saw an ORK-42 army tool kit in Jupiter, in a truck at the military checkpoint. That stalker didn't have time to pick them up - a pack of chimeras was rushing in his direction, which made him get out of there. So, this morning I've had to send my courier, the Sinner, for the tool kit. Reliable fellow, hardly let me down ever, but this time something went wrong from the very beginning. Upon arrival at the place, the courier sent a message saying he wouldn't succeed in delivering what he was sent for, because he was seriously injured, he wouldn't be able to get out of the checkpoint on his own, he needed help and demanded that the stalker Marked One be the one to help him, because you were a well-known person and you were friends with me. I tried to find out what happened and demanded of him to explain better, but... there was no answer. All this is strange! We must investigate and clarify the situation. And since we're talking about you, you do the honors! Find the courier and find out what happened to him. And don't forget about the tools!</eng>
-		<ukr>Не все так просто як завжди, друже. Ця справа і твоєї персони стосується між іншим. Почну розповідь, мабуть, з ідеї... Відвідала мою думку химерна ідея відремонтувати "Буханку", яку я запримітив, коли вперше дістався сюди. А як її полагодити, якщо інструментів під рукою немає? Ну я, недовго думаючи, кинув клич в загальну мережу - шукаю, мовляв, ремонтний набір. І ось вчора відгукнувся один хлопчина - написав, що бачив на Юпітері, у вантажівці на КПП армійські інструменти ОРК-42. Той сталкер сам забрати їх не встиг - зграя химер мчала в його сторону, він і дав звідти драла. Тому сьогодні вранці мені довелося відправити за набором свого кур'єра - Грішника. Надійний малий, рідко коли мене підводив, а в цей раз щось не заладилося з самого початку. Після прибуття на місце кур'єр скинув повідомлення, що доставити замовлене не вийде, бо серйозно поранений, вибратися з КПП самостійно не зможе, потрібна допомога і щоб допоміг саме сталкер Мічений, тому як ти особистість широко відома і водиш зі мною дружбу. Я спробував з'ясувати що сталося і вимагав пояснення, але... відповіді не послідувало. Дивно все це! Треба розібратися і з'ясувати ситуацію. І якщо вже мова зайшла про тебе, то тобі й карти в руки! Знайди кур'єра і з'ясуй, що з ним сталося. І про інструменти не забудь!</ukr>
-		<pln>Nie wszystko jest takie proste jak wygląda, przyjacielu. Ta sprawa dotyczy też, między innymi, twojej osoby. Opowiem ci wszystko od początku... Wpadł mi do głowy świetny pomysł by odremontować "Busika", którego tu znalazłem, kiedy po raz pierwszy tu dotarłem. Ale jak go naprawić, skoro nie mam narzędzi? Więc, niewiele myśląc, rzuciłem hasło w sieć ogólną, że szukam zestawu narzędzi. I oto wczoraj odezwał się jeden gość - napisał, że widział na Jupiterze, w ciężarówce na Posterunku wojskowe narzędzia ORK-42. Ten stalker nie zdążył ich stamtąd zabrać - stado chimer pędziło w jego stronę, więc uciekł stamtąd. Dlatego dzisiaj rano musiałem wysłać po zestaw swojego kuriera - Grzesznika. Pewny człowiek, nigdy mnie nie zawiódł, ale tym razem coś nie grało od samego początku. Po przybyciu na miejsce kurier przesłał mi wiadomość, że nie uda mu się dostarczyć towaru, bo jest poważnie ranny, wydostać się z Posterunku i tak nie będzie w stanie, w sumie to potrzebuje pomocy i żeby pomógł mu właśnie stalker Naznaczony, dlatego że powszechnie jest wiadomo, że się przyjaźnimy. Próbowałem wyjaśnić co się stało i zażądałem by dokładniej opisał problem, ale... odpowiedzi już nie było. Dziwne to wszystko! Trzeba wyjaśnić tę sytuację. I skoro mowa była o tobie, to tobie to działaj! Znajdź kuriera i wyjaśnij, co się z nim stało. I o narzędziach nie zapomnij!</pln>
+		<rus>Не всё так просто как обычно, дружище. Это дело и твоей персоны касается между прочим. Начну повествование, пожалуй, с заказа Архары - ему срочно понадобились инструменты для ремонта грузовика. Ну я, недолго думая, бросил клич в общую сеть - ищу, мол, ремонтный набор. И вот вчера отозвался один парнишка - написал, что видел на Юпитере, в военном грузовике на КПП армейские инструменты ОРК-42. Тот сталкер сам забрать их не успел - стая химер неслась в его сторону, он и дал оттуда дёру. Поэтому сегодня утром мне пришлось отправить за набором своего курьера Грешника. Надёжный малый, редко когда меня подводил, а в этот раз что-то не заладилось с самого начала. По прибытии на место курьер скинул сообщение, что доставить заказанное не получится, ибо серьёзно ранен, выбраться с КПП самостоятельно не сможет, требуется помощь и чтобы помог именно сталкер Меченый, потому как ты личность широко известная и водишь со мной дружбу. Я попытался выяснить что случилось и потребовал объясниться яснее, но... ответа не последовало. Странно всё это! Надо разобраться и прояснить ситуацию. И раз уж речь зашла про тебя, то тебе и карты в руки! Найди курьера и выясни, что с ним произошло. И про инструменты не забудь!</rus>
+		<eng>===It's not that simple, buddy. This concerns you too, by the way. I'll start my story, perhaps, with an idea... A wonderful idea got into my head to repair a "Bukhanka", which I spotted when I first got here. But how do I fix it without any tools at hand? Well, without thinking twice, I called to the users of the public network for suggestions as to how I can a repair kit. And then, yesterday, one guy replied - he claimed he saw an ORK-42 army tool kit in Jupiter, in a truck at the military checkpoint. That stalker didn't have time to pick them up - a pack of chimeras was rushing in his direction, which made him get out of there. So, this morning I've had to send my courier, Sinner, for the tool kit. Reliable fellow, hardly let me down ever, but this time something went wrong from the very beginning. Upon arrival at the place, the courier sent a message saying he wouldn't succeed in delivering what he was sent for, because he was seriously injured, he wouldn't be able to get out of the checkpoint on his own, he needed help and demanded that the stalker Marked One be the one to help him, because you were a well-known person and you were friends with me. I tried to find out what happened and demanded of him to explain better, but... there was no answer. All this is strange! We must investigate and clarify the situation. And since we're talking about you, you do the honors! Find the courier and find out what happened to him. And don't forget about the tools!</eng>
+		<ukr>===Не все так просто як завжди, друже. Ця справа і твоєї персони стосується між іншим. Почну розповідь, мабуть, з ідеї... Відвідала мою думку химерна ідея відремонтувати "Буханку", яку я запримітив, коли вперше дістався сюди. А як її полагодити, якщо інструментів під рукою немає? Ну я, недовго думаючи, кинув клич в загальну мережу - шукаю, мовляв, ремонтний набір. І ось вчора відгукнувся один хлопчина - написав, що бачив на Юпітері, у вантажівці на КПП армійські інструменти ОРК-42. Той сталкер сам забрати їх не встиг - зграя химер мчала в його сторону, він і дав звідти драла. Тому сьогодні вранці мені довелося відправити за набором свого кур'єра - Грішника. Надійний малий, рідко коли мене підводив, а в цей раз щось не заладилося з самого початку. Після прибуття на місце кур'єр скинув повідомлення, що доставити замовлене не вийде, бо серйозно поранений, вибратися з КПП самостійно не зможе, потрібна допомога і щоб допоміг саме сталкер Мічений, тому як ти особистість широко відома і водиш зі мною дружбу. Я спробував з'ясувати що сталося і вимагав пояснення, але... відповіді не послідувало. Дивно все це! Треба розібратися і з'ясувати ситуацію. І якщо вже мова зайшла про тебе, то тобі й карти в руки! Знайди кур'єра і з'ясуй, що з ним сталося. І про інструменти не забудь!</ukr>
+		<pln>===Nie wszystko jest takie proste jak wygląda, przyjacielu. Ta sprawa dotyczy też, między innymi, twojej osoby. Opowiem ci wszystko od początku... Wpadł mi do głowy świetny pomysł by odremontować "Busika", którego tu znalazłem, kiedy po raz pierwszy tu dotarłem. Ale jak go naprawić, skoro nie mam narzędzi? Więc, niewiele myśląc, rzuciłem hasło w sieć ogólną, że szukam zestawu narzędzi. I oto wczoraj odezwał się jeden gość - napisał, że widział na Jupiterze, w ciężarówce na Posterunku wojskowe narzędzia ORK-42. Ten stalker nie zdążył ich stamtąd zabrać - stado chimer pędziło w jego stronę, więc uciekł stamtąd. Dlatego dzisiaj rano musiałem wysłać po zestaw swojego kuriera - Grzesznika. Pewny człowiek, nigdy mnie nie zawiódł, ale tym razem coś nie grało od samego początku. Po przybyciu na miejsce kurier przesłał mi wiadomość, że nie uda mu się dostarczyć towaru, bo jest poważnie ranny, wydostać się z Posterunku i tak nie będzie w stanie, w sumie to potrzebuje pomocy i żeby pomógł mu właśnie stalker Naznaczony, dlatego że powszechnie jest wiadomo, że się przyjaźnimy. Próbowałem wyjaśnić co się stało i zażądałem by dokładniej opisał problem, ale... odpowiedzi już nie było. Dziwne to wszystko! Trzeba wyjaśnić tę sytuację. I skoro mowa była o tobie, to tobie to działaj! Znajdź kuriera i wyjaśnij, co się z nim stało. I o narzędziach nie zapomnij!</pln>
 	</string>
 	<string id="dimak_toolkit_start_4">
 		<rus>Моё шестое чувство подсказывает, что мне снова предстоит вляпаться в какую-то историю!</rus>
@@ -9398,10 +9398,10 @@
 		<pln>I co było potem? Dlaczego całe pomieszczenie jest zaminowane?</pln>
 	</string>
 	<string id="greshnik_trap_start_5">
-		<rus>Для того, чтобы я не смог выбраться отсюда и тем самым задержал тебя. Эти ублюдки насмехались надо мной, даже рюкзак с заказанным рем.набором закинули на крышу пристроя, по лестнице которого ты сюда поднялся. Сказали, что смогу добраться до рюкзака и без ног. Подонки! Ненавижу! Времени для побега у тебя не осталось, наверняка КПП уже берут в кольцо. Нам не выбраться отсюда живыми!</rus>
-		<eng>So that I could not get out of here and thus slow you down. These bastards scoffed at me, even threw the backpack with the repair kit onto the roof of the extension, the stairs of which you climbed to get here. They said I could get to the backpack even without my legs. Scumbags! I hate them! You have no time left to escape, surely the checkpoint is already being surrounded. We can't get out of here alive!</eng>
-		<ukr>Для того, щоб я не зміг вибратися звідси і тим самим затримав тебе. Ці виродки глузували з мене, навіть рюкзак з замовленим рем.набором закинули на дах прибудови, по сходах якої ти сюди піднявся. Сказали, що зможу дістатися до рюкзака і без ніг. Покидьки! Ненавиджу! Часу для втечі у тебе не залишилося, напевно КПП вже беруть в кільце. Нам не вибратися звідси живими!</ukr>
-		<pln>Dlatego, żebym nie mógł stąd uciec i tym samym ostrzec cię. Ci dranie naśmiewali się ze mnie, nawet plecak z zamówionym zestawem narzędzi wrzucili na dach budynku, po schodach którego tu się dostałeś. Powiedzieli, że będę w stanie dotrzeć do plecaka i bez nóg. Męty! Nienawidzę ich! Czasu na ucieczkę już nie masz, na pewno Posterunek na pewno już jest okrążony. Nie wyjdziemy stąd żywi!</pln>
+		<rus>Для того, чтобы я не смог выбраться отсюда и тем самым предупредил тебя. Эти ублюдки насмехались надо мной, даже рюкзак с заказанным рем.набором закинули на крышу пристроя, по лестнице которого ты сюда поднялся. Сказали, что смогу добраться до рюкзака и без ног. Подонки! Ненавижу! Времени для побега у тебя не осталось, наверняка КПП уже берут в кольцо. Нам не выбраться отсюда живыми!</rus>
+		<eng>===So that I could not get out of here and thus slow you down. These bastards scoffed at me, even threw the backpack with the repair kit onto the roof of the extension, the stairs of which you climbed to get here. They said I could get to the backpack even without my legs. Scumbags! I hate them! You have no time left to escape, surely the checkpoint is already being surrounded. We can't get out of here alive!</eng>
+		<ukr>===Для того, щоб я не зміг вибратися звідси і тим самим затримав тебе. Ці виродки глузували з мене, навіть рюкзак з замовленим рем.набором закинули на дах прибудови, по сходах якої ти сюди піднявся. Сказали, що зможу дістатися до рюкзака і без ніг. Покидьки! Ненавиджу! Часу для втечі у тебе не залишилося, напевно КПП вже беруть в кільце. Нам не вибратися звідси живими!</ukr>
+		<pln>===Dlatego, żebym nie mógł stąd uciec i tym samym ostrzec cię. Ci dranie naśmiewali się ze mnie, nawet plecak z zamówionym zestawem narzędzi wrzucili na dach budynku, po schodach którego tu się dostałeś. Powiedzieli, że będę w stanie dotrzeć do plecaka i bez nóg. Męty! Nienawidzę ich! Czasu na ucieczkę już nie masz, na pewno Posterunek na pewno już jest okrążony. Nie wyjdziemy stąd żywi!</pln>
 	</string>
 	<string id="greshnik_trap_start_6">
 		<rus>Погоди умирать! Мне доводилось выбираться и не из таких передряг!</rus>
@@ -10313,10 +10313,10 @@
 		<pln>W PDA stalkera Dragunowa jest informacja o jego przesłuchaniu przez żołnierzy. Wspomina się tam o niewidzialnym artefakcie, który może znajdować się tutaj.</pln>
 	</string>
 	<string id="volna_reid_start_9">
-		<rus>Драгунов... Драгунов... Это тот тип, который различные байки про арты записывал?</rus>
-		<eng>Dragunov... Dragunov... Is this a fellow that collected various stories about artifacts?</eng>
-		<ukr>Драгунов... Драгунов... Це той тип, який різні байки про арти записував?</ukr>
-		<pln>Dragunow... Dragunow... To ten typ, który spisywał wszystkie legendy o artefaktach?</pln>
+		<rus>Драгунов, Драгунов... Это тот тип, который различные байки про арты записывал?</rus>
+		<eng>Dragunov, Dragunov... Is this a fellow that collected various stories about artifacts?</eng>
+		<ukr>Драгунов, Драгунов... Це той тип, який різні байки про арти записував?</ukr>
+		<pln>Dragunow, Dragunow... To ten typ, który spisywał wszystkie legendy o artefaktach?</pln>
 	</string>
 	<string id="volna_reid_start_10">
 		<rus>Да, почитай его записи, держи... Догадываешься, каким свойством может обладать такой арт, и почему военные активизировались на Болотах?</rus>
@@ -12458,10 +12458,10 @@
 	</string>
 	<!-- ЛЦУ ДЛЯ МАКСА -->
 	<string id="max_gunsight_start_0">
-		<rus>Что скучаешь, Макс?</rus>
-		<eng>Why are you bored, Max?</eng>
-		<ukr>Чого сумуєш, Макс?</ukr>
-		<pln>Nudzisz się, Maks?</pln>
+		<rus>Что скучаешь, Макс? Неужели тебе нечем заняться?</rus>
+		<eng>===Why are you bored, Max?</eng>
+		<ukr>===Чого сумуєш, Макс?</ukr>
+		<pln>===Nudzisz się, Maks?</pln>
 	</string>
 	<string id="max_gunsight_start_1">
 		<rus>А, гроза монолитовцев пожаловал! Лукаш поведал нам о твоих успехах в отстреле долбанных фанатиков. Ты отобрал первое место у Кэпа. Ну, ничего, думаю, он это переживёт... Раз ты такой смелый и меткий, может рискнёшь выполнить одно задание. Наш лидер поручил его мне, но человек со стороны справится с ним не хуже. Тем более ты доказал, что умеешь решать сложные задачи.</rus>
@@ -15341,9 +15341,9 @@
 		<pln>Słyszeliście? Tak walnęło, że się mutanty zbiegły z całej okolicy.</pln>
 	</string>
 	<string id="buusty_gigant_done_1">
-		<rus>Да-а-а, им будет чем полакомиться! Одна проблема в подготовке к отражению волны решена, осталось ещё кхм-цать... Ну ничего, как сказал кто-то из великих: "Ночь темнее всего перед рассветом." ... Но всё-таки постарайся привести сюда хоть какую-нибудь помощь, вшестером мы не сдержим натиск мутантов... И потолкуй с Архарой, Мерцающим и Кузькиной Матерью, у них есть неплохие идеи...</rus>
+		<rus>Да-а-а, им будет чем полакомиться! Одна проблема в подготовке к отражению волны решена, осталось ещё кхм-цать... Ну ничего, как сказал кто-то из великих: "Ночь темнее всего перед рассветом." Но всё-таки постарайся привести сюда хоть какую-нибудь помощь, вшестером мы не сдержим натиск мутантов... И потолкуй с Архарой, Мерцающим и Кузькиной Матерью, у них есть неплохие идеи...</rus>
 		<eng>===Yeah, they'll have enough to feast on there! One problem in preparing for fighting off the wave is solved, only umpteen left... Well, as one of the great ones said: "The night is darkest just before the dawn"... But still, try to bring at least some help. Five of us, we won't succeed in fending off the mutants' attack... And talk to Shimmering One and Kuzka's Mother, they have some good ideas...</eng>
-		<ukr>Та-а-ак, їм буде чим поласувати! Одна проблема у підготовці до відбиття хвилі вирішена, залишилося ще кхм-цять... Ну нічого, як сказав хтось із великих: "Ніч найтемніша перед світанком."... Але все-таки постарайся привести сюди хоч яку-небудь допомогу, вшістьох ми не стримаємо натиск мутантів... І побалакай з Архарою, Мерехтливим і Кузькіною Матір`ю, у них є непогані ідеї...</ukr>
+		<ukr>Та-а-ак, їм буде чим поласувати! Одна проблема у підготовці до відбиття хвилі вирішена, залишилося ще кхм-цять... Ну нічого, як сказав хтось із великих: "Ніч найтемніша перед світанком." Але все-таки постарайся привести сюди хоч яку-небудь допомогу, вшістьох ми не стримаємо натиск мутантів... І побалакай з Архарою, Мерехтливим і Кузькіною Матір`ю, у них є непогані ідеї...</ukr>
 		<pln>===Taa, będą miały czym się raczyć! Jeden problem rozwiązany z przygotowaniami do odparcia fali, zostało jeszcze khmm-ści... No nic, jak powiedział ktoś z wielkich: "Noc jest najciemniejsza tuż przed świtem". ... Ale mimo wszystko postaraj się doprowadzić tutaj jakiekolwiek wsparcie. W piątkę nie powstrzymamy ataku mutantów...I pogadaj z Nieuchwytnym i Matką Kuźkina, mają kilka niezłych pomysłów...</pln>
 	</string>
 	<string id="buusty_gigant_done_2">
@@ -15485,28 +15485,28 @@
 	</string>
 	<!-- ВОДИТЕЛЬ СО СТАЖЕМ -->
 	<string id="volna_arhara_start_0">
-		<rus>П</rus>
-		<ukr>===П</ukr>
+		<rus>Значит, ты тоже решил не оставаться в стороне и не отсиживаться в безопасном месте, зная о надвигающейся угрозе. Похвально, смелый поступок!</rus>
+		<ukr>===З</ukr>
 	</string>
 	<string id="volna_arhara_start_1">
-		<rus>З</rus>
+		<rus>О том, чтобы спрятаться у меня даже мыслей не было. Если мы не перемолотим эту волну, то она перемолотит и нас, и всех сталкеров.</rus>
 		<ukr>===З</ukr>
 	</string>
 	<string id="volna_arhara_start_2">
-		<rus>Н</rus>
-		<ukr>===Н</ukr>
+		<rus>Ной просил переговорить с тобой насчёт транспорта для перевозки бочек и баллонов.</rus>
+		<ukr>===З</ukr>
 	</string>
 	<string id="volna_arhara_start_3">
-		<rus>Наш пророк, конечно, не гениальный стратег, его план обороны полон изъянов, но другого у нас нет. Ной упомянул про баллоны и бочки у цехов подстанции?</rus>
-		<ukr>Наш пророк, звичайно, не геніальний стратег, його план оборони сповнений вад, але іншого у нас немає. Ной згадав про балони і бочки біля цехів підстанції?</ukr>
+		<rus>Верно, нам понадобится грузовик с вместительным кузовом, но не очень громоздкий. На Затоне подобной техники нет, я практически всё здесь осмотрел, но одна из фурий как-то писала в сети, что на территории завода "Юпитер" есть ЗИЛ-130 Самосвал, машина на ходу, она его заводила. Попробуй перегнать грузовик сюда, к старой барже Ноя. После мы с Ромой оценим его техническое состояние, подремонтируем, если потребуется, и заправим. Инструменты я заказал у Димака, он обещал их достать в скором времени.</rus>
+		<ukr>===З</ukr>
 	</string>
 	<string id="volna_arhara_start_4">
-		<rus>О</rus>
-		<ukr>===О</ukr>
+		<rus>Чего я только не перегонял в Зоне, можно сказать, что я уже водитель со стажем.</rus>
+		<ukr>===З</ukr>
 	</string>
 	<string id="volna_arhara_start_5">
-		<rus>П</rus>
-		<ukr>===П</ukr>
+		<rus>Для начала надо решить другие задачи.</rus>
+		<ukr>===З</ukr>
 	</string>
 	<!-- ПЕРЕВОЗЧИК -->
 	<string id="kalinin_box_start_0">
@@ -17273,6 +17273,270 @@
 	<string id="petrenko_compas_done_4">
 		<rus>Я помню.</rus>
 		<ukr>Я пам'ятаю.</ukr>
+	</string>
+	<!-- ГЛАДИАТОР -->
+	<string id="arny_gladiator_start_0">
+		<rus>Чем сегодня порадует арена? Какие-нибудь захватывающие бои планируются?</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_start_1">
+		<rus>О, каратель ЧВКшников собственной персоной! Судя по твоему мастерству в ликвидации профессиональных убийц, ты должен участвовать в кровавых побоищах, а не смотреть на них с зрительной трибуны.</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_start_2">
+		<rus>О чём это ты?</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_start_3">
+		<rus>О многочисленных сообщениях в сети от наёмников из Блэквотер в твой адрес, насолил ты им знатно. Наймы хотят поквитаться с тобой за убитых друзей, они вышли на меня и предложили устроить бои на арене между ними и Меченым на определённых условиях. Из всего этого может выйти грандиозное зрелище, ставки на тотализаторе вырастут до небес! Если согласишься, то я готов увеличить призовой фонд до 70 тысяч. С Долгом я договорюсь, бойцов ЧВК безоружными пропустят на территорию Бара, Иванцов приставит к ним конвой.</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_start_4">
+		<rus>Озвучь их условия.</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_start_5">
+		<rus>Оружие для поединков выбираю и предоставляю я, примерно в одном классе, стрелять разрешено лишь из выданного ствола. Ты будешь выступать без брони, артефактов и всех своих навороченных девайсов, считай, в одном свитере, почувствуешь себя бомжем на один вечер. У мерков будут активные наушники, чтобы слышать все твои действия и не оглохнуть от выстрелов в замкнутом пространстве арены. Если победишь в раунде и останешься жив, то забери науши с трупов, они пригодятся мне в других боях. Приходи через сутки, нужно уладить организационные вопросы.</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_start_6">
+		<rus>Я подумаю над их предложением.</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_start_7">
+		<rus>Я устал от бесконечных убийств, не буду в этом участвовать.</rus>
+		<ukr>===</ukr>
+	</string>
+	<!-- Начало и конец боёв -->
+	<string id="arny_gladiator_done_0">
+		<rus>Насчёт боя с наёмниками...</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_1">
+		<rus>Я слушаю.</rus>
+		<ukr>===</ukr>
+	</string>
+	<!-- Первый бой -->
+	<string id="arny_gladiator_done_11">
+		<rus>Сколько всего раундов планируется?</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_111">
+		<rus>Шесть, с разным оружием. Начнём с самого простого. Готов к первому бою?</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_1111">
+		<rus>К такому невозможно подготовиться.</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_12">
+		<rus>ПМ?! Арни, ты серьёзно?! Ты видел этих ковбоев? От их чугунных голов пули отлетают только так!</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_122">
+		<rus>Видел, такое чувство, что шлемаки у них шестого класса защиты.</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_1222">
+		<rus>Науши забери.</rus>
+		<ukr>===</ukr>
+	</string>
+	<!-- Второй бой -->
+	<string id="arny_gladiator_done_21">
+		<rus>Что меня ждёт на этот раз?</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_211">
+		<rus>Увидишь. Продолжим?</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_2111">
+		<rus>Да, объявляй.</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_22">
+		<rus>Арни, у меня такое ощущение, что ты меня недолюбливаешь.</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_222">
+		<rus>Тебе кажется, всё как раз наоборот, ты как курица, несущая золотые яйца.</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_2222">
+		<rus>Ты кого курицей назвал?</rus>
+		<ukr>===</ukr>
+	</string>
+	<!-- Третий бой -->
+	<string id="arny_gladiator_done_31">
+		<rus>Какие ставки против меня?</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_311">
+		<rus>5 к 1! Начинаем?</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_3111">
+		<rus>Пожалуй.</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_32">
+		<rus>Почему у наймов полноценные винтовки, а у меня обрез?</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_322">
+		<rus>Для зрелищности!</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_3222">
+		<rus>Ты бы ещё на ножах бой устроил.</rus>
+		<ukr>===</ukr>
+	</string>
+	<!-- Четвёртый бой -->
+	<string id="arny_gladiator_done_41">
+		<rus>Давай без прелюдий.</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_411">
+		<rus>Объявлять?</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_4111">
+		<rus>Да.</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_42">
+		<rus>Арни, всё выданное и собранное оружие я заберу себе, и это не обсуждается.</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_422">
+		<rus>Ок, мне этот хлам ни к чему.</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_4222">
+		<rus>Быстро же ты согласился.</rus>
+		<ukr>===</ukr>
+	</string>
+	<!-- Пятый бой -->
+	<string id="arny_gladiator_done_51">
+		<rus>Ну, что ты там подготовил для следующего боя?</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_511">
+		<rus>Тебе понравится!</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_5111">
+		<rus>Сомневаюсь!</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_52">
+		<rus>Мне не понравилось!</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_522">
+		<rus>На то и расчёт: чем сложнее бой, тем больше зрителей, ставок на тотализаторе, а значит и выручка.</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_5222">
+		<rus>Букмекер хренов!</rus>
+		<ukr>===</ukr>
+	</string>
+	<!-- Шестой бой -->
+	<string id="arny_gladiator_done_61">
+		<rus>Наверняка для финального боя придумал что-то изощрённое, да?</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_611">
+		<rus>Несомненно! Поединок будет трудным, соберись.</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_6111">
+		<rus>Да начнётся смертельная битва!</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_62">
+		<rus>Всех убил, один остался...</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_622">
+		<rus>Зрители ликуют, такого они никогда ещё не видели! Весь призовой фонд переведён на твой счёт... Ты преподал наймам очередной урок, что лучше с Меченым не связываться.</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_6222">
+		<rus>Боюсь, и его наёмники не усвоят.</rus>
+		<ukr>===</ukr>
+	</string>
+	<string id="arny_gladiator_done_99">
+		<rus>Я ещё не готов к бою.</rus>
+		<ukr>===</ukr>
+	</string>
+	<!-- УПРАЖНЕНИЕ -->
+	<string id="arny_box_start_0">
+		<rus>Арни, а на арене проводятся только... хм, назовём это "развлекательные мероприятия"?</rus>
+		<eng>===Why are all your guys sober? I need some new targets to practice shooting.</eng>
+		<ukr>===Чому всі твої хлопці тверезі? Мені потрібні нові цілі для практики в стрільбі.</ukr>
+		<pln>===Dlaczego wszyscy twoi chłopcy są trzeźwi? Są mi potrzebne nowe cele dla praktyki w strzelaniu.</pln>
+	</string>
+	<string id="arny_box_start_1">
+		<rus>Не только, раз в месяц Иванцов организует тренировки личного состава Долга по стрельбе, используя для этого картонные мишени, пустые бутылки, банки, коробки и прочий мусор, который моим помощникам потом приходится убирать, включая горы отстрелянных гильз. Та ещё работёнка скажу я тебе! А в целом, ничего особенного, арена закрывается на целый день и превращается в банальный тир. Правда, Иванцов тот ещё выдумщик упражнений, иногда создаёт такую мишенную обстановку, что его подопечным приходится стрелять из неудобных или неустойчивых положений и из-за углов. Впрочем, это правильно, подобные навыки должны быть у каждого бойца. На днях как раз будут проводиться очередные стрельбы, и капитан придумал новое упражнение: оно настолько сложное, что кэп решил первым выполнить его - показать пример остальным и засечь затраченное время. Мы закончили расстановку целей и ограждений, и нам не терпится увидеть, как командир облажается перед подчинёнными.</rus>
+		<eng>===Are you going to shoot at my boozers? They'll tear you apart, all I need is to point my finger at you... Aaa, finally got it, you're talking about bottles... Why do you need to practice? Go shoot rats, it'd be useful at least.</eng>
+		<ukr>===Ти по моїм бухарикам шмаляти зібрався? Вони ж тебе порвуть, вкажи я тільки пальцем... А-а-а, доперло, ти про пляшечки... Для чого тобі тренування? Іди он щурів постріляй, хоч користь буде.</ukr>
+		<pln>===Moich chłopaków się czepiasz? Pasy z ciebie będą drzeć, tylko palcem kiwnę... a-a, dotarło, ty o buteleczkach... Do czego ci trening? Idź sobie do szczurów postrzelaj, chociaż pożytek będzie.</pln>
+	</string>
+	<string id="arny_box_start_2">
+		<rus>Почему? Если всё готово, то может я попробую?</rus>
+		<eng>===Practice never hurts, and shooting rats is boring - they keep running when I aim at them... Well, did you collect another pile or not?</eng>
+		<ukr>===Практика ніколи не зашкодить, а на щурах нудно - вони постійно кудись біжать, коли я в них цілюсь... Ну так ви зібрали нову партію?</ukr>
+		<pln>===Praktyka nigdy nie zaszkodzi, a na szczurach nudno - one ciągle gdzieś biegną, kiedy do nich celuję... No to jak, zebraliście nową partię?</pln>
+	</string>
+	<string id="arny_box_start_3">
+		<rus>За отведённое время его никто не выполнит, даже капитан. В принципе, если ты готов к насмешкам в свой адрес, то пожалуйста, мои ребята потом расставят новые мишени, это недолго. Я даже созову зрителей и открою тотализатор, уверен, многие захотят сделать ставку за или против тебя. Само упражнение нацелено на внимательность и на тренировку быстрого переноса огня с одной цели на другую. Перечислю несколько правил, которые необходимо соблюдать.\n1. Пользоваться можно любым огнестрельным оружием, рекомендую пистолет с автоматическим режимом огня или же пистолет-пулемёт, не забудь захватить с собой примерно 600-700 патронов.\n2. В качестве целей выступают небольшие красные коробки, коих будет ровно 200 штук, нужно все их поразить.\n3. Арена ограждена мишенями, закрашенными в красный цвет, не пересекай их границу, зачту это за провал.\n4. Маршрут движения такой: двигайся вдоль стен арены по часовой стрелке.\n5. Иванцов рассчитал у себя в голове, что на это упражнение должно уйти не более шести минут, тебе на практике придётся подтвердить или опровергнуть его выводы.\nНе передумал ещё?</rus>
+		<eng>===</eng>
+		<ukr>===</ukr>
+		<pln>===</pln>
+	</string>
+	<string id="arny_box_start_4">
+		<rus>Засекай время, тренер, мля!</rus>
+		<eng>===Been waiting for this kind of test a long time, running to the starting position now.</eng>
+		<ukr>===Давно чекав подібного випробування, побіг на старт.</ukr>
+		<pln>===Od dawna czekałem na podobne wyzwanie, biegnę na start.</pln>
+	</string>
+	<string id="arny_box_start_5">
+		<rus>Ты прав, подобное упражнение невыполнимо в принципе.</rus>
+		<eng>===My wrist hurts, maybe another time.</eng>
+		<ukr>===Щось кисть болить, іншим разом.</ukr>
+		<pln>===Coś ręka mnie boli, innym razem.</pln>
+	</string>
+	<!-- Говорим с Арни -->
+	<string id="arny_box_done_0">
+		<rus>Ну, как-то так...</rus>
+		<eng>===Well...</eng>
+		<ukr>===Що ж...</ukr>
+		<pln>===Cóż...</pln>
+	</string>
+	<string id="arny_box_done_1">
+		<rus>Слов нет, одни эмоции! Это было что-то с чем-то! Ты прям стрелок от бога! Уверен, твоё время будет стандартом для этого упражнения, все бойцы Долга будут ориентироваться на него.</rus>
+		<eng>===You're really cool, Marked One! None of my dummies have managed to complete the test in time.</eng>
+		<ukr>===Ти реально крутий, Мічений! Нікому з моїх бовдурів не вдавалося вкластися у відведений час.</ukr>
+		<pln>===Naprawdę jesteś cholernie dobry, Naznaczony! Nikomu z moich bęcwałów nie udało się zmieścić w wyznaczonym czasie.</pln>
+	</string>
+	<string id="arny_box_done_2">
+		<rus>За нарушение правил ты дисквалифицирован!</rus>
+		<eng>===Too slow, way too slow! You've failed the shooting test. Got a bit cross-eyed while running around the Zone?</eng>
+		<ukr>===Повільно, дуже повільно! Тест з практичної стрільби ти завалив. Косоокість пробила, поки бігав по Зоні?</ukr>
+		<pln>===Za wolno, o wiele za wolno! Test na praktyczne strzelaniu zawaliłeś. Coś na oczy ci padło, jak biegałeś po Zonie?</pln>
+	</string>
+	<string id="arny_box_done_3">
+		<rus>К следующей нашей встрече придумайте с Иванцовым ещё что-нибудь.</rus>
+		<eng>===That's why they're called dummies! Don't relax, keep collecting new targets for me.</eng>
+		<ukr>===Тому вони й бовдури! Не розслабляйтеся, заготовлюйте нові цілі.</ukr>
+		<pln>===Dlatego że to bęcwały! Nie rozluźniaj się, szykuj nowe cele.</pln>
+	</string>
+	<string id="arny_box_done_4">
+		<rus>Знаю, знаю, я облажался.</rus>
+		<eng>===Today is just not my day.</eng>
+		<ukr>===Просто сьогодні не мій день.</ukr>
+		<pln>===Po prostu to nie mój dzień.</pln>
 	</string>
 	
 	<!-- AKILL end -->

@@ -145,15 +145,15 @@
 		<pln>Ty chyba oszalałeś, Fanat! Jakie sprawiedliwie?!! Kiedy ty się tu opalałeś, ja za tym cholernym stadem, przez całą Dolinę Mroku przebiegłem! Mówiłeś, że farmaceuta ci za partię setkę odpala, a tak naprawdę, pewnie dwa razy tyle. Nic nie było umówione - wyciągaj całe sto tysięcy i tyle!! I to szybko, bo muszę jeszcze do Krzyża, do Zapomnianego Lasu zdążyć. Swój pancerz wykupić!</pln>
 	</string>
 	<string id="fanat_obmen_dialog_0">
-		<rus>Лапы переростков ещё нужны твоему корешу фармацевту?</rus>
-		<eng>Does your pharmacist mate still need these overgrown paws?</eng>
-		<ukr>Лапи переростків ще потрібні твоєму корешу фармацевту?</ukr>
-		<pln>Twój kolega, farmaceuta, potrzebuje jeszcze łapy pseudogigantów?</pln>
+		<rus>%c[255,235,95,125]Лапы переростков ещё нужны твоему корешу фармацевту?</rus>
+		<eng>%c[255,235,95,125]Does your pharmacist mate still need these overgrown paws?</eng>
+		<ukr>%c[255,235,95,125]Лапи переростків ще потрібні твоєму корешу фармацевту?</ukr>
+		<pln>%c[255,235,95,125]Twój kolega, farmaceuta, potrzebuje jeszcze łapy pseudogigantów?</pln>
 	</string>
 	<string id="fanat_obmen_dialog_1">
-		<rus>Лапы-то нужны, конечно! Только вот с наличкой беда, пустой совсем... Но могу предложить картечь, по одной пачке за каждую лапу, но минимальная партия 15 штук. Годится?</rus>
-		<eng>Well, he need the paws, of course! But he's having problems with his cash flow, it's dried up... But I can offer you some buckshot, one pack for each paw, but the minimum batch is still 15 pieces. Is that okay?</eng>
-		<ukr>Лапи потрібні, звичайно! Тільки от з готівкою біда, порожній зовсім... Але можу запропонувати картеч, по одній пачці за кожну лапу, але мінімальна партія 15 штук. Згода?</ukr>
+		<rus>Лапы-то нужны, конечно! Только вот с наличкой беда, пустой совсем... Но могу предложить картечь, по очень выгодному курсу, но минимальная партия 15 штук. За 15 лап выдам целых десять пачек картечи! Годится?!</rus>
+		<eng>===Well, he need the paws, of course! But he's having problems with his cash flow, it's dried up... But I can offer you some buckshot, one pack for each paw, but the minimum batch is still 15 pieces. Is that okay?</eng>
+		<ukr>===Лапи потрібні, звичайно! Тільки от з готівкою біда, порожній зовсім... Але можу запропонувати картеч, по одній пачці за кожну лапу, але мінімальна партія 15 штук. Згода?</ukr>
 		<pln>===O-o, witaj! Potrzebne, oczywiście, że wezmę, co za pytanie! Tylko że z pieniędzmi kłopot, jestem zupełnie pusty... Ale mogę zaproponować ci kartacze, po dwie paczki za każdą łapę, ale minimalna partia to 15 sztuk. Pasuje ci?</pln>
 	</string>
 	<string id="fanat_obmen_dialog_2">
@@ -163,9 +163,9 @@
 		<pln>Do diabła z pieniędzmi, dawaj kartacze, przydadzą się!</pln>
 	</string>
 	<string id="fanat_obmen_dialog_3">
-		<rus>Ну ты и жмот, Фанат! Всего по одной пачке за лапу псевдыша?! Да я лучше рагу из них сделаю и всех новичков в деревне накормлю, а тебе не дам попробовать!</rus>
-		<eng>You're such a tightwad, Fanat! Just one pack for a pseudogiant's paw?! Well, I'd rather make a stew out of them and feed all the newcomers in the village, and I won't let you even try any of it!</eng>
-		<ukr>Ну ти і жмот, Фанат! По одній пачці за лапу псевдиша?! Та я краще рагу з них зроблю і всіх новачків у селі нагодую, а тобі не дам спробувати!</ukr>
+		<rus>Ну ты и жмот, Фанат! Да я лучше рагу из них сделаю и всех новичков в деревне накормлю, а тебе не дам попробовать!</rus>
+		<eng>===You're such a tightwad, Fanat! Just one pack for a pseudogiant's paw?! Well, I'd rather make a stew out of them and feed all the newcomers in the village, and I won't let you even try any of it!</eng>
+		<ukr>===Ну ти і жмот, Фанат! По одній пачці за лапу псевдиша?! Та я краще рагу з них зроблю і всіх новачків у селі нагодую, а тобі не дам спробувати!</ukr>
 		<pln>===Ale z ciebie sknera, Fanat! Po dwie paczki za łapę pseudogiganta?!! To ja lepiej gulasz z nich zrobię,  wszystkich nowicjuszy w wiosce nakarmię, a tobie nie dam nawet spróbować!</pln>
 	</string>
 	<string id="krest_bronik_dialog_0">
@@ -211,10 +211,10 @@
 		<pln>No, już tyle biegam za nim, że głupio by było zatrzymywać się o krok przed odbiorem zasłużonej nagrody. Będziesz miał swoją strzelbę.</pln>
 	</string>
 	<string id="krest_bronik_dialog_7">
-		<rus>Нет, Крест, оставь лучше этот броник себе, может все-таки тебе удастся натянуть его на свою толстую наглую задницу, а я больше в Ржавый лес ни ногой!</rus>
-		<eng>No, Cross, you can keep your armour, that is, if you can get it over your fat arrogant ass, and I'm not going to the Rusty Forest anymore</eng>
-		<ukr>Ні, Хрест, залиш краще цей броник собі, може все-таки тобі вдасться натягнути його на свою товсту нахабну дупу, а я більше в Іржавий ліс ні ногою!</ukr>
-		<pln>Nie, Krzyż, zostaw już sobie ten pancerz, może jednak uda ci się go naciągnąć na twój gruby bezczelny tyłek, a ja już więcej do tego lasu nie pójdę!</pln>
+		<rus>Нет, Крест, оставь лучше этот броник себе, может все-таки тебе удастся натянуть его на свою наглую задницу, а я больше в Ржавый лес ни ногой!</rus>
+		<eng>===No, Cross, you can keep your armour, that is, if you can get it over your fat arrogant ass, and I'm not going to the Rusty Forest anymore</eng>
+		<ukr>===Ні, Хрест, залиш краще цей броник собі, може все-таки тобі вдасться натягнути його на свою товсту нахабну дупу, а я більше в Іржавий ліс ні ногою!</ukr>
+		<pln>===Nie, Krzyż, zostaw już sobie ten pancerz, może jednak uda ci się go naciągnąć na twój gruby bezczelny tyłek, a ja już więcej do tego lasu nie pójdę!</pln>
 	</string>
 	<string id="krest_bronik_dialog1_0">
 		<rus>Вот твой ствол и деньги. Опять эти твари там меня поджидали. И откуда они там только берутся в таком количестве?!</rus>
@@ -223,7 +223,7 @@
 		<pln>Oto twoja broń i pieniądze. Znowu te kreatury tam na mnie czekały. I skąd one tam się biorą w takich ilościach?!</pln>
 	</string>        
 	<string id="krest_bronik_dialog1_1">
-		<rus>Ну а как ты хотел. Чем ближе к центру Зоны, тем больше монстров, и тем они опасней! В общем так, броник этот я в Х-16 заховал. Место точно не помню, под шафе малость был, ну да там лаба небольшая, думаю, быстро найдёшь.</rus>
+		<rus>Ну а как ты хотел. Чем ближе к центру Зоны, тем больше монстров, и тем они опасней! В общем так, броник этот я в Х-16 заховал. Место точно не помню, под шафе малость был, хряпнул 150 для храбрости, но точно могу сказать, что в помещении, где труп Призрака впервые обнаружили сховал броник, думаю, быстро найдёшь, там помещение небольшое.</rus>
 		<eng>Well, that's the way it is. The closer you get to the centre of the Zone, the more monsters there are, and the more dangerous they become! Anyway, I hid this armour in the X-16 lab. I don't remember the exact place, it was in a closet, but it's a small lab, I think you'll find it quickly.</eng>
 		<ukr>Ну а як ти хотів. Чим ближче до центру Зони, тим більше монстрів, і тим вони небезпечніші! Загалом так, броник цей я в Х-16 заховав. Місце точно не пам'ятаю, "під шафе" маленько був, ну та там лаба невелика, думаю швидко знайдеш.</ukr>
 		<pln>No, a co chciałeś, Striełok. Czym bliżej do centrum Zony, tym więcej mutantów, i tym one bardziej niebezpieczne! Więc tak, ten pancerz schowałem w X-16. Miejsca dokładnie nie pamiętam, chyba przy jakiejś szafie, ale te laboratorium nieduże, myślę że szybko znajdziesz.</pln>
@@ -235,16 +235,16 @@
 		<pln>Gdzie? W X-16?! Dobrze, że w Sarkofagu go nie schowałeś!</pln>
 	</string>
 	<string id="krest_bronik_dialog1_3">
-		<rus>Надо будет - и в Саркофаге спрячу! Знаешь, подальше положишь - поближе возьмешь. А там Сахаров рядом. Думаю, если Фанат его не выкупит, профессор неплохие бабки за уникальный костюм отвалит.</rus>
+		<rus>Надо будет - и в Саркофаге спрячу! Знаешь, подальше положишь - поближе возьмёшь. А там Сахаров рядом. Думаю, если Фанат его не выкупит, профессор неплохие бабки за уникальный костюм отвалит.</rus>
 		<eng>Had it been convenient - I would have hidden it there! You know, the more you find - the more you have to hide. Anyway, Sakharov is next door. I think that if Fanat doesn't buy it back, the professor will pay good money for this unique armour.</eng>
 		<ukr>Треба буде і в Саркофагу сховаю! Знаєш, подалі покладеш - ближче візьмеш. А там Сахаров поруч, думаю, якщо Фанат його не викупить, то професор непогані бабки за унікальний костюм відвалить.</ukr>
 		<pln>Jak będzie trzeba to i w Sarkofagu schowam! Wiesz, nieco dalej położysz - więcej weźmiesz. A tam Sacharow niedaleko, myślałem, że jeżeli Fanat go nie wykupi, to profesor niezłe pieniądze za unikatowy pancerz odpali.</pln>
 	</string>
 	<string id="krest_bronik_dialog1_4">
-		<rus>Ну и фантазия у тебя, Крест! И как ты не побоялся туда спускаться? Блин, стоит только пси-установку отключить, как тут же "всякие Кресты" норовят туда свой толстый зад сунуть... Ладно, пойду на Янтарь, поищу свой броник! Ну надо же, додумался ведь там сховать...</rus>
-		<eng>Well, you're a dreamer, Cross! And how was it, that you weren't afraid to go down there? Damn, all it takes is to disable the psi-installation, and all of a sudden, all the "Crosses" endeavour to put their fat asses in there... Okay, I'll go to Yantar, and look for my armoured suit! Well, you must have thought about it, before hiding it there...</eng>
-		<ukr>Ну і фантазія у тебе Хрест! І як ти не побоявся туди спускатися? Блін, варто тільки псі-установку відключити, як тут же "всякі Хрести" норовлять туди свій товстий зад сунути... Гаразд, піду на Янтар, пошукаю свій броник! Ну треба ж, додумався же ж там сховати...</ukr>
-		<pln>Masz fantazję, Krzyż! I co, nie bałeś się tam zejść? Cholera, wystarczy instalację psioniczną wyłączyć, a zaraz "różne Krzyże" próbują tam swój gruby tyłek wcisnąć... Zgoda, pójdę na Jantar, poszukam swojego pancerza! No, ale sobie wymyśliłeś schowek...</pln>
+		<rus>Ну и фантазия у тебя, Крест! И как ты не побоялся туда спускаться? Блин, стоит только пси-установку отключить, как тут же "всякие Кресты" норовят туда свой нос сунуть... Ладно, пойду в Х-16, поищу свой броник! Ну надо же, додумался ведь там сховать...</rus>
+		<eng>===Well, you're a dreamer, Cross! And how was it, that you weren't afraid to go down there? Damn, all it takes is to disable the psi-installation, and all of a sudden, all the "Crosses" endeavour to put their fat asses in there... Okay, I'll go to Yantar, and look for my armoured suit! Well, you must have thought about it, before hiding it there...</eng>
+		<ukr>===Ну і фантазія у тебе Хрест! І як ти не побоявся туди спускатися? Блін, варто тільки псі-установку відключити, як тут же "всякі Хрести" норовлять туди свій товстий зад сунути... Гаразд, піду на Янтар, пошукаю свій броник! Ну треба ж, додумався же ж там сховати...</ukr>
+		<pln>===Masz fantazję, Krzyż! I co, nie bałeś się tam zejść? Cholera, wystarczy instalację psioniczną wyłączyć, a zaraz "różne Krzyże" próbują tam swój gruby tyłek wcisnąć... Zgoda, pójdę na Jantar, poszukam swojego pancerza! No, ale sobie wymyśliłeś schowek...</pln>
 	</string>
 	<string id="ari_lek_dialog_0">
 		<rus>Привет, красотка! Не ожидал здесь, в Зоне, встретить фотомодель. Каким диким ветром тебя сюда занесло? И зачем костюм из нычки Креста увела?</rus>
@@ -2141,10 +2141,10 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 	</string>
 	<!-- Обмен у Александрыча -->
 	<string id="alex_obmen_dialog_0">
-		<rus>Лапы квакушек ещё нужны? Я тут несколько штук насобирал. Возьмёшь?</rus>
-		<eng>Do you still need frog legs? I've got a few of them here. Will you take them?</eng>
-		<ukr>Лапи жабенят ще потрібні? Я тут кілька штук назбирав. Візьмеш?</ukr>
-		<pln>===Potrzebujesz jeszcze ręce zombie? Uzbierałem kilka sztuk. Weźmiesz?</pln>
+		<rus>%c[255,235,95,125]Лапы квакушек ещё нужны? Я тут несколько штук насобирал. Возьмёшь?</rus>
+		<eng>%c[255,235,95,125]Do you still need frog legs? I've got a few of them here. Will you take them?</eng>
+		<ukr>%c[255,235,95,125]Лапи жабенят ще потрібні? Я тут кілька штук назбирав. Візьмеш?</ukr>
+		<pln>===%c[255,235,95,125]Potrzebujesz jeszcze ręce zombie? Uzbierałem kilka sztuk. Weźmiesz?</pln>
 	</string>
 	<string id="alex_obmen_dialog_1">
 		<rus>Возьму, конечно. Калмык уже несколько раз меня спрашивал, не несёт никто или лягушки на Болотах повывелись... Выбирай - 5.45х39 к калашу или 5.56х45 к натовским стволам. Извини, у меня только бронебойные остались. Так что только по три пачки могу дать, тех или других. Выбор за тобой.</rus>
@@ -4547,10 +4547,10 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 		<pln>Krzyż obiecał oddać mi kombinezon, ale dopiero wtedy, jak przyniosę mu automatyczną strzelbę Atchissona i 80000 rubli. Znowu na ten Radar wypadnie się wybrać i szukać broni po lesie.</pln>
 	</string>
 	<string id="text_nayti_nychku_v_labe">
-		<rus>Крест сообщил, что мой броник спрятал в Х-16. Интересно, куда этот пончик заныкал свой тайник в лаборатории.</rus>
-		<eng>Cross told me that my armoured suit was hidden in the X-16. I wonder where this donut hid his stash in the lab.</eng>
-		<ukr>Хрест повідомив, що мій броник сховав у Х-16. Цікаво, куди цей пончик заникав свою схованку у лабораторії.</ukr>
-		<pln>Krzyż powiedział, że mój pancerz ukrył w X-16. Zastanawiam się gdzie ten grubas mógł umieścić swój schowek w laboratorium.</pln>
+		<rus>Крест сообщил, что мой броник спрятал в Х-16. Нужно тщательно обыскать помещение, где впервые я обнаружил труп Призрака, вернее, труп его отмычки.</rus>
+		<eng>===Cross told me that my armoured suit was hidden in the X-16. I wonder where this donut hid his stash in the lab.</eng>
+		<ukr>===Хрест повідомив, що мій броник сховав у Х-16. Цікаво, куди цей пончик заникав свою схованку у лабораторії.</ukr>
+		<pln>===Krzyż powiedział, że mój pancerz ukrył w X-16. Zastanawiam się gdzie ten grubas mógł umieścić swój schowek w laboratorium.</pln>
 	</string>
 	<string id="text_ari_lek_naity">
 		<rus>Взялся помочь девчонке. Нужно достать лекарство для её отца. Только Калмык может приготовить чудесный эликсир, а также только он знает, что нужно для изготовления этой мази.</rus>
@@ -4844,6 +4844,32 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 		<pln>===В этот раз сам напросился поработать на Дану. Где-то видел целый запас ликёра "Бейлиз", стояли ведь где-то на полке, на меня смотрели. Точно на одной из баз бандюков... Вот бы вспомнить на какой именно...</pln>
 	</string>
 
+	<string id="vernut_maps_task_text">
+		<rus>Брат Тени Монолита отправил меня на помощь отряду монолитовцев, которые преследуют предателей, выкравших какие-то секретные карты. Моя основная задача - отыскать эти самые карты и принести их ему. Придётся выполнить это поручение, иначе сейфа мне не видать. Причём нужно поторопиться, если предатели смогут уйти, то это будет провал. Выдвигаюсь в Подземелья Припяти немедленно, где находится переход, Брат Тени Монолита мне рассказал.</rus>
+		<eng>===Брат Тени Монолита отправил меня на помощь отряду монолитовцев, которые преследуют предателей, выкравших какие-то секретные карты. Моя основная задача - отыскать эти самые карты и принести их ему. Придётся выполнить это поручение, иначе сейфа мне не видать. Причём нужно поторопиться, если предатели смогут уйти, то это будет провал. Выдвигаюсь в Подземелья Припяти немедленно, где находится переход, Брат Тени Монолита мне рассказал.</eng>
+		<ukr>===Брат Тени Монолита отправил меня на помощь отряду монолитовцев, которые преследуют предателей, выкравших какие-то секретные карты. Моя основная задача - отыскать эти самые карты и принести их ему. Придётся выполнить это поручение, иначе сейфа мне не видать. Причём нужно поторопиться, если предатели смогут уйти, то это будет провал. Выдвигаюсь в Подземелья Припяти немедленно, где находится переход, Брат Тени Монолита мне рассказал.</ukr>
+		<pln>===Брат Тени Монолита отправил меня на помощь отряду монолитовцев, которые преследуют предателей, выкравших какие-то секретные карты. Моя основная задача - отыскать эти самые карты и принести их ему. Придётся выполнить это поручение, иначе сейфа мне не видать. Причём нужно поторопиться, если предатели смогут уйти, то это будет провал. Выдвигаюсь в Подземелья Припяти немедленно, где находится переход, Брат Тени Монолита мне рассказал.</pln>
+	</string>
+	<string id="vernut_maps_task_name">
+		<rus>Секретные карты монолита</rus>
+		<eng>===Секретные карты монолита</eng>
+		<ukr>===Секретные карты монолита</ukr>
+		<fra>===Секретные карты монолита</fra>
+	</string>
+
+	<string id="damned_codedoor_task">
+		<rus>Нужно найти код от двери в Подземке Припяти, не открыв эту дверь, дальше не продвинуться. Нужно тщательно обыскать все трупы военных, а может кто и в живых остался...</rus>
+		<eng>===Нужно найти код от двери в Подземке Припяти, не открыв эту дверь, дальше не продвинуться. Нужно тщательно обыскать все трупы военных, а может кто и в живых остался...</eng>
+		<ukr>===Нужно найти код от двери в Подземке Припяти, не открыв эту дверь, дальше не продвинуться. Нужно тщательно обыскать все трупы военных, а может кто и в живых остался...</ukr>
+		<pln>===Нужно найти код от двери в Подземке Припяти, не открыв эту дверь, дальше не продвинуться. Нужно тщательно обыскать все трупы военных, а может кто и в живых остался...</pln>
+	</string>
+	<string id="damned_codedoor_task_name">
+		<rus>Код от двери в Подземке Припяти</rus>
+		<eng>===Код от двери в Подземке Припяти</eng>
+		<ukr>===Код от двери в Подземке Припяти</ukr>
+		<pln>===Код от двери в Подземке Припяти</pln>
+	</string>
+
 	<string id="dsh_safe_code_name">
 		<rus>Код от сейфа Чингиза</rus>
 		<eng>Code for Genghis' safe</eng>
@@ -4886,16 +4912,16 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 
 	<!-- Обмен у Сепатора -->
 	<string id="barter_sepator_0">
-		<rus>Здаров, Сепатор! Насрезал я хвостиков с псевдопсов, так что готовь патроны к дробовику.</rus>
-		<eng>Hey, Sepator! I cut the tails off some pseudo dogs, so prepare the shotgun cartridges.</eng>
-		<ukr>Здоров, Сепатор! Назрізав я хвостиків з псевдопсів, так що готуй патрони до дробовика.</ukr>
-		<pln>Cześć, Sepator! Nazbierałem ogonów z pseudopsów, więc szykuj naboje do śrutówki.</pln>
+		<rus>%c[255,235,95,125]Здаров, Сепатор! Насрезал я хвостиков с псевдопсов, так что готовь патроны к дробовику.</rus>
+		<eng>%c[255,235,95,125]Hey, Sepator! I cut the tails off some pseudo dogs, so prepare the shotgun cartridges.</eng>
+		<ukr>%c[255,235,95,125]Здоров, Сепатор! Назрізав я хвостиків з псевдопсів, так що готуй патрони до дробовика.</ukr>
+		<pln>%c[255,235,95,125]Cześć, Sepator! Nazbierałem ogonów z pseudopsów, więc szykuj naboje do śrutówki.</pln>
 	</string>
 	<string id="barter_sepator_1">
-		<rus>Привет! Отличные новости, а то Захар задолбал со своим планом по хвостам! С удовольствием поменяюсь, тебе каких: 12-й калибр или ещё у меня имеются патроны к Сайге 410, для тебя обменяю по очень выгодному курсу - за три хвоста дам две пачки патронов. Какие предпочитаешь?</rus>
-		<eng>Hi! Good news, because Zakhar's fucked up with his tail plan! I'll be happy to exchange what I have with you: I have both 12-gauge and Saiga 410 cartridges. I'll exchange them at a favourable rate - two packs of cartridges for three tails. Which ones do you prefer?</eng>
-		<ukr>Привіт! Відмінні новини, а то Захар задовбав зі своїм планом по хвостах! Із задоволенням поміняюся, тобі яких: 12-й калібр або ще у мене є патрони до Сайги 410, для тебе обміняю за дуже вигідним курсом - за три хвоста дам дві пачки патронів. Яким надаєш перевагу?</ukr>
-		<pln>Cześć! Świetne wieści, bo Zachar właśnie podniósł plan na ogony! Z przyjemnością się wymienię, jakie potrzebujesz: kaliber 12 albo mam jeszcze naboje do Sajgi 410, z tobą wymienię się po bardzo korzystnym kursie - za trzy ogony dam dwie paczki nabojów. Jakie chcesz?</pln>
+		<rus>Привет! Отличные новости, а то Захар задолбал со своим планом по хвостам! С удовольствием поменяюсь, тебе каких: 12-й калибр или ещё у меня имеются патроны к Сайге 410, а также могу подогнать 20го калибра к ТОЗу-106, совсем недавно подвезли, там аж 25 патронов в пачке! Для тебя обменяю по очень выгодному курсу - за три хвоста дам две пачки патронов. Какие предпочитаешь?</rus>
+		<eng>===Hi! Good news, because Zakhar's fucked up with his tail plan! I'll be happy to exchange what I have with you: I have both 12-gauge and Saiga 410 cartridges. I'll exchange them at a favourable rate - two packs of cartridges for three tails. Which ones do you prefer?</eng>
+		<ukr>===Привіт! Відмінні новини, а то Захар задовбав зі своїм планом по хвостах! Із задоволенням поміняюся, тобі яких: 12-й калібр або ще у мене є патрони до Сайги 410, для тебе обміняю за дуже вигідним курсом - за три хвоста дам дві пачки патронів. Яким надаєш перевагу?</ukr>
+		<pln>===Cześć! Świetne wieści, bo Zachar właśnie podniósł plan na ogony! Z przyjemnością się wymienię, jakie potrzebujesz: kaliber 12 albo mam jeszcze naboje do Sajgi 410, z tobą wymienię się po bardzo korzystnym kursie - za trzy ogony dam dwie paczki nabojów. Jakie chcesz?</pln>
 	</string>
 	<string id="barter_sepator_12">
 		<rus>У меня почти все дробовики под 12-й калибр, так что их возьму.</rus>
@@ -4944,6 +4970,12 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 		<eng>I prefer slugs!</eng>
 		<ukr>Надаю перевагу кульовим патронам!</ukr>
 		<pln>Preferuję kulowe naboje!</pln>
+	</string>
+	<string id="barter_sepator_20">
+		<rus>Да к ТОЗу как-то прикипел в последнее время, давай двадцатку!</rus>
+		<eng>===Да к ТОЗу как-то прикипел в последнее время, давай двадцатку!</eng>
+		<ukr>===Да к ТОЗу как-то прикипел в последнее время, давай двадцатку!</ukr>
+		<pln>===Да к ТОЗу как-то прикипел в последнее время, давай двадцатку!</pln>
 	</string>
 
 	<!-- Все тексты, связанные с финалом Соли -->
@@ -8021,9 +8053,9 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 
 <!-- Обмен с Ханом в ДШ -->
 	<string id="han_obmen_0">
-		<rus>Хан, я поменяться пришёл.</rus>
-		<eng>Khan, I've came to trade.</eng>
-		<ukr>Хан, я помінятися прийшов.</ukr>
+		<rus>%c[255,235,95,125]Хан, я поменяться пришёл.</rus>
+		<eng>%c[255,235,95,125]Khan, I've came to trade.</eng>
+		<ukr>%c[255,235,95,125]Хан, я помінятися прийшов.</ukr>
 	</string>
 	<string id="han_obmen_1">
 		<rus>Отлично, что у тебя, водка, ящики с продуктами?</rus>
@@ -8155,9 +8187,9 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 
 <!-- Обмен с Пироговым в ДШ -->
 	<string id="pirogov_obmen_0">
-		<rus>Уважаемый, я поменяться пришёл.</rus>
-		<eng>Respected one, I've come to trade.</eng>
-		<ukr>Шановний, я помінятися прийшов.</ukr>
+		<rus>%c[255,235,95,125]Уважаемый, я поменяться пришёл.</rus>
+		<eng>%c[255,235,95,125]Respected one, I've come to trade.</eng>
+		<ukr>%c[255,235,95,125]Шановний, я помінятися прийшов.</ukr>
 	</string>
 	<string id="pirogov_obmen_1">
 		<rus>Замечательно, если у Вас есть не менее пяти частей монстров, то я готов совершить взаимовыгодный обмен.</rus>
@@ -8879,6 +8911,69 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 		<eng>Thanks, Doctor. I'll definitely pass it on!</eng>
 		<ukr>===Спасибі, Доктор. Обов'язково передам!</ukr>
 		<pln>===Спасибо, Доктор. Обязательно передам!</pln>
+	</string>
+
+<!-- Диалог с монолитовцем в Подземке Припяти -->
+	<string id="monolitovec_podzemka_dialog_0">
+		<rus>Здравствуй, брат!</rus>
+		<eng>Здравствуй, брат!</eng>
+		<ukr>Здравствуй, брат!</ukr>
+		<pln>===Здравствуй, брат!</pln>
+	</string>
+	<string id="monolitovec_podzemka_dialog_1">
+		<rus>Приветствую, братья! Я прибыл к вам на помощь! Доложите обстановку. Что происходит?</rus>
+		<eng>Приветствую, братья! Я прибыл к вам на помощь! Доложите обстановку. Что происходит?</eng>
+		<ukr>Приветствую, братья! Я прибыл к вам на помощь! Доложите обстановку. Что происходит?</ukr>
+		<pln>===Приветствую, братья! Я прибыл к вам на помощь! Доложите обстановку. Что происходит?</pln>
+	</string>
+	<string id="monolitovec_podzemka_dialog_2">
+		<rus>Плохи дела. Мы преследовали неверных, но попали в засаду военных. Непонятно, откуда они здесь взялись, но их оказалось в разы больше, чем нас. Половина моего отряда уже уничтожена, нам пришлось отступить и запросить подкрепление. Там их ещё не менее двух десятков, есть снайперы... А нас, сам видишь, сколько осталось... Пока нам удаётся держать оборону в этом тоннеле, ждём подмогу.</rus>
+		<eng>Плохи дела. Мы преследовали неверных, но попали в засаду военных. Непонятно, откуда они здесь взялись, но их оказалось в разы больше, чем нас. Половина моего отряда уже уничтожена, нам пришлось отступить и запросить подкрепление. Там их еще не менее двух десятков, есть снайперы... А нас, сам видишь, сколько осталось... Пока нам удается держать оборону в этом тоннеле, ждем подмогу.</eng>
+		<ukr>Плохи дела. Мы преследовали неверных, но попали в засаду военных. Непонятно, откуда они здесь взялись, но их оказалось в разы больше, чем нас. Половина моего отряда уже уничтожена, нам пришлось отступить и запросить подкрепление. Там их еще не менее двух десятков, есть снайперы... А нас, сам видишь, сколько осталось... Пока нам удается держать оборону в этом тоннеле, ждем подмогу.</ukr>
+		<pln>===Плохи дела. Мы преследовали неверных, но попали в засаду военных. Непонятно, откуда они здесь взялись, но их оказалось в разы больше, чем нас. Половина моего отряда уже уничтожена, нам пришлось отступить и запросить подкрепление. Там их еще не менее двух десятков, есть снайперы... А нас, сам видишь, сколько осталось... Пока нам удается держать оборону в этом тоннеле, ждем подмогу.</pln>
+	</string>
+	<string id="monolitovec_podzemka_dialog_3">
+		<rus>Ясненько... Тогда перегруппируйтесь и выдвигаемся, я пойду первым, а вы за мной.</rus>
+		<eng>Ясненько... Тогда перегруппируйтесь и выдвигаемся, я пойду первым, а вы за мной.</eng>
+		<ukr>Ясненько... Тогда перегруппируйтесь и выдвигаемся, я пойду первым, а вы за мной.</ukr>
+		<pln>===Ясненько... Тогда перегруппируйтесь и выдвигаемся, я пойду первым, а вы за мной.</pln>
+	</string>
+	<string id="monolitovec_podzemka_dialog_4">
+		<rus>Эээ, не. Это, конечно, хорошо, что ты пришёл, но этого недостаточно. Нужно дождаться ещё людей. Вшестером нам не справиться.</rus>
+		<eng>Эээ, не. Это, конечно, хорошо, что ты пришел, но этого недостаточно. Нужно дождаться еще людей. Вшестером нам не справиться.</eng>
+		<ukr>Эээ, не. Это, конечно, хорошо, что ты пришел, но этого недостаточно. Нужно дождаться еще людей. Вшестером нам не справиться.</ukr>
+		<pln>===Эээ, не. Это, конечно, хорошо, что ты пришел, но этого недостаточно. Нужно дождаться еще людей. Вшестером нам не справиться.</pln>
+	</string>
+	<string id="monolitovec_podzemka_dialog_5">
+		<rus>Я знаю, что делаю. Если медлить, то отступники сбегут и секретные сведения попадут в руки неверных. Только представь последствия. Да и больше ждать некого, никто не придёт больше к нам на помощь...</rus>
+		<eng>Я знаю, что делаю. Если медлить, то отступники сбегут и секретные сведения попадут в руки неверных. Только представь последствия. Да и больше ждать некого, никто не придёт больше к нам на помощь...</eng>
+		<ukr>Я знаю, что делаю. Если медлить, то отступники сбегут и секретные сведения попадут в руки неверных. Только представь последствия. Да и больше ждать некого, никто не придёт больше к нам на помощь...</ukr>
+		<pln>===Я знаю, что делаю. Если медлить, то отступники сбегут и секретные сведения попадут в руки неверных. Только представь последствия. Да и больше ждать некого, никто не придёт больше к нам на помощь...</pln>
+	</string>
+	<string id="monolitovec_podzemka_dialog_6">
+		<rus>Тут ты прав, брат. В таком случае, помолимся, братья! "Монолит, озари сиянием Твоим души тех, кто отдал жизнь во исполнение воли Твоей! В бой, защитники Монолита! В бой! Отомстим за павших братьев наших, да будет благословенно вечное их единение с Монолитом! Смерть… лютая смерть тем, кто отвергает Его священную силу!"</rus>
+		<eng>Тут ты прав, брат. В таком случае, помолимся, братья! "Монолит, озари сиянием Твоим души тех, кто отдал жизнь во исполнение воли Твоей! В бой, защитники Монолита! В бой! Отомстим за павших братьев наших, да будет благословенно вечное их единение с Монолитом! Смерть… лютая смерть тем, кто отвергает Его священную силу!"</eng>
+		<ukr>Тут ты прав, брат. В таком случае, помолимся, братья! "Монолит, озари сиянием Твоим души тех, кто отдал жизнь во исполнение воли Твоей! В бой, защитники Монолита! В бой! Отомстим за павших братьев наших, да будет благословенно вечное их единение с Монолитом! Смерть… лютая смерть тем, кто отвергает Его священную силу!"</ukr>
+		<pln>===Тут ты прав, брат. В таком случае, помолимся, братья! "Монолит, озари сиянием Твоим души тех, кто отдал жизнь во исполнение воли Твоей! В бой, защитники Монолита! В бой! Отомстим за павших братьев наших, да будет благословенно вечное их единение с Монолитом! Смерть… лютая смерть тем, кто отвергает Его священную силу!"</pln>
+	</string>
+	<string id="monolitovec_podzemka_dialog_7">
+		<rus>Эм... Аминь! Вперёд!</rus>
+		<eng>Эм... Аминь! Вперед!</eng>
+		<ukr>Эм... Аминь! Вперед!</ukr>
+		<pln>===Эм... Аминь! Вперед!</pln>
+	</string>
+
+	<string id="damned_password_code_name">
+		<rus>Код от двери в Подземельях Припяти</rus>
+		<eng>===Код от двери в Подземельях Припяти</eng>
+		<ukr>===Код от двери в Подземельях Припяти</ukr>
+		<pln>===Код от двери в Подземельях Припяти</pln>
+	</string>
+	<string id="damned_password_code_text">
+		<rus>Прочитав КПК снайпера Сидоренко, узнал код от секрктной двери в Подземельях Припяти. Код - 65687.</rus>
+		<eng>===Прочитав КПК снайпера Сидоренко, узнал код от секрктной двери в Подземельях Припяти. Код - 65687.</eng>
+		<ukr>===Прочитав КПК снайпера Сидоренко, узнал код от секрктной двери в Подземельях Припяти. Код - 65687.</ukr>
+		<pln>===Прочитав КПК снайпера Сидоренко, узнал код от секрктной двери в Подземельях Припяти. Код - 65687.</pln>
 	</string>
 
 </string_table>
