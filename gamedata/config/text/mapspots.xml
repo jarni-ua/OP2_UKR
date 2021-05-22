@@ -415,7 +415,7 @@
 	</string>
 	<string id="mil_courier_hint4">
 		<rus>Убить информатора</rus>
-		<eng>Kill the informant</eng>
+		<eng>Kill the informer</eng>
 		<ukr>Вбити збирача інформації</ukr>
 		<fra>Tuer l'informateur</fra>
 		<pln>Zabij informatora</pln>
@@ -473,7 +473,7 @@
 		<rus>Убить Лукаша</rus>
 		<eng>Kill Lukash</eng>
 		<ukr>Вбити Лукаша</ukr>
-		<fra>Tuer Loukach</fra>
+		<fra>Tuer Loukache</fra>
 		<pln>Zabij Łukasza</pln>
 	</string>
 	<string id="mil_miser_hint">
@@ -494,7 +494,7 @@
 		<rus>Доложить Лукашу</rus>
 		<eng>Report to Lukash</eng>
 		<ukr>Доповісти Лукашеві</ukr>
-		<fra>Rapporter à Loukach</fra>
+		<fra>Rapporter à Loukache</fra>
 		<pln>Zgłoś się do Łukasza</pln>
 	</string>
 	<string id="mil_return_to_max_hint">
@@ -709,16 +709,16 @@
 	</string>
 	<string id="agr_give_case_to_barman_hint">
 		<rus>Отдать документы Бармену</rus>
-		<eng>Give the documents to the Barkeep</eng>
+		<eng>Give the documents to Barkeep</eng>
 		<ukr>Віддати Барменові документи</ukr>
 		<fra>Donner les documents au Barman</fra>
 		<pln>Oddaj dokumenty Barmanowi</pln>
 	</string>
 	<string id="agr_help_krot_hint">
 		<rus>Спасти Крота</rus>
-		<eng>Rescue the Mole</eng>
+		<eng>Rescue Mole</eng>
 		<ukr>Врятувати Крота</ukr>
-		<fra>Sauver la Taupe</fra>
+		<fra>Sauver Taupe</fra>
 		<pln>Uratuj Kreta</pln>
 	</string>
 	<string id="agr_help_stalkers_hint">
@@ -730,9 +730,9 @@
 	</string>
 	<string id="agr_meet_krot_hint">
 		<rus>Встретиться с Кротом</rus>
-		<eng>Meet the Mole</eng>
+		<eng>Meet Mole</eng>
 		<ukr>Зустрітися із Кротом</ukr>
-		<fra>Rencontrer la Taupe</fra>
+		<fra>Rencontrer Taupe</fra>
 		<pln>Spotkaj się z Kretem</pln>
 	</string>
 	<string id="agr_nii_hint">
@@ -760,7 +760,7 @@
 		<rus>Взять у Крота информацию о тайнике</rus>
 		<eng>Get information about the stash from Mole</eng>
 		<ukr>Отримати у Крота інформацію про схованку</ukr>
-		<fra>Récupérer l'information de la cache de Mole</fra>
+		<fra>Récupérer l'information de la cache de Taupe</fra>
 		<pln>Wydobądź od Kreta informacje o schowku</pln>
 	</string>
 	<string id="agr_zaz_hint">
@@ -1019,7 +1019,7 @@
 		<rus>Клык должен быть где-то тут</rus>
 		<eng>Fang must be somewhere here</eng>
 		<ukr>Клик повинен бути десь тут</ukr>
-		<fra>Croc devrait être quelque part par ici</fra>
+		<fra>Le Croc devrait être quelque part par ici</fra>
 		<pln>Kieł powinien gdzieś tu być</pln>
 	</string>
 	<string id="metka_city_parfumer_0">
@@ -1087,7 +1087,7 @@
 	</string>
 	<string id="set_kashei_0">
 		<rus>Кощей</rus>
-		<eng>Koschei</eng>
+		<eng>Koshchei</eng>
 		<ukr>Чахлик</ukr>
 		<fra>Kochtcheï</fra>
 		<pln>Kościej</pln>
@@ -1255,9 +1255,9 @@
 	</string>
 	<string id="alexandrych_hutor_sr_0">
 		<rus>Последний выход на связь Иваныча</rus>
-		<eng>Ivanich's last radio contact</eng>
+		<eng>Ivanych's last radio contact</eng>
 		<ukr>Останній вихід на зв'язок Івановича</ukr>
-		<fra>Dernier contact radio d'Ivanich</fra>
+		<fra>Dernier contact radio d'Ivanych</fra>
 		<pln>Ostatnia łączność z Iwanyczem</pln>
 	</string>
 	<string id="batay_ploshadka_sr_0">
@@ -1297,7 +1297,7 @@
 	</string>
 	<string id="dimak_toolkit_sr1_0">
 		<rus>Отыскать Грешника на КПП</rus>
-		<eng>Find the Sinner at the security checkpoint</eng>
+		<eng>Find Sinner at the security checkpoint</eng>
 		<ukr>Відшукати Грішника на КПП</ukr>
 		<fra>Trouver le Pécheur au point de contrôle</fra>
 		<pln>Odszukać Grzesznika na Posterunku</pln>
@@ -1460,7 +1460,7 @@
 		<rus>Тайник Коллекционера</rus>
 		<eng>Collector's stash</eng>
 		<ukr>Схованка Колекціонера</ukr>
-		<fra>Cache du Collectionneur</fra>
+		<fra>Cache de Collectionneur</fra>
 		<pln>Schowek Kolekcjonera</pln>
 	</string>
 	<string id="spot_botsman">
@@ -1495,7 +1495,7 @@
 		<rus>Тайник Лиса</rus>
 		<eng>Fox's stash</eng>
 		<ukr>Схованка Лиса</ukr>
-		<fra>Cache du Renard</fra>
+		<fra>Cache de Renard</fra>
 		<pln>Schowek Lisa</pln>
 	</string>
 	<string id="toz_hunter">
@@ -1509,7 +1509,7 @@
 		<rus>Хабар Крота</rus>
 		<eng>Mole's loot</eng>
 		<ukr>Хабар Крота</ukr>
-		<fra>Butin de la Tope</fra>
+		<fra>Butin de Tope</fra>
 		<pln>Schowek Kreta</pln>
 	</string>
 	<string id="box_norman">
