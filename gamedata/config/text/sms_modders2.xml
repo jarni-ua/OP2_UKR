@@ -26,7 +26,7 @@
 		<rus>%c[sender]Котобегемот\n%c[default]Уйдя из Зоны, бывший сержант Цыбуля устроился сторожем на склад энергетических напитков.\n- Да я круче Меченого, - подумал он через 17 суток, когда снова не смог уснуть.</rus>
 		<eng>%c[sender]Catbehemoth\n%c[default]After leaving the Zone, former sergeant Tsybul became a watchman at the energy drinks warehouse.\n- I'm better than Marked one, he thought after the 17th day, when he couldn't sleep again.</eng>
 		<ukr>%c[sender]Котобегемот\n%c[default]Пішовши з Зони, колишній сержант Цибуля влаштувався сторожем на склад енергетичних напоїв.\n- Та я крутіше Міченого, - подумав він через 17 діб, коли знову не зміг заснути.</ukr>
-		<fra>%c[sender]Kotobegemot\n%c[default]Après avoir quitté la zone, l'ancien sergent Tsybulya a obtenu un poste de gardien dans un entrepôt de boissons énergisantes.\n-Oui, je suis meilleur que Marked, pensait-il 17 jours plus tard, lorsqu'il ne pouvait plus dormir.</fra>
+		<fra>%c[sender]Chatbéhémoth\n%c[default]Après avoir quitté la zone, l'ancien sergent Tsybulya a obtenu un poste de gardien dans un entrepôt de boissons énergisantes.\n-Oui, je suis meilleur que Marked, pensait-il 17 jours plus tard, lorsqu'il ne pouvait plus dormir.</fra>
 		<pln>%c[sender]Kotobehemot\n%c[default]Po opuszczeniu Zony, były sierżant Cebula najął się do pracy jako stróż w magazynie napojów energetycznych.\n- Jestem lepszy od Naznaczonego, - pomyślał w czasie 17 doby, kiedy znów nie mógł zasnąć.</pln>
 	</string>
 	<string id="sms_modders2_5">
@@ -166,7 +166,7 @@
 		<rus>%c[sender]Погиб сталкер:\n%c[default]Петя Гранатомёт. Центральная Припять. Гренадеджамп.\n%c[sender]Котобегемот\n%c[default]Идиоты. Шутки шутками, но зачем было больному человеку говорить, что граната под попой поможет дальше прыгнуть?</rus>
 		<eng>%c[sender]Stalker killed:\n%c[default]Petya Grenade Launcher. Central Pripyat. While trying a Grenade jump.\n%c[sender]Catbehemoth\n%c[default]Idiot. All jokes aside, but what kind of sick person would think that shoving a grenade under his ass to help him continue to jump higher?</eng>
 		<ukr>%c[sender]Загинув сталкер:\n%c[default]Петя Гранатомет. Центральна Прип'ять. Гренадеджамп.\n%c[sender]Котобегемот\n%c[default]Ідіоти. Жарти жартами, але навіщо було хворій людині говорити, що граната під попою допоможе далі стрибнути?</ukr>
-		<fra>%c[sender]le stalker est mort:\n%c[default]Peter Grenade. Pripyat central. Grenadejump.\n%c[sender]Kotobegemot\n%c[default]Idiots. Blagues blagues, mais pourquoi un homme malade dirait-il qu'une grenade sous son butin aidera à continuer à sauter?</fra>
+		<fra>%c[sender]le stalker est mort:\n%c[default]Peter Grenade. Pripyat central. Grenadejump.\n%c[sender]Chatbéhémoth\n%c[default]Idiots. Blagues blagues, mais pourquoi un homme malade dirait-il qu'une grenade sous son butin aidera à continuer à sauter?</fra>
 		<pln>%c[sender]Zginął stalker:\n%c[default]Pietia Granatnik. Centralna Prypeć. Granat.\n%c[sender]Kotobehemot\n%c[default]Idioci. Żarty żartami, ale po co było choremu człowiekowi mówić, że granat pod tyłkiem pomoże mu dalej skoczyć?</pln>
 	</string>
 	<string id="sms_modders2_25">
@@ -269,37 +269,37 @@
 	</string>
 	<string id="sms_modders2_39">
 		<rus>%c[sender]Блондинка\n%c[default]Девки, ау-у! Есть кто в Зоне?</rus>
-		<eng>%c[sender]Blonde\n%c[default]Girls, oooh! Is there anyone in the Zone?</eng>
+		<eng>%c[sender]Blonde\n%c[default]Girls, halloo! Is there anyone in the Zone?</eng>
 		<ukr>%c[sender]Блондинка\n%c[default]Дівки, ау-у! Є хто у Зоні?</ukr>
-		<fra>%c[sender]Blonde\n%c[default]Gonzesses, ayy! Y a-t-il quelqu'un dans la zone?</fra>
+		<fra>%c[sender]Blonde\n%c[default]Gonzesses, hey! Y a-t-il quelqu'un dans la Zone?</fra>
 		<pln>%c[sender]Blondynka\n%c[default]Dziewczęta, au-u! Jest ktoś w Zonie?</pln>
 	</string>
 	<string id="sms_modders2_40">
 		<rus>%c[sender]Вася Мокрый\n%c[default]Нашёл таки тайник Коллекционера на Янтаре. Искал два дня! Как нашёл - описался от счастья! Пошёл дальше.</rus>
-		<eng>%c[sender]Vasya Mokry\n%c[default]Found a collector's stash at Yantar. I was searching for two days! After I found it - I pissed myself from excitement! Moved on.</eng>
+		<eng>%c[sender]Vasya the Wet\n%c[default]Have just found Collector's stash at Yantar. I was searching for two days! After I found it - I pissed myself from excitement! Moved on.</eng>
 		<ukr>%c[sender]Вася Мокрий\n%c[default]Знайшов таки схованку Колекціонера на Янтарі. Шукав два дні! Як знайшов - обіссявся від щастя! Пішов далі.</ukr>
-		<fra>%c[sender]Vasya Wet\n%c[default]J'ai trouvé le planque du collecteur sur Yantar. Vous cherchez deux jours! Comment trouver - décrit avec bonheur! Je suis allé plus loin.</fra>
+		<fra>%c[sender]Vassia le Mouillé\n%c[default]Je viens de trouver la cache de Collectionneur à Yantar. Je le cherchais depuis deux jours! Quand je l'ai trouvé - je m'ai pissé dessus de bonheur! Je me tire.</fra>
 		<pln>%c[sender]Wasia Mokry\n%c[default]Znalazłem jednak schowek Kolekcjonera na Jantarze. Szukałem dwa dni! Jak znalazłem - posikałem się ze szczęścia! Poszedłem dalej.</pln>
 	</string>
 	<string id="sms_modders2_41">
 		<rus>%c[sender]Вася Пупкин\n%c[default]Сталкеры, привет! Я тоже только что начал игру! Ух, как и здорово тут! А красота-то какая!!! Ну-ка гляну поближе...\n%c[sender]Сообщение сети\n%c[default]Погиб сталкер: Вася Пупкин, Кордон, Радоново облако.</rus>
 		<eng>%c[sender]Vasya Pupkin\n%c[default]Stalkers, hi! I just started the game, too! Ooh, how great is it here! And what a beauty! Well, I'll take a closer look...\n%c[sender]Network message\n%c[default]Stalker died: Vasya Pupkin, at the Cordon, Radon cloud.</eng>
 		<ukr>%c[sender]Вася Пупкін\n%c[default]Сталкери, привіт! Я теж тільки що почав гру! Ух, як і здорово тут! А краса-то яка! Нумо гляну ближче...\n%c[sender]Повідомлення мережі\n%c[default]Загінув сталкер: Вася Пупкін, Кордон, Радонова хмара.</ukr>
-		<fra>%c[sender]Vasya Pupkin\n%c[default]Stalkers, hello! Je viens aussi de commencer le jeu! Waouh, comme c'est cool ici! Et quelle beauté! Eh bien, je vais regarder de plus près ...\n%c[sender]Message réseau\n%c[default]Stalker décédé: Vasya Pupkin, Cordon, nuage Radonovo.</fra>
+		<fra>%c[sender]Vassia Poupkine\n%c[default]Stalkers, hello! Je viens aussi de commencer le jeu! Waouh, comme c'est cool ici! Et quelle beauté! Eh bien, je vais regarder de plus près ...\n%c[sender]Message réseau\n%c[default]Stalker décédé: Vassia Poupkine, Cordon, nuage Radonovo.</fra>
 		<pln>%c[sender]Wasia Pupkin\n%c[default]Stalkerzy, witajcie! Dopiero co zacząłem grę! Uch, jak tu fajnie! A jak pięknie!!! Rozejrzę się po okolicy...\n%c[sender]Zginął stalker: Wasia Pupkin, Kordon, Radonowy Obłok.</pln>
 	</string>
 	<string id="sms_modders2_42">
 		<rus>%c[sender]Седьмой\n%c[default]Пятый, я Седьмой, тут на Кордоне какой-то чудила к автобазе с пистолетом бежит.\n%c[sender]Пятый\n%c[default]Седьмой, это новичок первый квест выполняет, не трогай его пока.</rus>
 		<eng>%c[sender]Seventh\n%c[default]Fifth, this is Seventh, there's some weirdo at the Cordon running towards the motor pool with a gun.\n%c[sender]Fifth\n%c[default]Seventh, this is a beginner's first quest, don't touch him yet.</eng>
 		<ukr>%c[sender]Сьомий\n%c[default]П'ятий, я Сьомий, тут на Кордоні якийсь чудила до автобази з пістолетом біжить.\n%c[sender]П'ятий\n%c[default]Сьомий, це новачок перший квест виконує, не чіпай його покищо.</ukr>
-		<fra>%c[sender]septième\n%c[default]cinquième, je suis septième, ici au Cordon une sorte de maniaque du covoiturage avec une arme à feu est en cours d'exécution.\n%c[sender]cinquième\n%c[default]septième, c'est un novice Effectue la première quête, ne la touchez pas encore.</fra>
+		<fra>%c[sender]Septième\n%c[default]cinquième, je suis septième, ici au Cordon une sorte de maniaque du covoiturage avec une arme à feu est en cours d'exécution.\n%c[sender]cinquième\n%c[default]septième, c'est un novice Effectue la première quête, ne la touchez pas encore.</fra>
 		<pln>%c[sender]Siódmy\n%c[default]Piąty, tu Siódmy, tu na Kordonie jakiś dziwak biegnie z pistoletem na bazę samochodową.\n%c[sender]Piąty\n%c[default]Siódmy, to nowicjusz pierwszy quest wykonuje, nie ruszaj go na razie.</pln>
 	</string>
 	<string id="sms_modders2_43">
 		<rus>%c[sender]Сидорович\n%c[default]Ещё раз кто попробует взломать мою дверь стволом или ещё чем - заминирую всё на хрен и уеду на море! Затаривайтесь потом в Баре!</rus>
 		<eng>%c[sender]Sidorovich\n%c[default]If someone tries to break down my door once again with a gun or something, I'm going to blow the fuck out of my door and go out to sea! Then condition yourselves for the Bar!</eng>
 		<ukr>%c[sender]Сидорович\n%c[default]Ще раз хто спробує зламати мої двері стволом або ще чим - заміную все нахрін і поїду на море! Затарюйтесь потім в Барі!</ukr>
-		<fra>%c[sender]Sidorovich\n%c[default]Encore une fois, qui tentera de casser ma porte avec un tonneau ou quelque chose d'autre, j'exploiterai tout en enfer et irai à la mer! Faites le plein au bar!</fra>
+		<fra>%c[sender]Sidorovitch\n%c[default]Encore une fois, qui tentera de casser ma porte avec un tonneau ou quelque chose d'autre, j'exploiterai tout en enfer et irai à la mer! Faites le plein au bar!</fra>
 		<pln>%c[sender]Sidorowicz\n%c[default]Jeszcze raz ktoś spróbuje rozwalić mi drzwi karabinem, czy czymś innym - zaminuję wszystko w cholerę i wyjadę nad morze! Zaopatrywać się potem będziecie w Barze!</pln>
 	</string>
 	<string id="sms_modders2_44">
@@ -327,14 +327,14 @@
 		<rus>%c[sender]Костя\n%c[default]Читерская подделка Золотой Рыбки и ручных телепортов карается по закону.</rus>
 		<eng>%c[sender]Kostya\n%c[default]Counterfeiting of the Goldfish artefacts and hand-held teleports is punishable by law.</eng>
 		<ukr>%c[sender]Костя\n%c[default]Чітерська підробка Золотої Рибки та ручних телепортів карається за законом.</ukr>
-		<fra>%c[sender]Kostya\n%c[default]Le faux créateur du poisson doré et du téléporteur à la main est puni par la loi.</fra>
+		<fra>%c[sender]Kostia\n%c[default]Le faux créateur du poisson doré et du téléporteur à la main est puni par la loi.</fra>
 		<pln>%c[sender]Kostia\n%c[default]Cziterskie podrabianie Złotej Rybki i ręcznych teleportów karze się według prawa.</pln>
 	</string>
 	<string id="sms_modders2_48">
 		<rus>%c[sender]Костя\n%c[default]Требуются желающие поискать тайники.</rus>
 		<eng>%c[sender]Kostya\n%c[default]Wanted, those who want to look for caches.</eng>
 		<ukr>%c[sender]Костя\n%c[default]Потрібні бажаючі пошукати схованки.</ukr>
-		<fra>%c[sender]Kostya\n%c[default]voulait rechercher des planques.</fra>
+		<fra>%c[sender]Kostia\n%c[default]voulait rechercher des planques.</fra>
 		<pln>%c[sender]Kostia\n%c[default]Szukam chętnych do szukania schowków.</pln>
 	</string>
 	<string id="sms_modders2_49">
@@ -348,7 +348,7 @@
 		<rus>%c[sender]Лукаш\n%c[default]Совсем обезумел сталкер! Сгонял на базу Свободы, и умудрился у повара за два кровных пузыря нарыть "Бульдог".</rus>
 		<eng>%c[sender]Lukash\n%c[default]Mad Stalker! He came to the Freedom base, and managed to bribe the cook with two bottles of vodka for the "Bulldog".</eng>
 		<ukr>%c[sender]Лукаш\n%c[default]Зовсім збожеволів сталкер! Зганяв на базу Волі, і примудрився у кухаря за дві кровні пляшки нарити "Бульдог".</ukr>
-		<fra>%c[sender]Lukash\n%c[default]Le stalker était complètement désemparé! Je me suis rendu à la base de Liberty et j'ai réussi à extraire un "Bulldog" du chef pour deux vessies de sang.</fra>
+		<fra>%c[sender]Loukache\n%c[default]Le stalker était complètement désemparé! Je me suis rendu à la base de Liberty et j'ai réussi à extraire un "Bulldog" du chef pour deux vessies de sang.</fra>
 		<pln>%c[sender]Łukasz\n%c[default]Zupełnie oszalał ten stalker! Wpadł na bazę Wolności, i wymyślił sobie, że u kucharza za dwie butelki wódki zdobędzie "Buldoga".</pln>
 	</string>
 	<string id="sms_modders2_51">
@@ -362,7 +362,7 @@
 		<rus>%c[sender]Котобегемот\n%c[default]Произвожу корректировку глаз и заточку рук под поиск тайников.</rus>
 		<eng>%c[sender]Catbehemoth\n%c[default]I'm having my eyes fixed and sharpening my skills to search for caches.</eng>
 		<ukr>%c[sender]Котобегемот\n%c[default]Виконую коригування очей і заточку рук під пошук схованок.</ukr>
-		<fra>%c[sender]Kotobegemot\n%c[default]Corrige les yeux et affine les mains pour les planques.</fra>
+		<fra>%c[sender]Chatbéhémoth\n%c[default]Corrige les yeux et affine les mains pour les planques.</fra>
 		<pln>%c[sender]Kotobehemot\n%c[default]Robię korekty oczu i poprawiam ręce pod wyszukiwanie schowków.</pln>
 	</string>
 	<string id="sms_modders2_53">
@@ -388,9 +388,9 @@
 	</string>
 	<string id="sms_modders2_56">
 		<rus>%c[sender]Сталкер Бубулюка\n%c[default]Вопрос к знатокам: Парни, контрик с фоткой для Клёнова спавнится точно в тоннеле по выходу из лабы Х-16, а после бредёт куда глаза глядят? Хочу попробовать на него капкан поставить, чтоб не бегать за ним по всей Зоне... может, получится...</rus>
-		<eng>%c[sender]Stalker Bubulyuka\n%c[default]Question for the experts: Guys, the controller for Klenov's photo spawns in the tunnel straight after leaving the X-16 Laboratory, and then, where does it go? I want to try to set a trap for him so I don't have to chase after him all over Zone... Maybe it will work...</eng>
+		<eng>%c[sender]Stalker Bubulyuka\n%c[default]Question for the experts: Guys, the controller for Klyonov's photo spawns in the tunnel straight after leaving the X-16 Laboratory, and then, where does it go? I want to try to set a trap for him so I don't have to chase after him all over Zone... Maybe it will work...</eng>
 		<ukr>%c[sender]Сталкер Бубулюка\n%c[default]Питання до знавців: Хлопці, контрик з фоткою для Кленова спавниться точно в тунелі по виходу з лаби Х-16, а після бреде куди очі дивляться? Хочу спробувати на нього капкан поставити, щоб не бігати за ним по всій Зоні... може, вийде...</ukr>
-		<fra>%c[sender]Stalker Bubulyuk\n%c[default]Question aux connaisseurs: Les gars, kontrik avec une photo pour Klyonov apparaissent exactement dans le tunnel situé à la sortie des laboratoires X-16, et ensuite errent au loin? Je veux essayer de le piéger pour ne pas le courir dans la Zone ... peut-être que ça va marcher ...</fra>
+		<fra>%c[sender]Stalker Bubulyuk\n%c[default]Question aux connaisseurs: Les gars, kontrik avec une photo pour Klionov apparaissent exactement dans le tunnel situé à la sortie des laboratoires X-16, et ensuite errent au loin? Je veux essayer de le piéger pour ne pas le courir dans la Zone ... peut-être que ça va marcher ...</fra>
 		<pln>%c[sender]Stalker Bubuluka\n%c[default]Pytanie do znawców: Chłopaki, kontroler z fotki dla Klonowa spawnuje się dokładnie w tunelu po wyjściu z Laboratorium X-16, a później idzie gdzie oczy go poniosą? Chcę spróbować na niego pułapkę zastawić, żeby za nim nie biegać po całej Zonie... może się uda...</pln>
 	</string>
 	<string id="sms_modders2_57">

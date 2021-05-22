@@ -46,7 +46,7 @@
 		<rus>КПК Крысюка</rus>
 		<eng>Krysyuk's PDA</eng>
 		<ukr>КПК Щуряка</ukr>
-		<fra>PDA de Kryssuk</fra>
+		<fra>PDA de Kryssiouk</fra>
 		<pln>PDA Krysiuka</pln>
 	</string>
 	<string id="task_bandit_krisyk_1">
@@ -79,7 +79,7 @@
 	</string>
 	<string id="task_about_life_heart_2">
 		<rus>Узнать компонент у Бармена</rus>
-		<eng>Learn the component from the Barkeep</eng>
+		<eng>Learn the component from Barkeep</eng>
 		<ukr>Дізнатися компонент у Бармена</ukr>
 		<fra>Apprendre un composant du Barman</fra>
 		<pln>Spytać Barmana o komponent</pln>
@@ -93,7 +93,7 @@
 	</string>
 	<string id="task_about_life_heart_4">
 		<rus>Поговорить с Доктором</rus>
-		<eng>Speak to the Doctor</eng>
+		<eng>Speak to Doctor</eng>
 		<ukr>Поговорити з Доктором</ukr>
 		<fra>Parler au Docteur</fra>
 		<pln>Porozmawiać z Doktorem</pln>
@@ -157,7 +157,7 @@
 	</string>
 	<string id="task_life_heart_barman_2">
 		<rus>Доставить КПК Бармену</rus>
-		<eng>Deliver PDA to the Barkeep</eng>
+		<eng>Deliver PDA to Barkeep</eng>
 		<ukr>Принести КПК Бармену</ukr>
 		<fra>Remettre le PDA au Barman</fra>
 		<pln>Dostarczyć PDA Barmanowi</pln>
@@ -179,7 +179,7 @@
 	</string>
 	<string id="task_strelok_pda_2">
 		<rus>Поговорить с Доктором</rus>
-		<eng>Speak to the Doctor</eng>
+		<eng>Speak to Doctor</eng>
 		<ukr>Поговорити з Доктором</ukr>
 		<fra>Parler au Docteur</fra>
 		<pln>Porozmawiać z Doktorem</pln>
@@ -200,7 +200,7 @@
 	</string>
 	<string id="task_strelok_pda2_2">
 		<rus>Отдать артефакт Доктору</rus>
-		<eng>Give the artifact to the Doctor</eng>
+		<eng>Give the artifact to Doctor</eng>
 		<ukr>Віддати артефакт Доктору</ukr>
 		<fra>Remettre l’artefact au Docteur</fra>
 		<pln>Zanieść artefakt do Doktora</pln>
@@ -221,14 +221,14 @@
 	</string>
 	<string id="task_doctor_drug_2">
 		<rus>Найти собаку Доктора</rus>
-		<eng>Find the Doctor's dog</eng>
+		<eng>Find Doctor's dog</eng>
 		<ukr>Знайти собаку Доктора</ukr>
 		<fra>Trouver le chien du Docteur</fra>
 		<pln>===Odnaleźć psa</pln>
 	</string>
 	<string id="task_doctor_drug_3">
 		<rus>Сообщить о Дружке Доктору</rus>
-		<eng>Inform the Doctor about the Buddy</eng>
+		<eng>Inform Doctor about Buddy</eng>
 		<ukr>Сповістити про Дружка Доктору</ukr>
 		<fra>Parler du Copain au Docteur</fra>
 		<pln>===Powiadomić Doktora o losie Druha</pln>
@@ -417,7 +417,7 @@
 	</string>
 	<string id="task_doktor_teleport_10_2">
 		<rus>Принести "Рубиновую пружину" Доктору</rus>
-		<eng>Bring a "Ruby Spring" to the Doctor</eng>
+		<eng>Bring a "Ruby Spring" to Doctor</eng>
 		<ukr>Принести "Рубінову Пружину" Доктору</ukr>
 		<fra>Apporter un "Ressort de rubis" au Docteur</fra>
 		<pln>Zanieść Doktorowi "Rubinową Sprężynę"</pln>
@@ -438,7 +438,7 @@
 	</string>
 	<string id="task_doktor_teleport_11_2">
 		<rus>Принести артефакт Доктору</rus>
-		<eng>Bring the artifact to the Doctor</eng>
+		<eng>Bring the artifact to Doctor</eng>
 		<ukr>Принести артефакт Доктору</ukr>
 		<fra>Apporter l’artefact au Docteur</fra>
 		<pln>Zanieść artefakt do Doktora</pln>
@@ -622,7 +622,7 @@
 		<rus>Аптечки для Лиса</rus>
 		<eng>Medkits for Fox</eng>
 		<ukr>Аптечки для Лиса</ukr>
-		<fra>Trousses de secours pour Fox</fra>
+		<fra>Trousses de secours pour Renard</fra>
 		<pln>Apteczki dla Lisa</pln>
 	</string>
 	<string id="task_esc_fox_medkit_1">
@@ -636,7 +636,7 @@
 		<rus>Принести аптечки Лису</rus>
 		<eng>Bring the medkits to Fox</eng>
 		<ukr>Принести аптечки Лису</ukr>
-		<fra>Apporter les trousses de secours à Fox</fra>
+		<fra>Apporter les trousses de secours à Renard</fra>
 		<pln>Zanieść apteczki Lisowi</pln>
 	</string>
 	<string id="task_gar_dram_novice_mp5_m1_0">
@@ -683,9 +683,9 @@
 	</string>
 	<string id="task_gar_hellcar_outfit_0">
 		<rus>Бронежилет для Беса</rus>
-		<eng>Body Armor for Bes</eng>
+		<eng>Body Armor for Fiend</eng>
 		<ukr>Бронежилет для Біса</ukr>
-		<fra>Gilet pare-balles pour Bes</fra>
+		<fra>Gilet pare-balles pour Démon</fra>
 		<pln>Pancerz dla Biesa</pln>
 	</string>
 	<string id="task_gar_hellcar_outfit_1">
@@ -697,9 +697,9 @@
 	</string>
 	<string id="task_gar_hellcar_outfit_2">
 		<rus>Принести бронежилет Бесу</rus>
-		<eng>Bring the Body Armor to Bes</eng>
+		<eng>Bring the Body Armor to Fiend</eng>
 		<ukr>Принести бронежилет Бісу</ukr>
-		<fra>Apporter le gilet pare-balles à Bes</fra>
+		<fra>Apporter le gilet pare-balles à Démon</fra>
 		<pln>Zanieść pancerz Biesowi</pln>
 	</string>
 	<string id="task_gar_dolg_flesh_eye_0">
@@ -858,7 +858,7 @@
 	</string>
 	<string id="task_mil_Svoboda_trader_plan_1">
 		<rus>Собрать еду для Дезертира</rus>
-		<eng>Collect food for the Deserter</eng>
+		<eng>Collect food for Deserter</eng>
 		<ukr>Зібрати їжу для Дезертира</ukr>
 		<fra>Recueillir de la nourriture pour le Déserteur</fra>
 		<pln>Zebrać jedzenie dla Dezertera</pln>
@@ -893,9 +893,9 @@
 	</string>
 	<string id="task_val_pula_ammo_1">
 		<rus>Доставить патроны Бесу</rus>
-		<eng>Deliver cartridges to Bes</eng>
+		<eng>Deliver cartridges to Fiend</eng>
 		<ukr>Принести патрони Бісу</ukr>
-		<fra>Remettre les cartouches à Bes</fra>
+		<fra>Remettre les cartouches à Démon</fra>
 		<pln>Dostarczyć amunicję Biesowi</pln>
 	</string>
 	<string id="task_val_pula_boar_leg_0">
@@ -935,7 +935,7 @@
 	</string>
 	<string id="task_ratcatcher_order_2">
 		<rus>Отдать приказ Дезертиру</rus>
-		<eng>Give the order to the Deserter</eng>
+		<eng>Give the order to Deserter</eng>
 		<ukr>Віддати наказ Дезертиру</ukr>
 		<fra>Remettre l'ordre au Déserteur</fra>
 		<pln>Oddać rozkaz Dezerterowi</pln>
@@ -1329,7 +1329,7 @@
 		<rus>Доставить динамит Лукашу</rus>
 		<eng>Deliver the dynamite to Lukash</eng>
 		<ukr>Принести динаміт Лукашу</ukr>
-		<fra>Livrer la dynamite à Lukash</fra>
+		<fra>Livrer la dynamite à Loukache</fra>
 		<pln>Dostarczyć Łukaszowi dynamit</pln>
 	</string>
 	<string id="task_esc_reward_case_0">
@@ -1341,7 +1341,7 @@
 	</string>
 	<string id="task_esc_reward_case_1">
 		<rus>Отнести кейс с блокпоста Бармену</rus>
-		<eng>Take the attaché case from the security checkpoint to the Barkeep</eng>
+		<eng>Take the attaché case from the security checkpoint to Barkeep</eng>
 		<ukr>Віднести кейс з блокпоста Бармену</ukr>
 		<fra>Prenez l'attaché-case du point de contrôle au Barman</fra>
 		<pln>Zanieść walizkę z posterunku do Barmana</pln>
