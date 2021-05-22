@@ -633,7 +633,105 @@
 	<string id="sms_long_shot">
 		<rus>Подтверждённых убийств с дальней дистанции, %%c[sms_red]%d%%c[default] из %d</rus>
 		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
-		<ukr>Підтверджених вбивств з дальної дистанції, %%c[sms_red]%d%%c[default] із %d</ukr>
+		<ukr>===Підтверджено попадань з дальної дистанції, %%c[sms_red]%d%%c[default] із %d</ukr>
+		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
+		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
+	</string>
+	<string id="sms_trade_sidor_enough">
+		<rus>Совершено обменов с Сидоровичем, %%c[sms_red]%d%%c[default] из %d</rus>
+		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<ukr>===Ви поцілили у пляшку, %%c[sms_red]%d%%c[default] із %d</ukr>
+		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
+		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
+	</string>
+	<string id="sms_trade_barman_enough">
+		<rus>Совершено обменов с Барменом, %%c[sms_red]%d%%c[default] из %d</rus>
+		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<ukr>===Ви поцілили у пляшку, %%c[sms_red]%d%%c[default] із %d</ukr>
+		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
+		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
+	</string>
+	<string id="sms_trade_petrenko_enough">
+		<rus>Совершено обменов с Петренко, %%c[sms_red]%d%%c[default] из %d</rus>
+		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<ukr>===Ви поцілили у пляшку, %%c[sms_red]%d%%c[default] із %d</ukr>
+		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
+		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
+	</string>
+	<string id="sms_trade_sakharov_enough">
+		<rus>Совершено обменов с Сахаровым, %%c[sms_red]%d%%c[default] из %d</rus>
+		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<ukr>===Ви поцілили у пляшку, %%c[sms_red]%d%%c[default] із %d</ukr>
+		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
+		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
+	</string>
+	<string id="sms_trade_sak_enough">
+		<rus>Совершено обменов с Сяком, %%c[sms_red]%d%%c[default] из %d</rus>
+		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<ukr>===Ви поцілили у пляшку, %%c[sms_red]%d%%c[default] із %d</ukr>
+		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
+		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
+	</string>
+	<string id="sms_trade_doktor_enough">
+		<rus>Совершено обменов с Доктором, %%c[sms_red]%d%%c[default] из %d</rus>
+		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<ukr>===Ви поцілили у пляшку, %%c[sms_red]%d%%c[default] із %d</ukr>
+		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
+		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
+	</string>
+	<string id="sms_trade_skraga_enough">
+		<rus>Совершено обменов со Скрягой, %%c[sms_red]%d%%c[default] из %d</rus>
+		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<ukr>===Ви поцілили у пляшку, %%c[sms_red]%d%%c[default] із %d</ukr>
+		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
+		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
+	</string>
+	<string id="sms_trade_jlob_enough">
+		<rus>Совершено обменов с Жилой, %%c[sms_red]%d%%c[default] из %d</rus>
+		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<ukr>===Ви поцілили у пляшку, %%c[sms_red]%d%%c[default] із %d</ukr>
+		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
+		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
+	</string>
+	<string id="sms_trade_kuznezov_enough">
+		<rus>Совершено обменов с Кузнецовым, %%c[sms_red]%d%%c[default] из %d</rus>
+		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<ukr>===Ви поцілили у пляшку, %%c[sms_red]%d%%c[default] із %d</ukr>
+		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
+		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
+	</string>
+	<string id="sms_trade_sherstyk_enough">
+		<rus>Совершено обменов с Шерстюком, %%c[sms_red]%d%%c[default] из %d</rus>
+		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<ukr>===Ви поцілили у пляшку, %%c[sms_red]%d%%c[default] із %d</ukr>
+		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
+		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
+	</string>
+	<string id="sms_trade_dan_enough">
+		<rus>Совершено обменов с Дэном, %%c[sms_red]%d%%c[default] из %d</rus>
+		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<ukr>===Ви поцілили у пляшку, %%c[sms_red]%d%%c[default] із %d</ukr>
+		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
+		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
+	</string>
+	<string id="sms_sepator_enough">
+		<rus>Совершено обменов с Сепатором, %%c[sms_red]%d%%c[default] из %d</rus>
+		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<ukr>===Ви поцілили у пляшку, %%c[sms_red]%d%%c[default] із %d</ukr>
+		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
+		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
+	</string>
+	<string id="sms_trade_maks_enough">
+		<rus>Совершено обменов с Максом, %%c[sms_red]%d%%c[default] из %d</rus>
+		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<ukr>===Ви поцілили у пляшку, %%c[sms_red]%d%%c[default] із %d</ukr>
+		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
+		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
+	</string>
+	<string id="sms_trade_voron_enough">
+		<rus>Совершено обменов с Вороном, %%c[sms_red]%d%%c[default] из %d</rus>
+		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<ukr>===Ви поцілили у пляшку, %%c[sms_red]%d%%c[default] із %d</ukr>
 		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>

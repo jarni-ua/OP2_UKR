@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <string_table>
 	<string id="barman_musik_dialog_0">
 		<rus>Слышу, музыка у тебя новая.</rus>
@@ -1023,11 +1023,11 @@
 		<pln>W porządku! Przechodź!</pln>
 	</string>
 	<string id="trade_dialog_sidor_0">
-		<rus>Мне нужно кое-какое снаряжение.</rus>
-		<eng>I need some equipment.</eng>
-		<ukr>Мені потрібно деяке спорядження</ukr>
-		<fra>J'ai besoin d'équipement.</fra>
-		<pln>Potrzebuję trochę wyposażenia.</pln>
+		<rus>%c[255,235,95,125]Мне нужно кое-какое снаряжение.</rus>
+		<eng>%c[255,235,95,125]I need some equipment.</eng>
+		<ukr>%c[255,235,95,125]Мені потрібно деяке спорядження</ukr>
+		<fra>%c[255,235,95,125]J'ai besoin d'équipement.</fra>
+		<pln>%c[255,235,95,125]Potrzebuję trochę wyposażenia.</pln>
 	</string>
 	<string id="trade_dialog_sidor_1">
 		<rus>Сам понимаешь - нормальные вещи только за артефакты доступны... \nЧто именно нужно?</rus>
@@ -1317,11 +1317,11 @@
 		<pln>Tak, wezmę. Broń często się psuje...</pln>
 	</string>
 	<string id="trade_dialog_barman_0">
-		<rus>Хочу прикупить кое-какое снаряжение.</rus>
-		<eng>I'm looking for some equipment.</eng>
-		<ukr>Хочу прикупити деяке спорядження.</ukr>
-		<fra>Je souhaite acheter du matériel.</fra>
-		<pln>Chcę dokupić coś z wyposażenia.</pln>
+		<rus>%c[255,235,95,125]Хочу прикупить кое-какое снаряжение.</rus>
+		<eng>%c[255,235,95,125]I'm looking for some equipment.</eng>
+		<ukr>%c[255,235,95,125]Хочу прикупити деяке спорядження.</ukr>
+		<fra>%c[255,235,95,125]Je souhaite acheter du matériel.</fra>
+		<pln>%c[255,235,95,125]Chcę dokupić coś z wyposażenia.</pln>
 	</string>
 	<string id="trade_dialog_barman_1">
 		<rus>Главная валюта в Зоне - артефакты!\nЧто именно нужно?</rus>
@@ -1639,11 +1639,11 @@
 		<pln>Tak, wezmę. Broń często się psuje...</pln>
 	</string>
 	<string id="trade_dialog_petrenko_0">
-		<rus>Мне нужно кое-какое снаряжение.</rus>
-		<eng>I need some equipment.</eng>
-		<ukr>Мені потрібне деяке спорядження</ukr>
-		<fra>J'ai besoin d'équipement.</fra>
-		<pln>Potrzebuję coś z wyposażenia.</pln>
+		<rus>%c[255,235,95,125]Мне нужно кое-какое снаряжение.</rus>
+		<eng>%c[255,235,95,125]I need some equipment.</eng>
+		<ukr>%c[255,235,95,125]Мені потрібне деяке спорядження</ukr>
+		<fra>%c[255,235,95,125]J'ai besoin d'équipement.</fra>
+		<pln>%c[255,235,95,125]Potrzebuję coś z wyposażenia.</pln>
 	</string>
 	<string id="trade_dialog_petrenko_1">
 		<rus>Артефакты есть? Тогда что-нибудь найдём... \nЧто хочешь получить?</rus>
@@ -1905,11 +1905,11 @@
 		<pln>Zestawów remontowych nie mam...</pln>
 	</string>
 	<string id="trade_dialog_sakharov_0">
-		<rus>Снаряжение я могу у вас получить?</rus>
-		<eng>Can I exhange anything with you for equipment?</eng>
-		<ukr>Спорядження я можу у вас отримати?</ukr>
-		<fra>Puis-je échanger quelque chose avec vous contre de l'équipement?</fra>
-		<pln>Czy mogę u was uzyskać jakieś wyposażenie?</pln>
+		<rus>%c[255,235,95,125]Снаряжение я могу у вас получить?</rus>
+		<eng>%c[255,235,95,125]Can I exhange anything with you for equipment?</eng>
+		<ukr>%c[255,235,95,125]Спорядження я можу у вас отримати?</ukr>
+		<fra>%c[255,235,95,125]Puis-je échanger quelque chose avec vous contre de l'équipement?</fra>
+		<pln>%c[255,235,95,125]Czy mogę u was uzyskać jakieś wyposażenie?</pln>
 	</string>
 	<string id="trade_dialog_sakharov_1">
 		<rus>Вообще то это против правил, мы стараемся не выбрасывать наши разработки в открытое пользование, но учитывая вашу репутацию... \nКакого рода снаряжение вам необходимо?</rus>
@@ -2192,11 +2192,11 @@
 		<pln>Zgoda, co począć...</pln>
 	</string>
 	<string id="trade_dialog_skraga_0">
-		<rus>Не подгонишь кое-какой товар?</rus>
-		<eng>Have any goods for trade?</eng>
-		<ukr>Не підженеш деякий товар?</ukr>
-		<fra>Vous ne vendez pas de marchandises?</fra>
-		<pln>Można u ciebie coś kupić?</pln>
+		<rus>%c[255,235,95,125]Не подгонишь кое-какой товар?</rus>
+		<eng>%c[255,235,95,125]Have any goods for trade?</eng>
+		<ukr>%c[255,235,95,125]Не підженеш деякий товар?</ukr>
+		<fra>%c[255,235,95,125]Vous ne vendez pas de marchandises?</fra>
+		<pln>%c[255,235,95,125]Można u ciebie coś kupić?</pln>
 	</string>
 	<string id="trade_dialog_skraga_1">
 		<rus>Артефакты есть? Будет товар... \nЧто именно нужно?</rus>
@@ -2528,11 +2528,11 @@
 		<pln>Dobra.</pln>
 	</string>
 	<string id="trade_dialog_sak_0">
-		<rus>Мне нужно кое-какое снаряжение.</rus>
-		<eng>I need some equipment.</eng>
-		<ukr>Мені потрібно деяке спорядження</ukr>
-		<fra>J'ai besoin d'équipement.</fra>
-		<pln>Potrzebuję coś z wyposażenia.</pln>
+		<rus>%c[255,235,95,125]Мне нужно кое-какое снаряжение.</rus>
+		<eng>%c[255,235,95,125]I need some equipment.</eng>
+		<ukr>%c[255,235,95,125]Мені потрібно деяке спорядження</ukr>
+		<fra>%c[255,235,95,125]J'ai besoin d'équipement.</fra>
+		<pln>%c[255,235,95,125]Potrzebuję coś z wyposażenia.</pln>
 	</string>
 	<string id="trade_dialog_sak_1">
 		<rus>Сам понимаешь - нормальные вещи только за артефакты доступны... \nЧто именно нужно?</rus>
@@ -2850,11 +2850,11 @@
 		<pln>Tak, wezmę. Broń często się psuje...</pln>
 	</string>
 	<string id="trade_dialog_doktor_0">
-		<rus>Мне бы снаряжение найти...</rus>
-		<eng>I need to find some equipment...</eng>
-		<ukr>Мені б спорядження знайти...</ukr>
-		<fra>Je dois trouver du matériel...</fra>
-		<pln>Chcę uzupełnić wyposażenie...</pln>
+		<rus>%c[255,235,95,125]Мне бы снаряжение найти...</rus>
+		<eng>%c[255,235,95,125]I need to find some equipment...</eng>
+		<ukr>%c[255,235,95,125]Мені б спорядження знайти...</ukr>
+		<fra>%c[255,235,95,125]Je dois trouver du matériel...</fra>
+		<pln>%c[255,235,95,125]Chcę uzupełnić wyposażenie...</pln>
 	</string>
 	<string id="trade_dialog_doktor_1">
 		<rus>Чем смогу - помогу, к сожалению артефакты нужны... Что хотел найти?</rus>
@@ -3194,11 +3194,11 @@
 	</string>
 
 	<string id="trade_dialog_jlob_2_2">
-		<rus>Жила, поменяться с тобой хочу.</rus>
-		<eng>===Skimpy, поменяться с тобой хочу.</eng>
-		<ukr>Жила, помінятися з тобою хочу.</ukr>
-		<fra>===Grigou, поменяться с тобой хочу.</fra>
-		<pln>Żyła, chcę się z tobą wymienić.</pln>
+		<rus>%c[255,235,95,125]Жила, поменяться с тобой хочу.</rus>
+		<eng>===%c[255,235,95,125]Жила, поменяться с тобой хочу.</eng>
+		<ukr>%c[255,235,95,125]Жила, помінятися з тобою хочу.</ukr>
+		<fra>===%c[255,235,95,125]Жила, поменяться с тобой хочу.</fra>
+		<pln>%c[255,235,95,125]Żyła, chcę się z tobą wymienić.</pln>
 	</string>
 	<string id="trade_dialog_jlob_3_3">
 		<rus>Чем затариться хочешь?</rus>
@@ -3488,11 +3488,11 @@
 		<pln>Masz, jedz... Całe pięć bochenków...</pln>
 	</string>
 	<string id="trade_dialog_sherstyk_0">
-		<rus>Можешь подогнать кое-какое снаряжение?</rus>
-		<eng>Can you trade some gear?</eng>
-		<ukr>Можеш підігнати деяке спорядження?</ukr>
-		<fra>Pouvez-vous échanger du matériel?</fra>
-		<pln>Znajdziesz jakieś wyposażenie?</pln>
+		<rus>%c[255,235,95,125]Можешь подогнать кое-какое снаряжение?</rus>
+		<eng>%c[255,235,95,125]Can you trade some gear?</eng>
+		<ukr>%c[255,235,95,125]Можеш підігнати деяке спорядження?</ukr>
+		<fra>%c[255,235,95,125]Pouvez-vous échanger du matériel?</fra>
+		<pln>%c[255,235,95,125]Znajdziesz jakieś wyposażenie?</pln>
 	</string>
 	<string id="trade_dialog_sherstyk_1">
 		<rus>Почему нет! Тащи водочку и будет тебе счастье... По количеству пузырей...\nЧто именно нужно?</rus>
@@ -3733,11 +3733,11 @@
 		<pln>Dogadaliśmy się!</pln>
 	</string>
 	<string id="trade_dialog_kuznezov_0">
-		<rus>Ты говорил - можно подойти, если что нужно будет?</rus>
-		<eng>You said I could come to you if I need something?</eng>
-		<ukr>Ти казав - можна підійти, якщо що потрібно буде?</ukr>
-		<fra>Vous avez dit - vous pouvez venir si vous avez besoin de quoi que ce soit?</fra>
-		<pln>Mówiłeś, że można przyjść, jeśli coś będzie trzeba?</pln>
+		<rus>%c[255,235,95,125]Ты говорил - можно подойти, если что нужно будет?</rus>
+		<eng>%c[255,235,95,125]You said I could come to you if I need something?</eng>
+		<ukr>%c[255,235,95,125]Ти казав - можна підійти, якщо що потрібно буде?</ukr>
+		<fra>%c[255,235,95,125]Vous avez dit - vous pouvez venir si vous avez besoin de quoi que ce soit?</fra>
+		<pln>%c[255,235,95,125]Mówiłeś, że można przyjść, jeśli coś będzie trzeba?</pln>
 	</string>
 	<string id="trade_dialog_kuznezov_1">
 		<rus>Значит нужно... Тащи водочку - может чем и помогу... По количеству пузырей...\nЧто именно нужно?</rus>
@@ -4083,11 +4083,11 @@
 		<pln>Lista Zimnego:\n\n1. Za 3 muchomory:\n - cztery paczki nabojów 7,62x25mm PS dla PPSz-41;\n - jedna skrzynka 7.62x51mm dla MG-42;\n - dwie wojskowe apteczki;\n - trzy antyrady;\n - dwie paczki nabojów 5,45x39mm;\n - dwie paczki nabojów 5.56x45mm SS109;\n - dwie paczki nabojów 9x39mm PAB- 9.\n2. Trzy granaty F-1 za "Grawi" albo za "Kotlet" albo za dwa "Skrętaki".\n3. Cztery apteczki za "Śluzowiec" albo za dwa "Świecidełka" albo za dwie "Kamienne Krwie".</pln>
 	</string>
 	<string id="price_sepator_text">
-		<rus>Список Сепатора:\n\n За 3 хвоста псевдособаки:\n - две пачки дроби 12-го калибра;\n - две пачки дротиков;\n - две пачки дроби 410-го калибра;\n - две пачки пулевых патронов 410-го калибра.</rus>
-		<eng>Sepator's List:\n\n For 3 pseudodog tails:\n - two packs of 12x70 birdshot;\n - two packs of 12x70 flechette;\n - two packs of 410 birdshot;\n - two packs of 410 slug.</eng>
-		<ukr>Список Сепатора:\n\n За 3 хвоста псевдособаки:\n - дві пачки дробу 12-го калібру;\n - дві пачки дротиків;\n - дві пачки дробу 410-го калібру;\n - дві пачки кульових патронів 410-го калібру.</ukr>
-		<fra>Liste des Sépator:\n\n Pour 3 queues de pseudo-chiens:\n - deux paquets de tir de calibre 12;\n - deux paquets de fléchettes;\n - deux paquets de tir de calibre 410;\n - deux paquets de balle. cartouches du 410 slug calibre.</fra>
-		<pln>Lista Sepatora:\n\n Za 3 ogony pseudopsa:\n - dwie paczki śrutu kaliber 12;\n - dwie paczki strzałek;\n - dwie paczki śrutu kaliber .410;\n - dwie paczki kuli kaliber .410.</pln>
+		<rus>Список Сепатора:\n\n За 3 хвоста псевдособаки:\n - две пачки дроби 12-го калибра;\n - две пачки дротиков;\n - две пачки дроби 410-го калибра;\n - две пачки пулевых патронов 410-го калибра;\n - две пачки дроби 20-го калибра.</rus>
+		<eng>===Sepator's List:\n\n For 3 pseudodog tails:\n - two packs of 12x70 birdshot;\n - two packs of 12x70 flechette;\n - two packs of 410 birdshot;\n - two packs of 410 slug;\n - две пачки дроби 20-го калибра.</eng>
+		<ukr>===Список Сепатора:\n\n За 3 хвоста псевдособаки:\n - дві пачки дробу 12-го калібру;\n - дві пачки дротиків;\n - дві пачки дробу 410-го калібру;\n - дві пачки кульових патронів 410-го калібру;\n - две пачки дроби 20-го калибра.</ukr>
+		<fra>===Liste des Sépator:\n\n Pour 3 queues de pseudo-chiens:\n - deux paquets de tir de calibre 12;\n - deux paquets de fléchettes;\n - deux paquets de tir de calibre 410;\n - deux paquets de balle. cartouches du 410 slug calibre;\n - две пачки дроби 20-го калибра.</fra>
+		<pln>===Lista Sepatora:\n\n Za 3 ogony pseudopsa:\n - dwie paczki śrutu kaliber 12;\n - dwie paczki strzałek;\n - dwie paczki śrutu kaliber .410;\n - dwie paczki kuli kaliber .410;\n - две пачки дроби 20-го калибра.</pln>
 	</string>
 	<string id="price_alexandrych_text">
 		<rus>Список Александрыча:\n\n За 10 лягушачьих лапок:\n - три пачки бронебойных 5,45x39мм или бронебойных 5,56х45мм.</rus>
@@ -4097,18 +4097,18 @@
 		<pln>===Lista Aleksandrycza:\n\n Za 5 rąk zombie:\n - trzy paczki przeciwpancernych 5,45x39mm albo przeciwpancernych 5.56x45mm.</pln>
 	</string>
 	<string id="price_dan_text">
-		<rus>Список Дэна:\n\n1. 2 пачки дроби 410-го калибра - за 5 хвостов слепого пса;\n2. Пачка дроби 12-го калибра - за 5 голов тушкана;\n3. 2 пачки картечи - за две руки контролёра.</rus>
+		<rus>Список Дэна:\n\n1. 2 пачки дроби 410-го калибра - за 5 хвостов слепого пса;\n2. Пачка дроби 12-го калибра - за 5 голов тушкана;\n3. 2 пачки картечи 12-го калибра - за две руки контролёра.</rus>
 		<eng>===Список Дэна:\n\n1. 2 пачки дроби 410-го калибра - за 5 хвостов слепого пса;\n2. Пачка дроби 12-го калибра - за 5 голов тушкана;\n3. 2 пачки картечи - за две руки контролёра.</eng>
 		<ukr>Список Дена:\n\n1. 2 пачки дробу 410-го калібру - за 5 хвостів сліпого пса;\n2. Пачка дробу 12-го калібру - за 5 голів тушкана;\n3. 2 пачки картечі - за дві руки контролера.</ukr>
 		<fra>La liste de Dan: \n\n1. 2 paquets de calibre 410 - pour 5 queues de chien aveugle;\n2. Un paquet d'un coup de calibre 12 est pour 5 têtes d'un coney; \n3. 2 paquets de grapeshot - pour les deux mains du contrôleur.</fra>
 		<pln>Lista Dana:\n\n1. 2 paczki śrutu kaliber 410 - za 5 ogonów ślepych psów;\n2. Paczka śrutu kaliber 12 - za 5 główek tuszkanów;\n3. 2 paczki kartaczy - za dwie ręce kontrolera.</pln>
 	</string>
 	<string id="price_fanat_text">
-		<rus>Список Фаната:\n\n За 15 лап псевдогиганта:\n - пятнадцать пачек картечи 12-го калибра.</rus>
-		<eng>===Fanat's List:\n\n For 15 psevdogigant hands:\n - пятнадцать пачек картечи 12-го калибра.</eng>
-		<ukr>Список Фаната:\n\n За 15 лап псевдогіганта:\n - п'ятнадцять пачок картечі 12-го калібру.</ukr>
-		<fra>===Список Фаната:\n\n За 15 лап псевдогиганта:\n - пятнадцать пачек картечи 12-го калибра.</fra>
-		<pln>===Lista Fanata:\n\n Za 15 łap pseudogiganta:\n - trzydzieści paczek kartaczy kaliber 12.</pln>
+		<rus>Список Фаната:\n\n За 15 лап псевдогиганта:\n - десять пачек картечи 12-го калибра.</rus>
+		<eng>===Fanat's List:\n\n For 15 psevdogigant hands:\n - десять пачек картечи 12-го калибра.</eng>
+		<ukr>===Список Фаната:\n\n За 15 лап псевдогіганта:\n - десять пачок картечі 12-го калібру.</ukr>
+		<fra>===Список Фаната:\n\n За 15 лап псевдогиганта:\n - десять пачек картечи 12-го калибра.</fra>
+		<pln>===Lista Fanata:\n\n Za 15 łap pseudogiganta:\n - десять paczek kartaczy kaliber 12.</pln>
 	</string>
 	<string id="price_akim_text">
 		<rus>Список Акима:\n\n1. Короб для минигана - за 10 тысяч;\n2. Короб для М60 - за 8 тысяч и артефакт "Грави";\n3. Короб для ПКМ/Печенега - за 5 тысяч и артефакт "Медуза".</rus>
