@@ -1002,6 +1002,7 @@
 		<ukr>Щоденник Лікаря</ukr>
 		<pln>Dziennik Doktora</pln>
 	</string>
+	<!-- !!!! Удалить для НИ -->
 	<string id="item_computer_desc">
 		<rus>Системный блок компьютера с автостанции Припяти. Содержит важную информацию, необходимую для организации телепорта.</rus>
 		<eng>Computer system unit from the Pripyat bus station. Contains important information, essential for making a teleportation device.</eng>
@@ -1014,6 +1015,7 @@
 		<ukr>Системник</ukr>
 		<pln>Jednostka centralna</pln>
 	</string>
+	<!-- Удалить энд -->
 	<string id="item_diplomat_desc">
 		<rus>Дипломат, найденный в лаборатории Х-16, содержит подробные сейсмологические и геологические карты Янтаря.</rus>
 		<eng>A briefcase, found in the X-16 laboratory, containing detailed seismological and geological maps of Yantar.</eng>
@@ -1245,7 +1247,7 @@
 		<pln>Idź i kup sobie.</pln>
 	</string>
 	<string id="artmod_122_dialog_0">
-		<rus>Здорово ещё раз, как обстановка? Принёс я тебе ружьишко.</rus>
+		<rus>Здорово ещё раз. Как обстановка? Принёс я тебе ружьишко.</rus>
 		<eng>Hello again, how's the situation? Brought you a shotgun.</eng>
 		<ukr>Здорово ще раз, як обстановка? Приніс я тобі рушницю.</ukr>
 		<pln>Witam ponownie, jak sytuacja? Przyniosłem ci strzelbę.</pln>
@@ -1257,16 +1259,16 @@
 		<pln>Znowu bandyci się ruszyli... W samą porę jesteś.</pln>
 	</string>
 	<string id="artmod_122_dialog_2">
-		<rus>Держи, помощь не нужна?</rus>
+		<rus>Держи. Помощь не нужна?</rus>
 		<eng>Take it, need any help?</eng>
 		<ukr>Тримай, допомога не потрібна?</ukr>
 		<pln>Trzymaj, pomocy nie potrzebujesz?</pln>
 	</string>
 	<string id="artmod_122_dialog_3">
-		<rus>Да нет, сами справимся... Постой, я же обещал тебе рассказать, как получить "Слизняк". Значит так: - берёшь "Медузу", "Выверт", хвост слепого пса и колбасы, грамм 300... Не смейся, я серьёзно. Бросаешь всё это в аномалию "Воронка", и через минут десять тебя будет ждать "Слизняк". Сам так делал, без балды.</rus>
-		<eng>No, we'll manage ourselves... Wait, I promised to tell you, how to get "Slug". All right: take a "Jellyfish", a "Wrenched", a dog's tail and 300 grams of sausage... Don't you laugh, I'm serious. Then throw it all in a "Vortex" anomaly, and in ten minutes a "Slug" will be waiting for you. Did it myself, no shit.</eng>
-		<ukr>Та ні, самі впораємося... Стривай, я ж обіцяв тобі розповісти як отримати "Слимака". Значить так: - береш "Медузу", "Виверт", хвіст сліпого пса і ковбаси, грам 300... Не смійся, я серйозно. Кидаєш все це в аномалію "Воронка", і через хвилин десять тебе чекатиме "Слимак". Сам так робив, без балди.</ukr>
-		<pln>Nie... Sami damy radę... Poczekaj, przecież obiecałem ci powiedzieć jak otrzymać "Śluzowca". Znaczy tak: - bierzesz Meduzę, Skrętak, ogon ślepego psa i kiełbasę, ze 300 gram... Nie śmiej się, ja na poważnie. Wrzucasz to wszystko w anomalię "Lejek", i... za jakieś dziesięć minut będzie na ciebie czekać "Śluzowiec"... Sam tak robiłem, bez kitu.</pln>
+		<rus>Да нет, сами справимся... Постой, я же обещал тебе рассказать, как получить "Слизняк". Значит так: берёшь "Медузу", "Выверт", хвост слепого пса и колбасы грамм 300... Не смейся, я серьёзно. Бросаешь всё это в аномалию "Воронка", и через минут десять тебя будет ждать "Слизняк". Сам так делал, без балды. Также скинул на твой КПК список изношенных стволов для образовательного учреждения, если вдруг решишь помочь в сборе.</rus>
+		<eng>===No, we'll manage ourselves... Wait, I promised to tell you, how to get "Slug". All right: take a "Jellyfish", a "Wrenched", a dog's tail and 300 grams of sausage... Don't you laugh, I'm serious. Then throw it all in a "Vortex" anomaly, and in ten minutes a "Slug" will be waiting for you. Did it myself, no shit.</eng>
+		<ukr>===Та ні, самі впораємося... Стривай, я ж обіцяв тобі розповісти як отримати "Слимака". Значить так: - береш "Медузу", "Виверт", хвіст сліпого пса і ковбаси, грам 300... Не смійся, я серйозно. Кидаєш все це в аномалію "Воронка", і через хвилин десять тебе чекатиме "Слимак". Сам так робив, без балди.</ukr>
+		<pln>===Nie... Sami damy radę... Poczekaj, przecież obiecałem ci powiedzieć jak otrzymać "Śluzowca". Znaczy tak: - bierzesz Meduzę, Skrętak, ogon ślepego psa i kiełbasę, ze 300 gram... Nie śmiej się, ja na poważnie. Wrzucasz to wszystko w anomalię "Lejek", i... za jakieś dziesięć minut będzie na ciebie czekać "Śluzowiec"... Sam tak robiłem, bez kitu.</pln>
 	</string>
 	<string id="tex_esc_petruha_toz">
 		<rus>Петруха, руководитель группы, просит принести ему ружьё ТОЗ-34, которое очень пригодится ему в деле уничтожения всяких тварей.</rus>
@@ -2604,10 +2606,10 @@
 		<pln>Dobra, zabieraj swoją skrzynkę.</pln>
 	</string>
 	<string id="artmod_522_dialog_3">
-		<rus>Ух-х, тяжёлый... Есть куда рецептик записать? Вот он, на экране моего КПК...\nЕсли понадобится спрятать что-либо, или там, от непогоды укрыться - пользуйся небольшим убежищем, которое находится напротив поворота на Припять. Там раньше начинался вход в лабораторию Х-10, но во время одного из Выбросов перекосило шлюз и вглубь не пробраться. Код к внешней двери - 1287975.</rus>
-		<eng>Ooh, it's heavy... Is there a way to write down a recipe? Here it is, on my PDA's screen...\nIf you ever need to hide anything, or like shelter from bad weather - use that little place of refuge, located across from the turn to Pripyat. There once was an entrance to the X-10 lab, but during one of the blowouts the airlock door got warped and jammed, so, no entry through there. The code for the outer door is 1287975.</eng>
-		<ukr>Ух-х, важкий... Є куди рецептик записати, ось він, на екрані мого КПК...\nЯкщо знадобиться заховати що-небудь, або там, від негоди сховатися - користуйся невеликим притулком, який знаходиться навпроти повороту на Прип'ять. Там раніше починався вхід в лабораторію Х-10, але під час одного з викидів перекосило шлюз і вглиб не пробитися. Код до зовнішніх дверей - 1287975.</ukr>
-		<pln>O żesz ty, ale ciężka... Jeśli masz gdzie receptę zapisać, to jest tu, na ekranie mojego PDA... \nJak będziesz chciał coś schować, albo, ja wiem, schować się przed deszczem - korzystaj z pewnego ukrycia, które znajduje się naprzeciw zakrętu na Prypeć. Tam kiedyś zaczynało się wejście do laboratorium X-10, ale w czasie jednej z emisji uszkodziła się śluza i już nie można tam teraz wejść... Kod do zewnętrznych drzwi to 1287975.</pln>
+		<rus>Ух-х, тяжёлый... Есть куда рецептик записать? Вот он, на экране моего КПК...\nЕсли понадобится спрятать что-либо или там, от непогоды укрыться - пользуйся небольшим убежищем, которое находится напротив поворота на Припять. Там раньше начинался вход в лабораторию Х-10, но во время одного из Выбросов перекосило шлюз и вглубь не пробраться. Код к внешней двери - 1287975. Вот ещё списочек изношенных стволов для экспериментов учёным в электронном формате, загрузил на твой КПК, чтоб удобнее собирать было.</rus>
+		<eng>===Ooh, it's heavy... Is there a way to write down a recipe? Here it is, on my PDA's screen...\nIf you ever need to hide anything, or like shelter from bad weather - use that little place of refuge, located across from the turn to Pripyat. There once was an entrance to the X-10 lab, but during one of the blowouts the airlock door got warped and jammed, so, no entry through there. The code for the outer door is 1287975.</eng>
+		<ukr>===Ух-х, важкий... Є куди рецептик записати, ось він, на екрані мого КПК...\nЯкщо знадобиться заховати що-небудь, або там, від негоди сховатися - користуйся невеликим притулком, який знаходиться навпроти повороту на Прип'ять. Там раніше починався вхід в лабораторію Х-10, але під час одного з викидів перекосило шлюз і вглиб не пробитися. Код до зовнішніх дверей - 1287975.</ukr>
+		<pln>===O żesz ty, ale ciężka... Jeśli masz gdzie receptę zapisać, to jest tu, na ekranie mojego PDA... \nJak będziesz chciał coś schować, albo, ja wiem, schować się przed deszczem - korzystaj z pewnego ukrycia, które znajduje się naprzeciw zakrętu na Prypeć. Tam kiedyś zaczynało się wejście do laboratorium X-10, ale w czasie jednej z emisji uszkodziła się śluza i już nie można tam teraz wejść... Kod do zewnętrznych drzwi to 1287975.</pln>
 	</string>
 	<string id="tex_sak_repair_box">
 		<rus>Сяк, торговец с Радара, сможет заняться ремонтом, но для этого нужно принести от Сидоровича ящик с необходимым инструментом.</rus>
@@ -5042,7 +5044,7 @@
 		<pln>Fanat mówi, że może nastroić teleport przenoszący z Kordonu na Magazyny Wojskowe. Do tego trzeba znaleźć w laboratorium X-18 notebook z mapą Magazynów.</pln>
 	</string>
 	<string id="teleport_042_dialog_0">
-		<rus>Привет Фанат, нашёл я ноут.</rus>
+		<rus>Привет, Фанат, нашёл я ноут.</rus>
 		<eng>Hello, Fanat, here's the laptop.</eng>
 		<ukr>Привіт Фанат, знайшов я ноут.</ukr>
 		<pln>Cześć Fanat, znalazłem notebook.</pln>
@@ -5120,7 +5122,7 @@
 		<pln>A czemu to wszystko takie mokre? W smarkach jakichś utytłane...</pln>
 	</string>
 	<string id="teleport_052_dialog_2">
-		<rus>Слушай, я, наверное, не с продуктовой базы иду.</rus>
+		<rus>Слушай, я ведь не с продуктовой базы иду.</rus>
 		<eng>Listen here, surely I've not come back from a storehouse.</eng>
 		<ukr>Слухай, я, напевно, не з продуктової бази йду.</ukr>
 		<pln>Słuchaj, możesz mieć pewność, że nie wracam z bazaru.</pln>
@@ -5138,40 +5140,40 @@
 		<pln>Słuchaj, a prosto do Sarkofagu można się dostać?</pln>
 	</string>
 	<string id="teleport_06_dialog_1">
-		<rus>Наверное, можно, только данных оттуда нет, и где взять, не знаю... А вот где геологическая съёмка Припяти располагается - знаю.</rus>
-		<eng>Maybe, it is, it's just that I've no data chart for this area and I've no idea where to find it... What I do know is where the geological survey for Pripyat is.</eng>
-		<ukr>Напевно можна, тільки даних звідти немає, і де взяти, не знаю... А от де геологічна зйомка Прип'яті розташовується - знаю.</ukr>
-		<pln>Na pewno można... Tylko danych stamtąd nie ma, a skąd wziąć, nie wiem... Ale gdzie jest geologiczne zdjęcie Prypeci, to wiem.</pln>
+		<rus>Наверное, можно, только данных оттуда нет, и где взять, не знаю... А вот где геологическая съёмка Припяти располагается - знаю. Покопавшись в документах из дипломата, который ты приволок мне в прошлый раз, и досконально их изучив, я выяснил, что под городом Припять имеется обширное подземелье с многоуровневой автомобильной развязкой.</rus>
+		<eng>===Maybe, it is, it's just that I've no data chart for this area and I've no idea where to find it... What I do know is where the geological survey for Pripyat is.</eng>
+		<ukr>===Напевно можна, тільки даних звідти немає, і де взяти, не знаю... А от де геологічна зйомка Прип'яті розташовується - знаю.</ukr>
+		<pln>===Na pewno można... Tylko danych stamtąd nie ma, a skąd wziąć, nie wiem... Ale gdzie jest geologiczne zdjęcie Prypeci, to wiem.</pln>
 	</string>
 	<string id="teleport_06_dialog_4">
-		<rus>Ха! Наверняка, в самой Припяти.</rus>
-		<eng>Ha! Surely it's in Pripyat.</eng>
-		<ukr>Ха! Напевно, у самій Прип'яті.</ukr>
-		<pln>Ha! Na pewno w samej Prypeci.</pln>
+		<rus>Это правда, мне довелось там побывать. Тот ещё лабиринт!</rus>
+		<eng>===Ha! Surely it's in Pripyat.</eng>
+		<ukr>===Ха! Напевно, у самій Прип'яті.</ukr>
+		<pln>===Ha! Na pewno w samej Prypeci.</pln>
 	</string>
 	<string id="teleport_06_dialog_5">
-		<rus>Точно! Будешь там, посмотри в здании автовокзала, компьютер с данными вроде должен был сохраниться.</rus>
-		<eng>Exactly! While you're there, take a look into the bus station, the computer with the data should be intact.</eng>
-		<ukr>Точно! Будеш там, подивися в будівлі автовокзалу, комп'ютер з даними начебто повинен був зберегтися.</ukr>
-		<pln>Dokładnie! Jak tam będziesz, poszukaj w budynku dworca autobusowego. Komputer z danymi chyba powinien się tam uchować.</pln>
+		<rus>Придётся тебе спуститься туда ещё раз. Видел там компьютер, ноутбук, КПК или какой-нибудь другой электронный носитель? В бумагах сказано, что сейсмологические карты хранятся на таком устройстве.</rus>
+		<eng>===Exactly! While you're there, take a look into the bus station, the computer with the data should be intact.</eng>
+		<ukr>===Точно! Будеш там, подивися в будівлі автовокзалу, комп'ютер з даними начебто повинен був зберегтися.</ukr>
+		<pln>===Dokładnie! Jak tam będziesz, poszukaj w budynku dworca autobusowego. Komputer z danymi chyba powinien się tam uchować.</pln>
 	</string>
 	<string id="teleport_06_dialog_2">
-		<rus>Ладно, всё равно в ту сторону, поищу!</rus>
-		<eng>Ok, I'm heading that way anyway, I'll look for it!</eng>
-		<ukr>Гаразд, все одно в ту сторону, пошукаю!</ukr>
-		<pln>Dobra... I tak idę w tę stronę. Poszukam!</pln>
+		<rus>Память меня немного подводит, но, вроде, видел что-то подобное в одном из туннелей, поищу.</rus>
+		<eng>===Ok, I'm heading that way anyway, I'll look for it!</eng>
+		<ukr>===Гаразд, все одно в ту сторону, пошукаю!</ukr>
+		<pln>===Dobra... I tak idę w tę stronę. Poszukam!</pln>
 	</string>
 	<string id="teleport_06_dialog_3">
-		<rus>Если доберусь до Припяти, не до того будет.</rus>
-		<eng>If I get to Pripyat, I won't have time for this.</eng>
-		<ukr>Якщо доберуся до Прип'яті, не до того буде.</ukr>
-		<pln>Jeśli już dotrę do Prypeci, będę miał inne zajęcia.</pln>
+		<rus>В прошлый спуск я реально заблудился и кое-как нашёл путь наверх, больше туда не полезу.</rus>
+		<eng>===If I get to Pripyat, I won't have time for this.</eng>
+		<ukr>===Якщо доберуся до Прип'яті, не до того буде.</ukr>
+		<pln>===Jeśli już dotrę do Prypeci, będę miał inne zajęcia.</pln>
 	</string>
 	<string id="tex_fanat_teleport_06">
-		<rus>Фанат говорит, что может настроить телепорт для прыжка с Кордона в Припять. Для этого нужно найти в здании автовокзала Припяти компьютер с геологической картой местности.</rus>
-		<eng>Fanat says he can set up a teleport to instantly travel from Cordon to Pripyat. For that it is necessary to find in the bus station building a computer with the geological map of the area.</eng>
-		<ukr>Фанат каже, що може налаштувати телепорт для стрибка з Кордону в Прип'ять. Для цього потрібно знайти в будівлі автовокзалу в Прип'яті комп'ютер з геологічною картою місцевості.</ukr>
-		<pln>Fanat mówi, że może nastroić teleport przenoszący z Kordonu do Prypeci. Ale trzeba mu znaleźć w budynku dworca autobusowego w Prypeci komputer z geologiczną mapą lokacji.</pln>
+		<rus>Фанат говорит, что может настроить телепорт для прыжка с Кордона в Центральную Припять. Для этого нужно найти в Подземелье под городом электронный носитель с сейсмологической картой местности. Вроде бы, на каком-то из уровней был компьютер... или нет?</rus>
+		<eng>===Fanat says he can set up a teleport to instantly travel from Cordon to Pripyat. For that it is necessary to find in the bus station building a computer with the geological map of the area.</eng>
+		<ukr>===Фанат каже, що може налаштувати телепорт для стрибка з Кордону в Прип'ять. Для цього потрібно знайти в будівлі автовокзалу в Прип'яті комп'ютер з геологічною картою місцевості.</ukr>
+		<pln>===Fanat mówi, że może nastroić teleport przenoszący z Kordonu do Prypeci. Ale trzeba mu znaleźć w budynku dworca autobusowego w Prypeci komputer z geologiczną mapą lokacji.</pln>
 	</string>
 	<string id="teleport_062_dialog_0">
 		<rus>Фанат, вернулся я...</rus>
@@ -5186,16 +5188,16 @@
 		<pln>Ale masz wygląd... Jak najprawdziwszy nieboszczyk.</pln>
 	</string>
 	<string id="teleport_062_dialog_2">
-		<rus>Устал я... Забирай комп...</rus>
-		<eng>I'm tired... Take the computer...</eng>
-		<ukr>Втомився я... Забирай комп...</ukr>
-		<pln>Zmęczony jestem... Zabieraj komp...</pln>
+		<rus>Устал я... Забирай флеху...</rus>
+		<eng>===I'm tired... Take the computer...</eng>
+		<ukr>===Втомився я... Забирай комп...</ukr>
+		<pln>===Zmęczony jestem... Zabieraj komp...</pln>
 	</string>
 	<string id="teleport_062_dialog_3">
-		<rus>Отдыхай, Меченый, здесь у нас тихо. Возьми вот "Лунный свет", пригодится, если надумаешь в Припять нырнуть.</rus>
-		<eng>Have a rest, Marked One, we've got a quiet place here. Take that "Moonlight", it'll be of use if you decide to go to Pripyat.</eng>
-		<ukr>Відпочивай, Мічений, тут у нас тихо. Візьми ось "Місячне світло", стане в нагоді, якщо надумаєш в Прип'ять пірнути.</ukr>
-		<pln>Odpocznij, Naznaczony, u nas spokojnie... Weź ten "Blask Księżyca", przyda się, jeśli zechcesz skoczyć do Prypeci.</pln>
+		<rus>Отдыхай, Меченый, здесь у нас тихо... Так... ага, для телепортации нужен "Лунный свет", у меня как раз такой имеется, бери, пригодится, если надумаешь в Припять нырнуть.</rus>
+		<eng>===Have a rest, Marked One, we've got a quiet place here. Take that "Moonlight", it'll be of use if you decide to go to Pripyat.</eng>
+		<ukr>===Відпочивай, Мічений, тут у нас тихо. Візьми ось "Місячне світло", стане в нагоді, якщо надумаєш в Прип'ять пірнути.</ukr>
+		<pln>===Odpocznij, Naznaczony, u nas spokojnie... Weź ten "Blask Księżyca", przyda się, jeśli zechcesz skoczyć do Prypeci.</pln>
 	</string>
 	<string id="teleport_escape_dialog_0">
 		<rus>Ну давай, телепортируй меня...</rus>
