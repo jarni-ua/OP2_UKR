@@ -117,10 +117,10 @@
 		<pln>Major Kuźniecow dał mi osobiste zlecenie - znaleźć 12 numerów czasopisma "Playboy" za zeszły rok. Ech, ciężko w Zonie bez kobiet!</pln>
 	</string>
 	<string id="hamster_kuznec7">
-		<rus>На блокпост вояк возле разрушенного ж/д моста постоянно нападает кровосос. Кузнецов решил проверить, не испугаюсь ли я пойти на кровососа лишь с одним ножом. Мутант должен быть где-то поблизости. Нужно начать поиски кровососущего немедленно, не уходя с Кордона.</rus>
-		<eng>A bloodsucker has consistently been attacking the military checkpoint under the destroyed railway bridge in the Cordon. Kuznetsov asked me if I would be too afraid to go after this creature armed with only a knife. It must be somewhere nearby... I've got to start looking immediately, without leaving the Cordon.</eng>
-		<ukr>На блокпост вояк біля зруйнованого залізничного моста постійно нападає кровосос. Кузнєцов вирішив перевірити, чи не злякаюсь я піти на кровососа лише з одним ножем. Мутант повинен бути десь поблизу. Потрібно почати пошуки кровососа негайно, не йдучи з Кордону.</ukr>
-		<pln>Na posterunek wojskowy przy zburzonym moście kolejowym wciąż napada pijawka. Kuźniecow postanowił sprawdzić, czy się nie przestraszę pójść na pijawkę tylko z samym nożem. Mutant powinien był być gdzieś w pobliżu. Trzeba zacząć poszukiwania pijawki natychmiast, nie opuszczając Kordonu.</pln>
+		<rus>На блокпост вояк возле разрушенного ж/д моста постоянно нападает кровосос. Кузнецов решил проверить, не испугаюсь ли я пойти на раненого кровососа лишь с одним ножом. Мутант должен быть где-то поблизости. Нужно начать поиски кровососущего немедленно, не уходя с Кордона.</rus>
+		<eng>===A bloodsucker has consistently been attacking the military checkpoint under the destroyed railway bridge in the Cordon. Kuznetsov asked me if I would be too afraid to go after this creature armed with only a knife. It must be somewhere nearby... I've got to start looking immediately, without leaving the Cordon.</eng>
+		<ukr>===На блокпост вояк біля зруйнованого залізничного моста постійно нападає кровосос. Кузнєцов вирішив перевірити, чи не злякаюсь я піти на кровососа лише з одним ножем. Мутант повинен бути десь поблизу. Потрібно почати пошуки кровососа негайно, не йдучи з Кордону.</ukr>
+		<pln>===Na posterunek wojskowy przy zburzonym moście kolejowym wciąż napada pijawka. Kuźniecow postanowił sprawdzić, czy się nie przestraszę pójść na pijawkę tylko z samym nożem. Mutant powinien był być gdzieś w pobliżu. Trzeba zacząć poszukiwania pijawki natychmiast, nie opuszczając Kordonu.</pln>
 	</string>
 	<string id="hamster_kuznec8">
 		<rus>Кузнецов поспорил с одним из командиров спецназа, что сможет раздобыть в Зоне десять бутылок ликёра "Бейлиз" к намеченному сроку. Дело принципиальное, так как проигравший отдаст победителю своё личное оружие. Майор попросил моей помощи в поисках столь редкого в Зоне алкоголя. Начинать поиски лучше всего с торговцев.</rus>
@@ -133,6 +133,12 @@
 		<eng>"Search the destroyed bridge leading to Limansk - the coordinates on the old map point to it."\n Kuznetsov remembered an interesting detail that should help me find his stashed photo album. Its meaning, is that the secret of the location of the stash is hidden within the hint itself. </eng>
 		<ukr>"Оглянь зруйнований міст, який веде в Лиманськ - координати на старій карті вказують саме на нього."\n Кузнєцов також згадав цікаву деталь, яка повинна допомогти мені відшукати його схованку з фотоальбомом. Сенс її в тому, що секрет місцезнаходження схрону прихований саме в самій наводці.</ukr>
 		<pln>"Obejrzyj zburzony most, prowadzący do Limańska - współrzędne na starej mapie wskazują właśnie na niego."\n Kuźniecow przypomniał sobie interesujący szczegół, który powinien pomóc mi odszukać jego schowek z albumem fotograficznym. Rzecz w tym, że tajemnica położenia schowka jest ukryta właśnie w samej wskazówce.</pln>
+	</string>
+	<string id="teuton_knight">
+		<rus>Фух! Рейдер Кузнецову не наврал, меч в камне действительно что-то удерживает. Геомагнитная аномалия? А если попробовать повесить на пояс артефакт, повышающий физическую силу владельца. Если мне не изменяет память, то наибольшую прибавку даёт "Гриб".</rus>
+		<eng>==="Search the destroyed bridge leading to Limansk - the coordinates on the old map point to it."\n Kuznetsov remembered an interesting detail that should help me find his stashed photo album. Its meaning, is that the secret of the location of the stash is hidden within the hint itself.</eng>
+		<ukr>==="Оглянь зруйнований міст, який веде в Лиманськ - координати на старій карті вказують саме на нього."\n Кузнєцов також згадав цікаву деталь, яка повинна допомогти мені відшукати його схованку з фотоальбомом. Сенс її в тому, що секрет місцезнаходження схрону прихований саме в самій наводці.</ukr>
+		<pln>==="Obejrzyj zburzony most, prowadzący do Limańska - współrzędne na starej mapie wskazują właśnie na niego."\n Kuźniecow przypomniał sobie interesujący szczegół, który powinien pomóc mi odszukać jego schowek z albumem fotograficznym. Rzecz w tym, że tajemnica położenia schowka jest ukryta właśnie w samej wskazówce.</pln>
 	</string>
 	<string id="plov_to_kulinar">
 		<rus>Артёму Кулинару для приготовления плова нужен мешок риса и немного моркови. Он попросил сходить к Бармену и принести нужные ингредиенты.</rus>
@@ -313,9 +319,9 @@
 		<pln>Kalinin i jego ludzie potrzebują najprostsze noktowizory, 8 sztuk. Wspomniał o chorążym z Agropromu, który, jakoby, może dostarczyć taką ilość. Zapewne, to Szerstiuk.</pln>
 	</string>
 	<string id="sherstuk_ammo">
-		<rus>Прапорщик Шерстюк сможет достать ПНВ, но лишь после того, как я выполню небольшое задание. Чтобы сорвать сделку о закупке оружия между наёмниками и мстителями, которая будет проходить в ближайшие дни в здании электроподстанции на Металлургическом Заводе, мне нужно последовательно замаскировать на каждом этаже этого здания, включая подвал, по одной бомбе. И это всё, представляешь?! Даже на кнопку детонатора не дадут нажать!</rus>
+		<rus>Прапорщик Шерстюк сможет достать ПНВ, но лишь после того, как я выполню небольшое задание. Чтобы сорвать сделку о закупке оружия между наёмниками и мстителями, которая будет проходить в ближайшие дни в здании электроподстанции на Металлургическом Заводе, мне нужно замаскировать на каждом этаже этого здания, включая подвал, по одной бомбе. И это всё, представляешь?! Даже на кнопку детонатора не дадут нажать!</rus>
 		<eng>===Ensign Sherstyuk will be able to get the NVG I need, but only after I help him. A customer left some artifact in a cache in one of the warehouses in the Wild Territory. I need to find this stash and bring them to Sherstyuk. According to the customer, the artifact sometimes emits sound signals similar to a beacon. This should make it easier for me to find it. When searching, it is better to remove the dosimeter and other devices that emit noise from the belt.</eng>
-		<ukr>Прапорщик Шерстюк зможе дістати ПНБ, але лише після того, як я виконаю невелике завдання. Щоб зірвати угоду про закупівлю зброї між найманцями і месниками, яка буде проходити в найближчі дні в будівлі електропідстанції на Металургійному Заводі, мені потрібно послідовно замаскувати на кожному поверсі цієї будівлі, включаючи підвал, по одній бомбі. І це все, уявляєш?! Навіть на кнопку детонатора не дадуть натиснути!</ukr>
+		<ukr>Прапорщик Шерстюк зможе дістати ПНБ, але лише після того, як я виконаю невелике завдання. Щоб зірвати угоду про закупівлю зброї між найманцями і месниками, яка буде проходити в найближчі дні в будівлі електропідстанції на Металургійному Заводі, мені потрібно замаскувати на кожному поверсі цієї будівлі, включаючи підвал, по одній бомбі. І це все, уявляєш?! Навіть на кнопку детонатора не дадуть натиснути!</ukr>
 		<pln>===Chorąży Szerstiuk będzie mógł dostarczyć PNW, ale tylko, jeśli najpierw mu pomogę. Zleceniodawca zostawił jakiś artefakt w schowku w jednym z magazynów w Dziczy. Muszę odnaleźć ten schowek i przynieść artefakt Szerstiukowi. Według słów zleceniodawcy, artefakt czasem wydaje sygnały dźwiękowe, podobne do pelengu radionadajnika. To powinno było ułatwić mi poszukiwania. Przy poszukiwaniach lepiej zdjąć z pasa dozymetr i inne przyrządy, wydające dźwięki.</pln>
 	</string>
 	<string id="taynik_bandit_td">
@@ -337,8 +343,8 @@
 		<pln>Kutwa powiedział, że do Wolności przyłączyło się wielu nowicjuszy i brakuje im broni. Tajny schowek z bronią znajduje się w jednym z domów w wiosce pijawek. Co prawda, osiedliła się tam rodzinka poltergeistów, które stworzyły ochronne pole siłowe naokoło domu, które nie pozwala wejść do środka. Trzeba poczekać do nocy i zniszczyć duchy ze zwykłego karabinu Gaussa. Trzeba dać sobie radę do godziny piątej rano.</pln>
 	</string>
 	<string id="krest_zapas">
-		<rus>На Неразведанной Земле пропала целая группа охотников, отправившихся на охоту к северным болотам. Кроме этого кто-то позарился на схрон Шуры Гинеколога с продовольствием и медикаментами, причём рюкзак был разодран в клочья. Среди припасов хранилась зажигалка - подарок старого друга. Поблизости от тайника её не оказалось. Вероятно, её слопал какой-то зверь вместе с едой. Похоже, эти два события как-то связаны. Мне нужно выяснить, что же здесь всё-таки произошло и по возможности вернуть подарок владельцу. А начать поиски стоит со схрона Шуры.</rus>
-		<eng>A whole group of hunters who went out into the northen swamps of the Unexplored Area have disappeared. In addition, somebody mentioned Gynecologist's stash of food and medicine had been torn to streds, and among those supplies was a lighter - a gift from an old friend. It wasn't anywhere near the cache, so it was probably eaten by the same beast that got into the stash. It seems these events are related somehow, and I need to find out what really happened and, if possible, return the lighter to it's owner. It's probably worth starting the search from the torn up cache. </eng>
+		<rus>На Неразведанной Земле пропала целая группа охотников, отправившихся на охоту к северным болотам. Кроме этого кто-то позарился на схрон Шуры Гинеколога с продовольствием и медикаментами, причём рюкзак был разодран в клочья. Среди припасов хранилась зажигалка - подарок старого друга, поблизости от тайника её не оказалось. Вероятно, её слопал какой-то зверь вместе с едой. Похоже, эти два события как-то связаны. Мне нужно выяснить, что же здесь всё-таки произошло и по возможности вернуть подарок владельцу. А начать поиски стоит со схрона Шуры.</rus>
+		<eng>A whole group of hunters who went out into the northen swamps of the Unexplored Area have disappeared. In addition, somebody mentioned Gynecologist's stash of food and medicine had been torn to streds, and among those supplies was a lighter - a gift from an old friend. It wasn't anywhere near the cache, so it was probably eaten by the same beast that got into the stash. It seems these events are related somehow, and I need to find out what really happened and, if possible, return the lighter to it's owner. It's probably worth starting the search from the torn up cache.</eng>
 		<ukr>На Нерозвіданій Землі пропала ціла група мисливців, які вирушили на полювання до північних болотах. Крім цього хтось зазіхнув на схрон Шури Гінеколога з продовольством і медикаментами, причому рюкзак був розідраний на шматки. Серед припасів зберігалася запальничка - подарунок старого друга. Поблизу від схованки її не виявилося. Ймовірно, її зжер якийсь звір разом з їжею. Схоже, ці дві події якось пов'язані. Мені потрібно з'ясувати, що ж тут все-таки відбулося і по можливості повернути подарунок власнику. А почати пошуки варто зі схрону Шури.</ukr>
 		<pln>Na Niezbadanych Terenach zaginęła cała grupa łowców, którzy udali się na polowanie w okolicę północnych bagien. Oprócz tego ktoś połakomił się na schowek Szura Ginekologa z żywnością i lekarstwami, przy czym plecak został rozdarty na strzepy. Wśród zapasów była też zapalniczka - prezent od starego przyjaciela. W pobliżu schowka nie było jej. Prawdopodobnie, zeżarło ją jakieś zwierzę razem z jedzeniem z plecaka. Prawdopodobnie, te dwa zdarzenia są ze sobą jakoś powiązane. Muszę wyjaśnić, co tu się naprawdę wydarzyło się i w miarę możliwości zwrócić zapalniczkę właścicielowi. A poszukiwania trzeba zacząć od schowka Szury.</pln>
 	</string>
@@ -623,10 +629,10 @@
 		<pln>===Pierwszy etap według przygotowania do neutralizacji szczególnego venoma jest zakończony, pora przejść do drugiego:\n \n"Jak dotrzesz do wielkiej hali z suwnicą, natychmiast właź na górę. Dotrzyj na dach kabiny sterowania dźwigiem i zajmij tam pozycję, stamtąd będziesz miał dobry widok na całą halę. A dalej obserwuj mutanta, jest bardzo agresywny i nie siedzi w jednym miejscu. Stalkerzy powinni rozmieścić butle w różnych miejscach. Jak tylko venom pojawi się przy jednej z nich, strzelaj do butli. Gaz jest pod niewielkim ciśnieniem, ale nie wybuchnie. Po rozprężeniu ten drań wciągnie pewną dawkę trującej substancji. Myślę, sześciu, siedem celnych trafień w butle wystarczy, by oszołomić potwora, a następnie go zabić. W samego mutanta lepiej nie strzelać, może go to rozwścieczyć i jeszcze gdzieś ucieknie. Jeśli nie masz przy sobie karabinu snajperskiego, to w moim schowku (górny poziom - pomieszczenie zabarykadowane różnymi rupieciami) leży WSSK "Głusza" pod amunicję .338 Lapua Magnum i trzy paczki nabojów do niej. Możesz użyć jej do wysadzenia butli, ale po zabiciu venoma przynieś karabin tutaj, jeszcze mi się przyda."</pln>
 	</string>
 	<string id="akill_vision">
-		<rus>С Акиллом связался командир наёмников Блэквотер. Фантом оказался у них в заложниках. Они хотят его обменять на прототип Гаусс-пистолета. Обмен должен состояться на заводе "Юпитер", в два часа ночи. Акиллу нужна насадка ночного видения на прицел своего «Выхлопа», чтобы прикрыть меня с дальней дистанции. Подобные девайсы есть у снайперов-невидимок Монолита, которые по ночам, примерно с полуночи, охраняют важные объекты в городе: речной вокзал, старый КБО и дом быта "Юбилейный".</rus>
-		<eng>Akill has been contacted by the commander of the Blackwater mercs, and they've got Phantom held hostage. They want to exchange him for the prototype gauss pistol. The exchange is to take place at the Jupiter plant, at two in the morning. Akill needs a night vision attachment for the scope of his "Exhaust" sniper rifle so he can cover me from a distance. The Monolith stealth snipers have similar devices... They're usually posted outside at night to protect important locations in the city</eng>
-		<ukr>З Акіллом зв'язався командир найманців Блеквотер. Фантом опинився у них у заручниках. Вони хочуть його обміняти на прототип Гаусс-пістолета. Обмін повинен відбутися на заводі "Юпітер", о другій годині ночі. Акіллу потрібна насадка нічного бачення на приціл свого «Вихлопа», щоб прикрити мене з дальньої дистанції. Подібні девайси є у снайперів-невидимок Моноліту, які ночами, приблизно з півночі, охороняють важливі об'єкти в місті річковий вокзал, старий КБО і будинок побуту "Ювілейний".</ukr>
-		<pln>Z Akillem połączył się dowódca najemników Blackwater. Fantom jest u nich w niewoli. Chcą go wymienić na prototyp pistoletu Gaussa. Wymiana powinna odbyć się w fabryce "Jupiter", o drugiej w nocy. Akill potrzebuje noktowizorowej nakładki na celownik swojego "Wydechu", żeby ubezpieczać mnie z dalekiego dystansu. Podobne gadżety mają niewidzialni snajperzy Monolitu, którzy nocą, mniej więcej po północy, chronią ważne obiekty w mieście: Port Rzeczny, starą Stację Obsługi i dom handlowy "Jubilejny".</pln>
+		<rus>С Акиллом связался командир наёмников Блэквотер. Фантом оказался у них в заложниках, они хотят его обменять на прототип Гаусс-пистолета. Обмен должен состояться на заводе "Юпитер", в два часа ночи. Акиллу нужна насадка ночного видения на прицел своего «Выхлопа», чтобы прикрыть меня с дальней дистанции. Подобный девайс, вероятнее всего, есть у ночного снайпера-монолитовца, который ведёт стрельбу из района с девятиэтажками, необходимо обнаружить его позицию и завладеть насадкой.\nСледующая задача - нейтрализовать четыре группы невидимок Монолита, охраняющие важные объекты в городе: кинотеатр "Прометей, школу, старый КБО и дом быта "Юбилейный". В качестве трофеев надо собрать с трупов ПНВ, хотя бы 15 штук.\nПоследнее - мне предстоит пристрелять винтовку Акилла и настроить на ней новую оптику, ликвидировав 20 противников на дистанции в 100+ метров.</rus>
+		<eng>===Akill has been contacted by the commander of the Blackwater mercs, and they've got Phantom held hostage. They want to exchange him for the prototype gauss pistol. The exchange is to take place at the Jupiter plant, at two in the morning. Akill needs a night vision attachment for the scope of his "Exhaust" sniper rifle so he can cover me from a distance. The Monolith stealth snipers have similar devices... They're usually posted outside at night to protect important locations in the city</eng>
+		<ukr>===З Акіллом зв'язався командир найманців Блеквотер. Фантом опинився у них у заручниках. Вони хочуть його обміняти на прототип Гаусс-пістолета. Обмін повинен відбутися на заводі "Юпітер", о другій годині ночі. Акіллу потрібна насадка нічного бачення на приціл свого «Вихлопа», щоб прикрити мене з дальньої дистанції. Подібні девайси є у снайперів-невидимок Моноліту, які ночами, приблизно з півночі, охороняють важливі об'єкти в місті річковий вокзал, старий КБО і будинок побуту "Ювілейний".</ukr>
+		<pln>===Z Akillem połączył się dowódca najemników Blackwater. Fantom jest u nich w niewoli. Chcą go wymienić na prototyp pistoletu Gaussa. Wymiana powinna odbyć się w fabryce "Jupiter", o drugiej w nocy. Akill potrzebuje noktowizorowej nakładki na celownik swojego "Wydechu", żeby ubezpieczać mnie z dalekiego dystansu. Podobne gadżety mają niewidzialni snajperzy Monolitu, którzy nocą, mniej więcej po północy, chronią ważne obiekty w mieście: Port Rzeczny, starą Stację Obsługi i dom handlowy "Jubilejny".</pln>
 	</string>
 	<string id="mercenary_dogovor">
 		<rus>Пришло время встретиться с наёмниками Блэквотер и освободить Фантома. Обмен должен состояться на заводе "Юпитер", в два часа ночи, в мансарде, соединяющей два административных корпуса. При себе я должен иметь прототип Гаусс-пистолета... Чувствую, что это ловушка.</rus>
@@ -1123,10 +1129,10 @@
 		<pln>W PDA Sieni Dziennikarza zapisano warunki kontraktu, realizacja którego obiecuje duże honorarium. Nie wolno rezygnować z takiej okazji. Fotograf zdążył zrobić zdjęcia niektórych anomalii. Mi pozostaje zdjąć wskazane anomalie i oddać zdjęcie Sidorowiczowi. Dodatkowe warunki: fotografować trzeba centrum anomalii na ziemi, bez zoomu, optymalny dystans do celu 5-10 metrów. Zdjęcia, w których odległość jest mniejsza lub większa od wskazanej, nie będą się liczyć. Fotografować można w dowolnym porządku.</pln>
 	</string>
 	<string id="ohota_kogot">
-		<rus>На Юпитере появились необычные когти смерти - они практически невидимы для человеческого глаза. Эти существа очень опасны, поэтому я согласился убить их. Ной придумал способ, который позволит упростить мою задачу. Достаточно выстрелить в невидимку из игломёта Холода радиомаячком, чтобы я смог отслеживать перемещения монстра на карте КПК. В окрестностях завода должно быть не больше семи особей.</rus>
-		<eng>Some unusual deathclaws appeared in Jupiter recently, and they are almost invisible to the naked eye. These creatures are extremely dangerous, and I agreed to kill them. Noah came up with a way to simplify the task... I've got to shoot the invisible monster with a special needle containing a radio beacon, borrowed from Cold. That way, I can keep track of the monsters movements in my PDA. There should be no more than seven of these creatures near the Jupiter plant. </eng>
-		<ukr>На Юпітері з'явилися незвичайні кігті смерті - вони практично невидимі для людського ока. Ці істоти дуже небезпечні, тому я погодився вбити їх. Ной придумав спосіб, який дозволить спростити мою задачу. Досить вистрілити в невидимку з голкомета Холода радіомаячки, щоб я зміг відслідковувати переміщення монстра на карті КПК. В околицях заводу повинно бути не більше семи особин.</ukr>
-		<pln>Na Jupiterze pojawiły się wyjątkowe szpony śmierci, sa praktycznie niewidzialne dla ludzkiego oka. Te istoty są bardzo niebezpieczne, dlatego zgodziłem się je zabić. Noe wymyślił sposób, który pozwoli uprościć moje zadanie. Wystarczy wystrzelić w niewidzialnego szpona z igłowca Zimnego, igłą z radionadajnikiem, bym mógł śledzić przemieszczanie monstrum na mapie w PDA. W okolicy fabryki powinno być około siedmiu takich osobników.</pln>
+		<rus>На Юпитере появились необычные создания - они практически невидимы для человеческого глаза. Эти существа представляют большую опасность, поэтому я согласился убить их. Ной придумал способ, который позволит упростить мою задачу. Достаточно выстрелить в невидимку радиомаячком из игломёта Холода, чтобы я смог отслеживать перемещения монстра на карте КПК. В окрестностях завода должно быть не больше семи особей.</rus>
+		<eng>===Some unusual deathclaws appeared in Jupiter recently, and they are almost invisible to the naked eye. These creatures are extremely dangerous, and I agreed to kill them. Noah came up with a way to simplify the task... I've got to shoot the invisible monster with a special needle containing a radio beacon, borrowed from Cold. That way, I can keep track of the monsters movements in my PDA. There should be no more than seven of these creatures near the Jupiter plant.</eng>
+		<ukr>===На Юпітері з'явилися незвичайні кігті смерті - вони практично невидимі для людського ока. Ці істоти дуже небезпечні, тому я погодився вбити їх. Ной придумав спосіб, який дозволить спростити мою задачу. Досить вистрілити в невидимку з голкомета Холода радіомаячки, щоб я зміг відслідковувати переміщення монстра на карті КПК. В околицях заводу повинно бути не більше семи особин.</ukr>
+		<pln>===Na Jupiterze pojawiły się wyjątkowe szpony śmierci, sa praktycznie niewidzialne dla ludzkiego oka. Te istoty są bardzo niebezpieczne, dlatego zgodziłem się je zabić. Noe wymyślił sposób, który pozwoli uprościć moje zadanie. Wystarczy wystrzelić w niewidzialnego szpona z igłowca Zimnego, igłą z radionadajnikiem, bym mógł śledzić przemieszczanie monstrum na mapie w PDA. W okolicy fabryki powinno być około siedmiu takich osobników.</pln>
 	</string>
 	<string id="ugon_baggi">
 		<rus>Сидорович подкинул работёнку - нужно перегнать багги с мех.двора Болот к бункеру торговца. С Болот на Кордон ведут две дороги. Одна выводит на южный военный блокпост, другая за ж/д насыпь. По первой можно спокойно проехать, если там нет БТРов! Второй путь длиннее и сложнее, плюс придётся платить воякам за проезд.</rus>
@@ -1553,7 +1559,7 @@
 		<pln>===Wasyli chce, bym sprawdził ukryte właściwości rubinowych artefaktów - zdolność anihilowania pewnych anomalii. Jeśli to zrobię, to otrzymam działający palnik. Na początek trzeba się dowiedzieć, jaką anomalię anihiluje każdy z "rubinów". A żeby moje eksperymenty były mniej więcej obiektywne, trzeba sprawdzić każdy artefakt w trzech anomaliach.</pln>
 	</string>
 	<string id="arhara_ameba">
-		<rus>Архара попросил меня с помощью "Чёрной дыры" очистить Зону от двух аномалий - "Звезда" и "Хваталка". Он накидал мне список территорий и количество на них каждой из аномалий: первая цифра означает количество "Звёзд", вторая - "Хваталок". Надо аннигилировать хотя бы часть из них. Но Архара уверен, что на других территориях они тоже имеются, они также пойдут в зачёт.\n \n
+		<rus>Архара попросил меня с помощью "Чёрной дыры" очистить Зону от двух аномалий - "Звезда" и "Хваталка". Он накидал мне список территорий и количество на них каждой из аномалий: первая цифра означает количество "Звёзд", вторая - "Хваталок". Надо аннигилировать по меньшей мере 50 из них, но Архара уверен, что на других территориях они тоже имеются, они также пойдут в зачёт.\n \n
 			Кордон - 0, 2 \n
 			Болота - 3, 4 \n
 			Свалка - 0, 1 \n
@@ -1561,13 +1567,18 @@
 			Тёмная Долина - 0, 2 \n
 			Армейские Склады - 0, 1 \n
 			Неразведанная Земля - 2, 3 \n
+			Лабиринт - 2, 3 \n
 			Забытый Лес - 0, 4 \n
 			АТП - 1, 2 \n
 			Янтарь - 0, 2 \n
 			Радар - 0, 3 \n
 			Центральная Припять - 0, 1 \n
+			Подземелье Припяти - 0, 1 \n
+			Старая Деревня - 1, 2 \n
+			Генераторы - 3, 3 \n
+			Мёртвый Город - 2, 3 \n
 			Затон - 4, 1 \n</rus>
-		<eng>Arkhara asked me to use the Black Hole to clear the Zone of two anomalies, the Star and the Claw. He gave me a list of territories and the number of each of the anomalies in them: the first digit means the number of "Stars", the second - "Claws". It is necessary to annihilate at least some of them. But Arkhara is sure that they also exist in other territories, so that will also be taken into account.\n \n
+		<eng>===Arkhara asked me to use the Black Hole to clear the Zone of two anomalies, the Star and the Claw. He gave me a list of territories and the number of each of the anomalies in them: the first digit means the number of "Stars", the second - "Claws". It is necessary to annihilate at least some of them. But Arkhara is sure that they also exist in other territories, so that will also be taken into account.\n \n
 			Cordon - 0, 2 \n
 			Swamps - 3, 4 \n
 			Garbage - 0, 1 \n
@@ -1581,7 +1592,7 @@
 			Radar - 0, 3 \n
 			Central Pripyat - 0, 1 \n
 			Zaton - 4, 1 \n</eng>
-		<ukr>Архара попросив мене за допомогою "Чорної діри" очистити Зону від двох аномалій - "Зірка" і "Хапалка". Він накидав мені список територій і кількість на них кожної з аномалій: перша цифра означає кількість "Зірок", друга - "Хапалок". Треба анігілювати хоча б частину з них. Але Архара впевнений, що на інших територіях вони теж є, так що вони також підуть в залік.\n \n
+		<ukr>===Архара попросив мене за допомогою "Чорної діри" очистити Зону від двох аномалій - "Зірка" і "Хапалка". Він накидав мені список територій і кількість на них кожної з аномалій: перша цифра означає кількість "Зірок", друга - "Хапалок". Треба анігілювати хоча б частину з них. Але Архара впевнений, що на інших територіях вони теж є, так що вони також підуть в залік.\n \n
 			Кордон - 0, 2 \n
 			Болота - 3, 4 \n
 			Звалище - 0, 1 \n
@@ -1595,7 +1606,7 @@
 			Радар - 0, 3 \n
 			Центральна Прип'ять - 0, 1 \n
 			Затон - 4, 1 \n</ukr>
-		<pln>Arhara prosi, bym przy pomocy "Czarnej Dziury" oczyścił Zonę z dwóch anomalii - "Gwiazda" i "Pułapka". Dał mi listę lokacji i ilość anomalii na każdej z nich: pierwsza cyfra oznacza ilość "Gwiazd", druga "Pułapek". Trzeba anihilować przynajmniej część z nich. Ale Arhara jest przekonany, że na innych lokacjach , też są te anomalie, one też będą zaliczane.\n \n
+		<pln>===Arhara prosi, bym przy pomocy "Czarnej Dziury" oczyścił Zonę z dwóch anomalii - "Gwiazda" i "Pułapka". Dał mi listę lokacji i ilość anomalii na każdej z nich: pierwsza cyfra oznacza ilość "Gwiazd", druga "Pułapek". Trzeba anihilować przynajmniej część z nich. Ale Arhara jest przekonany, że na innych lokacjach , też są te anomalie, one też będą zaliczane.\n \n
 			Kordon - 0, 2 \n
 			Bagna - 3, 4 \n
 			Wysypisko - 0, 1 \n
@@ -1640,11 +1651,11 @@
 			Крепление LRP для прицелов Aimpont "COMP M4"\n
 			Повышающая проставка "Standart Spacer" для прицелов Aimpoint\n
 			Крышка с антибликовой блендой Aimpoint\n
-			Направляющая NcStar MPR45\n
+			Буфер отдачи ВССМ\n
 			Увеличитель Aimpoint\n
 			Крепление Aimpoint Twist Mount\n
 			100 тысяч рублей за работу\n \n \n</rus>
-		<ukr>У КПК Лісовика була схема-збірка ГССМ «Гвинторіз» і список модулів-навісного для нього. За словами Довганя, подібні аксесуари для зброї можна знайти у схованках, розкиданих сталкерами по всій Зоні. Він зможе зібрати для мене гвинтівку, якщо я знайду необхідні комплектуючі. Повний список того, що потрібно принести зброяру:\n \n
+		<ukr>===У КПК Лісовика була схема-збірка ГССМ «Гвинторіз» і список модулів-навісного для нього. За словами Довганя, подібні аксесуари для зброї можна знайти у схованках, розкиданих сталкерами по всій Зоні. Він зможе зібрати для мене гвинтівку, якщо я знайду необхідні комплектуючі. Повний список того, що потрібно принести зброяру:\n \n
 			ГСС «Гвинторіз» в хорошому стані\n
 			АС «Вал» в хорошому стані\n
 			Кріплення ТОЗ 6П29М\n
@@ -1665,7 +1676,7 @@
 			Кріплення LRP для прицілів Aimpont "COMP M4"\n
 			Підвищуюча проставка "Standart Spacer" для прицілів Aimpoint\n
 			Кришка з антибліковою блендою Aimpoint\n
-			Напрямна NcStar MPR45\n
+			Буфер отдачи ВССМ\n
 			Збільшувач Aimpoint\n
 			Кріплення Aimpoint Twist Mount\n
 			100 тисяч гривень за роботу\n \n \n</ukr>
@@ -1675,9 +1686,9 @@
 		<ukr>Скоро мені доведеться зіткнутися з бійцями з ПВК "Блеквотер", і, за словами Акілла, вони стануть серйозною загрозою для мене. Але головний мінус найманців в тому, що вони недооцінюють мій досвід і моє спорядження. Щоб залякати моїх ворогів, Акілл запропонував показати їм на прикладі трупів їхніх товаришів по зброї, що проти них працює стрілець-профі. Мені потрібно ліквідувати 41 найма одним пострілом в голову. Не просте випробування!</ukr>
 	</string>
 	<string id="long_shot">
-		<rus>Бармен может сообщить компонент рецепта чудо-артефакта "Живое сердце", но для начала просит поквитаться с монолитовцами, сбившими вертушку его поставщика и лишившими торговца солидной прибыли. Моя задача - ликвидировать десяток элитных бойцов, танков Монолита, с дистанции в 140 и более метров.</rus>
+		<rus>Бармен может сообщить компонент рецепта чудо-артефакта "Живое сердце", но для начала просит поквитаться с монолитовцами, сбившими вертушку его поставщика и лишившими торговца солидной прибыли. Моя задача - ликвидировать десяток элитных бойцов, танков Монолита в серой броне, с дистанции в 140 и более метров.</rus>
 		<eng>===Barkeep may tell what one of the ingredients of the recipe for miraculous "Living Heart" artifact is, but he needs to know what's become of a scientist who's gone missing in Pripyat with the collected data. There is a probability that he is held captive by Monolithians.</eng>
-		<ukr>Бармен може повідомити компонент рецепта диво-артефакта "Живе серце", але для початку просить поквитатися з монолітівцями, які збили вертушку його постачальника і позбавили торговця солідного прибутку. Моє завдання - ліквідувати десяток елітних бійців, танків Моноліту, з дистанції у 140 і більше метрів.</ukr>
+		<ukr>===Бармен може повідомити компонент рецепта диво-артефакта "Живе серце", але для початку просить поквитатися з монолітівцями, які збили вертушку його постачальника і позбавили торговця солідного прибутку. Моє завдання - ліквідувати десяток елітних бійців, танків Моноліту, з дистанції у 140 і більше метрів.</ukr>
 		<pln>===Barman może wyjawić składnik recepty cudownego artefaktu "Żywe Serce", ale chce poznać losy naukowca, który przepadł razem z zebranymi danymi w Prypeci. Istnieje możliwość że naukowca wzięli do niewoli monolitowcy.</pln>
 	</string>
 	<string id="akim_test">
@@ -1701,20 +1712,38 @@
 		<ukr>Огляд БТР показав, що ситуація далеко не найкраща - машина сильно пошкоджена, паливний бак пробитий, паливо витекло, двигун не заводиться, мабуть, акумулятор повністю розряджений. Варто переговорити з генералом на цю тему, без сторонньої допомоги не зрозуміло, що тут можна зробити, в поточному стані БТР однозначно не запустити.</ukr>
 	</string>
 	<string id="remont_btr">
-		<rus>Я был прав, с ремонтом БТР придётся конкретно повозиться. Для этого мне потребуются: армейские инструменты ОРК-27м, которые следует поискать на ЧАЭС-1 среди подбитой бронетехники; минимум 4 канистры с топливом, думаю, бандиты с АТП с неудовольствием ими поделятся; старый автомобильный аккумулятор, найденный на мех.дворе Болот, нужно отнести Петренко и зарядить. И уже после всех этих дел можно приступать к ремонту.</rus>
-		<ukr>Я мав рацію, з ремонтом БТР доведеться конкретно повозитися. Для цього мені потрібні: армійські інструменти ЗРК-27м, які слід пошукати на ЧАЕС-1 серед підбитої бронетехніки; мінімум 4 каністри з паливом, думаю, бандити з АТП з невдоволенням ними поділяться; старий автомобільний акумулятор, знайдений на мех.дворі Боліт, потрібно віднести Петренко і зарядити. І вже після всіх цих справ можна приступати до ремонту.</ukr>
+		<rus>Я был прав, с ремонтом БТР придётся конкретно повозиться. Для этого мне потребуются: армейские инструменты ОРК-27м, которые следует поискать на ЧАЭС-1 среди подбитой бронетехники; минимум 4 канистры с топливом, думаю, бандиты с АТП с неудовольствием ими поделятся; старый автомобильный аккумулятор, найденный среди ЗИЛов в Подземелье Припяти, нужно отнести Петренко и зарядить. И уже после всех этих дел можно приступать к ремонту.</rus>
+		<ukr>===Я мав рацію, з ремонтом БТР доведеться конкретно повозитися. Для цього мені потрібні: армійські інструменти ЗРК-27м, які слід пошукати на ЧАЕС-1 серед підбитої бронетехніки; мінімум 4 каністри з паливом, думаю, бандити з АТП з невдоволенням ними поділяться; старий автомобільний акумулятор, знайдений на мех.дворі Боліт, потрібно віднести Петренко і зарядити. І вже після всіх цих справ можна приступати до ремонту.</ukr>
 	</string>
 	<string id="petrenko_compas">
 		<rus>Петренко обокрала какая-то крыса, в прямом смысле! Белая крыса по кличке Белоснежка позарилась на старинный наручный компас, который она, скорей всего, утащила в своё логово. Чтобы отыскать пропажу, мне следует прибыть после полуночи, но до трёх часов ночи, в подсобку полковника, дождаться появления грызуна и проследить за ним до логова, сохраняя дистанцию, близко не приближаясь и далеко не отдаляясь, в пределах 5-20 метров.</rus>
 		<ukr>Петренко обікрав якийсь щур, у прямому сенсі! Білий щур на прізвисько Білосніжка зазіхнув на старовинний наручний компас, який він, скоріше за все, потягнув у своє лігво. Щоб відшукати пропажу, мені слід прибути після півночі, але до трьох годин ночі, у підсобку полковника, дочекатися появи гризуна і простежити за ним до лігва, зберігаючи дистанцію, близько не наближаючись і далеко не віддаляючись, в межах 5-20 метрів.</ukr>
 	</string>
 	<string id="arny_gladiator">
-		<rus>Похоже, Акилл ошибся, и я не напугал, а наоборот, очень сильно разозлил наёмников из Блэквотер. Чтобы свести счёты со мной, они даже связались с Арни и предложили ему устроить бои на арене между нами. Условия поединков жёсткие: я в одном свитере против нескольких бойцов ЧВК, у которых также будут активные наушники, стрелять разрешено лишь из выданного ствола. Сейчас Арни занимается организационными вопросами, ему понадобятся сутки, чтобы их уладить.</rus>
-		<ukr>Схоже, Акілл помилився, і я не налякав, а навпаки, дуже сильно розлютив найманців з Блеквотер. Щоб звести рахунки зі мною, вони навіть зв'язалися з Арні і запропонували йому влаштувати бої на арені між нами. Умови поєдинків жорсткі: я в одному светрі проти кількох бійців ПВК, у яких також будуть активні навушники, стріляти дозволено лише з виданого ствола. Зараз Арні займається організаційними питаннями, йому знадобиться доба, щоб їх владнати.</ukr>
+		<rus>Похоже, Акилл ошибся, и я не напугал, а наоборот, очень сильно разозлил наёмников из Блэквотер. Чтобы свести счёты со мной, они даже связались с Арни и предложили ему устроить бои на арене между нами. Условия поединков жёсткие: я в одном свитере против нескольких бойцов ЧВК, у которых также будут активные наушники, стрелять разрешено лишь из выданного ствола. Сейчас Арни занимается организационными вопросами, ему понадобятся сутки-полтора, чтобы их уладить.</rus>
+		<ukr>===Похоже, Акилл ошибся, и я не напугал, а наоборот, очень сильно разозлил наёмников из Блэквотер. Чтобы свести счёты со мной, они даже связались с Арни и предложили ему устроить бои на арене между нами. Условия поединков жёсткие: я в одном свитере против нескольких бойцов ЧВК, у которых также будут активные наушники, стрелять разрешено лишь из выданного ствола. Сейчас Арни занимается организационными вопросами, ему понадобятся сутки, чтобы их уладить.</ukr>
 	</string>
 	<string id="arny_box">
-		<rus>Очередная тренировка по стрельбе, в этот раз от Арни. Несколько правил, которые необходимо соблюдать.\n1. Пользоваться можно любым огнестрельным оружием, лучше использовать пистолет с автоматическим режимом огня или же пистолет-пулемёт и 600-700 патронов к нему.\n2. В качестве целей выступают небольшие красные коробки, коих будет ровно 200 штук, нужно все их поразить.\n3. Арена ограждена мишенями, закрашенными в красный цвет, нельзя пересекать их границу.\n4. Маршрут движения такой: нужно двигаться вдоль стен арены по часовой стрелке.\n5. На выполнение упражнения даётся не более шести минут.</rus>
-		<ukr>Чергове тренування зі стрільби, цього разу від Арні. Кілька правил, яких необхідно дотримуватися.\n1. Користуватися можна будь-якою вогнепальною зброєю, краще використовувати пістолет з автоматичним режимом вогню або ж пістолет-кулемет і 600-700 патронів до нього.\n2. В якості цілей виступають невеликі червоні коробки, яких буде рівно 200 штук, потрібно всі їх вразити.\n3. Арена огороджена мішенями, зафарбованими в червоний колір, не можна перетинати їхній кордон.\n4. Маршрут руху такий: потрібно рухатися уздовж стін арени за годинниковою стрілкою.\n5. На виконання вправи дається не більше шести хвилин.</ukr>
+		<rus>Очередная тренировка по стрельбе, в этот раз от Арни. Несколько правил, которые необходимо соблюдать.\n1. Пользоваться можно любым огнестрельным оружием, лучше использовать пистолет с автоматическим режимом огня или же пистолет-пулемёт и 600-800 патронов к нему.\n2. В качестве целей выступают небольшие красные коробки, коих будет ровно 200 штук, нужно все их поразить.\n3. Арена ограждена мишенями, закрашенными в красный цвет, нельзя пересекать их границу.\n4. Маршрут движения такой: нужно двигаться вдоль стен арены по часовой стрелке.\n5. На выполнение упражнения даётся не более шести минут.</rus>
+		<ukr>===Очередная тренировка по стрельбе, в этот раз от Арни. Несколько правил, которые необходимо соблюдать.\n1. Пользоваться можно любым огнестрельным оружием, лучше использовать пистолет с автоматическим режимом огня или же пистолет-пулемёт и 600-800 патронов к нему.\n2. В качестве целей выступают небольшие красные коробки, коих будет ровно 200 штук, нужно все их поразить.\n3. Арена ограждена мишенями, закрашенными в красный цвет, нельзя пересекать их границу.\n4. Маршрут движения такой: нужно двигаться вдоль стен арены по часовой стрелке.\n5. На выполнение упражнения даётся не более шести минут.</ukr>
+	</string>
+	<string id="kuznec_gps">
+		<rus>Я согласился поучаствовать в операции "Буревестник" - необходимо пометить радиомаяками недавно упавшие в Зоне ударные и транспортные вертолёты, чтобы затем группа зачистки, не теряя времени на поиски, добралась до них и выполнила определённые задачи. Маячки следует устанавливать под несущим винтом. Список предполагаемых территорий и количество разбившихся на них вертушек, составленный командованием:\n \n
+			Радар - 2 \n
+			Центральная Припять - 2 \n
+			ЧАЭС-1 - 5 \n
+			ЧАЭС-2 - 9 \n
+			Юпитер - 2 \n
+			Затон - 3 \n</rus>
+		<ukr>===Архара</ukr>
+	</string>
+	<string id="lotsman_explorer_zaton">
+		<rus>Не успел я познакомиться с проводником Лоцманом, как он тут же подписал меня на выполнение "деликатного поручения", как он выразился. В одном из стационарных тайников на Затоне спрятан носитель с какой-то важной информацией. Мне придётся обшарить все эти тайники в поисках КПК, дисков, флешек, карт памяти или документов. Если ничего не найду, значит не судьба.</rus>
+		<ukr>===Не успел я познакомиться с проводником Лоцманом, как он тут же подписал меня на выполнение "деликатного поручения", как он выразился. В одном из стационарных тайников на Затоне спрятан носитель с какой-то важной информацией. Мне придётся обшарить все эти тайники в поисках КПК, дисков, флешек, карт памяти или документов. Если ничего не найду, значит не судьба.</ukr>
+	</string>
+	<string id="lotsman_explorer_jupiter">
+		<rus>Не успел я познакомиться с проводником Лоцманом, как он тут же подписал меня на выполнение "деликатного поручения", как он выразился. В одном из стационарных тайников на Юпитере спрятан носитель с какой-то важной информацией. Мне придётся обшарить все эти тайники в поисках КПК, дисков, флешек, карт памяти или документов. Если ничего не найду, значит не судьба.</rus>
+		<ukr>===Не успел я познакомиться с проводником Лоцманом, как он тут же подписал меня на выполнение "деликатного поручения", как он выразился. В одном из стационарных тайников на Юпитере спрятан носитель с какой-то важной информацией. Мне придётся обшарить все эти тайники в поисках КПК, дисков, флешек, карт памяти или документов. Если ничего не найду, значит не судьба.</ukr>
 	</string>
 	<!-- AKILL end -->
 
@@ -1819,12 +1848,6 @@
 		<eng>Cache in Chernobyl, at the entrance to the station.</eng>
 		<ukr>Схованка на ЧАЕС біля входу на станцію.</ukr>
 		<pln>Schowek na CEA przy wejściu na stację.</pln>
-	</string>
-	<string id="kostya_taynik_pda21">
-		<rus>Мне нужно найти все части карты с переходами, что оставил Альпинист. Они находятся в рюкзаках возле вертолётов и на остановках. Сколько частей должно быть - точно не известно, но их должно быть не менее 18. Искать нужно по всей Зоне, кроме ЧАЭС и ЧАЭС-2.</rus>
-		<eng>I need to find all the parts of a transition map, that Alpinist left. They are in backpacks, located near helicopters and bus stops. How many parts there are, I don't exactly know, but there should be at least 18. I need to search throughout the Zone, except for Chernobyl NPP-1 and NPP-2.</eng>
-		<ukr>Мені потрібно знайти всі частини карти з переходами, що залишив Альпініст. Вони знаходяться у рюкзаках біля вертольотів і на зупинках. Скільки частин має бути - точно не відомо, але їх повинно бути не менше 18. Шукати треба по всій Зоні, крім ЧАЕС і ЧАЕС-2.</ukr>
-		<pln>Muszę odnaleźć wszystkie części mapy z przejściami, którą zostawił Alpinista. Znajdują się one w plecakach, obok helikopterów i na przystankach. Ile jest tych części - dokładnie nie wiadomo, ale jest ich co najmniej osiemnaście. Szukać trzeba po całej Zonie, oprócz CEA i CEA-2.</pln>
 	</string>
 	<string id="kostya_taynik_pda3__1">
 		<rus>Мне нужно найти четыре тайника на ЧАЭС-2:\n \n

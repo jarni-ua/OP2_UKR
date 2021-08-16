@@ -417,11 +417,11 @@
 		<pln>Klasa mistrzowska</pln>
 	</string>
 	<string id="task_hamster_kuznec7_1">
-		<rus>Убить ножом матёрого кровососа</rus>
-		<eng>Kill a strong bloodsucker with a knife</eng>
-		<ukr>Вбити ножем зрілого кровососа</ukr>
-		<fra>Tuer avec un couteau une sangsue terrible</fra>
-		<pln>Zabić nożem pijawkę</pln>
+		<rus>Убить ножом молодого кровососа</rus>
+		<eng>Kill a weak bloodsucker with a knife</eng>
+		<ukr>===Вбити ножем зрілого кровососа</ukr>
+		<fra>===Tuer avec un couteau une sangsue terrible</fra>
+		<pln>===Zabić nożem pijawkę</pln>
 	</string>
 	<string id="task_hamster_kuznec7_2">
 		<rus>Доложить Кузнецову о выполнении</rus>
@@ -480,6 +480,21 @@
 		<ukr>Знайти схованку в Червоному Лісі</ukr>
 		<fra>Trouver une cache dans la Forêt Rouge</fra>
 		<pln>Znaleźć schowek w Czerwonym Lesie</pln>
+	</string>
+
+	<string id="task_teuton_knight_0">
+		<rus>Легенда о рыцаре</rus>
+		<eng>===Kuznetsov's stash</eng>
+		<ukr>===Схованка Кузнєцова</ukr>
+		<fra>===Cache de Kuznetsov</fra>
+		<pln>===Schowek Kuźniecowa</pln>
+	</string>
+	<string id="task_teuton_knight_1">
+		<rus>Вытащить меч из камня с помощью артефакта, повышающего силу</rus>
+		<eng>===Find a stash at the Red Forest</eng>
+		<ukr>===Знайти схованку в Червоному Лісі</ukr>
+		<fra>===Trouver une cache dans la Forêt Rouge</fra>
+		<pln>===Znaleźć schowek w Czerwonym Lesie</pln>
 	</string>
 
 	<string id="task_dolgovazyi_toolkit_0">
@@ -912,23 +927,23 @@
 		<pln>Przysługa za przysługę</pln>
 	</string>
 	<string id="task_sherstuk_ammo_1">
-		<rus>Замаскировать бомбу на втором этаже электроподстанции</rus>
+		<rus>Замаскировать бомбу в здании электроподстанции</rus>
 		<eng>===Find a stash at the Wild Territory</eng>
-		<ukr>Замаскувати бомбу на другому поверсі електропідстанції</ukr>
+		<ukr>===Замаскувати бомбу на другому поверсі електропідстанції</ukr>
 		<fra>===Trouver une cache dans les Territoire Sauvages</fra>
 		<pln>===Znaleźć schowek w Dziczy</pln>
 	</string>
 	<string id="task_sherstuk_ammo_2">
-		<rus>Замаскировать бомбу на первом этаже электроподстанции</rus>
+		<rus>Замаскировать бомбу в здании электроподстанции</rus>
 		<eng>===Find a stash at the Wild Territory</eng>
-		<ukr>Замаскувати бомбу на першому поверсі електропідстанції</ukr>
+		<ukr>===Замаскувати бомбу на першому поверсі електропідстанції</ukr>
 		<fra>===Trouver une cache dans les Territoire Sauvages</fra>
 		<pln>===Znaleźć schowek w Dziczy</pln>
 	</string>
 	<string id="task_sherstuk_ammo_3">
-		<rus>Замаскировать бомбу в подвале электроподстанции</rus>
+		<rus>Замаскировать бомбу в здании электроподстанции</rus>
 		<eng>===Find a stash at the Wild Territory</eng>
-		<ukr>Замаскувати бомбу у підвалі електропідстанції</ukr>
+		<ukr>===Замаскувати бомбу у підвалі електропідстанції</ukr>
 		<fra>===Trouver une cache dans les Territoire Sauvages</fra>
 		<pln>===Znaleźć schowek w Dziczy</pln>
 	</string>
@@ -1744,18 +1759,48 @@
 		<pln>Poczekać w mieście do nocy</pln>
 	</string>
 	<string id="task_akill_vision_2">
-		<rus>Раздобыть насадку ночного видения</rus>
-		<eng>Get a night vision extension</eng>
-		<ukr>Роздобути насадку нічного бачення</ukr>
-		<fra>Obtenir une extension de vision nocturne</fra>
-		<pln>Zdobyć nasadkę noktowizyjną</pln>
+		<rus>Нейтрализовать первую группу невидимок Монолита</rus>
+		<eng>===Get a night vision extension</eng>
+		<ukr>===Роздобути насадку нічного бачення</ukr>
 	</string>
 	<string id="task_akill_vision_3">
-		<rus>Отдать насадку Акиллу</rus>
-		<eng>Give the extension to Akill</eng>
-		<ukr>Віддати насадку Акіллу</ukr>
-		<fra>Donner l'extension à Akill</fra>
-		<pln>Zanieść nasadkę do Akilla</pln>
+		<rus>Нейтрализовать вторую группу невидимок Монолита</rus>
+		<eng>===Get a night vision extension</eng>
+		<ukr>===Роздобути насадку нічного бачення</ukr>
+	</string>
+	<string id="task_akill_vision_4">
+		<rus>Нейтрализовать третью группу невидимок Монолита</rus>
+		<eng>===Get a night vision extension</eng>
+		<ukr>===Роздобути насадку нічного бачення</ukr>
+	</string>
+	<string id="task_akill_vision_5">
+		<rus>Нейтрализовать четвёртую группу невидимок Монолита</rus>
+		<eng>===Get a night vision extension</eng>
+		<ukr>===Роздобути насадку нічного бачення</ukr>
+	</string>
+	<string id="task_akill_vision_6">
+		<rus>Собрать ПНВ с трупов</rus>
+		<eng>===Get a night vision extension</eng>
+		<ukr>===Роздобути насадку нічного бачення</ukr>
+	</string>
+	<string id="task_akill_vision_7">
+		<rus>Обнаружить снайперскую позицию в районе девятиэтажек и завладеть насадкой ночного видения</rus>
+		<eng>===Get a night vision extension</eng>
+		<ukr>===Роздобути насадку нічного бачення</ukr>
+		<fra>===Obtenir une extension de vision nocturne</fra>
+		<pln>===Zdobyć nasadkę noktowizyjną</pln>
+	</string>
+	<string id="task_akill_vision_8">
+		<rus>Настроить оптику на винтовке Акилла, ликвидировав 20 противников на дистанции в 100+ метров</rus>
+		<eng>===Get a night vision extension</eng>
+		<ukr>===Роздобути насадку нічного бачення</ukr>
+	</string>
+	<string id="task_akill_vision_9">
+		<rus>Отдать винтовку, насадку и ПНВ Акиллу</rus>
+		<eng>===Give the extension to Akill</eng>
+		<ukr>===Віддати насадку Акіллу</ukr>
+		<fra>===Donner l'extension à Akill</fra>
+		<pln>===Zanieść nasadkę do Akilla</pln>
 	</string>
 
 	<string id="task_mercenary_dogovor_0">
@@ -3758,628 +3803,6 @@
 		<pln>Łowy z aparatem fotograficznym</pln>
 	</string>
 	<string id="task_foto_ohota_1">
-		<rus>Тёмно-коричневая собака</rus>
-		<eng>Dark-brown dog</eng>
-		<ukr>Темно-коричнева собака</ukr>
-		<fra>Chien brun foncé</fra>
-		<pln>Ciemnobrązowy pies</pln>
-	</string>
-	<string id="task_foto_ohota_2">
-		<rus>Светло-коричневая собака</rus>
-		<eng>Lightly-brown dog</eng>
-		<ukr>Світло-коричнева собака</ukr>
-		<fra>===Chien brun foncé</fra>
-		<pln>Jasnobrązowy Pies</pln>
-	</string>
-	<string id="task_foto_ohota_3">
-		<rus>Белая собака</rus>
-		<eng>Albino dog</eng>
-		<ukr>Біла собака</ukr>
-		<fra>Chien albinos</fra>
-		<pln>Biały pies</pln>
-	</string>
-	<string id="task_foto_ohota_4">
-		<rus>Рыжая призрачная собака</rus>
-		<eng>Red ghost dog</eng>
-		<ukr>Руда примарна собака</ukr>
-		<fra>Chien fantôme rouge</fra>
-		<pln>Rudy upiorny pies</pln>
-	</string>
-	<string id="task_foto_ohota_5">
-		<rus>Зелёная призрачная собака</rus>
-		<eng>Green ghost dog</eng>
-		<ukr>Зелена примарна собака</ukr>
-		<fra>Chien fantôme vert</fra>
-		<pln>Zielony upiorny pies</pln>
-	</string>
-	<string id="task_foto_ohota_6">
-		<rus>Собака без кожи</rus>
-		<eng>Skinless dog</eng>
-		<ukr>Собака без шкіри</ukr>
-		<fra>Chien sans peau</fra>
-		<pln>Pies bez skóry</pln>
-	</string>
-	<string id="task_foto_ohota_7">
-		<rus>Доберман</rus>
-		<eng>Doberman</eng>
-		<ukr>Доберман</ukr>
-		<fra>Doberman</fra>
-		<pln>Doberman</pln>
-	</string>
-	<string id="task_foto_ohota_8">
-		<rus>Чёрный пёс</rus>
-		<eng>Black dog</eng>
-		<ukr>Чорний пес</ukr>
-		<fra>Chien noir</fra>
-		<pln>Czarny pies</pln>
-	</string>
-	<string id="task_foto_ohota_9">
-		<rus>Коричневая псевдособака</rus>
-		<eng>Brown pseudodog</eng>
-		<ukr>Коричнева псевдособака</ukr>
-		<fra>Pseudo-chien brun</fra>
-		<pln>Brązowy pseudopies</pln>
-	</string>
-	<string id="task_foto_ohota_10">
-		<rus>Серая псевдособака</rus>
-		<eng>Gray pseudodog</eng>
-		<ukr>Сіра псевдособака</ukr>
-		<fra>Pseudo-chien gris</fra>
-		<pln>Szary pseudopies</pln>
-	</string>
-	<string id="task_foto_ohota_11">
-		<rus>Волк</rus>
-		<eng>Wolf</eng>
-		<ukr>Вовк</ukr>
-		<fra>Loup</fra>
-		<pln>Wilk</pln>
-	</string>
-	<string id="task_foto_ohota_12">
-		<rus>Крысоволк</rus>
-		<eng>Ratwolf</eng>
-		<ukr>Щурововк</ukr>
-		<fra>Rat loup</fra>
-		<pln>Szczurowilk</pln>
-	</string>
-	<string id="task_foto_ohota_13">
-		<rus>Плоть</rus>
-		<eng>Flesh</eng>
-		<ukr>Плоть</ukr>
-		<fra>Chair</fra>
-		<pln>Mięsacz</pln>
-	</string>
-	<string id="task_foto_ohota_14">
-		<rus>Болотная плоть</rus>
-		<eng>Swamp flesh</eng>
-		<ukr>Болотна плоть</ukr>
-		<fra>Chair des Marais</fra>
-		<pln>Bagienny mięsacz</pln>
-	</string>
-	<string id="task_foto_ohota_15">
-		<rus>Заноза</rus>
-		<eng>Splinter</eng>
-		<ukr>Заноза</ukr>
-		<fra>Splinter</fra>
-		<pln>Patyczak</pln>
-	</string>
-	<string id="task_foto_ohota_16">
-		<rus>Паук</rus>
-		<eng>Spider</eng>
-		<ukr>Павук</ukr>
-		<fra>Araignée</fra>
-		<pln>Pająk</pln>
-	</string>
-	<string id="task_foto_ohota_17">
-		<rus>Арахнид</rus>
-		<eng>Arachnid</eng>
-		<ukr>Арахнід</ukr>
-		<fra>Arachnide</fra>
-		<pln>Arachnid</pln>
-	</string>
-	<string id="task_foto_ohota_18">
-		<rus>Жёлтый арахнид</rus>
-		<eng>Yellow arachnid</eng>
-		<ukr>Жовтий арахнід</ukr>
-		<fra>Arachnide jaune</fra>
-		<pln>Żółty arachnid</pln>
-	</string>
-	<string id="task_foto_ohota_19">
-		<rus>Кротокрыс</rus>
-		<eng>Molerat</eng>
-		<ukr>Кротощур</ukr>
-		<fra>Molerat</fra>
-		<pln>Kretoszczur</pln>
-	</string>
-	<string id="task_foto_ohota_20">
-		<rus>Кабан</rus>
-		<eng>Boar</eng>
-		<ukr>Кабан</ukr>
-		<fra>Sanglier</fra>
-		<pln>Dzik</pln>
-	</string>
-	<string id="task_foto_ohota_21">
-		<rus>Кикимора</rus>
-		<eng>Kikimora</eng>
-		<ukr>Кікімора</ukr>
-		<fra>Kikimora</fra>
-		<pln>Kikimora</pln>
-	</string>
-	<string id="task_foto_ohota_22">
-		<rus>Снорк</rus>
-		<eng>Snork</eng>
-		<ukr>Снорк</ukr>
-		<fra>Snork</fra>
-		<pln>Snork</pln>
-	</string>
-	<string id="task_foto_ohota_23">
-		<rus>Крылатый снорк</rus>
-		<eng>Winged snork</eng>
-		<ukr>Крилатий снорк</ukr>
-		<fra>Snork ailé</fra>
-		<pln>Skrzydlaty snork</pln>
-	</string>
-	<string id="task_foto_ohota_24">
-		<rus>Болотный выползень</rus>
-		<eng>Swamp crawler</eng>
-		<ukr>Болотний виповзень</ukr>
-		<fra>Chenille des Marais</fra>
-		<pln>Bagienny pełzacz</pln>
-	</string>
-	<string id="task_foto_ohota_25">
-		<rus>Пещерный выползень</rus>
-		<eng>Cave crawler</eng>
-		<ukr>Печерний виповзень</ukr>
-		<fra>Chenille de la Cave</fra>
-		<pln>Podziemny pełzacz</pln>
-	</string>
-	<string id="task_foto_ohota_26">
-		<rus>Упырь</rus>
-		<eng>Ghoul</eng>
-		<ukr>Упир</ukr>
-		<fra>Goule</fra>
-		<pln>Ghul</pln>
-	</string>
-	<string id="task_foto_ohota_27">
-		<rus>Упырь-носач</rus>
-		<eng>Big-nosed ghoul</eng>
-		<ukr>Упир-носач</ukr>
-		<fra>Goule au grand nez</fra>
-		<pln>Ghul nosacz</pln>
-	</string>
-	<string id="task_foto_ohota_28">
-		<rus>Тушкан</rus>
-		<eng>Tushkano</eng>
-		<ukr>Тушкан</ukr>
-		<fra>Gerboise</fra>
-		<pln>Tuszkan</pln>
-	</string>
-	<string id="task_foto_ohota_29">
-		<rus>Чёрный тушкан</rus>
-		<eng>Black tushkano</eng>
-		<ukr>Чорний тушкан</ukr>
-		<fra>Gerboise noire</fra>
-		<pln>Czarny tuszkan</pln>
-	</string>
-	<string id="task_foto_ohota_30">
-		<rus>Крылан</rus>
-		<eng>Fruit bat</eng>
-		<ukr>Крилан</ukr>
-		<fra>Chauve souris</fra>
-		<pln>Nietoperz</pln>
-	</string>
-	<string id="task_foto_ohota_31">
-		<rus>Пси-полтергейст</rus>
-		<eng>Psy-poltergeist</eng>
-		<ukr>Псі-полтергейст</ukr>
-		<fra>Poltergeist-psi</fra>
-		<pln>Psioniczny poltergeist</pln>
-	</string>
-	<string id="task_foto_ohota_32">
-		<rus>Пиро-полтергейст</rus>
-		<eng>Pyro-poltergeist</eng>
-		<ukr>Піро-полтергейст</ukr>
-		<fra>Poltergeist-incendiaire</fra>
-		<pln>Ognisty poltergeist</pln>
-	</string>
-	<string id="task_foto_ohota_33">
-		<rus>Ползучий полтергейст</rus>
-		<eng>Crawling poltergeist</eng>
-		<ukr>Повзучий полтергейст</ukr>
-		<fra>Poltergeist rampant</fra>
-		<pln>Pełzający poltergeist</pln>
-	</string>
-	<string id="task_foto_ohota_34">
-		<rus>Ползучий пиро-полтергейст</rus>
-		<eng>Crawling pyro-poltergeist</eng>
-		<ukr>Повзучий піро-полтергейст</ukr>
-		<fra>Pyro-Poltergeist rampant</fra>
-		<pln>Pełzający ognisty poltergeist</pln>
-	</string>
-	<string id="task_foto_ohota_35">
-		<rus>Электрополтергейст</rus>
-		<eng>Electropoltergeist</eng>
-		<ukr>Електрополтергейст</ukr>
-		<fra>Electro-Poltergeist</fra>
-		<pln>Elektryczny poltergeist</pln>
-	</string>
-	<string id="task_foto_ohota_36">
-		<rus>Призрачный полтергейст</rus>
-		<eng>Ghost poltergeist</eng>
-		<ukr>Примарний полтергейст</ukr>
-		<fra>Poltergeist fantôme</fra>
-		<pln>Upiorny poltergeist</pln>
-	</string>
-	<string id="task_foto_ohota_37">
-		<rus>Кровосос</rus>
-		<eng>Bloodsucker</eng>
-		<ukr>Кровосос</ukr>
-		<fra>Sangsue</fra>
-		<pln>Pijawka</pln>
-	</string>
-	<string id="task_foto_ohota_38">
-		<rus>Тёмный кровосос</rus>
-		<eng>Dark bloodsucker</eng>
-		<ukr>Темний кровосос</ukr>
-		<fra>Sangsue noire</fra>
-		<pln>Ciemna pijawka</pln>
-	</string>
-	<string id="task_foto_ohota_39">
-		<rus>Болотная тварь</rus>
-		<eng>Swamp bloodsucker</eng>
-		<ukr>Болотна тварюка</ukr>
-		<fra>Sangsue du Marais</fra>
-		<pln>Bagienna pijawka</pln>
-	</string>
-	<string id="task_foto_ohota_40">
-		<rus>Сумрачный кровосос</rus>
-		<eng>Twilight bloodsucker</eng>
-		<ukr>Похмурий кровосос</ukr>
-		<fra>Sangsue Twilight</fra>
-		<pln>Mroczna pijawka</pln>
-	</string>
-	<string id="task_foto_ohota_41">
-		<rus>Адский кровосос</rus>
-		<eng>Hell bloodsucker</eng>
-		<ukr>Пекельний кровосос</ukr>
-		<fra>Sangsue infernale</fra>
-		<pln>Piekielna pijawka</pln>
-	</string>
-	<string id="task_foto_ohota_42">
-		<rus>Оборотень</rus>
-		<eng>Werewolf</eng>
-		<ukr>Перевертень</ukr>
-		<fra>Loup-garou</fra>
-		<pln>Wilkołak</pln>
-	</string>
-	<string id="task_foto_ohota_43">
-		<rus>Контролёр</rus>
-		<eng>Controller</eng>
-		<ukr>Контролер</ukr>
-		<fra>Contrôleur</fra>
-		<pln>Kontroler</pln>
-	</string>
-	<string id="task_foto_ohota_44">
-		<rus>Контролёр-охотник</rus>
-		<eng>Controller-hunter</eng>
-		<ukr>Контролер-мисливець</ukr>
-		<fra>Êîíòðîë¸ð-îõîòíèê</fra>
-		<pln>Kontroler łowca</pln>
-	</string>
-	<string id="task_foto_ohota_45">
-		<rus>Бабка-контролёр</rus>
-		<eng>Female controller</eng>
-		<ukr>Бабка-контролер</ukr>
-		<fra>Contrôleur femelle</fra>
-		<pln>Kobieta kontroler</pln>
-	</string>
-	<string id="task_foto_ohota_46">
-		<rus>Быстрый контролёр</rus>
-		<eng>Quick controller</eng>
-		<ukr>Швидкий контролер</ukr>
-		<fra>Contrôleur rapide</fra>
-		<pln>Szybki kontroler</pln>
-	</string>
-	<string id="task_foto_ohota_47">
-		<rus>Огненный контролёр</rus>
-		<eng>Pyro-controller</eng>
-		<ukr>Вогняний контролер</ukr>
-		<fra>Contrôleur incendiaire</fra>
-		<pln>Ognisty kontroler</pln>
-	</string>
-	<string id="task_foto_ohota_48">
-		<rus>Электроконтролёр</rus>
-		<eng>Electro-Controller</eng>
-		<ukr>Електроконтролер</ukr>
-		<fra>===Contrôleur incendiaire</fra>
-		<pln>Elektrokontroler</pln>
-	</string>
-	<string id="task_foto_ohota_49">
-		<rus>Псевдогигант</rus>
-		<eng>Pseudogiant</eng>
-		<ukr>Псевдогігант</ukr>
-		<fra>Pseudo-géant</fra>
-		<pln>Pseudogigant</pln>
-	</string>
-	<string id="task_foto_ohota_50">
-		<rus>Красный псевдогигант</rus>
-		<eng>Red pseudogiant</eng>
-		<ukr>Червоний псевдогігант</ukr>
-		<fra>===Pseudo-gйant rouge</fra>
-		<pln>Czerwony pseudogigant</pln>
-	</string>
-	<string id="task_foto_ohota_51">
-		<rus>Прыгающий псевдогигант</rus>
-		<eng>Jumping pseudogiant</eng>
-		<ukr>Стрибаючий псевдогігант</ukr>
-		<fra>Pseudo-géant sauteur</fra>
-		<pln>Skaczący pseudogigant</pln>
-	</string>
-	<string id="task_foto_ohota_52">
-		<rus>Бюрер</rus>
-		<eng>Burer</eng>
-		<ukr>Бюрер</ukr>
-		<fra>Nain</fra>
-		<pln>Burer</pln>
-	</string>
-	<string id="task_foto_ohota_53">
-		<rus>Матёрый бюрер</rus>
-		<eng>Old-timer burer</eng>
-		<ukr>Зрілий бюрер</ukr>
-		<fra>Nain vieux</fra>
-		<pln>Dorosły burer</pln>
-	</string>
-	<string id="task_foto_ohota_54">
-		<rus>Прабюрер</rus>
-		<eng>Grandburer</eng>
-		<ukr>Прабюрер</ukr>
-		<fra>Très vieux nain</fra>
-		<pln>Praburer</pln>
-	</string>
-	<string id="task_foto_ohota_55">
-		<rus>Электробюрер</rus>
-		<eng>Electroburer</eng>
-		<ukr>Електробюрер</ukr>
-		<fra>Nain-électro</fra>
-		<pln>Elektroburer</pln>
-	</string>
-	<string id="task_foto_ohota_56">
-		<rus>Карлик</rus>
-		<eng>Midget</eng>
-		<ukr>Карлик</ukr>
-		<fra>Nain Midget</fra>
-		<pln>Karlik</pln>
-	</string>
-	<string id="task_foto_ohota_57">
-		<rus>Псевдокарлик</rus>
-		<eng>Pseudo-midget</eng>
-		<ukr>Псевдокарлик</ukr>
-		<fra>Pseudo-midget</fra>
-		<pln>Pseudokarlik</pln>
-	</string>
-	<string id="task_foto_ohota_58">
-		<rus>Химера</rus>
-		<eng>Chimera</eng>
-		<ukr>Химера</ukr>
-		<fra>Chimère</fra>
-		<pln>Chimera</pln>
-	</string>
-	<string id="task_foto_ohota_59">
-		<rus>Лавовая химера</rus>
-		<eng>Molten chimera</eng>
-		<ukr>Лавова химера</ukr>
-		<fra>Chimère en fusion</fra>
-		<pln>Piekielna chimera</pln>
-	</string>
-	<string id="task_foto_ohota_60">
-		<rus>Электрохимера</rus>
-		<eng>Electrochimera</eng>
-		<ukr>Електрохимера</ukr>
-		<fra>Electro-Chimère</fra>
-		<pln>Elektrochimera</pln>
-	</string>
-	<string id="task_foto_ohota_61">
-		<rus>Призрачная химера</rus>
-		<eng>Ghostly chimera</eng>
-		<ukr>Примарна химера</ukr>
-		<fra>Chimère fantôme</fra>
-		<pln>Upiorna chimera</pln>
-	</string>
-	<string id="task_foto_ohota_62">
-		<rus>Призрачная электрохимера</rus>
-		<eng>Ghostly electrochimera</eng>
-		<ukr>Примарна електрохимера</ukr>
-		<fra>Électrochimère fantôme</fra>
-		<pln>Upiorna elektrochimera</pln>
-	</string>
-	<string id="task_foto_ohota_63">
-		<rus>Светлошёрстная химера</rus>
-		<eng>===Albino chimera</eng>
-		<ukr>Світлошерста химера</ukr>
-		<fra>===Chimère-albinos</fra>
-		<pln>===Chimera albinos</pln>
-	</string>
-	<string id="task_foto_ohota_64">
-		<rus>Чёрная химера</rus>
-		<eng>Black chimera</eng>
-		<ukr>Чорна химера</ukr>
-		<fra>Chimère noire</fra>
-		<pln>Czarna chimera</pln>
-	</string>
-	<string id="task_foto_ohota_65">
-		<rus>Огненная химера</rus>
-		<eng>Pyrochimera</eng>
-		<ukr>Вогняна химера</ukr>
-		<fra>Chimère de feu</fra>
-		<pln>Ognista chimera</pln>
-	</string>
-	<string id="task_foto_ohota_66">
-		<rus>Химера-вульф</rus>
-		<eng>Werewolf chimera</eng>
-		<ukr>Химера-вульф</ukr>
-		<fra>Chimère loup-garou</fra>
-		<pln>Wilcza chimera</pln>
-	</string>
-	<string id="task_foto_ohota_67">
-		<rus>Ликан</rus>
-		<eng>Lycan</eng>
-		<ukr>Лікан</ukr>
-		<fra>Lycan</fra>
-		<pln>Likan</pln>
-	</string>
-	<string id="task_foto_ohota_68">
-		<rus>Медведь-мутант</rus>
-		<eng>Mutant Bear</eng>
-		<ukr>Ведмідь-мутант</ukr>
-		<fra>Ours mutant</fra>
-		<pln>Zmutowany niedźwiedź</pln>
-	</string>
-	<string id="task_foto_ohota_69">
-		<rus>Лисица</rus>
-		<eng>Fox</eng>
-		<ukr>Лисиця</ukr>
-		<fra>Renard</fra>
-		<pln>Lis</pln>
-	</string>
-	<string id="task_foto_ohota_70">
-		<rus>Таракан</rus>
-		<eng>Cockroach</eng>
-		<ukr>Тарган</ukr>
-		<fra>Blatte</fra>
-		<pln>Karaluch</pln>
-	</string>
-	<string id="task_foto_ohota_71">
-		<rus>Крыса</rus>
-		<eng>Rat</eng>
-		<ukr>Щур</ukr>
-		<fra>Rat</fra>
-		<pln>Szczur</pln>
-	</string>
-	<string id="task_foto_ohota_72">
-		<rus>Кот-баюн</rus>
-		<eng>Croon cat</eng>
-		<ukr>Кіт-баюн</ukr>
-		<fra>Chat-Ivoire Bayun</fra>
-		<pln>Kot</pln>
-	</string>
-	<string id="task_foto_ohota_73">
-		<rus>Чернобыльская лягушка</rus>
-		<eng>Chernobyl frog</eng>
-		<ukr>Чорнобильська жаба</ukr>
-	</string>
-	<string id="task_foto_ohota_74">
-		<rus>Ротан</rus>
-		<eng>Ratan</eng>
-		<ukr>Ротан</ukr>
-		<fra>Rotan</fra>
-		<pln>Rotan</pln>
-	</string>
-	<string id="task_foto_ohota_75">
-		<rus>Биомасса</rus>
-		<eng>===Биомасса</eng>
-		<ukr>Біомаса</ukr>
-		<fra>===Биомасса</fra>
-		<pln>Biomasa</pln>
-	</string>
-	<string id="task_foto_ohota_76">
-		<rus>Скорпионница</rus>
-		<eng>Scorpionfly</eng>
-		<ukr>Скорпіонниця</ukr>
-		<fra>Scorpion volant</fra>
-		<pln>Skorpionnica</pln>
-	</string>
-	<string id="task_foto_ohota_77">
-		<rus>Чумная муха</rus>
-		<eng>Plagued fly</eng>
-		<ukr>Чумная муха</ukr>
-	</string>
-	<string id="task_foto_ohota_78">
-		<rus>Комар</rus>
-		<eng>===Комар</eng>
-		<ukr>Комар</ukr>
-	</string>
-	<string id="task_foto_ohota_79">
-		<rus>Чумной зомби</rus>
-		<eng>Plagued zombie</eng>
-		<ukr>Чумний зомбі</ukr>
-		<fra>Zombies pestiféré</fra>
-		<pln>Zarażony zombie</pln>
-	</string>
-	<string id="task_foto_ohota_80">
-		<rus>Комариный зомби</rus>
-		<eng>Mosquito zombie</eng>
-		<ukr>Комариний зомбі</ukr>
-		<fra>Zombie Mosquito</fra>
-		<pln>Komarze zombie</pln>
-	</string>
-	<string id="task_foto_ohota_81">
-		<rus>Паразит</rus>
-		<eng>Parasite</eng>
-		<ukr>Паразит</ukr>
-	</string>
-	<string id="task_foto_ohota_82">
-		<rus>Излом</rus>
-		<eng>Izlom</eng>
-		<ukr>Чахлик</ukr>
-		<fra>Izlom</fra>
-		<pln>Połamaniec</pln>
-	</string>
-	<string id="task_foto_ohota_83">
-		<rus>Матёрый излом</rus>
-		<eng>Izlom old-timer</eng>
-		<ukr>Зрілий чахлик</ukr>
-		<fra>Izlom agé</fra>
-		<pln>Dorosły połamaniec</pln>
-	</string>
-	<string id="task_foto_ohota_84">
-		<rus>Карликовый излом</rus>
-		<eng>Midget izlom</eng>
-		<ukr>Карликовий чахлик</ukr>
-		<fra>Izlom nain</fra>
-		<pln>Karlikowy połamaniec</pln>
-	</string>
-	<string id="task_foto_ohota_85">
-		<rus>Псионик</rus>
-		<eng>Psionic</eng>
-		<ukr>Псіонік</ukr>
-		<fra>Psionic</fra>
-		<pln>Psionik</pln>
-	</string>
-	<string id="task_foto_ohota_86">
-		<rus>Библиотекарь</rus>
-		<eng>Librarian</eng>
-		<ukr>Бібліотекар</ukr>
-		<fra>Bibliothécaire</fra>
-		<pln>Bibliotekarz</pln>
-	</string>
-	<string id="task_foto_ohota_87">
-		<rus>Чёрный библиотекарь</rus>
-		<eng>Black librarian</eng>
-		<ukr>Чорний бібліотекар</ukr>
-		<fra>Bibliothécaire noir</fra>
-		<pln>Czarny bibliotekarz</pln>
-	</string>
-	<string id="task_foto_ohota_88">
-		<rus>Коготь смерти</rus>
-		<eng>Death claw</eng>
-		<ukr>Кіготь смерті</ukr>
-		<fra>Griffe de la mort</fra>
-		<pln>Szpon śmierci</pln>
-	</string>
-	<string id="task_foto_ohota_89">
-		<rus>Чешуйчатый коготь смерти</rus>
-		<eng>Scaly death claw</eng>
-		<ukr>Лускатий кіготь смерті</ukr>
-		<fra>Griffe de la mort à écaille</fra>
-		<pln>Łuskowaty szpon śmierci</pln>
-	</string>
-	<string id="task_foto_ohota_90">
-		<rus>Веном</rus>
-		<eng>Venom</eng>
-		<ukr>Веном</ukr>
-		<fra>Venom</fra>
-		<pln>Venom</pln>
-	</string>
-	<string id="task_foto_ohota_100">
 		<rus>Отнести фото Сидоровичу</rus>
 		<eng>Bring photos to Sidorovich</eng>
 		<ukr>Віднести фото Сидоровичу</ukr>
@@ -4494,18 +3917,18 @@
 		<pln>Śmierć we własnej osobie</pln>
 	</string>
 	<string id="task_ohota_kogot_1">
-		<rus>Пометить радиомаячком хотя бы одного невидимого когтя смерти</rus>
-		<eng>Mark at least one invisible deathclaw with a radio beacon</eng>
-		<ukr>Помітити радіомаячком хоча б одного невидимого кігтя смерті</ukr>
-		<fra>Placer au moins une balise radio sur un Griffe de la mort invisible</fra>
-		<pln>Zamocować radionadajnik na chociaż jednym niewidzialnym szponie śmierci</pln>
+		<rus>Пометить радиомаячком хотя бы одно невидимое существо</rus>
+		<eng>===Mark at least one invisible deathclaw with a radio beacon</eng>
+		<ukr>===Помітити радіомаячком хоча б одного невидимого кігтя смерті</ukr>
+		<fra>===Placer au moins une balise radio sur un Griffe de la mort invisible</fra>
+		<pln>===Zamocować radionadajnik na chociaż jednym niewidzialnym szponie śmierci</pln>
 	</string>
 	<string id="task_ohota_kogot_2">
-		<rus>Убить невидимых когтей смерти</rus>
-		<eng>Kill the invisible death claws</eng>
-		<ukr>Вбити невидимих кігтів смерті</ukr>
-		<fra>Tuer le Griffe de la mort invisible</fra>
-		<pln>Zabic niewidzialne szpony śmierci</pln>
+		<rus>Убить всех невидимых существ</rus>
+		<eng>===Kill the invisible death claws</eng>
+		<ukr>===Вбити невидимих кігтів смерті</ukr>
+		<fra>===Tuer le Griffe de la mort invisible</fra>
+		<pln>===Zabic niewidzialne szpony śmierci</pln>
 	</string>
 	<string id="task_ohota_kogot_3">
 		<rus>Вернуться к Ною</rus>
@@ -6115,8 +5538,8 @@
 		<ukr>Роздобути 4 каністри з паливом</ukr>
 	</string>
 	<string id="task_remont_btr_3">
-		<rus>Найти старый аккумулятор на мех.дворе</rus>
-		<ukr>Знайти старий акумулятор на мех.дворі</ukr>
+		<rus>Найти старый автомобильный аккумулятор</rus>
+		<ukr>===Знайти старий акумулятор</ukr>
 	</string>
 	<string id="task_remont_btr_4">
 		<rus>Отнести аккумулятор Петренко на зарядку</rus>
@@ -6237,4 +5660,52 @@
 		<rus>Поговорить с Арни</rus>
 		<ukr>Поговорити з Арні</ukr>
 	</string>
+
+	<string id="task_kuznec_gps_0">
+		<rus>Операция "Буревестник"</rus>
+		<ukr>===Операция "Буревестник"</ukr>
+	</string>
+	<string id="task_kuznec_gps_1">
+		<rus>Отыскать и засветить радиомаяками упавшие в Зоне вертолёты</rus>
+		<eng>===Go through the distance, destroying all targets</eng>
+		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+	</string>
+	<string id="task_kuznec_gps_2">
+		<rus>Вернуться к Кузнецову</rus>
+		<eng>Get back to Kuznetsov</eng>
+		<ukr>Повернутися до Кузнєцова</ukr>
+		<fra>Retour à Kuznetsov</fra>
+		<pln>Wrócić do Kuźniecowa</pln>
+	</string>
+
+	<string id="task_lotsman_explorer_zaton_0">
+		<rus>Экскурсия по Затону</rus>
+		<ukr>===Экскурсия по Затону</ukr>
+	</string>
+	<string id="task_lotsman_explorer_zaton_1">
+		<rus>Обыскать все стационарные тайники на Затоне</rus>
+		<eng>===Go through the distance, destroying all targets</eng>
+		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+	</string>
+	<string id="task_lotsman_explorer_zaton_2">
+		<rus>Поведать о результатах Лоцману</rus>
+		<eng>===Get back to Kuznetsov</eng>
+		<ukr>===Повернутися до Кузнєцова</ukr>
+	</string>
+
+	<string id="task_lotsman_explorer_jupiter_0">
+		<rus>Экскурсия по Юпитеру</rus>
+		<ukr>===Экскурсия по Юпитеру</ukr>
+	</string>
+	<string id="task_lotsman_explorer_jupiter_1">
+		<rus>Обыскать все стационарные тайники на Юпитере</rus>
+		<eng>===Go through the distance, destroying all targets</eng>
+		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+	</string>
+	<string id="task_lotsman_explorer_jupiter_2">
+		<rus>Рассказать об успехах Лоцману</rus>
+		<eng>===Get back to Kuznetsov</eng>
+		<ukr>===Повернутися до Кузнєцова</ukr>
+	</string>
+
 </string_table>
