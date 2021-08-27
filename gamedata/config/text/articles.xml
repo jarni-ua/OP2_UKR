@@ -122,7 +122,7 @@
 	</string>
 	<string id="dolgovazyi_voen2_name">
 		<rus>Поговорить с Пличко</rus>
-		<eng>Talk to Plichko</eng>
+		<eng>Speak to Plichko</eng>
 		<ukr>Поговорити з Плічко</ukr>
 		<pln>Porozmawiać z Pliczko</pln>
 	</string>
@@ -308,7 +308,7 @@
 	</string>
 	<string id="privet_leshyi_name">
 		<rus>Выяснить местонахождение Лешего</rus>
-		<eng>Find out the location of Sylvan</eng>
+		<eng>Find out the location of Leshy</eng>
 		<ukr>З'ясувати місцезнаходження Лісовика</ukr>
 		<pln>Zdobyć lokalizację Leszego</pln>
 	</string>
@@ -338,7 +338,7 @@
 	</string>
 	<string id="taynik_leshyi_name">
 		<rus>Найти тайник Лешего</rus>
-		<eng>Find Sylvan's cache</eng>
+		<eng>Find Leshy's cache</eng>
 		<ukr>Знайти схованку Лісовика</ukr>
 		<pln>Znaleźć schowek Leszego</pln>
 	</string>
@@ -572,7 +572,7 @@
 	</string>
 	<string id="mera_kogot_name">
 		<rus>Убить зомбированного Хлыста</rus>
-		<eng>Kill Whip the Zombie</eng>
+		<eng>Kill Whip zombified</eng>
 		<ukr>Вбити зомбованого Батога</ukr>
 		<pln>Zabić zombifikowanego Pejcza</pln>
 	</string>
@@ -710,7 +710,7 @@
 	</string>
 	<string id="volna_plen_name">
 		<rus>Найти доктора Новикова на Затоне</rus>
-		<eng>Find Dr. Novikov at Zaton</eng>
+		<eng>Find Doctor Novikov at Zaton</eng>
 		<ukr>Знайти доктора Новікова на Затоні</ukr>
 		<pln>Znaleźć doktora Nowikowa na Zatonie</pln>
 	</string>
@@ -985,7 +985,7 @@
 		<pln>Zająć pozycję na maszcie barki</pln>
 	</string>
 	<string id="max_camouflage_name">
-		<rus>Раздобыть маскхалаты снайперов Блэквотер</rus>
+		<rus>Раздобыть маскхалаты снайперов Блэкуотер</rus>
 		<eng>Get Blackwater Sniper Camouflage</eng>
 		<ukr>Роздобути маскхалати снайперів Блеквотер</ukr>
 		<pln>Zdobyć kombinezony maskujące snajperów Blackwater</pln>
@@ -1213,9 +1213,9 @@
 		<pln>Zmutowany fragment kości mostka</pln>
 	</string>
 	<string id="tex_vorona_povar_naiti_name">
-		<rus>Найти вороньи яйца и принести их повару</rus>
-		<eng>Find crow eggs and bring them to the cook</eng>
-		<ukr>Знайти воронячі яйця і принести їх кухарю</ukr>
+		<rus>Найти вороньи яйца и принести их Повару</rus>
+		<eng>Find crow eggs and bring them to Chef</eng>
+		<ukr>Знайти воронячі яйця і принести їх Кухарю</ukr>
 		<pln>Dostarczyć Kucharzowi wronie jaja</pln>
 	</string>
 	<string id="tex_lekarstvo_bandita_name">
@@ -1664,13 +1664,13 @@
 	</string>
 	<string id="tex_otshelnik_yzik_name">
 		<rus>Найти и принести Отшельнику ящик</rus>
-		<eng>Find and bring Hermit's crate</eng>
+		<eng>Find the crate and bring it to Hermit</eng>
 		<ukr>Знайти і принести Відлюднику ящик</ukr>
 		<pln>Znaleźć i przynieść Pustelnikowi skrzynię</pln>
 	</string>
 	<string id="tex_ginekolog_lekarstvo_name">
 		<rus>Найти и принести Гинекологу медикаменты</rus>
-		<eng>Find and bring medicine to the Gynaecologist</eng>
+		<eng>Find and bring medicine to the Gynecologist</eng>
 		<ukr>Знайти і принести Гінекологу медикаменти</ukr>
 		<pln>Znaleźć i przynieść Ginekologowi lekarstwa</pln>
 	</string>
@@ -1682,13 +1682,13 @@
 	</string>
 	<string id="tex_starik_zadanie_name">
 		<rus>Достать часы Старика</rus>
-		<eng>Get the Old Man's watch</eng>
+		<eng>Get Greybeard's watch</eng>
 		<ukr>Дістати годинник Старого</ukr>
 		<pln>Zdobyć zegarek Starca</pln>
 	</string>
 	<string id="tex_piligrim_britva_name">
 		<rus>Найти тайник Пилигрима</rus>
-		<eng>Find Pilgrim's Cache</eng>
+		<eng>Find Pilgrim's stash</eng>
 		<ukr>Знайти схованку Пілігрима</ukr>
 		<pln>Znaleźć schowek Pielgrzyma</pln>
 	</string>
@@ -1952,7 +1952,7 @@
 	</string>
 	<string id="tex_podval_lima_name">
 		<rus>Разыскать товарища Молнии</rus>
-		<eng>Find Comrade Lightning</eng>
+		<eng>Find Lightning's comrade</eng>
 		<ukr>Розшукати товариша Блискавки</ukr>
 		<pln>Odnaleźć towarzysza Błyskawicy</pln>
 	</string>
@@ -2083,16 +2083,16 @@
 		<pln>Uwolnić Doktora</pln>
 	</string>
 	<string id="amk_recipt_stone_dikoobraz_1_name">
-		<rus>Записи на флешке Психа</rus>
-		<eng>Psycho's flash drive records</eng>
-		<ukr>Записи на флешці Психа</ukr>
-		<pln>Zapiski na fleszce Psychola</pln>
+		<rus>Записи на флешке сумасшедшего сталкера</rus>
+		<eng>Crazy stalker's flash drive records</eng>
+		<ukr>===Записи на флешці Психа</ukr>
+		<pln>===Zapiski na fleszce Psychola</pln>
 	</string>
 	<string id="amk_recipt_stone_dikoobraz_2_name">
-		<rus>Записи в КПК Психа</rus>
-		<eng>Psycho's PDA records</eng>
-		<ukr>Записи в КПК Психа</ukr>
-		<pln>Notatka w PDA Psychola</pln>
+		<rus>Записи в КПК сумасшедшего сталкера</rus>
+		<eng>Crazy stalker's PDA records</eng>
+		<ukr>===Записи в КПК Психа</ukr>
+		<pln>===Notatka w PDA Psychola</pln>
 	</string>
 	<string id="amk_recipt_steel_kolobok_name">
 		<rus>Награда за ружьё</rus>
@@ -2120,7 +2120,7 @@
 	</string>
 	<string id="amk_recipt_souls_name">
 		<rus>Сообщение от Повара</rus>
-		<eng>Message from the Cook</eng>
+		<eng>Message from Chef</eng>
 		<ukr>Повідомлення від Кухаря</ukr>
 		<pln>Wiadomość od Kucharza</pln>
 	</string>
@@ -2168,7 +2168,7 @@
 	</string>
 	<string id="amk_recipt_electra_dikoobraz_name">
 		<rus>Украденные данные Скряги</rus>
-		<eng>Stolen Hacker Data</eng>
+		<eng>Skinflint's stolen data</eng>
 		<ukr>Вкрадені дані Скнари</ukr>
 		<pln>Skradzione dane Kutwy</pln>
 	</string>
@@ -2499,7 +2499,7 @@
 	</string>
 	<string id="storyline_mistake_resident_name">
 		<rus>Ошибка Резидента</rus>
-		<eng>Resident Error</eng>
+		<eng>Resident's Blunder</eng>
 		<ukr>Помилка Резидента</ukr>
 		<pln>===Ошибка Резидента</pln>
 	</string>
@@ -2895,43 +2895,43 @@
 	</string>
 	<string id="strelok_taynik_pda2_name">
 		<rus>Найти тайники Стрелка</rus>
-		<eng>Find Strelok's cache</eng>
+		<eng>Find Strelok's stashes</eng>
 		<ukr>Знайти схованки Стрільця</ukr>
 		<pln>Znaleźć schowki Striełoka</pln>
 	</string>
 	<string id="strelok_taynik_pda30_name">
 		<rus>Найти тайник Стрелка</rus>
-		<eng>Find Strelok's cache</eng>
+		<eng>Find Strelok's stash</eng>
 		<ukr>Знайти схованку Стрільця</ukr>
 		<pln>Znaleźć schowek Striełoka</pln>
 	</string>
 	<string id="strelok_taynik_pda3_name">
 		<rus>Найти тайник Стрелка</rus>
-		<eng>Find Strelok's cache</eng>
+		<eng>Find Strelok's stash</eng>
 		<ukr>Знайти схованку Стрільця</ukr>
 		<pln>Znaleźć schowek Striełoka</pln>
 	</string>
 	<string id="strelok_taynik_pda4_name">
 		<rus>Найти тайник Стрелка</rus>
-		<eng>Find Strelok's cache</eng>
+		<eng>Find Strelok's stash</eng>
 		<ukr>Знайти схованку Стрільця</ukr>
 		<pln>Znaleźć schowek Striełoka</pln>
 	</string>
 	<string id="strelok_taynik_pda5_name">
 		<rus>Найти тайник Стрелка</rus>
-		<eng>Find Strelok's cache</eng>
+		<eng>Find Strelok's stash</eng>
 		<ukr>Знайти схованку Стрільця</ukr>
 		<pln>Znaleźć schowek Striełoka</pln>
 	</string>
 	<string id="strelok_taynik_pda6_name">
 		<rus>Найти тайник Стрелка</rus>
-		<eng>Find Strelok's cache</eng>
+		<eng>Find Strelok's stash</eng>
 		<ukr>Знайти схованку Стрільця</ukr>
 		<pln>Znaleźć schowek Striełoka</pln>
 	</string>
 	<string id="strelok_taynik_pda7_name">
 		<rus>Найти последний тайник Стрелка</rus>
-		<eng>Find Strelok's last cache</eng>
+		<eng>Find Strelok's last stash</eng>
 		<ukr>Знайти останню схованку Стрільця</ukr>
 		<pln>Znaleźć ostatni schowek Striełoka</pln>
 	</string>
@@ -2943,19 +2943,19 @@
 	</string>
 	<string id="kostya_taynik_pda2_1_name">
 		<rus>Найти тайник Старого Жила</rus>
-		<eng>Find Old Vein's cache</eng>
+		<eng>Find Old-timer's cache</eng>
 		<ukr>Знайти схованку Старого Жила</ukr>
 		<pln>Znaleźć schowek Tubylca</pln>
 	</string>
 	<string id="kostya_taynik_pda2_2_name">
 		<rus>Найти тайник Старого Жила</rus>
-		<eng>Find Old Vein's cache</eng>
+		<eng>Find Old-timer's cache</eng>
 		<ukr>Знайти схованку Старого Жила</ukr>
 		<pln>Znaleźć schowek Tubylca</pln>
 	</string>
 	<string id="kostya_taynik_pda2_3_name">
 		<rus>Найти тайник Старого Жила</rus>
-		<eng>Find Old Vein's cache</eng>
+		<eng>Find Old-timer's cache</eng>
 		<ukr>Знайти схованку Старого Жила</ukr>
 		<pln>Znaleźć schowek Tubylca</pln>
 	</string>
@@ -2967,85 +2967,85 @@
 	</string>
 	<string id="kostya_taynik_pda3_1_name">
 		<rus>Найти тайники Старого Жила</rus>
-		<eng>Find Old Vein's caches</eng>
+		<eng>Find Old-timer's caches</eng>
 		<ukr>Знайти схованки Старого Жила</ukr>
 		<pln>Znaleźć schowki Tubylca</pln>
 	</string>
 	<string id="kostya_taynik_pda3_2_name">
 		<rus>Найти тайники Старого Жила</rus>
-		<eng>Find Old Vein's caches</eng>
+		<eng>Find Old-timer's caches</eng>
 		<ukr>Знайти схованки Старого Жила</ukr>
 		<pln>Znaleźć schowki Tubylca</pln>
 	</string>
 	<string id="kostya_taynik_pda3_3_name">
 		<rus>Найти тайники Старого Жила</rus>
-		<eng>Find Old Vein's caches</eng>
+		<eng>Find Old-timer's caches</eng>
 		<ukr>Знайти схованки Старого Жила</ukr>
 		<pln>Znaleźć schowki Tubylca</pln>
 	</string>
 	<string id="kostya_taynik_pda4_name">
 		<rus>Найти тайник Старого Жила</rus>
-		<eng>Find Old Vein's cache</eng>
+		<eng>Find Old-timer's cache</eng>
 		<ukr>Знайти схованки Старого Жила</ukr>
 		<pln>Znaleźć schowek Tubylca</pln>
 	</string>
 	<string id="kostya_taynik_pda5_name">
 		<rus>Найти тайник Старого Жила</rus>
-		<eng>Find Old Vein's cache</eng>
+		<eng>Find Old-timer's cache</eng>
 		<ukr>Знайти схованки Старого Жила</ukr>
 		<pln>Znaleźć schowek Tubylca</pln>
 	</string>
 	<string id="kostya_taynik_pda6_1_name">
 		<rus>Найти тайники Старого Жила</rus>
-		<eng>Find Old Vein's caches</eng>
+		<eng>Find Old-timer's caches</eng>
 		<ukr>Знайти схованки Старого Жила</ukr>
 		<pln>Znaleźć schowki Tubylca</pln>
 	</string>
 	<string id="kostya_taynik_pda6_2_name">
 		<rus>Найти тайники Старого Жила</rus>
-		<eng>Find Old Vein's caches</eng>
+		<eng>Find Old-timer's caches</eng>
 		<ukr>Знайти схованки Старого Жила</ukr>
 		<pln>Znaleźć schowki Tubylca</pln>
 	</string>
 	<string id="kostya_taynik_pda6_3_name">
 		<rus>Найти тайники Старого Жила</rus>
-		<eng>Find Old Vein's caches</eng>
+		<eng>Find Old-timer's caches</eng>
 		<ukr>Знайти схованки Старого Жила</ukr>
 		<pln>Znaleźć schowki Tubylca</pln>
 	</string>
 	<string id="kostya_taynik_pda6_4_name">
 		<rus>Найти тайники Старого Жила</rus>
-		<eng>Find Old Vein's caches</eng>
+		<eng>Find Old-timer's caches</eng>
 		<ukr>Знайти схованки Старого Жила</ukr>
 		<pln>Znaleźć schowki Tubylca</pln>
 	</string>
 	<string id="kostya_taynik_pda7_name">
 		<rus>Найти тайник Старого Жила</rus>
-		<eng>Find Old Vein's cache</eng>
+		<eng>Find Old-timer's cache</eng>
 		<ukr>Знайти схованку Старого Жила</ukr>
 		<pln>Znaleźć schowek Tubylca</pln>
 	</string>
 	<string id="kostya_taynik_pda8_name">
 		<rus>Найти тайник Старого Жила</rus>
-		<eng>Find Old Vein's cache</eng>
+		<eng>Find Old-timer's cache</eng>
 		<ukr>Знайти схованку Старого Жила</ukr>
 		<pln>Znaleźć schowek Tubylca</pln>
 	</string>
 	<string id="kostya_taynik_pda9_name">
 		<rus>Найти 3 тайника Старого Жила</rus>
-		<eng>Find 3 of Old Vein's hiding places</eng>
+		<eng>Find 3 of Old-timer's hiding places</eng>
 		<ukr>Знайти 3 схованки Старого Жила</ukr>
 		<pln>Znaleźć 3 schowki Tubylca</pln>
 	</string>
 	<string id="kostya_taynik_pda10_name">
 		<rus>Найти 4 тайника Старого Жила</rus>
-		<eng>Find 4 of Old Vein's hiding places</eng>
+		<eng>Find 4 of Old-timer's hiding places</eng>
 		<ukr>Знайти 4 схованки Старого Жила</ukr>
 		<pln>Znaleźć 4 schowki Tubylca</pln>
 	</string>
 	<string id="kostya_taynik_pda11_name">
 		<rus>Найти 3 тайника Старого Жила в Припяти</rus>
-		<eng>Find 3 of Old Vein's hiding places in Pripyat</eng>
+		<eng>Find 3 of Old-timer's hiding places in Pripyat</eng>
 		<ukr>Знайти схованки Старого Жила в Прип'яті</ukr>
 		<pln>Znaleźć 3 schowki Tubylca w Prypeci</pln>
 	</string>
@@ -3303,13 +3303,13 @@
 	</string>
 	<string id="info1_name">
 		<rus>Путь к тайнику Стрелка</rus>
-		<eng>Path to Strelok's cache</eng>
+		<eng>Path to Strelok's stash</eng>
 		<ukr>Шлях до схованки Стрільця</ukr>
 		<pln>Droga do schowka Striełoka</pln>
 	</string>
 	<string id="tm_find_name">
 		<rus>Найти тайник Монолита</rus>
-		<eng>Find the Monolith's cache</eng>
+		<eng>Find the Monolith's stash</eng>
 		<ukr>Знайти схованку Моноліту</ukr>
 		<pln>Znaleźć schowek Monolitu</pln>
 	</string>
@@ -3627,7 +3627,7 @@
 	</string>
 	<string id="tex_esc_petruha_toz_name">
 		<rus>Найти оружие Петрухе</rus>
-		<eng>Find weapons for Petruha</eng>
+		<eng>Find weapons for Petrukha</eng>
 		<ukr>Знайти зброю Петрусі</ukr>
 		<pln>Znaleźć strzelbę dla Pietruchy</pln>
 	</string>
@@ -3867,7 +3867,7 @@
 	</string>
 	<string id="price_fanat_name">
 		<rus>Фанат предлагает</rus>
-		<eng>Fanat offers</eng>
+		<eng>Devotee offers</eng>
 		<ukr>Фанат пропонує</ukr>
 		<pln>Fanat proponuje</pln>
 	</string>
@@ -4215,7 +4215,7 @@
 	</string>
 	<string id="arc_brat_luis_name">
 		<rus>Найти Брата Луиса на болотах </rus>
-		<eng>Find Brother Louis in the Swamps</eng>
+		<eng>Find Brother Luis in the Swamps</eng>
 		<ukr>Знайти Брата Луїса на Болотах</ukr>
 		<pln>Znaleźć Brata Louisa na Bagnach</pln>
 	</string>
@@ -4227,7 +4227,7 @@
 	</string>
 	<string id="arc_kot_find_rabi_name">
 		<rus>Найти торговца Рабиновича</rus>
-		<eng>Find Rabinovich the Merchant</eng>
+		<eng>Find merchant Rabinovich</eng>
 		<ukr>Знайти торговця Рабіновича</ukr>
 		<pln>Znaleźć handlarza Rabinowicza</pln>
 	</string>
@@ -4377,7 +4377,7 @@
 	</string>
 	<string id="crazy_surgery_name">
 		<rus>Найти зацепки, связанные с деятельностью Хирурга</rus>
-		<eng>Find clues related to the Surgeon's activities</eng>
+		<eng>Find clues related to Surgeon's activities</eng>
 		<ukr>Знайти зачіпки, пов'язані з діяльністю Хірурга</ukr>
 		<pln>Znaleźć wskazówki związane z działalnością Chirurga</pln>
 	</string>
@@ -4527,7 +4527,7 @@
 	</string>
 	<string id="snp_find_name1_text">
 		<rus>Боров дал мне наводку, где искать того снайпера, из-за которого я чуть не схлопотал пулю на Кордоне. Он сказал, что есть некий сталкер в Баре, который может мне помочь. Также этот сталкер владеет какой-то очень ценной научной информацией, которая может быть мне полезна. Имени его Боров не знает, сказал только, что его люди сбросили "курсовку" на него в КамАЗе на территории Бара.</rus>
-		<eng>===Bauson gave me a tip on where to look for that sniper, the one for which I almost caught a bullet at the Cordon. He said that there is a certain stalker in the Bar who can help me. Also, this stalker owns some very valuable scientific information that may be useful to me. Bauson doesn't know his name, he only said that his people threw a "lead" on him in the KAMAZ in the area at the Rostok plant.</eng>
+		<eng>===Hog gave me a tip on where to look for that sniper, the one for which I almost caught a bullet at the Cordon. He said that there is a certain stalker in the Bar who can help me. Also, this stalker owns some very valuable scientific information that may be useful to me. Hog doesn't know his name, he only said that his people threw a "lead" on him in the KAMAZ in the area at the Rostok plant.</eng>
 		<ukr>Кабан дав мені наводку, де шукати того снайпера, через якого я мало не дістав кулю на Кордоні. Він сказав, що є якийсь сталкер в Барі, який може мені допомогти. Також цей сталкер володіє якоюсь дуже цінною науковою інформацією, яка може бути мені корисна. Імені його Кабан не знає, сказав тільки, що його люди скинули "курсівку" на нього у КамАЗі на території Бару.</ukr>
 		<pln>===Borow dał mi namiar gdzie szukać tego snajpera, za którego nieomal zebrałem kulkę na Kordonie. Powiedział, że jest jakiś stalker w Barze, który może mi pomóc. Ten stalker posiada też jakąś bardzo cenną naukową informację, która być może mi się przyda. Borow nie zna jego imienia, powiedział tylko, że jego ludzie zrzucili "znacznik" na niego, w okolicy Kamaza, w fabryce "Rostok".</pln>
 	</string>
@@ -4863,9 +4863,9 @@
 	</string>
 	<string id="snpt_2chaes3_text">
 		<rus>Пропер Семидесятый не знает, где искать третью часть рецепта "Звезды Пророка". Он попросил меня поспрашивать на Скадовске, может, кто что подскажет...</rus>
-		<eng>Proper the Seventieth doesn't know where to find the third part of the recipe for the "Star of the Prophet." He asked me to ask around the Skadovsk, maybe someone will tell me something...</eng>
+		<eng>Proper70 doesn't know where to find the third part of the recipe for the "Star of the Prophet." He asked me to ask around the Skadovsk, maybe someone will tell me something...</eng>
 		<ukr>Пропер Сімдесятий не знає, де шукати третю частину рецепта "Зірки Пророка". Він попросив мене розпитати на Скадовську, може, хтось щось підкаже...</ukr>
-		<pln>Proper nie wie, gdzie szukać trzeciej części recepty "Gwiazdy Proroka". Poprosił mnie by popytać na Skadowsku, może ktoś coś będzie wiedział...</pln>
+		<pln>Proper70 nie wie, gdzie szukać trzeciej części recepty "Gwiazdy Proroka". Poprosił mnie by popytać na Skadowsku, może ktoś coś będzie wiedział...</pln>
 	</string>
 	<string id="snpt_2chaes4_name">
 		<rus>Найти информацию о муже Людмилы</rus>
@@ -4899,9 +4899,9 @@
 	</string>
 	<string id="snpt_jupiter3_text">
 		<rus>Пропер Семидесятый сказал, что информацией о "Звезде Пророка" обладает Сахаров. Чтобы он поделился ею со мной, нужно отнести ему документы из тайника Фенрира на одной из крыш на Янове.</rus>
-		<eng>Prophet the Seventieth said that Sakharov has information about the "Star of the Prophet". For him to share it with me,I need to bring him the documents from Fenrir's hiding place on one of the rooftops at Yanov.</eng>
+		<eng>Proper70 said that Sakharov has information about the "Star of the Prophet". For him to share it with me,I need to bring him the documents from Fenrir's hiding place on one of the rooftops at Yanov.</eng>
 		<ukr>Пропер Сімдесятий сказав, що інформацією про "Зірку Пророка" володіє Сахаров. Щоб він поділився нею зі мною, потрібно віднести йому документи зі схованки Фенріра на одному з дахів на Янові.</ukr>
-		<pln>Proper powiedział, że informacje o "Gwieździe Proroka" posiada Sacharow. By podzielił się nią ze mną, trzeba odnieść mu dokumenty ze schowka Fenrira na jednym z dachów na Janowie.</pln>
+		<pln>Proper70 powiedział, że informacje o "Gwieździe Proroka" posiada Sacharow. By podzielił się nią ze mną, trzeba odnieść mu dokumenty ze schowka Fenrira na jednym z dachów na Janowie.</pln>
 	</string>
 	<string id="snpt_jupiter4_name">
 		<rus>Найти Бороду</rus>
@@ -5061,7 +5061,7 @@
 	</string>
 	<string id="snpt_x181_name">
 		<rus>Найти тайник доктора Алекса Фримена</rus>
-		<eng>Find the cache of Dr. Alex Freeman</eng>
+		<eng>Find the cache of doctor Alex Freeman</eng>
 		<ukr>Знайти схованку доктора Алекса Фрімена</ukr>
 		<pln>Znaleźć schowek doktora Aleksa Freemana</pln>
 	</string>
@@ -5151,7 +5151,7 @@
 	</string>
 	<string id="snp_receipt_parts6_text">
 		<rus>Чтобы расшифровать странный рецепт, мне нужно найти сталкера по прозвищу Пропер Семидесятый. Он должен помочь мне в этом деле.</rus>
-		<eng>I need to find a stalker nicknamed Prapor the Seventieth, to decipher this weird recipe. He must help me in this matter.</eng>
+		<eng>I need to find a stalker nicknamed Proper70, to decipher this weird recipe. He must help me in this matter.</eng>
 		<ukr>Щоб розшифрувати дивний рецепт, мені потрібно знайти сталкера на прізвисько Пропер Сімдесятий. Він повинен допомогти мені в цій справі.</ukr>
 		<pln>By odszyfrować dziwną receptę, muszę znaleźć stalkera o przezwisku Proper. On powinien mi pomóc w tej sprawie.</pln>
 	</string>
@@ -5421,7 +5421,7 @@ When Mark regained consciousness, he was already  in the hospital. He was hospit
 Before being sent home after completing their service, all the soldiers in the unit in which Mark served, were asked to sign a contract to continue serving in the Exclusion Zone. Mark didn't know what the Exclusion Zone was as the time, so he declined. Several of the soldiers accepted the offer.\n
 One day, while sitting in a cafe, he run into a an old army buddy, who was his best friend at the time, and was one who agreed to fulfil the terms of the contract. They drank to celebrate the meeting, a conversation ensued. Mark asked him about the Zone. From the words of his interlocutor, he realised that the Zone is a closed territory and any information about the real picture of everything that happens inside it, is top secret. He said that scientists are working in its territory and were studying something there.  Also on the territory of the Exclusion Zone, unidentified and extremely aggressive and dangerous animals and abnormal places were observed. In addition, the scientists informed them about some unusual objects that they began to find. They called them Artefacts, because these items had unusual and amazing properties that needed to be studied. In general, they asked everyone who found such items to bring them to them for a good fee. In addition,  people who call themselves Stalkers began to appear  in the Zone. Why they entered the Exclusion Zone, has not been verified, but it has been assumed that these are ordinary seekers engaged in search for artefacts that they can later sell to the scientists. Detention of such individuals was routinely carried out. As a rule, they didn't have documentation with them, but almost all of them carried cold steel or firearms. These were mainly criminals who included thieves, murders, escapes from places of detention, and those who were hiding from justice. They told extremely interesting and unusual stories and legends about what was happening in the depths of the Exclusion Zone. The most frequent and most mysterious story by all the captured Stalkers,  was the legend of the Wish Granter, or Monolith.\n
 After that conversation, Mark pondered for a long time and eventually decided to go to the Zone and try to solve the riddle of the Wish Granter himself. He sold everything he had, bought all the necessary equipment, and learned more about the Zone and how to get there. Making his way through the Perimeter, he safely passed the military checkpoint and made his way to the Newbie Village, this is where he met Doctor. Since no one in the Newbie Village used their real name, Mark introduced himself to Doctor as Strelok and asked to tell him more about the Monolith and how it could be reached. Doctor told him all that he knew. Soon Doctor introduced him to some good people: Fang and Ghost. They were also interested in the Strelok's offer. Strelok's group soon began collecting all the necessary information that could help them in their cause.\n
-When they set off and were halfway to the Monolith, things suddenly went wrong. There was no contact with Ghost, and information came that Fang had been killed. Strelok had no choice but to go alone. He stubbornly followed an unknown path to the North and reached the Sarcophagus. The shooter went down inside, and just before reaching the Monolith, something happened that knocked him unconscious. No, it wasn't radiation, it was something else, inexplicable... After  Strelok lost consciousness, he was taken to the Monolith control Bunker and his fate was decided there. As in all such cases, it was decided to program Strelok to serve the Monolith and perform tasks of C-Consciousness. They "labelled" Strelok and sent him on a death truck back to the Zone. C-Consciousness hoped that he would lead them on the trail of his friends, who were also needed for further control and expansion of the Zone. But even then, if everything goes wrong unintentionally, there's another, absolutely correct option. They entered a task in his PDA: "Kill Strelok".\n \n \n \n \n</eng>
+When they set off and were halfway to the Monolith, things suddenly went wrong. There was no contact with Ghost, and information came that Fang had been killed. Strelok had no choice but to go alone. He stubbornly followed an unknown path to the North and reached the Sarcophagus. The shooter went down inside, and just before reaching the Monolith, something happened that knocked him unconscious. No, it wasn't radiation, it was something else, inexplicable... After  Strelok lost consciousness, he was taken to the Monolith control Bunker and his fate was decided there. As in all such cases, it was decided to program Strelok to serve the Monolith and perform tasks of the C-Consciousness. They "labelled" Strelok and sent him on a death truck back to the Zone. The C-Consciousness hoped that he would lead them on the trail of his friends, who were also needed for further control and expansion of the Zone. But even then, if everything goes wrong unintentionally, there's another, absolutely correct option. They entered a task in his PDA: "Kill Strelok".\n \n \n \n \n</eng>
 		<ukr>Громов Сергій Якович разом зі своєю сім'єю проживав у невеликому містечку Каменськ-Шахтинський Ростовської області. Одружений був на Громовій Валерії Олександрівні, яка працювала медсестрою в лікарні. Був 10 річний син Громов Марк Сергійович. Життя якось не складалося. Сергій мав вищу технічну освіту, і, після довгого і безрезультатного пошуку роботи за своєю спеціальністю в рідному місті, перебиваючись випадковими заробітками, вже подумував про отримання іншої спеціальності. Поки чоловік шукав собі роботу, дружина Валерія працювала в міській лікарні медсестрою на півтори ставки. Зарплати ледь вистачало на утримання двох осіб, а з народженням дитини становище сильно погіршилося, і вона стала залишатися працювати в нічну зміну, за що нараховувалася надбавка до зарплати.\n 
 Через рік Сергію прийшов лист про те, що на Чорнобильську АЕС потрібен працівник якраз по його спеціальності. Якщо він прийме пропозицію, то він буде отримувати непогану заробітну плату, його родині буде виділена окрема квартира для проживання в робочому місті Прип'ять, а також його дружині нададуть роботу за фахом.\n
 Сергій не роздумуючи погодився і сім'я переїхала на Україну в Прип'ять. Як і говорилося в листі, їм дали двокімнатну квартиру, Сергія влаштували на роботу на ЧАЕС, а Валерію на перших порах у магазин "Світлячок". Сергій працював у підреакторному приміщенні четвертого енергоблоку. Раз на рік Сергій брав собі відпустку і зі своїми колегами по роботі і друзями їздив на полювання. Його син Марк просив батька взяти його з собою, але батько був категорично проти. Замість того, щоб його син стріляв зі справжньої рушниці у справжню тварину, він відвів Марка в тир. "Це все ж краще, ніж нічого. Сину, повір мені." - говорив йому батько, і Марк незабаром змирився.\n
@@ -5670,7 +5670,7 @@ Kiedy ruszyli i byli już w połowie drogi do Monolitu, nagle wszystko zaczęło
 	</string>
 	<string id="emb10_name">
 		<rus>Эмбрион Тени Монолита</rus>
-		<eng>Monolith's Shadow embryo</eng>
+		<eng>Embryo of the Monolith's Shadow</eng>
 		<ukr>Ембріон Тіні Моноліту</ukr>
 		<pln>Embrion Cienia Monolitu</pln>
 	</string>
@@ -5948,20 +5948,20 @@ Kiedy ruszyli i byli już w połowie drogi do Monolitu, nagle wszystko zaczęło
 	</string>
 	<string id="fli_snegir_text">
 		<rus>Мария пришла в Зону, чтобы найти своего парня, с которым они помолвлены. Его зовут Славик Снегирь. Я был растроган её историей и решил ей помочь.</rus>
-		<eng>Maria came to the Zone to find her boyfriend to whom she was engaged. His name is Slavik Bullfinch. I was moved by her story and decided to help her</eng>
+		<eng>Maria came to the Zone to find her boyfriend to whom she was engaged. His name is Slavik the Bullfinch. I was moved by her story and decided to help her</eng>
 		<ukr>Марія прийшла в Зону, щоб знайти свого хлопця, з яким вони заручені. Його звуть Славік Снігур. Я був зворушений її історією і вирішив їй допомогти.</ukr>
 		<pln>Maria przybyła do Zony by odnaleźć swojego chłopaka, z którym jest zaręczona. Wołają go Sławik Gil. Wzruszyłem się jej historią i zdecydowałem się jej pomóc.</pln>
 	</string>
 	<string id="fli_chaes_name">
 		<rus>Освободить группу Снегиря</rus>
-		<eng>Release the Bullfinch group</eng>
+		<eng>Release Bullfinch's group</eng>
 		<ukr>Звільнити групу Снігура</ukr>
 		<pln>Uwolnić grupę Gila</pln>
 	</string>
 	<string id="fli_chaes_text">
-		<rus>Как Калинин и предполагал, группа Снегиря попала в плен к монолитовцам. Нужно освободить их и сохранить их всех в живых. Эта работа требует терпения и хладнокровия. Нужно аккуратно, из хорошей снайперки ликвидировать весь Монолит, стараясь совсем не попадаться им на глаза. Маскхалатом пользоваться нельзя. Поэтому мне нужно действовать спокойно и рассудительно. Нельзя уходить с той части крыши четвёртого реактора, где я сейчас нахожусь, иначе они обнаружат меня и убьют пленников.</rus>
-		<eng>As Kalinin had speculated, the Bullfinch group was captured by the Monolithians. I need to free them and keep them all alive. This work requires patience and composure. It's necessary to carefully eliminate the whole Monolithian squad from a good sniper's position, trying not to get spotted. A camouflage suit can't be used. Therefore, I need to act calmly and judiciously. I can't leave that part of the roof of the fourth reactor where I am now, otherwise they will find me and kill the captives.</eng>
-		<ukr>Як Калинін і припускав, група Снігура потрапила в полон до монолітівців. Потрібно звільнити їх і зберегти їх всіх у живих. Ця робота вимагає терпіння і холоднокровності. Потрібно акуратно, з хорошої снайперки ліквідувати весь Моноліт, намагаючись зовсім не потрапляти їм на очі. Маскхалатом користуватися не можна. Тому мені потрібно діяти спокійно і розважливо. Не можна йти з тієї частини даху четвертого реактора, де я зараз перебуваю, інакше вони помітять мене і вб'ють бранців.</ukr>
+		<rus>Как Калинин и предполагал, группа Снегиря попала в плен к монолитовцам. Нужно освободить их и сохранить их всех в живых. Эта работа требует терпения и хладнокровия. Нужно аккуратно, из хорошей снайперки ликвидировать всех монолитовцев, стараясь совсем не попадаться им на глаза. Маскхалатом пользоваться нельзя. Поэтому мне нужно действовать спокойно и рассудительно. Нельзя уходить с той части крыши четвёртого реактора, где я сейчас нахожусь, иначе они обнаружат меня и убьют пленников.</rus>
+		<eng>As Kalinin had speculated, Bullfinch's group was captured by the Monolithians. I need to free them and keep them all alive. This work requires patience and composure. It's necessary to carefully eliminate all monolithians from a good sniper's position, trying not to get spotted. A camouflage suit can't be used. Therefore, I need to act calmly and judiciously. I can't leave that part of the roof of the fourth reactor where I am now, otherwise they will find me and kill the captives.</eng>
+		<ukr>===Як Калинін і припускав, група Снігура потрапила в полон до монолітівців. Потрібно звільнити їх і зберегти їх всіх у живих. Ця робота вимагає терпіння і холоднокровності. Потрібно акуратно, з хорошої снайперки ліквідувати весь Моноліт, намагаючись зовсім не потрапляти їм на очі. Маскхалатом користуватися не можна. Тому мені потрібно діяти спокійно і розважливо. Не можна йти з тієї частини даху четвертого реактора, де я зараз перебуваю, інакше вони помітять мене і вб'ють бранців.</ukr>
 		<pln>Tak jak przypuszczał Kalinin, grupa Gila dostała się do niewoli monolitowców. Trzeba ich uwolnić i to tak by wszyscy przeżyli. To zadanie wymaga cierpliwości i zimnej krwi. Trzeba precyzyjnie, z dobrej snajperki, likwidować po kolei monolitowców, tak by nikt mnie nie zauważył. Nie mogę korzystać z maskowania. Dlatego muszę postępować spokojnie i rozsądnie. Nie wolno schodzić z tej części dachu czwartego reaktora, gdzie teraz się znajduję, inaczej mnie zobaczą i zlikwidują jeńców.</pln>
 	</string>
 	<string id="fli_have36_name">

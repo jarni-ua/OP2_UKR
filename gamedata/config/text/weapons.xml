@@ -494,45 +494,6 @@
 		<eng>M209</eng>
 		<ukr>M209</ukr>
 	</string>
-	<!-- 16 cal-buck -->
-	<string id="ammo-16cal-buck">
-		<rus>Патрон 16 калибра "Дробь"</rus>
-		<eng>16 caliber "Birdshot" cartridge </eng>
-		<ukr>Патрон 16 калібру "Дріб"</ukr>
-		<pln>Nabój kaliber 16 "Śrut"</pln>
-	</string>
-	<string id="ammo-16cal-buck_s">
-		<rus>"Дробь" 16 калибра</rus>
-		<eng>16 caliber "Birdshot" </eng>
-		<ukr>"Дріб" 16 калібру</ukr>
-		<pln>"Śrut" kaliber 16</pln>
-	</string>
-	<!-- 16 cal-zhekan -->
-	<string id="ammo-16cal-skart">
-		<rus>Патрон 16го калибра "Картечь"</rus>
-		<eng>16 caliber "Buckshot" cartridge</eng>
-		<ukr>Патрон 16го калібру "Картеч"</ukr>
-		<pln>Nabój kaliber 16 "Kartacz"</pln>
-	</string>
-	<string id="ammo-16cal-skart_s">
-		<rus>"Картечь" 16 калибра</rus>
-		<eng>16 caliber "Buckshot"</eng>
-		<ukr>"Картеч" 16 калібру</ukr>
-		<pln>"Kartacz" kaliber 16</pln>
-	</string>
-	<!-- 16 cal-dart -->
-	<string id="ammo-16cal-fost">
-		<rus>Патрон 16 калибра "Пуля Фостера"</rus>
-		<eng>16 caliber "Foster's Bullet" cartridge</eng>
-		<ukr>Патрон 16 калібру "Куля Фостера"</ukr>
-		<pln>Nabój kaliber 16 "Kula Fostera"</pln>
-	</string>
-	<string id="ammo-16cal-fost_s">
-		<rus>"Пуля Фостера" 16 калибра</rus>
-		<eng>16 caliber "Foster's Bullet"</eng>
-		<ukr>"Куля Фостера" 16 калібру</ukr>
-		<pln>"Kula Fostera" kaliber 16</pln>
-	</string>
 	<!-- 44 Magnum JSP -->
 	<string id="ammo-44mag-hp">
 		<rus>Патроны .44 Магнум JSP</rus>
@@ -1372,7 +1333,7 @@
 	</string>
 	<string id="enc_weapons1_wpn_dark_gauss">
 		<rus>Гаусс Призрака. Этот Гаусс благодаря тому, что долго пролежал в аномалии "Холодец", имеет просто бешеную скорострельность по сравнению с другими Гаусс-винтовками.</rus>
-		<eng>Spectre's Gauss. This Gauss rifle, due to the fact that he spent a long time in the "Fruit punch" anomaly, has a frenzied rate of fire compared to other Gauss rifles.</eng>
+		<eng>Ghost's Gauss. This Gauss rifle, due to the fact that he spent a long time in the "Fruit punch" anomaly, has a frenzied rate of fire compared to other Gauss rifles.</eng>
 		<ukr>Гаусс Привида. Цей гаусс завдяки тому, що довго пролежав у аномалії "Холодець", має просто шалену швидкострільність в порівнянні з іншими Гаусс-гвинтівками.</ukr>
 		<pln>Gauss Ducha. Dzięki temu, że ten Gauss długo przeleżał w anomalii "Galareta", posiadł niesamowitą szybkostrzelność w porównaniu z innymi karabinami Gaussa.</pln>
 	</string>
@@ -1806,19 +1767,19 @@
 	</string>
 	<string id="ammo_flame_desc">
 		<rus>Горючая двухкомпонентная смесь из коллоидного газа "Ф" и нефтепродуктов. Используется в огнемёте «системы Шурупа».</rus>
-		<eng>Flammable two-component mix of colloidal "F" gas and petroleum products. Used in the flamethrower of the "Shurup's system".</eng>
+		<eng>Flammable two-component mix of colloidal "F" gas and petroleum products. Used in the flamethrower of the "Screw's system".</eng>
 		<ukr>Горюча двокомпонентна суміш з колоїдного газу "Ф" і нафтопродуктів. Використовується у вогнеметі «системи Шурупа».</ukr>
 		<pln>Łatwopalna dwuskładnikowa mieszanka gazu koloidalnego "F" i produktów naftowych. Stosowana w miotaczu ognia konstrukcji Wkręta.</pln>
 	</string>
 	<string id="wpn-flame_name">
 		<rus>Огнемёт «системы Шурупа»</rus>
-		<eng>Flamethrower of "Shurup's system"</eng>
+		<eng>Flamethrower of "Screw's system"</eng>
 		<ukr>Вогнемет «системи Шурупа»</ukr>
 		<pln>Miotacz ognia "Wkręta"</pln>
 	</string>
 	<string id="wpn-flame_readme">
 		<rus>Самодельный огнемёт конструкции свободовца Шурупа. Заправляется двухкомпонентной смесью из коллоидного газа "Ф" и нефтепродуктов. Смесь самовозгорается на воздухе, поэтому конструкция предельно проста. Однако из-за высокой химической активности смеси в конструкции применены детали, изготовленные из высокотехнологичных антикоррозийных материалов, получаемых в особых лабораторных условиях. К тому же секретом производства смеси владеет только сам Шуруп. По этим причинам огнемёт не стал массовым изделием, несмотря на весьма серьёзные преимущества перед обычным огнестрельным оружием при встрече с некоторыми обитателями Зоны.</rus>
-		<eng>Homemade flamethrower design of Freedom guy Shurup. It is charged with a two-component mixture of colloidal gas "F" and petroleum products. The mixture self ignites in the air, so the design is extremely simple. However, due to the high chemical activity of the mixture in the construction, parts made of high-tech anti-corrosion materials obtained in special laboratory conditions are used. In addition, the secret of production of the mixture is owned only by Shurup himself. For these reasons, the flamethrower did not become a mass product, despite very serious advantages over conventional firearms when encountering some of the Zone inhabitants.</eng>
+		<eng>Homemade flamethrower design of Freedom guy Screw. It is charged with a two-component mixture of colloidal gas "F" and petroleum products. The mixture self ignites in the air, so the design is extremely simple. However, due to the high chemical activity of the mixture in the construction, parts made of high-tech anti-corrosion materials obtained in special laboratory conditions are used. In addition, the secret of production of the mixture is owned only by Screw himself. For these reasons, the flamethrower did not become a mass product, despite very serious advantages over conventional firearms when encountering some of the Zone inhabitants.</eng>
 		<ukr>Саморобний вогнемет конструкції волівця Шурупа. Заправляється двокомпонентною сумішшю з колоїдного газу "Ф" і нафтопродуктів. Суміш самозаймається на повітрі, тому конструкція гранично проста. Однак через високу хімічну активність суміші в конструкції застосовані деталі, виготовлені з високотехнологічних антикорозійних матеріалів, отримуваних в особливих лабораторних умовах. До того ж секретом виробництва суміші володіє тільки сам Шуруп. З цих причин вогнемет не став масовим виробом, незважаючи на вельми серйозні переваги перед звичайною вогнепальною зброєю при зустрічі з деякими мешканцями Зони.</ukr>
 		<pln>Własnej roboty miotacz ognia konstrukcji wolnościowca Wkręta. Zasilany dwuskładnikową mieszanką gazu koloidalnego "F" i produktów naftowych. Mieszanka samoczynnie zapala się w zetknięciu z powietrzem, dlatego konstrukcja jest stosunkowo prosta. Ale ze względu na wysoką aktywność chemiczną mieszanki, w konstrukcji zastosowano części wytworzone z wysoko technologicznych antykorozyjnych materiałów, otrzymywanych w szczególnych warunkach laboratoryjnych. Ponadto sekret produkcji mieszanki znany jest tylko Wkrętowi. Z tych przyczyn, miotacz ognia nie wszedł do masowej produkcji, mimo bardzo dużej przewagi nad standardową bronią palną przy spotkaniu z niektórymi mieszkańcami Zony.</pln>
 	</string>
@@ -2297,10 +2258,10 @@
 		<pln>Obrzyn strzelby Benelli M3, bardzo skuteczny w walce na krótkim dystansie.</pln>
 	</string>
 	<string id="enc_weapons1_wpn-tt33">
-		<rus>О пистолете «ТТ» в наше время чаще говорят в криминальных хрониках, но это творение российского оружейника Фёдора Токарева не зря заслужило свою славу. Творение Токарева получило обезличенное наименование «7,62-мм самозарядный пистолет обр. 1930 года», но в процессе подготовки к массовому производству эта модель претерпела ряд изменений, упростивших технологию изготовления. В результате с 1934 г. на Тульском оружейном заводе начался массовый выпуск модели «7,62-мм пистолет ТТ обр. 1933 г.», а уже через несколько лет иначе, чем «ТТ» (Тульский, Токарев) её не называли. Эта модель экспортировалась в ГДР, Польшу, Румынию, Болгарию, Северный Вьетнам, а Югославия, Венгрия, Китай и Северная Корея даже приобрели лицензии на производство ТТ и боеприпасов к нему.</rus>
+		<rus>О пистолете «ТТ» в наше время чаще говорят в криминальных хрониках, но это творение российского оружейника Фёдора Токарева не зря заслужило свою славу. Творение Токарева получило обезличенное наименование «7,62-мм самозарядный пистолет обр. 1930 года», но в процессе подготовки к массовому производству эта модель претерпела ряд изменений, упростивших технологию изготовления. В результате с 1934 г. на Тульском оружейном заводе начался массовый выпуск модели «7,62-мм пистолет ТТ обр. 1933 г.», а уже через несколько лет иначе, чем «ТТ» (Тульский Токарев) её не называли. Эта модель экспортировалась в ГДР, Польшу, Румынию, Болгарию, Северный Вьетнам, а Югославия, Венгрия, Китай и Северная Корея даже приобрели лицензии на производство ТТ и боеприпасов к нему.</rus>
 		<eng>In our time is often spoken in criminal chronicles about "TT" pistol, but this creation of the Russian armorer Fedor Tokarev knowingly earned its fame. Tokarev's creation was given the depersonalized name "7.62-mm self-loading pistol ver. 1930 ", but in the process of preparation for mass production this model underwent a number of changes that simplified the manufacturing technology. As a result, since 1934, the mass production of the "7.62-mm TT gun" model began at the Tula Arms Plant., and in a few years it was not called another than "TT" (Tulsky Tokarev). This model was exported to the GDR, Poland, Romania, Bulgaria, North Vietnam, and Yugoslavia, Hungary, China and North Korea even acquired licenses for the production of TT and its ammunition.</eng>
-		<ukr>Про пістолет «ТТ» у наш час частіше говорять у кримінальних хроніках, але це творіння російського зброяра Федора Токарєва не дарма заслужило свою славу. Творіння Токарєва отримало знеособлене найменування «7.62-мм самозарядний пістолет зраз. 1930 року», але у процесі підготовки до масового виробництва ця модель зазнала ряд змін, які спростили технологію виготовлення. У результаті з 1934 р. на Тульському збройовому заводі почався масовий випуск моделі «7.62-мм пістолет ТТ зраз. 1933 року», а вже через кілька років інакше, ніж «ТТ» (Тульський, Токарєв) його не називали. Ця модель експортувалася у НДР, Польщу, Румунію, Болгарію, Північний В'єтнам, а Югославія, Угорщина, Китай і Північна Корея навіть придбали ліцензії на виробництво ТТ та боєприпасів до нього.</ukr>
-		<pln>W obecnych czasach, o pistolecie "TT" najczęściej mówią w kronikach kryminalnych, ale to dzieło rosyjskiego rusznikarza, Fiodora Tokariewa, nie zasłużyło sobie na taką sławę. Pistolet Tokariewa otrzymał zdepersonalizowaną nazwę "7,62-mm samopowtarzalny pistolet wz. 1930 r.", ale w procesie przygotowania do masowej produkcji ten model uległ szeregom zmian, które uprościły technologię produkcji. W rezultacie z 1934 roku, Tulskim Zakładzie Zbrojeniowym ruszyła masowa produkcja modelu "7,62-mm pistolet TT wz. 1933 r.", a po kilku latach już jako "TT (Tulski, Tokariew)". Ten model był eksportowany do NRD, Polski, Rumuni, Bułgarii, Wietnamu Północnego, a Jugosławia, Węgry, Chiny i Korea Północna nawet zakupiły licencje na produkcję TT i amunicji do niego.</pln>
+		<ukr>Про пістолет «ТТ» у наш час частіше говорять у кримінальних хроніках, але це творіння російського зброяра Федора Токарєва не дарма заслужило свою славу. Творіння Токарєва отримало знеособлене найменування «7.62-мм самозарядний пістолет зраз. 1930 року», але у процесі підготовки до масового виробництва ця модель зазнала ряд змін, які спростили технологію виготовлення. У результаті з 1934 р. на Тульському збройовому заводі почався масовий випуск моделі «7.62-мм пістолет ТТ зраз. 1933 року», а вже через кілька років інакше, ніж «ТТ» (Тульський Токарєв) його не називали. Ця модель експортувалася у НДР, Польщу, Румунію, Болгарію, Північний В'єтнам, а Югославія, Угорщина, Китай і Північна Корея навіть придбали ліцензії на виробництво ТТ та боєприпасів до нього.</ukr>
+		<pln>W obecnych czasach, o pistolecie "TT" najczęściej mówią w kronikach kryminalnych, ale to dzieło rosyjskiego rusznikarza, Fiodora Tokariewa, nie zasłużyło sobie na taką sławę. Pistolet Tokariewa otrzymał zdepersonalizowaną nazwę "7,62-mm samopowtarzalny pistolet wz. 1930 r.", ale w procesie przygotowania do masowej produkcji ten model uległ szeregom zmian, które uprościły technologię produkcji. W rezultacie z 1934 roku, Tulskim Zakładzie Zbrojeniowym ruszyła masowa produkcja modelu "7,62-mm pistolet TT wz. 1933 r.", a po kilku latach już jako "TT (Tulski Tokariew)". Ten model był eksportowany do NRD, Polski, Rumuni, Bułgarii, Wietnamu Północnego, a Jugosławia, Węgry, Chiny i Korea Północna nawet zakupiły licencje na produkcję TT i amunicji do niego.</pln>
 	</string>
 	<string id="enc_weapons1_wpn-tt33_m1">
 		<rus>В бывшей Югославии пистолет ТТ чрезвычайно популярен, особенно новая модель Z-10 под патрон 10mm Auto, с ёмкостью магазина на восемь патронов. Однако пока патроны такого калибра не встречались на просторах СНГ, поэтому пистолет Z-10 вряд ли будет широко доступен в ближайшее время, хотя по боевым характеристикам, он, возможно, является самым лучшим вариантом. Другой причиной его отсутствия может стать тот факт, что в самой бывшей Югославии, где оружейное законодательство достаточно либерально, фабрика "Црвена Застава", производящая эти пистолеты, не успевает отгружать их в белградские оружейные магазины. Там в очереди на получение пистолета Z-10 с пушечным калибром надо ждать несколько месяцев.\n В Зону пару экземпляров данного пистолета ввёз один югослав Радован Тулич. По слухам, сталкер собирался в дальний рейд на Затон, поискать "клондайк артефактов" и после этого о нём никто ничего не слышал.</rus>
@@ -2944,7 +2905,7 @@
 	</string>
 	<string id="enc_weapons1_wpn-mp5sd">
 		<rus>MP5/40 - вариант под патрон .40 S&amp;W, выпускался специально для правоохранительных органов США (в том числе ФБР) с 1992 по 2000 гг. Этот вариант легко отличим от 9-мм моделей, благодаря прямым коробчатым магазинам, сделанным из пластика (9-мм модели имеют стальные магазины).\n Небольшая партия таких МП-5 была закуплена Боровым для вооружения своих телохранителей, из-за этого к данным ПП приклеилось название "Гадюка Борова".</rus>
-		<eng>MP5/40 - an option for .40 S&amp;W cartridge, which was produced specifically for US law enforcement agencies (including the FBI) from 1992 to 2000. This variant can be easily distinguished from 9 mm models, due to direct box-shaped plastic magazines (9 mm models have steel magazines).\n A small batch of such MP-5 was purchased by Bauson to arm his bodyguards. Due to this those SMGs are called "Bauson's Vipers".</eng>
+		<eng>MP5/40 - an option for .40 S&amp;W cartridge, which was produced specifically for US law enforcement agencies (including the FBI) from 1992 to 2000. This variant can be easily distinguished from 9 mm models, due to direct box-shaped plastic magazines (9 mm models have steel magazines).\n A small batch of such MP-5 was purchased by Hog to arm his bodyguards. Due to this those SMGs are called "Hog's Vipers".</eng>
 		<ukr>MP5/40 - варіант під патрон .40 S&amp;W, випускався спеціально для правоохоронних органів США (в тому числі ФБР) з 1992 по 2000 рр. Цей варіант легко відрізнити від 9-мм моделей, завдяки прямим коробчатим магазинам, зробленим із пластику (9-мм моделі мають сталеві магазини).\n Невелика партія таких МП-5 була закуплена Кабаном для озброєння своїх охоронців, через це до даних ПП приклеїлася назва "Гадюка Кабана".</ukr>
 		<pln>MP5/40 - wariant pod nabój .40 S&amp;W, wyprodukowany specjalnie dla sił porządkowych USA (w tym FBI) w latach 1992-2000. Ten wariant łatwo odróżnić od 9-mm modelu, dzięki prostym magazynkom pudełkowym, zrobionym z plastiku (9-mm model posiada magazynki stalowe).\n Nieduża partia takich MP-5 została zakupiona przez Borowa na uzbrojenie swoich ochroniarzy i z tego powodu, do tej broni przykleiła się nazwa "Żmija Borowa".</pln>
 	</string>
