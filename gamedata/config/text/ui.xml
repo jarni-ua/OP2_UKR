@@ -1643,7 +1643,7 @@
 		<rus>Зов Сидоровича после загрузки</rus>
 		<eng>Sidorovich's phrazes after loading</eng>
 		<ukr>Заклик Сидоровича після завантаження</ukr>
-		<fra>Appel de Sidorovich après le chargement</fra>
+		<fra>Appel de Sidorovitch après le chargement</fra>
 		<pln>Gadka Sidora po wczytaniu</pln>
 	</string>
 	<string id="ui_mm_animations">
@@ -2852,9 +2852,9 @@
 	</string>
 	<string id="ui_st_your_items">
 		<rus>Вещи Меченого</rus>
-		<eng>Marked One's items</eng>
+		<eng>===Marked One's items</eng>
 		<ukr>Речі Міченого</ukr>
-		<fra>Objets de Strelok</fra>
+		<fra>===Objets du Marqué</fra>
 		<pln>Rzeczy Naznaczonego</pln>
 	</string>
 	<string id="st_game_over_press_jump">
@@ -3202,9 +3202,9 @@
 	</string>
 	<string id="actor_btn_hint">
 		<rus>Центр на Меченом</rus>
-		<eng>Center at Marked One</eng>
+		<eng>Center at the Marked One</eng>
 		<ukr>Центр на Міченому</ukr>
-		<fra>Centré sur Strelok</fra>
+		<fra>Centré sur le Marqué</fra>
 		<pln>Centrowanie na Naznaczonym</pln>
 	</string>
 	<string id="add_spot_btn_hint">
@@ -3559,7 +3559,7 @@
 		<rus>Меченый</rus>
 		<eng>Marked One</eng>
 		<ukr>Мічений</ukr>
-		<fra>Le Tatoué</fra>
+		<fra>Le Marqué</fra>
 		<pln>Naznaczony</pln>
 	</string>
 	<string id="st_news">
@@ -4439,7 +4439,7 @@
 		<rus>Меченый, тут нычка платная. %i открытие и далее по %i рублей в сутки. В стоимость входит охрана твоего хабара - из рюкзака ничего не пропадёт. Если согласен, бросай рюкзак.</rus>
 		<eng>Marked One, the stash is paid there. %i for opening and %i rubles per day. The cost includes guarding your loot - nothing will disappear from the backpack. If you agree, throw a backpack.</eng>
 		<ukr>Мічений, тут схованка платна. %i відкриття і далі по %i гривень за добу. У вартість входить охорона твого хабара - з рюкзака нічого не пропаде. Якщо згоден - кидай рюкзак.</ukr>
-		<fra>Le Tatoué, la planque est payante. %i pour l'ouverture et %i roubles par jour. Le coût comprend la protection de votre butin - rien ne disparaîtra du sac à dos. Si vous êtes d'accord, jetez un sac à dos.</fra>
+		<fra>Le Marqué, la planque est payante. %i pour l'ouverture et %i roubles par jour. Le coût comprend la protection de votre butin - rien ne disparaîtra du sac à dos. Si vous êtes d'accord, jetez un sac à dos.</fra>
 		<pln>Naznaczony, ten schowek jest płatny. %i za wynajęcie i dalej po %i rubli za dobę. W cenie masz ochronę Twojego towaru - z plecaka nic nie zginie. Jeśli się zgadzasz, rzucaj plecak.</pln>
 	</string>
 	<string id="txt_safe_protect_store">
@@ -4453,14 +4453,14 @@
 		<rus>Меченый, тут люди разные ходят, могут и украсть твою нычку. На свой страх и риск бросаешь здесь рюкзак.</rus>
 		<eng>Marked One, the people wandering here - are different, they can steal your loot. Throw a backpack here at your own risk.</eng>
 		<ukr>Мічений, тут люди різні ходять, можуть і вкрасти твою схованку. На свій страх і ризик кидаєш тут рюкзак.</ukr>
-		<fra>Le Tatoué, les gens errant ici sont différents, ils peuvent voler votre butin. Jetez un sac à dos ici est à vos risques et périls</fra>
+		<fra>Le Marqué, les gens errant ici sont différents, ils peuvent voler votre butin. Jetez un sac à dos ici est à vos risques et périls</fra>
 		<pln>Naznaczony, kręcą się tutaj różni ludzie, mogą obrobić Twój schowek. Kładziesz plecak na swoje ryzyko.</pln>
 	</string>
 	<string id="txt_safe_no_honey">
 		<rus>Меченый, хочешь охрану хабара - надо платить. Подкопишь денег - приходи, всегда рад клиентам с деньгами.</rus>
 		<eng>Marked One, if you want loot protection - you have to pay. You gather money - come back, always glad to customers with them.</eng>
 		<ukr>Мічений, хочеш охорону хабара - треба платити. Назбираєш грошей - приходь, завжди радий клієнтам з грошима.</ukr>
-		<fra>Le tatoué, si vous voulez une protection pour votre butin, vous devez payer. Vous collectez de l'argent - revenez, toujours content avec les clients.</fra>
+		<fra>Le Marqué, si vous voulez une protection pour votre butin, vous devez payer. Vous collectez de l'argent - revenez, toujours content avec les clients.</fra>
 		<pln>Naznaczony, chcesz ochrony towaru - trzeba płacić. Nzbierasz kasy - przychodź, klienci z forsą zawsze są mile widziani.</pln>
 	</string>
 	<string id="txt_safe_npc_ganef_postfix">
@@ -4502,14 +4502,14 @@
 		<rus>Здравствуй, Меченый!</rus>
 		<eng>Hello, Marked One!</eng>
 		<ukr>Здрастуй, Мічений!</ukr>
-		<fra>Bonjour, Le Tatoué!</fra>
+		<fra>Bonjour, le Marqué!</fra>
 		<pln>Witaj, Naznaczony!</pln>
 	</string>
 	<string id="txt_safe_hello_0_3">
 		<rus>О, Меченый! Дело какое ко мне есть?</rus>
 		<eng>Oh, Marked One! What's the matter with me?</eng>
 		<ukr>О, Мічений! Є до мене якась справа?</ukr>
-		<fra>Oh, Le Tatoué! Quel est le problème avec moi?</fra>
+		<fra>Oh, le Marqué! Quel est le problème avec moi?</fra>
 		<pln>O, Naznaczony! Masz do mnie jakąś sprawę?</pln>
 	</string>
 	<string id="txt_safe_hello_0_4">
@@ -4760,7 +4760,7 @@
 		<rus>Зафиксирована смерть сталкера по прозвищу Меченый.</rus>
 		<eng>Stalker deceased: Marked One</eng>
 		<ukr>Зафіксовано смерть сталкера на прізвисько Мічений.</ukr>
-		<fra>Un Stalker Légendaire vient de mourir: Strelok est mort...</fra>
+		<fra>Un stalker vient de mourir: le Marqué.</fra>
 		<pln>Zarejestrowano śmierć stalkera o imieniu Naznaczony.</pln>
 	</string>
 	<string id="ui_spot_warning">

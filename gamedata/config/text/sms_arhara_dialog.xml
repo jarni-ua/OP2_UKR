@@ -224,7 +224,7 @@
 	</string>
 	<string id="sms_kostylnuga_dolbannn_sms_0">
 		<rus>Товарищ майор! Выдвигаюсь от майора Кузнецова на блокпост. Диск при мне. Встречайте.</rus>
-		<eng>Comrade Major, I'm moving towards the checkpoint. I have the disk, Major Kuznetsov. Meet me.</eng>
+		<eng>===Comrade major, I'm moving towards the checkpoint. I have the disk, major Kuznetsov. Meet me.</eng>
 		<ukr>Товаришу майор! Висуваюся від майора Кузнєцова на блокпост. Диск при мені. Зустрічайте.</ukr>
 		<pln>Towarzyszu majorze! Wyruszam od majora Kuźniecowa na posterunek. Dysk mam ze sobą. Czekajcie.</pln>
 	</string>
@@ -422,7 +422,7 @@
 	</string>
 	<string id="sms_zemlyak_sms_uchenuy_pobeg_0">
 		<rus>Кит, привет, это Земляк. Сегодня ночью с базы на Генераторах учёный сбежал. У тебя голова светлая, будешь поблизости - зайди, подумаем, что делать. Как бы за ним монолитовцы в гости не пожаловали.</rus>
-		<eng>Kit, hello, this is Homeboy. A scientist escaped from the base at the Generators last night. You're smart, and you're nearby - go in, you know what to do. In case the Monolithians come to visit him.</eng>
+		<eng>Kit, hello, this is Compatriot. A scientist escaped from the base at the Generators last night. You're smart, and you're nearby - go in, you know what to do. In case the Monolithians come to visit him.</eng>
 		<ukr>Кит, привіт, це Земляк. Сьогодні вночі з бази на Генераторах втік вчений. У тебе голова світла, будеш поблизу - зайди, подумаємо, що робити. Як би за ним монолітівці в гості не завітали.</ukr>
 		<pln>Kit, cześć, tu Rodak. Dziś w nocy z bazy na Generatorach uciekł uczony. Masz niezłą głowę, będziesz w pobliżu - przyjdź - pomyślimy, co robić. Mogą za nim monolitowcy w gości przyjść.</pln>
 	</string>
@@ -464,7 +464,7 @@
 	</string>
 	<string id="sms_fric_sms_frits1_0">
 		<rus>Стой, сталкер. Без разрешения нашего старшего не могу тебя пропустить. Сходи к Земляку - он тут главный.</rus>
-		<eng>Wait, stalker. I can't let you through without our elder's permission. Go to Homeboy - he's in charge here.</eng>
+		<eng>Wait, stalker. I can't let you through without our elder's permission. Go to Compatriot - he's in charge here.</eng>
 		<ukr>Стій, сталкер. Без дозволу нашого старшого не можу тебе пропустити. Сходи до Земляка - він тут головний.</ukr>
 		<pln>Stój, stalkerze. Bez pozwolenia naszego starszego nie mogę cię przepuścić. Idź do Rodaka - on tu jest najważniejszy.</pln>
 	</string>
@@ -476,7 +476,7 @@
 	</string>
 	<string id="sms_fric_sms_frits3_0">
 		<rus>Земляк, тут к нам гости пожаловали. Отправил одного к тебе. Жди.</rus>
-		<eng>Hey, Homeboy, we've got guests here. Sent one of them to you. Expect them.</eng>
+		<eng>Hey, Compatriot, we've got guests here. Sent one of them to you. Expect them.</eng>
 		<ukr>Земляк, тут до нас гості завітали. Відправив одного до тебе. Чекай.</ukr>
 		<pln>Rodak, tu do nas goście przyszli. Wysłałem jednego do ciebie. Zaraz będzie.</pln>
 	</string>
@@ -889,8 +889,8 @@
 		<pln>Wygląda, że oni chcą porozmawiać i to, prawdopodobnie, z tobą. Idź, poznaj ich ostatnie życzenie, a ja cię będę ubezpieczał. Jakikolwiek przejaw agresji z ich strony - i obydwoje nie żyją.</pln>
 	</string>
 	<string id="sms_pantera_pant_proschay_sms1_0">
-		<rus>Прости, что снова беспокою тебя... Я запуталась. Не переживай, я не прошу у тебя помощи, мне надо самой разобраться во всём. Многое из происходящего мне самой не понятно. А пока слушай, что мне точно известно: нет никакого проекта О-Сознание, так же как нет и самого Чёрного Доктора.</rus>
-		<eng>I'm sorry to bother you again. I'm confused. Don't worry, I'm not asking for your help. I don't understand a lot of what's going on. In the meantime, listen to what I know for sure: there is no C-Consciousness project, just as there is no Black Doctor himself.</eng>
+		<rus>Прости, что снова беспокою тебя... Я запуталась. Не переживай, я не прошу у тебя помощи, мне надо самой разобраться во всём. Многое из происходящего мне самой не понятно. А пока слушай, что мне точно известно: нет никакого проекта "О-Сознание", так же как нет и самого Чёрного Доктора.</rus>
+		<eng>I'm sorry to bother you again. I'm confused. Don't worry, I'm not asking for your help. I don't understand a lot of what's going on. In the meantime, listen to what I know for sure: there is no the "C-Consciousness" project, just as there is no Black Doctor himself.</eng>
 		<ukr>Прости, що знову турбую тебе... Я заплуталася. Не переживайв, я не прошу у тебе допомоги, мені треба самій розібратися у всьому. Багато чого з того, що відбувається мені самій не зрозуміло. А покищо слухай, що мені точно відомо: немає ніякого проекту Усвідомлення, так само як немає і самого Чорного Доктора.</ukr>
 		<pln>Wybacz, że znowu cię niepokoję. Zaplątałam się. Nie obawiaj się, nie proszę cię o pomoc, sama muszę się w tym wszystkim rozeznać. Wiele z tego co zaszło dla mnie samej jest niezrozumiałe. A na razie słuchaj, co wiem na pewno: nie ma żadnego projektu Świadomości-Z, tak jak nie ma samego Czarnego Doktora.</pln>
 	</string>
@@ -914,7 +914,7 @@
 	</string>
 	<string id="sms_kluk_muha_bazar_sms_0">
 		<rus>Стрелок, ты ещё не ушёл далеко? Вернись-ка, девчонка вроде поговорить хочет. Лови момент. Кстати, Муха её зовут.</rus>
-		<eng>Strelok, have you gone far yet? Come back here, the girl seems to want to talk. Seize the moment. By the way, her name is Fly.</eng>
+		<eng>Strelok, have you gone far yet? Come back here, the girl seems to want to talk. Seize the moment. By the way, they call her Fly.</eng>
 		<ukr>Cтрілець, ти ще не пішов далеко? Вернись-но, дівчинка начебто поговорити хоче. Лови момент. До речі, Муха її звати.</ukr>
 		<pln>Striełok, nie odszedłeś jeszcze daleko? Wróć, dziewczynka jakby chciała rozmawiać. Korzystaj z chwili. Przy okazji, nazywa się Mucha.</pln>
 	</string>
@@ -1160,7 +1160,7 @@
 	</string>
 	<string id="sms_sapsan_sv_chern_peregovor_sms3_0">
 		<rus>Мне поручено принять любые Ваши условия. С финансами - без всяких проблем. По поводу лагеря: эта территория пока не под нашим контролем, по моим данным тут тусят остатки фанатиков. Но у меня есть вариант решения - мы отправим Стрелка на зачистку территории, после чего вы можете беспрепятственно туда пройти.</rus>
-		<eng>I've been instructed to accept any of your terms. With the finances - there are no problems. About the camp: this territory is not under our control yet, according to my information, the remnants of the fanatics are hanging out there. But I have a solution- we'll send Strelok to clean up the territory, after which you can safely go there.</eng>
+		<eng>I've been instructed to accept any of your terms. With the finances - there are no problems. About the camp: this territory is not under our control yet, according to my information, the remnants of the fanatics are hanging out there. But I have a solution - we'll send Strelok to clean up the territory, after which you can safely go there.</eng>
 		<ukr>Мені доручено прийняти будь-які Ваші умови. З фінансами - без всяких проблем. З приводу табору: ця територія покищо не під нашим контролем, за моїми даними тут тусять залишки фанатиків. Але у мене є варіант рішення - ми відправимо Cтрільця на зачистку території, після чого ви можете безперешкодно туди пройти.</ukr>
 		<pln>Polecono mi przyjąć dowolne Wasze warunki. Co do finansów - nie ma żadnych problemów. Co do obozu - to terytorium na razie nie jest pod naszą kontrolą, według moich danych, kryją się tam resztki fanatyków. Ale mam pewne rozwiązanie - wyślemy tam Striełoka, on oczyści terytorium, po czym będziecie mogli swobodnie tam przejść.</pln>
 	</string>
@@ -1189,10 +1189,10 @@
 		<pln>Sapsan, problemy przy szlabanie rozwiązane. Możesz to z dumą oznajmić wolnościowcom - niech wysyłają ludzi.</pln>
 	</string>
 	<string id="sms_strelok_u_shlagbauma_sms2_0">
-		<rus>Сольвадор, как там у вас дела?</rus>
-		<eng>Solvador, how's it going in there?</eng>
-		<ukr>Сольвадор, як там у вас справи?</ukr>
-		<pln>Solwador, jak tam wasze sprawy?</pln>
+		<rus>Сальвадор, как там у вас дела?</rus>
+		<eng>Salvador, how's it going in there?</eng>
+		<ukr>Сальвадор, як там у вас справи?</ukr>
+		<pln>Salwador, jak tam wasze sprawy?</pln>
 	</string>
 	<string id="solvador_u_shlagbauma_sms3_0">
 		<rus>У нас всё готово. Надо проконтролировать запуск. Иди на поле с генераторами, ищи третий, полурабочий - у него должны стоять ремонтные ящики. Как придёшь - дай знать, будем пробовать запустить.</rus>
@@ -1201,10 +1201,10 @@
 		<pln>U nas wszystko gotowe. Trzeba skontrolować rozruch. Idź na pole z generatorami, szukaj trzeciego, pracującego na pół mocy - przy nim powinny stać skrzynki remontowe. Jak dojdziesz - daj znać, będziemy próbować go uruchomić.</pln>
 	</string>
 	<string id="sms_strelok_u_tretego_generatora_sms1_0">
-		<rus>Сольвадор, я на месте. Ну и... Делать-то чего?</rus>
-		<eng>Solvador, I'm here. Well... Now what?</eng>
-		<ukr>Сольвадор, я на місці. Ну і... Робити то що?</ukr>
-		<pln>Solwador, jestem na miejscu. Co dalej?</pln>
+		<rus>Сальвадор, я на месте. Ну и... Делать-то чего?</rus>
+		<eng>Salvador, I'm here. Well... Now what?</eng>
+		<ukr>Сальвадор, я на місці. Ну і... Робити то що?</ukr>
+		<pln>Salwador, jestem na miejscu. Co dalej?</pln>
 	</string>
 	<string id="sms_solvador_u_tretego_generatora_sms2_0">
 		<rus>А ничего. Просто стой и смотри. Генератор заглушён, сейчас попробуем активировать - по проводам должен пойти ток, и над генератором появится электрическое поле. Включили. Ну как?</rus>
@@ -1340,7 +1340,7 @@
 	</string>
 	<string id="sms_pantera_poshel_bazar_otsek_sms4_0">
 		<rus>Он отлично знает, почему. Этот артефакт когда-то давно нашёл мой отец. С него-то и началась эта история с О-Сознанием, освоением Зоны и прочим. Но был и второй артефакт, который, как потом выяснилось, оказался у тебя. Этот Чёрный Доктор забрал первый артефакт у моего отца, воспользовавшись его тяжёлой болезнью. Пришла пора возвращать долги, тем более, что он ничем ему не помог. Я заберу арт и отдам тебе - а ты сам решишь, что делать дальше.</rus>
-		<eng>He knows exactly why. This artefact was found by my father long ago. That's where this story began with C-Consciousness, the development of the Zone, and so on. But there was also a second artefact, which, as it turned out later, to be yours. This Black Doctor took the first artefact from my father, taking advantage of his serious illness. It's time to repay the debts, especially since he didn't help him. I'll take the artefact and give it to you - and you decide what to do next.</eng>
+		<eng>He knows exactly why. This artefact was found by my father long ago. That's where this story began with the C-Consciousness, the development of the Zone, and so on. But there was also a second artefact, which, as it turned out later, to be yours. This Black Doctor took the first artefact from my father, taking advantage of his serious illness. It's time to repay the debts, especially since he didn't help him. I'll take the artefact and give it to you - and you decide what to do next.</eng>
 		<ukr>Він відмінно знає, чому. Цей артефакт колись давно знайшов мій батько. З нього-то і почалася ця історія з Усвідомленням, освоєнням Зони та іншим. Але був і другий артефакт, який, як потім з'ясувалося, виявився у тебе. Цей Чорний Доктор забрав перший артефакт у мого батька, скориставшись його тяжкою хворобою. Прийшла пора повертати борги, тим більше, що він нічим йому не допоміг. Я заберу арт і віддам тобі - а ти сам вирішиш, що робити далі.</ukr>
 		<pln>On doskonale wie dlaczego. Ten artefakt kiedyś dawno temu znalazł mój ojciec. Od niego zaczęła się ta historia ze Świadomością-Z, opanowaniem Zony i resztą. Ale był drugi artefakt, który, jak się potem okazało, był u ciebie... Czarny Doktor zabrał mojemu ojcu pierwszy artefakt, wykorzystując jego ciężką chorobę. Przyszła pora spłaty długu, tym bardziej, że w niczym mu nie pomógł... Zabiorę art i oddam tobie - a ty sam zdecyduj, co robić dalej.</pln>
 	</string>
@@ -1400,13 +1400,13 @@
 	</string>
 	<string id="sms_sedoy_atp_torgovetz_sms_0">
 		<rus>Меченый, это Седой, если помнишь такого. Я тут заметил, что ты там редисок не хило нашинковал... Крепкий ты орешек, танк прямо. Короче, Рэмбо, заканчивай там геноцид, сделай паузу, скушай, так сказать Твикс. Не... Твёкс... Я хрен его знает, напридумывали, блин, херни заграничной! Лучше сделай паузу и рубай русский гематоген, ге-ге. У тебя есть минута, чтобы собрать барахлишко - мой дирижопель идёт на посадку у автобусной остановки, что у тебя под боком. Стоянка как обычно - 6-8 минут. Кто не успел - тот опоздал.</rus>
-		<eng>Marked One, this is Gray, if you remember me. I noticed that you're quite an honourable person... You're a straight, tough guy. Anyway, Rambo, finish the genocide there, take a break, have a Kit-Kat, so to speak. No... don't... I don't know shit about them, they made it up, you know, foreign bullshit! Have a rest and scoff down a Russian Hematogen bar instead, ha-ha. You've got a minute to get your stuff together - my chopper's landing at the bus stop right next to you. On the ground as usual, 6-8 minutes. First come, first served.</eng>
+		<eng>Marked One, this is Grizzled, if you remember me. I noticed that you're quite an honourable person... You're a straight, tough guy. Anyway, Rambo, finish the genocide there, take a break, have a Kit-Kat, so to speak. No... don't... I don't know shit about them, they made it up, you know, foreign bullshit! Have a rest and scoff down a Russian Hematogen bar instead, ha-ha. You've got a minute to get your stuff together - my chopper's landing at the bus stop right next to you. On the ground as usual, 6-8 minutes. First come, first served.</eng>
 		<ukr>Мічений, це Сивий, якщо пам'ятаєш такого. Я тут помітив, що ти там редисок нехило нашинкував... Міцний ти горішок, танк прямо. Коротше, Рембо, закінчуй там геноцид, зроби паузу, з'їж, так би мовити Твікс. Ні... Твекс... Я хрін його знає, напридумували, блін, херні закордонної! Краще зроби паузу і рубай український гематоген, ги-ги. У тебе є хвилина, щоб зібрати барахло - мій дирижопель йде на посадку біля автобусної зупинки, яка у тебе під боком. Стоянка як зазвичай - 6-8 хвилин. Хто не встиг - той запізнився.</ukr>
 		<pln>Naznaczony, tu Szary, jeśli pamiętasz takiego. Widzę, żeś tam sporo rzodkiewek naszykował... Twardy z ciebie orzeszek, po prostu czołg. Krótko mówiąc, Rambo, kończ tam ten genocyd, zrób przerwę, zjedz coś, na przykład Twex. Nie... Twix... Zresztą cholera go wie, nawymyślali, kurde, zagranicznego cholerstwa, ni cholery nie wymówisz. Lepiej zrób sobie przerwę i ładuj rosyjski hematogen. Masz minutę, żeby zebrać barachło - mój helikopter wyląduje koło przystanku autobusowego, u ciebie pod bokiem. Postój jak zwykle - 6-8 minut.</pln>
 	</string>
 	<string id="sms_strelok_atp_torgovetz_sms_1">
 		<rus>Ты как всегда вовремя, Седой.</rus>
-		<eng>You're on time as usual, Gray.</eng>
+		<eng>You're on time as usual, Grizzled.</eng>
 		<ukr>Ти як завжди вчасно, Сивий.</ukr>
 		<pln>Jak zwykle na czas, Szary.</pln>
 	</string>
@@ -2090,7 +2090,7 @@
 	</string>
 	<string id="sms_net_sms_otez_poreshil_0">
 		<rus>Погиб сталкер Шухер. Кордон. Задушен.</rus>
-		<eng>Stalker Shukher died. In the Cordon. Strangled.</eng>
+		<eng>Stalker Scram has died. On the Cordon. Strangled.</eng>
 		<ukr>Загинув сталкер Шухер. Кордон. Задушений.</ukr>
 		<pln>Zginął stalker Szucher. Kordon. Uduszony.</pln>
 	</string>
@@ -2342,13 +2342,13 @@
 	</string>
 	<string id="sms_strelok_sms_zlobnomu_rasstrel_0">
 		<rus>Эй, Злобный, гуттен морген. Я смотрю, твои люди беспредел творят. Нехорошо. Я тут несколько твоих козявок за это наказал. Я ухожу с территории, но я ещё вернусь. А пока - гуд бай мой мальчик, гуд бай мой миленький...</rus>
-		<eng>Hey, Bitchy, good morning. I see your people are creating a lot of chaos. Not good. I've punished some of your goons for this. I'm leaving the area, but I'll be back. In the meantime, bye-bye for now, my boy...</eng>
+		<eng>Hey, Vicious, good morning. I see your people are creating a lot of chaos. Not good. I've punished some of your goons for this. I'm leaving the area, but I'll be back. In the meantime, bye-bye for now, my boy...</eng>
 		<ukr>Ей, Злісний, гуттен морген. Я дивлюся, твої люди свавілля творять. Недобре. Я тут кілька твоїх козявок за це покарав. Я йду з території, але я ще повернуся. А покищо - гудбай мій хлопчик, гудбай мій миленький...</ukr>
 		<pln>Ej, Złośliwy, guten morgen... Widzę, że twoi ludzie bardak robią... Niedobrze. Ja tu paru twoim uszu za to natarłem. Odchodzę z terytorium, ale jeszcze tu wrócę. A na razie - good bye, mój przyjacielu...</pln>
 	</string>
 	<string id="sms_obmorok_sms_zlobnomu_rasstrel1_0">
 		<rus>Злобный, здорово. Мои люди только что видели, как какой-то нейтрал ушёл через неизвестный переход в сторону АТП.</rus>
-		<eng>Bitchy, hello. My people have just spotted some Neutral go through an unknown passage towards the ATP.</eng>
+		<eng>Vicious, hello. My people have just spotted some Neutral go through an unknown passage towards the ATP.</eng>
 		<ukr>Злісний, привіт. Мої люди тільки що бачили, як якийсь нейтрал пішов через невідомий перехід в сторону АТП.</ukr>
 		<pln>Złośliwy, czółko... Moi ludzie dopiero co widzieli, jak jakiś neutrał odszedł przez nieznane przejście w kierunku ATP.</pln>
 	</string>
@@ -2726,7 +2726,7 @@
 	</string>
 	<string id="agro_boltobny_sms2_0">
 		<rus>Боров, моя бы воля... Глаза бы мои тебя не видели. Но тут ты прав. Зачем нас всех тут собрали?</rus>
-		<eng>Bauson, If I had my way... You ugly old goat. But you're right here. Why were we brought all together here today?</eng>
+		<eng>Hog, If I had my way... You ugly old goat. But you're right here. Why were we brought all together here today?</eng>
 		<ukr>Боров, моя б воля... Очі б мої тебе не бачили. Але тут твоя правда. Навіщо нас всіх тут зібрали?</ukr>
 		<pln>Borow, gdyby to ode mnie zależało... Nie było by cię tutaj. Ale tu masz rację. Dlaczego nas tu zebrano?</pln>
 	</string>
@@ -2768,7 +2768,7 @@
 	</string>
 	<string id="agro_boltobny_sms9_0">
 		<rus>Господа! Может не будем пикироваться? Моя аппаратура фиксирует присутствие большого количества сталкеров в стелс-режиме... Очень большого количества. Идентифицирую штурмовые команды и снайперов Долга, Свободы, Чистого Неба, группировок Борова и наёмников. Я вижу, все приняли просто беспрецедентные меры предосторожности. Но все ли там свои? Все ли проверенные? Нам только провокаций тут не хватало. Ведь одно неосторожное движение и...</rus>
-		<eng>Gentlemen! Can we not verbally spar with each other? My equipment records the presence of a large number of stalkers in stealth mode... A very large number. I will identify the assault teams and snipers, Duty, Freedom, Clear Sky, Bauson's groups and mercenaries. I see that everyone has taken unprecedented precautions. But is this, all there is? Has everyone been verified? It will only take a slight provocation. After all, one careless move and...</eng>
+		<eng>Gentlemen! Can we not verbally spar with each other? My equipment records the presence of a large number of stalkers in stealth mode... A very large number. I will identify the assault teams and snipers, Duty, Freedom, Clear Sky, Hog's groups and mercenaries. I see that everyone has taken unprecedented precautions. But is this, all there is? Has everyone been verified? It will only take a slight provocation. After all, one careless move and...</eng>
 		<ukr>Панове! Може не будемо сперечатись? Моя апаратура фіксує присутність великої кількості сталкерів в стелс-режимі... Дуже великої кількості. Ідентифікую штурмові команди і снайперів Долгу, Волі, Чистого Неба, угруповань Борова і найманців. Я бачу, всі вжили просто безпрецедентні заходи безпеки. Але чи всі там свої? Чи всі перевірені? Нам тільки провокацій тут не вистачало. Адже один необережний рух і...</ukr>
 		<pln>Boże! Może nie będziemy się kłócić? Moja aparatura rejestruje obecność dużej ilości stalkerów w trybie stealth... Bardzo dużej ilości. Identyfikuję szturmowe oddziały i snajperów Powinności, Wolności, Czystego Nieba, ugrupowań Borowa i najemników. Widzę, że wszyscy podjęli po prostu bezprecedensowe środki ostrożmości. Ale czy wszyscy tam to swoi? Wszyscy zostali sprawdzani? Tylko prowokacji nam tu brakuje. Przecież jeden nieostrożny ruch i...</pln>
 	</string>
@@ -2907,7 +2907,7 @@
 	</string>
 	<string id="sms_lechite_bandito">
 		<rus>Прикиньте, мужики, неделю назад подлечил братка в Тёмной Долине, так теперь тамошняя братва ко мне со всем уважением. С Жилой выгодный бартер наладил, да и с самим Боровым, вроде, делюга намечается. Вывод: даже если и бандит лежит и стонет, проявите сострадание, дайте аптечку, не обеднеете.</rus>
-		<eng>===Think about it, guys, a week ago I patched up one of the brothers in the Dark Valley, so now the local lads treat me with respect. Even though things are strained with Bauson himself. Conclusion: even if a bandit is down and groaning in pain, show him some compassion, give him a first-aid kit, you will richer for it.</eng>
+		<eng>===Think about it, guys, a week ago I patched up one of the brothers in the Dark Valley, so now the local lads treat me with respect. Even though things are strained with Hog himself. Conclusion: even if a bandit is down and groaning in pain, show him some compassion, give him a first-aid kit, you will richer for it.</eng>
 		<ukr>Прикиньте, мужики, тиждень тому підлікував братка в Темній Долині, так тепер тамтешня братва до мене з усією повагою. З Жилою вигідний бартер налагодив, та й з самим Кабаном, начебто, дільце намічається. Висновок: навіть якщо і бандит лежить і стогне, проявіть співчуття, дайте аптечку, не збіднієте.</ukr>
 		<pln>===Прикиньте, мужики, неделю назад подлечил братка в Тёмной долине, так теперь тамошняя братва ко мне со всем уважением. С самим Боровым дела мутим. Вывод: даже если и бандит лежит и стонет, проявите сострадание, дайте аптечку, не обеднеете.</pln>
 	</string>
