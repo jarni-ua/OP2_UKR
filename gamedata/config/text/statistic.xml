@@ -564,18 +564,18 @@
 		<pln>Dorosły Połamaniec</pln>
 	</string>
 	<string id="fracture_strong">
-		<rus>Излом-охотник</rus>
-		<eng>Crippled-arm hunter</eng>
-		<ukr>Чахлик-мисливець</ukr>
-		<fra>Bras-courbé chasseur</fra>
-		<pln>Połamaniec Łowca</pln>
-	</string>
-	<string id="fracture_master">
 		<rus>Матёрый излом</rus>
 		<eng>Robust crippled-arm</eng>
 		<ukr>Зрілий чахлик</ukr>
 		<fra>Bras-courbé acharné</fra>
 		<pln>Doświadczony Połamaniec</pln>
+	</string>
+	<string id="fracture_master">
+		<rus>Излом-охотник</rus>
+		<eng>Crippled-arm hunter</eng>
+		<ukr>Чахлик-мисливець</ukr>
+		<fra>Bras-courbé chasseur</fra>
+		<pln>Połamaniec Łowca</pln>
 	</string>
 	<string id="carlic_weak">
 		<rus>Молодой карлик</rus>
@@ -592,11 +592,11 @@
 		<pln>Dorosły Karlik</pln>
 	</string>
 	<string id="pseudodog_weak">
-		<rus>Молодая псевдособака</rus>
-		<eng>Young pseudodog</eng>
-		<ukr>Молода псевдособака</ukr>
-		<fra>Jeune pseudo-chien</fra>
-		<pln>Młody Pseudopies</pln>
+		<rus>Коричневая псевдособака</rus>
+		<eng>Brown pseudodog</eng>
+		<ukr>Коричнева псевдособака</ukr>
+		<fra>Pseudo-chien brun</fra>
+		<pln>Brązowy pseudopies</pln>
 	</string>
 	<string id="pseudodog_normal">
 		<rus>Матёрая псевдособака</rus>
@@ -745,13 +745,6 @@
 		<fra>Burer acharné</fra>
 		<pln>Dorosły Burer</pln>
 	</string>
-	<string id="chimera_weak">
-		<rus>Молодая химера</rus>
-		<eng>Young chimera</eng>
-		<ukr>Молода химера</ukr>
-		<fra>Jeune chimère</fra>
-		<pln>Młoda Chimera</pln>
-	</string>
 	<string id="tarakan_strong">
 		<rus>Чёрный таракан</rus>
 		<eng>Black cockroach</eng>
@@ -774,14 +767,14 @@
 		<pln>Dorosły Psioniczny Poltergeist</pln>
 	</string>
 	<string id="m_poltergeist_normal_flame">
-		<rus>Пирополтергейст</rus>
+		<rus>Пиро-полтергейст</rus>
 		<eng>Pyro-poltergeist</eng>
 		<ukr>Пірополтергейст</ukr>
 		<fra>Pyro-poltergeist</fra>
 		<pln>Ognisty Poltergeist</pln>
 	</string>
 	<string id="m_poltergeist_strong_flame">
-		<rus>Матёрый пирополтергейст</rus>
+		<rus>Матёрый пиро-полтергейст</rus>
 		<eng>Robust pyro-poltergeist</eng>
 		<ukr>Зрілий пірополтергейст</ukr>
 		<fra>Pyro-poltergeist acharné</fra>
@@ -795,18 +788,18 @@
 		<pln>Łuskowaty Szpon Śmierci</pln>
 	</string>
 	<string id="deathclaw_normal">
-		<rus>Молодой коготь смерти</rus>
-		<eng>Young deathclaw</eng>
-		<ukr>Молодий кіготь смерті</ukr>
-		<fra>Jeune griffemort</fra>
-		<pln>Młody Szpon Śmierci</pln>
+		<rus>Светлый коготь смерти</rus>
+		<eng>===Young deathclaw</eng>
+		<ukr>===Молодий кіготь смерті</ukr>
+		<fra>===Jeune griffemort</fra>
+		<pln>===Młody Szpon Śmierci</pln>
 	</string>
 	<string id="deathclaw_strong">
-		<rus>Матёрый коготь смерти</rus>
-		<eng>Robust deathclaw</eng>
-		<ukr>Зрілий кіготь смерті</ukr>
-		<fra>Griffemort acharné</fra>
-		<pln>Dorosły Szpon Śmierci</pln>
+		<rus>Тёмный коготь смерти</rus>
+		<eng>===Robust deathclaw</eng>
+		<ukr>===Зрілий кіготь смерті</ukr>
+		<fra>===Griffemort acharné</fra>
+		<pln>===Dorosły Szpon Śmierci</pln>
 	</string>
 	<string id="flesh_weak">
 		<rus>Молодая плоть</rus>
@@ -1144,6 +1137,18 @@
 		<fra>Zombie échaudé</fra>
 		<pln>===Zarażony Zombie</pln>
 	</string>
+	<string id="zombie_hell17">
+		<rus>Мужская особь морлока</rus>
+		<eng>===Морлок-мужчина</eng>
+		<ukr>===Морлок-чоловік</ukr>
+		<pln>===Морлок-мужчина</pln>
+	</string>
+	<string id="zombie_hell18">
+		<rus>Женская особь морлока</rus>
+		<eng>===Морлок-женщина</eng>
+		<ukr>===Морлок-жінка</ukr>
+		<pln>===Морлок-женщина</pln>
+	</string>
 	<string id="zombie_babka_weak">
 		<rus>Свежая зомби-бабка</rus>
 		<eng>Recent zombie-granny</eng>
@@ -1198,6 +1203,19 @@
 		<eng>Spectral fly</eng>
 		<ukr>Примарна муха</ukr>
 		<fra>Mouche spectrale</fra>
-		<pln>===Комар</pln>
+		<pln>===Призрачная муха</pln>
 	</string>
+	<string id="m_burer_cop">
+		<rus>Чернобыльский гном</rus>
+		<eng>===Чернобыльский гном</eng>
+		<ukr>Чорнобильський гном</ukr>
+		<pln>===Чернобыльский гном</pln>
+	</string>
+	<string id="bee_micro">
+		<rus>Чернобыльский шершень</rus>
+		<eng>===Чернобыльский шершень</eng>
+		<ukr>===Чорнобильський шершень</ukr>
+		<pln>===Чернобыльский шершень</pln>
+	</string>
+
 </string_table>

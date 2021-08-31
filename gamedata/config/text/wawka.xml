@@ -1249,11 +1249,11 @@
 		<ukr>Жила повідомиив, що схованка Щуряка знаходиться на одному з горищ АТП на Кордоні.</ukr>
 	</string>
 	<string id="tex_yurik_pomer_pivo">
-		<rus>Дэн, торговец на Болотах, просит найти ему пива. За 20 баночек обещает дать рецепт преобразования артефакта.</rus>
-		<eng>Dan, a trader in the Swamps, asks to find some beer. He promises to give a recipe for transforming an artifact for 20 cans .</eng>
-		<ukr>Ден, торговець на Болотах, просить знайти йому пива. За 20 баночок обіцяє дати рецепт перетворення артефакту...</ukr>
-		<fra>Dan, un commerçant dans les marais, demande de rouver de la bière. Il promet de donner une recette pour transformer un artefact pour 20 canettes.</fra>
-		<pln>Dan, handlarz z Bagien, prosi żeby znaleźć mu piwo. Za 20 puszek obiecuje dać receptę transmutacji artefaktu...</pln>
+		<rus>Дэн, торговец на Болотах, просит найти ему пива. За 20 баночек обещает дать немного патронов.</rus>
+		<eng>===Dan, a trader in the Swamps, asks to find some beer. He promises to give a recipe for transforming an artifact for 20 cans .</eng>
+		<ukr>===Ден, торговець на Болотах, просить знайти йому пива. За 20 баночок обіцяє дати рецепт перетворення артефакту...</ukr>
+		<fra>===Dan, un commerçant dans les marais, demande de rouver de la bière. Il promet de donner une recette pour transformer un artefact pour 20 canettes.</fra>
+		<pln>===Dan, handlarz z Bagien, prosi żeby znaleźć mu piwo. Za 20 puszek obiecuje dać receptę transmutacji artefaktu...</pln>
 	</string>
 	<string id="tex_yurik_pomer_plan">
 		<rus>Дэн, торговец на Болотах, просит отнести Ворону, охотнику на Свалке, какой-то мешочек и забрать у него обрез Remington 870 «Wingmaster». За это обещает дать уникальный артефакт.</rus>
@@ -2414,9 +2414,9 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>Chwała bojownikom frontu handlowego! Niech żyje uczciwe oszukiwanie stalkerów!</pln>
 	</string>
 	<string id="doc_tvar_1">
-		<rus>Ты чего, в детстве часто на демонстрации ходил? Заметно. Дело есть, мне нужны части мутантов: всех, что есть - по одной, кроме рук зомбаков и безоара - у меня они уже есть. А поскольку монстры тебя за своего держат - задание для тебя не сложное.</rus>
+		<rus>Ты чего, в детстве часто на демонстрации ходил? Заметно. Дело есть, мне нужно по одной части всех мутантов, кроме рук зомбаков и мозгов контролёра - первые у меня уже есть, вторые хрен достанешь. А поскольку монстры тебя за своего держат - задание для тебя не сложное.</rus>
 		<eng>===I see you often went to demonstrations in childhood. The point is, I need parts of mutants, all of them, one by one, except for the hands of zombies, I already have them. And since the monsters think you are one of them, the task will not be difficult for you.</eng>
-		<ukr>Ти що, в дитинстві часто на демонстрації ходив? Помітно. Справа є, мені потрібні частини мутантів - всіх, що є - по одній, крім рук зомбаків і безоара - у мене вони вже є, а оскільки монстри за свого тебе тримають - завдання для тебе не складне.</ukr>
+		<ukr>===Ти що, в дитинстві часто на демонстрації ходив? Помітно. Справа є, мені потрібні частини мутантів - всіх, що є - по одній, крім рук зомбаків і безоара - у мене вони вже є, а оскільки монстри за свого тебе тримають - завдання для тебе не складне.</ukr>
 		<fra>===Je te vois souvent retourner dans l'enfance. Le fait est que j'ai besoin de plusieurs parties de mutants, une par une, à l'exception des mains de zombies, je les ai déjà. Et puisque les monstres pensent que vous êtes l'un d'entre eux, la tâche ne sera pas difficile pour vous.</fra>
 		<pln>===Ty co, w dzieciństwie często na demonstracje chodziłeś? Widocznie tak. Jest sprawa - potrzebne mi są członki mutantów  - wszystkich, jakie są - po jednym, z wyjątkiem rąk zombie - te już mam. A ponieważ mutanty i tak cię za swojego uważają - zadanie dla ciebie nie będzie chyba za trudne.</pln>
 	</string>
@@ -2575,53 +2575,53 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>Dobra, nie szalej... Wierzę, że jeszcze możesz... palcem w nosie podłubać.</pln>
 	</string>
 	<string id="m_qeast_0">
-		<rus>Привет.</rus>
-		<eng>Hey.</eng>
-		<ukr>Привіт.</ukr>
-		<fra>Salut.</fra>
-		<pln>Czołem.</pln>
+		<rus>Крест, что с тобой приключилось? Всё твоё лицо в синяках и кровоподтёках. Чьих рук это дело?</rus>
+		<eng>===Hey.</eng>
+		<ukr>===Привіт.</ukr>
+		<fra>===Salut.</fra>
+		<pln>===Czołem.</pln>
 	</string>
 	<string id="m_qeast_1">
-		<rus>Вау! Опять "герой" Зоны меня посетил. Есть работёнка для тебя. Тут такое дело, вояки озверели, вчера меня прессанули на 40 тысяч... Ну я и дал, а что мне оставалось делать... Надо их наказать.</rus>
-		<eng>Wow! The "hero" of the Zone visited me again. There is a job for you. There is such a thing, fighters ran wild, yesterday they put pressure on me to get 40 thousand... Well, I gave it, what else could I do... It is necessary to punish them.</eng>
-		<ukr>Вау! Знову герой Зони мене відвідав. Є роботка для тебе. Тут така справа, вояки озвіріли, вчора мене пресанули на 40 тисяч... Ну я і дав, а що мені залишалося робити... Треба їх покарати.</ukr>
-		<fra>Hou la la! Le "héros" de la zone m'a rendu visite à nouveau. Il y a un travail pour vous. Il y a une telle chose, les combattants se sont déchaînés, hier, ils m'ont fait pression pour en avoir 40 000... Eh bien, je les ai donné, que puis-je faire d'autre... Il est nécessaire de les punir.</fra>
-		<pln>Łaa... Znowu bohater Zony mnie odwiedził.. Jest robótka dla ciebie... Ano tak, wojakom odwaliło, wczoraj mnie na 40 tysięcy skubnęli... Dałem, co miałem zrobić... Trzeba by ich ukarać.</pln>
+		<rus>Вояки, суки, совсем озверели! Вчера вечером нагрянула сюда одна группа, да не простая, все бойцы в маскировочных костюмах-невидимках с таким же оружием. Вначале, вроде, всё нормально шло, задали несколько вопросов о цели моего пребывания здесь, спросили про местоположение двух упавших вертолётов в лесу. Ну, я по доброте душевной показал командиру на карте, где их искать, думал, после этого оставят меня в покое. Но затем часть солдат стала обыскивать мой вертолёт и рюкзаки, где я хранил собранные ранее артефакты.</rus>
+		<eng>===Wow! The "hero" of the Zone visited me again. There is a job for you. There is such a thing, fighters ran wild, yesterday they put pressure on me to get 40 thousand... Well, I gave it, what else could I do... It is necessary to punish them.</eng>
+		<ukr>===Вау! Знову герой Зони мене відвідав. Є роботка для тебе. Тут така справа, вояки озвіріли, вчора мене пресанули на 40 тисяч... Ну я і дав, а що мені залишалося робити... Треба їх покарати.</ukr>
+		<fra>===Hou la la! Le "héros" de la zone m'a rendu visite à nouveau. Il y a un travail pour vous. Il y a une telle chose, les combattants se sont déchaînés, hier, ils m'ont fait pression pour en avoir 40 000... Eh bien, je les ai donné, que puis-je faire d'autre... Il est nécessaire de les punir.</fra>
+		<pln>===Łaa... Znowu bohater Zony mnie odwiedził.. Jest robótka dla ciebie... Ano tak, wojakom odwaliło, wczoraj mnie na 40 tysięcy skubnęli... Dałem, co miałem zrobić... Trzeba by ich ukarać.</pln>
 	</string>
 	<string id="m_qeast_2">
-		<rus>Наказать? Военных? Ты хоть представляешь последствия? Я ведь не киллер.</rus>
-		<eng>Punish? Fighters? Do you have any idea of the consequences? I'm not a killer.</eng>
-		<ukr>Покарати? Військових? Ти хоч уявляєш наслідки? Я ж не кілер.</ukr>
-		<fra>Punir? Militaire? Avez-vous une idée des conséquences? Je ne suis pas un tueur.</fra>
-		<pln>Ukarać? Wojskowych? Wyobrażasz sobie konsekwencje? Ze mnie żaden killer.</pln>
+		<rus>И что же было потом?</rus>
+		<eng>===Punish? Fighters? Do you have any idea of the consequences? I'm not a killer.</eng>
+		<ukr>===Покарати? Військових? Ти хоч уявляєш наслідки? Я ж не кілер.</ukr>
+		<fra>===Punir? Militaire? Avez-vous une idée des conséquences? Je ne suis pas un tueur.</fra>
+		<pln>===Ukarać? Wojskowych? Wyobrażasz sobie konsekwencje? Ze mnie żaden killer.</pln>
 	</string>
 	<string id="m_qeast_3">
-		<rus>Нет, может, убивать никого и не придётся. Сможешь отобрать у них их аномальные пушки? Мне нужно шесть «Бизонов» в любом состоянии, они нормально расходятся.</rus>
-		<eng>No, maybe it won't be necessary to kill anyone. Can you grab abnormal guns from them? I need six "Bizon" guns in any condition, they are sold out fast.</eng>
-		<ukr>Ні, може, вбивати нікого і не доведеться. Зможеш відібрати у них їхні аномальні пушки? Мені потрібно шість "Бізонів" у будь-якому стані, вони нормально розходяться.</ukr>
-		<fra>Non, peut-être qu'il ne sera pas nécessaire de tuer quelqu'un. Pouvez-vous récupérer des armes à feu anormales? J'ai besoin de six fusils "Bizon" dans n'importe quelle condition, ils seront vendus rapidement.</fra>
-		<pln>Spokojnie, możliwe, że nie trzeba będzie nikogo zabijać... Możesz im odebrać ich anomalną broń? Potrzebuję 6 Bizonów w dowolnym stanie, idą jak woda.</pln>
+		<rus>Я было рванулся к своим пожиткам, в этот момент один боец сделал подсечку, и я грохнулся на землю. В приступе гнева схватился за пистолет, но командир опередил меня, выстрелив мне в ногу. Короче, не буду дальше описывать свои страдания, отмудохали они меня знатно - сломали два ребра, набили морду, хорошо хоть пуля прошла навылет. Жаль, Химика с Пригоршней не было рядом, вместе мы бы смогли дать отпор беспредельщикам. Невидимки отобрали всё: арты, оружие, наличку, ничего ценного не осталось. Этих скотов только могила исправит! Наказать их надо и как можно скорее, благо перед потерей сознания я расслышал приказ командира выдвигаться на Радар после зачистки вертушек в лесу. Накажи их, а?! В качестве доказательств расправы над ними принеси их аномальное оружие в любом состоянии, хочу детально изучить его, также оно станет своеобразным трофеем и напоминанием о случившемся.</rus>
+		<eng>===No, maybe it won't be necessary to kill anyone. Can you grab abnormal guns from them? I need six "Bizon" guns in any condition, they are sold out fast.</eng>
+		<ukr>===Ні, може, вбивати нікого і не доведеться. Зможеш відібрати у них їхні аномальні пушки? Мені потрібно шість "Бізонів" у будь-якому стані, вони нормально розходяться.</ukr>
+		<fra>===Non, peut-être qu'il ne sera pas nécessaire de tuer quelqu'un. Pouvez-vous récupérer des armes à feu anormales? J'ai besoin de six fusils "Bizon" dans n'importe quelle condition, ils seront vendus rapidement.</fra>
+		<pln>===Spokojnie, możliwe, że nie trzeba będzie nikogo zabijać... Możesz im odebrać ich anomalną broń? Potrzebuję 6 Bizonów w dowolnym stanie, idą jak woda.</pln>
 	</string>
 	<string id="m_qeast_4">
-		<rus>Ага, значит я подхожу к ним и говорю: "Ребятки, мне надо шесть ваших аномальных пушек". И они с радостью мне их отдают.</rus>
-		<eng>Well, so I walk up to them and say: "Guys, I need six of your abnormal guns." And they give them to me with a great pleasure.</eng>
-		<ukr>Ага, значить я підходжу до них і кажу: "Хлопці, мені треба шість ваших аномальних стволів". І вони з радістю мені їх віддають.</ukr>
-		<fra>Ouais, alors je m'adresse à eux et je leur dis: "Les gars, j'ai besoin de six de vos canons anormaux." Et ils me les donnent volontiers.</fra>
-		<pln>Aha, to znaczy podchodzę do nich i mówię: "Chłopaki, potrzebuję 6 waszych anomalnych karabinów". I oni z radością je oddają.</pln>
+		<rus>Сочувствую твоим страданиям, но убивать за такое тоже не дело. Вот если они первыми начнут стрелять, то у меня не останется выбора, как выполнить твою просьбу.</rus>
+		<eng>===Well, so I walk up to them and say: "Guys, I need six of your abnormal guns." And they give them to me with a great pleasure.</eng>
+		<ukr>===Ага, значить я підходжу до них і кажу: "Хлопці, мені треба шість ваших аномальних стволів". І вони з радістю мені їх віддають.</ukr>
+		<fra>===Ouais, alors je m'adresse à eux et je leur dis: "Les gars, j'ai besoin de six de vos canons anormaux." Et ils me les donnent volontiers.</fra>
+		<pln>===Aha, to znaczy podchodzę do nich i mówię: "Chłopaki, potrzebuję 6 waszych anomalnych karabinów". I oni z radością je oddają.</pln>
 	</string>
 	<string id="m_qeast_5">
-		<rus>Мои деньги и предложение - а решать тебе. Согласишься - буду тебя ждать, как взвод голодных дембелей молодую девушку.</rus>
-		<eng>It's my offer and money, you decide. If you agree, I will be waiting for you like a platoon of hungry demobees waiting for a girl.</eng>
-		<ukr>Мої гроші і пропозиція - а вирішувати тобі. Погодишся - буду тебе чекати, як взвод голодних дембелів молоду дівчину.</ukr>
-		<fra>C'est mon offre et mon argent, vous décidez. Si vous êtes d'accord, je vous attends comme un peloton de marins affamés attendant une fille.</fra>
-		<pln>Ja daję pieniądze i zamówienie - a decyzja twoja. Zgodzisz się - będę na ciebie czekać, jak pluton wygłodzonych rezerwistów na młodą dziewczynę.</pln>
+		<rus>Некоторые убивают и за меньшее, но я уважаю твои принципы... Ещё кое-что про аномальное оружие в руках вояк, если не ошибаюсь, то это были ПП-19 «Бизон». Мне в Баре рассказывали байку про ящики с этими пистолетами-пулемётами, угодившими в аномалию "Снежная", после чего они покрылись особым налётом. Не мог бы ты проверить достоверность этой байки? Закинь в "Снежную" поочерёдно три «Бизона», подожди хотя бы сутки и вернись к аномалии. Вне зависимости от результата, положительного или отрицательного, я буду ждать твоего возвращения.</rus>
+		<eng>===It's my offer and money, you decide. If you agree, I will be waiting for you like a platoon of hungry demobees waiting for a girl.</eng>
+		<ukr>===Мої гроші і пропозиція - а вирішувати тобі. Погодишся - буду тебе чекати, як взвод голодних дембелів молоду дівчину.</ukr>
+		<fra>===C'est mon offre et mon argent, vous décidez. Si vous êtes d'accord, je vous attends comme un peloton de marins affamés attendant une fille.</fra>
+		<pln>===Ja daję pieniądze i zamówienie - a decyzja twoja. Zgodzisz się - będę na ciebie czekać, jak pluton wygłodzonych rezerwistów na młodą dziewczynę.</pln>
 	</string>
 	<string id="m_qeast_6">
-		<rus>М-да... Значит, и до Забытого Леса военные добрались. Ладно, что-нибудь придумаю, голодный дембель.</rus>
-		<eng>Hmmm... So the military reached the Forgotten Forest. Ok, I will figure it out, hungry demobee.</eng>
-		<ukr>М-да... Значить, і до Забутого Лісу військові дісталися. Гаразд, щонебуть придумаю, голодний дембель.</ukr>
-		<fra>Hmmm... Alors, les militaires sont arrivés dans la Forêt oubliée. Ok, je vais le découvrir, fou furieux.</fra>
-		<pln>Ta-ak... Znaczy wojskowi i do Zapomnianego Lasu się dostali... Dobra, coś wymyślę, wygłodzony rezerwisto.</pln>
+		<rus>Ты как бабка старая на лавочке, байки всякие собираешь. Проверить проверю, но результат не гарантирую.</rus>
+		<eng>===Hmmm... So the military reached the Forgotten Forest. Ok, I will figure it out, hungry demobee.</eng>
+		<ukr>===М-да... Значить, і до Забутого Лісу військові дісталися. Гаразд, щонебуть придумаю, голодний дембель.</ukr>
+		<fra>===Hmmm... Alors, les militaires sont arrivés dans la Forêt oubliée. Ok, je vais le découvrir, fou furieux.</fra>
+		<pln>===Ta-ak... Znaczy wojskowi i do Zapomnianego Lasu się dostali... Dobra, coś wymyślę, wygłodzony rezerwisto.</pln>
 	</string>
 	<string id="m_qeast_7">
 		<rus>Не, сам с войсками разбирайся. Они люди безголовые, пришлют пару вертушек, потом долго мои мозги псевдопсы с камней слизывать будут.</rus>
@@ -2631,60 +2631,60 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>Nie, sam się rozliczaj z wojakami. Z nimi nie ma żartów, przyleci parę helikopterów, a potem długo mój mózg pseudopsy będą zlizywać z kamieni</pln>
 	</string>
 	<string id="m_qeast1_0">
-		<rus>Вот, принёс я «Бизоны». Забирай, голодный дембель...</rus>
-		<eng>Here, I brought "Bizon" guns. Take, hungry demobee...</eng>
-		<ukr>Ось, приніс я «Бізони». Забирай, голодний дембель...</ukr>
-		<fra>Ici, j'ai apporté des fusils "Bizon". Prenez, fou furieux...</fra>
-		<pln>No, przyniosłem "Bizony". Zabieraj, wygłodzony rezerwisto...</pln>
+		<rus>Вот, принёс я «Бизоны», бывшие владельцы поделились, которые тебе рёбра посчитали. А байка лживой оказалась, аномалия уничтожила оружие и не подавилась даже.</rus>
+		<eng>===Here, I brought "Bizon" guns. Take, hungry demobee...</eng>
+		<ukr>===Ось, приніс я «Бізони». Забирай, голодний дембель...</ukr>
+		<fra>===Ici, j'ai apporté des fusils "Bizon". Prenez, fou furieux...</fra>
+		<pln>===No, przyniosłem "Bizony". Zabieraj, wygłodzony rezerwisto...</pln>
 	</string>
 	<string id="m_qeast1_1">
-		<rus>Они не сильно покоцанные, нет? Ну да ладно, мне в общем-то без разницы. Вот обещанная награда...</rus>
+		<rus>Отомстил им?! Уважуха тебе! Пригоршня мне тут ствол подогнал, прими как награду...</rus>
 		<eng>===They are broken... Well, okay, let it be. Here is the promised reward...</eng>
-		<ukr>Вони не сильно покоцані, ні? Ну та ладно, мені якось все одно. Ось обіцяна нагорода...</ukr>
+		<ukr>===Вони не сильно покоцані, ні? Ну та ладно, мені якось все одно. Ось обіцяна нагорода...</ukr>
 		<fra>===Ils sont cassés... Bon, d'accord... Voici la récompense promise...</fra>
 		<pln>===Odrapane jakieś... No trudno, są jakie są. A to obiecana nagroda...</pln>
 	</string>
 	<string id="m_qeast1_2">
-		<rus>Я рассчитывал на более солидный куш, учитывая, что меня из-за них чуть чести не лишили.</rus>
+		<rus>Я рассчитывал на более солидный куш, учитывая, что меня из-за него чуть головы не лишили.</rus>
 		<eng>===I was almost ruined for them.</eng>
-		<ukr>Я розраховував на більш солідний куш, враховуючи, що мене через них мало честі не позбавили.</ukr>
+		<ukr>===Я розраховував на більш солідний куш, враховуючи, що мене через них мало честі не позбавили.</ukr>
 		<fra>===Je suis presque ruiné pour eux.</fra>
 		<pln>===Mnie z ich powodu o mało honoru nie pozbawili.</pln>
 	</string>
 	<string id="m_qeast1_3">
-		<rus>Надеюсь, что не лишили... Хотя - вопрос сомнительный...</rus>
-		<eng>I hope they did not... Although it's a dubious question...</eng>
-		<ukr>Сподіваюся, що не позбавили... Хоча це під питанням...</ukr>
-		<fra>J'espère qu'ils ne l'ont pas fait... Bien que ce soit une question douteuse...</fra>
-		<pln>Mam nadzieję, że nie pozbawili... Chociaż - można mieć wątpliwości...</pln>
+		<rus>Но не лишили ведь, а это главное! Всё равно у меня больше ничего нет.</rus>
+		<eng>===I hope they did not... Although it's a dubious question...</eng>
+		<ukr>===Сподіваюся, що не позбавили... Хоча це під питанням...</ukr>
+		<fra>===J'espère qu'ils ne l'ont pas fait... Bien que ce soit une question douteuse...</fra>
+		<pln>===Mam nadzieję, że nie pozbawili... Chociaż - można mieć wątpliwości...</pln>
 	</string>
 	<string id="s_qeast_0">
-		<rus>О... Местный Тарзан... Ты тут не с химерами торгуешь?</rus>
-		<eng>Oh... Local Tarzan...Aren't you bargaining with chimeras?</eng>
-		<ukr>О... Місцевий Тарзан... Ти тут не з химерами торгуєш?</ukr>
-		<fra>Oh... Tarzan local... Ne négociez-vous pas avec des chimères?</fra>
-		<pln>O... Tarzan miejscowy... Ty tutaj z chimerami handlujesz?</pln>
+		<rus>Крест, ты будто местный Тарзан... Не с изломами ли тут общаешься?</rus>
+		<eng>===Oh... Local Tarzan...Aren't you bargaining with chimeras?</eng>
+		<ukr>===О... Місцевий Тарзан... Ти тут не з химерами торгуєш?</ukr>
+		<fra>===Oh... Tarzan local... Ne négociez-vous pas avec des chimères?</fra>
+		<pln>===O... Tarzan miejscowy... Ty tutaj z chimerami handlujesz?</pln>
 	</string>
 	<string id="s_qeast_1">
-		<rus>Нет, бывает и сталкеры заходят. А для тебя есть ещё задание. Интимное, правда. Э-э... Чего глаза-то загорелись? Я совсем не о том, о чём ты там подумал.</rus>
-		<eng>No, sometimes stalkers come. And there is another task for me. But very intimate. Uh... Why did your eyes light up? It's not what you are thinking about.</eng>
-		<ukr>Ні, буває і Сталки заходять. А для тебе є ще завдання. Інтимне, правда. Е-е... Чого очі-то загорілися? Я зовсім не про те, про що ти там подумав.</ukr>
-		<fra>Íåò, áûâàåò è ñòàëêåðû çàõîäÿò. À äëÿ òåáÿ åñòü åù¸ çàäàíèå. Èíòèìíîå, ïðàâäà. Ý-ý... ×åãî ãëàçà-òî çàãîðåëèñü? ß ñîâñåì íå î òîì, î ÷¸ì òû òàì ïîäóìàë.</fra>
-		<pln>Nie, bywa że i stalker zajdzie. A dla ciebie jeszcze jedno zadanie jest. Intymne, co prawda. E-e... Co ci tak oczy zabłysły? Ja zupełnie nie o tym, o czym ty myślisz.</pln>
+		<rus>Нет, бывает и сталкеры заходят. А ты чего тут шастаешь? Работу ищешь? Дык есть задание для тебя.</rus>
+		<eng>===No, sometimes stalkers come. And there is another task for me.</eng>
+		<ukr>===Ні, буває і Сталки заходять. А для тебе є ще завдання.</ukr>
+		<fra>===Íåò, áûâàåò è ñòàëêåðû çàõîäÿò. À äëÿ òåáÿ åñòü åù¸ çàäàíèå.</fra>
+		<pln>===Nie, bywa że i stalker zajdzie. A dla ciebie jeszcze jedno zadanie jest.</pln>
 	</string>
 	<string id="s_qeast_2">
-		<rus>Ты на мои глаза не смотри. От них арты светятся ярче... Что за задание?</rus>
-		<eng>Do not look at my eyes. Artifacts shine brighter from them... What kind of a task?</eng>
-		<ukr>Ти на мої очі не дивись. Від них арти світяться яскравіше... Що за завдання?</ukr>
-		<fra>Ne regardez pas mes yeux. Les artefacts brillent plus qu'eux... Quel genre de tâche?</fra>
-		<pln>Ty na moje oczy nie patrz.... Arty i tak mocniej błyszczą... Co to za zadanie?</pln>
+		<rus>Выкладывай.</rus>
+		<eng>===What kind of a task?</eng>
+		<ukr>===Що за завдання?</ukr>
+		<fra>===Quel genre de tâche?</fra>
+		<pln>===Co to za zadanie?</pln>
 	</string>
 	<string id="s_qeast_3">
-		<rus>Вчера по лесу шастала группа вояк, серьёзные ребятки - лица суровые, все в полном снаряжении и бронежилетах, за спинами тубусы гранатомётов. К моему лагерю они не подходили, сразу же углубились в лес, лишь их командир подошёл ко мне задать парочку вопросов. Им нужен был кое-какой артефакт, и я подсказал ему, где его можно найти в лесу. На мой вопрос - на кой чёрт для поиска простого артефакта снарядили такую большую группу, да и ещё с подобным вооружением - командир показал мне интересное устройство - "УРТ" - умный ручной телепортатор. Эта штуковина позволяет шастать по Зоне как угодно, только не отовсюду можно телепортироваться. И маленький недочёт - он сам выбирает, куда тебя телепортировать. Артефакт же нужен для работы устройства. Сможешь, как бы это помягче сказать, отобрать телепортатор у этого "старослужащего"? С подобной штукой я смогу попутешествовать по Зоне, избегая всяческих опасностей.</rus>
-		<eng>Yesterday a group of fighters ran through the woods, serious guys with harsh faces, all of them had full armor and grenade launchers. They didn’t go up to my camp, they immediately went deep into the forest, only their commander asked me a few questions. They needed an artifact, and I told him where to find it in the forest. When I asked why the hell they were searching a simple artifact, with such a large armored group,  the commander showed me an interesting device - “SHT” - a smart hand teleporter. This thing allows you to hang around the Zone as you want, but you can not teleport from anywhere. And there is a little bug, it chooses where to teleport you. The artifact is needed for the operation of the device. Can you, to choose my words carefully, grab the teleporter from this "old serviceman"? Using the thing, I can travel around the Zone, avoiding all sorts of dangers.</eng>
-		<ukr>Вчора по лісі сновигала група вояків, серйозні хлопці - лиця суворі, всі в повному спорядженні і бронежилетах, за спинами тубуси гранатометів. До мого табору вони не підходили, відразу ж заглибилися в ліс, лише їхній командир підійшов до мене задати парочку питань. Їм був потрібний конкретний артефакт, і я підказав йому, де його можна знайти в лісі. На моє питання - на біса для пошуку простого артефакту спорядили таку велику групу, та й ще з подібним озброєнням - командир показав мені цікавий пристрій - "РРТ" - розумний ручний телепортатор. Ця штуковина дозволяє шастати по Зоні як завгодно, тільки не з усіх усюд можна переміщуватися. І маленький недолік - він сам вибирає, куди тебе телепортувати. Також, для роботи пристрою потрібен артефакт. Зможеш, як би це м'якше сказати, відібрати телепортатор у цього "старослуживого"? З подібною штукою я зможу подорожувати по Зоні, уникаючи усіляких небезпек.</ukr>
-		<fra>Hier, un groupe de combattants a couru à travers les bois, des gars sérieux au visage dur, qui avaient tous une armure complète et des lance-grenades. Ils ne sont pas montés dans mon camp, ils sont immédiatement allés au fond de la forêt, seul leur commandant m'a posé quelques questions. Ils avaient besoin d'un artefact et je lui ai dit où le trouver dans la forêt. Quand j'ai demandé pourquoi diable ils cherchaient un simple artefact, avec un groupe blindé aussi important, le commandant m'a montré un dispositif intéressant - le «SHT» - un téléporteur intelligent. Cela vous permet de rester dans la zone comme vous le souhaitez, mais vous ne pouvez pas vous téléporter de n’importe où. Et il y a un petit bug, il choisit où vous téléporter. Cet artefact est nécessaire au fonctionnement de l'appareil. Pouvez-vous, pour bien choisir mes mots, saisir le téléport de ce "vieux militaire"? En utilisant cette chose, je peux voyager dans la zone en évitant toutes sortes de dangers.</fra>
-		<pln>Wczoraj po lesie kręciła się grupa wojaków, poważni faceci - surowe twarze, w pełnym oporządzeniu i pancerzach, za plecami lufy granatników. Nie podeszli do mojego obozu, od razu poszli w głąb lasu, tylko ich dowódca zbliżył się do mnie, by zadać kilka pytań. Potrzebowali jakiegoś artefaktu i powiedziałem mu, gdzie go znaleźć w lesie. Na moje pytanie - po co do diabła na szukanie prostego artefaktu wysłano tak dużą grupę, i to jeszcze z takim wyposażeniem - dowódca pokazał mi ciekawe urządzenie - "IRT" - inteligentny ręczny teleporter. Dzięki temu możesz wędrować po Zonie jak chcesz, ale nie możesz teleportować się skądkolwiek. No i mały haczyk - to on wybiera, dokąd cię teleportować. Artefakt jest potrzebny do działania urządzenia. Czy możesz, jak by to powiedzieć najłagodniej, odebrać teleporter temu "wiarusowi"? Z takim urządzeniem mogę podróżować po Zonie, unikając wszelkiego rodzaju niebezpieczeństw.</pln>
+		<rus>Сегодня по лесу шастала ещё одна группа военных, серьёзные ребята - лица суровые, все в полном снаряжении и бронежилетах, за спинами тубусы гранатомётов, но не чета предыдущим "гостям", которых ты отправил к праотцам, эти вели себя спокойно, без суеты. К моему лагерю они близко не подходили, сразу же углубились в лес, лишь их командир подошёл ко мне задать парочку вопросов. Ему нужен был кое-какой артефакт, и я подсказал, где его можно найти в лесу. На мой вопрос - на кой чёрт для поиска простого артефакта снарядили такую большую группу, да и ещё с подобным вооружением - вояка показал мне интересное устройство - "УРТ", Умный Ручной Телепортатор. Эта штуковина позволяет перемещаться по Зоне как угодно, только не отовсюду можно телепортироваться и не всегда точно по заданным координатам, артефакт же нужен для работы самого устройства. Командир предупредил меня, чтоб я не болтал об УРТ, но желание обладать подобной вещицей очень велико. Сможешь, как бы это помягче сказать, отобрать телепортатор у этого "старослужащего"? С телепортатором я смогу попутешествовать по Зоне, избегая всяческих опасностей.</rus>
+		<eng>===Yesterday a group of fighters ran through the woods, serious guys with harsh faces, all of them had full armor and grenade launchers. They didn’t go up to my camp, they immediately went deep into the forest, only their commander asked me a few questions. They needed an artifact, and I told him where to find it in the forest. When I asked why the hell they were searching a simple artifact, with such a large armored group,  the commander showed me an interesting device - “SHT” - a smart hand teleporter. This thing allows you to hang around the Zone as you want, but you can not teleport from anywhere. And there is a little bug, it chooses where to teleport you. The artifact is needed for the operation of the device. Can you, to choose my words carefully, grab the teleporter from this "old serviceman"? Using the thing, I can travel around the Zone, avoiding all sorts of dangers.</eng>
+		<ukr>===Вчора по лісі сновигала група вояків, серйозні хлопці - лиця суворі, всі в повному спорядженні і бронежилетах, за спинами тубуси гранатометів. До мого табору вони не підходили, відразу ж заглибилися в ліс, лише їхній командир підійшов до мене задати парочку питань. Їм був потрібний конкретний артефакт, і я підказав йому, де його можна знайти в лісі. На моє питання - на біса для пошуку простого артефакту спорядили таку велику групу, та й ще з подібним озброєнням - командир показав мені цікавий пристрій - "РРТ" - розумний ручний телепортатор. Ця штуковина дозволяє шастати по Зоні як завгодно, тільки не з усіх усюд можна переміщуватися. І маленький недолік - він сам вибирає, куди тебе телепортувати. Також, для роботи пристрою потрібен артефакт. Зможеш, як би це м'якше сказати, відібрати телепортатор у цього "старослуживого"? З подібною штукою я зможу подорожувати по Зоні, уникаючи усіляких небезпек.</ukr>
+		<fra>===Hier, un groupe de combattants a couru à travers les bois, des gars sérieux au visage dur, qui avaient tous une armure complète et des lance-grenades. Ils ne sont pas montés dans mon camp, ils sont immédiatement allés au fond de la forêt, seul leur commandant m'a posé quelques questions. Ils avaient besoin d'un artefact et je lui ai dit où le trouver dans la forêt. Quand j'ai demandé pourquoi diable ils cherchaient un simple artefact, avec un groupe blindé aussi important, le commandant m'a montré un dispositif intéressant - le «SHT» - un téléporteur intelligent. Cela vous permet de rester dans la zone comme vous le souhaitez, mais vous ne pouvez pas vous téléporter de n’importe où. Et il y a un petit bug, il choisit où vous téléporter. Cet artefact est nécessaire au fonctionnement de l'appareil. Pouvez-vous, pour bien choisir mes mots, saisir le téléport de ce "vieux militaire"? En utilisant cette chose, je peux voyager dans la zone en évitant toutes sortes de dangers.</fra>
+		<pln>===Wczoraj po lesie kręciła się grupa wojaków, poważni faceci - surowe twarze, w pełnym oporządzeniu i pancerzach, za plecami lufy granatników. Nie podeszli do mojego obozu, od razu poszli w głąb lasu, tylko ich dowódca zbliżył się do mnie, by zadać kilka pytań. Potrzebowali jakiegoś artefaktu i powiedziałem mu, gdzie go znaleźć w lesie. Na moje pytanie - po co do diabła na szukanie prostego artefaktu wysłano tak dużą grupę, i to jeszcze z takim wyposażeniem - dowódca pokazał mi ciekawe urządzenie - "IRT" - inteligentny ręczny teleporter. Dzięki temu możesz wędrować po Zonie jak chcesz, ale nie możesz teleportować się skądkolwiek. No i mały haczyk - to on wybiera, dokąd cię teleportować. Artefakt jest potrzebny do działania urządzenia. Czy możesz, jak by to powiedzieć najłagodniej, odebrać teleporter temu "wiarusowi"? Z takim urządzeniem mogę podróżować po Zonie, unikając wszelkiego rodzaju niebezpieczeństw.</pln>
 	</string>
 	<string id="s_qeast_4">
 		<rus>Что-то мистикой пахнет. Ты меня не разводишь случайно?</rus>
@@ -2694,11 +2694,11 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 		<pln>Coś mi tu mistyką zalatuje. Czy ty mnie przypadkiem w kanał nie wpuszczasz?</pln>
 	</string>
 	<string id="s_qeast_5">
-		<rus>Это правда! Эта штука весьма полезная, надо рискнуть! Как я понял, эта разведывательно-диверсионная группа планирует какую-то операцию на новой территории, путь на которую стал доступен после недавнего Выброса... По твоему выражению лица вижу, что ты даже не слышал об этом. Почаще читай сообщения в общей сети - Лукаш трубит об этом день и ночь. Уверен, наши спецы направляются именно туда - Лис и Бес в той же сети писали, что видели вчера вечером отряд военных, двигавшихся на север от Долины, приметы вояк те же. Попытайся выведать у лидера Свободы координаты тропы - и новую местность разведаешь, и наверняка встретишь там "нашего" командира.</rus>
-		<eng>It's true! This thing is very useful, you must take a chance! As far as I understood, this reconnaissance and raiding group is planning some kind of operation in a new territory, the path to which has become available after the recent Blowout... I can see from your face that you have not even heard of it. You'd better read messages in the network, Lukash blows the trumpet day and night. I am sure that our specialists are going there - Fox and Fiend texted in the same network that they saw a group of soldiers who were heading north from the Valley last night, the signs of the fighters were the same. Try to find out the coordinates of the path from the leader of Freedom, and you will check the new area and surely meet "our" commander there.</eng>
-		<ukr>Це правда! Ця штука дуже корисна, треба ризикнути! Як я зрозумів, ця розвідувально-диверсійна група планує якусь операцію на новій території, шлях на яку став доступний після недавнього Викиду... З твого виразу обличчя бачу, що ти навіть не чув про це. Частіше читай повідомлення в загальній мережі - Лукаш сурмить про це день і ніч. Впевнений, наші фахівці направляються саме туди - Лис і Біс в тій же мережі писали, що бачили вчора ввечері загін військових, які рухалися на північ від Долини, прикмети вояк ті ж. Спробуй вивідати у лідера Свободи координати стежки - і нову місцевість розвідаєш, і напевно зустрінеш там "нашого" командира.</ukr>
-		<fra>C'est vrai! Cette chose est très utile, vous devez tenter votre chance! Autant que je sache, ce groupe de reconnaissance et de raid planifie une opération dans un nouveau territoire, dont le chemin est devenu disponible après le récent Blowout... Je peux voir de votre visage que vous n'en avez même pas entendu parler. Vous ferez mieux de lire les messages sur le réseau, Loukache sonne la trompette jour et nuit. Je suis sûr que nos spécialistes y vont - Fox et Démon ont écrit sur le même réseau qu’ils avaient vu un groupe de soldats qui se dirigeaient au nord de la vallée la nuit dernière, les signes des combattants étant les mêmes. Essayez de trouver les coordonnées du chemin auprès du chef de la Liberté, et vous découvrirez la nouvelle zone et rencontrerez sûrement "notre" commandant là-bas.</fra>
-		<pln>Sama prawda. To bardzo wygodna rzecz, warto zaryzykować! Jak zrozumiałem, ta grupa wywiadowczo-dywersyjna planuje jakąś operację na nowym terytorium, do którego droga otworzyła się po ostatniej emisji... Wyraz twojej gęby świadczy, że nic o tym nie słyszałeś. Czytaj częściej wiadomości we wspólnej sieci - Łukasz trąbi o tym w dzień i w nocy. Jestem pewien, że nasi spece kierują się właśnie tam - Lis i Bies w tejże sieci także pisali, że widzieli wczoraj wieczorem oddział wojska z takim samym wyposażeniem podążający na północ od Doliny. Postaraj się wydostać od lidera Wolności koordynaty tej ścieżki - i nową lokację poznasz, i na pewno spotkasz tam "naszego" dowódcę.</pln>
+		<rus>Это правда! Эта штука весьма полезная, надо рискнуть! Как я понял, эта разведывательно-диверсионная группа планирует какую-то операцию на новой территории, путь на которую стал доступен после недавнего Выброса... По твоему выражению лица вижу, что ты даже не слышал об этом. Почаще читай сообщения в общей сети - Лукаш трубит об этом день и ночь. Уверен, наши спецы направляются именно туда - Лис и Бес в сети писали, что видели отряд военных, двигавшихся на север от Долины, приметы солдат те же. Попытайся выведать у лидера Свободы координаты тропы - и новую местность разведаешь, и наверняка встретишь там нашего командира.</rus>
+		<eng>It's true! This thing is very useful, you must take a chance! As far as I understood, this reconnaissance and raiding group is planning some kind of operation in a new territory, the path to which has become available after the recent Blowout... I can see from your face that you have not even heard of it. You'd better read messages in the network, Lukash blows the trumpet day and night. I am sure that our specialists are going there - Fox and Bes texted in the same network that they saw a group of soldiers who were heading north from the Valley, the signs of the fighters were the same. Try to find out the coordinates of the path from the leader of Freedom, and you will check the new area and surely meet our commander there.</eng>
+		<ukr>Це правда! Ця штука дуже корисна, треба ризикнути! Як я зрозумів, ця розвідувально-диверсійна група планує якусь операцію на новій території, шлях на яку став доступний після недавнього Викиду... З твого виразу обличчя бачу, що ти навіть не чув про це. Частіше читай повідомлення в загальній мережі - Лукаш сурмить про це день і ніч. Впевнений, наші фахівці направляються саме туди - Лис і Біс в тій же мережі писали, що бачили загін військових, які рухалися на північ від Долини, прикмети вояк ті ж. Спробуй вивідати у лідера Свободи координати стежки - і нову місцевість розвідаєш, і напевно зустрінеш там нашого командира.</ukr>
+		<fra>===C'est vrai! Cette chose est très utile, vous devez tenter votre chance! Autant que je sache, ce groupe de reconnaissance et de raid planifie une opération dans un nouveau territoire, dont le chemin est devenu disponible après le récent Blowout... Je peux voir de votre visage que vous n'en avez même pas entendu parler. Vous ferez mieux de lire les messages sur le réseau, Loukash sonne la trompette jour et nuit. Je suis sûr que nos spécialistes y vont - Fox et Fiend ont écrit sur le même réseau qu’ils avaient vu un groupe de soldats qui se dirigeaient au nord de la vallée la nuit dernière, les signes des combattants étant les mêmes. Essayez de trouver les coordonnées du chemin auprès du chef de la Liberté, et vous découvrirez la nouvelle zone et rencontrerez sûrement "notre" commandant là-bas.</fra>
+		<pln>===Sama prawda. To bardzo wygodna rzecz, warto zaryzykować! Jak zrozumiałem, ta grupa wywiadowczo-dywersyjna planuje jakąś operację na nowym terytorium, do którego droga otworzyła się po ostatniej emisji... Wyraz twojej gęby świadczy, że nic o tym nie słyszałeś. Czytaj częściej wiadomości we wspólnej sieci - Łukasz trąbi o tym w dzień i w nocy. Jestem pewien, że nasi spece kierują się właśnie tam - Lis i Bies w tejże sieci także pisali, że widzieli wczoraj wieczorem oddział wojska z takim samym wyposażeniem podążający na północ od Doliny. Postaraj się wydostać od lidera Wolności koordynaty tej ścieżki - i nową lokację poznasz, i na pewno spotkasz tam "naszego" dowódcę.</pln>
 	</string>
 	<string id="s_qeast_6">
 		<rus>Твои запросы со временем становятся всё более странными.</rus>

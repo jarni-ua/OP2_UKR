@@ -281,11 +281,11 @@
 		<pln>No i robię za kuriera - dostawcę. Trzeba znaleźć jakieś PDA i dokumenty. Dokumenty są gdzieś w X-16, a PDA - w okolicy zawalonych tuneli, tych na południowym wschodzie Mrocznego Parowu. Tam działa snajper, on powinien mieć potrzebne PDA.</pln>
 	</string>
 	<string id="tex_take_doc5">
-		<rus>Надо насобирать для этого маньяка по одной запчасти от каждого монстра, кроме рук зомби и безоара. Всего - 36 частей. Интересно, что он с ними делать собрался?</rus>
-		<eng>I have to collect one part from each monster for this maniac, except for a zombie hand and a bezoar. In total - 36 parts. I wonder what he's going to do with them?</eng>
-		<ukr>Треба назбирати для цього маніяка по одній запчастині від кожного монстра, крім рук зомбі і безоара. Всього - 36 частин. Цікаво, що він з ними робити зібрався?</ukr>
-		<fra>Il est nécessaire de collecter pour ce maniaque une partie de chaque monstre, sauf des mains de zombie et du bezoar. Au total - 36 pièces. Je me demande ce qu'il va en faire?</fra>
-		<pln>Muszę nazbierać dla tego maniaka po jednym fragmencie z każdego mutanta, poza rękami zombie i bezoarami. Wszystkiego ma być 36 sztuk. Ciekawe, co on z nimi ma zamiar robić?</pln>
+		<rus>Надо насобирать для этого маньяка по одной части всех мутантов, кроме рук зомбаков и мозгов контролёра. Всего - 40 частей. Интересно, что он с ними делать собрался?</rus>
+		<eng>===I have to collect one part from each monster for this maniac, except for a zombie hand and a bezoar. In total - 40 parts. I wonder what he's going to do with them?</eng>
+		<ukr>===Треба назбирати для цього маніяка по одній запчастині від кожного монстра, крім рук зомбі і безоара. Всього - 40 частин. Цікаво, що він з ними робити зібрався?</ukr>
+		<fra>===Il est nécessaire de collecter pour ce maniaque une partie de chaque monstre, sauf des mains de zombie et du bezoar. Au total - 40 pièces. Je me demande ce qu'il va en faire?</fra>
+		<pln>===Muszę nazbierać dla tego maniaka po jednym fragmencie z każdego mutanta, poza rękami zombie i bezoarami. Wszystkiego ma być 40 sztuk. Ciekawe, co on z nimi ma zamiar robić?</pln>
 	</string>
 	<string id="tex_take_qeast">
 		<rus>Кресту понадобилось 15 артов, по 5 штук каждого вида:\n \n
@@ -310,11 +310,11 @@ Fireball" \n\nC'est bien, il n'a pas avoir besoin de 15 "Scalps de Contrôleurs"
 			"Ognista Kula"\n \nDobrze, że Krzyżowi nie zachciało się 15 "Skalpów Kontrolera".</pln>
 	</string>
 	<string id="tex_take_qeast_bizon">
-		<rus>Надо надыбать для Креста 6 аномальных «Бизонов» в любом состоянии. Они есть только у военных. Придётся поохотиться...</rus>
-		<eng>I need to get Cross, six anomalous "Bisons" in any condition. Only the military have them. I'll have to hunt around...</eng>
-		<ukr>Треба надибати для Хреста 6 аномальних «Бізонів» у будь-якому стані. Вони є тільки у військових. Доведеться пополювати...</ukr>
-		<fra>Je dois trouver 6 fusils automatiques "Bison" anormal pour Croix. Ils ne sont pas forcement que chez les militaires. Je vais devoir chasser...</fra>
-		<pln>Muszę zdobyć dla Krzyża sześć anomalnych "Bizonów" w dowolnym stanie. Takie mają tylko żołnierze. Trzeba będzie zapolować...</pln>
+		<rus>У Креста произошёл конфликт с группой военных, одетых в маскировочные костюмы-невидимки. В итоге они хорошенько его отделали, избив и ранив в ногу, и отобрали все ценные вещи. Крест просит найти их на Радаре и наказать, а в качестве доказательств расправы над ними принести их оружие в любом состоянии, коими являются аномальные ПП-19 «Бизон». Также он рассказал мне про байку, достоверность которой мне предстоит проверить. Надо закинуть в аномалию "Снежная" поочерёдно три обычных ПП-19 «Бизон», подождать хотя бы сутки и затем вернуться к месту с аномалией. Вне зависимости от результата, положительного или отрицательного, Крест будет ждать от меня отчёта.</rus>
+		<eng>===I need to get Cross, six anomalous "Bisons" in any condition. Only the military have them. I'll have to hunt around...</eng>
+		<ukr>===Треба надибати для Хреста 6 аномальних «Бізонів» у будь-якому стані. Вони є тільки у військових. Доведеться пополювати...</ukr>
+		<fra>===Je dois trouver 6 fusils automatiques "Bison" anormal pour Cross. Ils ne sont pas forcement que chez les militaires. Je vais devoir chasser...</fra>
+		<pln>===Muszę zdobyć dla Krzyża sześć anomalnych "Bizonów" w dowolnym stanie. Takie mają tylko żołnierze. Trzeba będzie zapolować...</pln>
 	</string>
 	<string id="tex_take_teleporter">
 		<rus>Задание не из лёгких! Надо каким-то образом выведать у Лукаша путь на новую территорию, на которой отыскать военного с телепортатором и "отобрать" последний.</rus>
@@ -324,7 +324,7 @@ Fireball" \n\nC'est bien, il n'a pas avoir besoin de 15 "Scalps de Contrôleurs"
 		<pln>Zadanie nie jest proste! Trzeba jakoś dowiedzieć się od Łukasza gdzie biegnie ścieżka na te nowe terytorium, a potem odszukać tam żołnierza z teleporterem i mu go "odebrać".</pln>
 	</string>
 	<string id="tex_petrenko_flyga">
-		<rus>Надо узнать у Доцента в баре, где фляжка Петренко. Вот, старый вояка решил найти потерянное. Надеюсь, что это единственное, что он потерял.</rus>
+		<rus>Надо узнать у Доцента в баре, где фляжка Петренко. Вот, старый вояка решил найти потерянное. Надеюсь, это единственное, что он потерял.</rus>
 		<eng>===I'll have to ask the Duty guy at the bar where Petrenko's flask is. Well, the old soldier finally decided to find it. I hope that's the only thing he's lost.</eng>
 		<ukr>Треба дізнатися у Доцента в барі, де фляжка Петренко. От, старий вояка вирішив знайти втрачене. Сподіваюся, що це єдине, що він втратив.</ukr>
 		<fra>===Je dois parler à Dolgovogo au bar, pour savoir où est la flasque de Petrenko. J'espère que cette flasque d'or - la seule chose qui est  chère à Petrenko - et qu'il est la seule chose qu'il ait perdu dans cette vie.</fra>
