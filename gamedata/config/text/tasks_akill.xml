@@ -1349,18 +1349,18 @@
 	</string>
 
 	<string id="task_borov_reid_0">
-		<rus>Рейд бандитов</rus>
-		<eng>Raid of bandits</eng>
-		<ukr>Рейд бандитів</ukr>
-		<fra>Raid des Bandits</fra>
-		<pln>Rajd bandytów</pln>
+		<rus>Рейдеры</rus>
+		<eng>===Raid of bandits</eng>
+		<ukr>===Рейд бандитів</ukr>
+		<fra>===Raid des Bandits</fra>
+		<pln>===Rajd bandytów</pln>
 	</string>
 	<string id="task_borov_reid_1">
-		<rus>Отбить атаку бандитов и убить Барона</rus>
-		<eng>Fight off the bandits and kill Baron</eng>
-		<ukr>Відбити атаку бандитів і вбити Барона</ukr>
-		<fra>Éliminez les bandits et tuez le Baron</fra>
-		<pln>Odeprzeć atak bandytów i zabić Barona</pln>
+		<rus>Отбить атаку рейдеров и убить Барона</rus>
+		<eng>===Fight off the bandits and kill Baron</eng>
+		<ukr>===Відбити атаку бандитів і вбити Барона</ukr>
+		<fra>===Éliminez les bandits et tuez le Baron</fra>
+		<pln>===Odeprzeć atak bandytów i zabić Barona</pln>
 	</string>
 	<string id="task_borov_reid_2">
 		<rus>Вернуться к Борову</rus>
@@ -3968,11 +3968,11 @@
 		<pln>Sezon łowiecki</pln>
 	</string>
 	<string id="task_povar_crows_1">
-		<rus>Добыть 20 тушек ворон</rus>
-		<eng>Get 20 carcasses of crows</eng>
-		<ukr>Добути 20 тушок ворон</ukr>
-		<fra>Obtenez 20 carcasses de corbeaux</fra>
-		<pln>Zdobyć 20 tuszek wron</pln>
+		<rus>Добыть 30 тушек ворон</rus>
+		<eng>Get 30 carcasses of crows</eng>
+		<ukr>Добути 30 тушок ворон</ukr>
+		<fra>Obtenez 30 carcasses de corbeaux</fra>
+		<pln>Zdobyć 30 tuszek wron</pln>
 	</string>
 	<string id="task_povar_crows_2">
 		<rus>Отнести тушки Повару</rus>
@@ -5704,6 +5704,46 @@
 	</string>
 	<string id="task_lotsman_explorer_jupiter_2">
 		<rus>Рассказать об успехах Лоцману</rus>
+		<eng>===Get back to Kuznetsov</eng>
+		<ukr>===Повернутися до Кузнєцова</ukr>
+	</string>
+
+	<string id="task_volk_anomaly_0">
+		<rus>Чистильщик</rus>
+		<ukr>===Чистильщик</ukr>
+	</string>
+	<string id="task_volk_anomaly_1">
+		<rus>Сделать фото аномалии "Летающая Жарка"</rus>
+		<eng>===Go through the distance, destroying all targets</eng>
+		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+	</string>
+	<string id="task_volk_anomaly_2">
+		<rus>Нейтрализовать 10 аномалий "Летающая Жарка"</rus>
+		<eng>===Go through the distance, destroying all targets</eng>
+		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+	</string>
+	<string id="task_volk_anomaly_3">
+		<rus>Сделать фото аномалии "Блуждающий Холодец"</rus>
+		<eng>===Go through the distance, destroying all targets</eng>
+		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+	</string>
+	<string id="task_volk_anomaly_4">
+		<rus>Нейтрализовать 10 аномалий "Блуждающий Холодец"</rus>
+		<eng>===Go through the distance, destroying all targets</eng>
+		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+	</string>
+	<string id="task_volk_anomaly_5">
+		<rus>Сделать фото сгустка аномальной энергии</rus>
+		<eng>===Go through the distance, destroying all targets</eng>
+		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+	</string>
+	<string id="task_volk_anomaly_6">
+		<rus>Нейтрализовать 30 сгустков аномальной энергии</rus>
+		<eng>===Go through the distance, destroying all targets</eng>
+		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+	</string>
+	<string id="task_volk_anomaly_7">
+		<rus>Рассказать о выполнении Волку</rus>
 		<eng>===Get back to Kuznetsov</eng>
 		<ukr>===Повернутися до Кузнєцова</ukr>
 	</string>
