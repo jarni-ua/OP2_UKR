@@ -3593,16 +3593,16 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		<pln>Zatrzymuje destrukcyjne mentalne oddziaływanie na mózg w późnych stadiach zombifikacji, odbudowując zdrowie psychiczne. Po pewnym czasie "zażywający" preparat dochodzi do siebie, jego samopoczucie stopniowo się polepsza.</pln>
 	</string>
 	<string id="fosfor">
-		<rus>Фосфорная палка</rus>
-		<eng>Phosphorus flare</eng>
-		<ukr>Фосфорна палиця</ukr>
-		<pln>Pałeczka fosforowa</pln>
+		<rus>Химический источник света</rus>
+		<eng>===Phosphorus flare</eng>
+		<ukr>===Фосфорна палиця</ukr>
+		<pln>===Pałeczka fosforowa</pln>
 	</string>
 	<string id="fosfor_descr">
-		<rus>Небольшая фосфорная палка служит для дополнительного освещения. Для активации можно взять в руки или выбросить на землю.</rus>
-		<eng>A small phosphorus stick used for extra lighting. To activate, you can pick it up or throw it on the ground.</eng>
-		<ukr>Невелика фосфорна палиця служить для додаткового освітлення. Для активації можна взяти до рук або викинути на землю.</ukr>
-		<pln>Niewielka fosforowa pałeczka służy do dodatkowego oświetlenia. Aby aktywować, możesz go podnieść lub rzucić na ziemię.</pln>
+		<rus>Химический источник света, хемилюминесцентный источник света (ХИС) - устройство, генерирующее свет при протекании химической реакции. Широко применяются в качестве автономных (до 5 часов свечения) источников света при различных аварийно-спасательных, дорожных, уличных работах, в чрезвычайных ситуациях, в туризме и спелеологии, подводном плавании, для подачи сигналов. Для активации нужно взять в руки или выбросить на землю.</rus>
+		<eng>===A small phosphorus stick used for extra lighting. To activate, you can pick it up or throw it on the ground.</eng>
+		<ukr>===Невелика фосфорна палиця служить для додаткового освітлення. Для активації можна взяти до рук або викинути на землю.</ukr>
+		<pln>===Niewielka fosforowa pałeczka służy do dodatkowego oświetlenia. Aby aktywować, możesz go podnieść lub rzucić na ziemię.</pln>
 	</string>
 	<string id="deshifrator_name">
 		<rus>Модуль-дешифратор</rus>
@@ -4315,10 +4315,10 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		<pln>Przenośna ładowarka</pln>
 	</string>
 	<string id="portable_charger_desc">
-		<rus>Переносное устройство, позволяющее в полевых условиях заряжать аккумуляторы для экзоскелетов.\n Придумано и разработано инженером по имени Винзор.\n Артефакты, с помощью которых возможно осуществить зарядку аккумулятора:\n • "Бенгальский огонь"\n • "Вспышка"\n • "Лунный свет"\n • "Батарейка"\n • "Рубиновая батарейка"\n • "Плазменная гусеница"\n • "Чёрная энергия"</rus>
-		<eng>A portable device that allows to charge batteries for exoskeletons in the field.\n Designed and developed by an engineer named Winsor.\n Artifacts with which it is possible to charge the battery:\n • "Sparkler"\n • "Flash"\n • "Moonlight"\n • "Battery"\n • "Ruby battery"\n • "Plasma Caterpillar"\n • "Black energy"</eng>
-		<ukr>Переносний пристрій, який дозволяє в польових умовах заряджати акумулятори для екзоскелетів.\n Придумано і розроблено інженером по імені Вінзор.\n Артефакти, за допомогою яких можливо здійснити зарядку акумулятора:\n • "Бенгальський вогонь"\n • "Спалах"\n • "Місячне сяйво"\n • "Батарейка"\n • "Рубінова батарейка"\n • "Плазмова гусениця"\n • "Чорна енергія"</ukr>
-		<pln>Przenośne urządzenie pozwalające w warunkach polowych ładować akumulatory dla egzoszkieletów.\n Wymyślone i zbudowane przez inżyniera o imieniu Winsor.\n Artefakty, przy pomocy których można wykonać ładowanie akumulatora:\n • "Świecidełko"\n • "Błysk"\n • "Blask Księżyca"\n • "Bateryjka"\n • "Rubinowa Bateryjka"\n • "Plazmowa Gąsienica"\n • "Czarna Energia"</pln>
+		<rus>Переносное устройство, позволяющее в полевых условиях заряжать аккумуляторы для экзоскелетов.\n Придумано и разработано инженером по имени Винзор.\n Артефакты, с помощью которых возможно осуществить зарядку аккумулятора:\n • %c[green]"Бенгальский огонь"%c[default] \n • %c[green]"Вспышка"%c[default] \n • %c[green]"Лунный свет"%c[default] \n • %c[green]"Батарейка"%c[default] \n • %c[green]"Рубиновая батарейка"%c[default] \n • %c[green]"Плазменная гусеница"%c[default] \n • %c[green]"Чёрная энергия"%c[default]</rus>
+		<eng>A portable device that allows to charge batteries for exoskeletons in the field.\n Designed and developed by an engineer named Winsor.\n Artifacts with which it is possible to charge the battery:\n • %c[green]"Sparkler"%c[default] \n • %c[green]"Flash"%c[default] \n • %c[green]"Moonlight"%c[default] \n • %c[green]"Battery"%c[default] \n • %c[green]"Ruby battery"%c[default] \n • %c[green]"Plasma Caterpillar"%c[default] \n • %c[green]"Black energy"%c[default]</eng>
+		<ukr>Переносний пристрій, який дозволяє в польових умовах заряджати акумулятори для екзоскелетів.\n Придумано і розроблено інженером по імені Вінзор.\n Артефакти, за допомогою яких можливо здійснити зарядку акумулятора:\n • %c[green]"Бенгальський вогонь"%c[default] \n • %c[green]"Спалах"%c[default] \n • %c[green]"Місячне сяйво"%c[default] \n • %c[green]"Батарейка"%c[default] \n • %c[green]"Рубінова батарейка"%c[default] \n • %c[green]"Плазмова гусениця"%c[default] \n • %c[green]"Чорна енергія"%c[default]</ukr>
+		<pln>Przenośne urządzenie pozwalające w warunkach polowych ładować akumulatory dla egzoszkieletów.\n Wymyślone i zbudowane przez inżyniera o imieniu Winsor.\n Artefakty, przy pomocy których można wykonać ładowanie akumulatora:\n • %c[green]"Świecidełko"%c[default] \n • %c[green]"Błysk"%c[default] \n • %c[green]"Blask Księżyca"%c[default] \n • %c[green]"Bateryjka"%c[default] \n • %c[green]"Rubinowa Bateryjka"%c[default] \n • %c[green]"Plazmowa Gąsienica"%c[default] \n • %c[green]"Czarna Energia"%c[default]</pln>
 	</string>
 		<string id="pda_molniy">
 		<rus>КПК Молнии</rus>

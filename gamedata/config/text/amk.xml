@@ -660,6 +660,54 @@ Do profesora Sazonowa Mikołaja Dimitrowicza\n\nSzanowny Mikołaju Dimitrowiczu,
 		Śledziona szczura\n
 		Ogon pseudopsa\n \n%c[255,255,255,255]Czas transmutacji  %c[255,224,224,160]10 minut Zony\n%c[255,255,255,255]Prawdopodobieństwo powodzenia transmutacji  %c[255,1,255,1]80 %\n%c[255,255,255,255]Prawdopodobieństwo zwyrodnienia  %c[255,255,1,1]20 %%c[default]</pln>
 	</string>
+
+	<string id="enc_artmod_teleport_text">
+		<rus>Артефакт "Телепорт" получается путём совместной трансмутации в аномалии "Пузырь" сразу четырёх ингредиентов:\n \n
+		Рука Чумного зомби\n
+		Геркулес\n
+		Тушка вороны\n
+		Колобок\n \n%c[255,255,255,255]Время трансмутации  %c[255,224,224,160]10 минут Зоны\n%c[255,255,255,255]Вероятность удачного преобразования  %c[255,1,255,1]80 %\n%c[255,255,255,255]Вероятность вырождения  %c[255,255,1,1]20 %%c[default]</rus>
+		<eng>==="Stone's blood" artifact is created through joint transmutation in "Whirligig" anomaly of four ingredients:\n \n
+		Sausage\n
+		Energy drink\n
+		Rat's spleen\n
+		Pseudodog's tail\n \n%c[255,255,255,255]Transmutation time  %c[255,224,224,160]10 Zone minutes\n%c[255,255,255,255]Probability of successful transmutation  %c[255,1,255,1]80 %\n%c[255,255,255,255]Probability of degeneration  %c[255,255,1,1]20 %%c[default]</eng>
+		<ukr>===Артефакт "Кров каменю" виходить шляхом спільної трансмутації у аномалії "Карусель" відразу чотирьох інгредієнтів:\n
+		 - Ковбаса\n
+		 - Банка енергетика\n
+		 - Селезінка щура\n
+		 - Хвіст псевдособаки\n \n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]10 хвилин Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255, 1,255,1]80 %\n%c[255,255,255,255]Ймовірність виродження  %c[255,255,1,1]20 %%c[default]</ukr>
+		<pln>===Artefakt "Kamienna Krew" tworzy się drogą wspólnej transmutacji w anomalii "Karuzela" czterech składników:\n \n
+		Kiełbasa\n
+		Energetyk\n
+		Śledziona szczura\n
+		Ogon pseudopsa\n \n%c[255,255,255,255]Czas transmutacji  %c[255,224,224,160]10 minut Zony\n%c[255,255,255,255]Prawdopodobieństwo powodzenia transmutacji  %c[255,1,255,1]80 %\n%c[255,255,255,255]Prawdopodobieństwo zwyrodnienia  %c[255,255,1,1]20 %%c[default]</pln>
+	</string>
+
+	<string id="enc_artmod_af_power_text">
+		<rus>Артефакт "Снежок" получается путём совместной трансмутации в аномалии "Снежная" сразу пяти ингредиентов:\n \n
+		Булыжник\n
+		Лунный свет\n
+		Вспышка\n
+		Бенгальский огонь\n
+		Селезёнка чумной крысы\n \n%c[255,255,255,255]Время трансмутации  %c[255,224,224,160]5 минут Зоны\n%c[255,255,255,255]Вероятность удачного преобразования  %c[255,1,255,1]90 %\n%c[255,255,255,255]Вероятность вырождения  %c[255,255,1,1]10 %%c[default]</rus>
+		<eng>==="Stone's blood" artifact is created through joint transmutation in "Whirligig" anomaly of four ingredients:\n \n
+		Sausage\n
+		Energy drink\n
+		Rat's spleen\n
+		Pseudodog's tail\n \n%c[255,255,255,255]Transmutation time  %c[255,224,224,160]10 Zone minutes\n%c[255,255,255,255]Probability of successful transmutation  %c[255,1,255,1]80 %\n%c[255,255,255,255]Probability of degeneration  %c[255,255,1,1]20 %%c[default]</eng>
+		<ukr>===Артефакт "Кров каменю" виходить шляхом спільної трансмутації у аномалії "Карусель" відразу чотирьох інгредієнтів:\n
+		 - Ковбаса\n
+		 - Банка енергетика\n
+		 - Селезінка щура\n
+		 - Хвіст псевдособаки\n \n%c[255,255,255,255]Час трансмутації  %c[255,224,224,160]10 хвилин Зони\n%c[255,255,255,255]Імовірність вдалої трансмутації  %c[255, 1,255,1]80 %\n%c[255,255,255,255]Ймовірність виродження  %c[255,255,1,1]20 %%c[default]</ukr>
+		<pln>===Artefakt "Kamienna Krew" tworzy się drogą wspólnej transmutacji w anomalii "Karuzela" czterech składników:\n \n
+		Kiełbasa\n
+		Energetyk\n
+		Śledziona szczura\n
+		Ogon pseudopsa\n \n%c[255,255,255,255]Czas transmutacji  %c[255,224,224,160]10 minut Zony\n%c[255,255,255,255]Prawdopodobieństwo powodzenia transmutacji  %c[255,1,255,1]80 %\n%c[255,255,255,255]Prawdopodobieństwo zwyrodnienia  %c[255,255,1,1]20 %%c[default]</pln>
+	</string>
+
 	<string id="af_inferno">
 		<rus>"Инферно"</rus>
 		<eng>"Inferno"</eng>
