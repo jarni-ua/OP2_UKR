@@ -21,6 +21,10 @@
 		<fra>Strelok, tu n'aurais pas dû faire ça. Tu peux voler normalement seulement avec l'aide des œufs que je te donnerais. Tous les autres œufs sont extrêmement toxiques et maintenant tu vas mourir.</fra>
 		<pln>Striełok, niepotrzebnie to zrobiłeś. Latać można tylko za pomocą tych jajek, które ci dałem. Wszystkie pozostałe jajka są nadzwyczaj trujące, teraz umrzesz.</pln>
 	</string>
+	<string id="level_change_disallowed">
+		<rus>Переход временно неактивен. Устраните угрозу.</rus>
+		<ukr>Перехід тимчасово деактивовано. Усуньте загрозу.</ukr>
+	</string>
 	<string id="run_allowed_0">
 		<rus>Телепортация из района скопления вражеских сил невозможна по техническим причинам. Для восстановления функциональности устраните угрозу.</rus>
 		<eng>Teleportation from the enemy force concentration area is impossible for technical reasons. Remove the threat to restore functionality.</eng>

@@ -1950,10 +1950,10 @@
 		<pln>Ręka pseudogiganta</pln>
 	</string>
 	<string id="part_psevdogigant_hand_description">
-		<rus>Рука псевдогиганта обладает свойствами, которые учёные ещё не рассказали, но за неё они хорошо могут заплатить.</rus>
-		<eng>The hand of a Pseudogiant possesses properties that scientists have not yet revealed to the public, and they pay well for them too.</eng>
-		<ukr>Рука псевдогіганта має властивості, про які вчені ще не розповіли, але за неї вони добре можуть заплатити.</ukr>
-		<pln>Ręka pseudogiganta posiada właściwości, o których uczeni jeszcze nic nie mówią, ale za to dobrze za nią płacą.</pln>
+		<rus>Рука псевдогиганта обладает свойствами, которые учёные до конца ещё не изучили, но за неё они хорошо могут заплатить.</rus>
+		<eng>===The hand of a Pseudogiant possesses properties that scientists have not yet revealed to the public, and they pay well for them too.</eng>
+		<ukr>===Рука псевдогіганта має властивості, про які вчені ще не розповіли, але за неї вони добре можуть заплатити.</ukr>
+		<pln>===Ręka pseudogiganta posiada właściwości, o których uczeni jeszcze nic nie mówią, ale za to dobrze za nią płacą.</pln>
 	</string>
 	<string id="part_tail_cat">
 		<rus>Хвост кошки</rus>
@@ -2597,6 +2597,12 @@
 		<eng>Monolith</eng>
 		<ukr>Угруповання «Моноліт»</ukr>
 		<pln>Ugrupowanie Monolit</pln>
+	</string>
+	<string id="paradmonolith">
+		<rus>Монолит</rus>
+		<eng>Monolith</eng>
+		<ukr>«Моноліт»</ukr>
+		<pln>Monolit</pln>
 	</string>
 	<string id="Scientists">
 		<rus>Учёные</rus>
