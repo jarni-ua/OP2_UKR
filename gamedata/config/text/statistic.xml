@@ -1192,10 +1192,10 @@
 		<pln>===Комар</pln>
 	</string>
 	<string id="fly_micro">
-		<rus>Чумная мини-муха</rus>
-		<eng>Plagued mini-fly</eng>
-		<ukr>Чумна міні-муха</ukr>
-		<fra>Mini-mouche pesteuse</fra>
+		<rus>Мини-муха</rus>
+		<eng>Mini-fly</eng>
+		<ukr>Міні-муха</ukr>
+		<fra>Mini-mouche</fra>
 		<pln>===Комар</pln>
 	</string>
 	<string id="fly_ghost">
@@ -1204,6 +1204,13 @@
 		<ukr>Примарна муха</ukr>
 		<fra>Mouche spectrale</fra>
 		<pln>===Призрачная муха</pln>
+	</string>
+	<string id="fly_plague">
+		<rus>Чумная мини-муха</rus>
+		<eng>Plagued mini-fly</eng>
+		<ukr>Чумна міні-муха</ukr>
+		<fra>Mini-mouche pesteuse</fra>
+		<pln>===Комар</pln>
 	</string>
 	<string id="bee_micro">
 		<rus>Чернобыльский шершень</rus>

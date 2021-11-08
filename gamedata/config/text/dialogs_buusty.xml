@@ -4541,10 +4541,10 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 
 	<!-- Описание заданий -->
 	<string id="text_black_angel">
-		<rus>Волк попросил найти редкий артефакт "Чёрный ангел" для своей больной дочери. По его словам, он появляется где-то в Ржавом лесу на Радаре. Волк предупредил меня, что там, возможно, будет много нечисти. Эх, маловато я патронов с собой взял... Ничего, прорвёмся!</rus>
-		<eng>Wolf asked me to find a rare "Black Angel" artefact for his sick daughter. According to him, it appears somewhere in the Rusty Forest, at the Radar. Wolf warned me that there might be a lot of evil there. Oh, I didn't bring enough cartridges with me... That's okay, I'll manage!</eng>
-		<ukr>Вовк попросив знайти рідкісний артефакт "Чорний ангел" для своєї хворої доньки. За його словами, він з'являється десь у Іржавому лісі на Радарі. Вовк попередив мене, що там, можливо, буде багато нечисті. Ех, малувато я патронів з собою взяв... Нічого, прорвемося!</ukr>
-		<pln>Wilk poprosił o znalezienie dla swojej chorej córki, rzadkiego artefaktu "Czarny Anioł". Według niego, można go znaleźć gdzieś w lesie, na Radarze. Wilk uprzedził mnie, że może tam być gorąco. Ech, za mało amunicji wziąłem ze sobą... Ale to nic, przedrzemy się!</pln>
+		<rus>Волк попросил найти редкий артефакт "Чёрный ангел" для своей больной дочери. По его словам, он появляется где-то в Ржавом лесу на Радаре. Волк предупредил меня, что там, возможно, будет много нечисти. Эх, маловато я патронов с собой взял... Ничего, прорвёмся!\n Ещё Волк попросил найти в том же Ржавом лесу его нычку с каким-то навороченным стволом, заныканную недалеко от вертолёта, но займусь этим только после того, как отыщу необходимый артефакт - это в приоритете.</rus>
+		<eng>===Wolf asked me to find a rare "Black Angel" artefact for his sick daughter. According to him, it appears somewhere in the Rusty Forest, at the Radar. Wolf warned me that there might be a lot of evil there. Oh, I didn't bring enough cartridges with me... That's okay, I'll manage!</eng>
+		<ukr>===Вовк попросив знайти рідкісний артефакт "Чорний ангел" для своєї хворої доньки. За його словами, він з'являється десь у Іржавому лісі на Радарі. Вовк попередив мене, що там, можливо, буде багато нечисті. Ех, малувато я патронів з собою взяв... Нічого, прорвемося!</ukr>
+		<pln>===Wilk poprosił o znalezienie dla swojej chorej córki, rzadkiego artefaktu "Czarny Anioł". Według niego, można go znaleźć gdzieś w lesie, na Radarze. Wilk uprzedził mnie, że może tam być gorąco. Ech, za mało amunicji wziąłem ze sobą... Ale to nic, przedrzemy się!</pln>
 	</string>
 	<string id="text_fanat_bronik">
 		<rus>Нужно отыскать в Тёмной Долине стайку псевдышей и перебить их, если они раньше меня не затопчут. Нужно набрать 15 лап этих мутантов-переростков и отнести Фанату.</rus>
@@ -9011,6 +9011,19 @@ Masz tu jeszcze moją dolę z walizki najemników, siostrze bardziej się przyda
 		<eng>===Димак сообщил мне код от двери, ведущую в лабораторию Х-8, вот он - 29121997.</eng>
 		<ukr>===Димак сообщил мне код от двери, ведущую в лабораторию Х-8, вот он - 29121997.</ukr>
 		<pln>===Димак сообщил мне код от двери, ведущую в лабораторию Х-8, вот он - 29121997.</pln>
+	</string>
+
+	<string id="ds_password_code_name">
+		<rus>Загадочные цифры с фотографии</rus>
+		<eng>===Загадочные цифры с фотографии</eng>
+		<ukr>===Загадочные цифры с фотографии</ukr>
+		<pln>===Загадочные цифры с фотографии</pln>
+	</string>
+	<string id="ds_password_code_text">
+		<rus>Призрак посоветовал мне записать цифры, которые проявились на фотографии, сделанной мной только что в Саркофаге. Интуиция подсказывает, что скоро они мне пригодятся - 887766.</rus>
+		<eng>===Призрак посоветовал мне записать цифры, которые проявились на фотографии, сделанной мной только что в Саркофаге. Интуиция подсказывает, что скоро они мне пригодятся - 887766.</eng>
+		<ukr>===Призрак посоветовал мне записать цифры, которые проявились на фотографии, сделанной мной только что в Саркофаге. Интуиция подсказывает, что скоро они мне пригодятся - 887766.</ukr>
+		<pln>===Призрак посоветовал мне записать цифры, которые проявились на фотографии, сделанной мной только что в Саркофаге. Интуиция подсказывает, что скоро они мне пригодятся - 887766.</pln>
 	</string>
 
 </string_table>
