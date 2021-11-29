@@ -2858,11 +2858,11 @@
 		<pln>Rzeczy Naznaczonego</pln>
 	</string>
 	<string id="st_game_over_press_jump">
-		<rus>Нажмите ($$ACTION_JUMP$$) для выхода в главное меню</rus>
-		<eng>Press ($$ ACTION_JUMP $$) to exit to the main menu</eng>
-		<ukr>Натисніть ($$ACTION_JUMP$$) для виходу до головного меню</ukr>
-		<fra>Appuyez sur ($$ACTION_JUMP$$) pour accéder au menu principal.</fra>
-		<pln>Nacisnij ($$ACTION_JUMP$$) aby wyjść do główngo menu</pln>
+		<rus>Нажмите ($$ACTION_JUMP$$) для выхода в главное меню или ($$ACTION_USE_USER_ACTION3$$) для загрузки последней сохраненной игры</rus>
+		<eng>Press ($$ ACTION_JUMP $$) to exit to the main menu or ($$ACTION_USE_USER_ACTION3$$) to load the last saved game </eng>
+		<ukr>===Натисніть ($$ACTION_JUMP$$) для виходу до головного меню</ukr>
+		<fra>===Appuyez sur ($$ACTION_JUMP$$) pour accéder au menu principal.</fra>
+		<pln>===Nacisnij ($$ACTION_JUMP$$) aby wyjść do główngo menu</pln>
 	</string>
 	<string id="st_level">
 		<rus>Уровень</rus>
