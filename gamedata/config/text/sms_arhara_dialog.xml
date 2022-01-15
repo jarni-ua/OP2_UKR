@@ -1189,10 +1189,10 @@
 		<pln>Sapsan, problemy przy szlabanie rozwiązane. Możesz to z dumą oznajmić wolnościowcom - niech wysyłają ludzi.</pln>
 	</string>
 	<string id="sms_strelok_u_shlagbauma_sms2_0">
-		<rus>Сальвадор, как там у вас дела?</rus>
-		<eng>Salvador, how's it going in there?</eng>
-		<ukr>Сальвадор, як там у вас справи?</ukr>
-		<pln>Salwador, jak tam wasze sprawy?</pln>
+		<rus>Сольвадор, как там у вас дела?</rus>
+		<eng>Solvador, how's it going in there?</eng>
+		<ukr>Сольвадор, як там у вас справи?</ukr>
+		<pln>Solwador, jak tam wasze sprawy?</pln>
 	</string>
 	<string id="solvador_u_shlagbauma_sms3_0">
 		<rus>У нас всё готово. Надо проконтролировать запуск. Иди на поле с генераторами, ищи третий, полурабочий - у него должны стоять ремонтные ящики. Как придёшь - дай знать, будем пробовать запустить.</rus>
@@ -1201,10 +1201,10 @@
 		<pln>U nas wszystko gotowe. Trzeba skontrolować rozruch. Idź na pole z generatorami, szukaj trzeciego, pracującego na pół mocy - przy nim powinny stać skrzynki remontowe. Jak dojdziesz - daj znać, będziemy próbować go uruchomić.</pln>
 	</string>
 	<string id="sms_strelok_u_tretego_generatora_sms1_0">
-		<rus>Сальвадор, я на месте. Ну и... Делать-то чего?</rus>
-		<eng>Salvador, I'm here. Well... Now what?</eng>
-		<ukr>Сальвадор, я на місці. Ну і... Робити то що?</ukr>
-		<pln>Salwador, jestem na miejscu. Co dalej?</pln>
+		<rus>Сольвадор, я на месте. Ну и... Делать-то чего?</rus>
+		<eng>Solvador, I'm here. Well... Now what?</eng>
+		<ukr>Сольвадор, я на місці. Ну і... Робити то що?</ukr>
+		<pln>Solwador, jestem na miejscu. Co dalej?</pln>
 	</string>
 	<string id="sms_solvador_u_tretego_generatora_sms2_0">
 		<rus>А ничего. Просто стой и смотри. Генератор заглушён, сейчас попробуем активировать - по проводам должен пойти ток, и над генератором появится электрическое поле. Включили. Ну как?</rus>
@@ -1388,9 +1388,9 @@
 	</string>
 	<string id="sms_k_prizraku1_0_0">
 		<rus>Призрак, привет. Я на Агропром. Тропка открывается где-то у высоковольтки.</rus>
-		<eng>Ghost, hi. I'm at the Agroprom. The trail opens somewhere at the high voltage tower.</eng>
+		<eng>Ghost, hi. I'm heading at the Agroprom. The trail opens somewhere at the high voltage tower.</eng>
 		<ukr>Привид, привіт. Я на Агропром. Стежинка відкривається десь у високовольтки.</ukr>
-		<pln>Duch, cześć. Jestem na Agropromie. Ścieżka otwiera się gdzieś przy słupie wysokiego napięcia.</pln>
+		<pln>===Duch, cześć. Jestem na Agropromie. Ścieżka otwiera się gdzieś przy słupie wysokiego napięcia.</pln>
 	</string>
 	<string id="sms_strelok_sms_k_muhe_0">
 		<rus>Муха, пойдём. Идти придётся далеко - на Агропром.</rus>
@@ -2348,13 +2348,13 @@
 	</string>
 	<string id="sms_obmorok_sms_zlobnomu_rasstrel1_0">
 		<rus>Злобный, здорово. Мои люди только что видели, как какой-то нейтрал ушёл через неизвестный переход в сторону АТП.</rus>
-		<eng>Vicious, hello. My people have just spotted some Neutral go through an unknown passage towards the ATP.</eng>
+		<eng>Vicious, hello. My people have just spotted some Neutral go through an unknown passage towards the MTP.</eng>
 		<ukr>Злісний, привіт. Мої люди тільки що бачили, як якийсь нейтрал пішов через невідомий перехід в сторону АТП.</ukr>
 		<pln>Złośliwy, czółko... Moi ludzie dopiero co widzieli, jak jakiś neutrał odszedł przez nieznane przejście w kierunku ATP.</pln>
 	</string>
 	<string id="sms_zlobny_sms_zlobnomu_rasstrel2_0">
 		<rus>В сторону АТП говоришь... Вот мля... Откуда он знал переход и какого хрена твои люди его не пристрелили?</rus>
-		<eng>Towards the ATP... Oh, shit... How did he know about the transition and why the fuck didn't your people shoot him?</eng>
+		<eng>Towards the MTP... Oh, shit... How did he know about the transition and why the fuck didn't your people shoot him?</eng>
 		<ukr>У бік АТП кажеш... От блін... Звідки він знав про перехід і якого хріна твої люди його не пристрелили?</ukr>
 		<pln>W stronę ATP mówisz... Więc to tak... Skąd on znał przejście i dlaczego do jasnej cholery twoi ludzie go nie załatwili?</pln>
 	</string>
@@ -2372,7 +2372,7 @@
 	</string>
 	<string id="sms_zlobny_sms_zlobnomu_rasstrel4_1_0">
 		<rus>Сейчас пойдёт группа в строну АТП, смотрите стрельбу не устройте. Открываю переход.</rus>
-		<eng>I'll send a group towards the ATP now, don't shoot them. I'll open the passage.</eng>
+		<eng>I'll send a group towards the MTP now, don't shoot them. I'll open the passage.</eng>
 		<ukr>Зараз піде група в строну АТП, дивіться стрілянини не влаштуйте. Відкриваю перехід.</ukr>
 		<pln>Zaraz pójdzie grupa w stronę ATP, tylko strzelaniny tam nie zróbcie. Otwieram przejście.</pln>
 	</string>
@@ -2384,19 +2384,19 @@
 	</string>
 	<string id="sms_zashita_sms_zlobnomu_rasstrel6_0">
 		<rus>Активирован портал на АТП. Время работы 2 минуты.</rus>
-		<eng>The transition to the ATP is activated. It will be on line for 2 minutes only.</eng>
+		<eng>The transition to the MTP is activated. It will be on line for 2 minutes only.</eng>
 		<ukr>Активовано портал на АТП. Час роботи 2 хвилини.</ukr>
 		<pln>Aktywacja portalu na ATP. Czas działania - 2 minuty.</pln>
 	</string>
 	<string id="sms_zashita_sms_zlobnomu_rasstrel7_0">
 		<rus>Телепорт на территорию АТП после выхода группы деактивирован.</rus>
-		<eng>The teleport to the ATP area has been deactivated after the group's departure.</eng>
+		<eng>The teleport to the MTP area has been deactivated after the group's departure.</eng>
 		<ukr>Телепорт на територію АТП після виходу групи деактивовано.</ukr>
 		<pln>Teleport na terytorium ATP dezaktywowany po wyjściu grupy.</pln>
 	</string>
 	<string id="sms_agro_tainik_norman_sms_0">
 		<rus>Эй, Стрелок, ты там живой? Держи координаты телепорта в тайник. Он где-то на Агропроме... С помощью прибора, который я тебе дал, и этих координат найдёшь телепорт. А далее - в тайнике найдёшь то, что тебе нужно.</rus>
-		<eng>Hey, Strelok, are you alive in there? Here's the coordinates of the teleport to get to the stash. It's somewhere in the Agroprom...  You'll find the teleport with the aid of the device that I gave you and these coordinates. And then you'll find what you need in the stash.</eng>
+		<eng>Hey, Strelok, are you alive in there? Here's the coordinates of the teleport to get to the stash. It's somewhere at the Agroprom...  You'll find the teleport with the aid of the device that I gave you and these coordinates. And then you'll find what you need in the stash.</eng>
 		<ukr>Ей, Cтрілець, ти там живий? Тримай координати телепорту в схованку. Він десь на Агропромі... За допомогою приладу, який я тобі дав, і цих координат знайдеш телепорт. А далі - у схованці знайдеш те, що потрібно.</ukr>
 		<pln>Ej, Striełok, żyjesz tam??? Bierz koordynaty teleportu do schowka. Jest gdzieś tam na Agropromie... Z pomocą przyrządu, który ci dałem i tych koordynatów, znajdziesz teleport. A potem, w schowku, znajdziesz to co ci potrzeba.</pln>
 	</string>
