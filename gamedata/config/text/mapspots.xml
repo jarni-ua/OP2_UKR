@@ -980,12 +980,12 @@
 		<fra>Emplacement approximatif du sniper de "Monolithe"</fra>
 		<pln>===Lokalizacja snajpera Monolitu</pln>
 	</string>
-	<string id="spot_ohota_kogot">
-		<rus>Невидимый коготь смерти</rus>
-		<eng>Invisible deathclaw</eng>
-		<ukr>Невидимий кіготь смерті</ukr>
-		<fra>Griffemort invisible</fra>
-		<pln>Niewidzialny szpon śmierci</pln>
+	<string id="deathclaw_phantom">
+		<rus>Невидимое существо</rus>
+		<eng>===Invisible deathclaw</eng>
+		<ukr>===Невидимий кіготь смерті</ukr>
+		<fra>===Griffemort invisible</fra>
+		<pln>===Niewidzialny szpon śmierci</pln>
 	</string>
 	<string id="kubik_spawn_0">
 		<rus>Схрон с кубиком</rus>
@@ -1679,5 +1679,12 @@
 		<ukr>===Подарочный тайник Обители</ukr>
 		<fra>===Подарочный тайник Обители</fra>
 		<pln>===Подарочный тайник Обители</pln>
+	</string>
+	<string id="kontrik_red_mozg">
+		<rus>Предположительное место контролёра</rus>
+		<eng>===Presumed location of the impostor's stash</eng>
+		<ukr>===Очікуване місце схованки обманщика</ukr>
+		<fra>===Localisation présumée de la cache de l'imposteur</fra>
+		<pln>===Prawdopodobna lokalizacja schowka обманщика</pln>
 	</string>
 </string_table>

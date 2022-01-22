@@ -1177,6 +1177,12 @@
 		<fra>Sorcière</fra>
 		<pln>Wiedźma</pln>
 	</string>
+	<string id="bomzh_name">
+		<rus>Зомби-гопник</rus>
+		<eng>===Зомби-гопник</eng>
+		<ukr>===Зомби-гопник</ukr>
+		<pln>===Зомби-гопник</pln>
+	</string>
 	<string id="komar">
 		<rus>Комар</rus>
 		<eng>Mosquito</eng>
@@ -1192,10 +1198,10 @@
 		<pln>===Комар</pln>
 	</string>
 	<string id="fly_micro">
-		<rus>Чумная мини-муха</rus>
-		<eng>Plagued mini-fly</eng>
-		<ukr>Чумна міні-муха</ukr>
-		<fra>Mini-mouche pesteuse</fra>
+		<rus>Мини-муха</rus>
+		<eng>Mini-fly</eng>
+		<ukr>Міні-муха</ukr>
+		<fra>Mini-mouche</fra>
 		<pln>===Комар</pln>
 	</string>
 	<string id="fly_ghost">
@@ -1205,11 +1211,12 @@
 		<fra>Mouche spectrale</fra>
 		<pln>===Призрачная муха</pln>
 	</string>
-	<string id="m_burer_cop">
-		<rus>Чернобыльский гном</rus>
-		<eng>===Чернобыльский гном</eng>
-		<ukr>Чорнобильський гном</ukr>
-		<pln>===Чернобыльский гном</pln>
+	<string id="fly_plague">
+		<rus>Чумная мини-муха</rus>
+		<eng>Plagued mini-fly</eng>
+		<ukr>Чумна міні-муха</ukr>
+		<fra>Mini-mouche pesteuse</fra>
+		<pln>===Комар</pln>
 	</string>
 	<string id="bee_micro">
 		<rus>Чернобыльский шершень</rus>
@@ -1217,5 +1224,10 @@
 		<ukr>===Чорнобильський шершень</ukr>
 		<pln>===Чернобыльский шершень</pln>
 	</string>
-
+	<string id="fyreflyzloy">
+		<rus>Сгусток аномальной энергии</rus>
+		<eng>===Чернобыльский шершень</eng>
+		<ukr>===Чорнобильський шершень</ukr>
+		<pln>===Чернобыльский шершень</pln>
+	</string>
 </string_table>

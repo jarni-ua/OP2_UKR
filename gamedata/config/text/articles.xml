@@ -985,7 +985,7 @@
 		<pln>Zająć pozycję na maszcie barki</pln>
 	</string>
 	<string id="max_camouflage_name">
-		<rus>Раздобыть маскхалаты снайперов Блэкуотер</rus>
+		<rus>Раздобыть маскхалаты снайперов Блэквотер</rus>
 		<eng>Get Blackwater Sniper Camouflage</eng>
 		<ukr>Роздобути маскхалати снайперів Блеквотер</ukr>
 		<pln>Zdobyć kombinezony maskujące snajperów Blackwater</pln>
@@ -4123,6 +4123,18 @@
 		<ukr>Пружина з Електри</ukr>
 		<pln>Sprężyna z Elektry</pln>
 	</string>
+	<string id="artmod_teleport_name">
+		<rus>Телепорт из Пузыря</rus>
+		<eng>===Телепорт из Пузыря</eng>
+		<ukr>===Телепорт из Пузыря</ukr>
+		<pln>===Телепорт из Пузыря</pln>
+	</string>
+	<string id="artmod_af_power_name">
+		<rus>Снежок из Снежной</rus>
+		<eng>===Снежок из Снежной</eng>
+		<ukr>===Снежок из Снежной</ukr>
+		<pln>===Снежок из Снежной</pln>
+	</string>
 	<string id="tex_take_pushka_name">
 		<rus>Принести посылку Лису</rus>
 		<eng>Bring Fox the parcel</eng>
@@ -4429,6 +4441,12 @@
 		<ukr>Знайти Вінзору вольтметр</ukr>
 		<pln>Znaleźć woltomierz dla Winsora</pln>
 	</string>
+	<string id="task_katana_find_name">
+		<rus>Экскурсия в Курчатов</rus>
+		<eng>===Экскурсия в Курчатов</eng>
+		<ukr>===Экскурсия в Курчатов</ukr>
+		<pln>===Экскурсия в Курчатов</pln>
+	</string>
 	<string id="kur_zashita_name">
 		<rus>Курчатовский котёл</rus>
 		<eng>Kurchatov boiler</eng>
@@ -4472,22 +4490,10 @@
 		<pln>Zdobyć PDA donosiciela Monolitu</pln>
 	</string>
 	<string id="stealth_find_pda_text">
-		<rus>Брат Тени Монолита попросил меня собрать в Зоне и принести ему КПК сталкера-стукача, который сливает Монолиту инфу. Нужно выполнить это задание, обязательно красуясь с амулетом во всё пузо. И при этом ещё и не убив никого из людей. Братец Тени Монолита сказал, что перестанет уважать меня, если я буду пользоваться маскировочным экзоскелетом. Но так ли мне нужно уважение этого утырка? В общем, задание по своему идиотизму чисто в духе Монолита. А кто бы сомневался?\n\n%c[255,255,255,0] При выполнении данного задания допускается использование маскировочного экзоскелета, однако можно остаться и в экзоскелете Монолита. Использование других костюмов запрещено.</rus>
+		<rus>Брат Тени Монолита попросил меня собрать в Зоне и принести ему КПК сталкера-стукача, который сливает Монолиту инфу. Нужно выполнить это задание, обязательно красуясь с амулетом во всё пузо. И при этом ещё и не убив никого из людей. Братец Тени Монолита сказал, что перестанет уважать меня, если я буду пользоваться маскировочным экзоскелетом. Но так ли мне нужно уважение этого утырка? В общем, задание по своему идиотизму чисто в духе Монолита. А кто бы сомневался?\n\n%c[255,255,255,0]При выполнении данного задания допускается использование маскировочного экзоскелета, однако можно остаться и в экзоскелете Монолита. Использование других костюмов запрещено.</rus>
 		<eng>===Kashchey №2 asked me to look around the Zone and bring him the PDA of a stalker-informer who sells information to the Monolith. This task must be fulfilled by obligatorily flashing around the amulet, and at the same time, without killing anyone. The sib of the Monolith's Shadow said that he would cease to respect me if I used a camouflage exoskeleton. The question is this, do I even need the respect of this scumbag? In general, the task in its idiocy is purely in the spirit of the Monolith. And who would doubt that?</eng>
-		<ukr>Чахлик №2 попросив мене зібрати в Зоні і принести йому КПК сталкера-стукача, який зливає Моноліту інфу. Потрібно виконати це завдання, обов'язково красуючись з амулетом на все пузо. І при цьому ще й не вбивши нікого з людей. Братик Тіні Моноліту сказав, що перестане поважати мене, якщо я буду користуватися маскувальним екзоскелетом. Питання, а потрібна мені взагалі повага цього відморозка? Загалом, завдання за своїм ідіотизмом чисто в дусі Моноліту. А хто б сумнівався?\n%c[255,255,255,0] При виконанні даного завдання допускається використання маскувального екзоскелета, однак можна залишитися і в екзоскелеті Моноліту. Використання інших костюмів заборонено.</ukr>
+		<ukr>Чахлик №2 попросив мене зібрати в Зоні і принести йому КПК сталкера-стукача, який зливає Моноліту інфу. Потрібно виконати це завдання, обов'язково красуючись з амулетом на все пузо. І при цьому ще й не вбивши нікого з людей. Братик Тіні Моноліту сказав, що перестане поважати мене, якщо я буду користуватися маскувальним екзоскелетом. Питання, а потрібна мені взагалі повага цього відморозка? Загалом, завдання за своїм ідіотизмом чисто в дусі Моноліту. А хто б сумнівався?\n%c[255,255,255,0]При виконанні даного завдання допускається використання маскувального екзоскелета, однак можна залишитися і в екзоскелеті Моноліту. Використання інших костюмів заборонено.</ukr>
 		<pln>===Kościej nr2 poprosił mnie by rozejrzeć się po Zonie i przynieść mu PDA stalkera donosiciela, który to sprzedaje Monolitowi informacje. Trzeba wypełnić to zadanie, obowiązkowo świecąc naokoło amuletem. I przy tym jeszcze nikogo nie zabić. Przy tym Brat Cienia Monolitu powiedział, że przestanie mnie szanować, jeśli posłużę się egzoszkieletem maskującym. Tak jakby mi zależało na szacunku tego palanta. Zadanie w swoim idiotyzmie bardzo pasuje do stylu Monolitu. Ale czy ktoś w to wątpi?</pln>
-	</string>
-	<string id="stealth_blow_sidor_name">
-		<rus>Взорвать Сидоровича</rus>
-		<eng>Blow up Sidorovich</eng>
-		<ukr>Підірвати Сидоровича</ukr>
-		<pln>Wysadzić Sidorowicza</pln>
-	</string>
-	<string id="stealth_blow_sidor_text">
-		<rus>Из собранных мной КПК стало ясно, что заговор против Монолита мутит Сидор. И правильно делает. Чтобы хоть как-то оправдаться в собственных глазах, Брат Тени Монолита попросил меня взорвать его "дубликат", его второе "Я", которое обитает на ЧАЭС-2. Но это его всё равно не спасёт. Кащей №2 сказал, что нужно использовать телепорт с ЧАЭС-2 в каморку к Сидору. Чтобы взорвать его, достаточно одной гранаты Ф1. Телепорт задержит меня у Сидора ненадолго, но я должен успеть.\n \n \n \n \n</rus>
-		<eng>It's became clear from the PDA I collected, that the conspiracy against the Monolith was disturbing Sidorovich. And rightly so. In order to somehow justify myself in their eyes, the brother of the Monolith's Shadow has asked me to blow up this "duplicate", his second "self", which lives at Chernobyl-2. But it still won't save him. Kashchey №2 said that I need to use the teleport from the CNPP-2 to get to Sidorovich in the closet. I need just one F1 grenade to blow him up. The teleport will hold me by Sidorovich for a short while, but I must be quick.\n \n \n \n \n</eng>
-		<ukr>Із зібраних мною КПК стало ясно, що змову проти Моноліту каламутить Сидор. І правильно робить. Щоб хоч якось виправдатися у власних очах, Брат Тіні Моноліту попросив мене підірвати його "дублікат", його друге "Я", яке мешкає на ЧАЕС-2. Але це його все одно не врятує. Чахлик №2 сказав, що потрібно використати телепорт з ЧАЕС-2 у комірчину до Сидора. Щоб підірвати його, досить однієї гранати Ф1. Телепорт затримає мене у Сидора ненадовго, але я повинен встигнути.\n \n \n \n \n</ukr>
-		<pln>Z zebranych przeze mnie PDA stało się jasne, że spisek przeciw Monolitowi kręci Sidor. I dobrze robi. By choć trochę usprawiedliwić się we własnych oczach, Brat Cienia Monolitu poprosił mnie by wysadzić w powietrze jego "duplikat", jego drugie "JA", które mieszka na CEA-2. Lecz to go i tak nie uratuje. Kościej nr2 powiedział, że trzeba wykorzystać teleport z CEA-2 do siedziby Sidora. By go wykończyć, wystarczy jednego granatu F1. Teleport zatrzyma mnie u Sidora na kilka sekund, ale powinienem zdążyć.\n \n \n \n \n</pln>
 	</string>
 	<string id="krest_topor_name">
 		<rus>Лесник</rus>
@@ -4532,10 +4538,10 @@
 		<pln>Znaleźć schowek Kotobehemota</pln>
 	</string>
 	<string id="snpt_dt1_text">
-		<rus>Котобегемот в качестве проверки попросил меня найти его тайник на Дикой Территории за разбитыми воротами.</rus>
-		<eng>Catbehemoth asked me to find his cache behind the broken gates in the Wild Territory as a test.</eng>
-		<ukr>Котобегемот в якості перевірки попросив мене знайти його схованку на Дикій Території за розбитими воротами.</ukr>
-		<pln>Kotobehemot w charakterze sprawdzianu poprosił mnie by znaleźć jego schowek na Dziczy, za rozwaloną bramą.</pln>
+		<rus>Котобегемот в качестве проверки попросил меня найти его тайник на Дикой Территории недалеко от недостроя, за зелёным сарайчиком.</rus>
+		<eng>===Catbehemoth asked me to find his cache behind the broken gates in the Wild Territory as a test.</eng>
+		<ukr>===Котобегемот в якості перевірки попросив мене знайти його схованку на Дикій Території за розбитими воротами.</ukr>
+		<pln>===Kotobehemot w charakterze sprawdzianu poprosił mnie by znaleźć jego schowek na Dziczy, za rozwaloną bramą.</pln>
 	</string>
 	<string id="snp_bioradar_parts_name">
 		<rus>Собрать универсальный биорадар</rus>

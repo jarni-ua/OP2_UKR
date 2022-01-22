@@ -2858,11 +2858,11 @@
 		<pln>Rzeczy Naznaczonego</pln>
 	</string>
 	<string id="st_game_over_press_jump">
-		<rus>Нажмите ($$ACTION_JUMP$$) для выхода в главное меню</rus>
-		<eng>Press ($$ ACTION_JUMP $$) to exit to the main menu</eng>
-		<ukr>Натисніть ($$ACTION_JUMP$$) для виходу до головного меню</ukr>
-		<fra>Appuyez sur ($$ACTION_JUMP$$) pour accéder au menu principal.</fra>
-		<pln>Nacisnij ($$ACTION_JUMP$$) aby wyjść do główngo menu</pln>
+		<rus>Нажмите ($$ACTION_JUMP$$) для выхода в главное меню или ($$ACTION_USE_USER_ACTION3$$) для загрузки последней сохраненной игры</rus>
+		<eng>Press ($$ ACTION_JUMP $$) to exit to the main menu or ($$ACTION_USE_USER_ACTION3$$) to load the last saved game </eng>
+		<ukr>===Натисніть ($$ACTION_JUMP$$) для виходу до головного меню</ukr>
+		<fra>===Appuyez sur ($$ACTION_JUMP$$) pour accéder au menu principal.</fra>
+		<pln>===Nacisnij ($$ACTION_JUMP$$) aby wyjść do główngo menu</pln>
 	</string>
 	<string id="st_level">
 		<rus>Уровень</rus>
@@ -4398,6 +4398,42 @@
 		<fra>Vous devriez vérifier votre planque</fra>
 		<pln>Trzeba by sprawdzić swój schowek</pln>
 	</string>
+	<string id="txt_safe_transfer_info_desc">
+		<rus>Перемещение</rus>
+		<eng>Moving</eng>
+		<ukr>Переміщення</ukr>
+		<fra>Déplacer</fra>
+		<pln>Przenoszenie</pln>
+	</string>
+	<string id="txt_safe_transfer_info_1">
+		<rus>1 предмет</rus>
+		<eng>1 item</eng>
+		<ukr>1 предмет</ukr>
+		<fra>1 objet</fra>
+		<pln>1 przedmiot</pln>
+	</string>
+	<string id="txt_safe_transfer_info_3">
+		<rus>3 предмета</rus>
+		<eng>3 items</eng>
+		<ukr>3 предмети</ukr>
+		<fra>3 objets</fra>
+		<pln>3 przedmioty</pln>
+	</string>
+	<string id="txt_safe_transfer_info_10">
+		<rus>10 предметов</rus>
+		<eng>10 items</eng>
+		<ukr>10 предметів</ukr>
+		<fra>10 objets</fra>
+		<pln>10 przedmiotów</pln>
+	</string>
+	<string id="txt_safe_transfer_info_all">
+		<rus>все предметы</rus>
+		<eng>all items</eng>
+		<ukr>всі предмети</ukr>
+		<fra>tous les objets</fra>
+		<pln>wszystko</pln>
+	</string>	
+	
 	<string id="txt_safe_transfer_info">
 		<rus>\n
 			Перемещение\n
@@ -5784,9 +5820,23 @@
 	<string id="ui_change_open_tool">
 		<rus>Внешний вид</rus>
 		<ukr>Зовнішній вигляд</ukr>
-	</string>		
+	</string>
 	<string id="ui_change_msg_open_tool">
 		<rus>Изменение внешнего вида хранилища нельзя будет вернуть к текстовому виду! При ручном изменении обратно возможна потеря данных! Продолжить?</rus>
 		<ukr>Зміну зовнішнього вигляду сховища не можна буде повернути на текстове відображення! При ручній зміні можлива втрата даних! Продовжити? </ukr>
 	</string>	
+	<string id="ui_mm_dialog_alpha">
+		<rus>Прозрачность диалогов</rus>
+		<ukr>Прозорість діалогів</ukr>
+	</string>
+	<string id="ui_safe_ammo_in_mag">
+		<rus>патронов в магазине</rus>
+		<ukr>патронів в магазині</ukr>
+	</string>
+	<string id="ui_show_relation_in_ui">
+		<rus>Отображать отношение в числовом виде в некоторых UI элементах</rus>
+	</string>
+	<string id="ui_show_relation_in_ui_hint">
+		<rus>При активации данного пункта в окнах диалога, торговли и обыска будет отображаться репутация НПС и его группы.\n %c[red]При использовании увеличенного шрифта отображение данной информации может быть с накладками.%c[default]</rus>
+	</string>
 </string_table>
