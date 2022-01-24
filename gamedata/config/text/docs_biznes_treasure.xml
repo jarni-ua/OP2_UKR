@@ -141,10 +141,10 @@
 		<pln>==="Obejrzyj zburzony most, prowadzący do Limańska - współrzędne na starej mapie wskazują właśnie na niego."\n Kuźniecow przypomniał sobie interesujący szczegół, który powinien pomóc mi odszukać jego schowek z albumem fotograficznym. Rzecz w tym, że tajemnica położenia schowka jest ukryta właśnie w samej wskazówce.</pln>
 	</string>
 	<string id="plov_to_kulinar">
-		<rus>Артёму Кулинару для приготовления плова нужен мешок риса и немного моркови. Он попросил сходить к Бармену и принести нужные ингредиенты.</rus>
-		<eng>Artyom the Cook needs a bag of rice and some carrots to make pilaf. He asked me to go to Barkeep and bring the right ingredients.</eng>
-		<ukr>Артему Кулінару для приготування плову потрібен мішок рису і трохи моркви. Він попросив сходити до Бармена і принести потрібні інгредієнти.</ukr>
-		<pln>Artiom Kulinar do przygotowania pilawu potrzebuje worek ryżu i trochę marchwi. Poprosił mnie bym poszedł do Barmana i przyniósł potrzebne składniki.</pln>
+		<rus>Артёму Кулинару для приготовления плова нужен мешок риса и немного моркови. Он попросил сходить к анархистам на Армейских Складах и раздобыть нужные ингредиенты.</rus>
+		<eng>===Artyom the Cook needs a bag of rice and some carrots to make pilaf. He asked me to go to Barkeep and bring the right ingredients.</eng>
+		<ukr>===Артему Кулінару для приготування плову потрібен мішок рису і трохи моркви. Він попросив сходити до Бармена і принести потрібні інгредієнти.</ukr>
+		<pln>===Artiom Kulinar do przygotowania pilawu potrzebuje worek ryżu i trochę marchwi. Poprosił mnie bym poszedł do Barmana i przyniósł potrzebne składniki.</pln>
 	</string>
 	<string id="dolgovazyi_toolkit">
 		<rus>Долговязому нужны инструменты для ремонта оружия. В дальнейшем, мне могут понадобиться его услуги, так что следует найти подходящие инструменты... "Поговаривают, что у бандитов на их базе в Долине есть подобные. Там ведь раньше чинили различную сельхозтехнику. Ещё на базе Свободы может быть набор: у торговца или местного ремонтника. Они же чем-то должны ремонтировать своё оружие."</rus>
@@ -2307,18 +2307,4 @@
 		<ukr>Потрібно знайти в Саркофагу 13 схованок-сторожів "Моноліту". Потім із записок у цих схованках скласти осмислене речення, яке б вказувало на головну схованку Моноліту і знайти цю головну схованку. Драгунов сказав, що всі 13 схованок знаходяться безпосередньо в Саркофагу, де Виконавець бажань. Він також обіцяв мені допомагати у моїх пошуках.</ukr>
 		<pln>Trzeba znaleźć w Sarkofagu 13 schowków-strażników "Monolitu". Następnie z notatek w tych schowkach zestawić sensowne zdanie, które wskaże na główny schowek Monolitu i znaleźć ten główny schowek. Dragunow powiedział, że wszystkie 13 schowków znajduje się bezpośrednio w Sarkofagu, tam gdzie Spełniacz Życzeń. Obiecał mi też pomóc w moich poszukiwaniach.</pln>
 	</string>
-	<!-- !!!! Удалить для НИ -->
-	<string id="tm_tdtname1">
-		<rus>КПК Тени Монолита</rus>
-		<eng>PDA of the Monolith's Shadow</eng>
-		<ukr>КПК Тіні Моноліту</ukr>
-		<pln>PDA Cienia Monolitu</pln>
-	</string>
-	<string id="tm_tdttext1">
-		<rus>Резервный тайник, который я оставил здесь, в Саркофаге - никто не найдёт. Да будет вечен "Монолит"!</rus>
-		<eng>I left the backup cache in the Sarcophagus, where no one will find it. It will be with the "Monolith" forever!</eng>
-		<ukr>Резервний схованка, яку я залишив тут, в Саркофагу - ніхто не знайде. Нехай буде вічний "Моноліт"!</ukr>
-		<pln>Zapasowego schowka, który zostawiłem tu, w Sarkofagu - nikt nie znajdzie. Niech będzie wieczny "Monolit"!</pln>
-	</string>
-	<!-- Удалить энд -->
 </string_table>
