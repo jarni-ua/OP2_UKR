@@ -826,6 +826,9 @@
 		<fra>Attacher/Détacher le Lance Grenade</fra>
 		<pln>Przyłącz/odłacz grantnik</pln>
 	</string>
+	<string id="kb_wpn_sl_ops">
+		<rus>Отделить/прикрепить глушитель</rus>
+	</string>
 	
 	<string id="kb_down">
 		<rus>Вниз</rus>
@@ -2033,6 +2036,12 @@
 		<fra>Montrer le réticule</fra>
 		<pln>Pokazuj celownik</pln>
 	</string>
+	<string id="ui_mm_bolt_visual">
+		<rus>Вид болта</rus>
+	</string>
+	<string id="ui_mm_bolt_visual_hint">
+		<rus>Внешний вид предмета для проверки аномалий</rus>
+	</string>	
 	<string id="ui_mm_show_weapon">
 		<rus>Показывать оружие</rus>
 		<eng>Show weapons</eng>
@@ -3064,12 +3073,6 @@
 		<eng>Pause</eng>
 		<fra>Pause</fra>
 		<pln>Pauza</pln>
-	</string>
-	<string id="st_bolt">
-		<rus>Болт</rus>
-		<eng>Bolt</eng>
-		<fra>Boulon</fra>
-		<pln>Śruba</pln>
 	</string>
 	<string id="ui_st_description">
 		<rus>Описание</rus>
@@ -5838,5 +5841,8 @@
 	</string>
 	<string id="ui_show_relation_in_ui_hint">
 		<rus>При активации данного пункта в окнах диалога, торговли и обыска будет отображаться репутация НПС и его группы.\n %c[red]При использовании увеличенного шрифта отображение данной информации может быть с накладками.%c[default]</rus>
+	</string>
+	<string id="ui_fly_show_info_delay">
+		<rus>Задержка перед появлением информации о предмете</rus>
 	</string>
 </string_table>

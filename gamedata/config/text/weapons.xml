@@ -6,6 +6,12 @@
 		<ukr>Боєприпаси</ukr>
 		<pln>Amunicja</pln>
 	</string>
+	<string id="st_gilza">
+		<rus>Гильза</rus>
+		<eng>Sleeve</eng>
+		<ukr>===Гильза</ukr>
+		<pln>===Гильза</pln>
+	</string>
 	<string id="wpn_knife_name">
 		<rus>Нож военного хирурга</rus>
 		<eng>Military surgeon's knife</eng>
@@ -3587,4 +3593,16 @@
 		<ukr>Модифікація російської снайперської гвинтівки СВДК, розроблена для штурмових операцій.</ukr>
 		<pln>===Модификация российской снайперской винтовки СВДК, разработанная для штурмовых операций.</pln>
 	</string>
+	<string id="st_bolt">
+		<rus>Болт</rus>
+		<eng>Bolt</eng>
+		<fra>Boulon</fra>
+		<pln>Śruba</pln>
+	</string>
+	<string id="st_bolt_m1">
+		<rus>Болт модификация №1</rus>
+	</string>	
+	<string id="st_bolt_m2">
+		<rus>Болт модификация №2</rus>
+	</string>		
 </string_table>

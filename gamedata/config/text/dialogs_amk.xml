@@ -46,7 +46,7 @@
 		<pln>Nastrzelałem tych wron, trzymaj plecak i lekarstwo na nudę.</pln>
 	</string>
 	<string id="povar_crows_done_1">
-		<rus>Ого! Ну ты реальный стрелок! Тебе за это полагается двойная порция моего фирменного супчика, морковку в соседней комнате найдёшь... Ща мы эту с-скуку! Чмок... чмок... Не з-за-абудь з-за-аглянуть на о-обед.</rus>
+		<rus>Ого! Ну ты реальный стрелок! Тебе за это полагается двойная порция моего фирменного супчика, мешки со жратвой в соседней комнате найдёшь... Ща мы эту с-скуку! Чмок... чмок... Не з-за-абудь з-за-аглянуть на о-обед.</rus>
 		<eng>===Wow! Well, you're a real good shot! You've deserved for that a double portion of my special soup and some ammo... Now we'll beat that boredom! Smack... smack... Don't f-forget to d-drop in for a d-dinner.</eng>
 		<ukr>===Ого! Ну ти реальний стрілець! Тобі за це покладається подвійна порція мого фірмового супчика і патрончики... Зара ми цю н-нудьгу! Чмок... чмок... Не з-за-абудь з-за-аглянути на о-обід.</ukr>
 		<pln>===Oho! Prawdziwy z ciebie snajper! Należy ci się za to podwójna porcja mojej firmowej zupy i naboje... Pokonamy tę n-nudę! Cmok... cmok... Nie z-za-apomnij wp-paść na o-obiad.</pln>
@@ -401,7 +401,7 @@
 		<ukr>Сподіваюся на це.</ukr>
 		<pln>Mam taką nadzieję.</pln>
 	</string>
-	<!-- ПЛОВ ДЛЯ КУЛИНАРА -->
+	<!-- КУЛИНАРНЫЕ ИЗЫСКИ -->
 	<string id="plov_kulinar_start_0">
 		<rus>Что-то ты слишком худой. Кулинар - и худой такой. Уж не болен ли ты часом?</rus>
 		<eng>You're too skinny. So skinny being a cook. Are you sick by any chance?</eng>
@@ -421,10 +421,10 @@
 		<pln>No to przygotuj sobie coś, jesteś przecież kucharzem. Chyba, że podczas pobytu w Zonie wszystko już zapomniałeś?</pln>
 	</string>
 	<string id="plov_kulinar_start_3">
-		<rus>Так было бы из чего. Слушай, Меченый, ты ведь уже сталкер опытный, тёртый. Тебя и к Бармену пропустят, а у него продуктов о-го-го, а у нас хоть шаром покати. Я бы и сам сходил, да лагерь не на кого оставить. Выручишь? За мной не заржавеет, да и ребята скинутся.</rus>
-		<eng>I would if I had the ingredients. Listen, Marked One, you're an experienced hardened stalker. You're easily allowed to meet Barkeep and he's got plenty of food where as we're almost completely empty. I'd go there myself, but there's no one to fill in for me. Will you help me out? I'll make it worth your while and the guys'll chip in for it.</eng>
-		<ukr>Так було б з чого. Слухай, Мічений, адже ти вже сталкер досвідчений, тертий. Тебе і до Бармена пропустять, а у нього продуктів о-го-го, а у нас хоч конем грай. Я б і сам сходив, та табір нема на кого залишити. Виручиш? За мною не заіржавіє, та й хлопці скинуться.</ukr>
-		<pln>Żeby było z czego. Słuchaj, Naznaczony, ty przecież już jesteś doświadczonym stalkerem. Ciebie i do Barmana przepuszczą, a u niego produktów że ho-ho, nie to co u nas. Ja bym sam poszedł, ale obozu nie ma z kim zostawić. Pomożesz? Odwdzięczę się, a i chłopaki się zrzucą.</pln>
+		<rus>Так было бы из чего! Слушай, Меченый, ты ведь уже сталкер опытный, тёртый. Тебя и к анархистам на Армейских Складах пропустят, у них на военной базе продуктов о-го-го, а у нас хоть шаром покати. Выручишь? За мной не заржавеет, да и ребята скинутся.</rus>
+		<eng>===I would if I had the ingredients. Listen, Marked One, you're an experienced hardened stalker. You're easily allowed to meet Barkeep and he's got plenty of food where as we're almost completely empty. I'd go there myself, but there's no one to fill in for me. Will you help me out? I'll make it worth your while and the guys'll chip in for it.</eng>
+		<ukr>===Так було б з чого. Слухай, Мічений, адже ти вже сталкер досвідчений, тертий. Тебе і до Бармена пропустять, а у нього продуктів о-го-го, а у нас хоч конем грай. Я б і сам сходив, та табір нема на кого залишити. Виручиш? За мною не заіржавіє, та й хлопці скинуться.</ukr>
+		<pln>===Żeby było z czego. Słuchaj, Naznaczony, ty przecież już jesteś doświadczonym stalkerem. Ciebie i do Barmana przepuszczą, a u niego produktów że ho-ho, nie to co u nas. Ja bym sam poszedł, ale obozu nie ma z kim zostawić. Pomożesz? Odwdzięczę się, a i chłopaki się zrzucą.</pln>
 	</string>
 	<string id="plov_kulinar_start_4">
 		<rus>Ну, допустим. И что же вам притащить? Ананасы и рябчиков? Так у меня бабла на них не хватит.</rus>
@@ -433,7 +433,7 @@
 		<pln>No, przypuśćmy. I cóż wam mam przytaszczyć? Ananasy i frykasy? Nie mam na tyle funduszy.</pln>
 	</string>
 	<string id="plov_kulinar_start_5">
-		<rus>Не смешно. Притащи нам хотя бы риса мешок. Я тут на днях вспоминал, как плов на свадьбе у друга кушал, чуть слюной не подавился. Да и морковки для заправки. А на мясо тушканчиков пустим, их тут хватает.</rus>
+		<rus>Не смешно. Притащи нам хотя бы риса мешок. Я тут на днях вспоминал, как плов на свадьбе у друга кушал, чуть слюной не подавился, да и морковки для заправки. А на мясо тушканчиков пустим, их тут хватает.</rus>
 		<eng>Not funny. Bring us at least a sack of rice. The other day I remembered eating pilaf at my pal's wedding so vividly that I nearly choked on my own saliva. And also bring some carrots. And we'll use tushkanos as a meat source, there's plenty of them in here.</eng>
 		<ukr>Не смішно. Притягни нам хоча б рису мішок. Я тут днями згадував, як плов на весіллі у друга їв, мало слиною не вдавився. Та й моркви для заправки. А на м'ясо тушканчиків пустимо, їх тут вистачає.</ukr>
 		<pln>Nie kpij. Przynieś nam chociaż worek ryżu. Niedawno przypominałem sobie, jaki pilaw na ślubie przyjaciela jadłem, mało się śliną nie zadławiłem. I jeszcze kilka marchewek. A mięso z tuszkanów weźmiemy, pełno ich tutaj.</pln>
@@ -445,26 +445,14 @@
 		<pln>Nie jestem tragarzem, żeby ciężkie worki po Zonie ciągać!</pln>
 	</string>
 	<string id="plov_kulinar_start_7">
-		<rus>И не надо. Просто намекни Бармену, он потом нам постоянную доставку организует.</rus>
-		<eng>We don't need you to. Just tell Barkeep, he'll then arrange scheduled deliveries for us.</eng>
-		<ukr>І не треба. Просто натякни Бармену, він потім нам постійну доставку організує.</ukr>
-		<pln>Wcale nie trzeba. Po prostu pogadaj z Barmanem, on nam potem stałe dostawy zorganizuje.</pln>
-	</string>
-	<string id="plov_kulinar_start_8">
-		<rus>Ладно, намекну, но на дальнейшие переговоры не рассчитывайте, у меня и своих дел хватает.</rus>
-		<eng>Okay, I'll tell him about your proposal. But don't count on me in the further negotiations, I have enough work to do.</eng>
-		<ukr>Гаразд, натякну. Але на подальші переговори не розраховуйте, у мене і своїх справ вистачає.</ukr>
-		<pln>Zgoda, pogadam. Ale na większe rokowania nie liczcie, mam dość własnych problemów.</pln>
-	</string>
-	<string id="plov_kulinar_start_9">
-		<rus>Не буду я ему ничего намекать, и плов мне твой не нужен, меня колбаса устраивает. Зона - не ресторан!</rus>
-		<eng>I'm not telling him anything. And I don't need your pilaf. I can get by with sausage. The Zone is not a restaurant.</eng>
-		<ukr>Не буду я йому нічого натякати. І плов мені твій не потрібний. Мене ковбаса влаштовує. Зона - не ресторан.</ukr>
-		<pln>O niczym nie będę z nim gadać. I pilaw mi twój nie potrzebny. Mi wystarcza kiełbasa. Zona - nie restauracja.</pln>
+		<rus>Постараюсь раздобыть, но на дальнейшие курьерские доставки не рассчитывайте, у меня и своих дел хватает.</rus>
+		<eng>===Okay, I'll tell him about your proposal. But don't count on me in the further negotiations, I have enough work to do.</eng>
+		<ukr>===Гаразд, натякну. Але на подальші переговори не розраховуйте, у мене і своїх справ вистачає.</ukr>
+		<pln>===Zgoda, pogadam. Ale na większe rokowania nie liczcie, mam dość własnych problemów.</pln>
 	</string>
 	<!-- Получение награды у Кулинара -->
 	<string id="plov_kulinar_done_0">
-		<rus>Тащите казан, затачивайте ножи, вкуснее плова чем в Зоне вы точно нигде не попробуете. Только насчёт поставок сам с Барменом договаривайся, больно уж условия доставки у него стрёмные.</rus>
+		<rus>Тащите казан, затачивайте ножи, вкуснее плова чем в Зоне вы точно нигде не попробуете.</rus>
 		<eng>===Here's what you asked for, take it. You'll have to talk to Barkeep about deliveries yourself, some fancy prices he put on his stuff.</eng>
 		<ukr>===Ось, тримай, приніс, що ти просив. Тільки щодо поставок сам з Барменом домовляйся, аж надто вже ціни у нього кусючі.</ukr>
 		<pln>===Trzymaj, przyniosłem to o co prosiłeś. A w sprawie dostaw, sam się umawiaj z Barmanem, ceny u niego są boleśnie wysokie.</pln>
@@ -2578,10 +2566,10 @@
 		<pln>Mieszkańcy Bagien prosili by przekazać ci wyrazy wdzięczności,  za informacje o planach waszego dowództwa...</pln>
 	</string>
 	<string id="kuznecov_ugroza2_1">
-		<rus>Тише, тише, сталкер! Не надо так громко говорить, нас могут услышать! Хоть это мои подчинённые, я никогда никому полностью не доверяю, и тебе советую так поступать - целее будешь!.. Так, медаль ты уже заработал. Не хочешь получить орден?</rus>
-		<eng>Hush, hush, stalker! Not so loud, we may be overheard! Although these are my subordinates, I never completely trust anyone, and I advise you to do so - you'll be a lot safer that way!.. So, you've already earned a medal. Don't you wanna be decorated with an order?</eng>
-		<ukr>Тихіше, тихіше, сталкер! Не треба так голосно говорити, нас можуть почути! Хоч це й мої підлеглі, але я ніколи нікому повністю не довіряю, і тобі раджу так чинити - цілішим будеш!.. Так, медаль ти вже заробив. Не хочеш отримати орден?</ukr>
-		<pln>Ciszej, ciszej, stalkerze! Nie wolno tak głośno mówić, mogą nas usłyszeć! Chociaż to moi podwładni, nigdy nikomu całkowicie nie ufam i tobie radzę też tak postępować - dłużej pożyjesz!.. Tak, medal już zarobiłeś. Nie chcesz otrzymać orderu?</pln>
+		<rus>Тише, тише, сталкер! Не надо так громко говорить, нас могут услышать! Хоть это мои подчинённые, я никогда никому полностью не доверяю, и тебе советую так поступать - целее будешь! ... Так, медаль ты уже заработал. Не хочешь получить орден?</rus>
+		<eng>Hush, hush, stalker! Not so loud, we may be overheard! Although these are my subordinates, I never completely trust anyone, and I advise you to do so - you'll be a lot safer that way!... So, you've already earned a medal. Don't you wanna be decorated with an order?</eng>
+		<ukr>Тихіше, тихіше, сталкер! Не треба так голосно говорити, нас можуть почути! Хоч це й мої підлеглі, але я ніколи нікому повністю не довіряю, і тобі раджу так чинити - цілішим будеш! ... Так, медаль ти вже заробив. Не хочеш отримати орден?</ukr>
+		<pln>Ciszej, ciszej, stalkerze! Nie wolno tak głośno mówić, mogą nas usłyszeć! Chociaż to moi podwładni, nigdy nikomu całkowicie nie ufam i tobie radzę też tak postępować - dłużej pożyjesz! ... Tak, medal już zarobiłeś. Nie chcesz otrzymać orderu?</pln>
 	</string>
 	<string id="kuznecov_ugroza2_2">
 		<rus>И что же нужно сделать для его получения?</rus>
@@ -15464,10 +15452,10 @@
 		<pln>Hej, ty z ludzi Borowa? Przysłał mnie ci na spotkanie i by odprowadzić cię do niego. Tylko skąd, do cholery, na tobie wojskowy pancerz?</pln>
 	</string>
 	<string id="trofim_joke_start_1">
-		<rus>Тогда ща и я пошлю, дурилка картонная! Ты кто такой, мать твою?!.. Погодь, ик... А-а-а... Боров послал... Броник? Да ты, братан, даже прикинуть не можешь, чё ща на Кордоне творилось. Это просто жесть, плять! А всё из-за сраного КПК, который этой жирной свинье понадобился. В нём какая-то лабуда про какого-то мудака Барона. Наладонник принадлежал одному из его прихвостней. Внутри сохранилась инфа о ближайшем нападении на стоянку каких-то лохов. Только это всё херня, самое интересное впереди!</rus>
-		<eng>Then I'll send you somewhere too, you cardboard dummy! Who the fuck are you?!.. Wait, hic... Aaa... Hog sent you... Body armor? Man, you can't even imagine what was just going on in Cordon. It was rough, damn it! And all this was because of the fucking PDA that this fat pig needed. There's some crap on an asshole called Baron. The palmtop belonged to one of his henchmen. On it there is info about an upcoming attack on the camp of some suckers. Only this is all bullshit, the most interesting things are yet to come!</eng>
-		<ukr>Тоді ща і я пошлю, дурилка картонна! Ти хто такий, мать твою?!.. Зачекай, ик... А-а-а... Кабан послав... Броник? Та ти, братан, навіть прикинути не можеш, що ща на Кордоні творилося. Це просто жесть, плять! А все через сраний КПК, який цій жирній свині знадобився. У ньому якась лабуда про якогось мудака Барона. Надолонник належав одному з його посіпак. Усередині збереглася інфа про найближчий напад на стоянку якихось лохів. Тільки це все хєрня, найцікавіше попереду!</ukr>
-		<pln>Coś za jeden, taka twoja mać?!.. Poczekaj, hik... A-a-a... Borow cię posłał... Pancerz? Tak ty, bracie, nawet sobie nie wyobrażasz, co na Kordonie się działo. To po prostu rzeźnia! A wszystko przez zasrane PDA, które tej tłustej świni było potrzebne. W nim są jakieś dane o jakimś dupku Baronie. PDA należało do jednego z jego przybocznych. Wewnątrz pozostała informacja o najbliższym napadzie na obóz jakichś jeleni. Tylko że to wszystko nic, najciekawsze dopiero będzie!</pln>
+		<rus>Тогда ща и я пошлю, дурилка картонная! Ты кто такой, мать твою?! ... Погодь, ик... А-а-а... Боров послал... Броник? Да ты, братан, даже прикинуть не можешь, чё ща на Кордоне творилось. Это просто жесть, плять! А всё из-за сраного КПК, который этой жирной свинье понадобился. В нём какая-то лабуда про какого-то мудака Барона. Наладонник принадлежал одному из его прихвостней. Внутри сохранилась инфа о ближайшем нападении на стоянку каких-то лохов. Только это всё херня, самое интересное впереди!</rus>
+		<eng>Then I'll send you somewhere too, you cardboard dummy! Who the fuck are you?! ... Wait, hic... Aaa... Hog sent you... Body armor? Man, you can't even imagine what was just going on in Cordon. It was rough, damn it! And all this was because of the fucking PDA that this fat pig needed. There's some crap on an asshole called Baron. The palmtop belonged to one of his henchmen. On it there is info about an upcoming attack on the camp of some suckers. Only this is all bullshit, the most interesting things are yet to come!</eng>
+		<ukr>Тоді ща і я пошлю, дурилка картонна! Ти хто такий, мать твою?! ... Зачекай, ик... А-а-а... Кабан послав... Броник? Та ти, братан, навіть прикинути не можеш, що ща на Кордоні творилося. Це просто жесть, плять! А все через сраний КПК, який цій жирній свині знадобився. У ньому якась лабуда про якогось мудака Барона. Надолонник належав одному з його посіпак. Усередині збереглася інфа про найближчий напад на стоянку якихось лохів. Тільки це все хєрня, найцікавіше попереду!</ukr>
+		<pln>Coś za jeden, taka twoja mać?! ... Poczekaj, hik... A-a-a... Borow cię posłał... Pancerz? Tak ty, bracie, nawet sobie nie wyobrażasz, co na Kordonie się działo. To po prostu rzeźnia! A wszystko przez zasrane PDA, które tej tłustej świni było potrzebne. W nim są jakieś dane o jakimś dupku Baronie. PDA należało do jednego z jego przybocznych. Wewnątrz pozostała informacja o najbliższym napadzie na obóz jakichś jeleni. Tylko że to wszystko nic, najciekawsze dopiero będzie!</pln>
 	</string>
 	<string id="trofim_joke_start_2">
 		<rus>Ну так расскажи.</rus>
@@ -17592,72 +17580,6 @@
 		<ukr>===Просто сьогодні не мій день.</ukr>
 	</string>
 	<!-- САФАРИ -->
-	<string id="plov_barmen_0">
-		<rus>Привет, спиртомер!</rus>
-		<eng>Hello, alcoholizer!</eng>
-		<ukr>Привіт, спиртомір!</ukr>
-		<pln>Witaj alkoholiku!</pln>
-	</string>
-	<string id="plov_barmen_1">
-		<rus>Ну, здорово, бродяга!</rus>
-		<eng>Well, hello, you wanderer!</eng>
-		<ukr>Ну, здорово, бродяга!</ukr>
-		<pln>Cześć włóczęgo!</pln>
-	</string>
-	<string id="plov_barmen_2">
-		<rus>Слушай, Бармен, говорят у тебя продуктов можно свежих прикупить, таких, что с Большой Земли.</rus>
-		<eng>Listen, Barkeep, the rumors are that you can sell some fresh food, like from the outside world.</eng>
-		<ukr>Слухай, Бармен, кажуть у тебе продуктів можна свіжих прикупити, таких, які з Великої Землі.</ukr>
-		<pln>Słuchaj, Barman. Mówią, że można u ciebie kupić świeże produkty żywnościowe, takie z Wielkiej Ziemi.</pln>
-	</string>
-	<string id="plov_barmen_3">
-		<rus>А что, колбаса надоела? Можно, конечно. Только недёшево, сам понимаешь, вертолёт зря туда-сюда никто гонять не будет.</rus>
-		<eng>What, feeling sick of sausage? Of course, I can. Only it won't be cheap cause, you know, choppers don't fly back and forth just for the sake of it.</eng>
-		<ukr>А що, ковбаса набридла? Можна, звичайно. Тільки недешево, сам розумієш, вертоліт даремно туди-сюди ніхто ганяти не буде.</ukr>
-		<pln>A co, kiełbasa się już sprzykrzyła? Można, oczywiście. Tylko że nie jest to tanie, sam rozumiesz, helikopter bez powodu nie poleci tam i z powrotem.</pln>
-	</string>
-	<string id="plov_barmen_4">
-		<rus>Ну, а рис-то у тебя почём?</rus>
-		<eng>Well, how much is the rice?</eng>
-		<ukr>Ну, а рис то у тебе по скільки?</ukr>
-		<pln>No, a ryż to u ciebie po ile?</pln>
-	</string>
-	<string id="plov_barmen_5">
-		<rus>5000 рублей.</rus>
-		<eng>5000 rubles.</eng>
-		<ukr>5000 гривень.</ukr>
-		<pln>5000 rubli.</pln>
-	</string>
-	<string id="plov_barmen_6">
-		<rus>Эх, дорого конечно. Ну да ладно. Мне мешок надо. А ещё морковки!</rus>
-		<eng>Heh, expensive indeed. Oh, well. I need a sack of rice. And some carrots!</eng>
-		<ukr>Ех, дорого звичайно. Ну та гаразд. Мені мішок треба. А ще моркви!</ukr>
-		<pln>Ech, strasznie drogo. Ale dobra. Potrzebuję worek. I jeszcze marchewki!</pln>
-	</string>
-	<string id="plov_barmen_7">
-		<rus>Шутишь? Шутишь... Килограмм - 5 тысяч! А морковку я уже сам забыл, когда ел.</rus>
-		<eng>Are you kidding? You are kidding... 5 thousand a kilo! And I don't remember when I ate carrot last time.</eng>
-		<ukr>Жартуєш? Жартуєш... Кілограм - 5000! А моркву я вже сам забув, коли їв.</ukr>
-		<pln>Żartujesz? Żartujesz... Kilogram - 5 tysięcy! A jak smakuje marchewka to sam już zapomniałem.</pln>
-	</string>
-	<string id="plov_barmen_8">
-		<rus>Ого! Ну и цены! Пойду, у других поспрашиваю, может, поможет кто.</rus>
-		<eng>Wow! Some prices! I'll go and ask others if they could help.</eng>
-		<ukr>Ого! Ну і ціни! Піду, у інших позапитую, може, допоможе хто.</ukr>
-		<pln>Oho! Ale ceny! Pójdę, popytam u innych, może ktoś mi pomoże.</pln>
-	</string>
-	<string id="plov_barmen_9">
-		<rus>Ну, давай, иди, ищи. Как не найдёшь - вернёшься.</rus>
-		<eng>Well, go looking for it. When you've failed finding it, come back to me.</eng>
-		<ukr>Ну, давай, іди, шукай. Як не знайдеш - повернешся.</ukr>
-		<pln>Pewnie, idź, szukaj. Jak nie znajdziesz- wracaj.</pln>
-	</string>
-	<string id="plov_barmen_10">
-		<rus>Обязательно.</rus>
-		<eng>Certainly.</eng>
-		<ukr>Обов'язково.</ukr>
-		<pln>Obowiązkowo.</pln>
-	</string>
 	
 	<!-- AKILL end -->
 
