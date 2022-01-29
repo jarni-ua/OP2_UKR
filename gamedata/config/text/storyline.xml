@@ -137,7 +137,7 @@
 		<rus>Торговец: на НИИ Агропром у военных выкрасть результаты экспедиции и отнести в бар "100 рентген" Бармену.</rus>
 		<eng>Trader: steal the expedition report from the military at the Agroprom Research Institute, take it to the 100 Rads bar and give it to Barkeep.</eng>
 		<ukr>Крамар: «На Агропромі у військових викрасти результати експедиції й віднести до бара «100 Рентген». Віддати Барменові.»</ukr>
-		<fra>Marchand : vole le rapport de l'expédition à l'Institut de Recherche Agroprom, rapporte-le au 100 Rads et remets-le au Barman.</fra>
+		<fra>Marchand : vole le rapport de l'expédition à l'institut de recherche "Agroprom", rapporte-le au 100 Rads et remets-le au Barman.</fra>
 		<pln>Handlarz: ukradnij żołnierzom z Instytutu Badawczego Agroprom raport z ekspedycji, zabierz go do baru "100 Rentgenów" i przekaż Barmanowi.</pln>
 	</string>
 	<string id="Seryi flash">
@@ -151,7 +151,7 @@
 		<rus>Торговец послал следить за военными на НИИ Агропром. Туда припёрлись, всех постреляли, бандитов и военных. Нарыли что-то интересное, остальное передаю шифром *абракадабра, типа, шифр*</rus>
 		<eng>Trader sent us to spy on the military at the Agroprom Research Institute. Got there and shot everybody, bandits and military alike. Dug out some interesting stuff, I'm encoding the rest *gibberish text that looks like a cipher*</eng>
 		<ukr>Щоденник Толіка: «Крамар послав стежити за військовими на НДІ «Агропром». Туди приперлися, усіх постріляли, бандитів і військових. Нарили щось цікаве, інше передаю шифром *абракадабра, типу шифр*.»</ukr>
-		<fra>Journal de Tolik. Le marchand nous a envoyés espionner les militaires de l'Institut de Recherche Agroprom. On y est allé et on a tué tout le monde, bandits et militaires confondus. J'ai déniché des trucs intéressants, je vais m'occuper du reste du *charabia qui ressemble à un code*.</fra>
+		<fra>===Journal de Tolik. Le marchand nous a envoyés espionner les militaires de l'institut de recherche "Agroprom". On y est allé et on a tué tout le monde, bandits et militaires confondus. J'ai déniché des trucs intéressants, je vais m'occuper du reste du *charabia qui ressemble à un code*.</fra>
 		<pln>Handlarz wysłał nas, żebyśmy szpiegowali żołnierzy w Instytucie Badawczym Agroprom. Zaszliśmy tam i wystrzelaliśmy wszystkich, i bandytów, i żołnierzy. Wyszperaliśmy parę ciekawych rzeczy, koduję resztę "bezsensowny tekst, który wygląda na szyfr"</pln>
 	</string>
 	<string id="storyline_seryi_info">
@@ -634,7 +634,7 @@
 		<rus>Крот и компания раскопали тайник Стрелка на Агропроме, недалеко от заброшенной фабрики. Надо бы сходить и узнать что там и как, благо он приглашал присоединиться к поискам.</rus>
 		<eng>Mole and Co. moused out Strelok's stash at the Agroprom, not far from the derelict factory. Why don't you go and find out what's going on there. After all, he invited us to join the search.</eng>
 		<ukr>Кріт із компанією розкопали схованку Стрільця на Агропромі, неподалік від старої фабрики. Треба б сходити і довідатися, що там і як - тим більше, він запрошував приєднатися до пошуків.</ukr>
-		<fra>Taupe et compagnie a déniché la cache de Strelok à Agroprom, non loin de l'usine pourrie. Tu pourrais aller voir ce qui s'y passe. Après tout, il nous a invités à participer aux recherches.</fra>
+		<fra>Taupe et compagnie a déniché la cache de Strelok à l'Agroprom, non loin de l'usine pourrie. Tu pourrais aller voir ce qui s'y passe. Après tout, il nous a invités à participer aux recherches.</fra>
 		<pln>Kret i spółka wywęszyli kryjówkę Striełoka na Agropromie, niedaleko opuszczonej fabryki. Trzeba by pójść i sprawdzić, co się tam dzieje, skoro był tak dobry, że zaprosił mnie na poszukiwania.</pln>
 	</string>
 	<string id="memuars">
@@ -676,14 +676,14 @@
 		<rus>Прапорщик с Агропрома</rus>
 		<eng>Warrant Officer at Agroprom</eng>
 		<ukr>Прапорщик з Агропрома</ukr>
-		<fra>===Прапорщик с Агропрома</fra>
+		<fra>===Прапорщик l'Agroprom</fra>
 		<pln>===Прапорщик с Агропрома</pln>
 	</string>
 	<string id="sl_sherstuk_zametka_text">
 		<rus>Сидорович предупредил меня, что за документами в бывший НИИ Агропром лучше идти в светлое время суток, так как ночью в казарме отдыхает некий прапорщик, который может мне быть в последствии полезен, а спокойно поговорить с ним и вести дела можно только утром или днём, когда он уходит с базы и встаёт под опору ЛЭП, неподалёку. И, если я полезу за документами ночью, то ненароком могу зацепить коррумпированного прапорщика, тем самым, осложнив с ним дальнейшее нормальное общение.</rus>
 		<eng>Sidorovich warned me that it was better to go to the Research Institute at Agroprom for the documents during daylight hours, because at night there is a warrant officer in the barracks, who could be useful later on, and I could talk with him and conduct business only in the morning or in the afternoon, when he leaves the base and stands under the power line, not far from here. If I go to get the documents at night, I may inadvertently catch the corrupt warrant officer, thus complicating further communication with him.</eng>
 		<ukr>Сидорович попередив мене, що за документами в колишній НДІ Агропром краще йти у світлий час доби, так як вночі у казармі відпочиває якийсь прапорщик, який може мені бути надалі корисний, а спокійно поговорити з ним і вести справи можна тільки вранці або вдень, коли він йде з бази і встає під опору ЛЕП, неподалік. І, якщо я полізу за документами вночі, то ненароком можу зачепити корумпованого прапорщика, тим самим, ускладнивши з ним подальше нормальне спілкування.</ukr>
-		<fra>===Sidorovitch предупредил меня, что за документами в бывший НИИ Агропром лучше идти в светлое время суток, так как ночью в казарме отдыхает некий прапорщик, который может мне быть в последствии полезен, а спокойно поговорить с ним и вести дела можно только утром или днём, когда он уходит с базы и встаёт под опору ЛЭП, неподалёку. И, если я полезу за документами ночью, то ненароком могу зацепить коррумпированного прапорщика, тем самым, осложнив с ним дальнейшее нормальное общение.</fra>
+		<fra>===Sidorovitch предупредил меня, что за документами в бывший l'institut de recherches "Agroprom" лучше идти в светлое время суток, так как ночью в казарме отдыхает некий прапорщик, который может мне быть в последствии полезен, а спокойно поговорить с ним и вести дела можно только утром или днём, когда он уходит с базы и встаёт под опору ЛЭП, неподалёку. И, если я полезу за документами ночью, то ненароком могу зацепить коррумпированного прапорщика, тем самым, осложнив с ним дальнейшее нормальное общение.</fra>
 		<pln>===Сидорович предупредил меня, что за документами в бывший НИИ Агропром лучше идти в светлое время суток, так как ночью в казарме отдыхает некий прапорщик, который может мне быть в последствии полезен, а спокойно поговорить с ним и вести дела можно только утром или днём, когда он уходит с базы и встаёт под опору ЛЭП, неподалёку. И, если я полезу за документами ночью, то ненароком могу зацепить коррумпированного прапорщика, тем самым, осложнив с ним дальнейшее нормальное общение.</pln>
 	</string>
 	<string id="sl_first_opinions">
@@ -802,7 +802,7 @@
 		<rus>Бугай пишет Серому: "Крот и компания раскопали тайник Стрелка на Агропроме, сходи, узнай что там и как. Серый отвечает Бугаю: "Всё равно они будут идти после этого в Бар, я их лучше на Свалке подожду, на дороге".</rus>
 		<eng>Bruiser writes to Grey: Mole and Co dug up Strelok's stash at the Institute. Find out what's going on. Grey to Bruiser: They'll go to the Bar afterwards anyway so I'll just wait for them on the way at the Garbage.</eng>
 		<ukr>Бугай пише Сірому: «Кріт із товаришами розкопали схованку Стрільця на Агропромі - то навідайся, взнай, що там і як.» Сірий - Бугаєві: «Усе одно вони йтимуть після того на Бар. Я їх краще на Звалищі почекаю на дорозі.»</ukr>
-		<fra>Cogneur écrit à Gris: Taupe et compagnie ont trouvé la planque de Strelok à l'Institut. Essaie de savoir ce qui se passe. Gris à Cogneur: De toute façon, en rentrant, ils iront au bar, alors je les attendrai à la Décharge.</fra>
+		<fra>Cogneur écrit à Gris: Taupe et compagnie ont trouvé la planque de Strelok à l'Agroprom. Essaie de savoir ce qui se passe. Gris à Cogneur: De toute façon, en rentrant, ils iront au bar, alors je les attendrai à la Décharge.</fra>
 		<pln>Bysior pisze do Sieryja: "Kret i spółka dokopali się do skrytki Striełoka na Agropromie. Dowiedz się, co się tam wyprawia".\n Sieryj odpowiada Bysiorowi: "I tak po wszystkim pójdą do Baru, lepiej na nich poczekam na Wysypisku, na drodze".</pln>
 	</string>
 	<string id="bar_darklab_documents_txt">
@@ -970,7 +970,7 @@
 		<rus>Ну что ж, встреча с Кротом была продуктивной. Видимо, тайник группы - это реальность, и находится он в катакомбах Агропрома... Предстоит путь в подземелья. Что ждёт меня там неизвестно... Надеюсь, этот тайник откроет и мою тайну...</rus>
 		<eng>Well, meeting Mole paid off - it seems that the group's stash really exists and it's located in the catacombs below the Institute...I'll have to go there. I don't know what I'll find there...but I hope this stash helps me solve my own mystery...</eng>
 		<ukr>Отже, зустріч із Кротом була продуктивною. Вочевидь, схованка групи - це реальність, і знаходиться вона у катакомбах Агропрома… Має бути шлях до підземелля. Що чекає на мене там - невідомо. Сподіваюся, ця схованка допоможе відкрити й мою таємницю.</ukr>
-		<fra>Eh bien, cette rencontre avec Taupe a payé... Il semble que la planque du groupe existe bel et bien et qu'elle se trouve dans les catacombes, sous l'institut... Je vais y aller. Je ne sais pas ce que j'y trouverai... Mais j'espère que cette planque m'aidera à percer mon propre mystère...</fra>
+		<fra>Eh bien, cette rencontre avec Taupe a payé... Il semble que la planque du groupe existe bel et bien et qu'elle se trouve dans les catacombes, sous l'Agroprom... Je vais y aller. Je ne sais pas ce que j'y trouverai... Mais j'espère que cette planque m'aidera à percer mon propre mystère...</fra>
 		<pln>Spotkanie z Kretem opłaciło się. Wygląda na to, że kryjówka grupy naprawdę istnieje, i że mieści się w katakumbach pod Instytutem... Będę musiał się tam wybrać. Nie wiem, co mnie tam czeka... Mam nadzieję, że ta kryjówka pomoże mi rozwikłać moją własną tajemnicę...</pln>
 	</string>
 	<string id="agr_krot_secret_info">
@@ -1012,7 +1012,7 @@
 		<rus>Карта-схема охраны НИИ Агропром</rus>
 		<eng>Agroprom Research Institute guard chart</eng>
 		<ukr>Карта-схема охорони НДІ</ukr>
-		<fra>Carte de la sécurité de l'Institut de recherche Agroprom</fra>
+		<fra>Carte de la sécurité de l'institut de recherche "Agroprom"</fra>
 		<pln>Mapa - schemat ochrony INB Agroprom</pln>
 	</string>
 	<string id="agr_rats_n_soldiers_text">
@@ -1026,7 +1026,7 @@
 		<rus>Торговец: "Как только сопрёшь кейс с территории бывшего НИИ Агропром, отнесёшь его к Бармену. Он заправляет делами в сталкерском баре "100 Рентген", что на территории бывшего завода "Росток".</rus>
 		<eng>Trader: "As soon as you steal the briefcase from the Institute take it to Barkeep. He runs the 100 Rads - the stalker bar. It's located on the site of the former Rostok factory."</eng>
 		<ukr>Крамар: «Як тільки свиснеш кейс із території колишнього НДІ «Агропром», віднесеш його до Бармена. Він заправляє справами у сталкерському барі «100 рентген», що на території колишнього заводу «Росток».</ukr>
-		<fra>Marchand : "Après avoir volé la mallette de l'Institut, apporte-la au Barman. Il tient le bar *100*Rads, le bar des Stalkers qui se trouve à l'endroit de l'ancienne usine de Rostok."</fra>
+		<fra>Marchand : "Après avoir volé la mallette de l'institut de recherches "Agroprom", apporte-la au Barman. Il tient le bar *100*Rads, le bar des stalkers qui se trouve à l'endroit de l'ancienne usine de Rostok."</fra>
 		<pln>Handlarz: "Jak już wykradniesz dokumenty z Instytutu w Agropromie, zabierz je do Barmana. To właściciel "100 Rentgenów" - baru dla stalkerów na terenie byłej fabryki "Rostok".</pln>
 	</string>
 	<string id="article_agr_krot_sos">

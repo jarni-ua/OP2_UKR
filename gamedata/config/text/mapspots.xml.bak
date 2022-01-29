@@ -1,0 +1,1690 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<string_table>
+	<string id="pri_bus_station_zone_hint">
+		<rus>Автобусная станция</rus>
+		<eng>Bus station</eng>
+		<ukr>Автобусна станція</ukr>
+		<fra>Gare routière</fra>
+		<pln>Dworzec autobusowy</pln>
+	</string>
+	<string id="pri_hotel_zone_hint">
+		<rus>Гостиница</rus>
+		<eng>Hotel</eng>
+		<ukr>Готель</ukr>
+		<fra>Hôtel</fra>
+		<pln>Hotel</pln>
+	</string>
+	<string id="pri_monolith_base_zone_hint">
+		<rus>База "Монолита"</rus>
+		<eng>"Monolith" Base</eng>
+		<ukr>База «Моноліту»</ukr>
+		<fra>Base de "Monolithe"</fra>
+		<pln>Baza "Monolitu"</pln>
+	</string>
+	<string id="pri_stadium_zone_hint">
+		<rus>Стадион</rus>
+		<eng>Stadium</eng>
+		<ukr>Стадіон</ukr>
+		<fra>Stade</fra>
+		<pln>Stadion</pln>
+	</string>
+	<string id="gar_angar">
+		<rus>Заброшенный ангар</rus>
+		<eng>Abandoned hangar</eng>
+		<ukr>Кинутий ангар</ukr>
+		<fra>Hangar abandonné</fra>
+		<pln>Opuszczony hangar</pln>
+	</string>
+	<string id="gar_bandit_agr">
+		<rus>Лагерь бандитов на выходе с Агропрома</rus>
+		<eng>Bandit camp at the exit from Agroprom</eng>
+		<ukr>Табір бандитів на виході з Агропрома</ukr>
+		<fra>Le camp de bandits à la sortie d'Agroprom</fra>
+		<pln>Obóz bandytów przy wyjściu z Agropromu</pln>
+	</string>
+	<string id="gar_bandit_post">
+		<rus>Укрепрайон бандитов по дороге на Агропром</rus>
+		<eng>Bandits' stronghold area on the road to Agroprom</eng>
+		<ukr>Укріпрайон бандитів по дорозі на Агропром</ukr>
+		<fra>Le camp fortifié de bandits sur la route d'Agroprom</fra>
+		<pln>Posterunek bandytów przy drodze na Agroprom</pln>
+	</string>
+	<string id="gar_bandits_leader">
+		<rus>Рейд бандитов, возглавляемый паханом</rus>
+		<eng>Bandit raid led by a kingpin</eng>
+		<ukr>Рейд бандитів, очолюваний паханом</ukr>
+		<fra>Raid de bandits dirigé par un parrain</fra>
+		<pln>Rajd bandytów</pln>
+	</string>
+	<string id="gar_boars_nest">
+		<rus>Скопление кабанов</rus>
+		<eng>Horde of boars</eng>
+		<ukr>Скупчення кабанів</ukr>
+		<fra>Horde de sangliers</fra>
+		<pln>Stado dzików</pln>
+	</string>
+	<string id="gar_car_graveyard">
+		<rus>Кладбище брошенной техники</rus>
+		<eng>Abandoned vehicles scrapyard</eng>
+		<ukr>Кладовище старої техніки</ukr>
+		<fra>Cimetière de véhicules abandonnées</fra>
+		<pln>Złomowisko porzuconych pojazdów</pln>
+	</string>
+	<string id="gar_dogs_in_forest">
+		<rus>Лес, в котором много собак</rus>
+		<eng>The forest full of dogs</eng>
+		<ukr>Ліс, в якому багато собак</ukr>
+		<fra>La forêt pleine de chiens</fra>
+		<pln>Las opanowany przez psy</pln>
+	</string>
+	<string id="gar_dolg_blokpost">
+		<rus>Блокпост "Долга" по дороге к Бару</rus>
+		<eng>"Duty" security checkpoint on the road to the Bar</eng>
+		<ukr>Блокпост «Долгу» по дорозі до Бара</ukr>
+		<fra>Point de contrôle du "Devoir" en direction du Bar</fra>
+		<pln>Posterunek "Powinności" na drodze do Baru</pln>
+	</string>
+	<string id="gar_hellcar">
+		<rus>Группа сталкеров-нейтралов, зовущих на помощь</rus>
+		<eng>A group of neutral stalkers calling for help</eng>
+		<ukr>Група сталкерів-нейтралів кличе на допомогу</ukr>
+		<fra>Un groupe de stalkers neutres appelant à l'aide</fra>
+		<pln>Grupa neutralnych stalkerów wzywa pomocy</pln>
+	</string>
+	<string id="gar_newbie">
+		<rus>Новичок, испуганный и уставший</rus>
+		<eng>A scared and tired rookie</eng>
+		<ukr>Новачок, переляканий і стомлений</ukr>
+		<fra>Débutant effrayé et fatigué</fra>
+		<pln>Wystraszony i zmęczony nowicjusz</pln>
+	</string>
+	<string id="gar_secret1">
+		<rus>Тайник, оставленный новичком</rus>
+		<eng>Stash left by the rookie</eng>
+		<ukr>Схованка, залишена новачком.</ukr>
+		<fra>La cache laissée par le débutant</fra>
+		<pln>Schowek pozostawiony przez nowicjusza</pln>
+	</string>
+	<string id="gar_seriy">
+		<rus>Группа Серого</rus>
+		<eng>Grey's group</eng>
+		<ukr>Група Сірого</ukr>
+		<fra>Groupe de Gris</fra>
+		<pln>Grupa Sieryja</pln>
+	</string>
+	<string id="gar_swamp">
+		<rus>Гримпенская трясина</rus>
+		<eng>The Grimpen Mire</eng>
+		<ukr>Грімпенська трясовина</ukr>
+		<fra>Tourbière de Grimpen</fra>
+		<pln>Grzęzawisko Grimpena</pln>
+	</string>
+	<string id="gar_trash1">
+		<rus>Кучи мусора с аномалиями и артефактами</rus>
+		<eng>Piles of rubbish with anomalies and artifacts</eng>
+		<ukr>Купи сміття з аномаліями та артефактами</ukr>
+		<fra>Des tas de déchets avec des anomalies et des artefacts</fra>
+		<pln>Sterty śmieci z anomaliami i artefaktami</pln>
+	</string>
+	<string id="gar_tunnel">
+		<rus>Железнодорожный тоннель</rus>
+		<eng>Railroad tunnel</eng>
+		<ukr>Залізничний тунель</ukr>
+		<fra>Tunnel ferroviaire</fra>
+		<pln>Tunel kolejowy</pln>
+	</string>
+	<string id="gar_wounded_help">
+		<rus>Сигнал СОС; очевидно, раненый сталкер</rus>
+		<eng>SOS signal; apparently a wounded stalker</eng>
+		<ukr>Сигнал SOS; вочевидь, поранений сталкер</ukr>
+		<fra>Signal SOS; apparemment un stalker blessé</fra>
+		<pln>Sygnał SOS; zapewne ranny stalker</pln>
+	</string>
+	<string id="bar_darklab_documents_1_hint">
+		<rus>Боров</rus>
+		<eng>Hog</eng>
+		<ukr>Кабан</ukr>
+		<fra>Ragot</fra>
+		<pln>Borow</pln>
+	</string>
+	<string id="bar_darklab_documents_2_hint">
+		<rus>Тоннель</rus>
+		<eng>Tunnel</eng>
+		<ukr>Тунель</ukr>
+		<fra>Tunnel</fra>
+		<pln>Tunel</pln>
+	</string>
+	<string id="bar_darklab_documents_hint">
+		<rus>Вход в лабораторию</rus>
+		<eng>Laboratory entrance</eng>
+		<ukr>Вхід до лабораторії</ukr>
+		<fra>Entrée au laboratoire</fra>
+		<pln>Wejście do laboratorium</pln>
+	</string>
+	<string id="bar_darklab_documents_4_hint">
+		<rus>Труба</rus>
+		<eng>Pipe</eng>
+		<ukr>Труба</ukr>
+		<fra>Tuyau</fra>
+		<pln>Rura</pln>
+	</string>
+	<string id="bar_darklab_documents2_1_hint">
+		<rus>Документы из лаборатории</rus>
+		<eng>Documents from the laboratory</eng>
+		<ukr>Документи з лабораторії</ukr>
+		<fra>Documents du laboratoire</fra>
+		<pln>Dokumenty z laboratorium</pln>
+	</string>
+	<string id="bar_darklab_documents2_2_hint">
+		<rus>Бармен</rus>
+		<eng>Barkeep</eng>
+		<ukr>Бармен</ukr>
+		<fra>Barman</fra>
+		<pln>Barman</pln>
+	</string>
+	<string id="val_captive_help_1_hint">
+		<rus>Пуля</rus>
+		<eng>Bullet</eng>
+		<ukr>Куля</ukr>
+		<fra>Balle</fra>
+		<pln>Nabój</pln>
+	</string>
+	<string id="val_captive_help_2_hint">
+		<rus>Пленный</rus>
+		<eng>Prisoner</eng>
+		<ukr>Полонений</ukr>
+		<fra>Prisonnier</fra>
+		<pln>Więzień</pln>
+	</string>
+	<string id="val_come_to_trader_1_hint">
+		<rus>Южные ворота</rus>
+		<eng>South Gate</eng>
+		<ukr>Південні ворота</ukr>
+		<fra>Porte du Sud</fra>
+		<pln>Południowa brama</pln>
+	</string>
+	<string id="val_come_to_trader_2_hint">
+		<rus>Торговец</rus>
+		<eng>Merchant</eng>
+		<ukr>Крамар</ukr>
+		<fra>Marchand</fra>
+		<pln>Handlarz</pln>
+	</string>
+	<string id="val_prisoner_help_main_hint">
+		<rus>Пленённый долговец</rus>
+		<eng>Captive "Duty" member</eng>
+		<ukr>Полонений долгівець</ukr>
+		<fra>Membre captif du "Devoir"</fra>
+		<pln>Uwięziony powinnościowiec</pln>
+	</string>
+	<string id="val_sos_help_main_hint">
+		<rus>Раненый сталкер</rus>
+		<eng>Wounded stalker</eng>
+		<ukr>Поранений сталкер</ukr>
+		<fra>Stalker blessé</fra>
+		<pln>Ranny stalker</pln>
+	</string>
+	<string id="val_zone_bandits_hint">
+		<rus>Лагерь бандитов</rus>
+		<eng>Bandit camp</eng>
+		<ukr>Табір бандитів</ukr>
+		<fra>Camp de bandits</fra>
+		<pln>Obóz bandytów</pln>
+	</string>
+	<string id="val_zone_farm_hint">
+		<rus>Ферма\nКупить винтовку Гаусса</rus>
+		<eng>Farm.\nBuy Gauss.</eng>
+		<ukr>Ферма.\nКупити Гаусс.</ukr>
+		<fra>Ferme\nAcheter le fusil Gauss</fra>
+		<pln>Ferma.\nKup karabin Gaussa</pln>
+	</string>
+	<string id="val_zone_monolith_hint">
+		<rus>Старая фабрика</rus>
+		<eng>Old factory</eng>
+		<ukr>Стара фабрика</ukr>
+		<fra>Ancienne usine</fra>
+		<pln>Stara fabryka</pln>
+	</string>
+	<string id="val_zone_pipe_hint">
+		<rus>Канализационная труба</rus>
+		<eng>Sewer pipe</eng>
+		<ukr>Каналізаційна труба</ukr>
+		<fra>Tuyau d'égout</fra>
+		<pln>Rura kanalizacyjna</pln>
+	</string>
+	<string id="val_zone_robbers_hint">
+		<rus>Заброшенная свиноферма</rus>
+		<eng>Abandoned pig farm</eng>
+		<ukr>Стара свиноферма</ukr>
+		<fra>Ferme porcine abandonnée</fra>
+		<pln>Opuszczona chlewnia</pln>
+	</string>
+	<string id="val_zone_south_gate_hint">
+		<rus>Ворота</rus>
+		<eng>Gates</eng>
+		<ukr>Ворота</ukr>
+		<fra>Portes du Sud</fra>
+		<pln>Brama</pln>
+	</string>
+	<string id="blokpost_case">
+		<rus>Кейс с документами</rus>
+		<eng>Attache case with documents</eng>
+		<ukr>Кейс із документами</ukr>
+		<fra>L'attaché-case avec des documents</fra>
+		<pln>Walizka z dokumentami</pln>
+	</string>
+	<string id="esc_fox">
+		<rus>Раненый Лис</rus>
+		<eng>Wounded Fox</eng>
+		<ukr>Поранений Лис</ukr>
+		<fra>Renard blessé</fra>
+		<pln>Ranny Lis</pln>
+	</string>
+	<string id="esc_mill">
+		<rus>Заброшенная мельница, на которой последний раз видели пропавшего братка</rus>
+		<eng>The abandoned mill, where the missing bro was last seen</eng>
+		<ukr>Закинутий млин, на котрому востаннє бачили зниклого братуху.</ukr>
+		<fra>Le moulin abandonné, où le frère disparu a été vu pour la dernière fois</fra>
+		<pln>===Opuszczony młyn. Gdzieś tutaj ostatni raz widziano zaginionego braciaka</pln>
+	</string>
+	<string id="escape_trader">
+		<rus>Сидорович</rus>
+		<eng>Sidorovich</eng>
+		<ukr>Сидорович</ukr>
+		<fra>Sidorovitch</fra>
+		<pln>Sidorowicz</pln>
+	</string>
+	<string id="factory_bandits">
+		<rus>Бандиты на фабрике</rus>
+		<eng>Bandits at the factory</eng>
+		<ukr>Бандити на фабриці</ukr>
+		<fra>Bandits à l'usine</fra>
+		<pln>Bandyci w fabryce</pln>
+	</string>
+	<string id="killers_team">
+		<rus>Группа неизвестных наёмников</rus>
+		<eng>A group of unknown mercenaries</eng>
+		<ukr>Група невідомих найманців</ukr>
+		<fra>Groupe de mercenaires inconnus</fra>
+		<pln>Grupa nieznanych najemników</pln>
+	</string>
+	<string id="novice_leader">
+		<rus>Лидер деревни новичков</rus>
+		<eng>Newbies village leader</eng>
+		<ukr>Лідер селища новачків</ukr>
+		<fra>Chef du Village de novices</fra>
+		<pln>===Dowódca obozu nowicjuszy</pln>
+	</string>
+	<string id="soldiers_bridge">
+		<rus>Пост военных у разрушенного ж/д моста. За проход под мостом берут взятку</rus>
+		<eng>The military security checkpoint at the destroyed railway bridge. They take a bribe for passing under the bridge</eng>
+		<ukr>Блокпост військових біля зруйнованого залізничного мосту. За прохід під мостом беруть хабар.</ukr>
+		<fra>Point de contrôle militaire au pont ferroviaire détruit. Ils prennent un pot-de-vin pour permission de passer sous le pont</fra>
+		<pln>===Posterunek wojskowy przy zawalonym moście; zdarza się, że za przejście żołnierze biorą łapówki</pln>
+	</string>
+	<string id="tutorial_artefact">
+		<rus>Артефакт</rus>
+		<eng>Artifact</eng>
+		<ukr>Артефакт</ukr>
+		<fra>Artefact</fra>
+		<pln>Artefakt</pln>
+	</string>
+	<string id="tutorial_bandits">
+		<rus>Бандиты, зажавшие разведчика</rus>
+		<eng>Bandits who have stopped the scout</eng>
+		<ukr>Бандити, що оточили розвідника</ukr>
+		<fra>Les bandits qui ont bloqué l'éclaireur</fra>
+		<pln>Bandyci, którzy złapali zwiadowcę</pln>
+	</string>
+	<string id="tutorial_secret">
+		<rus>Тайник погибшего сталкера</rus>
+		<eng>Dead stalker's stash</eng>
+		<ukr>Схованка, залишена загиблим сталкером</ukr>
+		<fra>Cache d'un stalker périt</fra>
+		<pln>Schowek martwego stalkera</pln>
+	</string>
+	<string id="tutorial_secret_place1">
+		<rus>Тайник погибшего сталкера</rus>
+		<eng>Dead stalker's stash</eng>
+		<ukr>Схованка, залишена загиблим сталкером</ukr>
+		<fra>Cache d'un stalker mort</fra>
+		<pln>Schowek martwego stalkera</pln>
+	</string>
+	<string id="tutorial_secret_shustryi">
+		<rus>Тайник Шустрого</rus>
+		<eng>Nimble's stash</eng>
+		<ukr>Схованка Спритного</ukr>
+		<fra>Cache d'Agile</fra>
+		<pln>Schowek Żwawego</pln>
+	</string>
+	<string id="tutorial_wounded">
+		<rus>Пленный Шустрый</rus>
+		<eng>Captive Nimble</eng>
+		<ukr>Полонений Спритний</ukr>
+		<fra>Agile captif</fra>
+		<pln>===Żwawy</pln>
+	</string>
+	<string id="volk">
+		<rus>Волк, лидер Деревни новичков</rus>
+		<eng>Wolf, the leader of the Newbies village</eng>
+		<ukr>Вовк, лідер Села новачків</ukr>
+		<fra>Loup, le chef du Village de novices</fra>
+		<pln>Wilk, dowódca obozu nowicjuszy</pln>
+	</string>
+	<string id="wolfs_rangers">
+		<rus>Разведчики из группы Волка</rus>
+		<eng>Wolf's scouts</eng>
+		<ukr>Розвідники із групи Вовка</ukr>
+		<fra>Les éclaireurs du Loup</fra>
+		<pln>Zwiadowcy z grupy Wilka</pln>
+	</string>
+	<string id="rad_antenna_location">
+		<rus>Антенны</rus>
+		<eng>Antennas</eng>
+		<ukr>Антени</ukr>
+		<fra>Antennes</fra>
+		<pln>Anteny</pln>
+	</string>
+	<string id="mil_cap_hint">
+		<rus>Поговорить с командиром Барьера</rus>
+		<eng>Speak to the commander of the Barrier</eng>
+		<ukr>Поговорити із командиром Бар'єру</ukr>
+		<fra>Parler au commandant de la Barrière</fra>
+		<pln>Porozmawiaj z dowódcą Bariery</pln>
+	</string>
+	<string id="mil_courier_hint1">
+		<rus>Проследить за стукачом</rus>
+		<eng>Follow the snitch</eng>
+		<ukr>Простежити за стукачем</ukr>
+		<fra>Suivre le mouchard</fra>
+		<pln>Idź za szpiegiem</pln>
+	</string>
+	<string id="mil_courier_hint2">
+		<rus>Дождаться вызова стукачом информатора</rus>
+		<eng>Wait for the snitch to call an informer</eng>
+		<ukr>Дочекатися, поки стукач викличе збирача інформації</ukr>
+		<fra>Attendre que le mouchard appelle un informateur</fra>
+		<pln>Poczekaj, aż szpieg zawoła informatora</pln>
+	</string>
+	<string id="mil_courier_hint3">
+		<rus>Убить стукача</rus>
+		<eng>Kill the snitch</eng>
+		<ukr>Вбити стукача</ukr>
+		<fra>Tuer le mouchard</fra>
+		<pln>Zabij szpiega</pln>
+	</string>
+	<string id="mil_courier_hint4">
+		<rus>Убить информатора</rus>
+		<eng>Kill the informer</eng>
+		<ukr>Вбити збирача інформації</ukr>
+		<fra>Tuer l'informateur</fra>
+		<pln>Zabij informatora</pln>
+	</string>
+	<string id="mil_crazy_hint">
+		<rus>Взять флешку у сумасшедшего сталкера</rus>
+		<eng>Take a USB flash drive from the crazy stalker</eng>
+		<ukr>Взяти флешку у божевільного сталкера</ukr>
+		<fra>Obtenir le clé USB du stalker fou</fra>
+		<pln>Zabierz fleszkę szalonemu stalkerowi</pln>
+	</string>
+	<string id="mil_dolg_khutor">
+		<rus>Хутор, на котором расположились бойцы "Долга"</rus>
+		<eng>Hamlet where the "Duty" fighters stayed</eng>
+		<ukr>Хутір, на якому влаштувались бійці «Долгу»</ukr>
+		<fra>La ferme où se postent les combattants de "Devoir"</fra>
+		<pln>===Przysiółek "Powinności"</pln>
+	</string>
+	<string id="mil_freedom_sniper">
+		<rus>Убить снайпера</rus>
+		<eng>Kill the sniper</eng>
+		<ukr>Вбити снайпера</ukr>
+		<fra>Tuer le sniper</fra>
+		<pln>Zabij snajpera</pln>
+	</string>
+	<string id="mil_dolg_task_report">
+		<rus>Доложить о выполнении Черепу</rus>
+		<eng>Report on the implementation to Cherep</eng>
+		<ukr>Доповісти про виконання Черепу</ukr>
+		<fra>Rapporter d'exécution à Tcherep</fra>
+		<pln>Zdaj Czasze raport z zadania</pln>
+	</string>
+	<string id="mil_hunters_hint1">
+		<rus>Поговорить с Угрюмым</rus>
+		<eng>Speak to Morose</eng>
+		<ukr>Поговорити із Похмурим</ukr>
+		<fra>Parler à Grimaud</fra>
+		<pln>Porozmawiaj z Mrukiem</pln>
+	</string>
+	<string id="mil_hunters_hint2">
+		<rus>Вернуться к Скряге</rus>
+		<eng>Return to Skinflint</eng>
+		<ukr>Повернутися до Скнари</ukr>
+		<fra>Revenir à Avare</fra>
+		<pln>Wróć do Kutwy</pln>
+	</string>
+	<string id="mil_kill_dolg_hint">
+		<rus>Уничтожить отряд "Долга"</rus>
+		<eng>Destroy the Duty Squad</eng>
+		<ukr>Знищити загін «Долгу»</ukr>
+		<fra>Détruire l'équipe du "Devoir"</fra>
+		<pln>Zlikwiduj oddział "Powinności"</pln>
+	</string>
+	<string id="mil_kill_lukash_hint">
+		<rus>Убить Лукаша</rus>
+		<eng>Kill Lukash</eng>
+		<ukr>Вбити Лукаша</ukr>
+		<fra>Tuer Loukache</fra>
+		<pln>Zabij Łukasza</pln>
+	</string>
+	<string id="mil_miser_hint">
+		<rus>Скряга</rus>
+		<eng>Skinflint</eng>
+		<ukr>Скнара</ukr>
+		<fra>Avare</fra>
+		<pln>Kutwa</pln>
+	</string>
+	<string id="mil_report_to_max_hint">
+		<rus>Доложить Максу</rus>
+		<eng>Report to Max</eng>
+		<ukr>Доповісти Максові</ukr>
+		<fra>Rapporter à Max</fra>
+		<pln>Zgłoś się do Maksa</pln>
+	</string>
+	<string id="mil_return_to_lukash_hint">
+		<rus>Доложить Лукашу</rus>
+		<eng>Report to Lukash</eng>
+		<ukr>Доповісти Лукашеві</ukr>
+		<fra>Rapporter à Loukache</fra>
+		<pln>Zgłoś się do Łukasza</pln>
+	</string>
+	<string id="mil_return_to_max_hint">
+		<rus>Отдать флешку Максу</rus>
+		<eng>Give the USB flash drive to Max</eng>
+		<ukr>Віддати флешку Максові</ukr>
+		<fra>Remettre le clé USB à Max</fra>
+		<pln>Daj Maksowi fleszkę</pln>
+	</string>
+	<string id="mil_rg6_hint1">
+		<rus>Найти Повара на базе "Свободы"</rus>
+		<eng>Find Chef at the "Freedom" base</eng>
+		<ukr>Знайти Кухаря на базі «Волі»</ukr>
+		<fra>Trouver Cuistot à la base de la "Liberté"</fra>
+		<pln>Znajdź Kucharza w bazie "Wolności"</pln>
+	</string>
+	<string id="mil_rg6_hint2">
+		<rus>Поговорить с Поваром</rus>
+		<eng>Speak to Chef</eng>
+		<ukr>Поговорити з Кухарем</ukr>
+		<fra>Parler à Cuistot</fra>
+		<pln>Porozmawiaj z Kucharzem</pln>
+	</string>
+	<string id="mil_rg6_hint3">
+		<rus>Забрать РГ-6 из схрона в деревне</rus>
+		<eng>Take RG-6 from the stash in the village</eng>
+		<ukr>Забрати РГ-6 зі схрона у селищі</ukr>
+		<fra>Prendre le RG-6 dans la cache au village</fra>
+		<pln>Zabierz RG-6 ze schowka w wiosce</pln>
+	</string>
+	<string id="mil_blockpost_job">
+		<rus>Защитить Барьер</rus>
+		<eng>Protect the Barrier</eng>
+		<ukr>Захистити Бар'єр</ukr>
+		<fra>Protéger la Barrière</fra>
+		<pln>Obroń Barierę</pln>
+	</string>
+	<string id="mil_watertower_hint">
+		<rus>Водонапорная башня</rus>
+		<eng>Water tower</eng>
+		<ukr>Водонапірна башта</ukr>
+		<fra>Château d'eau</fra>
+		<pln>Wieża ciśnień</pln>
+	</string>
+	<string id="bar_arena_locator">
+		<rus>Арена</rus>
+		<eng>The Arena</eng>
+		<ukr>Арена</ukr>
+		<fra>L'Arène</fra>
+		<pln>Arena</pln>
+	</string>
+	<string id="bar_bar_locator">
+		<rus>Бар "100 рентген"</rus>
+		<eng>Bar "100 roentgen"</eng>
+		<ukr>Бар «100 рентген»</ukr>
+		<fra>Le Bar "100 roentgen"</fra>
+		<pln>Bar "100 Rengenów"</pln>
+	</string>
+	<string id="bar_dolg_locator">
+		<rus>База группировки "Долг"</rus>
+		<eng>Base of the "Duty" group</eng>
+		<ukr>База угруповання «Долг»</ukr>
+		<fra>Base de la groupe "le Devoir"</fra>
+		<pln>Baza ugrupowania "Powinność"</pln>
+	</string>
+	<string id="rostok_banda_volkodava">
+		<rus>Волкодав с головорезами возле вертолёта</rus>
+		<eng>Wolfhound and his cutthroats by the helicopter</eng>
+		<ukr>Вовкодав зі своїми головорізами біля вертольота</ukr>
+		<fra>Volkodav et ses égorgeurs près de l'hélicoptère</fra>
+		<pln>Wilczarz i jego ludzie przy śmigłowcu</pln>
+	</string>
+	<string id="rostok_kruglov">
+		<rus>Профессор Круглов</rus>
+		<eng>Professor Kruglov</eng>
+		<ukr>Професор Круглов</ukr>
+		<fra>Le professeur Krouglov</fra>
+		<pln>Profesor Krugłow</pln>
+	</string>
+	<string id="rostok_tainyi_hod">
+		<rus>Засада возле завода</rus>
+		<eng>Ambush by the factory</eng>
+		<ukr>Засідка біля заводу</ukr>
+		<fra>Embuscade près de l'usine</fra>
+		<pln>Zasadzka przy fabryce</pln>
+	</string>
+	<string id="rostok_volkodav">
+		<rus>Волкодав</rus>
+		<eng>Wolfhound</eng>
+		<ukr>Вовкодав</ukr>
+		<fra>Volkodav</fra>
+		<pln>Wilczarz</pln>
+	</string>
+	<string id="aes_btr1">
+		<rus>Броненосец 1</rus>
+		<eng>Armadillo 1</eng>
+		<ukr>«Броненосець-1»</ukr>
+		<fra>Cuirassé 1</fra>
+		<pln>Pancernik 1</pln>
+	</string>
+	<string id="aes_btr2">
+		<rus>Броненосец 2</rus>
+		<eng>Armadillo 2</eng>
+		<ukr>«Броненосець-2»</ukr>
+		<fra>Cuirassé 2</fra>
+		<pln>Pancernik 2</pln>
+	</string>
+	<string id="aes_btr3">
+		<rus>Броненосец 3</rus>
+		<eng>Armadillo 3</eng>
+		<ukr>«Броненосець-3»</ukr>
+		<fra>Cuirassé 3</fra>
+		<pln>Pancernik 3</pln>
+	</string>
+	<string id="aes_grif">
+		<rus>"Гриф"</rus>
+		<eng>"Vulture"</eng>
+		<ukr>«Гриф»</ukr>
+		<fra>"Vautour"</fra>
+		<pln>"Gryf"</pln>
+	</string>
+	<string id="aes_korshun">
+		<rus>"Коршун"</rus>
+		<eng>"Kite"</eng>
+		<ukr>«Шуліка»</ukr>
+		<fra>"Milan"</fra>
+		<pln>"Kania"</pln>
+	</string>
+	<string id="aes_kvartet">
+		<rus>"Квартет"</rus>
+		<eng>"Quartette"</eng>
+		<ukr>«Квартет»</ukr>
+		<fra>"Quatuor"</fra>
+		<pln>"Kwartet"</pln>
+	</string>
+	<string id="aes_lun">
+		<rus>"Лунь"</rus>
+		<eng>"Harrier"</eng>
+		<ukr>«Лунь»</ukr>
+		<fra>"Busard"</fra>
+		<pln>"Błotniak"</pln>
+	</string>
+	<string id="aes_pustelga">
+		<rus>"Пустельга"</rus>
+		<eng>"Kestrel"</eng>
+		<ukr>«Боривітер»</ukr>
+		<fra>"Crécerelle"</fra>
+		<pln>"Pustułka"</pln>
+	</string>
+	<string id="aes_sapsan">
+		<rus>"Сапсан"</rus>
+		<eng>"Peregrine"</eng>
+		<ukr>«Сапсан»</ukr>
+		<fra>"Pèlerin"</fra>
+		<pln>"Sapsan"</pln>
+	</string>
+	<string id="aes_sarcofag_hint">
+		<rus>Вход в саркофаг</rus>
+		<eng>Sarcophagus entrance</eng>
+		<ukr>Вхід до Саркофагу</ukr>
+		<fra>Entrée du Sarcophage</fra>
+		<pln>Wejście do Sarkofagu</pln>
+	</string>
+	<string id="aes_sokol">
+		<rus>"Сокол"</rus>
+		<eng>"Falcon"</eng>
+		<ukr>«Сокіл»</ukr>
+		<fra>"Faucon"</fra>
+		<pln>"Sokół"</pln>
+	</string>
+	<string id="aes_sova">
+		<rus>"Сова"</rus>
+		<eng>"Owl"</eng>
+		<ukr>«Сова»</ukr>
+		<fra>"Chouette"</fra>
+		<pln>"Sowa"</pln>
+	</string>
+	<string id="aes_yastreb">
+		<rus>"Ястреб"</rus>
+		<eng>"Hawk"</eng>
+		<ukr>«Яструб»</ukr>
+		<fra>"Épervier"</fra>
+		<pln>"Jastrząb"</pln>
+	</string>
+	<string id="agr_captains_chamber_hint">
+		<rus>Каптёрка капитана</rus>
+		<eng>Captain's storeroom</eng>
+		<ukr>Каптерка капітана</ukr>
+		<fra>Entrepôt du capitaine</fra>
+		<pln>Magazyn kapitana</pln>
+	</string>
+	<string id="agr_collector_entrance_hint">
+		<rus>Вход в катакомбы</rus>
+		<eng>Catacomb entrance</eng>
+		<ukr>Вхід до катакомб</ukr>
+		<fra>Entrée des catacombes</fra>
+		<pln>Wejście do katakumb</pln>
+	</string>
+	<string id="agr_factory_hint">
+		<rus>Завод</rus>
+		<eng>Factory</eng>
+		<ukr>Завод</ukr>
+		<fra>Usine</fra>
+		<pln>Fabryka</pln>
+	</string>
+	<string id="agr_find_gunslinger_cache_hint">
+		<rus>Найти в катакомбах тайник Стрелка</rus>
+		<eng>Find Strelok's stash at the catacombs</eng>
+		<ukr>Знайти у катакомбах схованку Стрільця</ukr>
+		<fra>Trouver la cache de Strelok dans les catacombes</fra>
+		<pln>Znajdź schowek Striełoka w katakumbach</pln>
+	</string>
+	<string id="agr_give_case_to_barman_hint">
+		<rus>Отдать документы Бармену</rus>
+		<eng>Give the documents to Barkeep</eng>
+		<ukr>Віддати Барменові документи</ukr>
+		<fra>Donner les documents au Barman</fra>
+		<pln>Oddaj dokumenty Barmanowi</pln>
+	</string>
+	<string id="agr_help_krot_hint">
+		<rus>Спасти Крота</rus>
+		<eng>Rescue Mole</eng>
+		<ukr>Врятувати Крота</ukr>
+		<fra>Sauver Taupe</fra>
+		<pln>Uratuj Kreta</pln>
+	</string>
+	<string id="agr_help_stalkers_hint">
+		<rus>Спасти сталкеров</rus>
+		<eng>Rescue the stalkers</eng>
+		<ukr>Врятувати сталкерів</ukr>
+		<fra>Sauver les stalkers</fra>
+		<pln>Uratuj stalkerów</pln>
+	</string>
+	<string id="agr_meet_krot_hint">
+		<rus>Встретиться с Кротом</rus>
+		<eng>Meet Mole</eng>
+		<ukr>Зустрітися із Кротом</ukr>
+		<fra>Rencontrer Taupe</fra>
+		<pln>Spotkaj się z Kretem</pln>
+	</string>
+	<string id="agr_nii_hint">
+		<rus>НИИ Агропром, база военных</rus>
+		<eng>«Agroprom» Research Institute, the military base</eng>
+		<ukr>НДІ «Агропром», база військових</ukr>
+		<fra>Institut de recherche d'Agroprom, base militaire</fra>
+		<pln>Instytut Badawczy Agroprom, baza wojskowa</pln>
+	</string>
+	<string id="agr_swamp_hint">
+		<rus>Безопасное место</rus>
+		<eng>Safe place</eng>
+		<ukr>Безпечне місце</ukr>
+		<fra>Endroit sûr</fra>
+		<pln>Bezpieczne miejsce</pln>
+	</string>
+	<string id="agr_take_case_hint">
+		<rus>Украсть документы</rus>
+		<eng>Steal the documents</eng>
+		<ukr>Вкрасти документи</ukr>
+		<fra>Voler des documents</fra>
+		<pln>Ukradnij dokumenty</pln>
+	</string>
+	<string id="agr_take_krots_info_hint">
+		<rus>Взять у Крота информацию о тайнике</rus>
+		<eng>Get information about the stash from Mole</eng>
+		<ukr>Отримати у Крота інформацію про схованку</ukr>
+		<fra>Récupérer l'information de la cache de Taupe</fra>
+		<pln>Wydobądź od Kreta informacje o schowku</pln>
+	</string>
+	<string id="agr_zaz_hint">
+		<rus>Запорожец</rus>
+		<eng>Zaporozhets</eng>
+		<ukr>«Запорожець»</ukr>
+		<fra>Zaporozhets</fra>
+		<pln>Zaporożec</pln>
+	</string>
+	<string id="cit_doctor_task_1_hint">
+		<rus>Гостиница</rus>
+		<eng>Hotel</eng>
+		<ukr>Готель</ukr>
+		<fra>Hôtel</fra>
+		<pln>Hotel</pln>
+	</string>
+	<string id="krest_zapas_start_10">
+		<rus>Схрон Шуры Гинеколога</rus>
+		<eng>Stash of Shura the Gynecologist</eng>
+		<ukr>Схрон Сашка Гінеколога</ukr>
+		<fra>Cache de Choura le Gynécologue</fra>
+		<pln>Schowek Szury Ginekologa</pln>
+	</string>
+	<string id="fotik_gigant_spawn_0">
+		<rus>Место гибели друга Фотографа</rus>
+		<eng>Place of death of Photographer's friend</eng>
+		<ukr>Місце загибелі друга Фотографа</ukr>
+		<fra>Lieu de décès de l'ami de Photographe</fra>
+		<pln>Miejsce śmierci przyjaciela Fotografa</pln>
+	</string>
+	<string id="checking_taken_item75_0">
+		<rus>Тайник Лешего</rus>
+		<eng>Leshy's stash</eng>
+		<ukr>Схованка Лісовика</ukr>
+		<fra>Cache du Léchy</fra>
+		<pln>Schowek Leszego</pln>
+	</string>
+	<string id="create_glus_spot_0">
+		<rus>Радиоглушилка</rus>
+		<eng>Signal jammer</eng>
+		<ukr>Радіоглушилка</ukr>
+		<fra>Brouilleur d'ondes</fra>
+		<pln>Zagłuszacz</pln>
+	</string>
+	<string id="create_device_spot_0">
+		<rus>Датчик обнаружения</rus>
+		<eng>Presence sensor</eng>
+		<ukr>Датчик виявлення</ukr>
+		<fra>Capteur de présence</fra>
+		<pln>Czujnik ruchu</pln>
+	</string>
+	<string id="taynik_virus_start_0">
+		<rus>Осмотреть место убийства Вируса</rus>
+		<eng>Inspect the site where Virus was murdered</eng>
+		<ukr>Оглянути місце вбивства Віруса</ukr>
+		<fra>Inspecter le lieu du meurtre de Virus</fra>
+		<pln>Sprawdzić miejsce śmierci Wirusa</pln>
+	</string>
+	<string id="ohota_wolf_spawn_0">
+		<rus>Волчье логово</rus>
+		<eng>Wolf's lair</eng>
+		<ukr>Вовче лігвище</ukr>
+		<fra>Tanière de loups</fra>
+		<pln>Wilcze legowisko</pln>
+	</string>
+	<string id="taynik_hameleon_spawn_0">
+		<rus>Осмотреть карьер</rus>
+		<eng>Inspect the quarry</eng>
+		<ukr>Оглянути кар'єр</ukr>
+		<fra>Inspecter la carrière</fra>
+		<pln>Sprawdzić Kamieniołom</pln>
+	</string>
+	<string id="taynik_grom_spawn_0">
+		<rus>Наводка на тайник от Грома</rus>
+		<eng>A tipoff about the stash from Thunder</eng>
+		<ukr>Наведення на схованку від Грома</ukr>
+		<fra>Une indice à la cache du Tonnerre</fra>
+		<pln>Wskazówka na schowek od Groma</pln>
+	</string>
+	<string id="spot_sviblov_hostel_0">
+		<rus>Сканер аномалий №1</rus>
+		<eng>Anomaly scanner No1</eng>
+		<ukr>Сканер аномалій №1</ukr>
+		<fra>Scanner d'anomalies №1</fra>
+		<pln>Skaner anomalii nr1</pln>
+	</string>
+	<string id="spot_sviblov_hostel_1">
+		<rus>Сканер аномалий №2</rus>
+		<eng>Anomaly scanner No2</eng>
+		<ukr>Сканер аномалій №2</ukr>
+		<fra>Scanner d'anomalies №2</fra>
+		<pln>Skaner anomalii nr2</pln>
+	</string>
+	<string id="spot_sviblov_hostel_2">
+		<rus>Сканер аномалий №3</rus>
+		<eng>Anomaly scanner No3</eng>
+		<ukr>Сканер аномалій №3</ukr>
+		<fra>Scanner d'anomalies №3</fra>
+		<pln>Skaner anomalii nr3</pln>
+	</string>
+	<string id="spot_sviblov_hostel_3">
+		<rus>Сканер аномалий №4</rus>
+		<eng>Anomaly Scanner No4</eng>
+		<ukr>Сканер аномалій №4</ukr>
+		<fra>Scanner d'anomalies №4</fra>
+		<pln>Skaner anomalii nr4</pln>
+	</string>
+	<string id="spot_sviblov_hostel_4">
+		<rus>Сканер аномалий №5</rus>
+		<eng>Anomaly Scanner No5</eng>
+		<ukr>Сканер аномалій №5</ukr>
+		<fra>Scanner d'anomalies №5</fra>
+		<pln>Skaner anomalii nr5</pln>
+	</string>
+	<string id="create_silver_explo_spot_0">
+		<rus>Взрывчатка с серебром</rus>
+		<eng>Explosives with silver</eng>
+		<ukr>Вибухівка зі сріблом</ukr>
+		<fra>Explosifs avec de l'argent</fra>
+		<pln>Materiał wybuchowy ze srebrnym proszkiem</pln>
+	</string>
+	<string id="create_pomehi_spot_0">
+		<rus>Генератор</rus>
+		<eng>Generator</eng>
+		<ukr>Генератор</ukr>
+		<fra>Générateur</fra>
+		<pln>Generator</pln>
+	</string>
+	<string id="spot_shurup_shron_start_0">
+		<rus>Резервный схрон</rus>
+		<eng>Reserve stash</eng>
+		<ukr>Резервний схрон</ukr>
+		<fra>Cache de réserve</fra>
+		<pln>Rezerwowy schowek</pln>
+	</string>
+	<string id="spot_ohota_tushkan_done_0">
+		<rus>Схрон с водкой</rus>
+		<eng>Stash with vodka</eng>
+		<ukr>Схрон з горілкою</ukr>
+		<fra>Cache avec de la vodka</fra>
+		<pln>Magazyn z wódką</pln>
+	</string>
+	<string id="tri_tainik_start_0">
+		<rus>Дневник монолитовца №1</rus>
+		<eng>"Monolith" fighter's diary No1</eng>
+		<ukr>Щоденник монолітівця №1</ukr>
+		<fra>Journal d'un combattant de "Monolithe" No1</fra>
+		<pln>Dziennik monolitowca nr1</pln>
+	</string>
+	<string id="tri_tainik_start_1">
+		<rus>Дневник монолитовца №2</rus>
+		<eng>"Monolith" fighter's diary No2</eng>
+		<ukr>Щоденник монолітівця №2</ukr>
+		<fra>Journal d'un combattant de "Monolithe" No2</fra>
+		<pln>Dziennik monolitowca nr2</pln>
+	</string>
+	<string id="tri_tainik_start_2">
+		<rus>Дневник монолитовца №3</rus>
+		<eng>"Monolith" fighter's diary No3</eng>
+		<ukr>Щоденник монолітівця №3</ukr>
+		<fra>Journal d'un combattant de "Monolithe" No3</fra>
+		<pln>Dziennik monolitowca nr3</pln>
+	</string>
+	<string id="treasure_ecolog_start_0">
+		<rus>Дневник Призрака</rus>
+		<eng>Ghost's Diary</eng>
+		<ukr>Щоденник Привида</ukr>
+		<fra>Journal de Spectre</fra>
+		<pln>Dziennik Ducha</pln>
+	</string>
+	<string id="spot_nazar_spider_start_0">
+		<rus>Паучье логово</rus>
+		<eng>Spider's lair</eng>
+		<ukr>Лігво павуків</ukr>
+		<fra>Repaire des araignées</fra>
+		<pln>Pajęcze legowisko</pln>
+	</string>
+	<string id="create_kurier_spot_0">
+		<rus>Курьер Адреналина</rus>
+		<eng>Adrenaline's courier</eng>
+		<ukr>Кур'єр Адреналіна</ukr>
+		<fra>Courrier d'Adrénaline</fra>
+		<pln>Kurier Adrenaliny</pln>
+	</string>
+	<string id="create_kulon_cat_spot_0">
+		<rus>Кошка</rus>
+		<eng>Cat</eng>
+		<ukr>Кішка</ukr>
+		<fra>Chat</fra>
+		<pln>Kot</pln>
+	</string>
+	<string id="achieve_taynik_spawn_0">
+		<rus>Награда за достижение</rus>
+		<eng>Reward for an achievement</eng>
+		<ukr>Нагорода за досягнення</ukr>
+		<fra>Récompense de réussite</fra>
+		<pln>Nagroda za osiągnięcie</pln>
+	</string>
+	<string id="spot_krest_boar_start_0">
+		<rus>Мамаша поросёнка</rus>
+		<eng>Piglet's mother</eng>
+		<ukr>Матуся поросятка</ukr>
+		<fra>Maman du cochonnet</fra>
+		<pln>Mama prosiaka</pln>
+	</string>
+	<string id="spot_buusty_gigant_start_0">
+		<rus>Болотный псевдогигант</rus>
+		<eng>Swamp pseudogiant</eng>
+		<ukr>Болотний псевдогігант</ukr>
+		<fra>Pseudo-géant des marais</fra>
+		<pln>Bagienny pseudogigant</pln>
+	</string>
+	<string id="spot_tank_zasada_0">
+		<rus>Приблизительное местоположение снайпера Монолита</rus>
+		<eng>"Monolith" sniper's approximate location</eng>
+		<ukr>Приблизне місцезнаходження снайпера Моноліту</ukr>
+		<fra>Emplacement approximatif du sniper de "Monolithe"</fra>
+		<pln>===Lokalizacja snajpera Monolitu</pln>
+	</string>
+	<string id="deathclaw_phantom">
+		<rus>Невидимое существо</rus>
+		<eng>The Invisible Creature</eng>
+		<ukr>===Невидимий кіготь смерті</ukr>
+		<fra>===Griffemort invisible</fra>
+		<pln>===Niewidzialny szpon śmierci</pln>
+	</string>
+	<string id="kubik_spawn_0">
+		<rus>Схрон с кубиком</rus>
+		<eng>Stash with the cube</eng>
+		<ukr>Схрон з кубиком</ukr>
+		<fra>Cache avec le cube</fra>
+		<pln>Schowek z kostką</pln>
+	</string>
+	<string id="set_pantera_0">
+		<rus>Пантера</rus>
+		<eng>Panther</eng>
+		<ukr>Пантера</ukr>
+		<fra>Panthère</fra>
+		<pln>Pantera</pln>
+	</string>
+	<string id="metka_marsh_provodnik_0">
+		<rus>Ориентировка на переход в Деревню</rus>
+		<eng>The approximate location of the path to the Village</eng>
+		<ukr>Орієнтування на перехід у Село</ukr>
+		<fra>L'emplacement approximatif du chemin vers le village</fra>
+		<pln>Namiar na przejście do Starej Wsi</pln>
+	</string>
+	<string id="metka_psi_antenna_0">
+		<rus>Ориентировка на сигнал пси-антенны</rus>
+		<eng>The approximate location of the psi antenna signal source</eng>
+		<ukr>Орієнтування на сигнал псі-антени</ukr>
+		<fra>L'emplacement approximatif de la source du signal d'antenne psi</fra>
+		<pln>Namiar na sygnał anteny psionicznej</pln>
+	</string>
+	<string id="set_kluk_chaes2_0">
+		<rus>Клык должен быть где-то тут</rus>
+		<eng>Fang must be somewhere here</eng>
+		<ukr>Клик повинен бути десь тут</ukr>
+		<fra>Le Croc devrait être quelque part par ici</fra>
+		<pln>Kieł powinien gdzieś tu być</pln>
+	</string>
+	<string id="metka_city_parfumer_0">
+		<rus>Примерное местонахождение сталкера</rus>
+		<eng>The approximate location of the stalker</eng>
+		<ukr>Приблизне місцезнаходження сталкера</ukr>
+		<fra>L'emplacement approximatif du stalker</fra>
+		<pln>Prawdopodobna lokalizacja stalkera</pln>
+	</string>
+	<string id="metka_city_starshoy_0">
+		<rus>Примерное местонахождение сталкера</rus>
+		<eng>The approximate location of the stalker</eng>
+		<ukr>Приблизне місцезнаходження сталкера</ukr>
+		<fra>L'emplacement approximatif du stalker</fra>
+		<pln>Prawdopodobna lokalizacja stalkera</pln>
+	</string>
+	<string id="metka_tema_likvidator_0">
+		<rus>Примерное местонахождение сталкеров</rus>
+		<eng>The approximated location of stalkers</eng>
+		<ukr>Приблизне місцезнаходження сталкерів</ukr>
+		<fra>L'emplacement approximatif des stalkers</fra>
+		<pln>Prawdopodobna lokalizacja stalkerów</pln>
+	</string>
+	<string id="metka_norman_0">
+		<rus>Примерное месторасположение Тёмного хутора</rus>
+		<eng>The approximate location of the Dark hamlet</eng>
+		<ukr>Приблизне розташування Темного хутора</ukr>
+		<fra>Emplacement approximatif du Hameau obscure</fra>
+		<pln>Prawdopodobna lokalizacja Czarnego Przysiółka</pln>
+	</string>
+	<string id="reinforcement_0">
+		<rus>Рюкзак с припасами</rus>
+		<eng>Backpack with supplies</eng>
+		<ukr>Рюкзак з припасами</ukr>
+		<fra>Le sac à dos d'approvisionnement</fra>
+		<pln>Plecak z zapasami</pln>
+	</string>
+	<string id="sed_village_0">
+		<rus>База "Чистого Неба"</rus>
+		<eng>"Clear Sky" base</eng>
+		<ukr>База "Чистого Неба"</ukr>
+		<fra>La base du "Ciel Fin"</fra>
+		<pln>Baza "Czystego Nieba"</pln>
+	</string>
+	<string id="set_kalmyak_ruk_0">
+		<rus>Рюкзак Калмыка</rus>
+		<eng>Kalmyk's Backpack</eng>
+		<ukr>Рюкзак Калмика</ukr>
+		<fra>Sac à dos de Kalmouk</fra>
+		<pln>Plecak Kałmuka</pln>
+	</string>
+	<string id="set_kalmyak_0">
+		<rus>Предположительное местонахождение Калмыка</rus>
+		<eng>The presumptive location of Kalmyk</eng>
+		<ukr>Очікуване місцезнаходження Калмика</ukr>
+		<fra>Localisation présumée de Kalmouk</fra>
+		<pln>Prawdopodobna lokalizacja Kałmuka</pln>
+	</string>
+	<string id="set_red_contr_0">
+		<rus>Предположительное местонахождение контролёра</rus>
+		<eng>The presumptive location of the controller</eng>
+		<ukr>Очікуване місцезнаходження контролера</ukr>
+		<fra>Localisation présumée du contrôleur</fra>
+		<pln>Prawdopodobna lokalizacja kontrolera</pln>
+	</string>
+	<string id="set_kashei_0">
+		<rus>Кощей</rus>
+		<eng>Koshchei</eng>
+		<ukr>Чахлик</ukr>
+		<fra>Kochtcheï</fra>
+		<pln>Kościej</pln>
+	</string>
+	<string id="set_televizor_0">
+		<rus>Предполагаемое местонахождение монолитовцев №1</rus>
+		<eng>The presumptive location of the "Monolith" fighters No1</eng>
+		<ukr>Передбачуване місцезнаходження монолітівців №1</ukr>
+		<fra>L'emplacement présumée des combattants de "Monolithe" No1</fra>
+		<pln>Prawdopodobna lokalizacja monolitowców nr1</pln>
+	</string>
+	<string id="set_televizor2_0">
+		<rus>Предполагаемое местонахождение монолитовцев №2</rus>
+		<eng>The presumptive location of the "Monolith" fighters No2</eng>
+		<ukr>Передбачуване місцезнаходження монолітівців №2</ukr>
+		<fra>L'emplacement présumée des combattants de "Monolithe" No2</fra>
+		<pln>Prawdopodobna lokalizacja monolitowców nr2</pln>
+	</string>
+	<string id="set_televizor3_0">
+		<rus>Предполагаемое местонахождение монолитовцев №3</rus>
+		<eng>The presumptive location of the "Monolith" fighters No3</eng>
+		<ukr>Передбачуване місцезнаходження монолітівців №3</ukr>
+		<fra>L'emplacement présumée des combattants de "Monolithe" No3</fra>
+		<pln>Prawdopodobna lokalizacja monolitowców nr3</pln>
+	</string>
+	<string id="set_televizor4_0">
+		<rus>Предполагаемое местонахождение монолитовцев №4</rus>
+		<eng>The presumptive location of the "Monolith" fighters No4</eng>
+		<ukr>Передбачуване місцезнаходження монолітівців №4</ukr>
+		<fra>L'emplacement présumée des combattants de "Monolithe" No4</fra>
+		<pln>Prawdopodobna lokalizacja monolitowców nr4</pln>
+	</string>
+	<string id="set_televizor5_0">
+		<rus>Предполагаемое местонахождение монолитовцев №5</rus>
+		<eng>The presumptive location of the "Monolith" fighters No5</eng>
+		<ukr>Передбачуване місцезнаходження монолітівців №5</ukr>
+		<fra>L'emplacement présumée des combattants de "Monolithe" No5</fra>
+		<pln>Prawdopodobna lokalizacja monolitowców nr5</pln>
+	</string>
+	<string id="set_kot_0">
+		<rus>Кот</rus>
+		<eng>Cat</eng>
+		<ukr>Кіт</ukr>
+		<fra>Chat</fra>
+		<pln>Kot</pln>
+	</string>
+	<string id="set_giant_0">
+		<rus>Уникальный псевдогигант</rus>
+		<eng>Unique pseudogiant</eng>
+		<ukr>Унікальний псевдогігант</ukr>
+		<fra>Pseudo-géant unique</fra>
+		<pln>Unikalny pseudogigant</pln>
+	</string>
+	<string id="set_xalyava_0">
+		<rus>Место сделки</rus>
+		<eng>Place of deal</eng>
+		<ukr>Місце угоди</ukr>
+		<fra>Lieu de transaction</fra>
+		<pln>Miejsce spotkania</pln>
+	</string>
+	<string id="alife_dir_0">
+		<rus>Тренога</rus>
+		<eng>Tripod</eng>
+		<ukr>Тринога</ukr>
+		<fra>Trépied</fra>
+		<pln>===TRENOGA</pln>
+	</string>
+	<string id="set_green_0">
+		<rus>Охотники</rus>
+		<eng>Hunters</eng>
+		<ukr>Мисливці</ukr>
+		<fra>Chasseurs</fra>
+		<pln>Łowcy</pln>
+	</string>
+	<string id="set_tunel_0">
+		<rus>Заброшенная шахта</rus>
+		<eng>Abandoned mine</eng>
+		<ukr>Покинута шахта</ukr>
+		<fra>Mine abandonnée</fra>
+		<pln>Opuszczona kopalnia</pln>
+	</string>
+	<string id="set_metka_0">
+		<rus>Трубка</rus>
+		<eng>Tube</eng>
+		<ukr>Трубка</ukr>
+		<fra>Tube</fra>
+		<pln>Rurka</pln>
+	</string>
+	<string id="add_docs_spot_0">
+		<rus>Документ Воронина</rus>
+		<eng>Voronin's document</eng>
+		<ukr>Документ Вороніна</ukr>
+		<fra>Document de Voronine</fra>
+		<pln>Dokument Woronina</pln>
+	</string>
+	<string id="barmen_simbion_start_0">
+		<rus>Возможное местоположение схрона</rus>
+		<eng>Possible location of the stash</eng>
+		<ukr>Можливе місце розташування схрону</ukr>
+		<fra>Emplacement possible de la cache</fra>
+		<pln>Możliwa lokalizacja magazynu</pln>
+	</string>
+	<string id="add_new_111item_0">
+		<rus>Возможное местоположение динамита</rus>
+		<eng>Possible location of the dynamite</eng>
+		<ukr>Можливе місце розташування динаміту</ukr>
+		<fra>Emplacement possible de la dynamite</fra>
+		<pln>Możliwa lokalizacja dynamitu</pln>
+	</string>
+	<string id="check_treasure_0">
+		<rus>Место поиска следующей информации от Эльзы</rus>
+		<eng>The place of searching for the next piece of information from Elsa</eng>
+		<ukr>Місце пошуку наступної інформації від Ельзи</ukr>
+		<fra>Endroit où chercher les informations suivantes d’Elsa</fra>
+		<pln>Miejsce poszukiwań następnej informacji od Elzy</pln>
+	</string>
+	<string id="fenrir1_done_0">
+		<rus>Лёжка Фенрира</rus>
+		<eng>Fenrir's lair</eng>
+		<ukr>Лежанка Фенріра</ukr>
+		<fra>La planque de Fenrir</fra>
+		<pln>Leże Fenrira</pln>
+	</string>
+	<string id="resident_evil3_done_0">
+		<rus>Начало поисков второй части рецепта</rus>
+		<eng>Beginning of the search for the second part of the recipe</eng>
+		<ukr>Начало поисков второй части рецепта</ukr>
+		<fra>Début de la recherche de la deuxième partie de la recette</fra>
+		<pln>Początek poszukiwań drugiej części recepty</pln>
+	</string>
+	<string id="snpt_jupiter6_run7_0">
+		<rus>Место встречи с Тенью Монолита</rus>
+		<eng>Meeting point with the Monolith's Shadow</eng>
+		<ukr>Місце зустрічі з Тінню Моноліту</ukr>
+		<fra>Point de rencontre avec l'Ombre du Monolithe</fra>
+		<pln>Miejsce spotkania z Cieniem Monolitu</pln>
+	</string>
+	<string id="vesker_start_done_0">
+		<rus>Тайник Вескера</rus>
+		<eng>Wesker's stash</eng>
+		<ukr>Схованка Вескера</ukr>
+		<fra>Cache de Wesker</fra>
+		<pln>Schowek Weskera</pln>
+	</string>
+	<string id="spawn_himik_sr_0">
+		<rus>Предположительное место перестрелки</rus>
+		<eng>The pesumptive location of the shootout</eng>
+		<ukr>Очікуване місце перестрілки</ukr>
+		<fra>Localisation présumée de la fusillade</fra>
+		<pln>Przypuszczalne miejsce strzelaniny</pln>
+	</string>
+	<string id="alexandrych_koster_sr_0">
+		<rus>Александрыч</rus>
+		<eng>Alexandrych</eng>
+		<ukr>Александрич</ukr>
+		<fra>Alexandrytch</fra>
+		<pln>Aleksandrycz</pln>
+	</string>
+	<string id="alexandrych_spawn_sr_0">
+		<rus>Последний выход на связь группы Александрыча</rus>
+		<eng>The last radio contact of Alexandrych's group</eng>
+		<ukr>Останній вихід на зв'язок групи Александрича</ukr>
+		<fra>Dernier contact radio de la groupe d'Alexandrytch</fra>
+		<pln>Ostatnia łączność z grupą Aleksandrycza</pln>
+	</string>
+	<string id="alexandrych_hutor_sr_0">
+		<rus>Последний выход на связь Иваныча</rus>
+		<eng>Ivanych's last radio contact</eng>
+		<ukr>Останній вихід на зв'язок Івановича</ukr>
+		<fra>Dernier contact radio d'Ivanych</fra>
+		<pln>Ostatnia łączność z Iwanyczem</pln>
+	</string>
+	<string id="batay_ploshadka_sr_0">
+		<rus>Приблизительное место посадки вертолёта</rus>
+		<eng>The approximate helicopter landing site</eng>
+		<ukr>Приблизне місце посадки вертольота</ukr>
+		<fra>Site approximatif d'atterrissage d'hélicoptère</fra>
+		<pln>Przybliżone miejsce lądowania helikoptera</pln>
+	</string>
+	<string id="upiter_sdelka_sr_0">
+		<rus>Пост наблюдения за сделкой</rus>
+		<eng>Deal surveillance station</eng>
+		<ukr>Пост спостереження за угодою</ukr>
+		<fra>Poste de surveillance sur la transaction</fra>
+		<pln>Stanowisko obserwacyjne</pln>
+	</string>
+	<string id="survival_quest_sr1_0">
+		<rus>Добраться до фабрики</rus>
+		<eng>Get to the factory</eng>
+		<ukr>Добратися до фабрики</ukr>
+		<fra>Se rendre à l'usine</fra>
+		<pln>Dotrzeć do fabryki</pln>
+	</string>
+	<string id="mercenary_dogovor_sr1_0">
+		<rus>Место встречи с наёмниками</rus>
+		<eng>Meeting point with the mercenaries</eng>
+		<ukr>Місце зустрічі з найманцями</ukr>
+		<fra>Lieu de rencontre avec les mercenaires</fra>
+		<pln>Miejsce spotkania z najemnikami</pln>
+	</string>
+	<string id="moving_detector_use">
+		<rus>Установить детектор движения</rus>
+		<eng>Install the motion detector</eng>
+		<ukr>Встановити детектор руху</ukr>
+		<fra>===Lieu d'installation du détecteur de mouvement</fra>
+		<pln>===Miejsce ustawienia detektora ruchu</pln>
+	</string>
+	<string id="dimak_toolkit_sr1_0">
+		<rus>Отыскать Грешника на КПП</rus>
+		<eng>Find Sinner at the security checkpoint</eng>
+		<ukr>Відшукати Грішника на КПП</ukr>
+		<fra>Trouver le Pécheur au point de contrôle</fra>
+		<pln>Odszukać Grzesznika na Posterunku</pln>
+	</string>
+	<string id="aaz_oboroten_sr1_0">
+		<rus>Дождаться ночи в деревне Копачи</rus>
+		<eng>Wait for the night in the Kopachy village</eng>
+		<ukr>Дочекатися ночі в селі Копачі</ukr>
+		<fra>Attendre la nuit dans le village de Kopatchi</fra>
+		<pln>Doczekać nocy w wiosce Kopacze</pln>
+	</string>
+	<string id="volna_dovod_sr1_0">
+		<rus>Проверить Лесопилку</rus>
+		<eng>Check the Sawmill</eng>
+		<ukr>Перевірити Лісопилку</ukr>
+		<fra>Examiner la Scierie</fra>
+		<pln>Sprawdzić Tartak</pln>
+	</string>
+	<string id="ohota_tushkan_sr1_0">
+		<rus>Место охоты на тушканов</rus>
+		<eng>Place for hunting rodents</eng>
+		<ukr>Місце полювання на тушканів</ukr>
+		<fra>Lieu de chasse aux rongeurs</fra>
+		<pln>Miejsce polowania na tuszkany</pln>
+	</string>
+	<string id="ohota_polter_sr1_0">
+		<rus>Дом духов</rus>
+		<eng>House of the ghosts</eng>
+		<ukr>Дім духів</ukr>
+		<fra>Maison aux esprits</fra>
+		<pln>Dom duchów</pln>
+	</string>
+	<string id="volna_btr1_sr1_0">
+		<rus>Оборонять позицию у портовых кранов</rus>
+		<eng>Defend the position at the port cranes</eng>
+		<ukr>Обороняти позицію біля портових кранів</ukr>
+		<fra>Défendre la position dans les grues portuaires</fra>
+		<pln>Obronić pozycję przy Dźwigach Portowych</pln>
+	</string>
+	<string id="volna_btr2_sr1_0">
+		<rus>Оборонять позицию у лагеря "Изумрудное"</rus>
+		<eng>Defend the position at the "Emerald" camp</eng>
+		<ukr>Обороняти позицію біля табору "Смарагдове"</ukr>
+		<fra>Défendre la position au camp "Emeraude"</fra>
+		<pln>Obronić pozycję przy obozie "Izumrudroje"</pln>
+	</string>
+	<string id="volna_btr3_sr1_0">
+		<rus>Оборонять позицию возле заправки</rus>
+		<eng>Defend the position near the filling station</eng>
+		<ukr>Обороняти позицію біля заправки</ukr>
+		<fra>Défendre la position près de la station d'essence</fra>
+		<pln>Obronić pozycję przy Stacji Benzynowej</pln>
+	</string>
+	<string id="predator_npc_sr1_0">
+		<rus>Возможное местоположение неизвестной твари</rus>
+		<eng>Possible location of an unknown creature</eng>
+		<ukr>Можливе місце розташування невідомої тварі</ukr>
+		<fra>Emplacement possible d'une créature inconnue</fra>
+		<pln>Możliwa lokalizacja nieznanej bestii</pln>
+	</string>
+	<string id="spider_bomba_sr1_0">
+		<rus>Выбраться на поверхность</rus>
+		<eng>Get to the surface</eng>
+		<ukr>Вибратися на поверхню</ukr>
+		<fra>Se tirer à la surface</fra>
+		<pln>Wydostać się na powierzchnię</pln>
+	</string>
+	<string id="ohota_vypolzen_sr1_0">
+		<rus>Выбраться из шахты</rus>
+		<eng>Get out of the mine</eng>
+		<ukr>Вибратися з шахти</ukr>
+		<fra>Se tirer de la mine</fra>
+		<pln>Wydostać się z kopalni</pln>
+	</string>
+	<string id="night_watch_komplex_sr1_0">
+		<rus>Проверить комплекс</rus>
+		<eng>Check the complex</eng>
+		<ukr>Перевірити комплекс</ukr>
+		<fra>Inspecter le complexe</fra>
+		<pln>Sprawdzić kompleks</pln>
+	</string>
+	<string id="night_watch_zapravka_sr1_0">
+		<rus>Проверить заправку</rus>
+		<eng>Check the filling station</eng>
+		<ukr>Перевірити заправку</ukr>
+		<fra>Inspecter la station d'essence</fra>
+		<pln>Sprawdzić Stację Benzynową</pln>
+	</string>
+	<string id="night_watch_baza_sr1_0">
+		<rus>Вернуться на базу бандитов</rus>
+		<eng>Return to the bandits' base</eng>
+		<ukr>Повернутися на базу бандитів</ukr>
+		<fra>Revenir à la base des bandits</fra>
+		<pln>===Wróć do bazy bandytów</pln>
+	</string>
+	<string id="defend_hospital_sr1_0">
+		<rus>Занять позицию на вышке баржи</rus>
+		<eng>Take a position on the barge tower</eng>
+		<ukr>Зайняти позицію на вишці баржі</ukr>
+		<fra>Prendre position sur la tour de la barge</fra>
+		<pln>Zająć pozycje na maszcie barki</pln>
+	</string>
+	<string id="burer_electro_sr1_0">
+		<rus>Прибыть ночью на кладбище техники</rus>
+		<eng>Arrive to the vehicle scrapyard at night</eng>
+		<ukr>Прибути вночі на кладовище техніки</ukr>
+		<fra>Arriver la nuit au cimetière de véhicules</fra>
+		<pln>Przyjśc w nocy na Cmentarzysko Pojazdów</pln>
+	</string>
+	<string id="trofim_joke_sr1_0">
+		<rus>Разыскать бандита</rus>
+		<eng>Find the bandit</eng>
+		<ukr>Розшукати бандита</ukr>
+		<fra>Trouver le bandit</fra>
+		<pln>Odnaleźć bandytę</pln>
+	</string>
+	<string id="venom_dream_sr1_0">
+		<rus>Водонапорная башня</rus>
+		<eng>Water tower</eng>
+		<ukr>Водонапірна вежа</ukr>
+		<fra>Château d'eau</fra>
+		<pln>Wieża ciśnień</pln>
+	</string>
+	<string id="borov_target_sr1_0">
+		<rus>Стартовая позиция</rus>
+		<eng>Start position</eng>
+		<ukr>Стартова позиція</ukr>
+		<fra>Position de départ</fra>
+		<pln>Pozycja startowa</pln>
+	</string>
+	<string id="varg_npc_sr1_0">
+		<rus>Встретиться с Варгом</rus>
+		<eng>Meet Warg</eng>
+		<ukr>Зустрітися з Варгом</ukr>
+		<fra>Rencontrer Warg</fra>
+		<pln>Spotkać się z Wargiem</pln>
+	</string>
+	<string id="varg_support_sr1_0">
+		<rus>Занять позицию на вышке</rus>
+		<eng>Take a position on the tower</eng>
+		<ukr>Зайняти позицію на вишці</ukr>
+		<fra>Prendre position sur la tour</fra>
+		<pln>Zająć pozycję na wieży</pln>
+	</string>
+	<string id="two_corpses_sr1_0">
+		<rus>Обследовать место падения вертолёта</rus>
+		<eng>Inspect the helicopter crash site</eng>
+		<ukr>Обстежити місце падіння вертольота</ukr>
+		<fra>Inspecter le site de l'accident de l'hélicoptère</fra>
+		<pln>Sprawdzić miejsce katastrofy helikoptera</pln>
+	</string>
+	<string id="taynik_dimak_sr1_0">
+		<rus>Схрон Димака</rus>
+		<eng>Dimak's stash</eng>
+		<ukr>Схрон Дімака</ukr>
+		<fra>Cache de Dimak</fra>
+		<pln>Schowek Dimaka</pln>
+	</string>
+	<string id="add_coll_spot_0">
+		<rus>Тайник Коллекционера</rus>
+		<eng>Collector's stash</eng>
+		<ukr>Схованка Колекціонера</ukr>
+		<fra>Cache de Collectionneur</fra>
+		<pln>Schowek Kolekcjonera</pln>
+	</string>
+	<string id="spot_botsman">
+		<rus>Боцман</rus>
+		<eng>Boatswain</eng>
+		<ukr>Боцман</ukr>
+		<fra>Bosco</fra>
+		<pln>Bosman</pln>
+	</string>
+	<string id="spot_semeckii">
+		<rus>Юрий Семецкий</rus>
+		<eng>Yury Semetsky</eng>
+		<ukr>Юрій Семецький</ukr>
+		<fra>Yuri Semetsky</fra>
+		<pln>Jurij Siemiecki</pln>
+	</string>
+	<string id="spot_ranenii">
+		<rus>Раненый</rus>
+		<eng>Wounded</eng>
+		<ukr>Поранений</ukr>
+		<fra>Blessé</fra>
+		<pln>Ranny</pln>
+	</string>
+	<string id="spot_yakut_ograblen">
+		<rus>Возможные свидетели</rus>
+		<eng>Possible witnesses</eng>
+		<ukr>Можливі свідки</ukr>
+		<fra>Témoins possibles</fra>
+		<pln>Możliwi świadkowie</pln>
+	</string>
+	<string id="lis_for_medkit">
+		<rus>Тайник Лиса</rus>
+		<eng>Fox's stash</eng>
+		<ukr>Схованка Лиса</ukr>
+		<fra>Cache de Renard</fra>
+		<pln>Schowek Lisa</pln>
+	</string>
+	<string id="toz_hunter">
+		<rus>Тайник Охотника</rus>
+		<eng>Hunter's stash</eng>
+		<ukr>Схованка Мисливця</ukr>
+		<fra>Cache de Chasseur</fra>
+		<pln>Schowek Łowcy</pln>
+	</string>
+	<string id="habar_krot">
+		<rus>Хабар Крота</rus>
+		<eng>Mole's loot</eng>
+		<ukr>Хабар Крота</ukr>
+		<fra>Butin de Tope</fra>
+		<pln>Schowek Kreta</pln>
+	</string>
+	<string id="box_norman">
+		<rus>Тайник Нормана</rus>
+		<eng>Norman's stash</eng>
+		<ukr>Схованка Нормана</ukr>
+		<fra>Cache de Norman</fra>
+		<pln>Schowek Normana</pln>
+	</string>
+	<string id="box_winsor">
+		<rus>Тайник Винзора</rus>
+		<eng>Winsor's stash</eng>
+		<ukr>Схованка Вінзора</ukr>
+		<fra>Cache de Winsor</fra>
+		<pln>Schowek Winsora</pln>
+	</string>
+	<string id="notebook_metka">
+		<rus>Ноутбук ASUS</rus>
+		<eng>Laptop ASUS</eng>
+		<ukr>Ноутбук ASUS</ukr>
+		<fra>L'ordinateur portable ASUS</fra>
+		<pln>Notebook ASUS</pln>
+	</string>
+	<string id="murka_spot">
+		<rus>Предположительное место тайника воришки</rus>
+		<eng>The presumptive location of the thief's stash</eng>
+		<ukr>Очікуване місце схованки злодюжки</ukr>
+		<fra>Emplacement présumé de la cache du voleur</fra>
+		<pln>Prawdopodobna lokalizacja schowka złodziejaszka</pln>
+	</string>
+	<string id="mini_alkash_treasure">
+		<rus>Наводка на тайник от маленького контролёра</rus>
+		<eng>The tipoff to a stash from the tiny controller</eng>
+		<ukr>Наведення на схованку від маленького контролера</ukr>
+		<fra>L'indice à la cache du petit contrôleur</fra>
+		<pln>===Наводка на тайник от маленького контролёра</pln>
+	</string>
+	<string id="mine_spot">
+		<rus>Мина</rus>
+		<eng>Landmine</eng>
+		<ukr>Міна</ukr>
+		<fra>Mine</fra>
+		<pln>===Мина</pln>
+	</string>
+	<string id="explored_spot">
+		<rus>Тайник обыскан</rus>
+		<eng>Stash searched</eng>
+		<ukr>===Тайник вивчено</ukr>
+		<fra>===Mine</fra>
+		<pln>===Мина</pln>
+	</string>
+	<string id="set_electra_green">
+		<rus>Пещера, в которой предположительно находится артефакт</rus>
+		<eng>The cave in which the artifact is said to be located</eng>
+		<ukr>Печера, у якій імовірно знаходиться артефакт</ukr>
+		<fra>La grotte dans laquelle se trouve supposément l'artefact</fra>
+		<pln>===Пещера, где предположительно находится артефакт</pln>
+	</string>
+	<string id="set_forgetten_station">
+		<rus>Заброшенная стоянка бандитов</rus>
+		<eng>Abandoned bandits camp</eng>
+		<ukr>Покинута стоянка бандитів</ukr>
+		<fra>Camp de bandits abandonné</fra>
+		<pln>===Заброшенная стоянка бандитов</pln>
+	</string>
+	<string id="nagrada_dshor_bandit">
+		<rus>Хабар Сиплого</rus>
+		<eng>Gruff's loot</eng>
+		<ukr>Хабар Сиплого</ukr>
+		<fra>Butin de Rauque</fra>
+		<pln>===Хабар Сиплого</pln>
+	</string>
+	<string id="zaton_dshor_sr">
+		<rus>Обследовать место</rus>
+		<eng>Inspect the place</eng>
+		<ukr>Обстежити місце</ukr>
+		<fra>Inspecter le lieu</fra>
+		<pln>===Обследовать место</pln>
+	</string>
+	<string id="sokamernik_dshor_sr">
+		<rus>Место, где просил о помощи бандит</rus>
+		<eng>The place where a bandit asked for help</eng>
+		<ukr>Місце, де просив про допомогу бандит</ukr>
+		<fra>L'endroit où un bandit a demandé de l'aide</fra>
+		<pln>===Место, где просил о помощи бандит</pln>
+	</string>
+	<string id="babuin_bratva_spawn_sr_0">
+		<rus>Предположительное место группы Бабуина</rus>
+		<eng>Presumed location of the Baboon group</eng>
+		<ukr>Очікуване місце групи Бабуїна</ukr>
+		<fra>Localisation présumée du groupe du Babouin</fra>
+		<pln>===Предположительное место группы Бабуина</pln>
+	</string>
+	<string id="set_inventory_box_0015">
+		<rus>Тайник болтуна</rus>
+		<eng>Babbler's stash</eng>
+		<ukr>Схованка базіки</ukr>
+		<fra>Butin de babillard</fra>
+		<pln>===Тайник болтуна</pln>
+	</string>
+	<string id="set_inventory_box_0002">
+		<rus>Тайник в бочонке</rus>
+		<eng>Stash in a barrel</eng>
+		<ukr>Схованка у діжці</ukr>
+		<fra>La cache dans un tonnelet</fra>
+		<pln>===Тайник в бочонке</pln>
+	</string>
+	<string id="set_inventory_box_0037">
+		<rus>Хабар в дипломате</rus>
+		<eng>Loot in an attache case</eng>
+		<ukr>Хабар у дипломаті</ukr>
+		<fra>Butin dans une attaché-case</fra>
+		<pln>===Хабар в дипломате</pln>
+	</string>
+	<string id="alexandrych_treasure">
+		<rus>Тайник Александрыча</rus>
+		<eng>Alexandrych's stash</eng>
+		<ukr>Схованка Александрича</ukr>
+		<fra>La cache d'Alexandrytch</fra>
+		<pln>===Тайник Александрыча</pln>
+	</string>
+	<string id="james_treasure">
+		<rus>Тайник Джеймса</rus>
+		<eng>James' stash</eng>
+		<ukr>Схованка Джеймса</ukr>
+		<fra>La cache de James</fra>
+		<pln>===Тайник Джеймса</pln>
+	</string>
+	<string id="kostylnoga_nychka_spot">
+		<rus>Предположительное место тайника обманщика</rus>
+		<eng>Presumed location of the impostor's stash</eng>
+		<ukr>Очікуване місце схованки обманщика</ukr>
+		<fra>Localisation présumée de la cache de l'imposteur</fra>
+		<pln>===Prawdopodobna lokalizacja schowka обманщика</pln>
+	</string>
+	<string id="kotobegemot1_treasure_0">
+		<rus>Тайник Котобегемота</rus>
+		<eng>Catbehemoth's stash</eng>
+		<ukr>Схованка Котобегемота</ukr>
+		<fra>La cache de Chatbéhémoth</fra>
+		<pln>===Тайник Котобегемота</pln>
+	</string>
+	<string id="fenrir_treasure_dc">
+		<rus>Тайник Фенрира</rus>
+		<eng>Fenrir's stash</eng>
+		<ukr>Схованка Фенріра</ukr>
+		<fra>La cache de Fenrir</fra>
+		<pln>===Тайник Фенрира</pln>
+	</string>
+	<string id="obitel_treasure">
+		<rus>Подарочный тайник Обители</rus>
+		<eng>Resident Evil's stashed gift</eng>
+		<ukr>Подарункова схованка Обителі</ukr>
+		<fra>===Подарочный тайник Обители</fra>
+		<pln>===Подарочный тайник Обители</pln>
+	</string>
+	<string id="sword_in_stone_spot">
+		<rus>Меч в камне?</rus>
+		<eng>Sword in stone?</eng>
+		<ukr>===Подарочный тайник Обители</ukr>
+		<fra>===Подарочный тайник Обители</fra>
+		<pln>===Подарочный тайник Обители</pln>
+	</string>
+	<string id="krysyk_treasure">
+		<rus>Наводка от Крысюка</rus>
+		<eng>Tip from Krysyuk</eng>
+		<ukr>===Подарочный тайник Обители</ukr>
+		<fra>===Подарочный тайник Обители</fra>
+		<pln>===Подарочный тайник Обители</pln>
+	</string>
+	<string id="kontrik_red_mozg">
+		<rus>Предположительное место контролёра</rus>
+		<eng>Supposed place of the controller</eng>
+		<ukr>===Очікуване місце схованки обманщика</ukr>
+		<fra>===Localisation présumée de la cache de l'imposteur</fra>
+		<pln>===Prawdopodobna lokalizacja schowka обманщика</pln>
+	</string>
+</string_table>
