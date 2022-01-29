@@ -547,7 +547,7 @@
 	<!-- Ловим светлячка -->
 	<string id="fyrefly_use">
 		<rus>Поймать светлячка</rus>
-		<eng>===Поймать кошака</eng>
+		<eng>Catch Firefly</eng>
 		<ukr>Спіймати світлячка</ukr>
 		<pln>===Поймать кошака</pln>
 	</string>
@@ -647,12 +647,14 @@
 		<ukr>Ну гаразд, Ден, по руках, вояки крові мені багато попили, так що не завадить потрясти їх разок.</ukr>
 		<pln>No dobra, Dan, przybite, wojacy dużo krwi mi napsuli, dlatego nie zaszkodzi trochę im przyłożyć.</pln>
 	</string>
+
 	<string id="dan_grab_helmet_6">
 		<rus>Слушай, Меченый, такое дело, до меня дошла точная информация, что на военную базу на Агропроме учёные доставили кейс с чем-то необычным - точно неизвестно, что там, но комплекс усиленно охраняют. Но прежде чем подписывать тебя под это дело, реши вопрос с Кузнецовым, у него к тебе тоже было какое-то дело на Агропроме, а когда выполнишь просьбу майора, подходи, продолжим наш разговор.</rus>
-		<eng>===Listen, Marked One, here's the thing, I've received accurate information that the scientists delivered a case with something unusual to the military base at the Agroprom - it's not known exactly what is there, but the complex is heavily guarded.  Knowing you as an adventurous guy and your dislike for people in uniform, I suggest you take part in a raid, you'll definitely do well out of this.</eng>
+		<eng>===Listen, Marked One, here's the thing, I've received accurate information that the scientists delivered a case with something unusual to the military base at the Agroprom - it's not known exactly what is there, but the complex is heavily guarded. But before going for this case, solve the problem with Kuznetsov, he also had some business for you at Agroprom, and when you fulfill the major's request, come here, we'll continue our conversation.</eng>
 		<ukr>===Слухай, Мічений, така справа, до мене дійшла точна інформація, що на військову базу на Агропромі вчені привезли кейс з чимось незвичайним - точно невідомо, що там, але комплекс посилено охороняють. Знаючи тебе як хлопця лихого й твою нелюбов до людей у погонах, пропоную прийняти участь в нальоті, в накладі точно не залишишся.</ukr>
 		<pln>===Słuchaj, Naznaczony, jest taka sprawa. Dotarła do mnie dokładna informacja, że akurat teraz na wojskową bazę na Agropromie, uczeni przywieźli coś niewielkiego. Nie wiadomo dokładnie co to jest, ale w kompleksie wzmocniono ochronę. Znając ciebie jako chłopaka zręcznego i niezbyt kochającego pagony, proponuję udział w nalocie, na pewno na tym nie stracisz.</pln>
 	</string>
+
 	<string id="yakut_agro_helmet_0">
 		<rus>Ты Архара?</rus>
 		<eng>Are you Arkhara?</eng>
@@ -769,7 +771,7 @@
 	</string>
 	<string id="yakut_need_do_3">
 		<rus>Говорю же, оно не срочное, сначала реши все дела с охотником, но суть его вот в чём... Я уже рассказывал, что мне пришлось спрятаться на некоторое время в Подземельях Агропрома. Отсиживался я в чьём-то бывшем тайнике, точнее в секретной комнатке - грамотно оно было замаскировано, поэтому воякам и не удалось меня обнаружить. А когда представился случай, я тут же сбежал оттуда на поверхность. Другого шанса выбраться могло и не быть, так что я вынужден был бросить все свои вещи, включая ноутбук. В нём... короче, много чего в нём! Не смог бы ты принести его мне... нет, погоди, лучше не мне, а моему брату?</rus>
-		<eng>Well, it's not urgent, first resolve all your matters with the hunter, but the essence of it, is this... I already said that I had to hide for a while at the Agroprom Underground. I was hiding in someone's former hiding place, more precisely in a secret room - it was cleverly disguised, so the soldiers didn't manage to find me. So, when the opportunity presented itself, I immediately fled from there to the surface. There might not have been another chance to get out, so I had to leave all my belongings behind, including my laptop. In it... in short, there's a lot of information! Could you bring it to me... No, wait, it's better if you didn't, could you take it to my brother?</eng>
+		<eng>Well, it's not urgent, first resolve all your matters with the hunter, but the essence of it, is this... I already said that I had to hide for a while in the Agroprom Underground. I was hiding in someone's former hiding place, more precisely in a secret room - it was cleverly disguised, so the soldiers didn't manage to find me. So, when the opportunity presented itself, I immediately fled from there to the surface. There might not have been another chance to get out, so I had to leave all my belongings behind, including my laptop. In it... in short, there's a lot of information! Could you bring it to me... No, wait, it's better if you didn't, could you take it to my brother?</eng>
 		<ukr>Кажу ж, воно не термінове, спочатку виріши усі справи з мисливцем, але суть його ось у чому... Я вже розповідав, що мені довелося сховатися на деякий час у Підземеллі Агропрома. Відсиджувався я в чиїйсь колишній схованці, точніше в секретній кімнаті - грамотно вона було замаскована, тому воякам і не вдалося мене знайти. А коли випала нагода, я тут же втік звідти на поверхню. Іншого шансу вибратися могло і не бути, так що я змушений був кинути всі свої речі, включаючи ноутбук. У ньому... коротше, багато чого в ньому! Не зміг би ти принести його мені... ні, постривай, краще не мені, а моєму брату?</ukr>
 		<pln>===Naznaczony, Idź do Dana, pamiętasz jak na Agropromie hełm "wzięliśmy"? On ci pomoże, z nim możesz przejść przez strefę promieniowania psionicznego.</pln>
 	</string>
@@ -2336,19 +2338,19 @@
 	</string>
 	<string id="vasil_first_7">
 		<rus>Да есть тут один мужик - Калмыком кличут, так вот он прекрасные мази делает, мне они раньше помогали, да только я к нему идти не могу. Мы с ним последнее время не общаемся. Он тут как-то раз пьяный пришёл, ну и давай шутить. А я мужик серьёзный, шуток про себя не люблю. Ну и пошло-поехало, в итоге проклял его и всю его семью, сгоряча, конечно, семья для него больное место, с тех пор и мучаюсь.</rus>
-		<eng>Well, there is a man here - they call him Kalmyk, and he makes wonderful liniments, they helped me earlier, but I just can't go to him. I don't communicate with him any more. He came here drunk once, and started joking with me. I'm a serious man, I don't like jokes about myself. Well, it went on and on, and in the end, in the heat of the moment,  I cursed him and his whole family, of course, family is a sore point with him, and since then I've had to suffer.</eng>
+		<eng>Well, there is a man here - they call him Kalmyk, and he makes wonderful ointments. It's helped me before, but I just can't go to him, now. I don't communicate with him any more. He came here drunk once, and started joking around with me. I'm a serious man, I don't like jokes about myself. Well, it went on and on, and in the end, in the heat of the moment, I cursed him and his whole family. Of course, family is a sore point with him... and since then, I've had to suffer.</eng>
 		<ukr>Та є тут один мужик - Калмиком кличуть, так от він прекрасні мазі робить, мені вони раніше допомагали, та тільки я до нього йти не можу. Ми з ним останнім часом не спілкуємося. Він тут якось раз п'яний прийшов, ну і давай жартувати. А я мужик серйозний, жартів про себе не люблю. Ну і пішло-поїхало, в підсумку прокляв його і всю його сім'ю, погарячкував звичайно, сім'я для нього хворе місце, з тих пір і мучуся.</ukr>
 		<pln>Tak, jest tu jeden człowiek - zwany Kałmukiem. Wspaniałe maści robi, wcześniej mi bardzo pomagały, ale ja nie mogę do niego iść. My się ostatnio nie bardzo zgadzamy. Przyszedł tu kiedyś pijany, no i dalej żartować. A ja jestem człowiek poważny, żartów z siebie nie lubię. No i poszło..., w końcu przekląłem jego i całą jego rodzinę, w nerwach i bez zastanowienia, a dla niego rodzina to czułe miejsce. Od tej pory się męczę.</pln>
 	</string>
 	<string id="vasil_first_8">
 		<rus>Так давай я поищу его, раздобуду мази для тебя.</rus>
-		<eng>So, let me look for him, I'll get some ointment for you.</eng>
+		<eng>So, let me look for him. I'll get some ointment for you.</eng>
 		<ukr>Так давай я пошукаю його, роздобуду мазі для тебе.</ukr>
 		<pln>No to poszukam go, zdobędę tę maść dla ciebie.</pln>
 	</string>
 	<string id="vasil_first_9">
 		<rus>Ну если раздобудешь мне 3 баночки мази, тогда я снова буду в строю и смогу ремонтом заниматься, в том числе и для тебя.</rus>
-		<eng>Well, if you get me 3 jars of ointment, I'll be back in business and I can do repairs, including yours.</eng>
+		<eng>Well, if you can get me 3 jars of ointment, I'll be back in business and then I can do repairs, including yours.</eng>
 		<ukr>Ну якщо роздобудеш мені 3 баночки мазі, тоді я знову в строю і зможу ремонтом займатися, в тому числі і для тебе.</ukr>
 		<pln>Jeśli zdobędziesz dla mnie 3 pudełka maści, wtedy znowu będę na chodzie i mogę zajmować się naprawami, w tym i dla ciebie.</pln>
 	</string>

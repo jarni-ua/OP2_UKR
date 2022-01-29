@@ -236,7 +236,7 @@
 	</string>
 	<string id="atp_arhara_secret_1_descr">
 		<rus>Схоронил снарягу с прошлой операции. Мне она пока ни к чему, но может понадобиться при выполнении следующего задания.</rus>
-		<eng>===I hid the map with transition coordinates. I don’t need it anymore, I already learnt this path by heart...</eng>
+		<eng>Hid my gear from the last mission. I don't need it now, but maybe it might come in handy during the next mission.</eng>
 		<ukr>Сховав спорядження з минулої операції. Мені воно поки ні до чого, але може знадобитися при виконанні наступного завдання.</ukr>
 		<pln>===Ukryłem mapę z koordynatami przejścia. Mnie ona już na nic, tę scieżkę znam już na wylot...</pln>
 	</string>
@@ -254,7 +254,7 @@
 	</string>
 	<string id="atp_arhara_secret_3_name">
 		<rus>Хабар Китобоя</rus>
-		<eng>===Kit's stash</eng>
+		<eng>Whaler's stash</eng>
 		<ukr>Хабар Китобоя</ukr>
 		<pln>===Towar Kita</pln>
 	</string>
@@ -338,7 +338,7 @@
 	</string>
 	<string id="aver_arhara_secret_2_name">
 		<rus>Тайник мстителя</rus>
-		<eng>===Pilgrim's stash</eng>
+		<eng>Avenger's stash</eng>
 		<ukr>Схованка месника</ukr>
 		<pln>===Schowek Pielgrzyma</pln>
 	</string>
@@ -362,7 +362,7 @@
 	</string>
 	<string id="aver_arhara_secret_4_name">
 		<rus>Тайник в лесу</rus>
-		<eng>===Skygazer's stash</eng>
+		<eng>Stash in the woods</eng>
 		<ukr>Схованка у лісі</ukr>
 		<pln>===Schowek Astronoma</pln>
 	</string>
@@ -374,13 +374,13 @@
 	</string>
 	<string id="aver_arhara_secret_5_name">
 		<rus>Тайник пожилого сталкера</rus>
-		<eng>===Old Man's stash</eng>
+		<eng>Old stalker's stash</eng>
 		<ukr>Схованка літнього сталкера</ukr>
 		<pln>===Schowek Starca</pln>
 	</string>
 	<string id="aver_arhara_secret_5_descr">
 		<rus>Оставлю тут рюкзачок с хабаром, пока у медика лечусь. Поправлю здоровье - заберу.</rus>
-		<eng>===I'll leave a backpack with artifacts here while the doctor treats me. I will take it, when my health is good.</eng>
+		<eng>I'll leave my backpack here with my loot while I'm being treated by a medic. When I get better, I'll pick it up.</eng>
 		<ukr>Залишу тут рюкзачок з хабаром, поки у медика лікуюся. Поправлю здоров'я - заберу.</ukr>
 		<pln>===Zostawię tu plecak z artami, póki leczę się u medyka. Podreperuję zdrowie - zabiorę.</pln>
 	</string>
@@ -476,7 +476,7 @@
 	</string>
 	<string id="agr_secret_0000_name">
 		<rus>Труба с секретом</rus>
-		<eng>===Seriy's stash</eng>
+		<eng>Pipe with a secret</eng>
 		<ukr>Труба з секретом</ukr>
 		<pln>===Schowek Sieryja</pln>
 	</string>
@@ -626,7 +626,7 @@
 	</string>
 	<string id="agr_secret_0013_descr">
 		<rus>Мы с Коляном на Агропроме неплохо погуляли, хлама разного нагребли, но кое-что довелось припрятать. Ящик положили в мусорном контейнере.</rus>
-		<eng>Kolyan and I walked well at the Agroprom, took some stuff, but we had to hide something. We put a box in the trash container.</eng>
+		<eng>Kolyan and I walked well in the Agroprom, took some stuff, but we had to hide something. We put a box in the trash container.</eng>
 		<ukr>Ми з Коляном на Агропромі непогано погуляли, мотлоху різного набрали, але частку довелось приховати. Ящик поклали до сміттєвого контейнера.</ukr>
 		<pln>Zrobiliśmy sobie z Kołjanem spacer po Agropromie. Znaleźliśmy same śmieci, ale udało nam się schować trochę rzeczy. Ukryliśmy skrzynię w koszu na śmieci.</pln>
 	</string>
@@ -751,10 +751,10 @@
 		<pln>Schowałem to w sejfie, ale zjawili się żołnierze i teraz nie mogę zabrać towaru.</pln>
 	</string>
 	<string id="agr_secret_0023_name">
-		<rus>===Агросейф</rus>
-		<eng>===Agrosafe</eng>
+		<rus>Агросейф</rus>
+		<eng>Agrosafe</eng>
 		<ukr>Сейф з НДІ «Агропром»</ukr>
-		<pln>===Agrosejf</pln>
+		<pln>Agrosejf</pln>
 	</string>
 	<string id="agr_secret_0024_descr">
 		<rus>В трубу кинул шмотки, потом заберу.</rus>
@@ -806,13 +806,13 @@
 	</string>
 	<string id="agr_secret_0028_descr">
 		<rus>Нашёл недавно брошенный кем-то рюкзак. Место неприметное, можно и тайник здесь устроить.</rus>
-		<eng>===Convenient box for small things, I kept bench work tools in such one at home.</eng>
+		<eng>I found a recently abandoned backpack. It's a pretty good place to tuck away loot unnoticed. </eng>
 		<ukr>Знайшов нещодавно кинутий кимось рюкзак. Місце непримітне, можна і схованку тут влаштувати.</ukr>
 		<pln>===Skrzynia do przechowywania niewielkich przedmiotów. W domu trzymam w takiej narzędzia.</pln>
 	</string>
 	<string id="agr_secret_0028_name">
 		<rus>Бесхозный рюкзак</rus>
-		<eng>===Locksmith's inventory</eng>
+		<eng>Abandoned backpack</eng>
 		<ukr>Нічийний рюкзак</ukr>
 		<pln>===Schowek ślusarza</pln>
 	</string>
@@ -1016,7 +1016,7 @@
 	</string>
 	<string id="bar_secret_0011_name">
 		<rus>Тайник за аномалиями</rus>
-		<eng>===Arnie's stash</eng>
+		<eng>Stash behind anomalies</eng>
 		<ukr>Схованка за аномаліями</ukr>
 		<pln>===Schowek Arniego</pln>
 	</string>
@@ -2060,7 +2060,7 @@
 	</string>
 	<string id="pri_secret_0004_name">
 		<rus>Запасы Свободы</rus>
-		<eng>===Freedom Leader's stocks</eng>
+		<eng>Freedom's stocks</eng>
 		<ukr>Запаси «Волі»</ukr>
 		<pln>===Zapasy lidera "Wolności"</pln>
 	</string>
@@ -2846,12 +2846,12 @@
 	</string>
 	<string id="val_secret_0033_description">
 		<rus>Боров, жирная свинья, забирает в общак слишком много, поэтому припрячу-ка здесь для себя кое-какие припасы.</rus>
-		<eng>===There must be Krysyuk's PDA here</eng>
+		<eng>Hog, that fat pig, takes too much for the community pool, so I'll stash some supplies here for myself.</eng>
 		<ukr>Кабан, жирна свиня, забирає в общак занадто багато, тому приховаю-но тут для себе деякі припаси.</ukr>
 	</string>
 	<string id="val_secret_0033_name">
 		<rus>Временная нычка</rus>
-		<eng>===Krysyuk's stash</eng>
+		<eng>Temporary stash</eng>
 		<ukr>Тимчасова ничка</ukr>
 	</string>
 	<string id="x16_secret_0000_description">
@@ -4374,7 +4374,7 @@
 	</string>
 	<string id="red_forest_secret_0035_name">
 		<rus>Вещи прапорщика</rus>
-		<eng>===Sherstyuk's things</eng>
+		<eng>Warrant officer's things</eng>
 		<ukr>Речі прапорщика</ukr>
 		<pln>===Rzeczy Szerstiuka</pln>
 	</string>
@@ -4458,7 +4458,7 @@
 	</string>
 	<string id="labx8_secret_0000_name">
 		<rus>Вещи лаборанта</rus>
-		<eng>===Volazar's things</eng>
+		<eng>Lab technician's things</eng>
 		<ukr>Речі лаборанта</ukr>
 		<pln>===Rzeczy Wolazara</pln>
 	</string>
@@ -4470,7 +4470,7 @@
 	</string>
 	<string id="labx8_secret_0001_name">
 		<rus>Нычка беспредельщика</rus>
-		<eng>===Fenrir's stash</eng>
+		<eng>Delinquent's stash</eng>
 		<ukr>Ничка безбашенного</ukr>
 		<pln>===Schowek Fenrira</pln>
 	</string>
@@ -4518,13 +4518,13 @@
 	</string>
 	<string id="zl_secret_00_name">
 		<rus>Схрон бегунка</rus>
-		<eng>===Chemist's stash</eng>
+		<eng>Runner's stash</eng>
 		<ukr>Схрон бігунця</ukr>
 		<pln>===Schowek Chemika</pln>
 	</string>
 	<string id="zl_secret_00_descr">
 		<rus>Пока спасался от монстров, наткнулся на хорошее место для тайника. Скину сюда всё лишнее, тут никто не найдёт.</rus>
-		<eng>While I was escaping from monsters, I found a good place for a stash. I'll put all the extra things here, nobody will find here.</eng>
+		<eng>While I was running from monsters, I found a good place for a stash. I'll put all the extra things here, nobody will find here.</eng>
 		<ukr>Поки рятувався від монстрів, наткнувся на гарне місце для схованки. Скину сюди все зайве, тут ніхто не знайде.</ukr>
 		<pln>W czasie kiedy uciekałem przed mutantami, natknąłem się na dobre miejsce na schowek. Zrzucę tutaj nadmiar wyposażenia, tu nikt tego nie znajdzie.</pln>
 	</string>
@@ -4536,7 +4536,7 @@
 	</string>
 	<string id="zl_secret_01_descr">
 		<rus>Случайно наткнулся на рюкзак с хабаром. Судя по виду, хозяин про него забыл, так что в следующий раз надо будет всё забрать.</rus>
-		<eng>===I accidentally found a box with loot. According to its appearance, the owner forgot about it, so the next time it will be necessary to take everything.</eng>
+		<eng>I accidentally found a backpack filled with loot. From the looks of it, the owner had forgotten about it. Next time I'm passing by, I'll pick it up.</eng>
 		<ukr>===Випадково натрапив на ящик з хабаром. Судячи з вигляду - господар про нього забув, так що наступного разу треба буде все забрати.</ukr>
 		<pln>===Przypadkowo natknąłem się na skrzynkę z towarem. Sądząc po wyglądzie - właściciel o niej zapomniał, tak że następnym razem trzeba to wszystko zabrać.</pln>
 	</string>
@@ -5010,7 +5010,7 @@
 	</string>
 	<string id="vp_secret_24_name">
 		<rus>Тайник пулемётчика</rus>
-		<eng>===Misha Machinegun's stash</eng>
+		<eng>Machine gunner's stash</eng>
 		<ukr>Схованка кулеметника</ukr>
 		<pln>===Schowek Miszy Kanoniera</pln>
 	</string>
@@ -5214,13 +5214,13 @@
 	</string>
 	<string id="zat_secret_08_name">
 		<rus>Нычка возле дерева</rus>
-		<eng>===Stash on the tree</eng>
+		<eng>Stash next to a tree</eng>
 		<ukr>===Ничка на дереві</ukr>
 		<pln>===Schowek na drzewie</pln>
 	</string>
 	<string id="zat_secret_08_descr">
 		<rus>Нашёл обрывок какой-то бумаги с текстом: "... капитан умолял хорошенько припрятать его личные вещи. Знал, что Древолазу можно доверить предсмертную просьбу. Спрячу в кустах возле дерева." Координаты прилагаются.</rus>
-		<eng>===I found a piece of paper with the text: "... the captain begged to carefully hide his personal belongings. He knew a climber could be entrusted with the death-request. I will hide it in a convenient tree." Coordinates are attached.</eng>
+		<eng>I found a piece of paper with the text: "... the captain begged to carefully hide his personal belongings. He knew a climber could be entrusted with his dying wish. I will hide it in the bushes near the tree." Coordinates are attached.</eng>
 		<ukr>===Знайшов уривок якогось паперу з текстом: "... капітан благав гарненько приховати його особисті речі. Знав, що Дереволазу можна довірити передсмертне прохання. Сховаю на зручному дереві." Координати додаються.</ukr>
 		<pln>===Znalazłem kawałek jakiegoś papieru z tekstem: "… kapitan błagał by dobrze schować jego osobiste rzeczy. Wiedział, że mi można powierzyć przedśmiertną prośbę. Schowam na drzewie". Współrzędne są dołączone</pln>
 	</string>
@@ -5346,7 +5346,7 @@
 	</string>
 	<string id="zat_secret_19_name">
 		<rus>Лёжка опытного снайпера</rus>
-		<eng>===Fenrir's stash</eng>
+		<eng>Experienced sniper's den</eng>
 		<ukr>Лежанка досвідченого снайпера</ukr>
 		<pln>===Leże Fenrira</pln>
 	</string>
@@ -5586,25 +5586,25 @@
 	</string>
 	<string id="zat_secret_42_name">
 		<rus>Нычка в кустах</rus>
-		<eng>===Comfortable tree</eng>
+		<eng>Stash in the bushes</eng>
 		<ukr>===Зручне дерево</ukr>
 		<pln>===Na drzewie</pln>
 	</string>
 	<string id="zat_secret_42_descr">
 		<rus>Надо избавиться от этих вещей как можно скорее, пока всё не утихнет. Никто не должен знать, что это я завалил Султана. Спрячу в ничем не примечательных кустах на Затоне.</rus>
-		<eng>===We must get rid of these things as soon as possible, until this blows over. No one should know that I killed Sultan. I will hide it on one of the trees of Zaton.</eng>
+		<eng>We must get rid of these things as soon as possible, until this blows over. No one should know that I killed Sultan. I will hide it in one of the bushes at Zaton.</eng>
 		<ukr>===Треба позбутися цих речей якнайскоріше, поки все не вщухне. Ніхто не повинен знати, що це я завалив Султана. Сховаю на одному з дерев Затону.</ukr>
 		<pln>===Trzeba pozbyć się tych rzeczy możliwie jak najszybciej, aż wszystko nie ucichnie. Nikt nie powinien wiedzieć, że to ja załatwiłem Sułtana. Schowam to na jednym z drzew Zatonu.</pln>
 	</string>
 	<string id="zat_secret_43_name">
 		<rus>Брошенный под деревом рюкзак</rus>
-		<eng>===Tree at the fork in the road</eng>
+		<eng>Backpack thrown under a tree</eng>
 		<ukr>===Дерево на розвилці</ukr>
 		<pln>===Drzewo na rozwidleniu</pln>
 	</string>
 	<string id="zat_secret_43_descr">
 		<rus>Нашёл КПК, разбитый пулей. Удалось расшифровать лишь одну запись: "Отдыхал около аномалии "Цирк", любовался огнями. Вдруг из кустов выполз израненный монолитовец. Эти фанатики, выйдя из-под действия Радара, почти всегда становятся невменяемыми. По сути, я только нескольких правильных монолитовцев знал - Брода и его группу. А этот начал на меня кидаться и пытаться пистолет из кобуры достать. Я, ясное дело, завалил его. Ствол забрал с собой, а всё остальное спрятал под деревом неподалёку в рюкзаке, отобранном у фанатика. Вряд ли пригодится, но, может быть, продам кому-нибудь." Кстати, владелец явно живой остался - неподалёку нашёл выпотрошенную аптечку, бинты и пару использованных артефактов "Душа".</rus>
-		<eng>===I found a PDA broken by a bullet. I managed to decode only one record: “I rested around the Circus anomaly, admired the lights. Suddenly a wounded Monolithian crawled out of the bushes. These fanatics, coming out from the action of Radar, almost always become crazy. In fact, I knew only a few normal Monolithians, Brod and his group. And this one started to attack me and try to get a gun from the holster. Of course, I killed him. I took the gun with me, and hid all the rest on a tree nearby. I won't really need it, but maybe I can sell it to someone." By the way, the owner must be alive. I found a cleaned out first-aid kit, bandages and a couple of used "Soul" artifacts nearby.</eng>
+		<eng>I found a PDA broken by a bullet. I managed to decode only one record: “I was resting around the Circus anomaly, admiring the lights, when suddenly a wounded Monolithian crawled out of the bushes. These fanatics go completely mental after they leave Radar's range. In fact, I only knew a few normal Monolithians, Brod and his group. This one started to attack me and tried to get his gun out of the holster. Of course, I killed him. I took his gun with me, and hid the rest under a tree nearby. I won't really need it, but maybe I can sell it to someone." By the way, the owner must be alive. I found an empty first-aid kit, bandages and a couple of used "Soul" artifacts nearby.</eng>
 		<ukr>===Знайшов КПК, розбитий кулею. Вдалося розшифрувати лише один запис: "Відпочивав біля аномалії "Цирк", милувався вогнями. Раптом з кущів виповз поранений Монолітівець. Ці фанатики, вийшовши з-під дії Радару, майже завжди стають неосудними. По суті, я тільки кількох правильних монолітівців знав - Брода і його групу. А цей почав на мене кидатися і намагатися пістолет з кобури дістати. Я, певна річ, завалив його. Ствол забрав із собою, а все інше сховав на дереві неподалік. Навряд чи знадобиться, але, може бути, продам кому-небудь." До речі, власник явно живий залишився - неподалік знайшов випотрошену аптечку, бинти та пару використаних артефактів "Душа".</ukr>
 		<pln>===Znalazłem PDA, rozbite przez kulę. Udało się odzyskać tylko jeden zapis: "Odpoczywałem przy anomalii Cyrk, cieszyłem się ogniami. Nagle z krzaków wyczołgał się ranny monolitowiec. Ci fanatycy, wychodząc spod działania Mózgozwęglacza, prawie zawsze stają się niepoczytalni. W istocie, ja tylko kilku normalnych monolitowców widziałem - Brodę i jego grupę. I ten chciał się na mnie rzucić i już próbował pistolet z kabury wyciągnąć. Ja, jasna sprawa, rozwaliłem go. Broń zabrałem z sobą, a całą resztę schowałem na drzewie nieopodal. Chyba nie przyda się, ale, być może, sprzedam to komuś." Przy okazji, właściciel z pewnością przeżył - nieopodal znalazłem pustą apteczkę, bandaże i kilka zużytych artefaktów "Dusza".</pln>
 	</string>
@@ -5634,13 +5634,13 @@
 	</string>
 	<string id="zat_secret_46_name">
 		<rus>Рюкзак за забором</rus>
-		<eng>===Tree stash</eng>
+		<eng>Backpack behind the fence</eng>
 		<ukr>===Дерев'яна схованка</ukr>
 		<pln>===Schowek na drzewie</pln>
 	</string>
 	<string id="zat_secret_46_descr">
 		<rus>Менее ценные вещи убитых наёмников заныкал за забором, недалеко от их базы. Почти наверняка не пригодятся, но метку всё же поставил.</rus>
-		<eng>===I hid the less valuable things of the murdered merchants on a tree, not far from their base. I'm almost sure that I won't need them, but I left a mark.</eng>
+		<eng>I hid the less valuable items of dead mercenaries behind the fence, not far from their base. Almost certainly useless stuff, but I still marked it.</eng>
 		<ukr>===Менш цінні речі убитих найманців заникав на дереві, недалеко від їхньої бази. Майже напевно не знадобляться, але мітку все ж поставив.</ukr>
 		<pln>===Mniej cenne rzeczy zabitych najemników schowałem na drzewie, niedaleko ich bazy. Prawie na pewno się nie przydadzą, ale znacznik mimo to postawiłem.</pln>
 	</string>
@@ -6295,253 +6295,315 @@
 	
 	<string id="ds_secret_01_name">
 		<rus>Рюкзак в камнях</rus>
+		<eng>Backpack in the rocks</eng>
 		<ukr>Рюкзак в каменях</ukr>
 	</string>
 	<string id="ds_secret_01_descr">
 		<rus>До Тёмной Долины не дотяну. Впереди заброшенная деревня, но через оптику рассмотрел в ней группу бандитов. Возможно, придётся ввязываться в бой. Где-то совсем рядом ещё бюреры шумят. Чувствую, что не смогу преодолеть с перегрузом данный участок. Заберу хабар потом.</rus>
+		<eng>I couldn't make it to the Dark Valley. There's an abandoned village up ahead, but I could see a group of bandits in it through my optics. I might have to get into a fight. There's still some burers rustling around. I have a feeling I won't be able to make it through this part. I'll get the loot later.</eng>
 		<ukr>До Темної Долини не дотягну. Попереду покинуте село, але через оптику помітив в ньому групу бандитів. Можливо, доведеться вплутуватися в бій. Десь зовсім поруч ще бюрери шумлять. Відчуваю, що не зможу подолати з перевантаженням дану ділянку. Заберу хабар потім.</ukr>
 	</string>
 	<string id="ds_secret_02_name">
 		<rus>Ящик в кирпичах</rus>
+		<eng>Box of bricks</eng>
 		<ukr>Ящик у цеглі</ukr>
 	</string>
 	<string id="ds_secret_02_descr">
 		<rus>Не доверяю я своим новым дружкам. Подозрительные ребята, хотя говорят, что друзья Борова. Не верю! Наверное, спрячу самое ценное здесь, прямо у них под носом, над головами. Никто не догадается лазить по крышам, и мне спокойнее, пока сидим в засаде, сталкера какого-то пасём.</rus>
+		<eng>I don't trust my new friends. Suspicious guys, although they say they are friends of Borov. I don't believe it! I guess I'll hide my most valuable things here, right under their noses, over their heads. No one would think of climbing on the rooftops, and I feel safer, while we're sitting in an ambush, watching some stalker.</eng>
 		<ukr>Не довіряю я своїм новим друзям. Підозрілі хлопці, хоча кажуть, що друзі Кабана. Не вірю! Напевно, сховаю найцінніше тут, прямо у них під носом, над головами. Ніхто не здогадається лазити по дахах, і мені спокійніше, поки сидимо в засідці, сталкера якогось пасемо.</ukr>
 	</string>
 	<string id="ds_secret_03_name">
 		<rus>Сундук в кустах</rus>
+		<eng>Chest in the bush</eng>
 		<ukr>Скриня в кущах</ukr>
 	</string>
 	<string id="ds_secret_03_descr">
 		<rus>Куда ещё можно спрятать такой объёмный контейнер, как не в кусты? Вроде, со стороны не видно, три раза вокруг обошёл. Пусть полежат пока вещички, скоро в рейд, тогда заберу.</rus>
+		<eng>Where could I hide such a large container, if not in the bushes? I can't see it from the outside, I've been around it three times. I'll keep the things hidden for a while. There will be a raid soon, and then I'll take them away.</eng>
 		<ukr>Куди ще можна заховати такий об'ємний контейнер, як не в кущі? Начебто, з боку не видно, три рази навколо обійшов. Нехай полежать поки дрібнички, скоро в рейд, тоді заберу.</ukr>
 	</string>
 	<string id="ds_secret_04_name">
 		<rus>Схрон за решёткой</rus>
+		<eng>Stash behind bars</eng>
 		<ukr>Схрон за ґратами</ukr>
 	</string>
 	<string id="ds_secret_04_descr">
 		<rus>Отличное местечко! Сам не ожидал, что так удачно можно хабарок припрятать. Для Кордона такое снаряжение слишком шикарно, будут вопросы в деревне новичков. Туда пойду в порванной куртке и с обрезом, так проще и не приметнее. Когда задание Штыря выполню, тогда и заберу свою снарягу.</rus>
+		<eng>What a great place! I myself did not expect that you can stash the loot so well. For Cordon such equipment is too posh, there will be questions in the newbie village. I'll go in a torn jacket and sawn-off shotgun, so it's easier and not noticeable. When I complete Pin's task, then I'll take my equipment.</eng>
 		<ukr>Відмінне містечко! Сам не очікував, що так вдало можна хабарок приховати. Для Кордону таке спорядження занадто шикарне, будуть питання в селі новачків. Туди піду в порваній куртці і з обрізом, так простіше і не примітніше. Коли закінчу виконання завдання Штиря, тоді і заберу свою снарягу.</ukr>
 	</string>
 	<string id="ds_secret_05_name">
 		<rus>Ящик в тоннеле</rus>
+		<eng>Box in the tunnel</eng>
 		<ukr>Ящик в тунелі</ukr>
 	</string>
 	<string id="ds_secret_05_descr">
 		<rus>Не думал, что когда-то придётся пользоваться нычкой, но, похоже, время пришло. Наймы совсем обнаглели, бесцеремонно распихивают по карманам всё, что им понравилось, даже не смущаясь присутствия владельца. Пусть полежат вещички здесь. Когда шмон уляжется - заберу!</rus>
+		<eng>I didn't think I'd ever have to use the stash, but I guess the time has come. The mercenaries had grown quite bold, unceremoniously shoving everything they like into their pockets, not even embarrassed by the owner's presence. I'll keep my stuff here for now. When the raid is over, I'll take it!</eng>
 		<ukr>Не думав, що колись доведеться користуватися схованкою, але, схоже, час прийшов. Найми зовсім знахабніли, безцеремонно розпихують по кишенях все, що їм сподобалося, навіть не соромлячись присутності власника. Нехай полежать дрібнички тут. Коли шмон вляжеться - заберу!</ukr>
 	</string>
 	<string id="ds_secret_06_name">
 		<rus>Ящик в кустах</rus>
+		<eng>Box in the bush</eng>
 		<ukr>Ящик у кущах</ukr>
 	</string>
 	<string id="ds_secret_06_descr">
 		<rus>Думаю, мой погибший товарищ был бы не против, если кабаны и плоти будут охранять его хабар. Ему он уже не нужен, а мне тем более, пора валить из Зоны.</rus>
+		<eng>I think that my dead comrade would not mind if boars and flesh guard his loot. He doesn't need it anymore, and I don't need it any more; it's time to get out of the Zone.</eng>
 		<ukr>Думаю, мій загиблий товариш був би не проти, якщо кабани і плоті охоронятимуть його хабар. Йому він вже не потрібен, а мені тим більше, пора валити з Зони.</ukr>
 	</string>
 	<string id="ds_secret_07_name">
 		<rus>Неприметная бочка</rus>
+		<eng>An inconspicuous barrel</eng>
 		<ukr>Непримітна бочка</ukr>
 	</string>
 	<string id="ds_secret_07_descr">
 		<rus>Никто не догадается искать хабар в бочке из-под солярки. Я бы тоже не догадался, поэтому оставляю всё самое ценное здесь. Может, и небольшие ценности, но в Зоне всё может когда-нибудь пригодиться.</rus>
+		<eng>No one would think to look for the loot in a barrel of diesel. Neither would I, so I leave everything of value here. It may not be much, but anything in the Zone might come in handy someday.</eng>
 		<ukr>Ніхто не здогадається шукати хабар у бочці з-під солярки. Я б теж не здогадався, тому залишаю все найцінніше тут. Може, й невеликі цінності, але в Зоні все може коли-небудь стати в нагоді.</ukr>
 	</string>
 	<string id="ds_secret_08_name">
 		<rus>Ящик среди камней</rus>
+		<eng>Box among the boulders</eng>
 		<ukr>Ящик серед каменів</ukr>
 	</string>
 	<string id="ds_secret_08_descr">
 		<rus>Всё! Не могу больше тащить такой груз! Пора облегчить свои мучения. Территория оказалась гораздо больше по размерам, чем я её себе представлял. Думаю, что под прикрытием валунов мои излишки спокойно пролежат до моего следующего возвращения.</rus>
+		<eng>That's it! I can't carry this shit anymore! It's time to ease my suffering. The area turned out to be much larger than I had imagined. I guess my surplus will be safe under the cover of the boulders until my next return.</eng>
 		<ukr>Усе! Не можу більше тягнути такий вантаж! Пора полегшити свої муки. Територія виявилася набагато більшою за розмірами, ніж я її собі уявляв. Думаю, що під прикриттям валунів мої надлишки спокійно пролежать до мого наступного повернення.</ukr>
 	</string>
 	<string id="ds_secret_09_name">
 		<rus>Автонычка</rus>
+		<eng>Bus</eng>
 		<ukr>Автоничка</ukr>
 	</string>
 	<string id="ds_secret_09_descr">
 		<rus>Водитель после трёх часов возни с двигателем признался, что автобус больше никуда не поедет. Это весьма неожиданное заявление, и к такому повороту событий я не был готов. Пришлось скинуть часть хабара прямо здесь, иначе до Бара мне не добраться.</rus>
+		<eng>After three hours of fiddling with the engine, the driver admitted that the bus would never go anywhere again. This was a rather unexpected, I was not prepared for such a turn of events. I had to dump some of the loot right there, or I would never make it to the Bar.</eng>
 		<ukr>Водій після трьох годин метушні з двигуном зізнався, що автобус більше нікуди не поїде. Це досить несподівана заява, і до такого повороту подій я не був готовий. Довелося скинути частину хабара прямо тут, інакше до Бара мені не дістатися.</ukr>
 	</string>
 	<string id="ds_secret_10_name">
 		<rus>Неприметный бочонок</rus>
+		<eng>An inconspicuous barrel</eng>
 		<ukr>Непримітна бочечка</ukr>
 	</string>
 	<string id="ds_secret_10_descr">
 		<rus>Жуткое место! Хотел заночевать, но даже засветло здесь тени и привидения мерещатся. Ночью меня точно психоз одолеет, лучше пойду дальше. Правда, часть вещей придётся оставить. Их здесь точно никто искать не будет.</rus>
+		<eng>This place is spooky! I wanted to spend the night, but even at dawn I see shadows and ghosts here. I'm sure I'll go mad at night, so I'd better keep going. I'll have to leave some of my things behind, though. No one will look for them here, that's for sure.</eng>
 		<ukr>Жахливе місце! Хотів заночувати, але навіть завидна тут тіні і привиди ввижаються. Вночі мене точно психоз здолає, краще піду далі. Правда, частину речей доведеться залишити. Їх тут точно ніхто шукати не буде.</ukr>
 	</string>
 	<string id="ds_secret_11_name">
 		<rus>Парящий тайник</rus>
+		<eng>Hovering Stash</eng>
 		<ukr>Левітуюча схованка</ukr>
 	</string>
 	<string id="ds_secret_11_descr">
 		<rus>Думаю, не у всех есть с собой артефакт, позволяющий сюда забраться. Поэтому место для нычки, на мой взгляд, удачное. И трансформатор, хоть и отключён, но гудит так, словно под напряжением. Мистика! Пусть боятся!</rus>
+		<eng>I don't think everyone has an artifact with them that allows them to get up here. That's why I think it's a good place to hide. The transformer is off, but it hums as if it is powered on. Mystical! Let them be afraid!</eng>
 		<ukr>Думаю, не у всіх є з собою артефакт, який дозволяє сюди залізти. Тому місце для хованки, на мій погляд, вдале. І трансформатор, хоч і відключений, але гуде так, немов під напругою. Містика! Хай бояться!</ukr>
 	</string>
 	<string id="ds_secret_12_name">
 		<rus>Несгораемый схрон</rus>
+		<eng>Fireproof stash</eng>
 		<ukr>Вогнетривкий схрон</ukr>
 	</string>
 	<string id="ds_secret_12_descr">
 		<rus>Информация для мобильной группы "Иерихон": открыт доступ в один из огнеупорных шкафов секретной подземной базы. По прибытии на место разрешается долговременное использование!</rus>
+		<eng>Information for the "Jericho" mobile group: access to one of the fireproof cabinets of the secret underground base has been opened. Upon arrival at the site, long-term use is permitted!</eng>
 		<ukr>Інформація для мобільної групи "Єрихон": відкритий доступ в одну з вогнетривких шаф секретної підземної бази. Після прибуття на місце дозволяється тривале застосування!</ukr>
 	</string>
 	<string id="ds_secret_13_name">
 		<rus>Забытый схрон</rus>
+		<eng>Forgotten cache</eng>
 		<ukr>Забутий схрон</ukr>
 	</string>
 	<string id="ds_secret_13_descr">
 		<rus>Совершенно случайно обнаружил этот схрон. Место не самое лучшее, открытое, наверное, поэтому я его так легко нашёл. Пока не могу взять содержимое с собой. Буду возвращаться в штаб, тогда заберу. Если, конечно, за это время не объявится владелец.</rus>
+		<eng>I found this hiding place by accident. The place isn't the best. It's open, which is probably why I found it so easily. I can't take the contents with me yet. When I get back to headquarters, I'll take it. Unless, of course, the owner shows up in the meantime.</eng>
 		<ukr>Зовсім випадково виявив цей схрон. Місце не найкраще, відкрите, напевно, тому я його так легко знайшов. Поки не можу взяти вміст з собою. Буду повертатися в штаб, тоді заберу. Якщо, звичайно, за цей час не з'явиться власник.</ukr>
 	</string>
 
 	<string id="rosf_secret_01_name">
 		<rus>Вещи командира</rus>
+		<eng>Commander's belongings</eng>
 		<ukr>Речі командира</ukr>
 	</string>
 	<string id="rosf_secret_01_descr">
 		<rus>Срочно отступаем! Наёмников высадилось столько, что противостоять им нашему маленькому отряду невозможно! Лишние потери нам ни к чему. Потом пришлю сюда разведку, заберут этот и другие оставленные запасы.</rus>
+		<eng>Retreat at once! There are so many mercenaries that our little squad cannot withstand them! We don't need unnecessary losses. I will send a scout here later to pick up this and other supplies we left behind.</eng>
 		<ukr>Терміново відступаємо! Найманців висадилося стільки, що протистояти їм нашому маленькому загону неможливо! Зайві втрати нам ні до чого. Потім пришлю сюди розвідку, заберуть ці та інші залишені запаси.</ukr>
 	</string>
 	<string id="rosf_secret_02_name">
 		<rus>Схрон на четырёх ножках</rus>
+		<eng>Four-legged stash</eng>
 		<ukr>Схрон на чотирьох ніжках</ukr>
 	</string>
 	<string id="rosf_secret_02_descr">
 		<rus>Отличное место! Спрячу своё снаряжение пока здесь, а сам вступлю в экологи и спокойно пережду облаву наёмников.</rus>
+		<eng>This is a great place! I'll hide my equipment here for now, and I'll join the ecologists and wait quietly for the mercenaries to finish their raid.</eng>
 		<ukr>Чудове місце! Сховаю своє спорядження поки тут, а сам вступлю в екологи і спокійно перечекаю облаву найманців.</ukr>
 	</string>
 	<string id="rosf_secret_03_name">
 		<rus>Схрон под койкой</rus>
+		<eng>Under the bunk</eng>
 		<ukr>Схрон під ліжком</ukr>
 	</string>
 	<string id="rosf_secret_03_descr">
 		<rus>Не нравится мне моя новая команда и место службы - редкая дыра! Собрал немного вещичек, сложу под своим спальником. Получу довольствие, зарплату за четыре месяца и двину в Зону вольной птицей.</rus>
+		<eng>I do not like my new team and the place of service is a rare hole! I packed up some things and put them under my sleeping bag. I'll get my allowance, my four months' salary, and I'll go to the Zone as a free bird.</eng>
 		<ukr>Не подобається мені моя нова команда і місце служби - рідкісна діра! Зібрав трохи дрібничок, складу під своїм спальником. Отримаю забезпечення, зарплату за чотири місяці і подамся в Зону вільної птахом.</ukr>
 	</string>
 	<string id="rosf_secret_04_name">
 		<rus>Ценности в печи</rus>
+		<eng>Valuables in the furnace</eng>
 		<ukr>Цінності в печі</ukr>
 	</string>
 	<string id="rosf_secret_04_descr">
 		<rus>Пожалуй, это лучшее место на данной территории для хранения личных вещей. Лишь бы за время моего отсутствия домик полностью не ушёл под воду.</rus>
+		<eng>This is probably the best place in the area for storing personal belongings. I just wish the lodge hadn't gone under the water while I was gone.</eng>
 		<ukr>Мабуть це найкраще місце на даній території для зберігання особистих речей. Тільки би за час моєї відсутності будиночок повністю не пішов під воду.</ukr>
 	</string>
 	<string id="rosf_secret_05_name">
 		<rus>Кухонный шкафчик</rus>
+		<eng>Kitchen cabinet</eng>
 		<ukr>Кухонна шафка</ukr>
 	</string>
 	<string id="rosf_secret_05_descr">
 		<rus>Кром за умеренную плату согласился приютить мои вещички, пока я схожу в разведку на север. Разрешил распоряжаться моим добром на собственное усмотрение, если со мной в походе что-то случится...</rus>
+		<eng>I had a good deal to do with my belongings while I went scouting north. I gave him permission to dispose of my belongings as he saw fit, should anything happen to me on the raid...</eng>
 		<ukr>Кром за помірну плату погодився дати притулок моїм дрібничкам поки я сходжу в розвідку на північ. Дозволив розпоряджатися моїм добром на власний розсуд, якщо зі мною в поході щось трапиться...</ukr>
 	</string>
 	<string id="rosf_secret_06_name">
 		<rus>Рюкзак спящего сталкера</rus>
+		<eng>Sleeping stalker's backpack</eng>
 		<ukr>Рюкзак сплячого сталкера</ukr>
 	</string>
 	<string id="rosf_secret_06_descr">
 		<rus>Странный сталкер: неразговорчивый, грязный, помятый... Заночевал на диванчике. Утром проснулся и, не прощаясь, исчез в неизвестном направлении...</rus>
+		<eng>Strange stalker: speechless, dirty, wrinkled... He spent the night on the couch. In the morning he woke up and, without saying goodbye, disappeared in an unknown direction...</eng>
 		<ukr>Дивний сталкер: неговіркий, брудний, пом'ятий... Заночував на дивані. Вранці прокинувся і, не прощаючись, зник у невідомому напрямку...</ukr>
 	</string>
 	<string id="rosf_secret_07_name">
 		<rus>Неприметный ящик</rus>
+		<eng>Inconspicuous box</eng>
 		<ukr>Непримітний ящик</ukr>
 	</string>
 	<string id="rosf_secret_07_descr">
 		<rus>Обживаю новое место. Прикомандировали в кучу контейнеров на постоянную службу, она же зона для отдыха. Сложу всё ценное под собственную кровать в неприметный ящик. Здесь целее будет.</rus>
+		<eng>I'm settling into my new place. I was assigned to a pile of containers for permanent service, aka rest area. I put everything of value under my own bed in an inconspicuous box. It'll be safer here.</eng>
 		<ukr>Обживаю нове місце. Відрядили в купу контейнерів на постійну службу, вона ж зона для відпочинку. Складу все цінне під власне ліжко у непримітний ящик. Тут цілішим буде.</ukr>
 	</string>
 	<string id="rosf_secret_08_name">
 		<rus>Бетонный сейф</rus>
+		<eng>Concrete safe</eng>
 		<ukr>Бетонний сейф</ukr>
 	</string>
 	<string id="rosf_secret_08_descr">
 		<rus>Вот теперь я спокоен! Ни одна живая душа не догадается искать здесь мой хабар, поэтому ухожу на задание в Тёмную Лощину в приподнятом настроении.</rus>
+		<eng>Now I'm safe! Not a living soul would guess to look for my loot here, so I'm off on my mission to Darkscape in high spirits.</eng>
 		<ukr>Ось тепер я спокійний! Жодна жива душа не здогадається шукати тут мій хабар, тому йду на завдання в Темну Лощину в піднесеному настрої.</ukr>
 	</string>
 
 	<string id="puzir_secret_01_name">
 		<rus>Ящик военных</rus>
+		<eng>Military box</eng>
 		<ukr>Ящик військових</ukr>
 	</string>
 	<string id="puzir_secret_01_descr">
 		<rus>Вояки бросили на выходе из Забытого Леса пустой ящик. Большое им спасибо! Буду складывать сюда часть своего накопленного богатства. В этих краях хранить ценности безопасней, чем на Свалке.</rus>
+		<eng>The soldiers dropped an empty box at the exit of the Forgotten Forest. Thank you very much! I'll put some of my accumulated wealth here. It's safer to keep valuables in these parts than in the Dump.</eng>
 		<ukr>Вояки кинули на виході з Забутого Лісу порожній ящик. Велике їм спасибі! Буду складати сюди частину свого накопиченого багатства. У цих краях зберігати цінності безпечніше, ніж на Звалищі.</ukr>
 	</string>
 	<string id="puzir_secret_02_name">
 		<rus>Забытый хабар</rus>
+		<eng>Forgotten loot</eng>
 		<ukr>===Ящик з-під динаміту</ukr>
 	</string>
 	<string id="puzir_secret_02_descr">
 		<rus>Залез в камни, спасаясь от химер и оборотней, обнаружил чью-то нычку. Брать не буду - не моё! Но на всякий случай место запомню. Вдруг хозяина уже нет в живых, тогда мне его запасы очень пригодятся. Наведаюсь сюда через месяц.</rus>
+		<eng>I climbed into the rocks, fleeing from chimeras and werewolves, and found someone's stash. I'm not going to take it, it's not mine! But I'll remember the place, just in case. If the owner suddenly turns up dead, then his supplies will be very useful to me. I'll come back here in a month.</eng>
 		<ukr>Заліз в камені, рятуючись від химер і перевертнів, знайшов чиюсь ничку. Брати не буду - не моє! Але про всяк випадок місце запам'ятаю. Раптом господаря вже немає в живих, тоді мені його запаси дуже знадобляться. Навідаюсь сюди через місяць.</ukr>
 	</string>
 	<string id="puzir_secret_03_name">
 		<rus>Под присмотром бюреров</rus>
+		<eng>Under the Care of Burers</eng>
 		<ukr>Під наглядом бюрерів</ukr>
 	</string>
 	<string id="puzir_secret_03_descr">
 		<rus>Всё! Больше никогда не пойду в Забытый Лес! За полдня израсходовал месячный запас патронов, еды и лекарств. Изрядно потрёпан местными обитателями физически и морально. И как Крест здесь живёт?! Ладно, хватит ныть! Скидываю часть добра в найденный ящик и сваливаю отсюда как можно быстрее! Заберу, когда появится желание наведаться сюда вновь. Но это будет не скоро...</rus>
+		<eng>That's it! I will never go to the Forgotten Forest again! I used up a month's supply of ammo, food, and medicine in half a day. I'm pretty worn out physically and mentally by the locals. How does Cross live here?! All right, enough whining! I'll dump some of my stuff in the box I found and get out of here as fast as I can! I'll pick it up when I want to come here again. But that won't be for a while...</eng>
 		<ukr>Все! Більше ніколи не піду в Забутий Ліс! За пів дня витратив місячний запас патронів, їжі і ліків. Порядно пошарпаний місцевими мешканцями фізично і морально. І як Хрест тут живе?! Гаразд, вистачить нити! Скидаю частину добра в знайдений ящик і звалюю звідси якомога швидше! Заберу, коли з'явиться бажання навідатися сюди знову. Але це буде не скоро...</ukr>
 	</string>
 
 	<string id="forg_secret_01_name">
 		<rus>Воровской общак</rus>
+		<eng>Thieves' Hoard</eng>
 		<ukr>Злодійський общак</ukr>
 	</string>
 	<string id="forg_secret_01_descr">
 		<rus>Пахан сказал складывать все более-менее приличные ценности здесь. Потом разделим по трудоучастию и выделим братве, которая обживает новые территории.</rus>
+		<eng>Pakhan said to put all the more or less decent valuables here. Then we'll divide it up by participation and allocate it to the brothers who are settling in new territories.</eng>
 		<ukr>Пахан сказав складати всі більш-менш пристойні цінності тут. Потім розділимо по заслугам і виділимо братві, яка обживає нові території.</ukr>
 	</string>
 	<string id="forg_secret_02_name">
 		<rus>Ящик высотника</rus>
+		<eng>High-altitude box</eng>
 		<ukr>Ящик висотника</ukr>
 	</string>
 	<string id="forg_secret_02_descr">
 		<rus>Чего-ради нести найденные вещички в общак? А если я под пули подставлялся, чтобы такой хабарок получить? Короче, закину пока всё сюда, если найдут, скажу, не успел отдать, Выброс начался. А если не найдут, сам буду всеми ништяками пользоваться, когда свалю на вольные земли.</rus>
+		<eng>Why should I carry the things I found to the community? And what if I put myself in front of bullets to get this kind of stuff? Anyway, I'll put it all here for now, and if they find it, I'll tell them I didn't have time to give it back, the blowout had started. And if they don't find it, I'll use all the stuff myself when I'm out on free land.</eng>
 		<ukr>Заради чого нести знайдені дрібнички в общак? А якщо я під кулі підставлявся, щоб такий хабарок отримати? Коротше, закину поки все сюди, якщо знайдуть, скажу, не встиг віддати, викид почався. А якщо не знайдуть, сам буду всіма ніштяками користуватися, коли звалю на вільні землі.</ukr>
 	</string>
 	<string id="forg_secret_03_name">
 		<rus>Неприметный рюкзачок</rus>
+		<eng>Inconspicuous backpack</eng>
 		<ukr>Непримітний рюкзачок</ukr>
 	</string>
 	<string id="forg_secret_03_descr">
 		<rus>Ух ты! Понагнал на базу бригадир бойцов! Даже иностранцы есть. Откуда столько, да и зачем? Не иначе очередная заварушка намечается? Сложу свои вещички пока здесь. Как закончится всё, получу расчёт, заберу и в путь.</rus>
+		<eng>Wow! The brigadier's got a lot of fighters on base! There are even foreigners. Why so many, and why? Isn't it just another fight coming up? I'll put my things here for now. As soon as it's over, I'll get my paycheck and be on my way.</eng>
 		<ukr>Ух ти! Понагнав на базу бригадир бійців! Навіть іноземці є. Звідки стільки, та й навіщо? Не інакше чергова колотнеча намічається? Складу свої дрібнички поки тут. Як закінчиться все, отримаю розрахунок, заберу і в путь.</ukr>
 	</string>
 	<string id="forg_secret_04_name">
 		<rus>Объёмное хранилище</rus>
+		<eng>Bulk storage</eng>
 		<ukr>Об'ємне сховище</ukr>
 	</string>
 	<string id="forg_secret_04_descr">
 		<rus>Вряд ли в пустом танке для сбора переработанного сырья кто-то догадается искать мои вещи? Пора уже думать о более спокойной жизни и готовиться к ней. Начну прямо сегодня. Сложу сюда свой первый взнос.</rus>
+		<eng>I don't suppose anyone would think to look for my stuff in an empty recycling tank? It's time to think about and prepare for a quieter life. I'll start today. I'll put my first deposit in here.</eng>
 		<ukr>Навряд чи в порожньому танку для збору переробленої сировини хтось здогадається шукати мої речі? Пора вже думати про більш спокійне життя і готуватися до нього. Почну прямо сьогодні. Складу сюди свій перший внесок.</ukr>
 	</string>
 	<string id="forg_secret_05_name">
 		<rus>Замурованный тайник</rus>
+		<eng>Walled-in cache</eng>
 		<ukr>Замурована схованка</ukr>
 	</string>
 	<string id="forg_secret_05_descr">
 		<rus>Кто-то замуровал сейф прямо в стену. Отлично придумано! Оставлю свои вещички здесь и дверку сейфа замажу штукатуркой. Совсем неприметно будет.</rus>
+		<eng>Someone built a safe right into the wall. That's a great idea! I'll leave my stuff here and put plaster over the door of the safe. Nobody is going to notice it at all.</eng>
 		<ukr>Хтось замурував сейф прямо в стіну. Відмінно придумано! Залишу свої дрібнички тут і дверку сейфа замажу штукатуркою. Зовсім не буде видно.</ukr>
 	</string>
 	<string id="forg_secret_06_name">
 		<rus>Тайник в плитах</rus>
+		<eng>Stash in the slabs</eng>
 		<ukr>Схованка в плитах</ukr>
 	</string>
 	<string id="forg_secret_06_descr">
 		<rus>Хочешь хорошо спрятать - положи на самое видное место! Здесь этот принцип работает замечательно! Пусть ищут хабар сталкера, ушедшего из Зоны Отчуждения навсегда!</rus>
+		<eng>If you want to hide it well, put it in the most obvious place! This principle works great here! Let them look for the loot of a stalker who left the Exclusion Zone forever!</eng>
 		<ukr>Хочеш добре заховати - поклади на саме видне місце! Тут цей принцип працює чудово! Нехай шукають хабар сталкера, який пішов із Зони Відчуження назавжди!</ukr>
 	</string>
 	<string id="forg_secret_07_name">
 		<rus>Электрический тайник</rus>
+		<eng>Electric stash</eng>
 		<ukr>Електрична схованка</ukr>
 	</string>
 	<string id="forg_secret_07_descr">
 		<rus>Спрячу свои небольшие накопления в электрошкафу. Сюда, думаю, никто не полезет.</rus>
+		<eng>I'll hide my little stash in the electric panel. I don't think anyone will look in here.</eng>
 		<ukr>Сховаю свої невеликі накопичення в електрошафі. Сюди, думаю, ніхто не полізе.</ukr>
 	</string>
 

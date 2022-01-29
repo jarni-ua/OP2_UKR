@@ -98,7 +98,7 @@
 	</string>
 	<string id="arhara_obman16">
 		<rus>Телепорт на Агропром</rus>
-		<eng>Teleport to the Agroprom</eng>
+		<eng>Teleport to Agroprom</eng>
 		<ukr>Телепорт на Агропром</ukr>
 		<pln>Teleport na Agroprom</pln>
 	</string>
@@ -170,7 +170,7 @@
 	</string>
 	<string id="arhara_obman28">
 		<rus>Телепорт на АТП</rus>
-		<eng>Teleport to the MTP</eng>
+		<eng>Teleport to the ATP</eng>
 		<ukr>Телепорт на АТП</ukr>
 		<pln>Teleport na ATP</pln>
 	</string>
@@ -212,7 +212,7 @@
 	</string>
 	<string id="arhara_obman35">
 		<rus>Телепорт в Подземелье Агропрома</rus>
-		<eng>Teleport to the "Agroprom" underground</eng>
+		<eng>Teleport to the Agroprom Underground</eng>
 		<ukr>Телепорт до Підземелля Агропрому</ukr>
 		<pln>Teleport do Podziemi Agropromu</pln>
 	</string>
@@ -435,43 +435,43 @@
 	</string>
 	<string id="bloknot_pantera_descr">
 		<rus>Для просмотра откройте документ в рюкзаке.</rus>
-		<eng>===Put the document in the pistol slot to view its contents</eng>
+		<eng>To view, examine the document from your backpack.</eng>
 		<ukr>Для перегляду відкрийте документ у рюкзаку.</ukr>
 		<pln>===Aby obejrzeć, wstaw dokument w slot pistoletu.</pln>
 	</string>
 	<string id="dosye_zvez_descr">
 		<rus>Для просмотра содержимого откройте досье в рюкзаке.</rus>
-		<eng>===Put the note book in the pistol slot to view its contents</eng>
+		<eng>To view the contents, examine the dossier from the backpack.</eng>
 		<ukr>Для перегляду вмісту відкрийте досьє у рюкзаку.</ukr>
 		<pln>===Aby obejrzeć, wstaw notes w slot pistoletu.</pln>
 	</string>
 	<string id="foto_kukla_descr">
 		<rus>Более детально рассмотрите фото в рюкзаке.</rus>
-		<eng>===To view the photo, put it in the pistol slot.</eng>
+		<eng>To view, examine the photo from the backpack.</eng>
 		<ukr>Білье детально роздивіться фото у рюкзаку.</ukr>
 		<pln>===Aby obejrzeć, wstaw fotografię w slot pistoletu.</pln>
 	</string>
 	<string id="pilot_zapiska_descr">
 		<rus>Для просмотра прочитайте записку из рюкзака.</rus>
-		<eng>===To view the note, put it in the pistol slot.</eng>
+		<eng>To view, examine the note from the backpack.</eng>
 		<ukr>Для перегляду прочитайте записку з рюкзака.</ukr>
 		<pln>===Aby obejrzeć, wstaw notatkę w slot pistoletu.</pln>
 	</string>
 	<string id="kreditka_descr">
 		<rus>Более детально рассмотрите кредитку в рюкзаке. Кредитная карта Bank of America номиналом в 5000000$.</rus>
-		<eng>===To view the credit card, put it in the pistol slot. Bank of America $5000000 credit card.</eng>
+		<eng>To view, examine the credit card from the backpack. A $5,000,000 Bank of America credit card.</eng>
 		<ukr>Більш детально роздивіться кредитку у рюкзаку. Кредитна картка Bank of America номіналом в 5000000$.</ukr>
 		<pln>===Aby obejrzeć, wstaw czek w slot pistoletu. List kredytowy na Bank of America o nominale 5000000$.</pln>
 	</string>
 	<string id="razved_karta_descr">
 		<rus>Более детально рассмотрите карту в рюкзаке. Обрывок карты с координатами перехода.</rus>
-		<eng>===To view the map, put it in the pistol slot. Torn piece of map with transition point coordinates on it.</eng>
+		<eng>To view, examine the map from the backpack. Fragments of the map showing coordinates of transitions.</eng>
 		<ukr>Більш детально роздивіться карту у рюкзаку. Обривок карти з координатами переходу.</ukr>
 		<pln>===Aby obejrzeć, wstaw mapę w slot pistoletu. Fragment mapy z koordynatami przejścia.</pln>
 	</string>
 	<string id="karta_peschera_descr">
 		<rus>Более детально рассмотрите карту в рюкзаке. Старая карта Пещеры. Многие переходы уже не работают и неизвестно, есть ли шанс их открыть.</rus>
-		<eng>===To view the map, put it in the pistol slot. Old map of the Cave. Most of the transition points do not function, it is unknown if it's possible to activate them.</eng>
+		<eng>To view, examine the map from the backpack. An old map of the cave. Many transition points are no longer clear, and it is not known if they are able to be opened.</eng>
 		<ukr>Більш детально роздивіться карту у рюкзаку. Стара карта Печери. Багато переходів вже не працюють і невідомо, чи є шанс їх відкрити.</ukr>
 		<pln>===Aby obejrzeć, wstaw mapę w slot pistoletu. Stara mapa Pieczary. Wiele przejść już nie działa i nie wiadomo, czy jest szansa na ich otwarcie.</pln>
 	</string>
@@ -483,13 +483,13 @@
 	</string>
 	<string id="cigara_descr">
 		<rus>Выкуренная сигара немного восстанавливает пси-здоровье.</rus>
-		<eng>Smoking cigar slightly restores psy-health</eng>
+		<eng>Smoking cigars slightly restores psi-health</eng>
 		<ukr>Випалена сигара трохи відновлює псі-здоров'я.</ukr>
 		<pln>Wypalenie cygare nieznacznie poprawia zdrowie psioniczne.</pln>
 	</string>
 	<string id="old_doc_descr">
 		<rus>Старый пожелтевший документ. Формулы, записи на непонятном языке. По виду - бред сумасшедшего...</rus>
-		<eng>Old yellowed document. Formulas, entries in unknown language. Looks like ravings of a demented...</eng>
+		<eng>Old yellowed document. Formulas, entries in unknown language. Looks like ravings of the demented...</eng>
 		<ukr>Старий пожовклий документ. Формули, записи на незрозумілій мові. З вигляду - маячня божевільного...</ukr>
 		<pln>Stary pożółkły dokument. Wzory, notatki w niezrozumiałym języku... Na oko - brednie szaleńca...</pln>
 	</string>
@@ -820,7 +820,7 @@
 	</string>
 	<string id="snp_pda8_desc">
 		<rus>КПК "клиента", на который у Фенрира был заказ в Мёртвом Городе, и который не смог выполнить Бродяга.</rus>
-		<eng>===PDA of a 'client', for which Fenrir put an order in Dead City that Vagabond's failed to fulfill.</eng>
+		<eng>The PDA of the "Client" for which Fenrir had an order, in the dead city, and which Vagabond could not fulfill.</eng>
 		<ukr>КПК "клієнта", на який у Фенріра було замовлення у Мертвому Місті, і яке не зміг виконати Мандрівник.</ukr>
 		<pln>===PDA "klienta", na którego Fenrir miał zlecenie w Martwym Mieście, i którego to zlecenia nie mógł wypełnić Broda.</pln>
 	</string>
@@ -1443,7 +1443,7 @@
 	</string>
 	<string id="emb_note8_desc">
 		<rus>Ищи на Агропроме жужжание мух на территории первого комплекса.</rus>
-		<eng>Search at the Agroprom for the buzzing of flies in the first complex area.</eng>
+		<eng>Search in Agroprom for the buzzing of flies in the first complex area.</eng>
 		<ukr>Шукай на Агропромі дзижчання мух на території першого комплексу.</ukr>
 		<pln>Szukaj na Agropromie, brzęczenie much na terytorium pierwszego kompleksu.</pln>
 	</string>
@@ -1461,31 +1461,31 @@
 	</string>
 	<string id="emb_note11_desc">
 		<rus>Слушай на Генераторах, как кричат чайки на стреле крана недалеко от жёлтого вагончика.</rus>
-		<eng>===In Generators listen to the sound of flowing water behind a cemetery.</eng>
+		<eng>At the Generators, listen to how the birds scream, on the boom of a crane not far from the yellow trailer.</eng>
 		<ukr>===Слухай на Генераторах, як за кладовищем ллється вода.</ukr>
 		<pln>===Słuchaj na Generatorach, jak za cmentarzem leje się woda.</pln>
 	</string>
 	<string id="emb_note12_desc">
 		<rus>Где-то здесь есть старый разбитый камаз.</rus>
-		<eng>===Go up</eng>
+		<eng>Somewhere around here, there is an old broken KAMAZ.</eng>
 		<ukr>===Піднімайся.</ukr>
 		<pln>===Wspinaj się.</pln>
 	</string>
 	<string id="emb_note13_desc">
 		<rus>Есть два стула... Найди их.</rus>
-		<eng>===Jump and listen to the sound of crying gulls on the next power line pylon.</eng>
+		<eng>There are two seats... Find them.</eng>
 		<ukr>===Стрибай і слухай, як кричать чайки на другий опорі ЛЕП.</ukr>
 		<pln>===Skacz i słuchaj, jak krzyczą mewy na drugim słupie linii wysokiego napięcia.</pln>
 	</string>
 	<string id="emb_note14_desc">
 		<rus>Найди генератор, на котором поселился дятел.</rus>
-		<eng>===Find a pole on which a woodpecker has settled.</eng>
+		<eng>Find the generator that the woodpecker has settled on.</eng>
 		<ukr>===Знайди стовп, на якому поселився дятел.</ukr>
 		<pln>===Znajdź słup, na którym osiedlił się dzięcioł.</pln>
 	</string>
 	<string id="emb_note15_desc">
 		<rus>Теперь ищи колодец, в котором льётся вода.</rus>
-		<eng>===This place isn't safe, so, I hid it in a more secure place.</eng>
+		<eng>Now look for a well, in which water flows.</eng>
 		<ukr>===Тут ненадійно - поклав подалі.</ukr>
 		<pln>===Tu niepewnie - położyłem nieco dalej.</pln>
 	</string>
@@ -1497,7 +1497,7 @@
 	</string>
 	<string id="emb_note17_desc">
 		<rus>Ищи на шахте.</rus>
-		<eng>Search on the mine tower.</eng>
+		<eng>Search the mine.</eng>
 		<ukr>Шукай на шахті.</ukr>
 		<pln>Szukaj w szybie kopalni.</pln>
 	</string>
@@ -1660,7 +1660,7 @@
 	</string>
 	<string id="fli_note15_desc">
 		<rus>Подумал, что здесь не очень надёжно. Перепрятал на ЖД ферме на Агропроме. Там получше будет.</rus>
-		<eng>I decided this place wasn't safe enough. I hid it on a railway power line support at the Agroprom. It'd be better off there.</eng>
+		<eng>I decided this place wasn't safe enough. I hid it on a railway power line support in Agroprom. It'd be better off there.</eng>
 		<ukr>Подумав, що тут не дуже надійно. Переховав на залізничній фермі на Агропромі. Там краще буде.</ukr>
 		<pln>Pomyślałem, że tu nie jest zbyt pewnie. Przechowam to na konstrukcji nad torami, na Agropromie. Tam będzie lepiej.</pln>
 	</string>
@@ -1672,7 +1672,7 @@
 	</string>
 	<string id="fli_pda1_desc">
 		<rus>На КПК одно не отправленное сообщение:\n"Машенька, любимая! Привет! Маша, ты не представляешь как мне повезло! Если всё получится - мы будем богаты! Очень богаты! Недавно я узнал о новых территориях, АТП, ЧАЭС называются, ну в общем, не важно! Так вот, говорят, там артефактов - море! И очень дорогих! Туда никто не ходит, о них ещё никто не знает! Подожди, потерпи ещё чуть-чуть, и я вернусь богатым! И мы купим эту чёртову квартиру и уедем, наконец! Я дело своё открою, как мы мечтали, помнишь? Тебе даже работать не нужно будет! Потерпи, милая, я скоро! Целую крепко-крепко! Приветы всем!"</rus>
-		<eng>There's an unsent message in the PDA:\n"Masha, darling! Hello! Masha, you have no idea how lucky I am! If everything works out, we'll be rich! Very rich! Recently I learned of new territories, called the MTP, CNPP, never mind anyways! So, they say there are shitloads of artifacts there! And very expensive ones, too! Nobody goes there, cause nobody knows of them yet! Wait just a little longer, and I'll be back rich! And then we'll buy this damn apartment and finally leave this place! I'll open my own business, like we used to dream of doing, remember? You won't even have to work anymore! Be patient, my dear, I'll be back soon! Lot's of kisses! Say hello to everyone for me!"</eng>
+		<eng>There's an unsent message in the PDA:\n"Masha, darling! Hello! Masha, you have no idea how lucky I am! If everything works out, we'll be rich! Very rich! Recently I learned of new territories, called ATP, CNPP, never mind anyways! So, they say there are shitloads of artifacts there! And very expensive ones, too! Nobody goes there, cause nobody knows of them yet! Wait just a little longer, and I'll be back rich! And then we'll buy this damn apartment and finally leave this place! I'll open my own business, like we used to dream of doing, remember? You won't even have to work anymore! Be patient, my dear, I'll be back soon! Lot's of kisses! Say hello to everyone for me!"</eng>
 		<ukr>На КПК одне не відправлене повідомлення:\n"Машенька, кохана! Привіт! Маша, ти не уявляєш як мені пощастило! Якщо все вийде - ми будемо багаті! Дуже багаті! Нещодавно я дізнався про нові території, АТП, ЧАЕС називаються, ну загалом, не важливо! Так от, кажуть, там артефактів - море! І дуже дорогих! Туди ніхто не ходить, про них ще ніхто не знає! Почекай, потерпи ще трохи, і я повернуся багатим! і ми купимо цю чортову квартиру і поїдемо, нарешті! Я справу свою відкрию, як ми мріяли, пам'ятаєш? Тобі навіть працювати не потрібно буде! Потерпи, мила, я скоро! Цілую міцно-міцно! Привіт усім!"</ukr>
 		<pln>W PDA jedna nie wysłana wiadomość:\n"Maszeńka, moja kochana! Pozdrowienia! Masza, nie wyobrażasz sobie jak mi się poszczęściło! Jeżeli wszystko się uda - będziemy bogaci! Bardzo bogaci! Niedawno dowiedziałem się o nowych terytoriach, ATP i CEA się nazywają, no, ale to nie ważne! Otóż, mówią, że tam artefaktów - morze! I to bardzo drogich! Tam nikt nie chodzi, o nich jeszcze nikt nie wie! Poczekaj, wytrzymaj jeszcze troszeczkę, a wrócę bogatym! I kupimy te cholerne mieszkanie i wyjedziemy, nareszcie! Ja interes swój otworzę, tak jak marzyliśmy, pamiętasz? Nawet nie będziesz musiała pracować! Wytrzymaj, miła, już niedługo! Całuję cię mocno! Pozdrowienia wszystkim!"</pln>
 	</string>
@@ -1958,7 +1958,7 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="gena_note1_desc">
 		<rus>Дальше отправляемся на Дикую Территорию, оставлю информацию у перехода Бар - Армейские Склады, под ёлочкой, с которой совсем рядом растёт сосна.</rus>
-		<eng>===Next we're heading to the Wild Territory, I'm going to leave some info by the Bar - Army Warehouses transition, под ёлочкой, с которой совсем рядом растёт сосна.</eng>
+		<eng>Next, we go to the Wild Territory. I will leave information at the Bar - At the Army Warehouses, under the Christmas tree, with which a pine tree grows near by.</eng>
 		<ukr>Далі вирушаємо на Дику Територію, залишу інформацію біля переходу Бар - Армійські Склади, під ялиночкою, поряд з якою росте сосна.</ukr>
 		<pln>===Dalej udajemy się na Dzicz, zostawię informację przy przejściu Bar - Magazyny Wojskowe, под ёлочкой, с которой совсем рядом растёт сосна.</pln>
 	</string>
@@ -2000,7 +2000,7 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="strelok_taynik_pda1_5_desc">
 		<rus>На КПК одна заметка:\n \n"В одной из лабораторий нашёл схему резервных туннелей для аварийной эвакуации. Входы в эти туннели замаскированы под обычные двери или подвалы. Данными туннелями, по всей видимости, плотно пользуются торговцы, в частности, Бармен, Сидорович и Доктор. Единственное, что смог разобрать и проверить - это пути с Припяти и Кордона прямо в Бар и обратно. Записал на КПК наводки, чтобы не забыть.\n \nБар-Кордон: Чёрный ход из Бара за подсобкой Бармена,\nБар-Припять: Кладовка рядом с подсобкой Бармена,\nКордон-Бар: В бункере у Сидоровича,\nПрипять-Бар: Дверь в углу дома за Доктором.\n \n Чтобы попасть в подсобку и кладовку Бара, нужно переговорить с Барменом. \n Чтобы попасть в каморку Сидоровича, нужно переговорить с ним. \n Чтобы открыть дверь в углу дома в Ц.Припяти, нужно переговорить с Доктором, ключи у него.</rus>
-		<eng>===There's only one note in the PDA:\n \n"In one of the labs I found a diagram of the reserve tunnels for emergency evacuation. The entrances to these tunnels have been disguised as ordinary doors and basements. The only paths I could've figured out and tested are the paths from Pripyat and Cordon straight to the Bar and back. I wrote down the tips to them so as not to forget.\n \nBar-Cordon: back entrance to the bar behind Barkeep's counter,\nBar-Pripyat: the closet next to the back entrance to the bar,\nCordon-Bar: in the basement of a house in the rookie village,\nPripyat-Bar: the door in the corner of the building behind Doctor.\n \nI hope no one knows about them.</eng>
+		<eng>There is one note in the PDA:\n \n"In one of the labs I found a blueprint of the reserve tunnels used for emergency evacuation. The entrances to these tunnels have been disguised as ordinary doors and basement entrances. The only paths I could've figured out and tested are the paths from Pripyat and Cordon to the Bar and back. I wrote down the tips on the PDA so as not to forget.\n \nBar-Cordon: Door at the back of the bar, behind Barkeep's back room,\nBar-Pripyat: The storage room next to the door at the back of the bar,\nCordon-Bar: in the bunker of Sidorovich,\nPripyat-Bar: the door in the corner of the building behind Doctor.\n \n To get into the backroom at the Bar, you need to talk to Bartender.\n To get into Sidorovich's office,  you need to talk to him.\n To open the door in the corner of the house in Pripyat, you need to talk to the Docotr. He has the keys.</eng>
 		<ukr>На КПК одна замітка:\n\n"В одній з лабораторій знайшов схему резервних тунелів для аварійної евакуації. Входи у ці тунелі замасковані під звичайні двері або підвали. Даними тунелями, судячи з усього, міцно користуються крамарі, особливо, Бармен, Сидорович і Доктор. Єдине, що зміг розібрати та перевірити - це шляхи з Прип'яті та Кордону прямо у Бар і назад. Записав на КПК наводки, щоб не забути.\n\nБар-Кордон: Чорний хід з Бара за стійкою Бармена,\nБар-Прип'ять: Комора поруч з чорним ходом з Бара,\nКордон-Бар: у підвалі будинку у Селі Новачків,\nПрип'ять-Бар: Двері у кутку будинку за Доктором.\n\nСподіваюсь, що про них ніхто більше не знає.</ukr>
 		<pln>===W PDA jest jedna notatka:\n \n"W jednym z laboratoriów znalazłem schemat rezerwowych tuneli do awaryjnej ewakuacji. Wejścia w te tunele są zamaskowane jak zwyczajne drzwi albo piwnice. Jedyne, co zdołałem rozebrać i sprawdzić - to drogi z Prypeci i Kordonu prosto do Baru i z powrotem. Zapisałem na PDA namiary, by nie zapomnieć.\n \nBar-Kordon: Tylne wyjście z Baru za bufetem Barmana,\nBar-Prypeć: Spiżarnia przy tylnym wyjściu z Baru,\nKordon-Bar: W piwnicy domu w wiosce Nowicjuszy,\nPrypeć-Bar: Drzwi w rogu domu za Doktorem.\n \nMam nadzieję, że nikt więcej o nich nie wie".</pln>
 	</string>
@@ -2636,7 +2636,7 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="money_loot">
 		<rus>Пачка денег</rus>
-		<eng>Pack of money</eng>
+		<eng>Pack of rubles</eng>
 		<ukr>Пачка грошей</ukr>
 		<pln>Pakiet pieniędzy</pln>
 	</string>
@@ -2648,25 +2648,25 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="money_loot_euro">
 		<rus>Пачка евро</rus>
-		<eng>Pack of euro</eng>
+		<eng>Pack of euros</eng>
 		<ukr>Пачка євро</ukr>
 		<pln>Paczka euro</pln>
 	</string>	
 	<string id="money_loot_desc">
 		<rus>Небольшая пачка наличных денег. В рублях.</rus>
-		<eng>===Небольшая пачка наличных денег. В рублях.</eng>
+		<eng>A small wad of cash, in rubles.</eng>
 		<ukr>Невелика пачка готівки. У гривнях.</ukr>
 		<pln>===Niewielka ilość pieniędzy. В рублях.</pln>
 	</string>
 	<string id="money_usa_desc">
 		<rus>Небольшая пачка долларов.\n При обналичивании автоматически конвертируется в рубли по курсу Зоны.</rus>
-		<eng>===Небольшая пачка долларов.\n При обналичивании автоматически конвертируется в рубли по курсу Зоны.</eng>
+		<eng>A small wad of US dollars. \n When opened, it is automatically converted into rubles at the standard Exclusion Zone exhange rate.</eng>
 		<ukr>Невелика пачка доларів.\n При переведенні у готівку автоматично конвертується у гривні за курсом Зони.</ukr>
 		<pln>===Небольшая пачка долларов.\n При обналичивании автоматически конвертируется в рубли по курсу Зоны.</pln>
 	</string>
 	<string id="money_euro_desc">
 		<rus>Небольшая пачка евро.\n При обналичивании автоматически конвертируется в рубли по курсу Зоны.</rus>
-		<eng>===Небольшая пачка евро.\n При обналичивании автоматически конвертируется в рубли по курсу Зоны.</eng>
+		<eng>A small wad of euros. \n When opened, it is automatically converted into rubles at the standard Exclusion Zone exhange rate.</eng>
 		<ukr>Невелика пачка євро.\n При переведенні у готівку автоматично конвертується у гривні за курсом Зони.</ukr>
 		<pln>===Небольшая пачка евро.\n При обналичивании автоматически конвертируется в рубли по курсу Зоны.</pln>
 	</string>
@@ -2708,7 +2708,7 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="akill_mono_note">
 		<rus>Поиск материалов о деятельности лаборатории Х-19 ни к чему не привёл, документы до сих пор не найдены. Удалось лишь выяснить, что персонал лаборатории состоял из 22 человек, плюс десяток подопытных для экспериментов. В Ржавом лесу обнаружено 13 контролёров, ещё 7 недалеко от Янтаря. По обрывкам белой ткани на их теле стало ясно, что это персонал Х-19. Место, где расположен вход в лабораторию - неизвестно. Наблюдения показали, что при увеличении излучения от радарной установки контролёры начинают движение в сторону этой установки - их будто притягивает к ней. При уменьшении излучения происходит обратное движение. Каким образом пси-излучение воздействует на мозг контролёров, пока не понятно. Из нашей закрытой сети получены данные о том, что возле комплекса с лабораторией Х-16 замечен человек в оранжевом научном комбинезоне с меткой Х-19. Судя по его поведению, он пытался проникнуть в лабораторию. Отдал приказ больше не стрелять в него, а взять живым для допроса.</rus>
-		<eng>===The search for documents on the X-19 lab activities has led to nothing. The documents have not been found yet. It was only possible to find out that the laboratory staff consisted of 22 people. Plus a dozen experimental subjects. In the Rusty Forest, 13 controllers have been discovered. 7 more - not far from Yantar. From the scraps of white fabric on their body, it became clear that they were the X-19 lab personnel. The location of the entrance to the laboratory is unknown. Observations revealed that when the radiation from the radar installation increases, controllers begin to move towards this installation. They seem to be attracted to it. With a decrease in radiation, the reverse process occurs. How psi-radiation affects the brain of controllers is not yet clear. Also, near the complex with the X-16 laboratory, a man in orange scientific overalls was seen. Judging by his behavior, he tried to get into the laboratory.</eng>
+		<eng>The search for materials detailing the experiments in lab X-19 has not lead to anything, and the documents have not yet been found. It was possible to find out that the laboratory staff consisted of 22 people, plus a dozen test subjects for experiments. 13 controllers were found in the Red Forest, and 7 more near Yantar. It was clear from the scrabs of white cloth on their bodies, that they were formerly X-19 personnel. The location of the entrance to the laboratory is unknown. Observations have shown that as radiation from the radar installation has increased, the controllers began to move towards the installation - as if they are attracted to it. When the radiation descreases, the opposite occurs. How psi-radiation affects the brains of controllers it not yet clear. We've received data from our private network that a man wearing an orange X-19 lab suit has been spotted near the X-16 lab complex. Judging by his behavior, he had tried to break into the laboratory. An order to hold fire was given, and to take him in alive for interrogation.</eng>
 		<ukr>Пошук матеріалів про діяльність лабораторії Х-19 ні до чого не привів. Документи досі не знайдені. Вдалося лише з'ясувати, що персонал лабораторії складався з 22 чоловік, плюс десяток піддослідних для експериментів. У Іржавому лісі виявлено 13 контролерів. Ще 7 недалеко від Янтара. З уривків білої тканини на їхньому тілі стало ясно, що це персонал Х-19. Місце, де розташований вхід у лабораторію - невідоме. Спостереження показали, що при збільшенні випромінювання від радарної установки контролери починають рух у бік цієї установки - їх ніби притягує до неї. При зменшенні випромінювання відбувається зворотний рух. Яким чином псі-випромінювання впливає на мозок контролерів, поки що не зрозуміло. З нашої закритої мережі отримано дані про те, що біля комплексу з лабораторією Х-16 помічено людину в помаранчевому науковому комбінезоні з міткою Х-19. Судячи з його поведінки, він намагався проникнути у лабораторію. Віддав наказ білше не стріляти в нього, а взяти живим для допиту.</ukr>
 		<pln>===Poszukiwanie dokumentów o działalności laboratorium X-19 do niczego nie doprowadziło. Dokumentów dotychczas nie znaleziono. Udało się tylko wyjaśnić, że personel laboratorium składał się z 22 ludzi. Plus dziesięć obiektów doświadczalnych do eksperymentów. W lesie na Radarze namierzono 13 kontrolerów. Jeszcze 7 niedaleko Jantaru. Po strzępach białego materiału na ich ciałach stało się jasne, że to jest personel X-19. Miejsce, gdzie położone jest wejście do laboratorium, jest nieznane. Obserwacja wykazała, że przy zwiększeniu promieniowania z instalacji radarowej kontrolerzy zaczynają się kierować w kierunku tej instalacji. Jakby coś ich do niej przyciągało. Przy zmniejszeniu się natężenia promieniowania, odbywa się ruch powrotny. W jakiś sposób promieniowanie psioniczne oddziaływuje na mózgi kontrolerów, ale nie wiadomo jak. Obok kompleksu z laboratorium X-16 zauważono też człowieka w pomarańczowym kombinezonie naukowym. Sądząc po jego zachowaniu, próbował przeniknąć do laboratorium.</pln>
 	</string>
@@ -2732,25 +2732,25 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="container_morkov_name">
 		<rus>Мешок с морковью</rus>
-		<eng>===Container with carrots</eng>
+		<eng>A bag of carrots.</eng>
 		<ukr>===Контейнер з морквою</ukr>
 		<pln>===Kontener z marchwią</pln>
 	</string>
 	<string id="container_morkov">
 		<rus>Тряпичный мешок с морковью внутри.</rus>
-		<eng>===A steel container designed to store various items under prolonged exposure to radiation. One can even store food in it, without the risk of getting irradiated when eating it. The cover's got a sticker on it that says "Carrot". The container is locked, quite a tricky lock is built into it. Judging by the weight and rumble when shaking it, there is something inside.</eng>
+		<eng>A cloth bag with carrots inside.</eng>
 		<ukr>===Сталевий контейнер, призначений для зберігання різних предметів при тривалому впливі радіації. У нього можна покласти навіть продукти, не боячись отримати при їх вживанні дозу радіації. На кришці приклеєна наклейка з написом "Морква". Контейнер замкнений, у нього вмонтований вельми хитрий замок. Судячи з ваги та гуркоту при струшуванні, всередині щось є.</ukr>
 		<pln>===Stalowy kontener, przeznaczony do przechowania różnych przedmiotów przy długotrwałym oddziaływaniu radiacji. Można do niego włożyć nawet artykuły spożywcze, nie bojąc się otrzymać przy ich spożyciu dawki radiacji. Na pokrywie przyklejona nalepka z napisem "Marchew". Kontener jest zamknięty, wmontowano w niego bardzo sprytny zamek. Sądząc po ciężarze i hałasie przy potrząsaniu, wewnątrz coś jest.</pln>
 	</string>
 	<string id="container_ris_name">
 		<rus>Мешок с рисом</rus>
-		<eng>===Container with rice</eng>
+		<eng>Bag of rice.</eng>
 		<ukr>===Контейнер з рисом</ukr>
 		<pln>===Kontener z ryżem</pln>
 	</string>
 	<string id="container_ris">
 		<rus>Тряпичный мешок с рисом внутри.</rus>
-		<eng>===A steel container designed to store various items under prolonged exposure to radiation. One can even store food in it, without the risk of getting irradiated when eating it. The cover's got a sticker on it that says "Rice". The container is locked, quite a tricky lock is built into it. Judging by the weight and rumble when shaking it, there is something inside.</eng>
+		<eng>A cloth bag with rice inside.</eng>
 		<ukr>===Сталевий контейнер, призначений для зберігання різних предметів при тривалому впливі радіації. У нього можна покласти навіть продукти, не боячись отримати при їх вживанні дозу радіації. На кришці приклеєна наклейка з написом "Рис". Контейнер замкнений, у нього вмонтований вельми хитрий замок. Судячи з ваги та гуркоту при струшуванні, всередині щось є.</ukr>
 		<pln>===Stalowy kontener, przeznaczony do przechowania różnych przedmiotów przy długotrwałym oddziaływaniu radiacji. Można do niego włożyć nawet artykuły spożywcze, nie bojąc się otrzymać przy ich spożyciu dawki radiacji. Na pokrywie przyklejona nalepka z napisem "Ryż". Kontener jest zamknięty, wmontowano w niego bardzo sprytny zamek. Sądząc po ciężarze i hałasie przy potrząsaniu, wewnątrz coś jest.</pln>
 	</string>
@@ -2839,7 +2839,12 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		- 1 глушитель 9х39мм\n
 		- 2 арта "Грави"\n
 		- 1 арт "Рубиновая пружина"\n</rus>
-		<eng>===На чертежах подробно изображены детали западного образца оружия. Похоже, что это FN F2000. Чертёж опубликован на синем фоне, а схемы и надписи имеют белый цвет. Именно так часто изображают схемы и чертежи в США и в Европе. Вверху написано название образца - "Рaratrooper". Интересно, откуда этот Оружейник смог его раздобыть. На чертежах много пометок и мелких рисунков.\nВ перечне необходимых комплектующих указан глушитель 9х39мм. Необходимо принести такой же Василию.</eng>
+		<eng>The schematics show details of the FN F2000. They are depicted on a blue background, and the diagrams and notations are in white. This is how blueprints are published in the US and Europe. The name of this particular model is written at the top : "Paratrooper". I wonder where this Armsmaster could get it from? There is a complete list of components that need to be gathered:\n \n
+		- 1 FN F2000\n
+		- 1 VSS Vintorez\n
+		- 1 9x39mm Supressor\n
+		- 2 "Gravi" Artifacts\n
+		- 1 "Ruby Spring" Artifact\n</eng>
 		<ukr>На кресленнях детально зображені деталі FN F2000. Вони зображені на синьому тлі, а схеми і написи мають білий колір. Саме так публікують креслення у США та Європі. Вгорі написано назву зразка - "Рaratrooper". Цікаво, звідки цей Зброяр зміг його роздобути. Повний список комплектуючих, які потрібно принести Василю:\n \n
 		- 1 FN F2000\n
 		- 1 ВСС «Гвинторіз»\n
@@ -2850,7 +2855,7 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="chertez_gauss2a_name">
 		<rus>Папка с чертежами Гаусс-винтовки</rus>
-		<eng>===Папка с чертежами Гаусс-винтовки</eng>
+		<eng>Folder containing schematics of the Gauss Rifle</eng>
 		<ukr>Папка з кресленнями Гаусс-гвинтівки</ukr>
 		<pln>===Teczka ze schematami Гаусс-винтовки</pln>
 	</string>
@@ -2860,7 +2865,11 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		- 1 модифицированная винтовка Гаусса\n
 		- 2 арта "Вспышка"\n
 		- 1 арт "Рубиновая батарейка"\n</rus>
-		<eng>===На чертежах подробно изображены детали карабина СКC. Внизу имеется надпись - «Custom» (Особый заказ). На чертежах много пометок и мелких рисунков.</eng>
+		<eng>The schematics show, in detail, the particulars of a unique Gauss rifle that belonged to the head of the Monolith sect - The Fiend. It will be the basis for further modification. There is a complete list of components that need to be gathered:\n \n
+		- Fiend's Gauss rifle\n
+		- 1 Modified Gauss Rifle\n
+		- 2 "Flash" artifacts\n
+		- 1 "Ruby Battery" artifact\n</eng>
 		<ukr>На кресленнях детально зображені деталі унікальної Гаусс-гвинтівки, яка належала голові секти Моноліту - Нелюду. Вона і буде основою для подальшої модифікації. Повний список комплектуючих, які потрібно принести Василю:\n \n
 		- Гаусс Нелюда\n
 		- 1 модифікована гвинтівка Гаусса\n
@@ -2881,7 +2890,12 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		- 1 Вепрь-12 «Молот» на 8 патронов\n
 		- 2 арта "Грави"\n
 		- 1 арт "Рубиновая пружина"\n</rus>
-		<eng>===На чертежах подробно изображены детали Сайги-12К. Внизу красуется подпись автора работы - Cardan. На чертежах много пометок и мелких рисунков.\nВ таблице перечислен перечень необходимых комплектующих, всё нужно в одном экземпляре:\n- Сайга-12К «Тактика»\n- Сайга-12К «Снайперская»\n- Вепрь-12 «Молот» с магазином на 8 патронов.</eng>
+		<eng>The schematics show the particulars of the Saiga-12K in detail. Below is the signature of the schematics author - Cardan. There is a complete list of components that need to be gathered:\n \n
+		- 1 Saiga-12K "Tactic"\n
+		- 1 Saiga-12K "Sniper"\n
+		- 1 Vepr-12 "Hammer" 8 rounds\n
+		- 2 "Gravi" Artifacts\n
+		- 1 "Ruby Spring" Artifact\n</eng>
 		<ukr>На кресленнях детально зображені деталі Сайги-12К. Внизу красується підпис автора роботи - Кардан. Повний список комплектуючих, які потрібно принести Василю:\n \n
 		- 1 Сайга-12К «Тактика»\n
 		- 1 Сайга-12К «Снайперська»\n
@@ -2902,7 +2916,11 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		- 1 винтовка Гаусса\n
 		- 2 арта "Вспышка"\n
 		- 1 арт "Рубиновая батарейка"\n</rus>
-		<eng>===На чертежах подробно изображены детали FN F2000, но с блок-аккумулятором от Гаусс-винтовки. Судя по всему, стреляет это оружие Гаусс-патронами. На чертежах много пометок и мелких рисунков.\nТак как это оружие не огнестрельное, то Василию вместо "Грави" и "Рубиновой пружины" нужны будут два артефакта "Вспышка" для блок-аккумулятора. Наверняка, кроме одной FN F2000, ему ещё понадобится Гаусс-винтовка в хорошем состоянии.</eng>
+		<eng>The Schematics show the details of the FN F2000, but with a battery pack from a Gauss rifle installed. Apparently, this weapon fires Gauss rounds. There is a complete list of components that need to be gathered:\n \n
+		- 1 FN F2000\n
+		- 1 Gauss Rifle\n
+		- 1 "Flash" Artifact\n
+		- 1 "Ruby Battery" Artifact\n</eng>
 		<ukr>На кресленнях детально зображені деталі FN F2000, але з блок-акумулятором від Гаусс-гвинтівки. Судячи з усього, стріляє ця зброя Гаусс-патронами. Повний список комплектуючих, які потрібно принести Василю:\n \n
 		- 1 FN F2000\n
 		- 1 гвинтівка Гаусса\n
@@ -2922,7 +2940,11 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		- 1 Сайга 308-1 «Custom»\n
 		- 2 арта "Грави"\n
 		- 1 арт "Рубиновая пружина"\n</rus>
-		<eng>===На чертежах подробно изображены детали модифицированной Zastava. Заказчик - Лукаш. Калибр - 7.62х54мм. На чертежах много пометок и мелких рисунков.</eng>
+		<eng>The schematics detail the particulars of the modified Zastava. The customer is a stalker by the name : Lukash. Caliber - 7.62x54mm. There is a complete list of components to be gathered:\n \n
+		- 1 Zastava M76\n
+		- 1 Saiga 308-1 "Custom"\n
+		- 2 "Gravi" Artifacts\n
+		- 1 "Ruby Spring" Artifact\n</eng>
 		<ukr>На кресленнях детально зображені деталі модифікованої Zastava. Замовник - Лукаш. Калібр - 7.62х54мм. Повний список комплектуючих, які потрібно принести Василю:\n \n
 		- 1 Zastava M76\n
 		- 1 Сайга 308-1 «Custom»\n
@@ -2942,7 +2964,11 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		- 1 Winchester 1300 «Chaser»\n
 		- 2 арта "Грави"\n
 		- 1 арт "Рубиновая пружина"\n</rus>
-		<eng>===На чертежах подробно изображены детали модифицированного ружья Mossberg. Внизу имеется надпись - «Custom» (Особый заказ). Заказчик - некий сталкер Крюк. На чертежах много пометок и мелких рисунков.</eng>
+		<eng>The schematics show the details of a modified Mossberg shotgun. At the bottom there is a notation - "Special Order". The customer is a certain stalker by the name - Hook. There is a complete list of components to be gathered:\n \n
+		- 1 Mossberg 590 A1\n
+		- 1 Winchester 1300 "Chaser"\n
+		- 2 "Gravi" Artifacts\n
+		- 1 "Ruby Spring" Artifact\n</eng>
 		<ukr>На кресленнях детально зображені деталі модифікованої рушниці Mossberg. Внизу є напис - "Особливе замовлення". Замовник - якийсь сталкер Гак. Повний список комплектуючих, які потрібно принести Василю:\n \n
 		- 1 Mossberg 590 A1\n
 		- 1 Winchester 1300 «Chaser»\n
@@ -2966,7 +2992,16 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 		- 1 ПГ М203\n
 		- 2 арта "Грави"\n
 		- 1 арт "Рубиновая пружина"\n</rus>
-		<eng>===На чертежах подробно изображены детали Steyr AUG, но с многочисленными изменениями. Одно из главных отличий - подствольный гранатомёт, стреляющий двумя типами гранат. По рисунку не понятно, какой ПГ является основой, поэтому лучше принести по одному западному образцу подствольника: 1шт. Steyr HE M10, 1шт. AG36, 1шт. FN40GL и 1шт. М203. На чертежах много пометок и мелких рисунков.\nДумаю, BMK Кальтера сгодится в качестве базовой модели. Нужно принести Василию винтовку, чертёж, четыре ПГ, арты и деньги. Посмотрим, что он на это скажет.</eng>
+		<eng>The schematics details the particulars of an unusual Steyr AUG, a weapon with numerous modifications. One of the main differences being the underbarrel grenade launcher, which fires two types of grenades. Kalter's VMK will work as a base platform. There is a complete list of components to be gathered:\n \n
+		- Kalter's VMK\n
+		- 1 Steyr Aug\n
+		- 1 Steyr HE M10\n
+		- 1 AG36 UBGL\n
+		- 1 FN40GL UBGL\n
+		- 1 M203 UBGL\n
+		- 2 "Gravi" Artifacts\n
+		- 1 "Ruby Spring" Artifact\n
+		</eng>
 		<ukr>На кресленнях детально зображені деталі незвичайної Steyr AUG - зброя з численними змінами. Одна з головних відмінностей - підствольний гранатомет, який стріляє двома типами гранат. Думаю, BMK Кальтер згодиться в якості базової моделі. Повний список комплектуючих, які потрібно принести Василю:\n \n
 		- BMK Кальтер\n
 		- 1 Steyr AUG A1\n
@@ -3004,7 +3039,7 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="voen2_toolkit_name">
 		<rus>Армейские инструменты РКБ-86у</rus>
-		<eng>RKB-86u army tool kit</eng>
+		<eng>RKB-86u Army Tool Kit</eng>
 		<ukr>Армійські інструменти РКБ-86у</ukr>
 		<pln>Wojskowe narzędzia RKB-86u</pln>
 	</string>
@@ -3016,13 +3051,13 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="voen3_toolkit_name">
 		<rus>Армейские инструменты ОРК-27м</rus>
-		<eng>===RKB-86u army tool kit</eng>
+		<eng>OPK-27m Army Tool Kit</eng>
 		<ukr>Армійські інструменти ЗРК-86у</ukr>
 		<pln>===Wojskowe narzędzia RKB-86u</pln>
 	</string>
 	<string id="voen3_toolkit">
 		<rus>Предназначены для проведения качественного походного ремонта военной бронетехники.</rus>
-		<eng>===Designed for adjustment and calibration of military equipment.</eng>
+		<eng>Designed for high quality mobile repair of military armored vehicles.</eng>
 		<ukr>Призначені для проведення якісного ремонту військової бронетехніки в поході.</ukr>
 		<pln>===Przeznaczone do strojenia i kalibracji wojskowego wyposażenia.</pln>
 	</string>
@@ -3064,7 +3099,7 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="liker_baileys_name">
 		<rus>Ликёр «Бейлиз»</rus>
-		<eng>Baileys liqueur</eng>
+		<eng>Bailey's liqueur</eng>
 		<ukr>Лікер «Бейліз»</ukr>
 		<pln>Likier "Baileys"</pln>
 	</string>
@@ -3118,7 +3153,7 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="secret_prikaz2">
 		<rus>В КПК имеется текст секретного приказа №3951.\nКомандиру 2-го взвода специального подразделения внутренних войск «Барс»\n\nОсновная задача:\nСоздать блокпост на Болотах рядом с тропой, ведущей к Агропрому, и обеспечить охрану периметра. Послать разведчика для получения данных о близлежащих стоянках сталкеров, аномальных зонах и зонах скопления мутантов. После прибытия 1-го взвода специального подразделения внутренних войск «Барс» совместными усилиями заминировать возможные подходы противника к блокпосту. Составить карту минных полей.\n\nДополнительная задача:\nИспытать прототип нового армейского изолирующего бронекостюма "Гагарин" в условиях Зоны.\n\nДополнительные сведения:\nИнформация от пойманного сталкера подтвердилась. Тропа, ведущая на Болота, существует. Тропа проходит рядом с южным комплексом Агропрома. Путь на Болота загружен в ваш навигатор.</rus>
-		<eng>The PDA contains the text of a secret order No. 3951.\nTo the commander of the 2nd platoon of the internal troops special unit "Bars"\n\nPrimary objective:\nSet up a checkpoint in the Swamps next to the path leading to the Agroprom and provide the perimeter security for it. Send a scout in to gather intel on the location of nearby stalker camps, anomalous zones and mutant accumulation areas. Upon the rendezvous with the 1st platoon of the 'Bars' internal troops special unit, with the joint efforts, mine possible approaches to the checkpoint. Get the minefield perimeter mapped.\n\nSecondary objective:\nTest under the Zone conditions the prototype of the new army insulating armored suit "Gagarin".\n\nAdditional info:\nThe information from the captured stalker has been confirmed. A path leading to the Swamps does exist. The trail passes near the southern Agroprom complex. The path to the Swamps is loaded into your navigator.</eng>
+		<eng>The PDA contains the text of a secret order No. 3951.\nTo the commander of the 2nd platoon of the internal troops special unit "Bars"\n\nPrimary objective:\nSet up a checkpoint in the Swamps next to the path leading to Agroprom and provide the perimeter security for it. Send a scout in to gather intel on the location of nearby stalker camps, anomalous zones and mutant accumulation areas. Upon the rendezvous with the 1st platoon of the 'Bars' internal troops special unit, with the joint efforts, mine possible approaches to the checkpoint. Get the minefield perimeter mapped.\n\nSecondary objective:\nTest under the Zone conditions the prototype of the new army insulating armored suit "Gagarin".\n\nAdditional info:\nThe information from the captured stalker has been confirmed. A path leading to the Swamps does exist. The trail passes near the southern Agroprom complex. The path to the Swamps is loaded into your navigator.</eng>
 		<ukr>У КПК знаходиться текст секретного наказу №3951.\nКомандиру 2-го взводу спеціального підрозділу внутрішніх військ «Барс»\n\nОсновне завдання:\nСтворити блокпост на Болотах поруч із стежкою, що веде до Агропром, та забезпечити охорону периметра. Надіслати розвідника для отримання даних про прилеглі стоянки сталкерів, аномальні зони і зони скупчення мутантів. Після прибуття 1-го взводу спеціального підрозділу внутрішніх військ «Барс» спільними зусиллями замінувати можливі підходи противника до блокпосту. Скласти карту мінних полів.\n\nДодаткове завдання:\nВипробувати прототип нового армійського ізолюючого бронекостюма "Гагарін" в умовах Зони.\n\nДодаткові відомості:\nІнформація від спійманого сталкера підтвердилася. Стежка, що веде на Болота, існує. Стежка проходить поруч з південним комплексом Агропрома. Шлях на Болота завантажений у ваш навігатор.</ukr>
 		<pln>W PDA znajduje tekst tajnego rozkazu nr3951. Do dowódcy 2-go plutonu oddziału specjalnego wojsk wewnętrznych "Irbis".\n\nGłówne zadanie:\nZałożyć posterunek na Bagnach, przy ścieżce prowadzącej na Agroprom, i zabezpieczyć obronę okolicy. Posłać zwiadowcę dla zdobycia informacji o pobliskich obozach stalkerów, o strefach anomalnych i stadach mutantów. Po przybyciu 1-go plutonu oddziału specjalnego wojsk wewnętrznych "Irbis" wspólnie zaminować wszystkie możliwe podejścia do posterunku. Zrobić mapę pól minowych.\n\nDodatkowe zadanie:\nPrzetestować prototyp nowego wojskowego pancerza izolującego "Gagarin" w warunkach Zony.\n\nPozostałe wiadomości:\nInformacje od złapanego stalkera się sprawdziły. Ścieżka, prowadząca na Bagna, istnieje. Ścieżka zaczyna się przy południowym kompleksie na Agropromie. Droga na Bagna została zapisana w waszej nawigacji.</pln>
 	</string>
@@ -3179,7 +3214,7 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="kuznec_note_code">
 		<rus>Тайник спрятал в очень надёжное место. Сделал комментарии на всякий случай:\nП-пики, Б-бубны, Т-трефы, Ч-черви. Скобки означают одно слово. Чтобы отделить друг от друга карты, означающие одну букву, поставил точки.\nКороче, разобраться в этом шифре сможет только сам Кузнецов. Нужно отнести ему эту записку и 30+ найденных мною карт.</rus>
-		<eng>===Тайник спрятал в очень надёжное место. Сделал комментарии на всякий случай:\nП-пики, Б-бубны, Т-трефы, Ч-черви. Скобки означают одно слово. Чтобы отделить друг от друга карты, означающие одну букву, поставил точки.\n</eng>
+		<eng>I hid the stash in a very secure place. Made some comments for myself as well, just in case:\nS - Spades; D - Diamonds; C - Clubs; H - Hearts. Brackets indicate one word. I've put dots to differentiate the cards and their words from each other.\nTo put it simply; only Kuznetsov can solve this cipher. I've got to bring him this note, and the 30+ playing cards I found.</eng>
 		<ukr>Схованку приховав у дуже надійному місці. Зробив коментарі про всяк випадок:\nП-піки, Б-бубни, Т-трефи, Ч-чирви. Дужки означають одне слово. Щоб відокремити один від одного карти, які означають одну букву, поставив крапки.\nКоротше, розібратися в цьому шифрі зможе тільки сам Кузнєцов. Потрібно віднести йому цю записку і 30+ знайдених мною карт.</ukr>
 		<pln>===Schowek zrobiłem w bezpiecznym miejscu. Zrobiłem notatkę na wszelki wypadek:\nP-piki, Ka-kara, T-trefle, Ki-kiery. Nawiasy oznaczają jeden wyraz. Każda karta oznacza jedną literę, by oddzielić jedną od drugiej postawiłem kropki.\n</pln>
 	</string>
@@ -3191,7 +3226,7 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="kuznec_karta">
 		<rus>На рубашке карты нарисована какая-то еле заметная буква.</rus>
-		<eng>===На рубашке карты нарисована еле заметная буква "Ь".</eng>
+		<eng>A barely noticable letter "B" is drawn on the back of the card.</eng>
 		<ukr>На сорочці карти намальована ледь помітна буква.</ukr>
 		<pln>===Na koszulce karty narysowana ledwie widoczna litera "T".</pln>
 	</string>
@@ -3251,7 +3286,7 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="leshyi_zapiska">
 		<rus>Леший, идея использования КПК, как маячка, была хорошей. Я нашёл рабочий образец Гаусс-винтовки!!! Встретимся как ранее оговорено - в окрестностях Металлургического Завода - передам пушку тебе, а также документы из лаборатории.\n\n Акилл</rus>
-		<eng>===Leshy, the idea of using PDA as a beacon was good. I found a working prototype of a Gauss pistol!!! Let's meet in the vicinity of the Ironworks as agreed. I'll give you the gun, as well as the documents from the laboratory.\n\n Akill</eng>
+		<eng>Leshy, the idea of using the PDA as a beacon was a good one. I found a functioning example of a Gauss rifle!!! We'll meet as previously agreed - in the vicinity of the Ironworks - and I'll hand this cannon over to you, as well as the documents from the laboratory.\n\n Achilles</eng>
 		<ukr>Лісовик, ідея використання КПК, як маячка, була гарною. Я знайшов робочий зразок Гаусс-гвинтівки!!! Зустрінемося як домовлялися - в околиці Металургійного Заводу - передам пушку тобі, а також документи з лабораторії.\n\n Акілл</ukr>
 		<pln>===Leszy, pomysł wykorzystania PDA, jako znacznika, był dobry. Znalazłem działający prototyp pistoletu Gaussa!!! Spotkamy się tam, gdzie się wcześniej umówiliśmy - w okolicach Zakładu Metalurgicznego - przekażę ci pistolet, a także dokumenty z laboratorium.\n\nAkill</pln>
 	</string>
@@ -3269,7 +3304,7 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="flash_akill_name">
 		<rus>Флешка Акилла</rus>
-		<eng>Akill's flash disk</eng>
+		<eng>Achilles flash disk</eng>
 		<ukr>Флешка Акілла</ukr>
 		<pln>Fleszka Akilla</pln>
 	</string>
@@ -3329,13 +3364,13 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="helm_teplovizor_name">
 		<rus>Шлем с тепловизионными очками</rus>
-		<eng>===Thermal imaging helmet</eng>
+		<eng>Helmet with Thermal Imaging System</eng>
 		<ukr>Шолом з тепловізійними окулярами</ukr>
 		<pln>===Hełm z termowizorem</pln>
 	</string>
 	<string id="helm_teplovizor">
 		<rus>Тактический шлем, лишённый какой-либо маркировки. Предназначен для обеспечения командира подразделения максимальным количеством тактической информации при установке соответствующей электронной «начинки». Отличается усиленной конструкцией, также оснащён многослойной кевларовой защитой и новейшими тепловизионными очками Т-7. Они отличаются продуманным подходом к индивидуальным системам наблюдения. Тепловой псевдобинокуляр T-7 объединяет в себе лучшие черты очков ночного видения и превращает их в полнофункциональный тепловизор.</rus>
-		<eng>===Tactical helmet without any markings. Designed to provide unit commander with the maximum of tactical information by incorporating all the necessary electronics into a single device. It features a reinforced structure, is also equipped with multi-layer Kevlar protection, a respirator and a latest version of thermal imager.</eng>
+		<eng>Tactical helmet without any markings. Designed to provide the unit commander with the maximum of tactical information by incorporating all the necessary electronics into a single device. It features a reinforced structure, and is also equipped with multi-layer Kevlar protection and the latest T-7 thermal imaging system. They are distinguished by a thoughtful approach to individual surveillance systems. The T-7 thermal imaging system combines the best features of night vision optics with the advantage of added thermal imaging.</eng>
 		<ukr>Тактичний шолом, позбавлений будь-якого маркування. Призначений для забезпечення командира підрозділу максимальною кількістю тактичної інформації при встановленні відповідної електронної «начинки». Відрізняється посиленою конструкцією, також оснащений багатошаровим кевларовим захистоми і новітніми телевізійними окулярами Т-7. Вони відрізняються продуманим підходом до індивідуальних систем спостереження. Тепловий псевдобінокуляр T-7 об'єднує в собі кращі риси окулярів нічного бачення і перетворює їх у повнофункціональний тепловізор.</ukr>
 		<pln>===Hełm taktyczny, pozbawiony jakichkolwiek oznaczeń. Przeznaczony dla dostarczenia dowódcy oddziału maksymalnej ilości informacji taktycznej dzięki zainstalowaniu odpowiedniego elektronicznego "wkładu". Wyróżnia się wzmocnioną konstrukcją, jest też wyposażony w wielowarstwowy pancerz kevlarowy, respirator i najnowszy termowizor.</pln>
 	</string>
@@ -3522,7 +3557,7 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	<string id="chertez_grenade">
 		<rus>На схеме изображены несколько типов гранат в разрезе с подробным указанием каждой детали. Также имеются рисунки с внутренним устройством капсул с различными видами аномалий и список необходимых компонентов. Автор рисунков - Азот. На этом записи обрываются.</rus>
 		<eng>The drawings represent the crossections of several types of grenades with designated components. There are also drawings of the internal structure of capsules for various types of anomalies and a list of components. The author of the drawings is Nitrogen. The data ends at this point.
-</eng>
+		</eng>
 		<ukr>На схемі зображені кілька типів гранат у розрізі з детальним зазначенням кожної деталі. Також є малюнки з внутрішнім пристроєм капсул з різними видами аномалій і список необхідних компонентів. Автор малюнків - Азот. На цьому записи обриваються.</ukr>
 		<pln>Na schemacie przedstawiono kilka typowych granatów w przekroju ze szczegółowym opisem każdego detalu. Są też rysunki z zamontowanymi wewnątrz kapsułami z różnymi rodzajami anomalii i spis niezbędnych komponentów. Autor rysunków - Azot. Na tym zapis się urywa.</pln>
 	</string>
@@ -3582,13 +3617,13 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="fosfor">
 		<rus>Химический источник света</rus>
-		<eng>===Phosphorus flare</eng>
+		<eng>Glowstick</eng>
 		<ukr>===Фосфорна палиця</ukr>
 		<pln>===Pałeczka fosforowa</pln>
 	</string>
 	<string id="fosfor_descr">
 		<rus>Химический источник света, хемилюминесцентный источник света (ХИС) - устройство, генерирующее свет при протекании химической реакции. Широко применяются в качестве автономных (до 5 часов свечения) источников света при различных аварийно-спасательных, дорожных, уличных работах, в чрезвычайных ситуациях, в туризме и спелеологии, подводном плавании, для подачи сигналов. Для активации нужно взять в руки или выбросить на землю.</rus>
-		<eng>===A small phosphorus stick used for extra lighting. To activate, you can pick it up or throw it on the ground.</eng>
+		<eng>A chemiluminescent light source (CLS), is a device that generates light when a chemical reaction occurs. They are widely used as quick, reliable sources of light (providing up to 5 hours of glow) for various rescue, road and street work, tourism, scuba diving, and signaling in emergency situations. Once activated, it can be held, or thrown on the ground.</eng>
 		<ukr>===Невелика фосфорна палиця служить для додаткового освітлення. Для активації можна взяти до рук або викинути на землю.</ukr>
 		<pln>===Niewielka fosforowa pałeczka służy do dodatkowego oświetlenia. Aby aktywować, możesz go podnieść lub rzucić na ziemię.</pln>
 	</string>
@@ -4292,7 +4327,7 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 	<string id="enc_equipment_medi_antizombie">
 		<rus>Новейшая разработка от Dharma Initiative. Она сделала прорыв в науке. Антизомбин полностью снимает эффекты воздействия пси-излучения. Возможна также практика на поздних стадиях зомбирования, но для этого нужно выпить две таблетки. Должен иметь при себе КАЖДЫЙ сталкер. Единственный недостаток - цена.</rus>
-		<eng>===A latest development from the Dharma Initiative. It made a scientific breakthrough. Antizombine cures psi-radiation effects completely. It is also recommended for use in the early stages of zombification, but two injections would be required in that case. Is a 'must have' for every stalker. The only flaw is the price.</eng>
+		<eng>The latest development from the Dharma Initiative has proven to be yet another major breakthough in the field of medical science. Antizombine completely removes the effects of exposure to psi-radiation. It's also an effective treatment in the later stages of zombification, but for this the patient may need to take 2 tablets. A must have for EVERY stalker traversing the Zone. The only downside is the price...</eng>
 		<ukr>Новітня розробка від Dharma Initiative. Вона зробила прорив у науці. Антизомбін повністю лікує від псі-випромінювання. Можлива, також, практика на пізніх стадіях зомбування, але для цього потрібно випити дві пігулки. Повинен мати при собі КОЖЕН сталкер. Єдиний недолік - ціна.</ukr>
 		<pln>===Najnowszy produkt firmy Dharma Initiative, która dokonała przełomu w nauce. Antidotum, które całkowicie leczy efekty promieniowania psionicznego. Można stosować nawet we wczesnych stadiach zombifikacji, jednakże w takim przypadku konieczne jest przyjęcie dwóch dawek. Ten specyfik powinien mieć przy sobie KAŻDY stalker. Jedynym minusem jest cena.</pln>
 	</string>
@@ -4418,453 +4453,473 @@ W wielu wojnach miecz-jian był stopniowo zastępowany innymi rodzajami broni i 
 	</string>
 		<string id="item_dshor_obshak_name">
 		<rus>Кейс с деньгами</rus>
-		<eng>Кейс с деньгами</eng>
+		<eng>Case with Money</eng>
 		<ukr>Кейс із грошима</ukr>
 	</string>
 	<string id="item_dshor_obshak_desc">
 		<rus>Общак бандитов из группировки Чингиза. Основная часть денег получена при ограблении сталкеров, также здесь хранятся деньги, полученные от сбыта артефактов, собранных пленными сталкерами, работающих на бандитов.</rus>
-		<eng>Общак бандитов из группировки Чингиза. Основная часть денег получена при ограблении сталкеров, также здесь хранятся деньги, полученные от сбыта артефактов, собранных пленными сталкерами, работающих на бандитов.</eng>
+		<eng>A case of money collected by the bandit group. The bulk of the money was "earned" during the robbery of other Stalkers, and the sale of artifacts collected by captive Stalkers.</eng>
 		<ukr>Общак бандитів з угруповання Чингіза. Основна частина грошей здобута при пограбуванні сталкерів, також тут зберігаються гроші, отримані від збуту артефактів, зібраних полоненими сталкерами, які працюють на бандитів.</ukr>
 	</string>
 		<string id="karta_dshor">
 		<rus>Карта Долины Шорохов</rus>
-		<eng>Карта Долины Шорохов</eng>
+		<eng>Map of Valley of Whispers</eng>
 		<ukr>Карта Долини Шурхоту</ukr>
 	</string>
 	<string id="item_karta_dshor">
 		<rus>Подробная карта Долины Шорохов. Правда, никаких пометок на неё ещё не нанесено.</rus>
-		<eng>Подробная карта Долины Шорохов. Правда, никаких пометок на неё ещё не нанесено.</eng>
+		<eng>A detailed map of the Valley of Whispers. However, no annotations have been made to it yet.</eng>
 		<ukr>Детальна карта Долини Шурхоту. Правда, ніяких позначок на неї ще не нанесено.</ukr>
 	</string>
 		<string id="item_yachik_edy">
 		<rus>Ящик с продуктами</rus>
-		<eng>Ящик с продуктами</eng>
+		<eng>Box of Provisions</eng>
 		<ukr>Ящик з продуктами</ukr>
 	</string>
 	<string id="yachik_edy_desc">
 		<rus>Обычный деревянный ящик, в котором находятся продукты (чаще всего консервы и хлеб) и водка.</rus>
-		<eng>Обычный деревянный ящик, в котором находятся продукты (чаще всего консервы и хлеб) и водка.</eng>
+		<eng>An ordinary wooden box containing food (Mostly canned food and bread) and vodka.</eng>
 		<ukr>Звичайний дерев'яний ящик, в якому знаходяться продукти (найчастіше консерви і хліб) і горілка.</ukr>
 	</string>
 		<string id="sguschenka_name">
 		<rus>Сгущёнка</rus>
-		<eng>Сгущёнка</eng>
+		<eng>Condensed Milk</eng>
 		<ukr>Згущене молоко</ukr>
 	</string>
 	<string id="enc_sguschenka">
 		<rus>Банка сгущённого молока с сахаром, сделанного по ГОСТу, без добавления растительного масла.</rus>
-		<eng>Банка сгущённого молока с сахаром, сделанного по ГОСТу, без добавления растительного масла.</eng>
+		<eng>A can of condensed milk with sugar added, produced in accordance with GOST standards. Does not contain vegetable oil.</eng>
 		<ukr>Банку згущеного молока з цукром, зробленого за ГОСТом, без додавання рослинного масла.</ukr>
 	</string>
 		<string id="beloe_wine_name">
 		<rus>Вино "Седьмое небо"</rus>
-		<eng>Вино "Седьмое небо"</eng>
+		<eng>Wine "Seventh Heaven"</eng>
 		<ukr>Вино "Сьоме небо"</ukr>
 	</string>
 	<string id="enc_beloe_wine">
 		<rus>Десертное сладкое белое вино "Седьмое небо князя Голицына". Выдержано в дубовой таре не менее двух лет. Вырабатывается по классической технологии только предприятиями объединения "Массандра" из сортов винограда: Кокур белый, Мускат белый, Мускат розовый, Пино серый. Цвет вина золотисто-янтарный. Букет вина сложный, яркий, с преобладанием медовых тонов, тонов персика, айвы и мушмулы. Пряный букет в сочетании с полным, гармоничным, мягким, маслянистым вкусом, оставляет незабываемое ощущение солнечного южного берега Крыма. Вино вырабатывается с 1880 года.</rus>
-		<eng>Десертное сладкое белое вино "Седьмое небо князя Голицына". Выдержано в дубовой таре не менее двух лет. Вырабатывается по классической технологии только предприятиями объединения "Массандра" из сортов винограда: Кокур белый, Мускат белый, Мускат розовый, Пино серый. Цвет вина золотисто-янтарный. Букет вина сложный, яркий, с преобладанием медовых тонов, тонов персика, айвы и мушмулы. Пряный букет в сочетании с полным, гармоничным, мягким, маслянистым вкусом, оставляет незабываемое ощущение солнечного южного берега Крыма. Вино вырабатывается с 1880 года.</eng>
+		<eng>A sweet white wine: "The Seventh Heaven of Prince Golitsyn". Aged in oak barrels for at least two years. It is produced according to the classical technology only by the enterprises of the association "Massandra" from these grape varieties: Kokur white, Muscat white, Muscat pink, Pinot gray. The color of the wine is golden amber. The bouquet of wine is complex, bright, with a predominance of honey tones, tones of peach, quince and medlar. A spicy bouquet combined with a full, harmonious, soft, oily taste leaves an unforgettable feeling of the sunny southern coast of Crimea. This wine has been produced since 1880.</eng>
 		<ukr>Десертне солодке біле вино "Сьоме небо князя Голіцина". Витримане в дубовій тарі не менше двох років. Виробляється за класичною технологією тільки підприємствами об'єднання "Массандра" з сортів винограду: Кокур білий, Мускат білий, Мускат рожевий, Піно сірий. Колір вина золотисто-бурштиновий. Букет вина складний, яскравий, з переважанням медових тонів, тонів персика, айви і мушмули. Пряний букет в поєднанні з повним, гармонійним, м'яким, маслянистим смаком, залишає незабутнє відчуття сонячного південного берега Криму. Вино виробляється з 1880 року.</ukr>
 	</string>
 		<string id="chernobyl_wine_name">
 		<rus>Вино "Чернобыльское"</rus>
-		<eng>Вино "Чернобыльское"</eng>
+		<eng>Wine "Chernobyl"</eng>
 		<ukr>Вино "Чорнобильське"</ukr>
 	</string>
 	<string id="enc_chernobyl_wine">
 		<rus>Белое полусухое вино "Чернобыльское". Завозилось в больших количествах сразу после аварии на Чернобыльской АЭС для вывода радионуклеидов из организма у ликвидаторов. Когда выяснилось, что красное сухое вино выводит стронций гораздо эффективнее, чем белое полусухое, было принято решение завозить "Каберне". А вот большая партия "Чернобыльского" так и осталась пылиться на складах...</rus>
-		<eng>Белое полусухое вино "Чернобыльское". Завозилось в больших количествах сразу после аварии на Чернобыльской АЭС для вывода радионуклеидов из организма у ликвидаторов. Когда выяснилось, что красное сухое вино выводит стронций гораздо эффективнее, чем белое полусухое, было принято решение завозить "Каберне". А вот большая партия "Чернобыльского" так и осталась пылиться на складах...</eng>
+		<eng>"Chernobyl" semi-dry white wine. It was imported in large quantities immediately after the Chernobyl NPP accident to remove radionuclides from the body of the liquidators. When it turned out that dry red wine removes strontium much more effectively than semi-dry white wine, it was decided to import Cabernet. But a large batch of "Chernobyl" remained gathering dust in warehouses...</eng>
 		<ukr>Біле напівсухе вино "Чорнобильське". Завозилося у великих кількостях відразу після аварії на Чорнобильській АЕС для виведення радіонуклідів з організму у ліквідаторів. Коли з'ясувалося, що червоне сухе вино виводить стронцій набагато ефективніше, ніж біле напівсухе, було прийнято рішення завозити "Каберне". А ось велика партія "Чорнобильського" так і залишилася припадати пилом на складах...</ukr>
 	</string>
 		<string id="pda_chingisa">
 		<rus>КПК Чингиза</rus>
-		<eng>КПК Чингиза</eng>
+		<eng>PDA of Genghis</eng>
 		<ukr>КПК Чингіза</ukr>
 	</string>
 	<string id="item_pda_chingisa">
 		<rus>КПК лидера крупной бандитской группировки - Чингиза. Пароля нет. Среди прочей информации, содержит код от его сейфа в Долине Шорохов, где он держит всё особо ценное, а также общак группировки.</rus>
-		<eng>КПК лидера крупной бандитской группировки - Чингиза. Пароля нет. Среди прочей информации, содержит код от его сейфа в Долине Шорохов, где он держит всё особо ценное, а также общак группировки.</eng>
+		<eng>The PDA of the leader of a large group of bandits - Genghis. There is no password. Among the information, it contains a code from his safe in the Valley of Whispers, where he keeps everything of particular value, including the groups accumulated fortune.</eng>
 		<ukr>КПК лідера великого бандитського угруповання - Чингіза. Пароля немає. Серед іншої інформації, містить код від його сейфа у Долині Шурхоту, де він тримає все особливо цінне, а також общак угруповання.</ukr>
 	</string>
 	<string id="item_key_camera">
 		<rus>Ключ от камеры</rus>
-		<eng>Ключ от камеры</eng>
+		<eng>Camera Key</eng>
 		<ukr>Ключ від камери</ukr>
 	</string>
 	<string id="key_camera_desc">
 		<rus>Ключ, которым можно открыть двери в камерах с заключёнными в Долине Шорохов.</rus>
-		<eng>Ключ, которым можно открыть двери в камерах с заключёнными в Долине Шорохов.</eng>
+		<eng>A key that can open the doors to the cells holding prisoners in the Valley of Whispers.</eng>
 		<ukr>Ключ, яким можна відкрити двері в камерах з ув'язненими у Долині Шурхоту.</ukr>
 	</string>
 	<string id="injector_name">
 		<rus>Инъектор</rus>
-		<eng>===Инъектор</eng>
+		<eng>Injector</eng>
 		<ukr>Ін'єктор</ukr>
 	</string>
 	<string id="injector">
 		<rus>Инъектор с экспериментальной сывороткой страха, разработанной в НИИЧАЗ для подавления агрессии контролёров, которая воздействует непосредственно на мозг жертвы, вызывая зрительные и слуховые галлюцинации, что в свою очередь ведёт к появлению чувства страха, а в дальнейшем к приступу паники.</rus>
-		<eng>===Инъектор с экспериментальной сывороткой страха, разработанной в НИИЧАЗ для подавления агрессии контролёров, которая воздействует непосредственно на мозг жертвы, вызывая зрительные и слуховые галлюцинации, что в свою очередь ведёт к появлению чувства страха, а в дальнейшем к приступу паники.</eng>
+		<eng>An injector containing an experimental fear serum, developed at NIICHA to suppress the agression of Controllers. It directly affects the victim's brain, causing visual and auditory hallucinations, which in turn leads to a feeling of fear, and full blown panic attacks.</eng>
 		<ukr>Ін'єктор з експериментальною сироваткою страху, розробленою в НДІЧАЗ для придушення агресії контролерів, яка впливає безпосередньо на мозок жертви, викликаючи зорові і слухові галюцинації, що в свою чергу веде до появи почуття страху, а в подальшому до приступу паніки.</ukr>
 	</string>
 	<string id="tank_akb_name">
 		<rus>Танковый аккумулятор</rus>
-		<eng>===Танковый аккумулятор</eng>
+		<eng>Tank Battery</eng>
 		<ukr>Танковий акумулятор</ukr>
 	</string>
 	<string id="tank_akb">
 		<rus>Танковый аккумулятор 6-СТЭН-140-М повышенной мощности и ёмкости.</rus>
-		<eng>===Танковый аккумулятор 6-СТЭН-140-М повышенной мощности и ёмкости.</eng>
+		<eng>Tank Battery "6-СТЭН-140-М" With increased power and capacity.</eng>
 		<ukr>Танковий акумулятор 6-СТЕН-140-М підвищеної потужності і ємності.</ukr>
 	</string>
 	<string id="vssm_module_name">
 		<rus>Крепление ТОЗ 6П29М</rus>
-		<eng>===Крепление ТОЗ 6П29М</eng>
+		<eng>ТОЗ 6П29М mount</eng>
 		<ukr>Кріплення ТОЗ 6П29М</ukr>
 	</string>
 	<string id="vssm_module">
 		<rus>Крепление ТОЗ 6П29М, разработанное для модернизированной версии снайперской винтовки ВСС. Устанавливается на штатный глушитель ВСС и формирует 3 планки, предназначенные для установки на оружие дополнительного оборудования.</rus>
-		<eng>===Крепление ТОЗ 6П29М, разработанное для модернизированной версии снайперской винтовки ВСС. Устанавливается на штатный глушитель ВСС и формирует 3 планки, предназначенные для установки на оружие дополнительного оборудования.</eng>
+		<eng>Designed for an upgraded version of the VSS sniper rifle. It is mounted on a regular VSS supressor, and forms 3 attachment points for mounting additional equipment on the weapon.</eng>
 		<ukr>Кріплення ТОЗ 6П29М, розроблене для модернізованої версії снайперської гвинтівки ГСС. Встановлюється на штатний глушник ГСС і формує 3 планки, призначені для установки на зброю додаткового обладнання.</ukr>
 	</string>
 	<string id="vssm_module2_name">
 		<rus>Пистолетная рукоятка Magpul MOE</rus>
-		<eng>===Пистолетная рукоятка Magpul MOE</eng>
+		<eng>Magpul MOE Pistol Grip</eng>
 		<ukr>Пістолетна рукоятка Magpul MOE</ukr>
 	</string>
 	<string id="vssm_module2">
 		<rus>Полимерная пистолетная рукоятка Magpul MOE (Magpul Original Equipment). Благодаря эргономике и антискользящей текстуре рукоятки, удержание и контроль оружия становится комфортнее. Внутри рукоятки находится место под контейнеры для ЗИП или элементов питания.</rus>
-		<eng>===Полимерная пистолетная рукоятка Magpul MOE (Magpul Original Equipment). Благодаря эргономике и антискользящей текстуре рукоятки, удержание и контроль оружия становится комфортнее. Внутри рукоятки находится место под контейнеры для ЗИП или элементов питания.</eng>
+		<eng>Polymer pistol grip Magpul MOE (Magpul Original Equipment). Thanks to the ergonomics and anti-slip texture of the grip, holding and controlling the weapon becomes more comfortable. Inside the handle there is a compartment for spare parts or batteries.</eng>
 		<ukr>Полімерна пістолетна рукоятка Magpul MOE (Magpul Original Equipment). Завдяки ергономіці і антиковзаючій текстурі рукоятки, утримання та контроль зброї стає комфортнішим. Всередині рукоятки знаходиться місце під контейнери для ЗІП або елементів живлення.</ukr>
 	</string>
 	<string id="vssm_module3_name">
 		<rus>Буфер отдачи ВССМ</rus>
-		<eng>===Буфер отдачи ВССМ</eng>
+		<eng>VSSM Recoil Buffer</eng>
 		<ukr>===Буфер отдачи ВССМ</ukr>
 	</string>
 	<string id="vssm_module3">
 		<rus>Буфер отдачи служит для смягчения удара затворной рамы при стрельбе. Снижает общий уровень изнашиваемости возвратного механизма, тыльной части ствольной коробки, а также всей затворной группы.</rus>
-		<eng>===Буфер отдачи служит для смягчения удара затворной рамы при стрельбе. Снижает общий уровень изнашиваемости возвратного механизма, тыльной части ствольной коробки, а также всей затворной группы.</eng>
+		<eng>The recoil buffer serves to soften the impact of the bolt carrier when firing. Reduces the overall level of wear of the return mechanism, the back of the receiver, as well as the entire bolt group.</eng>
 		<ukr>===Буфер отдачи служит для смягчения удара затворной рамы при стрельбе. Снижает общий уровень изнашиваемости возвратного механизма, тыльной части ствольной коробки, а также всей затворной группы.</ukr>
 	</string>
 	<string id="vssm_module4_name">
 		<rus>Направляющая "Тактика-Тула" 10000</rus>
-		<eng>===Направляющая "Тактика-Тула" 10000</eng>
+		<eng>"Tactics-Tula" 10000 rail</eng>
 		<ukr>Направляюча "Тактика-Тула" 10000</ukr>
 	</string>
 	<string id="vssm_module4">
 		<rus>Универсальная направляющая для крышки ствольной коробки производства компании "Тактика-Тула". Предназначена для установки оптических, коллиматорных прицелов, ЛЦУ и прочих приборов и приспособлений.</rus>
-		<eng>===Универсальная направляющая для крышки ствольной коробки производства компании "Тактика-Тула". Предназначена для установки оптических, коллиматорных прицелов, ЛЦУ и прочих приборов и приспособлений.</eng>
+		<eng>Universal rail for the cover of the receiver produced by Tactics-Tula. Designed for installation of optical, collimator sights, LCC and other devices and devices.</eng>
 		<ukr>Універсальна напрямна для кришки ствольної коробки виробництва компанії "Тактика-Тула". Призначена для установки оптичних, коліматорних прицілів, ЛЦВ та інших приладів і пристроїв.</ukr>
 	</string>
 	<string id="vssm_module5_name">
 		<rus>Магазин СР3М.130 9x39</rus>
-		<eng>===Магазин СР3М.130 9x39</eng>
+		<eng>СР3М.130 9x39 magazines</eng>
 		<ukr>Магазин СР3М.130 9x39</ukr>
 	</string>
 	<string id="vssm_module5">
 		<rus>30-ти зарядный стальной магазин ЦНИИТОЧМАШ СР3М.130 под патрон 9x39 для CР3М, ВСС «Винторез» и АС «Вал».</rus>
-		<eng>===30-ти зарядный стальной магазин ЦНИИТОЧМАШ СР3М.130 под патрон 9x39 для CР3М, ВСС «Винторез» и АС «Вал».</eng>
+		<eng>30-round steel magazine ЦНИИТОЧМАШ СР3М.130 chambered for 9x39 for SR3M, VSS Vintorez and AS Val.</eng>
 		<ukr>30-ти зарядний сталевий магазин ЦНІІТОЧМАШ СР3М.130 під патрон 9x39 для CР3М, ГСС «Гвинторіз» і АС «Вал».</ukr>
 	</string>
 	<string id="vssm_module6_name">
 		<rus>Рукоятка затвора РП-1 для АК и совместимых</rus>
-		<eng>===Рукоятка затвора РП-1 для АК и совместимых</eng>
+		<eng>RP-1 charging handle for AK family of rifles</eng>
 		<ukr>Рукоятка затвора РП-1 для АК і сумісних</ukr>
 	</string>
 	<string id="vssm_module6">
 		<rus>Рукоятка затвора РП-1 является фрезерованным изделием, изготовленным из сплава алюминия Д16Т с покрытием чёрного цвета, совместима со всеми моделями автомата Калашникова и карабинами, созданными на базе АК. Установка рукоятки РП-1 позволяет увеличить штатную рукоятку затвора и, таким образом, улучшая эргономику оружия, делает обращение с ним более удобным. Монтируется РП-1 на штатную рукоятку затвора посредством входящих в комплект винтов.</rus>
-		<eng>===Рукоятка затвора РП-1 является фрезерованным изделием, изготовленным из сплава алюминия Д16Т с покрытием чёрного цвета, совместима со всеми моделями автомата Калашникова и карабинами, созданными на базе АК. Установка рукоятки РП-1 позволяет увеличить штатную рукоятку затвора и, таким образом, улучшая эргономику оружия, делает обращение с ним более удобным. Монтируется РП-1 на штатную рукоятку затвора посредством входящих в комплект винтов.</eng>
+		<eng>The RP-1 bolt handle is a milled product made of D16T aluminum alloy with a black coating, compatible with all models of the Kalashnikov assault rifle and AK-based carbines. Installing the RP-1 handle allows you to increase the standard bolt handle and, thus, improving the ergonomics of the weapon, makes it more convenient to handle. The RP-1 is mounted on the standard bolt handle using the screws included in the kit.</eng>
 		<ukr>Рукоятка затвора РП-1 є фрезерованим виробом, виготовленим зі сплаву алюмінію Д16Т з покриттям чорного кольору, сумісна з усіма моделями автомата Калашникова і карабінами, створеними на базі АК. Установка рукоятки РП-1 дозволяє збільшити штатну рукоятку затвора і, таким чином, покращити ергономіку зброї і зробити поводження з нею зручнішим. Монтується РП-1 на штатну рукоятку затвора за допомогою гвинтів що входять у комплект.</ukr>
 	</string>
 	<string id="vssm_module7_name">
 		<rus>Труба приклада SI "Advanced receiver extension"</rus>
-		<eng>===Труба приклада SI "Advanced receiver extension"</eng>
+		<eng>SI "Advanced receiver extension" buffer tube</eng>
 		<ukr>Труба приклада SI "Advanced receiver extension"</ukr>
 	</string>
 	<string id="vssm_module7">
 		<rus>Труба для установки прикладов производства компании "Strike industries", военного образца, устанавливается на автоматы и карабины семейства AR-15.</rus>
-		<eng>===Труба для установки прикладов производства компании "Strike industries", военного образца, устанавливается на автоматы и карабины семейства AR-15.</eng>
+		<eng>Pipe for installation of stocks manufactured by the company "Strike industries", military-style, is installed on machine guns and carbines of the AR-15 family.</eng>
 		<ukr>Труба для установки прикладів виробництва компанії "Strike industries", військового зразка, встановлюється на автомати і карабіни сімейства AR-15.</ukr>
 	</string>
 	<string id="vssm_module8_name">
 		<rus>Приклад Magpul MOE Carbine SG</rus>
-		<eng>===Приклад Magpul MOE Carbine SG</eng>
+		<eng>Magpul MOE Carbine SG Buttstock</eng>
 		<ukr>Приклад Magpul MOE Carbine SG</ukr>
 	</string>
 	<string id="vssm_module8">
 		<rus>Быстросъёмный приклад с телескопической трубкой военного образца. Форма рамки позволяет избежать заклинивая и случайного срабатывания отпирающего рычага, а резиновый затыльник, при стандартной толщине, меньше скользит на броне или модульном снаряжении. Снабжён двумя отверстиями под ремни (до 3 см шириной) и одним под паракордовое кольцо или карабин.</rus>
-		<eng>===Быстросъёмный приклад с телескопической трубкой военного образца. Форма рамки позволяет избежать заклинивая и случайного срабатывания отпирающего рычага, а резиновый затыльник, при стандартной толщине, меньше скользит на броне или модульном снаряжении. Снабжён двумя отверстиями под ремни (до 3 см шириной) и одним под паракордовое кольцо или карабин.</eng>
+		<eng>Quick-release buttstock with a military-style telescopic tube. The shape of the frame avoids jamming and accidental actuation of the unlocking lever, and the rubber butt pad, with a standard thickness, slips less on armor or modular equipment. Equipped with two holes for straps (up to 3 cm wide) and one for a paracord ring or carabiner.</eng>
 		<ukr>Швидкознімний приклад з телескопічною трубкою військового зразка. Форма рамки дозволяє уникнути заклинювання і випадкового спрацьовування відмикаючого важеля, а гумовий потиличник, при стандартній товщині, менше ковзає на броні або модульному спорядженні. Обладнаний двома отворами під ремені (до 3 см шириною) і одним під паракордове кільце або карабін.</ukr>
 	</string>
 	<string id="vssm_module9_name">
 		<rus>Затыльник Magpul Rubber Butt-Pad</rus>
-		<eng>===Затыльник Magpul Rubber Butt-Pad</eng>
+		<eng>Magpul Rubber Butt-Pad</eng>
 		<ukr>Потиличник Magpul Rubber Butt-Pad</ukr>
 	</string>
 	<string id="vssm_module9">
 		<rus>Комплектный затыльник Magpul Rubber Butt-Pad для прикладов серии MOE Carbine, однако может быть установлен и на другие модели серии. Заменяет стандартный затыльник, добавляя при этом около 13 мм толщины. Предназначен для улучшения сцепления с плечом стрелка, а также для снижения влияния отдачи, благодаря своей конструкции.</rus>
-		<eng>===Комплектный затыльник Magpul Rubber Butt-Pad для прикладов серии MOE Carbine, однако может быть установлен и на другие модели серии. Заменяет стандартный затыльник, добавляя при этом около 13 мм толщины. Предназначен для улучшения сцепления с плечом стрелка, а также для снижения влияния отдачи, благодаря своей конструкции.</eng>
+		<eng>Complete Magpul Rubber Butt-pad for MOE Carbine stocks, but can be isntalled on other models of the same series. Replaces the stanard butt pad, while adding about 13mm of thickness. Designed to improve grip against the shooter's shoulder, as well as to absorb the impact of recoil, thanks to it's design.</eng>
 		<ukr>Комплектний потиличник Magpul Rubber Butt-Pad для прикладів серії MOE Carbine, однак може бути встановлений і на інші моделі серії. Замінює стандартний потиличник, додаючи при цьому близько 13 мм товщини. Призначений для поліпшення зчеплення з плечем стрілка, а також для зниження впливу віддачі, завдяки своїй конструкції.</ukr>
 	</string>
 	<string id="vssm_module10_name">
 		<rus>Тактический фонарь Steiner LAS/TAC 2</rus>
-		<eng>===Тактический фонарь Steiner LAS/TAC 2</eng>
+		<eng>Steiner LAS/TAC 2 tactical flashlight</eng>
 		<ukr>Тактичний ліхтар Steiner LAS/TAC 2</ukr>
 	</string>
 	<string id="vssm_module10">
 		<rus>Тактический светодиодный фонарь LAS/TAC 2 производства Steiner.</rus>
-		<eng>===Тактический светодиодный фонарь LAS/TAC 2 производства Steiner.</eng>
+		<eng>Tactical LED flashlight LAS/TAC 2 производства Steiner.</eng>
 		<ukr>Тактичний світлодіодний ліхтар LAS/TAC 2 виробництва Steiner.</ukr>
 	</string>
 	<string id="vssm_module11_name">
 		<rus>Тактический блок Зенит "Перст-3"</rus>
-		<eng>===Тактический блок Зенит "Перст-3"</eng>
+		<eng>Zenith "Digit-3" tactical unit</eng>
 		<ukr>Тактичний блок Зеніт "Перст-3"</ukr>
 	</string>
 	<string id="vssm_module11">
 		<rus>Тактический блок Зенит "Перст-3", совмещающий в себе лазерные целеуказатели в видимом и инфракрасном диапазоне, а также инфракрасный осветитель. Источник света ЛЦУ: совмещённый модуль полупроводниковых лазеров красного цвета (длина волны 635 нм) и ИК (длина волны 850 нм) свечения. Источник света ИК: лазерный диод (длина волны 850 нм). Включение/выключение производится как от кнопок, расположенных на корпусе, так и с помощью выносных тактических кнопок.</rus>
-		<eng>===Тактический блок Зенит "Перст-3", совмещающий в себе лазерные целеуказатели в видимом и инфракрасном диапазоне, а также инфракрасный осветитель. Источник света ЛЦУ: совмещённый модуль полупроводниковых лазеров красного цвета (длина волны 635 нм) и ИК (длина волны 850 нм) свечения. Источник света ИК: лазерный диод (длина волны 850 нм). Включение/выключение производится как от кнопок, расположенных на корпусе, так и с помощью выносных тактических кнопок.</eng>
+		<eng>Tactical unit Zenith "Digit-3", combining laser designators in the visible and infrared ranges, as well as an infrared illuminator. LCC light source: a combined module of semiconductor lasers of red color (wavelength 635 nm) and IR (wavelength 850 nm) glow. IR light source: laser diode (wavelength 850 nm). Switching on / off is carried out both from the buttons located on the case, and with the help of remote tactical buttons.</eng>
 		<ukr>Тактичний блок Зеніт "Перст-3", який поєднує в собі лазерні цілевказівники у видимому і інфрачервоному діапазоні, а також інфрачервоний освітлювач. Джерело світла ЛЦВ: суміщений модуль напівпровідникових лазерів червоного кольору (довжина хвилі 635 нм) і ІЧ (довжина хвилі 850 нм) світіння. Джерело світла ІЧ: лазерний діод (довжина хвилі 850 нм). Вмикання/вимикання проводиться як від кнопок, розташованих на корпусі, так і за допомогою виносних тактичних кнопок.</ukr>
 	</string>
 	<string id="vssm_module12_name">
 		<rus>Тактическая рукоятка Зенит "РК-2"</rus>
-		<eng>===Тактическая рукоятка Зенит "РК-2"</eng>
+		<eng>Zenith "РК-2" tactical grip</eng>
 		<ukr>Тактична рукоятка Зеніт "РК-2"</ukr>
 	</string>
 	<string id="vssm_module12">
 		<rus>Рукоятка РК-2 устанавливается на нижнюю планку Weaver и служит для оперативного управления оружием при стрельбе. Выполнена из алюминиевой заготовки методом фрезеровки, что значительно повышает прочность и износоустойчивость. В нижней части присутствует герметичная крышка, открывающая доступ к довольно объёмном отсеку для хранения различных мелочей вроде батареек, пенала для чистки и т.д.</rus>
-		<eng>===Рукоятка РК-2 устанавливается на нижнюю планку Weaver и служит для оперативного управления оружием при стрельбе. Выполнена из алюминиевой заготовки методом фрезеровки, что значительно повышает прочность и износоустойчивость. В нижней части присутствует герметичная крышка, открывающая доступ к довольно объёмном отсеку для хранения различных мелочей вроде батареек, пенала для чистки и т.д.</eng>
+		<eng>The PK-2 handle is mounted on the lower rail of the weaver mount, and serves for operational control of the weapon during firing. Made of milled aluminum billet, which greatly increases the strength and durability. At the bottom there is a sealed lid that opens up access to a fairly large compartment for storing various small things like batteries, a cleaning case, etc.</eng>
 		<ukr>Рукоятка РК-2 встановлюється на нижню планку Weaver і служить для оперативного управління зброєю при стрільбі. Виконана з алюмінієвої заготовки методом фрезерування, що значно підвищує міцність і зносостійкість. У нижній частині присутня герметична кришка, що відкриває доступ до досить об'ємного відсіку для зберігання різних дрібниць на кшталт батарейок, пенала для чищення і т.д.</ukr>
 	</string>
 	<string id="vssm_module13_name">
 		<rus>Коллиматорный прицел Aimpoint "COMP M4"</rus>
-		<eng>===Коллиматорный прицел Aimpoint "COMP M4"</eng>
+		<eng>Aimpoint "COMP M4" reflex sight</eng>
 		<ukr>Коліматорний приціл Aimpoint "COMP M4"</ukr>
 	</string>
 	<string id="vssm_module13">
 		<rus>Коллиматорный прицел "COMP M4" производства компании Aimpoint, поставляется в вооружённые силы стран НАТО с 1997 года. Питанием служит одна "пальчиковая" батарейка (АА) ресурсом работы до 80000 часов (8 лет). Прицельная марка (точка) диаметром 2 МОА имеет 7 режимов яркости (NVD) для ночного видения и 9 режимов яркости для дневной настройки. Коллиматор Comp M4 совместим с любыми поколениями приборов ночного видения и отлично подходит для использования вместе с оптическим увеличителем (x3 Magnifier). Клик ввода поправок равен 16 мм на 100 метров. Прицел выдерживает экстремальные температуры и высочайшие нагрузки, готов к любому обращению, безотказный и надёжный.</rus>
-		<eng>===Коллиматорный прицел "COMP M4" производства компании Aimpoint, поставляется в вооружённые силы стран НАТО с 1997 года. Питанием служит одна "пальчиковая" батарейка (АА) ресурсом работы до 80000 часов (8 лет). Прицельная марка (точка) диаметром 2 МОА имеет 7 режимов яркости (NVD) для ночного видения и 9 режимов яркости для дневной настройки. Коллиматор Comp M4 совместим с любыми поколениями приборов ночного видения и отлично подходит для использования вместе с оптическим увеличителем (x3 Magnifier). Клик ввода поправок равен 16 мм на 100 метров. Прицел выдерживает экстремальные температуры и высочайшие нагрузки, готов к любому обращению, безотказный и надёжный.</eng>
+		<eng>The COMP M4 reflex sight manufactured by Aimpoint has been supplied to the armed forces of NATO countries since 1997. The power supply is one "AA" battery with a working life of up to 80,000 hours (8 years). The aiming mark (dot) with a diameter of 2 MOA has 7 brightness modes (NVD) for night vision and 9 brightness modes for daytime settings. The Comp M4 collimator is compatible with any generation of night vision devices and is great for use with an optical magnifier (x3 Magnifier). The correction input click is 16 mm at 100 meters. The sight withstands extreme temperatures and the highest loads, ready for any situation, trouble-free and reliable.</eng>
 		<ukr>Коліматорний приціл "COMP M4" виробництва компанії Aimpoint, поставляється в збройні сили країн НАТО з 1997 року. Живленням служить одна "пальчикова" батарейка (АА) ресурсом роботи до 80000 годин (8 років). Прицільна марка (крапка) діаметром 2 МОА має 7 режимів яскравості (NVD) для нічного бачення і 9 режимів яскравості для денної настройки. Коліматор Comp M4 сумісний з будь-якими поколіннями приладів нічного бачення і відмінно підходить для використання разом з оптичним збільшувачем (x3 Magnifier). Клік введення поправок дорівнює 16 мм на 100 метрів. Приціл витримує екстремальні температури і високі навантаження, готовий до будь-якого поводження, безвідмовний і надійний.</ukr>
 	</string>
 	<string id="vssm_module14_name">
-		<rus>Крепление LRP для прицелов Aimpont "COMP M4"</rus>
-		<eng>===Крепление LRP для прицелов Aimpont "COMP M4"</eng>
-		<ukr>Кріплення LRP для прицілів Aimpont "COMP M4"</ukr>
+		<rus>Крепление LRP для прицелов Aimpoint "COMP M4"</rus>
+		<eng>LRP mount for Aimpoint "COMP M4" scope</eng>
+		<ukr>Кріплення LRP для прицілів Aimpoint "COMP M4"</ukr>
 	</string>
 	<string id="vssm_module14">
 		<rus>База-крепление Aimpoint LRP для прицелов серии "COMP M4" на планки Weaver и Pikatinny.</rus>
-		<eng>===База-крепление Aimpoint LRP для прицелов серии "COMP M4" на планки Weaver и Pikatinny.</eng>
+		<eng>Aimpoint LRP mounting base for "COMP M4" optics on Weaver and Pikatinny rails</eng>
 		<ukr>База-кріплення Aimpoint LRP для прицілів серії "COMP M4" на планки Weaver і Pikatinny.</ukr>
 	</string>
 	<string id="vssm_module15_name">
 		<rus>Крепление 25 мм для установки аксессуаров</rus>
-		<eng>===Крепление 25 мм для установки аксессуаров</eng>
+		<eng>25 mm Accessory mount</eng>
 		<ukr>Кріплення 25 мм для установки аксесуарів</ukr>
 	</string>
 	<string id="vssm_module15">
 		<rus>Универсальная база для установки аксессуаров 25 мм на направляющие Weaver.</rus>
-		<eng>===Универсальная база для установки аксессуаров 25 мм на направляющие Weaver.</eng>
+		<eng>Universal base for installing 25 mm accessories on Weaver rails.</eng>
 		<ukr>Універсальна база для установки аксесуарів 25 мм на напрямні Weaver.</ukr>
 	</string>
 	<string id="vssm_module16_name">
 		<rus>Повышающая проставка "Standart Spacer" для прицелов Aimpoint</rus>
-		<eng>===Повышающая проставка "Standart Spacer" для прицелов Aimpoint</eng>
+		<eng>Aimpoint "Standard Spacer" mount</eng>
 		<ukr>Підвищуюча проставка "Standart Spacer" для прицілів Aimpoint</ukr>
 	</string>
 	<string id="vssm_module16">
 		<rus>Так называемый "Raiser mount". Повышает линию прицеливания для установленного на него прицела.</rus>
-		<eng>===Так называемый "Raiser mount". Повышает линию прицеливания для установленного на него прицела.</eng>
+		<eng>The so-called "Raiser mount". Increases the line of sight for the scope mounted on it.</eng>
 		<ukr>Так званий "Raiser mount". Підвищує лінію прицілювання для встановленого на нього прицілу.</ukr>
 	</string>
 	<string id="vssm_module17_name">
 		<rus>Переходник складной для трубы приклада</rus>
-		<eng>===Переходник складной для трубы приклада</eng>
+		<eng>Folding adapter for buttstock</eng>
 		<ukr>Перехідник складаний для труби приклада</ukr>
 	</string>
 	<string id="vssm_module17">
 		<rus>Адаптер для установки трубы под телескопические приклады на рельсу.</rus>
-		<eng>===Адаптер для установки трубы под телескопические приклады на рельсу.</eng>
+		<eng>Adapter for mounting a pipe for telescopic buttstocks on a rail.</eng>
 		<ukr>Адаптер для установки труби під телескопічні приклади на рейці.</ukr>
 	</string>
 	<string id="vssm_module18_name">
 		<rus>Крепление Aimpoint Twist Mount</rus>
-		<eng>===Крепление Aimpoint Twist Mount</eng>
+		<eng>Fastening Aimpoint Twist Mount</eng>
 		<ukr>Кріплення Aimpoint Twist Mount</ukr>
 	</string>
 	<string id="vssm_module18">
 		<rus>База-крепление для установки на основание Picatinny, предусматривает соосное крепление трёх- и шестикратных увеличителей Aimpoint с кольцом под основание Twistmount.</rus>
-		<eng>===База-крепление для установки на основание Picatinny, предусматривает соосное крепление трёх- и шестикратных увеличителей Aimpoint с кольцом под основание Twistmount.</eng>
+		<eng>Base mount for installation on the Picatinny base, provides coaxial mounting of three and six-fold Aimpoint magnifiers with a ring for the Twistmount base.</eng>
 		<ukr>База-кріплення для установки на основу Picatinny, передбачає співвісне кріплення трьох- і шестикратних збільшувачів Aimpoint з кільцем під основу Twistmount.</ukr>
 	</string>
 	<string id="vssm_module19_name">
 		<rus>Крышка с антибликовой блендой Aimpoint</rus>
-		<eng>===Крышка с антибликовой блендой Aimpoint</eng>
+		<eng>Aimpoint lens cover with non-reflective filter</eng>
 		<ukr>Кришка з антибліковою блендою Aimpoint</ukr>
 	</string>
 	<string id="vssm_module19">
 		<rus>Откидная прозрачная крышка со встроенной антибликовой блендой Aimpoint Flip-Up Front Cover With Ard Transparent. Защищает линзу от механических воздействий и препятствует "бликованию".</rus>
-		<eng>===Откидная прозрачная крышка со встроенной антибликовой блендой Aimpoint Flip-Up Front Cover With Ard Transparent. Защищает линзу от механических воздействий и препятствует "бликованию".</eng>
+		<eng>Aimpoint Flip-Up Front Cover with a non-reflective filter. Protects the lens from mechanical influences and prevents glare.</eng>
 		<ukr>Відкидна прозора кришка з вбудованою антибліковою блендою Aimpoint Flip-Up Front Cover With Ard Transparent. Захищає лінзу від механічних впливів і запобігає "блікуванню".</ukr>
 	</string>
 	<string id="vssm_module20_name">
 		<rus>Подщёчник Magpul</rus>
-		<eng>===Подщёчник Magpul</eng>
+		<eng>Magpul cheek riser</eng>
 		<ukr>Подщічник Magpul</ukr>
 	</string>
 	<string id="vssm_module20">
 		<rus>Подщёчник для телескопических прикладов MOE и CTR высотой 1,9 см. Система быстрого монтажа - изделие просто защёлкивается на прикладе, что позволяет легко и без посторонних инструментов установить его даже в полевых условиях; оборудован рёбрами жёсткости, благодаря чему обладает высокой ударопрочностью и не боится экстремальных нагрузок; шероховатая поверхность не скользит и в то же время не создаёт неприятных тактильных ощущений; обтекаемая форма не даёт конструкции цепляться за одежду, ремни или ветки.</rus>
-		<eng>===Подщёчник для телескопических прикладов MOE и CTR высотой 1,9 см. Система быстрого монтажа - изделие просто защёлкивается на прикладе, что позволяет легко и без посторонних инструментов установить его даже в полевых условиях; оборудован рёбрами жёсткости, благодаря чему обладает высокой ударопрочностью и не боится экстремальных нагрузок; шероховатая поверхность не скользит и в то же время не создаёт неприятных тактильных ощущений; обтекаемая форма не даёт конструкции цепляться за одежду, ремни или ветки.</eng>
+		<eng>Cheek rest for MOE and CTR telescopic stocks 1.9 cm high. Quick mounting system - the product simply snaps onto the butt, which makes it easy and without extraneous tools to install it even in the field; equipped with stiffeners, due to which it has high impact resistance and is not afraid of extreme loads; the rough surface does not slip and at the same time does not create unpleasant tactile sensations; the streamlined shape does not allow the design to cling to clothes, belts or branches.</eng>
 		<ukr>Подщічник для телескопічних прикладів MOE і CTR висотою 1,9 см. Система швидкого монтажу - виріб просто замикається на прикладі, що дозволяє легко і без сторонніх інструментів встановити його навіть у польових умовах; обладнаний ребрами жорсткості, завдяки чому має високу ударостійкість і не боїться екстремальних навантажень; шорстка поверхня не ковзає і в той же час не створює неприємних тактильних відчуттів; обтічна форма не дає конструкції чіплятися за одяг, ремені або гілки.</ukr>
 	</string>
 	<string id="drug_booster">
 		<rus>«Геркулес»</rus>
-		<eng>===«Геркулес»</eng>
+		<eng>«Hercules»</eng>
 		<ukr>«Геркулес»</ukr>
 	</string>
 	<string id="drug_booster_desc">
 		<rus>Основной компонент - искусственно созданный стероид, по химическому составу сходный с тестостероном. Применяется сталкерами в долгих переходах для повышения порога утомляемости мышц. Помогает значительно увеличить переносимый вес. Препарат длительного действия.\n \n%c[0,0,140,0]Действующие вещества: %c[0,55,215,215]синтетический тестостерон.</rus>
-		<eng>===Основной компонент - искусственно созданный стероид, по химическому составу сходный с тестостероном. Применяется сталкерами в долгих переходах для повышения порога утомляемости мышц. Помогает значительно увеличить переносимый вес. Препарат длительного действия.\n \n%c[0,0,140,0]Действующие вещества: %c[0,55,215,215]синтетический тестостерон.</eng>
+		<eng>The main component of Hercules is an artificial steroid, chemically similar to testosterone. It is used by stalkers during long trips to increase the threshold of muscle fatigue. Helps to significantly increase carry weight. Long-acting drug.\n \n%c[0,0,140,0]Active ingredients: %c[0,55,215,215]Synthetic Testosterone.</eng>
 		<ukr>Основний компонент - штучно створений стероїд, за хімічним складом схожий з тестостероном. Застосовується сталкерами в довгих переходах для підвищення порогу стомлюваності м'язів. Допомагає значно збільшити переношувану вагу. Препарат тривалої дії.\n \n%c[0,0,140,0]Діючі речовини: %c[0,55,215,215]синтетичний тестостерон.</ukr>
 	</string>
 	<string id="vzn_pochet_name">
 		<rus>Почётная грамота</rus>
-		<eng>===Почётная грамота</eng>
+		<eng>Certificate of Honor</eng>
 		<ukr>Почесна грамота</ukr>
 	</string>
 	<string id="vzn_pochet_desc">
 		<rus>За невероятное бескорыстие и милосердие, проявленные в деле помощи лицам, прямо, а также косвенно пострадавшим от негативных воздействий Зоны на человека, за немалую доброту, сердечность и сострадание, оказанные в деле устранения некоторых последствий этого воздействия на определённые группы лиц, а также за проявленную в этом нелёгком деле высочайшую щедрость и благородство, Сталкер по прозвищу Меченый (Стрелок) награждается титулом "Самый Щедрый и Добрый Человек Зоны", Объявляется победителем конкурса "Человек Зоны 2012".</rus>
-		<eng>===За невероятное бескорыстие и милосердие, проявленные в деле помощи лицам, прямо, а также косвенно пострадавшим от негативных воздействий Зоны на человека, за немалую доброту, сердечность и сострадание, оказанные в деле устранения некоторых последствий этого воздействия на определённые группы лиц, а также за проявленную в этом нелёгком деле высочайшую щедрость и благородство, Сталкер по прозвищу Меченый (Стрелок) награждается титулом "Самый Щедрый и Добрый Человек Зоны", Объявляется победителем конкурса "Человек Зоны 2012".</eng>
+		<eng>For the incredible selflessness and mercy shown in helping people that have been directly and indirectly affected by the negative impact of the Zone on humanity, and for the considerable kindness, cordiality and compassion shown in eliminating some of the consequences of this impact on certain groups of people, as well as, as shown through this difficult task, the highest generosity and nobility, Stalker, nicknamed Marked One (Strelok) is awarded the title "The Most Generous and Kind Man of the Zone", Is declared the winner of the contest "Man of the Zone 2012".</eng>
 		<ukr>За неймовірну безкорисливість і милосердя, проявлені в справі допомоги особам, прямо, а також побічно постраждалим від негативних впливів Зони на людину, за чималу доброту, сердечність і співчуття, надані в справі усунення деяких наслідків цього впливу на певні групи осіб, а також за виявлену в цій нелегкій справі найвищу щедрість і благородство, Сталкер на прізвисько Мічений (Стрілець) нагороджується титулом "Самий Щедра і Добра Людина Зони", Оголошується переможцем конкурсу "Людина Зони 2012".</ukr>
 	</string>
 	<string id="morphin_name">
 		<rus>«Морфин»</rus>
-		<eng>===«Морфин»</eng>
+		<eng>«Morphine»</eng>
 		<ukr>«Морфін»</ukr>
 	</string>
 	<string id="item_morphin">
 		<rus>Шприц с морфином.\n Морфин относится к группе алкалоидов. Используется для облегчения боли. Широкое применение морфина во время Американской гражданской войны привело к возникновению морфиновой зависимости у более 400 тысяч человек. Стоит избегать передозировки.\n Препарат короткого действия.\n \n %c[255,255,128,128]Препарат даёт неуязвимость на короткое время%c[default].\n \n %c[0,0,140,0]Действующие вещества: %c[0,55,215,215]морфина гидрохлорид.</rus>
-		<eng>===Основной компонент - искусственно созданный стероид, по химическому составу сходный с тестостероном. Применяется сталкерами в долгих переходах для повышения порога утомляемости мышц. Помогает значительно увеличить переносимый вес. Препарат длительного действия.\n \n%c[0,0,140,0]Действующие вещества: %c[0,55,215,215]синтетический тестостерон.</eng>
+		<eng>A syringe filled with morphine.\n Morphine belongs to the "alkaloid" group. Used to relieve pain. The widespread use of morphine during the American Civil War resulted in over 400,000 morphine addictions. Overdose should be avoided.\n A short-acting drug.\n \n %c[255,255,128,128]The drug grants immunity for a short time%c[default].\n \n %c[0,0,140,0]Active ingredients: %c[0,55,215,215]morphine hydrochloride.</eng>
 		<ukr>Шприц з морфіном.\n Морфін належить до групи алкалоїдів. Використовується для полегшення болю. Широке застосування морфіну під час Американської громадянської війни призвело до виникнення морфінової залежності у понад 400 тисяч осіб. Варто уникати передозування.\n Препарат короткої дії.\n \n %c[255,255,128,128]Препарат дає невразливість на короткий час%c[default].\n \n %c[0,0,140,0]Діючі речовини: %c[0,55,215,215]морфіну гідрохлорид.</ukr>
 	</string>
 	<string id="action_camera_name">
 		<rus>Нашлемная камера</rus>
+		<eng>Helmet "Action" Camera</eng>
 		<ukr>Нашоломна камера</ukr>
 	</string>
 	<string id="action_camera">
 		<rus>Экшен-камера с ремнём и креплением под любой тип шлемов и касок или для размещения на непокрытой голове. Крепление изготавливается из прочного материала и регулируется с учётом необходимого размера. Сама камера записывает видео в высоком разрешении в формате 720p, а также позволяет получать снимки 12 Мп в условиях дневной, слабой и ахроматической освещённости.</rus>
+		<eng>An "Action" camera with a mount for any type of helmet, or a strap for an uncovered head. The mount is extremely durable, and adjustable to the required size. The camera itself records video in 720p resolution, and is capable of taking 12M MP pictures whether it be broad daylight, or low-light conditions.</eng> 
 		<ukr>Екшн-камера з ременем і кріпленням під будь-який тип шоломів і касок або для розміщення на непокритій голові. Кріплення виготовляється з міцного матеріалу і регулюється з урахуванням необхідного розміру. Сама камера записує відео у високій роздільній здатності у форматі 720p, а також дозволяє отримувати знімки 12 Мп в умовах денної, слабкої і ахроматичної освітленості.</ukr>
 	</string>
 	<string id="car_akb_name">
 		<rus>Автомобильный аккумулятор</rus>
+		<eng>Car Battery</eng>
 		<ukr>Автомобільний акумулятор</ukr>
 	</string>
 	<string id="car_akb">
 		<rus>Самый обыкновенный свинцово-кислотный автомобильный аккумулятор. Именно такой нужно принести Петренко, чтобы он его зарядил для запуска БТР.</rus>
+		<eng>An ordinary lead-acid car battery. This is exactly what Petrenko needs, so he can charge it up to power the APC.</eng> 
 		<ukr>Звичайнісінький свинцево-кислотний автомобільний акумулятор. Саме такий потрібно принести Петренко, щоб він його зарядив для запуску БТР.</ukr>
 	</string>
 	<string id="compas_petrenko_name">
 		<rus>Магнитный компас</rus>
+		<eng>Magnetic Compass</eng>
 		<ukr>Магнітний компас</ukr>
 	</string>
 	<string id="compas_petrenko">
 		<rus>Старый наручный компас. Похоже, сломан, так как стрелка не указывает на магнитные полюса Земли, а постоянно вращается вокруг своей оси. Хм, очень странно!</rus>
+		<eng>An old wrist compass. It seems to be broken, since the arrow does not point to the magnetic poles of the Earth, but constantly rotate around it's axis. Hmm, very strange!</eng>
 		<ukr>Старий наручний компас. Схоже, зламаний, так як стрілка не вказує на магнітні полюси Землі, а постійно обертається навколо своєї осі. Хм, дуже дивно!</ukr>
 	</string>
 	<string id="microshema_construct">
 		<rus>Плата с микросхемами</rus>
-		<eng>===Плата с микросхемами</eng>
+		<eng>Board with Microchips</eng>
 		<ukr>Плата з мікросхемами</ukr>
 	</string>
 	<string id="desc_microshema_construct">
 		<rus>Электронная плата с микросхемами.\n Вполне может заинтересовать техников в ЗО, да и простые торговцы дадут за неё вполне приличные деньги.</rus>
-		<eng>===Электронная плата с микросхемами.\n Вполне может заинтересовать техников в ЗО, да и простые торговцы дадут за неё вполне приличные деньги.</eng>
+		<eng>Electronic board with microchips.\n May well be of interest to technicians in THe Zone, and ordinary merchants may give a decent price for it.</eng>
 		<ukr>Електронна плата з мікросхемами.\n Цілком може зацікавити техніків у ЗВ, та й прості торговці дадуть за неї цілком пристойні гроші.</ukr>
 	</string>
 	<string id="headphones_peltor_name">
 		<rus>Активные наушники Peltor Tactical Sport</rus>
+		<eng>Peltor Tactical Sport Active Headphones</eng>
 		<ukr>Активні навушники Peltor Tactical Sport</ukr>
 	</string>
 	<string id="headphones_peltor">
 		<rus>В активных наушниках премиум-класса Peltor Tactical Sport используются запатентованные технологии производства интегральных схем для утончённого воспроизведения звука. Это даёт пользователям сверхбыструю реакцию наушников на блокировку громких звуков и время на восстановление прослушивания, помогая защитить слух от вредных импульсных помех, таких как стрельба. Усиление звука позволяет пользователю слышать низкоуровневые звуки, включая разговоры людей, находящихся поблизости. Используются для практической, стендовой стрельбы, охоты и в промышленности.\nДля многих пользователей чистый звук в наушниках очень важен, новый чип ASIC, используемый в Peltor Tactical Sport, существенно улучшает качество воспроизведения звуков окружающей среды, что отличает эти наушники от более дешёвых аналогов.</rus>
+		<eng>Peltor Tactical Sport premium active headphones use patented integrated circuit manufacturing technologies for sophisticated sound reproduction. This gives users an ultra-fast headphone response to blocking loud sounds and time to restore listening, helping to protect hearing from harmful impulse interference such as shooting. Sound amplification allows the user to hear low-level sounds, including conversations of people nearby. They are used for practical, bench shooting, hunting and in industry.For many users, clear sound in headphones is very important, the new ASIC chip used in Peltor Tactical Sport significantly improves the quality of environmental sound reproduction, which distinguishes these headphones from cheaper analogues.</eng>
 		<ukr>В активних навушниках преміум-класу Peltor Tactical Sport використовуються запатентовані технології виробництва інтегральних схем для витонченого відтворення звуку. Це дає користувачам надшвидку реакцію навушників на блокування гучних звуків і час на відновлення прослуховування, допомагаючи захистити слух від шкідливих імпульсних перешкод, таких як стрільба. Посилення звуку дозволяє користувачеві чути низькорівневі звуки, включаючи розмови людей, що знаходяться поблизу. Використовуються для практичної, стендової стрільби, полювання і в промисловості.\nДля багатьох користувачів чистий звук у навушниках дуже важливий, новий чіп ASIC, який використовується в Peltor Tactical Sport, істотно покращує якість відтворення звуків навколишнього середовища, що відрізняє ці навушники від більш дешевих аналогів.</ukr>
 	</string>
 	<string id="headphones_razor_name">
 		<rus>Активные наушники Walker's Razor Digital</rus>
+		<eng>Walker's Razor Digital Active Headphones</eng>
 		<ukr>Активні навушники Walker's Razor Digital</ukr>
 	</string>
 	<string id="headphones_razor">
 		<rus>Активные наушники компания Walker's производит более 25 лет, в том числе - линейку современных моделей непосредственно для защиты слуха при стрельбе. Характеристики активных наушников Walker's давно стали стандартом для создателей новых моделей, предназначенных для защиты слуха, звуковой ориентации и комфортного разговорного общения людей именно в условиях стрельбы. В корпуса и чаши наушников вмонтированы всенаправленные микрофоны, коммуникационный микрофон, электронные платы, HD-динамики с регулируемой громкостью, обеспечивающие воспроизведение полного динамического диапазона усиленных звуков в формате HD.</rus>
+		<eng>Walker's company has been producing active headphones for more than 25 years, including a line of modern models directly to protect hearing when shooting. The characteristics of Walker's active headphones have long become the standard for the creators of new models designed to protect hearing, sound orientation and comfortable conversational communication of people in shooting conditions. Omnidirectional microphones, a communication microphone, electronic boards, HD speakers with adjustable volume are mounted in the cases and bowls of headphones, providing reproduction of the full dynamic range of amplified sounds in HD format.</eng>
 		<ukr>Активні навушники компанія Walker's виробляє більше 25 років, в тому числі - лінійку сучасних моделей безпосередньо для захисту слуху при стрільбі. Характеристики активних навушників Walker's давно стали стандартом для творців нових моделей, призначених для захисту слуху, звукової орієнтації і комфортного розмовного спілкування людей саме в умовах стрільби. В корпусі і чаші навушників вмонтовані всеспрямовані мікрофони, комунікаційний мікрофон, електронні плати, HD-динаміки з регульованою гучністю, що забезпечують відтворення повного динамічного діапазону посилених звуків у форматі HD.</ukr>
 	</string>
 	<string id="headphones_comtac_name">
 		<rus>Активные наушники Peltor ComTac VI</rus>
+		<eng>Peltor ComTac VI Active Headphones</eng>
 		<ukr>Активні навушники Peltor ComTac VI</ukr>
 	</string>
 	<string id="headphones_comtac">
 		<rus>Наушники ComTac VI NIB - это уже шестое поколение активных наушников. Режим бесперебойной работы позволяет функции внешней коммуникации оставаться активной даже в случае разряда батареи или сбоя питания. Микрофоны с функцией регулировки уровня громкости позволяют пользователям слышать окружающие звуки и общаться, обеспечивая надёжную защиту от постоянных или прерывистых шумов. Модель ComTac VI оснащена инновационной функцией 3M PELTOR MAP (от англ. Mission Audio Profiles, аудио-профили миссий). Продвинутые настройки прослушивания окружающих звуков позволяют адаптировать и оптимизировать уровень громкости в зависимости от миссии и условий.</rus>
+		<eng>ComTac VINI B headphones are the sixth generation of active headphones. The uninterrupted operation mode allows the external communication function to remain active even in case of battery discharge or power failure. Microphones with volume control function allow users to hear ambient sounds and communicate, providing reliable protection against constant or intermittent noise. The ComTac VI model is equipped with an innovative 3M PELTOR MAP function (from the English Mission Audio Profiles, mission audio profiles). Advanced listening settings for ambient sounds allow you to adapt and optimize the volume level depending on the mission and conditions.</eng>
 		<ukr>Навушники ComTac VI NIB - це вже шосте покоління активних навушників. Режим безперебійної роботи дозволяє функції зовнішньої комунікації залишатися активною навіть в разі розряду батареї або збою живлення. Мікрофони з функцією регулювання рівня гучності дозволяють користувачам чути навколишні звуки і спілкуватися, забезпечуючи надійний захист від постійних або переривчастих шумів. Модель ComTac VI оснащена інноваційною функцією 3M PELTOR MAP (від англ. Mission Audio Profiles, аудіо-профілі місій). Просунуті налаштування прослуховування оточуючих звуків дозволяють адаптувати і оптимізувати рівень гучності залежно від місії і умов.</ukr>
 	</string>
 	<string id="headphones_sordin_name">
 		<rus>Активные наушники MSA Sordin Supreme PRO-X/L</rus>
+		<eng>MSA Sordin Supreme PRO-X/L Active Headphones</eng>
 		<ukr>Активні навушники MSA Sordin Supreme PRO-X/L</ukr>
 	</string>
 	<string id="headphones_sordin">
 		<rus>Активные наушники шведской фирмы "MSA Sоrdin" Supreme PRO-X - это мировая новинка в области электронной защиты слуха и прекрасное решение для охоты и спортивной стрельбы. Наушники серии Supreme PRO-X ориентированы на представителей силовых структур, военных, профессиональных стрелков и охотников. Данная модель наушников укомплектована гелиевыми амбушюрами и имеет встроенный фонарик. Ветрозащитные стереомикрофоны обеспечивают прослушивание звуковой "картины" на 360 градусов, что позволяет ориентироваться на звук. Самые слабые шумы окружающей среды могут усиливаться активной электроникой в 4 раза.</rus>
+		<eng>Active headphones of the Swedish company "MSA Sordin" Supreme PRO-X is a world novelty in the field of electronic hearing protection and an excellent solution for hunting and sports shooting. The headphones of the Supreme PRO-X series are aimed at representatives of law enforcement agencies, the military, professional shooters and hunters. This model of headphones is equipped with helium ear pads and has a built-in flashlight. Windproof stereo microphones provide listening to the sound "picture" at 360 degrees, which allows you to focus on the sound. The weakest environmental noises can be amplified by 4 times by active electronics.</eng>
 		<ukr>Активні навушники шведської фірми "MSA Sоrdin" Supreme PRO-X - це світова новинка в області електронного захисту слуху і прекрасне рішення для полювання і спортивної стрільби. Навушники серії Supreme PRO-X орієнтовані на представників силових структур, військових, професійних стрільців і мисливців. Дана модель навушників укомплектована гелієвими амбушюрами і має вбудований ліхтарик. Вітрозахисні стереомікрофони забезпечують прослуховування звукової "картини" на 360 градусів, що дозволяє орієнтуватися на звук. Найслабші шуми навколишнього середовища можуть посилюватися активною електронікою в 4 рази.</ukr>
 	</string>
 	<string id="headphones_xcel_name">
 		<rus>Активные наушники Walker's XCEL 500BT</rus>
+		<eng>Walker's XCEL 500BT Active Headphones</eng>
 		<ukr>Активні навушники Walker's XCEL 500BT</ukr>
 	</string>
 	<string id="headphones_xcel">
 		<rus>Активные наушники Walker's XCEL 500BT предназначены для активного подавления динамических звуков, таких как звук выстрела огнестрельного оружия, с целью защиты органов слуха. Встроенное шумоподавление гарантирует превосходное качество звука, улучшенный цифровой контур эффективно понижает шумы и помехи. Отличительной чертой наушников XCEL 500BT является возможность подключаться по Bluetooth к мобильному телефону и принимать звонки. Два всенаправленных микрофона Hi Gain обеспечивают усиление низких шумов/частот для естественной чёткости звука. В дополнении ко всему вышесказанному, у наушников есть настраиваемая функция авто-отключения и сниженное восприятие шума от ветра.</rus>
+		<eng>Walker's XCEL 500BT active headphones are designed to actively suppress dynamic sounds, such as the sound of a firearm, in order to protect the hearing organs. The built-in noise reduction guarantees excellent sound quality, the improved digital contour effectively reduces noise and interference. A distinctive feature of the XCEL 500BT headphones is the ability to connect via Bluetooth to a mobile phone and receive calls. Two Hi Gain omnidirectional microphones provide low noise/frequency amplification for natural sound clarity. In addition to all of the above, the headphones have a configurable auto-off function and reduced perception of wind noise.</eng>
 		<ukr>Активні навушники Walker's XCEL 500BT призначені для активного придушення динамічних звуків, таких як звук пострілу вогнепальної зброї, з метою захисту органів слуху. Вбудоване шумозаглушення гарантує чудову якість звуку, покращений цифровий контур ефективно знижує шуми і перешкоди. Відмінною рисою навушників XCEL 500BT є можливість підключатися по Bluetooth до мобільного телефону і приймати дзвінки. Два всеспрямованих мікрофона High Gain забезпечують посилення низьких шумів/частот для природної чіткості звуку. У доповненні до всього вищесказаного, у навушників настроюється функція авто-відключення і знижене сприйняття шуму від вітру.</ukr>
 	</string>
 	<string id="headphones_opsmen_name">
 		<rus>Активные наушники Opsmen Earmor M32</rus>
+		<eng>Opsmen Earmor M32 Active Headphones</eng>
 		<ukr>Активні навушники Opsmen Earmor M32</ukr>
 	</string>
 	<string id="headphones_opsmen">
 		<rus>Активные наушники с гарнитурой EARMOR M32 предназначены для выполнения трёх функций: защиты слуха от громких резких звуков, для усиления слабых плохо различимых звуков окружающей среды и для работы в качестве гарнитуры для портативной радиостанции. Данные наушники снабжены съёмным микрофоном и кабелем для подключения к ПТТ с разъёмом Nexus TP-120 U-174. Подключение к радиостанции осуществляется через специальную тангенту ПТТ. Данное решение позволяет подключать к наушникам портативную радиостанцию для приёма и отправки голосовых сообщений в реальном времени.</rus>
+		<eng>Active headphones with the EARMOR M32 headset are designed to perform three functions: to protect hearing from loud harsh sounds, to amplify weak, poorly distinguishable environmental sounds, and to work as a headset for a portable radio station. These headphones are equipped with a removable microphone and a cable for connecting to a PTT with a Nexus TP-120 U-174 connector. Connection to the radio station is carried out through a special RTT tangent. This solution allows you to connect a portable radio station to the headphones to receive and send voice messages in real time.</eng>
 		<ukr>Активні навушники з гарнітурою EARMOR M32 призначені для виконання трьох функцій: захисту слуху від гучних різких звуків, для посилення слабких погано помітних звуків навколишнього середовища і для роботи в якості гарнітури для портативної радіостанції. Дані навушники забезпечені знімним мікрофоном і кабелем для підключення до ПТТ з роз'ємом Nexus TP-120 U-174. Підключення до радіостанції здійснюється через спеціальну тангенту ПТТ. Дане рішення дозволяє підключати до навушників портативну радіостанцію для прийому і відправки голосових повідомлень в реальному часі.</ukr>
 	</string>
 	<string id="chemodan_monolita">
 		<rus>Сумка с документами</rus>
-		<eng>===Сумка с документами</eng>
+		<eng>Bag with Documents</eng>
 		<ukr>Сумка з документами</ukr>
 	</string>
 	<string id="item_chemodan_monolita">
 		<rus>Сумка с обычными замками на молнии. Внутри много различных бумаг и документов.\n Среди прочего имеются карты местности от Радара до ЧАЭС и севернее со множеством непонятных отметок без каких-либо пояснений, совершенно не похожих на стандартные обозначения в картографии. Скорее всего, какой-то шифр, понять что-либо не представляется возможным. Очевидно, именно эти карты нужны монолитовцам.</rus>
-		<eng>===Сумка с обычными замками на молнии. Внутри много различных бумаг и документов.\n Среди прочего имеются карты местности от Радара до ЧАЭС и севернее со множеством непонятных отметок без каких-либо пояснений, совершенно не похожих на стандартные обозначения в картографии. Скорее всего, какой-то шифр, понять что-либо не представляется возможным. Очевидно, именно эти карты нужны монолитовцам.</eng>
+		<eng>Regular zip-lock bag. There are many different papers and documents inside.\n Among other things, there are maps of the area from the Radar to the CNPP, and to the north, with many incomprehensible marks that have no explanation, completey different from the standard notation is cartography. Most likely some kind of cipher, it's not possible to understand just by looking at it. Obviously, it is these documents that the Monolith need.</eng>
 		<ukr>Сумка зі звичайними замками на блискавки. Всередині багато різних паперів і документів.\n Серед іншого є карти місцевості від Радара до ЧАЕС і на північніше з безліччю незрозумілих позначок без будь-яких пояснень, зовсім не схожих на стандартні позначення в картографії. Швидше за все, якийсь шифр, зрозуміти що-небудь не представляється можливим. Очевидно, саме ці карти потрібні монолітівцям.</ukr>
 	</string>
 		<string id="pda_mono_voen">
 		<rus>КПК военного разведчика</rus>
-		<eng>===КПК военного разведчика</eng>
+		<eng>PDA with Military Intelligence</eng>
 		<ukr>КПК військового розвідника</ukr>
 	</string>
 	<string id="descr_pda_mono_voen">
 		<rus>КПК переодетого в монолитовскую форму военного. Много различных записей, наибольший интерес представляют следующие:\n\n "... Операция по внедрению в группировку Монолит прошла успешно. Значит, две недели, потраченные на подготовку и изучение всех имеющихся у нас сведений об этих фанатиках, прошли не зря. Но пока нам, видимо, не доверяют, заставляют выполнять всю грязную работу и не подпускают к главному. Похоже, выбора пока нет, придётся выполнять все их поручения."\n\n "... Сегодня выдали оружие и научные комбинезоны, стали отправлять на замеры в очаги радиации. Для нас это дело непривычное, но деваться некуда, здесь никто не спорит с братом Настоятеля... Но самое главное - теперь мы можем свободно ходить там, куда нас до этого не пропускали. Самое время перейти к основному этапу нашего спецзадания."\n\n "... Поприсутствовали на каком-то общем сборе. Пока большинство сидели и молились на какую-то кучу мусора, я заметил, что старшие групп что-то обсуждали и показывали на картах. Я надеюсь, это те самые карты, которые и являются нашей целью. Отправил Саню проследить, куда их унесут, он у нас мастер скрытности. Теперь будем думать, как действовать дальше..."\n\n Аудио-сообщение: "... База, приём! Это Крот-1. У нас ЧП! По-тихому выкрасть карты не получилось, нас раскрыли. Саня убит... Мы положили несколько охранников, забрали всё, что было в сейфе. За нами гонятся монолитовцы, пытаемся сбросить хвост. Срочно реализуйте код "Красный"!"\n "... Принято. Постарайтесь добраться в условленное место. Вас встретит капитан Казанцев, передайте ему все бумаги и занимайте оборону вместе с остальными в основном зале. В ваше отсутствие наш снайпер-техник починил кодовую дверь, ведущую в остальную часть подземелий. Новый код узнайте у капитана или же свяжитесь со снайпером Сидоренко."</rus>
-		<eng>===КПК переодетого в монолитовскую форму военного. Много различных записей, наибольший интерес представляют следующие:\n\n "... Операция по внедрению в группировку Монолит прошла успешно. Значит, две недели, потраченные на подготовку и изучение всех имеющихся у нас сведений об этих фанатиках, прошли не зря. Но пока нам, видимо, не доверяют, заставляют выполнять всю грязную работу и не подпускают к главному. Похоже, выбора пока нет, придётся выполнять все их поручения."\n\n "... Сегодня выдали оружие и научные комбинезоны, стали отправлять на замеры в очаги радиации. Для нас это дело непривычное, но деваться некуда, здесь никто не спорит с братом Настоятеля... Но самое главное - теперь мы можем свободно ходить там, куда нас до этого не пропускали. Самое время перейти к основному этапу нашего спецзадания."\n\n "... Поприсутствовали на каком-то общем сборе. Пока большинство сидели и молились на какую-то кучу мусора, я заметил, что старшие групп что-то обсуждали и показывали на картах. Я надеюсь, это те самые карты, которые и являются нашей целью. Отправил Саню проследить, куда их унесут, он у нас мастер скрытности. Теперь будем думать, как действовать дальше..."\n\n Аудио-сообщение: "... База, приём! Это Крот-1. У нас ЧП! По-тихому выкрасть карты не получилось, нас раскрыли. Саня убит... Мы положили несколько охранников, забрали всё, что было в сейфе. За нами гонятся монолитовцы, пытаемся сбросить хвост. Срочно реализуйте код "Красный"!"\n "... Принято. Постарайтесь добраться в условленное место. Вас встретит капитан Казанцев, передайте ему все бумаги и занимайте оборону вместе с остальными в основном зале. В ваше отсутствие наш снайпер-техник починил кодовую дверь, ведущую в остальную часть подземелий. Новый код узнайте у капитана или же свяжитесь со снайпером Sidorenko."</eng>
+		<eng>PDA hidden in a Monolith military uniform. There are many different entries, the most interesting being:\n\n "... The operation to infiltrate the Monolith group was successful. The two weeks we spent preparing and studying all the information we have about these fanatics were not in vain. Apparently, they do not trust us, and make us do all of their dirty work without letting us get in close. There doesn't seem to be any choice, we'll have to follow their orders for now."\n\n "...Today we were given weapons and scientific coveralls, and began to take radiation measurements. It's unusual for us, but it's not like we have much of a choice... The most important thing is, is that we can now freely go where we were not allowed to before. It's time to move on to the main stage of our special task. We attended some kind of general gathering... While most of them were sitting and praying to some strange pile of garbage, I noticed that the older groups were discussing something, referencing places on the map. I'm hoping we've finally found our goal. I sent Sanya to see where they would be taken, as he is the stealthiest man we have. Now we think about how to proceed..."\n\n Audio Message: "...Base, over! This is Mole-1. We have an emergency situation! We were unable to retrieve the information quietly, and were discovered. Sanya was killed... We put down a few guards, and took everything that was in the safe. The Monolith are chasing us, but we're trying to lose them. Implement code "Red" urgently!"\n "...Accepted. Try to make it to the agreed location. You will be met by Captain Kazantsev. Give him the documents, and take up defense of the main hall with the rest. In your absence, our sniper technician repaired the code-locked door leading into the rest of the dungeons. Find out the new code from the Captain, or contact sniper Sidorenko."</eng>
 		<ukr>КПК переодягненого в монолітівску форму військового. Багато різних записів, найбільший інтерес представляють наступні:\n\n "... Операція по впровадженню в угруповання Моноліт пройшла успішно. Значить, два тижні, витрачені на підготовку і вивчення всіх наявних у нас відомостей про цих фанатиків, пройшли не дарма. Але поки нам, мабуть, не довіряють, змушують виконувати всю брудну роботу і не підпускають до головного. Схоже, вибору поки немає, доведеться виконувати всі їхні доручення."\n\n "... Сьогодні видали зброю і наукові комбінезони, стали відправляти на виміри в осередки радіації. Для нас ця справа незвична, але діватися нікуди, тут ніхто не сперечається з братом Настоятеля... Але найголовніше - тепер ми можемо вільно ходити там, куди нас до цього не пропускали. Саме час перейти до основного етапу нашого спецзавдання."\n\n "... Були присутні на якомусь загальному зборі. Поки більшість сиділи і молилися на якусь купу сміття, я помітив, що старші груп щось обговорювали і показували на картах. Я сподіваюся, це ті самі карти, які і є нашою ціллю. Відправив Саню простежити, куди їх віднесуть, він у нас майстер скритності. Тепер будемо думати, як діяти далі..."\n\n Аудіо-повідомлення: "... База, прийом! Це Крот-1. У нас НП! По-тихому викрасти карти не вийшло, нас розкрили. Саня убитий... Ми поклали кілька охоронців, забрали все, що було в сейфі. За нами женуться монолітівці, намагаємося скинути хвіст. Терміново реалізуйте код "Червоний"!"\n "... Прийнято. Постарайтеся дістатися в умовлене місце. Вас зустріне капітан Казанцев, передайте йому всі папери і займайте оборону разом з іншими в основному залі. У вашій відсутності наш снайпер-технік полагодив кодові двері, що ведуть в іншу частину підземель. Новий код дізнайтеся у капітана або ж зв'яжіться зі снайпером Сидоренко. "</ukr>
 	</string>
 		<string id="pda_sniper_voen">
 		<rus>КПК снайпера Сидоренко</rus>
-		<eng>===КПК снайпера Sidorenko</eng>
+		<eng>PDA sniper Sidorenko</eng>
 		<ukr>КПК снайпера Сидоренко</ukr>
 	</string>
 		<string id="descr_pda_sniper_voen">
 		<rus>КПК снайпера Сидоренко. В КПК много различных записей, похожих на дневник. Последние из них:\n\n "... Начальство посылает меня вместе с ещё несколькими знакомыми ребятами аж в Припять, в качестве группы поддержки для какой-то там спецоперации, название которой я уже забыл... Захват каких-то секретных карт, переходы на территории к северу от ЧАЭС... Меня это мало волнует, моя задача - прикрывать и метко стрелять. Эх, а мне уже даже понравилось сидеть в Предбаннике... Но ничего не поделаешь, приказ есть приказ. Надеюсь, в этом городе сейчас не так опасно, как в тех слухах..."\n\n "... Добрались можно сказать без происшествий, по меркам Зоны. Расположились на окраине в западной части города, недалеко от автовокзала. Пока я исследовал крыши и подбирал себе наиболее выгодную снайперскую позицию, произошло нечто интересное. Я заметил очень подозрительного человека в ободранном коричневом плаще, который тащил какие-то доски, а затем спустился в подвал одного из домов. Неужели кто-то из местных жителей? Доложил об этом командиру и решил спуститься вниз, чтобы лично пойти с отрядом посмотреть, уж больно любопытно стало... Спустившись в подвал, никого не обнаружили, только огромную дыру в стене, которая вела к каким-то катакомбам. Рискнули сунуться туда, и каково было наше удивление, когда через несколько десятков метров мы вышли в огромный подземный тоннель, похожий на какой-то заброшенный путепровод. Запросили ещё подкрепление и выдвинулись на разведку. Обнаружили около 10 людей, все были в плащах. Сдаться они не пожелали и открыли огонь по нам, пришлось всех ликвидировать. Благо, у половины из них даже не было оружия, а у остальных двустволки да пистолеты, из наших никто серьёзно не пострадал. Осмотрели тела - жуть. Лица обезображены, одежда жутко грязная и оборванная. Прям какие-то подземные люди. У одного из них нашли записи с упоминанием какой-то группировки Грех. Хм, никогда не слышал о такой... Дальнейшая разведка прошла без эксцессов, больше серьёзного сопротивления не встретили, только крысы и всякая мелочь типа тараканов."\n\n "... Командование отдало приказ занять эти подземелья, мол находиться здесь будет безопаснее, чем на поверхности. Ну не знаю, не знаю... Как по мне, очень жуткое место, мне здесь не по себе. Также было проучено организовать точку обороны в главном зале, на случай, если у основной группы что-то пойдёт не так. Нашёл себе отличную позицию для лёжки, с которой просматривается практически весь зал. Как же напрягают эти непонятные звуки..."\n\n "... Последние два дня ничего интересного не происходило. От нечего делать вызвался попробовать починить кодовую бункерную дверь, вспомнить годы, когда служил ещё техником. На удивление, получилось довольно быстро. Начальству определённо понравилась эта затея с дверью, может даже премию выпишут... В любом случае, теперь у нас есть дополнительный элемент обороны на случай, если придётся отступать. Код всем сообщил, но на всякий случай, чтобы не забыть, запишу и себе - 65687. Неизвестно, сколько нам тут ещё тут сидеть..."\n\n "... И снова скукота и уныние..."\n\n "... Похоже, началось! Капитан отдал приказ занимать позиции. Ну, с Богом!"</rus>
-		<eng>===КПК снайпера Sidorenko. В КПК много различных записей, похожих на дневник. Последние из них:\n\n "... Начальство посылает меня вместе с ещё несколькими знакомыми ребятами аж в Припять, в качестве группы поддержки для какой-то там спецоперации, название которой я уже забыл... Захват каких-то секретных карт, переходы на территории к северу от ЧАЭС... Меня это мало волнует, моя задача - прикрывать и метко стрелять. Эх, а мне уже даже понравилось сидеть в Предбаннике... Но ничего не поделаешь, приказ есть приказ. Надеюсь, в этом городе сейчас не так опасно, как в тех слухах..."\n\n "... Добрались можно сказать без происшествий, по меркам Зоны. Расположились на окраине в западной части города, недалеко от автовокзала. Пока я исследовал крыши и подбирал себе наиболее выгодную снайперскую позицию, произошло нечто интересное. Я заметил очень подозрительного человека в ободранном коричневом плаще, который тащил какие-то доски, а затем спустился в подвал одного из домов. Неужели кто-то из местных жителей? Доложил об этом командиру и решил спуститься вниз, чтобы лично пойти с отрядом посмотреть, уж больно любопытно стало... Спустившись в подвал, никого не обнаружили, только огромную дыру в стене, которая вела к каким-то катакомбам. Рискнули сунуться туда, и каково было наше удивление, когда через несколько десятков метров мы вышли в огромный подземный тоннель, похожий на какой-то заброшенный путепровод. Запросили ещё подкрепление и выдвинулись на разведку. Обнаружили около 10 людей, все были в плащах. Сдаться они не пожелали и открыли огонь по нам, пришлось всех ликвидировать. Благо, у половины из них даже не было оружия, а у остальных двустволки да пистолеты, из наших никто серьёзно не пострадал. Осмотрели тела - жуть. Лица обезображены, одежда жутко грязная и оборванная. Прям какие-то подземные люди. У одного из них нашли записи с упоминанием какой-то группировки Грех. Хм, никогда не слышал о такой... Дальнейшая разведка прошла без эксцессов, больше серьёзного сопротивления не встретили, только крысы и всякая мелочь типа тараканов."\n\n "... Командование отдало приказ занять эти подземелья, мол находиться здесь будет безопаснее, чем на поверхности. Ну не знаю, не знаю... Как по мне, очень жуткое место, мне здесь не по себе. Также было проучено организовать точку обороны в главном зале, на случай, если у основной группы что-то пойдёт не так. Нашёл себе отличную позицию для лежки, с которой просматривается практически весь зал. Как же напрягают эти непонятные звуки..."\n\n "... Последние два дня ничего интересного не происходило. От нечего делать вызвался попробовать починить кодовую бункерную дверь, вспомнить годы, когда служил ещё техником. На удивление, получилось довольно быстро. Начальству определенно понравилась эта затея с дверью, может даже премию выпишут... В любом случае, теперь у нас есть дополнительный элемент обороны на случай, если придётся отступать. Код всем сообщил, но на всякий случай, чтобы не забыть, запишу и себе - 65687. Неизвестно, сколько нам тут ещё тут сидеть..."\n\n "... И снова скукота и уныние..."\n\n "... Похоже, началось! Капитан отдал приказ занимать позиции. Ну, с Богом!"</eng>
+		<eng>PDA of the sniper Sidorenko. There are many diary-like entries inside, the last of them being:\n\n "... The Authorities sent me, along with a few other guys I know, all the way to Pripyat as a support group for some kind of special operation, the name of which I have already forgotten... Capturing some secret maps, crossing over to the northern territory of the Chernobyl nuclear power plant... I don't care much. My task is to provide cover and shoot accurately. I was enjoying sitting around in the dressing room... But nothing can be done, an order is an order. I hope the city isn't as dangerous as the rumors claim..."\n\n "...We arrived without incident, at least by the Zone's standards. We settled on the outskirts in the western part of the city, not far from the bus station. While I was looking for the most advantageous shooting position, something interesting happened. I noticed a very suspicious man in a tattered brown raincoat, who was dragging some boards down into the basement of one of the houses. Could it be one of the local residents? I reported it to my Commander, and decided to venture downstairs with a small detachment to check it out for myself, now painfully curious... Going down into the basement, we found nobody, only a huge hole in the wall that led to some kind of catacomb. Upon poking our heads inside, it was much to our surprise that only after a few tens of meters, we spilled out into a huge underground tunnel, like we were in some kind of abandoned underpass. We requested reinforcements, and moved in to provide reconnaissance. Deeper inside, we found about 10 people, all wearing the same tattered coats. They did not want to surrender, and opened fire on us, resulting in liquidation of their entire group. Fortunately, half of them did not even have weapons, and the rest had double-barreled shotguns and pistols, so we suffered no serious injuries. Upon examination of the bodies, we were met with horror. Disfigured faces amidst all the terribly filthy and tattered clothing. Like these people had been living underground for quite some time. One of them was in posession of records mentioning some group by the name of "Sin". Hmm, I've never heard of such a group... Further reconnaissance went without incident, and no more serious resistance was encountered, only rats and small creatures like cockroaches."\n\n "...Command gave the order to occupy these tunnels, saying they will be safer than on the surface. Well, I don't know about that... If you ask me, it's a very creepy place, and I really don't feel comfortable here. We were also ordered to organize a point of defense inside the main hall, in case something goes wrong with the main force. I found myself in an excellent position, able to lie down and have the entire hall within my sights. The incomprehensible sounds coming from the tunnels are starting to annoy me, though..."\n\n "...Over the last two days, nothing interesting has happened. With nothing else to do, I volunteered to try to fix the code-locked bunker door, jogging memories of the years I spent as a technician. Surprisingly, it didn't take me very long at all. Command certainly liked this idea, and maybe they'll even issue a bonus for me once this is all over with... In any case, now we have an additional element of defense in case we have to retreat. I gave everyone the new code for the door, but I'll write it down here for myself just in case I forget - 65687. Who knows how much longer we'll be sitting here..."\n\n "...And again, boredom and despondency..."\n \n "...Looks like it's finally started! The Captain gave the order to take up positions. Well, we go with God!"</eng>
 		<ukr>КПК снайпера Сидоренко. У КПК багато різних записів, схожих на щоденник. Останні з них:\n\n "... Начальство посилає мене разом із ще декількома знайомими хлопцями аж до Прип'яті, в якості групи підтримки для якоїсь там спецоперації, назву якої я вже забув... Захоплення якихось секретних карт, переходи на території на північ від ЧАЕС... мене це мало хвилює, моя задача - прикривати і влучно стріляти. Ех, а мені вже навіть сподобалося сидіти в Передбаннику... Але нічого не поробиш, наказ є наказ. Сподіваюся, в цьому місті зараз не так небезпечно, як в тих чутках..."\n\n "... Добралися можна сказати без пригод, за мірками Зони. Розташувалися на околиці в західній частині міста, недалеко від автовокзалу. Поки я досліджував дахи і підбирав собі найбільш вигідну снайперську позицію, сталося щось цікаве. Я помітив дуже підозрілу людину в обдертому коричневому плащі, яка тягнула якісь дошки, а потім спустилася у підвал одного з будинків. Невже хтось із місцевих жителів? Доповів про це командиру і вирішив спуститися вниз, щоб особисто піти з загоном подивитися, аж надто цікаво стало... Спустившись в підвал, нікого не виявили, лише величезну діру в стіні, яка вела до якихось катакомб. Ризикнули сунутися туди, і яке було наше здивування, коли через кілька десятків метрів ми вийшли на величезний підземний тунель, схожий на якийсь покинутий шляхопровід . Запросили ще підкріплення і висунулися на розвідку. Виявили близько 10 людей, всі були в плащах. Здатися вони не побажали і відкрили вогонь по нам, довелося всіх ліквідувати. Благо, у половини з них навіть не було зброї, а у решти двостволки та пістолети, з наших ніхто серйозно не постраждав. Оглянули тіла - жах. Особи спотворені, одяг моторошно брудний і обірваний. Прям якісь підземні люди. У одного з них знайшли записи зі згадуванням якогось угруповання Гріх. Хм, ніколи не чув про таке... Подальша розвідка пройшла без ексцесів, більше серйозного опору не зустріли, тільки щури і всяка дрібниця типу тарганів."\n\n "... Командування віддало наказ зайняти ці підземелля, мовляв перебувати тут буде безпечніше, ніж на поверхні. Ну не знаю, не знаю... Як на мене, дуже страшне місце, мені тут не по собі. Також було поручено організувати точку оборони в головному залі, на випадок, якщо у основної групи щось піде не так. Знайшов собі відмінну позицію для лежання, з якої проглядається практично весь зал. Як же напружують ці незрозумілі звуки..."\n\n "... Останні два дні нічого цікавого не відбувалося. Знічев'я зголосився спробувати полагодити кодові бункерні двері, згадати роки, коли служив ще техніком. На подив, вийшло досить швидко. Начальству безумовно сподобалася ця затія з дверима, може навіть премію випишуть... У будь-якому випадку, тепер у нас є додатковий елемент оборони на випадок, якщо доведеться відступати. Код всім повідомив, але про всяк випадок, щоб не забути, запишу і собі - 65687. Невідомо, скільки нам тут ще тут сидіти..."\n\n "... І знову скукота і смуток..."\n\n "... Схоже, почалося! Капітан віддав наказ займати позиції. Ну, з Богом!"</ukr>
 	</string>
 
 	<string id="streyndzher_name">
 		<rus>Датчик защитного поля</rus>
+		<eng>Protective Field Sensor</eng>
 		<ukr>===Датчик защитного поля</ukr>
 	</string>
 	<string id="streyndzher_desc">
 		<rus>Датчик защитного поля в Мёртвом Городе. Данный прибор позволяет на некоторое время обмануть защитные системы при сканировании личности и обойти распознавание "свой-чужой". Но действует только в пределах внешнего защитного поля.</rus>
+		<eng>A protective field sensor from the Dead City. This device allows you to deceive security systems that scan to indentify "friend" from "foe", at least for awhile. It only works within the outer protective field.</eng>
 		<ukr>===Датчик защитного поля в Мёртвом Городе. Данный прибор позволяет на некоторое время обмануть защитные системы при сканировании личности и обойти распознавание "свой-чужой". Но действует только в пределах внешнего защитного поля.</ukr>
 	</string>
 

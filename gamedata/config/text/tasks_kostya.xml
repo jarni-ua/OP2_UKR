@@ -452,7 +452,7 @@
 		<rus>Лагерь бандитов у перехода на Агропром</rus>
 		<eng>Bandit camp at the transition to the Agroprom</eng>
 		<ukr>Табір бандитів біля переходу на Агропром</ukr>
-		<fra>Camp bandits à la transition vers l'Agroprom</fra>
+		<fra>Camp bandits à la transition vers le secteur agricole</fra>
 		<pln>Obóz bandytów przy przejściu na Agroprom</pln>
 	</string>
 	<string id="task_zonedocs_garbage_4">
@@ -1502,7 +1502,7 @@
 		<rus>Собрать части дoкументoв на Агропроме</rus>
 		<eng>Collect parts of documents at the Agroprom</eng>
 		<ukr>Зібрати частини документів на Агропромі</ukr>
-		<fra>Assembler des parties de documents à l'Agroprom</fra>
+		<fra>Assembler des parties de documents à Agroprom</fra>
 		<pln>Zebrać wszystkie części dokumentów na Agropromie</pln>
 	</string>
 	<string id="task_zonedocs_agro_1">
@@ -1955,9 +1955,9 @@
 	</string>
 	<string id="task_zonedocs_atp_0">
 		<rus>Собрать части дoкументoв на АТП</rus>
-		<eng>Collect parts of documents at the MTP</eng>
+		<eng>Collect parts of documents at the ATP</eng>
 		<ukr>Зібрати частини документів на АТП</ukr>
-		<fra>Recueillir des parties de documents à l'ETR</fra>
+		<fra>Recueillir des parties de documents sur l'ATP</fra>
 		<pln>Zebrać wszystkie części dokumentów na ATP</pln>
 	</string>
 	<string id="task_zonedocs_atp_1">
@@ -2305,7 +2305,7 @@
 	</string>
 	<string id="task_zonedocs_yan_11">
 		<rus>Недалеко от закрытых ворот, у стены</rus>
-		<eng>===Inaccessible territory at the factory</eng>
+		<eng>Not far from the closed gate, by the wall</eng>
 		<ukr>Недалеко від закритих воріт, біля стіни</ukr>
 		<fra>===Zone inaccessible à l'usine</fra>
 		<pln>===Niedostępny zakątek w fabryce</pln>
@@ -3180,7 +3180,7 @@
 	</string>
 	<string id="task_esc_kostya_pda1_0">
 		<rus>Тайник Кости: Кордон</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Cordon</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3201,7 +3201,7 @@
 	</string>
 	<string id="task_esc_kostya_pda2_0">
 		<rus>Тайник Кости: Кордон</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Cordon</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3222,7 +3222,7 @@
 	</string>
 	<string id="task_esc_kostya_pda3_0">
 		<rus>Тайник Кости: Кордон</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Cordon</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3264,7 +3264,7 @@
 	</string>
 	<string id="task_svalka_taynik1_0">
 		<rus>Тайник Кости: Свалка</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Garbage</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3285,7 +3285,7 @@
 	</string>
 	<string id="task_svalka_taynik2_0">
 		<rus>Тайник Кости: Свалка</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Garbage</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3306,7 +3306,7 @@
 	</string>
 	<string id="task_svalka_taynik3_0">
 		<rus>Тайник Кости: Свалка</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Garbage</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3327,7 +3327,7 @@
 	</string>
 	<string id="task_svalka_taynik4_0">
 		<rus>Тайник Кости: Свалка</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Garbage</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3348,7 +3348,7 @@
 	</string>
 	<string id="task_svalka_taynik5_0">
 		<rus>Тайник Кости: Свалка</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Garbage</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3369,7 +3369,7 @@
 	</string>
 	<string id="task_x18_taynik1_0">
 		<rus>Тайник Кости: Х-18</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: X-18</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3390,7 +3390,7 @@
 	</string>
 	<string id="task_x18_taynik2_0">
 		<rus>Тайник Кости: Х-18</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: X-18</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3411,7 +3411,7 @@
 	</string>
 	<string id="task_x18_taynik3_0">
 		<rus>Тайник Кости: Х-18</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: X-18</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3432,7 +3432,7 @@
 	</string>
 	<string id="task_agroprom_taynik1_0">
 		<rus>Тайник Кости: Агропром</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Agroprom</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3441,7 +3441,7 @@
 		<rus>Найти тайник на Агропроме</rus>
 		<eng>Find a stash at the Agroprom</eng>
 		<ukr>Знайти схованку на Агропромі</ukr>
-		<fra>Trouver une cache dans à l'Agroprom</fra>
+		<fra>Trouver une cache dans Agroprom</fra>
 		<pln>Znaleźć schowek na Agropromie</pln>
 	</string>
 	<string id="task_agroprom_taynik1_2">
@@ -3453,7 +3453,7 @@
 	</string>
 	<string id="task_agroprom_taynik2_0">
 		<rus>Тайник Кости: Агропром</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Agroprom</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3462,7 +3462,7 @@
 		<rus>Найти тайник на Агропроме</rus>
 		<eng>Find a stash at the Agroprom</eng>
 		<ukr>Знайти схованку на Агропромі</ukr>
-		<fra>Trouver une cache à l'Agroprom</fra>
+		<fra>Trouver une cache dans Agroprom</fra>
 		<pln>Znaleźć schowek na Agropromie</pln>
 	</string>
 	<string id="task_agroprom_taynik2_2">
@@ -3474,7 +3474,7 @@
 	</string>
 	<string id="task_agroprom_taynik3_0">
 		<rus>Тайник Кости: Агропром</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Agroprom</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3483,7 +3483,7 @@
 		<rus>Найти тайник на Агропроме</rus>
 		<eng>Find a stash at the Agroprom</eng>
 		<ukr>Знайти схованку на Агропромі</ukr>
-		<fra>Trouver une cache à l'Agroprom</fra>
+		<fra>Trouver une cache dans Agroprom</fra>
 		<pln>Znaleźć schowek na Agropromie</pln>
 	</string>
 	<string id="task_agroprom_taynik3_2">
@@ -3495,7 +3495,7 @@
 	</string>
 	<string id="task_agroprom_taynik4_0">
 		<rus>Тайник Кости: Агропром</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Agroprom</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3504,7 +3504,7 @@
 		<rus>Найти тайник на Агропроме</rus>
 		<eng>Find a stash at the Agroprom</eng>
 		<ukr>Знайти схованку на Агропромі</ukr>
-		<fra>Trouver une cache à l'Agroprom</fra>
+		<fra>Trouver une cache dans Agroprom</fra>
 		<pln>Znaleźć schowek na Agropromie</pln>
 	</string>
 	<string id="task_agroprom_taynik4_2">
@@ -3516,7 +3516,7 @@
 	</string>
 	<string id="task_agroprom_taynik5_0">
 		<rus>Тайник Кости: Агропром</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Agroprom</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3525,7 +3525,7 @@
 		<rus>Найти тайник на Агропроме</rus>
 		<eng>Find a stash at the Agroprom</eng>
 		<ukr>Знайти схованку на Агропромі</ukr>
-		<fra>Trouver une cache à l'Agroprom</fra>
+		<fra>Trouver une cache dans Agroprom</fra>
 		<pln>Znaleźć schowek na Agropromie</pln>
 	</string>
 	<string id="task_agroprom_taynik5_2">
@@ -3537,7 +3537,7 @@
 	</string>
 	<string id="task_agroprom_taynik6_0">
 		<rus>Тайник Кости: Агропром</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Agroprom</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3546,7 +3546,7 @@
 		<rus>Найти тайник на Агропроме</rus>
 		<eng>Find a stash at the Agroprom</eng>
 		<ukr>Знайти схованку на Агропромі</ukr>
-		<fra>Trouver une cache à l'Agroprom</fra>
+		<fra>Trouver une cache dans Agroprom</fra>
 		<pln>Znaleźć schowek na Agropromie</pln>
 	</string>
 	<string id="task_agroprom_taynik6_2">
@@ -3558,7 +3558,7 @@
 	</string>
 	<string id="task_yantar_taynik1_0">
 		<rus>Тайник Кости: Янтарь</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Yantar</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3579,7 +3579,7 @@
 	</string>
 	<string id="task_yantar_taynik2_0">
 		<rus>Тайник Кости: Янтарь</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Yantar</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3600,7 +3600,7 @@
 	</string>
 	<string id="task_yantar_taynik3_0">
 		<rus>Тайник Кости: Янтарь</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Yantar</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3621,7 +3621,7 @@
 	</string>
 	<string id="task_yantar_taynik4_0">
 		<rus>Тайник Кости: Янтарь</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Yantar</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3642,7 +3642,7 @@
 	</string>
 	<string id="task_yantar_taynik5_0">
 		<rus>Тайник Кости: Янтарь</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Yantar</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3663,7 +3663,7 @@
 	</string>
 	<string id="task_yantar_taynik6_0">
 		<rus>Тайник Кости: Янтарь</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Yantar</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3684,7 +3684,7 @@
 	</string>
 	<string id="task_as_taynik1_0">
 		<rus>Тайник Кости: Армейские Склады</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Army Warehouses</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3705,7 +3705,7 @@
 	</string>
 	<string id="task_as_taynik2_0">
 		<rus>Тайник Кости: Армейские Склады</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Army Warehouses</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3726,7 +3726,7 @@
 	</string>
 	<string id="task_as_taynik3_0">
 		<rus>Тайник Кости: Армейские Склады</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Army Warehouses</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3747,7 +3747,7 @@
 	</string>
 	<string id="task_as_taynik4_0">
 		<rus>Тайник Кости: Армейские Склады</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Army Warehouses</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3768,7 +3768,7 @@
 	</string>
 	<string id="task_as_taynik5_0">
 		<rus>Тайник Кости: Армейские Склады</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Army Warehouses</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3789,7 +3789,7 @@
 	</string>
 	<string id="task_as_taynik6_0">
 		<rus>Тайник Кости: Армейские Склады</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Army Warehouses</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3810,7 +3810,7 @@
 	</string>
 	<string id="task_radar_taynik1_0">
 		<rus>Тайник Кости: Радар</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Radar</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3831,7 +3831,7 @@
 	</string>
 	<string id="task_radar_taynik2_0">
 		<rus>Тайник Кости: Радар</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Radar</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3852,7 +3852,7 @@
 	</string>
 	<string id="task_radar_taynik3_0">
 		<rus>Тайник Кости: Радар</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Radar</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3873,7 +3873,7 @@
 	</string>
 	<string id="task_radar_taynik4_0">
 		<rus>Тайник Кости: Радар</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Radar</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3894,7 +3894,7 @@
 	</string>
 	<string id="task_x10_taynik_0">
 		<rus>Тайник Кости: Х-10</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: X-10</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3915,7 +3915,7 @@
 	</string>
 	<string id="task_pripyat_taynik1_0">
 		<rus>Тайник Кости: Припять</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Pripyat</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3936,7 +3936,7 @@
 	</string>
 	<string id="task_pripyat_taynik2_0">
 		<rus>Тайник Кости: Припять</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Pripyat</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -3957,7 +3957,7 @@
 	</string>
 	<string id="task_pripyat_taynik3_0">
 		<rus>Тайник Кости: Припять</rus>
-		<eng>===Kostya's stash</eng>
+		<eng>Kostya's stash: Pripyat</eng>
 		<ukr>===Схованка Кості</ukr>
 		<fra>===Cache de Kostia</fra>
 		<pln>===Schowek Kostii</pln>
@@ -4076,9 +4076,9 @@
 	</string>
 	<string id="task_stealth_find_pda_3">
 		<rus>В шкафу на 3 этаже НИИ "Агропром"</rus>
-		<eng>In the closet on the 3rd floor of the "Agroprom" research institute</eng>
+		<eng>In the closet on the 3rd floor of the "Agroprom" Research Institute</eng>
 		<ukr>У шафі на 3 поверсі НДІ "Агропром"</ukr>
-		<fra>Dans le placard au 3ème étage de l'institut de recherches "Agroprom"</fra>
+		<fra>Dans le placard au 3ème étage de l'Institut de recherche "Agroprom"</fra>
 		<pln>W szafie na 2 piętrze Instytutu "Agroprom"</pln>
 	</string>
 	<string id="task_stealth_find_pda_4">

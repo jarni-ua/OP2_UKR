@@ -725,13 +725,13 @@
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.7x28-ss190">
 		<rus>Патрон с экспансивной пулей (JHP) калибра 5.7х28, разработанного бельгийской компанией Fabrique Nationale Herstal (FN) на замену 9х19мм Парабеллум. Предназначался для комплекса защиты личного состава бронетехники, состоящего из пистолета Five-Seven и пистолета-пулемёта P90 от той же FN. Является несколько уменьшенным аналогом 5.56 стандарта НАТО, но обладает большей пробивной мощностью, чем другие пистолетные патроны. Она чуть меньше, чем у базового патрона 5.7x28 SS190, но останавливающее действие и убойная сила у неё выше. Дульная скорость пули составляет 716 м/с.</rus>
-		<eng>===A cartridge designed for a weapon complex to protect personnel of armored vehicles, consisting of a Five-Seven pistol and a P90 submachine gun. It is somewhat reduced analogue of 5.56 of the NATO standard, but has more penetrating power than other pistol cartridges. This bullet develops a muzzle velocity up to 715 m/s and is able to pierce the bulletproof vest.</eng>
+		<eng>The 5.7x28 round was developed by the Belgian company Fabrique Nationale Herstal (FN) to replace the 9x19mm Parabellum. It was designed for Personal Defense Weapons, consisting of the FN Five-Seven pistol and the FN P90 submachine gun. It is a somewhat scaled-down version of the 5.56 NATO standard, but has a higher penetration power than other pistol cartridges. It is slightly smaller than standard 5.7x28 SS190 round, but has better stopping power and lethality. The muzzle velocity of the bullet is 716 m/s.</eng>
 		<ukr>Патрон з експансивною кулею (JHP) калібру 5.7х28, розробленого бельгійською компанією Fabrique Nationale Herstal (FN) на заміну 9х19мм Парабелум. Призначався для комплексу захисту особового складу бронетехніки, що складається з пістолета Five-Seven та пістолета-кулемета P90 від тієї ж FN. Являється дещо зменшеним аналогом 5.56 за стандартами НАТО, але має більшу пробивну силу, ніж інші пістолетні патрони. Куля трохи менша, ніж у базового патрона 5.7x28 SS190, але зупиняюча дія і вбивча сила у неї вища. Дулова швидкість кулі становить 716 м/с.</ukr>
 		<pln>===Nabój, opracowany dla kompleksowej ochrony składu osobowego pojazdów opancerzonych, składającego się z pistoletu Five-Seven i pistoletu maszynowego P90. Jest nieco zmniejszonym analogiem 5.56 standardu NATO, ale posiada większą przebijalność, niż inne naboje pistoletowe. Kula rozwija prędkość początkową do 715 m/s i jest zdolna przebić kamizelkę kuloodporną.</pln>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.7x28-ap">
 		<rus>Базовый тип патронов калибра 5.7x28. Используется с 1993 г. По сравнению с 5.7x28 SS195LF обладает меньшей убойной силой и останавливающим действием, но большей пробивной способностью. Пуля с цельнометаллической оболочкой (FMJ) развивает дульную скорость в 716 м/с и при выстреле из FN P90 способна пробить кевларовый бронежилет класса IIIA с 200 м.</rus>
-		<eng>===Enforced 5.7x28 SS190 cartridge. Due to the reinforcement of the cartridge, the bullet penetration capacity increased, but at the same time this leads to increased wear of the barrel.</eng>
+		<eng>The basic type of 5.7x28 ammunition. Used since 1993. Compared to 5.7x28 SS195LF, it has lower lethality and stopping power, but higher penetration. The all-metal jacketed bullet (FMJ) has a muzzle velocity of 716 m/s and can penetrate a class IIIA Kevlar vest from 200 m when fired from an FN P90.</eng>
 		<ukr>Базовий тип патронів калібру 5.7x28. Використовується з 1993 р. У порівнянні з 5.7x28 SS195LF має меншу вбивчу силу і зупиняючу дію, але більшу пробивну здатність. Куля з суцільнометалевою оболонкою (FMJ) розвиває дульну швидкість у 716 м/с і при пострілі з FN P90 здатна пробити кевларовий бронежилет класу IIIA з 200 м.</ukr>
 		<pln>===Wzmocniony nabój 5.7x28 SS190. Dzięki wzmocnieniu naboju, zwiększyła się przebijalność kuli, jednak to powoduje szybsze zużycie lufy.</pln>
 	</string>
@@ -1291,7 +1291,7 @@
 	</string>
 	<string id="wpn-svd_m1">
 		<rus>СВД «Дальнобойщик»</rus>
-		<eng>SVD "Long-range"</eng>
+		<eng>SVD "Long-Range"</eng>
 		<ukr>СВД «Далекобійник»</ukr>
 		<pln>SWD "Dalekosiężny"</pln>
 	</string>
@@ -1439,7 +1439,7 @@
 	</string>
 	<string id="enc_weapons1_wpn-abakan_m1">
 		<rus>АН-94 «Абакан» снайперский, специальная модификация для ведения снайперского огня, обладает более высокой кучностью и мягкой отдачей. Имеет два режима ведения огня - одиночный и с отсечкой по 2 патрона. При стрельбе фиксированной очередью (по 2 патрона) стреляющий агрегат приходит в крайнее заднее положение после двух выстрелов, совершённых в высоком темпе (1800 выстр./мин), и пули успевают покинуть ствол, пока автомат ещё не сместился под действием отдачи. Стрелок воспринимает импульс отдачи уже в конце очереди. Данная особенность автомата положительно сказывается на кучности стрельбы.</rus>
-		<eng>AN-94 "Abakan" sniper modification, made specially for sniper fire, has a higher accuracy and soft recoil. It has two modes of fire - single and a 2-rounds burst. When firing a fixed 2-rounds burst, the firing unit comes to the extreme rear position after two shots made at a high rate (1,800 rpm), and the bullets manage to leave the barrel until the rifle has not yet shifted under the effect of recoil. The shooter perceives the recoil momentum at the end of the burst. This feature of the rifle positively affects the accuracy of fire.</eng>
+		<eng>AN-94 "Abakan" "Sniper" modification, made specially for sniper fire, has a higher accuracy and soft recoil. It has two modes of fire - single and a 2-rounds burst. When firing a fixed 2-rounds burst, the firing unit comes to the extreme rear position after two shots made at a high rate (1,800 rpm), and the bullets manage to leave the barrel until the rifle has not yet shifted under the effect of recoil. The shooter perceives the recoil momentum at the end of the burst. This feature of the rifle positively affects the accuracy of fire.</eng>
 		<ukr>АН-94 «Абакан» снайперський, спеціальна модифікація для ведення снайперського вогня, володіє більш високою купчастістю, м'якою віддаченю. Має два режими вогню - одиночний і з відсічкою на 2 патрона. При стрільбі фіксованою чергою (по 2 патрона) стріляючий агрегат приходить в крайнє заднє положення після двох пострілів, зроблених у високому темпі (1800 постр./хв), і кулі встигають покинути ствол, поки автомат ще не змістився під дією віддачі. Стрілець сприймає імпульс віддачі вже в кінці черги. Дана особливість автомата позитивно позначається на купчастості стрільби.</ukr>
 		<pln>AN-94 "Abakan" snajperski, specjalna modyfikacja w celu prowadzenia snajperskiego ognia, o bardzo wysokim skupieniu i niskim odrzucie. Posiada dwa tryby prowadzenia ognia - pojedynczy i z opcją po 2 naboje. Przy strzelaniu ciągłym (po 2 naboje), mechanizm zamka przechodzi w skrajne tylne położenie po dwóch strzałach, dokonanych w wysokim tempie (1800 strz/min), a kule w tym czasie opuszczają lufę, zanim automat przesunie się pod działaniem odrzutu. Strzelec przyjmuje impuls odrzutu już w końcowej fazie tej serii. Ta cecha automatu pozytywnie wpływa na skupienie strzelania.</pln>
 	</string>
@@ -1985,7 +1985,7 @@
 	</string>
 	<string id="enc_weapons1_wpn-gungauss">
 		<rus>Пистолет гравитационно-импульсный M72-GG - оружие нового поколения. Несмотря на колоссальную мощность выстрела, точность и поражающая дальность очень невелики, но на близких расстояниях может стать незаменимым оружием в борьбе с самыми живучими монстрами.</rus>
-		<eng>===Gravitational impulse M72-GG pistol - a weapon that was made and modernized from the "Gauss" M72-GR by single master, who was last seen in the area of the Brain Scorcher. Despite the colossal power of the shot, the accuracy and range is very small, but at close distances proved to be an indispensable weapon in the fight against the most enduring monsters.</eng>
+		<eng>The M72-GG gravity-pulse pistol is a next-generation weapon. Despite the colossal power of the shot, the accuracy and range are very low, but at close distances it can become an indispensable weapon in the fight against the most resilient monsters.</eng>
 		<ukr>Пістолет гравітаційно-імпульсний M72-GG - зброя нового покоління. Незважаючи на колосальну потужність пострілу, точність і вражаюча дальність дуже невеликі, але на близьких відстанях може стати незамінною зброєю у боротьбі з самими живучими монстрами.</ukr>
 		<pln>===Pistolet grawitacyjno-impulsowy M72-GG. Wzorując się na WGI "Gauss" M72-GR, tę broń zbudował i zmodernizował pewien mistrz-samotnik, którego ostatni raz widziano w rejonie Mózgozwęglacza. Pomimo kolosalnej mocy strzału, celność i zasięg rażenia jest niewielki, ale na bliskich odległościach okazał się niezastąpioną bronią w walce z bardzo żywotnymi stworzeniami.</pln>
 	</string>
@@ -2015,7 +2015,7 @@
 	</string>
 	<string id="enc_weapons1_saiga12">
 		<rus>Сайга-12К - укороченное самозарядное ружьё - «гладкоствольный карабин», разработанное на Ижевском машиностроительном заводе на базе автомата Калашникова и предназначенное для промышленной и любительской охоты на мелкого, среднего зверя и птицу в районах с любыми климатическими условиями. Ружьё имеет пластиковое цевьё и пистолетную рукоятку, складной влево приклад. Штатные прицельные приспособления включают мушку и целик по типу "АК". Питание патронами осуществляется из специальных отъёмных коробчатых магазинов различной ёмкости (в данном варианте магазин на 5 патронов).</rus>
-		<eng>===Сайга-12К - укороченное самозарядное ружьё - «гладкоствольный карабин», разработанное на Ижевском машиностроительном заводе на базе автомата Калашникова и предназначенное для промышленной и любительской охоты на мелкого, среднего зверя и птицу в районах с любыми климатическими условиями. Ружьё имеет пластиковое цевьё и пистолетную рукоятку, складной влево приклад. Штатные прицельные приспособления включают мушку и целик по типу "АК". Питание патронами осуществляется из специальных отъёмных коробчатых магазинов различной ёмкости (в данном варианте магазин на 5 патронов).</eng>
+		<eng>Saiga-12K is a shortened self-loading "smoothbore carbine" shotgun developed at the Izhevsk Machine Production Plant, based on the Kalashnikov assault rifle and designed for professional and amateur hunting for small and medium game as well as birds in areas of all climates. The gun has a plastic forend and pistol grip, and folding buttstock to the left. Standard sights include a front sight and an AK-type rear sight. Ammunition is fed from a special detachable box magazines of different capacities (5-round magazine in this version).</eng>
 		<ukr>Сайга-12К - вкорочена самозарядна рушниця - «гладкоствольний карабін», розроблена на Іжевському машинобудівному заводі на базі автомата Калашникова і призначена для промислового та аматорського полювання на дрібного, середнього звіра і птицю в районах з будь-якими кліматичними умовами. Рушниця має пластикову цівку і пістолетну рукоятку, складаний вліво приклад. Штатні прицільні пристосування включають мушку і цілик по типу "АК". Живлення патронами здійснюється зі спеціальних відокремлюваних коробчатих магазинів різної ємності (в даному варіанті магазин на 5 патронів).</ukr>
 		<pln>===Сайга-12К - укороченное самозарядное ружьё - «гладкоствольный карабин», разработанное на Ижевском машиностроительном заводе на базе автомата Калашникова и предназначенное для промышленной и любительской охоты на мелкого, среднего зверя и птицу в районах с любыми климатическими условиями. Ружьё имеет пластиковое цевьё и пистолетную рукоятку, складной влево приклад. Штатные прицельные приспособления включают мушку и целик по типу "АК". Питание патронами осуществляется из специальных отъёмных коробчатых магазинов различной ёмкости (в данном варианте магазин на 5 патронов).</pln>
 	</string>
@@ -2274,7 +2274,7 @@
 	</string>
 	<string id="enc_weapons1_wpn-bm16_full">
 		<rus>Классическая гладкоствольная двустволка ТОЗ БМ-16. В 1957-м году тульские оружейники усовершенствовали своё первое двуствольное ружьё ТОЗ Б, и новое ружьё получило индекс БМ. ТОЗ БМ-16 имеет классическую компоновку: стволы, спаренные в горизонтальной плоскости, отстёгивающиеся цевьё и отъёмный приклад, с внешними курками, которые служили предохранителем. Замок запирания у ТОЗ БМ-16 был простой и надёжный: два подствольных крюка, а сверху на болт Гринера. ТОЗ БМ-16 имело очень удобную прицельную планку, с перекрёстными насечками, которая не отсвечивает, и прицеливаться очень комфортно. Мушка делалась из латуни и была хорошо видна. Цевьё и приклад изготавливались из различных пород дерева: обычные, рядовые экземпляры делались из берёзы, более дорогие штучные и коллекционные делались из морёного бука или ореха. На всех моделях имелась металлическая накладка на приклад. Все ружья украшались гравировкой: в рядовых моделях она была простенькая, в более дорогих, штучных или коллекционных гравировка была более высокого качества и содержала сцены охоты.\n За недолгий период производства ТОЗ БМ-16, с 1957-го по 1969-й года было выпущено около трёх миллионов штук.</rus>
-		<eng>===Side-by-side double barreled hunting gun. In contrast to the sawed-off, it is more effective at long distances.</eng>
+		<eng>The classic TOZ BM-16 double barrel shotgun. In 1957 Tula gunsmiths improved their first double-barrelled shotgun, the TOZ B, and the new rifle received index BM. The new weapon had the classical layout: barrels mated horizontally, detachable forend and detachable buttstock, with the outside triggers that served as a safety. The trigger lock on the TOZ BM-16 is simple and reliable: two underbarrel hooks and a Griner screw on the top. The TOZ BM-16 has a very comfortable aiming bar, with crosshatch notches, which does not glare, and is very comfortable to aim. The front sight is made of brass and is clearly visible. Headstock and buttstock are made of various types of wood: standard models are made of birch, more expensive and collectible models are made of stained beech or walnut. All models have a metal buttplate. All rifles are decorated with engravings: ordinary models have simple engravings, while more expensive, custom or collector models have higher quality engravings with hunting scenes.\n During the short period of production of the TOZ BM-16, from 1957 to 1969, about three million guns were produced.</eng>
 		<ukr>Класична гладкоствольна двостволка ТОЗ БМ-16. У 1957-му році тульські зброярі вдосконалили свою першу двоствольну рушницю ТОЗ Б, і нова рушниця отримала індекс БМ. ТОЗ БМ-16 має класичне компонування: стволи, спарені в горизонтальній площині, відстібну цівку і відокремлюваний приклад, з зовнішніми курками, які служили запобіжником. Замок замикання у ТОЗ БМ-16 був простий і надійний: два підствольних гака, а зверху на болт Грінера. ТОЗ БМ-16 мала дуже зручну прицільну планку, з перехресними насічками, що не відсвічує, і прицілюватися дуже комфортно. Мушка робилася з латуні і була добре видною. Цівка й приклад виготовлялися з різних порід дерева: звичайні, пересічні екземпляри робилися з берези, дорожчі штучні і колекційні робилися з мореного бука або горіха. На всіх моделях була металева накладка на приклад. Всі рушниці прикрашалися гравіюванням: в рядових моделях воно було простеньке, в більш дорогих, штучних або колекційних гравіювання було більш високої якості і містило сцени полювання.\n За недовгий період виробництва ТОЗ БМ-16, з 1957-го по 1969-й роки було випущено близько трьох мільйонів штук.</ukr>
 		<pln>===Strzelba myśliwska, z poziomym ułożeniem luf. W odróżnieniu od obrzyna, bardziej skuteczna na większych dystansach.</pln>
 	</string>
@@ -2885,25 +2885,25 @@
 	</string>
 	<string id="enc_detonator-1">
 		<rus>Радиодетонатор, предназначенный для подрыва взрывчатки С-4, а также взрывпакетов различных марок и видов. Радиус действия приблизительно 100 метров.</rus>
-		<eng>===Explosives detonator. Russified by some hackers. Allows to blast explosives of various brands and species within a radius of 100 meters. Trial version, made in the form of a regular flash drive, a bit laggy and glitchy.</eng>
+		<eng>Radio detonator designed to detonate C-4 explosives, as well as explosive packages of various brands and types. The range is approximately 100 meters.</eng>
 		<ukr>Радіодетонатор, призначений для підриву вибухівки С-4, а також вибухових пакетів різних марок і видів. Радіус дії приблизно 100 метрів.</ukr>
 		<pln>===Detonator materiału wybuchowego. Zrusyfikowany przez jakichś hakerów. Pozwala detonować ładunki różnych marek i rodzajów w promieniu 100 metrów. Próbna wersja, wykonana w formie zwykłej fleszki, opóźnia się i nie zawsze działa.</pln>
 	</string>
 	<string id="enc_bomba-small">
 		<rus>Для взрыва необходим пульт дистанционного управления. Возможно продать и активировать. При детонации враг быстро отправляется на тот свет. %c[255,255,1,1]Внимание! Использовать аккуратно! Пластид может не взорваться на открытом воздухе, но легко может взорваться у Вас в рюкзаке!</rus>
-		<eng>===A detonator is necessary for the explosion. It is possible to sell and activate. When detonated, the enemy quickly goes to the grave. %c[255,255,1,1]Warning! Use neatly! The plastid may not explode in the open air, but it can easily explode in your backpack!</eng>
+		<eng>A detonator is necessary for the explosion. It is possible to sell and activate. When detonated, the enemy is quickly sent to the afterlife. %c[255,255,1,1]Warning! Handle with care! The plastid may not explode in the open air, but it can easily explode in your backpack!</eng>
 		<ukr>Для вибуху необхідний пульт дистанційного керування. Можливо продати і активувати. При детонації ворог швидко відправляється на той світ. %c[255,255,1,1]Увага! Використовувати акуратно! Пластид може не вибухнути на відкритому повітрі, але легко може вибухнути у Вас в рюкзаку!</ukr>
 		<pln>===Do detonacji konieczny jest detonator. Można sprzedać i aktywować. Po wybuchu wróg szybko odchodzi na tamten świat. %c[255,255,1,1]Uwaga! Postępować ostrożnie! Plastyd może nie wybuchnąć na otwartym powietrzu, ale łatwo może eksplodować w twoim plecaku!</pln>
 	</string>
 	<string id="enc_bomba-trotil">
 		<rus>Малая тротиловая шашка. Для взрыва необходим пульт дистанционного управления или усиленная пальба. Лучшее оружие сапёра, киллера или террориста. Уничтожит все в радиусе двух метров и ничего дальше.</rus>
-		<eng>===Small TNT block. The explosion requires a detonator or gunshot. The best weapon for a sapper, killer or terrorist. Destroy everything within a radius of two meters and nothing further.</eng>
+		<eng>A small block of TNT. Requires a detonator or gunshot to be set off. The best weapon for a sapper, killer or terrorist. Destroy everything within a radius of two meters and nothing further.</eng>
 		<ukr>Мала тротилова шашка. Для вибуху необхідний  пульт дистанційного керування або посилена стрільба. Краща зброя сапера, кілера або терориста. Знищить все в радіусі двох метрів і нічого далі.</ukr>
 		<pln>===Kostka trotylu. Do wybuchu konieczny jest detonator lub celny ostrzał. Najlepsza broń sapera, zabójcy lub terrorysty. Zniszczy wszystko w promieniu dwóch metrów i nic więcej.</pln>
 	</string>
 	<string id="enc_bomba-samodel">
 		<rus>Самодельная бомба средней мощности. Активируется с помощью пульта дистанционного управления или простым выстрелом. Содержит неизвестное количество С-4.</rus>
-		<eng>===A homemade bomb of medium power. Activated by a detonator or a simple gunshot. Contains an unknown number of C-4.</eng>
+		<eng>A homemade bomb of medium power. Activated by a detonator or a simple gunshot. Contains an unknown number of C-4.</eng>
 		<ukr>Саморобна бомба середньої потужності. Активується за допомогою пульта дистанційного керування або простим пострілом. Містить невідому кількість С-4.</ukr>
 		<pln>===Własnej roboty bomba o średniej mocy. Aktywowana detonatorem albo po prostu celnym strzałem. Zawiera nieznaną ilość C-4.</pln>
 	</string>
@@ -2996,7 +2996,7 @@
 	</string>
 	<string id="enc_weapons_walther-wa2000">
 		<rus>Аномальная снайперка Черномора. Характеристики значительно отличаются от обычных ТТХ для этой винтовки. Значительно снижен вес и износ за счёт изменения самой стали на молекулярном уровне под действием неизвестного изоморфа. Используется самодельный магазин повышенной ёмкости. Но самое главное - оружие способно вести огонь отечественными патронами калибра 7.62x54мм.\n Снайперская винтовка WA 2000 была разработана немецкой фирмой Carl Walther Waffenfabrik в начале 1980-х годов как специализированное оружие для полиции и антитеррористических подразделений. Винтовка имеет один существенный недостаток - очень высокую цену.</rus>
-		<eng>===Chernomor's anomalous sniper rifle. Characteristics are significantly different from the conventional ones for this rifle. Significantly reduced weight and wear due to changes in the steel itself at the molecular level under the influence of an unknown isomorph. A computerized sight is installed. Uses homemade magazine of increased capacity. But most importantly - the weapon is capable of firing anomalous cartridges of 7.62x54mm caliber.\n WA 2000 sniper rifle was developed by the German Carl Walther Waffenfabrik company in the early 1980's as a specialized weapon for the police and anti-terrorist units. The rifle has one significant drawback - a very high price.</eng>
+		<eng>Chernomor's anomalous sniper rifle. Characteristics are significantly different from the conventional ones for this rifle. Significantly reduced weight and wear due to changes in the steel itself at the molecular level under the influence of an unknown isomorph. Uses homemade magazine of increased capacity. But most importantly, the weapon is capable of firing Russian 7.62x54mm ammunition.\n WA 2000 sniper rifle was developed by the German Carl Walther Waffenfabrik company in the early 1980's as a specialized weapon for the police and anti-terrorist units. The rifle has one significant drawback - a very high price.</eng>
 		<ukr>Аномальна снайперка Чорномора. Характеристики значно відрізняються від звичайних ТТХ для цієї гвинтівки. Значно знижена вага і знос за рахунок зміни самої сталі на молекулярному рівні під дією невідомого ізоморфа. Використовується саморобний магазин підвищеної ємності. Але найголовніше - зброя здатна вести вогонь вітчизняними патронами калібру 7.62x54мм.\n Снайперська гвинтівка WA 2000 була розроблена німецькою фірмою Carl Walther Waffenfabrik на початку 1980х років як спеціалізована зброя для поліції та антитерористичних підрозділів. Гвинтівка має один істотний недолік - дуже високу ціну.</ukr>
 		<pln>===Anomalna snajperka Czarnomora. Charakterystyki znacznie odbiegają od standardowych parametrów dla tego typu karabinu. Znacznie obniżona waga i zużycie dzięki zmianie w samej stali na poziomie molekularnym pod wpływem nieznanego izomorfu. Zainstalowano celownik komputerowy. Zastosowano własnej roboty magazynek o zwiększonej pojemności. Ale co najważniejsze - broń jest w stanie prowadzić ogień anomalnymi nabojami kalibru 7.62x54mm.\n Karabin snajperski WA 2000 został opracowany przez niemiecką firmą Carl Walther Waffenfabrik na początku lat 80-tych u/w, jako wyspecjalizowana broń dla policji i oddziałów antyterrorystycznych. Karabin ma jedną istotną wadę - bardzo wysoką cenę.</pln>
 	</string>
@@ -3038,7 +3038,7 @@
 	</string>
 	<string id="enc_wpn-aks74m">
 		<rus>Модификация АК-74М в пустынном окрасе.\n Довольно солидная партия таких автоматов была завезена в Зону для военного спецназа, но, как это часто бывает, часть из них была слита "налево". Так что данный экзепляр можно встретить не только у военного, но и у бывалого сталкера.\n Имеет встроенный коллиматорный прицел «Кобра».</rus>
-		<eng>===The modification of AKS-74 for the airborne troops was created with a lightweight metal butt of a triangular shape, side-folding to the left, more comfortable than the AKMS. The triangular shape provides a great stiffness to the butt. The wooden fittings are replaced with light ones of polyamide. Has a built-in "Cobra" collimator sight.</eng>
+		<eng>The AK-74M in desert coloring.\n Quite a substantial batch of these assault rifles was brought to the Zone for the military special forces, but, as it often happens, some of them were conveniently lost. So this gun can be found not only in the military, but also in the hands of an experienced stalker.\n It has a built-in "Cobra" collimator sight.</eng>
 		<ukr>Модифікація АК-74М в пустельному забарвленні.\n Досить солідна партія таких автоматів була завезена в Зону для військового спецназу, але, як це часто буває, частина з них була злита "наліво". Так що дані екзепляри можна зустріти не тільки у військового, але й у бувалого сталкера.\n Має вбудований коліматорний приціл «Кобра».</ukr>
 		<pln>===Modyfikacja AKS-74 dla wojsk powietrzno-desantowych, z lekką metalową kolbą w formie trójkąta, składaną w lewo i wygodniejszą niż w AKMS. Trójkątny kształt zapewnia kolbie większą stabilność. Drewnianą okładzinę zastąpiono lzejszą, z poliamidu. Posiada wbudowany celownik kolimatorowy "Kobra".</pln>
 	</string>
@@ -3050,7 +3050,7 @@
 	</string>
 	<string id="wpn_ak203">
 		<rus>Винтовка AR-F</rus>
-		<eng>AR-F rifle</eng>
+		<eng>AR-F</eng>
 		<ukr>Гвинтівка AR-F</ukr>
 		<pln>Karabin AR-F</pln>
 	</string>
@@ -3062,7 +3062,7 @@
 	</string>
 	<string id="wpn_akm203_pso">
 		<rus>Винтовка AR-F «Снайперская»</rus>
-		<eng>AR-F "Sniper" rifle</eng>
+		<eng>AR-F "Sniper"</eng>
 		<ukr>Гвинтівка AR-F «Снайперська»</ukr>
 		<pln>Karabin AR-F "Snajperski"</pln>
 	</string>
@@ -3338,7 +3338,7 @@
 	</string>
 	<string id="enc_arsenal_kumul_82">
 		<rus>Осколочно-кумулятивная граната Н-82 для подствольного гранатомёта Steyr HE M10.</rus>
-		<eng>===Fragmentation H-82 grenade for Steyr HE M10 grenade launcher.</eng>
+		<eng>H-82 fragmentation grenade for the Steyr HE M10 underbarrel grenade launcher.</eng>
 		<ukr>===Касета з 3 осколково-кумулятивними гранатами Н-82 для підствольного гранатомета Steyr HE M10.</ukr>
 		<pln>===Odłamkowo-kumulacyjny ładunek H-82 do granatnika podlufowego Steyr HE M10.</pln>
 	</string>
@@ -3577,19 +3577,19 @@
 	</string>
 	<string id="enc_arsenal_usas12_m1">
 		<rus>Снайперская модификация гладкоствольного ружья USAS-12, разработанного в США в конце 1980-х годов конструктором Джоном Тревором, работавшим на небольшую компанию Gilbert Equipment Co. В основу нового автоматического гладкоствольного ружья легли идеи американца Максвелла Атчиссона, реализованные им в экспериментальных ружьях серии AA-12.</rus>
-		<eng>===USAS-12 smoothbore shotgun was developed and designed in the USA in the late of 1980's by John Trevor, working for the small company Gilbert Equipment Co. The new automatic smooth-bore rifle was based on ideas of Maxwell Atchisson, which he implemented in the experimental AA-12 series shotguns.</eng>
+		<eng>The sniper modification of the USAS-12 smoothbore shotgun was developed and designed in the USA in the late of 1980's by John Trevor, working for the small company Gilbert Equipment Co. The new automatic smooth-bore rifle was based on ideas of Maxwell Atchisson, which he implemented in the experimental AA-12 series shotguns.</eng>
 		<ukr>Снайперська модифікація гладкоствольної рушниці USAS-12, розробленої в США в кінці 1980-х років конструктором Джоном Тревором, який працював на невелику компанію Gilbert Equipment Co. В основу нової автоматичної гладкоствольної рушниці лягли ідеї американця Максвелла Атчіссона, реалізовані ним в експериментальних рушницях серії AA-12.</ukr>
 		<pln>===Gładkolufowa strzelba bojowa USAS-12, opracowana w USA pod koniec lat 80-tych u/w, przez konstruktora Johna Trevora, który pracował dla małej firmy Gilbert Equipment Co. Nowy automatyczny karabin gładkolufowy, został oparty na pomysłach Maxwella Atchissona, który wdrożył w eksperymentalne strzelby z serii AA-12.</pln>
 	</string>
 	<string id="wpn-tkpd">
 		<rus>Карабин ТКПД «Снайперский»</rus>
-		<eng>===ТКПД</eng>
+		<eng>TKPD "Sniper" Carbine</eng>
 		<ukr>Карабін ТКПД «Снайперський»</ukr>
 		<pln>===ТКПД</pln>
 	</string>
 	<string id="enc_weapons_wpn-tkpd">
 		<rus>Модификация российской снайперской винтовки СВДК, разработанная для штурмовых операций.</rus>
-		<eng>===Модификация российской снайперской винтовки СВДК, разработанная для штурмовых операций.</eng>
+		<eng>A modification of the Russian SVDK sniper rifle designed for assault operations.</eng>
 		<ukr>Модифікація російської снайперської гвинтівки СВДК, розроблена для штурмових операцій.</ukr>
 		<pln>===Модификация российской снайперской винтовки СВДК, разработанная для штурмовых операций.</pln>
 	</string>
@@ -3601,8 +3601,10 @@
 	</string>
 	<string id="st_bolt_m1">
 		<rus>Болт модификация №1</rus>
+		<eng>Bolt mod Nr.1</eng>
 	</string>	
 	<string id="st_bolt_m2">
 		<rus>Болт модификация №2</rus>
+		<eng>Bolt mod Nr.2</eng>
 	</string>		
 </string_table>
