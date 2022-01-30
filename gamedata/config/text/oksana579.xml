@@ -359,7 +359,7 @@
 	</string>
 	<string id="blank_sheet_14">
 		<rus>"... жарко... очень жарко и дым выедает глаза... бежать через окно кладовки на воздух... холодно... очень холодно и сыро в лесу... надо не спать... надо идти... прямо... воют волки... свет... свет в окне... это хутор... надо в двери и окна стучать... тепло... очень тепло и хочется есть... это не хутор... это ферма... АТП... элеватор(!)... и я надолго останусь здесь..."</rus>
-		<eng>"... жарко... очень жарко и дым выедает глаза... бежать через окно кладовки на воздух... холодно... очень холодно и сыро в лесу... надо не спать... надо идти... прямо... воют волки... свет... свет в окне... это хутор... надо в двери и окна стучать... тепло... очень тепло и хочется есть... это не хутор... это ферма... MTP... элеватор(!)... и я надолго останусь здесь..."</eng>
+		<eng>"... жарко... очень жарко и дым выедает глаза... бежать через окно кладовки на воздух... холодно... очень холодно и сыро в лесу... надо не спать... надо идти... прямо... воют волки... свет... свет в окне... это хутор... надо в двери и окна стучать... тепло... очень тепло и хочется есть... это не хутор... это ферма... АТП... элеватор(!)... и я надолго останусь здесь..."</eng>
 		<ukr>"... жарко... дуже жарко і дим виїдає очі... бігти через вікно комори на повітря... холодно... дуже холодно і сиро у лісі... треба не спати... треба йти... прямо... виють вовки... світло... світло у вікні... це хутір... треба у двері і вікна стукати... тепло... дуже тепло і хочеться їсти... це не хутір... це ферма... АТП... елеватор (!)... і я надовго залишуся тут..."</ukr>
 		<fra>"... il fait chaud ... très chaud et la fumée vous ronge les yeux ... courez à travers la fenêtre du placard vers l'air ... froid ... très froid et humide dans la forêt ... nous ne devons pas dormir ... nous devons aller ... à droite ... les loups hurlent ... la lumière ... la lumière de la fenêtre ... c'est une ferme ... vous devez frapper aux portes et aux fenêtres ... il fait chaud ... très chaud et affamé ... ce n'est pas la ferme ... est une ferme ... ATP ... un ascenseur (!) ... et je resterai ici longtemps..."</fra>
 		<pln>"... gorąco... bardzo gorąco i dym gryzie w oczy... uciekać przez okno w magazynie na zewnątrz... zimno... bardzo zimno i mokro w lesie... nie mogę zasnąć... trzeba iść... przed siebie... wilki wyją... światło... światło w oknie... to chutor... trzeba pukać w drzwi i okna... ciepło... bardzo ciepło i chce się... to nie chutor... to ferma... ATP... młyn(!)... i na długo tu zostanę..."</pln>
@@ -2449,26 +2449,32 @@ Czytaj, Striełok... A jak chcesz to zaśpiewaj. To moja ulubiona piosenka z dzi
 <!-- Дневник ГГ -->
 	<string id="chess_jour">
 		<rus>Дневник Меченого</rus>
+		<eng>Marked One's journal</eng>
 		<ukr>Щоденник Міченого</ukr>
 	</string>
 	<string id="chess_jour_name_1">
 		<rus>Устал...</rus>
+		<eng>Tired...</eng>
 		<ukr>Втомився...</ukr>
 	</string>
 	<string id="str_chess_jour_1">
 		<rus>Устал я от жизни... Надо поспать... Пойду пододвину Шустрого... Глаза слипаются.</rus>
+		<eng>I'm tired of life... I need to sleep... I'm going to push Nimble aside... My eyes are closing.</eng>
 		<ukr>Втомився я від життя... Треба поспати... Піду попосуну Спритного... Очі злипаються.</ukr>
 	</string>
 	<string id="chess_jour_name_2">
 		<rus>Крыша едет...</rus>
+		<eng>Roof moves...</eng>
 		<ukr>Дах їде...</ukr>
 	</string>
 	<string id="str_chess_jour_2">
 		<rus>Крыша едет не спеша тихо шифером шурша... Смешно... только почему-то плакать хочется. Я пока не понимаю, что происходит. Почему я лёг спать в деревне новичков, а оказался совершенно в другом месте? Абсурд какой-то! Это чья-то злая шутка? Нет... не может быть! Надо чаще себя контролировать. Но лучше всего внимательно осмотреть место, где я спал, а потом двигать на Свалку... Там пошуршать, другана Прапора поспрошать... Но почему мне так хочется спать? Стихами заговорил... не к добру это... Простыл, что ли? Странно... кажется, я догадываюсь, кто этот интеллигент, но братство... это уже слишком! Нам в Зоне только братства не хватало... Тамплиеры хреновы. И что там за Ангаром за фрукт такой... Гера Фраерок?!</rus>
+		<eng>The roof moves slowly, the slate quietly rustling... Funny... I want to cry for some reason. I don't understand what's going on yet. Why did I go to sleep in the rookie village, and ended up in a completely different place? It's absurd! Is this someone's evil joke? No... It can't be! I need to control myself better. But it is best to carefully examine the place where I slept, and then move to Garbage... Go there, ask for a friend of Prapor... But why do I feel so sleepy? He spoke in verses... it's not good... Got a cold or something? Strange... I think I can guess who this intellectual is, but the brotherhood... this is too much! We only lacked brotherhood in the Zone... Templars suck. And what kind of fruit is there behind the Hangar... Gera the Mug?!</eng>
 		<ukr>"Дах їде не поспішаючи тихо шифером шарудячи..." Смішно... тільки чомусь плакати хочеться. Я поки не розумію, що відбувається. Чому я ліг спати в Селі Новачків, а виявився зовсім в іншому місці? Абсурд якийсь! Це чийсь злий жарт? Ні... не може бути! Треба частіше себе контролювати. Але краще за все уважно оглянути місце, де я спав, а потім рухати на Звалище... Там пошуршати, другана Прапора попитати... Але чому мені так хочеться спати? Віршами заговорив... не до добра це... Простудився, чи що? Дивно... здається, я здогадуюся, хто цей інтелігент, але братство... це вже занадто! Нам в Зоні тільки братства не вистачало... Тамплієри хрінові. І що там за Ангар за фрукт такий... Гера Фраєрок?!</ukr>
 	</string>
 	<string id="chess_jour_name_3">
 		<rus>Чёрт...</rus>
+		<eng>Damn...</eng>
 		<ukr>Чорт...</ukr>
 	</string>
 	<string id="str_chess_jour_3">
@@ -2493,6 +2499,7 @@ Czytaj, Striełok... A jak chcesz to zaśpiewaj. To moja ulubiona piosenka z dzi
 	</string>
 	<string id="chess_jour_name_6">
 		<rus>Так...</rus>
+		<eng>So...</eng>
 	</string>
 	<string id="str_chess_jour_6">
 		<rus>Так... У меня уже есть два информативных документа... записка наёмника и КПК этого Анархиста... Но этого мало...  Должно быть что-то ещё, что наведёт меня на след Затворника... Но это потом! А сейчас надо переложить в свой рюкзак эти внутренности насекомых и крыс и идти искать вышку и этого любителя белых плащей и тошнотворных деликатесов.</rus>
@@ -2500,12 +2507,15 @@ Czytaj, Striełok... A jak chcesz to zaśpiewaj. To moja ulubiona piosenka z dzi
 	</string>
 	<string id="chess_jour_name_7">
 		<rus>Лаборатория...</rus>
+		<eng>Laboratory...</eng>
 	</string>
 	<string id="str_chess_jour_7">
 		<rus>Лаборатория... Братья работают с размахом! Где искать эту лабу? Только звонок подружки может пролить свет на это гиблое дело! Сейчас пойду на АС, вымотаю душу Лукашу, а потом бегом на Янтарь к Сахару! Но почему меня всё так бесит?! Нервы ни к черту... и сны кошмарные уже достали... Сегодня снился Мурзо... весь в крови. Учил меня, как орудовать ножом... К чему бы это?</rus>
+		<eng>Laboratory... Brothers are working on a grand scale! Where to look for this lab? Only a call from my girlfriend can shed some light on this hopeless case! I'm going to the Army Warehouses, I'm going to beat Lukash, and then I'm going to Yantar to Sakharov! But why am I so pissed off?! My nerves are shot... and the nightmares are annoying... Today I dreamt of Murzo... covered in blood. Taught me how to wield a knife... What's that about?</eng>
 	</string>
 	<string id="chess_jour_name_8">
 		<rus>Эльза...</rus>
+		<eng>Elsa</eng>
 	</string>
 	<string id="str_chess_jour_8">
 		<rus>Стопроцентно они держат Эльзу под замком. А это значит, что у кого-то или где-то есть ключ. И не факт, что отмычка находится там же, где пленница! Придётся побегать по главным объектам Юпитера... Привыкать, что ли?</rus>
