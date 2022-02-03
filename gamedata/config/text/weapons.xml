@@ -2890,21 +2890,21 @@
 		<pln>===Detonator materiału wybuchowego. Zrusyfikowany przez jakichś hakerów. Pozwala detonować ładunki różnych marek i rodzajów w promieniu 100 metrów. Próbna wersja, wykonana w formie zwykłej fleszki, opóźnia się i nie zawsze działa.</pln>
 	</string>
 	<string id="enc_bomba-small">
-		<rus>Для взрыва необходим пульт дистанционного управления. Возможно продать и активировать. При детонации враг быстро отправляется на тот свет. %c[255,255,1,1]Внимание! Использовать аккуратно! Пластид может не взорваться на открытом воздухе, но легко может взорваться у Вас в рюкзаке!</rus>
+		<rus>Кусок пластичной взрывчатки. Для взрыва необходим радиодетонатор или простым выстрелом. При детонации враг быстро отправляется на тот свет. Радиус поражения равен 5 метрам.\n%c[255,255,1,1]Внимание! Использовать аккуратно! Пластид может не взорваться на открытом воздухе, но может легко взорваться у Вас в рюкзаке!</rus>
 		<eng>===A detonator is necessary for the explosion. It is possible to sell and activate. When detonated, the enemy quickly goes to the grave. %c[255,255,1,1]Warning! Use neatly! The plastid may not explode in the open air, but it can easily explode in your backpack!</eng>
-		<ukr>Для вибуху необхідний пульт дистанційного керування. Можливо продати і активувати. При детонації ворог швидко відправляється на той світ. %c[255,255,1,1]Увага! Використовувати акуратно! Пластид може не вибухнути на відкритому повітрі, але легко може вибухнути у Вас в рюкзаку!</ukr>
+		<ukr>===Для вибуху необхідний пульт дистанційного керування. При детонації ворог швидко відправляється на той світ. %c[255,255,1,1]Увага! Використовувати акуратно! Пластид може не вибухнути на відкритому повітрі, але легко може вибухнути у Вас в рюкзаку!</ukr>
 		<pln>===Do detonacji konieczny jest detonator. Można sprzedać i aktywować. Po wybuchu wróg szybko odchodzi na tamten świat. %c[255,255,1,1]Uwaga! Postępować ostrożnie! Plastyd może nie wybuchnąć na otwartym powietrzu, ale łatwo może eksplodować w twoim plecaku!</pln>
 	</string>
 	<string id="enc_bomba-trotil">
-		<rus>Малая тротиловая шашка. Для взрыва необходим пульт дистанционного управления или усиленная пальба. Лучшее оружие сапёра, киллера или террориста. Уничтожит все в радиусе двух метров и ничего дальше.</rus>
+		<rus>Малая тротиловая шашка. Для взрыва необходим радиодетонатор или простым выстрелом. Лучшее оружие сапёра, киллера или террориста. Уничтожит всё в радиусе двух с половиной метров и ничего дальше.</rus>
 		<eng>===Small TNT block. The explosion requires a detonator or gunshot. The best weapon for a sapper, killer or terrorist. Destroy everything within a radius of two meters and nothing further.</eng>
-		<ukr>Мала тротилова шашка. Для вибуху необхідний  пульт дистанційного керування або посилена стрільба. Краща зброя сапера, кілера або терориста. Знищить все в радіусі двох метрів і нічого далі.</ukr>
+		<ukr>===Мала тротилова шашка. Для вибуху необхідний  пульт дистанційного керування або посилена стрільба. Краща зброя сапера, кілера або терориста. Знищить все в радіусі двох метрів і нічого далі.</ukr>
 		<pln>===Kostka trotylu. Do wybuchu konieczny jest detonator lub celny ostrzał. Najlepsza broń sapera, zabójcy lub terrorysty. Zniszczy wszystko w promieniu dwóch metrów i nic więcej.</pln>
 	</string>
 	<string id="enc_bomba-samodel">
-		<rus>Самодельная бомба средней мощности. Активируется с помощью пульта дистанционного управления или простым выстрелом. Содержит неизвестное количество С-4.</rus>
+		<rus>Самодельная бомба средней мощности. Активируется с помощью радиодетонатора или простым выстрелом. Содержит неизвестное количество С-4. Радиус взрыва около 6 метров.</rus>
 		<eng>===A homemade bomb of medium power. Activated by a detonator or a simple gunshot. Contains an unknown number of C-4.</eng>
-		<ukr>Саморобна бомба середньої потужності. Активується за допомогою пульта дистанційного керування або простим пострілом. Містить невідому кількість С-4.</ukr>
+		<ukr>===Саморобна бомба середньої потужності. Активується за допомогою пульта дистанційного керування або простим пострілом. Містить невідому кількість С-4.</ukr>
 		<pln>===Własnej roboty bomba o średniej mocy. Aktywowana detonatorem albo po prostu celnym strzałem. Zawiera nieznaną ilość C-4.</pln>
 	</string>
 	<string id="enc_mina-n">
