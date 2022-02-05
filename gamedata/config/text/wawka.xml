@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <string_table>
 	<string id="mosinka_0">
 		<rus>Слышал, ты редкое оружие собираешь?</rus>
@@ -93,7 +93,7 @@
 	</string>
 	<string id="trade_dialog_voron_222">
 		<rus>За три хвоста псевдособаки:\n1. либо две пачки "Дроби";\n2. либо одна пачка "Картечи";\n3. либо две пачки "Дротиков"...\nЧто выберешь?</rus>
-		<eng>===For two tails of pseudodogs:\n1. or two packs of bird shot;\n2. Or one pack of buckshot;\n3. Or two packs of flechettes...\nWhat will you choose?</eng>
+		<eng>For three tails of pseudodogs:\n1. or two packs of bird shot;\n2. Or one pack of buckshot;\n3. Or two packs of flechettes...\nWhat will you choose?</eng>
 		<ukr>===За два хвоста псевдособак:\n1. або дві пачки "Дробу";\n2. або одна пачка "Картечі";\n3. або дві пачки "Дротиків"...\nЩо вибереш?</ukr>
 		<fra>===Pour deux queues de pseudo-chiens:\n1. ou deux paquets d’oiseaux abattus;\n2. Ou un paquet de bidon;\n3. Ou deux paquets de fléchettes...\nQue choisiras-tu?</fra>
 		<pln>===Za dwa ogony pseudopsa:\n1. Dwie paczki "śrutu";\n2. Albo jedna paczka "kartaczy";\n3. Albo dwie paczki "strzałek"...\nCo wybierasz?</pln>
@@ -506,7 +506,7 @@
 	</string>
 	<string id="krysyk_pomer_12_dialog_0">
 		<rus>Поговорил я с охотником. Он согласен отдать тебе ружьё, но только если ты ему пива найдёшь, да не здешнее, а какое-нибудь заграничное.</rus>
-		<eng>===I talked to the Hunter. He will give you the gun, but only if you find him some beer.</eng>
+		<eng>I talked to the hunter. He will give you the gun, but only if you find him some foreign beer, none of the local stuff.</eng>
 		<ukr>Поговорив я з мисливцем. Він згоден віддати тобі рушницю, але тільки якщо ти йому пива знайдеш, та не тутешьного, а якогось закордонного.</ukr>
 		<fra>===J'ai parlé au chasseur. Il accepte de vous donner une arme à feu, mais seulement si vous lui trouvez une bière.</fra>
 		<pln>===Rozmawiałem z Myśliwym. Zgadza się oddać ci broń, ale tylko wtedy, jeśli znajdziesz mu piwo.</pln>
@@ -527,7 +527,7 @@
 	</string>
 	<string id="krysyk_pomer_12_dialog_3">
 		<rus>Эх, так и не попробую я пива видать... Ну ладно, записывай координаты схрона на АТП. С Большой Земли пацаны подогнали на день рожденья Шныры особенное пиво, он об этом даже в общей сети хвастался. Да вот не успели ещё ребята погулять, поэтому Шныра заныкал пивко в свой тайник. Место его схрона мне Крысюк рассказал, ему каким-то образом удалось это выяснить, когда он на АТП ошивался. В общем, если принесёшь ружьё, то я тебе скажу, где КПК.</rus>
-		<eng>===Eh, I guess I will never taste beer... Well, write down the stash coordinates at Cordon. Guys from the outer world gave it to me for my birthday, they took from Sidor... So if you bring the gun, I'll tell you where the PDA is.</eng>
+		<eng>Eh, I guess I will never taste the beer... Well, write down the coordinates of the stash at ATP. Guys from the outer world bought some beer for Slick's birthday, even bragged on the public network. But the guys didn't have time and had to go out, so Shnyra hid the beer in his stash. Krysyuk told me the location of his stash; he somehow managed to figure it out when he was at ATP. Anyway, if you bring me the gun, I'll tell you where the PDA is.</eng>
 		<ukr>Ех, так і не спробую я пива видно... Ну гаразд, записуй координати схрону на АТП. З Великої Землі пацани підігнали, на день народження Шнири особливе пиво, він про це навіть у загальній мережі хизувався. От тільки не встигли ще хлопці погуляти, тому Шнира заникав пивко у свою схованку. Місце його схрона мені Щуряк розповів, йому якимось чином вдалося це вияснити, коли він на АТП ошивався. Загалом, якщо принесеш рушницю, то я тобі скажу, де КПК...</ukr>
 		<fra>===Euh, je suppose que je ne goûterai jamais de bière ... Eh bien, écrivez les coordonnées de la cachette chez Cordon. Les gars du monde extérieur me l'ont donné pour mon anniversaire... Donc, si vous apportez l'arme à feu, je vous dirai où se trouve le PDA.</fra>
 		<pln>===Eh!! No i nie spróbuję piwa jak widać... Dobra, zapisuj koordynaty schowka na Kordonie. Kumple z Wielkiej Ziemi podrzucili na moje urodziny.  Pod nosem Sidora zdołowali... Jak przyniesiesz broń, to ci powiem, gdzie jest PDA.</pln>
@@ -541,7 +541,7 @@
 	</string>
 	<string id="krysyk_pomer_13_dialog_1">
 		<rus>С этой швалью я предпочитаю не связываться, но если просьба сулит солидный куш, то можно и забыть на время некоторые принципы.</rus>
-		<eng>===С этой швалью я предпочитаю не связываться, но если просьба сулит солидный куш, то можно и забыть на время некоторые принципы.</eng>
+		<eng>I prefer not to get involved with these scum, but if the request promises a substantial reward, it is possible to forget some... principles... for a little while.</eng>
 		<ukr>З цієї шушваллю я вважаю за краще не зв'язуватися, але якщо прохання обіцяє солідний куш, то можна і забути на час деякі принципи.</ukr>
 		<fra>===С этой швалью я предпочитаю не связываться, но если просьба сулит солидный куш, то можно и забыть на время некоторые принципы.</fra>
 		<pln>===С этой швалью я предпочитаю не связываться, но если просьба сулит солидный куш, то можно и забыть на время некоторые принципы.</pln>
@@ -555,7 +555,7 @@
 	</string>
 	<string id="krysyk_pomer_13_dialog_3">
 		<rus>Больше он ничего не хочет? Да я, да за это ружьё... хотя, чёрт с ним, ладно... Пусть... э-э-э, пивка мне достанет... Банок эдак двадцать... нет, сорок! Только не то фуфло, что здесь по Зоне гуляет, а нормального пивка принеси, из-за "бугра", вот тогда и поговорим...</rus>
-		<eng>===Doesn't he want anything else? For that gun...I don't know what I can do... though, damn it, ok... Have him... uh, bring me some beer... About 20 cans... no, 40! Bring something useful from him, then we'll talk...</eng>
+		<eng>Is that all he wants? Yea, for that gun... though, damn it, ok... Have him... uhh, bring me some beer... About 20 cans... no, 40! But not the regular bullshit floating around here in the Zone... Bring me some real beer from out of the country and we'll talk...</eng>
 		<ukr>Більше він нічого не хоче? Та я, та за цю рушницю... хоча, чорт з ним, гаразд... Нехай... е-е-е, пивка мені дістане... Банок зо двадцять... ні, сорок! Тільки не то фуфло, що тут по Зоні гуляє, а нормального пивка принеси, з-за "бугра", от тоді й поговоримо...</ukr>
 		<fra>===Est-ce qu'il ne veut rien d'autre? Pour cette arme... je ne sais pas ce que je peux faire ... mais bon, d'accord... fais-le... apporte-moi de la bière... environ 20 canettes... non, 40! Apportez-moi quelque chose d'utile de lui, alors nous parlerons...</fra>
 		<pln>===A niczego więcej nie chce? Przecież ja, przecież ta broń... Chociaż, czort z nią, dobra... Niech... e-e-e, piwka mi załatwi... Ze dwadzieścia puszek... Nie, czterdzieści! Krótko, przynieś od niego coś pożytecznego, wtedy pogadamy...</pln>
@@ -646,7 +646,7 @@
 	</string>
 	<string id="krysyk_pomer_15_dialog_3">
 		<rus>Твоя доля ждёт тебя на чердаке АТП на Кордоне... \nЕщё есть способ получения "Медузы" из разного хлама... В "Электру" нужно кинуть голову тушкана, бинт, колбасу и консервы...</rus>
-		<eng>===Your share is waiting for you at the Agroprom... \nThere is also a way to get "Jellyfish" from different rubbish... You should throw a head of a Tushkano, bandage, sausage and canned food to the Electro...</eng>
+		<eng>Your share is waiting for you in the attic at the ATP in Cordon... \nThere is also a way to get "Jellyfish" from different rubbish... You should throw a head of a Tushkano, bandage, sausage and canned food to the Electro...</eng>
 		<ukr>Твоя частка чекає тебе на горищі АТП на Кордоні... \nЩе є спосіб отримання "Медузи" з різного мотлоху... У "Електру" потрібно кинути голову тушкана, бинт, ковбасу і консерву...</ukr>
 		<fra>===Votre part vous attend à Agroprom... \nIl existe aussi un moyen de récupérer des "méduses" dans différents déchets... Vous devriez jeter une tête de Tushkano, un bandage, des saucisses et des conserves dans l'anomalie Électra...</fra>
 		<pln>===Twoja dola czeka na ciebie na Agropromie... \nJeszcze jest sposób otrzymania Meduzy z różnego chłamu... Trzeba wrzucić w Elektrę głowę tuszkana, bandaż, kiełbasę i konserwę...</pln>
@@ -724,7 +724,7 @@
 	</string>
 	<string id="yurik_pomer1_dialog_1">
 		<rus>Привет, Меченый... Да ну, настроения нет совсем... выпить хочется... Только водка надоела, сейчас бы чего-нибудь такого... например, пива... Да, да, точно, пива хочу! Сколько времени уже не пил... Долговцы говорят, в Тёмной Долине, у бандитов оно есть... Сходи, а? Может не врут... Если получится, баночек 20 принеси... Я тебе за это патронов подкину для дробовика.</rus>
-		<eng>===Hi, Marked One... Well, I am in no mood... I want to drink... but I’m tired of vodka, I would like to drink something like... like beer... Yes, exactly, I want beer! I haven't drunk it for ages... Duty fighters say the bandits have it in the Dark Valley... Can you go there, huh? Maybe they do not lie... If it works out, bring 20 cans... I'll give you патронов подкину для дробовика.</eng>
+		<eng>Hi, Marked One... Well, I am in no mood... I want to drink... but I’m tired of vodka, I would like to drink something like... like beer... Yes, exactly, I want beer! I haven't drunk it for ages... Duty fighters say the bandits have it in the Dark Valley... Can you go there, huh? Maybe they do not lie... If it works out, bring 20 cans... I'll give you some shotgun ammo.</eng>
 		<ukr>Привіт, Мічений... Та ну, настрою немає зовсім... випити хочеться... Тільки горілка набридла, зараз би чого-небудь такого... наприклад, пива... Так, так, точно, пива хочу! Скільки часу вже не пив... Долгівці говорять, в Темній Долині, у бандитів воно є... Сходи, га? Може не брешуть... Якщо вийде, баночок 10 принеси... Я тобі за це патронів підкину для дробовика.</ukr>
 		<fra>===Salut, le Marqué... Eh bien, je ne suis pas d'humeur... je veux boire... mais j'en ai marre de la vodka, j'aimerais boire quelque chose comme... comme de la bière... Oui, exactement, Je veux de la bière! Je n'en ai pas bu depuis des lustres... Les combattants du Devoir disent que les bandits en ont dans la Vallée obscure... Tu peux y aller, hein? Peut-être qu'ils ne mentent pas... Si c'est le cas, rapportez-moi 20 cannettes... Je vais vous donner quelque chose d'intéressant, à savoir la recette pour transformer un artefact.</fra>
 		<pln>Cześć, Naznaczony... Ano, nastroju nie ma zupełnie... Wypić się chce... Tylko że wódka już bokiem wychodzi, chciałoby się by czegoś takiego... Na ten przykład, piwa... Tak, tak, dokładnie, piwa chcę! Tyle czasu już nie piłem... Powinnościowcy mówią, że w Dolinie Mroku, u bandytów piwo jest... Pójdziesz, co? Może nie kłamią... Jeśli będzie, ze 20 puszek przynieś... Ja ci za to naboi podrzucę do śrutówki...</pln>
@@ -872,7 +872,7 @@
 
 	<string id="price_voron_text">
 		<rus>Список Ворона:\n\n1. Оружие: АК, ТОЗ-34, Winchester 101, "Desert Eagle (Mark VII)", обрез БМ-16 именной - две руки контролёра;\n\n2. ПП: «Бизон», Kriss Super V, HK MP7A1 - две руки бюрера;\n\n3. Патроны 12-го калибра: "Дробь"(две пачки), "Картечь"(пачка), "Дротик"(две пачки) - за три хвоста псевдособаки;\n\n4. Патроны для «Грозы» - пять хвостов слепого пса.\n \nСпециальное предложение Ворона:\n\n За раритетное, именное и модифицированное оружие в нормальном состоянии - ценное вознаграждение!</rus>
-		<eng>===Raven's List:\n\n1. Weapons: AK, TOZ-34, Winchester 101, "Desert Eagle (Mark VII)", personalized sawed-off shotgun BM-16 - the controller's hands;\n\n2. PP: “Bizon”, Kriss Super V, HK MP7A1 - burer's hands;\n\n3. Cartridges of 12 caliber: “Bird shot”, “Shotgun slug”, “flechette” - pseudodog's tails;\n\n4. Cartridges for "Groza" - a blind dog's tails.\n \nRaven's special offer:\n\n For rare, personalized and modified weapons in good condition - a valuable reward!</eng>
+		<eng>Raven's List:\n\n1. Weapons: AK, TOZ-34, Winchester 101, "Desert Eagle (Mark VII)", personalized BM-16 sawed-off shotgun - two controller's hands;\n\n2. Submachine guns: “Bizon”, Kriss Super V, HK MP7A1 - two burer's hands;\n\n3. 12 caliber shells: “Birdshot” (Two packs), “Slug” (One pack), “Flechette” (Two packs) - three pseudodog's tails;\n\n4. Cartridges for "Groza" - five blind dog's tails.\n \nRaven's special offer:\n\n A valuable reward for rare, personalized and modified weapons in good condition!</eng>
 		<ukr>Список Ворона:\n\n1. Зброя: АК, ТОЗ-34, Winchester 101, "Desert Eagle (Mark VII)", обріз БМ-16 іменний - дві руки контролера;\n\n2. ПК: «Бізон», Kriss Super V, HK MP5 - дві руки бюрера;\n\n3. Патрони 12го калібру: "Дріб"(дві пачки), "Картеч"(пачка), "Дротик"(дві пачки) - за три хвоста псевдособаки;\n\n4. Патрони до «Грози» - п'ять хвостів сліпого пса.\n \nСпеціальна пропозиція Ворона:\n\n За раритетну, іменну і модифіковану зброю у нормальному стані - цінна винагорода!</ukr>
 		<fra>===Liste de Raven:\n\n1. Armes: AK, TOZ-34, Winchester 101, "Desert Eagle (Mark VII)", fusil de chasse à canon scié personnalisé BM-16 - main de contrôleur;\n\n2. PP: “Bizon”, Kriss Super V, HK MP7A1 - main de Burer;\n\n3. Cartouches de calibre 12: "Bird Shot", "Shotgun Slug", "Flechette" - queue du pseudochien;\n\n4. Cartouches pour "Groza" - Queue de chien aveugle.\n\nOffre spéciale de Raven:\n\n Pour les armes rares, personnalisées et modifiées en bon état - une récompense précieuse!</fra>
 		<pln>===Lista Worona:\n\n1. Broń: AK, TOZ-34, Winchester 101, "Desert Eagle (Mark VII)", obrzyn BM-16 dedykowany - ręce kontrolera;\n\n2. Pistolet maszynowy: "Bizon", Kriss Super V, HK MP7A1 - ręce burera;\n\n3. Ładunki kalibru 12: "Śrut", "Czekan", "Strzałka" - ogony pseudopsów;\n\n4. Naboje do "Grozy" - ogony ślepych psów.\n \nSpecjalna oferta Worona:\n\n Za rzadką, dedykowaną i modyfikowaną broń w normalnym stanie - cenne wynagrodzenie!</pln>
@@ -921,7 +921,7 @@
 	</string>
 	<string id="skleroz_bes_outfit_text">
 		<rus>Принести Бесу укреплённый костюм Стрелка.</rus>
-		<eng>Bring Fiend Strelok's fortified suit.</eng>
+		<eng>Bring Strelok's suit to Fiend.</eng>
 		<ukr>Принести Бісу зміцнений костюм Cтрільця.</ukr>
 		<fra>Apporter à Démon la combinaison fortifiée de Strelok.</fra>
 		<pln>Przynieść Biesowi wzmocniony kombinezon Striełoka.</pln>
@@ -951,30 +951,30 @@
 			2х РПГ-7\n
 			1х ВСС «Винторез»\n
 			1х ПКП «Печенег»\n \n \n \n \n</rus>
-		<eng>===Список изношенных стволов для образовательного учреждения:\n \n
-			4х АКС-74У\n
-			4х АКС-74\n
-			4х АК-74\n
-			3х АК-104\n
-			3х АК-105\n
-			3х АН-94 «Абакан»\n
-			3х АК-74М «Кобра»\n
-			3х АК\n
+		<eng>List of used guns for the educational institution:\n \n
+			4х AKS-74U\n
+			4х AKS-74\n
+			4х AK-74\n
+			3х AK-104\n
+			3х AK-105\n
+			3х AN-94 "Abakan"\n
+			3х AK-74M "Cobra"\n
+			3х AK\n
 			3х АКМ\n
-			3х РПК\n
-			3х ОЦ-14-4 «Гроза»\n
-			3х РПК-74М\n
+			3х RPK\n
+			3х OTs-14-4 "Groza"\n
+			3х RPK-74М\n
 			3х АК-103\n
 			3х АК-74М\n
-			3х ПП-19-01 «Витязь»\n
-			3х ПП-19 «Бизон»\n
+			3х PP-19-01 "Vityaz"\n
+			3х PP-19 "Bison"\n
 			3х Colt M16A4\n
 			2х АЕК-971\n
 			2х АК-9\n
-			2х СВД\n
-			2х РПГ-7\n
-			1х ВСС «Винторез»\n
-			1х ПКП «Печенег»\n \n \n \n \n</eng>
+			2х SVD\n
+			2х RPG-7\n
+			1х VSS "Vintorez"\n
+			1х PKP "Pecheng"\n \n \n \n \n</eng>
 		<ukr>Список зношених стволів для освітнього закладу:\n \n
 			4х АКС-74У\n
 			4х АКС-74\n
@@ -1051,32 +1051,32 @@
 		23. Облегчённый АЕК-972 улучшенной кучности боя\n
 		24. Облегчённый HK MG-4 улучшенной кучности боя\n
 		25. Облегчённый Knight's SR-25 улучшенной кучности стрельбы\n \n \n \n \n</rus>
-		<eng>===Список оружия для апгрейда Screw:\n \n
-		1. Облегчённый АС «Вал»\n
-		2. Облегчённая Сайга-12К «Тактика»\n
-		3. Облегчённая СВД\n
-		4. Облегчённый ПКМ\n
-		5. Облегчённый FN P90\n \n
-		6. АК-74М «Кобра» под патрон 5.56х45\n
-		7. ПП-19 «Бизон» под патрон 9х19\n
-		8. АК-74 под патрон 5.56х45\n
-		9. HK G36 под патрон 5.45х39\n
-		10. SIG SG-550 под патрон 5.45х39\n \n
-		11. FA MAS G2 улучшенной кучности стрельбы\n
-		12. SIG SG-551 LB улучшенной кучности стрельбы\n
-		13. АК-74М улучшенной кучности стрельбы\n
-		14. Enfield L85A2 улучшенной кучности стрельбы\n
-		15. IMI UZI улучшенной кучности стрельбы\n \n
-		16. Облегчённый Scorpion Vz.82 под патрон 9х19\n
-		17. Облегчённый Tavor CTAR-21 под патрон 5.45х39\n
-		18. Облегчённый Colt M16A4 под патрон 5.45х39\n
-		19. Облегчённый АН-94 «Абакан» под патрон 5.56x45\n
-		20. Облегчённый FN F2000 под патрон 5.45х39\n \n
-		21. Облегчённая LR-300ML улучшенной кучности стрельбы\n
-		22. Облегчённый Colt M4 CQBR улучшенной кучности боя\n
-		23. Облегчённый АЕК-972 улучшенной кучности боя\n
-		24. Облегчённый HK MG-4 улучшенной кучности боя\n
-		25. Облегчённый Knight's SR-25 улучшенной кучности стрельбы\n \n \n \n \n</eng>
+		<eng>List of Screw's upgraded weapons:\n \n
+		1. Lightweight AS "Val"\n
+		2. Lightweight Saiga-12K "Tactical"\n
+		3. Lightweight SVD\n
+		4. Lightweight PKM\n
+		5. Lightweight FN P90\n \n
+		6. AK-74M "Cobra" chambered for 5.56x45\n
+		7. PP-19 "Bison" chambered for 9x19\n
+		8. AK-74 chambered for 5.56x45\n
+		9. HK G36 chambered for 5.45x39\n
+		10. SIG SG-550 chambered for 5.45x39\n \n
+		11. FA MAS G2 with improved accuracy\n
+		12. SIG SG-551 LB with improved accuracy\n
+		13. AK-74M with improved accuracy\n
+		14. Enfield L85A2 with improved accuracy\n
+		15. IMI UZI with improved accuracy\n \n
+		16. Lightweight Scorpion Vz.82 chambered for 9x19\n
+		17. Lightweight Tavor CTAR-21 chambered for 5.45x39\n
+		18. Lightweight Colt M16A4 chambered for 5.45x39\n
+		19. Lightweight AN-94 "Abakan" chambered for 5.56x45\n
+		20. Lightweight FN F2000 chambered for 5.45x39 cartridge\n \n
+		21. Lightweight LR-300ML with improved accuracy\n
+		22. Lightweight Colt M4 CQBR with improved accuracy\n
+		23. Lightweight AEK-972 with improved accuracy\n
+		24. Lightweight HK MG-4 with improved accuracy\n
+		25. Lightweight Knight's SR-25 with improved accuracy\n \n \n \n \n</eng>
 		<ukr>Список зброї для апгрейда Шурупу:\n \n
 		1. Полегшений АС «Вал»\n
 		2. Полегшена Сайга-12К «Тактика»\n
@@ -1157,32 +1157,32 @@
             1х M14\n
             1х HK 417 «Sniper»\n
             1х ВССК «Выхлоп»\n \n \n \n \n</rus>
-		<eng>===Список изношенных стволов для экспериментов учёным:\n \n
-			5х обрез Winchester 101\n
+		<eng>A list of used guns for scientists to experiment with:\n \n
+			5х sawed-off Winchester 101\n
             5х HK USP-45 «Tactical»\n
             4х HK MP7A1\n
-            3х АКС\n
+            3х AKS\n
             3х Tavor CTAR-21\n
             3х HK XM8\n
-            3х ПКМ\n
+            3х PKM\n
             3х АЕК-971\n
             3х P90\n
-            3х Colt M16A2 «Аномалия»\n
+            3х Colt M16A2 "Anomalous"\n
             3х Galil AR\n
             3х SIG SG-551 LB\n
-            3х Сайга-12K «Тактика»\n
-            3х «Протекта»\n
-            3х ружьё ИЖ-27\n
+            3х Saiga-12K "Tactial"\n
+            3х "Protecta"\n
+            3х IZh-27 shotgun\n
             3х АК-108\n
-            3х РПД-44\n
+            3х RPD-44\n
             2х M60\n
             2х HK SL-8\n
             2х SIG SG-552 «Commando»\n
-            2х СВУ\n
+            2х SVU\n
             2х HK UMP-45\n
             1х M14\n
             1х HK 417 «Sniper»\n
-            1х ВССК «Выхлоп»\n \n \n \n \n</eng>
+            1х VSSK "Vykhlop"\n \n \n \n \n</eng>
 		<ukr>Список зношених стволів для експериментів вченим:\n \n
 			5х обріз Winchester 101\n
             5х HK USP-45 «Tactical»\n
@@ -1245,12 +1245,12 @@
 	</string>
 	<string id="tex_bandit_krisyk_pomer_add">
 		<rus>Жила сообщил, что тайник Крысюка находится на одном из чердаков АТП на Кордоне.</rus>
-		<eng>===The bandit nicknamed Krysyuk wrote many secrets on his PDA in his lifetime. But recently he has been found dead... Borov wants to return this PDA and assumes that Vein may know something about it.</eng>
+		<eng>Old-Timer said that the Krysiuk's stash is in one of the attics of the ATP in Cordon.</eng>
 		<ukr>Жила повідомиив, що схованка Щуряка знаходиться на одному з горищ АТП на Кордоні.</ukr>
 	</string>
 	<string id="tex_yurik_pomer_pivo">
 		<rus>Дэн, торговец на Болотах, просит найти ему пива. За 20 баночек обещает дать немного патронов.</rus>
-		<eng>===Dan, a trader in the Swamps, asks to find some beer. He promises to give a recipe for transforming an artifact for 20 cans .</eng>
+		<eng>Dan, a trader in the Swamps, asks to find him some beer. He promises to give me some ammo for 20 cans.</eng>
 		<ukr>===Ден, торговець на Болотах, просить знайти йому пива. За 20 баночок обіцяє дати рецепт перетворення артефакту...</ukr>
 		<fra>===Dan, un commerçant dans les marais, demande de rouver de la bière. Il promet de donner une recette pour transformer un artefact pour 20 canettes.</fra>
 		<pln>===Dan, handlarz z Bagien, prosi żeby znaleźć mu piwo. Za 20 puszek obiecuje dać receptę transmutacji artefaktu...</pln>
@@ -2072,7 +2072,7 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 	</string>
 	<string id="doc_qeast_0">
 		<rus>Я насчёт заработка, с деньжатами сейчас туго...</rus>
-		<eng>===I came again to earn some money. As usual...I remember you hinted.</eng>
+		<eng>I'm here about earning some money. Tight on cash right now...</eng>
 		<ukr>Я знову на рахунок заробітку, з грошима зараз туго...</ukr>
 		<fra>===Je suis revenu pour gagner de l'argent. Comme d'habitude... je me souviens que vous avez laissé entendre.</fra>
 		<pln>===Ja znowu w sprawie pracy. Jak zwykle... Pamiętasz, wspominałeś.</pln>
@@ -2415,7 +2415,7 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 	</string>
 	<string id="doc_tvar_1">
 		<rus>Ты чего, в детстве часто на демонстрации ходил? Заметно. Дело есть, мне нужно по одной части всех мутантов, кроме рук зомбаков и мозгов контролёра - первые у меня уже есть, вторые хрен достанешь. А поскольку монстры тебя за своего держат - задание для тебя не сложное.</rus>
-		<eng>===I see you often went to demonstrations in childhood. The point is, I need parts of mutants, all of them, one by one, except for the hands of zombies, I already have them. And since the monsters think you are one of them, the task will not be difficult for you.</eng>
+		<eng>Did you often go to demonstrations as a child? I can tell. The point is, I need parts of mutants, all of them, one by one, except for zombie hands and controller's brains, I already have the former and you can't get the latter. And since the monsters think you are one of them, the task will not be difficult for you.</eng>
 		<ukr>===Ти що, в дитинстві часто на демонстрації ходив? Помітно. Справа є, мені потрібні частини мутантів - всіх, що є - по одній, крім рук зомбаків і безоара - у мене вони вже є, а оскільки монстри за свого тебе тримають - завдання для тебе не складне.</ukr>
 		<fra>===Je te vois souvent retourner dans l'enfance. Le fait est que j'ai besoin de plusieurs parties de mutants, une par une, à l'exception des mains de zombies, je les ai déjà. Et puisque les monstres pensent que vous êtes l'un d'entre eux, la tâche ne sera pas difficile pour vous.</fra>
 		<pln>===Ty co, w dzieciństwie często na demonstracje chodziłeś? Widocznie tak. Jest sprawa - potrzebne mi są członki mutantów  - wszystkich, jakie są - po jednym, z wyjątkiem rąk zombie - te już mam. A ponieważ mutanty i tak cię za swojego uważają - zadanie dla ciebie nie będzie chyba za trudne.</pln>
@@ -2576,49 +2576,49 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 	</string>
 	<string id="m_qeast_0">
 		<rus>Крест, что с тобой приключилось? Всё твоё лицо в синяках и кровоподтёках. Чьих рук это дело?</rus>
-		<eng>===Hey.</eng>
+		<eng>Cross, what happened to you? Your face is all bruised. Who did this?</eng>
 		<ukr>===Привіт.</ukr>
 		<fra>===Salut.</fra>
 		<pln>===Czołem.</pln>
 	</string>
 	<string id="m_qeast_1">
 		<rus>Вояки, суки, совсем озверели! Вчера вечером нагрянула сюда одна группа, да не простая, все бойцы в маскировочных костюмах-невидимках с таким же оружием. Вначале, вроде, всё нормально шло, задали несколько вопросов о цели моего пребывания здесь, спросили про местоположение двух упавших вертолётов в лесу. Ну, я по доброте душевной показал командиру на карте, где их искать, думал, после этого оставят меня в покое. Но затем часть солдат стала обыскивать мой вертолёт и рюкзаки, где я хранил собранные ранее артефакты.</rus>
-		<eng>===Wow! The "hero" of the Zone visited me again. There is a job for you. There is such a thing, fighters ran wild, yesterday they put pressure on me to get 40 thousand... Well, I gave it, what else could I do... It is necessary to punish them.</eng>
+		<eng>The military, those bitches, they've gone completely mad! Last night a group of soldiers came here. But not just any group, they were fully decked out in camouflage suits and invisible weapons. At first, everything seemed to go well, they asked a few questions about the reason of me being here, and asked about the location of the two fallen helicopters in the forest. Well, out of the goodness of my heart I showed the commander on the map where to look for them, and I thought they would leave me alone after that. But then some of the soldiers began to rummage through my helicopter and the backpacks where I kept the artifacts I had collected earlier.</eng>
 		<ukr>===Вау! Знову герой Зони мене відвідав. Є роботка для тебе. Тут така справа, вояки озвіріли, вчора мене пресанули на 40 тисяч... Ну я і дав, а що мені залишалося робити... Треба їх покарати.</ukr>
 		<fra>===Hou la la! Le "héros" de la zone m'a rendu visite à nouveau. Il y a un travail pour vous. Il y a une telle chose, les combattants se sont déchaînés, hier, ils m'ont fait pression pour en avoir 40 000... Eh bien, je les ai donné, que puis-je faire d'autre... Il est nécessaire de les punir.</fra>
 		<pln>===Łaa... Znowu bohater Zony mnie odwiedził.. Jest robótka dla ciebie... Ano tak, wojakom odwaliło, wczoraj mnie na 40 tysięcy skubnęli... Dałem, co miałem zrobić... Trzeba by ich ukarać.</pln>
 	</string>
 	<string id="m_qeast_2">
 		<rus>И что же было потом?</rus>
-		<eng>===Punish? Fighters? Do you have any idea of the consequences? I'm not a killer.</eng>
+		<eng>And then what happened?</eng>
 		<ukr>===Покарати? Військових? Ти хоч уявляєш наслідки? Я ж не кілер.</ukr>
 		<fra>===Punir? Militaire? Avez-vous une idée des conséquences? Je ne suis pas un tueur.</fra>
 		<pln>===Ukarać? Wojskowych? Wyobrażasz sobie konsekwencje? Ze mnie żaden killer.</pln>
 	</string>
 	<string id="m_qeast_3">
 		<rus>Я было рванулся к своим пожиткам, в этот момент один боец сделал подсечку, и я грохнулся на землю. В приступе гнева схватился за пистолет, но командир опередил меня, выстрелив мне в ногу. Короче, не буду дальше описывать свои страдания, отмудохали они меня знатно - сломали два ребра, набили морду, хорошо хоть пуля прошла навылет. Жаль, Химика с Пригоршней не было рядом, вместе мы бы смогли дать отпор беспредельщикам. Невидимки отобрали всё: арты, оружие, наличку, ничего ценного не осталось. Этих скотов только могила исправит! Наказать их надо и как можно скорее, благо перед потерей сознания я расслышал приказ командира выдвигаться на Радар после зачистки вертушек в лесу. Накажи их, а?! В качестве доказательств расправы над ними принеси их аномальное оружие в любом состоянии, хочу детально изучить его, также оно станет своеобразным трофеем и напоминанием о случившемся.</rus>
-		<eng>===No, maybe it won't be necessary to kill anyone. Can you grab abnormal guns from them? I need six "Bizon" guns in any condition, they are sold out fast.</eng>
+		<eng>I was about to rush to my belongings, but then one of the fighters jumped at me and I fell to the ground. In a fit of rage I grabbed my gun, but the commander beat me to it, shooting me in the leg. To cut the long story short, they fucked me up pretty good - they broke two ribs and punched my face in. At least the bullet went right through. It was a pity that Khimik and Prigorshnya weren't around; together we would have been able to fight back those thugs. The invisible men took everything: artifacts, weapons, cash, nothing of value was left. Those bastards can only be fixed by putting them six feet under! I heard the commander ordering them to march to Radar after clearing the choppers in the forest. They must be punished as swiftly as possible. Can you do it? Will you punish them? As a proof of punishment bring their anomalous weapons in any condition. I want to study them in detail. It will also be a kind of trophy and a reminder of what happened.</eng>
 		<ukr>===Ні, може, вбивати нікого і не доведеться. Зможеш відібрати у них їхні аномальні пушки? Мені потрібно шість "Бізонів" у будь-якому стані, вони нормально розходяться.</ukr>
 		<fra>===Non, peut-être qu'il ne sera pas nécessaire de tuer quelqu'un. Pouvez-vous récupérer des armes à feu anormales? J'ai besoin de six fusils "Bizon" dans n'importe quelle condition, ils seront vendus rapidement.</fra>
 		<pln>===Spokojnie, możliwe, że nie trzeba będzie nikogo zabijać... Możesz im odebrać ich anomalną broń? Potrzebuję 6 Bizonów w dowolnym stanie, idą jak woda.</pln>
 	</string>
 	<string id="m_qeast_4">
 		<rus>Сочувствую твоим страданиям, но убивать за такое тоже не дело. Вот если они первыми начнут стрелять, то у меня не останется выбора, как выполнить твою просьбу.</rus>
-		<eng>===Well, so I walk up to them and say: "Guys, I need six of your abnormal guns." And they give them to me with a great pleasure.</eng>
+		<eng>I understand  your suffering, but it's not right to kill for that. But if they start shooting first, I'll have no choice but to fulfill your request.</eng>
 		<ukr>===Ага, значить я підходжу до них і кажу: "Хлопці, мені треба шість ваших аномальних стволів". І вони з радістю мені їх віддають.</ukr>
 		<fra>===Ouais, alors je m'adresse à eux et je leur dis: "Les gars, j'ai besoin de six de vos canons anormaux." Et ils me les donnent volontiers.</fra>
 		<pln>===Aha, to znaczy podchodzę do nich i mówię: "Chłopaki, potrzebuję 6 waszych anomalnych karabinów". I oni z radością je oddają.</pln>
 	</string>
 	<string id="m_qeast_5">
 		<rus>Некоторые убивают и за меньшее, но я уважаю твои принципы... Ещё кое-что про аномальное оружие в руках вояк, если не ошибаюсь, то это были ПП-19 «Бизон». Мне в Баре рассказывали байку про ящики с этими пистолетами-пулемётами, угодившими в аномалию "Снежная", после чего они покрылись особым налётом. Не мог бы ты проверить достоверность этой байки? Закинь в "Снежную" поочерёдно три «Бизона», подожди хотя бы сутки и вернись к аномалии. Вне зависимости от результата, положительного или отрицательного, я буду ждать твоего возвращения.</rus>
-		<eng>===It's my offer and money, you decide. If you agree, I will be waiting for you like a platoon of hungry demobees waiting for a girl.</eng>
+		<eng>Some people kill for less, but I respect your principles... There is also something else about the anomalous weapons in the hands of soldiers. If I'm not mistaken, they were PP-19 "Bisons". I was told a story in the Bar about the crates of these submachine guns that fell into the "Snow" anomaly, after which they were covered with a special coating. Could you check the authenticity of this story? Throw three "Bisons" into "Snow" one by one, wait at least twenty-four hours and return to the anomaly. Regardless of the result, whether it worked or not, I'll wait for your return.</eng>
 		<ukr>===Мої гроші і пропозиція - а вирішувати тобі. Погодишся - буду тебе чекати, як взвод голодних дембелів молоду дівчину.</ukr>
 		<fra>===C'est mon offre et mon argent, vous décidez. Si vous êtes d'accord, je vous attends comme un peloton de marins affamés attendant une fille.</fra>
 		<pln>===Ja daję pieniądze i zamówienie - a decyzja twoja. Zgodzisz się - będę na ciebie czekać, jak pluton wygłodzonych rezerwistów na młodą dziewczynę.</pln>
 	</string>
 	<string id="m_qeast_6">
 		<rus>Ты как бабка старая на лавочке, байки всякие собираешь. Проверить проверю, но результат не гарантирую.</rus>
-		<eng>===Hmmm... So the military reached the Forgotten Forest. Ok, I will figure it out, hungry demobee.</eng>
+		<eng>You're like an old granny on a bench in the park, collecting all sorts of stories. I'll try it out, but I can't guarantee it will work.</eng>
 		<ukr>===М-да... Значить, і до Забутого Лісу військові дісталися. Гаразд, щонебуть придумаю, голодний дембель.</ukr>
 		<fra>===Hmmm... Alors, les militaires sont arrivés dans la Forêt oubliée. Ok, je vais le découvrir, fou furieux.</fra>
 		<pln>===Ta-ak... Znaczy wojskowi i do Zapomnianego Lasu się dostali... Dobra, coś wymyślę, wygłodzony rezerwisto.</pln>
@@ -2632,56 +2632,56 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 	</string>
 	<string id="m_qeast1_0">
 		<rus>Вот, принёс я «Бизоны», бывшие владельцы поделились, которые тебе рёбра посчитали. А байка лживой оказалась, аномалия уничтожила оружие и не подавилась даже.</rus>
-		<eng>===Here, I brought "Bizon" guns. Take, hungry demobee...</eng>
+		<eng>Here, I brought the "Bisons". The guys who broke your ribs were kind enough to "share". As for the story, it turned out to be false. The anomaly simply destroyed the guns and didn't even choke on them.</eng>
 		<ukr>===Ось, приніс я «Бізони». Забирай, голодний дембель...</ukr>
 		<fra>===Ici, j'ai apporté des fusils "Bizon". Prenez, fou furieux...</fra>
 		<pln>===No, przyniosłem "Bizony". Zabieraj, wygłodzony rezerwisto...</pln>
 	</string>
 	<string id="m_qeast1_1">
 		<rus>Отомстил им?! Уважуха тебе! Пригоршня мне тут ствол подогнал, прими как награду...</rus>
-		<eng>===They are broken... Well, okay, let it be. Here is the promised reward...</eng>
+		<eng>You got back at them?! Respect! A nice handful of guns you got me here, take this as a reward...</eng>
 		<ukr>===Вони не сильно покоцані, ні? Ну та ладно, мені якось все одно. Ось обіцяна нагорода...</ukr>
 		<fra>===Ils sont cassés... Bon, d'accord... Voici la récompense promise...</fra>
 		<pln>===Odrapane jakieś... No trudno, są jakie są. A to obiecana nagroda...</pln>
 	</string>
 	<string id="m_qeast1_2">
 		<rus>Я рассчитывал на более солидный куш, учитывая, что меня из-за него чуть головы не лишили.</rus>
-		<eng>===I was almost ruined for them.</eng>
+		<eng>I was counting on a more substantial sum, considering that I almost lost my head for them.</eng>
 		<ukr>===Я розраховував на більш солідний куш, враховуючи, що мене через них мало честі не позбавили.</ukr>
 		<fra>===Je suis presque ruiné pour eux.</fra>
 		<pln>===Mnie z ich powodu o mało honoru nie pozbawili.</pln>
 	</string>
 	<string id="m_qeast1_3">
 		<rus>Но не лишили ведь, а это главное! Всё равно у меня больше ничего нет.</rus>
-		<eng>===I hope they did not... Although it's a dubious question...</eng>
+		<eng>But you didn't! I don't have anything else to give you anyways.</eng>
 		<ukr>===Сподіваюся, що не позбавили... Хоча це під питанням...</ukr>
 		<fra>===J'espère qu'ils ne l'ont pas fait... Bien que ce soit une question douteuse...</fra>
 		<pln>===Mam nadzieję, że nie pozbawili... Chociaż - można mieć wątpliwości...</pln>
 	</string>
 	<string id="s_qeast_0">
 		<rus>Крест, ты будто местный Тарзан... Не с изломами ли тут общаешься?</rus>
-		<eng>===Oh... Local Tarzan...Aren't you bargaining with chimeras?</eng>
+		<eng>Cross, you look like the local Tarzan... Aren't you talking with izloms?</eng>
 		<ukr>===О... Місцевий Тарзан... Ти тут не з химерами торгуєш?</ukr>
 		<fra>===Oh... Tarzan local... Ne négociez-vous pas avec des chimères?</fra>
 		<pln>===O... Tarzan miejscowy... Ty tutaj z chimerami handlujesz?</pln>
 	</string>
 	<string id="s_qeast_1">
 		<rus>Нет, бывает и сталкеры заходят. А ты чего тут шастаешь? Работу ищешь? Дык есть задание для тебя.</rus>
-		<eng>===No, sometimes stalkers come. And there is another task for me.</eng>
+		<eng>No, sometimes stalkers drop by. What are you doing out here? You looking for a job? I got a job just for you.</eng>
 		<ukr>===Ні, буває і Сталки заходять. А для тебе є ще завдання.</ukr>
 		<fra>===Íåò, áûâàåò è ñòàëêåðû çàõîäÿò. À äëÿ òåáÿ åñòü åù¸ çàäàíèå.</fra>
 		<pln>===Nie, bywa że i stalker zajdzie. A dla ciebie jeszcze jedno zadanie jest.</pln>
 	</string>
 	<string id="s_qeast_2">
 		<rus>Выкладывай.</rus>
-		<eng>===What kind of a task?</eng>
+		<eng>Tell me.</eng>
 		<ukr>===Що за завдання?</ukr>
 		<fra>===Quel genre de tâche?</fra>
 		<pln>===Co to za zadanie?</pln>
 	</string>
 	<string id="s_qeast_3">
 		<rus>Сегодня по лесу шастала ещё одна группа военных, серьёзные ребята - лица суровые, все в полном снаряжении и бронежилетах, за спинами тубусы гранатомётов, но не чета предыдущим "гостям", которых ты отправил к праотцам, эти вели себя спокойно, без суеты. К моему лагерю они близко не подходили, сразу же углубились в лес, лишь их командир подошёл ко мне задать парочку вопросов. Ему нужен был кое-какой артефакт, и я подсказал, где его можно найти в лесу. На мой вопрос - на кой чёрт для поиска простого артефакта снарядили такую большую группу, да и ещё с подобным вооружением - вояка показал мне интересное устройство - "УРТ", Умный Ручной Телепортатор. Эта штуковина позволяет перемещаться по Зоне как угодно, только не отовсюду можно телепортироваться и не всегда точно по заданным координатам, артефакт же нужен для работы самого устройства. Командир предупредил меня, чтоб я не болтал об УРТ, но желание обладать подобной вещицей очень велико. Сможешь, как бы это помягче сказать, отобрать телепортатор у этого "старослужащего"? С телепортатором я смогу попутешествовать по Зоне, избегая всяческих опасностей.</rus>
-		<eng>===Yesterday a group of fighters ran through the woods, serious guys with harsh faces, all of them had full armor and grenade launchers. They didn’t go up to my camp, they immediately went deep into the forest, only their commander asked me a few questions. They needed an artifact, and I told him where to find it in the forest. When I asked why the hell they were searching a simple artifact, with such a large armored group,  the commander showed me an interesting device - “SHT” - a smart hand teleporter. This thing allows you to hang around the Zone as you want, but you can not teleport from anywhere. And there is a little bug, it chooses where to teleport you. The artifact is needed for the operation of the device. Can you, to choose my words carefully, grab the teleporter from this "old serviceman"? Using the thing, I can travel around the Zone, avoiding all sorts of dangers.</eng>
+		<eng>Today another group of soldiers were wandering through the woods, serious guys with harsh faces, all of them had full armor and grenade launchers. But this time they weren't like the thugs you take care of. They were calm, didn't make a fuss. They didn’t go up to my camp, they immediately went deep into the forest, only their commander asked me a few questions. They needed an artifact, and I told him where to find it in the forest. When I asked why the hell such a large well-armed group was searching for a simple artifact, the commander showed me an interesting device - “SHT” - a smart handheld teleporter. This thing allows you to move around the Zone as you wish, but it can't teleport you from anywhere and it doesn't always teleport you to the right coordinates. That one specific artifact is needed for the operation of the device. The commander warned me not to blab about the SHT, but the urge to possess such a thing is very strong. Can you, how shall I put it gently, confiscate the teleporter from this "old serviceman"? Using the thing, I can travel around the Zone, avoiding all sorts of dangers.</eng>
 		<ukr>===Вчора по лісі сновигала група вояків, серйозні хлопці - лиця суворі, всі в повному спорядженні і бронежилетах, за спинами тубуси гранатометів. До мого табору вони не підходили, відразу ж заглибилися в ліс, лише їхній командир підійшов до мене задати парочку питань. Їм був потрібний конкретний артефакт, і я підказав йому, де його можна знайти в лісі. На моє питання - на біса для пошуку простого артефакту спорядили таку велику групу, та й ще з подібним озброєнням - командир показав мені цікавий пристрій - "РРТ" - розумний ручний телепортатор. Ця штуковина дозволяє шастати по Зоні як завгодно, тільки не з усіх усюд можна переміщуватися. І маленький недолік - він сам вибирає, куди тебе телепортувати. Також, для роботи пристрою потрібен артефакт. Зможеш, як би це м'якше сказати, відібрати телепортатор у цього "старослуживого"? З подібною штукою я зможу подорожувати по Зоні, уникаючи усіляких небезпек.</ukr>
 		<fra>===Hier, un groupe de combattants a couru à travers les bois, des gars sérieux au visage dur, qui avaient tous une armure complète et des lance-grenades. Ils ne sont pas montés dans mon camp, ils sont immédiatement allés au fond de la forêt, seul leur commandant m'a posé quelques questions. Ils avaient besoin d'un artefact et je lui ai dit où le trouver dans la forêt. Quand j'ai demandé pourquoi diable ils cherchaient un simple artefact, avec un groupe blindé aussi important, le commandant m'a montré un dispositif intéressant - le «SHT» - un téléporteur intelligent. Cela vous permet de rester dans la zone comme vous le souhaitez, mais vous ne pouvez pas vous téléporter de n’importe où. Et il y a un petit bug, il choisit où vous téléporter. Cet artefact est nécessaire au fonctionnement de l'appareil. Pouvez-vous, pour bien choisir mes mots, saisir le téléport de ce "vieux militaire"? En utilisant cette chose, je peux voyager dans la zone en évitant toutes sortes de dangers.</fra>
 		<pln>===Wczoraj po lesie kręciła się grupa wojaków, poważni faceci - surowe twarze, w pełnym oporządzeniu i pancerzach, za plecami lufy granatników. Nie podeszli do mojego obozu, od razu poszli w głąb lasu, tylko ich dowódca zbliżył się do mnie, by zadać kilka pytań. Potrzebowali jakiegoś artefaktu i powiedziałem mu, gdzie go znaleźć w lesie. Na moje pytanie - po co do diabła na szukanie prostego artefaktu wysłano tak dużą grupę, i to jeszcze z takim wyposażeniem - dowódca pokazał mi ciekawe urządzenie - "IRT" - inteligentny ręczny teleporter. Dzięki temu możesz wędrować po Zonie jak chcesz, ale nie możesz teleportować się skądkolwiek. No i mały haczyk - to on wybiera, dokąd cię teleportować. Artefakt jest potrzebny do działania urządzenia. Czy możesz, jak by to powiedzieć najłagodniej, odebrać teleporter temu "wiarusowi"? Z takim urządzeniem mogę podróżować po Zonie, unikając wszelkiego rodzaju niebezpieczeństw.</pln>
@@ -2716,21 +2716,21 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 	</string>
 	<string id="s_qeast1_0">
 		<rus>Вот, добыл я тебе телепортатор, только не работает он... На Стройплощадке такой замес был, что даже удивительно, как я сумел отыскать твой чудо-девайс посреди кучи трупов.</rus>
-		<eng>Here you are, I got you the teleportor, but it does not work... There was such a mess on the Construction Site that it is surprising that I managed to find your miracle device among a bunch of corpses.</eng>
+		<eng>Here you are, I got you the shit, but it doesn't work... There was such a mess at the Construction Site that it is a miracle that I even managed to find your miracle device among a bunch of corpses.</eng>
 		<ukr>Ось, добув я тобі телепортатор, тільки не працює він... На будмайданчику така бійка була, що аж дивно, як я зміг знайти твій чудо-девайс посеред купи трупів.</ukr>
 		<fra>Voilà, j'ai mis la main sur le téléport, mais il ne marche pas... Il y avait un tel désordre sur le chantier de construction qu'il est étonnant que je sois parvenu à retrouver votre appareil miracle parmi un tas de cadavres.</fra>
 		<pln>Masz, zdobyłem dla ciebie ten teleporter, tylko że nie działa... Na Placu Budowy była taka rozpierducha, że aż dziw, jak mi się udało odszukać ten twój przyrządzik pośród góry trupów.</pln>
 	</string>
 	<string id="s_qeast1_1">
 		<rus>Как так?! Ты разрушил мою мечту о путешествии по Зоне! Но нельзя отчаиваться, попробую его отремонтировать! А что с военными?</rus>
-		<eng>No way! You ruined my dream of traveling around the Zone! But I won't give up and try to repair it! And what about the fighters?</eng>
+		<eng>No way! You ruined my dream of traveling around the Zone! But I won't give up and try to repair it! And what about the soldiers?</eng>
 		<ukr>Як так?! Ти зруйнував мою мрію про подорож по Зоні! Але не можна впадати у відчай, спробую його відремонтувати! А що з військовими?</ukr>
 		<fra>En aucune façon! Vous avez ruiné mon rêve de voyager dans la zone! Mais je ne vais pas abandonner et je vais essayer de le réparer! Et qu'en est-il des combattants?</fra>
 		<pln>Jak to tak?! Zburzyłeś moje marzenie o podróżowaniu w Zonie! Ale bez obawy, spróbuję go naprawić! A co z żołnierzami? </pln>
 	</string>
 	<string id="s_qeast1_2">
 		<rus>Жмуриками стали! Даже рот открыть не успел, как они палить по мне начали - видать, у вояк я на особом счету. А если серьёзно, то предполагаю, что с помощью данного устройства спецы собирались покинуть местность после дерзкого нападения на конвой наёмников, перевозивший боеприпасы. Это и было их заданием.</rus>
-		<eng>They became corpses! I didn't even have time to open my mouth when they started shooting me — you see, I'm kind of out on a limb among fighters. But seriously, I assume that with the help of this device, the specialists were going to leave the area after a big attack on a convoy of mercenaries carrying ammunition. That was their job.</eng>
+		<eng>They suddenly became corpses! I didn't even have time to open my mouth when they started shooting me — you see, I'm kind of out on a limb among fighters. But seriously, I assume that with the help of this device, the specialists were going to leave the area after a big attack on a convoy of mercenaries carrying ammunition. That was their job.</eng>
 		<ukr>Жмуриками стали! Навіть рот відкрити не встиг, як вони палити по мені почали - напевне у вояк я на особливому рахунку. А якщо серйозно, то припускаю, що за допомогою даного пристрою фахівці збиралися покинути місцевість після зухвалого нападу на конвой найманців, який перевозив боєприпаси. Це і було їх завданням.</ukr>
 		<fra>Ils sont devenus des cadavres! Je n'ai même pas eu le temps d'ouvrir la bouche quand ils ont commencé à me tirer dessus - vous voyez, je suis un peu en retrait parmi les combattants. Mais sérieusement, je suppose qu’avec l’aide de ce dispositif, les spécialistes allaient quitter les lieux après une attaque audacieuse contre un convoi de mercenaires transportant des munitions. C'était leur tâche.</fra>
 		<pln>Przenieśli się do wieczności! Nawet nie zdążyłem ust otworzyć jak zaczęli do mnie walić.  Widocznie wojsko ma ze mną specjalne porachunki. A na poważnie to zakładam, że przy pomocy tego urządzenia spece zamierzali opuścić teren po śmiałym ataku na konwój najemników niosących amunicję. Takie było ich zadanie..</pln>
@@ -3381,21 +3381,21 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 	</string>
 	<string id="vtt_0_26">
 		<rus>Ух ты, да это же моя мечта! За него я тебя отблагодарю по особенному!</rus>
-		<eng>Wow, that's my dream! I will thank you in a special way for it!</eng>
+		<eng>Wow, that's my dream! I will thank you in a *special* way for it!</eng>
 		<ukr>Ух ти, так це ж моя мрія! За нього я тобі віддячу по особливому!</ukr>
 		<fra>Waouh, c'est mon rêve! Pour lui, je vous remercierai de manière particulière!</fra>
 		<pln>O żesz ty, to moje marzenie! Za to odwdzięczę ci się specjalnie!!</pln>
 	</string>
 	<string id="vtt_0_27">
 		<rus>Ух ты, неплохой экземплярчик! Сойдёт!</rus>
-		<eng>Wow, a good item! It will suit!</eng>
+		<eng>Wow, that's a good item! It will suit me well!</eng>
 		<ukr>Ух ти, непоганий екземплярчик! Зійде!</ukr>
 		<fra>Wow, un bon spécimen! Ça ira!</fra>
 		<pln>Nooo, niezła sztuka! Pasuje!</pln>
 	</string>
 	<string id="vtt_0_28">
 		<rus>Ух ты, конечно, возьму!</rus>
-		<eng>Wow, of course I will take!</eng>
+		<eng>Wow, of course I will take it!</eng>
 		<ukr>Ух ти, звичайно, візьму!</ukr>
 		<fra>Wow, bien sûr que je vais prendre!</fra>
 		<pln>Kurde, oczywiście że biorę!</pln>
@@ -3416,7 +3416,7 @@ AK-74, AK-74M, AKS-74 "Kobra", AKS-74U, AN-94 "Abakan", AN-94 "Snajperski", AK, 
 	</string>
 	<string id="repair_wily">
 		<rus>Ай, хитрец! Кинуть хотел? Не хорошо это...</rus>
-		<eng>===Ai, wily! Throw wanted? Not good at it...</eng>
+		<eng>Ah, you dodger! Wanted to double cross me? Not good...</eng>
 		<ukr>От, хитрун! Кинути хотів? Негарно ти робиш...</ukr>
 		<fra>===Ай, хитрец! Кинуть хотел? Не хорошо это...</fra>
 		<pln>To chytrus! chciał mnie oszukać? To nie w porządku...</pln>

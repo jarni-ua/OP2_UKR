@@ -828,8 +828,9 @@
 	</string>
 	<string id="kb_wpn_sl_ops">
 		<rus>Отделить/прикрепить глушитель</rus>
+		<eng>Detach/attach silencer</eng>
 	</string>
-	
+
 	<string id="kb_down">
 		<rus>Вниз</rus>
 		<eng>Down</eng>
@@ -1453,7 +1454,7 @@
 	</string>
 	<string id="testers_mp_atp">
 		<rus>АТП</rus>
-		<eng>MTP</eng>
+		<eng>ATP</eng>
 		<fra>ATP</fra>
 		<pln>ATP</pln>
 	</string>
@@ -1541,11 +1542,11 @@
 	</string>
 	<string id="ui_mm_inventorys">
 		<rus>Выбрать инвентарь</rus>
-		<eng>===Choose inventory</eng>
+		<eng>Choose inventory</eng>
 		<ukr>Вибрати інвентар</ukr>
 		<fra>===Choisissez l'inventaire</fra>
 		<pln>===Wybierz zapasy</pln>
-	</string>	
+	</string>
 	<string id="ui_mm_anisotropic">
 		<rus>Фильтрация текстур</rus>
 		<eng>Anisotropic filtration</eng>
@@ -1690,7 +1691,7 @@
 		<ukr>Купити будь-який предмет за 400000:</ukr>
 		<fra>Acheter n'importe quel objet pour 400 000 roubles:</fra>
 		<pln>Kup dowolny przedmiot za 400000:</pln>
-	</string>	
+	</string>
 	<string id="ui_mm_del">
 		<rus>Удалить проблемные объекты:</rus>
 		<eng>Delete problem objects:</eng>
@@ -1725,7 +1726,7 @@
 		<ukr>рідкісний</ukr>
 		<fra>rare</fra>
 		<pln>rzadki</pln>
-	</string>	
+	</string>
 	<string id="ui_mm_standart_respawn">
 		<rus>стандартный</rus>
 		<eng>standart</eng>
@@ -1739,7 +1740,7 @@
 		<fra>Réapparition</fra>
 		<pln>Respawn</pln>
 	</string>
-	
+
 	<string id="ui_mm_delete">
 		<rus>Удалить</rus>
 		<eng>Delete</eng>
@@ -1867,7 +1868,7 @@
 		<ukr>Встановити турель</ukr>
 		<fra>Installer la tourelle</fra>
 		<pln>Zainstaluj wieżyczkę</pln>
-	</string>	
+	</string>
 	<string id="ui_mm_master">
 		<rus>Реализм</rus>
 		<eng>Nightmare</eng>
@@ -2038,10 +2039,12 @@
 	</string>
 	<string id="ui_mm_bolt_visual">
 		<rus>Вид болта</rus>
+		<eng>Bolt appearance</eng>
 	</string>
 	<string id="ui_mm_bolt_visual_hint">
 		<rus>Внешний вид предмета для проверки аномалий</rus>
-	</string>	
+		<eng>Appearance of the anomaly testing item</eng>
+	</string>
 	<string id="ui_mm_show_weapon">
 		<rus>Показывать оружие</rus>
 		<eng>Show weapons</eng>
@@ -2528,7 +2531,7 @@
 		<ukr>Відображати на панелі швидких слотів порожні клітинки</ukr>
 		<fra>===Afficher la ceinture d'Artéfact</fra>
 		<pln>===Pokazuj panel artefaktów</pln>
-	</string>	
+	</string>
 	<!-- BEGIN Do not translate this! English for all languages -->
 	<string id="ui_mm_language_eng">
 		<rus>English [BETA]</rus>
@@ -2566,16 +2569,17 @@
 	<!-- END Do not translate this! English for all languages -->
 	<string id="ui_mm_huds_cap">
 		<rus>Скины:</rus>
+		<eng>Skins:</eng>
 		<ukr>Скіни:</ukr>
 		<pln>===HUDy:</pln>
-	</string>	
+	</string>
 	<string id="ui_mm_crosshairs">
 		<rus>Вид перекрестья</rus>
 		<eng>Visual of crosshairs</eng>
 		<ukr>Вид перехрестя</ukr>
 		<fra>Visuel du réticule</fra>
 		<pln>Wygląd celownika</pln>
-	</string>	
+	</string>
 	<string id="ui_mm_crosshairs_cap">
 		<rus>Перекрестья:</rus>
 		<eng>Crosshairs:</eng>
@@ -2861,7 +2865,7 @@
 	</string>
 	<string id="ui_st_your_items">
 		<rus>Вещи Меченого</rus>
-		<eng>===Marked One's items</eng>
+		<eng>Marked One's items</eng>
 		<ukr>Речі Міченого</ukr>
 		<fra>===Objets du Marqué</fra>
 		<pln>Rzeczy Naznaczonego</pln>
@@ -3172,6 +3176,7 @@
 	</string>
 	<string id="ui_st_money_regional">
 		<rus>RU</rus>
+		<eng>Roubles</eng>
 		<ukr>грн</ukr>
 		<fra>Roubles</fra>
 	</string>
@@ -4148,7 +4153,7 @@
 		<ukr>гру збережено</ukr>
 		<fra>Jeu sauvegardé</fra>
 		<pln>gra zapisana</pln>
-	</string>	
+	</string>
 	<string id="st_game_save_not_ready">
 		<rus>Нельзя сохранить игру прямо сейчас!</rus>
 		<eng>You can not save the game right now!</eng>
@@ -4435,8 +4440,8 @@
 		<ukr>всі предмети</ukr>
 		<fra>tous les objets</fra>
 		<pln>wszystko</pln>
-	</string>	
-	
+	</string>
+
 	<string id="txt_safe_transfer_info">
 		<rus>\n
 			Перемещение\n
@@ -5298,7 +5303,7 @@
 		<ukr>Кі</ukr>
 		<fra>Ci</fra>
 		<pln>Ki</pln>
-	</string>	
+	</string>
 	<string id="ui_close_container">
 		<rus>Закрыть контейнер</rus>
 		<eng>Close container</eng>
@@ -5333,7 +5338,7 @@
 		<ukr>Ефекти оточення в грі</ukr>
 		<fra>Les effets de l'environnement dans le jeu</fra>
 		<pln>Efekty otoczenia w grze</pln>
-	</string>	
+	</string>
 	<string id="ui_critical_knife">
 		<rus>Оружие в критическом состоянии. Использование невозможно!</rus>
 		<eng>Weapons in critical condition. Usage is not possible!</eng>
@@ -5354,14 +5359,14 @@
 		<ukr>розрядити екзоскелет</ukr>
 		<fra>décharger l'exosquelette</fra>
 		<pln>rozładuj egzoszkielet</pln>
-	</string>	
+	</string>
 	<string id="cant_exo_jump">
 		<rus>Вы не можете прыгать в разряженном экзоскелете!</rus>
 		<eng>You can not jump in a discharged exoskeleton!</eng>
 		<ukr>Ви не можете стрибати в розрядженому екзоскелеті!</ukr>
 		<fra>Vous ne pouvez pas sauter avec un exosquelette déchargé!</fra>
 		<pln>Nie można skakać w rozładowanym egzoszkielecie!</pln>
-	</string>	
+	</string>
 	<string id="cant_exo_sprint">
 		<rus>Вы не можете бежать в разряженном экзоскелете!</rus>
 		<eng>You can not sprint in a discharged exoskeleton!</eng>
@@ -5382,15 +5387,15 @@
 		<ukr>Рівень заряду</ukr>
 		<fra>niveau de charge</fra>
 		<pln>Poziom naładowania</pln>
-	</string>	
+	</string>
 	<string id="ui_inv_psy_health">
 		<rus>Пси-здоровье</rus>
 		<eng>Psi health</eng>
 		<ukr>Псі-здоров'я</ukr>
 		<fra>Santé psi</fra>
 		<pln>Psi-zdrowie</pln>
-	</string>	
-	
+	</string>
+
 	<string id="ui_close_pzu">
 		<rus>Закрыть ПЗУ</rus>
 		<eng>Close PBC</eng>
@@ -5404,7 +5409,7 @@
 		<ukr>Портативний Зарядний Пристрій</ukr>
 		<fra>Chargeur de batterie portable</fra>
 		<pln>Przenośna Ładowarka </pln>
-	</string>	
+	</string>
 	<string id="ui_mapspot_blowout">
 		<rus>Безопасное место</rus>
 		<eng>Safe place</eng>
@@ -5418,7 +5423,7 @@
 		<ukr>Виявлено Викид. Карта укритів активована.</ukr>
 		<fra>Une émission a été détectée. La carte d'abri est activée.</fra>
 		<pln>Wykryto emisję. Mapa schronów aktywna.</pln>
-	</string>	
+	</string>
 	<string id="ui_mapspot_off">
 		<rus>Выброс прекратился. Карта укрытий деактивирована.</rus>
 		<eng>Blowout ceased. Hideouts map deactivated.</eng>
@@ -5474,7 +5479,7 @@
 		<ukr>без змін</ukr>
 		<fra>sans changements</fra>
 		<pln>bez zmian</pln>
-	</string>	
+	</string>
 	<string id="ui_show_enemy_minimap_spot">
 		<rus>Метки врагов на миникарте</rus>
 		<eng>Spots of enemies on the minimap</eng>
@@ -5488,7 +5493,7 @@
 		<ukr>Сейв зроблений в режимі розробника!</ukr>
 		<fra>Sauvegarde faite dans le mode développeur!</fra>
 		<pln>Zapis wykonany w trybie developer mode!</pln>
-	</string>	
+	</string>
 	<string id="ui_mm_lock_fps">
 		<rus>Лимит FPS</rus>
 		<eng>Limit FPS</eng>
@@ -5511,13 +5516,13 @@
 	</string>
 	<string id="fpslock144">
 		<rus>144</rus>
-	</string>	
+	</string>
 	<string id="fpslock180">
 		<rus>180</rus>
 	</string>
 	<string id="fpslock240">
 		<rus>240</rus>
-	</string>	
+	</string>
 	<string id="ui_options_op21_horror_time_enable">
 		<rus>Разрешить событие 'Час ужаса' в игре</rus>
 		<eng>Allow 'Horror Time' event in the game</eng>
@@ -5541,31 +5546,36 @@
 	</string>
 	<string id="ui_skip_ammo_word">
 		<rus>патроны</rus>
+		<eng>cartridges</eng>
 		<ukr>патрони</ukr>
 		<pln>naboje</pln>
 	</string>
 	<string id="ui_skip_grenade_word">
 		<rus>Граната</rus>
+		<eng>Grenade</eng>
 		<pln>Granaty</pln>
 	</string>
 	<string id="ui_skip_box_word">
 		<rus>Короб с патронами</rus>
+		<eng>Box of cartridges</eng>
 		<ukr>Короб з патронами</ukr>
 		<pln>Skrzynka z nabojami</pln>
 	</string>
 	<string id="ui_skip_silencer_word">
 		<rus>глушитель</rus>
+		<eng>silencer</eng>
 		<ukr>глушник</ukr>
 		<pln>tłumik</pln>
 	</string>
 	<string id="ui_skip_scope_word">
 		<rus>прицел</rus>
+		<eng>scope</eng>
 		<ukr>приціл</ukr>
 		<pln>celownik</pln>
 	</string>
 	<string id="cant_hunger_jump_sprint">
 		<rus>Вы слишком истощены, чтобы бегать и прыгать</rus>
-		<eng>===Вы слишком истощены, чтобы бегать и прыгать</eng>
+		<eng>You are too hungry to run and jump</eng>
 		<ukr>Ви занадто виснажені, щоб бігати та стрибати</ukr>
 		<fra>===Вы слишком истощены, чтобы бегать и прыгать</fra>
 		<pln>Jesteś zbyt zmęczony, by biegać i skakać</pln>
@@ -5588,33 +5598,34 @@
 		<rus>выложить мину</rus>
 		<eng>lay out mine</eng>
 		<ukr>викласти міну</ukr>
-	</string>	
+	</string>
 	<string id="ui_drop_bomb">
 		<rus>выложить бомбу</rus>
 		<eng>lay out the bomb</eng>
 		<ukr>викласти бомбу</ukr>
-	</string>	
+	</string>
 	<string id="ui_detonator_critical">
 		<rus>Внимание! У детонатора низкий заряд батареи!</rus>
-		<eng>===Attention! The detonator is in critical condition!</eng>
+		<eng>Warning! The detonator has a low battery charge!</eng>
 		<ukr>Увага! У детонатора низький заряд батареї!</ukr>
 		<fra>===Attention! Le détonateur est dans un état critique!</fra>
 		<pln>===Uwaga! Detonator jest w stanie krytycznym!</pln>
-	</string>	
+	</string>
 	<string id="ui_mm_qsp_anim_time">
 		<rus>Время анимации активации слота</rus>
 		<eng>Animation time of slot activation</eng>
 		<ukr>Час анімації активації слота</ukr>
-	</string>	
+	</string>
 	<string id="ui_options_op21_dynamic_anoms">
 		<rus>Динамические аномалии</rus>
 		<eng>Dynamic anomalies</eng>
 		<ukr>Динамічні аномалії</ukr>
 		<fra>Anomalies dynamiques</fra>
 		<pln>Anomalie dynamiczne</pln>
-	</string>	
+	</string>
 	<string id="st_foto_focus">
 		<rus>Цель в фокусе</rus>
+		<eng>Target in focus</eng>
 		<ukr>Ціль у фокусі</ukr>
 	</string>
 	<string id="ui_hud_health_system_off">
@@ -5630,9 +5641,10 @@
 		<ukr>Систему життєвої підтримки активовано</ukr>
 		<fra>Système de survie activé</fra>
 		<pln>Aktywowano system podtrzymywania życia</pln>
-	</string>	
+	</string>
 	<string id="ui_hud_inviz_on">
 		<rus>Невидимость активирована</rus>
+		<eng>Invisibility activated</eng>
 		<ukr>Невидимість активована</ukr>
 		<eng>Invisibility activated</eng>
 		<fra>Invisibilité activée</fra>
@@ -5640,212 +5652,263 @@
 	</string>
 	<string id="ui_hud_inviz_off">
 		<rus>Невидимость деактивирована</rus>
+		<eng>Invisibility deactivated</eng>
 		<ukr>Невидимість деактивована</ukr>
 		<eng>Invisibility deactivated</eng>
 		<fra>Invisibilité désactivée</fra>
 		<pln>Wyłączono niewidzialność</pln>
-	</string>	
+	</string>
 	<string id="ui_dynamic_anoms_hint">
 		<rus>При включённой опции - аномалии пересоздаются (меняют своё положение) при каждой загрузке сейва и после Выброса. В противном случае - только после Выброса.\nПосле активации данной опции необходимо загрузить игру для применения изменений.\n%c[red]Внимание! Опция не применяется к текущей загруженной игре!%c[default]</rus>
+		<eng>If this option is enabled, the anomalies are recreated (change their position) every time you load a save and after a Blowout. Otherwise it's only after a Blowout.\nAfter activating this option it is necessary to reload the save to apply the changes.\n%c[red]Attention! The option does not apply to the currently loaded save! %c[default]</eng>
 		<ukr>При ввімкненні опції - аномалії створюються знову (змінюють своє положення) при кожному завантаженні сейва і після викиду. В іншому випадку - тільки після викиду.\nПісля активації даної опції необхідно завантажити гру для застосування змін.\n%c[red]Увага! Опція не застосовується до поточної завантаженої гри!%c[default]</ukr>
 	</string>
 	<string id="ui_mm_autochange_difficulty_hint">
 		<rus>При включении данной опции уровень сложности игры будет автоматически понижаться в зависимости от частой гибели главного героя (после каждой 13-й смерти).</rus>
+		<eng>When this option is enabled, the game difficulty level will be automatically lowered depending on the frequent death of the main character (after every 13th death).</eng>
 		<ukr>При включенні даної опції рівень складності гри буде автоматично знижуватися в залежності від частоти загибелі головного героя (після кожної 13-й смерті).</ukr>
 	</string>
 	<string id="ui_show_enemy_minimap_spot_hint">
 		<rus>При включении данной опции на миникарте будут временно отображаться красные метки врагов.</rus>
+		<eng>When this option is enabled, red enemy tags will be temporarily displayed on the mini-map.</eng>
 		<ukr>При включенні даної опції на мінікарті будуть тимчасово відображатися червоні мітки ворогів.</ukr>
 	</string>
 	<string id="ui_mm_huds_hint">
 		<rus>Позволяет выбрать игровой худ из доступного списка с предпросмотром внешнего вида.</rus>
+		<eng>Allows you to select the game HUD from the available list with a preview of the appearance.</eng>
 		<ukr>Дозволяє вибрати ігровий худ з доступного списку з попереднім переглядом зовнішнього вигляду.</ukr>
-	</string>	
+	</string>
 	<string id="ui_mm_inventorys_hint">
 		<rus>Позволяет выбрать внешний вид инвентаря из доступного списка с предпросмотром внешнего вида.</rus>
+		<eng>Allows you to select the appearance of the inventory from the available list with a preview of the appearance.</eng>
 		<ukr>Дозволяє вибрати зовнішній вигляд інвентарю з доступного списку з попереднім переглядом зовнішнього вигляду.</ukr>
-	</string>	
+	</string>
 	<string id="ui_mm_show_weapon_hint">
 		<rus>При включении данной опции на экране будет отображаться оружие в руках главного героя.</rus>
+		<eng>When this option is enabled, the weapon in the hands of the protagonist will be displayed on the screen.</eng>
 		<ukr>При включенні даної опції на екрані буде відображатися зброя в руках головного героя.</ukr>
-	</string>	
+	</string>
 	<string id="ui_mm_autosave_hint">
 		<rus>При включении данной опции при получении и сдаче сюжетных заданий будет автоматически создаваться именное сохранение.</rus>
+		<eng>If this option is enabled, a named save will be automatically created when you receive and end story quests.</eng>
 		<ukr>При включенні даної опції при отриманні і здачі сюжетних завдань буде автоматично створюватися іменне збереження.</ukr>
-	</string>	
+	</string>
 	<string id="ui_mm_dialog_numbered_hint">
 		<rus>При включении данной опции строки в окне диалога будут нумероваться по порядку. Соответствующую строку в диалоге можно активировать с клавиатуры, нажав цифру нужной фразы.</rus>
+		<eng>When this option is enabled, the lines in the dialog box will be numbered in order. The corresponding line in the dialog box can be activated from the keyboard by pressing the number of the desired phrase.</eng>
 		<ukr>При включенні даної опції рядки у вікні діалога нумеруватимуться по порядку. Відповідний рядок в діалозі можна активувати з клавіатури, натиснувши цифру потрібної фрази.</ukr>
-	</string>	
+	</string>
 	<string id="ui_options_horror_time_hint">
 		<rus>При включении данной опции в ночное время с некоторой вероятностью будет активироваться событие "Час ужаса".</rus>
+		<eng>When this option is turned on, the "Horror Hour" event is likely to activate at night with some probability.</eng>
 		<ukr>При включенні даної опції в нічний час з певною ймовірністю буде активуватися подія "Час жаху".</ukr>
-	</string>	
+	</string>
 	<string id="ui_mm_sms_hint">
 		<rus>При включении данной опции в общем канале СМС-уведомлений будут появляться СМС, которые напрямую не затрагивают игру, например СМС про форумчан.</rus>
+		<eng>When you enable this option, SMS will appear in the general channel. SMS-notifications do not directly affect the game, and show for example, SMS about forum members.</eng>
 		<ukr>При включенні даної опції в загальному каналі СМС-повідомлень будуть з'являтися СМС, які безпосередньо не зачіпають гру, наприклад СМС про форумчан.</ukr>
-	</string>	
+	</string>
 	<string id="ui_mm_name_hint">
 		<rus>В данном поле указывается имя игрока, которое в процессе игры будет использовано в СМС.</rus>
+		<eng>This field specifies the player's name, which will be used in the in-game SMS.</eng>
 		<ukr>В даному полі вказується ім'я гравця, яке в процесі гри буде використано в СМС.</ukr>
 	</string>
 	<string id="buy_items_edit_hint">
 		<rus>Используя данное поле, можно получить квестовый предмет, который был утрачен игроком.\nПри использовании данной опции более пяти раз игрок получает антидостижение.\nДанная опция предназначена для покупки только квестовых предметов.</rus>
+		<eng>Using this field, you can get a quest item that was lost by the player.\nIf you use this option more than five times, the player gets an anti-achievement.\nThis option is designed to only acquire quest items.</eng>
 		<ukr>Використовуючи дане поле, можна отримати квестовий предмет, який був втрачений гравцем.\nПри використанні даної опції більше п'яти разів гравець отримує антидосягнення.\nДана опція призначена для покупки тільки квестових предметів.</ukr>
 	</string>
 	<string id="ui_mm_del_hint">
 		<rus>Используя данное поле, можно удалить из игры объекты, которые приводят к стабильному вылету.\n%c[red]Не рекомендуется использовать данную опцию без полного понимания необходимости её применения!%c[default]</rus>
+		<eng>Using this field, you can remove from the game objects that cause a stable crash.\n%c[red]It is not recommended to use this option without fully understanding the need for it!%c[default]</eng>
 		<ukr>Використовуючи дане поле, можна видалити з гри об'єкти, які призводять до стабільного вильоту.\n%c[red]Не рекомендується використовувати цю опцію без повного розуміння необхідності її застосування!%c[default]</ukr>
-	</string>	
+	</string>
 	<string id="ui_mm_show_crosshair_hint">
 		<rus>При включении данной опции в центре экрана будет показываться перекрестие.</rus>
+		<eng>When this option is enabled, a crosshair will be shown in the center of the screen.</eng>
 		<ukr>При включенні даної опції в центрі екрану буде показуватися перехрестя.</ukr>
-	</string>	
+	</string>
 	<string id="ui_mm_dyn_crosshair_hint">
 		<rus>При включении данной опции перекрестие в центре экрана будет менять размер в зависимости от дистанции до объекта, на который наведено перекрестие.</rus>
+		<eng>When this option is enabled, the crosshairs in the center of the screen will change size depending on the distance to the object to which the crosshairs are pointed.</eng>
 		<ukr>При включенні даної опції перехрестя в центрі екрана буде міняти розмір в залежності від дистанції до об'єкта, на який наведено перехрестя.</ukr>
 	</string>
 	<string id="ui_mm_crosshairs_hint">
 		<rus>Позволяет выбрать вид прицела из списка доступных в модификации.</rus>
+		<eng>Allows you to select the type of sight from the list of available in the modification.</eng>
 		<ukr>Дозволяє вибрати вид прицілу зі списку доступних в модифікації.</ukr>
 	</string>
 	<string id="ui_mm_crosshair_distance_hint">
 		<rus>При включении данной опции рядом с перекрестием в центре экрана будет указываться дистанция до объекта, на который наведено перекрестие.\n%c[yellow]Данная опция активируется не на всех уровнях сложности!%c[default]</rus>
+		<eng>When this option is enabled, the distance to the object the crosshairs are pointed at will be indicated next to the crosshairs in the center of the screen. \n%c[yellow]This option is not available at all difficulty levels!%c[default]</eng>
 		<ukr>При включенні даної опції поруч з перехрестям в центрі екрана буде вказуватися відстань до об'єкта, на який наведено перехрестя.\n%c[yellow]Дана опція активується не на всіх рівнях складності!%c[default]</ukr>
 	</string>
 	<string id="ui_mm_tips_hint">
 		<rus>При включении данной опции перекрестие в центре экрана будет менять цвет (жёлтый, красный, зелёный) в зависимости от того, на кого из НПС наведено перекрестие.\n%c[yellow]Данная опция не работает при использовании кастомных перекрестий!%c[default]</rus>
+		<eng>When this option is enabled, the crosshairs in the center of the screen will change color (yellow, red, green) depending on which of the NPCs the crosshairs are pointed at.\n%c[yellow]This option does not work with custom crosshairs!%c[default]</eng>
 		<ukr>При включенні даної опції перехрестя в центрі екрана буде міняти колір (жовтий, червоний, зелений) в залежності від того, на кого з НПС наведено перехрестя.\n%c[yellow]Дана опція не працює при використанні кастомних перехресть!%c[default]</ukr>
 	</string>
 	<string id="hud_min_crosshair_hint">
 		<rus>При включении данной опции при убирании HUD (миникарты, счетчика патронов и т.п.) с экрана, перекрестие в центре экрана будет оставаться.</rus>
+		<eng>If this option is enabled, when removing the HUD (minimap, ammo counter, etc.) from the screen, the crosshairs in the center of the screen will remain.</eng>
 		<ukr>При включенні даної опції при прибиранні HUD (міні-карти, лічильника патронів і т.п.) з екрану, перехрестя в центрі екрана буде залишатися.</ukr>
 	</string>
 	<string id="ui_show_focused_hint">
 		<rus>При включении данной опции при наведении курсора на предмет в инвентаре, поле данного предмета будет подсвечено сеткой серого цвета.</rus>
+		<eng>When this option is enabled, when you put the cursor on an item in the inventory, the field of this item will be highlighted by a gray square.</eng>
 		<ukr>При включенні даної опції при наведенні курсору на предмет в інвентарі, поле даного предмета буде підсвічено сіткою сірого кольору.</ukr>
 	</string>
 	<string id="ui_show_selected_hint">
 		<rus>При включении данной опции при выборе предмета в инвентаре, поле данного предмета будет подсвечено сеткой зелёного цвета.</rus>
+		<eng>When this option is enabled, when selecting an item in the inventory, the field of this item will be highlighted with a green square.</eng>
 		<ukr>При включенні даної опції, при виборі предмета в інвентарі, поле даного предмета буде підсвічено сіткою зеленого кольору.</ukr>
 	</string>
 	<string id="ui_show_extdesc_hint">
 		<rus>При включении данной опции в контекстном меню будут указываться дополнительные данные (название оружия, обвесов и т.п.).</rus>
+		<eng>When this option is enabled, the context menu will indicate additional data (the name of the weapon, ammo, etc.).</eng>
 		<ukr>При включенні даної опції в контекстному меню будуть вказуватися додаткові дані (назва зброї, навісного і т.п.).</ukr>
 	</string>
 	<string id="ui_show_conditions_hint">
 		<rus>При включении данной опции на иконке предмета в инвентаре будет отображаться шкала его состояния.\n%c[green]Данная шкала отображается только для предметов, имеющих параметр износа.%c[default]</rus>
+		<eng>When this option is enabled, the item icon in the inventory will display the item's status bar.\n%c[green]This scale is displayed only for items with wear parameter.%c[default]</eng>
 		<ukr>При включенні даної опції на іконці предмета в інвентарі буде відображатися шкала його стану.\n%c[green]Дана шкала тільки для предметів, що мають параметр зносу.%c[default]</ukr>
 	</string>
 	<string id="gp_show_modificators_hint">
 		<rus>При включении данной опции в поле отображения защит, которые дают броня и артефакты, будут также указываться и такие модификаторы, как "Здоровье", "Кровотечение", "Облучение", "Высота прыжка" и т.п.</rus>
+		<eng>When this option is turned on, the field for displaying the protection that armor and artifacts provide will also show modifiers such as Health, Bleed, Exposure, Jump Height, etc.</eng>
 		<ukr>При включенні даної опції в поле відображення захистів, які дають броня і артефакти, будуть також вказуватися і такі модифікатори, як "Здоров'я", "Кровотеча", "Опромінення", "Висота стрибка" і т.п.</ukr>
 	</string>
 	<string id="ui_show_trade_sb_hint">
 		<rus>При включении данной опции в окне торговли будут отображаться также и предметы, находящиеся в слотах (артефакты, оружие, броня и т.п.).</rus>
+		<eng>If this option is enabled, the trade window will also display items that are equiped in slots (artifacts, weapons, armor, etc.).</eng>
 		<ukr>При включенні даної опції у вікні торгівлі будуть відображатися також і предмети, які знаходяться в слотах (артефакти, зброя, броня і т.п.).</ukr>
 	</string>
 	<string id="ui_allow_operations_tsb_hint">
 		<rus>При включении данной опции будет возможно перемещать предметы, находящиеся в слотах или на поясе, при торговле и обыске стационарных тайников.</rus>
+		<eng>When this option is enabled, it will be possible to move items in slots or on the belt when trading and searching stationary stashes.</eng>
 		<ukr>При включенні даної опції буде можливо переміщати предмети, які знаходяться в слотах або на поясі, при торгівлі і обшуку стаціонарних схованок.</ukr>
 	</string>
 	<string id="gp_deffered_reload_hint">
 		<rus>При включении данной опции будет возможно заряжать "помповое" оружие разным видом патронов. Также данная опция позволяет выбрать патроны любого доступного вида без необходимости полной перезарядки для другого типа оружия.</rus>
+		<eng>With this option enabled, it will be possible to load the "pump" weapon with different types of ammunition. Also, this option allows you to select any available type of ammunition without having to fully reload for another type of weapon.</eng>
 		<ukr>При включенні даної опції буде можливо заряджати "помпову" зброю різним видом патронів. Так само дана опція дозволяє вибрати патрони будь-якого доступного виду без необхідності повної перезарядки для іншого типу зброї.</ukr>
 	</string>
 	<string id="gp_demand_reload_hint">
 		<rus>При включении данной опции по окончании патронов в магазине будет необходимо вручную перезарядить оружие, использовав клавишу перезарядки оружия.</rus>
+		<eng>When this option is enabled, you will need to manually reload your weapon by using the reload button when you run out of ammunition in the magazine.</eng>
 		<ukr>При включенні даної опції, після закінчення патронів в магазині, буде необхідно вручну перезарядити зброю, використавши клавішу перезарядки зброї.</ukr>
 	</string>
 	<string id="gp_sticky_scope_hint">
 		<rus>При включении данной опции включение/отключение прицеливания через мушку/прицел будет происходить с фиксацией выбранной позиции. Для возвращения в предыдущее состояние необходимо будет повторно нажать клавишу приближения.</rus>
+		<eng>When this option is enabled, the on/off sighting through the front sight/aimer will be fixed at the selected position. To return to the previous state it will be necessary to press the aim key again.</eng>
 		<ukr>При включенні даної опції включення/відключення прицілювання через мушку/приціл буде відбуватися з фіксацією обраної позиції. Для повернення до попереднього стану необхідно буде повторно натиснути клавішу наближення.</ukr>
 	</string>
 	<string id="gp_fixed_reload_hint">
 		<rus>При включении данной опции оружие не будет перезаряжаться доступным другим видом боеприпаса, при окончании используемого в данный момент вида боеприпаса. Для перезарядки на другой вид боеприпасов необходимо будет сделать это вручную, сменив вид боеприпаса клавишей и нажав клавишу перезарядки.</rus>
+		<eng>When this option is enabled, the weapon will not reload with a different type of ammunition available when the ammunition type currently in use expires. To reload with a different type of ammunition, you will need to do so manually by changing the ammunition type with the key and pressing the reload key.</eng>
 		<ukr>При включенні даної опції зброя не буде заряджатися доступним іншим видом боєприпасу, при закінченні використовуваного в даний момент виду боєприпасів. Для перезарядки на інший вид боєприпасів необхідно буде зробити це вручну, змінивши вид боєприпасу клавішею і натиснувши клавішу перезарядки.</ukr>
 	</string>
 	<string id="gp_open_scope_hint">
 		<rus>При включении данной опции в игре будут использоваться "открытые прицелы", когда окружение оптического прицела не будет скрываться чёрным фоном.</rus>
+		<eng>When this option is enabled, the game will use "open sights" when the surroundings of the scope are not hidden by a black background.</eng>
 		<ukr>При включенні даної опції в грі будуть використовуватися "відкриті приціли", коли оточення оптичного прицілу не буде приховане чорним фоном.</ukr>
 	</string>
 	<string id="ui_mm_god_invul_hint">
 		<rus>При включении данной опции главный герой на некоторое время становится неуязвимым. В правой части экрана отображается надпись "Бессмертие", которая меняет цвет с зелёного до красного в зависимости от окончания времени действия данной опции.</rus>
+		<eng>When this option is enabled, the main character becomes invulnerable for a while. On the right side of the screen you will see "Immortality" inscription, which changes color from green to red depending on the expiration of this option.</eng>
 		<ukr>При включенні даної опції головний герой на деякий час стає невразливим. У правій частині екрана відображається напис "Безсмертя", який змінює колір з зеленого до червоного в залежності від закінчення часу дії даної опції.</ukr>
 	</string>
 	<string id="ui_mm_god_jump_hint">
 		<rus>При включении данной опции, при использовании назначенной клавиши, игрок может использовать "Суперпрыжок", позволяющий запрыгивать на любую высоту. Суперпрыжок работает только вверх с некоторой коррекцией, позволяющей цепляться за парапеты, ветки деревьев и т.п. уступы.</rus>
+		<eng>When this option is enabled, using the assigned key, the player can use the "Super Jump" which allows jumping to any height. The Super Jump only works upwards with some correction, allowing you to climb onto railings, tree branches, ledges, etc.</eng>
 		<ukr>При включенні даної опції, при використанні призначеної клавіші, гравець може використовувати "Суперстрибок", який дозволяє застрибувати на будь-яку висоту. Суперстрибок працює тільки вгору з деякою корекцією, що дозволяє чіплятися за парапети, гілки дерев і т.п. виступи.</ukr>
 	</string>
 	<string id="ui_mm_god_coll_hint">
 		<rus>При включении данной опции на тайнике Коллекционера будет установлена стандартная зелёная метка тайника.</rus>
+		<eng>When this option is enabled, the Collector's stash will have the standard green stash marker on it.</eng>
 		<ukr>При включенні даної опції на схованці Колекціонера буде встановлена стандартна зелена мітка схованки.</ukr>
 	</string>
 	<string id="ui_mm_god_docs_hint">
 		<rus>При включении данной опции на документы по заданию Воронина устанавливаются метки, облегчающие их нахождение.</rus>
+		<eng>When this option is enabled, tags are placed on Voronin's requested documents, making them easier to find.</eng>
 		<ukr>При включенні даної опції на документи за завданням Вороніна встановлюватимуться мітки, які полегшують їхнє знаходження.</ukr>
 	</string>
 	<string id="ui_mm_god_tele_hint">
 		<rus>При включении данной опции игрок сможет телепортироваться ручным телепортом вне зависимости от загруженности рюкзака главного героя.</rus>
+		<eng>With this option enabled, the player will be able to teleport with a manual teleporter, regardless of the main character's backpack weight.</eng>
 		<ukr>При включенні даної опції гравець зможе переміщуватися ручним телепортом незалежно від завантаженості рюкзака головного героя.</ukr>
 	</string>
 	<string id="ui_amk_opt_rad_hud_hint">
 		<rus>При включении данной опции на экране будет отображаться маска, соответствующая одетому бронежилету.</rus>
+		<eng>When this option is enabled, the screen will display a mask corresponding to the vest you are wearing.</eng>
 		<ukr>При включенні даної опції на екрані буде відображатися маска, відповідна одягненому бронежилету.</ukr>
-	</string>	
+	</string>
 	<string id="amk_option_mus_hint">
 		<rus>При включении данной опции игра будет пытаться включать во время определённых игровых событий музыку, используя мод АМК-music.</rus>
+		<eng>When this option is enabled, the game will try to include music during certain game events, using the AMK-music mod.</eng>
 		<ukr>При включенні даної опції гра буде робити спроби включати під час певних ігрових подій музику, використовуючи мод АМК-music.</ukr>
 	</string>
 	<string id="respawn_type_hint">
 		<rus>Данная опция позволяет выбрать желаемую частоту появления мутантов и НПС в местах их обитания после их зачистки.\nПолный переход с более частого на более редкий респаун происходит через несколько игровых дней.</rus>
+		<eng>This option allows you to select the desired frequency of mutants and NPCs in their habitats after they are cleared.\nComplete transition from more frequent to less frequent respawns occurs after a few game days.</eng>
 		<ukr>Дана опція дозволяє вибрати бажану частоту появи мутантів і НПС в місцях їхнього проживання після їхньої зачистки.\nПовний перехід з більш частого на більш рідкісний респаун відбувається через кілька ігрових днів.</ukr>
 	</string>
 	<string id="pause_on_load_hint">
 		<rus>При включении данной опции после загрузки выбранного сейва игра встанет на паузу.</rus>
+		<eng>If this option is enabled, the game will pause after the selected save is loaded.</eng>
 		<ukr>При включенні даної опції, після завантаження обраного сейва, гра стане на паузу.</ukr>
 	</string>
 	<string id="pause_on_load_call_sound_hint">
 		<rus>При включении данной опции и опции паузы после загрузки, голос Сидоровича будет напоминать, что пора приступить к игре.</rus>
+		<eng>If you enable this option and the pause option after loading, Sidorovich's voice will remind you that it's time to start playing.</eng>
 		<ukr>При включенні даної опції і опції паузи після завантаження, голос Сидоровича буде нагадувати, що пора приступити до гри.</ukr>
 	</string>
 	<string id="ls_show_progress_hint">
 		<rus>При включении данной опции на загрузочном экране будет отображаться шкала прогресса загрузки игры.</rus>
+		<eng>When this option is enabled, the loading progress bar will be displayed on the loading screen.</eng>
 		<ukr>При включенні даної опції на завантажувальному екрані буде відображатися шкала прогресу завантаження гри.</ukr>
 	</string>
 	<string id="ui_nothing_useful">
 		<rus>Нечем поживиться</rus>
-		<ukr>===Ничего полезного</ukr>
 		<eng>Nothing useful</eng>
+		<ukr>===Ничего полезного</ukr>
 		<fra>===Ничего полезного</fra>
 		<pln>===Ничего полезного</pln>
 	</string>
 	<string id="ui_change_open_tool">
 		<rus>Внешний вид</rus>
+		<eng>Appearance</eng>
 		<ukr>Зовнішній вигляд</ukr>
 	</string>
 	<string id="ui_change_msg_open_tool">
 		<rus>Изменение внешнего вида хранилища нельзя будет вернуть к текстовому виду! При ручном изменении обратно возможна потеря данных! Продолжить?</rus>
+		<eng>After changing the appearance of the stash's inventory, it will not be possible to get back to the text view! If you change it back manually, you may lose your data! Continue?</eng>
 		<ukr>Зміну зовнішнього вигляду сховища не можна буде повернути на текстове відображення! При ручній зміні можлива втрата даних! Продовжити? </ukr>
-	</string>	
+	</string>
 	<string id="ui_mm_dialog_alpha">
 		<rus>Прозрачность диалогов</rus>
+		<eng>Dialogue transparency</eng>
 		<ukr>Прозорість діалогів</ukr>
 	</string>
 	<string id="ui_safe_ammo_in_mag">
 		<rus>патронов в магазине</rus>
+		<eng>cartridges in the magazine</eng>
 		<ukr>патронів в магазині</ukr>
 	</string>
 	<string id="ui_show_relation_in_ui">
 		<rus>Отображать отношение в числовом виде в некоторых UI элементах</rus>
+		<eng>Display the ratio numerically in some UI elements</eng>
 	</string>
 	<string id="ui_show_relation_in_ui_hint">
 		<rus>При активации данного пункта в окнах диалога, торговли и обыска будет отображаться репутация НПС и его группы.\n %c[red]При использовании увеличенного шрифта отображение данной информации может быть с накладками.%c[default]</rus>
+		<eng>When this option is activated, the dialog, trade and search windows will display the reputation of the NPC and its group.\n %c[red]If you use a larger font, the display of this information may be overlaid.%c[default]</eng>
 	</string>
-	<string id="ui_fly_show_info_delay">
+		<string id="ui_fly_show_info_delay">
 		<rus>Задержка перед появлением информации о предмете</rus>
+		<eng>Delay before item information appears</eng>
 	</string>
 	<string id="ui_main_mm_music_volume">
 		<rus>Громкость музыки в главном меню</rus>
-	</string>	
+		<eng>Music volume in the main menu</eng>
+	</string>
 </string_table>

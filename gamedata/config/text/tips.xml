@@ -23,7 +23,7 @@
 	</string>
 	<string id="tips_rad_switcher_press">
 		<rus>Отключить установку</rus>
-		<eng>===Shut down the facility</eng>
+		<eng>Disable the installation</eng>
 		<ukr>Відключити установку</ukr>
 		<fra>Désactiver l'installation</fra>
 		<pln>Wyłączyć instalację</pln>
@@ -51,21 +51,21 @@
 	</string>
         <string id="tips_krot_soldiers_1">
 		<rus>Тебе кранты! Вылезай, гад!!</rus>
-		<eng>===Тебе кранты! Вылезай, гад!!</eng>
+		<eng>You're fucked! Get out, you bastard!</eng>
 		<ukr>Тобі кранти! Вилазь, гад!!</ukr>
 		<fra>===Тебе кранты! Вылезай, гад!!</fra>
 		<pln>===Тебе кранты! Вылезай, гад!!</pln>
 	</string>
         <string id="tips_krot_soldiers_2">
 		<rus>Огонь по его позиции, не дать ему уйти!!</rus>
-		<eng>===Огонь по его позиции, не дать ему уйти!!</eng>
+		<eng>Fire on his position, don't let him get away!!!</eng>
 		<ukr>Вогонь по його позиції, не дати йому піти!!</ukr>
 		<fra>===Огонь по его позиции, не дать ему уйти!!</fra>
 		<pln>===Огонь по его позиции, не дать ему уйти!!</pln>
 	</string>
         <string id="tips_krot_soldiers_3">
 		<rus>Вылазь, тварь! Тебе не долго осталось, сейчас спецназ тут будет!</rus>
-		<eng>===Вылазь, тварь! Тебе не долго осталось, сейчас спецназ тут будет!</eng>
+		<eng>Get out, you bitch! It won't be long before the special forces get here!</eng>
 		<ukr>Вилазь, тварюка! Тобі не довго залишилося, зараз спецназ тут буде!</ukr>
 		<fra>===Вылазь, тварь! Тебе не долго осталось, сейчас спецназ тут будет!</fra>
 		<pln>===Вылазь, тварь! Тебе не долго осталось, сейчас спецназ тут будет!</pln>
@@ -398,7 +398,7 @@
 	</string>
 	<string id="info_esc_give_agroprom_task">
 		<rus>Меченый! Военные раскопали кое-что в НИИ Агропром. А в этом заинтересован я, да и ты, наверное, тоже. Нужно достать информацию и отнести Бармену в бар сталкеров. Действуй.</rus>
-		<eng>Marked One! The militaries dug something in "Agroprom" research institute, something that I am interested in. And you too, probably. You need to get the information and deliver it to Barkeep in the stalkers bar. Go for it.</eng>
+		<eng>Marked One! The militaries dug something in Agroprom Research Institute, something that I am interested in. And you too, probably. You need to get the information and deliver it to Barkeep in the stalkers bar. Go for it.</eng>
 		<ukr>Мічений! Військові розкопали щось в НДІ «Агропром». Я зацікавлений у цій інформації - та й ти, напевно, теж. Потрібно дістати її та віднести Барменові. Дій.</ukr>
 		<fra>Le Marqué! Les militaires ont déterré quelque chose à l'institut de recherche "Agroprom". Cela m'intéresse, et toi aussi, probablement. Tu doit obtenir l'information et l'apporter au Barman au bar des stalkers. Passe à l'action.</fra>
 		<pln>Naznaczony! Wojskowi znaleźli ciekawe rzeczy w Instytucie Badawczym Agroprom. Chciałbym je dostać w swoje ręce - ty zresztą pewnie też. Zdobądź informacje i dostarcz je Barmanowi do stalkerskiego baru. Ruszaj!</pln>
@@ -958,7 +958,7 @@
 	</string>
 	<string id="to_agroprom_underground">
 		<rus>В Подземелье Агропрома</rus>
-		<eng>To the Agroprom undergrounds</eng>
+		<eng>To Agroprom Undergrounds</eng>
 		<ukr>У Підземелля Агропрома</ukr>
 		<fra>Dans le souterrain de l'Agroprom</fra>
 		<pln>Do Podziemi Agropromu</pln>
@@ -1273,7 +1273,7 @@
 	</string>
 	<string id="to_damned">
 		<rus>В Подземелье Припяти</rus>
-		<eng>===В Подземелье Припяти</eng>
+		<eng>To the Pripyat Underground</eng>
 		<ukr>У Підземелля Прип'яті</ukr>
 		<fra>===В Подземелье Припяти</fra>
 		<pln>===В Подземелье Припяти</pln>
@@ -1581,44 +1581,44 @@
 	</string>
 	<string id="gps_ballon_used">
 		<rus>Радиомаячок прикреплён</rus>
-		<eng>===The radio beacon has been placed</eng>
+		<eng>Radio beacon has been placed</eng>
 		<ukr>===Радіомаяк встановлений</ukr>
 		<fra>===La balise radio est installée</fra>
 		<pln>===Заменить хорошую водку на палёную</pln>
 	</string>
 	<string id="plastid_use">
 		<rus>Установить взрывчатку</rus>
-		<eng>===Install a radio beacon</eng>
+		<eng>Set the explosives</eng>
 		<ukr>Встановити вибухівку</ukr>
 	</string>
 	<string id="plastid_used">
 		<rus>Взрывчатка установлена</rus>
-		<eng>===The radio beacon has been placed</eng>
+		<eng>Explosives set</eng>
 		<ukr>Вибухівка встановлена</ukr>
 	</string>
 	<string id="sherstuk_bomba_use">
 		<rus>Начать маскировку бомбы</rus>
-		<eng>===The radio beacon has been placed</eng>
+		<eng>Start concealing the bomb</eng>
 		<ukr>Почати маскування бомби</ukr>
 	</string>
 	<string id="st_sherstuk_bomba">
 		<rus>До окончания маскировки</rus>
-		<eng>===The radio beacon has been placed</eng>
+		<eng>Until the end of the concealment</eng>
 		<ukr>До закінчення маскування</ukr>
 	</string>
 	<string id="dolg_btr_found">
 		<rus>Осмотреть БТР и оценить его техническое состояние</rus>
-		<eng>===The radio beacon has been placed</eng>
+		<eng>Inspect the BTR and assess its technical condition</eng>
 		<ukr>Оглянути БТР і оцінити його технічний стан</ukr>
 	</string>
 	<string id="dolg_btr_fault">
 		<rus>БТР повреждён, топлива нет, двигатель не заводится</rus>
-		<eng>===The radio beacon has been placed</eng>
+		<eng>BTR damaged, no fuel, engine won't start</eng>
 		<ukr>БТР пошкоджений, палива немає, двигун не заводиться</ukr>
 	</string>
 	<string id="dolg_btr_kanistra">
 		<rus>Залить топливо из канистры в бак</rus>
-		<eng>===The radio beacon has been placed</eng>
+		<eng>Pour fuel from the canister into the tank</eng>
 		<ukr>Залити паливо з каністри в бак</ukr>
 	</string>
 	<string id="st_time_mina_bum">
@@ -1630,57 +1630,57 @@
 	</string>
 	<string id="fanat_teleport_flash_use">
 		<rus>Вытащить флешку и проверить наличие сейсмокарт в своём КПК</rus>
-		<eng>===Pull out the flash drive and download data to the PDA</eng>
+		<eng>Pull out the flash drive and check the presence of seismic maps in your PDA</eng>
 		<ukr>===Витягнути флешку і скачати дані на КПК</ukr>
 	</string>
 	<string id="sword_in_stone_use">
 		<rus>Попытаться вытащить меч из камня</rus>
-		<eng>===Pull out the flash drive and download data to the PDA</eng>
+		<eng>Try to pull the sword out of the stone</eng>
 		<ukr>===Витягнути флешку і скачати дані на КПК</ukr>
 	</string>
 	<string id="nightscope_use">
 		<rus>Снять насадку ночного видения</rus>
-		<eng>===Pull out the flash drive and download data to the PDA</eng>
+		<eng>Remove the night vision cap</eng>
 		<ukr>===Витягнути флешку і скачати дані на КПК</ukr>
 	</string>
 	<string id="nightscope_rifle_use">
 		<rus>Осмотреть винтовку</rus>
-		<eng>===Pull out the flash drive and download data to the PDA</eng>
+		<eng>Inspect the rifle</eng>
 		<ukr>===Витягнути флешку і скачати дані на КПК</ukr>
 	</string>
 	<string id="zaz_use">
 		<rus>Осмотреть Запорожец</rus>
-		<eng>===Осмотреть Запорожец</eng>
+		<eng>Inspect the Zaporozhets</eng>
 		<ukr>===Осмотреть Запорожец</ukr>
 	</string>
 	<string id="zaz_used">
 		<rus>Попытаться открыть дверь</rus>
-		<eng>===Попытаться открыть дверь</eng>
+		<eng>Try to open the door</eng>
 		<ukr>===Попытаться открыть дверь</ukr>
 	</string>
 	<string id="zaz_found">
 		<rus>Машина заперта, необходимы ключи</rus>
-		<eng>===Машина заперта, необходимы ключи</eng>
+		<eng>Car is locked, keys needed</eng>
 		<ukr>===Машина заперта, необходимы ключи</ukr>
 	</string>
 	<string id="zaz_open">
 		<rus>Отпереть дверь машины, выкрутить крышку горловины бензобака</rus>
-		<eng>===Отпереть дверь машины, выкрутить крышку горловины бензобака</eng>
+		<eng>Unlock the car door, unscrew the gas tank cap</eng>
 		<ukr>===Отпереть дверь машины, выкрутить крышку горловины бензобака</ukr>
 	</string>
 	<string id="zaz_is_night">
 		<rus>Убедиться в наступлении темноты</rus>
-		<eng>===Убедиться в наступлении темноты</eng>
+		<eng>Make sure it's dark</eng>
 		<ukr>===Убедиться в наступлении темноты</ukr>
 	</string>
 	<string id="jila_plastid_use">
 		<rus>Вынуть капсюль-детонатор из пластида</rus>
-		<eng>===Вынуть капсюль-детонатор из пластида</eng>
+		<eng>Remove the detonator capsule from the plastic explosive</eng>
 		<ukr>===Вынуть капсюль-детонатор из пластида</ukr>
 	</string>
 	<string id="jila_plastid_used">
 		<rus>Забрать пластид</rus>
-		<eng>===Забрать пластид</eng>
+		<eng>Pick up the plastic explosive</eng>
 		<ukr>===Забрать пластид</ukr>
 	</string>
 </string_table>
