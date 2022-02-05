@@ -670,6 +670,13 @@
 		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
+	<string id="sms_box_arny">
+		<rus>Мишеней поражено: %%c[sms_red]%d%%c[default] из %d</rus>
+		<eng>Targets hit: %%c[sms_red]%d%%c[default] of %d</eng>
+		<ukr>===Ви поцілили у пляшку: %%c[sms_red]%d%%c[default] із %d</ukr>
+		<fra>===Vous avez frappé une bouteille: %%c[sms_red]%d%%c[default] de %d</fra>
+		<pln>===Вы попали в бутылку: %%c[sms_red]%d%%c[default] из %d</pln>
+	</string>
 	<string id="sms_trade_barman_enough">
 		<rus>Совершено обменов с Барменом, %%c[sms_red]%d%%c[default] из %d</rus>
 		<eng>Trades made with Barkeep, %%c[sms_red]%d%%c[default] of %d</eng>
