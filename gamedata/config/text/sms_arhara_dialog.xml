@@ -224,7 +224,7 @@
 	</string>
 	<string id="sms_kostylnuga_dolbannn_sms_0">
 		<rus>Товарищ майор! Выдвигаюсь от майора Кузнецова на блокпост. Диск при мне. Встречайте.</rus>
-		<eng>===Comrade major, I'm moving towards the checkpoint. I have the disk, major Kuznetsov. Meet me.</eng>
+		<eng>Comrade major, I'm moving from major Kuznetsov towards the checkpoint. I have the disk. Meet me.</eng>
 		<ukr>Товаришу майор! Висуваюся від майора Кузнєцова на блокпост. Диск при мені. Зустрічайте.</ukr>
 		<pln>Towarzyszu majorze! Wyruszam od majora Kuźniecowa na posterunek. Dysk mam ze sobą. Czekajcie.</pln>
 	</string>
@@ -1388,7 +1388,7 @@
 	</string>
 	<string id="sms_k_prizraku1_0_0">
 		<rus>Призрак, привет. Я на Агропром. Тропка открывается где-то у высоковольтки.</rus>
-		<eng>Ghost, hi. I'm heading at the Agroprom. The trail opens somewhere at the high voltage tower.</eng>
+		<eng>Ghost, hi. I'm at the Agroprom. The trail opens somewhere at the high voltage tower.</eng>
 		<ukr>Привид, привіт. Я на Агропром. Стежинка відкривається десь у високовольтки.</ukr>
 		<pln>===Duch, cześć. Jestem na Agropromie. Ścieżka otwiera się gdzieś przy słupie wysokiego napięcia.</pln>
 	</string>
@@ -1472,13 +1472,13 @@
 	</string>
 	<string id="sms_zashita_td_preduprezhdenie1_sms1_0">
 		<rus>Система защиты лаборатории активирована и просит вас оставить артефакты до входа в лабораторию. Активирована защита от негативного воздействия артефактов.</rus>
-		<eng>===The laboratory security system is activated and asks you to leave behind the artefacts for the 1st, 2nd and 3rd stage of development as well as the absolutes before entering the laboratory. Protection against the adverse effects of these artefacts is activated.</eng>
+		<eng>The laboratory security system is activated and asks you to leave behind the artefacts before entering the laboratory. Protection against the adverse effects of these artefacts is activated.</eng>
 		<ukr>===Система захисту лабораторії активована і просить вас залишити артефакти 1, 2, 3 ступеня розвитку, а також абсолюти до входу у лабораторію. Активовано захист від негативного впливу даних артефактів.</ukr>
 		<pln>===System ochrony laboratorium jest aktywny i prosi o pozostawienie artefaktów 1, 2, 3 stopnia rozwoju a także absolutów, przed wejściem do laboratorium. Ochrona przed negatywnym wpływem danych artefaktów jest włączona.</pln>
 	</string>
 	<string id="sms_zashita_td_preduprezhdenie2_sms2_0">
 		<rus>Система защиты лаборатории повторно предупреждает: оставьте до входа в лабораторию артефакты. В противном случае артефакты будут дезактивированы.</rus>
-		<eng>===The laboratory protection system's second warning: leave behind the highest artefacts of the 1st, 2nd and 3rd stage and absolutes before entering the laboratory. Otherwise, these artefacts will be neutralised.</eng>
+		<eng>The laboratory protection system's second warning: leave behind artefacts before entering the laboratory. Otherwise, these artefacts will be neutralised.</eng>
 		<ukr>===Система захисту лабораторії повторно попереджає: залиште до входу у лабораторію вищі артефакти 1, 2 і 3 ступеня, а також абсолюти. В іншому випадку дані артефакти будуть дезактивовані.</ukr>
 		<pln>===System ochrony laboratorium powtórnie uprzedza: proszę zostawić przed wejściem do laboratorium wyższe artefakty 1, 2 i 3 stopnia, a także absoluty. W przeciwnym wypadku dane artefakty zostaną dezaktywowane.</pln>
 	</string>
@@ -2348,13 +2348,13 @@
 	</string>
 	<string id="sms_obmorok_sms_zlobnomu_rasstrel1_0">
 		<rus>Злобный, здорово. Мои люди только что видели, как какой-то нейтрал ушёл через неизвестный переход в сторону АТП.</rus>
-		<eng>Vicious, hello. My people have just spotted some Neutral go through an unknown passage towards the MTP.</eng>
+		<eng>Vicious, hello. My people have just spotted some Neutral go through an unknown passage towards the ATP.</eng>
 		<ukr>Злісний, привіт. Мої люди тільки що бачили, як якийсь нейтрал пішов через невідомий перехід в сторону АТП.</ukr>
 		<pln>Złośliwy, czółko... Moi ludzie dopiero co widzieli, jak jakiś neutrał odszedł przez nieznane przejście w kierunku ATP.</pln>
 	</string>
 	<string id="sms_zlobny_sms_zlobnomu_rasstrel2_0">
 		<rus>В сторону АТП говоришь... Вот мля... Откуда он знал переход и какого хрена твои люди его не пристрелили?</rus>
-		<eng>Towards the MTP... Oh, shit... How did he know about the transition and why the fuck didn't your people shoot him?</eng>
+		<eng>Towards the ATP... Oh, shit... How did he know about the transition and why the fuck didn't your people shoot him?</eng>
 		<ukr>У бік АТП кажеш... От блін... Звідки він знав про перехід і якого хріна твої люди його не пристрелили?</ukr>
 		<pln>W stronę ATP mówisz... Więc to tak... Skąd on znał przejście i dlaczego do jasnej cholery twoi ludzie go nie załatwili?</pln>
 	</string>
@@ -2372,7 +2372,7 @@
 	</string>
 	<string id="sms_zlobny_sms_zlobnomu_rasstrel4_1_0">
 		<rus>Сейчас пойдёт группа в строну АТП, смотрите стрельбу не устройте. Открываю переход.</rus>
-		<eng>I'll send a group towards the MTP now, don't shoot them. I'll open the passage.</eng>
+		<eng>I'll send a group towards the ATP now, don't shoot them. I'll open the passage.</eng>
 		<ukr>Зараз піде група в строну АТП, дивіться стрілянини не влаштуйте. Відкриваю перехід.</ukr>
 		<pln>Zaraz pójdzie grupa w stronę ATP, tylko strzelaniny tam nie zróbcie. Otwieram przejście.</pln>
 	</string>
@@ -2384,19 +2384,19 @@
 	</string>
 	<string id="sms_zashita_sms_zlobnomu_rasstrel6_0">
 		<rus>Активирован портал на АТП. Время работы 2 минуты.</rus>
-		<eng>The transition to the MTP is activated. It will be on line for 2 minutes only.</eng>
+		<eng>The transition to the ATP is activated. It will be on line for 2 minutes only.</eng>
 		<ukr>Активовано портал на АТП. Час роботи 2 хвилини.</ukr>
 		<pln>Aktywacja portalu na ATP. Czas działania - 2 minuty.</pln>
 	</string>
 	<string id="sms_zashita_sms_zlobnomu_rasstrel7_0">
 		<rus>Телепорт на территорию АТП после выхода группы деактивирован.</rus>
-		<eng>The teleport to the MTP area has been deactivated after the group's departure.</eng>
+		<eng>The teleport to the ATP area has been deactivated after the group's departure.</eng>
 		<ukr>Телепорт на територію АТП після виходу групи деактивовано.</ukr>
 		<pln>Teleport na terytorium ATP dezaktywowany po wyjściu grupy.</pln>
 	</string>
 	<string id="sms_agro_tainik_norman_sms_0">
 		<rus>Эй, Стрелок, ты там живой? Держи координаты телепорта в тайник. Он где-то на Агропроме... С помощью прибора, который я тебе дал, и этих координат найдёшь телепорт. А далее - в тайнике найдёшь то, что тебе нужно.</rus>
-		<eng>Hey, Strelok, are you alive in there? Here's the coordinates of the teleport to get to the stash. It's somewhere at the Agroprom...  You'll find the teleport with the aid of the device that I gave you and these coordinates. And then you'll find what you need in the stash.</eng>
+		<eng>Hey, Strelok, are you alive in there? Here's the coordinates of the teleport to get to the stash. It's somewhere in the Agroprom...  You'll find the teleport with the aid of the device that I gave you and these coordinates. And then you'll find what you need in the stash.</eng>
 		<ukr>Ей, Cтрілець, ти там живий? Тримай координати телепорту в схованку. Він десь на Агропромі... За допомогою приладу, який я тобі дав, і цих координат знайдеш телепорт. А далі - у схованці знайдеш те, що потрібно.</ukr>
 		<pln>Ej, Striełok, żyjesz tam??? Bierz koordynaty teleportu do schowka. Jest gdzieś tam na Agropromie... Z pomocą przyrządu, który ci dałem i tych koordynatów, znajdziesz teleport. A potem, w schowku, znajdziesz to co ci potrzeba.</pln>
 	</string>
@@ -2907,7 +2907,7 @@
 	</string>
 	<string id="sms_lechite_bandito">
 		<rus>Прикиньте, мужики, неделю назад подлечил братка в Тёмной Долине, так теперь тамошняя братва ко мне со всем уважением. С Жилой выгодный бартер наладил, да и с самим Боровым, вроде, делюга намечается. Вывод: даже если и бандит лежит и стонет, проявите сострадание, дайте аптечку, не обеднеете.</rus>
-		<eng>===Think about it, guys, a week ago I patched up one of the brothers in the Dark Valley, so now the local lads treat me with respect. Even though things are strained with Hog himself. Conclusion: even if a bandit is down and groaning in pain, show him some compassion, give him a first-aid kit, you will richer for it.</eng>
+		<eng>Think about it, guys, a week ago I patched up one of the brothers in the Dark Valley, so now the local lads treat me with respect. I even bartered profitably with Old-Timer, and maybe even deal with Hog himself. Conclusion: even if a bandit is down and groaning in pain, show him some compassion, give him a first-aid kit, you will richer for it.</eng>
 		<ukr>Прикиньте, мужики, тиждень тому підлікував братка в Темній Долині, так тепер тамтешня братва до мене з усією повагою. З Жилою вигідний бартер налагодив, та й з самим Кабаном, начебто, дільце намічається. Висновок: навіть якщо і бандит лежить і стогне, проявіть співчуття, дайте аптечку, не збіднієте.</ukr>
 		<pln>===Прикиньте, мужики, неделю назад подлечил братка в Тёмной долине, так теперь тамошняя братва ко мне со всем уважением. С самим Боровым дела мутим. Вывод: даже если и бандит лежит и стонет, проявите сострадание, дайте аптечку, не обеднеете.</pln>
 	</string>
@@ -2925,7 +2925,7 @@
 	</string>
 	<string id="sms_zashita_streyndzher_zablokirovan_sms">
 		<rus>Обнаружен незарегистрированный датчик распознования. Заблокирован.</rus>
-		<eng>===Обнаружен незарегистрированный датчик распознования. Заблокирован.</eng>
+		<eng>An unregistered identification sensor has been detected.</eng>
 		<ukr>===Обнаружен незарегистрированный датчик распознования. Заблокирован.</ukr>
 		<pln>===Обнаружен незарегистрированный датчик распознования. Заблокирован.</pln>
 	</string>
