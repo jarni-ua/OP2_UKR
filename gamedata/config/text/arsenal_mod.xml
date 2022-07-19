@@ -60,7 +60,7 @@
 	</string>
 	<string id="ars-gauss2a">
 		<rus>Гаусс Изверга модифицированный</rus>
-		<eng>===Crudface's Gaussgun модифицированный</eng>
+		<eng>Crudface's modified Gaussgun</eng>
 		<ukr>Гаусс Нелюда модифікований</ukr>
 		<pln>===Gauss Potwora модифицированный</pln>
 	</string>
@@ -116,13 +116,13 @@
 	</string>
 	<string id="ars-sayga12k">
 		<rus>Сайга-12К Кардана</rus>
-		<eng>Kardan's Sayga-12K</eng>
+		<eng>Cardan's Saiga-12K</eng>
 		<ukr>Сайга-12К Кардана</ukr>
 		<pln>Saiga-12K Kardana</pln>
 	</string>
 	<string id="ars-sayga12_sk1">
 		<rus>Сайга-12К «Снайперская»</rus>
-		<eng>Sayga-12K «Sniper»</eng>
+		<eng>Saiga-12K «Sniper»</eng>
 		<ukr>Сайга-12К «Снайперська»</ukr>
 		<pln>Saiga-12K "Snajperska"</pln>
 	</string>
@@ -915,7 +915,7 @@
 	</string>
 	<string id="wpn-pb_m1">
 		<rus>Именной ПБ Осведомителя</rus>
-		<eng>===Informer's PB</eng>
+		<eng>Informant's personal PB</eng>
 		<ukr>Іменний ПБ Інформатора</ukr>
 		<pln>===Osobisty PB Informatora</pln>
 	</string>
@@ -1291,7 +1291,7 @@
 	</string>
 	<string id="binocular_m2">
 		<rus>Бинокль БПОс «Апгрейд»</rus>
-		<eng>===BPOs Binocular «Апгрейд»</eng>
+		<eng>BPOs Binocular "Upgrade"</eng>
 		<ukr>Бінокль БПОс «Апгрейд»</ukr>
 		<pln>===Lornetka BPOs «Апгрейд»</pln>
 	</string>
@@ -1557,19 +1557,19 @@
 	</string>
 	<string id="ars-m1895">
 		<rus>Револьвер Наган</rus>
-		<eng>===Револьвер Наган</eng>
+		<eng>Nagant Revolver</eng>
 		<ukr>Револьвер Наган</ukr>
 		<pln>===Револьвер Наган</pln>
 	</string>
 	<string id="ars-m1895_of">
 		<rus>Револьвер Наган «офицерский»</rus>
-		<eng>===Револьвер Наган «офицерский»</eng>
+		<eng>Officer's Nagant Revolver</eng>
 		<ukr>Револьвер Наган «офіцерський»</ukr>
 		<pln>===Револьвер Наган «офицерский»</pln>
 	</string>
 	<string id="ars-rpd44">
 		<rus>РПД-44</rus>
-		<eng>===РПД-44</eng>
+		<eng>RPD-44</eng>
 		<ukr>РПД-44</ukr>
 		<pln>===РПД-44</pln>
 	</string>
@@ -1605,8 +1605,14 @@
 	</string>
 	<string id="ars-toz106">
 		<rus>ТОЗ-106</rus>
-		<eng>===ТОЗ-106</eng>
+		<eng>TOZ-106</eng>
 		<ukr>ТОЗ-106</ukr>
+		<pln>===ТОЗ-106</pln>
+	</string>
+	<string id="ars-toz106_short">
+		<rus>ТОЗ-106 «Коротыш»</rus>
+		<eng>TOZ-106 «Short»</eng>
+		<ukr>===ТОЗ-106</ukr>
 		<pln>===ТОЗ-106</pln>
 	</string>
 	<string id="ars-m37">
@@ -1617,7 +1623,7 @@
 	</string>
 	<string id="ars-rpk16">
 		<rus>РПК-16</rus>
-		<eng>===РПК-16</eng>
+		<eng>RPK-16</eng>
 		<ukr>РПК-16</ukr>
 		<pln>===РПК-16</pln>
 	</string>
@@ -1709,7 +1715,7 @@
 	</string>
 	<string id="enc_arsenal_ak47_sh">
 		<rus>Модификация Автомата Калашникова - АКС «Штурмовик» под калибр 7.62х39мм. Интегрированный коллиматор «ОКП-7», ёмкий рожок от РПК на 40 патронов, повышенная скорострельность и возможность установки ПГ, все эти качества делают автомат прекрасным оружием для боя на близких и средних дистанциях. Изначально, такими автоматами вооружались штурмовые сквады Долга, но затем стали встречаться и у некоторых сталкеров-одиночек.</rus>
-		<eng>===Modification of the Kalashnikov assault rifle - AK "Stormtrooper" for the caliber of 7.62x39mm. The integrated collimator "Cobra" sight, the capacious 40-round magazine from the RPK, increased rate of fire and the possibility of installing barrel-attached grenade launcher, all these qualities make this devicde an excellent weapon for close combat fight and firing at medium distances. Initially, such assault rifles were armed with the assault squads of the Duty, but then they began to be used by some loner stalkers.</eng>
+		<eng>Modification of the Kalashnikov assault rifle - AK "Stormtrooper" chambered for 7.62x39mm caliber. The integrated "OKP" collimator sight, the large-capacity 40-round magazine from the RPK, increased rate of fire and the possibility of installing an underbarrel grenade launcher, make this device an excellent weapon for close quarters combat as well as medium-range engagements. Initially, these assault rifles were used by Duty assault squads, but later they made their way into the hands of some lone stalkers.</eng>
 		<ukr>Модифікація Автомату Калашникова - АКС «Штурмовик» під калібр 7.62х39мм. Інтегрований коліматор «ОКП-7», великий ріжок від РПК на 40 патронів, підвищена скорострільність і можливість установки ПГ, всі ці якості роблять автомат прекрасною зброєю для бою на близьких і середніх дистанціях. Спочатку, такими автоматами озброювалися штурмові сквади Долгу, але потім стали зустрічатися і у деяких сталкерів-одинаків.</ukr>
 		<pln>===Modyfikacja Automatu Kałasznikowa - AK "Szturmowy" pod kaliber 7.62x39 mm. Zintegrowany kolimator "Kobra", pojemny magazynek z RPK na 40 naboi, podwyższona szybkostrzelność i możliwość montażu PG, wszystkie te cechy czynią automat doskonałą bronią do walki na bliskich i średnich dystansach. Początkowo w takie automaty były uzbrojone grupy szturmowe Powinności, ale coraz częściej spotyka się je wśród stalkerów samotników.</pln>
 	</string>
@@ -1775,13 +1781,13 @@
 	</string>
 	<string id="enc_arsenal_gauss2b">
 		<rus>Именная Гаусс-винтовка Изверга, изготовленная по спецзаказу у мастеров-оружейников из клана Последний День. Введён автоматический режим стрельбы, а также установлена оптика с повышенной кратностью. Второй такой винтовки в Зоне не найти.</rus>
-		<eng>Personal Crudface's Gauss rifle, made by special order from the craftsmen from the clan "Last Day". An automatic fire mode was enabled, and optic sight with increased multiplicity were installed. The second such rifle in the Zone can not be found.</eng>
+		<eng>Crudface's personal Gauss rifle, custom-made by craftsmen from "Last Day". It is equipped with an automatic firing mode, as well as optics with increased magnification. No other rifle like this can be found in the Zone.</eng>
 		<ukr>Іменний Гаусс - гвинтівка Нелюда, виготовлена за спецзамовленням у майстрів-зброярів з клану Останній День. Введено автоматичний режим стрільби, а також встановлена оптика з підвищеною кратністю. Другої такої гвинтівки в Зоні не знайти.</ukr>
 		<pln>Osobisty karabin Gaussa Potwora, wykonany na specjalne zamówienie przez mistrzów rusznikarstwa z klanu "Ostatni Dzień". Wprowadzono automatyczny tryb strzelania, jak również zamontowano optykę o zwiększonej rozdzielczości. Taki drugi karabin w Zonie nie istnieje.</pln>
 	</string>
 	<string id="enc_arsenal_gauss2a">
 		<rus>Именная Гаусс-винтовка Изверга, изготовленная по спецзаказу у мастеров-оружейников из клана Последний День. Введён автоматический режим стрельбы, а также установлена оптика с повышенной кратностью. Второй такой винтовки в Зоне не найти.\n Модифицированный Гаусс Изверга. Установлен цифровой модуль распознавания целей. Вес винтовки уменьшен. Увеличена кратность оптического прицела.</rus>
-		<eng>===Personal Crudface's Gauss rifle, made by special order from the craftsmen from the clan "Last Day". An automatic fire mode was enabled, and optic sight with increased multiplicity were installed. The second such rifle in the Zone can not be found.\n Модифицированный Гаусс Изверга. Устоновлен цифровой модуль распознавания целей. Вес винтовки уменьшен. Увеличена кратность оптического прицела.</eng>
+		<eng>Crudface's personal Gauss rifle, custom-made by the craftsmen from "Last Day". It is equipped with an automatic firing mode, as well as optics with increased magnification. No other rifle like this can be found in the Zone.\n Crudface's modified Gauss rifle. A digital target recognition module has been installed. The weight of the rifle has been reduced. Magnification of telescopic sight has been increased.</eng>
 		<ukr>Іменна Гаусс-гвинтівка Нелюда, виготовлена за спецзамовленням у майстрів-зброярів з клану Останній День. Введено автоматичний режим стрільби, а також встановлена оптика з підвищеною кратністю. Другої такої гвинтівки в Зоні не знайти.\n Модифікований Гаусс Нелюда. Встоновлено цифровий модуль розпізнавання цілей. Вагу гвинтівки зменшено. Збільшена кратність оптичного приціла.</ukr>
 		<pln>===Osobisty karabin Gaussa Potwora, wykonany na specjalne zamówienie przez mistrzów rusznikarstwa z klanu "Ostatni Dzień". Wprowadzono automatyczny tryb strzelania, jak również zamontowano optykę o zwiększonej rozdzielczości. Taki drugi karabin w Zonie nie istnieje.\n Модифицированный Гаусс Изверга. Устоновлен цифровой модуль распознавания целей. Вес винтовки уменьшен. Увеличена кратность оптического прицела.</pln>
 	</string>
@@ -1846,7 +1852,7 @@
 	</string>
 	<string id="enc_arsenal_oicw">
 		<rus>Система OICW (Objective Individual Combat Weapon - целевое индивидуальное боевое оружие) - перспективный американский автоматно-гранатомётный комплекс, сконструированный в 1990-е годы компанией Alliant Techsystem. OICW представляет собой модульную конструкцию, состоящую из трёх основных модулей: модуля "KE" (Kinetic Energy), представляющего собой слегка модернизированную винтовку HK G36K; модуля "HE" (High Explosive), представляющего из себя самозарядный 20мм гранатомёт с магазинным питанием; модуля управления огнём, включающий в себя дневной/ночной телевизионный прицелы, лазерный дальномер, баллистический вычислитель и подсистему программирования взрывателя гранаты.</rus>
-		<eng>===OICW (Objective Individual Combat Weapon) system is a promising American weapon complex designed in the 1990s by Alliant Techsystem. OICW is a modular design consisting of three main modules: the "KE" module (Kinetic Energy), which is a slightly modernized  HK G36 rifle; module "HE" (High Explosive), which is a self-loading 20mm grenade launcher with magazine arming; a fire control module that includes a day/night television scopes, a laser rangefinder and a ballistic computer.</eng>
+		<eng>OICW (Objective Individual Combat Weapon)is an advanced American assault rifle and grenade launcher system designed in the 1990s by Alliant Techsystem. OICW is a modular design consisting of three main modules: the "KE" module (Kinetic Energy), which is a slightly modernized  HK G36 rifle; module "HE" (High Explosive), which is a self-loading magazine-fed 20mm grenade launcher; a fire control module that includes a day/night television scope, a laser rangefinder, ballistic computer and a grenade launcher programming subsystem.</eng>
 		<ukr>Система OICW (Objective Individual Combat Weapon - цільова індивідуальна бойова зброя) - перспективний американський автоматно-гранатометний комплекс, зконструйований у 1990-і роки компанією Alliant Techsystem. OICW являє собою модульну конструкцію, що складається з трьох основних модулів: модуля "KE" (Kinetic Energy), що представляє собою злегка модернізовану гвинтівку HK G36K; модуля "HE" (High Explosive), що представляє із себе самозарядний 20мм гранатомет з магазинним живленням; модуль управління вогнем, що включає в себе денний/нічний телевізійний приціли, лазерний далекомір, балістичний обчислювач і підсистему програмування детонатора гранати.</ukr>
 		<pln>===System OICW (Objective Individual Combat Weapon - Obiektywna Indywidualna Broń Bojowa)- przyszłościowy samopowtarzalny amerykański granatnik, skonstruowany w latach 90-tych u/w, przez firmę Alliant Techsystem. OICW to modułowa konstrukcja, składającą się z trzech podstawowych modułów: moduł "KE" (Kinetic Energy), to nieco zmodernizowany karabin HK G36K; moduł "HE" (High Explosive), to samopowtarzalny 20 mm granatnik z zasilaniem magazynkowym; moduł kierowania ogniem zawiera dzienny/nocny celownik wizyjny, laserowy dalmierz i kalkulator balistyczny.</pln>
 	</string>
@@ -1888,7 +1894,7 @@
 	</string>
 	<string id="desc_wpn_mossberg590_12ga">
 		<rus>Ружьё Mossberg 590 было создано ещё в середине 1970 года, американской фирмой O.F.Mossberg &amp; sons на основе популярного ружья Mossberg 500. Боевые дробовики Mossberg 590 и Mossberg 590 А1 были приняты на вооружение полицией и армией США, как и Mossberg 500, и заслужили лестные отзывы. В данной модификации заметно укреплены основные детали, в частности, усилен ствол, для применения патронов повышенной мощности, был установлен кожух защищающий руки от ожогов, крепление для штык-ножа (М9), фиксированный приклад был заменён на пистолетную рукоятку, и для ружей этой модификации применялось более надёжное антикоррозионное напыление на внешние поверхности металлических частей.</rus>
-		<eng>===Mossberg 590 shotgun was created in mid-1970, by the American company O.F.Mossberg&amp;sons based on the popular Mossberg 500 shotgun. Combat shotguns Mossberg 590 and Mossberg 590 A1 were adopted by the police and the US Army, like the Mossberg 500, and deserve flattering reviews. In this modification, the main parts are markedly hardened, in particular, the barrel is strengthened, for use of high-power cartridges, a guard was installed protecting hands from burns, a bayonet mount (M9), a fixed stock was replaced with a pistol grip with a side-folding stock, and for the rifles of this modification, a more reliable anticorrosion cover was applied to the outer surfaces of the metal parts.</eng>
+		<eng>Mossberg 590 shotgun was created in mid-1970, by the American company O.F.Mossberg&amp;sons based on the popular Mossberg 500 shotgun. Mossberg 590 and Mossberg 590 A1 were initially adopted by the police and the US Army, like the Mossberg 500, and were used by many other countries in military service. The Mossberg 590 and Mossberg 590 A1 feature a reinforced barrel for high-power ammunition, a handguard to prevent burns, a bayonet mount (M9), a pistol grip instead of the fixed buttstock, and an anti-corrosion coating applied to the exterior surfaces of the metal parts.</eng>
 		<ukr>Рушниця Mossberg 590 була створена ще в середині 1970 року, американською фірмою O.F.Mossberg &amp; sons на основі популярної рушниці Mossberg 500. Бойові дробовики Mossberg 590 і Mossberg 590 А1 були прийняті на озброєння поліцією і армією США, як і Mossberg 500, і заслужили похвальні відгуки. У даній модифікації помітно зміцнені основні деталі, зокрема, посилений ствол, для застосування патронів підвищеної потужності, був встановлений кожух який захищає руки від опіків, кріплення для багнета (М9), фіксований приклад був замінений на пістолетну рукоятку, і для рушниць цієї модифікації застосовувалося більш надійне антикорозійне напилення на зовнішні поверхні металевих частин.</ukr>
 		<pln>===Strzelba Mossberg 590 została opracowana w połowie 1970 roku, przez amerykańską firmę O.F.Mossberg &amp; sons na bazie popularnej strzelby Mossberg 500. Strzelby bojowe Mossberg 590 i Mossberg 590 A1 były na uzbrojeniu policji i wojsk USA, podobnie jak Mossberg 500 i zasłużyły sobie na pozytywne opinie. W tej modyfikacji, podstawowe części zostały znacznie wzmocnione, w szczególności lufa w celu zastosowania nabojów o zwiększonej mocy, pojawiła się też osłona chroniąca ręce przed oparzeniem, zamocowano uchwyt na bagnet (M9), stała kolba została zastąpiona pistoletową rękojeścią ze składaną na bok kolbą, a dla strzelb tej modyfikacji zastosowano solidniejszą powłokę antykorozyjną na zewnętrznej powierzchni metalowych części.</pln>
 	</string>
@@ -1948,7 +1954,7 @@
 	</string>
 	<string id="enc_arsenal_sayga12_sk1">
 		<rus>Гладкоствольное ружьё (карабин) Сайга-12К «Снайперская» со складным прикладом, удлинённым стволом и ДТК. Два режима ведения огня - одиночными и с отсечкой на два патрона.</rus>
-		<eng>===Smoothbore rifle (carbine) Saiga-12K "Sniper" with a folding buttstock and a shortened barrel. Two modes of fire - single fire and 2-round burst.</eng>
+		<eng>Smoothbore rifle (carbine) Saiga-12K "Sniper" with a folding buttstock, a longer barrel and a muzzle brake. Two modes of fire - single fire and 2-round burst.</eng>
 		<ukr>Гладкоствольна рушниця (карабін) Сайга-12К «Снайперська» зі складним прикладом, подовженим стволом і ДТК. Два режима ведення вогню - одиночними і з відсічкою на два патрона.</ukr>
 		<pln>===Gładkolufowa strzelba Saiga-12K "Snajperska" ze składaną kolbą i skróconą lufą. Posiada dwa tryby strzelania - pojedynczy i z odcięciem po dwa naboje.</pln>
 	</string>
@@ -2298,7 +2304,7 @@
 	</string>
 	<string id="arsenal_mod_sw">
 		<rus>Smith &amp; Wesson (Смит-энд-Вессон) - шестизарядный револьвер производства «Smith &amp; Wesson», производившийся с 1899 года как модель Smith &amp; Wesson .38 Hand Ejector, а также производившийся во время Второй мировой войны Smith &amp; Wesson Victory Model. Военная модификация револьвера имеет ствол длиной 6,5 дюйма (165 мм) и рукоятку с щёчками из орехового дерева.\n На револьвер возможно установить оптику, а также заменить ствол на удлинённый, который увеличивает начальную скорость пули и дальность её полёта.</rus>
-		<eng>===A six-shooter revolver manufactured by Smith&amp;Wesson since 1899 as a Smith&amp;Wesson .38 Hand Ejector model, as well as the Smith&amp;Wesson Victory Model produced during the Second World War. The military version of the revolver has a barrel length of 6.5 inches (165 mm) and a handle with cheeks made of walnut.\n It is possible to install optics on the revolver, as well as an extension of the barrel, which increases the initial speed of the bullet and the range of its flight.</eng>
+		<eng>A six-shooter revolver manufactured by Smith&amp;Wesson since 1899 as the Smith&amp;Wesson .38 Hand Ejector, as well as the Smith&amp;Wesson Victory Model produced during the Second World War. The military version of the revolver has a barrel length of 6.5 inches (165 mm) and a handle with cheeks made of walnut.\n The revolver can be fitted with optics, as well as an extension of the barrel, which increases the muzzle velocity and its range.</eng>
 		<ukr>Smith &amp; Wesson (Сміт-енд-Вессон) - шестизарядний револьвер виробництва «Smith &amp; Wesson», що вироблявся з 1899 року як модель Smith &amp; Wesson .38 Hand Ejector, а також вироблявся під час Другої світової війни Smith &amp; Wesson Victory Model. Військова модифікація револьвера має ствол довжиною 6,5 дюйма (165 мм) і рукоятку з щічками з горіхового дерева.\n На револьвер можливо встановити оптику, а також замінити ствол на подовжений, який збільшує початкову швидкість кулі і дальність її польоту.</ukr>
 		<pln>===Smith &amp; Wesson - sześciostrzałowy rewolwer produkcji "Smith &amp; Wesson", produkowany od 1899 roku, jako model Smith &amp; Wesson .38 Hand Ejector, jak również produkowany w czasie II wojny światowej Smith &amp; Wesson Victory Model. Wojskowa modyfikacja rewolweru ma lufę długości 6,5 cala (165 mm) i okładzinę rękojeści z drewna orzechowego.\n Na rewolwer można zamontować optykę, jak również przedłużenie lufy, które zwiększa prędkość początkową kuli i jej zasięg.</pln>
 	</string>
@@ -2358,7 +2364,7 @@
 	</string>
 	<string id="enc_arsenal_ak104t">
 		<rus>Старый добрый АКМС, принадлежавший Стрелку. Первые рейды в Зону были осуществлены легендарным сталкером именно с этим автоматом.\n Используется рожок от РПК на 40 патронов.\n В последствии, Стрелок перешёл на более современный образец автомата Калашникова - АК-104, на который были установлены интегрированный глушитель, тактическая рукоять и коллиматорный прицел.</rus>
-		<eng>===Further modification of AK-104 assault rifle. Magpul Mossoud buttstock, grip and Picatinny rail were installed as well as a tactical handle with a flashlight Surefire, collimator Eeotech551. Also, the "EOTech" 3X.FTS Magnifier installation is available.</eng>
+		<eng>The good old AKMS, which belonged to Sterlok. The first raids into the Zone were carried out by the legendary stalker with this assault rifle.\n It comes with a 40-round magazine from the RPK.\n Subsequently, Strelok switched to a more modern AK-104 Kalashnikov, which was equipped with an integrated silencer, tactical grip and collimator sight.</eng>
 		<ukr>Старий добрий АКМС, що належав Стрільцю. Перші рейди в Зону були здійснені легендарним сталкером саме з цим автоматом.\n Використовується ріжок від РПК на 40 патронів.\n Пізніше, Стрілець перейшов на більш сучасний зразок автомата Калашникова - АК-104, на який було встановлено інтегрований глушник, тактична рукоять і коліматорний приціл.</ukr>
 		<pln>===Dalsza modyfikacja automatu AK-104 Striełoka. Została zamontowana kolba i rękojeść firmy Magpul Mossoud, założono szynę Picatinny, jak również taktyczną rękojeść z latarką Surefire, kolimator EOTech551. W razie potrzeby montuje się lunetę "EOTech" 3X.FTS Magnifier.</pln>
 	</string>
@@ -2610,7 +2616,7 @@
 	</string>
 	<string id="enc_arsenal_scar_792">
 		<rus>Модификация штурмовой винтовки FN SCAR-Н под калибр 7,92х33. У винтовки был уменьшен вес и повышена износостойкость.\nДанную модификацию произвёл Долговязый.</rus>
-		<eng>===Modified FN SCAR-H assault rifle of 7.92x33 caliber. In addition to the change in the caliber, the FN40GL grenade launcher was modified for 20x85HE grenades and the H-82 shaped charges, but the the standard M209 grenades can not be charged. Also, the rifle reduced its weight and increased wear resistance.\nThis modification was made by Lanky.</eng>
+		<eng>Modified FN SCAR-H assault rifle chambered for 7.92x33 caliber. The rifle's weight has been reduced and durability has been increased. This modification was made by Lanky.</eng>
 		<ukr>Модифікація штурмової гвинтівки FN SCAR-Н під калібр 7,92х33. У гвинтівки була зменшена вага і підвищена зносостійкість.\nДану модифікацію зробив Довгов'язий.</ukr>
 		<pln>===Modyfikacja szturmowego karabinu FN SCAR-H pod kaliber 7,92x33. Prócz zmiany kalibru, został zmodyfikowany granatnik podlufowy FN40GL pod ładunki 20x85HE i ładunki kumulacyjne H-82, ale standardowych ładunków M209, niestety, załadować się nie da. Zmniejszono też wagę karabinu i podniesiono jego odporność na zużycie.\n Modyfikacji tej broni dokonał Chudy.</pln>
 	</string>
@@ -2712,7 +2718,7 @@
 	</string>
 	<string id="enc_weapons1_wpn-pb_m1">
 		<rus>Именной ПБ Осведомителя, переделанный под патрон 9х21мм СП-10/СП-11.\n Данную модификацию пистолета осуществил Долговязый.</rus>
-		<eng>===Personalized Informer's PB, reworked for the 9x21mm SP-10/SP-11 cartridge .\n This modification of the pistol was made by Lanky.</eng>
+		<eng>Personalized Informant's PB, converted for the 9x21mm SP-10/SP-11 cartridge .\n This modification of the pistol was made by Lanky.</eng>
 		<ukr>Іменний ПБ Інформатора, перероблений під патрон 9х21мм СП-10/СП-11.\nДану модифікацію пістолета здійснив Довгов'язий.</ukr>
 		<pln>===Osobisty PB Informatora, przerobiony pod nabój 9x21 mm SP-10/SP-11.\n Modyfikacji tego pistoletu dokonał Chudy.</pln>
 	</string>
@@ -3012,7 +3018,7 @@
 	</string>
 	<string id="enc_ars_vint_tactic">
 		<rus>Винтовка снайперская специальная модернизированная ВССМ является современным продолжением знаменитой 9-мм ВСС «Винторез». Впервые оружие было продемонстрировано на выставке "Оборонэкспо-2011", проходившей в Москве. В 2012 году принята на вооружение спецподразделений МО, МВД, ФСБ и ГРУ РФ под индексом ГРАУ 6П29М. На данный экземпляр ВССМ были установлены приклад Magpul MOE Carbine SG, тактический фонарь Steiner LAS/TAC 2, тактическая рукоятка Зенит "РК-2", пистолетная рукоятка Magpul MOE, а также коллиматор Aimpoint "COMP M4". В данной модификации имеется режим стрельбы с отсечкой по три патрона, также было нанесено антикоррозийное покрытие, позволяющее использовать патроны ПАБ9.</rus>
-		<eng>===This sample of "Vintorez" was equipped with Magpul Mossoud buttstock, Picatinny rail, pistol grip, and "Aimpoint" collimator also.\n Was imported by some experienced mercenaries in the Zone. Almost span-new.\n There is a firing mode with 3-round burst in this modification, and an corrosion-resistant coating was also applied, enabling to use PAB-9 cartridges. Flatness and accuracy of fire are improved.</eng>
+		<eng>The VSSM special modernized sniper rifle is a modern successor of the famous 9mm VSS "Vintorez". The weapon was first demonstrated at the Oboronexpo 2011 exhibition in Moscow. In 2012 it was adopted by special units of the Russian Ministry of Defense, Interior Ministry, Federal Security Service and GRU under the designation GRAU 6P29M. It was equipped with the Magpul MOE Carbine SG buttstock, Steiner LAS/TAC 2 tactical flashlight, Zenit RK-2 tactical grip, Magpul MOE pistol grip, and Aimpoint "COMP M4" collimator. This modification has a three-round burst fire mode. A corrosion-resistant coating has also been applied to allow the use of PAB9 ammunition.</eng>
 		<ukr>Гвинтівка снайперська спеціальна модернізована ГССМ є сучасним продовженням знаменитої 9-мм ГСС «Гвинторіз». Вперше зброю було продемонстровано на виставці "Оборонекспо-2011", що проходила в Москві. У 2012 році прийнята на озброєння спецпідрозділів МО, МВС, ФСБ і ГРУ РФ під індексом ГРАУ 6П29М. На даний екземпляр ГССМ були встановлені приклад Magpul MOE Carbine SG, тактичний ліхтар Steiner LAS/TAC 2, тактична рукоятка Зеніт "РК-2", пістолетна рукоятка Magpul MOE, а також коліматор Aimpoint "COMP M4". У даній модифікації є режим стрільби з відсіченням по три патрони, також було нанесено антикорозійне покриття, що дозволяє використовувати патрони ПАБ9.</ukr>
 		<pln>===Ten egzemplarz "Wintoreza" został wyposażony w kolbę Magpul Mossoud, szynę Picatinny, pistoletową rękojeść i kolimator "Aimpoint".\n Do Zony został sprowadzony przez któregoś z doświadczonych najemników, według stanu - karabin praktycznie nowy.\n Ta modyfikacja posiada tryb strzelania z odcięciem po trzy naboje. Została naniesiona powłoka antykorozyjna, która pozwala używać naboje PAB; poprawiono także płaskość i celność strzelania.</pln>
 	</string>
@@ -3108,13 +3114,13 @@
 	</string>
 	<string id="enc_equipment_devic_binocul1_m1">
 		<rus>Бинокль БПОс 20х42 "Байгыш". Увеличение 20х. Выполнен по классической схеме Порро, с цифровой функцией захвата и определения живой цели.</rus>
-		<eng>BPS 20x42 "Baygysh" binocular. 20x magnification. Made according to the typical Porro prism binoculars design, with a digital function of target capturing and recognizing.</eng>
+		<eng>BPS 20x42 "Baygysh" binoculars. 20x magnification. Made according to the typical Porro prism binoculars design, with digital target acquisition and detection of live targets.</eng>
 		<ukr>Бінокль БПОс 20х42 "Байгиш". Збільшення 20х. Виконаний за класичною схемою Порро, з цифровою функцією захоплення і визначення живої цілі.</ukr>
 		<pln>Lornetka BPOs 20x42 "Baigish". Powiększenie 20x. Wykonana w klasycznym układzie Porro z cyfrową funkcją wykrycia i zdefiniowania celów żywych.</pln>
 	</string>
 	<string id="enc_equipment_devic_binocul1_m2">
 		<rus>Бинокль БПОс 20х42 "Байгыш". Увеличение 26х. Выполнен по классической схеме Порро, с цифровой функцией захвата и определения живой цели.\n После апгрейда у Долговязого бинокль стал определять и автоматические турели.</rus>
-		<eng>===BPS 20x42 "Baygysh" binocular. 26x magnification. Made according to the typical Porro prism binoculars design, with a digital function of target capturing and recognizing.\n После апгрейда у Долговязого бинокль стал определять и автоматические турели.</eng>
+		<eng>BPS 20x42 "Baygysh" binoculars. 26x magnification. Made according to the typical Porro prism binoculars design, with digital target acquisition and detection of live targets.\n After upgrading the binoculars at Lanky, it can detect sentry turrets as well.</eng>
 		<ukr>Бінокль БПОс 20х42 "Байгиш". Збільшення 26х. Виконаний за класичною схемою Порро, з цифровою функцією захоплення і визначення живої цілі.\n Після апгрейда у Довганя бінокль почав визначати і автоматичні турелі.</ukr>
 		<pln>===Lornetka BPOs 20x42 "Baigish". Powiększenie 26x. Wykonana w klasycznym układzie Porro z cyfrową funkcją wykrycia i zdefiniowania celów żywych.\n После апгрейда у Долговязого бинокль стал определять и автоматические турели.</pln>
 	</string>
@@ -3300,7 +3306,7 @@
 	</string>
 	<string id="enc_arsenal_cs5_m2">
 		<rus>Снайперская винтовка McMillan CS5 под патрон 7.62х51мм НАТО, окрашенная в камуфляжный рисунок MultiCam Urban.\n Эта винтовка специально разрабатывалась как мощное, компактное, малошумное, высокоточное оружие для скрытного и замаскированного использования армейскими и правоохранительными силами на ближней дистанции, чаще всего, в городских условиях.\n На прицел был установлен блок с функцией "автозахвата и распознавания целей".</rus>
-		<eng>===McMillan CS5 sniper rifle, modified for the German 7.92x57 mm cartridge.\n This rifle was designed specifically as a powerful, compact, low noise, high-precision weapons for concealed and disguised use of the army and police forces at close range, most often in urban environments.\n Despite the alteration to the non-standard cartridge, the rifle has not lost its sniper qualities and still provides the accuracy of shooting at the level of 0.75 MOA.</eng>
+		<eng>McMillan CS5 sniper rifle, painted in MultiCam Urban camouflage and chambered in 7.62x51mm NATO.\n This rifle was developed specifically as a powerful, compact, low-noise, high-precision weapon for covert and camouflaged use by army and law enforcement forces at close range, most often in urban areas.\n The sight was equipped with an "auto-capture and target recognition" feature.</eng>
 		<ukr>Снайперська гвинтівка McMillan CS5 під патрон 7.62х51мм НАТО, пофарбована у камуфляжний малюнок MultiCam Urban.\n Ця гвинтівка спеціально розроблялася як потужна, компактна, малошумна, високоточна зброя для прихованого і замаскованого використання армійськими і правоохоронними силами на ближній дистанції, найчастіше, у міських умовах.\n На приціл був встановлений блок з функцією "автозахоплення і розпізнавання цілей".</ukr>
 		<pln>Karabin snajperski McMillan CS5 pod amunicję 7.62x51mm NATO, nałożony kamuflaż MultiCam Urban.\n Ten karabin został opracowany jako potężna, kompaktowa, cicha, bardzo precyzyjna broń do skrytego i zamaskowanego zastosowania przez wojsko i siły porządkowe na bliskim dystansie, najczęściej w warunkach miejskich.\n Na celownik zainstalowano blok z funkcją "autowykrywania i rozpoznawania celów".</pln>
 	</string>
@@ -3402,73 +3408,73 @@
 	</string>
 	<string id="enc_arsenal_wpn_nagan">
 		<rus>Револьвер системы Нагана образца 1895 года - семизарядный револьвер, разработанный и производившийся бельгийскими промышленниками братьями Эмилем и Леоном Наганами (Nagant), для Российской Империи, состоявший на вооружении и выпускавшийся в ряде стран в конце XIX - середине XX века.\n Русско-японская война, Первая Мировая, гражданская, финская, затем Великая Отечественная войны - всегда наган служил верой и правдой. Можно назвать множество причин такой популярности, однако, по мнению военных экспертов, основные - безотказность конструкции и эффективность для ближнего боя. Всего только в нашей стране было выпущено более 2 млн. Оружие до начала 50-х годов было на вооружении в армии и милиции, до недавнего времени им пользовались инкассаторы и бойцы Вневедомственной охраны, причём многие пистолеты старше своих нынешних обладателей в два, а иногда и в три раза.</rus>
-		<eng>===Револьвер системы Нагана образца 1895 года - семизарядный револьвер, разработанный и производившийся бельгийскими промышленниками братьями Эмилем и Леоном Наганами (Nagant), для Российской Империи, состоявший на вооружении и выпускавшийся в ряде стран в конце XIX - середине XX века.\n Русско-японская война, Первая Мировая, гражданская, финская, затем Великая Отечественная войны - всегда наган служил верой и правдой. Можно назвать множество причин такой популярности, однако, по мнению военных экспертов, основные - безотказность конструкции и эффективность для ближнего боя. Всего только в нашей стране было выпущено более 2 млн. Оружие до начала 50-х годов было на вооружении в армии и милиции, до недавнего времени им пользовались инкассаторы и бойцы Вневедомственной охраны, причем многие пистолеты старше своих нынешних обладателей в два, а иногда и в три раза.</eng>
+		<eng>Nagant revolver, model 1895, a seven-shot revolver designed and manufactured by the Belgian industrialists brothers Emil and Leon Nagant for the Russian Empire, which was in service and produced in several countries in the late 19th to mid-20th centuries.\n The Russian-Japanese War, World War I, Civil War, Finnish War, then World War II - the Nagant has always served with distinction and reliability. There are many reasons for its popularity, but according to the military experts the main ones are reliability and efficiency in close-quarters combat. Until the early 1950s the gun was used by the Russian army and police, and until recently it was used by the collectors and the soldiers of the Department of the Interior Security. Many of these guns are two or sometimes even three times older than their owners.</eng>
 		<ukr>Револьвер системи Нагана зразка 1895 року - семизарядний револьвер, розроблений і виготовлюваний бельгійськими промисловцями братами Емілем і Леоном Наганами (Nagant), для Російської Імперії, який стояв на озброєнні і випускався в ряді країн в кінці XIX - середині XX століття.\n Російсько-японська війна, Перша Світова, громадянська, фінська, потім Велика Вітчизняна війни - завжди наган служив вірою і правдою. Можна назвати безліч причин такої популярності, проте, на думку військових експертів, основні - безвідмовність конструкції і ефективність для ближнього бою. Лише в Союзі було випущено більше 2 млн. штук. Зброя до початку 50-х років була на озброєнні в армії і міліції, до недавнього часу нею користувалися інкасатори і бійці Позавідомчої охорони, причому багато пістолетів старші своїх нинішніх володарів у два, а іноді і в три рази.</ukr>
 		<pln>===Револьвер системы Нагана образца 1895 года - семизарядный револьвер, разработанный и производившийся бельгийскими промышленниками братьями Эмилем и Леоном Наганами (Nagant), для Российской Империи, состоявший на вооружении и выпускавшийся в ряде стран в конце XIX - середине XX века.\n Русско-японская война, Первая Мировая, гражданская, финская, затем Великая Отечественная войны - всегда наган служил верой и правдой. Можно назвать множество причин такой популярности, однако, по мнению военных экспертов, основные - безотказность конструкции и эффективность для ближнего боя. Всего только в нашей стране было выпущено более 2 млн. Оружие до начала 50-х годов было на вооружении в армии и милиции, до недавнего времени им пользовались инкассаторы и бойцы Вневедомственной охраны, причем многие пистолеты старше своих нынешних обладателей в два, а иногда и в три раза.</pln>
 	</string>
 	<string id="enc_arsenal_wpn_nagan_of">
 		<rus>Револьвер системы Нагана, выпущенный в период разгара гражданской войны (с 1918 по 1920 год).\n На вооружение РККА был принят только самовзводный («офицерский») вариант 7,62-мм револьвера Нагана обр. 1895 г., при этом технологическая документация в 1918 году была переведена на метрическую систему измерений. Во время гражданской войны Тульский оружейный завод продолжал выпуск револьверов - в период с 1918 по 1920 год было изготовлено 175 115 шт. (52 863 шт. в 1918 году, 79 060 шт. в 1919 году и 43 192 шт. в 1920 году). После окончания гражданской войны неоднократно поднимался вопрос о перевооружении РККА, однако даже после принятия на вооружение в 1930 году пистолета ТТ производство револьверов продолжалось.</rus>
-		<eng>===Револьвер системы Нагана, выпущенный в период разгара гражданской войны (с 1918 по 1920 год).\n На вооружение РККА был принят только самовзводный («офицерский») вариант 7,62-мм револьвера Нагана обр. 1895 г., при этом технологическая документация в 1918 году была переведена на метрическую систему измерений. Во время гражданской войны Тульский оружейный завод продолжал выпуск револьверов - в период с 1918 по 1920 год было изготовлено 175 115 шт. (52 863 шт. в 1918 году, 79 060 шт. в 1919 году и 43 192 шт. в 1920 году). После окончания гражданской войны неоднократно поднимался вопрос о перевооружении РККА, однако даже после принятия на вооружение в 1930 году пистолета ТТ производство револьверов продолжалось.</eng>
+		<eng>This revolver was made at the height of the Civil War (from 1918 till 1920). Only the double-action ("officer") version of the 7.62mm revolver model of 1895 was adopted by the Red Army, with the technological documentation converted to the metric system in 1918. During the Civil War, the Tula Arms Factory continued to produce revolvers - in the period from 1918 to 1920, 175,115 units were manufactured (52,863 units in 1918, 79,060 units in 1919 and 43,192 units in 1920). After the end of the Civil War, upgrading the revolvers of the Red Army was repeatedly raised, but even after the TT pistol was adopted in 1930, the production of revolvers continued.</eng>
 		<ukr>Револьвер системи Нагана, випущений у період розпалу громадянської війни (з 1918 по 1920 рік).\n На озброєння РККА був прийнятий тільки самовзводний («офіцерський») варіант 7,62-мм револьвера Нагана зр. 1895 р., при цьому технологічна документація у 1918 році була переведена на метричну систему вимірювань. Під час громадянської війни Тульський збройовий завод продовжував випуск револьверів - у період з 1918 по 1920 рік було виготовлено 175 115 шт. (52 863 шт. у 1918 році, 79 060 шт. у 1919 році і 43 192 шт. у 1920 році). Після закінчення громадянської війни неодноразово піднімалося питання про переозброєння РККА, проте навіть після прийняття на озброєння у 1930 році пістолета ТТ виробництво револьверів тривало.</ukr>
 		<pln>===Револьвер системы Нагана, выпущенный в период разгара гражданской войны (с 1918 по 1922 год).\n На вооружение РККА был принят только самовзводный («офицерский») вариант 7,62-мм револьвера Нагана обр. 1895 г., при этом технологическая документация в 1918 году была переведена на метрическую систему измерений. Во время гражданской войны Тульский оружейный завод продолжал выпуск револьверов - в период с 1918 по 1920 год было изготовлено 175 115 шт. (52 863 шт. в 1918 году, 79 060 шт. в 1919 году и 43 192 шт. в 1920 году). После окончания гражданской войны неоднократно поднимался вопрос о перевооружении РККА, однако даже после принятия на вооружение в 1930 году пистолета ТТ производство револьверов продолжалось.</pln>
 	</string>
 	<string id="enc_arsenal_wpn_rpd44">
 		<rus>Советский ручной пулемёт, разработанный в 1944 году под патрон 7,62х39 мм. Служил основным оружием огневой поддержки уровня пехотного отделения, дополняя состоявшие на вооружении автоматы АК и карабины СКС. В Зоне особого распространения не получил из-за своих габаритов, однако пулемёт часто используется сталкерами во время очистки территорий от мутантов.</rus>
-		<eng>===Советский ручной пулемёт, разработанный в 1944 году под патрон 7,62х39 мм. Служил основным оружием огневой поддержки уровня пехотного отделения, дополняя состоявшие на вооружении автоматы АК и карабины СКС. В Зоне особого распространения не получил из-за своих габаритов, однако пулемёт часто используется сталкерами во время очистки территорий от мутантов.</eng>
+		<eng>Soviet light machine gun developed in 1944 chambered in 7.62x39 mm cartridges. It served as the main fire support weapon of an infantry squad, supplementing the AK assault rifles and SKS carbines in service. It was not particularly popular in the Zone because of its size, but the machine gun is often used by stalkers during purging mutants from various areas.</eng>
 		<ukr>Радянський ручний кулемет, розроблений в 1944 році під патрон 7,62х39 мм. Служив основною зброєю вогневої підтримки рівня піхотного відділення, доповнюючи стоячі на озброєнні автомати АК і карабіни СКС. У Зоні особливого поширення не отримав через свої габарити, проте кулемет часто використовується сталкерами під час очищення територій від мутантів.</ukr>
 		<pln>===Советский ручной пулемёт, разработанный в 1944 году под патрон 7,62х39 мм. Служил основным оружием огневой поддержки уровня пехотного отделения, дополняя состоявшие на вооружении автоматы АК и карабины СКС. В Зоне особого распространения не получил из-за своих габаритов, однако пулемёт часто используется сталкерами во время очистки территорий от мутантов.</pln>
 	</string>
 	<string id="enc_arsenal_s3000">
 		<rus>Sphinx S3000 - швейцарский пистолет, производившийся с 2002 по 2016 год для отрядов полиции особого назначения, а также для спортивной стрельбы. Как и предшественника (Sphinx AT 2000), пистолет Sphinx 3000 отличает высокое качество изготовления, отменная надёжность и эргономика.</rus>
-		<eng>===Sphinx S3000 - швейцарский пистолет, производившийся с 2002 по 2016 год для отрядов полиции особого назначения, а также для спортивной стрельбы. Как и предшественника (Sphinx AT 2000), пистолет Sphinx 3000 отличает высокое качество изготовления, отменная надёжность и эргономика.</eng>
+		<eng>Sphinx S3000 is a Swiss-made pistol produced from 2002 to 2016 for special police units and sport shooting. Like its predecessor (Sphinx AT 2000), the Sphinx 3000 pistol is distinguished by its high quality construction, excellent reliability and ergonomics.</eng>
 		<ukr>Sphinx S3000 - швейцарський пістолет, що вироблявся з 2002 по 2016 рік для загонів поліції особливого призначення, а також для спортивної стрільби. Як і попередника (Sphinx AT 2000), пістолет Sphinx 3000 відрізняє висока якість виготовлення, відмінна надійність і ергономіка.</ukr>
 		<pln>===Sphinx S3000 - швейцарский пистолет, производившийся с 2002 по 2016 год для отрядов полиции особого назначения, а также для спортивной стрельбы. Как и предшественника (Sphinx AT 2000), пистолет Sphinx 3000 отличает высокое качество изготовления, отменная надёжность и эргономика.</pln>
 	</string>
 	<string id="enc_arsenal_rem700">
 		<rus>Remington 700 (Ремингтон 700) - магазинная винтовка производства США калибра .308 Win. Разработана на основе винтовки братьев Маузер. Выпуск винтовки был начат в 1962 году. Модель 700 имеет различные модификации, широко распространена в США как крупнокалиберная снайперская, спортивная и охотничья винтовка, выпускаемая в широком диапазоне калибров от .17 Rem (4,5 мм) до .338 Lapua Magnum (8,6 мм). Оружие обладает высокой кучностью боя и высоким качеством изготовления.</rus>
-		<eng>===Remington 700 (Ремингтон 700) - магазинная винтовка производства США калибра .308 Win. Разработана на основе винтовки братьев Маузер. Выпуск винтовки был начат в 1962 году. Модель 700 имеет различные модификаций, широко распространена в США как крупнокалиберная снайперская, спортивная и охотничья винтовка, выпускаемая в широком диапазоне калибров от .17 Rem (4,5 мм) до .338 Lapua Magnum (8,6 мм). Оружие обладает высокой кучностью боя и высоким качеством изготовления.</eng>
+		<eng>Remington 700 (Remington 700) is a magazine-fed rifle made in the USA, chambered in .308 Winchester cartridges. It was developed on the basis of the Mauser brothers' rifle. Production of this rifle started in 1962. Model 700 is available in a wide variety of calibers from .17 Remington (4.5mm) to .338 Lapua Magnum (8.6mm), and is widely used in USA as a large-caliber sniper, sporting and hunting rifle. The rifle is highly effective and of high quality.</eng>
 		<ukr>Remington 700 (Ремінгтон 700) - магазинна гвинтівка виробництва США калібру .308 Win. Розроблена на основі гвинтівки братів Маузер. Випуск гвинтівки розпочався у 1962 році. Модель 700 має різні модифікації, широко поширена в США як великокаліберна снайперська, спортивна та мисливська рушниця, яка випускається в широкому діапазоні калібрів від .17 Rem (4,5 мм) до .338 Lapua Magnum (8,6 мм). Зброя володіє високою щільністю бою і високою якістю виготовлення.</ukr>
 		<pln>===Remington 700 (Ремингтон 700) - магазинная винтовка производства США калибра .308 Win. Разработана на основе винтовки братьев Маузер. Выпуск винтовки был начат в 1962 году. Модель 700 имеет различные модификаций, широко распространена в США как крупнокалиберная снайперская, спортивная и охотничья винтовка, выпускаемая в широком диапазоне калибров от .17 Rem (4,5 мм) до .338 Lapua Magnum (8,6 мм). Оружие обладает высокой кучностью боя и высоким качеством изготовления.</pln>
 	</string>
 	<string id="enc_weapons1_wpn-colt_m2">
 		<rus>Легендарный Colt М1911, модифицированный по мотивам кустарных гангстерских поделок 20-30-х годов прошлого столетия. Пистолет снабжён магазином повышенной ёмкости на 15 патронов, удлинённым стволом, рукояткой для удержания от ПП М1928, а его УСМ переделан под стрельбу непрерывными очередями. Оружие идеально подходит для того, чтобы до смерти напугать несговорчивых оппонентов, однако вести из него прицельную стрельбу весьма затруднительно ввиду бешеной скорострельности.</rus>
-		<eng>===Легендарный Colt М1911, модифицированный по мотивам кустарных гангстерских поделок 20-30-х годов прошлого столетия. Пистолет снабжён магазином повышенной ёмкости на 15 патронов, удлинённым стволом, рукояткой для удержания от ПП М1928, а его УСМ переделан под стрельбу непрерывными очередями. Оружие идеально подходит для того, чтобы досмерти напугать несговорчивых оппонентов, однако вести из него прицельную стрельбу весьма затруднительно ввиду бешеной скорострельности.</eng>
+		<eng>The legendary Colt M1911, adapted from the artisanal gangsters of the 1920s-30s. The pistol is equipped with a 15-round magazine, an extended barrel, a grip from the M1928 submachine gun, and a modified firing mechanism for continuous bursts. This weapon is perfect for scaring the hell out of reluctant adversaries, but it is difficult to aim it due to its high rate of fire.</eng>
 		<ukr>Легендарний Colt М1911, модифікований за мотивами кустарних гангстерських виробів 20-30-х років минулого століття. Пістолет обладнаний магазином підвищеної ємності на 15 патронів, подовженим стволом, рукояткою для утримання від ПК М1928, а його УСМ перероблений під стрільбу безперервними чергами. Зброя ідеально підходить для того, щоб досмерті налякати незговірливих опонентів, проте вести з нього прицільний вогонь вельми важко через шалену скорострільність.</ukr>
 		<pln>===Легендарный Colt М1911, модифицированный по мотивам кустарных гангстерских поделок 20-30-х годов прошлого столетия. Пистолет снабжён магазином повышенной ёмкости на 15 патронов, удлинённым стволом, рукояткой для удержания от ПП М1928, а его УСМ переделан под стрельбу непрерывными очередями. Оружие идеально подходит для того, чтобы до смерти напугать несговорчивых оппонентов, однако вести из него прицельную стрельбу весьма затруднительно ввиду бешеной скорострельности.</pln>
 	</string>
 	<string id="enc_arsenal_mk11">
 		<rus>M110 (Rifle, 7.62mm: Semi-Automatic Sniper System (SASS)) - американская снайперская винтовка, разработанная компанией Knight’s Armament Company на основе Mk.11 Mod.0 для дополнения и замены снайперской винтовки M24 в армии США. В 2005 году (под некоторым влиянием операций в Ираке против снайперов противника, использовавших СВД) начался конкурс на новую снайперскую винтовку для замены винтовок M24. M110 обошёл конкурентов и стал поступать на вооружение SOCOM, Армии и Морской Пехоты США в 2008 году. Всего было закуплено 4492 M110.</rus>
-		<eng>===M110 (Rifle, 7.62mm: Semi-Automatic Sniper System (SASS)) - американская снайперская винтовка, разработанная компанией Knight’s Armament Company на основе Mk.11 Mod.0 для дополнения и замены снайперской винтовки M24 в армии США. В 2005 году (под некоторым влиянием операций в Ираке против снайперов противника, использовавших СВД) начался конкурс на новую снайперскую винтовку для замены винтовок M24. M110 обошёл конкурентов и стал поступать на вооружение SOCOM, Армии и Морской Пехоты США в 2008 году. Всего было закуплено 4492 M110.</eng>
+		<eng>M110 (Rifle, 7.62mm: Semi-Automatic Sniper System (SASS)) is an American sniper rifle, developed by Knight's Armament Company on the basis of the Mk.11 Mod.0 to complement and replace the M24 sniper rifle in the US Army. In 2005 (under some influence from operations in Iraq against enemy snipers using the SVD) a competition was launched for a new sniper rifle to replace the M24 rifle. The M110 beat the competition and began to enter service with SOCOM, Army and Marine Corps in 2008. A total of 4,492 M110s were purchased.</eng>
 		<ukr>M110 (Rifle, 7.62mm: Semi-Automatic Sniper System (SASS)) - американська снайперська гвинтівка, розроблена компанією Knight's Armament Company на основі Mk.11 Mod.0 для доповнення і заміни снайперської гвинтівки M24 в армії США. У 2005 році (під деяким впливом операцій в Іраку проти снайперів супротивника, які використовували СВД) почався конкурс на нову снайперську гвинтівку для заміни гвинтівок M24. M110 обійшов конкурентів і став надходити на озброєння SOCOM, Армії та Морської Піхоти США у 2008 році. Всього було закуплено 4492 M110.</ukr>
 		<pln>===M110 (Rifle, 7.62mm: Semi-Automatic Sniper System (SASS)) - американская снайперская винтовка, разработанная компанией Knight’s Armament Company на основе Mk.11 Mod.0 для дополнения и замены снайперской винтовки M24 в армии США. В 2005 году (под некоторым влиянием операций в Ираке против снайперов противника, использовавших СВД) начался конкурс на новую снайперскую винтовку для замены винтовок M24. M110 обошёл конкурентов и стал поступать на вооружение SOCOM, Армии и Морской Пехоты США в 2008 году. Всего было закуплено 4492 M110.</pln>
 	</string>
 	<string id="enc_arsenal_hk417_gl">
 		<rus>Штурмовая модификация винтовки HK 417 под мощный натовский патрон калибра 7,62х51мм. Кроме того, к ней можно прикрепить ещё и подствольный гранатомёт. А наличие интегрированного удобного коллиматора Barska АС10632, делает эту винтовку незаменимой в условиях ближнего боя и на средней дистанции.</rus>
-		<eng>===Штурмовая модификация винтовки HK 417 под мощный натовский патрон калибра 7,62х51мм. Кроме того, к ней можно прикрепить ещё и подствольный гранатомёт. А наличие интегрированного удобного коллиматора Barska АС10632, делает эту винтовку незаменимой в условиях ближнего боя и на средней дистанции.</eng>
+		<eng>The assault modification of HK 417 rifle for the powerful 7.62x51mm NATO cartridge. In addition, it can be fitted with an underbarrel grenade launcher, and the convenient integrated Barska AC10632 collimator makes this rifle indispensable in close combat and at medium range.</eng>
 		<ukr>Штурмова модифікація гвинтівки HK 417 під потужний натівський патрон калібру 7,62х51мм. Крім того, до неї можна прикріпити ще й підствольний гранатомет. А наявність інтегрованого зручного коліматора Barska АС10632, робить цю гвинтівку незамінною в умовах ближнього бою і на середній дистанції.</ukr>
 		<pln>===Штурмовая модификация винтовки HK 417 под мощный натовский патрон калибра 7,62х51мм. Кроме того, к ней можно прикрепить ещё и подствольный гранатомёт. А наличие интегрированного удобного коллиматора Barska АС10632, делает эту винтовку незаменимой в условиях ближнего боя и на средней дистанции.</pln>
 	</string>
 	<string id="arsenal_toz106">
 		<rus>Охотничье одноствольное гладкоствольное ружьё 20 калибра с продольно скользящим затвором. Ружьё предназначено для ведения любительской охоты на птиц и мелких животных на коротких дистанциях, а также для охраны домашних животных, посевов, стационарных хозяйственных объектов и перевозимых грузов.</rus>
-		<eng>===Охотничье одноствольное гладкоствольное ружьё 20 калибра с продольно скользящим затвором. Ружьё предназначено для ведения любительской охоты на птиц и мелких животных на коротких дистанциях, а также для охраны домашних животных, посевов, стационарных хозяйственных объектов и перевозимых грузов.</eng>
+		<eng>Single-barreled, smooth-bore, bolt-action, 20-gauge hunting rifle. The rifle is intended for amateur birds and small animals hunting at short distances, as well as for protection of domestic animals, crops, stationary economic objects and transported goods.</eng>
 		<ukr>Мисливська одноствольна гладкоствольна рушниця 20 калібру з поздовжньо ковзаючим затвором. Рушниця призначена для ведення аматорського полювання на птахів і дрібних тварин на коротких дистанціях, а також для охорони домашніх тварин, посівів, стаціонарних господарських об'єктів і вантажів, що перевозяться.</ukr>
 		<pln>===Охотничье одноствольное гладкоствольное ружьё 20 калибра с продольно скользящим затвором. Ружьё предназначено для ведения любительской охоты на птиц и мелких животных на коротких дистанциях, а также для охраны домашних животных, посевов, стационарных хозяйственных объектов и перевозимых грузов.</pln>
 	</string>
 	<string id="arsenal_toz106_short">
 		<rus>Охотничье одноствольное гладкоствольное ружьё 20 калибра с продольно скользящим затвором. Разработано на базе ружья МЦ 20-01, отличается укороченным стволом, складным металлическим прикладом. Ружьё предназначено для ведения любительской охоты на птиц и мелких животных на коротких дистанциях, а также для охраны домашних животных, посевов, стационарных хозяйственных объектов и перевозимых грузов.</rus>
-		<eng>===Охотничье одноствольное гладкоствольное ружьё 20 калибра с продольно скользящим затвором. Разработано на базе ружья МЦ 20-01, отличается укороченным стволом, складным металлическим прикладом. Ружьё предназначено для ведения любительской охоты на птиц и мелких животных на коротких дистанциях, а также для охраны домашних животных, посевов, стационарных хозяйственных объектов и перевозимых грузов.</eng>
+		<eng>Single-barreled, smooth-bore, bolt-action 20-gauge hunting rifle. Designed on the basis of the MTs 20-01 shotgun, it has a shorter barrel and a folding metal buttstock. The rifle is intended for amateur bird and small animal hunting at short distances, as well as for protection of domestic animals, crops, stationary farm objects and transported goods.</eng>
 		<ukr>Мисливська одноствольна гладкоствольна рушниця 20 калібру з поздовжньо ковзаючим затвором. Розроблена на базі рушниці МЦ 20-01, відрізняється укороченим стволом, складним металевим прикладом. Рушниця призначена для ведення аматорського полювання на птахів і дрібних тварин на коротких дистанціях, а також для охорони домашніх тварин, посівів, стаціонарних господарських об'єктів і вантажів, що перевозяться.</ukr>
 		<pln>===Охотничье одноствольное гладкоствольное ружьё 20 калибра с продольно скользящим затвором. Разработано на базе ружья МЦ 20-01, отличается укороченным стволом, складным металлическим прикладом. Ружьё предназначено для ведения любительской охоты на птиц и мелких животных на коротких дистанциях, а также для охраны домашних животных, посевов, стационарных хозяйственных объектов и перевозимых грузов.</pln>
 	</string>
 	<string id="arsenal_m37">
 		<rus>Помповое гладскоствольное ружьё «Итака» модели 37 20-го калибра является одним из старейших представителей своего класса, до сих пор находящихся в производстве. Конструкция была разработана Джоном Мозесом Браунингом в 1913 году, запатентована в 1915-м, после чего все права на разработку были переданы фирме «Ремингтон».\n В целом, ружьё Ithaca model 37, невзирая на солидный возраст, является надёжным, мощным и лёгким оружием, в различных вариантах пригодном как для охоты, так и в качестве боевого оружия (разве что ёмкость магазина невелика).</rus>
-		<eng>===Помповое гладскоствольное ружьё «Итака» модели 37 20-го калибра является одним из старейших представителей своего класса, до сих пор находящихся в производстве. Конструкция была разработана Джоном Мозесом Браунингом в 1913 году, запатентована в 1915-м, после чего все права на разработку были переданы фирме «Ремингтон».\n В целом, ружьё Ithaca model 37, невзирая на солидный возраст, является надёжным, мощным и лёгким оружием, в различных вариантах пригодном как для охоты, так и в качестве боевого оружия (разве что ёмкость магазина невелика).</eng>
+		<eng>The "Ithaca" Model 37 20-gauge pump-action shotgun is one of the oldest of its class still in production. The design was developed by John Moses Browning in 1913 and patented in 1915, after which all rights were transferred to the Remington company.\n Despite its age, the Ithaca Model 37 is a reliable, powerful and lightweight shotgun, suitable for hunting as well as combat (although the magazine capacity is small).</eng>
 		<ukr>Помпова гладскоствольна рушниця «Ітака» моделі 37 20-го калібру є одним з найстаріших представників свого класу, до сих пір знаходяться у виробництві. Конструкція була розроблена Джоном Мозесом Браунінгом у 1913 році, запатентована в 1915-му, після чого всі права на розробку були передані фірмі «Ремінгтон».\n В цілому, рушниця Ithaca model 37, незважаючи на солідний вік, є надійною, потужною і легкою зброєю, в різних варіантах придатною як для полювання, так і в якості бойової зброї (хіба що ємність магазину невелика).</ukr>
 		<pln>===Помповое гладскоствольное ружьё «Итака» модели 37 20-го калибра является одним из старейших представителей своего класса, до сих пор находящихся в производстве. Конструкция была разработана Джоном Мозесом Браунингом в 1913 году, запатентована в 1915-м, после чего все права на разработку были переданы фирме «Ремингтон».\n В целом, ружьё Ithaca model 37, невзирая на солидный возраст, является надёжным, мощным и лёгким оружием, в различных вариантах пригодном как для охоты, так и в качестве боевого оружия (разве что ёмкость магазина невелика).</pln>
 	</string>
 	<string id="enc_arsenal_rpk16">
 		<rus>РПК-16 - российский ручной пулемёт калибра 5,45х39 мм. Этот пулемёт отрабатывается как потенциальная замена ручному пулемёту Калашникова РПК-74, как в обычных войсках, так и в подразделениях специального назначения. Оружие спроектировано на базе решений, полученных в ходе опытно-конструкторских работ над автоматом АК-12 и ручным пулемётом РПК-400.\n РПК-16 имеет компоновку, аналогичную АК-12, но с улучшенной эргономикой. Вес пулемёта около 4,5 кг. Также пулемёт сохранил классическую газоотводную конструкцию Калашникова с длинным ходом поршня, обеспечивающую высокую надёжность. Обладая низким коэффициентом отдачи, РПК-16 имеет высокую кучность стрельбы и заметно превосходит по огневой мощи РПК-74. Его скорострельность составляет до 700 выстрелов в минуту. Стрельба ведётся одиночными выстрелами, либо очередями с закрытого затвора.</rus>
-		<eng>===РПК-16 - российский ручной пулемёт калибра 5,45х39 мм. Этот пулемёт отрабатывается как потенциальная замена ручному пулемёту Калашникова РПК-74, как в обычных войсках, так и в подразделениях специального назначения. Оружие спроектировано на базе решений, полученных в ходе опытно-конструкторских работ над автоматом АК-12 и ручным пулемётом РПК-400.\n РПК-16 имеет компоновку, аналогичную АК-12, но с улучшенной эргономикой. Вес пулемёта около 4,5 кг. Также пулемёт сохранил классическую газоотводную конструкцию Калашникова с длинным ходом поршня, обеспечивающую высокую надёжность. Обладая низким коэффициентом отдачи, РПК-16 имеет высокую кучность стрельбы и заметно превосходит по огневой мощи РПК-74. Его скорострельность составляет до 700 выстрелов в минуту. Стрельба ведется одиночными выстрелами, либо очередями с закрытого затвора.</eng>
+		<eng>The RPK-16 is a Russian 5.45x39 mm light machine gun. This machine gun was developed as a potential replacement for the Kalashnikov RPK-74 machine gun, both for conventional and special operations forces. The weapon was designed on the basis of solutions found during development of the AK-12 automatic rifle and RPK-400 light machine gun. The RPK-16 has the same layout as the AK-12 but with improved ergonomics. The weight of the machine gun is about 4.5 kg. It also retains classic Kalashnikov gas-operated design with a long stroke piston for high reliability. With a low recoil ratio and a high fire rate, the RPK-16 is noticeably superior to the RPK-74 in its firepower. Its rate of fire is up to 700 rounds per minute. It fires single shots or bursts from a closed bolt.</eng>
 		<ukr>РПК-16 - російський ручний кулемет калібру 5,45х39 мм. Цей кулемет відпрацьовується як потенційна заміна ручного кулемета Калашникова РПК-74, як у звичайних військах, так і в підрозділах спеціального призначення. Зброя спроектована на базі рішень, отриманих в ході дослідно-конструкторських робіт над автоматом АК-12 і ручним кулеметом РПК-400.\n РПК-16 має компоновку, аналогічну АК-12, але з поліпшеною ергономікою. Вага кулемета близько 4,5 кг. Також кулемет зберіг класичну газовідвідну конструкцію Калашникова з довгим ходом поршня, що забезпечує високу надійність. Володіючи низьким коефіцієнтом віддачі, РПК-16 має високу купчастість стрільби та помітно перевершує по вогневій потужності РПК-74. Його скорострільність становить до 700 пострілів за хвилину. Стрільба ведеться одиночними пострілами, або чергами з закритого затвора.</ukr>
 		<pln>===РПК-16 - российский ручной пулемёт калибра 5,45х39 мм. Этот пулемёт отрабатывается как потенциальная замена ручному пулемёту Калашникова РПК-74, как в обычных войсках, так и в подразделениях специального назначения. Оружие спроектировано на базе решений, полученных в ходе опытно-конструкторских работ над автоматом АК-12 и ручным пулемётом РПК-400.\n РПК-16 имеет компоновку, аналогичную АК-12, но с улучшенной эргономикой. Вес пулемёта около 4,5 кг. Также пулемёт сохранил классическую газоотводную конструкцию Калашникова с длинным ходом поршня, обеспечивающую высокую надёжность. Обладая низким коэффициентом отдачи, РПК-16 имеет высокую кучность стрельбы и заметно превосходит по огневой мощи РПК-74. Его скорострельность составляет до 700 выстрелов в минуту. Стрельба ведется одиночными выстрелами, либо очередями с закрытого затвора.</pln>
 	</string>
@@ -3506,7 +3512,7 @@
 	</string>
 	<string id="ars-snowball_7643b">
 		<rus>Граната «Снежинка»</rus>
-		<eng>«Snowflake» grenade</eng>
+		<eng>"Snowflake" grenade</eng>
 		<ukr>Граната «Сніжинка»</ukr>
 		<pln>Granat "Śnieżynka"</pln>
 	</string>
@@ -3518,7 +3524,7 @@
 	</string>
 	<string id="enc_grenade_7643b">
 		<rus>Граната «Снежинка». Производство местного кулибина. При взрыве имитирует аномалию "Снежная". Тем, кто оказался в радиусе 25 метров от эпицентра - не повезло...\n Рекомендуется бросать только из укрытий и на значительное расстояние (более 50 метров)!\n Применять с осторожностью - можно задеть друзей.</rus>
-		<eng>«Snowflake» Grenade. Made by local tinker. During the explosion, it mimics the "Snow" anomaly. Those who found themselves within a radius of 25 meters from the epicenter - bad luck...\n It is recommended to throw only from shelters and a considerable distance (more than 50 meters)!\n Use with caution - you can hit friends.</eng>
+		<eng>"Snowflake" Grenade. Made by local tinker. During the explosion, it mimics the "Snow" anomaly. Those who found themselves within a radius of 25 meters from the epicenter - bad luck...\n It is recommended to throw only from shelters and a considerable distance (more than 50 meters)!\n Use with caution - you can hit friends.</eng>
 		<ukr>Граната «Сніжинка». Виробництво місцевого кулібіна. Під час вибуху імітує аномалію "Снігова". Тим, хто опинився в радіусі 25 метрів від епіцентру - не пощастило...\n Рекомендується кидати тільки з укриттів і на значну відстань (понад 50 метрів)!\n Застосовувати з обережністю - можна зачепити друзів.</ukr>
 		<pln>Granat "Śnieżynka". Produkcja miejscowego majstra. Przy eksplozji tworzy anomalię "Śnieżna". Ci, którzy znajdą się w promieniu 25 metrów od epicentrum - będą mieli pecha...\n Zaleca się rzucać tylko zza osłony i na znaczną odległość (więcej niż 50 metrów)!\n Używać z ostrożnością, bo można razić także przyjaciół.</pln>
 	</string>
@@ -3584,7 +3590,7 @@
 	</string>
 	<string id="ars-grenade_napalm_s">
 		<rus>«Выжигалка»</rus>
-		<eng>«Napalm»</eng>
+		<eng>"Napalm"</eng>
 		<ukr>«Випалювалка»</ukr>
 		<pln>"Pożoga"</pln>
 	</string>
@@ -3958,7 +3964,7 @@
 	</string>
 	<string id="enc_arsenal_addon_optik">
 		<rus>Увеличитель «EOTech» 3X.FTS Magnifier. Создаёт комбинацию из коллиматора и увеличителя. С помощью этой комбинации приборов вы сможете мгновенно превратить коллиматор в оптический прицел и обратно. Позволяет производить точные выстрелы на дальнем расстоянии.\n • «EOTech» 3X.FTS Magnifier так называемый "увеличитель", представляющий собой отдельный оптический узел, который устанавливается после голографического прицела и позволяет получить 3х-кратное увеличение.\n • Крепёж под планку Пикатинни.\n • Линзы Leica\n • Диапазон рабочих температур от -30 до +60°С.\n • Увеличитель «EOTech» 3X.FTS Magnifier совместим со всеми моделями EOTech.\n • Используется автоматическими винтовками АК-101 «Custom», Tavor CTAR-21 и AUG ВМК Кальтера.</rus>
-		<eng>==="EOTech" 3X.FTS Magnifier. Creates a combination of a collimator and a magnifier. With this combination of instruments you can instantly turn the collimator into an optical sight and back. Allows you to produce accurate shots at a long distance.\n • "EOTech" 3X.FTS Magnifier, which is a separate optical unit, installing in front of a holographic sight and allows a 3x magnification.\n • Fastens to the Picatinny rail.\n • Leica lenses\n • Operating temperature range from -30 to 60 ° C.\n • The EOTech Magnifier 3X.FTS is compatible with all EOTech models.\n • Used by AK-101 "Custom", Tavor CTAR-21 and Kalter's AUG VMK automatic rifles.</eng>
+		<eng>EOTech 3X.FTS Magnifier. A combination of collimator and a magnifier. With this combination you can instantly turn a collimator into a telescopic sight and back again. Allows you to make accurate shots at long range.\n • "EOTech" 3X.FTS Magnifier is a so-called "magnifier", which is a separate optical component that is installed in front of the holographic sight and allows for 3x magnification.\n • Picatinny rail mount.\n • Leica Lens\n • Operating temperature ranges from -30 to +60°C.\n • The "EOTech" 3X.FTS Magnifier is compatible with all EOTech models.\n • Can be mounted on AK-101 "Custom" automatic rifles, Tavor CTAR-21 and Kalter's AUG VMK.</eng>
 		<ukr>Збільшувач «EOTech» 3X.FTS Magnifier. Створює комбінацію з коліматора і збільшувача. За допомогою цієї комбінації приладів ви зможете миттєво перетворити коліматор в оптичний приціл і назад. Дозволяє робити точні постріли на далекій відстані.\n • «EOTech» 3X.FTS Magnifier так званий "збільшувач", який представляє собою окремий оптичний вузол, який встановлюється після голографічого прицілу і дозволяє отримати 3х-кратне збільшення.\n • Кріплення під планку Пікатінні.\n • Лінзи Leica\n • Діапазон робочих температур від -30 до 60 °С.\n • Збільшувач «EOTech» 3X.FTS Magnifier сумісний з усіма моделями EOTech.\n • Використовується автоматичними гвинтівками АК-101 «Custom», Tavor CTAR-21 і AUG ВМК Кальтера.</ukr>
 		<pln>===Luneta "EOTech" 3X.FTS Magnifier. Tworzy kombinację kolimatora i lunety. Dzięki tej kombinacji przyrządów, można natychmiast zmienić kolimator w celownik optyczny i odwrotnie. Pozwala na oddanie precyzyjnych strzałów na duże odległości.\n • "EOTech" 3X.FTS Magnifier, zwany lunetą, to oddzielny zespół optyczny, który jest instalowany przed celownikiem holograficznym i pozwala uzyskać 3-krotne powiększenie.\n • Wspornik pod szynę Picatinny.\n • Obiektyw Leica\n • Zakres temperatur roboczych od -30 do +60°C.\n • Luneta "EOTech" 3X.FTS Magnifier jest kompatybilna ze wszystkimi modelami EOTech.\n • Można zamontować do automatu AK-101 "Custom", Tavor STAR-21 i AUG WMK Kaltera.</pln>
 	</string>
@@ -4264,7 +4270,7 @@
 	</string>
 	<string id="enc_arsenal_addon_aimpoint">
 		<rus>Увеличитель фирмы «Aimpoint». Создаёт комбинацию из коллиматора и увеличителя. С помощью этой комбинации приборов вы сможете мгновенно превратить коллиматор в оптический прицел и обратно. Позволяет производить точные выстрелы на дальнем расстоянии.\n • 3х-кратное увеличение.\n • Крепёж под планку Пикатинни.\n • Линзы Leica\n • Диапазон рабочих температур от -30 до +60°С.\n • Увеличитель «Aimpoint» совместим со всеми моделями Aimpoint.\n • Используется на ВССМ «Винторез» и АН-94 «Абакан» «Тактический».</rus>
-		<eng>===An "Aimpoint" Magnifier. Creates a combination of a collimator and a magnifier. With this one you can instantly turn the collimator into an optical sight and back. Allows you to produce accurate shots at a long distance.\n • "Aimpoint" is a so-called "magnifier", which is a separate optical unit, which is installed in front of a holographic sight and allows a 4x magnification.\n • Fastening for Picatinny rail.\n • Leica lenses\n • Operating temperature range from -30 to 60°C.\n • The Aimpoint magnifier is compatible with all Aimpoint models.\n • Used on "Tactical" Vintorez and AN-94 Abakan "Tactical".</eng>
+		<eng>An "Aimpoint" magnifier. A combination of collimator and magnifier. With this combination of optics you can instantly turn a collimator into a telescopic sight and back. Allows you to make accurate shots at long range.\n • 3x magnification.\n • Picatinny rail mount.\n • Leica lenses\n • Operating temperature range from -30 to 60°C.\n • The Aimpoint magnifier is compatible with all Aimpoint models.\n • Used on "Tactical" VSSM Vintorez and AN-94 Abakan "Tactical".</eng>
 		<ukr>Збільшувач фірми «Aimpoint». Створює комбінацію з коліматора і збільшувача. За допомогою цієї комбінації приладів ви зможете миттєво перетворити коліматор в оптичний приціл і назад. Дозволяє робити точні постріли на далекій відстані.\n • 3х-кратне збільшення.\n • Кріплення під планку Пікатінні.\n • Лінзи Leica\n • Діапазон робочих температур від -30 до +60 °С.\n • Збільшувач «Aimpoint» сумісний з усіма моделями Aimpoint.\n • Використовується на ГССМ «Гвинторіз» і Абакан «Тактичний».</ukr>
 		<pln>===Luneta "Aimpoint". Tworzy kombinację kolimatora i lunety. Dzięki tej kombinacji przyrządów, można natychmiast zmienić kolimator w celownik optyczny i odwrotnie. Pozwala na oddanie precyzyjnych strzałów na duże odległości.\n • "Aimpoint" zwany lunetą, to oddzielny zespół optyczny, który jest instalowany przed celownikiem holograficznym i pozwala uzyskać 4-krotne powiększenie.\n • Wspornik pod szynę Picatinny.\n • Obiektyw Leica\n • Zakres temperatur roboczych od -30 do +60°C.\n • Luneta "Aimpoint" jest kompatybilna ze wszystkimi modelami Aimpoint.\n • Można zamontować na WSS Wintorez "Taktyczny" i AN-94 Abakan "Taktyczny".</pln>
 	</string>
@@ -4319,7 +4325,7 @@
 	</string>
 	<string id="arsenal_mod_udlinnitel">
 		<rus>Удлинённый ствол для револьвера Smith &amp; Wesson, увеличивающий начальную скорость пули и дальность её полёта.</rus>
-		<eng>===Barrel extension for the Smith&amp;Wesson revolver, increasing the initial speed of the bullet and its flight range.</eng>
+		<eng>Barrel extension for the Smith&amp;Wesson revolver that increases the muzzle velocity and range of the bullet.</eng>
 		<ukr>Подовжений ствол для револьвера Smith &amp; Wesson, який збільшує початкову швидкість кулі і дальність її польоту.</ukr>
 		<pln>===Przedłużenie lufy do rewolweru Smith &amp; Wesson, zwiększa prędkość początkową kuli i jej zasięg.</pln>
 	</string>
@@ -4427,7 +4433,7 @@
 	</string>
 	<string id="enc_arsenal_sil_762_p">
 		<rus>Глушитель для пистолетов и ПП, использующих патрон 7.62x25 ТТ, а также для револьвера Наган, использующего патрон Нагана 7.62х38мм.</rus>
-		<eng>===Silencer for pistols and SMGs using a 7.62x25 TT cartridge.</eng>
+		<eng>Silencer for pistols and submachine guns using 7.62x25 TT cartridge as well as for Nagant revolvers using the 7.62x38mm revolver cartridge.</eng>
 		<ukr>Глушник для пістолетів і ПК, які використовують патрон 7.62x25 ТТ, а також для револьвера Наган, який використовує патрон Нагана 7.62х38мм.</ukr>
 		<pln>===Tłumik do pistoletów i PP, używających nabój 7,62x25 TT.</pln>
 	</string>
@@ -4661,7 +4667,7 @@
 	</string>
 	<string id="ars_addon_kriss">
 		<rus>Удлинённый ствол для Kriss Super</rus>
-		<eng>===Extension for Kriss Super</eng>
+		<eng>Extended barrel for Kriss Super</eng>
 		<ukr>Подовжений ствол для Kriss Super</ukr>
 		<pln>===Tłumik do Kriss Super</pln>
 	</string>
@@ -4673,7 +4679,7 @@
 	</string>
 	<string id="enc_ars-addon_kriss">
 		<rus>Быстросъёмный удлинённый до 406 мм ствол для пистолета-пулемёта Kriss Super V, поверх которого надет имитатор глушителя для большей эстетики. Подходит для калибра .45 ACP и .40 SW.</rus>
-		<eng>===Quick-detachable extender (silencer imitator) for Kriss Super V submachine gun. Suitable for .45 ACP and .40 SW caliber.</eng>
+		<eng>Quick-release barrel for the Kriss Super V submachine gun, extended to 406 mm and fitted with a silencer for aesthetic reasons. Suitable for .45 ACP and .40 SW calibers.</eng>
 		<ukr>Швидкознімний подовжений до 406 мм ствол для пістолета-кулемета Kriss Super V, поверх якого одягнений імітатор глушника для більшої естетики. Підходить для калібру .45 ACP і .40 SW.</ukr>
 		<pln>===Szybkowymienna nasadka (imitator tłumika) do pistoletu maszynowego Kriss Super V, pasuje pod kaliber .45 ACP i .40 SW.</pln>
 	</string>
@@ -4844,7 +4850,7 @@
 	</string>
 	<string id="ars-ammo-357_ap_mag">
 		<rus>Патроны .357 Магнум АР</rus>
-		<eng>Cartridges .357 Magnum AR</eng>
+		<eng>Cartridges .357 Magnum AP</eng>
 		<ukr>Патрони .357 Магнум АР</ukr>
 		<pln>Nabój .357 Magnum AP</pln>
 	</string>
@@ -4872,7 +4878,7 @@
 	</string>
 	<string id="enc_arsenal_20x85">
 		<rus>Осколочно-фугасная граната 20x85 HE (High Explosive) для XM-29 OICW. Боевая граната имеет программируемый взрыватель с двумя основными режимами подрыва - дистанционным и ударным. При дистанционном режиме перед выстрелом по данным с лазерного дальномера взрыватель программируется на подрыв в воздухе на заданной дальности, чем обеспечивается поражение укрытых целей осколками сверху или сбоку. Работа программируемого электромеханического взрывателя основана на использовании электронного устройства подсчёта числа оборотов гранаты на траектории полёта до точки подрыва. При контактном подрыве БЧ гранаты взрывается при непосредственном попадании в цель. При выходе из строя системы управления огнём возможен только второй вариант стрельбы. Для каждой гранаты режим подрыва может быть выставлен только один раз и не может быть изменён.</rus>
-		<eng>===High-explosive fragmentation grenade for XM-29 OICW - 20x85 HE.</eng>
+		<eng>20x85 HE (High Explosive) fragmentation grenade for the XM-29 OICW. The grenade has a programmable fuse with two main modes of detonation - remote and contact. The remote detonation mode is programmed to detonate the grenade in the air at the predetermined range, calculated using laser rangefinder data. This allows to destroy targets behind cover via shrapnel from the top or the sides. The programmable electromechanical fuse works by counting the number of rotations of the grenade on the trajectory up to the detonation point. In contact detonation mode, the grenade explodes on direct contact with the target. If the fire control system fails only the second firing option is possible. The detonation mode can only be set once for each grenade and cannot be changed.</eng>
 		<ukr>Околково-фугасна граната 20x85 HE (High Explosive) для XM-29 OICW. Бойова граната має програмований детонатор з двома основними режимами підриву - дистанційним і ударним. При дистанційному режимі перед пострілом за даними з лазерного далекоміра детонатор програмується на підрив у повітрі на заданій дальності, чим забезпечується ураження укритих цілей осколками зверху або збоку. Робота програмованого електромеханічного детонатора основана на використанні електронного пристрою підрахунку числа обертів гранати на траєкторії польоту до точки підриву. При контактному підриві БЧ гранати вибухає при безпосередньому потраплянні в ціль. При виході з ладу системи управління вогнем можливий тільки другий варіант стрільби. Для кожної гранати режим підриву може бути виставлений тільки один раз і не може бути змінений.</ukr>
 		<pln>===Ładunek odłamkowo-burzący do XM-29 OICW - 20x85 HE.</pln>
 	</string>
@@ -5316,7 +5322,7 @@
 	</string>
 	<string id="ammo-762x38">
 		<rus>Патроны 7.62х38мм Наган</rus>
-		<eng>===Патроны 7.62х38мм Наган</eng>
+		<eng>7.62x38mm Nagant cartridges</eng>
 		<ukr>Патрони 7.62х38мм Наган</ukr>
 		<pln>===Патроны 7.62х38мм Наган</pln>
 	</string>
@@ -5327,7 +5333,7 @@
 	</string>
 	<string id="ars_ammo_762x38">
 		<rus>Штатный патрон 7,62 мм разработал Леон Наган для револьвера своей конструкции в 1887 г. Патрон 7,62 mm Nagant предназначен для стрельбы из револьвера образца 1895 г. и его модификаций.\n Оболочечная тупоконечная пуля со свинцовым сердечником полностью утоплена в гильзе и наружу не выступает. На своём месте она удерживается кернением. Дульце гильзы обкатано до меньшего диаметра, что облегчает заряжание оружия и обеспечивает надёжное функционирование механизма надвигания барабана револьвера на казённую часть ствола.\n Для своего времени, патрон отличался очень высокими баллистическими параметрами.</rus>
-		<eng>===Штатный патрон 7,62 мм разработал Леон Наган для револьвера своей конструкции в 1887 г. Патрон 7,62 mm Nagant предназначен для стрельбы из револьвера образца 1895 г. и его модификаций.\n Оболочечная тупоконечная пуля со свинцовым сердечником полностью утоплена в гильзе и наружу не выступает. На своём месте она удерживается кернением. Дульце гильзы обкатано до меньшего диаметра, что облегчает заряжание оружия и обеспечивает надежное функционирование механизма надвигания барабана револьвера на казённую часть ствола.\n Для своего времени, патрон отличался очень высокими баллистическими параметрами.</eng>
+		<eng>The 7.62mm cartridge was developed by Leon Nagant in 1887, and is intended for use in the Nagant 1895 revolver and its modifications.\n The bullet is blunt-edged, with the lead core, completely recessed in the cartridge case and does not protrude outward. It is held in its place by a crimped jacket. The case head is rolled to a smaller diameter, making it easier to load the gun and ensuring the reliable operation of the cylinder slide on the barrel.\n For its time, the cartridge was distinguished by its very high ballistic performance.</eng>
 		<ukr>Штатний патрон 7,62 мм розробив Леон Наган для револьвера своєї конструкції у 1887 р. Патрон 7,62 mm Nagant призначений для стрільби з револьвера зразка 1895 року і його модифікацій.\n Оболонкова тупокінцева куля зі свинцевим сердечником повністю втоплена у гільзі і назовні не виступає. На своєму місці вона утримується керненням. Дульце гільзи обкатане до меншого діаметра, що полегшує заряджання зброї і забезпечує надійне функціонування механізму насування барабана револьвера на казенну частину ствола.\n Для свого часу, патрон відрізнявся дуже високими балістичними параметрами.</ukr>
 		<pln>===Штатный патрон 7,62 мм разработал Леон Наган для револьвера своей конструкции в 1887 г. Патрон 7,62 mm Nagant предназначен для стрельбы из револьвера образца 1895 г. и его модификаций.\n Оболочечная тупоконечная пуля со свинцовым сердечником полностью утоплена в гильзе и наружу не выступает. На своём месте она удерживается кернением. Дульце гильзы обкатано до меньшего диаметра, что облегчает заряжание оружия и обеспечивает надежное функционирование механизма надвигания барабана револьвера на казённую часть ствола.\n Для своего времени, патрон отличался очень высокими баллистическими параметрами.</pln>
 	</string>
@@ -5345,7 +5351,7 @@
 	</string>
 	<string id="enc_weapons1_ammo-20x76">
 		<rus>Охотничьи патроны дробовые калибра 20/76 Магнум со стальной цельнотянутой гильзой, капсюль-воспламенитель центрального боя. Патроны предназначены для стрельбы из гладкоствольных карабинов и ружей 20 калибра с длиной патронника не менее 76 мм.\n Размер дроби - 6,0-8,0 мм.\n Начальная скорость - не менее 510 м/с.\n Вес дроби - 32 г.\n Масса порохового заряда - 1.8 г.</rus>
-		<eng>===.410/73 Magnum shotgun cartridges with steel shell and central igniting primer. The cartridges are designed for firing from smooth-bore carbines and rifles of .410 caliber with a chamber length of at least 73 mm.\n Buck size - 6.0-8.0 mm.\n Initial speed - not less than 490 m/s.\n Buck weight - 20 g.\n The mass of powder charge - 1.4 g.</eng>
+		<eng>.20/76 Magnum hunting buckshot cartridges with a solid steel cartridge case and centerfire primer. The cartridges are intended for use in smoothbore carbines and 20. caliber shotguns with a minimum chamber length of 76 mm.\n Buck size - 6.0-8.0 mm.\n Initial velocity - at least 510 m/s.\n Shot weight - 32 g.\n The mass of powder charge - 1.8 g.</eng>
 		<ukr>Мисливські патрони дробові калібру 20/76 Магнум зі сталевою суцільнотягненою гільзою, капсуль-запальник центрального бою. Патрони призначені для стрільби з гладкоствольних карабінів і рушниць 20 калібру з довжиною патронника не менше 76 мм.\n Розмір дробу - 6,0-8,0 мм.\n Початкова швидкість - не менше 510 м/с.\n Вага дробу - 32 г\n Маса порохового заряду - 1.8 г.</ukr>
 		<pln>===Myśliwskie naboje śrutowe, kaliber .410/73 Magnum z tłoczoną stalową łuską i centralnym zapłonem. Naboje są przeznaczone do strzelania z karabinów gładkolufowych i strzelb kaliber .410, o długości komory nabojowej co najmniej 73 mm.\n Rozmiar śrutu - 6,0-8,0 mm.\n Prędkość początkowa - co najmniej 490 m/s.\n Waga śrutu - 20 g.\n Masa ładunku prochowego - 1.4 g.</pln>
 	</string>
@@ -5353,13 +5359,13 @@
 
 	<string id="st_wpn_pipe">
 		<rus>Обрезок трубы</rus>
-		<eng>===Обрезок трубы</eng>
+		<eng>Scrap Pipe</eng>
 		<ukr>Обрізок труби</ukr>
 		<pln>===Обрезок трубы</pln>
 	</string>
 	<string id="enc_weapons1_st_wpn_pipe">
 		<rus>Обрезок обычной водопроводной трубы. Не ахти какое оружие, но, за неимением лучшего, вполне сгодится для ближнего боя.</rus>
-		<eng>===Обрезок обычной водопроводной трубы. Не ахти какое оружие, но, за неимением лучшего, вполне сгодится для ближнего боя.</eng>
+		<eng>A piece of ordinary water pipe. It's not much of a weapon, but lacking a better one, it's good enough for close combat.</eng>
 		<ukr>Обрізок звичайної водопровідної труби. Не аби-яка зброя, але, за відсутністю кращої, цілком згодиться для ближнього бою.</ukr>
 		<pln>===Обрезок обычной водопроводной трубы. Не ахти какое оружие, но, за неимением лучшего, вполне сгодится для ближнего боя.</pln>
 	</string>
@@ -5371,7 +5377,7 @@
 	</string>
 	<string id="arsenal_toz34">
 		<rus>До того, как стать бандитом, Шершень был опытным охотником, поэтому свой любимый ТОЗ, доставшийся ему от отца, профессионального егеря, он довёл до ума: на ложу ружья с пистолетной шейкой поставил резиновый затыльник-амортизатор, заменил боевые пружины на более качественные и доработал ударно-спусковой механизм, что положительно сказалось на надёжности ружья. На мушку поставил фосфорную метку, что позволяет комфортно прицелиться даже в сумерках. Несмотря на солидный возраст, благодаря тщательному уходу и бережному содержанию, ружьё сохранилось практически в идеальном состоянии.\n Шершня неоднократно просили продать или поменять его ТОЗ на полуавтоматические и многозарядные современные дробовики, но он наотрез отказывался расставаться со своим "любимчиком". Видимо, чтобы заполучить это ружьё, нужно только снять его с трупа хозяина.</rus>
-		<eng>===До того, как стать бандитом, Hornet был опытным охотником, поэтому свой любимый ТОЗ, доставшийся ему от его отца, профессионального егеря, он довёл до ума: на ложу ружья с пистолетной шейкой поставил резиновый затыльник-амортизатор, заменил боевые пружины на более качественные и доработал ударно-спусковой механизм, что положительно сказалось на надёжности ружья. На мушку поставил фосфорную метку, что позволяет комфортно прицелиться даже в сумерках. Не смотря на солидный возраст, благодаря тщательному уходу и бережному содержанию, ружьё сохранилось практически в идеальном состоянии.\n Шершня неоднократно просили продать или поменять его ТОЗ на полуавтоматические и многозарядные современные дробовики, но он наотрез отказывался расставаться со своим "любимчиком". Видимо, чтобы заполучить это ружьё, нужно только снять его с трупа хозяина.</eng>
+		<eng>Before becoming a bandit, the Hornet was an experienced hunter, so he kept his favorite TOZ, which he inherited from his father, a professional gamekeeper, up to date: he put a rubber shock-absorber on the stock of the pistol-neck shotgun, replaced the combat springs with higher-quality ones, and improved the firing mechanism, which had a positive effect on the reliability of the gun. A phosphorus dot was placed on the front sight, which allows comfortable aiming even at dusk. Despite its considerable age, thanks to careful care and maintenance, this gun has been preserved in near-perfect condition.\n Hornet was repeatedly asked to sell or trade his TOZ for semi-automatic and multi-round modern shotguns, but he flatly refused to part with his "favorite". Apparently, to get his hands on this gun, he had to take it off the owner's corpse.</eng>
 		<ukr>До того, як стати бандитом, Шершень був досвідченим мисливцем, тому свій улюблений ТОЗ, який дістався йому від батька, професійного єгеря, він довів до розуму: на ложу рушниці з пістолетною шийкою поставив гумовий потиличник-амортизатор, замінив бойові пружини на більш якісні і допрацював ударно-спусковий механізм, що позитивно позначилося на надійності рушниці. На мушку поставив фосфорну мітку, що дозволяє комфортно прицілитися навіть у сутінках. Незважаючи на солідний вік, завдяки ретельному догляду і дбайливому утримуванню, рушниця збереглася практично в ідеальному стані.\n Шершня неодноразово просили продати або поміняти його ТОЗ на напівавтоматичні і багатозарядні сучасні дробовики, але він навідріз відмовлявся розлучатися зі своїм "улюбленцем". Мабуть, щоб отримати цю рушницю, потрібно зняти її з трупа господаря.</ukr>
 		<pln>===До того, как стать бандитом, Szerszeń был опытным охотником, поэтому свой любимый ТОЗ, доставшийся ему от его отца, профессионального егеря, он довёл до ума: на ложу ружья с пистолетной шейкой поставил резиновый затыльник-амортизатор, заменил боевые пружины на более качественные и доработал ударно-спусковой механизм, что положительно сказалось на надёжности ружья. На мушку поставил фосфорную метку, что позволяет комфортно прицелиться даже в сумерках. Не смотря на солидный возраст, благодаря тщательному уходу и бережному содержанию, ружьё сохранилось практически в идеальном состоянии.\n Шершня неоднократно просили продать или поменять его ТОЗ на полуавтоматические и многозарядные современные дробовики, но он наотрез отказывался расставаться со своим "любимчиком". Видимо, чтобы заполучить это ружьё, нужно только снять его с трупа хозяина.</pln>
 	</string>

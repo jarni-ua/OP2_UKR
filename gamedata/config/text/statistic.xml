@@ -789,14 +789,14 @@
 	</string>
 	<string id="deathclaw_normal">
 		<rus>Светлый коготь смерти</rus>
-		<eng>===Young deathclaw</eng>
+		<eng>Bright deathclaw</eng>
 		<ukr>Світлий кіготь смерті</ukr>
 		<fra>===Jeune griffemort</fra>
 		<pln>===Młody Szpon Śmierci</pln>
 	</string>
 	<string id="deathclaw_strong">
 		<rus>Тёмный коготь смерти</rus>
-		<eng>===Robust deathclaw</eng>
+		<eng>Dark deathclaw</eng>
 		<ukr>Темний кіготь смерті</ukr>
 		<fra>===Griffemort acharné</fra>
 		<pln>===Dorosły Szpon Śmierci</pln>
@@ -1139,13 +1139,13 @@
 	</string>
 	<string id="zombie_hell17">
 		<rus>Мужская особь морлока</rus>
-		<eng>===Морлок-мужчина</eng>
+		<eng>Male Morlock</eng>
 		<ukr>Чоловіча особина морлока</ukr>
 		<pln>===Морлок-мужчина</pln>
 	</string>
 	<string id="zombie_hell18">
 		<rus>Женская особь морлока</rus>
-		<eng>===Морлок-женщина</eng>
+		<eng>Female Morlock</eng>
 		<ukr>Жіноча особина морлока</ukr>
 		<pln>===Морлок-женщина</pln>
 	</string>
@@ -1177,6 +1177,12 @@
 		<fra>Sorcière</fra>
 		<pln>Wiedźma</pln>
 	</string>
+	<string id="bomzh_name">
+		<rus>Зомби-гопник</rus>
+		<eng>Gopnik zombie</eng>
+		<ukr>===Зомби-гопник</ukr>
+		<pln>===Зомби-гопник</pln>
+	</string>
 	<string id="komar">
 		<rus>Комар</rus>
 		<eng>Mosquito</eng>
@@ -1192,10 +1198,10 @@
 		<pln>===Комар</pln>
 	</string>
 	<string id="fly_micro">
-		<rus>Чумная мини-муха</rus>
-		<eng>Plagued mini-fly</eng>
-		<ukr>Чумна міні-муха</ukr>
-		<fra>Mini-mouche pesteuse</fra>
+		<rus>Мини-муха</rus>
+		<eng>Mini-fly</eng>
+		<ukr>Міні-муха</ukr>
+		<fra>Mini-mouche</fra>
 		<pln>===Комар</pln>
 	</string>
 	<string id="fly_ghost">
@@ -1205,15 +1211,22 @@
 		<fra>Mouche spectrale</fra>
 		<pln>===Призрачная муха</pln>
 	</string>
+	<string id="fly_plague">
+		<rus>Чумная мини-муха</rus>
+		<eng>Plagued mini-fly</eng>
+		<ukr>Чумна міні-муха</ukr>
+		<fra>Mini-mouche pesteuse</fra>
+		<pln>===Комар</pln>
+	</string>
 	<string id="bee_micro">
 		<rus>Чернобыльский шершень</rus>
-		<eng>===Чернобыльский шершень</eng>
+		<eng>Chernobyl Hornet</eng>
 		<ukr>Чорнобильський шершень</ukr>
 		<pln>===Чернобыльский шершень</pln>
 	</string>
 	<string id="fyreflyzloy">
 		<rus>Сгусток аномальной энергии</rus>
-		<eng>===Чернобыльский шершень</eng>
+		<eng>Clot of anomalous energy</eng>
 		<ukr>Згусток аномальнох енергії</ukr>
 		<pln>===Чернобыльский шершень</pln>
 	</string>

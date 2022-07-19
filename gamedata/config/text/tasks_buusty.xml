@@ -630,6 +630,20 @@
 		<fra>Rendre le voltmètre à Winsor</fra>
 		<pln>Zanieść Winsorowi woltomierz</pln>
 	</string>
+	<string id="task_katana_find_0">
+		<rus>Экскурсия в Курчатов</rus>
+		<eng>Tour of Kurchatov</eng>
+		<ukr>===Экскурсия в Курчатов</ukr>
+		<fra>===Экскурсия в Курчатов</fra>
+		<pln>===Экскурсия в Курчатов</pln>
+	</string>
+	<string id="task_katana_find_1">
+		<rus>Отправиться в Курчатов и найти там Катану</rus>
+		<eng>Go to Kurchatov and find the Katana</eng>
+		<ukr>===Отправиться в Курчатов и найти там Катану</ukr>
+		<fra>===Отправиться в Курчатов и найти там Катану</fra>
+		<pln>===Отправиться в Курчатов и найти там Катану</pln>
+	</string>
 	<string id="kur_zashita_0">
 		<rus>«Курчатовский котёл»</rus>
 		<eng>"Kurchatov trap"</eng>
@@ -749,13 +763,13 @@
 
 	<string id="homa_zadanie_second_task_1">
 		<rus>Найти загадочный артефакт</rus>
-		<eng>===Найти загадочный артефакт</eng>
+		<eng>Find the mysterious artifact</eng>
 		<ukr>Знайти загадковий артефакт</ukr>
 		<fra>===Trouver au moins cinq artefacts</fra>
 	</string>
 	<string id="homa_zadanie_second_task_2">
 		<rus>Отнести артефакт Хоме</rus>
-		<eng>===Find the mysterious artifact</eng>
+		<eng>Bring the artifact to Khoma</eng>
 		<ukr>Віднести артефакт Хомі</ukr>
 		<fra>===Trouver l'artefact mystérieux</fra>
 	</string>
@@ -887,19 +901,19 @@
 
 	<string id="vernut_maps_task_0">
 		<rus>Украденные карты</rus>
-		<eng>===Украденные карты</eng>
+		<eng>Stolen maps</eng>
 		<ukr>Вкрадені карти</ukr>
 		<fra>===Украденные карты</fra>
 	</string>
 	<string id="vernut_maps_task_1">
 		<rus>Найти украденные карты Монолита</rus>
-		<eng>===Найти украденные карты монолита</eng>
+		<eng>Find the stolen monolith maps</eng>
 		<ukr>Знайти вкрадені карти Моноліту</ukr>
 		<fra>===Найти украденные карты монолита</fra>
 	</string>
 	<string id="vernut_maps_task_2">
 		<rus>Вернуть карты Брату ТМ</rus>
-		<eng>===Вернуть карты Брату ТМ</eng>
+		<eng>Return the cards to Brother of the Shadow of the Monolith</eng>
 		<ukr>Повернути карти Брату ТМ</ukr>
 		<fra>===Вернуть карты Брату ТМ</fra>
 	</string>

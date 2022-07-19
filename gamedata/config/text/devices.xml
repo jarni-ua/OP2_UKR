@@ -18,28 +18,28 @@
 	</string>
 	<string id="sigaret_a">
 		<rus>Сигарета</rus>
-		<eng>Cigaret</eng>
+		<eng>Cigarettes</eng>
 		<ukr>Цигарка</ukr>
 		<fra>Cigaret</fra>
 		<pln>Papieros</pln>
 	</string>
 	<string id="enc_sigaret_a">
 		<rus>Сигарета из пачки Lucky Strike компании American Tobacco Company.</rus>
-		<eng>===American Tobacco Company "Lucky Strike" brand cigarettes.</eng>
+		<eng>American Tobacco Company "Lucky Strike" brand cigarettes.</eng>
 		<ukr>Цигарка з пачки Lucky Strike компанії American Tobacco Company.</ukr>
 		<fra>===Bien, dans son mandat, les cigarettes Lucky Strike de la société américaine Tobacco.</fra>
 		<pln>===Niezłe, same w sobie, papierosy Lucky Strike produkcji American Tobacco Company.</pln>
 	</string>
 	<string id="sigaret_petr">
 		<rus>Сигареты Пётр</rus>
-		<eng>===Cigarettes</eng>
+		<eng>"Peter" Cigarettes</eng>
 		<ukr>Цигарки Петро</ukr>
 		<fra>===Cigarettes</fra>
 		<pln>===Papierosy</pln>
 	</string>
 	<string id="enc_sigaret_petr">
 		<rus>Сигареты производятся из качественных сортов табака, таких как Берлей и Вирджиния. Имеют уникальные вкусовые качества и приятный аромат. Пользуются большей популярностью у сталкеров, так как достаточно крепкие по вкусу и намного дешевле импортных сигарет Lucky Strike. Сигареты хорошо тянутся и нет привкуса соломенных опилок. Выкуренная сигарета, хоть и немного, но восстанавливает пси-здоровье.</rus>
-		<eng>===American Tobacco Company "Lucky Strike" brand cigarettes. Smuggled into the Zone with the help of some suspicious characters. Often found on inexperienced stalkers who recently crossed the perimeter. Not so popular with more experienced stalkers, having kicked the habit as the has Zone hardened them. To survive in the Zone with a smoking habit, it is necessary to have strong lungs, and to be light on your feet when fighting bloodsuckers, boars, and other mutated creatures. Cigarettes restore a little psi health when smoked.</eng>
+		<eng>Cigarettes made from quality varieties of tobacco, such as Burley and Virginia. They have a unique flavor and pleasant aroma. They are more popular with stalkers, because they taste strong enough and are much cheaper than imported Lucky Strike cigarettes. Cigarettes have a good pull and no taste of sawdust. Smoking a cigarette restores psi health, albeit a little.</eng>
 		<ukr>Цигарки виробляються з якісних сортів тютюну, таких як Берлі і Вірджинія. Мають унікальні смакові якості і приємний аромат. Користуються великою популярністю у сталкерів, оскільки досить міцні за смаком і набагато дешевші імпортних цигарок Lucky Strike. Цигарки добре тягнуться і немає присмаку солом'яної тирси. Викурена цигарка, хоч і трохи, але відновлює псі-здоров'я.</ukr>
 		<fra>===Bien, dans son mandat, les cigarettes Lucky Strike de la société américaine Tobacco sont entrées dans la zone en adaptant des personnalités suspectes de Narodnaya Solyanka. Il y a principalement des nouveaux arrivants qui ont récemment pénétré à l'intérieur du périmètre. Les harceleurs expérimentés ne jouissent pas du prestige, car ils s'accouplent, mais ils se sont rapidement sevrés de cette habitude pour fuir rapidement les sangsues, les sangliers et autres créatures vivantes mutantes. Mais toujours une cigarette fumée, bien qu'un peu, mais rétablit la santé psi.</fra>
 		<pln>===Niezłe, same w sobie, papierosy Lucky Strike produkcji American Tobacco Company, trafiły do Zony dzięki adaptacji podejrzanych indywiduuów z Narodowej Soljanki. Spotykane, zasadniczo, u nowicjuszy, świeżo przybyłych z poza perymetru. U doświadczonych stalkerów nie cieszą się uznaniem, ponieważ ci, nabrawszy doświadczenia, dość szybko porzucili ten nałóg, żeby móc szybko uciekać przed pijawkami, dzikami i inną zmutowaną zwierzyną. Ale nadal wypalony papieros, chociaż niewiele, ale odnawia zdrowie psioniczne.</pln>
@@ -291,7 +291,7 @@
 	</string>
 	<string id="enc_equipment_devic_detect1">
 		<rus>Дозиметр - устройство, измеряющее дозу или мощность ионизирующего излучения. Для работы необходимо активировать, разместив прибор в соответствующем слоте.</rus>
-		<eng>===A dosimeter is a device that measures the dosage of ionizing radiation. It must be placed on the belt to function.</eng>
+		<eng>A dosimeter is a device that measures the dosage of ionizing radiation. It must be placed in the appropriate slot to function.</eng>
 		<ukr>Дозиметр - пристрій, що вимірює дозу або потужність іонізуючого випромінювання. Для роботи необхідно активувати, розмістивши прилад у відповідному слоті.</ukr>
 		<fra>===Dosimètre - appareil qui mesure la dose ou la puissance des rayonnements ionisants. Pour fonctionner, vous devez l'activer en plaçant l'appareil sur la ceinture.</fra>
 		<pln>===Dozymetr - urządzenie mierzące dawkę lub moc promieniowania jonizującego. Aby działał, konieczna jest aktywacja poprzez umieszczenie przyrządu na pasie.</pln>
@@ -305,7 +305,7 @@
 	</string>
 	<string id="enc_equipment_devic_detect2">
 		<rus>Устройство, определяющее наличие аномальных полей и возмущений и сообщающее о них звуковым сигналом. Для работы необходимо активировать, разместив прибор в соответствующем слоте.</rus>
-		<eng>===A device that determines the presence of anomalous fields and disturbances and informs about them with a sound signal. It must be placed on the belt to function.</eng>
+		<eng>A device that determines the presence of anomalous fields and disturbances and informs about them with a sound signal. It must be placed in the appropriate slot to function.</eng>
 		<ukr>Пристрій, що визначає наявність аномальних полів і збурювань і повідомляє про них звуковим сигналом. Для роботи необхідно активувати, розмістивши прилад  у відповідному слоті.</ukr>
 		<fra>===Un dispositif qui détermine la présence de champs anormaux et de perturbations et en informe par un signal sonore. Pour fonctionner, vous devez l'activer en plaçant l'appareil sur la ceinture.</fra>
 		<pln>===Urządzenie określające obecność anomalnych pól oraz zakłóceń i sygnalizujące o nich dźwiękiem. Aby działał, konieczna aktywacja poprzez umieszczenie przyrządu na pasie.</pln>
@@ -319,7 +319,7 @@
 	</string>
 	<string id="enc_equipment_devic_detect3">
 		<rus>Элитный детектор аномалий, изобретённый учёными в Зоне. Определяет не только наличие аномальных полей и возмущений, но также показывает на карте их расположение, сообщает о них звуковым сигналом. Для работы необходимо активировать, разместив прибор в соответствующем слоте.</rus>
-		<eng>===Advanced anomaly detector, invented by scientists in the Zone. It determines not only the presence of anomalous fields and disturbances, but also shows their location on the map and reports them with a sound signal. It must be placed в соответствующем слоте.</eng>
+		<eng>Advanced anomaly detector, invented by scientists in the Zone. It determines not only the presence of anomalous fields and disturbances, but also shows their location on the map and reports them with a sound signal. It must be placed in the appropriate slot to work.</eng>
 		<ukr>Елітний детектор аномалій, винайдений вченими в Зоні. Визначає не тільки наявність аномальних полів і збурювань, але також показує на карті їх розташування, повідомляє про них звуковим сигналом. Для роботи необхідно активувати, розмістивши  прилад у відповідному слоті.</ukr>
 		<fra>===Détecteur d'anomalie Elite, inventé par les scientifiques de la zone. Il détermine non seulement la présence de champs et de perturbations anormaux, mais indique également leur emplacement sur la carte, les signale par un signal sonore. Pour fonctionner, vous devez l'activer en plaçant l'appareil sur в соответствующем слоте.</fra>
 		<pln>===Elitarny detektor anomalii, skonstruowany przez uczonych w Zonie. Określa nie tylko obecność anomalnych pól oraz zakłóceń, ale także pokazuje na mapie ich położenie, sygnalizując o nich dźwiękiem. Aby działał, konieczna aktywacja poprzez umieszczenie przyrządu в соответствующем слоте.</pln>
@@ -543,7 +543,7 @@
 	</string>
 	<string id="det_art_ultra_info">
 		<rus>Модернизированный детектор артефактов и изоморфов. Чувствительность детектора увеличена до размеров всей территории. Наличие артефактов отображается метками на карте местности. Помимо мест их нахождения, детектор распознаёт типы артефактов, что делает данный прибор самым лучшим из всех серий детекторов. Также способен определять предметы, содержащие частицы чужеродной энергии. Для работы необходимо активировать, разместив прибор в соответствующем слоте.</rus>
-		<eng>===An upgraded artefact and isomorphic detector. The sensitivity of the detector is increased to cope with the size of the entire territory. The presence of artefacts is indicated by marks on the map. In addition to their location, the detector recognises the types of artefacts, which makes this device the best of the whole series of detectors. It's also able to detect objects containing foreign energy particles. Activated when placed on the belt.</eng>
+		<eng>An upgraded artefact and isomorphic detector. The sensitivity of the detector is increased to cope with the size of the entire territory. The presence of artefacts is indicated by marks on the map. In addition to their location, the detector recognises the types of artefacts, which makes this device the best of the whole series of detectors. It's also able to detect objects containing foreign energy particles. Activated when placed in the appropriate slot.</eng>
 		<ukr>Модернізований детектор артефактів і ізоморфів. Чутливість детектора збільшена до розмірів цілої території. Наявність артефактів відображається мітками на карті місцевості. Крім місць їхнього знаходження, детектор розпізнає типи артефактів, що робить даний прилад найкращим з усіх серій детекторів. Також здатний визначати предмети, які містять частинки чужорідної енергії. Активується при розташуванні на поясі.</ukr>
 		<fra>===Détecteur amélioré d'artefacts et d'isomorphes. La sensibilité du détecteur est augmentée à la taille de tout le territoire. La présence d'artefacts est indiquée par des étiquettes sur la carte de la région. En plus de leurs emplacements, le détecteur reconnaît les types d'artefacts, ce qui fait de ce dispositif le meilleur de toutes les séries de détecteurs. Également capable d'identifier les objets contenant des particules d'énergie étrangère. Activé lorsqu'il est placé à la ceinture. </fra>
 		<pln>===Modernizowany detektor artefaktów i izomorfów. Zasięg detektora zwiększony do rozmiarów całej lokacji. Obecność artefaktów oznaczana jest symbolami na mapie okolicy. Oprócz miejsca położenia, detektor rozpoznaje również typy artefaktów, co sprawia, że jest to najlepszy przyrząd pośród całej serii detektorów. Jest też zdolny określać przedmioty, zawierające cząstki energii obcego pochodzenia. Aktywuje się po umieszczeniu go na pasie.</pln>
@@ -557,7 +557,7 @@
 	</string>
 	<string id="det_art_indy_info">
 		<rus>Простой детектор артефактов. Прибор способен в радиусе 50 метров оповестить владельца о наличии артефактов звуковым сигналом. Местонахождение артефакта на карте отображать не может. Для работы необходимо активировать, разместив прибор в соответствующем слоте.</rus>
-		<eng>===A simple artefact detector. The device is able to notify the owner with an audible signal, when it detects the presence of artefacts within a range of 50 metres. The location of the artefact cannot be displayed on the map. It's activated only when placed on the belt.</eng>
+		<eng>A simple artefact detector. The device is able to notify the owner with an audible signal, when it detects the presence of artefacts within a range of 50 metres. The location of the artefact cannot be displayed on the map. It's activated only when placed in the appropriate slot.</eng>
 		<ukr>Простий детектор артефактів. Прилад здатний в радіусі 50 метрів сповістити власника про наявність артефактів звуковим сигналом. Місцезнаходження артефакта на мапі відображати не може. Для роботи необхідно активувати, розмістивши прилад у відповідному слоті.</ukr>
 		<fra>===Détecteur d'artefacts simple. L'appareil est capable d'informer le propriétaire de la présence d'artefacts avec un signal sonore dans un rayon de 50 mètres. L'emplacement de l'artefact sur la carte ne peut pas s'afficher. Activé lorsqu'il est placé à la ceinture.</fra>
 		<pln>===Prosty detektor artefaktów. Przyrząd informuje właściciela sygnałem dźwiękowym o obecnośći artefaktu w promieniu 50 metrów. Nie posiada możliwości wskazywania na mapie położenia artefaktu. Uaktywnia się po założeniu go na pasie.</pln>
@@ -655,7 +655,7 @@
 	</string>
 	<string id="enc_zamok_desc">
 		<rus>Кодовый замок из титанового сплава, сломать его невозможно, равно как и подобрать код. Этот дорогой гаджет защитит ваш ящик возле торговца или другую подобную нычку от всяких посягательств с высокой гарантией. Не подойдёт для личного тайника-рюкзака.</rus>
-		<eng>===A coded lock made up of a titanium alloy. It is impossible to physically break it or crack the code. This expensive gadget will protect your stash from theives 100% of the time.</eng>
+		<eng>A coded lock made up of a titanium alloy. It is impossible to physically break it or crack the code. This expensive gadget will 100% protect your box near traders or other similar stashes from all sorts of thieves. Not suitable for a personal backpack stash.</eng>
 		<ukr>Кодовий замок з титанового сплаву, зламати його неможливо, так само як і підібрати код. Цей дорогий гаджет 100% захистить ваш ящик біля крамаря або іншу подібну схованку від усяких зазіхань з високою гарантією. Не підійде для особистого рюкзака-схованки.</ukr>
 		<fra>Code de verrouillage en alliage de titane, il est impossible de le casser, ainsi que de prendre le code. Ce gadget coûteux protégera votre réserve à 100% de tout empiétement.</fra>
 		<pln>Zamek kodowy ze stopu tytanowego, odporny zarówno na wszelkie próby włamania, jak i dobrania kodu. Ten drogi gadżet z wysoką gwarancją zabezpieczy twoją skrzynię koło handlarza, lub podobną skrytkę, przed złodziejami. Nie nadaje się do osobistych schowków z plecaków.</pln>
@@ -856,7 +856,7 @@
 	</string>
 	<string id="item_starogil_tele">
 		<rus>Ручной телепорт, оставленный Старожилом. Единственный экземпляр, его изготовитель неизвестен. Случайным образом перемещает владельца по памятникам Зоны. Его работа возможна лишь при наличии артефакта "Телепорт".</rus>
-		<eng>===A manually-operated teleporter left by Old Timer. This is the only copy, and its manufacturer is unknown. It can randomly move the owner through the territories of the Zone.</eng>
+		<eng>A handheld teleporter left by Old Timer. This is the only copy, and its manufacturer is unknown. It can randomly move the owner through the territories of the Zone. It can only function in the presence of the "Teleporter" artifact.</eng>
 		<ukr>Ручний телепорт, залишений Старожилом. Єдиний екземпляр, його виробник невідомий. Випадковим чином переміщує власника по пам'ятниках Зони. Робота приладу можлива тільки при наявності артефакта "Телепорт".</ukr>
 		<fra>===Téléport manuel laissé par l'ancien minuteur. La seule copie, son fabricant est inconnu. Déplace le propriétaire de façon aléatoire à travers les monuments de la zone.</fra>
 		<pln>===Ręczny teleport, zostawiony przez Tubylca. Jedyny egzemplarz, jego wytwórca jest nieznany. Niewiadomym sposobem przenosi posiadacza po pomnikach Zony.</pln>
@@ -878,7 +878,7 @@
 
 	<string id="item_arhara_obman">
 		<rus>Ручной телепорт - устройство, предназначенное для перемещения владельца на отдалённую территорию. Его работа возможна лишь при наличии артефакта "Телепорт".</rus>
-		<eng>===A manual-use teleporter left by Strelok. This is the only copy, and it's manufacturer and origins are unknown. It can instantly teleport the owner to the Wish Granter.</eng>
+		<eng>A handheld teleporter is a device designed to move the owner to a distant location. It can only function if the "Teleport" artifact is present.</eng>
 		<ukr>Ручний телепорт - пристрій, призначений для переміщення власника на віддалену територію. Його робота можлива лише при наявності артефакта "Телепорт".</ukr>
 		<fra>===Téléport manuel laissé par Strelk. La seule copie, son fabricant est inconnu. Peut transférer le propriétaire vers le gestionnaire de souhaits.</fra>
 		<pln>===Ręczny teleport, zostawiony przez Striełoka. Jedyny egzemplarz, jego wytwórca jest nieznany. Może przemieścić posiadacza do Spełniacza Życzeń.</pln>
@@ -1103,7 +1103,7 @@
 	</string>
 	<string id="ekza_akkumul">
 		<rus>Аккумулятор повышенной мощности</rus>
-		<eng>===Power Supply</eng>
+		<eng>High capacity battery</eng>
 		<ukr>Акумулятор підвищеної потужності</ukr>
 		<fra>===Alimentation</fra>
 		<pln>===Blok zasilania</pln>
@@ -1285,7 +1285,7 @@
 	</string>
 	<string id="item_detektor_baty">
 		<rus>Детектор Сахарова. Определяет и подаёт сигнал при наличии пластмассы в радиусе 10 метров.</rus>
-		<eng>===A detector that Sakharov has modified to specifically help the user find any plastic. It'll notify the user if that specific material can be found within a radius of 10 meters.</eng>
+		<eng>Sakharov's detector, which notifies the user if plastic can be found within a radius of 10 meters.</eng>
 		<ukr>Детектор Сахарова. Визначає і подає сигнал при наявності пластмаси в радіусі 10 метрів.</ukr>
 		<fra>Détecteur de Sakharov. Détecte et signale en présence de plastique dans un rayon de 10 mètres.</fra>
 		<pln>Detektor wykonany przez Sacharowa. Wykrywa i lokalizuje tworzywa sztuczne w promieniu 10 metrów.</pln>
@@ -1971,7 +1971,7 @@
 	</string>
 	<string id="nano_speed">
 		<rus>Модуль "Выносливость"</rus>
-		<eng>==="Speed" Module</eng>
+		<eng>"Endurance" Module</eng>
 		<ukr>Модуль "Витривалість"</ukr>
 		<fra>===Module "Vitesse"</fra>
 		<pln>===Moduł "Szybkość"</pln>
@@ -2097,7 +2097,7 @@
 	</string>
 	<string id="tm_docs_descr">
 		<rus>КПК из тайника Монолита. По-видимому, когда-то принадлежавший Тени Монолита.</rus>
-		<eng>PDA from the Monolith cache. Apparently it was once owned by the Monolith's Shadow.</eng>
+		<eng>PDA from the Monolith cache. Apparently it was once owned by the Shadow of the Monolith.</eng>
 		<ukr>КПК зі схованки Моноліта. Судячи з усього, колись належав Тіні Моноліту.</ukr>
 		<fra>PDA d'une planque Monolithe. Apparemment, appartenait autrefois aux Ombres du monolithe.</fra>
 		<pln>PDA ze schowka Monolitu. Najwidoczniej należało kiedyś do Cienia Monolitu.</pln>
@@ -2188,7 +2188,7 @@
 	</string>
 	<string id="item_arhara_instruk">
 		<rus>Инструкция по использованию и апгрейду нового костюма "СКАТ-15М". \nКостюм находится на крыше одного из зданий на территории фабрики "Янтарь". \nКостюм можно проапгрейдить 3 раза. \nПрименять апгрейды надо в следующем порядке:\n1. Система для активации модулей\n2. Блок апгрейда 1 \n3. Блок апгрейда 2\nПосле каждого апгрейда костюм приобретает новые свойства. После всех трёх апгрейдов в костюме активируется функция автоматического приёма медикаментов при наличии у владельца артефакта "Чёрная энергия". Одного артефакта хватает примерно на 12 часов работы, при его отсутствии эта функция отключается.</rus>
-		<eng>===Instructions for usage and upgrade procedures of the "SKAT-15M" suit. \nThe suit is located of the roof of one of the buildings in the factory complex in Yantar. \nThe suit can be upgraded 3 times. \nApplied upgrades should be in the following order:\n1. System for activating modules\n2. Upgrade part 1 \n3. Upgrade part 2\n After each upgrade, the suit acquires new properties. After all three upgrades, the suit begins to absorb energy, and it requires the "Dark Energy" artifact to function. These appear after an emission, but they can also be acquired from Sakharov.\nOne artifact is enough for about 12 hours of suit functionality. When the power is drained, the suit is automatically removed and placed in the user's inventory. It an be worn only if the artifact is in the user's backpack.</eng>
+		<eng>Instructions for usage and upgrade procedures of the "SKAT-15M" suit. \nThe suit is located of the roof of one of the buildings in the factory complex in Yantar. \nThe suit can be upgraded 3 times. \nApplied upgrades should be in the following order:\n1. System for activating modules\n2. Upgrade part 1 \n3. Upgrade part 2\n After each upgrade, the suit acquires new properties. After all three upgrades, the suit activates the automatic medication injection function in the presence of the "Black Energy" artifact. One artifact lasts for about 12 hours, without it this function is disabled.</eng>
 		<ukr>Інструкція по використанню і апгрейду нового костюма "СКАТ-15М". \nКостюм знаходиться на даху одного з будинків на території фабрики "Янтар". \nКостюм можна проапгрейдити 3 рази. \nЗастосовувати апгрейди треба в наступному порядку:\n1. Система для активації модулів\n2. Блок апгрейда 1\n3. Блок апгрейда 2\nПісля кожного апгрейда костюм набуває нових властивостей. Після всіх трьох апгрейдів у костюмі активується функція автоматичного прийому медикаментів при наявності у власника артефакта "Чорна енергія". Одного артефакта вистачає приблизно на 12 годин роботи, при його відсутності ця функція відключається.</ukr>
 		<fra>===Instructions pour l'utilisation et la mise à niveau de la nouvelle combinaison "CKAT-15M". La combinaison est située sur le toit de l'un des bâtiments situés sur le territoire de l'usine Yantar. \nLa combinaison peut être améliorée 3 fois. \nVeuillez appliquer les mises à niveau dans l'ordre suivant: \n1. Système pour activer les modules \n2. Mettre à niveau le bloc 1 \n3. Bloquer la mise à niveau 2 \nAprès chaque mise à niveau, la combinaison acquiert de nouvelles propriétés. Après toutes les améliorations, la combinaison commence à absorber de l'énergie et son travail nécessite l'artefact «Energie noire», qui tombe dans la zone après l'éjection ou est acquis de Sakharov. Si cet artefact est mis dans le sac à dos.</fra>
 		<pln>===Instrukcja użytkowania i ulepszania nowego kombinezonu "SKAT-15M" \nKombinezon znajduje się na dachu jednego z budynków, na terytorium fabryki "Jantar" \nKombinezon można ulepszać w 3 stopniach. \nUlepszenia należy stosować w następującej kolejności:\n1. System aktywacji modułów\n2. Blok ulepszenia Nr1 \n3. Blok ulepszenia Nr2\nPo każdym ulepszeniu kombinezon uzyskuje nowe właściwości, po drugim bloku ulepszenia zaczyna wymagać energii, i do jego działania konieczny jest artefakt "Czarna Energia", który można znależć na lokacjach po emisji lub nabyć u Sacharowa.\nJednego artefaktu wystarcza na około 12 godzin działania kombinezonu, po czym kombinezon automatycznie wraca do ekwipunku, założyć go można tylko wtedy, kiedy do plecaka trafi podany artefakt.</pln>
@@ -2278,9 +2278,9 @@
 		<pln>Wojskowy przenośny nadajnik, który przy zastosowaniu odpowiednich wzmacniaczy, może przekazywać wiadomości głosowe na odległość do 70 km.</pln>
 	</string>
 	<string id="enc_equipment_suvorotka">
-		<rus>Таблетки сыворотки. Являются почти универсальным антидотом, превосходя все известные аптечки и прочие препараты. Помимо этого является отличным средством для заживления ран и лечения различных болезней. Хорошо снимает похмельный синдром. Единственное средство, способное вылечить от "Чернобыльской чумы", которую можно подхватить при контакте с Паразитом, поскольку в состав сыворотки входит антибиотик широкого спектра действия.\n Крайне редки и имеют высокую стоимость.</rus>
-		<eng>===Serum tablets. They are an almost universal antidote, surpassing all known first-aid kits and other drugs in terms of treatment quality. In addition, it excellent for healing wounds and treating various diseases. It can even relieve a hangover. Единственное средство, способное вылечить от "Чернобыльской чумы", которую можно подхватить при контакте с Паразитом, поскольку в состав сыворотки входит антибиотик широкого спектра действия.\n These serum tablets extremely rare and highly expensive.</eng>
-		<ukr>Пігулки сироватки. Це майже універсальний антидот, який перевершує всі відомі аптечки та інші препарати. Крім цього є відмінним засобом для загоєння ран і лікування різних хвороб. Добре знімають похмільний синдром. Єдиний засіб, здатний вилікувати від "Чорнобильської чуми", яку можна підхопити при контакті з паразитами, оскільки до складу сироватки входить антибіотик широкого спектру дії.\n Вкрай рідкісні і мають високу вартість.</ukr>
+		<rus>Таблетки сыворотки. Являются почти универсальным антидотом, превосходя все известные аптечки и прочие препараты. Помимо этого является отличным средством для заживления ран и лечения различных болезней. Хорошо снимает похмельный синдром. Единственное средство, способное вылечить от "Чернобыльской чумы", которую можно подхватить при контакте с некоторыми обитателями Зоны, поскольку в состав сыворотки входит антибиотик широкого спектра действия.\n Крайне редки и имеют высокую стоимость.</rus>
+		<eng>Serum tablets. They are an almost universal antidote, surpassing all known first-aid kits and other drugs in terms of treatment quality. In addition, it excellent for healing wounds and treating various diseases. It can even relieve a hangover. It's the only remedy that can cure the "Chernobyl plague", which can be caught via contact with some inhabitants of the Zone, as the serum contains a broad-spectrum antibiotic.\n These serum tablets extremely rare and highly expensive.</eng>
+		<ukr>===Пігулки сироватки. Це майже універсальний антидот, який перевершує всі відомі аптечки та інші препарати. Крім цього є відмінним засобом для загоєння ран і лікування різних хвороб. Добре знімають похмільний синдром. Єдиний засіб, здатний вилікувати від "Чорнобильської чуми", яку можна підхопити при контакті з паразитами, оскільки до складу сироватки входить антибіотик широкого спектру дії.\n Вкрай рідкісні і мають високу вартість.</ukr>
 		<fra>===Comprimés de sérum. C'est un antidote presque universel, surpassant toutes les trousses de premiers soins et autres médicaments connus. De plus, c'est un excellent outil pour guérir les plaies et traiter diverses maladies. Enlève bien la gueule de bois. Единственное средство, способное вылечить от "Чернобыльской чумы", которую можно подхватить при контакте с Паразитом, поскольку в состав сыворотки входит антибиотик широкого спектра действия.\n Extrêmement rare et ont un coût élevé.</fra>
 		<pln>===Tabletki surowicy. Są uniwersalnym antidotum, przewyższając wszystkie znane apteczki i inne preparaty. Oprócz tego okazują się doskonałym środkiem na gojenie ran i leczenie różnych chorób. Dobrze usuwają skutki alkoholu. Единственное средство, способное вылечить от "Чернобыльской чумы", которую можно подхватить при контакте с Паразитом, поскольку в состав сыворотки входит антибиотик широкого спектра действия.\n Wyjątkowo rzadkie i posiadające wysoką cenę.</pln>
 	</string>
@@ -2300,14 +2300,14 @@
 	</string>
 	<string id="item_soap">
 		<rus>Особенное, сваренное по старинному рецепту банное мыло.</rus>
-		<eng>===Ordinary bath soap. In the good old days, people considered this enough for personal hygiene. There was no real variety for this product, but the soap was naturally made, even though it didn't have any real scent. However, so many years have passed since this was considered the norm for personal cleanness: fragrances, conditioners and moisturizers have changed people's perceptions of what is considered 'clean'. This soap still looks brand new...</eng>
+		<eng>A special bath soap brewed according to an old recipe.</eng>
 		<ukr>Особливе, зварене за старовинним рецептом банне мило.</ukr>
 		<fra>===Savon de bain ordinaire. Dans le bon vieux temps, les gens considéraient cela comme suffisant pour l'hygiène personnelle. Il n’existait pas de véritable variété pour ce produit, mais le savon était naturellement fabriqué, même s’il n’avait aucun parfum réel. Cependant, de nombreuses années se sont écoulées depuis que cela était considéré comme la norme en matière de propreté personnelle: les parfums, les revitalisants et les hydratants ont changé la perception des gens sur ce qui est considéré comme "propre". Ce savon a l'air tout neuf...</fra>
 		<pln>===Zwykłe mydło kąpielowe, jakiego w dawnych czasach było pod dostatkiem. Wprawdzie nie było zbyt dużego wyboru, za to mydło było naturalne, chociaż nie pachniało zbyt ładnie... Co by nie mówić, wszystkim dzisiejszym zagranicznym luksusom jak Duru, Palmolive itp. do niego daleko. Tyle lat minęło, a wygląda jak nowe...</pln>
 	</string>
 	<string id="item_amulet">
 		<rus>Амулет монолитовцев. Данный медальон имеется только у главарей клана и является своеобразным пропуском.</rus>
-		<eng>===An amulet of the Monolith. As it turns out, it's not enough to put on a Monolith suit to pass yourself off as one of those fanatics... By hanging this amulet around your neck, you'll be recognized as a high ranking member. It serves as a sort of pass, but for what is unknown...</eng>
+		<eng>Monolith Amulet. This amulet is available only to the heads of the clan and is a sort of a pass.</eng>
 		<ukr>Амулет монолітівців. Даний медальйон є тільки у ватажків клану і є своєрідним пропуском.</ukr>
 		<fra>===Amulette de Monolithe. Il s'avère qu'il n'est pas du tout nécessaire de revêtir la forme d'un monolithe pour ressembler à un représentant de ce groupe ... Il suffit de suspendre ce médaillon au cou, il ne s'agit que des chefs de clan.</fra>
 		<pln>===Amulet monolitowców. Okazuje się, że niekoniecznie trzeba wdziać mundur "Monolitu", żeby zewnętrznie być podobnym do przedstawicieli danego ugrupowania... Wystarczy powiesić na szyi ten medalion - takie posiadają tylko członkowie dowództwa i są one swojego rodzaju przepustką.</pln>
@@ -2466,7 +2466,7 @@
 	</string>
 	<string id="item_ekza_akkumul">
 		<rus>Аккумулятор повышенной мощности для питания зкзоскелетов сталкеров группировки Свобода. Отличается от подобных моделей для других зкзоскелетов повышенной ёмкостью и мощностью. Данный аккумулятор имеет более мощные контактные соединения, обеспечивающие большие токи отдачи, что может быть использовано в других изделиях, требующих большие токи для нагрузки. Для зарядки данного аккумулятора в условиях Зоны необходимо использование специальных устройств, подпитываемых энергетическими артефактами.</rus>
-		<eng>===An exoskeleton power supply for the stalkers of the Freedom faction. It differs from similar models for other exoskeletons by having increased battery capacity and a number of additional connectors.</eng>
+		<eng>A high-capacity battery for powering Freedom's exoskeletons. It differs from similar models for other exoskeletons by its higher capacity and power. This battery has stronger connections, providing a high current output, which can be used in other products that require more current to function. Special devices fueled by energy artifacts are required to charge this battery within the Zone.</eng>
 		<ukr>Акумулятор підвищеної потужності для екзоскелетів сталкерів угрупування "Воля". Відрізняється від подібних моделей для інших екзоскелетів підвищеною ємністю і потужністю. Даний акумулятор має більш потужні контактні з'єднання, які надають більший струм віддачі, що може бути використано в інших приладах, які потребують більші струми для навантаження. Для зарядки даного акумулятора в умовах Зони необхідне використання спеціальних приладів, які підживлюються енергетичними артефактами.</ukr>
 		<fra>===Alimentation électrique pour les stalker du groupe La Liberté. Il diffère des modèles similaires pour d'autres squelettes avec une capacité accrue et le caractère des connecteurs.</fra>
 		<pln>===Blok zasilania do egzoszkieletów stalkerów ugrupowania "Wolność". Odróżnia się od podobnych modeli do innych egzoszkieletów podwyższoną pojemnością i rodzajem podłączeń.</pln>
@@ -2591,8 +2591,8 @@
 		<pln>Komputerowy dysk z informacją.</pln>
 	</string>
 	<string id="equipment_bullion_gild">
-		<rus>Говорят, что это золото выплавлено одним из жителей Зоны из деталей оборудования, собранных в различных лабораториях. Имеет гравировку, благодаря которой является одним из культовых предметов для бойцов группировки.%c[255,255,255,0]Поскольку вещь культовая и явно уникальная, то продавать её не стоит.</rus>
-		<eng>===It is said that this gold was melted down by one of the residents of the Zone from spare and scrap parts gathered from various laboratories. It has an engraving, thanks to which it is one of the most cherished objects for members of the Freedom faction.</eng>
+		<rus>Говорят, что это золото выплавлено одним из жителей Зоны из деталей оборудования, собранных в различных лабораториях. Имеет гравировку, благодаря которой является одним из культовых предметов для бойцов группировки.\n\n%c[255,255,255,0]Поскольку вещь культовая и явно уникальная, то продавать её не стоит.</rus>
+		<eng>It is said that this gold was melted down by one of the residents of the Zone from spare and scrap parts gathered from various laboratories. It has an engraving, thanks to which it is one of the most cherished objects for the faction's fighters.\n\n%c[255,255,255,0]As it is iconic and clearly unique, it is not worth selling.</eng>
 		<ukr>===Кажуть, що це золото - виплавлено одним з жителів Зони з деталей обладнання, зібраних в різних лабораторіях. Має гравіювання, завдяки якому є одним з культових предметів для бійців угруповання.%c[255,255,255,0]Оскільки річ культова і явно унікальна, то продавати її не варто.</ukr>
 		<fra>===On dit que cet or a été fondu par l'un des habitants de la zone à partir de pièces d'équipement assemblées dans divers laboratoires. Il porte une gravure, ce qui en fait l’un des objets de culte pour les combattants du groupe.</fra>
 		<pln>===Mówią, że to złoto wytopił jeden z mieszkańców Zony z elementów oprzyrządowania, zebranych w różnych laboratoriach. Posiada grawerunek, dzięki któremu stała się jednym z kultowych przedmiotów dla bojowników ugrupowania.</pln>

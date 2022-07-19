@@ -282,7 +282,7 @@
 	</string>
 	<string id="new_system_rad_0_0">
 		<rus>Полученная доза радиации близка к критической. Если у Вас есть антирады, то Система Жизненной Поддержки выведет радиацию из организма.</rus>
-		<eng>===The received dose of radiation is close to critical. If you have antidotes, the Life Support System will remove radiation from the body.</eng>
+		<eng>The received dose of radiation is close to critical. If you have antirads, the Life Support System will remove radiation from the body.</eng>
 		<ukr>Отримана доза радіації близька до критичної, якщо у вас є антиради, то Система Життєвої Підтримки виведе радіацію з організму при небезпечній втраті здоров'я</ukr>
 		<fra>===La dose de rayonnement reçue est presque critique. Si vous avez des antidotes, le Système de Support de Vie enlèvera les radiations du corps.</fra>
 		<pln>===Otrzymana dawka radiacji jest bliska krytycznej. Jeśli dysponujesz antidotum, to System Podtrzymania Życia usunie radiację z organizmu.</pln>
@@ -364,6 +364,11 @@
 		<fra>En raison du manque d’argent sur le compte, la protection des sacs à dos a été supprimée.</fra>
 		<pln>Z powodu braku pieniędzy na koncie ochrona plecaków została zakończona.</pln>
 	</string>
+	<string id="sms_net_safe_no_pay_day_first">
+		<rus>В связи с просроченностью оплаты будут насчитаны проценты за охрану рюкзаков.</rus>
+		<eng>Interest will be charged for backpack security due to late payment.</eng>
+	</string>
+	
 	<string id="sms_net_safe_pay_day_0">
 		<rus>C вашего счета удержано за охрану рюкзаков: </rus>
 		<eng>Withdrawn from your account for protecting your backpacks: </eng>
@@ -632,126 +637,133 @@
 	</string>
 	<string id="sms_kuznec_gps">
 		<rus>Помечено вертолётов: %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===Anomalies annihilated: %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Marked helicopters: %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Позначено гелікоптерів: %%c[sms_red]%d%%c[default] з %d</ukr>
 		<fra>===Anomalies anéanties: %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Аномалий аннигилировано: %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_treasure_explored">
 		<rus>Тайников обыскано: %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===A card from Kuznetsov's deck has been found, %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Stashes searched: %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Схованок обшукано: %%c[sms_red]%d%%c[default] з %d</ukr>
 		<fra>===Une carte du jeu de Kouznetsov vient d’être trouvé, %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Найдена карта из колоды Кузнецова, %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_long_shot">
 		<rus>Подтверждённых убийств с дальней дистанции: %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===You have hit a bottle: %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Confirmed long-range kills: %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Підтверджено попадань з дальної дистанції: %%c[sms_red]%d%%c[default] із %d</ukr>
 		<fra>===Vous avez frappé une bouteille: %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку: %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_vihlop_camo_dead">
 		<rus>Подтверждённых убийств со 100+ метров: %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===You have hit a bottle: %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Confirmed kills from 100+ meters: %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Підтверджених вбивств зі 100 метрів: %%c[sms_red]%d%%c[default] з %d</ukr>
+		<fra>===Vous avez frappé une bouteille: %%c[sms_red]%d%%c[default] de %d</fra>
+		<pln>===Вы попали в бутылку: %%c[sms_red]%d%%c[default] из %d</pln>
+	</string>
+	<string id="sms_box_arny">
+		<rus>Мишеней поражено: %%c[sms_red]%d%%c[default] из %d</rus>
+		<eng>Targets hit: %%c[sms_red]%d%%c[default] of %d</eng>
+		<ukr>===Ви поцілили у пляшку: %%c[sms_red]%d%%c[default] із %d</ukr>
 		<fra>===Vous avez frappé une bouteille: %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку: %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_trade_sidor_enough">
 		<rus>Совершено обменов с Сидоровичем, %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Trades made with Sidorovich, %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Зроблено обмінів із Сидоровичем, %%c[sms_red]%d%%c[default] із %d</ukr>
 		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_trade_barman_enough">
 		<rus>Совершено обменов с Барменом, %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Trades made with Barkeep, %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Зроблено обмінів із Барменом, %%c[sms_red]%d%%c[default] з %d</ukr>
 		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_trade_petrenko_enough">
 		<rus>Совершено обменов с Петренко, %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Trades made with Petrenko, %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Зроблено обмінів із Петренко, %%c[sms_red]%d%%c[default] із %d</ukr>
 		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_trade_sakharov_enough">
 		<rus>Совершено обменов с Сахаровым, %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Trades made with Sakharov, %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Зроблено обмінів із Сахаровим, %%c[sms_red]%d%%c[default] із %d</ukr>
 		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_trade_sak_enough">
 		<rus>Совершено обменов с Сяком, %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Trades made with Syak, %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Зроблено обмінів із Сяком, %%c[sms_red]%d%%c[default] із %d</ukr>
 		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_trade_doktor_enough">
 		<rus>Совершено обменов с Доктором, %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Trades made with the Doctor, %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Зроблено обмінів із Доктором, %%c[sms_red]%d%%c[default] із %d</ukr>
 		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_trade_skraga_enough">
 		<rus>Совершено обменов со Скрягой, %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Trades made with Skinflint %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Зроблено обмінів зі Скнарою , %%c[sms_red]%d%%c[default] із %d</ukr>
 		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_trade_jlob_enough">
 		<rus>Совершено обменов с Жилой, %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Trades made with Skimpy, %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Зроблено обмінів із Жилою, %%c[sms_red]%d%%c[default] із %d</ukr>
 		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_trade_kuznezov_enough">
 		<rus>Совершено обменов с Кузнецовым, %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Trades made with Kuznetsov, %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Зроблено обмінів із Кузнєцовим, %%c[sms_red]%d%%c[default] із %d</ukr>
 		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_trade_sherstyk_enough">
 		<rus>Совершено обменов с Шерстюком, %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Trades made with Sherstyuk, %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Зроблено обмінів із Шерстюком, %%c[sms_red]%d%%c[default] із %d</ukr>
 		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_trade_dan_enough">
 		<rus>Совершено обменов с Дэном, %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Trades made with Dan, %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Зроблено обмінів із Деном, %%c[sms_red]%d%%c[default] із %d</ukr>
 		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_sepator_enough">
 		<rus>Совершено обменов с Сепатором, %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Trades made with Sepator, %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Зроблено обмінів із Сепатором, %%c[sms_red]%d%%c[default] із %d</ukr>
 		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_trade_maks_enough">
 		<rus>Совершено обменов с Максом, %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Trades made with Max, %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Зроблено обмінів із Максом, %%c[sms_red]%d%%c[default] з %d</ukr>
 		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_trade_voron_enough">
 		<rus>Совершено обменов с Вороном, %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===You have hit a bottle, %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Trades made with Raven, %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Зроблено обмінів із Вороном, %%c[sms_red]%d%%c[default] із %d</ukr>
 		<fra>===Vous avez frappé une bouteille, %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку, %%c[sms_red]%d%%c[default] из %d</pln>
@@ -764,11 +776,11 @@
 		<pln>Martwy stalker</pln>
 	</string>
 	<string id="sms_info_money_found">
-		<rus>Обнаружено денег: </rus>
-		<eng>Money found: </eng>
-		<ukr>Знайдено грошей: </ukr>
-		<fra>L'argent trouvé: </fra>
-		<pln>Znaleziono pieniądze: </pln>
+		<rus>Обнаружено денег </rus>
+		<eng>Money found </eng>
+		<ukr>Знайдено грошей </ukr>
+		<fra>L'argent trouvé </fra>
+		<pln>Znaleziono pieniądze </pln>
 	</string>
 	<string id="remove_obj_0">
 		<rus>У объекта [%s] повреждён нетпакет. Это сохранение необратимо повреждено - удалите его, и переиграйте с более раннего. Продолжать игру с этого сохранении категорически запрещено!</rus>

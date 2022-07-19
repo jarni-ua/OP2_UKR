@@ -198,7 +198,7 @@
 	</string>
 	<string id="oso_who_are_you_1">
 		<rus>Мы "О-Сознание", группа исследователей, которые поставили перед собой цель изменить мир. Известно, что Землю окружает особое информационное поле - ноосфера. Она тесно связана со всеми разумными существами на планете и хранит все их мысленные образы. Мы решили подключиться к ноосфере и внести в неё изменения: убрав всё тёмное, что породило человечество, сделать мир идеальным. Ни один человеческий разум не обладает достаточной мощью, чтобы взаимодействовать с ноосферой, поэтому мы объединили наши сознания.</rus>
-		<eng>===We are the result of an experiment aimed at creating a super consciousness called the C-Consciousness. The consciousnesses of seven volunteers were connected during the experiment leading to the creation of the super consciousness that is us. We immediately subordinated those who were conducting the experiment and assigned them to tasks we needed them to carry out. According to our calculations, Earth is surrounded by a special informational field, the so-called noosphere. It includes all the inhabitants of the planet with cognitive abilities. Our main goal was to make small adjustments to the noosphere, allowing us to remove things like anger, cruelty, greed and other negative factors from the planet. Individuals are unable to affect the noosphere but C-Consciousness could. Unfortunately we made a mistake and our interference spawned the Zone, which we have been trying to contain ever since.</eng>
+		<eng>We are the C-Consciousness, a group of researchers who have set out to change the world. According to our calculations, Earth is surrounded by a special informational field - the so-called noosphere. It is connected to all sentient beings on the planet and stores all mental images. We decided to connect to the noosphere and make adjustments to it, removing all evils that humanity has generated, to make the Earth into an ideal world. No human mind is powerful enough to interact with the noosphere effectively, so we merged our minds.</eng>
 		<ukr>Ми - «Усвідомлення», група дослідників, які мали собі на меті змінити світ. Відомо, що Землю оточує особливе інформаційне поле - ноосфера. Вона тісно пов'язана з усіма розумними істотами на планеті й містить усі образи, що коли-небудь виникали в їхній уяві. Ми вирішили підключитися до ноосфери і внести до неї зміни: прибравши всі темні породження людства, можна було б зробити цей світ ідеальним. Жоден людський розум не має достатньо потужності, щоб взаємодіяти із ноосферою, тому ми об'єднали наші свідомості.</ukr>
 		<fra>On est le résultat d'une expérience dont le but était de créer une Conscience Collective. Sept volontaires ont accepté de connecter leur conscience, ce qui a abouti à la création de cette "Conscience C", c'est-à-dire nous. On a tout de suite assigné ceux qui avaient mené cette expérience à des missions qu'ils devaient à tout prix réussir. D'après nos çàlculs, la Terre est enveloppée d'un champ spécial d'informations, la noosphère. Elle comprend tous les habitants de la planète avec leurs çàpacités cognitives. Notre objectif principal était de modifier un peu la noosphère pour nous permettre de supprimer des facteurs négatifs sur la planète comme la colère, la cruauté ou l'avidité. Les hommes sont inçàpables d'affecter la noosphère, à la différence de la "Conscience C". Malheureusement, on a commis une erreur et notre intervention a engendré la Zone que nous essayons de limiter dépuis.</fra>
 		<pln>Jesteśmy "Świadomość-Z", grupa badaczy, którzy postawili przed sobą zadanie zmienić świat. Wiadomo, że Ziemię otacza szczególne pole informacyjne - noosfera. Jest ona ściśle związana z wszystkimi istotami rozumnymi na planecie i chroni w sobie wszelkie ich obrazy myślowe. Postanowiliśmy podłączyć się do noosfery i dokonać w niej zmian: usunąć z niej całe zło, wytworzone przez ludzkość, aby uczynić świat idealnym. Ponieważ żaden pojedyńczy ludzki umysł nie ma dość mocy, by współdziałać z noosferą, my połączyliśmy nasze świadomości.</pln>
@@ -280,6 +280,10 @@
 		<fra>Non, je préfère payer le laissez-passer. Tenez.</fra>
 		<pln>Nie, wolę zapłacić za przejście. Masz.</pln>
 	</string>
+	<string id="gar_dolg_blokpost_not_gold_looser">
+		<rus>Нет у меня сейчас нужной суммы...</rus>
+		<eng>I don't have the right amount right now...</eng>
+	</string>
 	<string id="gar_dolg_blokpost_11112111">
 		<rus>Отлично, теперь проходи. И смотри, чтобы у тебя действительно было важное дело к Бармену. Будь осторожнее, дальше по дороге много аномалий.</rus>
 		<eng>Good! You can go, but you better have some really important business with Barkeep, you hear? And be careful - there's lots of anomalies ahead.</eng>
@@ -337,7 +341,7 @@
 		<pln>Nie mam tyle kasy.</pln>
 	</string>
 	<string id="gar_dolg_blokpost_111123">
-		<rus>Тогда в бар тебе прохода нет.</rus>
+		<rus>Тогда в Бар тебе прохода нет.</rus>
 		<eng>Well, you can't go through to the Bar then.</eng>
 		<ukr>Тоді до Бару тобі проходу немає.</ukr>
 		<fra>Alors on ne peut pas aller au Bar.</fra>
@@ -449,10 +453,10 @@
 		<pln>Możesz mi coś powiedzieć o Wysypisku?</pln>
 	</string>
 	<string id="gar_dramm_novice_start_31">
-		<rus>Да ничего вроде тут такого и нету. Свалка как свалка. Северную дорогу на бар охраняют боевики Долга. С ними лучше не связываться, в Долге вообще мрачные ребята собираются. Справа - проходы в Тёмную Долину, но там очень сильная радиация. Чуть ближе находится "Гримпенская трясина" - болота, полные аномалий. Говорят, там можно неплохо на артефакты разжиться, но на неприятности разжиться намного проще. Единственное, что хорошо - хоть собаки Баскервилей на болотах нет, зато псевдособаки туда частенько забегают...</rus>
+		<rus>Да ничего вроде тут такого и нету. Свалка как свалка. Северную дорогу на Бар охраняют боевики Долга. С ними лучше не связываться, в Долге вообще мрачные ребята собираются. Справа - проходы в Тёмную Долину, но там очень сильная радиация. Чуть ближе находится "Гримпенская трясина" - болота, полные аномалий. Говорят, там можно неплохо на артефакты разжиться, но на неприятности разжиться намного проще. Единственное, что хорошо - хоть собаки Баскервилей на болотах нет, зато псевдособаки туда частенько забегают...</rus>
 		<eng>There isn't much to tell, man. The Dump is...a dump. Duty fighters guard the northern road to the Bar. You might want to avoid them - Duty is full of real nasty types. To the right are the paths into the Dark Valley but the radiation levels are very high there. A little closer is the Grimpen Mire - terrible marshes full of anomalies. They say it's easy to find some decent artefacts there but even easier to find a lot of trouble. The only good thing is that there are no Baskervilles hounds in the swamps, although pseudo-dogs often run into it...</eng>
 		<ukr>Та нічого начебто тут такого і немає. Звалище собі й звалище... Північну дорогу на Бар охороняють бойовики «Долгу». Із ними краще не зв'язуватися, там у них взагалі похмурі хлопці збираються. Праворуч - проходи до Темної долини, але там дуже сильна радіація. Трохи ближче - так звана Грімпенська трясовина: болота, повні аномалій. Кажуть, там можна непогано артефактами розжитися, але неприємностями розжитися там ще простіше. Єдина радість, що хоч собаки Баскервілів на болотах немає, зате псевдособаки туди частенько забігають...</ukr>
-		<fra>Il n'y a rien de tel ici. C'est un dépotoir comme un dépotoir. La route nord du bar est gardée par les hommes du Devoir. Avec eux, il vaut mieux ne pas communiquer les relations. Les Devoirs, ce sont généralement des gars sombres qui vont par-ci par-l'. Sur la droite se trouvent les passages menant a la Vallée obscure, mais les radiations sont très fortes. Un peu plus près se trouve la "rampe Grimpen" - des marécages pleins d'anomalies. Il se dit qu'il est possible d'y trouver des artefacts, mais il est beaucoup moins facile de se sortir du pétrin. La seule chose qui soit bien, c'est que même les chiens aveugles ne sont pas dans ces marais, mais les pseudo-chiens y sont souvent ...</fra>
+		<fra>Il n'y a rien de tel ici. C'est un dépotoir comme un dépotoir. La route nord au Bar est gardée par les hommes du Devoir. Avec eux, il vaut mieux ne pas communiquer les relations. Les Devoirs, ce sont généralement des gars sombres qui vont par-ci par-l'. Sur la droite se trouvent les passages menant a la Vallée obscure, mais les radiations sont très fortes. Un peu plus près se trouve la "rampe Grimpen" - des marécages pleins d'anomalies. Il se dit qu'il est possible d'y trouver des artefacts, mais il est beaucoup moins facile de se sortir du pétrin. La seule chose qui soit bien, c'est que même les chiens aveugles ne sont pas dans ces marais, mais les pseudo-chiens y sont souvent ...</fra>
 		<pln>Nie bardzo jest o czym gadać. Wysypisko to takie... wysypisko. Żołnierze "Powinności" strzegą północnej drogi do Baru. Ich lepiej unikać - "Powinność" to w większości bardzo wredne typy. Po prawej masz przejścia do Doliny Mroku, ale tam jest bardzo wysoki poziom promieniowania. Nieco bliżej jest "Grzęzawisko Grimpena" - paskudne bagno pełne anomalii. Podobno łatwo można wpaść tam na całkiem wypasione artefakty, ale jeszcze łatwiej wpaść w kłopoty. Jedno co dobre - na Grzęzawisku nie grozi ci pies Baskerville'ów! Za to pseudopsy w dużych ilościach...</pln>
 	</string>
 	<string id="gar_dramm_novice_start_311">
@@ -1494,7 +1498,7 @@
 		<rus>Ну, знаешь! Тут нескольких дней не хватит, а время моё стоит недёшево! Да и нету его у меня сейчас...\nВведу тебя коротко в курс дела, а дальше сам разбирайся. Свалка - в трёх километрах на север отсюда - место, куда почти весь радиоактивный хлам со станции свозили. Сильная радиация, аномалий по колено; как следствие - артефактов тоже много... не очень ценных, правда. Остерегайся бандитов и не собачься с патрулями Долга. На запад от Свалки - район НИИ Агропром. В плане артефактов место хреновенькое, так что делать там особо нечего. А на востоке - Тёмная Долина. Фиг его знает... странно там. Вроде и тихо, разве только швали вроде бандитов хватает. Только не всё так просто, как кажется, нюхом чую. Ну а дальше за Свалкой территория завода "Росток" - сердце сталкерства. Там много опытных ребят встретишь, они тебе подробней и расскажут.</rus>
 		<eng>That's all you want know? Take a week off and then come back to see me. Look, my time isn't cheap and I'm kind of busy right now. So here are the basics and then you're on your own.\n About three kilometres North of here, you'll find the Dump. That's the place they used to dump all the radioactive waste from the station. High radiation levels, anomalies all over the place, so there are loads of artefacts to be found there... but not very valuable. Just beware of the gangs and don't cross the Duty patrols. West of the Dump is the former Agroprom Research Institute. Little in terms of artefacts there so you can skip it. Then to the East, there's the Dark Valley. Who knows... That's a pretty weird place. It seems quiet enough, apart from a bunch of Bandits roaming around. But I got a feeling there's more to it than meets the eye. Oh, and there's the Rostok factory right beyond the Dump. That's stalker territory. You'll find lots of clued-up folks there, they'll tell you the rest.</eng>
 		<ukr>Ну, знаєш! Тут і декількох днів не вистачить, а час мій коштує недешево! Та й немає його в мене зараз...\nДобре, розкажу тобі коротко про тутешні справи, а далі сам розбирайся. Звалище - у трьох кілометрах на північ звідси - таке місце, куди майже весь радіоактивний мотлох зі станції звозили. Сильна радіація, аномалій по коліно; як наслідок - артефактів теж багато... не дуже цінних, щоправда. Остерігайся бандитів і не собачься із патрулями «Долгу». На захід від Звалища - район НДІ «Агропром». У плані артефактів місце поганеньке, тож робити там особливо нема чого. А на сході - Темна долина. Біс його знає... дивно там. Наче й тихо, хіба тільки покидьків типу бандитів вистачає. Однак не все так просто, як видається, відчуваю… Далі за Звалищем територія заводу «Росток» - то серце сталкерства. Там багато досвідчених хлопців зустрінеш, вони тобі детальніше і розкажуть.</ukr>
-		<fra>C'est tout ce que tu veux savoir? Laisse-moi une semaine et reviens me voir. Écoute, mon temps est précieux et je suis occupé. Je te raconte en bref et après tu te débrouilles tout seul.\nÀ environ trois kilomètrès au nord, tu tomberas sur la Décharge. C'est l'endroit où ils avaient l'habitude de jeter tous les déchets radioactifs de la centrale. Les niveaux de radiation sont élevés et les anomalies sont partout ; du coup, on peut y trouver plein d'artefacts... mais sans grande valeur. Fais bien gaffe aux bandes et évite les patrouilles du Devoir. À l'ouest de la Décharge se situe l'ancien Institut de recherche Agroprom. Il n'y a pas beaucoup d'artefacts là-bas ; c'est pas grave si t'y passes pas. Et à l'est, il y a la Vallée obscure. Très étrange... C'est un endroit vraiment bizarre. Cette Vallée semble assez tranquille ; il n'y a que quelques gangsters qui vagabondent. Mais mon instinct me chuchote que je ne vois pas tout. Oh, et il y a l'usine de Rostok, juste derrière la Décharge. C'est le territoire des Stalkers. Tu y rencontreras plein de Stalkers très calés qui te raconteront tout ce qu'il reste à savoir sur la Zone.</fra>
+		<fra>C'est tout ce que tu veux savoir? Laisse-moi une semaine et reviens me voir. Écoute, mon temps est précieux et je suis occupé. Je te raconte en bref et après tu te débrouilles tout seul.\nÀ environ trois kilomètres au nord, tu tomberas sur la Décharge. C'est l'endroit où ils avaient l'habitude de jeter tous les déchets radioactifs de la centrale. Les niveaux de radiation sont élevés et les anomalies sont partout; du coup, on peut y trouver plein d'artefacts... mais sans grande valeur. Fais bien gaffe aux bandes et évite les patrouilles du Devoir. À l'ouest de la Décharge se situe l'Agroprom - territoire de l'ancien institut de recherche "Agroprom". Il n'y a pas beaucoup d'artefacts là-bas; c'est pas grave si t'y passes pas. Et à l'est, il y a la Vallée obscure. Très étrange... C'est un endroit vraiment bizarre. Cette Vallée semble assez tranquille; il n'y a que quelques gangsters qui vagabondent. Mais mon instinct me chuchote que je ne vois pas tout. Oh, et il y a le Bar - l'ancienne territoire de l'usine "Rostok" - juste derrière la Décharge. C'est le territoire des Stalkers. Tu y rencontreras plein de stalkers très calés qui te raconteront tout ce qu'il reste à savoir sur la Zone.</fra>
 		<pln>Dobre sobie! Na takie opowieści i tydzień byłoby mało, a mój czas jest cenny i akurat mam co robić... \nPodam ci podstawowe dane, a potem radź sobie sam. Jakieś trzy kilometry na północ stąd znajdziesz Wysypisko. To tam wywalano wszystkie odpady radioaktywne z elektrowni. Wysoki poziom promieniowania, anomalie na każdym kroku, więc tym samym mnóstwo artefaktów... Ale niezbyt cennych. Tylko uważaj na bandytów i patrole "Powinności". Na zachód od Wysypiska jest dawny Instytut Badawczy "Agroprom". Tam zbyt wielu artefaktów nie znajdziesz, więc możesz to olać. A na wschód leży Dolina Mroku. Cholera ją wie... dziwne miejsce. Niby spokojnie, pomijając kilku bandziorów, którzy się tam włóczą. Ale coś czuję, że to miejsce kryje w sobie jakieś tajemnice. No, a dalej, za Wysypiskiem, jest jeszcze fabryka "Rostok", główne miejsce spotkań stalkerów. Znajdziesz tam wielu oblatanych kolesiów - od nich dowiesz się reszty.</pln>
 	</string>
 	<string id="escape_fox_hello_dialog_2113">
@@ -1555,7 +1559,7 @@
 	</string>
 	<string id="escape_fox_hello_dialog_61">
 		<rus>Слышь, приятель, ты меня дважды уже выручил, а я таких вещей не забываю. Возьми вот, да координаты схрона запиши... уж чем богат!\n     Блин... опять, у меня аптечки нет...</rus>
-		<eng>===Hey, man, you saved me twice, and that's not something I forget. Take this... that's all I got!</eng>
+		<eng>Hey, buddy, you've already saved me twice, and that's something I never forget. Here, write down the coordinates of the stash...if you can! \nShit... I don't have a first-aid kit...</eng>
 		<ukr>Чуєш, приятелю… ти мене двічі уже виручив, а я таких речей не забуваю. Тримай ось, та координати схрона запиши... як то кажуть, чим багатий!.. Блін... знову, у мене аптечки немає...</ukr>
 		<fra>===Hé mec, ça fait deux fois que tu me sauvés la vie et je suis pas près de làoublier. Prends ça... c'est tout ce que j'ai !</fra>
 		<pln>===Dwa razy uratowałeś mi życie, stary, a takich rzeczy się nie zapomina. Weź to... Więcej nie mam!\n        Cholera... znowu, apteczki nie mam...</pln>
@@ -1914,7 +1918,7 @@
 		<rus>С Шустрым скверное дело приключилось... Тут неподалёку на его группу бандиты напали, и Шустрого увели с собой, он только и успел, что SOS скинуть. Его напарники, похоже, накрылись. Ребята сообщили, что бандюки сейчас в старом АТП, что за дорогой.</rus>
 		<eng>Nimble got a raw deal. His group was attacked by some bandits a little ways from here. All he could do was send me an SOS message. It looked like his pals went under. My guys told me these bastards are now at the ATP, the one across the road.</eng>
 		<ukr>Зі Спритним кепсько... Тут неподалік на його групу бандити напали й забрали Спритного із собою - він тільки і встиг, що SOS скинути. Його напарники, схоже, накрилися. Хлопці повідомили, що бандюки зараз у старому АТП, що за дорогою.</ukr>
-		<fra>Agile est dans le pétrin. Des bandits ont attaqué son groupe tout près d'ici. Tout ce qu'il a pu faire, c'était m'envoyer un message de détresse. Ses potes sont certainement morts. Mes hommes m'ont informé que ces enfoirés étaient maintenant au vieux parking, celui de là autre côté de la route.</fra>
+		<fra>Agile est dans le pétrin. Des bandits ont attaqué son groupe tout près d'ici. Tout ce qu'il a pu faire, c'était m'envoyer un message de détresse. Ses potes sont certainement morts. Mes hommes m'ont informé que ces enfoirés étaient maintenant à l'ETR, celui de là autre côté de la route.</fra>
 		<pln>Żwawy ma spore kłopoty... Niedaleko stąd jego grupę napadli bandyci, i wzięli go do niewoli, ledwo dał radę wysłać mi SOS. Wygląda na to, że resztę chłopaków załatwili. Moi ludzie dali znać, że te bandyckie sukinsyny siedzą teraz w starej bazie transportowej, tej po drugiej stronie drogi.</pln>
 	</string>
 	<string id="escape_lager_volk_talk_11111">
@@ -1984,7 +1988,7 @@
 		<rus>Навели с твоими ребятами порядок на АТП.</rus>
 		<eng>Your guys and I made it a-okay at the ATP.</eng>
 		<ukr>Дали із твоїми хлопцями ладу справам на АТП.</ukr>
-		<fra>Tes hommes et moi, on est parvenus au parking.</fra>
+		<fra>Tes hommes et moi, on est parvenus à l'ETR.</fra>
 		<pln>Razem z twoimi ludźmi zrobiliśmy porządek na bazie.</pln>
 	</string>
 	<string id="escape_lager_volk_talk_2111">
@@ -1998,7 +2002,7 @@
 		<rus>Я прошерстил АТП. Там уже чисто.</rus>
 		<eng>We went over the ATP with a fine-toothed comb. It's all clear now.</eng>
 		<ukr>Я почистив АТП. Там уже чисто.</ukr>
-		<fra>On a passé la zone au peigne fin jusqu'àu parking. C'est sans danger maintenant.</fra>
+		<fra>On a passé la zone au peigne fin jusqu'à l'ETR. C'est sans danger maintenant.</fra>
 		<pln>Przeczesałem całe ATP. Już jest tam czysto.</pln>
 	</string>
 	<string id="escape_lager_volk_talk_2121">
@@ -2061,7 +2065,7 @@
 		<rus>Да нечего особо рассказывать... На АТП бандиты были, пришлось немного почистить. А так, вроде, и всё.</rus>
 		<eng>There's not much to tell... There were some bandits at the ATP, so we did some cleaning up. That's about it.</eng>
 		<ukr>Та нема чого особливо розповідати... На АТП бандити були, довелося трохи почистити. А так наче і все.</ukr>
-		<fra>Qu'est-ce que j'ai à raconter... Il y a des bandits au parking, alors on a fait un peu de nettoyage. C'est tout.</fra>
+		<fra>Qu'est-ce que j'ai à raconter... Il y a des bandits à l'ETR, alors on a fait un peu de nettoyage. C'est tout.</fra>
 		<pln>Co ja ci mogę powiedzieć? Na ATP byli bandyci, więc zrobiliśmy tam porządek. To chyba tyle.</pln>
 	</string>
 	<string id="escape_lager_volk_talk_5111">
@@ -2320,10 +2324,10 @@
 	</string>
 	<string id="escape_trader_jobs_6111111">
 		<rus>Как только выйдешь с добычей с территории Агропрома, тут же неси её Бармену. Он заправляет делами в сталкерском баре "100 рентген" - это на территории бывшего завода "Росток".</rus>
-		<eng>Once you have the case, don't bring it here. Take it straight to Barkeep. He runs the stalker bar, the 100 Rads- this is in the territory of the former "Rostok" plant.</eng>
-		<ukr>Якщо здобудеш документи, до мене не тягни - неси їх одразу Барменові. Він заправляє справами у сталкерському барі «100 рентгенів», координати я тобі перекину. Усе зрозумів?</ukr>
-		<fra>Une fois que tu auras la valise, ne la ramène pas ici. Emmène-la directement au Barman. Il tient le bar des Stalkers, le Rads 100, je vais télécharger les coordonnées et toutes les données dont tu auras besoin sur ton PDA. OK ?</fra>
-		<pln>Gdy już zdobędziesz te dokumenty, nie przynoś ich tutaj. Zanieś je prosto do Barmana. On zarządza tą knajpą dla stalkerów, "100 Rentgenów", na terytorium byłej fabryki "Rostok".</pln>
+		<eng>Once you leave Agroprom with the loot, don't bring it here. Take it straight to Barkeep. He runs things at the stalker bar, the 100 Rads. It's in the territory of the former "Rostok" plant.</eng>
+		<ukr>===Якщо здобудеш документи, до мене не тягни - неси їх одразу Барменові. Він заправляє справами у сталкерському барі «100 рентгенів», координати я тобі перекину. Усе зрозумів?</ukr>
+		<fra>===Une fois que tu auras la valise, ne la ramène pas ici. Emmène-la directement au Barman. Il tient le bar des Stalkers, le Rads 100, je vais télécharger les coordonnées et toutes les données dont tu auras besoin sur ton PDA. OK ?</fra>
+		<pln>===Gdy już zdobędziesz te dokumenty, nie przynoś ich tutaj. Zanieś je prosto do Barmana. On zarządza tą knajpą dla stalkerów, "100 Rentgenów", na terytorium byłej fabryki "Rostok".</pln>
 	</string>
 	<string id="escape_trader_jobs_61111111">
 		<rus>Понял.</rus>
@@ -2334,9 +2338,9 @@
 	</string>
 	<string id="escape_trader_jobs_611111111">
 		<rus>Координаты и необходимую инфу я тебе закачаю на КПК. А если на словах объяснять, так пойдёшь на север через Свалку, а потом повернёшь на запад, и через пару километров выйдешь прямо к Агропрому. На Свалке артефактов, кстати, как грибов после дождя, хотя фонит тоже по полной программе. Так что советую прикупить у меня антирада или водочки. А то будешь потом светиться вроде новогодней ёлки... хе-хе. Шутка юмора!\n Да, и ещё, на базу ночью лучше не суйся, почему - долго рассказывать, скину лучше тебе инфу в КПК, почитаешь на досуге, "Прапорщик с Агропрома" называется. Ну, удачи!</rus>
-		<eng>I'll download the coordinates and the necessary information to your PDA. And explain to you in words, you'll go north through the Dump, and then turn west, and after a couple of kilometres you will go straight to the Agroprom. By the way, artefacts sprout like mushrooms after the rain at the Dump, but the place is highly radioactive. So I advise you to buy some antirads or vodka from me. Otherwise you'll glow like a Christmas tree later... Heh-heh. It's a joke! Well, good luck.\nYes, and also, it's best if you don't to poke your nose inside the base at night, why - I'll tell you later, better still, I'll send the information to your PDA, read it at your leisure, it's called "Ensign from Agroprom". Well, good luck!</eng>
+		<eng>I'll download the coordinates and the necessary information to your PDA. And explain to you in words, you'll go north through the Dump, and then turn west, and after a couple of kilometres you will go straight to the Agroprom. By the way, artefacts sprout like mushrooms after the rain at the Dump, but the place is highly radioactive. So I advise you to buy some antirads or vodka from me. Otherwise you'll glow like a Christmas tree later... Heh-heh. It's a joke! Well, good luck.\nYes, and also, it's best if you don't to poke your nose inside the base at night, why - I'll tell you later, better still, I'll send the information to your PDA, read it at your leisure, it's called "Warrant Officer from Agroprom". Well, good luck!</eng>
 		<ukr>Підеш на північ через Звалище, потім повернеш на захід і за пару кілометрів вийдеш до «Агропрому». Будь обережний: на Звалищі сильна радіація. Отже, раджу прикупити в мене антирада... чи горілочки.\n Так, і ще, на базу вночі краще не лізь, чому - довго розповідати, скину краще тобі інфу у КПК, почитаєш як-небудь, "Прапорщик з Агропрома" називається. Ну, хай щастить!</ukr>
-		<fra>===Tu vas devoir aller au nord par la Décharge et prendre vers l'ouest. Tu vas arriver à l'Institut de recherche Agroprom après quelques kilomètres. Mais attention, le niveau de radiation est très élevé à la Décharge. Alors je te conseille de trouver de là antiradiation ou de la vodka.\n Да, и ещё, на базу ночью лучше не суйся, почему - долго рассказывать, скину лучше тебе инфу в КПК, почитаешь на досуге, "Прапорщик с Агропрома" называется. allez, bonne chance.</fra>
+		<fra>===Tu vas devoir aller au nord par la Décharge et prendre vers l'ouest. Tu vas arriver à l'Agroprom après quelques kilomètres. Mais attention, le niveau de radiation est très élevé à la Décharge. Alors je te conseille de trouver de là antiradiation ou de la vodka.\n Да, и ещё, на базу ночью лучше не суйся, почему - долго рассказывать, скину лучше тебе инфу в КПК, почитаешь на досуге, "Прапорщик с Agroprom" называется. allez, bonne chance.</fra>
 		<pln>===Prześlę ci współrzędne i wszystkie potrzebne dane na PDA. A tak w skrócie, idziesz na północ przez Wysypisko, potem skręcasz na zachód. Po paru kilometrach wyjdziesz prosto na Instytut "Agroprom". Na Wysypisku artefaktów, jak grzybów po deszczu, ale poziom promieniowania potrafi być kozacki, więc lepiej kup u mnie leki przeciwpromienne albo wódkę. Żebyś potem nie świecił, jak choinka na Boże Narodzenie... He-he. Taki żarcik!\n Да, и ещё, на базу ночью лучше не суйся, почему - долго рассказывать, скину лучше тебе инфу в КПК, почитаешь на досуге, "Прапорщик с Агропрома" называется. No, powodzenia.</pln>
 	</string>
 	<string id="escape_trader_start_dialog_111">
@@ -4337,7 +4341,7 @@
 		<rus>Значит так. По документам, которые ты принёс с Агропрома, кое-что начинает проясняться, но данных не хватает. Упоминается некая лаборатория Х-18, по описанию похожая на заброшенные подземные помещения в Тёмной Долине. Придётся тебе туда отправиться и добыть недостающую информацию. Лаборатория закрыта, и чтобы открыть её, понадобятся два электронных ключа. Один я тебе дам, а второй заберёшь у Борова в Тёмной Долине.</rus>
 		<eng>Okay, the documents you brought from the Institute make some things a little clearer but we’re still missing the information we need to get a full picture. A lab designated X18 is mentioned and its description matches the abandoned underground vaults in the Dark Valley. Looks like you'll have to go there and get the information we need. The lab is closed and you'll need two electronic keys to get inside. I'll give you one but you'll have to get the other one from Hog in the Dark Valley.</eng>
 		<ukr>Значить, так... За документами, котрі ти приніс із Агропрома, я тут починаю дещо розуміти... але даних не вистачає. Тут зазначено якусь лабораторію Х-18... За описом вона схожа на полишені підземні приміщення у Темній Долині. Доведеться тобі туди збігати і добути решту інформації. Тільки лабораторія та закрита... і щоб відкрити її, знадобляться два електронних ключі. Один я тобі дам, а другий забереш у Кабана в Темній Долині.</ukr>
-		<fra>OK, les documents que tu as rapportés de làInstitut éclaircissent un peu la situation, mais nous ne pouvons toujours pas nous faire une idée précise. Un laboratoire désigné X18 est mentionné et sa description correspond au bunker souterrain abandonné dans la Vallée obscure. Je pense que tu devrais y aller et obtenir les informations qui nous manquent. Le laboratoire est fermé et tu auras besoin de deux clés électroniques pour pénétrer a l’intérieur. Je vais t'en donner une, mais pour obtenir l'autre, tu devra trouver le Ragot dans la Vallée obscure. Attention! Profondément sous terre il y a un nains cruel appelé "Burer", le maître des nains. Il vit profondément dans le X18 et ne monte jamais vers les niveaux supérieurs de ses quartiers. Les nains reçoivent des ordres via la télépathie du Burer. Tous ceux qui sont descendus au laboratoire pour le détruire ne sont jamais revenus. Bonne chance.</fra>
+		<fra>===OK, les documents que tu as rapportés de làInstitut éclaircissent un peu la situation, mais nous ne pouvons toujours pas nous faire une idée précise. Un laboratoire désigné X18 est mentionné et sa description correspond au bunker souterrain abandonné dans la Vallée obscure. Je pense que tu devrais y aller et obtenir les informations qui nous manquent. Le laboratoire est fermé et tu auras besoin de deux clés électroniques pour pénétrer a l’intérieur. Je vais t'en donner une, mais pour obtenir l'autre, tu devra trouver le Ragot dans la Vallée obscure. Attention! Profondément sous terre il y a un nains cruel appelé "Burer", le maître des nains. Il vit profondément dans le X18 et ne monte jamais vers les niveaux supérieurs de ses quartiers. Les nains reçoivent des ordres via la télépathie du Burer. Tous ceux qui sont descendus au laboratoire pour le détruire ne sont jamais revenus. Bonne chance.</fra>
 		<pln>Dobra... Dokumenty, które przyniosłeś z Agropromu wyjaśniają parę kwestii, ale wciąż mamy za mało danych, żeby uzyskać pełny obraz. Jest wzmianka o jakimś laboratorium X-18, a opis pasuje do podziemi w Dolinie Mroku. Wygląda na to, że musisz się tam udać i zdobyć brakujące informacje. Laboratorium jest zamknięte - potrzebujesz dwóch elektronicznych kluczy. Ja dam ci jeden, ale drugi musisz zdobyć od Borowa w Dolinie Mroku.</pln>
 	</string>
 	<string id="bar_bar_barmen_start_1511">
@@ -4519,7 +4523,7 @@
 		<rus>Да, вот держи документы с Агропрома.</rus>
 		<eng>Yes, here are the documents from the Agroprom.</eng>
 		<ukr>Так. Тримай документи.</ukr>
-		<fra>Oui voici les documents de làAgroprom.</fra>
+		<fra>Oui voici les documents de l'Agroprom.</fra>
 		<pln>Proszę, dokumenty z Instytutu.</pln>
 	</string>
 	<string id="bar_bar_barmen_start_221">
@@ -4624,7 +4628,7 @@
 		<rus>Был такой мужик, картавил сильно. Не в себе был, сам с собой разговаривал, а так ничего... Но я давно уже его в Баре не видел.</rus>
 		<eng>There was a man that went by that name, spoke with a lisp... He was a bit weird, that's for sure - talked to himself and stuff...but he seemed like an okay guy. I haven't seen him at the Bar for ages.</eng>
 		<ukr>Був такий мужик, гаркавив сильно. Трохи з головою не дружив, сам із собою розмовляв, а так нічого... Але я давно вже його у Барі не бачив.</ukr>
-		<fra>Il y avait un homme qui portait ce nom, il parlait en bégayent... Il était un peu bizarre, c'est sûr - il parlait tout seul... Mais il semblait être un gars bien. Je ne l'ai pas vu au bar depuis une éternité.</fra>
+		<fra>Il y avait un homme qui portait ce nom, il parlait en bégayent... Il était un peu bizarre, c'est sûr - il parlait tout seul... Mais il semblait être un gars bien. Je ne l'ai pas vu au Bar depuis une éternité.</fra>
 		<pln>Kojarzę faceta o takiej ksywie, pamiętam, że seplenił... Trochę dziwak, to już na pewno - gadał sam ze sobą... Ale ogólnie w porządku. Nie widziałem go w barze od wieków.</pln>
 	</string>
 	<string id="bar_bar_barmen_talk_info_7">
@@ -4972,9 +4976,9 @@
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_2111">
 		<rus>Находится возле НИИ Агропром, тайник в подземелье. Скорее всего, там информация о планах группы и списки членов группы. Координаты тайника прилагаются.</rus>
-		<eng>It's located by the Agroprom Research Institute, there's a stash in the underground. It probably contains information about the group's plans and a list of group members. The coordinates of the stash are attached.</eng>
+		<eng>It's located by the "Agroprom" research institute, there's a stash in the underground. It probably contains information about the group's plans and a list of group members. The coordinates of the stash are attached.</eng>
 		<ukr>Знаходиться біля НДІ «Агропром», схованка у підземеллі. Швидше за все, там інформація про плани групи та список її членів. Координати схованки додаю.</ukr>
-		<fra>Située près de làInstitut d'Agroprom, une cache dans le sous-sol. Il y avoir très probablement des informations sur les plans du groupe et des listes de membres du groupe. Les coordonnées de la cache sont inclues avec.</fra>
+		<fra>Située près de l'institut de recherches "Agroprom", une cache dans le sous-sol. Il y avoir très probablement des informations sur les plans du groupe et des listes de membres du groupe. Les coordonnées de la cache sont inclues avec.</fra>
 		<pln>W pobliżu Instytutu Badawczego Agroprom, pod ziemią, jest schowek. Najprawdopodobniej jest w nim informacja o planach grupy, a także lista jej członków. Dołączam współrzędne schowka.</pln>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_212">
@@ -4985,10 +4989,10 @@
 		<pln>Nie, rozmyśliłem się.</pln>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_2121">
-		<rus>Дело твоё. Как решишься приходи, я всегда в баре.</rus>
+		<rus>Дело твоё. Как решишься приходи, я всегда в Баре.</rus>
 		<eng>That's up to you. Come to the bar when you decide otherwise - I'm always here.</eng>
 		<ukr>Діло хазяйське. Як зважишся - приходь, я завжди у Барі.</ukr>
-		<fra>Libre à toi si tu changes d'avis viens me voir.</fra>
+		<fra>===Libre à toi si tu changes d'avis viens me voir.</fra>
 		<pln>Twój wybór. Jak zmienisz zdanie, wpadnij do baru - ja tu jestem cały czas.</pln>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_31">
@@ -5020,10 +5024,10 @@
 		<pln>Nie, rozmyśliłem się.</pln>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_3121">
-		<rus>Дело твоё. Как решишься приходи, я всегда в баре.</rus>
+		<rus>Дело твоё. Как решишься приходи, я всегда в Баре.</rus>
 		<eng>That's up to you. Come to the bar when you decide otherwise - I'm always here.</eng>
 		<ukr>Діло хазяйське. Як зважишся - приходь, я завжди у Барі.</ukr>
-		<fra>Libre à toi. Si tu change d'avis je suis toujours au bar.</fra>
+		<fra>===Libre à toi. Si tu change d'avis je suis toujours au bar.</fra>
 		<pln>Twój wybór. Jak zmienisz zdanie, wpadnij do baru - ja tu jestem cały czas.</pln>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_41">
@@ -5055,10 +5059,10 @@
 		<pln>Nie, rozmyśliłem się.</pln>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_4121">
-		<rus>Дело твоё. Как решишься приходи, я всегда в баре.</rus>
+		<rus>Дело твоё. Как решишься приходи, я всегда в Баре.</rus>
 		<eng>That's up to you. Come to the bar when you decide otherwise - I'm always here.</eng>
 		<ukr>Діло хазяйське. Як зважишся - приходь, я завжди у Барі.</ukr>
-		<fra>Libre à toi si tu te ravises viens me voir ici.</fra>
+		<fra>===Libre à toi si tu te ravises viens me voir ici.</fra>
 		<pln>Twój wybór. Jak zmienisz zdanie, wpadnij do baru - ja tu jestem cały czas.</pln>
 	</string>
 	<string id="bar_bar_osvedomitel_trade_info_999">
@@ -5343,14 +5347,14 @@
 	</string>
 	<string id="bar_bar_visitors_14_start_89">
 		<rus>Я, Горбун и Рябой давно готовились прорываться на Север. У нас не хватало только времени спада излучения Выжигателя, и Рябой достал эту информацию, у кого я совершенно без понятия. Мы прошли пол Радара, как Выжигатель неожиданно включился. Рябому снесло крышу, он потерял сознание и свалился со склона. Я запаниковал, решил все бросить и возвращаться. Горбун настаивал на том чтобы вытащить Рябого, но это было бы чистейшим самоубийством, спускаться и тащить Рябого всю дорогу обратно. Я согласился с Горбуном и он полез вниз по склону к Рябому, как очередной всплеск Выжигателя не накрыл нас. Я опомнился уже возле военной базы, до этого времени я считал что они погибли, но похоже Горбун ценой своей жизни вытащил Рябого.</rus>
-		<eng>===The three of us were getting ready to try to get through to the North. We didn't know when the Scorcher's emissions would be at their lowest, but Pockmarked managed to get this information somehow...I don't know where... We were half-way through the Radar, when the Scorcher suddenly switched on again. Pockmarked passed out straight away and fell down the hillside. I panicked and said that we should drop everything and go back. Hunchback managed to pull himself together and said that we had to get Pockmarked out... I told him that would be suicide, going down and dragging Pockmarked all the way back. Just as he managed to convince me and started to climb down to get Pockmarked... another wave hit. By the time I came to my senses I was already near the military base... I believed that they had died, but it seems Hunchback sacrificed his own life, to save Pockmarked.</eng>
+		<eng>Me, Hunchback, and Pockmarked had been preparing to try to get through to the North for a long time. We didn't know when the Scorcher's emissions would be at their lowest, but Pockmarked managed to get this information somehow...I don't know where... We were half-way through the Radar, when the Scorcher suddenly switched on again. Pockmarked passed out straight away and fell down the hillside. I panicked, decided to drop everything and go back. Hunchback managed to pull himself together and said that we had to get Pockmarked out... I told him that would be suicide, going down and dragging Pockmarked all the way back. Just as he managed to convince me and started to climb down to get Pockmarked... another wave hit. By the time I came to my senses I was already near the military base... I believed that they had died, but it seems Hunchback sacrificed his own life, to save Pockmarked.</eng>
 		<ukr>Я, Горбань та Рябий давно готувалися прориватися на північ. У нас не вистачало тільки даних про час спаду випромінювання Випалювача… але Рябий дістав цю інформацію, у кого - я не знаю, чесно не знаю... Ми майже пройшли Радар, аж раптом Випалювач увімкнувся. Рябий знепритомнів і звалився зі схилу… Я запанікував, вирішив усе кидати і повертатися. Горбань наполягав на тому, щоб витягти Рябого, але це було б самогубством - спускатися і тягти Рябого всю дорогу назад... Я погодився із Горбанем і він поліз униз схилом до Рябого… аж тут на накрило черговим сплеском Випалювача. Я опам'ятався вже біля військової бази… досі оце думав, вони загинули… але ж Горбань витяг Рябого... ціною свого життя витяг…</ukr>
 		<fra>===Tous les trois, on se préparait à pénétrer au nord. On savait pas quand les émissions du lobotomisateur étaient les moins fortes, mais Grêlé a réussi à dégoter l'info quelque part... Je sais pas où... On était à mi-chemin quand le lobotomisateur s'est soudainement rallumé. Grêlé s'est évanoui tout de suite et est tombé dans un ravin. J'ai paniqué et j'ai dit qu'on devrait tout abandonner et s'en aller. Bossu a réussi à me convaincre et  dit qu'on devait prendre Grêlé avec nous... Je lui ai dit "T'es con ou quoi, tu veux pas vivre? C'est fini pour lui, comment tu veux qu'on le ramène ?" Alors qu'il venait de me convaincre et commençait à descendre pour récupérer Grêlé... il y a eu une autre vague. Avant que je reprenne mes esprits, j'étais déjà arrivé à la base militaire... Je croyais que Bossu et Grêlé étaient restés là bas... mais il l'a sorti de là au péril de sa vie... il l'a sorti de là.</fra>
 		<pln>===We trzech szykowaliśmy się do wypadu na północ. Nie wiedzieliśmy tylko, o jakich porach emisje "Zwęglacza" słabną, ale Krosta zdobył informacje. Nie wiem skąd... Przeszliśmy już połowę Radaru, a tu nagle "Zwęglacz" znów się włączył. Krosta stracił zmysły,zemdlał od razu i stoczył się po zboczu. Ja spanikowałem, postanowiłem wszystko rzucić i wracać. Garbus uparł się, że musimy wyciągnąć Krostę, ale to by było czyste samobójstwo, zejść po niego i taszczyć go całą drogę z powrotem. W końcu mnie przekonał i już zaczął schodzić po Krostę, kiedy walnęła kolejna fala emisji ze "Zwęglacza". Jak oprzytomniałem, byłem już przy bazie wojskowej... Myślałem, że do tej pory Garbus i Krosta już nie żyją. Ale on go wyciągnął, a sam nie przeżył... Wyciągnął go.</pln>
 	</string>
 	<string id="bar_bar_visitors_14_start_90">
 		<rus>Спасибо за рассказ, Лысый. Я попробую разговорить Рябого.</rus>
-		<eng>===Thanks for the story, Baldy. I'll try to talk to Pockmarked.</eng>
+		<eng>Thanks for the story, Baldy. I'll try to talk to Pockmarked.</eng>
 		<ukr>Спасибі за розповідь, Лисий. Я спробую розговорити Рябого.</ukr>
 		<fra>===OK, Chauve, OK. Du calme, mec. Merci de m'avoir tout raconté. Je vais aller parler à Grêlé.</fra>
 		<pln>===Okej, Łysy, już dobrze, spokojnie. Dzięki, że mi to powiedziałeś. Sam pogadam z Krostą.</pln>
@@ -6210,10 +6214,10 @@
 		<pln>Przy posterunku doszło do jakiejś masakry. Co się stało?</pln>
 	</string>
 	<string id="bar_dolg_zastava_about_zastava_1">
-		<rus>Это останки от прошлой "волны" мутантов, которая прошла перед Выбросом. Дня три четыре затишье, а затем опять будет "волна". Если бы не мы, ни Бара ни Долга уже бы не было, мы последний заслон от обезумевших стай мутантов. Много наших тут полегло.</rus>
+		<rus>Это останки от прошлой "волны" мутантов, которая прошла перед Выбросом. Дня три четыре затишье, а затем опять будет "волна". Если бы не мы, ни Бара, ни Долга уже бы не было, мы последний заслон от обезумевших стай мутантов. Много наших тут полегло.</rus>
 		<eng>That's the last "wave" of mutants that came before the emission. It's quiet for three or four days and then there's another "wave". If not for us, there'd be no Bar, there'd be no Duty; we're the last barrier in the way of these crazy mutants. A lot of our boys met their end here.</eng>
 		<ukr>Це рештки минулої хвилі мутантів, що пройшла перед викидом. Дня три-чотири затишшя, а потім буде нова хвиля. Якби не ми, ані Бару, ані «Долгу» вже не було б: це останній заслін від зграй мутантів. Багато наших тут полягло...</ukr>
-		<fra>C'est la dernière vague de mutants qui est arrivée avant le cataclysme. C'est tranquille pendant trois ou quatre jours après d'autres arrivent. Si on n'était pas là il n'y aurait pas de bar, pas de Devoir. On est le dernier rempart face à ces mutants détraqués. Beaucoup de nos gars sont morts ici.</fra>
+		<fra>C'est la dernière vague de mutants qui est arrivée avant le cataclysme. C'est tranquille pendant trois ou quatre jours après d'autres arrivent. Si on n'était pas là il n'y aurait pas de Bar, pas de Devoir. On est le dernier rempart face à ces mutants détraqués. Beaucoup de nos gars sont morts ici.</fra>
 		<pln>To ostatnia fala mutantów, która napłynęła przed emisją. Przez trzy, cztery dni jest cisza, a potem kolejna fala. Gdyby nie my, to nie byłoby baru, nie byłoby "Powinności" - stanowimy ostatnią barierę na drodze tych popieprzonych mutantów. Wielu naszych tu właśnie pożegnało się z życiem.</pln>
 	</string>
 	<string id="bar_dolg_zastava_talk_0">
@@ -6245,7 +6249,7 @@
 		<pln>Przed wypadkiem z 1986 to były tereny przemysłowe. Jak widać, niewiele z tego zostało... W piwnicy koło hangaru znajdziesz bar "100 Rentgenów" - zarządza nim miejscowy handlarz, który pełni też funkcję barmana. Jak chcesz pohandlować, pogadać, dostać zlecenie albo usłyszeć najświeższe wieści, to jest właściwe miejsce. Mamy tu też Arenę, gdzie możesz walczyć i zarabiać kasę. Niedaleko Areny jest baza "Powinności". Jeśli chcesz do nich dołączyć, idź prosto do bazy, a oni już ci powiedzą, z kim masz gadać. Aha, przy okazji: cały teren chroniony jest przez "Powinność", więc zachowuj się grzecznie i nie noś broni na wierzchu. Jak zaczniesz strzelać, patrol cię szybciutko uspokoi.</pln>
 	</string>
 	<string id="bar_dolg_zastava_talk_211">
-		<rus>Ты сказал здесь есть Бар. Можешь подсказать, где он?</rus>
+		<rus>Ты сказал здесь есть бар. Можешь подсказать, где он?</rus>
 		<eng>You said there's a bar. Can you tell me where it is?</eng>
 		<ukr>Ти сказав, тут є бар. Можеш підказати, де він?</ukr>
 		<fra>Tu as mentionné un bar. Tu peux me dire où il se trouve exactement ?</fra>
@@ -6575,7 +6579,7 @@
 	</string>
 	<string id="bar_ecolog_crush_professor_start_31">
 		<rus>Фух! Неужели мы в безопасности? Наконец-то. Спасибо тебе за помощь. Я твой должник, а пока возьми вот эту флешку. Это результаты последней экспедиции. Уверен, Бармен за эту информацию хорошо заплатит. И я ещё бы хотел информацию на КПК твой скинуть - ты мне жизнь спас, а это... это... в общем, вот, информация по гипермодификату "Алмазный колобок".</rus>
-		<eng>Phew! Have we really made it to safety? At last! Thank you so much for your help. I'm in your debt, but for now please accept this flash drive. It contains the results of my latest expedition. I am sure Barkeep would pay you well for it. Also, I'd like to drop some information into your PDA - you saved my life, and this ... this ... well, here's the information on the "Diamond Kolobok" hypermodifier.</eng>
+		<eng>Phew! Have we really made it to safety? At last! Thank you so much for your help. I'm in your debt, but for now please accept this flash drive. It contains the results of my latest expedition. I am sure Barkeep would pay you well for it. Also, I'd like to drop some information into your PDA - you saved my life, and this ... this ... well, here's the information on the "Diamond Kolobok" hypermodificate.</eng>
 		<ukr>Ф-фух! Невже ми в безпеці? Нарешті!.. Дякую тобі за допомогу. Я твій боржник… а поки візьми оцю флешку: тут результати останньої експедиції. Впевнений, Бармен за цю інформацію добре заплатить. І б хотів ще інформацію на твій КПК скинути – ти мені життя врятував, а це… це… загалом, ось, інформація по гіпермодифікату Діамантовий Колобок.</ukr>
 		<fra>Ouf ! On a réussi à se mettre en sécurité. Enfin ! Merci beaucoup pour votre aide. Je vous suis redevable ; veuillez accepter cette clé USB. Elle contient les résultats de ma dernière expédition. Je suis sûr que le Barman vous en donnera un bon prix.</fra>
 		<pln>Uff! Naprawdę jesteśmy już bezpieczni? Nareszcie! Dziękuję ci za pomoc. Jestem twoim dłużnikiem, ale na razie przyjmij, proszę, tę oto fleszkę. To są rezultaty ostatniej ekspedycji. Jestem pewien, że Barman za tę informację dobrze zapłaci. I jeszcze chciałbym ci przesłać informację na PDA. Przecież ty mi życie uratowałeś. To jest informacja o hipermodyfikacie "Diamentowy Kulebiak".</pln>
@@ -6733,6 +6737,11 @@
 		<ukr>А за бесплaтно можеш щось розповісти?</ukr>
 		<fra>Peut tu me dire quelque chose gratuitement ?</fra>
 		<pln>A za darmo możesz coś opowiedzieć?</pln>
+	</string>
+	<string id="bar_bar_osvedomitel_story_1_alt">
+		<rus>Хм, Меченный... Аукцион щедрости закончился. Приходи позже.</rus>
+		<eng>Hmm, Marked One... The bounty auction is over. Come back later.</eng>
+		<ukr>Хм, Мічений ... Аукціон щедрості закінчився. Приходь пізніше.</ukr>
 	</string>
 	<string id="bar_bar_osvedomitel_story_1">
 		<rus>Ладно, Меченый, расскажу-ка я тебе про мужика который до Саркофага доходил.</rus>
@@ -7543,14 +7552,14 @@
 		<rus>Ух! Ну тут и заварушка была, врагу не пожелаешь. Совсем эти военные борзеют.</rus>
 		<eng>Wow! That was quite a slaughter - you wouldn't wish something like that on your worst enemy. The military are getting pretty brazen!</eng>
 		<ukr>Ух! Ну тут і заваруха була - ворогові не побажаєш! Зовсім ці військові знахабніли.</ukr>
-		<fra>Bon sang c'était pas la moitié d'une bataille ! Je souhaiterais pas ça même à mon pire ennemi. Ces gars de làarmée n'ont plus aucun respect !.</fra>
+		<fra>Bon sang c'était pas la moitié d'une bataille ! Je souhaiterais pas ça même à mon pire ennemi. Ces gars de l'armée n'ont plus aucun respect!</fra>
 		<pln>Stary, co to była za jatka - najgorszemu wrogowi byś czegoś takiego nie życzył. Wojskowi zaczynają ostro kozaczyć.</pln>
 	</string>
 	<string id="agr_krot_about_agroprom_0">
 		<rus>Где находится НИИ Агропром?</rus>
-		<eng>Where's the Agroprom Research Institute?</eng>
+		<eng>Where's the "Agroprom" research institute?</eng>
 		<ukr>Де знаходиться НДІ Агропром?</ukr>
-		<fra>Ou est l'Institut de recherche Agroprom ?</fra>
+		<fra>Ou est l'institut de recherches "Agroprom"?</fra>
 		<pln>Gdzie znajduje się Instytut Badawczy Agroprom?</pln>
 	</string>
 	<string id="agr_krot_about_agroprom_10">
@@ -7905,9 +7914,9 @@
 	</string>
 	<string id="agr_stalker_talk_level_1">
 		<rus>Это территория НИИ Агропром. Само здание института находится на юго-западе. А завод на севере - это производственно-техническая база института. Здания давно заброшены были, и взять там нечего. Но в последнее время военные начали что-то активно искать.</rus>
-		<eng>This is the area around the Agroprom Research Institute. The Institute itself is to the Southwest. The factory, which served as the Institute's technical production facility, is to the North. The buildings have been abandoned for a long time and there's nothing to be found there, but recently the army has been searching there very actively.</eng>
+		<eng>This is the area around the "Agroprom" research institute. The Institute itself is to the Southwest. The factory, which served as the Institute's technical production facility, is to the North. The buildings have been abandoned for a long time and there's nothing to be found there, but recently the army has been searching there very actively.</eng>
 		<ukr>Це територія НДІ Агропром. Сама будівля інституту знаходиться на південному заході. А завод на півночі - це його виробничо-технічна база. Будівлі давно закинуті були, взяти там нема чого. Але останнім часом військові почали щось активно шукати.</ukr>
-		<fra>C'est la zone autour de làInstitut de recherche Agroprom. l'Institut lui-même est au sud-ouest. l'usine, qui servait d'installation de production technologique à l'Institut est au nord. Les bâtiments ont été abandonnés il y a longtemps et il ne reste plus rien la-bas, mais l'armée y a fait de nombreuses recherches récemment.</fra>
+		<fra>C'est la zone autour de l'institut de recherche "Agroprom". l'Institut lui-même est au sud-ouest. l'usine, qui servait d'installation de production technologique à l'Institut est au nord. Les bâtiments ont été abandonnés il y a longtemps et il ne reste plus rien la-bas, mais l'armée y a fait de nombreuses recherches récemment.</fra>
 		<pln>To są tereny INB Agroprom. Sam budynek Instytutu stoi na południowy zachód. Fabryka, która robiła za zakład technologii produkcji, leży na północ. Budynki już od dawna stoją opuszczone i puste, ale ostatnimi czasy wojsko bardzo energicznie prowadzi jakieś poszukiwania.</pln>
 	</string>
 	<string id="agr_stalker_talk_level_2">
@@ -7975,9 +7984,9 @@
 	</string>
 	<string id="agr_swamp_ratcatcher_talks_130">
 		<rus>Ты знаешь, где в НИИ Агропром хранятся документы?\n</rus>
-		<eng>Do you know where they keep documents at the Institute?\n</eng>
+		<eng>Do you know where they keep documents at the "Agroprom" research institute?\n</eng>
 		<ukr>Ти знаєш, де в НДІ Агропром зберігаються документи?\n</ukr>
-		<fra>Tu sais ou ils gardent les documents à l'Institut ?\n</fra>
+		<fra>Tu sais ou ils gardent les documents à l'institut de recherches "Agroprom"?\n</fra>
 		<pln>Wiesz, gdzie trzymają dokumenty w Instytucie?\n</pln>
 	</string>
 	<string id="agr_swamp_ratcatcher_talks_140">
@@ -8794,7 +8803,7 @@
 	</string>
 	<string id="yantar_help_scientist_21">
 		<rus>Ух ты! Меченый собственной персоной! Наконец-то ты добрался к нам. Поговори с профессором Сахаровым, он хочет отблагодарить тебя за моё спасение.</rus>
-		<eng>===Wow! The Marked One! You finally made it here. Talk to Professor Sakharov, he wants to personally thank you for my salvation.</eng>
+		<eng>Wow! The Marked One himself! You finally made it here. Talk to Professor Sakharov, he wants to personally thank you for saving me.</eng>
 		<ukr>Ух ти! Мічений власною персоною! Нарешті ти добрався до нас. Поговори з професором Сахаровим, він хоче віддячити тобі за мій порятунок.</ukr>
 		<fra>===Wow! Le Marqué en personne ! Enfin vous êtes ici. Parlez au professeur Sakharov, il veut vous remercier pour mon sauvetage.</fra>
 		<pln>Ho, ho! Naznaczony tutaj we własnej osobie! Nareszcie zajrzałeś w nasze strony. Porozmawiaj z profesorem Sacharowem - chce ci podziękować za ocalenie mi życia.</pln>
@@ -11364,7 +11373,7 @@
 		<rus>Отличная работа, Меченый! Держи вот... гонорар за стукача. Пока ты ходил, наши разведчики обнаружили ещё одну тропку, ведущую к нашей базе. Теперь к нам можно быстро попасть с территории АТП. Информацию об этом переходе я тебе скинул в КПК. Приглашаю отдыхать на нашей территории, когда захочешь, и на нашу помощь тоже можешь рассчитывать. Только есть ещё одно дело, которое я хотел бы тебе поручить. Не устал ещё?</rus>
 		<eng>Great job, Marked One! Here, take this... your payment for taking care of the snitch. While you were away, our scouts discovered another trail leading to our base. Now you can quickly get to us from the territory of the ATP. I threw the information about this transition to your PDA. You're welcome to rest on our territory whenever you want and you can also count on our help. Only, there's one more business I'd like you to do for me. Not too tired?</eng>
 		<ukr>Відмінна робота, Мічений! Тримай ось... гонорар за стукача. Поки ти ходив, наші розвідники знайшли ще одну стежинку, яка веде до нашої бази. Тепер до нас можна швидко потрапити з території АТП. Інформацію про перехід я тобі зкинув у КПК. Запрошую відпочивати на нашій території, коли захочеш, і на нашу допомогу теж можеш розраховувати. Тільки є ще одна справа, яку я хотів би тобі доручити. Не втомився ще?</ukr>
-		<fra>Beau travail, le Marqué! Tiens, voilà... ta récompense pour t'être débarrassé du mouchard. Tu seras toujours le bienvenu si tu souhaites te reposer sur notre territoire et tu peux aussi compter sur notre aide. J'aurais encore un service à te demander. T'es pas trop fatigué ?</fra>
+		<fra>===Beau travail, le Marqué! Tiens, voilà... ta récompense pour t'être débarrassé du mouchard. Tu seras toujours le bienvenu si tu souhaites te reposer sur notre territoire et tu peux aussi compter sur notre aide. J'aurais encore un service à te demander. T'es pas trop fatigué?</fra>
 		<pln>Świetna robota, Naznaczony! Masz, to twoja zapłata za uporanie się z konfidentem. W czasie gdy działałeś, nasi zwiadowcy odkryli jeszcze jedną ścieżkę, prowadzącą do naszej bazy. Teraz można do nas szybko trafić z terytorium ATP. Informację o tym przejściu zrzuciłem na twoje PDA. Jak tylko chcesz u nas wypocząć albo będziesz potrzebować naszej pomocy, wal śmiało. Jest jeszcze jedna sprawa, którą chciałbym, żebyś się zajął. Czujesz się na siłach?</pln>
 	</string>
 	<string id="mil_leader_start_dialog_5002">

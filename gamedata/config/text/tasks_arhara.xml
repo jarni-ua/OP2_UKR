@@ -240,7 +240,7 @@
 	</string>
 	<string id="task_shaxter_fonar_0">
 		<rus>Лучик света во тьме</rus>
-		<eng>===Flashlights for the Miner</eng>
+		<eng>Ray of Light</eng>
 		<ukr>Промінь світла у темряві</ukr>
 		<fra>===Lampes de poche pour le Mineur</fra>
 		<pln>===Latarki dla Górnika</pln>
@@ -303,7 +303,7 @@
 	</string>
 	<string id="task_lysyi_klad_0">
 		<rus>Кладоискатель</rus>
-		<eng>===Searching for treasure: Cave</eng>
+		<eng>Treasure hunter</eng>
 		<ukr>Шукач скарбів</ukr>
 		<fra>===Chasse au trésor: Caverne</fra>
 		<pln>===Poszukiwania skarbu: Pieczara</pln>
@@ -352,7 +352,7 @@
 	</string>
 	<string id="task_petrenko_flyga_1">
 		<rus>Найти утерянную фляжку</rus>
-		<eng>===Find the canteen</eng>
+		<eng>Find the lost flask</eng>
 		<ukr>Знайти втрачену фляжку</ukr>
 		<fra>===Trouver la gourde</fra>
 		<pln>===Znaleźć manierkę</pln>
@@ -380,14 +380,14 @@
 	</string>
 	<string id="task_dolgovyzui_2">
 		<rus>Принести микросхемы Доценту</rus>
-		<eng>===Bring the integrated circuits to Lanky</eng>
+		<eng>Bring the integrated circuits to Docent</eng>
 		<ukr>Принести мікросхеми Доценту.</ukr>
 		<fra>===Apporter les circuits intégrés au Longiligne</fra>
 		<pln>===Przynieść Chudemu mikroukłady</pln>
 	</string>
 	<string id="task_voronin_termos_0">
 		<rus>Термоизоляция</rus>
-		<eng>===Thermoses for Voronin</eng>
+		<eng>Thermal insulation</eng>
 		<ukr>Термоізоляція</ukr>
 		<fra>===Bouteilles thermos pour Voronine</fra>
 		<pln>===Termosy dla Woronina</pln>
@@ -408,7 +408,7 @@
 	</string>
 	<string id="task_garik_vop_0">
 		<rus>Вредная привычка</rus>
-		<eng>===Cigarettes for Garik</eng>
+		<eng>Bad habits</eng>
 		<ukr>Шкідлива звичка</ukr>
 		<fra>===Cigarettes pour Garik</fra>
 		<pln>===Papierosy dla Garika</pln>
@@ -478,7 +478,7 @@
 	</string>
 	<string id="task_sahar_ekolog_0">
 		<rus>Экологическая проблема</rus>
-		<eng>===Meeting with ecologists</eng>
+		<eng>Environmental problem</eng>
 		<ukr>Екологічна проблема</ukr>
 		<fra>===Rencontre avec des écologistes</fra>
 		<pln>===Spotkanie z ekologami</pln>
@@ -569,7 +569,7 @@
 	</string>
 	<string id="task_gonets_atp_0">
 		<rus>Вести от гонца</rus>
-		<eng>===Meeting with the messenger</eng>
+		<eng>News from the messenger</eng>
 		<ukr>Вісті від гінця</ukr>
 		<fra>===Rencontre avec le messager</fra>
 		<pln>===Spotkanie z gońcem</pln>
@@ -653,7 +653,7 @@
 	</string>
 	<string id="task_shax_plennik_0">
 		<rus>Пленник</rus>
-		<eng>===Combination lock</eng>
+		<eng>Captivity</eng>
 		<ukr>Бранець</ukr>
 		<fra>===Serrure à combinaison</fra>
 		<pln>===Zamek kodowy</pln>
@@ -695,14 +695,14 @@
 	</string>
 	<string id="task_adr_shkatulka_0">
 		<rus>Резная шкатулка</rus>
-		<eng>===Casket and safe</eng>
+		<eng>Carved casket</eng>
 		<ukr>Різьблена скринька</ukr>
 		<fra>===Coffret et coffre-fort</fra>
 		<pln>===Szkatułka i sejf</pln>
 	</string>
 	<string id="task_adr_shkatulka_1">
 		<rus>Найти шкатулку в Лабиринте</rus>
-		<eng>===Take the necessary</eng>
+		<eng>Find the casket in Labyrinth</eng>
 		<ukr>Знайти скриньку у Лабіринті</ukr>
 		<fra>===Prendre le nécessaire</fra>
 		<pln>===Zabrać co potrzebne</pln>
@@ -723,7 +723,7 @@
 	</string>
 	<string id="task_tretiy_kod_1">
 		<rus>Отыскать старый сейф</rus>
-		<eng>===Take the safe</eng>
+		<eng>Find the old safe</eng>
 		<ukr>Відшукати старий сейф</ukr>
 		<fra>===Récupérer le coffre-fort</fra>
 		<pln>===Wziąść sejf</pln>
@@ -925,18 +925,18 @@
 		<pln>Przynieść Ginekologowi dyskietkę</pln>
 	</string>
 	<string id="task_akkum_and_mikposx_0">
-		<rus>Блоки питания</rus>
-		<eng>Power supplies</eng>
-		<ukr>Блоки живлення</ukr>
-		<fra>Alimentations</fra>
-		<pln>Bloki zasilania</pln>
+		<rus>Детали для перфузора</rus>
+		<eng>Parts for the infusion pump</eng>
+		<ukr>===Блоки живлення</ukr>
+		<fra>===Alimentations</fra>
+		<pln>===Bloki zasilania</pln>
 	</string>
 	<string id="task_akkum_and_mikposx_1">
-		<rus>Найти блоки питания и плату</rus>
-		<eng>Find power supplies and a circuit board</eng>
-		<ukr>Знайти блоки живлення і плату</ukr>
-		<fra>Trouver des alimentations électriques et un circuit imprimé</fra>
-		<pln>Znaleźć bloki zasilania i płytę</pln>
+		<rus>Найти аккумуляторы и платы</rus>
+		<eng>Find power supplies and circuit boards</eng>
+		<ukr>===Знайти блоки живлення і плату</ukr>
+		<fra>===Trouver des alimentations électriques et un circuit imprimé</fra>
+		<pln>===Znaleźć bloki zasilania i płytę</pln>
 	</string>
 	<string id="task_akkum_and_mikposx_2">
 		<rus>Принести заказ Шуре</rus>
@@ -1283,7 +1283,7 @@
 	</string>
 	<string id="task_kolmogor_say_0">
 		<rus>Брат за брата</rus>
-		<eng>===Help to Kolmogor</eng>
+		<eng>Brother for a brother</eng>
 		<ukr>Брат за брата</ukr>
 		<fra>===Aide à Kolmogor</fra>
 		<pln>===Pomóc Kołmogorowi</pln>
@@ -1457,18 +1457,18 @@
 		<pln>Zabić atakujących bandytów i osłonić Bosmana</pln>
 	</string>
 	<string id="task_udav_poshli_0">
-		<rus>Привести Боцмана</rus>
-		<eng>Bring Boatswain</eng>
-		<ukr>Привести Боцмана</ukr>
-		<fra>Amener Bosco</fra>
-		<pln>Doprowadzić Bosmana</pln>
+		<rus>Точка эвакуации</rus>
+		<eng>Extraction point</eng>
+		<ukr>===Привести Боцмана</ukr>
+		<fra>===Amener Bosco</fra>
+		<pln>===Doprowadzić Bosmana</pln>
 	</string>
 	<string id="task_udav_poshli_1">
-		<rus>Довести Боцмана</rus>
-		<eng>Bring Boatswain</eng>
-		<ukr>Довести Боцмана</ukr>
-		<fra>Conduire le Bosco</fra>
-		<pln>Doprowadzić Bosmana</pln>
+		<rus>Довести Боцмана до точки эвакуации</rus>
+		<eng>Bring the Boatswain to the extraction point</eng>
+		<ukr>===Довести Боцмана</ukr>
+		<fra>===Conduire le Bosco</fra>
+		<pln>===Doprowadzić Bosmana</pln>
 	</string>
 	<string id="task_ander_joystik_0">
 		<rus>Джойстик Андерсена</rus>
@@ -2179,49 +2179,49 @@
 	</string>
 	<string id="task_qeast_b_0">
 		<rus>Невидимки</rus>
-		<eng>===Abnormal "Bison"</eng>
+		<eng>The Invisibles</eng>
 		<ukr>Невидимки</ukr>
 		<fra>===«Bison» anormal</fra>
 		<pln>===Anormalne "Bizony"</pln>
 	</string>
 	<string id="task_qeast_b_1">
 		<rus>Выйти на след группы зачистки в маскировочных костюмах</rus>
-		<eng>===Find 6 abnormal "Bison"</eng>
+		<eng>Track down the cleanup team in camouflage suits</eng>
 		<ukr>Вийти на слід групи зачистки у маскувальних костюмах</ukr>
 		<fra>===Trouver 6 "Bison" anormaux</fra>
 		<pln>===Zdobyć 6 anormalnych "Bizonów"</pln>
 	</string>
 	<string id="task_qeast_b_2">
 		<rus>Ликвидировать всех бойцов группы</rus>
-		<eng>===Find 6 abnormal "Bison"</eng>
+		<eng>Eliminate all fighters of the group</eng>
 		<ukr>Ліквідувати всіх бійців групи</ukr>
 		<fra>===Trouver 6 "Bison" anormaux</fra>
 		<pln>===Zdobyć 6 anormalnych "Bizonów"</pln>
 	</string>
 	<string id="task_qeast_b_3">
 		<rus>Собрать с трупов аномальное оружие в качестве доказательств</rus>
-		<eng>===Find 6 abnormal "Bison"</eng>
+		<eng>Collect the anomalous weapons from corpses as evidence</eng>
 		<ukr>Зібрати з трупів аномальну зброю як докази</ukr>
 		<fra>===Trouver 6 "Bison" anormaux</fra>
 		<pln>===Zdobyć 6 anormalnych "Bizonów"</pln>
 	</string>
 	<string id="task_qeast_b_4">
 		<rus>Закинуть в аномалию "Снежная" поочерёдно три «Бизона»</rus>
-		<eng>===Find 6 abnormal "Bison"</eng>
+		<eng>Throw three "Bisons" into the "Snow" anomaly one by one</eng>
 		<ukr>Закинути в аномалію "Снігова" по черзі три «Бізони»</ukr>
 		<fra>===Trouver 6 "Bison" anormaux</fra>
 		<pln>===Zdobyć 6 anormalnych "Bizonów"</pln>
 	</string>
 	<string id="task_qeast_b_5">
 		<rus>Проверить через сутки изменение внешней структуры «Бизонов»</rus>
-		<eng>===Find 6 abnormal "Bison"</eng>
+		<eng>Check the changes of the external structure of the "Bisons" after 24 hours</eng>
 		<ukr>Перевірити через добу зміну зовнішньої структури «Бізонів»</ukr>
 		<fra>===Trouver 6 "Bison" anormaux</fra>
 		<pln>===Zdobyć 6 anormalnych "Bizonów"</pln>
 	</string>
 	<string id="task_qeast_b_6">
 		<rus>Принести собранное оружие Кресту</rus>
-		<eng>===Bring abnormal "Bison" to Cross</eng>
+		<eng>Bring the gathered weapons to Cross</eng>
 		<ukr>Принести зібрану зброю Хресту</ukr>
 		<fra>===Apporter les pétoires à la Croix</fra>
 		<pln>===Przynieść broń do Krzyża</pln>

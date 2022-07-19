@@ -53,7 +53,7 @@
 		<rus>Внимание всем сталкерам! Срочно нужна ваша помощь! Похоже, что военные планируют отбить центральный комплекс на Агропроме. Возможно, будет бронетехника. Нас очень мало, на счету каждый ствол. Кто находится поблизости, поспешите.</rus>
 		<eng>Attention to all stalkers! We urgently need your help! It seems that the military plan to repel the central complex in Agroprom. Perhaps there will be armored vehicles. We are very few, every barrel counts. Who is nearby, hurry.</eng>
 		<ukr>Увага всім сталкерам! Терміново потрібна ваша допомога! Схоже, що військові планують відбити центральний комплекс на Агропромі. Можливо, буде бронетехніка. Нас дуже мало, на рахунку кожен ствол. Хто знаходиться поблизу, поспішіть.</ukr>
-		<fra>Attention à tous les Stalkers! Besoin urgent de votre aide! Il semble que l'Armée envisage de repousser le complexe central de l'industrie agricole. Peut-être qu'il y aura des véhicules blindés. Nous sommes très peu nombreux, chaque baril compte. Qui est à proximité, dépêche-toi.</fra>
+		<fra>Attention à tous les Stalkers! Besoin urgent de votre aide! Il semble que l'Armée envisage de repousser le complexe central de l'Agroprom. Peut-être qu'il y aura des véhicules blindés. Nous sommes très peu nombreux, chaque baril compte. Qui est à proximité, dépêche-toi.</fra>
 		<pln>Uwaga wszyscy stalkerzy! Potrzebna jest szybko wasza pomoc! Wygląda na to, że wojsko planuje odbić centralny kompleks na Agropromie. Możliwe, że będą wozy bojowe. Nas jest bardzo mało, przyda się każda lufa. Kto znajduje się w pobliżu, niech się pośpieszy.</pln>
 	</string>
 	<string id="kuznecov_ugroza2_done_0_0">
@@ -133,6 +133,11 @@
 		<fra>Eh bien, connards! Rien de leur vie n'enseigne!</fra>
 		<pln>To durnie! Nic ich życie nie nauczyło!</pln>
 	</string>
+	<string id="sms_barman_fotograf_npc_spawn4_0">
+		<rus>Меченый, срочно подойди ко мне!</rus>
+		<eng>===Меченый, срочно подойди ко мне!</eng>
+		<ukr>===Меченый, срочно подойди ко мне!</ukr>
+	</string>
 	<string id="sms_barman_dragunov_aks_done_0">
 		<rus>Меченый, в сети появились сообщения о том, что это ты загарпунил Акулу. Опять вся слава тебе досталась. Я своё слово держу, денежная сумма переведена на твой счёт.</rus>
 		<eng>Marked One, in the network there were reports that you whacked Akula. You again got all the glory. I keep my word, money is transferred to your account.</eng>
@@ -205,7 +210,7 @@
 	</string>
 	<string id="sms_skitalec_survival_quest_present">
 		<rus>Можешь поздравить себя, ты прошёл испытание. Презент найдёшь на крыше фабрики. Не прощаюсь...</rus>
-		<eng>===Можешь поздравить себя, ты прошёл испытание. Презент найдёшь на крыше фабрики. Не прощаюсь...</eng>
+		<eng>Congratulations, you've passed the test. You'll find your present on the roof of the factory. I won't say goodbye...</eng>
 		<ukr>Можеш привітати себе, ти пройшов випробування. Презент знайдеш на даху фабрики. Не прощаюсь...</ukr>
 		<pln>Możesz sobie pogratulować, przeszedłeś próbę. Prezent znajdziesz na dachu fabryki. Nie żegnam się...</pln>
 	</string>
@@ -353,7 +358,7 @@
 		<rus>Меченый, сигнал маячка пропал. В последний раз он пеленговал с Агропрома, из центрального комплекса. Дальше давай сам. Удачи в поисках!</rus>
 		<eng>Marked One, the way finder signal is gone. The last time it worked in Agroprom, from the central complex. Now do everything on your own. Good luck in searching!</eng>
 		<ukr>Мічений, сигнал маячка пропав. Востаннє він пеленгував з Агропрома, з центрального комплексу. Далі давай сам. Успіхів у пошуках!</ukr>
-		<fra>Le Marqué, le signal de balise a disparu. La dernière fois qu'il portait avec Agroprom, du complexe central. Ensuite viens sur toi-même. Bonne chance dans votre recherche!</fra>
+		<fra>===Le Marqué, le signal de balise a disparu. La dernière fois qu'il portait de l'Agroprom, du complexe central. Ensuite viens sur toi-même. Bonne chance dans votre recherche!</fra>
 		<pln>Naznaczony, sygnał z nadajnika zamilkł. Ostatnio pelengował z Agropromu, z centralnego kompleksu. Dalej radź sobie sam. Powodzenia w poszukiwaniach!</pln>
 	</string>
 	<string id="sms_strelok_adrenalin_peremirie_0">
@@ -405,20 +410,6 @@
 		<fra>Je vous conseille de vous tourner vers Sviblov. Il doit disposer de cartes appropriées permettant de déterminer le lieu.</fra>
 		<pln>Radzę zwrócić się do Swibłowa. Powinien mieć odpowiednie mapy, dzięki którym będzie można to sprawdzić.</pln>
 	</string>
-	<string id="sms_strelok_pda_zagadka_torch_broken_0">
-		<rus>Твою мать! Фонарик сдох и в самый нужный момент! Боров, у тебя лишний фонарик не завалялся?</rus>
-		<eng>Fuck! Flashlight died at such an important moment! Hog, do you have an extra flashlight?</eng>
-		<ukr>Твою мать! Ліхтарик здох і в самий потрібний момент! Кабан, у тебе зайвий ліхтарик не завалявся?</ukr>
-		<fra>Putain! La lampe de poche est morte à un moment aussi important! Ragot, avez-vous une lampe de poche supplémentaire?</fra>
-		<pln>Kurwa mać! Latarka zdechła i to w najmniej odpowiednim momencie! Borow, nie poniewiera się u ciebie zbyteczna latarka?</pln>
-	</string>
-	<string id="sms_borov_checking_taken_item79_2_0">
-		<rus>Ну есть один, заходи. Пять косых только с собой захвати.</rus>
-		<eng>Well, there is one, come in. Just take 5 grands with you.</eng>
-		<ukr>Ну є один, заходь. П'ять косих тільки з собою захопи.</ukr>
-		<fra>Eh bien, il y en a un, allez. Il suffit de prendre cinq biais avec vous.</fra>
-		<pln>Jest jedna, podejdź. Pięć kawałków weź ze sobą.</pln>
-	</string>
 	<string id="sms_strelok_find_chip_sms1_0">
 		<rus>Хм, и что мне теперь с этими чипами делать? Может, профессор Клёнов разберётся, что к чему?</rus>
 		<eng>Hmm, and what should I do with these chips now? Maybe Professor Klyonov will figure it out?</eng>
@@ -449,7 +440,7 @@
 	</string>
 	<string id="sms_monolit_fantoms_pda_done_0">
 		<rus>Дом быта зачищен от группы наёмников. 1 взвод остаётся в "Юбилейном" для охраны периметра, 2 взвод зачищает Х-8, 3 взвод обеспечивает прикрытие учёных. Научная группа может выдвинуться в лабораторию после подтверждения зачистки.</rus>
-		<eng>===The Old Service Center is cleaned of mutants. 1 troop remains in the Old Service Center to protect the perimeter, 2 troop cleans the X-8, 3 troop provides cover for scientists. The research team may go to the laboratory after confirming the cleaning.</eng>
+		<eng>The Old Service Center is cleaned of mutants. 1 troop remains in the Old Service Center to protect the perimeter, 2 troop cleans the X-8, 3 troop provides cover for scientists. The research team may go to the laboratory after confirming the cleaning.</eng>
 		<ukr>Будинок побуту зачищений від групи найманців. 1 взвод залишається у "Ювілейному" для охорони периметра, 2 взвод зачищає Х-8, 3 взвод забезпечує прикриття вчених. Наукова група може висунутися у лабораторію після підтвердження зачистки.</ukr>
 		<fra>===L'ancien centre de services est nettoyé des mutants.Une troupe nettoie le X-8,2 pelotons pour le X-8, 3 pelotons fournit une couverture pour les scientifiques. Le groupe Naukova peut être trouvé au laboratoire après le processus de nettoyage.</fra>
 		<pln>===Stacja Obsługi oczyszczona z mutantów. 1 pluton zostaje na Stacji dla ochrony okolicy, 2 pluton oczyszcza X-8, 3 pluton zabezpiecza osłonę naukowców. Grupa naukowa może zejść do laboratorium po potwierdzeniu oczyszczenia.</pln>
@@ -490,11 +481,11 @@
 		<pln>A cóż to takiego?! Łukasz, jestem w X-8. Trzeba będzie odłożyć poszukiwania. Mój PNW i latarka nie działają, ni cholery tu nic nie widać.</pln>
 	</string>
 	<string id="sms_lucash_volna_darkness_spawn_0">
-		<rus>Постой! Мои бойцы сделали схрон в этой лаборатории, на крыше лифта. Там должны быть фосфорные палки. Бери всё, что хочешь, но обязательно вернись с кейсами.</rus>
-		<eng>Wait! My fighters made a stash in this lab, on the roof of the elevator. There must be phosphorus sticks in it. Take whatever you want, but be sure to come back with the cases.</eng>
-		<ukr>Стривай! Мої бійці зробили схованку в цій лабораторії, на даху ліфта. Там повинні бути фосфорні палиці. Бери все, що хочеш, але обов'язково повернися з кейсами.</ukr>
-		<fra>Attendez! Mes combattants ont fait des caches dans ce laboratoire, sur le toit de l'ascenseur. Il devrait y avoir des bâtons de phosphore. Prenez ce que vous voulez, mais assurez-vous de revenir avec les étuis.</fra>
-		<pln>Poczekaj! Moi chłopcy zrobili magazyn w tym laboratorium, na dachu windy. Tam powinny być fosforowe pałeczki. Bierz wszystko co trzeba, ale obowiązkowo wróć ze skrzyniami.</pln>
+		<rus>Постой! Мои бойцы сделали схрон в этой лаборатории, на крыше лифта, там должны быть ХИСы. Бери всё, что хочешь, но обязательно вернись с кейсами.</rus>
+		<eng>Wait! My fighters made a stash in this lab, on the roof of the elevator. There must be glowsticks in it. Take whatever you want, but be sure to come back with the cases.</eng>
+		<ukr>===Стривай! Мої бійці зробили схованку в цій лабораторії, на даху ліфта. Там повинні бути фосфорні палиці. Бери все, що хочеш, але обов'язково повернися з кейсами.</ukr>
+		<fra>===Attendez! Mes combattants ont fait des caches dans ce laboratoire, sur le toit de l'ascenseur. Il devrait y avoir des bâtons de phosphore. Prenez ce que vous voulez, mais assurez-vous de revenir avec les étuis.</fra>
+		<pln>===Poczekaj! Moi chłopcy zrobili magazyn w tym laboratorium, na dachu windy. Tam powinny być fosforowe pałeczki. Bierz wszystko co trzeba, ale obowiązkowo wróć ze skrzyniami.</pln>
 	</string>
 	<string id="sms_strelok_volna_darkness_bitva1_0">
 		<rus>Димак, мой ПНВ и фонарик приказали долго жить. Мне нужны новые. У тебя найдутся?</rus>
@@ -675,7 +666,7 @@
 		<rus>Волк, твоё чутьё тебя не обмануло. Я нашёл Сеню. В подземке Агропрома. Парень мертвее некуда... Я не эксперт, но похоже, что он застрелился. По крайней мере, я не вижу следов насилия на его теле. Волк, мне неудобно просить тебя, но... я хотел бы завершить начатое парнем. Кому я могу сдать фотографии, если я выполню его контракт?</rus>
 		<eng>Wolf, your gut didn't fool you. I found Senya. In the Agroprom underground. The guy is dead... I'm not an expert, but it looks like he shot himself. At least I don’t see any signs of violence on his body. Wolf, I am uncomfortable asking you, but... I would like to complete the job started by the guy. Who can I give photos if I fulfill his contract?</eng>
 		<ukr>Вовк, твоє чуття тебе не підвело. Я знайшов Сеню. У підземці Агропрома. Хлопець мертвіше нікуди... Я не експерт, але схоже, що він застрелився. Принаймні, я не бачу слідів насильства на його тілі. Вовк, мені незручно просити тебе, але... я хотів би завершити розпочате хлопцем. Кому я можу здати фотографії, якщо я виконаю його контракт?</ukr>
-		<fra>Loup, ton instinct ne t'a pas dupé. J'ai trouvé Senya. Dans le métro Agroprom. Le gars est mort ... Je ne suis pas un expert, mais on dirait qu'il s'est tiré une balle dans la tête. Au moins, je ne vois aucun signe de violence sur son corps. Loup, je suis mal à l'aise de te demander, mais ... j'aimerais compléter le travail commencé par le gars. À qui puis-je donner des photos si je remplis son contrat?</fra>
+		<fra>===Loup, ton instinct ne t'a pas dupé. J'ai trouvé Senya. Dans le métro de l'Agroprom. Le gars est mort ... Je ne suis pas un expert, mais on dirait qu'il s'est tiré une balle dans la tête. Au moins, je ne vois aucun signe de violence sur son corps. Loup, je suis mal à l'aise de te demander, mais ... j'aimerais compléter le travail commencé par le gars. À qui puis-je donner des photos si je remplis son contrat?</fra>
 		<pln>Wilk, twoja intuicja cię nie zawiodła. Znalazłem Sienię. W Podziemiach Agropromu. Chłopak bardziej martwy juz być nie może... Nie jestem ekspertem, ale prawdopodobnie, się zastrzelił. A przynajmniej, nie widzę żadnych śladów przemocy na jego ciele. Wilk, niezręcznie mi to mówić, ale... chciałbym dokończyć kontrakt chłopaka. Komu mogę przekazać fotografie, jeśli wykonam jego zadanie?</pln>
 	</string>
 	<string id="sms_volk_foto_ohota_sms_0">
@@ -1074,7 +1065,7 @@
 		<rus>Уф! Я скрылся в тоннелях, пора и тебе убираться с Агропрома. Не следуй за мной, уходи другим путём.</rus>
 		<eng>Phew! I hid in the tunnels, it's time for you to get out of Agroprom. Do not follow me, go the other way.</eng>
 		<ukr>Уф! Я сховався в тунелях, настав час і тобі прибиратися з Агропрому. Не ходи за мною, йди іншим шляхом.</ukr>
-		<fra>Ouf! Je me suis caché dans les tunnels, il est temps de sortir de l'industrie agricole. Ne me suivez pas, allez dans l'autre sens.</fra>
+		<fra>Ouf! Je me suis caché dans les tunnels, il est temps de sortir de l'Agroprom. Ne me suivez pas, allez dans l'autre sens.</fra>
 		<pln>Uff! Skryłem się w tunelach, ty też musisz uciekać z Agropromu. Nie idź za mną, uciekaj inną drogą.</pln>
 	</string>
 	<string id="sms_varg_varg_npc_delete1_0">
@@ -1128,13 +1119,13 @@
 	</string>
 	<string id="sms_strelok_smska_borova">
 		<rus>Допрыгался, крысёныш?! Фух! Надо бы тебя обыскать!</rus>
-		<eng>===Допрыгался, крысёныш?! Фух! Надо бы тебя обыскать!</eng>
+		<eng>Finish jumping, you little rat?! Phew! I should search you!</eng>
 		<ukr>Дострибався, пацюку?! Фух! Треба б тебе обшукати!</ukr>
 		<pln>No i doigrałeś się, szczurku! Fuch! Trzeba by cię przeszukać!</pln>
 	</string>
 	<string id="sms_strelok_smska_borova2">
 		<rus>Боров, этот засранец Крысюк сдох и КПК при нём не было. Что будем делать?</rus>
-		<eng>===Hog, этот засранец Krysyuk сдох и КПК при нём не было. Что будем делать?</eng>
+		<eng>Hog, that rascal Krysyuk is dead, and he didn't have his PDA with him. What are we going to do?</eng>
 		<ukr>Кабан, цей засранець Щуряк здох і КПК при ньому не було. Що будемо робити?</ukr>
 		<fra>===Ragot, этот засранец Kryssiouk сдох и КПК при нём не было. Что будем делать?</fra>
 		<pln>===Боров, этот засранец Крысюк сдох и КПК при нём не было. Что будем делать?</pln>
@@ -1148,7 +1139,7 @@
 	</string>
 	<string id="sms_krest_bizon_timer">
 		<rus>Воздействие аномалии "Снежная" на внешнюю структуру «Бизонов» оказалось неудачным, оружие безвозвратно утеряно!</rus>
-		<eng>===A hungry soldier is worse than a chimera. Comrades, do not try to steal a soldiers meal!</eng>
+		<eng>The effect of the "Snowy" anomaly on the Bisons' external structure was unsuccessful, the weapon is irretrievably lost!</eng>
 		<ukr>Вплив аномалії "Снігова" на зовнішню структуру «Бізонів» виявився невдалим, зброя безповоротно втрачена!</ukr>
 		<fra>===Un soldat affamé est pire qu'une chimère. Fellowship, ne tyrte pas les guerriers!</fra>
 		<pln>===Głodny żołnierz gorszy od chimery. Bracia, nie kradnijcie żołnierzom prowiantu!</pln>
