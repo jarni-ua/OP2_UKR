@@ -419,7 +419,7 @@
 	<string id="task_hamster_kuznec7_1">
 		<rus>Убить ножом молодого кровососа</rus>
 		<eng>Kill a weak bloodsucker with a knife</eng>
-		<ukr>===Вбити ножем зрілого кровососа</ukr>
+		<ukr>Вбити ножем молодого кровососа</ukr>
 		<fra>===Tuer avec un couteau une sangsue terrible</fra>
 		<pln>===Zabić nożem pijawkę</pln>
 	</string>
@@ -485,14 +485,14 @@
 	<string id="task_teuton_knight_0">
 		<rus>Легенда о рыцаре</rus>
 		<eng>===Kuznetsov's stash</eng>
-		<ukr>===Схованка Кузнєцова</ukr>
+		<ukr>Легенда про лицаря</ukr>
 		<fra>===Cache de Kuznetsov</fra>
 		<pln>===Schowek Kuźniecowa</pln>
 	</string>
 	<string id="task_teuton_knight_1">
 		<rus>Вытащить меч из камня с помощью артефакта, повышающего силу</rus>
 		<eng>===Find a stash at the Red Forest</eng>
-		<ukr>===Знайти схованку в Червоному Лісі</ukr>
+		<ukr>Витягнути меч із каменю за допомогою артефакту, що підвищує силу</ukr>
 		<fra>===Trouver une cache dans la Forêt Rouge</fra>
 		<pln>===Znaleźć schowek w Czerwonym Lesie</pln>
 	</string>
@@ -929,21 +929,21 @@
 	<string id="task_sherstuk_ammo_1">
 		<rus>Замаскировать бомбу в здании электроподстанции</rus>
 		<eng>===Find a stash at the Wild Territory</eng>
-		<ukr>===Замаскувати бомбу на другому поверсі електропідстанції</ukr>
+		<ukr>Замаскувати бомбу у будівлі електропідстанції</ukr>
 		<fra>===Trouver une cache dans les Territoire Sauvages</fra>
 		<pln>===Znaleźć schowek w Dziczy</pln>
 	</string>
 	<string id="task_sherstuk_ammo_2">
 		<rus>Замаскировать бомбу в здании электроподстанции</rus>
 		<eng>===Find a stash at the Wild Territory</eng>
-		<ukr>===Замаскувати бомбу на першому поверсі електропідстанції</ukr>
+		<ukr>Замаскувати бомбу у будівлі електропідстанції</ukr>
 		<fra>===Trouver une cache dans les Territoire Sauvages</fra>
 		<pln>===Znaleźć schowek w Dziczy</pln>
 	</string>
 	<string id="task_sherstuk_ammo_3">
 		<rus>Замаскировать бомбу в здании электроподстанции</rus>
 		<eng>===Find a stash at the Wild Territory</eng>
-		<ukr>===Замаскувати бомбу у підвалі електропідстанції</ukr>
+		<ukr>Замаскувати бомбу у будівлі електропідстанції</ukr>
 		<fra>===Trouver une cache dans les Territoire Sauvages</fra>
 		<pln>===Znaleźć schowek w Dziczy</pln>
 	</string>
@@ -1351,14 +1351,14 @@
 	<string id="task_borov_reid_0">
 		<rus>Рейдеры</rus>
 		<eng>===Raid of bandits</eng>
-		<ukr>===Рейд бандитів</ukr>
+		<ukr>Рейдери</ukr>
 		<fra>===Raid des Bandits</fra>
 		<pln>===Rajd bandytów</pln>
 	</string>
 	<string id="task_borov_reid_1">
 		<rus>Отбить атаку рейдеров и убить Барона</rus>
 		<eng>===Fight off the bandits and kill Baron</eng>
-		<ukr>===Відбити атаку бандитів і вбити Барона</ukr>
+		<ukr>Відбити атаку рейдерів і вбити Барона</ukr>
 		<fra>===Éliminez les bandits et tuez le Baron</fra>
 		<pln>===Odeprzeć atak bandytów i zabić Barona</pln>
 	</string>
@@ -1761,44 +1761,44 @@
 	<string id="task_akill_vision_2">
 		<rus>Нейтрализовать первую группу невидимок Монолита</rus>
 		<eng>===Get a night vision extension</eng>
-		<ukr>===Роздобути насадку нічного бачення</ukr>
+		<ukr>Нейтралізувати першу групу невидимок Моноліту</ukr>
 	</string>
 	<string id="task_akill_vision_3">
 		<rus>Нейтрализовать вторую группу невидимок Монолита</rus>
 		<eng>===Get a night vision extension</eng>
-		<ukr>===Роздобути насадку нічного бачення</ukr>
+		<ukr>Нейтралізувати другу групу невидимок Моноліту</ukr>
 	</string>
 	<string id="task_akill_vision_4">
 		<rus>Нейтрализовать третью группу невидимок Монолита</rus>
 		<eng>===Get a night vision extension</eng>
-		<ukr>===Роздобути насадку нічного бачення</ukr>
+		<ukr>Нейтралізувати третю групу невидимок Моноліту</ukr>
 	</string>
 	<string id="task_akill_vision_5">
 		<rus>Нейтрализовать четвёртую группу невидимок Монолита</rus>
 		<eng>===Get a night vision extension</eng>
-		<ukr>===Роздобути насадку нічного бачення</ukr>
+		<ukr>Нейтралізувати четверту групу невидимок Моноліту</ukr>
 	</string>
 	<string id="task_akill_vision_6">
 		<rus>Собрать ПНВ с трупов</rus>
 		<eng>===Get a night vision extension</eng>
-		<ukr>===Роздобути насадку нічного бачення</ukr>
+		<ukr>Зібрати ПНБ з трупів</ukr>
 	</string>
 	<string id="task_akill_vision_7">
 		<rus>Обнаружить снайперскую позицию в районе девятиэтажек и завладеть насадкой ночного видения</rus>
 		<eng>===Get a night vision extension</eng>
-		<ukr>===Роздобути насадку нічного бачення</ukr>
+		<ukr>Виявити снайперську позицію в районі дев'ятиповерхівок та заволодіти насадкою нічного бачення</ukr>
 		<fra>===Obtenir une extension de vision nocturne</fra>
 		<pln>===Zdobyć nasadkę noktowizyjną</pln>
 	</string>
 	<string id="task_akill_vision_8">
 		<rus>Настроить оптику на винтовке Акилла, ликвидировав 20 противников на дистанции в 100+ метров</rus>
 		<eng>===Get a night vision extension</eng>
-		<ukr>===Роздобути насадку нічного бачення</ukr>
+		<ukr>Налаштувати оптику на гвинтівці Акілла, ліквідувавши 20 супротивників на дистанції 100+ метрів</ukr>
 	</string>
 	<string id="task_akill_vision_9">
 		<rus>Отдать винтовку, насадку и ПНВ Акиллу</rus>
 		<eng>===Give the extension to Akill</eng>
-		<ukr>===Віддати насадку Акіллу</ukr>
+		<ukr>Віддати гвинтівку, насадку та ПНБ Акіллу</ukr>
 		<fra>===Donner l'extension à Akill</fra>
 		<pln>===Zanieść nasadkę do Akilla</pln>
 	</string>
@@ -3919,14 +3919,14 @@
 	<string id="task_ohota_kogot_1">
 		<rus>Пометить радиомаячком хотя бы одно невидимое существо</rus>
 		<eng>===Mark at least one invisible deathclaw with a radio beacon</eng>
-		<ukr>===Помітити радіомаячком хоча б одного невидимого кігтя смерті</ukr>
+		<ukr>Помітити радіомаячком хоча б одне невидиме створіння</ukr>
 		<fra>===Placer au moins une balise radio sur un Griffe de la mort invisible</fra>
 		<pln>===Zamocować radionadajnik na chociaż jednym niewidzialnym szponie śmierci</pln>
 	</string>
 	<string id="task_ohota_kogot_2">
 		<rus>Убить всех невидимых существ</rus>
 		<eng>===Kill the invisible death claws</eng>
-		<ukr>===Вбити невидимих кігтів смерті</ukr>
+		<ukr>Вбити всі невидимі створіння</ukr>
 		<fra>===Tuer le Griffe de la mort invisible</fra>
 		<pln>===Zabic niewidzialne szpony śmierci</pln>
 	</string>
@@ -5539,7 +5539,7 @@
 	</string>
 	<string id="task_remont_btr_3">
 		<rus>Найти старый автомобильный аккумулятор</rus>
-		<ukr>===Знайти старий акумулятор</ukr>
+		<ukr>Знайти старий автомобільний акумулятор</ukr>
 	</string>
 	<string id="task_remont_btr_4">
 		<rus>Отнести аккумулятор Петренко на зарядку</rus>
@@ -5663,12 +5663,12 @@
 
 	<string id="task_kuznec_gps_0">
 		<rus>Операция "Буревестник"</rus>
-		<ukr>===Операция "Буревестник"</ukr>
+		<ukr>Операція "Буревісник"</ukr>
 	</string>
 	<string id="task_kuznec_gps_1">
 		<rus>Отыскать и засветить радиомаяками упавшие в Зоне вертолёты</rus>
 		<eng>===Go through the distance, destroying all targets</eng>
-		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+		<ukr>Знайти і засвітити радіомаяками гелікоптери, що впали в Зоні</ukr>
 	</string>
 	<string id="task_kuznec_gps_2">
 		<rus>Вернуться к Кузнецову</rus>
@@ -5680,72 +5680,72 @@
 
 	<string id="task_lotsman_explorer_zaton_0">
 		<rus>Экскурсия по Затону</rus>
-		<ukr>===Экскурсия по Затону</ukr>
+		<ukr>Екскурсія Затоном</ukr>
 	</string>
 	<string id="task_lotsman_explorer_zaton_1">
 		<rus>Обыскать все стационарные тайники на Затоне</rus>
 		<eng>===Go through the distance, destroying all targets</eng>
-		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+		<ukr>Обшукати всі стаціонарні схованки на Затоні</ukr>
 	</string>
 	<string id="task_lotsman_explorer_zaton_2">
 		<rus>Поведать о результатах Лоцману</rus>
 		<eng>===Get back to Kuznetsov</eng>
-		<ukr>===Повернутися до Кузнєцова</ukr>
+		<ukr>Розповісти про результати Лоцману</ukr>
 	</string>
 
 	<string id="task_lotsman_explorer_jupiter_0">
 		<rus>Экскурсия по Юпитеру</rus>
-		<ukr>===Экскурсия по Юпитеру</ukr>
+		<ukr>Екскурсія по Юпітеру</ukr>
 	</string>
 	<string id="task_lotsman_explorer_jupiter_1">
 		<rus>Обыскать все стационарные тайники на Юпитере</rus>
 		<eng>===Go through the distance, destroying all targets</eng>
-		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+		<ukr>Обшукати всі стаціонарні схованки на Юпітері</ukr>
 	</string>
 	<string id="task_lotsman_explorer_jupiter_2">
 		<rus>Рассказать об успехах Лоцману</rus>
 		<eng>===Get back to Kuznetsov</eng>
-		<ukr>===Повернутися до Кузнєцова</ukr>
+		<ukr>Розповісти про успіхи Лоцману</ukr>
 	</string>
 
 	<string id="task_volk_anomaly_0">
 		<rus>Чистильщик</rus>
-		<ukr>===Чистильщик</ukr>
+		<ukr>Чистильник</ukr>
 	</string>
 	<string id="task_volk_anomaly_1">
 		<rus>Сделать фото аномалии "Летающая Жарка"</rus>
 		<eng>===Go through the distance, destroying all targets</eng>
-		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+		<ukr>Зробити фото аномалії "Літаюча Жарка"</ukr>
 	</string>
 	<string id="task_volk_anomaly_2">
 		<rus>Нейтрализовать 10 аномалий "Летающая Жарка"</rus>
 		<eng>===Go through the distance, destroying all targets</eng>
-		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+		<ukr>Нейтралізувати 10 аномалій "Літаюча Жарка"</ukr>
 	</string>
 	<string id="task_volk_anomaly_3">
 		<rus>Сделать фото аномалии "Блуждающий Холодец"</rus>
 		<eng>===Go through the distance, destroying all targets</eng>
-		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+		<ukr>Зробити фото аномалії "Блукаючий Холодець"</ukr>
 	</string>
 	<string id="task_volk_anomaly_4">
 		<rus>Нейтрализовать 10 аномалий "Блуждающий Холодец"</rus>
 		<eng>===Go through the distance, destroying all targets</eng>
-		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+		<ukr>Нейтралізувати 10 аномалій "Блукаючий Холодець"</ukr>
 	</string>
 	<string id="task_volk_anomaly_5">
 		<rus>Сделать фото сгустка аномальной энергии</rus>
 		<eng>===Go through the distance, destroying all targets</eng>
-		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+		<ukr>Зробити фото згустку аномальної енергії</ukr>
 	</string>
 	<string id="task_volk_anomaly_6">
 		<rus>Нейтрализовать 30 сгустков аномальной энергии</rus>
 		<eng>===Go through the distance, destroying all targets</eng>
-		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+		<ukr>Нейтралізувати 30 згустків аномальної енергії</ukr>
 	</string>
 	<string id="task_volk_anomaly_7">
 		<rus>Рассказать о выполнении Волку</rus>
 		<eng>===Get back to Kuznetsov</eng>
-		<ukr>===Повернутися до Кузнєцова</ukr>
+		<ukr>Розповісти про виконання Вовку</ukr>
 	</string>
 
 </string_table>

@@ -605,7 +605,7 @@
 	<string id="sms_koloda_kuznec">
 		<rus>Найдено карт из колоды Кузнецова: %%c[sms_red]%d%%c[default] из %d</rus>
 		<eng>A card from Kuznetsov's deck has been found: %%c[sms_red]%d%%c[default] of %d</eng>
-		<ukr>Знайдена карта з колоди Кузнєцова: %%c[sms_red]%d%%c[default] із %d</ukr>
+		<ukr>Знайдено карт з колоди Кузнєцова: %%c[sms_red]%d%%c[default] із %d</ukr>
 		<fra>Une carte du jeu de Kouznetsov vient d’être trouvé: %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Найдено карт из колоды Кузнецова: %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
@@ -633,28 +633,28 @@
 	<string id="sms_kuznec_gps">
 		<rus>Помечено вертолётов: %%c[sms_red]%d%%c[default] из %d</rus>
 		<eng>===Anomalies annihilated: %%c[sms_red]%d%%c[default] of %d</eng>
-		<ukr>===Аномалій анігільовано: %%c[sms_red]%d%%c[default] із %d</ukr>
+		<ukr>Позначено гелікоптерів: %%c[sms_red]%d%%c[default] з %d</ukr>
 		<fra>===Anomalies anéanties: %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Аномалий аннигилировано: %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_treasure_explored">
 		<rus>Тайников обыскано: %%c[sms_red]%d%%c[default] из %d</rus>
 		<eng>===A card from Kuznetsov's deck has been found, %%c[sms_red]%d%%c[default] of %d</eng>
-		<ukr>===Знайдена карта з колоди Кузнєцова, %%c[sms_red]%d%%c[default] із %d</ukr>
+		<ukr>Схованок обшукано: %%c[sms_red]%d%%c[default] з %d</ukr>
 		<fra>===Une carte du jeu de Kouznetsov vient d’être trouvé, %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Найдена карта из колоды Кузнецова, %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_long_shot">
 		<rus>Подтверждённых убийств с дальней дистанции: %%c[sms_red]%d%%c[default] из %d</rus>
 		<eng>===You have hit a bottle: %%c[sms_red]%d%%c[default] of %d</eng>
-		<ukr>===Підтверджено попадань з дальної дистанції: %%c[sms_red]%d%%c[default] із %d</ukr>
+		<ukr>Підтверджено попадань з дальної дистанції: %%c[sms_red]%d%%c[default] із %d</ukr>
 		<fra>===Vous avez frappé une bouteille: %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку: %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_vihlop_camo_dead">
 		<rus>Подтверждённых убийств со 100+ метров: %%c[sms_red]%d%%c[default] из %d</rus>
 		<eng>===You have hit a bottle: %%c[sms_red]%d%%c[default] of %d</eng>
-		<ukr>===Підтверджено попадань з дальної дистанції: %%c[sms_red]%d%%c[default] із %d</ukr>
+		<ukr>Підтверджених вбивств зі 100 метрів: %%c[sms_red]%d%%c[default] з %d</ukr>
 		<fra>===Vous avez frappé une bouteille: %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку: %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
