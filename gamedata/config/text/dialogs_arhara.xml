@@ -210,7 +210,7 @@
 	<string id="arhara_shurup_atp_propusk_3">
 		<rus>Очень смешно! У меня здесь полно работы по ремонту всякой техники, а инструментов и рабочих рук не хватает. Я составил в электронном виде полный список оружия для апгрейда, скидываю на твой КПК, авось, поможешь мне.</rus>
 		<eng>Very funny! I've got a lot of work to do around here repairing stuff, and not enough tools or hands to do it. I've compiled a complete list of weapons to upgrade. I'm sending it to your PDA. See if you can help me.</eng>
-		<ukr>===Дуже смішно! У мене тут повно роботи по ремонту всілякої техніки, а інструментів і робочих рук не вистачає.</ukr>
+		<ukr>Дуже смішно! У мене тут повно роботи з ремонту всілякої техніки, а інструментів та робочих рук не вистачає. Я склав у електронному вигляді повний список зброї для апгрейда, скидую на твій КПК, хто-зна, може допоможеш мені.</ukr>
 		<pln>===Bardzo śmieszne. Jeśli znalazłeś jeden mózg kontrolera dla Łukasza - tu masz drugi, a nie znalazłeś - będziesz musiał na CEA-2 wędrować, w tym ci pomóc nie mogę - miałem tylko jeden egzemplarz.</pln>
 	</string>
 
@@ -561,7 +561,7 @@
 	<string id="akim_obmen_fnsnip_0">
 		<rus>А нет ли у тебя чего-нибудь такого, что у других торговцев не достать, чего-то особенного?</rus>
 		<eng>Don't you have anything that other merchants can't get, something really special?</eng>
-		<ukr>===Костя якось замовляв у тебе відмінну гвинтівку. Чи немає чого подібного в наявності?</ukr>
+		<ukr>А чи немає в тебе чогось такого, що в інших торговців не дістати, чогось особливого?</ukr>
 		<pln>===Kostia niedawno zamawiał u ciebie świetny karabin. Masz coś podobnego w asortymencie?</pln>
 	</string>
 	<string id="akim_obmen_fnsnip_1">
@@ -783,7 +783,7 @@
 	<string id="arhara_sahar_bezo_8">
 		<rus>Ну вот и отлично. Только не забудьте, одного безоара для удачной трансформации в артефакт мало! Нужно добавить к данной субстанции селезёнку чумной крысы, да-да, не удивляйтесь, именно чумной крысы, от обычной не подойдёт, вы только всё испортите... Впрочем, подробный рецепт я сброшу вам на КПК.</rus>
 		<eng>Well, that's great. But don't forget, one bezoar is not enough for successful transformation into an artifact! It is necessary to add the spleen of a plague rat to this substance. Yes, don't be surprised, it is a plague rat. An ordinary one will not do, you will only spoil everything... In any case, I will drop a detailed recipe to your PDA.</eng>
-		<ukr>===Ну вот и отлично. Только не забудьте, одного безоара для удачной трансформации в артефакт мало! Нужно добавить к данной субстанции селезёнку чумной крысы, да-да, не удивляйтесь, именно чумной крысы, от обычной не подойдёт, вы только всё испортите... Впрочем, подробный рецепт я сброшу вам на КПК.</ukr>
+		<ukr>Ну ось і добре. Тільки не забудьте, одного безоара для успішної трансформації в артефакт мало! Потрібно додати до цієї субстанції селезінку чумного щура, так-так, не дивуйтеся, саме чумного щура, від звичайного не підійде, ви тільки все зіпсуєте... Втім, докладний рецепт я скину вам на КПК.</ukr>
 		<pln>===Ну вот и отлично. Только не забудьте, одного безоара для удачной трансформации в артефакт мало! Нужно добавить к данной субстанции селезёнку чумной крысы, да-да, не удивляйтесь, именно чумной крысы, от обычной не подойдёт, вы только всё испортите... Впрочем, подробный рецепт я сброшу вам на КПК.</pln>
 	</string>
 	<string id="akim_zamok_0">
@@ -1388,7 +1388,7 @@
 	<string id="shax_kniga_prines_3">
 		<rus>Это не простая книга... Да, вот, забирай награду. Я рад, просто проблема у нас тут похоже намечается, но пока не ясно, может ещё всё обойдётся... Ты пока свои дела порешай, потом приходи.</rus>
 		<eng>This is no ordinary book... Yeah, here, take your reward. I am glad, but it's just that there seems to be a problem here, but it's not clear yet, maybe it'll work out... You take care of your business and come back later.</eng>
-		<ukr>Це не проста книга... Так, ось, забирай нагороду. Я радий, просто конфуз тут у нас вийшов... ти поки покури, а я з думками зберуся.</ukr>
+		<ukr>Це не проста книга... Так, ось забирай нагороду. Я радий, просто проблема у нас схоже намічається, але поки не ясно, може ще все обійдеться... Ти поки свої справи вирішуй, потім приходь.</ukr>
 		<pln>To nie zwyczajna książka... Proszę, bierz nagrodę. Cieszę się, tylko że sprawa nam tu wynikła... Ty sobie teraz zapal, a ja myśli zbiorę.</pln>
 	</string>
 
@@ -2364,7 +2364,7 @@
 		<eng>No money, but hold on to these. Or rather - take the PDAs.</eng>
 		<ukr>Грошей немає, але ти тримайся. Вірніше - тримай мої КПК.</ukr>
 		<pln>Pieniędzy nie mam, ale ty trzymaj się. A raczej - trzymaj moje PDA.</pln>
-	</string>
+	</string>	
 	<string id="map_hideouts4">
 		<rus>Смотрю - от жадности ты похудел даже. Мне проще самому нарисовать.</rus>
 		<eng>I see - you've even lost weight from greed. It's easier for me to draw my own.</eng>
@@ -2599,13 +2599,13 @@
 	<string id="atp_vstrecha_5">
 		<rus>Вот именно! Советую зачистить АТП немедленно. Иначе, в будущем отморозки могут сильно осложнить тебе жизнь... Ладно, мне пора. Увидимся в нашем лагере.</rus>
 		<eng>Great! I advise you to clear the ATP immediately. Otherwise, scumbags can greatly complicate your life in the future. All right, I gotta go. I'll see you back at our camp.</eng>
-		<ukr>===Саме так! Раджу зачистити АТП негайно. Інакше, в майбутньому відморозки можуть сильно ускладнити тобі життя. Можеш пішки, а можеш - на машині - он УАЗик стоїть. Я подивився, начебто робочий, двигун завівся, бензин є. Я б сам його взяв, та рулити не вмію зовсім. Якщо надумаєш на територію бази заїхати - свисти - може кабани або плоті на крик прибіжать.</ukr>
+		<ukr>Саме так! Раджу зачистити АТП негайно. Інакше, в майбутньому відморозки можуть сильно ускладнити тобі життя... Гаразд, мені вже час. Побачимося у нашому таборі.</ukr>
 		<pln>===Otóż to! Radzę oczyścić ATP natychmiast. Inaczej, w przyszłości bandyci mogą mocno skomplikować ci życie. Możesz piechotą, a możesz - samochodem - o tam UAZ stoi. Oglądałem go - wygląda w porządku, silnik startuje, benzyna jest. Sam bym go wziął, ale prowadzić wcale nie umiem. Jeśli wpadnie ci do głowy zajechać na terytorium bazy - zatrąb - może dziki, czy mięsacze, przybiegną na sygnał.</pln>
 	</string>
 	<string id="atp_vstrecha_6">
 		<rus>Лады, учту. Спасибо за информацию.</rus>
 		<eng>Okay, I'll keep that in mind. Thanks for the information.</eng>
-		<ukr>===Гаразд. Подивлюсь, що за машина, сам давно за кермом не був. Але видок - відпадний, довго вона напевно тут іржавіла... А що, з'їжджу на базу - влегку.</ukr>
+		<ukr>Гаразд, врахую. Спасибі за інформацію.</ukr>
 		<pln>===Jasne. Popatrzę, co to za maszyna, sam dawno za kółkiem nie siedziałem. Na oko - wrak - chyba długo tu rdzewiała... A co tam, może dojadę do bazy - powolutku.</pln>
 	</string>
 	<string id="atp_vstrecha_7">
@@ -2623,7 +2623,7 @@
 	<string id="kalinin_zadan_vzyt_1">
 		<rus>Это ты о чём?! Если о территории - то да, в каком-то смысле ты прав - я её первым открыл. А команда - я раньше был одиночкой. Сейчас одному трудно, практически невозможно. Зона быстро меняется. В команде проще - хоть и самодеятельности никакой, зато и знают меня многие... Дело к тебе есть, раз уж ты тут оказался.</rus>
 		<eng>What are you talking about? If it's about the territory - then yes, in a sense, you are right - I discovered it first. And with a team - I used to be a Loner. It's difficult for one now, almost impossible. The Zone is changing rapidly. It's easier to work as a team - even though they are mostly amateurs, but many people know me... I have some business for you, since you are here.</eng>
-		<ukr>Це ти про що? Якщо про території - то так, в якомусь сенсі ти правий - я її першим відкрив. А команда - я раніше був одинаком. Зараз одному важко, практично неможливо. Зона швидко змінюється. У команді простіше - хоч і самодіяльності ніякої, зате і знають мене багато... Справа до тебе є, якщо вже ти тут опинився.</ukr>
+		<ukr>Це ти про що?! Якщо про території - то так, в якомусь сенсі ти правий - я її першим відкрив. А команда - я раніше був одинаком. Зараз одному важко, практично неможливо. Зона швидко змінюється. У команді простіше - хоч і самодіяльності ніякої, зате і знають мене багато... Справа до тебе є, якщо вже ти тут опинився.</ukr>
 		<pln>A ty znowu o czym? Jeśli o lokacji - to tak, w jakimś sensie masz rację - ja ją pierwszy odkryłem... A załoga - przedtem byłem samotnikiem... W tych czasach samemu trudno, praktycznie się nie da... Zona szybko się zmienia. W zespole łatwiej - chociaż samodzielności żadnej, za to zna mnie wielu... Jest sprawa do ciebie, skoro już tu jesteś.</pln>
 	</string>
 	<string id="kalinin_zadan_vzyt_2">
@@ -3082,7 +3082,7 @@
 		<ukr>Та вже, там був не курорт: камера глуха, без вікон, а з обстановки - матрац, миска та відхоже відро. Не дивно, що в першій розмові я мало чого від нього домігся. Гаразд, піду, спробую ще разок.</ukr>
 		<pln>===Nie wiem, uda się? Ale spróbuję.</pln>
 	</string>
-
+	
 	<string id="shax_kill_tm_0">
 		<rus>Это опять я. Поговорил с нашим блудным сыном, только он, и правда, пока мало что вспомнил. Похоже, придётся подождать ещё... Ты что-то хотел сказать?</rus>
 		<eng>It's me again. I talked to your prodigal son, but he really hasn't remembered much yet. Looks like we'll have to wait a little longer... Did you have something you wanted to say?</eng>
@@ -4327,7 +4327,7 @@
 	<string id="piligrim1_britva1_prines_3">
 		<rus>Можешь не торопиться особо - зарядка займёт какое-то время.</rus>
 		<eng>You can take your time - it will take some time to charge.</eng>
-		<ukr>===Не квапся особливо - годину-півтори точно зарядка займе.</ukr>
+		<ukr>Можеш не поспішати особливо - зарядка займе якийсь час.</ukr>
 		<pln>===Możesz się tak bardzo nie spieszyć - ładowanie zajmie z godzinę-półtora.</pln>
 	</string>
 
@@ -4347,7 +4347,7 @@
 	<string id="pilig_akkum_2">
 		<rus>Ну... Помолодел, правда с бородой посолиднее выглядел. Больше ничего не скажу - я в салоне красоты не работал...</rus>
 		<eng>Well... You do look younger, although you looked more distinguished with a beard. What more can I say - I'm not a beautician.</eng>
-		<ukr>Ну... Помолодшав, правда з бородою солідніше виглядав. Більше мало що скажу - я в салоні краси не працював...</ukr>
+		<ukr>Ну... Помолодшав, правда з бородою солідніше виглядав. Більше нічого не скажу - я в салоні краси не працював...</ukr>
 		<pln>No... Odmłodniałeś, chociaż z brodą wyglądałeś solidniej. Więcej nic nie powiem - w salonie urody nie pracowałem...</pln>
 	</string>
 	<string id="pilig_akkum_3">
@@ -4771,7 +4771,7 @@
 	<string id="akkum_and_mikposx_nayti_1">
 		<rus>Здорово, Стрелок, спасибо. Голограмма выяснил, что для перфузора ещё надо достать два аккумулятора и микросхему управления от экзоскелета свободовцев. Я думаю, это уже не такая гигантская проблема.</rus>
 		<eng>Great Strelok, thanks. The Hologram found out that two power supply units and a control microcircuit from a Freedom exoskeleton are also needed for the Perfusor. I don't think this will be a major problem.</eng>
-		<ukr>===Вітаю, Стрілець, спасибі. Голограма з'ясував, що для перфузора ще треба дістати два блоки живлення і мікросхему управління від екзоскелета Волівців. Я думаю, це вже не така гігантська проблема.</ukr>
+		<ukr>Вітаю, Стрілець, спасибі. Голограма з'ясував, що для перфузора ще треба дістати два акумулятора і мікросхему управління від екзоскелета Волівців. Я думаю, це вже не така гігантська проблема.</ukr>
 		<pln>===Świetnie, Striełok, dziękuję. Hologram powiedział, że do pompy infuzyjnej jeszcze trzeba zdobyć dwa bloki zasilania i mikroukład sterujący z egzoszkieletu wolnościowców. Myślę, że to już nie taki wielki problem.</pln>
 	</string>
 	<string id="akkum_and_mikposx_nayti_2">
@@ -4815,7 +4815,7 @@
 	<string id="akkum_and_mikposx_prines_0">
 		<rus>Да, ты оказался прав - были там два аккумулятора для экзы свободовской, а микросхемы - вот, притащил пару плат из сломанного бабинного магнитофона - может подойдёт...</rus>
 		<eng>Hey, you turned out to be right - two Freedom exoskeleton power supplies were there, as for the microcircuits - here, I brought you a couple of circuit boards from a broken reel to reel tape recorder - you might be able to use them instead...</eng>
-		<ukr>===Так, ти виявився правий - були там два блоки живлення для екзи волівської, а мікросхеми - ось, притягнув пару плат зі зламаного бобинного магнітофона - може підійдуть...</ukr>
+		<ukr>Так, ти виявився правий - були там два акумулятора для екзи волівської, а мікросхеми - ось, притягнув пару плат зі зламаного бобинного магнітофона - може підійдуть...</ukr>
 		<pln>===Tak, miałeś rację - tam były dwa bloki zasilania do egzy wolnościowców, a mikroukłady - o, przyniosłem parę płytek z zepsutego magnetofonu szpulowego - może się nadadzą...</pln>
 	</string>
 	<string id="akkum_and_mikposx_prines_1">
@@ -4865,19 +4865,19 @@
 	<string id="piligrim_3_4">
 		<rus>Мне нужны два аккумулятора для экзоскелета группировки Свобода и плата управления. И заодно - вопросец на засыпку - как к этим снайперам по-мирному подъехать - надо узнать кой-чего.</rus>
 		<eng>I need two power supplies and a control board from Freedom exoskeletons. And at the same time - a tricky topic - I need to know something - how to approach those snipers in a peaceful way.</eng>
-		<ukr>===Мені потрібні два блоки живлення для екзоскелета угруповання Воля і плата управління. І заодно - питання на засипку - як до цих снайперів по-мирному під'їхати - треба дізнатися дещо.</ukr>
+		<ukr>Мені потрібні два акумулятора для екзоскелета угруповання Воля і плата управління. І заодно - питання на засипку - як до цих снайперів по-мирному під'їхати - треба дізнатися дещо.</ukr>
 		<pln>===Potrzebuję dwa bloki zasilania do egzoszkieletu ugrupowania Wolność i płytkę sterowania. I przy okazji - pytanie na dobranoc - jak do tych snajperów pokojowo się zbliżyć - muszę się czegoś dowiedzieć.</pln>
 	</string>
 	<string id="piligrim_3_5">
 		<rus>Аккумуляторы где-то валялись - можешь посмотреть, насчёт платы управления - не знаю, есть только сломанный магнитофон - может от него что-нибудь подойдёт... А насчёт снайперов - уж не собрался ли ты к ним на службу? Если нет, то можно попробовать способ один: есть у меня КПК одного наёмника - я его на прошлом задании порешил... Можно по нему отправить сообщение главарю снайперов - типа, к нему идёт для работы человечек - испытательный срок пройти перед вступлением в наёмники... Насколько я знаю, снайперы и наёмники в друзьях ходят...</rus>
 		<eng>I don't know about the control board, but I have a broken tape recorder, maybe something from it will work... And about the snipers - aren't you going to join them? If not, then you could try one way: I have a PDA of one mercenary - I killed him on the last mission... You can use it to send a message to the leader of the snipers - like, a little man goes to him for work - a probationary period to pass before joining the mercenaries ... As far as I know, snipers and mercenaries are friends...</eng>
-		<ukr>===Блоки живлення десь валялися - можеш подивитися, на рахунок плати управління - не знаю, є тільки зламаний магнітофон - може від нього що-небудь підійде... А на рахунок снайперів - ти випадконо не зібрався до них на службу? Якщо ні, то можна спробувати спосіб один: є у мене КПК одного найманця - я його на минулому завданні порішив... Можна по ньому відправити повідомлення ватажкові снайперів - типу до нього йде для роботи чоловічок - випробувальний термін пройти перед вступом у найманці... Наскільки я знаю, снайпери і найманці в друзях ходять...</ukr>
+		<ukr>Акумулятори десь валялися - можеш подивитися, на рахунок плати управління - не знаю, є тільки зламаний магнітофон - може від нього що-небудь підійде... А на рахунок снайперів - ти випадконо не зібрався до них на службу? Якщо ні, то можна спробувати спосіб один: є у мене КПК одного найманця - я його на минулому завданні порішив... Можна по ньому відправити повідомлення ватажкові снайперів - типу до нього йде для роботи чоловічок - випробувальний термін пройти перед вступом у найманці... Наскільки я знаю, снайпери і найманці в друзях ходять...</ukr>
 		<pln>===Bloki zasilania gdzieś tu się walały - możesz popatrzeć, co do płytki sterowania - nie wiem, jest tu tylko popsuty magnetofon. Jeszcze nie zdążyłem go wyrzucić. Może z niego coś ci się nada... A w sprawie snajperów - nie wybierasz się przypadkiem do nich na służbę? Jeśli nie, to można wypróbować jeden sposób: mam tu PDA jednego najemnika - na poprzednim zadaniu z życiem go rozliczyłem... Można za jego pomocą wysłać wiadomość do przywódcy snajperów - że niby idzie do niego człowiek chętny do pracy - żeby przejść okres próbny przed wstąpieniem do najemników... O ile wiem, snajperzy i najemnicy są w dobrej komitywie...</pln>
 	</string>
 	<string id="piligrim_3_6">
 		<rus>Мысль дельная - отправляй СМС, а я пока посмотрю плату и аккумуляторы. Если получится - сочтёмся!</rus>
 		<eng>That's a good idea - send the SMS, and I'll take a look at the board and batteries. If it works out, I'll get back to you!</eng>
-		<ukr>===Думка слушна - відправляй СМС, а я покищо подивлюся плату та блоки живлення. Якщо вийде - розрахуємося!</ukr>
+		<ukr>Думка слушна - відправляй СМС, а я покищо подивлюся плату та акумулятори. Якщо вийде - розрахуємося!</ukr>
 		<pln>===Świetny pomysł - wysyłaj SMS, a ja tymczasem obejrzę magnetofon i bloki zasilania. Jeśli podejdą - rozliczymy się!</pln>
 	</string>
 
@@ -6191,7 +6191,7 @@
 	<string id="klenov_gol_nayti_2">
 		<rus>Ключ от телепорта мне дал один сталкер, но я знаю человека, который может изготовить подобный. А чем Вы тут занимаетесь, если не секрет? Тоже сразу скажу - меня интересуют две вещи - пропавшая "дочка" одного из лидеров О-Сознания, о группе учёных из этой группы Вы только что упомянули, и артефакты под названием "Сердце полтергейста" - или их ещё называют - "Куском Монолита"...</rus>
 		<eng>The key to the teleport was given to me by a stalker, but I know a person who can make a similar one. So what are you doing here, if it's not a secret? I'll tell you right now - I'm interested in two things - the missing "daughter" of one of the C-Consciousness leaders, since you just mentioned you were one of the scientists from this group, and artefacts called the "Poltergeist's Heart" - or are they still called - "Shard of the Monolith"...</eng>
-		<ukr>Ключ від телепорту мені дав один сталкер, але я знаю людину, яка може виготовити подібний. А чим Ви тут займаєтесь, якщо не секрет? Теж відразу скажу - мене цікавлять дві речі - зникла "донька" одного з лідерів "Усвідомлення", про групу вчених з цієї групи Ви щойно згадали, і артефакти під назвою "Серце полтергейста" - або їх ще називають - шматком Моноліту...</ukr>
+		<ukr>Ключ від телепорту мені дав один сталкер, але я знаю людину, яка може виготовити подібний. А чим Ви тут займаєтесь, якщо не секрет? Теж відразу скажу - мене цікавлять дві речі - зникла "донька" одного з лідерів Усвідомлення, про групу вчених з цієї групи Ви щойно згадали, і артефакти під назвою "Серце полтергейста" - або їх ще називають - шматком Моноліту...</ukr>
 		<pln>Klucz do teleportu dał mi pewien stalker, ale znam człowieka, który może zrobić podobny. A czym Wy się tu zajmujecie, jeśli to nie tajemnica? Też od razu powiem -interesują mnie dwie rzeczy - zaginiona "córeczka" jednego z liderów "Świadomości-Z", grupy uczonych o której dopiero co wspominaliście i artefakty zwane "Serce Poltergeista" - albo jak je jeszcze nazywają - "Kawałki Monolitu"...</pln>
 	</string>
 	<string id="klenov_gol_nayti_3">
@@ -6721,27 +6721,27 @@
 	<string id="sidor_razvod_raschet1_0">
 		<rus>Сидорович, слушай, получил от тебя смс про долг сталкеру. Но что-то этот хмырь у меня доверия не вызвал, поэтому решил уточнить у тебя.</rus>
 		<eng>Sidorovich, listen, I got a text from you about a stalker's debt. But something about this guy didn't add up, so I decided to check with you.</eng>
-		<ukr>===Сидорич, слушай, получил от тебя смс про долг сталкеру. Но что-то этот хмырь у меня доверия не вызвал, поэтому решил уточнить у тебя.</ukr>
+		<ukr>Сидорович, слухай, отримав від тебе смс про борг сталкеру. Але щось цей хмир у мене довіри не викликав, тож вирішив уточнити у тебе.</ukr>
 		<pln>===Sidorycz, слушай, получил от тебя смс про долг сталкеру. Но что-то этот хмырь у меня доверия не вызвал, поэтому решил уточнить у тебя.</pln>
 	</string>
 	<string id="sidor_razvod_raschet1_1">
 		<rus>Какое смс? Отродясь смс не отправляю, только в общую сеть. Надеюсь деньги ему не отдал? Слышал я про этих тварей, присылают смс, типа от торговцев, а потом пропадают.</rus>
 		<eng>What text? I don't send text messages at all, only to the public network. I hope you did not give him any money? I've heard about these bastards, they send text messages, pretending to being traders, and then disappear.</eng>
-		<ukr>===Какое смс? Отродясь смс не отправляю, только в общую сеть. Надеюсь деньги ему не отдал? Слышал я про этих тварей, присылают смс типа от торговцев, а потом пропадают.</ukr>
+		<ukr>Яке смс? Зроду смс не відправляю, тільки в загальну мережу. Сподіваюся, гроші йому не віддав? Чув я про цих тварюк, надсилають смс, на кшталт від торговців, а потім пропадають.</ukr>
 		<pln>===Какое смс? Отродясь смс не отправляю, только в общую сеть. Надеюсь деньги ему не отдал? Слышал я про этих тварей, присылают смс типа от торговцев, а потом пропадают.</pln>
 	</string>
 	<string id="sidor_razvod_raschet1_2">
 		<rus>Не отдал. Пойду завалю эту гадину.</rus>
 		<eng>I didn't. I'm going to kill the bastard.</eng>
-		<ukr>===Не отдал. Пойду завалю эту гадину.</ukr>
+		<ukr>Не віддав. Піду завалю цю гадину.</ukr>
 		<pln>===Не отдал. Пойду завалю эту гадину.</pln>
 	</string>
 	<string id="sidor_razvod_raschet1_3">
 		<rus>Ага, так он стоит и ждёт тебя, когда ты всё выяснишь. Забудь, деньги сберёг и ладно.</rus>
 		<eng>Yeah, so he's standing there waiting for you to figure it out. Forget it, you saved your money, that's fine.</eng>
-		<ukr>===Ага, так он стоит и ждёт тебя, когда ты всё выяснишь. Забудь, деньги сберёг и ладно.</ukr>
+		<ukr>Ага, так він стоїть і чекає на тебе, коли ти все з'ясуєш. Забудь, гроші зберіг і добре.</ukr>
 		<pln>===Ага, так он стоит и ждёт тебя, когда ты всё выяснишь. Забудь, деньги сберёг и ладно.</pln>
-		</string>
+	</string>
 	<string id="derevny_plen_0">
 		<rus>Привет, что у вас тут происходит? И бороду опять отрастил...</rus>
 		<eng>Hi, what's going on here? I see you grew your beard again...</eng>
@@ -7877,7 +7877,7 @@
 	<string id="prizrak_frits_talk_7">
 		<rus>Вот это новость. Похоже, дело рук Чёрного Доктора. Этот местный Старик-Хотабыч - ещё тот воротила. Ладно, я тут вещицу одну отыскал, с её помощью и благодаря сверхспособностям нашего бомжика, оказывается, на этого субъекта пси-излучение не действует, мы сможем отключить эти долбанные пси-антенны... Смотрю, пока я бегал за джойстиком, ты нашего бомжика в порядок привёл - трезв как стёклышко!</rus>
 		<eng>Well, that's news. Looks like the Black Doctor did it. This local genie is a real big shot. Well, I found a little something that, with the help of our bum's superpowers, turns out that psi radiation has no effect on him, we can shut down those damn psi antennas... I see that while I was running to get the joystick, you got our bum cleaned up - he's sober as a whistle!</eng>
-		<ukr>===Ось це новина. Схоже, справа рук Чорного Доктора. Цей місцевий Старий-Хоттабич - ще той ділок. Гаразд, я відлучуся ненадовго, річ треба одну розшукати, а ти покищо бомжика мого в порядок приведи - щоб був тверезий як огірочок - він нам конче потрібен буде - виявляється, на цього торговця псі-випромінювання не діє - як я зрозумів, на ньому ці псі-антени і випробовували.</ukr>
+		<ukr>Оце новина. Схоже, справа рук Чорного Лікаря. Цей місцевий Старий-Хотабич – ще той воротило. Гаразд, я тут річ одну знайшов, з її допомогою і завдяки надздібностям нашого бомжика, виявляється, на цього суб'єкта псі-випромінювання не діє, ми зможемо відключити ці довбані псі-антени... Дивлюся, поки я бігав за джойстиком, ти нашого бомжика в порядок привів - тверезий як скельце!</ukr>
 		<pln>===To ci nowina. Najpewniej to wytwór Czarnego Doktora. Ten miejscowy Dziadek-Mądrala - wszystkim tutaj kręci. Dobra, ja się odłączam na trochę, jedną rzecz trzeba odszukać, a ty póki co mojego kloszarda doprowadź do porządku - żeby był trzeźwy jak niemowlę. Będzie nam bardzo potrzebny - okazuje się, że na tego handlarza nie działa emisja psioniczna. O ile dobrze zrozumiałem, na nim te anteny testowali.</pln>
 	</string>
 
@@ -9115,7 +9115,7 @@
 	<string id="real_dok_say2_5">
 		<rus>Не может быть!!! О... Значит, мы не ошиблись. Тогда дело за малым - я вычислил место, координаты которого указаны в записке. Оно здесь, за вашей спиной и обведено белым кругом. В этой точке пересекаются множество аномальных и энергетических полей. Дальше - просто - встаёте в круг, поворачиваетесь таким образом, чтобы левое плечо смотрело на дверной проём, и выбрасываете "Сердце полтергейста", только сразу выйдите из комнаты после этого, иначе ваше биополе может помешать процессу трансмутации. После - мы с вами потолкуем о дальнейших действиях.</rus>
 		<eng>No way! Oh... Then we were not mistaken. Now it's up to me to find the place, the coordinates of which are indicated in the note. It's there, behind you and surrounded by a white circle. At this point, many anomalous and energy fields intersect. Next - just stand in the circle, turn in such a way that your left shoulder looks at the doorway and drop the "Poltergeist's Heart". Leave the room immediately afterwards, otherwise your biofield can interfere with the transmutation process. After - we'll talk about further actions.</eng>
-		<ukr>===Не може бути!! О... Значить, ми не помилилися. Тоді справа за малим - я обчислив місце, координати якого вказані в записці. Воно тут, за вашою спиною і обведено білим колом. У цій точці перетинаються безліч аномальних і енергетичних полів. Далі - просто - стаєте в коло, повертаєтеся обличчям до дверей, і кидаєте "Серце Полтергейста". Повинна статися трансмутація. Після цього - ми з вами поговоримо про подальші дії.</ukr>
+		<ukr>Не може бути!!! О... Виходить, ми не помилилися. Тоді справа за малим – я обчислив місце, координати якого вказані у записці. Воно тут, за вашою спиною і обведене білим колом. У цій точці перетинаються безліч аномальних та енергетичних полів. Далі - просто - встаєте в коло, повертаєтеся таким чином, щоб ліве плече дивилося на дверний отвір, і викидаєте "Серце полтергейста", тільки відразу вийдіть з кімнати після цього, інакше ваше біополе може стати на заваді процесу трансмутації. Після - ми з вами поговоримо про подальші дії.</ukr>
 		<pln>===Nie może być!!! O... To znaczy, że się nie pomyliliśmy. W takim razie pozostało niewiele do zrobienia - wyznaczyłem miejsce, którego koordynaty były podane w notatce. To miejsce jest tutaj, za waszymi plecami i oznaczone jest białym kręgiem. W tym punkcie przecina się mnóstwo anomalnych i energetycznych pól. Potem - po prostu - stajecie w kręgu, obracacie się twarzą do drzwi, i rzucacie "Serce Poltergeista". Powinna zajść transmutacja. Potem - porozmawiamy o dalszych działaniach.</pln>
 	</string>
 	<string id="real_dok_say2_6">
@@ -9165,7 +9165,7 @@
 	<string id="say_dok_after_varka_1">
 		<rus>Да, всё получилось. Вы молодец. Однако, нам надо закончить наш диалог. Я по-прежнему предлагаю вам деньги. Знаю, что это не есть хороший вариант, но вынести отсюда этот арт вы не сможете. Да-да, я в курсе, вас теперь не убить и силой артефакт не отобрать, но никто и не собирается этого делать. К тому же, смею вас заверить, что без надлежащего наблюдения и хранения этот арт проживёт очень не долго. Да, он не вечен... Я могу продлить его жизнь до бесконечности, забирая у него его энергию и подпитывая энергией ручных аномалий.</rus>
 		<eng>Yeah, it worked out. You've done well. However, we need to finish our dialogue. I can still offer you money. I know that this isn't a good option, but you won't be able to take this artefact out of here. Yes, yes, I know it wouldn't be hard to kill you and take this artefact by force, but nobody is going to do that. Plus, I can assure you that without proper monitoring and storage, this artefact won't last that long. You see, it's not eternal... I can prolong its life indefinitely by taking its energy and feeding it off the energy of man-made anomalies.</eng>
-		<ukr>===Так, все вийшло. Ви молодець. Однак, нам треба закінчити наш діалог. Я як і раніше пропоную вам гроші. Знаю, що це не є хороший варіант, але винести звідси цей арт ви не зможете. Так-так, я в курсі, вас тепер не вбити і силою артефакт не відібрати, але ніхто і не збирається цього робити. До того ж, смію вас запевнити, що без належного спостереження і зберігання цей арт проживе не так довго. Так, він не вічний... Я можу продовжити його життя до нескінченності, забираючи у нього його енергію і підживлюючи енергією ручних аномалій.</ukr>
+		<ukr>Так, все вийшло. Ви молодець. Однак, нам треба закінчити наш діалог. Я як і раніше пропоную вам гроші. Знаю, що це не є хороший варіант, але винести звідси цей арт ви не зможете. Так-так, я в курсі, вас тепер не вбити і силою артефакт не відібрати, але ніхто і не збирається цього робити. До того ж, смію вас запевнити, що без належного спостереження і зберігання цей арт проживе не так довго. Так, він не вічний... Я можу продовжити його життя до нескінченності, забираючи у нього його енергію і підживлюючи енергією ручних аномалій.</ukr>
 		<pln>===Tak, wszystko poszło dobrze. Brawo. Jednakże musimy zakończyć naszą rozmowę. Jak poprzednio proponuję wam pieniądze. Wiem, że to nie jest dobra opcja, ale nie możecie wynieść stąd tego artefaktu. Tak-tak, wiem, was teraz nie można zabić ani siłą odebrać wam artefaktu, ale nikt nie zamierza tego robić. W dodatku, śmiem was zapewnić, że bez właściwego traktowania i przechowywania ten art nie przeżyje zbyt długo. Tak, on nie jest wieczny... Ja mogę przedłużyć jego życie w nieskończoność, odbierając jego energię i podładowując energią ręcznych anomalii.</pln>
 	</string>
 	<string id="say_dok_after_varka_2">
@@ -10411,7 +10411,7 @@
 		<eng>It worked, but not very well. Here you go.</eng>
 		<ukr>Вийшло, але не особливо добре. Ось, тримай.</ukr>
 		<pln>Udało się, ale nie całkiem dobrze. Masz, trzymaj.</pln>
-	</string>
+	</string> 
 	<string id="pili_psevdofoto_ok_2">
 		<rus>Э... Да ты что, тупым топором цифры-то счищал??? До дыры дотёр фотку-то... И в какой школе ты учился - там, наверно, училки либо слепые, либо косые были...</rus>
 		<eng>Uh... What have you done, did you use a blunt axe to rub out the numbers??? This was a photo before you put a hole in it... What school did you go to - the teachers there were probably either blind or cock-eyed...</eng>
@@ -10748,7 +10748,7 @@
 	<string id="kluk_sad_after_mina_3">
 		<rus>Поспрашивай там местных, может подскажут. Мы пока тут останемся.</rus>
 		<eng>Ask around, see if the locals can tell you anything. We'll stay here for now.</eng>
-		<ukr>===Спробуй. Ми покищо тут залишимося.</ukr>
+		<ukr>Попитай там місцевих, може, підкажуть. Ми поки що тут залишимося.</ukr>
 		<pln>===Ruszaj. My na razie tu zostaniemy.</pln>
 	</string>
 	<string id="kluk_sad_after_mina_4">
@@ -11072,13 +11072,13 @@
 	<string id="izomorf_dialog_9">
 		<rus>Да, вот ещё что... Возьмите сразу с собой этот новый артефакт - в виде комнатного цветка - он за вашей спиной - зомбированные должны стать к вам более дружелюбными... И ещё - где-то на территории завода, где вход в лабораторию, есть зомбированный, с которым бы вам не помешало пообщаться - свободовец, что принёс этот артефакт, сказал, что видел у него интересный предмет - но не успел купить - его отпугнули ребята из группировки Долг - говорят, они сейчас бункер господина Сахарова охраняют. И ещё, советую вам поторопиться, неизвестно сколько времени этот новый, толком неизученный артефакт, будет поддерживать свои удивительные свойства и сохранять для владельца нейтралитет с зомбированными.\n При удачном выполнении моего поручения - вас ждёт и ещё один презент лично от меня.</rus>
 		<eng>Yeah, something else... Take this new artefact with you - it resembles an indoor plant - it's behind you - the zombies should become more friendly to you... And also - somewhere in the territory of the plant, near the entrance to the laboratory, there's a zombie with whom you should talk - the Freedom warrior who brought this artefact, said that he saw an interesting object on him - but didn't have time to buy it - he was scared away by the guys from the Duty group - who they say, now guard Sakharov's bunker. I also advise you to hurry up, there is no telling how long this new, untested artifact will maintain its amazing properties and keep its wearer neutral with the zombified.\n If you're successful, you'll get another present from me personally.</eng>
-		<ukr>===Так, ось ще що... Візьміть відразу з собою цей новий артефакт - у вигляді кімнатної квітки - він за вашою спиною - зомбовані повинні стати до вас більш дружелюбними... І ще - десь на території заводу, де вхід в лабораторію, є зомбований, з яким би вам не завадило поспілкуватися - волівець, що приніс цей артефакт, сказав, що бачив у нього цікавий предмет - але не встиг купити - його відлякали хлопці з угрупування Долг - кажуть, вони зараз бункер пана Сахарова охороняють. При вдалому виконанні - вас чекає і ще один презент особисто від мене.</ukr>
+		<ukr>Так, ось ще що... Візьміть відразу з собою цей новий артефакт - у вигляді кімнатної квітки - він за вашою спиною - зомбовані повинні стати до вас більш дружелюбними... І ще - десь на території заводу, де вхід в лабораторію, є зомбований, з яким би вам не завадило поспілкуватися - волівець, що приніс цей артефакт, сказав, що бачив у нього цікавий предмет - але не встиг купити - його відлякали хлопці з угрупування Долг - кажуть, вони зараз бункер пана Сахарова охороняють. Також рекомендую поквапитись, невідомо як довго цей новий, мало вивчений артефакт, буде підтримувати свої дивовижні властивості і зберігати для власника нейтралітет із зомбованими.\n При вдалому виконанні мого доручення - вас чекає і ще один презент особисто від мене.</ukr>
 		<pln>===Tak, i jeszcze coś... Weźcie od razu ze sobą ten nowy artefakt - wyglądający jak domowy kwiatek - jest za waszymi plecami - zombifikowani powinni stać się bardziej przyjacielscy... I jeszcze - gdzieś na terytorium zakładu, przy wejściu do laboratorium, jest zombifikowany, z którym nie zaszkodziłoby wam porozmawiać - wolnościowiec, który przyniósł ten artefakt powiedział, że widział u niego interesujący przedmiot - ale nie zdążył odkupić - wystraszyli go ludzie z ugrupowania Powinność. Podobno oni teraz bunkier profesora Sacharowa ochraniają. Jeśli wam się uda - będzie na was czekał jeszcze jeden prezent osobiście ode mnie.</pln>
 	</string>
 	<string id="izomorf_dialog_10">
 		<rus>Заинтриговали. Ну что же, пойду делать фотосессии для "Плейбоя". Да, конечно, отправляюсь в Х-16 немедленно.</rus>
 		<eng>I'm intrigued. Well, I'll go do this "Playboy" photo shoot now. Yeah, of course, I'm going to X-16 right now.</eng>
-		<ukr>===Заінтригували. Ну що ж, піду робити фотосесії для Плейбоя.</ukr>
+		<ukr>Заінтригували. Ну що ж, піду робити фотосесії для "Плейбою". Так, звичайно, вирушаю до Х-16 негайно.</ukr>
 		<pln>===Zaciekawiło mnie to. No cóż, pójdę robić fotosesję do Playboya.</pln>
 	</string>
 
@@ -11538,7 +11538,7 @@
 		<eng>How many??? That's enough for a company for week's... Well, you major, are a hustler... Now I understand why our army is invincible... Okay, I'll go and collect the vodka. That much is not available in the entire Zone - I'll have to look for local moonshiner's...</eng>
 		<ukr>Скільки??? Та це роті на тиждень вистачить... Ну ти, майор, шахрай... Тепер я розумію, чому наша армія непереможна... Гаразд, піду горілку збирати. Стільки й у всій Зоні нема - доведеться місцевих самогонників шукати...</ukr>
 		<pln>Ile?! Przecież to rocie na tydzień wystarczy... No, majorze, ryzykant z ciebie... Teraz rozumiem, dlaczego nasza armia jest niezwyciężona... Dobra, pójdę wódkę zbierać. Tyle to w całej Zonie nie ma - trzeba będzie miejscowych bimbrowników znaleźć...</pln>
-	</string>
+	</string>	
 	<string id="vodku25_prines_0">
 		<rus>Э... Майор, хорошо что вы ещё живы... Вот водка - 25 бутылок. Вся Зона осталась без водки - сухой закон.</rus>
 		<eng>Uh... Major, it's good that you are still alive... Here's the vodka - 25 bottles. The whole Zone is left without vodka now - like the days of prohibition.</eng>
@@ -12897,13 +12897,13 @@
 	<string id="parfumer_say_tre_3">
 		<rus>Возьми ещё этот приборчик, он может тебе пригодиться. Дуда очень коварен, он как отключил защиту внешнего периметра, так может её и включить в любой момент, даже после того, как ты отдашь деньги. На его благородство и порядочность не стоит надеяться, так что, подстраховаться не помешает. Этот датчик способен на время обмануть систему защиты, само собой, его быстро вычислят и заблокируют, но у тебя будет несколько минут для манёвра. Ну, удачи!</rus>
 		<eng>Take this little device too, you might need it. Duda is very cunning; he turned off the outer perimeter protection, and can turn it back on at any time, even after you've given him the money. You can't count on his generosity and decency, so it doesn't hurt to be on the safe side. The sensor can fool the security system for a while. It's sure to be detected and blocked, but you'll have a few minutes to evade it. Well, good luck!!</eng>
-		<ukr>===Возьми ещё этот приборчик, он может тебе пригодиться. Дуда очень коварен, он как отключил защиту внешнего периметра, так может её и включить в любой момент, даже после того, как ты отдашь деньги. На его благородство и порядочность не стоит надеяться, так что, подстраховаться не помешает. Этот датчик способен на время обмануть систему защиты, само собой, его быстро вычислят и заблокируют, но у тебя будет несколько минут для манёвра. Ну, удачи!</ukr>
+		<ukr>Візьми ще цей прилад, він може тобі стати в нагоді. Дуда дуже підступний, він як вимкнув захист зовнішнього периметра, так може його і увімкнути в будь-який момент, навіть після того, як ти віддаси гроші. На його шляхетність і порядність не варто сподіватися, тож підстрахуватися не завадить. Цей датчик здатний на якийсь час обдурити систему захисту, само собою, його швидко обчислять і заблокують, але у тебе буде кілька хвилин для маневру. Ну, щасти!</ukr>
 		<pln>===Возьми ещё этот приборчик, он может тебе пригодиться. Дуда очень коварен, он как отключил защиту внешнего периметра, так может её и включить в любой момент, даже после того, как ты отдашь деньги. На его благородство и порядочность не стоит надеяться, так что, подстраховаться не помешает. Этот датчик способен на время обмануть систему защиты, само собой, его быстро вычислят и заблокируют, но у тебя будет несколько минут для манёвра. Ну, удачи!</pln>
 	</string>
 	<string id="parfumer_say_tre_4">
 		<rus>Спасибо!</rus>
 		<eng>Thanks!</eng>
-		<ukr>===Спасибо!</ukr>
+		<ukr>Дякую!</ukr>
 		<pln>===Спасибо!</pln>
 	</string>
 
