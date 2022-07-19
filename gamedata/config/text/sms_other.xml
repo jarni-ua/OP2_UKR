@@ -367,6 +367,7 @@
 	<string id="sms_net_safe_no_pay_day_first">
 		<rus>В связи с просроченностью оплаты будут насчитаны проценты за охрану рюкзаков.</rus>
 		<eng>Interest will be charged for backpack security due to late payment.</eng>
+		<ukr>У зв'язку з простроченістю оплати буде нараховано відсотки за охорону рюкзаків.</ukr>
 	</string>
 	
 	<string id="sms_net_safe_pay_day_0">
@@ -666,7 +667,7 @@
 	<string id="sms_box_arny">
 		<rus>Мишеней поражено: %%c[sms_red]%d%%c[default] из %d</rus>
 		<eng>Targets hit: %%c[sms_red]%d%%c[default] of %d</eng>
-		<ukr>===Ви поцілили у пляшку: %%c[sms_red]%d%%c[default] із %d</ukr>
+		<ukr>Мішеней вражено: %%c[sms_red]%d%%c[default] з %d</ukr>
 		<fra>===Vous avez frappé une bouteille: %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку: %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>

@@ -829,6 +829,7 @@
 	<string id="kb_wpn_sl_ops">
 		<rus>Отделить/прикрепить глушитель</rus>
 		<eng>Detach/attach silencer</eng>
+		<ukr>Відокремити/прикріпити глушник</ukr>
 	</string>
 	
 	<string id="kb_down">
@@ -2044,6 +2045,7 @@
 	<string id="ui_mm_bolt_visual_hint">
 		<rus>Внешний вид предмета для проверки аномалий</rus>
 		<eng>Appearance of the anomaly testing item</eng>
+		<ukr>Зовнішній вигляд предмета для перевірки аномалій</ukr>
 	</string>
 	<string id="ui_mm_show_weapon">
 		<rus>Показывать оружие</rus>
@@ -2873,7 +2875,7 @@
 	<string id="st_game_over_press_jump">
 		<rus>Нажмите ($$ACTION_JUMP$$) для выхода в главное меню или ($$ACTION_USE_USER_ACTION3$$) для загрузки последней сохраненной игры</rus>
 		<eng>Press ($$ ACTION_JUMP $$) to exit to the main menu or ($$ACTION_USE_USER_ACTION3$$) to load the last saved game </eng>
-		<ukr>===Натисніть ($$ACTION_JUMP$$) для виходу до головного меню</ukr>
+		<ukr>Натисніть ($$ACTION_JUMP$$) для виходу в головне меню або ($$ACTION_USE_USER_ACTION3$$) для завантаження останньої збереженої гри</ukr>
 		<fra>===Appuyez sur ($$ACTION_JUMP$$) pour accéder au menu principal.</fra>
 		<pln>===Nacisnij ($$ACTION_JUMP$$) aby wyjść do główngo menu</pln>
 	</string>
@@ -5646,7 +5648,6 @@
 		<rus>Невидимость активирована</rus>
 		<eng>Invisibility activated</eng>
 		<ukr>Невидимість активована</ukr>
-		<eng>Invisibility activated</eng>
 		<fra>Invisibilité activée</fra>
 		<pln>Aktywowano niewidzialność</pln>
 	</string>
@@ -5654,7 +5655,6 @@
 		<rus>Невидимость деактивирована</rus>
 		<eng>Invisibility deactivated</eng>
 		<ukr>Невидимість деактивована</ukr>
-		<eng>Invisibility deactivated</eng>
 		<fra>Invisibilité désactivée</fra>
 		<pln>Wyłączono niewidzialność</pln>
 	</string>	
@@ -5893,22 +5893,26 @@
 	<string id="ui_safe_ammo_in_mag">
 		<rus>патронов в магазине</rus>
 		<eng>cartridges in the magazine</eng>
-		<ukr>патронів в магазині</ukr>
+		<ukr>патронів у магазині</ukr>
 	</string>
 	<string id="ui_show_relation_in_ui">
 		<rus>Отображать отношение в числовом виде в некоторых UI элементах</rus>
 		<eng>Display the ratio numerically in some UI elements</eng>
+		<ukr>Відображати ставлення у числовому вигляді в деяких UI елементах</ukr>
 	</string>
 	<string id="ui_show_relation_in_ui_hint">
 		<rus>При активации данного пункта в окнах диалога, торговли и обыска будет отображаться репутация НПС и его группы.\n %c[red]При использовании увеличенного шрифта отображение данной информации может быть с накладками.%c[default]</rus>
 		<eng>When this option is activated, the dialog, trade and search windows will display the reputation of the NPC and its group.\n %c[red]If you use a larger font, the display of this information may be overlaid.%c[default]</eng>
+		<ukr>При активації цього пункту у вікнах діалогу, торгівлі та обшуку відображатиметься репутація НПС та його групи.\n %c[red]При використанні збільшеного шрифту відображення цієї інформації може бути з накладками.%c[default]</ukr>
 	</string>
 		<string id="ui_fly_show_info_delay">
 		<rus>Задержка перед появлением информации о предмете</rus>
 		<eng>Delay before item information appears</eng>
+		<ukr>Затримка перед появою інформації про предмет</ukr>
 	</string>
 	<string id="ui_main_mm_music_volume">
 		<rus>Громкость музыки в главном меню</rus>
 		<eng>Music volume in the main menu</eng>
+		<ukr>Гучність музики у головному меню</ukr>
 	</string>
 </string_table>
