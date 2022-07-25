@@ -74,7 +74,7 @@
 	</string>
 	<string id="wpn_crowbar_name">
 		<rus>Монтировка</rus>
-		<eng>Crow bar</eng>
+		<eng>Crowbar</eng>
 		<ukr>Фомка</ukr>
 		<pln>Łom</pln>
 	</string>
@@ -2890,15 +2890,15 @@
 		<pln>===Detonator materiału wybuchowego. Zrusyfikowany przez jakichś hakerów. Pozwala detonować ładunki różnych marek i rodzajów w promieniu 100 metrów. Próbna wersja, wykonana w formie zwykłej fleszki, opóźnia się i nie zawsze działa.</pln>
 	</string>
 	<string id="enc_bomba-small">
-		<rus>Кусок пластичной взрывчатки. Для взрыва необходим радиодетонатор или простым выстрелом. При детонации враг быстро отправляется на тот свет. Радиус поражения равен 5 метрам.\n%c[255,255,1,1]Внимание! Использовать аккуратно! Пластид может не взорваться на открытом воздухе, но может легко взорваться у Вас в рюкзаке!</rus>
+		<rus>Кусок пластичной взрывчатки. Для взрыва необходим радиодетонатор или простой выстрел. При детонации враг быстро отправляется на тот свет. Радиус поражения равен 5 метрам.\n%c[255,255,1,1]Внимание! Использовать аккуратно! Пластид может не взорваться на открытом воздухе, но может легко взорваться у Вас в рюкзаке!</rus>
 		<eng>A piece of plastic explosive. It requires a radio detonator or a simple shot to detonate. When detonated, the enemy is quickly sent to the afterlife. The blast radius is 5 meters. %c[255,255,1,1]Warning! Handle with care! The plastic explosive may not explode in the open air, but it can easily explode in your backpack!</eng>
-		<ukr>Шматок пластичної вибухівки. Для вибуху необхідний радіодетонатор чи просто постріл. При детонації ворог швидко відправляється на той світ. Радіус ураження близько 5 метрів.\n%c[255,255,1,1]Увага! Використовувати акуратно! Пластид може не вибухнути на відкритому повітрі, але може легко вибухнути у Вас у рюкзаку!</ukr>
+		<ukr>Шматок пластичної вибухівки. Для вибуху необхідний радіодетонатор чи простий постріл. При детонації ворог швидко відправляється на той світ. Радіус ураження близько 5 метрів.\n%c[255,255,1,1]Увага! Використовувати акуратно! Пластид може не вибухнути на відкритому повітрі, але може легко вибухнути у Вас у рюкзаку!</ukr>
 		<pln>===Do detonacji konieczny jest detonator. Można sprzedać i aktywować. Po wybuchu wróg szybko odchodzi na tamten świat. %c[255,255,1,1]Uwaga! Postępować ostrożnie! Plastyd może nie wybuchnąć na otwartym powietrzu, ale łatwo może eksplodować w twoim plecaku!</pln>
 	</string>
 	<string id="enc_bomba-trotil">
-		<rus>Малая тротиловая шашка. Для взрыва необходим радиодетонатор или простым выстрелом. Лучшее оружие сапёра, киллера или террориста. Уничтожит всё в радиусе двух с половиной метров и ничего дальше.</rus>
-		<eng>A small block of TNT. Requires a radio detonator or gunshot to be set off. The best weapon for a sapper, killer or terrorist. Destroys everything within a radius of two and a half meters and nothing further away.</eng>
-		<ukr>Мала тротилова шашка. Для вибуху необхідний радіодетонатор чи просто постріл. Краща зброя сапера, кілера або терориста. Знищить все в радіусі двох з половиною метрів і нічого далі.</ukr>
+		<rus>Малая тротиловая шашка. Для взрыва необходим радиодетонатор или простой выстрел. Лучшее оружие сапёра, киллера или террориста. Уничтожит всё в радиусе трёх с половиной метров и ничего дальше.</rus>
+		<eng>A small block of TNT. Requires a radio detonator or gunshot to be set off. The best weapon for a sapper, killer or terrorist. Destroys everything within a radius of three and a half meters and nothing further away.</eng>
+		<ukr>Мала тротилова шашка. Для вибуху необхідний радіодетонатор чи простий постріл. Краща зброя сапера, кілера або терориста. Знищить все в радіусі трьох метрів і нічого далі.</ukr>
 		<pln>===Kostka trotylu. Do wybuchu konieczny jest detonator lub celny ostrzał. Najlepsza broń sapera, zabójcy lub terrorysty. Zniszczy wszystko w promieniu dwóch metrów i nic więcej.</pln>
 	</string>
 	<string id="enc_bomba-samodel">

@@ -588,11 +588,11 @@
 		<pln>Ech, taki ładny pomnik zniszczyli, swołocze... I komu on przeszkadzał?</pln>
 	</string>
 	<string id="tm_sr3_do_0_0">
-		<rus>Мне удалось немного взломать код телепортов "Монолита", и я перенёс следующий телепорт к тебе поближе, чтобы ты не мучился, прыгая по этим балкам.</rus>
-		<eng>I managed to break the code of the "Monolith" teleports a little, so I transferred the next teleport closer for you not to jump on these beams.</eng>
-		<ukr>Мені вдалося трохи зламати код телепортів "Моноліту", і я переніс наступний телепорт до тебе ближче, щоб ти не мучився, стрибаючи по цих балках.</ukr>
-		<fra>J'ai réussi à déchiffrer un peu le code des téléporteurs de "Monolithe" et je t'ai rapproché le téléporteur suivant afin que tu ne souffres pas de sauter sur ces rayons.</fra>
-		<pln>Udało mi się złamać kod teleportów "Monolitu", i przeniosłem następujący teleport w pobliże ciebie, byś się nie męczył, skacząc po tych belkach.</pln>
+		<rus>Мне удалось немного взломать код телепортов Монолита, и я перенёс следующий телепорт к тебе поближе, чтобы ты не мучился, прыгая по этим балкам.</rus>
+		<eng>I managed to break the code of the Monolith teleports a little, so I transferred the next teleport closer for you not to jump on these beams.</eng>
+		<ukr>Мені вдалося трохи зламати код телепортів Моноліту, і я переніс наступний телепорт до тебе ближче, щоб ти не мучився, стрибаючи по цих балках.</ukr>
+		<fra>J'ai réussi à déchiffrer un peu le code des téléporteurs de Monolithe et je t'ai rapproché le téléporteur suivant afin que tu ne souffres pas de sauter sur ces rayons.</fra>
+		<pln>Udało mi się złamać kod teleportów Monolitu, i przeniosłem następujący teleport w pobliże ciebie, byś się nie męczył, skacząc po tych belkach.</pln>
 	</string>
 	<string id="tm_sr4_do_0_0">
 		<rus>Судя по тому, где ты оказался, должен быть ещё один телепорт. Его не видно, но, думаю, его стоит поискать.</rus>
@@ -651,16 +651,16 @@
 		<pln>===Найдена карта из колоды Кузнецова, %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_long_shot">
-		<rus>Подтверждённых убийств с дальней дистанции: %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>Confirmed long-range kills: %%c[sms_red]%d%%c[default] of %d</eng>
-		<ukr>Підтверджено попадань з дальної дистанції: %%c[sms_red]%d%%c[default] із %d</ukr>
+		<rus>Подтверждённых убийств монолитовцев: %%c[sms_red]%d%%c[default] из %d</rus>
+		<eng>===Confirmed long-range kills: %%c[sms_red]%d%%c[default] of %d</eng>
+		<ukr>Підтверджено вбивств монолітівців: %%c[sms_red]%d%%c[default] із %d, дистанція %d м</ukr>
 		<fra>===Vous avez frappé une bouteille: %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку: %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_vihlop_camo_dead">
-		<rus>Подтверждённых убийств со 100+ метров: %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>Confirmed kills from 100+ meters: %%c[sms_red]%d%%c[default] of %d</eng>
-		<ukr>Підтверджених вбивств зі 100 метрів: %%c[sms_red]%d%%c[default] з %d</ukr>
+		<rus>Подтверждённых убийств из «Выхлопа»: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
+		<eng>===Confirmed kills from 100+ meters: %%c[sms_red]%d%%c[default] of %d</eng>
+		<ukr>Підтверджених вбивств із «Вихлопа»: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
 		<fra>===Vous avez frappé une bouteille: %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку: %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
@@ -670,6 +670,35 @@
 		<ukr>Мішеней вражено: %%c[sms_red]%d%%c[default] з %d</ukr>
 		<fra>===Vous avez frappé une bouteille: %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку: %%c[sms_red]%d%%c[default] из %d</pln>
+	</string>
+	<string id="sms_volna_burbon">
+		<rus>Химических источников света установлено: %%c[sms_red]%d%%c[default] из %d</rus>
+		<eng>===Targets hit: %%c[sms_red]%d%%c[default] of %d</eng>
+		<ukr>Хімічних джерел світла встановлено: %%c[sms_red]%d%%c[default] з %d</ukr>
+	</string>
+	<string id="sms_dart_deadshot">
+		<rus>Убито противников дротиком: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
+		<ukr>Убито супротивників дротиком: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
+	</string>
+	<string id="sms_mob_dart_deadshot">
+		<rus>Убито мутантов дротиком: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
+		<ukr>Убито мутантів дротиком: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
+	</string>
+	<string id="sms_zhekan_deadshot">
+		<rus>Убито противников жеканом: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
+		<ukr>Вбито противників жеканом: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
+	</string>
+	<string id="sms_mob_zhekan_deadshot">
+		<rus>Убито мутантов жеканом: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
+		<ukr>Вбито мутантів жеканом: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
+	</string>
+	<string id="sms_410_deadshot">
+		<rus>Убито противников пулей Фостера: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
+		<ukr>Вбито противників кулею Фостера: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
+	</string>
+	<string id="sms_mob_410_deadshot">
+		<rus>Убито мутантов пулей Фостера: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
+		<ukr>Убито мутантів кулею Фостера: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
 	</string>
 	<string id="sms_trade_sidor_enough">
 		<rus>Совершено обменов с Сидоровичем, %%c[sms_red]%d%%c[default] из %d</rus>
