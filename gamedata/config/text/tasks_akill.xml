@@ -150,7 +150,7 @@
 	<string id="task_plov_to_kulinar_1">
 		<rus>Раздобыть ингредиенты для плова</rus>
 		<eng>Find ingredients for pilaw</eng>
-		<ukr>Знайти інгредієнти для плову</ukr>
+		<ukr>Роздобути інгредієнти для плову</ukr>
 		<fra>Trouver les ingrédients pour Artem le Cuisinier</fra>
 		<pln>Znaleźć składniki pilawu</pln>
 	</string>
@@ -419,7 +419,7 @@
 	<string id="task_hamster_kuznec7_1">
 		<rus>Убить ножом молодого кровососа</rus>
 		<eng>Kill a weak bloodsucker with a knife</eng>
-		<ukr>===Вбити ножем зрілого кровососа</ukr>
+		<ukr>Вбити ножем молодого кровососа</ukr>
 		<fra>===Tuer avec un couteau une sangsue terrible</fra>
 		<pln>===Zabić nożem pijawkę</pln>
 	</string>
@@ -430,7 +430,7 @@
 		<fra>Rapport à Kouznetsov sur la mise en œuvre de la tâche</fra>
 		<pln>Zdać relację Kuźniecowowi</pln>
 	</string>
-
+	
 	<string id="task_hamster_kuznec8_0">
 		<rus>"Бейлиз"</rus>
 		<eng>"Baileys"</eng>
@@ -485,14 +485,14 @@
 	<string id="task_teuton_knight_0">
 		<rus>Легенда о рыцаре</rus>
 		<eng>The Legend of the Knight</eng>
-		<ukr>===Схованка Кузнєцова</ukr>
+		<ukr>Легенда про лицаря</ukr>
 		<fra>===Cache de Kuznetsov</fra>
 		<pln>===Schowek Kuźniecowa</pln>
 	</string>
 	<string id="task_teuton_knight_1">
 		<rus>Вытащить меч из камня с помощью артефакта, повышающего силу</rus>
 		<eng>Pull the sword out of the stone with a power-enhancing artifact</eng>
-		<ukr>===Знайти схованку в Червоному Лісі</ukr>
+		<ukr>Витягнути меч із каменю за допомогою артефакту, що підвищує силу</ukr>
 		<fra>===Trouver une cache dans la Forêt Rouge</fra>
 		<pln>===Znaleźć schowek w Czerwonym Lesie</pln>
 	</string>
@@ -929,21 +929,21 @@
 	<string id="task_sherstuk_ammo_1">
 		<rus>Замаскировать бомбу в здании электроподстанции</rus>
 		<eng>Disguise the bomb in the electrical substation building</eng>
-		<ukr>===Замаскувати бомбу на другому поверсі електропідстанції</ukr>
+		<ukr>Замаскувати бомбу у будівлі електропідстанції</ukr>
 		<fra>===Trouver une cache dans les Territoire Sauvages</fra>
 		<pln>===Znaleźć schowek w Dziczy</pln>
 	</string>
 	<string id="task_sherstuk_ammo_2">
 		<rus>Замаскировать бомбу в здании электроподстанции</rus>
 		<eng>Disguise the bomb in the electrical substation building</eng>
-		<ukr>===Замаскувати бомбу на першому поверсі електропідстанції</ukr>
+		<ukr>Замаскувати бомбу у будівлі електропідстанції</ukr>
 		<fra>===Trouver une cache dans les Territoire Sauvages</fra>
 		<pln>===Znaleźć schowek w Dziczy</pln>
 	</string>
 	<string id="task_sherstuk_ammo_3">
 		<rus>Замаскировать бомбу в здании электроподстанции</rus>
 		<eng>Disguise the bomb in the electrical substation building</eng>
-		<ukr>===Замаскувати бомбу у підвалі електропідстанції</ukr>
+		<ukr>Замаскувати бомбу у будівлі електропідстанції</ukr>
 		<fra>===Trouver une cache dans les Territoire Sauvages</fra>
 		<pln>===Znaleźć schowek w Dziczy</pln>
 	</string>
@@ -1351,14 +1351,14 @@
 	<string id="task_borov_reid_0">
 		<rus>Рейдеры</rus>
 		<eng>Raiders</eng>
-		<ukr>===Рейд бандитів</ukr>
+		<ukr>Рейдери</ukr>
 		<fra>===Raid des Bandits</fra>
 		<pln>===Rajd bandytów</pln>
 	</string>
 	<string id="task_borov_reid_1">
 		<rus>Отбить атаку рейдеров и убить Барона</rus>
 		<eng>Fight off the bandits and kill the Baron</eng>
-		<ukr>===Відбити атаку бандитів і вбити Барона</ukr>
+		<ukr>Відбити атаку рейдерів і вбити Барона</ukr>
 		<fra>===Éliminez les bandits et tuez le Baron</fra>
 		<pln>===Odeprzeć atak bandytów i zabić Barona</pln>
 	</string>
@@ -1761,44 +1761,44 @@
 	<string id="task_akill_vision_2">
 		<rus>Нейтрализовать первую группу невидимок Монолита</rus>
 		<eng>Neutralize the first group of invisible Monoliths</eng>
-		<ukr>===Роздобути насадку нічного бачення</ukr>
+		<ukr>Нейтралізувати першу групу невидимок Моноліту</ukr>
 	</string>
 	<string id="task_akill_vision_3">
 		<rus>Нейтрализовать вторую группу невидимок Монолита</rus>
 		<eng>Neutralize the second group of invisible Monoliths</eng>
-		<ukr>===Роздобути насадку нічного бачення</ukr>
+		<ukr>Нейтралізувати другу групу невидимок Моноліту</ukr>
 	</string>
 	<string id="task_akill_vision_4">
 		<rus>Нейтрализовать третью группу невидимок Монолита</rus>
 		<eng>Neutralize the third group of invisible Monoliths</eng>
-		<ukr>===Роздобути насадку нічного бачення</ukr>
+		<ukr>Нейтралізувати третю групу невидимок Моноліту</ukr>
 	</string>
 	<string id="task_akill_vision_5">
 		<rus>Нейтрализовать четвёртую группу невидимок Монолита</rus>
 		<eng>Neutralize the fourth group of invisible Monoliths</eng>
-		<ukr>===Роздобути насадку нічного бачення</ukr>
+		<ukr>Нейтралізувати четверту групу невидимок Моноліту</ukr>
 	</string>
 	<string id="task_akill_vision_6">
 		<rus>Собрать ПНВ с трупов</rus>
 		<eng>Collect the NVDs from the corpses</eng>
-		<ukr>===Роздобути насадку нічного бачення</ukr>
+		<ukr>Зібрати ПНБ з трупів</ukr>
 	</string>
 	<string id="task_akill_vision_7">
 		<rus>Обнаружить снайперскую позицию в районе девятиэтажек и завладеть насадкой ночного видения</rus>
 		<eng>Locate the sniper position around the nine-story buildings and obtain the night-vision attachment</eng>
-		<ukr>===Роздобути насадку нічного бачення</ukr>
+		<ukr>Виявити снайперську позицію в районі дев'ятиповерхівок та заволодіти насадкою нічного бачення</ukr>
 		<fra>===Obtenir une extension de vision nocturne</fra>
 		<pln>===Zdobyć nasadkę noktowizyjną</pln>
 	</string>
 	<string id="task_akill_vision_8">
 		<rus>Настроить оптику на винтовке Акилла, ликвидировав 20 противников на дистанции в 100+ метров</rus>
 		<eng>Adjust the optics on Akill's rifle, eliminating 20 opponents at a distance of 100+ meters</eng>
-		<ukr>===Роздобути насадку нічного бачення</ukr>
+		<ukr>Налаштувати оптику на гвинтівці Акілла, ліквідувавши 20 супротивників на дистанції 100+ метрів</ukr>
 	</string>
 	<string id="task_akill_vision_9">
 		<rus>Отдать винтовку, насадку и ПНВ Акиллу</rus>
 		<eng>Give the rifle, the cap, and the NVDs to Akill</eng>
-		<ukr>===Віддати насадку Акіллу</ukr>
+		<ukr>Віддати гвинтівку, насадку та ПНБ Акіллу</ukr>
 		<fra>===Donner l'extension à Akill</fra>
 		<pln>===Zanieść nasadkę do Akilla</pln>
 	</string>
@@ -2798,6 +2798,13 @@
 		<ukr>Поговорити з Архарою</ukr>
 		<fra>Parler à Arkhara</fra>
 		<pln>Porozmawiać z Arharą</pln>
+	</string>
+	<string id="task_volna_union_23">
+		<rus>Поговорить с Бурбоном</rus>
+		<eng>===Speak to Arkhara</eng>
+		<ukr>Поговорити з Бурбоном</ukr>
+		<fra>===Parler à Arkhara</fra>
+		<pln>===Porozmawiać z Arharą</pln>
 	</string>
 
 	<string id="task_ohota_suker_0">
@@ -3919,14 +3926,14 @@
 	<string id="task_ohota_kogot_1">
 		<rus>Пометить радиомаячком хотя бы одно невидимое существо</rus>
 		<eng>Mark at least one invisible creature with a radio beacon</eng>
-		<ukr>===Помітити радіомаячком хоча б одного невидимого кігтя смерті</ukr>
+		<ukr>Помітити радіомаячком хоча б одне невидиме створіння</ukr>
 		<fra>===Placer au moins une balise radio sur un Griffe de la mort invisible</fra>
 		<pln>===Zamocować radionadajnik na chociaż jednym niewidzialnym szponie śmierci</pln>
 	</string>
 	<string id="task_ohota_kogot_2">
 		<rus>Убить всех невидимых существ</rus>
 		<eng>Kill the invisible creatures</eng>
-		<ukr>===Вбити невидимих кігтів смерті</ukr>
+		<ukr>Вбити всі невидимі створіння</ukr>
 		<fra>===Tuer le Griffe de la mort invisible</fra>
 		<pln>===Zabic niewidzialne szpony śmierci</pln>
 	</string>
@@ -5379,7 +5386,7 @@
 		<rus>Игрушки</rus>
 		<eng>Toys</eng>
 		<ukr>Іграшки</ukr>
-		<fra>===Игрушки</fra>
+		<fra>Jouets</fra>
 		<pln>===Игрушки</pln>
 	</string>
 	<string id="task_sak_kukla_1">
@@ -5565,7 +5572,7 @@
 	<string id="task_remont_btr_3">
 		<rus>Найти старый автомобильный аккумулятор</rus>
 		<eng>Find an old car battery</eng>
-		<ukr>===Знайти старий акумулятор</ukr>
+		<ukr>Знайти старий автомобільний акумулятор</ukr>
 	</string>
 	<string id="task_remont_btr_4">
 		<rus>Отнести аккумулятор Петренко на зарядку</rus>
@@ -5717,12 +5724,12 @@
 	<string id="task_kuznec_gps_0">
 		<rus>Операция "Буревестник"</rus>
 		<eng>Operation "Stormy Petrel"</eng>
-		<ukr>===Операция "Буревестник"</ukr>
+		<ukr>Операція "Буревісник"</ukr>
 	</string>
 	<string id="task_kuznec_gps_1">
 		<rus>Отыскать и засветить радиомаяками упавшие в Зоне вертолёты</rus>
 		<eng>Find and mark the helicopters that crashed in the Zone with radio beacons</eng>
-		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+		<ukr>Знайти і засвітити радіомаяками гелікоптери, що впали в Зоні</ukr>
 	</string>
 	<string id="task_kuznec_gps_2">
 		<rus>Вернуться к Кузнецову</rus>
@@ -5735,100 +5742,100 @@
 	<string id="task_lotsman_explorer_zaton_0">
 		<rus>Экскурсия по Затону</rus>
 		<eng>Tour of Zaton</eng>
-		<ukr>===Экскурсия по Затону</ukr>
+		<ukr>Екскурсія Затоном</ukr>
 	</string>
 	<string id="task_lotsman_explorer_zaton_1">
 		<rus>Обыскать все стационарные тайники на Затоне</rus>
 		<eng>Search all the stationary stashes in Zaton</eng>
-		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+		<ukr>Обшукати всі стаціонарні схованки на Затоні</ukr>
 	</string>
 	<string id="task_lotsman_explorer_zaton_2">
 		<rus>Поведать о результатах Лоцману</rus>
 		<eng>Report the results to the Marine Pilot</eng>
-		<ukr>===Повернутися до Кузнєцова</ukr>
+		<ukr>Розповісти про результати Лоцману</ukr>
 	</string>
 
 	<string id="task_lotsman_explorer_jupiter_0">
 		<rus>Экскурсия по Юпитеру</rus>
 		<eng>Tour of Jupiter</eng>
-		<ukr>===Экскурсия по Юпитеру</ukr>
+		<ukr>Екскурсія по Юпітеру</ukr>
 	</string>
 	<string id="task_lotsman_explorer_jupiter_1">
 		<rus>Обыскать все стационарные тайники на Юпитере</rus>
 		<eng>Search all stationary stashes in Jupiter</eng>
-		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+		<ukr>Обшукати всі стаціонарні схованки на Юпітері</ukr>
 	</string>
 	<string id="task_lotsman_explorer_jupiter_2">
 		<rus>Рассказать об успехах Лоцману</rus>
 		<eng>Tell the Marine Pilot about your progress</eng>
-		<ukr>===Повернутися до Кузнєцова</ukr>
+		<ukr>Розповісти про успіхи Лоцману</ukr>
 	</string>
 
 	<string id="task_volk_anomaly_0">
 		<rus>Чистильщик</rus>
 		<eng>Cleaner</eng>
-		<ukr>===Чистильщик</ukr>
+		<ukr>Чистильник</ukr>
 	</string>
 	<string id="task_volk_anomaly_1">
 		<rus>Сделать фото аномалии "Летающая Жарка"</rus>
 		<eng>Take a photo of the "Flying Burner" anomaly</eng>
-		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+		<ukr>Зробити фото аномалії "Літаюча Жарка"</ukr>
 	</string>
 	<string id="task_volk_anomaly_2">
 		<rus>Нейтрализовать 10 аномалий "Летающая Жарка"</rus>
 		<eng>Neutralize 10 Flying Fire anomalies</eng>
-		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+		<ukr>Нейтралізувати 10 аномалій "Літаюча Жарка"</ukr>
 	</string>
 	<string id="task_volk_anomaly_3">
 		<rus>Сделать фото аномалии "Блуждающий Холодец"</rus>
 		<eng>Take a photo of the "Wandering Fruit Punch" anomaly</eng>
-		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+		<ukr>Зробити фото аномалії "Блукаючий Холодець"</ukr>
 	</string>
 	<string id="task_volk_anomaly_4">
 		<rus>Нейтрализовать 10 аномалий "Блуждающий Холодец"</rus>
 		<eng>Neutralize 10 "Wandering Fruit Punch" anomalies</eng>
-		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+		<ukr>Нейтралізувати 10 аномалій "Блукаючий Холодець"</ukr>
 	</string>
 	<string id="task_volk_anomaly_5">
 		<rus>Сделать фото сгустка аномальной энергии</rus>
 		<eng>Take a photo of an anomalous energy clot</eng>
-		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+		<ukr>Зробити фото згустку аномальної енергії</ukr>
 	</string>
 	<string id="task_volk_anomaly_6">
 		<rus>Нейтрализовать 30 сгустков аномальной энергии</rus>
 		<eng>Neutralize 30 clots of abnormal energy</eng>
-		<ukr>===Пройти дистанцію, знищивши всі цілі</ukr>
+		<ukr>Нейтралізувати 30 згустків аномальної енергії</ukr>
 	</string>
 	<string id="task_volk_anomaly_7">
 		<rus>Рассказать о выполнении Волку</rus>
 		<eng>Report to Wolf about success</eng>
-		<ukr>===Повернутися до Кузнєцова</ukr>
+		<ukr>Розповісти про виконання Вовку</ukr>
 	</string>
 
 	<string id="task_ratcatcher_gta_0">
 		<rus>Автоугонщик</rus>
 		<eng>Grand Theft Auto</eng>
-		<ukr>===Автоугонщик</ukr>
+		<ukr>Автовикрадач</ukr>
 	</string>
 	<string id="task_ratcatcher_gta_1">
 		<rus>Отыскать Запорожец в Тёмной Долине и осмотреть</rus>
 		<eng>Find the Zaporozhets in the Dark Valley and inspect it</eng>
-		<ukr>===Отыскать Запорожец в Тёмной Долине и осмотреть</ukr>
+		<ukr>Знайти Запорожець у Темній Долині та оглянути</ukr>
 	</string>
 	<string id="task_ratcatcher_gta_2">
 		<rus>Найти ключи от машины</rus>
 		<eng>Find the car keys</eng>
-		<ukr>===Найти ключи от машины</ukr>
+		<ukr>Знайти ключі від машини</ukr>
 	</string>
 	<string id="task_ratcatcher_gta_3">
 		<rus>Раздобыть новый армейский бронекостюм</rus>
 		<eng>Get a new military armored suit</eng>
-		<ukr>===Раздобыть новый армейский бронекостюм</ukr>
+		<ukr>Роздобути новий армійський бронекостюм</ukr>
 	</string>
 	<string id="task_ratcatcher_gta_4">
 		<rus>Найти военный пропуск</rus>
 		<eng>Find a military permit</eng>
-		<ukr>===Найти военный пропуск</ukr>
+		<ukr>Знайти військову перепустку</ukr>
 	</string>
 	<string id="task_ratcatcher_gta_5">
 		<rus>Раздобыть 2 канистры с топливом</rus>
@@ -5843,28 +5850,77 @@
 	<string id="task_ratcatcher_gta_7">
 		<rus>Перегнать ночью Запорожец в тоннель на Агропроме</rus>
 		<eng>Drive the Zaporozhets into the Agroprom tunnel at night</eng>
-		<ukr>===Перегнати ночью Запорожец в тоннель на Агропроме</ukr>
+		<ukr>Перегнати вночі Запорожець у тунель на Агропромі</ukr>
 	</string>
 	<string id="task_ratcatcher_gta_8">
 		<rus>Отдать ключи, броню и пропуск Дезертиру</rus>
 		<eng>Give the keys, armor, and pass to Deserter</eng>
-		<ukr>===Отдать ключи, броню и пропуск Дезертиру</ukr>
+		<ukr>Віддати ключі, броню та пропуск Дезертиру</ukr>
 	</string>
 
 	<string id="task_jila_saper_0">
 		<rus>Подрывник</rus>
 		<eng>Demoman</eng>
-		<ukr>===Подрывник</ukr>
+		<ukr>Підривник</ukr>
 	</string>
 	<string id="task_jila_saper_1">
 		<rus>Обезвредить всю взрывчатку в пещере на Свалке</rus>
 		<eng>Disarm all the explosives in the cave at the Dump</eng>
-		<ukr>===Обезвредить всю взрывчатку в пещере на Свалке</ukr>
+		<ukr>Знешкодити всю вибухівку в печері на Звалищі</ukr>
 	</string>
 	<string id="task_jila_saper_2">
 		<rus>Поговорить с Жилой</rus>
 		<eng>Talk to Old-Timer</eng>
-		<ukr>===Поговорить с Жилой</ukr>
+		<ukr>Поговорити із Жилою</ukr>
+	</string>
+
+	<string id="task_volna_burbon_0">
+		<rus>Безопасный маршрут</rus>
+		<eng>===Demoman</eng>
+		<ukr>Безпечний маршрут</ukr>
+	</string>
+	<string id="task_volna_burbon_1">
+		<rus>Проложить правильный маршрут до выхода из Подземелья Припяти, используя ХИСы</rus>
+		<eng>===Disarm all the explosives in the cave at the Dump</eng>
+		<ukr>Прокласти правильний маршрут до виходу з Підземелля Прип'яті, використовуючи ХДСи</ukr>
+	</string>
+	<string id="task_volna_burbon_2">
+		<rus>Вернуться к Бурбону</rus>
+		<eng>===Talk to Old-Timer</eng>
+		<ukr>Повернутись до Бурбона</ukr>
+	</string>
+
+	<string id="task_den_test_0">
+		<rus>Искусство стрельбы</rus>
+		<ukr>Мистецтво стрілянини</ukr>
+	</string>
+	<string id="task_den_test_1">
+		<rus>Ликвидировать 50 противников жеканом на дистанции 50+ метров</rus>
+		<ukr>Ліквідувати 50 супротивників жеканом на дистанції 50 метрів</ukr>
+	</string>
+	<string id="task_den_test_2">
+		<rus>Ликвидировать 50 противников дротиком на дистанции 75+ метров</rus>
+		<ukr>Ліквідувати 50 супротивників дротиком на дистанції 75 метрів</ukr>
+	</string>
+	<string id="task_den_test_3">
+		<rus>Ликвидировать 50 противников пулей Фостера на дистанции 75+ метров</rus>
+		<ukr>Ліквідувати 50 супротивників кулею Фостера на дистанції 75 метрів</ukr>
+	</string>
+	<string id="task_den_test_4">
+		<rus>Убить 50 мутантов жеканом на дистанции 50+ метров</rus>
+		<ukr>Вбити 50 мутантів жеканом на дистанції 50 метрів</ukr>
+	</string>
+	<string id="task_den_test_5">
+		<rus>Убить 50 мутантов дротиком на дистанции 75+ метров</rus>
+		<ukr>Вбити 50 мутантів дротиком на дистанції 75 метрів</ukr>
+	</string>
+	<string id="task_den_test_6">
+		<rus>Убить 50 мутантов пулей Фостера на дистанции 50+ метров</rus>
+		<ukr>Вбити 50 мутантів кулею Фостера на дистанції 50 метрів</ukr>
+	</string>
+	<string id="task_den_test_7">
+		<rus>Поведать о результатах Дэну</rus>
+		<ukr>Розповісти про результати Дену</ukr>
 	</string>
 
 </string_table>
