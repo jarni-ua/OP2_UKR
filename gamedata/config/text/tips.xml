@@ -1582,7 +1582,7 @@
 	<string id="gps_ballon_used">
 		<rus>Радиомаячок прикреплён</rus>
 		<eng>Radio beacon has been placed</eng>
-		<ukr>===Радіомаяк встановлений</ukr>
+		<ukr>Радіомаячок встановлений</ukr>
 		<fra>===La balise radio est installée</fra>
 		<pln>===Заменить хорошую водку на палёную</pln>
 	</string>
@@ -1631,56 +1631,61 @@
 	<string id="fanat_teleport_flash_use">
 		<rus>Вытащить флешку и проверить наличие сейсмокарт в своём КПК</rus>
 		<eng>Pull out the flash drive and check the presence of seismic maps in your PDA</eng>
-		<ukr>===Витягнути флешку і скачати дані на КПК</ukr>
+		<ukr>Витягнути флешку та перевірити наявність сейсмокарт у своєму КПК</ukr>
 	</string>
 	<string id="sword_in_stone_use">
 		<rus>Попытаться вытащить меч из камня</rus>
 		<eng>Try to pull the sword out of the stone</eng>
-		<ukr>===Витягнути флешку і скачати дані на КПК</ukr>
+		<ukr>Спробувати витягнути меч із каменю</ukr>
 	</string>
 	<string id="nightscope_use">
 		<rus>Снять насадку ночного видения</rus>
 		<eng>Remove the night vision cap</eng>
-		<ukr>===Витягнути флешку і скачати дані на КПК</ukr>
+		<ukr>Зняти насадку нічного бачення</ukr>
 	</string>
 	<string id="nightscope_rifle_use">
 		<rus>Осмотреть винтовку</rus>
 		<eng>Inspect the rifle</eng>
-		<ukr>===Витягнути флешку і скачати дані на КПК</ukr>
+		<ukr>Оглянути гвинтівку</ukr>
 	</string>
 	<string id="zaz_use">
 		<rus>Осмотреть Запорожец</rus>
 		<eng>Inspect the Zaporozhets</eng>
-		<ukr>===Осмотреть Запорожец</ukr>
+		<ukr>Оглянути Запорожець</ukr>
 	</string>
 	<string id="zaz_used">
 		<rus>Попытаться открыть дверь</rus>
 		<eng>Try to open the door</eng>
-		<ukr>===Попытаться открыть дверь</ukr>
+		<ukr>Спробувати відчинити двері</ukr>
 	</string>
 	<string id="zaz_found">
 		<rus>Машина заперта, необходимы ключи</rus>
 		<eng>Car is locked, keys needed</eng>
-		<ukr>===Машина заперта, необходимы ключи</ukr>
+		<ukr>Машина замкнена, необхідні ключі</ukr>
 	</string>
 	<string id="zaz_open">
 		<rus>Отпереть дверь машины, выкрутить крышку горловины бензобака</rus>
 		<eng>Unlock the car door, unscrew the gas tank cap</eng>
-		<ukr>===Отпереть дверь машины, выкрутить крышку горловины бензобака</ukr>
+		<ukr>Відімкнути двері машини, викрутити кришку горловини бензобака</ukr>
 	</string>
 	<string id="zaz_is_night">
 		<rus>Убедиться в наступлении темноты</rus>
 		<eng>Make sure it's dark</eng>
-		<ukr>===Убедиться в наступлении темноты</ukr>
+		<ukr>Пересвідчитися що на вулиці темно</ukr>
 	</string>
 	<string id="jila_plastid_use">
 		<rus>Вынуть капсюль-детонатор из пластида</rus>
 		<eng>Remove the detonator capsule from the plastic explosive</eng>
-		<ukr>===Вынуть капсюль-детонатор из пластида</ukr>
+		<ukr>Вийняти капсуль-детонатор із пластиду</ukr>
 	</string>
 	<string id="jila_plastid_used">
 		<rus>Забрать пластид</rus>
 		<eng>Pick up the plastic explosive</eng>
-		<ukr>===Забрать пластид</ukr>
+		<ukr>Забрати пластид</ukr>
+	</string>
+	<string id="burbon_fosfor_use">
+		<rus>Активировать и положить ХИС</rus>
+		<eng>===Pick up the plastic explosive</eng>
+		<ukr>Активувати і покласти ХДС</ukr>
 	</string>
 </string_table>
