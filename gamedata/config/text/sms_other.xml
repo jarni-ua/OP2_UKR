@@ -652,14 +652,14 @@
 	</string>
 	<string id="sms_long_shot">
 		<rus>Подтверждённых убийств монолитовцев: %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===Confirmed long-range kills: %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Confirmed Monolith kills: %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Підтверджено вбивств монолітівців: %%c[sms_red]%d%%c[default] із %d, дистанція %d м</ukr>
 		<fra>===Vous avez frappé une bouteille: %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку: %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_vihlop_camo_dead">
 		<rus>Подтверждённых убийств из «Выхлопа»: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
-		<eng>===Confirmed kills from 100+ meters: %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Confirmed kills with a Vykhlop: %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Підтверджених вбивств із «Вихлопа»: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
 		<fra>===Vous avez frappé une bouteille: %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку: %%c[sms_red]%d%%c[default] из %d</pln>
@@ -673,31 +673,37 @@
 	</string>
 	<string id="sms_volna_burbon">
 		<rus>Химических источников света установлено: %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===Targets hit: %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Glowsticks placed down: %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Хімічних джерел світла встановлено: %%c[sms_red]%d%%c[default] з %d</ukr>
 	</string>
 	<string id="sms_dart_deadshot">
 		<rus>Убито противников дротиком: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
+		<eng>Enemies killed with dart shells: %%c[sms_red]%d%%c[default] out of %d, at a distance of %d m</eng>
 		<ukr>Убито супротивників дротиком: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
 	</string>
 	<string id="sms_mob_dart_deadshot">
 		<rus>Убито мутантов дротиком: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
+		<eng>Mutants killed with dart shells: %%c[sms_red]%d%%c[default] out of %d, at a distance of %d m</eng>
 		<ukr>Убито мутантів дротиком: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
 	</string>
 	<string id="sms_zhekan_deadshot">
 		<rus>Убито противников жеканом: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
+		<eng>Enemies killed with slug shells: %%c[sms_red]%d%%c[default] out of %d, at a distance of %d m</eng>
 		<ukr>Вбито противників жеканом: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
 	</string>
 	<string id="sms_mob_zhekan_deadshot">
 		<rus>Убито мутантов жеканом: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
+		<eng>Mutants killed with slug shells: %%c[sms_red]%d%%c[default] out of %d, at a distance of %d m</eng>
 		<ukr>Вбито мутантів жеканом: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
 	</string>
 	<string id="sms_410_deadshot">
 		<rus>Убито противников пулей Фостера: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
+		<eng>Enemies killed with Foster's bullets: %%c[sms_red]%d%%c[default] out of %d, at a distance of %d m</eng>
 		<ukr>Вбито противників кулею Фостера: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
 	</string>
 	<string id="sms_mob_410_deadshot">
 		<rus>Убито мутантов пулей Фостера: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
+		<eng>Mutants killed with Foster's bullets: %%c[sms_red]%d%%c[default] out of %d, at a distance of %d m</eng>
 		<ukr>Убито мутантів кулею Фостера: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
 	</string>
 	<string id="sms_trade_sidor_enough">
