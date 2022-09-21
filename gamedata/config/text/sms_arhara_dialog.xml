@@ -1473,13 +1473,13 @@
 	<string id="sms_zashita_td_preduprezhdenie1_sms1_0">
 		<rus>Система защиты лаборатории активирована и просит вас оставить артефакты до входа в лабораторию. Активирована защита от негативного воздействия артефактов.</rus>
 		<eng>The laboratory security system is activated and asks you to leave behind the artefacts before entering the laboratory. Protection against the adverse effects of these artefacts is activated.</eng>
-		<ukr>===Система захисту лабораторії активована і просить вас залишити артефакти 1, 2, 3 ступеня розвитку, а також абсолюти до входу у лабораторію. Активовано захист від негативного впливу даних артефактів.</ukr>
+		<ukr>Система захисту лабораторії активована і просить вас залишити артефакти до входу у лабораторію. Активовано захист від негативного впливу даних артефактів.</ukr>
 		<pln>===System ochrony laboratorium jest aktywny i prosi o pozostawienie artefaktów 1, 2, 3 stopnia rozwoju a także absolutów, przed wejściem do laboratorium. Ochrona przed negatywnym wpływem danych artefaktów jest włączona.</pln>
 	</string>
 	<string id="sms_zashita_td_preduprezhdenie2_sms2_0">
 		<rus>Система защиты лаборатории повторно предупреждает: оставьте до входа в лабораторию артефакты. В противном случае артефакты будут дезактивированы.</rus>
 		<eng>The laboratory protection system's second warning: leave behind artefacts before entering the laboratory. Otherwise, these artefacts will be neutralised.</eng>
-		<ukr>===Система захисту лабораторії повторно попереджає: залиште до входу у лабораторію вищі артефакти 1, 2 і 3 ступеня, а також абсолюти. В іншому випадку дані артефакти будуть дезактивовані.</ukr>
+		<ukr>Система захисту лабораторії повторно попереджає: залиште до входу у лабораторію артефакти. Інакше артефакти будуть дезактивовані.</ukr>
 		<pln>===System ochrony laboratorium powtórnie uprzedza: proszę zostawić przed wejściem do laboratorium wyższe artefakty 1, 2 i 3 stopnia, a także absoluty. W przeciwnym wypadku dane artefakty zostaną dezaktywowane.</pln>
 	</string>
 	<string id="sms_zashita_laba_skan_arts_sms1_0">
@@ -2157,7 +2157,7 @@
 	<string id="sms_maksimilian_sms_razgovor_sxod_nz5_0">
 		<rus>Изоморф в Х-16. Но к нему не подобраться. Есть телепорт, его знает профессор местный - Сахаров. Но он, гад, ничего не скажет ни за какие деньги и арты - проверено. Даже если его убить.</rus>
 		<eng>There's an isomorph in the X-16 lab. But you can't get to it. There's a teleport, and a local professor, Sakharov, knows about it. But, the bastard, he won't tell you anything, not for money nor artefacts - I tried. Even if you threaten him.</eng>
-		<ukr>Ізоморф у Х-16. Але до нього не подобратися. Є телепорт, його знає професор місцевий - Сахаров. Але він, гад, нічого не скаже ні за які гроші і арти - перевірено. Навіть якщо його вбити.</ukr>
+		<ukr>Ізоморф у Х-16. Але до нього не підібратися. Є телепорт, його знає професор місцевий - Сахаров. Але він, гад, нічого не скаже ні за які гроші і арти - перевірено. Навіть якщо його вбити.</ukr>
 		<pln>Izomorf jest w X16. Ale do niego nie można się dostać. Jest teleport, zna go tutejszy profesor - Sacharow. Tyle że on niczego nie powie za żadne pieniądze ani arty - sprawdzone. Nawet jeśli go zabić.</pln>
 	</string>
 	<string id="sms_zlobny_sms_razgovor_sxod_nz6_0">
@@ -2926,13 +2926,13 @@
 	<string id="sms_zashita_streyndzher_zablokirovan_sms">
 		<rus>Обнаружен незарегистрированный датчик распознования. Заблокирован.</rus>
 		<eng>An unregistered identification sensor has been detected.</eng>
-		<ukr>===Обнаружен незарегистрированный датчик распознования. Заблокирован.</ukr>
+		<ukr>Виявлено незареєстрований датчик розпізнавання. Заблоковано.</ukr>
 		<pln>===Обнаружен незарегистрированный датчик распознования. Заблокирован.</pln>
 	</string>
 	<string id="sms_saharov_kasseta_done_0">
 		<rus>Уважаемый, Вы, кажется, нашли кассету для меня? Тогда я Вас жду у себя в бункере, на Янтаре. Поторопитесь!</rus>
 		<eng>Young man, have you found the tape for me? Then I am waiting for you at the bunker in Yantar. Hurry!</eng>
-		<ukr>===Уважаемый, Вы, кажется, нашли кассету для меня? Тогда я Вас жду у себя в бункере, на Янтаре. Поторопитесь!</ukr>
+		<ukr>Шановний, Ви, здається, знайшли для мене касету? Тоді я на Вас чекаю у себе в бункері, на Янтарі. Поспішайте!</ukr>
 		<pln>===Уважаемый, Вы, кажется, нашли кассету для меня? Тогда я Вас жду у себя в бункере, на Янтаре. Поторопитесь!</pln>
 	</string>
 </string_table>
