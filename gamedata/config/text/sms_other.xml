@@ -400,7 +400,7 @@
 	</string>
 	<string id="sms_sidor_add_new_109item_0">
 		<rus>Внимание всем! От военных поступила срочная информация! Блокпост на Кордоне был атакован тремя контролёрами, весь личный состав был взят под контроль и уведён этими мутантами в неизвестном направлении. Предположительно, контроши прибыли из Тёмной Лощины. Будьте предельно внимательны и осторожны! Ничего подобного раньше не случалось. Это первый случай массового зомбирования сразу несколькими контролёрами. Они могут быть где угодно, так что будьте начеку!</rus>
-		<eng>Attention everyone! We received urgent information from the military! The security checkpoint at the Cordon was attacked by three controllers, all personnel were taken under control by these mutants taken away in an unknown direction. Supposedly, the controllers came from the Dark Ravine. Be extremely careful and cautious! Nothing like this has happened before. This is the first case of massive zombification by several controllers at once. They can be anywhere, so stay alert!</eng>
+		<eng>Attention everyone! We received urgent information from the military! The security checkpoint at the Cordon was attacked by three controllers, all personnel were taken under control by these mutants and taken away in an unknown direction. Supposedly, the controllers came from Darkscape. Be extremely careful and cautious! Nothing like this has happened before. This is the first case of massive zombification by several controllers at once. They can be anywhere, so stay alert!</eng>
 		<ukr>Увага всім! Від військових надійшла термінова інформація! Блокпост на Кордоні був атакований трьома контролерами, весь особовий склад був узятий під контроль і поведений цими мутантами у невідомому напрямку. Ймовірно, контроші прибули з Темної Балки. Будьте гранично уважні й обережні! Нічого подібного раніше не траплялося. Це перший випадок масового зомбування відразу декількома контролерами. Вони можуть бути де завгодно, так що будьте напоготові!</ukr>
 		<fra>Attention à tous! Nous avons reçu l'information urgente des militaires! Le point de contrôle au Cordon a été attaqué par trois contrôleurs, tout le personnel a été repris sous contrôle par ces mutants et emmené dans une direction inconnue. Soi-disant, les contrôleurs sont venue du Ravin Sombre. Soyez extrêmement prudent et attentif! Rien de tel ne s'est passé avant. Il s'agit du premier cas de zombification de masse commis par plusieurs contrôleurs à la fois. Ils peuvent être n'importe où, alors soyez à l'affût!</fra>
 		<pln>Uwaga wszyscy! Wojsko przesłało pilną informację! Posterunek na Kordonie został zaatakowany przez trzech kontrolerów, cały skład osobowy został wzięty pod kontrolę i wyprowadzony przez te mutanty w nieznanym kierunku. Prawdopodobnie, kontrolerzy przybyli z Mrocznego Parowu. Bądźcie skrajnie uważni i ostrożni! Nic podobnego jeszcze się nie zdarzyło. To pierwszy przypadek masowego zzombifikowania przez kilku kontrolerów jednocześnie. Mogą teraz być wszędzie, więc bądźcie czujni!</pln>
@@ -652,14 +652,14 @@
 	</string>
 	<string id="sms_long_shot">
 		<rus>Подтверждённых убийств монолитовцев: %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===Confirmed long-range kills: %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Confirmed Monolith kills: %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Підтверджено вбивств монолітівців: %%c[sms_red]%d%%c[default] із %d, дистанція %d м</ukr>
 		<fra>===Vous avez frappé une bouteille: %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку: %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_vihlop_camo_dead">
 		<rus>Подтверждённых убийств из «Выхлопа»: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
-		<eng>===Confirmed kills from 100+ meters: %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Confirmed kills with a Vykhlop: %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Підтверджених вбивств із «Вихлопа»: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
 		<fra>===Vous avez frappé une bouteille: %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку: %%c[sms_red]%d%%c[default] из %d</pln>
@@ -673,31 +673,37 @@
 	</string>
 	<string id="sms_volna_burbon">
 		<rus>Химических источников света установлено: %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>===Targets hit: %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Glowsticks placed down: %%c[sms_red]%d%%c[default] of %d</eng>
 		<ukr>Хімічних джерел світла встановлено: %%c[sms_red]%d%%c[default] з %d</ukr>
 	</string>
 	<string id="sms_dart_deadshot">
 		<rus>Убито противников дротиком: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
+		<eng>Enemies killed with dart shells: %%c[sms_red]%d%%c[default] out of %d, at a distance of %d m</eng>
 		<ukr>Убито супротивників дротиком: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
 	</string>
 	<string id="sms_mob_dart_deadshot">
 		<rus>Убито мутантов дротиком: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
+		<eng>Mutants killed with dart shells: %%c[sms_red]%d%%c[default] out of %d, at a distance of %d m</eng>
 		<ukr>Убито мутантів дротиком: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
 	</string>
 	<string id="sms_zhekan_deadshot">
 		<rus>Убито противников жеканом: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
+		<eng>Enemies killed with slug shells: %%c[sms_red]%d%%c[default] out of %d, at a distance of %d m</eng>
 		<ukr>Вбито противників жеканом: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
 	</string>
 	<string id="sms_mob_zhekan_deadshot">
 		<rus>Убито мутантов жеканом: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
+		<eng>Mutants killed with slug shells: %%c[sms_red]%d%%c[default] out of %d, at a distance of %d m</eng>
 		<ukr>Вбито мутантів жеканом: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
 	</string>
 	<string id="sms_410_deadshot">
 		<rus>Убито противников пулей Фостера: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
+		<eng>Enemies killed with Foster's bullets: %%c[sms_red]%d%%c[default] out of %d, at a distance of %d m</eng>
 		<ukr>Вбито противників кулею Фостера: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
 	</string>
 	<string id="sms_mob_410_deadshot">
 		<rus>Убито мутантов пулей Фостера: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
+		<eng>Mutants killed with Foster's bullets: %%c[sms_red]%d%%c[default] out of %d, at a distance of %d m</eng>
 		<ukr>Убито мутантів кулею Фостера: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
 	</string>
 	<string id="sms_trade_sidor_enough">
