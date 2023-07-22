@@ -223,7 +223,7 @@
 	<string id="night_ohota">
 		<rus>Дэн знает, где можно достать калибровочные инструменты, но чтобы он поделился этой информацией, нужно кое-что сделать. Неподалёку обосновался контролёр, который докучает всем сталкерам. Убить его никто не смог из-за сильного пси-воздействия. Дэн предложил устроить ночную охоту на этого контрика. Для начала надо раздобыть помехозащищённый ПНВ, без него подобраться к цели не получится. Также охотникам необходимо принести по три ремонтных набора для брони и оружия. Время начала охоты: не раньше часа, но и не позже трёх часов ночи.</rus>
 		<eng>Dan knows where to get some tools, but he wants me to do something before he shares this information. A controller has settled nearby and has been bothering stalkers in the area. Nobody has been able to kill him because of its abnormally strong psy-effects. Dan has offered to arrange a night hunt for this mutant, but first he wants me to get a noise-free night vision device. Without, it'll be hard to get to the target let alone take it out. He also wants me to bring three repair kits for both armor and weapons. The hunt should start no earlier than 1 o'clock in the morning, but no later than 3.</eng>
-		<ukr>Ден знає, де можна дістати калібрувальні інструмент, але щоб він поділився цією інформацією, потрібно дещо зробити. Неподалік влаштувався контролер, який докучає всім сталкерам. Вбити його ніхто не зміг через сильний псі-вплив. Ден запропонував влаштувати нічне полювання на цього контрика. Для початку треба роздобути перешкодозахищений ПНБ, без нього підібратися до цілі не вийде. Також мисливцям необхідно принести по три ремонтних набори для броні і зброї. Час початку полювання: не раніше години, але й не пізніше трьох годин ночі.</ukr>
+		<ukr>Ден знає, де можна дістати калібрувальні інструменти, але щоб він поділився цією інформацією, потрібно дещо зробити. Неподалік влаштувався контролер, який докучає всім сталкерам. Вбити його ніхто не зміг через сильний псі-вплив. Ден запропонував влаштувати нічне полювання на цього контрика. Для початку треба роздобути перешкодозахищений ПНБ, без нього підібратися до цілі не вийде. Також мисливцям необхідно принести по три ремонтних набори для броні і зброї. Час початку полювання: не раніше першої години, але й не пізніше третьої години ночі.</ukr>
 		<pln>Dan wie, gdzie można zdobyć narzędzia do kalibracji. Ale by podzielił się tą informacją, trzeba coś zrobić. Nieopodal osiedlił się kontroler, który dokucza wszystkim stalkerom. Nikt go nie może zabić z powodu silnego oddziaływania psionicznego. Dan zaproponował urządzić nocne polowanie na tego kontrolera. Na początek trzeba się wystarać o PNW "Cyfrowy" (przeciwzakłóceniowy), bez niego nie uda się dobrać do celu. Także łowcom trzeba przynieść po trzy zestawy remontowe dla pancerzy i broni. Początek polowania: nie wcześniej niż pierwsza w nocy, ale też nie później niż trzecia w nocy.</pln>
 	</string>
 	<string id="docent_detail">
@@ -267,7 +267,7 @@
 	<string id="saharov_obrazec">
 		<rus>Профессор Сахаров попросил раздобыть образцы ткани биомассы для исследования испускаемых ею токсичных бактерий. По слухам, этих существ можно встретить в Тёмной Лощине. Необходимо добыть по меньшей мере 15 образцов-отростков. К тому же, надо ещё найти рабочий микроскоп в Х-10. Видимо, отдохнуть сегодня не получится.</rus>
 		<eng>Professor Sakharov has asked for samples of biomass tissue to study the toxic bacteria it emits. According to rumors, these creatures can be found in Darkscape. I need to find 15 samples. Plus, I still have to find a working microscope in X-10. Looks like I won't get any rest tonight.</eng>
-		<ukr>Професор Сахаров попросив роздобути зразки тканини біомаси для дослідження токсичних бактерій, які вони випускають. З чуток, цих істот можна зустріти у Темної Лощині. Необхідно добути щонайменше 15 зразків-відростків. До того ж, треба ще знайти робочий мікроскоп у Х-10. Мабуть, відпочити сьогодні не вийде.</ukr>
+		<ukr>Професор Сахаров попросив роздобути зразки тканини біомаси для дослідження токсичних бактерій, які вони випускають. З чуток, цих істот можна зустріти у Темній Лощині. Необхідно роздобути щонайменше 15 зразків-відростків. До того ж, треба ще знайти робочий мікроскоп у Х-10. Мабуть, відпочити сьогодні не вийде.</ukr>
 		<pln>===Profesor Sacharow poprosił o zdobycie próbek tkanek biomasy, żeby zbadać wydzielane przez nią toksyczne bakterie. Według plotek, te istoty można spotkać w Mrocznym Parowie. Koniecznie trzeba zdobyć co najmniej 15 próbek. Naukowcom potrzebna jest też fotografia biomasy do ich bazy danych - zrobię przy okazji. Warunki fotografowania: mutant powinien być sfotografowany w dużym planie, w całej okazałości, powinien całkowicie mieścić się w kadrze, ale bez zoomu, dlatego optymalny dystans do celu to 5-10 metrów. Poza tym, trzeba jeszcze znaleźć działający mikroskop w X-10. Najwyraźniej, dzisiaj sobie nie odpocznę.</pln>
 	</string>
 	<string id="sviblov_ugroza">
@@ -1607,7 +1607,7 @@
 			Темна Долина - 0, 2 \n
 			Армійські Склади - 0, 1 \n
 			Нерозвідана Земля - 2, 3 \n
-			Лабіриет - 2, 3 \n
+			Лабіринт - 2, 3 \n
 			Забутий Ліс - 0, 4 \n
 			АТП - 1, 2 \n
 			Янтар - 0, 2 \n
@@ -2244,7 +2244,7 @@
 	<string id="kostya_agroprom_taynik4">
 		<rus>Тайник на Агропроме. К северу от центрального комплекса у логова тушканов в кусту.</rus>
 		<eng>Stash in Agroprom. To the north of the central complex, at the den of tushkano, in the bush.</eng>
-		<ukr>Схованка на Агропромі. На північ від центрального комплексу в лігві тушканов в кущі.</ukr>
+		<ukr>Схованка на Агропромі. На північ від центрального комплексу в лігві тушканів у кущі.</ukr>
 		<pln>Schowek w Agropromie. Na północ od centralnego kompleksu, przy gnieździe tuszkanów, w krzakach.</pln>
 	</string>
 	<string id="kostya_agroprom_taynik5">

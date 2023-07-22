@@ -651,15 +651,15 @@
 		<pln>===Найдена карта из колоды Кузнецова, %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_long_shot">
-		<rus>Подтверждённых убийств монолитовцев: %%c[sms_red]%d%%c[default] из %d</rus>
-		<eng>Confirmed Monolith kills: %%c[sms_red]%d%%c[default] of %d</eng>
+		<rus>Подтверждённых убийств монолитовцев: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
+		<eng>Confirmed Monolith kills: %%c[sms_red]%d%%c[default] of %d, distance %d m</eng>
 		<ukr>Підтверджено вбивств монолітівців: %%c[sms_red]%d%%c[default] із %d, дистанція %d м</ukr>
 		<fra>===Vous avez frappé une bouteille: %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку: %%c[sms_red]%d%%c[default] из %d</pln>
 	</string>
 	<string id="sms_vihlop_camo_dead">
 		<rus>Подтверждённых убийств из «Выхлопа»: %%c[sms_red]%d%%c[default] из %d, дистанция %d м</rus>
-		<eng>Confirmed kills with a Vykhlop: %%c[sms_red]%d%%c[default] of %d</eng>
+		<eng>Confirmed kills with a Vykhlop: %%c[sms_red]%d%%c[default] of %d, distance %d m</eng>
 		<ukr>Підтверджених вбивств із «Вихлопа»: %%c[sms_red]%d%%c[default] з %d, дистанція %d м</ukr>
 		<fra>===Vous avez frappé une bouteille: %%c[sms_red]%d%%c[default] de %d</fra>
 		<pln>===Вы попали в бутылку: %%c[sms_red]%d%%c[default] из %d</pln>
